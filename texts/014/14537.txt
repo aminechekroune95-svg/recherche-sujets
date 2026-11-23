@@ -1,0 +1,303 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1438445, "at": "2026-11-23T09:31:52+00:00"}
+Évaluation
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+L’île de Samsø
+L’ile de Samsø est une petite île danoise située à l’est du Jutland, dans le détroit de
+Kattegat. En 1997, cette île est devenue la première île à énergie durable du Danemark
+et a atteint l’autosuffisance énergétique en dix ans.
+Document 1 : Samsø, une île laboratoire
+« Les premières mesures ont été d’assurer une production électrique par
+11 éoliennes terrestres réparties en trois parcs puis 10 grandes éoliennes off-shore
+à 3 km des côtes. Un relais électrique collecte la production de chaque parc et la
+dispache à la fois vers les habitations de l’île, jusqu’à satisfaction des besoins, et
+vers le réseau national danois. La balance est très nettement en faveur des
+exportations : trois quarts des 105 000 MWh annuels vont approvisionner le réseau
+national. »
+Extrait d’un article de Planètes Énergies, 21 février 2018
+
+Document 2 : Caractéristiques d’une éolienne
+Le physicien allemand Albert Betz affirme que 60 %
+seulement de l’énergie cinétique du vent est
+transformée en énergie mécanique au niveau des
+pâles de l’éolienne.
+Énergie cinétique du vent : 17 630 MWh
+
+Diamètre du rotor : 110 m
+Hauteur totale : 150 m
+Énergie moyenne produite par an : 4 200 MWh
+
+1- Schématiser la chaîne énergétique d’une éolienne.
+2- À l’aide des informations du document 2, montrer que l’énergie reçue par une
+éolienne est de 10 578 MWh.
+
+3- En déduire le rendement d’une éolienne présente sur l’île de Samsø.
+4- Montrer que les onze éoliennes terrestres présentes sont suffisantes pour satisfaire
+les besoins en énergie électrique de l’île de Samsø.
+5- L’île de Samsø exporte son énergie électrique sur le territoire. Citer un avantage et
+un inconvénient de cette exportation. Une justification est attendue pour chacune des
+réponses apportées.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les trois documents suivants :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+-10
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+légère
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+De la radiumthérapie à la curiethérapie
+En décembre 1898, Marie et Pierre Curie découvrent un nouvel élément chimique
+qu’ils appellent « radium ». Pierre Curie et Henri Becquerel publient en 1901 un article
+relatant les effets physiologiques du rayonnement du radium.
+Dans les années 1910, Marie Curie, qui dirige alors l’Institut du Radium développe,
+avec le Dr. Regaud qui dirige l’Institut Pasteur, la « curiethérapie ». C’est une méthode
+qui consistait à irradier localement une tumeur cancéreuse en introduisant de fines
+aiguilles contenant du radium.
+L’objectif de l’exercice est de comprendre le principe d’une radiothérapie, la
+curiethérapie.
+Document 1. Les débuts de la curiethérapie
+Les médecins avaient très vite compris que les rayonnements ionisants tuaient plus
+facilement les cellules cancéreuses que les cellules saines, bien qu'ils n'aient pas
+su pourquoi. Mais il y eut un long chemin à parcourir avant qu'ils ne parviennent à
+optimiser les doses de ces rayonnements tout en minimisant les risques pour les
+patients et les opérateurs. À l'âge héroïque, il n'était pas possible de calculer la dose
+de rayonnement émise et les médecins recouraient le plus souvent à une irradiation
+massive aux rayons X d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur. Pour les tumeurs traitées par
+radioactivité, on employait des sels de radium, d'abord contenus dans des tubes en
+verre puis dans des aiguilles en platine, placés contre les tumeurs (ou à l'intérieur)
+ce qui limitait leur usage aux cancers accessibles de l'extérieur et de petite taille
+(cancers du sein, de la peau, du col de l'utérus).
+Source : d’après www.futura-sciences.com, dossier radioactivité : les pionniers
+
+Aiguilles contenant les sels de radium
+utilisées en curiethérapie dans les années 1910
+Source : http://www.jeanboudou.fr/blog/la-grande-decouverte-des-curie
+
+Le radium est un élément radioactif. On estime aujourd’hui sa demi-vie à 1622 ans.
+1. À partir de vos connaissances, expliquer ce qu’est un élément radioactif.
+2. Donner la définition de la demi-vie d’un élément radioactif.
+3. À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre copie :
+La curiethérapie a été utilisée dès le début du XXème siècle pour soigner des cancers,
+car :
+3a. Les rayonnements produits empêchent les récidives de la tumeur.
+3b. Les rayonnements produits détruisent les cellules des tumeurs.
+3c. Les rayonnements produits pouvaient être facilement dosés et localisés
+avec précision sur la tumeur.
+3d. Les rayonnements produits provoquent uniquement une nécrose des
+cellules cancéreuses.
+
+Document 2. La méthode actuelle de curiethérapie de la prostate
+La curiethérapie de la prostate consiste à installer directement dans l’organe des
+implants radioactifs constitués d'une source radioactive enrobée dans une capsule
+de titane. Un radioélément utilisé est l'iode-125. De 40 à 130 implants sont installés
+dans la prostate, le nombre étant déterminé par le volume de la prostate à traiter.
+Ces implants restent à demeure.
+
+Implants contenant de l’iode125 utilisés en curiethérapie de
+Radiographie du bassin d’un patient traité par
+la prostate
+curiethérapie. Les implants apparaissent sous
+forme de bâtonnets blancs.
+Évolution de la radioactivité des implants en fonction du temps
+Pourcentage
+de radioactivité
+restante (%)
+
+Temps
+(semaines)
+
+Source : d’après http://www.laradioactivite.com/site/pages/Projet_Curietherapie.htm
+
+Document 3. Radioprotection après la pose des implants radioactifs lors d’une
+curiethérapie de la prostate
+La plupart des rayonnements émis par l'iode-125 ont beau être essentiellement
+absorbés dans l’organe à traiter, une fraction touche néanmoins des structures
+proches, comme le rectum ou la vessie par exemple. À cette inquiétude légitime
+pour le patient, s'ajoute un risque pour l'entourage tant que la radioactivité n'a pas
+décru suffisamment : le patient est lui-même radioactif. Quelques précautions
+permettent de réduire le risque. Voici les conseils donnés par l’Institut National du
+Cancer :
+« En cas de curiethérapie par implants permanents (iode-125), la radioactivité des
+sources implantées diminue progressivement dans le temps. Les risques pour
+l’entourage sont jugés inexistants, les rayonnements émis étant très peu pénétrants
+et donc arrêtés presque totalement par le corps lui-même.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 6 mois qui suivent l’implantation. En pratique,
+vous devez notamment éviter les contacts directs et prolongés avec les jeunes
+enfants (par exemple, les prendre sur vos genoux) et les femmes enceintes. »
+Source : d’après https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie/Quel-deroulement
+
+4. À partir de l’exploitation des documents 2 et 3 et de vos connaissances :
+4a. Réaliser sur le document en annexe la courbe de décroissance radioactive de
+l’iode-125 représentant le pourcentage de l’activité restante en fonction du temps.
+4b. Déterminer le temps de demi-vie de l’iode-125.
+4c. L’activité des implants utilisés en curiethérapie est considérée comme faible
+lorsque l’activité restante est inférieure à 15 % de l’activité initiale. Déterminer au bout
+de combien de temps les implants auront une activité faible.
+4d. Justifier la durée des précautions à prendre par le patient concernant son
+entourage.
+5. À l’aide de l’ensemble des documents, donner un intérêt d’utiliser l’iode-125 plutôt
+que le radium pour la curiethérapie. Une réponse argumentée est attendue.
+
+Document réponse à rendre avec la copie
+Exercice 3
+De la radiumthérapie à la curiethérapie
+
+Question 4a)
+
+% de radioactivité restante
+
+Temps (en semaine)

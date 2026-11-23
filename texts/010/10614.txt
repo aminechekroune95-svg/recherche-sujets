@@ -1,0 +1,278 @@
+{"pages": 8, "method": "pdftotext", "bytes": 680392, "at": "2026-11-23T09:22:15+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Qui peut griller une tranche de pain en pédalant ? (10 points)
+Un court-métrage de l’Académie des arts de Suède a attiré l’attention de plus de 1 million
+d’internautes. Il présente un défi soumis à Robert Förstemann, un coureur cycliste allemand
+de presque 100 kg, spécialiste de la piste. Le défi qui lui était proposé consistait à faire griller
+une tranche de pain avec la seule énergie qu’il produisait en pédalant avec ses
+impressionnantes cuisses de 74 centimètres de circonférence.
+L’énergie musculaire du cycliste est transformée en électricité grâce à une dynamo actionnée
+par la rotation du pédalier. L’ensemble alimente un grillepain. Pour que l’appareil fonctionne, il faut que le
+champion produise une puissance de 700 W. Au départ,
+Robert semble sûr de lui. Au fil du test, le rythme
+cardiaque de l’athlète augmente, son souffle s’accélère
+et son visage se creuse sous l’intensité de l’effort qu’il
+produit. Deux minutes plus tard, le cycliste a fourni au
+grille-pain 0,021 kWh (76 kJ) suffisant pour sortir une
+tranche légèrement brunie. Le cycliste s’effondre,
+incapable de continuer, et s’allonge sur le sol pour
+récupérer de l’intense effort qu’il vient de produire.
+D’après Le Monde (Roland Lehoucq - 14/07/15)
+http://cycling.today/
+L’objectif de cet exercice est d’étudier la performance physique de Robert Förstemann en la
+comparant avec la consommation énergétique d’un grille-pain. Enfin, on cherche à évaluer la
+quantité de sucre à ingérer pour compenser l’énergie fournie lors de cet effort.
+
+1. Performance de Robert Förstemann
+1.1. Schématiser la chaîne énergétique de la dynamo du vélo utilisé par Robert Förstemann.
+On suppose que le rendement de cette dynamo n’est pas de 100 %.
+1.2. Le grille-pain est conçu pour fonctionner normalement sous une tension de 230 V et
+pour fournir une puissance de 700 W. Montrer que la valeur de l’intensité du courant qui
+traverse le grille-pain en fonctionnement normal est d’environ 3 A.
+1.3. Nommer l’effet responsable de l’élévation de température dans le grille-pain. Déduire de
+la question précédente la valeur de la résistance R du circuit électrique de cet appareil.
+Une simulation de la caractéristique du circuit électrique du grille-pain est donnée cidessous. Elle relie la tension U appliquée à l’intensité du courant électrique I qui traverse le
+circuit électrique du grille-pain.
+30,0
+
+tension U (V)
+
+25,0
+20,0
+15,0
+10,0
+5,0
+0,0
+
+intensité du courant I (mA)
+
+1.4. Indiquer la loi qui modélise la caractéristique du circuit électrique du grille-pain,
+retrouver la valeur de la résistance du circuit électrique du grille-pain et comparer le résultat
+à celui de la question précédente.
+1.5. À partir des données contenues dans l’article du Monde, déterminer la valeur de la
+puissance moyenne fournie par Robert Forstemann. Estimer, en prenant R = 76 Ω, la valeur
+moyenne de la tension et de celle de l’intensité du courant de fonctionnement du grille-pain
+durant la performance. Commenter.
+1.6. Estimer, en effectuant un bilan énergétique, la valeur de la vitesse maximale que
+pourrait atteindre le cycliste à vélo initialement immobile en 5 secondes sur un terrain plat
+en développant une puissance de 630 W. Commenter.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie, même si elle
+n’a pas abouti. La démarche est évaluée et nécessite d’être correctement présentée.
+
+2. Récupérer après l’effort
+Après un effort intense, tel que celui fourni par Robert Förstemann, l'organisme a besoin de
+glucides simples tels que le saccharose, appelés sucres rapides, disponibles rapidement pour
+reconstituer les ressources en énergie de l'organisme. Dans cette partie, nous cherchons à
+déterminer la quantité nécessaire de sucre (saccharose) à ingérer pour récupérer après l’effort
+fourni par Robert Förstemann.
+Le saccharose, sucre de table habituel, est un composé organique de formule brute
+C12H22O11. Son assimilation par l’organisme s’effectue après son hydrolyse (réaction avec
+l’eau du saccharose) qui forme du glucose et du fructose, deux sucres de même formule
+brute.
+La molécule de glucose peut adopter une configuration à chaîne ouverte ou cyclique, comme
+l’illustre les deux représentations du glucose suivantes :
+
+D’après http://www.societechimiquedefrance.fr/saccharose.html
+Données :
+1 cal = 4,18 J ;
+masses molaires atomiques (en g.mol-1) : M(O) = 16 ; M(C) = 12 ; M(H) = 1 ;
+une boîte de sucre de masse nette m = 1,0 kg contient 168 morceaux ;
+l’énergie molaire fournie par la combustion (oxydation complète) du saccharose est
+5,8×106 J·mol-1 ;
+bandes d’absorption IR de quelques liaisons chimiques :
+famille
+
+liaison
+
+nombres d’onde (cm-1)
+
+cétone
+
+1705 - 1725
+
+Ctri – H
+
+2700 -2900
+
+1720 - 1740
+
+aldéhyde
+
+acide
+carboxylique
+
+O–H
+
+2500 - 3200
+
+1740 - 1800
+
+ester
+
+1730 - 1750
+
+O – Hlié
+
+3200 - 3450
+
+O – Hlibre
+
+3600 - 3700
+
+alcool
+
+2.1. Le spectre infrarouge obtenu par analyse d’un échantillon de glucose est fourni cidessous. Déduire de ce spectre la configuration majoritaire du glucose dans l’échantillon
+étudié. Justifier.
+
+Transmitance %
+
+%
+
+Nombre d’onde cm-1
+4000
+
+3000
+
+2000
+
+1500
+
+1000
+
+D’après Nationnal Institute of Advanced Industrial Science and technology –
+htpp://sdbs.aist.go.jp
+2.2. Écrire l’équation de la réaction modélisant l’hydrolyse du saccharose.
+2.3. Vérifier que l’oxydation complète d’un morceau de sucre libère une énergie d’environ
+24 kcal.
+2.4. En déduire la quantité de sucre que Robert Förstemann doit ingérer pour compenser
+l’effort réalisé en supposant que l’énergie musculaire a été intégralement transférée au
+grille-pain. Commenter.
+
+PARTIE B
+Ressources d’énergie renouvelables (10 points)
+Les ressources d’énergie renouvelables (solaire, éolien, etc…) présentent un problème
+d’intermittence car elles sont dépendantes des phénomènes météorologiques. Pour résoudre
+ce problème une stratégie consiste à stocker l’énergie produite dans les périodes favorables
+afin de pouvoir la réutiliser quand les conditions météorologiques ne permettent pas une
+production suffisante.
+On propose dans cette partie d’étudier deux stratégies de stockage :
+- un stockage chimique par transformation du dioxyde de carbone de l’atmosphère en
+méthane ;
+- un stockage physique à l’aide du remplissage d’un bassin de rétention d’eau.
+I. Étude du stockage chimique de l’énergie
+Le Professeur K. Hashimoto (Université de Sendai, Japon) a développé un procédé qui
+transforme le dioxyde de carbone en méthane en utilisant un électrolyseur à eau de mer et des
+catalyseurs. Les électrolyseurs sont alimentés par l’énergie solaire.
+Le méthane produit peut ensuite servir de carburant afin de faire fonctionner un générateur
+électrique. Ce dernier fonctionne sur le principe suivant : l’énergie thermique libérée par la
+combustion du méthane permet de produire de la vapeur d’eau qui actionne une turbine. Un
+alternateur permet alors de produire de l’électricité. Un schéma de principe du dispositif est
+représenté ci-dessous.
+
+Il se produit dans les différentes étapes les transformations chimiques modélisées par les
+réactions chimiques d’équation :
+
+étape 2 : CO2 (g) + 4 H2 (g) → CH4 (g) + 2 H2O (g) ;
+
+étape 3 : combustion complète du méthane.
+
+étape 1 : H2O ( ) → H2 (g) + O2 (g) ;
+
+Problématique 1 : en quoi le procédé de transformation du dioxyde de carbone en
+méthane peut-il permettre de répondre aux difficultés liées au caractère intermittent des
+énergies renouvelables ?
+1. Justifier pour chacune des étapes 2 et 3 du procédé si elle est endothermique ou
+exothermique.
+2. Écrire l’équation de la réaction de combustion complète du méthane de formule brute CH 4.
+On cherche à estimer le pouvoir calorifique massique du méthane. Pour cela on mesure la
+masse de méthane nécessaire pour porter à l’ébullition une masse d’eau meau = 1,00 kg
+dont la température initiale est Ti = 20,2 °C. La manipulation est réalisée 6 fois avec le
+même dispositif.
+On rappelle que le pouvoir calorifique massique du méthane est défini par la relation :
+
+PC =
+
+Elibérée
+mméthane consommée
+
+avec Elibérée l’énergie libérée lors de la combustion d’une masse de
+
+méthane mméthane consommée .
+Les résultats sont reportés dans le tableau ci-dessous.
+Essais
+N°1 N°2 N°3 N°4 N°5 N°6
+Masse de méthane consommée (en g) 12,1 10,9 11,6 11,0 11,8 10,9
+L’énergie libérée par la combustion peut être déterminée par la relation :
+
+Elibérée = meau  ceau  (Tf − Ti )
+
+avec :
+- ceau la capacité thermique massique de l’eau liquide : ceau = 4,18 kJ·kg-1·K-1.
+- Tf la température finale de l’eau, c’est-à-dire la température d’ébullition de l’eau dans
+les conditions de l’expérience Tf = 100,0 °C.
+Pour effectuer le calcul du pouvoir calorifique massique à partir des résultats expérimentaux, il
+est nécessaire de déterminer une masse expérimentale de méthane consommée. Pour cela,
+on fait la moyenne sur toutes les valeurs de masse (valeurs n°1 à n°6).
+3. Montrer, en détaillant les calculs, que la valeur expérimentale obtenue pour le pouvoir
+calorifique massique PC du méthane est de l’ordre de 29 MJ·kg-1.
+
+La valeur de référence du pouvoir calorifique massique du méthane est 50 MJ·kg -1.
+4. Proposer une explication pour interpréter l’écart entre la valeur expérimentale du pouvoir
+calorifique massique du méthane et sa valeur de référence.
+On considère que :
+- la production d’un kilogramme de méthane par les étapes 1 et 2 du procédé nécessite
+117 MJ d’énergie intermittente ;
+- seuls 25 % de l’énergie thermique libérée par la combustion du méthane est transformée
+en électricité.
+5. Répondre à la problématique 1 en déterminant la proportion d’énergie intermittente pouvant
+être considérée comme ayant été stockée par ce procédé. On utilisera la valeur de référence
+du pouvoir calorifique massique du méthane.
+II. El Hierro : île pionnière de l’énergie renouvelable
+Le pompage-turbinage est une technique de stockage de l’énergie électrique permettant de
+palier l’intermittence des ressources d’énergie renouvelables. Lorsque les conditions
+météorologiques sont favorables, l’excédent d’énergie produit par les éoliennes est utilisé pour
+faire fonctionner des pompes permettant de remplir des retenues d’eau situées en altitude.
+Lorsque la production d’électricité devient insuffisante, les retenues d’eau sont ouvertes. Après
+une chute de 650 m à travers une conduite forcée, l’eau actionne des turbines
+hydroélectriques qui entrainent un alternateur afin de produire de l’électricité.
+
+Source : Futura-Sciences https://www.futura-sciences.com/planete/actualites/developpement-durableile-el-hierro-bientot-totalement-autonome-energie-44372/
+
+Problématique 2 : en quoi les infrastructures de l’île de El Hierro lui permettent-elle de
+s’affranchir des énergies fossiles ?
+On s’intéresse à l’eau contenue dans le réservoir supérieur qui chute à travers la conduite
+forcée pour remplir le bassin inférieur. Le volume d’eau utile considéré est donc égal au
+
+volume du réservoir inférieur Vinf et la masse de ce volume d’eau utile, notée M, chute via la
+conduite du point A au point B (voir schéma ci-dessous).
+
+Données :
+- altitude du bassin supérieur : zsup = 700 m
+- volume du bassin inférieur : Vinf = 150 000 m3
+- altitude du bassin inférieur : zinf = 50,0 m
+- accélération de la pesanteur : g = 9,81 m.s-2
+- masse volumique de l’eau : ρeau = 1000 kg.m-3
+- consommation annuelle sur l’île d’El Hierro en 2018 : E = 42,0 GWh
+- 1,000 Wh = 3600 J
+On se place dans le référentiel terrestre, supposé galiléen, muni d’un axe Oz orienté vers le
+haut. L’énergie potentielle de pesanteur est prise nulle à l’altitude z = 0.
+6. Exprimer la variation de l’énergie potentielle de pesanteur ΔEpp de cette masse M d’eau lors
+de sa chute à travers la conduite forcée, en fonction de ρeau, Vinf, g, zsup et zinf. Montrer que
+la valeur de ΔEpp est de l’ordre de − 950 GJ.
+7. En considérant que l’eau est immobile dans le réservoir supérieur et que la chute à travers
+la conduite s’effectue sans frottement, déterminer la valeur de l’énergie cinétique de cette
+masse M d’eau lorsqu’elle actionne les turbines.
+8. Sachant que le rendement de la phase de turbinage est de 90 %, calculer la valeur de
+l’énergie électrique que peut fournir la centrale hydro-électrique.
+9. Répondre à la problématique 2 en déterminant le nombre de jours d’autonomie sans vent
+que représente la réserve d’eau des bassins.

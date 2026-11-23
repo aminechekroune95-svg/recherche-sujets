@@ -1,0 +1,220 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1238487, "at": "2026-11-23T09:29:01+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Sur 10 points
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- À l’aide du document 2, déterminer comment varie la puissance dissipée par
+effet Joule si l’intensité du courant électrique est divisée par deux. Écrire sur
+votre copie le numéro de la proposition correcte.
+P1 : elle ne varie pas
+
+P2 : elle est divisée
+par 2
+
+P3 : elle est divisée
+par 4
+
+P4 : elle est multipliée
+par 4
+
+6- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne
+à haute tension.
+7- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+8- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+9- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+10- Repérer l’intervalle où la fréquence dépasse 50 Hz. Conclure sur l’équilibre entre
+production et consommation électrique durant ces heures.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Les glaciers
+Sur 10 points
+Les glaciers sont des empilements de glace plus ou moins étendus qui se forment
+par le tassement de couches de neige accumulées. Leur formation nécessite à la fois
+des précipitations et des températures suffisamment faibles pour former de la neige.
+Ils couvrent près de 16 millions de km2 et représentent 60 à 70 % de l’eau douce
+terrestre.
+En 2024, les 414 glaciers répertoriés en France sont attentivement étudiés et
+surveillés par les scientifiques, mais également par les alpinistes, parapentistes et
+touristes, qui s’inquiètent de leur évolution, étroitement liée au réchauffement
+climatique actuel.
+Document 1 – Recul du front de trois grands glaciers du Massif du Mont
+Blanc depuis la fin du 19ème siècle
+
+Source : Vallot, Service des Eaux et Forêts, Observatoire GLACIOCLIM
+
+1- À l’aide du document 1, montrer en quoi l’étude des glaciers actuels dans le
+Massif du Mont Blanc témoigne de l’existence d’un réchauffement climatique
+récent.
+Document 2 – Albédo sur différentes surfaces
+Type de surface
+
+Albédo (0 à 1)
+
+Surface d’un lac
+
+0,02 à 0,04
+
+Surface de la mer
+
+0,05 à 0,15
+
+Sol sombre
+
+0,05 à 0,15
+
+Glace
+
+0,60 environ
+
+Neige tassée
+
+0,40 à 0,70
+Source : d’après Wikipédia
+
+2- Définir l’albédo terrestre.
+3- À l’aide du document 2, expliquer en quoi la fusion des glaciers accélère
+l’augmentation de la température terrestre.
+4- Décrire les différentes projections climatiques présentées dans le document 3
+page suivante concernant les fluctuations du front du glacier de la Mer de Glace.
+5- Établir un lien entre les émissions de gaz à effet de serre liées aux activités
+anthropiques, le forçage radiatif et le recul du glacier de la Mer de Glace.
+
+Document 3 – Fluctuations du front du glacier de la Mer de Glace dans le
+passé et dans le futur pour trois scénarios considérés
+Les scénarios et modèles climatiques fournissent une large fourchette de l’évolution
+du climat. Ils dépendent essentiellement du scénario climatique considéré (RCP),
+qui dépend notamment des émissions de gaz à effet de serre à l’échelle de
+l’humanité. Par exemple, le scénario RPC 2,6 signifie que les émissions de gaz à
+effet de serre entraînent un forçage radiatif de 2,6 W/m2 supplémentaire.
+
+La variation est exprimée en mètres par rapport à la position actuelle.
+Source : Christian Vincent, Vincent Peyaud, Olivier Laarman, Delphine Six, Adrien Gilbert,
+et al.. Déclin des deux plus grands glaciers des Alpes françaises au cours du XXI e siècle :
+Argentière et Mer de Glace
+
+Document 4 – Extension de la Mer de Glace
+
+La Mer de Glace durant l’été 2024
+L’accès à la Mer de Glace a été réaménagé plusieurs fois afin que 450 000
+touristes par an puissent parvenir au glacier. Ils empruntent le petit train électrique
+reliant la gare de Chamonix à la station de Montenvers, le point d’accès à la Mer
+de Glace. À la sortie du train, il faut désormais monter dans une télécabine puis
+descendre près de 600 marches pour atteindre enfin le glacier et visiter la grotte
+creusée dans la glace depuis 1946 par la famille Claret.
+Des bâches blanches géotextiles ont été posées sur le glacier. Elles favorisent
+l’albédo en réfléchissant la lumière, tout en maintenant en dessous une
+température inférieure à la température ambiante, ce qui aide donc à la
+préservation de la neige.
+Source : Photos personnelles
+
+6- En exploitant l’ensemble des documents de cet exercice et ses connaissances
+personnelles, présenter les différents problèmes soulevés par le recul des
+glaciers continentaux tels que ceux du Massif du Mont Blanc.
+7- En exploitant l’ensemble des documents de cet exercice et ses connaissances
+personnelles, proposer des solutions possibles pour limiter le recul des glaciers.

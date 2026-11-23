@@ -1,0 +1,410 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1590552, "at": "2026-11-23T09:46:03+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+215 − 1 = 32767
+215 = 32768
+216 − 1 = 65535
+216 = 65536
+Question A.2
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A.3
+La couleur « bleu roi » a pour code RGB (65,105,225), sa représentation en hexadécimal est :
+#2852C2
+#4169E1
+#33A5C61
+#C3T622
+Question A.4
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A.5
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+
+Question A.6
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+232 − 1
+2 × 32
+
+Thème B : types construits
+Question B.1
+Quelle est la valeur de l'expression [(i,i+1) for i in range(2)] ?
+[0,1,1,2]
+[(1,2),(2,3)]
+[(0,1),(1,2)]
+[[0,1],[1,2]]
+Question B.2
+Voici une définition incomplète d'une fonction qui renvoie le couple du quotient et du reste de la division
+euclidienne :
+def divEuclid(n,d):
+'''renvoie le couple formé du quotient et du reste dans la division de
+n par d'''
+q = 0
+while n-d > 0:
+q = q + 1
+n = n - d
+.......
+Par quelle instruction faut-il remplacer la ligne en pointillés pour que l'appel
+(quotient,reste) = divEuclid(15,6)
+affecte les valeurs attendues ?
+(q,n)
+(quotient,reste)
+return (q,n)
+return (quotient,reste)
+Question B.3
+Après l'affectation suivante :
+alphabet = [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L',
+'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y',
+'Z' ]
+quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+
+Question B.4
+On considère le script suivant :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+total = 0
+for n in billes.XXXXXXX():
+total = total + n
+Par quoi faut-il remplacer XXXXXXX dans ce script pour qu'à la fin de son exécution la variable total contienne
+le nombre total de billes ?
+keys
+values
+items
+numbers
+Question B.5
+Quelle est la valeur de l'expression [[0] * 3 for i in range(2)] ?
+[[0,0], [0,0], [0,0]]
+[[0,0,0], [0,0,0]]
+[[0.000], [0.000]]
+[[0.00], [0.00], [0.00]]
+Question B.6
+On définit L
+L[0][2] ?
+
+=
+
+[[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de
+
+Thème C : traitement de données en tables
+Question C.1
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C.2
+On définit la variable suivante : lettres = {"a": 1, "b": 2, "c": 3}.
+Quelle est la valeur de l'expression list(lettres.keys()) ?
+[a,b,c]
+[1,2,3]
+["a","b","c"]
+{"a": 1, "b": 2, "c": 3}
+Question C.3
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour asssurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C.4
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+Question C.5
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre':
+124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a-t-elle pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+
+T[3]['nombre']
+T[3,'nombre']
+
+Question C.6
+On exécute le code suivant :
+dict = { "alexandre" : 17, "mehdi" : 18, "jeanne" : 16,
+"charlotte" : 19, "celina" : 18, "noé" : 19 }
+def f(dic):
+for cle, valeur in dic.items() :
+if valeur > 18:
+return cle
+Que renvoie l'appel f(dict) ?
+19,19
+"charlotte"
+"charlotte","noé"
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D.2
+Quelle est la fonction principale d’un fichier CSS ?
+Définir le style d’une page web
+Assurer l’interaction entre une page web et l’utilisateur
+Créer une page web dynamique
+Créer un bouton dans une page web
+Question D.3
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D.4
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+
+Question D.5
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot de
+passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D.6
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E.2
+Dans un réseau informatique, que peut-on dire de la transmission de données par paquets ?
+cela empêche l’interception des données transmises
+cela garantit que toutes les données empruntent le même chemin
+cela assure une utilisation efficace des liens de connexion
+cela nécessite la réservation d’un chemin entre l’émetteur et le récepteur
+Question E.3
+Dans la console Linux, quelle commande faut-il exécuter pour effacer le fichier test0.csv ?
+rm test0.cvs
+cp test0.csv
+ls test0.csv
+mv test0.csv
+Question E.4
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.5
+Que permet d’effectuer la commande mkdir dans le shell d'Unix (interpréteur de commandes) ?
+créer un répertoire vide
+créer un fichier vide
+supprimer un répertoire cible
+supprimer un fichier cible
+
+Question E.6
+Laquelle de ces adresses IP v4 n'est pas valide ?
+201.201.123.147
+168.124.211.12
+10.19.9.1
+192.168.123.267
+
+Thème F : langages et programmation
+Question F.1
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F.2
+Dans le programme suivant, la variable A contient un entier strictement positif. Quelle est la valeur numérique
+de la variable i en fin de programme ?
+while 2**i < A :
+i = i + 1
+Que vaut la variable i à la fin de l'exécution ?
+A + 1
+l'exposant de la plus grande puissance de 2 inférieure à A
+l'exposant de la plus petite puissance de 2 supérieure à A
+A - 1
+Question F.3
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F.4
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F.5
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F.6
+On souhaite échanger les contenus de deux variables entières a et b sans utiliser de variable auxiliaire en écrivant
+le code suivant :
+a = a - b
+b = a + b
+a = ......
+Que peut-on écrire à la place des pointillés pour réaliser cet échange ?
+a - b
+a + b
+b - a
+- a - b
+
+Thème G : algorithmique
+Question G.1
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G.2
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G.3
+On définit une fonction de calcul de la moyenne d'une liste de nombres :
+def moyenne(L):
+s = 0
+n = len(L)
+for x in L:
+s = s + x
+return s/n
+Combien cette fonction utilise-t-elle d'additions et de divisions pour calculer la moyenne d'une liste de 7 nombres
+?
+
+Question G.4
+La fonction suivante prend en arguments deux entiers positifs et renvoie leur produit.
+def produit(a,b):
+c = 0
+while i < b:
+#
+i = i + 1
+c = c + a
+return c
+Quelle propriété reste vraie à chaque passage par la ligne marquée d'un # ?
+𝑐 = 𝑎 × (𝑖 + 1)
+𝑐 = 𝑎 × (𝑖 − 1)
+𝑐 =𝑎×𝑖
+𝑐 =𝑎×𝑏
+Question G.5
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇 2
+Question G.6
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1

@@ -1,0 +1,413 @@
+{"pages": 18, "method": "pdftotext", "bytes": 2650966, "at": "2026-11-23T09:28:00+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Croissance exponentielle
+Sur 4 points
+On sait que le nombre de bactéries dans une solution augmente progressivement de
+sorte que chaque heure la quantité de bactéries triple.
+Il y a initialement 200 bactéries.
+Partie A – Première modélisation
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢 le nombre de
+bactéries après 𝑛 heures dans la solution. Sous ces conditions, on a 𝑢 = 200.
+1- Justifier que la suite (𝑢 ) est une suite géométrique et déterminer sa raison.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢 en fonction de 𝑛.
+3- Au bout de combien d’heures, le nombre de bactéries dépassera-t-il 100 000 ?
+Partie B – Seconde modélisation
+Dans cette partie, on suppose que, pour une journée donnée, la quantité de
+bactéries peut être modélisée par la fonction 𝑓 définie sur l’intervalle 0 ; 24 par :
+𝑓(𝑡) = 200 × 3
+où 𝑡 représente le temps écoulé, exprimé en heures.
+1- Calculer la quantité de bactéries au bout de deux heures.
+2- On donne ci-après, dans un repère orthogonal du plan, la courbe représentative
+𝐶 de la fonction 𝑓 sur l’intervalle 0 ; 3 . On a tracé en pointillés la droite
+tangente à 𝐶 au point A d’abscisse 2.
+Avec la précision permise par le graphique, déterminer la valeur de 𝑓’(2) en
+expliquant la démarche. Comment interpréter cette valeur dans le contexte de
+l’exercice ?
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse pour recharger nos batteries
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible mais cela pourrait à terme
+transformer les rizières en unités de production électrique.
+On cherche ici à déterminer si cette technologie peut réellement constituer une
+solution d’avenir.
+Document 1. La photosynthèse et ses caractéristiques
+On cherche à identifier les conditions de la synthèse d’amidon par les feuilles.
+◄ Expérience :
+Sur un pied de géranium panaché*,
+une partie de quelques feuilles est
+masquée par du papier noir et est
+vivement éclairée pendant un certain
+temps.
+Après plusieurs heures, l’une des
+feuilles est débarrassée de son cache
+puis décolorée par de l’éthanol
+bouillant.
+La feuille est ensuite plongée dans une
+boîte de pétri contenant de l’eau iodée.
+L’eau iodée est un indicateur de couleur jaune qui est utilisé pour mettre en évidence
+la présence d’un glucide, l’amidon, au contact duquel elle devient bleu foncé
+* Une feuille panachée n’est pas totalement chlorophyllienne ; l’extrémité de la feuille
+est blanche.
+Source : D’après http://svt.ac-dijon.fr/schemassvt/spip.php?article356
+
+Le schéma ci-contre
+montre le montage
+expérimental au
+niveau d’une feuille
+de géranium
+panaché :
+
+1- En utilisant vos connaissances, indiquer les résultats attendus dans chacune des
+quatre zones de la feuille.
+
+Document 2 – Le principe de fonctionnement de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. Autour
+des racines vivent de très nombreux microorganismes qui se nourrissent de la
+matière organique issue du végétal. La réaction chimique correspondante peut être
+exploitée au sein d’une pile comportant deux électrodes dont l’une est positionnée
+près de la racine de la plante et l’autre en est plus éloignée.
+Cette pile peut délivrer un courant électrique qui transporte de l’énergie. On admet
+que la puissance électrique fournie par une « pile végétale » de cette sorte est
+proportionnelle à la surface que les plantes, exposées au soleil et qui se trouvent
+au voisinage des électrodes, occupent sur le sol.
+On peut estimer qu’une « pile végétale » fournit une puissance de 2,5 W par m² de
+surface de plantes. 1 m² de « pile végétale » suffit pour recharger un smartphone
+en 4 h !
+Source : d’après https://www.futura-sciences.com/planete/actualites/developpementdurable-pile-microbienne-plantes-electricite-demain-42980/#une-pile-microbiennealimentee-par-des-plantes
+
+Données :
+
+La charge d’un smartphone nécessite une énergie de l’ordre de 10 Wh.
+
+Un Watt-heure (Wh) est l’énergie produite par un système qui fournit une
+puissance de 1 Watt pendant 1 heure.
+
+2- Montrer que « pile végétale » de surface 1 m² peut fournir une énergie de 30 Wh
+pour 12 h d’éclairement de la surface végétale.
+L’énergie consommée par un foyer moyen est de l’ordre de 10 kWh pour une journée
+de 12 h d’éclairement.
+3- Déterminer la surface végétale nécessaire pour répondre aux besoins
+énergétiques journaliers d’un foyer moyen.
+4- En vous appuyant sur vos connaissances et sur l’ensemble de l’exercice, rédiger
+un paragraphe argumenté indiquant les intérêts et les limites de l’utilisation de la
+« pile végétale » comme source d’énergie électrique.
+
+Niveau terminale
+Thème « Une histoire du vivant »
+
+L’évolution humaine
+Partie 1
+L’espèce humaine actuelle fait partie du groupe des Primates et est plus
+particulièrement apparentée aux grands singes. On cherche à préciser ses liens de
+parenté avec deux espèces de grands singes, le gorille et le chimpanzé.
+1- Indiquer sur votre copie la lettre correspondant à la proposition exacte :
+Un pourcentage élevé de similitudes génétiques entre deux espèces est un
+argument pour dire que …
+A. l’ancêtre commun aux deux espèces est ancien ;
+B. l’ancêtre commun aux deux espèces est récent ;
+C. l’une des deux espèces est l’ancêtre de l’autre ;
+D. les deux espèces n’ont pas d’ancêtre commun.
+Document 1 : pourcentage des ressemblances dans la séquence du gène de
+la NADH déshydrogénase chez trois espèces de Primates
+
+Espèce
+humaine
+Chimpanzé
+Gorille
+
+Espèce
+humaine
+
+Chimpanzé
+
+Gorille
+
+86,5
+
+87,8
+
+Source : d’après le logiciel Anagène
+
+2- Les arbres 1 et 2 sont deux représentations des liens de parenté entre l’espèce
+humaine (notée « Homme »), le gorille et le chimpanzé.
+Sélectionner, en justifiant le choix, l’arbre en accord avec les données du
+document 1.
+
+Partie 2
+Aujourd’hui il n’existe plus qu’une seule espèce humaine : Homo sapiens. On
+cherche à préciser la parenté d’Homo sapiens avec d’autres espèces du genre
+Homo.
+3- À partir des connaissances, citer un caractère propre au genre Homo, qui
+distingue ses représentants des autres genres d’Hominidés
+Document 2 – L’Homme de Neandertal, notre « cousin » disparu
+L’Homme de Neandertal a vécu en Europe aux côtés des Hommes modernes (Homo
+sapiens) durant plus de 10 000 ans mais sa disparition, il y a environ 30 000 ans, reste
+encore inexpliquée.
+L’étude des gènes des Néanderthaliens suggère que, tout en étant très proches des
+Hommes modernes (Homo sapiens), ils sont suffisamment distants pour que l’on
+puisse considérer qu’il s’agit bien d’une espèce différente de Homo sapiens. D’après
+les études des fossiles et la comparaison de l’ADN des deux espèces, leur dernier
+ancêtre commun aurait vécu il y a environ 400 000 ans.
+Source : d’après Le Monde du 8 mai 2010
+
+Document 3 – Un nouveau venu dans la famille humaine : l’Homme de Denisova
+Pour la première fois, en 2010, une nouvelle espèce humaine a été décrite non pas
+grâce à des données anatomiques, mais d’après des analyses génétiques.
+L’ADN d’un os trouvé dans une grotte de Sibérie, daté d’un peu moins de 40 000 ans,
+appartient à un individu du genre Homo mais ce n’est ni un sapiens, ni un
+néandertalien. Ceci signifie qu’à une époque où les deux espèces du genre Homo
+(sapiens et neandertal) cohabitaient, un proche « cousin » subsistait lui aussi en
+Eurasie : l’Homme de Denisova (Homo denisovensis).
+En comparant son ADN à celui des Hommes modernes (H. sapiens) et des
+néandertaliens, les chercheurs ont constaté que les différences étaient deux fois plus
+nombreuses entre le nouvel homininé et nous que celles qui nous séparent de
+Neandertal. Ceci signifie qu’il faut remonter à plus d’un million d’années pour retrouver
+l’ancêtre commun à l’Homme de Denisova, à Neandertal et à l’Homme moderne
+(H. sapiens).
+Source : d’après Pour La Science n°386
+
+4- À l’aide des connaissances et des informations des documents 2 et 3, justifier
+l’affirmation suivante : « L’évolution humaine n’est pas linéaire (au sens où :
+Espèce 1 => Espèce 2 => Espèce 3 => …), mais buissonnante ».
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+Comment les scientifiques savent ?
+Les évidences apparentes et les récits non scientifiques ont d’abord conduit à de
+premiers récits sur l’origine de la Terre amenant à diverses estimations de son âge.
+Le savoir actuel est bien éloigné de ces premiers récits. Le scientifique du XXIe siècle
+n’est pas né avec ce savoir. Celui-ci s’est construit par le travail des chercheuses et
+chercheurs qui ont pris en compte les nouvelles observations et découvertes
+permises par l’évolution technologique des instruments d’observation dans le cadre
+d’une démarche scientifique.
+De même, si nous savons aujourd’hui qu’il n’y a pas d’habitants sur la Lune (les
+sélénites parfois imaginés depuis l’antiquité), ce savoir se fonde sur une
+interprétation rigoureuse des observations.
+Il s’agit ici de se pencher sur ces questions en remobilisant des éléments de l’histoire
+des sciences sur l’âge de la Terre et la présence de vie sur la Lune.
+Partie 1 – l’âge de la Terre
+1- Parmi les étapes de la détermination de l’âge de la Terre mentionnées dans le
+document 1 (page suivante), indiquer quelle est, historiquement, la première
+tentative d’explication conforme à une démarche scientifique.
+2- Présenter des arguments que les géologues et naturalistes du XIXème siècle ont
+opposé aux physiciens de leur temps pour contredire l’âge calculé par lord
+Kelvin ?
+3- Citer le phénomène physique majeur, découvert en fin du XIXème siècle, qui a
+permis de déterminer, en 1956, que l’âge de la Terre est voisin de 4,5 milliards
+d’années. Donner le nom d’un ou d’une scientifique ayant contribué à la
+compréhension de ce phénomène physique majeur.
+
+Document 1 – L’âge de la Terre dans l’histoire
+
+Source : D’après le livre « Comment les scientifiques savent… ? » CNRS éditions et
+Planète Terre
+
+Partie 2 – la Lune : un monde habitable ?
+Depuis fort longtemps, les scientifiques en observant les phases de la Lune avaient
+remarqué la présence de vastes étendues de couleur sombre. En interprétation de
+cette observation, ils posèrent l’hypothèse de la présence d’eau liquide et de mers
+sur la Lune. Aussi, certaines personnes comme l'astronome allemand Franz von
+Gruithuisen en 1824, ont considéré la Lune comme habitable et peuplée d’habitants :
+les Sélénites.
+Dans la suite de ce sujet, il s’agit d’éprouver cette hypothèse en prenant en compte
+les données modernes acquises depuis.
+Document 2 – Les deux faces de la Lune n’ont pas toujours été visibles
+
+L’homme du XIX ne connaissait de la
+Lune que la face visible présentée
+dans la figure A. La toute première
+photo est faite avec un daguerréotype
+fixé sur un télescope en 1839 par John
+William Draper.
+
+Figure A : la face visible de la Lune photo de
+1839 (gauche) et une plus récente datant du
+XXe (droite)
+Source : https://primeira-astrofotografia-dahistoria.html
+
+Le 7 octobre 1959, la sonde soviétique
+Luna 3 dépassait la Lune et
+photographiait pour la première fois sa
+face cachée.
+Figure B : la première photographie de la
+face cachée
+Source : https://www.cieletespace.fr/
+
+4- Le 7 octobre 1959 la mission Luna 3 a permis de photographier pour la première
+fois la « face cachée de la Lune ». Expliquer pourquoi la Lune a une « face
+cachée ».
+Document 3 – Graphique montrant l’emplacement de la zone habitable dans
+le Système solaire en fonction du type d’étoile
+En astronomie
+et en
+exobiologie, la
+zone habitable
+est un
+domaine
+théorique à
+proximité d’une
+l'étoile au sein
+duquel tous les
+corps présents
+pourraient
+disposer d'eau
+liquide à leur surface. L’étendue de cette zone est calculée à partir de la puissance
+lumineuse émise par l’étoile, et de la distance entre le corps et l’étoile.
+Source : D’après planet-terre.ens-lyon.fr
+
+5- Sur la base du document 3, indiquer s’il serait possible qu’il existe de l’eau
+liquide sur la Lune.
+
+Document 4 – Diagramme d’état de l'eau en fonction de la température et de
+la pression atmosphérique
+
+Source : D’après planet-terre.ens-lyon.fr
+
+6- Les données acquises sur la Lune ont permis d’établir que la température de
+surface oscillait entre 150°C (soit 423°K) en plein soleil et -170°C (soit 103°K) à
+l’ombre, et que la pression atmosphérique y est extrêmement faible (nettement
+inférieure à 10-1 Pa).
+Discuter de l’hypothèse de la présence d’eau liquide et de mers à la surface de
+la Lune. La réponse est attendue sous la forme d’un texte argumenté.
+7- Dans quelle mesure les données des documents 2 à 4 illustrent-elles l’idée que
+la construction d’un savoir scientifique stabilisé est dépendante des avancées
+technologiques d’une époque et contribue à invalider certaines hypothèses ou
+croyances populaires, comme celle de Franz von Gruithuisen.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Pédaler pour produire son électricité
+Pour produire de l’électricité, on utilise une énergie primaire qui peut avoir différentes
+origines. Depuis quelques années, les scientifiques s’intéressent à la transformation
+de l’énergie produite par le corps humain en énergie électrique, car la production
+d’électricité sans utiliser les combustibles fossiles est devenu un enjeu majeur dans
+notre société.
+Ainsi, certaines entreprises proposent par exemple à leurs salariés de travailler sur
+des bureaux-pédaliers afin de recharger leurs appareils, et certaines associations
+proposent un cinéma itinérant où la projection du film est possible grâce aux
+spectateurs qui se relaient pour produire l’électricité nécessaire en pédalant.
+Ces dispositifs utilisent un alternateur pour produire de l’énergie électrique.
+On s’intéresse ici aux méthodes de production d’électricité par pédalage, et à
+quelques-uns de leurs effets sur la santé.
+Document 1 – Produire de l’électricité sans
+combustion
+En 1820, le physicien danois Hans Christian
+Œrsted fut le premier à découvrir le lien entre
+l’électricité et le magnétisme puis en 1831,
+Michael Faraday mit en évidence le lien entre
+l’électricité, le magnétisme et le mouvement : il
+découvrit le phénomène d’induction
+électromagnétique, à la base du fonctionnement
+d’un alternateur.
+
+Source : d’après connaitrelascience.wordpress.com
+
+Schéma simplifié d’un
+alternateur : un courant électrique
+apparaît dans les bobines
+placées autour de l’aimant en
+rotation
+
+1- À partir du document 1, indiquer les numéros de la légende correspondant au
+rotor et au stator.
+
+2- Recopier sur votre copie l’affirmation exacte parmi les quatre propositions
+suivantes :
+Lors du fonctionnement d’un alternateur, on peut dire que l’énergie...
+a) ..électrique est transformée en énergie mécanique et une partie est perdue
+sous forme d’énergie thermique ;
+b) ..mécanique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie thermique ;
+c) ..thermique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie magnétique ;
+d) ..magnétique est convertie en énergie mécanique et une partie est perdue
+sous forme d’énergie électrique.
+3- Citer deux sources d’énergie primaire permettant de produire de l’énergie
+électrique sans combustion. Préciser pour chacune s’il s’agit d’une source
+d’énergie disponible sous forme de stock ou de flux.
+Certains modes de production d’énergie sont intermittents ce qui nécessite des
+solutions de stockage de l’énergie dont certaines sont à l’étude.
+Document 2 – Pédaler pour produire son électricité
+Une batterie de téléphone portable stocke approximativement une énergie égale à
+10 Wh. Une recharge complète de ce type de batterie à partir d’un chargeur
+électrique génère approximativement 0,5 gramme d’équivalent CO2.
+Une personne peut produire en pédalant une énergie de 30 Wh. Ainsi, il est
+possible de recharger cette batterie à 75 % de sa capacité totale en pédalant
+pendant 15 minutes. Cet effort nécessite une dépense métabolique importante.
+Source : d’après connaissancedesenergies.org
+
+4- Définir l’empreinte carbone et l’illustrer avec un exemple issu du document 2.
+5- En considérant que l’énergie nécessaire au fonctionnement d’un ordinateur
+portable est égale à 6 fois celle d’un téléphone portable, évaluer la durée totale
+de pédalage nécessaire pour recharger complètement un téléphone puis un
+ordinateur.
+
+Document 3 – Pédaler pour sa santé
+La production de l’électricité dans les centrales thermiques à partir de
+carburants fossiles émet dans l’air des composés chimiques (SO2, NO, etc.), et
+des particules fines, en suspension, de tailles variées.
+Ces éléments polluants impactent directement la santé humaine en
+provoquant notamment des inflammations du système respiratoire,
+particulièrement chez les personnes fragilisées. Cette pollution atmosphérique
+contribue ainsi à la diminution de leur longévité.
+Des chercheurs ont estimé, au moyen de modèles mathématiques, les
+conséquences de la réduction des émissions de particules fines de moins de
+2,5 μm (notées PM 2,5) sur la surmortalité et l’espérance de vie, selon trois
+scénarios :
+
+réduction à 4,9 µg.m-3 (valeur que l’on peut rencontrer dans un site de
+haute montagne à faible activité économique) ;
+
+réduction à 10 µg.m-3 (valeur recommandée par l’OMS) ;
+
+réduction à 15 µg.m-3 (objectif fixé par le plan national santéenvironnement de 2009).
+
+Les résultats sont présentés dans les graphiques ci-dessous où les barres
+matérialisent l’intervalle de confiance à 95 %.
+
+Source : d’après Santé Publique France
+
+6- Réaliser une analyse critique des résultats présentés dans le document 3.

@@ -1,0 +1,271 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1599397, "at": "2026-11-23T09:30:26+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’une production
+Sur 8 points
+Une entreprise produit et vend du savon. Le savon est présenté sous deux formes :
+sous forme de bloc de savon ou sous forme de savon liquide.
+Les deux parties de l’exercice peuvent être traitées de manière indépendante.
+Partie A
+
+Achat par correspondance de blocs de savon
+
+Pour un achat par correspondance, le client paie le prix des savons proportionnel au
+nombre de savons contenus dans le lot auquel s’ajoute les frais de port fixes c’est-àdire indépendant du nombre de savons.
+Ainsi l’achat par correspondance d’un lot de dix savons coute 31 euros tout compris
+et celui d’un lot de trente savons 81 euros tout compris.
+1- Le prix tout compris est-il proportionnel au nombre de savons ? Pourquoi ?
+2-a- Vérifier que le prix d’un savon contenu dans le lot est 2,50 €.
+2-b- Quel est le coût total d’un lot de cinquante savons achetés par
+correspondance ?
+2-c- Proposer une formule pour calculer le coût total, noté 𝑐(𝑛), d’un lot de 𝑛 savons,
+frais de port inclus, où 𝑛 est un entier naturel.
+3- Les clients par correspondance les plus fidèles bénéficient d’une réduction
+permanente de 10 % sur le prix des savons et de 50 % sur les frais de port.
+3-a- Quel est le coût total d’une commande par correspondance de trente savons
+pour un client fidèle ?
+3-b- Quel est alors le taux de la remise globale obtenue par un client fidèle pour une
+commande de trente savons ? On arrondira le résultat à 0,1 %.
+
+Partie B
+
+Optimisation de la production de savon liquide
+
+La capacité de production journalière de l’entreprise est de 15 hectolitres de savon
+liquide. On rappelle qu’un hectolitre est égal à cent litres.
+On modélise le coût total, en euro, de fabrication journalière de 𝑥 hectolitres de
+savon liquide par une fonction 𝐶 telle que :
+𝐶(𝑥) = 𝑥 3 − 15𝑥 2 + 75𝑥 + 100 où 𝑥 ∈ [0; 15].
+4- Le responsable de la fabrication estime que les coûts fixes journaliers liés à la
+production de savon liquide s’élèvent à cent euros. A-t-il raison ?
+5- On admet que 𝐶 est dérivable sur [0 ; 15] et on note 𝐶′ la fonction dérivée de la
+fonction 𝐶.
+5-a- Calculer 𝐶′(𝑥) pour tout réel 𝑥 appartenant à [0 ; 15].
+5-b- Justifier que 𝐶′(𝑥) peut s’écrire sous la forme 3(𝑥 − 5)2.
+5-c- En déduire le sens de variation de la fonction 𝐶 sur [0 ; 15].
+6- On donne sur la page suivante quatre courbes dont l’une est la représentation
+graphique de la fonction 𝐶 sur [0 ; 15].
+6-a- De quelle courbe s’agit-il ? Justifier la réponse donnée.
+6-b- Pour des raisons comptables, l’entreprise ne peut engager des coûts de
+fabrication de plus de 600 euros par jour. Estimer graphiquement, aussi
+précisément que possible, la capacité de production journalière de savon liquide
+autorisée, en expliquant la méthode employée.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Utilisation de l’iode en médecine
+Sur 12 points
+La scintigraphie thyroïdienne est un examen d'imagerie médicale, qui permet de
+réaliser des clichés de la glande thyroïde. Cette technique s’appuie sur les propriétés
+radioactives de l’iode 123.
+On cherche à comprendre comment la scintigraphie thyroïdienne peut aider au
+diagnostic de certaines anomalies de la thyroïde.
+Partie 1 – L’iode 123, noyau radioactif
+Document 1 – Courbe de désintégration radioactive de l’iode 123
+
+Proportion de noyaux restant (en %)
+
+Temps (en heures)
+
+1- L’iode 123 est qualifié de « noyau radioactif ». Expliquer en quelques mots la
+signification de cette expression.
+2- Donner la définition de la demi-vie de l’iode 123.
+
+3- À l’aide du document 1, déterminer la valeur de la demi-vie de l’iode 123.
+Expliquer succinctement la méthode utilisée.
+4- Indiquer la proportion de noyaux restant au bout de 48 h.
+Partie 2 – Anomalie de la thyroïde
+Document 2 – Description de la thyroïde
+La thyroïde est une petite glande
+d’environ 5 cm de diamètre, en
+forme de papillon, située sous la
+peau du cou et au-dessous de la
+pomme d’Adam. Cet organe
+fabrique des hormones
+indispensables au bon
+fonctionnement de l’organisme.
+Pour fabriquer les hormones
+thyroïdiennes, la thyroïde intègre
+dans ses cellules l’iode contenu
+dans l’eau et les aliments.
+Source : d’après https://www.msdmanuals.com
+
+Document 3 – Principe et résultats de scintigraphie de la thyroïde de deux
+patients
+Pour réaliser une
+scintigraphie, le médecin
+injecte au patient une solution
+d’iode 123 qui se fixe
+principalement sur les cellules
+de la thyroïde. Les
+rayonnements gamma émis
+par l’iode radioactif sont
+enregistrés par une caméra
+spécifique : sur l’image, les
+cellules apparaissent alors
+grisées. Ainsi, chez un patient
+
+sain (qui ne présente aucune anomalie), on pourra visualiser la totalité de la
+glande alors que chez un patient atteint d’une pathologie, on pourra visualiser des
+régions de la thyroïde qui captent moins le traceur (hypofixations appelées nodules
+froids) ou qui captent plus le traceur (hyperfixations appelées nodules chauds).
+Sources : d’après https://www.ch-mt-marsan.fr et https://www.bordeauxnordscintigraphie.fr/
+
+5- Le médecin indique que le patient 1 présente une thyroïde normale. Donner des
+arguments, issus des documents 2 et 3, sur lesquels il a pu s’appuyer pour poser
+ce diagnostic.
+6- Le patient 2 présente une anomalie de la thyroïde. Parmi les quatre propositions
+ci-dessous, recopier celle qui est juste.
+Cette anomalie correspond à ...
+a- un nodule froid localisé sur la partie antérieure gauche de la thyroïde ;
+b- un nodule froid localisé sur la partie antérieure droite de la thyroïde ;
+c- un nodule chaud localisé sur la partie antérieure gauche de la thyroïde ;
+d- un nodule chaud localisé sur la partie antérieure droite de la thyroïde.
+7- La scintigraphie thyroïdienne est un examen, non douloureux, pour lequel le
+patient doit rester quelques heures à l’hôpital. À l’issue de l’examen, aucune
+précaution particulière n'est recommandée pour l'entourage. Cependant le
+médecin peut fournir un certificat médical, indiquant l'élément radioactif qui lui a
+été administré, afin qu’il justifie auprès des autorités le déclenchement des
+détecteurs de radioactivité très sensibles présents dans certains lieux (aéroports,
+certains postes frontières, ...). Justifier cette précaution.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Datation de l’âge d’une roche
+Sur 12 points
+La datation de la Terre a été au cœur de multiples controverses au sein de la
+communauté scientifique.
+Comme de nombreux scientifiques au XXe siècle, on cherche dans cet exercice à
+dater un granite. Les granites sont des roches magmatiques issues du
+refroidissement lent d’un magma. Ils n’apparaissent en surface qu’après érosion de
+tout ce qui les recouvrait.
+
+Document 1 – Estimation de l’âge de la Terre par différents scientifiques
+
+Source : https://www.digischool.fr/cours/l-histoire-de-l-age-de-la-terre
+Par exemple, Buffon donne un âge de la Terre situé entre environ 75 000 ans et 10 Ma.
+
+Document 2 – Théories de Kelvin et Rutherford
+En 1863, Kelvin fait l’hypothèse que la Terre se refroidit de manière homogène
+depuis sa formation. Ainsi la Terre se refroidit et perd de la chaleur uniquement par
+conduction thermique.
+En 1904, Rutherford découvre que la désintégration de certains noyaux d’atomes
+radioactifs s’accompagne d’un dégagement de chaleur. Cette découverte
+ébranlera les conclusions de Kelvin. Effectivement, la Terre possède une source
+de chaleur que n’avait pas envisagée Kelvin dans son modèle de refroidissement.
+Document 3 – Présentation de trois géochronomètres
+Les géochronomètres sont des couples d’éléments, initialement présents dans les
+échantillons à dater dont la quantité varie au cours du temps. On considère qu’un
+géochronomètre peut être utilisé pour dater un échantillon vieux d’au maximum dix
+fois la demi-vie du noyau père du géochronomètre.
+Géochronomètre
+
+Demi-vie en années
+du noyau père
+
+Conditions
+d’utilisation
+
+14C/14N
+
+5 730
+
+S’utilise sur des fossiles
+
+40K/40Ar
+
+1,25×109
+
+Difficile à utiliser sur les
+roches magmatiques
+
+87Rb/86Sr
+
+48,8×109
+
+S’utilise sur des roches
+magmatiques
+
+Document 4 – Mesures des rapports 87Rb/86Sr et 87Sr/86Sr
+Échantillon
+
+87Sr/86Sr
+
+87Rb/86Sr
+
+0,73
+0,74
+0,77
+0,85
+0,90
+
+1,0
+1,6
+2,6
+5,7
+7,9
+
+Source : d’après “Comprendre et enseigner la planète Terre” OPHRYS Edition
+
+Document 5 – Datation d’un granite
+L’âge de la roche à dater dépend du coefficient directeur a de la droite isochrone
+obtenue en représentant 87Sr/86Sr en fonction de 87Rb/86Sr, comme l’illustre le
+graphique ci-dessous.
+
+1- Recopier sur votre feuille la réponse exacte :
+a) D’après Kelvin, la Terre a 100 Ma
+b) D’après Kelvin, la Terre a 1860 ans
+c) D’après Kelvin, la Terre a entre 40 Ma et 200 Ma.
+2- Nommer le phénomène physique sur lequel repose le raisonnement de Kelvin.
+3- D’après le document 1, préciser quelles évolutions de l’estimation de l’âge de la
+Terre on peut noter entre l’estimation de Kelvin et celle actuelle.
+4- Proposer une explication en s’appuyant sur le document 2 qui montre les limites
+du raisonnement de Kelvin.
+5- D’après le document 3, trouver deux arguments pour justifier que le couple
+87Rb/86Sr peut être utilisé pour dater l’âge de la Terre.
+
+On se propose maintenant de dater un morceau de granite trouvé à la surface de la
+Terre avec le couple 87Rb/86Sr.
+6- Placer les points correspondants au document 4 sur le graphique, proposé en
+annexe, puis tracer une droite appelée droite isochrone, passant au plus près de
+tous les points.
+7- Montrer que le coefficient directeur de la droite tracée est environ égal à 0,025.
+8- À l’aide du document 5, estimer l’âge de ce granite.
+9- Préciser si ce granite s’est formé au même moment que la Terre. Justifier.
+10- Discuter de la possibilité de dater l’âge de la Terre avec des échantillons de
+roches terrestres.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 6

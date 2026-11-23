@@ -1,0 +1,351 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1816315, "at": "2026-11-23T09:28:15+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Élimination d’une substance dans le sang
+Sur 8 points
+
+Les parties A, B et D de cet exercice peuvent être traitées de façon indépendante.
+Dans la partie C, on attend du candidat qu’il compare la pertinence des modèles
+étudiés dans les parties A et B.
+
+Partie A
+On injecte une dose de 1 gramme d'un médicament dans le sang d'un patient. On
+souhaite étudier la quantité de médicament présente dans le sang en fonction du
+temps. On sait que le médicament est progressivement éliminé par l’organisme de
+sorte que, chaque heure, la quantité de médicament présente dans le sang diminue
+de 30 %.
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de
+médicament (exprimée en grammes) qui est présente dans le sang du patient après
+𝑛 heures écoulées depuis l’injection. Sous ces conditions, on a 𝑢0 = 1.
+1- Justifier que, selon cette modélisation, 𝑢1 = 0,7 et 𝑢2 = 0,49 .
+On admet alors que la suite (𝑢𝑛 ) est une suite géométrique de raison 0,7.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3- On sait que le médicament n’est plus actif lorsque la quantité présente dans le
+sang est strictement inférieure à 0,2 g. D’après cette modélisation, pendant quelle
+durée le médicament est-il actif ? Expliquer brièvement la démarche.
+
+Partie B
+Dans cette partie on suppose que la quantité de médicament présente dans le sang
+du patient (exprimée en grammes) peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par 𝑓(𝑡) = 0,7𝑡 où 𝑡 représente le temps écoulé depuis l’injection
+(exprimé en heures).
+Ci-après, on donne la courbe représentative 𝐶𝑓 de la fonction 𝑓 dans un repère
+orthogonal du plan.
+On a tracé en pointillés la droite tangente à 𝐶𝑓 au point A d’abscisse 3.
+
+4- Avec la précision permise par le graphique, répondre aux deux questions
+suivantes :
+4-a- Quelle est la quantité de médicament présente dans le sang trois heures après
+l’injection ?
+4-b- Quelle est la valeur de 𝑓’(3)? Comment interpréter cette valeur dans le contexte
+de l’exercice ?
+
+5-a- Recopier et compléter le tableau de valeurs ci-dessous à l'aide d’une
+calculatrice (on arrondira à 0,01).
+𝑡
+
+𝑓(𝑡)
+
+0,24
+
+4,1
+
+4,2
+
+4,3
+
+4,4
+
+4,5
+
+4,6
+
+4,7
+
+4,8
+
+4,9
+
+5-b- On rappelle que le médicament n’est plus actif lorsque la quantité présente dans
+le sang est strictement inférieure à 0,2 g.
+Donner une valeur approchée à 0,1 du temps au bout duquel le médicament cesse
+d’être actif.
+
+Partie C
+On souhaite donner une indication précise sur la durée du principe actif du
+médicament.
+6- D’après vous quel est le modèle le plus pertinent ? Justifier brièvement la réponse.
+
+Partie D
+Le médicament a pour but de faire baisser le taux de glycémie chez des patients
+ayant un taux de glycémie anormalement élevé. Afin de tester l’efficacité de ce
+médicament sur un groupe de patients (que l’on appellera « groupe-test » par la
+suite), on procède comme ceci : 60 % des patients de ce groupe reçoivent le
+médicament et les autres patients reçoivent un placebo.
+À l’issue du traitement, on mesure leur taux de glycémie et les résultats sont les
+suivants :
+-
+
+chez les patients ayant reçu le médicament, on observe une baisse du taux de
+glycémie dans 15 % des cas ;
+
+-
+
+chez les patients ayant reçu le placebo, on n’observe aucune baisse du taux
+de glycémie dans 90 % des cas.
+
+On choisit au hasard un patient du groupe-test et on note :
+𝑀 l’événement « le patient a reçu le médicament »
+̅ l’événement « le patient a reçu le placebo»
+𝑀
+𝐵 l’événement « on observe chez le patient une baisse du taux de glycémie »
+7- D’après les données ci-dessus, quelle est la valeur de 𝑃𝑀̅ ( 𝐵) ?
+̅ ∩ 𝐵) et interpréter ce résultat.
+8- Calculer la probabilité 𝑃( 𝑀
+9- On admet que 𝑃(𝐵) = 0,13. On choisit au hasard un patient du groupe-test et on
+constate que son taux de glycémie a baissé. Quelle est la probabilité qu’il ait pris le
+placebo (on arrondira au centième) ?
+10- À votre avis, peut-on considérer que ce test a prouvé l’efficacité du
+médicament ? Justifier.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Comment optimiser la croissance et la floraison d’une plante ?
+Sur 12 points
+Les plantes ont un besoin vital en lumière afin de réaliser leur processus de
+photosynthèse. Ce processus permet la transformation du dioxyde de carbone
+atmosphérique et de l’eau en hydrates de carbone (sucres).
+La culture sous éclairage artificiel permet d’améliorer la productivité et la qualité des
+produits de la filière horticole. C’est un remède à la raréfaction des sols et un moyen
+de lutter contre la pollution. L’arrivée des LED offre de nouvelles possibilités
+d’adaptation de l’éclairage aux besoins de la plante tout en offrant une meilleure
+efficacité énergétique.
+
+Illustration - Lampe LED horticole automatique
+
+On cherche à optimiser l’éclairage LED pour améliorer la croissance et la floraison
+d’une plante. Trois paramètres sont étudiés.
+Partie 1 – Premier paramètre étudié
+On peut mesurer l’activité photosynthétique (intensité de la photosynthèse) en
+fonction du type de lumière utilisé pour éclairer la plante (document 1 page suivante).
+En situation naturelle, la photosynthèse est réalisée grâce à la lumière du Soleil. La
+température de surface du Soleil est de 5 800 Kelvin (K) et son profil spectral est
+présenté dans le document 2 (page suivante).
+
+Document 1- Activité photosynthétique en fonction de la longueur d’onde
+
+Document 2- Spectre d’émission du Soleil
+
+On rappelle les données suivantes :
+Constante de Wien : 2,90 x 10-3 m.K
+1 nm = 10-9 m
+1- À partir de vos connaissances, définir la photosynthèse en quelques lignes.
+2- Déterminer graphiquement la longueur d’onde pour laquelle l’intensité lumineuse
+du Soleil est maximale.
+3- Retrouver le résultat précédent par le calcul.
+4- En vous appuyant sur les documents 1 et 2 ci-dessus, expliquer pourquoi la
+lumière du Soleil permet la photosynthèse.
+Partie 2 – Deuxième paramètre étudié
+Les plantes ont besoin d’énergie lumineuse pour réaliser la photosynthèse et sont
+capables de réagir à l’éclairement ambiant.
+Document 3- Orientation d’une plante en fonction de la position du soleil
+
+Pour essayer de comprendre cette réaction, on éclaire une surface avec une lampe
+d’une puissance de 1000W, lampe positionnée de trois façons A, B et C, de sorte
+que l’inclinaison du faisceau, correspondant à l’angle entre le faisceau et la table,
+diffère.
+On peut faire les observations du document 4.
+
+Document 4- Surfaces éclairées selon la position de la source de lumière
+
+5- D’après le document 4, dans quelle position A, B, ou C, la surface éclairée estelle maximale ? Justifier votre réponse.
+6- En conséquence, dans quel cas l’énergie lumineuse est-elle la plus dispersée ?
+Justifier votre réponse.
+7- Expliquer en quelques lignes la réaction de la plante observée dans le
+document 3.
+Partie 3 –Troisième paramètre étudié
+Pour réaliser la photosynthèse, 1 cm² de plante a besoin, chaque minute, de 0,72 J
+d’énergie apportée par une lumière bleue et 0,48 J d’énergie apportée par une
+lumière rouge.
+On met en culture une plante sur une surface de 2500 cm² et on choisit d’éclairer par
+2 lampes, une bleue et une rouge.
+8- Calculer la puissance lumineuse de la lampe bleue utilisée par les plantes sur
+toute la surface.
+9- Sachant que seulement 65 % de la puissance émise sera absorbée par la plante,
+montrer que la puissance lumineuse de la lampe bleue, nécessaire pour
+permettre la photosynthèse est de 47 W.
+
+Partie 4 – Synthèse
+Différentes solutions d’optimisation de la photosynthèse par une plante vous sont
+proposées :
+Tableau – Solutions d’optimisation proposées
+Solutions
+
+E
+
+F
+
+G
+
+H
+
+Nombre de lampes
+
+deux
+
+Types de lampe
+
+LED bleue
+
+Puissance lampe
+
+100 W
+
+30 W
+
+100 W
+
+Inclinaison du
+faisceau
+
+30°
+
+30°
+
+90°
+
+LED rouge
+PBleue = 47 W
+PRouge = 30 W
+90°
+
+On rappelle que l’inclinaison du faisceau correspond à l’angle entre le faisceau et la
+table.
+10- Parmi les situations E, F, G et H, choisir la situation optimale sans justifier.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La météorite Allende
+Sur 12 points
+La météorite Allende est tombée le 8 février 1969, au nord du Mexique, près du
+village de Pueblito d'Allende dans la province de Chihuahua. C’est une météorite
+primitive dont les matériaux constitutifs se sont formés peu de temps après la
+formation du système solaire.
+À l’aide de la datation de certains éléments constitutifs de la météorite Allende, on
+cherche à estimer l’âge de la formation du système solaire.
+Document 1 - Les étapes de la formation du système solaire
+La formation du système solaire suit un scénario très largement accepté par la
+communauté scientifique :
+
+tout commence par la contraction d'un nuage constitué de poussières et de
+gaz hydrogène et hélium, appelé nébuleuse protosolaire. Cette contraction
+provoque une élévation de température engendrant des transformations
+chimiques de cette matière originelle dans le disque protoplanétaire
+(aujourd’hui, le plan de l'écliptique) ;
+
+les grains de matière ainsi obtenus, se réunissent pour former des éléments
+plus lourds puis des planétésimaux, de petits corps solides qui grossissent
+par accrétion ;
+
+les collisions des planétésimaux forment des planètes ;
+
+enfin, les planètes formées se différencient : les matériaux constitutifs des
+planètes se séparent en couches et enveloppes chimiques de compositions
+différentes (étape de différenciation).
+
+Pour la Terre, la majeure partie de la différenciation s'est produite, il y a 4,45 Ga
+environ (Ga = giga-années (milliards d’années) ; formation du noyau et formation
+de l'atmosphère entre 4,46 Ga et 4,43 Ga).
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+Document 2 - Les matériaux constitutifs de la météorite Allende
+La météorite Allende est une météorite non différenciée de type chondrite. Les
+chondrites sont constituées de chondres, un mélange de silicates et de métal, et
+des inclusions CAI (Calcium Aluminium Inclusions), le tout englobé dans une
+matrice qui "cimente" l'ensemble. Les inclusions réfractaires CAI sont riches en
+uranium. Formées à très hautes températures, elles sont considérées comme les
+plus vieux objets du système solaire.
+Observation à l’œil nu
+
+Observation au microscope polarisant
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+1- À l’aide du document 1, présenter sous la forme d’une frise chronologique
+simplifiée (sans date) les principales étapes de la formation du système solaire.
+2- À l’aide du document 2, placer sur la frise chronologique réalisée la période
+possible de formation de la météorite Allende. Justifier la réponse.
+
+Document 3 - Principe de la datation à l’aide de la méthode Plomb-Plomb
+Pour dater des inclusions réfractaires CAI, nous allons utiliser la méthode PlombPlomb. Cette méthode de datation isotopique repose sur la détermination de la
+composition en deux isotopes du plomb, le 206Pb et le 207Pb provenant
+respectivement de la désintégration naturelle de deux isotopes radioactifs de
+l'uranium, 235U et 238U.
+0 −
+92𝑈 → 82𝑃𝑏 + 6 −1𝑒 + 8 2𝐻𝑒
+0 −
+92U → 82Pb + 4 −1e + 7 2He
+
+On mesure alors les rapports du nombre d’atomes entre ces isotopes et l’isotope
+204Pb, autre isotope stable du Plomb, dans différentes inclusions réfractaires CAI
+prélevées dans la météorite. Ces rapports sont appelés rapports isotopiques et
+sont notés (206Pb/204Pb) et (207Pb/204Pb). Lorsque ces échantillons se sont bien
+formés à la même époque, à partir d'un même matériau source, la représentation
+graphique de (207Pb/204Pb) en fonction de (206Pb/204Pb) est une droite appelée
+droite isochrone.
+Il est possible de montrer que la pente (ou coefficient directeur) de cette droite
+permet de déterminer l’âge commun T des échantillons.
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+3- D'après le document 3, identifier les deux isotopes radioactifs de l'uranium
+utilisés dans la méthode Plomb-Plomb.
+4- Expliquer comment se sont formés les isotopes 207Pb et 206Pb mis en jeu dans
+cette méthode.
+5- À l’aide des documents 2 et 3, expliquer en quoi les inclusions CAI permettent de
+dater la météorite Allende.
+
+Document 4 - Isochrone des inclusions réfractaires CAI
+
+Document 5 - Correspondance entre la pente de la droite isochrone et l’âge
+(en milliards d’années ou Ga) de l’échantillon obtenue après
+calibrage numérique
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+6- À partir du document 4, montrer par un calcul que la pente (coefficient directeur)
+de la droite isochrone vaut environ 0,6245.
+7- Utiliser le document 5 pour en déduire l'âge de la météorite Allende.
+8- Expliquer en quoi le résultat précédent permet d’estimer l’âge du système
+solaire.

@@ -1,0 +1,226 @@
+{"pages": 6, "method": "pdftotext", "bytes": 507512, "at": "2026-11-23T09:11:10+00:00"}
+Épreuve commune de contrôle continu
+Série générale
+
+Enseignement de spécialité de mathématiques
+Classe de première
+________
+
+Durée : 2 heures
+________
+
+L’usage de la calculatrice est autorisé selon réglementation en vigueur.
+Les documents, sous forme papier ou électronique, sont interdits
+Consignes :
+Le sujet est constitué de quatre exercices indépendants que le candidat doit traiter.
+Toute trace de recherche, même incomplète, ou d'initiative même infructueuse, sera prise
+en compte dans l'évaluation.
+
+Dès que le sujet vous est remis, assurez-vous qu’il est complet.
+Le sujet comporte 6 pages, numérotées de 1/6 à 6/6.
+
+Exercice 1 – QCM (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+𝑥 3
+
+Pour tout réel 𝑥, (𝑒 ) est égal à :
+
+a) 𝑒 𝑥 × 𝑒 3
+
+b) 𝑒 𝑥+3
+
+c) 𝑒 3𝑥
+
+d) 𝑒 𝑥
+
+c) cos 𝑥
+
+d) − sin 𝑥
+
+Question 2
+Pour tout réel 𝑥, cos(𝑥 + 𝜋) est égal à :
+
+a) sin 𝑥
+
+b) − cos 𝑥
+
+Question 3
+On souhaite modéliser le niveau de la mer par une suite (𝑈𝑛 ) de façon que 𝑈0 représente le
+niveau de la mer, en mm, en 2003 et que 𝑈𝑛 représente le niveau de la mer, en mm,
+𝑛 années après 2003.
+Selon le site www.notre-planete.info/terre/climatologie_meteo, on constate une hausse
+assez rapide du niveau de la mer, qu’on estime à 3,3 mm par an depuis 2003.
+Pour traduire ce constat, la suite (𝑈𝑛 ) doit être :
+𝑎) une suite
+géométrique de raison
+3,3.
+
+𝑏) une suite
+géométrique de raison
+1,033.
+
+𝑐) une suite
+arithmétique de
+raison 1,033.
+
+𝑑) une suite
+arithmétique de
+raison 3,3.
+
+Question 4
+Les figures ci-dessous représentent quatre polynômes du second degré dans un repère
+orthonormé et le signe de leur discriminant  .
+Parmi ces propositions, laquelle est juste ?
+b)
+
+a)
+
+0
+
+0
+
+c)
+
+d)
+
+0
+
+0
+
+Question 5
+Le plan est rapporté à un repère orthonormé.
+
+D est une droite dont une équation cartésienne est 2𝑥 − 𝑦 + 3 = 0 .
+Parmi ces propositions, laquelle est juste ?
+a) La droite 𝐷
+passe par le
+point 𝐴 de
+(2 ; 1)
+
+b) La droite 𝐷 est
+dirigée par le
+vecteur de
+(−1; 2)
+
+c) Le vecteur de
+(2; −1) est
+normal à la
+droite 𝐷
+
+d) Le point
+d’intersection
+de la droite 𝐷
+avec l’axe des
+abscisses a
+comme
+(0; 3)
+
+Exercice 2 (5 points)
+Une entreprise de menuiserie réalise des découpes dans des plaques rectangulaires de
+bois.
+Dans un repère orthonormé d’unité 30 cm ci-dessous, on modélise la forme de la découpe
+dans la plaque rectangulaire par la courbe 𝐶𝑓 représentative de la fonction 𝑓 définie sur
+l’intervalle [−1; 2] par
+𝑓(𝑥) = (−𝑥 + 2)𝑒 𝑥 .
+
+𝐶𝑓
+ℓ
+
+𝐿
+Le bord supérieur de la plaque rectangulaire est tangent à la courbe 𝐶𝑓 . On nomme 𝐿 la
+longueur de la plaque rectangulaire et ℓ sa largeur.
+1. On note 𝑓′ la fonction dérivée de 𝑓.
+a. Montrer que pour tout réel 𝑥 de l’intervalle [−1; 2], 𝑓′(𝑥) = (−𝑥 + 1)𝑒 𝑥 .
+b. En déduire le tableau de variations de la fonction 𝑓 sur [−1; 2].
+2. La longueur 𝐿 de la plaque rectangulaire est de 90 cm. Trouver sa largeur ℓ exacte
+en cm.
+
+Exercice 3 (5 points)
+Une compagnie d’assurance auto propose deux types de contrat :
+
+un contrat « Tous risques » dont le montant annuel est de 500 € ;
+
+un contrat « de base » dont le montant annuel est de 400 €.
+
+En consultant le fichier clients de la compagnie, on recueille les données suivantes :
+
+60% des clients possèdent un véhicule récent (moins de 5 ans). Les autres clients
+ont un véhicule ancien ;
+parmi les clients possédant un véhicule récent, 70% ont souscrit au contrat « Tous
+risques » ;
+parmi les clients possédant un véhicule ancien, 50% ont souscrit au contrat « Tous
+risques ».
+
+On considère un client choisi au hasard.
+D’une manière générale, la probabilité d’un événement 𝐴 est notée 𝑃(𝐴) et son événement
+contraire est noté 𝐴̅.
+On note les événements suivants :
+
+
+
+𝑅 : « le client possède un véhicule récent » ;
+𝑇 : « le client a souscrit au contrat « Tous risques ».
+
+On note 𝑋 la variable aléatoire qui donne le montant du contrat souscrit par un client.
+1. Recopier et compléter l’arbre pondéré de
+probabilité traduisant les données de
+l’exercice.
+2. Calculer la probabilité qu’un client pris au
+hasard possède un véhicule récent et ait
+souscrit au contrat « Tous risques »,
+c’est-à-dire calculer 𝑃(𝑅 ∩ 𝑇).
+3. Montrer que 𝑃(𝑇) = 0,62.
+4. La variable aléatoire 𝑋 ne prend que deux valeurs 𝑎 et 𝑏. Déterminer ces deux
+valeurs, les probabilités 𝑃(𝑋 = 𝑎) et 𝑃(𝑋 = 𝑏), puis l’espérance de 𝑋.
+
+Exercice 4 (5 points)
+En traversant une plaque de verre teintée, un rayon lumineux perd 20 % de son intensité
+lumineuse. L’intensité lumineuse est exprimée en candela (cd).
+On utilise une lampe torche qui émet un rayon d’intensité lumineuse réglée à 400 cd.
+On superpose 𝑛 plaques de verres identiques ( 𝑛 étant un entier naturel) et on désire
+mesurer l’intensité lumineuse 𝐼𝑛 du rayon à la sortie de la 𝑛-ième plaque.
+On note 𝐼0 = 400 l’intensité lumineuse du rayon émis par la lampe torche avant de
+traverser les plaques (intensité lumineuse initiale). Ainsi, cette situation est modélisée par
+la suite (𝐼𝑛 ).
+1. Montrer par un calcul que 𝐼1 = 320.
+2. a. Pour tout entier naturel 𝑛 , exprimer 𝐼𝑛+1 en fonction de 𝐼𝑛 .
+b. En déduire la nature de la suite (𝐼𝑛 ). Préciser sa raison et son premier terme.
+c. Pour tout entier naturel 𝑛, exprimer 𝐼𝑛 en fonction de 𝑛.
+3. On souhaite déterminer le nombre minimal 𝑛 de plaques à superposer afin que le
+rayon initial ait perdu au moins 70 % de son intensité lumineuse initiale après sa
+traversée des plaques.
+a. Afin de déterminer le nombre de plaques à superposer, on considère la
+fonction Python suivante.
+def nombrePlaques(J):
+I=400
+n=0
+while I > J:
+I = 0.8*I
+n = n+1
+return n
+Préciser, en justifiant, le nombre 𝑗 de sorte que l’appel nombrePlaques(j)
+renvoie le nombre de plaques à superposer.
+b. Le tableau suivant donne des valeurs de 𝐼𝑛 . Combien de plaques doit-on
+superposer ?
+𝑛
+
+𝐼𝑛 400
+
+204,8
+
+163,84
+
+131,07
+
+104,85
+
+83,886

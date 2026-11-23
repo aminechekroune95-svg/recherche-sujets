@@ -1,0 +1,396 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1319558, "at": "2026-11-23T09:41:21+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?
+False
+True
+None
+Question A 2
+Quelle est l'écriture hexadécimale de l'entier 𝑛 dont l'écriture binaire est 101010 ?
+2A
+A2
+Question A 3
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+Question A 4
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+Question A 5
+
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+Question A 6
+Quelle est l'écriture hexadécimale (en base 16) du nombre entier 157 ?
+8F
+9C
+9D
+AD
+
+Thème B : types construits
+Question B 1
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+Question B 2
+Quelle expression permet d'accéder à la valeur 'hello' après qu'on a défini
+L = [['a','b','c'],['bonjour','hello']]
+L[5]
+L[1][1]
+L[2][2]
+L['hello']
+Question B 3
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036
+
+}
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+Question B 4
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B 5
+
+Quelle est la valeur de :
+[ x - y for x in range(4) for y in range(3) if x > y ]
+[1, 2, 1, 3, 2, 1]
+[1, 2, 3, 1, 2, 1]
+[1, 2, 3, 3, 2, 1]
+[1, 2, 1, 2, 3, 1]
+Question B 6
+Quelle est la liste obtenue par l'exécution de l’instruction [2**i for i in range(5)] ?
+[0,1,4,9,16]
+[1,4,9,16,25]
+[0,2,4,6,8]
+[1,2,4,8,16]
+
+Thème C : traitement de données en tables
+Question C 1
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 3
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ......
+:
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 4
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+
+Question C 5
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 6
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 2
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 3
+Quelle est la balise HTML utilisée pour indiquer un titre de niveau d'importance maximal ?
+la balise <h0>
+la balise <h1>
+la balise <head>
+la balise <header>
+Question D 4
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D 5
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+
+Question D 6
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+Question E 2
+Une et une seule de ces affirmations est fausse. Laquelle ?
+Un système d'exploitation libre est la plupart du temps gratuit
+Je peux contribuer à un système d'exploitation libre
+Il est interdit d'étudier un système d'exploitation propriétaire
+Un système d'exploitation propriétaire est plus sécurisé
+Question E 3
+L'adresse IP du site www.education.gouv.fr est 185.75.143.24.
+Quel dispositif permet d'associer l'adresse IP et l'URL www.education.gouv.fr ?
+un routeur
+un serveur DNS
+un serveur de temps
+un serveur Web
+Question E 4
+Parmi les commandes suivantes, laquelle permet à n’importe quel utilisateur d’exécuter le fichier appelé jeu ?
+chmod u+x jeu
+chmod u+rwx jeu
+chmod a+x jeu
+chmod a-x jeu
+Question E 5
+Depuis le répertoire /home/ubuntu/ on exécute la commande
+mkdir ./Documents/Holidays
+Quel est son effet ?
+
+supprimer le dossier Holidays situé dans Documents
+changer de répertoire pour se retrouver dans le répertoire /home/Documents/Holidays
+créer un dossier Holidays dans le répertoire /home/ubuntu/Documents
+lister le contenu du répertoire Holidays de Documents
+
+Question E 6
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+
+Thème F : langages et programmation
+Question F 1
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for i in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F 2
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+Question F 3
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F 4
+
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F 5
+On définit la fonction f suivante qui prend en argument une liste t d'entiers :
+def f(t):
+n = len(t)
+for i in range(n-1):
+for j in range(i+1,n):
+if t[i] == t[j]:
+return True
+return False
+Pour quelle valeur de t, f(t) vaut-elle True ?
+[[2,3], [3,4], [4,5], [2,3]]
+[[2,2], [3,4], [4,5], [2,3]]
+[[2,3], [3,2], [4,5], [5,4]]
+[[3,3], [4,4], [5,5], [6,6]]
+Question F 6
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+
+Thème G : algorithmique
+Question G 1
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 2
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 3
+
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+#
+p = p * a
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+Question G 4
+Un algorithme glouton permet de :
+trier des données
+trouver des solutions localement optimales
+parcourir un tableau
+faire un apprentissage automatique
+Question G 5
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s = 0
+i = 1
+while i < 5:
+s = s + i
+i = i + 1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+Question G 6
+
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?

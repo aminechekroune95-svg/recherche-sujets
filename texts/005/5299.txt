@@ -1,0 +1,552 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1269701, "at": "2026-11-23T09:26:33+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-14-12
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 6 à 8
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 9 à 12
+
+Documents réponses ................................................... Pages 13 et 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés
+en durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les connaissances
+associées pour qualifier et/ou quantifier cette performance, à partir de
+l'analyse, de la modélisation de tout ou partie du produit ou de relevés
+expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit
+ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies au
+candidat qu'il devra exploiter, compléter ou modifier.
+
+-
+
+Le produit étudié est le distributeur de nourriture Surefeed à puce électronique
+pour chien et chat.
+Ce distributeur de nourriture possède un détecteur de puce électronique dont
+l'accès est contrôlé par un clapet qui ne s'ouvre que lorsque la puce
+électronique (tag RFID) du chat a été scannée et reconnue. Si un animal
+non enregistré passe à côté du distributeur, le couvercle ne s'ouvre pas ou se
+referme s’il est ouvert. Le distributeur Surefeed garantit ainsi que la nourriture
+est consommée par le bon animal domestique. Une fois que l'animal a
+mangé et s'est éloigné du distributeur, le couvercle se referme
+automatiquement.
+Dimensions : L 32 cm x l 23 cm x H 20 cm
+Capacité : bol simple : 400 ml ; bol double : 2 x 200 ml
+Type de nourriture : sèche et humide
+Alimentation : fonctionne avec 8 piles 1,5V (longévité des piles jusqu'à 6 mois)
+2 - Le lecteur de puce
+électronique scanne la puce
+électronique (tag RFID) de
+votre chat
+
+1 - Capteurs utilisés pour
+reconnaître votre animal
+lorsqu’il s’approche du
+distributeur de nourriture
+
+3 - Le couvercle s’ouvre
+
+4 - Une fois que l’animal
+s’est éloigné du
+distributeur de nourriture,
+le couvercle se referme
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : L’autonomie du distributeur permet-elle d’assurer la
+distribution de nourriture sur la durée annoncée par le constructeur ?
+Cette partie de l’étude vise l’analyse des caractéristiques du moteur d’après la
+simulation multiphysique et la détermination de l’autonomie du système. Elle
+repose sur un modèle simplifié du mécanisme d’ouverture de la trappe
+d’accès à la nourriture. Ainsi la chaine de puissance est simplifiée dans ce
+sujet. Les simulations présentées sont réalisées à partir du modèle simplifié.
+Le mécanisme d’ouverture de la trappe d’accès à la nourriture est constitué de
+deux demi-trappes afin de limiter l’encombrement et le couple nécessaire à
+l’ouverture. Un moteur à courant continu entraine un réducteur permettant
+l’ouverture et la fermeture des deux
+demi-trappes. Deux détecteurs de fin
+de course à action mécanique
+informent des positions ouvertes ou
+fermées des trappes. L’approche du
+chat équipé du tag RFID est détectée
+par le lecteur de tag RFID.
+
+Commenté [A1]: Privilégier une forme de paragraphe plutôt
+que des titres de partie avec des descriptions
+Mettre une illustration des deux chaines pour clarifier la
+description
+
+SysML cas d'utilisation
+
+Modèle de
+distributeur :
+
+Exercice 1 - ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Cette partie de l’étude porte sur la simulation multiphysique du produit.
+Caractéristiques motoréducteur :
+
+Motoréducteur: RE385LN
+Alimentation: 4,5 à 15 Vcc
+Consommation à vide: 0,15 A à 12 Vcc
+Consommation en charge: 0,840 A à
+12 Vcc
+Réduction: 3000:1
+Vitesse: 2,5 tr.mn-1 à 12 Vcc
+Couple: 0,6 N.m
+Diamètre de l'axe: 6 mm (avec méplat)
+Dimensions: Ø37 mm x 102 mm
+Poids: 249 g
+
+L’amélioration des performances du produit suppose de modéliser le moteur à
+courant continu et de procéder à une simulation multiphysique:
+La détermination des caractéristiques du moteur s’effectue par des mesures
+de tension et de courant selon le montage proposé sur le document DR1.
+Question I.1:
+DR1
+
+Donner le nom des appareils de mesure 1 et 2 permettant de
+mesurer l’intensité et la tension.
+Indiquer sur le schéma du document DR1 le sens de la tension
+mesurée aux bornes du moteur (mot) ainsi que le sens du
+courant dans le circuit.
+
+Le schéma suivant représente le schéma équivalent simplifié d’un moteur à courant
+continu .
+R
+I
+Résistance interne: R
+Force contre-électromotrice: E
+
+Commenté [A2]: A mettre en dehors de la question, il faut
+flécher le courant sur le schéma électrique
+
+i
+
+Question I.2 :
+D’après la loi des mailles, déterminer l’équation reliant la tension
+U, la résistance R, la force contre-électromotrice E et l’intensité I.
+La force électromotrice E est liée à la vitesse de rotation ω par la
+relation E= K.ω . Lorsque le moteur est à l’arrêt, la force contre
+électromotrice E est nulle et peut être représentée par un courtcircuit. Proposer dans ce cas l’appareil permettant la mesure de
+la résistance R.
+- I=0,144 A
+Les valeurs mesurées sont les suivantes :
+- U=12 V
+- R=2,22 Ω
+- ω=785 rads-1
+Question I.3
+Calculer E et K à partir de la relation donnée à la question I.2.
+Une simulation multiphysique a permis d’obtenir des courbes simulées.
+Un zoom est réalisé sur le début des courbes indiquant plus précisément les valeurs
+(Document réponse DR1)
+Question n°I.4
+DR1
+Convertir si besoin les caractéristiques du motoréducteur dans les
+mêmes unités que celles utilisées dans les simulations multiphysiques
+afin de pouvoir à terme comparer le réel et le simulé. Compléter les
+cadres du document réponse DR1.
+
+L’étude suivante porte sur l’autonomie des piles :
+Les caractéristiques du système sont les suivantes :
+
+Commenté [A3]: A mettre en relation plus explicitement avec
+la problématique
+Commenté [A4]: Privilégier la rédaction sous forme de
+paragraphe et non de titre de liste
+
+Alimentation : fonctionne avec 8 piles délivrant 12 V; 2200 mAh (longévité des
+piles jusqu'à 6 mois).
+Capteur RFID : ce capteur permet d’identifier un chat pour autoriser
+l’ouverture de la trappe de nourriture.
+
+Tension : +5 V,
+Courant : < 20 mA
+
+Carte électronique :
+
+Motorisation :
+
+Tension : +5 V,
+Courant : <200 mA
+
+Motoréducteur : RE385LN
+Alimentation : 4,5 à 15 Vcc
+Consommation à vide : 0,15 A à 12 Vcc
+Consommation en charge : 0,840 A à 12 Vcc
+
+La puissance consommée par le capteur RFID et la carte électronique est de
+1,1W. La puissance consommée par le moteur du système est de 10,8W. La
+puissance moyenne consommée du distributeur Pmoy est évaluée à 12 W
+(moteurs + électronique, etc…).
+Question I.5
+Calculer l'énergie W bat stockée dans la batterie lorsque celle-ci est
+totalement chargée (expression littérale et application numérique).
+Déterminer en heure puis en minutes l'autonomie du distributeur
+tdistributeur, en fonctionnement continu.
+
+Commenté [A5]: Pas plus de deux verbes par question. Ne
+pas scinder une question en sous question
+
+Question I.6 :
+Conclusion générale
+
+Commenté [A6]: Cette conclusion d’aborde pas le travail sur
+la modélisation du moteur….
+
+L’appareil met 6 secondes pour se lever et 6 secondes pour descendre.
+Le chat mange 10 fois par jour.
+Conclure sur la possibilité d’utiliser pendant 6 mois le distributeur de
+nourriture.
+Proposer les améliorations à apporter au système ?
+
+Il serait plus pertinent de présenter une courbe superposant
+les résultats du modèle établi et les résultats du produit fini et
+d’amener le candidat à conclure
+
+Commenté [A7]: Eviter les formulations de type On, nous,
+
+Commenté [A8]: Il faut une rédaction avec un verbe d’action
+et non pas une forme interrogative
+
+EXERCICE 2 – GESTION DE L’APPORT DE NOURRITURE DANS DE
+BOL
+
+Commenté [A9]: Cet exercice comprend 2 problématiques.
+La conclusion finale doit reprendre ces questionnements dans
+leur globalité.
+
+Pour permettre le nettoyage et le remplissage du bol à aliments, les
+concepteurs ont installé sur le système deux boutons poussoirs permettant
+l’ouverture et la fermeture manuelle de la trappe.
+Un système de pesée du bol à aliments permet de gérer la quantité de
+nourriture à distribuer à l’animal.
+
+Problématique : Comment permettre le nettoyage et le remplissage du
+bol à aliments et afficher la quantité de nourriture ingérée par l’animal
+domestique ?
+
+Dans l’organigramme représenté sur le DR2, le bouton poussoir BP1 (relié au
+bit0 du portA du processeur) permet l’ouverture (détection d’un niveau haut) et
+le bouton poussoir BP2 (relié au bit 1 du portA du processeur) permet la
+fermeture (détection d’un niveau haut).
+
+Commenté [A10]: Il faudrait fusionner les problématiques
+pour donner du sens à toutes les questions.
+On peut par exemple envisager un contrôle de la trappe pour
+limite r la quantité de nourriture mangée par l’animal. On
+pourrait ainsi contrôler la trappe lorsque la mesure du poids
+indique que la ration quotidienne a été consommée
+
+Deux variables « Marche_moteur » et « Sens_moteur » gèrent l’ouverture et la
+fermeture de la trappe :
+Commenté [A11]: Formulation à reprendre pour faire une
+phrase en évitant « voici »
+
+Table de vérité de contrôle de la trappe :
+Marche_moteur
+
+Sens_moteur
+
+Action
+
+X
+
+Aucun
+mouvement
+
+Fermeture trappe
+
+Ouverture trappe
+
+Remarque : X signifie état indifférent (« 0 » ou « 1 »)
+Question II.1
+
+Compléter l’organigramme sur le document réponse DR2 à partir du
+tableau ci-dessus.
+
+La mesure de la quantité ingérée par l’animal est assurée par un capteur
+appelé « jauge universelle ou jauge à déformation » dont la résistance, notée
+Rj, varie en fonction de sa flexion.
+Celui-ci est installé dans un circuit électronique appelé « pont de
+Wheatstone ». La tension issue du pont est amplifiée et convertie (par
+un convertisseur analogique numérique) pour être traitée
+numériquement et affichée sur un afficheur LCD.
+Le bol à aliments pèse à vide 58 g et le bol plein peut contenir 200 g
+d’aliments.
+Pour un chat de taille moyenne, une ration journalière de 75 g de
+croquettes suffit.
+Chaîne d’information relative à l’acquisition de poids :
+
+Amplification
+
+Captage du
+poids
+Poids
+
+Jauges de
+contraintes
+
+Commenté [A12]: A rédiger sous la forme d’une phrase
+sans le mot « voici »
+
+Conversion
+
+Traitement
+et affichage
+
+Analogique
+
+Vout
+
+Rj
+
+Afficheur
+
+/
+Vamp
+
+Numérique
+
+Mnum
+
+LCD
+
+8 bits
+
+Le poids de la nourriture contenue
+dans le bol Poids évolue entre 0 gr et
+258 gr. Ce poids est converti en
+tension analogique Vout image du
+poids comprise entre 0 et 100 mV puis
+amplifié en une tension analogique
+Vamp comprise entre 0 et 5 V. Cette
+grandeur est ensuite convertie en
+valeur numérique Mnum sur 8 bits par
+un
+convertisseur
+Analogique
+Numérique en vue d’être affichée sur
+un afficheur à cristaux liquides.
+
+Commenté [A13]: Il faut rédiger un paragraphe pour plus de
+clarté
+Il faut représenter la masse sur le schéma électrique
+
+Figure 1
+
+Commenté [A14]: A basculer avant la question pour que le
+candidat ait toutes les informations pour y répondre
+
+Expression du pont diviseur de tension :
+
+Commenté [A19]: Rendre plus lisible
+
+Commenté [A15]: Ajouter « compléter DR2 « à la question
+
+Question II.2
+D’après le schéma électrique Figure 1, donner l’expression de VA , de
+VB ; puis de Vout = VA – VB , la différence de potentiel entre VA et VB.
+
+Commenté [A16]: Indiquer des numéros de figure distinct
+d’un exercice à l’autre.
+VARI pour toutes les figures
+
+Montrer que Vout = Valim.( Rj – R)/(2.(R+ Rj)).
+
+Commenté [A17]: Eviter les formulations de type On, nous,
+
+Commenté [A18]: Eviter les formulations de type On, nous,
+
+Question II.3
+Calculer le coefficient d’amplification G =
+
+𝑉𝑎𝑚𝑝
+𝑉𝑜𝑢𝑡
+
+.
+
+Sachant que le bol à aliment vide pèse 58 g, les concepteurs ont prévu un
+tarage automatique dans le programme. Ainsi, l’utilisateur verra sur l’afficheur
+le poids de l’aliment dans le bol, poids évoluant entre 0 g et 200 g.
+
+Commenté [A20]: Il serait judicieux de rappeler à quel
+couple de valeurs Vamp - Vout on veu créer pour facilite ce
+calcule
+
+Extrait du programme permettant de réaliser cette opération :
+Mnum = AnalogRead (Vamp )
+
+// Instruction permettant de réaliser la
+conversion
+
+Affich = Mnum ………….
+
+//Calcul à faire sur Mnum
+
+Print (« Le bol contient :», Affich , « grammes d’aliments »)
+
+Commenté [A21]: Il s’agit de commande d’un langage de
+programmation (exigible uniquement en Terminale) -> il faut
+donc privilégier une description sous forme d’algorithme avec
+des termes courants
+
+Commenté [A22]: Mêm remarque que r39
+
+Question II.4
+
+Compléter le tableau sur le document réponse DR2 en donnant les
+valeurs de Vout, Vamp, Mnum et Poids.
+
+Commenté [A23]: Préciser les natures des éléments à
+compléter
+Commenté [A24]: Cette question ne présente pas de réel
+intérêt, DR2 peut être complété au fur et à mesure des
+questions précédentes
+Il serait plus pertinent de diriger cette question vers une
+analyse du mot numérique produit en fonction de la tension
+Vamp et ainsi finaliser la complétion du tableau du DR2
+
+Question II.5
+Exprimer le calcul à réaliser sur « Mnum » pour que la variable
+« Affich » soit bien une valeur correspondant au poids réel des aliments
+dans le bol.
+
+Commenté [A25]: Question qui ne peut être traitée si on ne
+connaît pas la relation entre Rj et Mnum.
+
+L’afficheur est un afficheur LCD, qui utilise le protocole I2C. C’est un bus série
+synchrone, où plusieurs équipements peuvent être connectés au bus. La
+connexion est réalisée par l'intermédiaire de deux lignes :
+
+SDA (Serial Data Line) : ligne de données bidirectionnelle ;
+SCL (Serial Clock Line) : ligne d'horloge de synchronisation bidirectionnelle ;
+Un bit de Start (front descendant de la
+ligne SDA) et un bit de stop (front
+montant de la ligne SDA) encadre la
+trame émise.
+Exemple de trame sur le bus I2C
+Commenté [A26]: Lisibilité du schéma peut-elle être
+améliorée ?
+
+Exemple de chronogrammes envoyés sur SDA pour l’envoi d’un octet
+valant en décimal 181 = % 10110101
+
+Commenté [A27]: La question II6 dot permettre de répondre
+à la problématique générale.
+
+Question II.6
+
+Indiquer la valeur de « Affich » en binaire à envoyer vers l’afficheur
+lorsque celui-ci doit afficher 75 g.
+Compléter le chronogramme donné en document réponse DR2.
+
+Commenté [A28]: Un afficheur LCD reçoit des données en
+ASCII et non directement en décimal. Si on souhaite qu’il
+affiche 75 il faut donc lui envoyer le caractère ‘7’ suivi du
+caractère ‘5’
+Pour plus de rigueur il faudrait également évoquer à minima le
+principe des échanges entre maître et esclave en ne
+demandant de compléter que les 2 octets correspondants aux
+caractères à afficher.
+
+DOCUMENT RÉPONSE DR 1
+Question I.1: Montage
+1:
+
+Mot : motoréducteur
+
+Mot
+
+2:
+
+Question I.4 :
+Commenté [A29]: Dans le cadre, indiquer les vitesses à
+comparer
+
+Vitesse angulaire simulée en sortie du motoréducteur (courbe 1)
+rad.s-1
+
+Caractéristique de vitesse du motoréducteur :
+
+Secondes
+Couple résistant simulé en sortie du motoréducteur (courbe 2)
+N
+.
+m
+
+Caractéristique du couple résistant du
+motoréducteur :
+
+DOCUMENT RÉPONSE DR 2
+Commenté [A30]: Référence de la question
+
+Question II-1 :
+
+Question II-4
+Poids
+1g
+58 g
+132 g
+
+Vout
+
+Mnum
+Commenté [A31]: La mesure pour 1 g ne présente pas
+d’intérêt (le bol faisant 58 g) sauf si on suppose que la relation
+est linéaire et qu’on cherche à estimer la résolution de la
+mesure
+
+100 mV
+Question II-6
+
+Vamp
+
+5V
+Commenté [A33]: Lisibilité du schéma à reprendre

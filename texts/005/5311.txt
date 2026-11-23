@@ -1,0 +1,331 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1499623, "at": "2026-11-23T09:26:27+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme : Analyser , Modéliser et Résoudre
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 11
+
+Documents réponses ................................................... Page 12
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION
+Ce mini robot motorisé pour caméra, permet de faire des prises de vues animées. En
+fonction du réglage de l'angle des deux bras articulés supportant les deux roues
+folles, ce robot peut se déplacer en translation rectiligne ou suivant un mouvement
+de rotation autour d'un objet à filmer.
+Capacité :1800
+mAh
+Autonomie : 6h
+Tension : 3,4 V
+Masse maximale
+déplacée : 3 kg
+Rechargeable via
+USB
+Accessoires
+
+Mini robot motorisé pour caméra
+
+Principales
+caractéristiques
+Remarque
+La
+position
+angulaire est réglée
+manuellement
+en
+faisant correspondre
+visuellement
+le
+repère d'un bras
+articulé
+sur
+les
+graduations
+angulaires liées au
+corps. Ce réglage
+est donc quelque
+peu approximatif.
+
+Plié, ce robot est d'un faible volume
+Autres caractéristiques techniques
+3 vitesses de déplacements possibles :
+24 mm·s-1, 26 mm·s-1, 28 mm·s-1
+(précision ± 1 mm·s-1)
+2 sens de rotation pour la roue motrice (Av/Ar)
+Angle de réglage des bras articulés : ±90°(180°)
+
+Diamètre des roues : 37 mm
+Fréquence de rotation du moteur :4000
+tr·min-1
+Masse à vide : 0,280 kg
+Masse maximale de la charge : 3 kg
+
+Figure 1 : données techniques
+
+Figure 2 : diagramme des cas d’utilisations
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : on souhaite savoir si l'effort normal sur la roue motrice sera
+suffisamment important pour transmettre au sol par adhérence, l’effort tangentiel
+nécessaire à un déplacement du robot sur la pente maximale. L’étude des actions
+mécaniques de contact entre les roues et le sol sera faite dans le cas où la pente est
+nulle et dans le cas où la pente est maximale.
+Question I-1
+
+À partir de l’étude du diagramme des cas d’utilisation, indiquer
+quelle est la pente maximale que le robot doit gravir.
+
+Hypothèses :
+1- le plan (𝑂, 𝑦⃗, 𝑧⃗) est le plan de symétrie du mécanisme ;
+2- le plan (𝑂, 𝑦⃗, 𝑧⃗) est tel que les forces sont réparties de manière symétrique par
+rapport à ce plan ;
+3- le repère R0 (𝑂, 𝑥⃗, 𝑦⃗, 𝑧⃗) est un repère orthonormé lié au plan du sol 1 de normale
+𝑧⃗ et pouvant être incliné par rapport au référentiel terrestre ;
+4- le repère Rt (𝑂, 𝑥⃗𝑡 , 𝑦⃗𝑡 , 𝑧⃗𝑡 ) est un repère orthonormé lié au référentiel terrestre tel
+que 𝑧⃗𝑡 est de direction verticale ;
+5- le poids propre du robot est négligé par rapport au poids maximal de l'appareil
+photo de 30 N.
+
+Cas n°1 – Robot en statique sur sol horizontal (R0 = Rt)
+La figure 3 présente le robot sur un sol horizontal.
+
+⃗⃗⃗⃗⃗⃗
+𝑂𝐴 = ൭82൱
+−62
+⃗⃗⃗⃗⃗⃗ = ൭ 82 ൱
+𝑂𝐵
+⃗⃗⃗⃗⃗⃗ = ൭32൱
+𝑂𝐶
+
+Figure 3 : vue en perspective et vues planes du Robot
+Les points O, A et B définis sur la figure 3 représentent respectivement les points de
+contact entre les roues 4, 3, 5 et le sol 1.
+Le point C est un point de l’axe du support du poids de l’appareil photo noté ⃗𝑃.
+Les coordonnées des points sont indiquées sur la figure 3.
+L’étude statique est faite sur l’ensemble S = {2, 3, 4, 5, appareil photo}.
+
+L’inventaire des actions mécaniques agissant sur l’ensemble isolé est le suivant :
+{𝜏1→3 } action du sol 1 sur la roue 3 au point B ;
+{𝜏1→4 } action du sol 1 sur la roue 4 au point O ;
+{𝜏1→5 } action du sol 1 sur la roue 5 au point A ;
+⃗
+{𝜏𝑝𝑒𝑠→𝑆 } = {𝑃 } action de la pesanteur, 𝑃⃗ = −𝑚 ⋅ 𝑔 ⋅ 𝑧⃗𝑡 .
+⃗0⃗ 𝐶
+On note 𝑅⃗⃗𝑖→𝑗 = 𝑋𝑖𝑗 . 𝑥⃗ + 𝑌𝑖𝑗 . 𝑦⃗ + 𝑍𝑖𝑗 . 𝑧⃗ la résultante de l’action mécanique de 𝑖 → 𝑗 .
+On suppose, en première approche, que les liaisons entre le sol et les roues sont
+parfaites.
+
+Figure 4 : contact entre le sol 1 et l’une des roues
+Question I-2
+
+Compte tenu de la géométrie de contact présentée sur la figure 4
+proposer en le justifiant la forme du torseur {𝜏1→5 }.
+
+Question I-3
+
+À partir de la réponse précédente et des hypothèses énoncées
+en début de sujet, établir, en le justifiant, une relation entre les
+composantes de 𝑅⃗⃗1→3 et 𝑅⃗⃗1→5 .
+
+Pour la suite on admet que :
+𝑅⃗⃗1→3 = ൭ 0 ൱ ; 𝑅⃗⃗1→4 = ൭ 0 ൱ ; 𝑅⃗⃗1→5 = ൭ 0 ൱.
+𝑍13
+𝑍14
+𝑍15
+
+Question I-4
+
+Calculer au point O les 4 moments suivants :
+⃗⃗⃗ (𝑂, 1 → 3), 𝑀
+⃗⃗⃗ (𝑂, 1 → 4), 𝑀
+⃗⃗⃗ (𝑂, 1 → 5) et 𝑀
+⃗⃗⃗ (𝑂, 𝑝𝑒𝑠𝑎𝑛𝑡𝑒𝑢𝑟 → 𝑆)
+𝑀
+
+L’ensemble S est à l’équilibre donc :
+𝑅⃗⃗1→3 + 𝑅⃗⃗1→4 + 𝑅⃗⃗1→5 + 𝑃⃗ = ⃗0⃗
+{
+⃗⃗⃗ (𝑂, 1 → 3) + 𝑀
+⃗⃗⃗ (𝑂, 1 → 4) + 𝑀
+⃗⃗⃗ (𝑂, 1 → 5) + 𝑀
+⃗⃗⃗ (𝑂, 𝑝𝑒𝑠𝑎𝑛𝑡𝑒𝑢𝑟 → 𝑆) = ⃗⃗
+𝑀
+Question I-5
+
+Déduire des deux équations précédentes les valeurs de 𝑍13 ,
+𝑍14 et 𝑍15 .
+
+Cas n°2 - Robot à vitesse constante sur sol incliné suivant la pente maximale
+L’angle maximal étant petit, les composantes normales des actions transmissibles
+par les contacts sont sensiblement les mêmes que celles calculées à la question
+précédente.
+Dans le cas d’un déplacement sur un sol incliné, le modèle des liaisons mécaniques
+entre le sol et les roues n’est plus un modèle parfait.
+
+Figure 5 : déplacement sur sol incliné
+Question I-6
+
+Déterminer, dans la base (𝑥⃗, 𝑦⃗, 𝑧⃗), les coordonnées du vecteur
+caractérisant le poids de l'appareil photo.
+Conclure en répondant à la problématique initiale en vérifiant que
+l’effort qui va s'opposer au déplacement du robot sur cette pente
+maximale est inférieur à 6 N (valeur déterminée en tenant compte
+du facteur d’adhérence entre la roue et le sol).
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : on désire améliorer le comportement du robot afin de limiter l’écart
+de vitesse dû au poids de l’appareil photographique lors du déplacement suivant une
+trajectoire rectiligne sur un plan incliné.
+Question II-1
+DR1
+
+À partir du document réponse DR1 sur lequel est modélisé la chaîne
+de puissance relative au déplacement du robot, indiquer (dans les
+rectangles prévus à cet effet) les flux et efforts entre chaque élément
+de ce système en précisant les unités normalisées dans le système
+SI.
+
+Quatre simulations réalisées à l’aide d’un modèle multi-physique, permettent
+d’estimer le comportement du mini-robot se déplaçant à sa vitesse maximale en
+fonction de la pente et de la charge déplacée. Le modèle retenu pour le moteur est
+donné à la figure 7.
+
+Figure 6 : résultats de simulation
+
+Figure 7 : modèle équivalent du moteur
+D’autre part, le diagramme des exigences du robot est rappelé à la figure 8.
+
+Figure 8 : diagramme des exigences
+Question II-2
+
+D’après les résultats de simulation (figure 6), conclure sur
+l’exigence de performance 1.2.1 (figure 8)
+
+L’équation électrique du modèle équivalent du moteur à courant continu (moteur DC)
+à aimant permanent est rappelée ci-dessous :
+𝑈 =𝐸+𝑅∙𝐼
+E : la force électromotrice (V)
+R : la résistance d’induit ()
+I : le courant d’induit (A)
+U : la tension aux bornes de l’induit (V)
+Question II-3
+
+Indiquer dans ce modèle, la grandeur électrique image de la
+fréquence de rotation . Déduire des résultats de simulation (figure
+6) et du modèle équivalent du moteur (figure 7), la grandeur
+électrique qui n’est pas contrôlée par le système existant.
+
+Afin de modifier l’algorithme, on souhaite obtenir, sur une entrée analogique du
+microcontrôleur, l’image de l’intensité du courant électrique circulant dans le moteur
+à courant continu. Le montage présenté figure 9 permet cette mesure.
+
+Figure 9 : obtention de l’image du courant moteur I
+Principe de l’acquisition
+- On mesure la tension aux bornes d’une résistance Rm = 1,2 mΩ.
+Uim = Rm . I
+- On amplifie la tension UIm et on obtient Uimes .
+- On convertit Uimes en valeur numérique NI = 310xUImes par l’entrée analogique du
+microcontrôleur (ADC0).
+Question II-4
+DR2
+
+Pour les différents fonctionnements de la figure 6, calculer UIm puis
+Uimes. En déduire à chaque fois la valeur numérique et compléter
+le tableau du document réponse.
+
+Figure 10 : commande du moteur
+L’équation permettant de compenser la perte de vitesse sur le plan incliné
+est donnée par 𝑈𝑚𝑜𝑡 = 2,8 + 2,3𝐼. On utilise un hacheur, commandé par une sortie
+Modulation Largeur d’Impulsion (figure 10), qui permet de moduler la valeur de Usortie
+(donc aussi la valeur Umot) grâce à l’algorithme décrit, partiellement, ci-dessous :
+NI Lire_comme-entier(ADC0)
+//lecture de l’entrée analogique NI = Ix400 //
+Rapport_cyclique  2,8/0,013
+Set_duty_cycle(Rapport_cyclique)
+//sous-programme d’écriture sur la sortie MLI
+Usortie=0,013xRapport_cyclique //
+Question II-5
+
+Conclure sur la possibilité de cet algorithme à répondre à l’équation :
+𝑈𝑚𝑜𝑡 = 2,8 + 2,3𝐼.
+Proposer une solution permettant de compenser la perte de vitesse
+sur plan incliné.
+
+Question II-6
+
+Modifier, sur le document réponse, l’algorithme afin de compenser la
+perte de vitesse sur plan incliné.
+
+DR3
+
+DOCUMENTS RÉPONSES
+DR1- QII-1
+
+DR2- QII-4
+Im (A)
+Inclinaison
+m = 1 kg
+0°
+maximale
+0,24
+m = 3 kg
+0°
+maximale
+
+U_Im (mV)
+
+U_Imes (V)
+
+0,288
+
+0,312
+
+N_Im
+
+DR3- QII-6
+NI Lire_comme_entier(ADC0)
+//lecture de l’entrée analogique NI = Ix400 //
+……..............….....……...............………………
+
+Partie à compléter
+
+Set_duty_cycle(Rapport_cyclique)
+//sous-programme d’écriture sur la sortie MLI
+Usortie=0,013xRapport_cyclique //

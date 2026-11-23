@@ -1,0 +1,160 @@
+{"pages": 5, "method": "pdftotext", "bytes": 720410, "at": "2026-11-23T09:34:25+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+EXERCICE 1
+EFFET DE SERRE ET TEMPERATURE TERRESTRE
+
+La Terre reçoit l’essentiel de son énergie du soleil. Cette énergie conditionne sa
+température de surface mais ce n’est pas l’unique facteur influençant cette
+température de surface.
+La surface terrestre émet un rayonnement qui participe à l’effet de serre
+atmosphérique.
+Question : En exploitant les documents 1 et 2, compléter le schéma fourni en
+annexe (annexe à rendre avec la copie) et rédiger un texte argumenté qui explique
+comment l’effet de serre influence la température moyenne de surface de la Terre.
+La longueur de la réponse ne doit pas excéder une page.
+
+Précisions : Sur le schéma, les rayonnements qui interviennent dans l’effet de serre
+atmosphérique seront représentés schématiquement par des flèches : Les
+rayonnements diffusés ou réfléchis seront d’une couleur et les rayonnements
+thermiques émis par les différents corps en présence (sol, atmosphère, nuages) le
+seront dans un autre couleur afin de les distinguer. Le domaine spectral dominant
+(infrarouge ou visible) sera indiqué clairement sur le schéma. Aucune valeur
+numérique n’est attendue.
+Document 1. L’émission d’un rayonnement infrarouge par la surface terrestre.
+La surface terrestre reçoit l’énergie du soleil par rayonnement. Une partie de cette
+énergie est absorbée par le sol. Comme tout corps, le sol terrestre réémet à son tour
+de l’énergie, sous la forme d’un rayonnement infrarouge. L’essentiel du rayonnement
+thermique de la Terre se situe dans l’infrarouge thermique.
+Le domaine de l'infrarouge est relativement étendu puisqu'il couvre les longueurs
+d'onde de 700 à 100 000 nm. Dans cette fourchette de longueurs d'onde, il existe
+quatre types d'infra-rouges dont l’infrarouge thermique (4000 nm à 15 000 nm).
+
+Document 2. Graphique
+représentant la puissance
+du rayonnement infrarouge
+thermique (IR) émis vers
+l’espace par la Terre, en
+fonction de la longueur
+d’onde.
+La courbe en traits pointillés
+représente le spectre
+d’émission au niveau du sol ;
+la courbe en trait continu
+représente le spectre du
+rayonnement après traversée
+de l’atmosphère.
+
+Source : https://svt.ac-versailles.fr/spip.php?article258
+
+EXERCICE 2
+GAMME TEMPÉRÉE ET GAMME DE PYTHAGORE
+Il y a eu dans l’histoire de nombreuses constructions de gammes pour ordonner les
+notes à l’intérieur d’une octave. Cet exercice étudie deux types de gammes à douze
+notes : la gamme tempérée et la gamme de Pythagore.
+
+L’octave peut être divisée en douze intervalles en formant douze notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si). La gamme fréquemment utilisée de
+nos jours est la gamme tempérée, dans laquelle le rapport de fréquences entre deux
+notes consécutives est constant.
+
+1- Préciser la valeur du rapport des fréquences de deux notes séparées d’une
+octave.
+
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est 12 2 .
+3- La fréquence du La3 est égale à 440 Hz. Calculer la valeur, arrondie au dixième,
+de la fréquence de la note suivante (Si3b) dans la gamme tempérée.
+4- Jusqu’au XVIIe siècle, la gamme la plus utilisée était la gamme de Pythagore,
+obtenue à partir des quintes successives d’une note initiale. Le tableau ci-dessous
+donne les fréquences des différentes notes de la gamme de Pythagore en partant de
+440 Hz.
+Note
+
+Mi3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+Do4#
+
+Ré4
+
+Ré4#
+
+Fréquence
+(Hz)
+
+352,4
+
+371,3
+
+396,4
+
+417,7
+
+469,9
+
+528,6
+
+556,9
+
+594,7
+
+626,5
+
+4-a- Calculer le rapport des fréquences des notes Si3 et Mi3 et donner le nom d’un tel
+intervalle.
+
+4-b- On considère la fonction Python freq_suivante ci-dessous qui permet de
+construire la gamme de Pythagore.
+
+def freq_suivante(f) :
+f = 3/2*f
+if f >= 660 :
+f = f/2
+return(f)
+
+Donner les nombres renvoyés après l’exécution de freq_suivante(330) et de
+freq_suivante(440).
+Préciser les notes correspondantes.
+
+ANNEXE A RENDRE AVEC LA COPIE
+EXERCICE 1 : EFFET DE SERRE ET TEMPERATURE TERRESTRE
+Représentation schématique des rayonnements intervenant dans l’effet de serre.
+Le schéma est réalisé dans le cas particulier d’une surface rocheuse non-réfléchissante.

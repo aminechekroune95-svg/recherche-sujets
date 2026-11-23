@@ -1,0 +1,274 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1032152, "at": "2026-11-23T09:25:19+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Étude d’une structure en béton : de la pose à l’analyse (10 points)
+Un coffrage a pour but de réaliser avec du béton des ouvrages aux formes définies. Il s’agit
+d’une structure provisoire utile pour maintenir le béton en place en attendant sa prise puis son
+durcissement.
+Une fois la structure en béton réalisée, il est important de vérifier si celle-ci ne présente aucun
+défaut. Des contrôles de la structure sont faits grâce à des outils utilisant des ondes de
+différentes natures.
+1. Pression exercée par le béton sur les fondations
+Le béton frais avant le début de son durcissement possède des propriétés communes avec les
+liquides. Le béton frais exerce une pression sur le coffrage qui l’entoure et sur les fondations. Il
+est donc important d’estimer cette pression pour s’assurer que la structure est suffisamment
+résistante.
+Le coffrage représenté ci-dessous permet de construire un pilier carré en béton de côté
+L = 30,0 cm et de hauteur h = 4,50 m ouvert du côté A.
+
+Figure 1. Coffrage vu du dessus
+Source : www.cofrasud.com
+
+Figure 2. Coffrage vu de côté
+
+il existe différents types de coffrage plus ou moins résistants à la pression exercée par
+le béton liquide.
+Gammes
+Pression relative* maximale autorisée
+Coffrages
+exercée sur les coffrages (en kPa)
+Alu et acier
+Élite métal
+Cosfort métal
+* La pression relative est l’écart entre la pression dans le liquide P et la pression
+atmosphérique Patm : Prelative = P - Patm
+Source : https://www.coffrages-cosmos.com
+intensité de la pesanteur g = 9,81 N·kg ;
+masse volumique du béton ρbéton = 2,40×103 kg·m-3 ;
+pression atmosphérique Patm = 1,00 bar avec 1 bar = 105 Pa ;
+les pressions en deux points situés dans un même liquide incompressible sont liées
+par le principe fondamental de l’hydrostatique : P2 – P1 = ρ × g × (z1- z2), avec P1 et P2
+pressions (en Pa) aux points d’altitudes z1 et z2 (en m) et ρ la masse volumique du
+liquide en kg.m-3.
+1.1. Indiquer la valeur de la pression PA au point A en pascal (Pa).
+1.2. Montrer que la valeur de la pression au point B est PB = 2,06×105 Pa.
+
+1.3. Indiquer la gamme de coffrage à utiliser pour construire ce pilier en béton.
+2. Étude de la qualité du béton
+Une fois la structure en béton réalisée, il est possible de contrôler sa qualité (résistance,
+défauts, position des armatures, etc.) grâce à des techniques utilisant des ondes de
+différentes natures.
+Étude par gammagraphie
+La gammagraphie est une méthode d’inspection des constructions en béton qui est utilisée
+pour localiser les armatures en fer contenues dans le béton. Le principe de fonctionnement de
+cette technique est fondé sur l’émission de rayonnement gamma par une source (ici le Cobalt
+60) qui traverse le matériau ausculté. Le rayonnement gamma est absorbé en fonction de la
+nature et de la densité du matériau, permettant ainsi d’obtenir une image, en niveaux de gris,
+des objets présents dans le volume de béton radiographié.
+D’après www.ifsttar.fr
+L’émission de rayonnement gamma par le Cobalt 60 se fait en plusieurs étapes :
+- 1ère étape : en subissant une désintégration radioactive le Cobalt 60 se transforme en
+du Nickel 60 à l’état d’énergie E3 ;
+- 2ème étape : la désexcitation de l’atome de Nickel de l’état d’énergie E3 à l’état d’énergie
+E1 entraîne l’émission d’un rayonnement ;
+- 3ème étape : l’atome de Nickel se désexcite une seconde fois passant du niveau
+d’énergie E1 au niveau fondamental.
+
+Figure 3. Diagramme d’énergie du Nickel 60
+domaine des ondes électromagnétiques :
+
+constante de Planck : h = 6,63 ×10–34 J·s ;
+1 eV = 1,602 × 10–19 J.
+2.1. Reproduire sur votre copie le diagramme d’énergie du Nickel 60 de la figure 3 et
+présenter les transitions correspondant à la 2ème et la 3ème étape évoquées dans le
+texte.
+2.2. Montrer que l’énergie d’un photon émis lors de la 2ème étape vaut E = 1,9×10-13 J.
+2.3. Calculer la fréquence de l’onde émise lors de la 2ème étape. Justifier le nom donné à
+cette méthode d’inspection.
+Étude par onde ultrasonore
+L’utilisation d’ultrasons est un outil très adapté pour l’évaluation non destructive des bétons. Il
+est possible de détecter des microfissures en étudiant la propagation d’onde ultrasonore dans
+le béton. De plus, la vitesse de propagation des ondes ultrasonores est reliée directement à la
+résistance du béton et donc à la qualité de celui-ci.
+La courbe ci-dessous représente une simulation de la tension d’alimentation d’un émetteur à
+ultrason utilisé pour le contrôle des bétons :
+
+U
+(en V)
+
+-5
+-10
+-15
+
+t (en ns)
+
+L’émetteur génère des ondes ultrasonores de même fréquence que celle de la tension qui
+l’alimente.
+2.4. Calculer, en MHz, la valeur de la fréquence des ondes utilisées par cet appareil. On
+explicitera la méthode utilisée.
+Pour qu’un défaut dans la structure soit détectable, il faut qu’il ait une taille au moins égale à la
+moitié de la longueur d’onde ultrasonore.
+La vitesse des ondes ultrasonores peut aller jusqu’à 4 500 m·s-1 dans le cas des bétons de
+grande qualité.
+
+2.5. Une fissure est à considérer comme anormale dès qu’elle dépasse 0,3 mm de largeur.
+Est-il possible de détecter, dans un béton de grande qualité, une fissure de 0,3 mm à
+l’aide de cet émetteur à ultrason ?
+Dans le cas d’un béton soumis au feu, l’élévation de température provoque une modification
+physico-chimique du matériau. L’auscultation aux ultrasons, fondée sur des mesures de temps
+de parcours d’onde ultrasonore est une méthode particulièrement bien adaptée pour remonter
+à la résistance du béton et ainsi déterminer si une zone a été trop endommagée par le feu.
+L’auscultation aux ultrasons consiste à envoyer des ultrasons à l’aide d’un émetteur (E). On
+place ensuite tous les 20 cm des récepteurs (R1 à R4) et on mesure la durée de trajet du
+signal.
+D’après le laboratoire central des Ponts et Chaussées.
+Principe de l’auscultation aux ultrasons
+
+E : Émetteur à Ultrason
+R : Récepteurs
+Onde
+ultrasonore
+
+Béton ausculté
+
+D’après : http://thesesups.ups-tlse.fr
+Résultats pour le bloc de béton soumis au feu :
+Récepteur
+Distance entre émetteur et
+récepteur (en cm)
+R1
+R2
+R3
+R4
+
+Temps de réception
+du signal (en µs)
+
+Relation entre vitesse des ultrasons et qualité du béton
+Vitesse des
+Appréciation de la
+ultrasons v en m.s
+qualité
+> 4500
+Excellent
+3500 à 4500
+Bon
+3000 à 3500
+Assez bon
+2000 à 3000
+Médiocre
+<2000
+Très mauvais
+
+D’après http://www.geniecivilfrance.com
+On considère qu’une zone de béton de qualité médiocre ou inférieure est éliminée par piquage
+pour réparation ou reconstruction.
+2.6. Déterminer si le morceau de béton compris entre les récepteurs R2 et R3 ausculté doit
+subir des réparations.
+PARTIE B
+Les hydrogels Haraguchi (10 points)
+Les hydrogels sont des gels qui ont la propriété de gonfler en présence d'eau car ils sont
+super absorbants. Ils sont constitués de polymères, macromolécules de masses molaires
+élevées constituées de la répétition d’un grand nombre de sous-unités. Ils présentent de
+nombreuses applications biomédicales : traitement de brûlures, délivrance de médicaments
+etc.
+On s'intéresse aux hydrogels Haraguchi, hydrogels très élastiques puisqu’ils peuvent s’étirer
+jusqu’à 25 fois leur longueur et qui possèdent des propriétés cicatrisantes étonnantes. Par
+exemple, lorsque l’on coupe un hydrogel Haraguchi en deux, puis que l’on appose côte à côte
+les deux parties, le gel se reforme de lui-même.
+
+Figure 1: à gauche, un hydrogel coupé et à droite ce même hydrogel autocicatrisé
+D’après publication de K.Haraguchi https://onlinelibrary.wiley.com/doi/abs/10.1002/marc.201100248
+
+L’objectif de cet exercice est de s’intéresser aux espèces chimiques et solutions mises en jeu
+dans le protocole expérimental de synthèse d'hydrogels Haraguchi rédigé ci-après :
+- dans un ballon de 50 mL, introduire un volume de 5 mL d’eau distillée ;
+- introduire un volume de 1,0 mL d'une solution aqueuse de persulfate de potassium
+de concentration molaire apportée en persulfate de potassium C = 1,85 × 10 -1
+mol.L-1 ;
+- introduire 24 µL de TEMED (N,N,N’,N’- tétraméthyléthylènediamine), et 3,0 mL
+d’une solution aqueuse de DMAA (N,N - diméthylacrylamide) ;
+- agiter la solution pendant une durée de 15 minutes sous atmosphère de diazote ;
+
+-
+
+ajouter une solution de laponite (petites billes d'argile) et garder 2 minutes sous
+agitation ;
+- verser le mélange dans un moule et laisser sécher au moins douze heures.
+D’après ESPCI : https://blog.espci.fr/pse1/files/2018/06/materiel-et-methodes-Haraguchi.pdf
+Données
+- Extrait des trois premières lignes du tableau périodique :
+Z
+
+M
+
+X
+Z : numéro atomique
+M : masse molaire
+atomique en g.mol
+
+-
+
+Les atomes d’oxygène O et d'azote N sont bien plus électronégatifs que les atomes
+de carbone C et d’hydrogène H.
+On considère, pour simplifier, que les électronégativités du carbone et de
+l’hydrogène sont semblables.
+Caractéristiques des réactifs utilisés dans la synthèse
+
+Nom
+
+Formule
+
+Masse molaire
+
+Persulfate de
+potassium
+
+K2S2O8 (s)
+
+270 g.mol-1
+
+DMAA
+
+99,1 g.mol-1
+
+TEMED
+
+116 g.mol-1
+
+Pictogrammes
+
+1. Donner les précautions à prendre pour réaliser la synthèse d'hydrogels Haraguchi au
+laboratoire.
+2. La configuration électronique du potassium K est 1s22s22p63s23p64s1. Écrire la formule de
+l’ion potassium. Justifier. En déduire la charge de l’ion persulfate associé à l’ion potassium
+dans persulfate de potassium K2S2O8.
+3. Citer l'interaction à l'origine de la cohésion du persulfate de potassium solide.
+4. Écrire l'équation de la réaction de dissolution du persulfate de potassium solide dans l'eau.
+À partir de persulfate de potassium solide, on souhaite préparer un volume V = 100 mL de
+solution aqueuse de persulfate de potassium de concentration molaire apportée en persulfate
+de potassium C = 1,85 × 10 -1 mol.L-1.
+5. Rédiger le protocole expérimental permettant de réaliser cette solution en précisant la
+verrerie, les volumes et masses prélevés.
+6. Établir la représentation de Lewis de la molécule de DMAA et préciser la géométrie de cette
+molécule autour de l'atome d'azote. Justifier.
+7. La molécule de DMAA est une molécule polaire. Parmi les liaisons chimiques de cette
+molécule de DMAA, préciser celles qui sont polarisées.
+8. En détaillant le raisonnement, expliquer pourquoi la molécule d’eau est polaire. Un schéma
+est attendu. Justifier alors l'emploi de l'eau comme solvant dans cette synthèse.
+Ci-dessous sont représentées de manière simplifiée des macromolécules d’hydrogels
+synthétisées avec notamment les substituants aux chaînes de polymères provenant du DMAA
+:
+
+9. Nommer la (les) interaction(s) qui existe(nt) entre l’hydrogel et l’eau et expliquer
+succinctement pourquoi l’on parle d’hydrogels « superabsorbants ».
+Des histogrammes représentant le pourcentage d'élongation à la rupture* en fonction de la
+quantité de matière de laponite sont représentés ci-dessous pour des échantillons témoins (
+
+échantillons neufs) et des échantillons cicatrisés, c’est-à-dire coupés en deux puis apposés
+côte à côte pour permettre l’autocicatrisation du gel.
+* L’élongation à la rupture est l’élongation maximale supportée par l’échantillon d’hydrogels
+Haraguchi avant qu’il ne se fracture.
+
+D’après https://blog.espci.fr/pse1/les-hydrogels-haraguchi-les-secrets-de-lauto-cicatrisation/
+10. Commenter ces histogrammes.

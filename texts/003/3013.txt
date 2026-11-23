@@ -1,0 +1,236 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1845721, "at": "2026-11-23T09:27:24+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé – Calculatrice autorisée
+SUJET SI-N°05_04
+
+Constitution du sujet
+
+Présentation du produit ………………………………… Page 2
+
+Étude d'une performance du produit .......................... Pages 3 à 5
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 6 à 7
+
+Documents réponses ................................................... Page 8
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre,
+équilibrés en durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les
+connaissances associées pour qualifier et/ou quantifier cette
+performance, à partir de l'analyse, de la modélisation de tout ou partie
+du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du
+produit ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies
+au candidat qu'il devra exploiter, compléter ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par
+les textes en vigueur.
+
+1. Présentation du produit
+Le système étudié est le lanceur RoboPro Junior proposé par Tibhar utilisé
+lors d’entraînements de tennis de table. Le contexte d’utilisation est décrit par
+le diagramme figure 1.
+
+Figure 1 : Diagramme de contexte du lanceur Tibhar.
+L’éjection d’une balle est réalisée par une association de deux galets (un
+supérieur et un inférieur) mis en mouvement dans des sens opposés par des
+moteurs à courant continu.
+La balle, située dans le récipient supérieur, est mise en attente par le
+sélecteur de balle qui en libère une à chaque fois qu’il fait un tour.
+De plus, un système mécanique réglable de type bielle-manivelle permet la
+rotation de l’ensemble de la tourelle.
+
+2. Exercice 1 : Étude d’une performance du lanceur
+Objectif : Déterminer les conditions géométriques du mécanisme d’oscillation
+de la tourelle pour garantir l’envoi des balles sur toute la zone d’entraînement
+attendue.
+La figure 3 présente le diagramme des exigences partiel du lanceur étudié.
+
+Figure 3 : Diagramme des exigences partiel du lanceur de balles.
+
+Figure 4 : Positionnement du
+lanceur et identification de la
+zone d’envoi.
+
+Question 1.1. Justifier la nécessité d’intégrer un système d’orientation au
+regard du diagramme des exigences (figure 3) et du schéma figure 4.
+Calculer l’angle maximal de balayage (noté ) que la tourelle doit assurer
+pour garantir le respect de cette exigence.
+Pour la suite de l’étude, on retient un angle maximal de balayage souhaité de
+ = 56 °.
+La figure 5 présente une photo de la tourelle et de son débattement angulaire
+réel entre les deux positions extrêmes.
+
+Figure 5 : Résultat de la mesure du débattement angulaire
+de la tourelle entre ses deux positions extrêmes.
+Question 1.2. Suite à cette mesure (figure 5), conclure, en justifiant par un
+calcul d’écart en pourcentage, quant au respect du cahier des charges.
+Pour valider les modifications du lanceur, un travail sur un modèle mécanique
+est envisagé. Ce dernier se concentre sur la transmission mécanique qui
+assure l’oscillation de la tourelle.
+
+Figure 6 : Diagramme de blocs (BDD) du sous-ensemble « Tourelle ».
+
+Question 1.3. En utilisant le diagramme de blocs (figure 6) et à partir du
+schéma cinématique du document DR1, préciser les éléments qui composent
+le système d’orientation de la tourelle. Pour chacun d’entre eux, nommer les
+grandeurs flux et les grandeurs effort d’entrée et de sortie.
+
+Question 1.4. Proposer, en le justifiant, un modèle de liaison associé à la
+mobilité entre la tourelle S1 et le bâti S0. Compléter, sur le document réponse
+DR1, le schéma cinématique.
+Suite à un travail préliminaire de paramétrage, le logiciel de simulation a
+calculé les différentes positions angulaires de la tourelle par rapport au bâti
+(voir figure 7).
+
+
+(
+°
+)
+
+Valeur maxi :
+16,73 °
+
+Valeur mini : 14,05 °
+
+Figure
+7 : Évolution de la
+t
+position angulaire de la
+tourelle
+par rapport au bâti
+(
+en fonction du temps pour
+s
+un cycle complet de
+)
+balayage
+depuis la position
+médiane.
+
+Question 1.5. D’après la figure 7, relever l’angle total balayé par la tourelle.
+Conclure sur la validité du modèle en calculant l’écart pour le critère « angle
+de balayage ».
+
+On souhaite désormais ajuster le paramétrage du modèle pour atteindre les
+performances attendues ( = 56 °). On fixe la longueur de la bielle S3 (CB =
+55 mm) ainsi que la distance OA (= 35 mm) et on cherche la longueur
+optimale de l’excentration e de la manivelle S2.
+
+Figure 8 : Courbe
+issue de l'exploitation
+de la loi entrée – sortie
+du mécanisme
+d'orientation de la
+tourelle.
+Question 1.6. À l’aide de l’équation de la courbe tendance (figure 8), calculer
+la valeur de l’excentration e de la manivelle S2 qui garantisse le respect du
+cahier des charges. Suite à cette étude, conclure sur l’objectif initialement
+fixé.
+
+3. Exercice 2 : Commande du lanceur
+Objectif : Analyser le système d’oscillation droite / gauche du lanceur et
+modifier le système de commande pour qu’il lance les balles à fréquence
+variable.
+Un point important en tennis de table pour un entrainement efficace est de
+varier les situations de jeu. Une des limites actuelles de ce modèle de lanceur
+est justement que les balles ne sont envoyées qu’en extrémité de course
+(droite ou gauche). Cela rend prévisible la trajectoire de la balle avant même
+qu’elle ne soit éjectée.
+Adapté à certains exercices pour des juniors, on souhaite faire évoluer ce
+fonctionnement en proposant un mode « Aléatoire ».
+
+Dans ce nouveau mode, le lanceur doit envoyer les balles de gauche à droite
+à une fréquence réglable, sans pour autant dépasser la limite haute fixée par
+l’utilisateur ni la limite basse qui rendrait l’exercice inintéressant.
+Dans un premier temps, on se propose d’analyser la façon dont la tourelle
+oscille de gauche à droite.
+
+Question 2.1. À la lecture du document réponse DR1, déterminer le nombre
+d’aller-retour effectué(s) par la tourelle lorsque la manivelle S2 a fait un tour.
+On s’intéresse à présent à la solution constructive retenue pour libérer les
+balles depuis le
+récipient de stockage vers le module d’éjection. Les concepteurs ont choisi
+d’utiliser un disque ajouré qui tourne en continu (figure 9).
+
+Figure 9 : Principe de libération des balles grâce au disque ajouré (vue de dessus).
+Question 2.2. Déterminer le nombre de balles libérées à chaque tour du
+disque ajouré. D’après les fréquences d’envoi des balles précisées dans le
+diagramme des exigences (figure 3), calculer les vitesses angulaires
+extrêmes du disque attendues en rads-1.
+
+Dans l’optique d’introduire un nouveau mode de fonctionnement qui
+permettrait une fréquence réglable des lancers des balles, une solution est de
+remplacer le disque ajouré présent par un actionneur électromécanique de
+type solénoïde (figure 10).
+Celui-ci permettra, à chaque impulsion de commande, de libérer une balle.
+
+Figure 10 : Solénoïde sélectionné
+(Référence : ZH0 – 0420S – 05A4.5).
+
+Sa tension nominale d’alimentation est de 5 V et sa résistance de 4,5 Ω. Le
+modèle équivalent simplifié en continu de l’actionneur est une résistance.
+Question 2.3. Représenter, sur votre copie, le modèle équivalent électrique
+de ce nouveau composant. Pour la tension d’alimentation nominale, calculer
+l’intensité du courant nécessaire à l’alimentation de cet actionneur ainsi que la
+puissance électrique consommée.
+
+Des mesures ont été effectuées dans des conditions réelles. En moyenne, sur
+un entraînement d’une durée d’une heure, le robot est en fonctionnement 35
+minutes et a une consommation énergétique globale de 15 Wh.
+Le système actuel de disque ajouré pour libérer les balles ne représente que
+10 % de la consommation totale du robot.
+Question 2.4. Calculer la consommation énergétique de la nouvelle solution
+proposée avec l’actionneur électromécanique dans les mêmes conditions
+d’entraînement. En déduire la surconsommation globale qui serait engendrée
+par cette évolution.
+
+Un extrait de l’algorigramme qui gère la vitesse du lancer est proposé dans le
+document réponse DR2. On rappelle que la fréquence de lancer des balles
+doit être réglable entre 0,5 Hz et 2 Hz.
+Question 2.5. Calculer les intervalles de temps maxi et mini entre chaque
+lancer (notés Tmax et Tmin). À la lecture de l’algorigramme (DR2), en déduire
+le nombre de réglages possibles.
+
+Question 2.6. Compléter la partie de l’algorigramme (DR2) qui permet de
+réduire la fréquence d’envoi des balles pour un pas de décrémentation
+identique à celui de l’incrémentation. Conclure sur le fait que le lancer peut se
+produire dans une position aléatoire.
+
+Document réponse DR1
+Exercice 1 – Étude de performance (Question 1.4.)
+
+Document réponse DR2
+Exercice 2 – Étude de performance (Question 2.6.)

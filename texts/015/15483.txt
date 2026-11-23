@@ -1,0 +1,293 @@
+{"pages": 15, "method": "pdftotext", "bytes": 2037560, "at": "2026-11-23T09:29:41+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+Le complexe de Toco
+Le complexe de stockage Toco, situé en Guyane, est le plus grand complexe de
+stockage par batteries lithium-ion en France. Il rassemble la centrale solaire de
+Savane des Pères couplée à une installation de stockage par batterie ainsi que
+l’installation de stockage par batterie de Mana. On recherche une alternative à
+l’utilisation de batteries.
+Document 1 : Coefficient d’absorption des matériaux semi-conducteurs en
+fonction de la longueur d’onde de la lumière
+
+GaAS : arséniure de gallium ; Si : silicium ; InP : phosphure d’indium ; CdTe : tellurure de cadmium ;
+CdS : sulfure de Cadmium.
+D’après : https://tel.archives-ouvertes.fr/tel-01529748/document
+
+Document 2 : Le volant de stockage solaire
+Une solution innovante est expérimentée au sein du complexe de Toco, il s’agit d’un Volant
+de Stockage Solaire (VOSS) : “Pour une masse de 4-5 tonnes incluant l’équipement autour,
+le volant aura une capacité de stockage énergétique de 10 kWh, et l’ensemble
+moteur/alternateur une puissance nominale de 10 kW. Ainsi, le système disposera d’une
+autonomie d’une heure en utilisation maximum”.
+Un VOSS est constitué d'une masse en béton (mélange de sable et de ciment) précontraint
+entraînée par un moteur électrique. L'apport d'énergie électrique permet de faire tourner la
+masse à des vitesses très élevées et une fois lancée, elle continue à tourner, même si plus
+aucun courant ne l’alimente. L'énergie électrique est alors stockée dans le volant sous forme
+d’énergie cinétique, elle pourra ensuite être restituée instantanément en utilisant
+l’alternateur, entraînant la baisse de la vitesse de rotation de la masse.
+
+ Volant
+
+d’inertie en béton
+précontraint
+
+ Frettage en fibre de verre
+sous tension autour du volant
+
+ Moteur / Alternateur
+ Pompe à vide
+ Onduleur
+ Roulement à billes
+ Enceinte en béton sous vide
+ Le volant est enterré mais
+une partie est accessible pour
+la maintenance
+
+1kWh est l’énergie associée à une puissance de 1 kW transférée ou stockée pendant une
+heure.
+D’après : http://www.energiestro.fr
+
+À partir des connaissances et des informations fournies, répondre aux questions
+suivantes.
+1- À la suite de mesures, on trace à l’aide d’un tableur la courbe montrant les
+variations de l’intensité du courant électrique produit par une cellule photovoltaïque
+en fonction de la tension à ses bornes (I = f(U) en trait plein) et la courbe montrant
+les variations de la puissance électrique délivrée en fonction de cette même tension
+(P = f(U) en pointillés).
+
+Noter sur votre copie le numéro de la série de propositions (I, II…) et la lettre
+correspondant à proposition exacte :
+I. Une cellule photovoltaïque convertit :
+a. l’énergie électrique qu’elle reçoit en énergie radiative ;
+b. l’énergie radiative qu’elle reçoit en énergie thermique ;
+c. l’énergie radiative qu’elle reçoit en énergie électrique ;
+d. l’énergie thermique qu’elle reçoit en énergie électrique.
+
+II. La puissance délivrée par une cellule photovoltaïque peut se calculer à l’aide de
+la relation :
+a. P = U× I ;
+b. P = R× I2 ;
+c. P = U× I2 ;
+d. P = R× I.
+III. La cellule photovoltaïque étudiée est parcourue par :
+a. un courant d’intensité 80 mA lorsque la tension à ses bornes vaut 0,29 V ;
+b. un courant d’intensité 4 mA lorsque la tension à ses bornes vaut 0,14 V ;
+c. un courant d’intensité 8 mA lorsque la tension à ses bornes vaut 0,29 V ;
+d. un courant d’intensité 7 mA lorsque la tension à ses bornes vaut 0,39 V.
+IV. La puissance électrique maximale produite par la cellule vaut :
+a. 8,6 mW ;
+b. 2,6 W ;
+c. 2,6 mW ;
+d. 2,5 kW.
+V. La résistance d’utilisation maximisant la puissance électrique délivrée par la
+cellule est d’environ :
+a. 0,051 Ω ;
+b. 51 Ω ;
+c. 19 Ω ;
+d. 0,019 Ω.
+La centrale solaire de Savane des Pères est constituée d’une surface de 22 200 m²
+de modules photovoltaïques au tellurure de cadmium (Cd/Te) qui reçoivent
+annuellement une énergie solaire de 1,875 MWh/m² pour une production électrique
+de 5 400 MWh.
+2- À partir du document 1, indiquer pourquoi il est possible d’utiliser le matériau semiconducteur tellurure de cadmium (Cd/Te) en remplacement du silicium (Si) que l’on
+trouve communément dans les modules photovoltaïques.
+
+3- Calculer le rendement énergétique de la centrale solaire. Toute démarche
+entreprise pour répondre à la question sera valorisée.
+4- Les batteries couplées à la centrale solaire de Savane des Pères ont une capacité
+de stockage de 2,9 MWh et une puissance de 2,6 MW. Calculer la durée
+d’autonomie électrique de ces batteries.
+5- Recopier et compléter le schéma de la chaîne de transformation énergétique d’un
+Voss lorsqu’il est en phase de restitution de l’énergie stockée.
+
+6- Donner le nom du phénomène physique exploité par un alternateur et le décrire
+brièvement.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le Soleil, source de vie sur Terre ?
+Le Soleil émet un rayonnement électromagnétique dans toutes les directions ; une
+partie de ce rayonnement est reçue par la Terre et constitue une source d’énergie
+essentielle à la vie. De même, l’atmosphère terrestre contribue à créer des
+conditions propices à la vie sur Terre.
+Partie 1. Le rayonnement solaire
+Document 1 : spectre du rayonnement émis par le Soleil en fonction de la longueur
+d’onde
+
+D’après
+
+https://www.ilephysique.net/img/forum_img/0258/forum_258713_1.jpg
+
+La relation entre la température en degrés Celsius θ (°C) et la température absolue T
+en kelvins (K) est : T(K) = 273 + θ(°C).
+Le Soleil peut être modélisé par un corps noir, qui émet un rayonnement thermique
+correspondant à une température d’environ 5800 K.
+La loi de Wien est la relation entre la température de surface T d’un corps et la
+longueur d’onde λmax au maximum d’émission :
+λmax × T = 2,90 ×10-3 m.K
+
+avec T en kelvins et λmax en mètres.
+
+1- Déterminer approximativement, à partir du document 1, la valeur de la longueur
+d’onde correspondant au maximum d’intensité du rayonnement solaire hors
+atmosphère ?
+2- Justifier par un calcul que dans l’hypothèse où le soleil est modélisé par un corps
+noir, sa température de surface est voisine de 5800 K.
+Document 2 : schéma du bilan énergétique terrestre
+
+Le schéma précédent présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère. L’albédo terrestre moyen est de 30 %.
+Les flèches pleines correspondent à des transferts radiatifs. Les flèches hachurées
+correspondent à des transferts mixtes- radiatifs et non radiatifs.
+Sont précisés : les puissances par unité de surface associées à chaque transfert et
+le pourcentage qu’elles représentent relativement à la puissance solaire incidente
+(342 W∙m-2).
+Document créé par l’auteur
+
+3- Définir l’albédo terrestre à l’aide de vos connaissances.
+4- À partir des valeurs indiquées dans le document 2, montrer que le bilan
+énergétique à la surface de la Terre est équilibré, autrement dit que la puissance que
+la Terre reçoit est égale à celle qu’elle fournit à l’extérieur. Montrer que cela est
+également le cas pour le système global Terre-atmosphère.
+
+Partie 2. La conversion de l’énergie solaire
+
+Document 3 : spectre des chlorophylles
+Les organismes chlorophylliens renferment
+de nombreux pigments
+photosynthétiques comme les chlorophylles a et b, et les caroténoïdes. En faisant
+traverser par de la lumière blanche (spectre 1), des solutions contenant chacune un
+seul de de ces pigments, on obtient les spectres suivants : chlorophylle a (spectre 2),
+chlorophylle b (spectre 3) et caroténoïdes (spectre 4).
+
+D’après http://www.snv.jussieu.fr/bmedia/Photosynthese/exp233.html
+
+5- Pour chacune des propositions suivantes (5.1 à 5.3), indiquer la bonne
+réponse.
+5-1- Ces différents spectres nous permettent alors :
+a- de déterminer la température de la plante.
+b- d’en déduire la composition chimique des pigments.
+c- d’en déduire les longueurs d’ondes absorbées par chaque pigment
+photosynthétique.
+d- d’en déduire la quantité de chaque pigment.
+
+5-2- Dans la cellule, l’énergie solaire captée par les pigments photosynthétiques :
+a- permet la synthèse de la matière minérale.
+b- permet la synthèse de la matière organique.
+c- permet la consommation de matière organique.
+d- permet la consommation de dioxygène.
+5-3- L’être humain est dépendant de l’énergie solaire utilisée par les plantes pour son
+fonctionnement car, en présence de lumière et lors de la photosynthèse, les
+plantes produisent :
+a- matière organique et O2 .
+b- matière organique et CO2 .
+c- matière minérale et O2 .
+d- matière minérale et CO2.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+La datation de l’occupation d’une grotte par Homo sapiens
+Les analyses stylistiques des peintures et des objets ornant une grotte d’Europe de
+l’ouest ont permis aux paléoanthropologues de dater son occupation par Homo
+sapiens à la fin du Paléolithique supérieur.
+Un désaccord persiste cependant entre les scientifiques lorsqu’il s’agit de préciser si
+les peintures et objets ont été réalisés au Gravettien, au Solutréen ou au
+Magdalénien, les trois dernières périodes géologiques du Paléolithique supérieur
+comme l’indique le document ci-dessous.
+Les périodes géologiques de la fin du Paléolithique supérieur
+Fin du paléolithique supérieur
+Magdalénien
+
+Gravettien
+Solutréen
+-27000 ans
+
+-20000 ans -18000 ans
+
+-12000 ans
+
+0 an
+
++2000 ans
+
+D’après https://multimedia.inrap.fr/archeologie-preventive/chronologie-generale
+
+Remarque : la proportionnalité sur l’échelle des temps n’est pas respectée.
+1. Préciser ce qui distingue un noyau stable d’un noyau radioactif. Définir la demi-vie
+d’un isotope radioactif. Préciser si, pour un échantillon macroscopique contenant cet
+isotope, la demi-vie dépend de la quantité d’isotopes présente initialement.
+2. L’élément carbone présent dans le bois d’un végétal provient de l’air et a été
+assimilé dans le végétal grâce à la photosynthèse au niveau des feuilles. En
+analysant le document ci-dessous, justifier l’utilisation de la méthode de datation au
+carbone 14 pour dater les peintures ornant la paroi de cette grotte.
+3. Compléter la courbe en annexe représentant la décroissance radioactive du
+nombre d’atomes de 14C au cours du temps (annexe à rendre avec la copie – les
+coordonnées des points calculés doivent être précisées).
+
+Document : principe de la datation au carbone 14
+Le carbone 14 (14C) est un noyau radioactif en proportion constante dans
+l’atmosphère.
+Les êtres vivants, formant la biosphère, échangent entre eux ainsi qu’avec
+l’atmosphère du dioxyde de carbone (CO2) dont une fraction connue comprend du
+carbone 14. Tout être vivant contient donc dans son organisme du 14C en même
+proportion que l’atmosphère.
+À sa mort, un être vivant cesse d’absorber du dioxyde de carbone ; par contre le
+carbone 14 qu’il contient continue à se désintégrer.
+En 5730 ans la moitié des atomes de carbone 14 aura disparu d’un échantillon
+macroscopique de cet être vivant. C’est la demi-vie (t ½) de ce noyau radioactif. Audelà de 8 demi-vie, la quantité de 14C présente dans l’échantillon, inférieure à 1 %,
+est trop faible pour que la méthode puisse être utilisée pour dater un évènement.
+Décroissance du nombre d’atomes de 14C dans une feuille fossilisée après sa mort
+
+Grand nombre d’atomes de 14C
+Grand nombre d’atomes de 14N
+Source : illustration de l’auteur
+
+Résultats des mesures effectuées sur un fragment de charbon de bois prélevé
+dans la grotte
+Pour réaliser les peintures ornant les parois de la grotte, les êtres humains du
+Paléolithique supérieur ont utilisé du charbon de bois.
+Les mesures, réalisées sur un prélèvement de ce charbon de bois par les
+scientifiques, montrent que la quantité de 14C mesurée en l’an 2000 n’est plus égale
+qu’à 8,0 % de la quantité du 14C initialement présent dans l’échantillon.
+
+4. En s’appuyant sur le document précédent, expliquer, sous la forme d'une courte
+rédaction argumentée, comment la datation au 14C permet de faire évoluer le
+désaccord entre les scientifiques sur la période de réalisation des peintures.
+
+Document réponse à rendre avec la copie
+Exercice 3

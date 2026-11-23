@@ -1,0 +1,418 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1380504, "at": "2026-11-23T09:40:19+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+Question A 2
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 + 101 1000 ?
+1101
+1000 0101
+1 0000 0101
+Question A 3
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+Question A 4
+Quand on ajoute deux bits 𝑎 et 𝑏, on obtient un bit de somme 𝑠 et un bit de retenue 𝑟. On peut exprimer 𝑠
+et 𝑟 à l'aide de formules logiques, lesquelles ?
+𝑠 = 𝑎 𝑂𝑈 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+𝑠 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑟 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+Question A 5
+
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A 6
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+
+Thème B : types construits
+Question B 1
+Voici une définition incomplète d'une fonction qui renvoie le couple du quotient et du reste de la division
+euclidienne :
+def divEuclid(n,d):
+'''renvoie le couple formé du quotient et du reste dans la division de n par d'''
+q = 0
+while n-d > 0:
+q = q + 1
+n = n - d
+.......
+Par quelle instruction faut-il remplacer la ligne en pointillés pour que l'appel
+(quotient,reste) = divEuclid(15,6)
+affecte les valeurs attendues ?
+(q,n)
+(quotient,reste)
+return (q,n)
+return (quotient,reste)
+Question B 2
+De quelle expression la liste suivante est-elle la valeur ?
+[[0,0,0,0], [1,1,1,1], [2,2,2,2]]
+[[i] * 4 for i in range(4)]
+[[i] * 3 for i in range(4)]
+[[i] * 4 for i in range(3)]
+[[i] * 3 for i in range(3)]
+Question B 3
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B 4
+Après avoir défini :
+m = [[1, 2, 3], [4, 5, 6]]
+
+laquelle des quatre expressions suivantes a la valeur 4 ?
+m[0][1]
+m[1][0]
+m(0,1)
+m(1,0)
+Question B 5
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 6
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le script suivant :
+a = [[1, 5], [-3, 2]]
+b = [[3,-2], [4, -6]]
+c = [[None, None], [None, None]]
+for i in range(2):
+for j in range(2):
+c[i][j] = a[i][0]*b[0][j] + a[i][1]*b[1][j]
+Que vaut c[0][1] à la fin de l'exécution ?
+None
+–1
+–32
+Question C 2
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 3
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 4
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+
+Question C 5
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 6
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D 2
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D 3
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 4
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 5
+
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D 6
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quel est le rôle de la commande shell ls ?
+basculer en mode administrateur
+lister le contenu du répertoire courant
+donner un accès complet à un fichier
+effacer le contenu du répertoire courant
+Question E 2
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E 3
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+Question E 4
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E 5
+
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E 6
+En informatique, que signifie l'acronyme ROM ?
+Rewrite Only Memory
+Reset Only Memory
+Read Only Memory
+Recall Only Memory
+
+Thème F : langages et programmation
+Question F 1
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+Question F 2
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 3
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 4
+
+On exécute le code suivant :
+def f(t):
+n = len(t)
+tmp = t[0]
+for i in range(1,n-1):
+t[i] = t[i+1]
+t[n-1] = tmp
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 4, 5, 2, 1]
+[2, 1, 3, 4, 5]
+[3, 4, 5, 2, 1]
+[2, 5, 4, 3, 1]
+Question F 5
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en
+argument. On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+Question F 6
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+
+Thème G : algorithmique
+Question G 1
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+Question G 2
+En utilisant une recherche dichotomique, combien faut-il de comparaisons avec l'opérateur == pour trouver
+une valeur dans un tableau trié de 1000 nombres, dans le pire des cas ?
+1000
+1024
+Question G 3
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 4
+On considère la fonction Python suivante, qui prend en argument une liste L et renvoie le maximum des
+éléments de la liste :
+def rechercheMaximum(L):
+max = L[0]
+for i in range(len(L)):
+if L[i] > max:
+max = L[i]
+return max
+
+On note 𝑛 la taille de la liste.
+Quelle est la complexité en nombre d’opérations de l’algorithme ?
+constante, c’est-à-dire ne dépend pas de 𝑛
+linéaire, c’est-à-dire de l’ordre de 𝑛
+quadratique, c’est-à-dire de l’ordre de 𝑛²
+cubique, c’est-à-dire de l’ordre de 𝑛
+Question G 5
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.
+Question G 6
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:

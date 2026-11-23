@@ -1,0 +1,340 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1368450, "at": "2026-11-23T09:32:45+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+Le complexe de Toco
+Le complexe de stockage Toco, situé en
+Guyane, est le plus grand complexe de
+stockage par batteries lithium-ion en France. Il
+rassemble la centrale solaire de Savane des
+Pères couplée à une installation de stockage par
+batterie ainsi que l’installation de stockage par
+batterie de Mana. On recherche une alternative
+à l’utilisation de batteries.
+Document 1 : Coefficient d’absorption des matériaux semi-conducteurs en
+fonction de la longueur d’onde de la lumière
+
+GaAS : arséniure de gallium ; Si : silicium ; InP : phosphure d’indium ; CdTe : tellurure de cadmium ;
+CdS : sulfure de Cadmium.
+D’après : https://tel.archives-ouvertes.fr/tel-01529748/document
+
+Document 2 : Le volant de stockage solaire
+Une solution innovante est expérimentée au sein du complexe de Toco, il s’agit d’un Volant
+de Stockage Solaire (VOSS) : “Pour une masse de 4-5 tonnes incluant l’équipement autour,
+le volant aura une capacité de stockage énergétique de 10 kWh, et l’ensemble
+moteur/alternateur une puissance nominale de 10 kW. Ainsi, le système disposera d’une
+autonomie d’une heure en utilisation maximum”.
+Un VOSS est constitué d'une masse en béton (mélange de sable et de ciment) précontraint
+entraînée par un moteur électrique. L'apport d'énergie électrique permet de faire tourner la
+masse à des vitesses très élevées et une fois lancée, elle continue à tourner, même si plus
+aucun courant ne l’alimente. L'énergie électrique est alors stockée dans le volant sous forme
+d’énergie cinétique, elle pourra ensuite être restituée instantanément en utilisant
+l’alternateur, entraînant la baisse de la vitesse de rotation de la masse.
+
+ Volant
+
+d’inertie en béton
+précontraint
+
+ Frettage en fibre de verre
+sous tension autour du volant
+
+ Moteur / Alternateur
+ Pompe à vide
+ Onduleur
+ Roulement à billes
+ Enceinte en béton sous vide
+ Le volant est enterré mais
+une partie est accessible pour
+la maintenance
+
+1kWh est l’énergie associée à une puissance de 1 kW transférée ou stockée pendant une
+heure.
+D’après : http://www.energiestro.fr
+
+À partir des connaissances et des informations fournies, répondre aux questions
+suivantes.
+1- À la suite de mesures, on trace à l’aide d’un tableur la courbe montrant les variations
+de l’intensité du courant électrique produit par une cellule photovoltaïque en fonction
+de la tension à ses bornes (I = f(U) en trait plein) et la courbe montrant les variations
+de la puissance électrique délivrée en fonction de cette même tension (P = f(U) en
+pointillés).
+
+Noter sur votre copie le numéro de la série de propositions (I, II…) et la lettre
+correspondant à proposition exacte :
+I. Une cellule photovoltaïque convertit :
+a. l’énergie électrique qu’elle reçoit en énergie radiative ;
+b. l’énergie radiative qu’elle reçoit en énergie thermique ;
+c. l’énergie radiative qu’elle reçoit en énergie électrique ;
+d. l’énergie thermique qu’elle reçoit en énergie électrique.
+
+II. La puissance délivrée par une cellule photovoltaïque peut se calculer à l’aide de
+la relation :
+a. P = U× I ;
+b. P = R× I2 ;
+c. P = U× I2 ;
+d. P = R× I.
+III. La cellule photovoltaïque étudiée est parcourue par :
+a. un courant d’intensité 80 mA lorsque la tension à ses bornes vaut 0,29 V ;
+b. un courant d’intensité 4 mA lorsque la tension à ses bornes vaut 0,14 V ;
+c. un courant d’intensité 8 mA lorsque la tension à ses bornes vaut 0,29 V ;
+d. un courant d’intensité 7 mA lorsque la tension à ses bornes vaut 0,39 V.
+IV. La puissance électrique maximale produite par la cellule vaut :
+a. 8,6 mW ;
+b. 2,6 W ;
+c. 2,6 mW ;
+d. 2,5 kW.
+V. La résistance d’utilisation maximisant la puissance électrique délivrée par la
+cellule est d’environ :
+a. 0,051 Ω ;
+b. 51 Ω ;
+c. 19 Ω ;
+d. 0,019 Ω.
+La centrale solaire de Savane des Pères est constituée d’une surface de 22 200 m²
+de modules photovoltaïques au tellurure de cadmium (Cd/Te) qui reçoivent
+annuellement une énergie solaire de 1,875 MWh/m² pour une production électrique de
+5 400 MWh.
+2- À partir du document 1, indiquer pourquoi il est possible d’utiliser le matériau semiconducteur tellurure de cadmium (Cd/Te) en remplacement du silicium (Si) que l’on
+trouve communément dans les modules photovoltaïques.
+
+3- Calculer le rendement énergétique de la centrale solaire. Toute démarche
+entreprise pour répondre à la question sera valorisée.
+4- Les batteries couplées à la centrale solaire de Savane des Pères ont une capacité
+de stockage de 2,9 MWh et une puissance de 2,6 MW. Calculer la durée d’autonomie
+électrique de ces batteries.
+5- Recopier et compléter le schéma de la chaîne de transformation énergétique d’un
+Voss lorsqu’il est en phase de restitution de l’énergie stockée.
+
+6- Donner le nom du phénomène physique exploité par un alternateur et le décrire
+brièvement.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents des pages suivantes :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+-10
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+légère
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Diamant et kimberlite
+La kimberlite est une roche qui peut contenir des cristaux de diamant. Elle est issue
+du refroidissement d’une lave et doit son nom à la ville de Kimberley en Afrique du
+sud, où elle fut découverte pour la première fois.
+Observation de la kimberlite
+La kimberlite est présentée à différentes échelles sur le document réponse en annexe.
+1- Identifier les structures observées en inscrivant, parmi les propositions suivantes,
+les réponses dans les cadres prévus : « cellule », « roche », « organite », « minéral »,
+« modélisation à l’échelle de l’atome ».
+2- Cocher la proposition juste dans le QCM du document réponse à rendre avec la
+copie.
+Structure cristalline du diamant
+Des diamants sont souvent présents dans la kimberlite sous forme d’inclusions. Le
+diamant est un minéral transparent composé de cristaux de carbone pur. Cette « pierre
+précieuse » est connue pour être le minéral le plus dur qui soit.
+On cherche à savoir si, dans le cas du diamant, le carbone cristallise sous une forme
+cubique à face centrée.
+Données :
+• Rayon d’un atome de carbone : 𝑟 = 70 pm.
+• Masse d’un atome de carbone : m = 2,0 x 10-26 kg.
+3- Étude d’un réseau cubique à faces centrées.
+3-a Compléter le schéma de maille d’un réseau cubique à faces centrées présenté
+dans le document réponse en indiquant la position des atomes.
+3-b Déterminer, en le justifiant, le nombre d’atomes présents à l’intérieur d’une maille.
+
+Document 1. Vue d’une face du cube (réseau cubique à faces centrées)
+
+Illustration de l’auteur
+
+3-c Le paramètre de maille, noté a, est la longueur d’une arête du cube.
+Démontrer que a = 2√2𝑟.
+3-d Montrer que la masse volumique 𝜌 qu’aurait le diamant, s’il possédait une structure
+𝑚
+cubique à faces centrées, vérifierait approximativement la formule 𝜌 = 0,18 × 𝑟 3
+(avec m la masse d’un atome de carbone et r le rayon d’un atome de carbone
+modélisé par une sphère).
+4- La masse volumique du diamant est 3,51 x 103 kg.m-3. Indiquer si le diamant
+possède une structure cubique à faces centrées.
+Recherche de la profondeur de formation du diamant
+Le carbone pur est présent dans la nature sous deux formes principales : le diamant,
+qui est transparent, et le graphite, qui est gris et opaque. En laboratoire, il est possible
+de fabriquer artificiellement du diamant à partir du graphite en modifiant les paramètres
+de pression et de température : le diamant peut être produit si la pression est comprise
+entre 5 et 12 GPa (sachant que 1 GPa = 1 x 109 Pa).
+
+Document 2. Pression en fonction de la profondeur sous la surface terrestre
+
+D’après un modèle simplifié de la structure de la Terre
+
+5- À l’aide du document 2, estimer la profondeur minimale à partir de laquelle les
+diamants peuvent se former.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Diamant et kimberlite
+Observation d’une kimberlite à différentes échelles
+
+Question 2 (QCM)
+Cocher la proposition exacte ci-dessous.
+Lorsque les minéraux sont présents dans une pâte amorphe. Cela indique :
+Un refroidissement rapide
+Une forte pression
+Un refroidissement lent
+Une oxydation
+
+Question 3a. Position des atomes dans la maille d’un réseau cubique à faces
+centrées
+Compléter le schéma en indiquant la position des atomes de carbone dans la maille
+d’un réseau cubique à faces centrées.

@@ -1,0 +1,303 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1131184, "at": "2026-11-23T09:34:46+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement Scientifique
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTEME SOLAIRE
+
+Le système solaire est formé d’une étoile, le Soleil, autour de laquelle des planètes, des
+satellites, des astéroïdes sont en orbite. La distance entre ces objets et l’étoile a une influence
+sur leur température de surface mais il semble que cela ne soit pas le seul facteur entrant en
+jeu…
+Document de référence : Caractéristiques de quelques objets du système solaire :
+Planètes
+internes
+Caractéristiques
+Distance au Soleil
+(106 km)
+Puissance solaire
+reçue par unité de
+surface (W×m-2)
+Importance
+qualitative de l’effet
+de serre
+atmosphérique
+Albédo du système
+« planèteatmosphère »**
+
+Mercure
+
+Venus
+
+Terre
+
+Mars
+
+57,91
+
+108,21
+
+149,6
+
+227,94
+
+2290
+
+Pas d’effet de Effet de serre
+Effet de serre
+serre
+atmosphérique atmosphérique
+atmosphérique très marqué
+modéré
+
+Effet de serre
+atmosphérique
+faible
+
+0,07
+
+0,15
+
+0,7
+
+La Lune :
+Phobos :
+Satellites
+Aucun
+Aucun
+Pas d’atmosphère Pas d’atmosphère
+Albédo : 0,07
+Albédo : 0,07
+** L’albédo mesure le pouvoir réfléchissant d’une surface. C’est la proportion d’énergie
+lumineuse réfléchie. Sa valeur est comprise entre 0 et 1. Plus une surface est réfléchissante,
+plus son albédo est élevé. Par exemple, l'albédo de la neige fraîche est de 0,87, ce qui signifie
+que 87 % de l’énergie lumineuse est réfléchie par ce type de neige.
+L'albédo d’un système Planète-atmosphère est la proportion de l'énergie solaire qui est
+réfléchie par la planète et son atmosphère vers l'espace. Les éléments qui contribuent le plus à
+l'albédo du système Terre-atmosphère sont les nuages, les surfaces de neige et de glace et
+les aérosols.
+D’après : Géosciences La dynamique du système Terre de Christian Robert et Romain Bousquet,
+https://www.actu-environnement.com et https://www.futura-sciences.com
+
+Partie 1 : Des données expérimentales à un modèle mathématique possible.
+Document 1 : Montage expérimental permettant de mesurer la puissance lumineuse reçue par
+un récepteur en fonction de la distance à la source lumineuse.
+On dispose d’une lampe et d’un
+capteur, le luxmètre*, permettant de
+mesurer l’éclairement lumineux reçu.
+L’expérimentateur réalise une série de
+mesures en éloignant progressivement
+le luxmètre de la lampe. On présente
+ces mesures dans le tableau cidessous.
+Tableau des mesures réalisées :
+Distance par rapport à
+0,2
+la lampe (en mètres)
+
+0,4
+
+0,5
+
+0,7
+
+0,8
+
+0,9
+
+Éclairement lumineux
+reçu (en lux**)
+
+5 300
+
+3 100
+
+1 800
+
+10 800
+
+D’après : https://www.pierron.fr/news/fiches-tp-svt-2nd.html
+
+* Luxmètre : Appareil de mesure de l'éclairement lumineux comportant une cellule
+photosensible.
+** Lux : unité de mesure de l'éclairement lumineux (puissance lumineuse reçue par
+unité de surface).
+1- Le graphique de l’annexe 1 (à rendre avec la copie) permet de représenter les
+variations de l’éclairement lumineux reçu par le capteur en fonction de la distance à la
+source d’énergie, Reporter sur ce graphique les points expérimentaux obtenus dans le
+document 1.
+2- À partir de l’allure du nuage de points obtenu à la question 1, un tableur permet de
+proposer une modélisation mathématique par une fonction. Cette fonction, notée 𝑓,
+est définie par :
+𝑓(𝑑) =
+
+𝑑)
+
+où 𝑑 représente la distance à la lampe (en mètre) et 𝑓(𝑑) l’éclairement lumineux reçu
+(en lux).
+2-a- En utilisant cette modélisation mathématique, compléter le tableau de valeurs
+donné en annexe 2 à rendre avec la copie. On arrondira les résultats à l’unité.
+
+2-b- Représenter la fonction 𝑓 dans le repère donné en annexe 1.
+2-c- Cette modélisation mathématique semble-t-elle pertinente pour caractériser la relation
+entre l’éclairement lumineux reçu par le capteur et la distance à la source lumineuse ?
+Justifier.
+3- On admet que la loi illustrée expérimentalement dans le document 1 est générale : « La
+puissance lumineuse par unité de surface reçue par un objet est inversement proportionnelle
+au carré de la distance qui le sépare de la source lumineuse ».
+En s’appuyant sur le document de référence, choisir, parmi les affirmations suivantes, celle
+qui est correcte au regard de ce modèle. L’écrire sur la copie et justifier la réponse donnée.
+La puissance lumineuse par unité de surface, provenant du Soleil et reçue sur Venus est
+environ :
+a) deux fois plus grand que celui reçu sur Mercure.
+b) quatre fois plus grand que celui reçu sur Terre.
+c) deux fois plus petit que celui reçu sur Terre.
+d) quatre fois plus petit que celui reçu sur Mercure.
+Partie 2 : Confrontation du modèle mathématique à la réalité.
+Dans cette partie, on admet que la puissance reçue par unité de surface par les objets du
+système solaire est inversement proportionnelle au carré de leur distance au soleil, d’une
+façon analogue à l’étude menée en partie 1. Moyennant certaines hypothèses, on peut en
+déduire une « loi de variation de la température moyenne des planètes en fonction de leur
+distance au soleil » (voir le document 2).
+
+Document 2 : Températures de surface de quelques objets proches du Soleil.
+Le graphique ci-dessous précise :
+- Les températures moyennes effectivement mesurées à la surface de différentes
+planètes en fonction de leur distance au soleil (points gris).
+- L’évolution de la température moyenne d’un objet en fonction de la distance au soleil
+modélisée par la « loi de variation de la température moyenne des planètes en
+fonction de leur distance au soleil » (courbe continue).
+
+ua : Unité astronomique
+(1 ua » 150 x 106 km)
+
+D’après : Collection in vivo, SVT 2de 2004, Magnard
+4- Quels sont les objets considérés dans le document 2 pour lesquels la loi modélisant
+l’évolution de la température des planètes en fonction de leur distance au Soleil est bien
+vérifiée ? Quelles propriétés ces objets ont-ils en commun ?
+5- A partir de vos connaissances, expliquer qualitativement l’influence de l’albedo et de l’effet
+de serre sur la température terrestre moyenne.
+6- Proposer une explication du fait que la température de Vénus est « anormalement »
+élevée par rapport aux autres objets considérés.
+
+EXERCICE 2
+GAMME TEMPÉRÉE ET GAMME DE PYTHAGORE
+
+Il y a eu dans l’histoire de nombreuses constructions de gammes pour ordonner les notes à
+l’intérieur d’une octave. Cet exercice étudie deux types de gammes à douze notes : la
+gamme tempérée et la gamme de Pythagore.
+L’octave peut être divisée en douze intervalles en formant douze notes de base (Do, Do#,
+Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si). La gamme fréquemment utilisée de nos jours est
+la gamme tempérée, dans laquelle le rapport de fréquences entre deux notes consécutives
+est constant.
+1- Préciser la valeur du rapport des fréquences de deux notes séparées d’une octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est 12 2 .
+3- La fréquence du La3 est égale à 440 Hz. Calculer la valeur, arrondie au dixième, de la
+fréquence de la note suivante (Si3b) dans la gamme tempérée.
+4- Jusqu’au XVIIe siècle, la gamme la plus utilisée était la gamme de Pythagore, obtenue à
+partir des quintes successives d’une note initiale. Le tableau ci-dessous donne les
+fréquences des différentes notes de la gamme de Pythagore en partant de 440 Hz.
+Note
+
+MI3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+Do4#
+
+Ré4
+
+Ré4#
+
+Fréquence
+(Hz)
+
+352,4
+
+371,3
+
+396,4
+
+417,7
+
+469,9
+
+528,6
+
+556,9
+
+594,7
+
+626,5
+
+4-a- Calculer le rapport des fréquences des notes Si3 et Mi3 et donner le nom d’un tel
+intervalle.
+4-b- On considère la fonction Python freq_suivante ci-dessous qui permet de construire
+la gamme de Pythagore :
+def freq_suivante(f) :
+f = 3/2*f
+if f >= 660 :
+f = f/2
+return(f)
+Donner les nombres renvoyés après l’exécution de freq_suivante(330)et de
+freq_suivante(440) et préciser les notes correspondantes
+
+ANNEXE A RENDRE AVEC LA COPIE
+Exercice : Températures de surface de quelques objets du système solaire
+Partie 1 – questions 1- et 2-b
+
+Partie 1 – question 2-a𝑑
+(en m)
+𝑓(𝑑)
+(en lux)
+
+0,2
+
+0,4
+
+0,5
+
+0,6
+
+0,8
+
+10 800
+
+4 700
+
+1 728

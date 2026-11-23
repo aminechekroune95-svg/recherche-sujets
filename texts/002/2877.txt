@@ -1,0 +1,286 @@
+{"pages": 8, "method": "pdftotext", "bytes": 592569, "at": "2026-11-23T09:24:34+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+La fosse de plongée Nemo 33 (10 points)
+Le Nemo 33 est un centre de plongée à Uccle, en Belgique.
+Il possédait la fosse de plongée la plus profonde du monde
+jusqu'en février 2014 atteignant une profondeur de près de
+35 mètres.
+Une fosse de plongée sert à pratiquer la plongée sousmarine ou la plongée en apnée (sans bouteille). La
+profondeur est le principal critère qui distingue une fosse
+d'une simple piscine. La qualité de l’eau est un autre
+élément fondamental, autant pour les maîtres-nageurs que
+pour les usagers.
+Dans cet exercice, nous étudierons des propriétés
+chimiques d’une eau de fosse de plongée puis l’effet de la
+pression sur les poumons lors d’une plongée dans une
+fosse.
+Apnéistes dans une fosse de plongée
+https://communaute.ucpa.com
+
+1. Titrage des ions hypochlorite ClO présents dans l’eau d’une fosse de plongée
+
+Afin de maintenir la qualité sanitaire de l’eau d’une fosse de plongée on y ajoute des ions
+hypochlorite ClO , il s’agit d’un oxydant puissant qui peut réagir avec des composés
+organiques et des micro-organismes afin de les détruire. La réglementation impose une
+concentration en « chlore actif » pour les piscines en France correspondant à une
+concentration d’ions hypochlorite comprise entre 0,4 mg.L-1 et 1,4 mg.L-1.
+Pour étudier les propriétés chimiques de l’eau d’une fosse de plongée et déterminer sa
+concentration en ions hypochlorite, on effectue un prélèvement. À l’aide d’une pipette jaugée,
+on prélève V1 = 20,0 mL d’eau d’une fosse de plongée que l’on place dans un bécher de 50
+mL, on ajoute 1,0 mL d’une solution contenant des ions iodure en excès et 1,0 mL une solution
+d’acide sulfurique puis on agite. Le mélange obtenu, qui prend alors une teinte orange-brun,
+est appelé solution S.
+
+Les couples mis en jeu sont ClO (aq)/Cl (aq) et I2(aq)/I (aq). Le diiode a une coloration orangebrun en solution aqueuse, c’est la seule espèce colorée dans la solution S.
+ Masses molaires de l’oxygène et du chlore : M(O) = 16,0 g.mol-1 et M(Cl) = 35,5 g.mol-1.
+1.1. Justifier à l’aide des observations expérimentales le caractère oxydant de l’eau de la fosse
+de plongée.
+1.2. Écrire la demi-équation électronique associée au couple de l’hypochlorite et justifier le rôle
+d’oxydant de cet ion.
+1.3. Donner l’équation de la réaction modélisant la transformation intervenant entre les ions
+hypochlorite et les ions iodure.
+1.4. Établir le tableau d’avancement de la réaction. Les ions iodure, I-(aq), et oxoniums H+(aq),
+sont en excès, l’eau est le solvant.
+On considère dans la suite que tout le diiode dans la solution S provient de la réaction entre
+les ions hypochlorite et iodure et que la transformation est totale. Afin de déterminer
+l’avancement final xf de cette réaction, on effectue un dosage par étalonnage du diiode dans la
+solution S. On réalise une série de mesure d’absorbance de solutions de concentrations
+connues en diode, les résultats sont donnés dans le tableau ci-dessous :
+concentration en diiode (mol.L-1)
+absorbance A (à 475 nm)
+
+2,0×10-5
+0,016
+
+5,0×10-5
+0,041
+
+1,0×10-4
+0,10
+
+2,5×10-4
+0,22
+
+On effectue une mesure d’absorbance pour la solution S, on obtient AS = 0,017.
+1.5. Déterminer la valeur de la concentration en diiode de la solution S. En déduire la valeur
+de la quantité de diiode, formée lors de la réaction entre les ions hypochlorite et iodure, et que
+la valeur de l’avancement final xf est voisine de 4,6×10-7 mol.
+
+1.6. En déduire la valeur de la concentration en moles en ions hypochlorites ClO- dans l’eau de
+la fosse de plongée. Indiquer si cette eau est conforme la législation française.
+2. La pratique de l’apnée au NEMO 33
+Lors de la pratique de l’apnée, le plongeur inspire au maximum de sa capacité pulmonaire
+lorsqu’il se trouve à la surface puis bloque sa respiration. Au cours de la descente, la pression
+augmente et le volume pulmonaire diminue jusqu’à ce que la rigidité du thorax ne permette
+plus de réduire son volume : le volume pulmonaire est alors égal au volume résiduel. Au-delà
+de cette profondeur, du sang est aspiré puis retenu dans la circulation pulmonaire, remplissant
+ainsi les poumons. Ce phénomène, appelé « blood shift », permet aux poumons de résister à
+la compression, mais il peut aussi entraîner des troubles du rythme cardiaque.
+La capacité maximale des poumons est d’environ 6 L. Le volume résiduel, c’est-à-dire le
+volume d’air contenu dans les poumons à la fin d’une expiration forcée, est d’environ 1,5 L.
+ pression atmosphérique : Pa = 1,0 × 105 Pa ;
+ masse volumique de l’eau : ρe = 1,0 × 103 kg.m-3 ;
+ valeur du champ de pesanteur : g = 9,8 N.kg-1 ;
+ profondeur de NEMO 33 : h = 35 m ;
+ la loi fondamentale de la statique des fluides reliant la différence de pression pA - pB
+entre deux points A et B d’un fluide incompressible à ρe, g, et zA - zB ; zA et zB étant les
+ordonnées des points A et B sur un axe des z orienté suivant la verticale ascendante
+s’écrit : pA - pB = ρe g (zB - zA).
+2.1. Décrire qualitativement comment évolue la pression lorsque le plongeur descend dans la
+fosse de plongée. Expliquer en quoi la loi fondamentale de la statique des fluides rend compte
+de cette évolution.
+2.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un gaz
+pour une quantité de matière donnée et une température constante.
+2.3. À l’aide des données, déterminer si le phénomène de « blood shift » risque d’apparaître
+lorsqu’un apnéiste, qui n’a pas expiré d’air au cours de sa plongée, atteint le fond de NEMO
+33.
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche de
+résolution.
+PARTIE B
+Dosage spectrophotométrique d’un additif alimentaire : le bleu patenté V (10 points)
+Partie1. Se désaltérer sans altérer sa santé
+Pour se désaltérer, il est coutume de consommer du sirop de menthe ; ce dernier contient
+plusieurs colorants dont le bleu patenté V (E131) de couleur bleue.
+
+Bleu patenté V
+Étiquette de sirop de menthe
+DJA du bleu patenté V
+Les colorants alimentaires font l’objet de contrôles sanitaires par l’Union Européenne (UE).
+Un de ces contrôles, réalisé par l’EFSA (autorité européenne de sécurité des aliments),
+consiste à déterminer la dose journalière admissible (DJA) qui est la quantité d’une substance
+qu’une personne peut ingérer quotidiennement tout au long de sa vie sans risque appréciable
+pour sa santé.
+La DJA du bleu patenté est de 2,5 mg de produit absorbable par kg de masse corporelle et par
+jour.
+Source : d’après le site : http://www.efsa.europa.eu/
+
+Le but de cette première partie est de déterminer le nombre de verres de sirop de menthe que
+l’on peut boire sans dépasser la dose journalière admissible en bleu patenté V.
+ masse molaire du bleu patenté : 560,7 g.mol -1 ;
+ spectre d’absorption d’une solution aqueuse de bleu patenté V et cercle chromatique :
+
+Source : d’après le site : http://sciences-physiques-et-chimiques-de-laboratoire.org/
+
+1.1. Nommer le groupe caractéristique – OH présent dans le bleu patenté.
+1.2. Décrire et commenter le spectre d’absorption du bleu patenté.
+1.3. On se propose de déterminer la valeur de la concentration en quantité de matière de bleu
+patenté dans un sirop de menthe à partir d’un dosage par étalonnage utilisant des mesures
+d’absorbance de solutions de concentrations connues.
+On réalise à partir d’une solution aqueuse mère de bleu patenté V (notée S 0) une échelle de
+teintes constituée de cinq solutions diluées S1, S2, S3, S4 et S5 versées dans des cuves
+identiques.
+Par ailleurs, on dilue dix fois le sirop de menthe et on note S la solution aqueuse obtenue à
+l’issue de cette dilution. Les résultats sont consignés dans le tableau ci-dessous :
+Solution Si
+Concentration en
+quantité de matière C
+(en µmol.L-1)
+Absorbance A
+
+S0
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+S
+
+5,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+……
+
+1,6
+
+0,80
+
+0,39
+
+0,32
+
+0,24
+
+0,16
+
+0,75
+
+Les mesures sont reportées sur le graphe ci-dessous représentant l’évolution de
+l’absorbance A de la solution aqueuse de bleu patenté en fonction de la concentration C en
+quantité de matière de bleu patenté.
+
+1.3.1. Rédiger le protocole de dilution mis en œuvre pour préparer 100,0 mL de
+solution S2 à partir de la solution S0.
+
+1.3.2. Déterminer le nombre de verres de sirop de menthe que peut boire au maximum
+une personne adulte sans dépasser la dose journalière admissible (DJA) en bleu
+patenté V. Commenter.
+Le candidat est invité à prendre des initiatives, à estimer notamment la valeur du volume d’un
+verre de sirop de menthe et de celle de la masse d’une personne adulte, et à présenter la
+démarche suivie, même si elle n’a pas abouti.
+Partie 2. Utilisation d’un microcontrôleur pour réaliser un spectrophotomètre
+Le but de cette deuxième partie est de réaliser un spectrophotomètre à l’aide d’un
+microcontrôleur en l’associant à une diode électroluminescente (DEL) et à un détecteur de
+lumière afin de calculer l’absorbance de la solution de sirop de menthe diluée (solution S)
+étudiée dans la partie 1.
+Le dispositif constituant le spectrophotomètre est composé d’une diode émettrice considérée
+comme monochromatique (DEL), d’un capteur de lumière et d’un microcontrôleur. Ce dernier
+mesure l’éclairement lumineux Er en lux (lx) après passage du faisceau lumineux à travers la
+cuve et la solution.
+En traversant une solution colorée, un rayonnement monochromatique perd une partie de son
+intensité lumineuse. Ce phénomène est quantifié par la grandeur absorbance.
+Schéma de principe :
+Éclairement
+initial Ei
+
+Circuit
+alimentant
+la diode
+
+Montage :
+
+Éclairement
+reçu Er
+
+La mesure de l’éclairement
+lumineux (Er) est transmise au
+microcontrôleur
+
+Diode
+émettrice
+C
+u
+v
+e
+
+Capteur de
+lumière
+
+76543210
+
+Er
+)
+Ei
+Afin de négliger l'absorption de l'eau dans le domaine spectral d'étude, on considère que
+l’éclairement reçu dans le cas de la cuve témoin contenant uniquement de l’eau est égal à
+l’éclairement initial Ei et vaut 63,8 lx.
+L’absorbance peut être définie par la relation : A = - log (
+
+ La valeur de la célérité c de la lumière dans le vide est supposée connue ;
+ constante de Planck : h = 6,63×10 – 34 J.s ;
+ électron-volt : 1 eV = 1,60×10–19 J.
+On dispose des diodes électroluminescentes monochromatiques suivantes :
+ une DEL bleue émettant une radiation de longueur d'onde égale à 466 nm ;
+ une DEL verte émettant une radiation de longueur d'onde égale à 525 nm ;
+ une DEL jaune émettant une radiation de longueur d'onde égale à 589 nm ;
+ une DEL orange émettant une radiation de longueur d'onde égale à 630 nm.
+2.1. Indiquer la diode à choisir pour mesurer l'absorbance d'une solution aqueuse de bleu
+patenté V. Justifier en se référant aux données de la partie 1.
+2.2. On donne un extrait du diagramme énergétique de l’atome d’oxygène :
+Énergie (en eV)
+- 9,43
+
+- 11,63
+
+2.2.1. Calculer, en eV, la valeur de la variation d’énergie ∆E
+correspondant à l’absorption par un atome d’oxygène d’une
+radiation
+monochromatique émise par une DEL orange.
+Commenter.
+2.2.2. Reproduire le diagramme énergétique de l’atome d’oxygène
+sur la copie et représenter la transition énergétique correspondante.
+
+-13,60
+2.3. Le programme ci-dessous permet d'obtenir la mesure de l’éclairement reçu Er par le
+capteur de lumière :
+
+2.3.1. D’après le montage réalisé, dire si la LED a été déclarée sur la broche à
+laquelle elle est connectée. Si non, réécrire la ligne de code en la corrigeant.
+2.3.2. Rédiger le commentaire à ajouter pour expliquer la ligne de code
+« delay(300) ; ».
+2.4. L’éclairement reçu mesuré par le capteur de lumière est de 11,3 lx.
+Comparer la valeur de l’absorbance mesurée à l’aide de ce dispositif à celle mesurée dans la
+partie 1.

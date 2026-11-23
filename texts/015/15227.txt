@@ -1,0 +1,224 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1153248, "at": "2026-11-23T09:30:04+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Population de la France métropolitaine de 1946 à 2050
+Sur 10 points
+Le tableau ci-dessous donne l’évolution de la population en France métropolitaine de
+1946 à 2013.
+Année
+
+1946
+
+1954
+
+1962
+
+1968
+
+1975
+
+1982
+
+1990
+
+1999
+
+2006
+
+2013
+
+Rang xi
+
+Population en
+millions yi
+
+40,5
+
+42,8
+
+46,5
+
+49,8
+
+52,7
+
+54,3
+
+56 ,6
+
+58,2
+
+61,4
+
+63,7
+
+Source INED, ined.fr
+
+Afin de faire des prévisions, cette évolution est représentée par un nuage de points
+dans le but d’en faire un ajustement affine.
+Une équation de la droite d’ajustement du nuage est : y = 0,341x + 41,21.
+1- Parmi les trois graphiques ci-dessous, quel est selon vous celui qui correspond à
+la droite d’ajustement trouvée ? Justifier.
+
+Graphique 1
+
+Graphique 2
+
+Graphique 3
+
+2- Après avoir déterminé le rang correspondant à l’année 2020, montrer, à l’aide de
+l’équation de la droite, que le modèle prévoit une population française de 66,4
+millions d’habitants à cette date.
+
+Le recensement effectué au cours de l’année 2020 montre que la population en
+France métropolitaine est de 64,9 millions d’habitants.
+3- Au-delà d’un écart supérieur à un million, ce modèle n’est pas valide. Conclure sur
+la validité du modèle en 2020. Justifier la réponse.
+Afin d’affiner les prévisions, il est envisagé de modifier le modèle précédent. Les
+relevés annuels de la population en France Métropolitaine de 2013 à 2020 sont
+donnés ci-dessous :
+Année
+
+2013 2014 2015 2016 2017 2018 2019 2020
+
+Rang xi
+
+Population en millions yi
+
+63,7
+
+64,3
+
+64,5
+
+64,6
+
+64,7
+
+64,8
+
+64,9
+
+Source INED, ined.fr
+
+Une droite d’équation y = 0,163x + 63,87 correspond au nouveau modèle choisi pour
+les 30 années à venir.
+Nous souhaitons savoir à partir de quelle année la population en France
+métropolitaine dépassera, d’après le nouveau modèle, les 65,5 millions d’habitants.
+Afin d’automatiser les calculs, nous avons
+programmé la fonction seuil_pop en langage
+Python ci-contre.
+
+4- Recopier parmi les quatre propositions suivantes celle qui correspond à la donnée
+manquante du programme :
+Proposition a : pop = 0.163*n+0
+Proposition b : pop = 0.163*n+63.87
+Proposition c : pop = pop+1
+Proposition d : pop = 0.163*pop+63.87
+5- À partir de quelle année la population en France métropolitaine dépassera-t-elle
+les 65,5 millions d’habitants ?
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Réchauffement climatique et neige pastèque
+Sur 10 points
+La « neige pastèque » rose menace un grand glacier italien
+Un envahisseur rose menace le gigantesque glacier italien Presena. Le glacier alpin
+semble avoir attrapé un mauvais cas de « neige pastèque ». La teinte rose provient
+des algues poussant sur la glace.
+On recherche l'origine du développement de la « neige pastèque ».
+Document 1 : les conditions climatiques et le développement des algues de
+« neige pastèque »
+Biagio Di Mauro, chercheur à l’Institut des sciences polaires du Conseil national de
+recherche italien, a déclaré à CNN que les espèces végétales microscopiques
+Chlamydomonas nivalis ont probablement causé la teinte rose soudaine du glacier
+italien Presena. Les algues sont communes dans les Alpes, mais les faibles chutes
+de neige hivernales semblent s’être combinées à des températures élevées au
+printemps et en été pour créer les conditions idéales pour une floraison majeure.
+Extrait d’article de www.fr24news.com, 9 juillet 2020
+
+1. Indiquer en quoi le document 2 ci-après étaye l’explication donnée dans le
+document 1 de la présence de plus en plus fréquente de neige pastèque dans les
+glaciers alpins.
+2. À l’aide des informations des documents 2 et 3 ci-après, expliquer l’effet de la
+neige pastèque sur l’albédo des glaciers.
+3. À l’aide de l’ensemble de ces informations, justifier le titre de l’article : « La « neige
+pastèque » rose menace un grand glacier italien ».
+
+Document 2 : Anomalies des moyennes mensuelles de la température de
+surface mondiale par rapport à la moyenne des températures de la période
+1951-1980
+
+La ligne avec carrés montre les estimations qui utilisent les données des stations
+météorologiques et les données sur la température des océans enregistrée par des
+capteurs sur des navires et des bouées météorologiques.
+D’après le site officiel de la NASA
+
+Document 3 : Définition de l’albédo
+L'albédo A d'une surface mesure l'importance avec laquelle une surface recevant de
+la lumière, réfléchit cette lumière. C’est le rapport entre la puissance de rayonnement
+réfléchie par une surface (Préfléchie) et la puissance de rayonnement incident sur cette
+même surface (Preçue).
+L’albédo A est une valeur sans unité, comprise entre 0 et 1.
+
+Document 4 : Mesure de l’albédo pour différentes surfaces colorées
+On a mesuré l’albédo de surfaces (feuilles de papier) colorées à l’aide de
+l’application Albedo. Les résultats sont présentés dans le tableau ci-dessous.
+
+Le schéma ci-dessous permet de résumer les liens entre réchauffement climatique et
+neige pastèque :
+Schéma-bilan : Liens entre réchauffement climatique et neige pastèque
+Les flèches indiquent ‘provoque’
+
+4. Sur votre copie, recopier ce schéma-bilan et associer chaque élément ci-dessous
+à une case du schéma-bilan repérée par son numéro :
+
+Coloration en rose de la neige = neige pastèque
+
+Absorption plus importante de l’énergie solaire reçue
+
+Augmentation température globale (réchauffement climatique)
+
+Prolifération des algues Chlamydomonas nivalis dans la neige fondue
+
+Diminution de l’albédo de la neige pastèque
+
+Fonte accélérée des glaciers
+
+Les neiges pastèque ont été observées dans de nombreuses régions du monde, y
+compris sur les grands glaciers de l’Antarctique. Les glaciers continentaux forment
+un volume mondial actuel de glace émergée estimé à 158 000 km3.
+Le réchauffement climatique, s’il se poursuit, pourrait les faire disparaître
+complètement.
+5. On assimile pour cette question les océans à un parallélépipède dont la surface
+est estimée à 361 millions de km2. Pour simplifier on confond les masses volumiques
+de l’eau liquide et de la glace. En utilisant le schéma ci-dessous et la formule
+donnée, calculer l’élévation du niveau marin qui serait provoquée par la fonte
+complète des glaciers continentaux.

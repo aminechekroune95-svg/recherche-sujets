@@ -1,0 +1,158 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1088273, "at": "2026-11-23T09:34:16+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement Scientifique
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+LE RAYONNEMENT SOLAIRE REÇU SUR TERRE
+L’exercice s’intéresse aux caractéristiques du rayonnement solaire reçu sur Terre.
+Donnée : la vitesse de propagation de la lumière dans le vide vaut c = 3,0 × 108 m∙s-1
+PARTIE A. TEMPÉRATURE DE LA SURFACE DU SOLEIL.
+Document 1. Spectre du rayonnement émis par le Soleil.
+
+Le spectre de corps noir modélisant au mieux le spectre d’émission solaire
+est indiqué sur la courbe en trait épais.
+(Source : AbulÉdu-fr)
+
+1- Selon la loi de Wien, la longueur d’onde d’émission maximale d’un corps noir est
+inversement proportionnelle à la température absolue de la surface d’une étoile selon
+la formule :
+𝜆max =
+
+𝑘
+𝑇
+
+où 𝑇 représente la température absolue (exprimée en Kelvin), 𝜆max la longueur
+d’onde du maximum d’émission (exprimée en mètre) et 𝑘 une constante de valeur
+2,89 × 10‒3 m∙K.
+À l’aide de ces informations et du document 1, déterminer la température de surface
+du Soleil.
+
+PARTIE B. ÉNERGIE SOLAIRE REÇUE PAR LA TERRE
+Document 2. Modélisation permettant le calcul de la puissance rayonnée.
+À une distance donnée du Soleil, la totalité de la
+puissance émise par le Soleil se trouve
+uniformément répartie sur une sphère de rayon
+égal à cette distance.
+Sur le schéma ci-contre, la Terre et le Soleil ne
+sont pas représentés à l’échelle.
+On rappelle que :
+l’aire d’une sphère de rayon 𝑑 est 𝑆 = 4𝜋𝑑 2 et
+que l’aire d’un disque de rayon 𝑅 est 𝑆𝑑𝑖𝑠𝑞𝑢𝑒 =
+𝜋𝑅2 .
+
+𝑑 = 1,5×1011 m
+
+2- Le rayonnement solaire met en moyenne 500 s à nous parvenir depuis le Soleil.
+Montrer que la distance moyenne Soleil-Terre est 𝑑 = 1,5×1011 m.
+3- La constante solaire exprime la puissance émise par le Soleil que recevrait un mètre
+carré de la surface terrestre exposé directement aux rayons du Soleil si l’atmosphère
+terrestre n’existait pas, la surface étant perpendiculaire aux rayons solaires. Elle varie
+au cours de l’année. Sa moyenne annuelle est de 1 370 W∙m-2.
+En s’appuyant sur le document 2 et la valeur de la constante solaire, calculer la
+puissance totale rayonnée par le Soleil.
+4 - La Terre intercepte le rayonnement solaire sur une surface correspondant à un
+disque de rayon R = 6 400 km.
+Calculer l’aire de cette surface, exprimée en m2.
+5 - Montrer par le calcul que la puissance solaire reçue par la Terre (en dehors de
+l’atmosphère) d’après ce modèle est voisine de 1,77 ×1017 W.
+6- Expliquer pourquoi la puissance solaire reçue par unité de surface terrestre n’est
+pas uniforme à la surface de la Terre. Il est recommandé de s’appuyer sur un schéma.
+
+EXERCICE 2
+LA NUMÉRISATION ET LE STOCKAGE D’UN SON
+Cet exercice s’intéresse à différents aspects de la numérisation d’un son et du
+stockage du fichier obtenu.
+Partie A. Échantillonnage et quantification.
+1- Une plateforme de service de musique en ligne propose de la musique en
+qualité « 16-Bit/44.1 kHz ». Expliquer ce que cela signifie.
+2- Pour chacune des propositions suivantes, recopier sur la copie la réponse
+qui convient :
+2-a- Pour échantillonner à 20 000 Hz un signal audio analogique, quelle est la
+durée de l’intervalle de temps entre deux mesures de la tension du
+signal audio ?
+5 × 10−5 s
+
+5 × 10−4 s
+
+5 × 10−3 s
+
+2 × 10−4 s
+
+2-b- Lorsqu’on quantifie un échantillon sur 24 bits, combien de niveaux de
+tension différents a-t-on la possibilité de coder ?
+2 × 24 = 48
+
+242 = 576
+
+224 = 16 777 216
+
+2-c- Dans cette question, on s’appuie sur le document 1 fourni en annexe.
+Parmi les choix ci-dessous, quelle est la fréquence d’échantillonnage choisie
+pour le signal audio représenté ?
+2 000 Hz
+
+12 500 Hz
+
+26 000 Hz
+
+44 100 Hz
+
+3- Cette question s’appuie également sur le document 1 fourni en annexe.
+On procède à la quantification, par codage sur 3 bits, des valeurs de la tension
+obtenues après l’échantillonnage du signal audio. Après quantification, la
+tension (exprimée en volt), peut prendre pour valeurs les 8 nombres entiers
+relatifs compris entre – 4 et +3, la valeur quantifiée d’une tension étant l’entier
+le plus proche de cette tension.
+Sur le document 1 de l’annexe, à rendre avec la copie, représenter la courbe
+des tensions après échantillonnage et quantification
+
+Partie B. Taille de fichier
+La taille T(en bit) d’un fichier audio numérique s’exprime en fonction de la
+fréquence d’échantillonnage 𝑓𝑒 (en Hertz), du nombre 𝑛 de bits utilisés pour la
+quantification, de la durée Δ𝑡 de l’enregistrement et du nombre 𝑘 de voies
+d’enregistrement (une en mono, deux en stéréo) selon la relation :
+𝑇 = 𝑓𝑒 × 𝑛 × Δ𝑡 × 𝑘
+Dans un studio d’enregistrement, on enregistre un morceau de musique en
+stéréo en choisissant un encodage sur 24 bits et une fréquence
+d’échantillonnage de 192 kHz.
+4- Vérifier que l’espace de stockage nécessaire pour enregistrer une seconde
+de musique avec cette qualité est de 1,152 Mo.
+5- Avec 200 Mo de stockage, dispose-t-on de suffisamment d’espace pour
+enregistrer un fichier contenant un morceau de musique de cinq minutes dans
+cette qualité ?
+6- Le dispositif d’encodage et de compression FLAC (Free Lossless Audio
+Codec) permet de compresser le fichier obtenu à la question précédente avec
+un taux de compression de 45 %. Avec 200 Mo de stockage, dispose-t-on de
+suffisamment d’espace pour enregistrer ce fichier compressé ?
+On rappelle que le taux de compression est le quotient de la taille du fichier
+compressé par la taille du fichier initial.
+
+Annexe à rendre avec la copie
+EXERCICE : Numérisation et stockage d’un son
+
+Question 3
+Tension (en volt) d’un signal audio analogique en fonction du temps (en
+seconde).
+Les mesures d’échantillonnage sont réalisées aux instants repérés par les
+lignes verticales rouges.

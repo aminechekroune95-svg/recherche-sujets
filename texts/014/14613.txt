@@ -1,0 +1,271 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1737002, "at": "2026-11-23T09:31:14+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique sans enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Le son : de l’analogique au numérique
+L’industrie de la musique a connu au cours des dernières décennies de nombreuses
+évolutions (disque vinyle, CD, MP3, plateformes de musique en ligne). Ces évolutions
+sont dues au développement de la numérisation du son qui permet un stockage, une
+transmission et un accès plus aisés.
+L’objectif de l’exercice est de comprendre l’influence de certains paramètres sur la
+qualité du son numérisé.
+Les documents mentionnés dans l’exercice sont placés en fin d’énoncé de cet
+exercice.
+1- À partir de l’exploitation des graphiques du document 1, recopier la ou les bonnes
+réponses pour chaque situation ci-dessous.
+ La fréquence d’échantillonnage est plus élevée dans le cas du graphique (a)
+que dans le cas du graphique (b).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (b) que dans celle correspondant au graphique (a).
+ Le fichier numérique correspondant à la situation du graphique (c) a une plus
+petite taille que le cas du graphique (d).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (c) que dans celle correspondant au graphique (d).
+2- À partir de vos connaissances, indiquer la condition que doit vérifier la fréquence
+d’échantillonnage si on veut numériser fidèlement un son analogique sinusoïdal de
+fréquence 𝑓.
+3- Justifier à partir des informations du document 2 que le choix de la fréquence
+d’échantillonnage permet une numérisation fidèle des sons sur un CD audio.
+4- À partir de vos connaissances, donner l’intervalle des fréquences des sons audibles
+par les humains. Indiquer, en justifiant, si tous les sons correspondant à ces
+fréquences sont transmis lors d’une audioconférence numérisée.
+
+5- Un morceau de musique de 4 minutes 27 secondes est enregistré en stéréo sur un
+CD audio. Justifier par un calcul que la taille du fichier enregistré est de 47 Mo.
+6- Le format MP3 est un format de compression audio avec perte d’informations.
+Si on admet que le taux de compression du format CD au format MP3 à 128 kbits/s
+est égal à 9%, calculer la taille du fichier MP3 à 128 kbits/s correspondant à
+l’enregistrement précédent.
+7- Comparer, en termes d’avantages et d’inconvénients, les formats CD audio et MP3.
+
+Document 1. Discrétisation du signal analogique d’un même son
+Pour numériser un son, on procède à la discrétisation du signal analogique sonore
+(échantillonnage et quantification), comme l’illustrent les graphiques ci-après.
+Les échelles de tension et de temps sont les mêmes pour tous les graphiques.
+On note Te , la période d’échantillonnage.
+
+Document 2. Caractéristiques de numérisation de signaux audio suivant
+l’application
+Plage des
+fréquences
+transmises
+
+Fréquence
+d’échantillonnage
+
+Nombre de
+bits pour la
+quantification
+
+Applications
+
+Qualité
+téléphonie
+
+300-3400 Hz
+
+8 kHz
+
+Téléphonie
+
+Qualité bande
+élargie
+
+50-7000 Hz
+
+16 kHz
+
+Audioconférence
+
+50-15000 Hz
+
+32 kHz
+
+Radiodiffusion
+
+20-20000 Hz
+
+44,1 kHz
+
+CD audio
+
+Haute
+qualité
+Qualité
+« Hi-Fi »
+
+D’après Des données à l’information de Florent Chavand (ISTE éditions)
+
+Document 3. Taille d’un fichier numérique et taux de compression
+La taille T d’un fichier audio numérique (en bit) peut être calculée à partir de la
+fréquence d’échantillonnage fe (en Hertz), du nombre n de bits utilisés pour la
+quantification, de la durée t (en secondes) de l’enregistrement et du nombre k de
+voies ou canaux utilisés (1 en mono, 2 en stéréo…), à l’aide de la formule suivante :
+T = fe × n × t × k
+Le taux de compression est ici défini comme le rapport de la taille du fichier
+compressé sur la taille du fichier original.
+
+Exercice 2 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+L’énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire le mécanisme qui est à l’origine de l’énergie rayonnée par une
+étoile.
+Document 1. Informations sur la lumière émise par Véga et sur l’influence de la
+température de surface
+
+Source : ci2mrduthoit.weebly.com
+
+Rappel sur la loi de Wien : la longueur d’onde correspondant à l’intensité lumineuse
+maximale λmax est donnée par
+
+avec λmax en mètres et T en kelvins.
+Relation entre température Θ en degrés Celsius (°C) et température T en
+kelvins (K) : Θ = T - 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+À partir de vos connaissances et des informations apportées par les documents,
+répondre aux questions suivantes.
+2- Indiquer si la température de surface de l’étoile Véga est supérieure ou inférieure à
+celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la proposition la plus juste parmi les suivantes et justifier
+votre réponse.
+La température de surface de l’étoile Véga vaut environ :
+
+750 K
+
+7500 K
+
+7200 °C
+
+72000 °C
+
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des informations
+extraites des documents 2 et 3 suivants, ainsi que de vos connaissances.
+La réponse ne doit pas excéder une page.
+
+Document 2. Photosynthèse, respiration et fonctionnement d’une plante
+
+La photosynthèse est un métabolisme qui se déroule dans les cellules chlorophylliennes. La
+respiration cellulaire est un métabolisme se déroulant dans toutes les cellules et qui produit
+un type de molécule permettant des transferts d’énergie donc le fonctionnement cellulaire :
+l’ATP (adénosine tri-phosphate).
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 3. Représentation schématique des flux d’énergie et de matière
+organique (biomasse) dans un écosystème
+
+Figure 1 : une pyramide énergétique dans un écosystème terrestre
+Les différents maillons d’un réseau trophique sont positionnés verticalement en fonction de
+leur place fonctionnelle (des producteurs primaires à la base aux consommateurs tertiaires
+en haut). Dans cet exemple d’écosystème, environ 10 % de l’énergie disponible à chaque
+niveau trophique sont convertis en nouvelle biomasse au niveau suivant, ce qui représente
+une efficacité trophique de 10 %.
+
+Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique
+Moins de 17 % de la nourriture d’une chenille sert réellement à la production de biomasse
+(croissance).
+D’après Biologie, Reece, Urry et al ; 4ème édition.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Diamant et kimberlite
+La kimberlite est une roche qui peut contenir des cristaux de diamant. Elle est issue
+du refroidissement d’une lave et doit son nom à la ville de Kimberley en Afrique du
+sud, où elle fut découverte pour la première fois.
+Observation de la kimberlite
+La kimberlite est présentée à différentes échelles sur le document réponse en annexe.
+1- Identifier les structures observées en inscrivant, parmi les propositions suivantes,
+les réponses dans les cadres prévus : « cellule », « roche », « organite »,
+« minéral », « modélisation à l’échelle de l’atome ».
+2- Cocher la proposition juste dans le QCM du document réponse à rendre avec la
+copie.
+Structure cristalline du diamant
+Des diamants sont souvent présents dans la kimberlite sous forme d’inclusions. Le
+diamant est un minéral transparent composé de cristaux de carbone pur. Cette « pierre
+précieuse » est connue pour être le minéral le plus dur qui soit.
+On cherche à savoir si, dans le cas du diamant, le carbone cristallise sous une forme
+cubique à face centrée.
+Données :
+• Rayon d’un atome de carbone : 𝑟 = 70 pm.
+• Masse d’un atome de carbone : m = 2,0 x 10-26 kg.
+3- Étude d’un réseau cubique à faces centrées.
+3-a Compléter le schéma de maille d’un réseau cubique à faces centrées présenté
+dans le document réponse en indiquant la position des atomes.
+3-b Déterminer, en le justifiant, le nombre d’atomes présents à l’intérieur d’une maille.
+
+Document 1 – Vue d’une face du cube (réseau cubique à faces centrées)
+
+Illustration de l’auteur
+
+3-c Le paramètre de maille, noté a, est la longueur d’une arête du cube.
+Démontrer que a = 2√2𝑟.
+3-d Montrer que la masse volumique 𝜌 qu’aurait le diamant, s’il possédait une structure
+𝑚
+cubique à faces centrées, vérifierait approximativement la formule 𝜌 = 0,18 × 𝑟 3
+(avec m la masse d’un atome de carbone et r le rayon d’un atome de carbone
+modélisé par une sphère).
+4- La masse volumique du diamant est 3,51 x 103 kg.m-3. Indiquer si le diamant
+possède une structure cubique à faces centrées.
+Recherche de la profondeur de formation du diamant
+Le carbone pur est présent dans la nature sous deux formes principales : le diamant,
+qui est transparent, et le graphite, qui est gris et opaque. En laboratoire, il est possible
+de fabriquer artificiellement du diamant à partir du graphite en modifiant les paramètres
+de pression et de température : le diamant peut être produit si la pression est comprise
+entre 5 et 12 GPa (sachant que 1 GPa = 1 x 109 Pa).
+
+Document 2 – Pression en fonction de la profondeur sous la surface terrestre
+
+D’après un modèle simplifié de la structure de la Terre
+
+5- À l’aide du document 2, estimer la profondeur minimale à partir de laquelle les
+diamants peuvent se former.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Diamant et kimberlite
+Observation d’une kimberlite à différentes échelles
+
+Question 2 (QCM)
+Cocher la proposition exacte ci-dessous.
+Lorsque les minéraux sont présents dans une pâte amorphe. Cela indique :
+Un refroidissement rapide
+Une forte pression
+Un refroidissement lent
+Une oxydation
+
+Question 3a. Position des atomes dans la maille d’un réseau cubique à faces
+centrées
+Compléter le schéma en indiquant la position des atomes de carbone dans la maille
+d’un réseau cubique à faces centrées.

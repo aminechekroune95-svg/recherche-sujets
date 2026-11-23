@@ -1,0 +1,418 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1321858, "at": "2026-11-23T09:28:11+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Niveau des océans
+Sur 4 points
+Partie 1 – Évolution du niveau moyen des océans
+Dans l’article « Élévation du niveau de la mer » publié en octobre 2019 sur le site du
+gouvernement français notre-environnement.gouv.fr, il est indiqué que le niveau
+moyen des océans a augmenté en moyenne de 3,2 mm par an sur la période allant
+de 1993 à 2011.
+On suppose dans cette partie qu’à partir de 2011 le niveau moyen de l’océan
+augmente chaque année de 3,2 mm. On modélise l’élévation, en mm, du niveau
+moyen de l’océan entre l’année 2011 et l’année 2011 + 𝑛 par une suite (𝑢! ).
+Dans cette modélisation, on a 𝑢(0) = 0.
+1. Justifier que 𝑢(2) = 6,4 et proposer une interprétation dans le contexte de
+l’exercice.
+2. La suite (𝑢! ) est-elle arithmétique ou géométrique ? Justifier.
+3. Donner, pour tout entier naturel 𝑛, l’expression de 𝑢! en fonction de 𝑛.
+4. En déduire l’élévation en mm du niveau moyen de l’océan entre l’année 2011
+et l’année 2024.
+5. D’après ce modèle, à partir de quelle année, le niveau moyen des océans
+aura augmenté de plus de 10 cm par rapport au niveau moyen relevé en
+2011 ?
+Partie 2 – Étude du niveau de l’océan au Conquet (Finistère, Bretagne)
+La station du Conquet (ville du Finistère en Bretagne) enregistre différentes données
+dont le niveau de la mer. Ces données ont été saisies dans une feuille de calculs
+d’un tableur.
+En abscisse on trouve les années et en ordonnée le niveau moyen sur l’année, en
+mm, de l’Océan Atlantique pour la station du Conquet.
+
+Les données relevées chaque année permettent d’obtenir le nuage de points
+ci-dessous. Sur le graphique figure aussi une courbe de tendance, approchant le
+nuage de points.
+
+Source : psmsl.org
+1. La courbe de tendance obtenue correspond à la fonction 𝑓 définie sur
+[1971 ; 2020] par :
+𝑓(𝑥) = 3,0214𝑥 + 1032,4
+où 𝑥 représente le temps en année et 𝑓(𝑥) représente le niveau moyen sur
+l’année 𝑥, en mm de l’océan.
+Quelle est la nature de la fonction 𝑓 ?
+2. On admet que la fonction 𝑓 est dérivable sur [1971 ; 2020], on note 𝑓′ sa
+fonction dérivée.
+Calculer 𝑓′(𝑥). Interpréter ce résultat dans le contexte de l’exercice.
+3. En supposant que ce modèle reste valable dans le temps, estimer le niveau
+moyen de l’océan en 2050.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Les paramètres du son
+Les parties 1 et 2 peuvent être traitées indépendamment l’une de l’autre.
+La partie 3 est une argumentation s’appuyant sur les parties 1 et 2.
+Partie 1 – Masse et fréquence
+On dispose de trois marteaux M" , M# et M$ de masses respectives m" = 0,24 kg,
+m# = 0,48 kg et m$ = 1,44 kg.
+L’expérience consiste à les laisser tomber sur une enclume. Un logiciel d’acquisition
+enregistre le signal sonore émis.
+On désigne respectivement par f" , f# et f$ les fréquences fondamentales des sons
+émis par les marteaux M" , M# et M$ lors de l’expérience.
+Document 1 – Spectre des fréquences des sons émis lors de la chute des
+marteaux
+
+Spectre du son obtenu avec le marteau 1
+
+Spectre du son obtenu avec le marteau 2
+
+Spectre du son obtenu avec le marteau 3
+
+1- Lire sur le document 1 les fréquences fondamentales f" , f# et f$ des sons émis
+lors de l’expérience et noter leurs valeurs sur la copie.
+2- Comparer ces fréquences. La masse du marteau influe-t-elle sur la fréquence
+fondamentale du son émis ?
+3- Grâce à vos connaissances, déterminer si l’humain est capable de détecter les
+fréquences produites par le marteau 3.
+
+Document 2 – Schéma d’une oreille humaine
+
+Source : www.audition.fr
+
+4- Présenter comment l’humain parvient à détecter un son. Le document 2 est une
+aide mais n’a pas pour but d’être analysé.
+Partie 2 – Tension et fréquence
+Dans cette partie, on tend une corde de longueur quelconque à l'aide d'une masse
+variable 𝑚.
+
+On a relevé dans le tableau ci-dessous les fréquences fondamentales obtenues en
+pinçant la corde :
+Masse (en kg)
+
+8,070
+
+9,990
+
+11,110
+
+Fréquence (en Hz)
+
+5- Peut-on affirmer que la fréquence fondamentale du son est proportionnelle à la
+masse utilisée pour tendre la corde ? Justifier par la méthode de votre choix.
+Partie 3 – Analyse d’un texte
+Voici un extrait du Commentaire au songe de Scipion écrit par Macrobe aux
+alentours de 400 après JC.
+« [...] la diversité des sons, indépendante des hommes, correspondait aux marteaux.
+Alors il mit tout son soin à en évaluer le poids, et après avoir noté la différence de
+poids qui caractérisait chacun il fit fabriquer des marteaux de poids différents, en plus
+ou en moins ; les sons produits par leurs coups ne ressemblaient en rien à ceux
+d’avant et ne s’accordaient plus aussi bien. Il constata alors que l’harmonie sonore
+était réglée par les poids, et après avoir relevé les nombres qui définissaient la
+diversité bien accordée de ces poids, il passa des marteaux à l’examen des
+instruments à cordes : il tendit des boyaux de mouton ou des nerfs de bœuf en y
+attachant des poids aussi variés que ceux qu’il avait découverts à propos des
+marteaux, et il en résulta bien le genre d’accord que lui avait fait espérer son
+observation antérieure, à laquelle il ne s’était pas livré pour rien. »
+Commentaire au songe de Scipion, II, 1, 9-13
+
+6- En quelques lignes, émettre une critique scientifique détaillée des affirmations
+contenues dans le Commentaire au songe de Scipion, en vous appuyant sur les
+résultats obtenus dans les parties 1 et 2.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+L’éolien : un choix raisonné ?
+La France s'engage dans une transition énergétique où le nucléaire, source
+principale de production électrique, coexiste avec le développement des énergies
+renouvelables, notamment l’éolien. Ce dernier contribue à diversifier les sources
+d'énergie tout en posant des enjeux liés à la préservation de la biodiversité.
+Partie A – La production d’énergie électrique française
+Selon RTE (Réseau de Transport de l’Électricité), la production d’énergie électrique a
+atteint son plus haut niveau depuis 5 ans avec 272 000 GWh pour le premier
+semestre de l’année 2024. Si la production nucléaire reste la principale contributrice,
+la part des énergies renouvelables ne cesse de croître. Parmi elles, le parc éolien
+raccordé en France métropolitaine tient une place majeure dans la production
+d’énergie électrique.
+Tableau 1 – Répartition des sources d’énergie dans le cadre de la production nette
+d’énergie électrique en France au premier semestre 2024
+
+Part
+en %
+
+Nucléaire
+
+Hydraulique
+
+Éolien
+
+Solaire
+
+Bioénergie
+
+Sources d’énergie fossile
+
+9,4
+
+4,2
+
+2,2
+
+4,2
+
+Source : RTE
+
+1- Citer une source d’énergie fossile.
+2- Calculer la production d’énergie électrique issue de l’éolien et du nucléaire en
+GWh pour le premier semestre de l’année 2024.
+
+Partie B – Comparaison des énergies éolienne et nucléaire
+Document 2 – Informations sur la production d’énergies éolienne et nucléaire
+La Nouvelle-Aquitaine est la 5ème région éolienne de France avec, en 2023, une
+capacité de 1850 MW répartie sur environ 702 éoliennes terrestres.
+Majoritairement positionnées dans le nord de la région qui bénéficie de vents plus
+réguliers, ces éoliennes fonctionnent en pleine charge 2000 h par an.
+Éolien terrestre
+Puissance électrique délivrée (MW)
+
+2à3
+
+Coût par MW produit (millions d’euros)
+
+Entre 1200 et 1800
+
+Bilan carbone (g de CO2 par kWh)
+
+Entre 10 et 15
+
+En comparaison, le nucléaire reste dominant avec la centrale nucléaire de Civaux,
+située dans la Vienne. À elle seule, elle produit en moyenne 25 mille GWh
+d’électricité en un an, suffisant pour alimenter environ 12 millions de foyers. Si le
+coût des deux réacteurs de la centrale de Civaux a été de 6 milliards d’euros, celui
+des réacteurs EPR (European Pressurized water Reaction) des nouvelles
+centrales se chiffre entre 3 voire 6 dizaines de milliards d’euros. Leur bilan carbone
+est généralement compris entre 5 et 15 g de CO2 par kWh produit.
+
+Document 3 – Informations sur l’impact des éoliennes sur la biodiversité
+La présence d’éoliennes terrestres modifie l’habitat sur de grandes surfaces. Il
+semble qu’elles perturbent la faune et la flore ainsi que le confort des personnes.
+
+Seuil
+d’audibilité
+
+Vent
+léger
+
+Chambre
+
+Salon
+
+Rue
+
+Éolienne
+à 2 km
+
+Éolienne
+à 1 km
+
+Éolienne Au pied
+à 500 m du mât
+
+Classe Voiture Danger
+
+Figure 1 – Niveaux d’intensité sonore (en dB)
+
+Figure 2 – Causes de
+mortalité des oiseaux
+Source : Parlons Sciences
+2019
+
+Données :
+•
+
+L’énergie électrique obtenue en watt heure (Wh) pendant une certaine durée
+se calcule par la formule 𝐸 = 𝑃 × ∆𝑡 où 𝑃 est la puissance en watts (W) et ∆𝑡
+la durée en heures (h).
+
+•
+
+1 MW = 106 W
+
+3- En vous aidant du document 2 et de la formule donnée, comparer l’énergie
+électrique fournie pendant un an par les 702 éoliennes de la région NouvelleAquitaine et celle fournie par la centrale nucléaire de Civaux.
+4- À l’aide de vos connaissances et de l’ensemble des documents, comparer les
+modes de production d’énergie électrique de sources éolienne et nucléaire. Une
+argumentation structurée d’une vingtaine de lignes est attendue.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Le protoxyde d’azote et le réchauffement climatique
+« Troisième gaz à effet de serre au monde, le protoxyde d'azote (N2O) joue un rôle
+important dans le réchauffement du climat, à quantités égales, il contribue environ
+300 fois plus au réchauffement de l’atmosphère par effet de serre que le dioxyde de
+carbone » (Météo France, 2020). À l’échelle mondiale, une part de sa production est
+d’origine naturelle (majoritairement issue des sols et dans une moindre mesure de
+l’océan) et l’autre part est d’origine anthropique.
+On cherche à étudier l’implication du protoxyde d’azote (N2O) comme gaz à effet de
+serre et caractériser la part des activités humaines dans ces émissions.
+1- En utilisant vos connaissances, choisir la (ou les) proposition(s) exacte(s) dans
+chacune des séries A), B), C) et D) puis indiquer, sur la copie, la (ou les) lettre(s)
+correspondante(s).
+A) Le sol terrestre émet un rayonnement dans le domaine du spectre :
+a- visible ;
+b- infrarouge ;
+c- ultraviolet.
+B) Un gaz à effet de serre se caractérise par le fait qu’il :
+a- absorbe une partie du rayonnement visible ;
+b- réfléchit une partie du rayonnement visible ;
+c- absorbe une partie du rayonnement infrarouge ;
+d- réfléchit une partie du rayonnement infrarouge.
+C) Les deux principaux gaz à effet de serre impliqués dans le forçage radiatif sont :
+a- le dioxyde de carbone (CO2) ;
+b- le dioxygène (O2) ;
+c- la vapeur d’eau (H2O) ;
+d- le diazote (N2) ;
+e- le méthane (CH4).
+
+D) Depuis un siècle, l’ordre de grandeur d’augmentation de la température moyenne
+du globe est de :
+a- 0,2 °C ;
+b- 1 °C ;
+c- 2 °C ;
+d- 5 °C ;
+e- 20 °C.
+2- Sachant que le sol émet un rayonnement de longueur d’onde comprise entre 7 et
+15 µm, montrer que le protoxyde d’azote est un gaz à effet de serre, en
+exploitant le document 1.
+Document 1 – Spectre d’absorption infrarouge du protoxyde d’azote (N2O)
+
+Longueur d’onde (en µm)
+Source : d’après la base de données du National
+Institute of Standard and Technologie (USA)
+
+3- Utiliser les informations du document 2 pour :
+a) exprimer les émissions totales de N2O anthropiques en tonnes d’azote pour
+l’année 2005 ;
+b) calculer le pourcentage des émissions de N2O anthropiques par rapport aux
+émissions totales de N2O pour 2005.
+
+4- En utilisant les documents 2, 3 et 4 suivants, expliquer en quoi certaines activités
+agricoles contribuent au réchauffement climatique.
+Document 2 – Émissions mondiales de protoxyde d’azote en 2005
+En 2005, la production mondiale de protoxyde d’azote, toutes origines confondues,
+était estimée à 14,5 millions de tonnes.
+Le graphique ci-dessous présente les émissions anthropiques de N2O en 2005.
+
+Source : d’après www.pnas.org
+
+Les émissions de N2O d’origine agricole proviennent essentiellement de la
+transformation des produits azotés tels que les engrais dans les sols, les déjections
+des animaux d’élevage (lisier, fumier) ou les résidus de récolte.
+
+Document 3 – Évolution de la production mondiale de viande de 1961 à 2009 en
+millions de tonnes
+Production mondiale de viande (106 tonnes)
+
+Source : FAOSTAT
+
+Document 4 – Évolution de la concentration atmosphérique en N2O de 1750 à
+2010
+
+Une concentration de 1 ppb, signifie qu’une molécule sur un milliard (soit 10-9) dans
+un échantillon d’air est du N2O.
+Source : d’après l’EEA (agence européenne pour l’environnement)

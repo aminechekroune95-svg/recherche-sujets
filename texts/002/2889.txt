@@ -1,0 +1,284 @@
+{"pages": 9, "method": "pdftotext", "bytes": 768263, "at": "2026-11-23T09:24:28+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Exposition au soleil et protection (10 points)
+Le Soleil est la principale source du rayonnement électromagnétique reçu par la Terre. Une
+partie de ce rayonnement est constituée de radiations ultraviolettes (UV). Une exposition
+prolongée aux rayons ultraviolets peut provoquer des dommages au niveau des yeux ou de la
+peau, tels que brûlures, vieillissement prématuré ou cancers. Il est donc nécessaire de
+prendre certaines précautions pour s’en protéger.
+1. Les différents types de rayons ultraviolets
+Il existe trois catégories de rayonnements ultraviolets, classés par domaines de longueur
+d’onde selon leurs effets biologiques et leur pouvoir de pénétration dans la peau :
+- les UV-A : 320 nm < λ < 400 nm ;
+- les UV-B : 280 nm < λ < 320 nm ;
+- les UV-C : 100 nm < λ < 280 nm ;
+Plus l’énergie d’un rayonnement UV est élevée, plus celui-ci sera dangereux pour la peau.
+ constante de Planck : h = 6,63×10-34 J.s ;
+ la valeur de la célérité de la lumière c dans le vide est supposée connue du candidat ;
+ 1 eV = 1,60×10-19 J.
+1.1. Calculer, en eV, la valeur de l’énergie E d’un photon de longueur d’onde λ = 280 nm
+dans le vide.
+1.2. Classer, en justifiant, les différents types d’UV par nocivité croissante.
+
+2. L’ozone, l’écran solaire de la Terre
+Avant d’atteindre la surface de la Terre, le rayonnement solaire subit des phénomènes
+d’absorption et de diffusion dans les couches de l’atmosphère, notamment en raison de la
+présence de dioxygène et d’ozone (O3).
+L’ozone est particulièrement présent dans la stratosphère, couche située entre dix et
+cinquante kilomètres d’altitude.
+La couche d’ozone atmosphérique absorbe totalement les rayonnements ultraviolets de
+fréquence comprise entre 11×1014 Hz et 30×1014 Hz.
+2.1. Déterminer quelle catégorie d’ultraviolets ne parvient pas jusqu’à la surface terrestre.
+Lorsque le rayonnement UV traverse la stratosphère, certains photons incidents possèdent
+une énergie suffisante pour être absorbés par l’ozone. La transformation (dissociation) qui en
+résulte est modélisée par la réaction (1) :
+O3 + photon → O2 + O*
+(1)
+La notation O* signifie que l’atome d’oxygène formé est dans un état excité.
+2.2. Le diagramme énergétique simplifié ci-dessous présente les niveaux d’énergie mis en
+jeu avant et après dissociation de l’ozone modélisée par la réaction (1).
+Énergie
+E
+
+Edissociation
+
+E
+
+2.2.1. Recopier ce diagramme sur la copie et représenter par une flèche la transition
+correspondant au phénomène d’absorption des photons incidents par l’ozone.
+2.2.2. L’énergie de dissociation de l’ozone Edissociation est égale à 4,97 eV. Montrer que
+cette valeur est en accord avec la réponse donnée à la question 2.1.
+3. Le Soleil… sans coup de soleil
+Pour limiter les effets des rayonnements UV sur la peau, il est recommandé par les
+dermatologues de porter des vêtements et accessoires protecteurs, et d’utiliser une crème
+solaire. Il existe deux grandes catégories de protection solaire offerte par les cosmétiques
+selon la nature des filtres et leur mode d’action ; tous doivent être expressément autorisés par
+la réglementation :
+- les filtres organiques qui agissent par absorption des rayonnements UV ;
+- les filtres minéraux, à savoir le dioxyde de titane (TiO2) et l’oxyde de zinc (ZnO), qui
+agissent par réflexion des rayons UV : ceux-ci ne pénètrent pas dans l’épiderme.
+Ces différents filtres, chimiques ou minéraux […] peuvent être combinés entre eux par les
+fabricants […].
+D’après https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fichespratiques/Protection-solaire
+
+ Spectre d’absorption de deux filtres minéraux, TiO2 et ZnO :
+absorbance
+
+390 longueur d'onde (nm)
+
+D’après http://www.chimix.com/an19/bts/chim180.html
+
+ L’avobenzone est un filtre organique dont la masse molaire M est égale à 310,4 g.mol-1.
+ Spectre d’absorption de l’avobenzone :
+absorbance
+
+longueur d’onde (nm)
+
+3.1. Expliquer l’intérêt pour un fabricant de crème solaire de combiner un filtre organique tel
+que l’avobenzone avec un filtre minéral tel que TiO2.
+
+Une crème solaire, dont le seul principe actif est l’avobenzone, est étudiée au laboratoire afin de
+vérifier son efficacité dans le temps.
+
+Sa formulation est à 3 %, ce qui signifie que le pourcentage en masse de principe actif est de
+3,0 g d’avobenzone pour 100 g de crème.
+On considère que la crème solaire reste efficace et peut être
+conservée tant que le pourcentage en masse du principe actif est
+supérieur à 2,5 %.
+La période de conservation maximale après ouverture d’un produit Exemple de logo
+figurant sur un produit
+cosmétique est indiquée par un symbole représentant un pot
+cosmétique
+ouvert sur lequel la durée est précisée : 6 M pour 6 mois, 12 M
+pour 12 mois, 24 M pour 24 mois, etc.
+
+Pour vérifier l’efficacité dans le temps de la crème solaire, on réalise la mesure de
+l’absorbance A, pour un rayonnement de longueur d’onde égale à 360 nm, de différentes
+solutions de concentration en quantité de matière c connue d’avobenzone dans du méthanol.
+Les résultats obtenus permettent le tracé de la courbe ci-après.
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+
+AA
+
+-1 ) )
+(µmol.L
+Cc (µmol.L
+
+0 0
+Tous les trois mois, on prépare une solution en introduisant 200 mg de crème solaire issue
+4 du méthanol pour obtenir un litre de solution dont on mesure
+du même tube dans
+
+l’absorbance.
+Les résultats
+obtenus sont rassemblés dans le tableau suivant :
+
+Nombre de mois écoulés
+depuis0 l’ouverture du tube
+Absorbance
+
+0,52 0,52 0,51 0,43 0,35 0,25
+
+On considère que l’absorption des UV par des espèces chimiques autres que l’avobenzone
+est négligeable. 0
+
+3.2. Justifier le choix de la longueur d’onde de travail.
+0 la crème solaire.
+3.3. Formulation de
+3.3.1. Déterminer la concentration en quantité de matière c0 de la solution réalisée à
+l’ouverture du tube de crème solaire.
+3.3.2. La formulation de la crème solaire est-elle bien celle attendue ?
+3.4. Évolution de la formulation de la crème solaire au cours du temps.
+3.4.1. Indiquer, en justifiant, comment évolue la concentration en avobenzone au cours
+du temps.
+3.4.2. La mention «12 M » peut-elle être inscrite sur le logo figurant sur le tube de
+crème solaire ?
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche de
+résolution, ainsi que sur la qualité de sa rédaction.
+Toutes les prises d’initiative et toutes les tentatives de résolution, même partielles, seront
+valorisées.
+
+PARTIE B
+Synthèse d’un ester et convoyage de médicaments (10 points)
+I. Synthèse de l’éthanoate de benzyle au laboratoire
+Le jasmin est un arbuste originaire d’Inde, très cultivé dans les régions chaudes. L’odeur de fleur
+de jasmin correspond à la combinaison de plusieurs espèces chimiques et entre dans la
+composition de nombreux parfums. L’une des espèces responsables de la senteur du jasmin est
+l’éthanoate de benzyle. Cet ester est préparé par action de l'acide éthanoïque sur l'alcool
+benzylique ; cette transformation est non totale, lente et un catalyseur, l’acide sulfurique, est
+ajouté pour la rendre plus rapide.
+- Propriétés physico-chimiques des espèces mises en jeu :
+Espèces
+Alcool
+Acide
+Éthanoate
+chimiques
+benzylique
+éthanoïque
+de benzyle
+Formule brute
+C7H8O
+C2H4O2
+C9H10O2
+Masse molaire
+108,0
+60,0
+150,0
+(g.mol )
+Masse volumique 1,05
+1,05
+1,06
+(g.mL )
+Solubilité dans
+Faible
+très grande
+très faible
+l’eau
+Solubilité dans
+plus faible
+très grande
+insoluble
+l’eau salée
+que dans
+l’eau
+
+Eau salée
+saturée
+
+1,20
+
+Protocole de synthèse mis en œuvre :
+a. Sous la hotte, muni de gants et de lunettes, introduire 15 mL d'acide éthanoïque, 12 mL
+d'alcool benzylique, quelques gouttes d'acide sulfurique concentré et quelques grains de
+pierre ponce dans un ballon. Chauffer à reflux ce mélange pendant 30 minutes. Laisser
+refroidir.
+b. Introduire dans l’ampoule à décanter le mélange réactionnel et 50 mL d’une solution
+saturée de chlorure de sodium. Agiter puis laisser décanter. Récupérer la phase qui
+contient l’éthanoate de benzyle (phase organique).
+c. Sécher la phase organique en y ajoutant quelques cristaux de sulfate de magnésium
+anhydre.
+d. Vérifier la pureté du produit obtenu par spectroscopie infrarouge.
+1. Nommer chacune des 4 étapes du protocole notées de a à d.
+2. Quel est l’intérêt du montage à reflux?
+3. Schématiser et légender l’ampoule à décanter après décantation, en précisant la composition
+de chaque phase. Justifier la position relative des phases.
+
+4. Écrire l’équation de la réaction modélisant la synthèse de l’éthanoate de benzyle sachant qu’il
+se forme également de l’eau.
+5. On obtient 6,0 g d’éthanoate de benzyle analysé comme pur. Déterminer la valeur du
+rendement de la synthèse. Commenter cette valeur.
+II. Système de convoyage pour les médicaments
+Dans une pharmacie, afin d’optimiser la durée de délivrance des médicaments, un toboggan
+est installé entre le premier étage et le rez-de-chaussée. Un robot combiné à un automate
+dispose le médicament sur un tapis roulant, en fonction des commandes. Le pharmacien
+réceptionne le produit à l’étage inférieur pour le donner au client. Le schéma du dispositif est
+représenté ci-dessous.
+
+A
+
+B
+
+C
+
+D
+
+On considère une boîte de médicament de masse 300 g placée sur un tapis. Elle est
+modélisée par un point matériel de centre d’inertie G. Le trajet parcouru par la boîte est divisé
+en 3 parties :
+- une surface horizontale AB. Il s’agit d’un tapis roulant permettant de faire avancer la boîte
+de médicament à une vitesse constante v0 = 0,3m.s-1 ;
+- Un plan incliné BC de longueur 1,58 m et formant un angle 𝜶 = 55°avec l’horizontale. La
+valeur de la force F modélisant les frottements exercés sur la boîte de médicaments sur cette
+portion est F = 0,30N ;
+- Une portion de C à D où la boîte est en chute libre, dans un panier au point D.
+On néglige l’action exercée par l’air. L’intensité du champ de pesanteur terrestre vaut
+g = 9,81 N.kg-1.
+6. Effectuer le bilan des actions modélisées par des forces s’exerçant sur la boîte de
+médicaments sur les différents trajets entre A et D.
+D forces s’exerçant sur la boîte entre les points A et B ?
+7. Que peut-on dire des
+8. Sur le trajet BC.
+
+8.1.
+8.2.
+8.3.
+
+Schématiser, sur l’annexe à rendre avec la copie, les forces qui s’exercent sur la
+boîte de médicament, sans souci d’échelle.
+Donner l’expression littérale du travail de chaque force.
+En utilisant le théorème de l’énergie cinétique, donner l’expression littérale de la vitesse
+vC de la boîte de médicaments lorsqu’il arrive en C puis calculer sa valeur.
+
+9. La boîte est réceptionnée dans un panier situé à un hauteur h sous le point C. Indiquer,
+sans faire de calculs, les paramètres sur lesquels on peut jouer pour que la boîte de
+médicament ne soit pas déformée à la réception.
+
+Annexe à rendre avec la copie
+Question 8.1
+
+A
+
+B
+
+𝜶
+C
+
+D

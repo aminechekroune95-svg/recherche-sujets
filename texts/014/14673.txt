@@ -1,0 +1,450 @@
+{"pages": 18, "method": "pdftotext", "bytes": 471161, "at": "2026-11-23T09:42:48+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+Question A 2
+En ajoutant trois chiffres 0 à droite de l'écriture binaire d'un entier 𝑁 strictement positif, on obtient l'écriture
+binaire de :
+6×𝑁
+8×𝑁
+1000 × 𝑁
+aucune des réponses précédentes
+Question A 3
+Quelle est l'écriture hexadécimale (en base 16) du nombre entier 157 ?
+8F
+9C
+9D
+AD
+Question A 4
+Parmi les propositions suivantes, laquelle est la représentation binaire de 761 ?
+11 1100 1101
+11 1110 0101
+10 0111 1001
+10 1111 1001
+Question A 5
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+
+Question A 6
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+
+Thème B : types construits
+Question B 1
+Quel est le type de l'expression f(4) si la fonction f est définie par :
+def f(x):
+return (x, x**2)
+un entier
+un flottant
+une liste
+un tuple
+Question B 2
+Comment peut-on accéder à la valeur associée à une clé dans un dictionnaire ?
+il faut parcourir le dictionnaire avec une boucle à la recherche de la clé
+on peut y accéder directement à partir de la clé
+on ne peut pas accéder à une valeur contenue dans un dictionnaire à partir d’une clé
+il faut d’abord déchiffrer la clé pour accéder à un dictionnaire
+Question B 3
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 4
+On définit ainsi une liste M :
+M = [['A','B','C','D'], ['E','F','G','H'], ['I','J','K','L']]
+Quelle expression vaut la chaîne de caractères 'H' ?
+M[1][3]
+M[3][1]
+M(7)
+M(8)
+Question B 5
+On dispose d'une liste définie par L = [15,17,12,23].
+Quelle est la valeur de L après l'instruction L[2] = 25 ?
+
+[15,25,12,23]
+[15,17,25,12,23]
+[15,17,25,23]
+[15,17,12,25,23]
+Question B 6
+t = [ 0 for i in range(10) ]
+for i in range(10):
+if i%2==0:
+t[i] = i
+Une et une seule des affirmations suivantes est vraie. Laquelle ?
+La liste t contient tous entiers compris entre 0 et 10.
+La liste t contient tous les entiers pairs compris entre 0 et 20.
+La liste t contient tous les entiers impairs compris entre 0 et 10.
+La liste t contient tous les entiers pairs compris entre 0 et 8.
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle est la valeur de la variable image après exécution du programme Python suivant ?
+image = [[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0]]
+for i in range(4):
+for j in range(4):
+if (i+j) == 3:
+image[i][j] = 1
+[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [1, 1, 1, 1]]
+[[0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1]]
+[[0, 0, 0, 1], [0, 0, 1, 0], [0, 1, 0, 0], [1, 0, 0, 0]]
+[[0, 0, 0, 1], [0, 0, 1, 1], [0, 1, 1, 1], [1, 1, 1, 1]]
+
+Question C 2
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 3
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 4
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C 5
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 6
+On dispose du fichier « info.csv » donné ci-dessous :
+nom, prenom, naissance, deces
+lovelace, ada, 1815, 1852
+von neumann, john, 1903, 1957
+turing, alan, 1912, 1954
+mccarthy, john, 1927, 2011
+floyd, robert, 1936, 2001
+Le programme ci-dessous nous permet de créer un tableau à partir de ce fichier.
+file = open("info.csv", "r")
+firstLine = file.readline()
+# chargement de la ligne d’entête
+tableau = [line.split(',') for line in file] # chargement des données
+Les index des lignes de ce tableau vont…
+de 0 à 3
+de 1 à 4
+de 0 à 4
+de 0 à 5
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D 2
+Dans une page HTML se trouve le formulaire suivant :
+<form method="........." action="traitement.html">
+<p>Nom : <input type="text" name="nom"></p>
+<p>Mot de passe : <input type="password" name="mdp"></p>
+<p><input type="submit" name="envoi" value="Envoyer"></p>
+</form>
+Par quoi faut-il remplacer les pointillés pour que les données du formulaire n'apparaissent pas dans l'URL au
+moment où l'utilisateur soumet le formulaire au serveur ?
+GET
+POST
+SECRET
+HIDDEN
+Question D 3
+Une page Web contient un formulaire dont le code HTML est le suivant :
+<form action="/action_page.php" method="post">
+First name : <input type="text" name = "fname"><br>
+Last name : <input type="text" name = "lname"><br>
+<input type="submit" value="Submit">
+</form>
+Que peut-on dire des informations transmises dans ce formulaire ?
+elles seront enregistrées dans l’historique du navigateur
+elles seront enregistrées dans le cache du navigateur
+elles ne devront pas dépasser une limite en nombre de caractères transmis
+elles ne seront pas visibles dans la barre du navigateur
+Question D 4
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+
+GET
+HTTPS
+POST
+
+Question D 5
+On considère le formulaire ci-dessous :
+Quel est votre langage préféré ?
+Python □ Java □ Php □
+Quelle balise parmi les quatre suivantes a été utilisée pour les cases à cocher ?
+<input type="radio">
+<input type="circle">
+<input type="checkbox">
+<input type="square">
+Question D 6
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 2
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt
+
+NSI_ex1_Marie.txt
+
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+Question E 3
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 4
+Lorsque, en ligne de commande, on saisit la commande
+chmod u+rw a.txt
+ceci a pour effet :
+de permettre au propriétaire du fichier de modifier le contenu de ce fichier
+d'interdire au propriétaire de modifier le contenu de ce fichier
+d'interdire à tous les autres utilisateurs de lire le fichier
+d'effacer le fichier
+Question E 5
+Parmi tous les registres internes que possède une architecture mono-processeur, il en existe un appelé
+compteur ordinal (program counter).
+
+Quel est le rôle de ce registre ?
+il contient l'adresse mémoire de la prochaine instruction à exécuter
+il contient le nombre d'instructions contenues dans le programme
+il contient l'adresse mémoire de l'opérande à récupérer
+il contient le nombre d'opérandes utilisés
+Question E 6
+Quel est le rôle de la commande shell ls ?
+basculer en mode administrateur
+lister le contenu du répertoire courant
+donner un accès complet à un fichier
+effacer le contenu du répertoire courant
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 2
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 3
+Ce programme ne renvoie pas toujours ses trois arguments dans l’ordre croissant. Parmi les tests suivants,
+lequel va permettre de détecter l’erreur ?
+def ranger(a, b, c):
+if a > b :
+a, b = b, a
+if b > c:
+b, c = c, b
+return a, b, c
+ranger(1,2,3)
+ranger(3,4,1)
+ranger(1,3,2)
+ranger(4,2,3)
+
+Question F 4
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+
+Question F 5
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F 6
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Thème G : algorithmique
+Question G 1
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 2
+On considère la fonction suivante :
+def f(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+Quelle est la valeur de f([ 7, 3, 1, 8, 19, 9, 3, 5 ], 0) ?
+Question G 3
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 4
+Un algorithme de calcul de moyenne est implémenté de la façon suivante :
+def moyenne(liste) :
+t = 0
+for e in liste :
+t = t + e
+
+# assertion vraie à cet endroit
+return t/len(liste)
+Parmi les propositions suivantes, laquelle reste vraie à la fin de chaque itération de la boucle ?
+e vaut le nombre de passages dans la boucle
+t vaut la somme des éléments visités de la liste
+t vaut la moyenne des éléments visités de la liste
+après k passages dans la boucle la liste contient k termes
+Question G 5
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 6
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire

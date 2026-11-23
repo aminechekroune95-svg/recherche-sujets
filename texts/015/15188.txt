@@ -1,0 +1,309 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1499517, "at": "2026-11-23T09:30:24+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Évolution de la population en Argentine
+Sur 8 points
+
+Le tableau ci-dessous indique la population de l’Argentine, en millions d’habitants,
+tous les dix ans, de 1970 à 2020, ainsi que le taux d’évolution de la population, en
+pourcentage, arrondi à 0,1 %, d’une décennie sur l’autre.
+Année
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+2020
+
+Population en millions d’habitants
+
+23,88
+
+27,90
+
+32,62
+
+36,87
+
+40,79
+
+45,38
+
++16,8
+
++16,9
+
+?
+
++10,6
+
++11,3
+
+Taux d’évolution (en %)
+
+Source : www.donneesmondiales.com
+Ainsi, on lit qu’entre 1970 et 1980, la population de l’Argentine a augmenté de
+16,8 % environ.
+Les deux parties de cet exercice sont indépendantes.
+
+Partie A
+1- Calculer le taux d’évolution de la population de l’Argentine entre 1990 et 2000. Le
+résultat sera donné en pourcentage arrondi à 0,01 %.
+2- On admet que le taux d’évolution global de la population de l’Argentine entre 1970
+et 2020 est de 90 % environ.
+Montrer que le taux d’évolution annuel moyen de la population de l’Argentine entre
+1970 et 2020 est d’environ 1,3 %.
+
+Partie B
+Dans cette partie, on se propose de modéliser l’évolution de la population en
+Argentine pour les années qui suivent l’année 2020.
+3- On choisit un premier modèle pour obtenir une estimation de la population de
+l’Argentine, en millions d’habitants après 2020. On estime que la population, après
+2020, augmente de 0,46 million d’habitants par an. On modélise alors cette évolution
+par une suite (𝑢𝑛 ) où 𝑢𝑛 représente la population, en millions d’habitants, pour
+l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel. On a 𝑢0 = 45,38.
+3-a- Calculer 𝑢1 .
+3-b- Quelle est la nature de la suite (𝑢𝑛 ) ? Donner sa raison.
+3-c- Exprimer, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3-d- Déterminer l’année à partir de laquelle, selon ce modèle, la population de
+l’Argentine dépassera 50 millions d’habitants.
+4- On choisit maintenant un autre modèle. On estime dans cette question que la
+population de l’Argentine, après 2020, continue d’augmenter de 1,3 % par an. On
+modélise alors cette évolution, par une suite (𝑣𝑛 ) où 𝑣𝑛 représente la population,
+en millions d’habitants, pour l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel.
+Ainsi 𝑣0 = 45,38.
+4-a- Calculer 𝑣1 .
+4-b- Montrer que la suite (𝑣𝑛 ) est géométrique. Donner sa raison.
+4-c- Exprimer, pour tout entier naturel 𝑛, 𝑣𝑛 en fonction de 𝑛.
+5- Les prévisions des Nations-Unies donnent pour 2025 une population de 47,48
+millions d’habitants en Argentine. Des deux modèles proposés, lequel se rapproche
+le plus de cette prévision ? Justifier la réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+Sur 12 points
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( I ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Un spectateur situé à 5 m de la piste de formule 1 reçoit un niveau d’intensité
+sonore I =1 W.m-². Vérifier, par le calcul, que ce spectateur est soumis à un
+niveau d’intensité sonore L = 120 dB.
+2- Choisir la proposition juste, parmi les 3 ci-dessous en justifiant (on n’attend
+aucun calcul).
+Pour n’être soumis qu’à une intensité sonore L’= 105 dB, un spectateur doit se
+trouver à une distance de de la piste de :
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+3- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes, de porter des bouchons d’oreilles bien insérés et
+de faire des pauses auditives régulières. Justifier ces différents conseils.
+Partie 2 – Restaurer l’audition
+4- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Nommer en justifiant la partie dysfonctionnelle de l’oreille concernée par
+chacune des aides auditives.
+5- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Sur 12 points
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire en 3 ou 4 lignes le mécanisme qui est à l’origine de l’énergie
+rayonnée par une étoile.
+À partir de vos connaissances et des informations apportées par les documents
+fournis dans la suite, répondre aux questions suivantes.
+2- Relever sur le document 1 la longueur d’onde correspondant à l’intensité
+lumineuse maximale émise par Véga.
+3- Sans calcul, indiquer si la température de surface de l’étoile Véga est supérieure
+ou inférieure à celle du Soleil. Justifier votre réponse.
+4- Calculer la température de surface de l’étoile Véga en utilisant le document 2.
+5- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des
+informations extraites des documents 3 et 4, ainsi que de vos connaissances. La
+réponse ne doit pas excéder 8 lignes.
+
+Document 1 – Profil spectral de la lumière émise par Véga
+
+Figure A – Profil spectral de Véga
+Source : ci2mrduthoit.weebly.com
+
+Document 2 – La loi de Wien
+Pour des objets incandescents idéaux appelés « corps noirs », le spectre
+d’émission ne dépend que de la température de l’objet. Plus l’objet est chaud, plus
+la longueur d’onde correspondant au maximum d’émission est faible.
+La loi de Wien permet de traduire cette observation :
+𝜆max =
+
+2,89. 10−3
+𝑇
+
+avec 𝜆max en mètres et 𝑇 en kelvins.
+Relation entre température 𝛩 en degrés Celsius (°C) et température 𝑇 en
+kelvins (K) : 𝛩 = 𝑇 − 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+Document 3 – Photosynthèse, respiration et fonctionnement d’une plante
+La photosynthèse
+est un
+métabolisme qui
+se déroule dans
+les cellules
+chlorophylliennes.
+La respiration
+cellulaire est un
+métabolisme se
+déroulant dans
+toutes les cellules
+et qui produit un
+type de molécule
+permettant des
+transferts
+d’énergie donc le
+fonctionnement
+cellulaire. Cette
+molécule est l’ATP
+(adénosine triphosphate).
+
+Figure B – Conversions d’énergie
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 4 – Transfert de l’énergie solaire dans un écosystème
+
+Figure B – Transferts d’énergie dans une prairie
+
+Les valeurs indiquent l’énergie en kcal/an pour 1 m 2 de prairie.
+MO signifie « matière organique ».
+Source : manuel scolaire Lelivrescolaire, édition 2023, p. 118.

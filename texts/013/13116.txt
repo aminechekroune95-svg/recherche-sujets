@@ -1,0 +1,224 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1547175, "at": "2026-11-23T09:32:35+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+L’agrivoltaïsme
+L’agrivoltaïsme est un système destiné à protéger l’agriculture des aléas
+météorologiques et, à titre secondaire, à produire de l’électricité d’origine
+photovoltaïque. Il est constitué de panneaux, recyclables à 90 %, situés à environ
+4,50 m de hauteur afin de pouvoir laisser passer tous les engins agricoles. Les
+panneaux sont mobiles, pilotés à distance grâce à un algorithme complexe, au gré des
+besoins : à plat pour protéger la production d’une pluie battante, d’un soleil brûlant, du
+gel ou de la grêle, ou à la verticale pour laisser passer un maximum de lumière et de
+pluie.
+
+Document 1 : le projet à Tresserre
+Le projet à Tresserre (Pyrénées-Orientales) couvre une surface agricole de
+4,5 hectares*. Avec ses 7 800 panneaux, le taux de couverture photovoltaïque s’élève
+à 40 %. Le coût du projet s’élevant à 20 millions d’euros, une rentabilité de cette
+centrale est espérée d’ici à dix ans grâce à la vente de l’électricité. Les 2,2 mégawatts**
+produits pour un éclairement énergétique de 800 W/m², à une température ambiante
+de 20°C et à une vitesse du vent de 1 m/s, produiraient l’énergie suffisante pour la
+consommation de plus de 650 foyers.
+* 1 hectare (ha) = 10 000 m²
+
+** 1 mégawatt (MW) = 1 000 000 W
+Source : https://sunagri.fr
+
+Document 2 : courbes représentatives types de l’intensité I en fonction de la
+tension U aux bornes d’un panneau photovoltaïque, selon l’éclairement reçu
+pour l’une (à température donnée), selon la température de fonctionnement pour
+l’autre (à éclairement donné)
+
+Source : http://www.photowatt.com
+
+Document 3 : production du silicium
+La très grande majorité des panneaux solaires sont constitués de silicium cristallin,
+élément que l’on extrait du sable ou du quartz. En 1990, la production mondiale de
+silicium de qualité « métallique » atteignait 800 000 tonnes. Seulement 4 % a obtenu
+la qualité électronique. Après les dernières étapes de purification et d’importants
+déchets de fabrication, seulement 0,4 % a fini dans des cellules photovoltaïques et
+0,1 % dans des composants électroniques. Il aura fallu utiliser plus de 100 000 tonnes
+de chlore et 200 000 tonnes d’acides et solvant divers dont le traitement n’était pas
+assuré à l’époque. La pollution constatée atteste que ces effluents toxiques ont été
+rejetés dans l’environnement, polluant les nappes phréatiques.
+Source : d’après https://ecoinfo.cnrs.fr/2010/10/20/5-impacts
+
+1- Décrire la chaîne de transformation énergétique représentant la conversion
+d’énergie qui a lieu dans une cellule photovoltaïque.
+2- Définir le rendement d’une cellule photovoltaïque.
+3- Calculer la surface totale des panneaux photovoltaïques du projet Tresserre
+évoqué dans le document 1.
+4- Montrer que la puissance moyenne délivrée, en watts, pour un mètre carré de
+panneau photovoltaïque est de 122 W dans les conditions du projet de Tresserre.
+5- Calculer le rendement de l’installation.
+6- Sachant que la puissance est le produit de la tension U et de l’intensité I, indiquer
+deux paramètres (autres que U ou I) influençant la puissance délivrée et préciser leur
+influence sur la puissance produite.
+7- Présenter de façon argumentée les avantages et les inconvénients de
+l’agrivoltaïsme dans la cadre de la transition énergétique.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rayonnement solaire reçu sur Terre
+L’exercice s’intéresse aux caractéristiques du rayonnement solaire reçu sur Terre.
+Donnée : la vitesse de propagation de la lumière dans le vide vaut c = 3,0 × 108 m∙s-1.
+PARTIE A. TEMPÉRATURE DE LA SURFACE DU SOLEIL
+
+Document 1. Spectre du rayonnement émis par le Soleil.
+
+Le spectre de corps noir modélisant au mieux le spectre d’émission solaire est indiqué
+sur la courbe en trait épais.
+Source : AbulÉdu-fr
+
+1- Selon la loi de Wien, la longueur d’onde d’émission maximale d’un corps noir est
+inversement proportionnelle à la température absolue de la surface d’une étoile selon
+la formule :
+𝑘
+𝜆max =
+𝑇
+où 𝜆max représente la longueur d’onde du maximum d’émission (exprimée en mètres),
+𝑘 est une constante de valeur 2,89 × 10‒3 m∙K et 𝑇 représente la température absolue
+(exprimée en kelvins).
+À l’aide de ces informations et du document 1, déterminer la température de surface
+du Soleil.
+
+PARTIE B. ÉNERGIE SOLAIRE REÇUE PAR LA TERRE
+
+Document 2. Modélisation permettant le calcul de la puissance rayonnée
+À une distance donnée du Soleil, la
+totalité de la puissance émise par le
+Soleil se trouve uniformément répartie
+sur une sphère de rayon égal à cette
+distance.
+Sur le schéma ci-contre, la Terre et le
+Soleil ne sont pas représentés à
+l’échelle.
+On rappelle que l’aire d’une sphère de
+rayon 𝑑 est 𝑆 = 4𝜋𝑑2 et que l’aire d’un
+disque de rayon 𝑅 est 𝑆𝑑𝑖𝑠𝑞𝑢𝑒 = 𝜋𝑅 2 .
+𝑑 = 1,5 × 1011 m
+
+2- Le rayonnement solaire met en moyenne 500 s à nous parvenir depuis le Soleil.
+Montrer que la distance moyenne Soleil-Terre est 𝑑 = 1,5 × 1011 m.
+
+3- La constante solaire exprime la puissance émise par le Soleil que recevrait un mètre
+carré de la surface terrestre exposé directement aux rayons du Soleil si l’atmosphère
+terrestre n’existait pas, la surface étant perpendiculaire aux rayons solaires. Elle varie
+au cours de l’année. Sa moyenne annuelle est de 1 370 W∙m-2.
+En s’appuyant sur le document 2 et la valeur de la constante solaire, calculer la
+puissance totale rayonnée par le Soleil.
+4- La Terre intercepte le rayonnement solaire sur une surface correspondant à un
+disque de rayon R = 6 400 km.
+Calculer l’aire de cette surface, exprimée en m2.
+5- Montrer par le calcul que la puissance solaire reçue par la Terre (en dehors de
+l’atmosphère) d’après ce modèle est voisine de 1,77 × 1017 W.
+6- Expliquer pourquoi la puissance solaire reçue par unité de surface terrestre n’est
+pas uniforme à la surface de la Terre. Il est recommandé de s’appuyer sur un schéma.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+La datation de l’occupation d’une grotte par Homo sapiens
+Les analyses stylistiques des peintures et des objets ornant une grotte d’Europe de
+l’ouest ont permis aux paléoanthropologues de dater son occupation par Homo
+sapiens à la fin du Paléolithique supérieur.
+Un désaccord persiste cependant entre les scientifiques lorsqu’il s’agit de préciser si
+les peintures et objets ont été réalisés au Gravettien, au Solutréen ou au Magdalénien,
+les trois dernières périodes géologiques du Paléolithique supérieur comme l’indique le
+document ci-dessous.
+Les périodes géologiques de la fin du Paléolithique supérieur
+Fin du paléolithique supérieur
+Magdalénien
+
+Gravettien
+Solutréen
+-27000 ans
+
+-20000 ans -18000 ans
+
+-12000 ans
+
+0 an
+
++2000 ans
+
+D’après https://multimedia.inrap.fr/archeologie-preventive/chronologie-generale
+
+Remarque : la proportionnalité sur l’échelle des temps n’est pas respectée.
+1. Préciser ce qui distingue un noyau stable d’un noyau radioactif. Définir la demi-vie
+d’un isotope radioactif. Préciser si, pour un échantillon macroscopique contenant cet
+isotope, la demi-vie dépend de la quantité d’isotopes présente initialement.
+2. L’élément carbone présent dans le bois d’un végétal provient de l’air et a été assimilé
+dans le végétal grâce à la photosynthèse au niveau des feuilles. En analysant le
+document ci-dessous, justifier l’utilisation de la méthode de datation au carbone 14
+pour dater les peintures ornant la paroi de cette grotte.
+3. Compléter la courbe en annexe représentant la décroissance radioactive du nombre
+d’atomes de 14C au cours du temps (annexe à rendre avec la copie – les coordonnées
+des points calculés doivent être précisées).
+
+Document : principe de la datation au carbone 14
+Le carbone 14 (14C) est un noyau radioactif en proportion constante dans
+l’atmosphère.
+Les êtres vivants, formant la biosphère, échangent entre eux ainsi qu’avec
+l’atmosphère du dioxyde de carbone (CO2) dont une fraction connue comprend du
+carbone 14. Tout être vivant contient donc dans son organisme du 14C en même
+proportion que l’atmosphère.
+À sa mort, un être vivant cesse d’absorber du dioxyde de carbone ; par contre le
+carbone 14 qu’il contient continue à se désintégrer.
+En 5730 ans la moitié des atomes de carbone 14 aura disparu d’un échantillon
+macroscopique de cet être vivant. C’est la demi-vie (t ½) de ce noyau radioactif. Audelà de 8 demi-vie, la quantité de 14C présente dans l’échantillon, inférieure à 1 %,
+est trop faible pour que la méthode puisse être utilisée pour dater un évènement.
+Décroissance du nombre d’atomes de 14C dans une feuille fossilisée après sa mort
+
+Grand nombre d’atomes de 14C
+Grand nombre d’atomes de 14N
+Source : illustration de l’auteur
+
+Résultats des mesures effectuées sur un fragment de charbon de bois prélevé
+dans la grotte
+Pour réaliser les peintures ornant les parois de la grotte, les êtres humains du
+Paléolithique supérieur ont utilisé du charbon de bois.
+Les mesures, réalisées sur un prélèvement de ce charbon de bois par les
+scientifiques, montrent que la quantité de 14C mesurée en l’an 2000 n’est plus égale
+qu’à 8,0 % de la quantité du 14C initialement présent dans l’échantillon.
+
+4. En s’appuyant sur le document précédent, expliquer, sous la forme d'une courte
+rédaction argumentée, comment la datation au 14C permet de faire évoluer le
+désaccord entre les scientifiques sur la période de réalisation des peintures.
+
+Document réponse à rendre avec la copie
+Exercice 3
+La datation de l’occupation d’une grotte par Homo sapiens

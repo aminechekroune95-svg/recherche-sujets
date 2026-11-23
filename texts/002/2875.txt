@@ -1,0 +1,266 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1109593, "at": "2026-11-23T09:24:35+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Ressources d’énergie renouvelables (10 points)
+Les ressources d’énergie renouvelables (solaire, éolien, etc ) présentent un problème
+d’intermittence car elles sont dépendantes des phénomènes météorologiques. Pour résoudre
+ce problème une stratégie consiste à stocker l’énergie produite dans les périodes favorables
+afin de pouvoir la réutiliser quand les conditions météorologiques ne permettent pas une
+production suffisante.
+On propose dans cette partie d’étudier deux stratégies de stockage :
+- un stockage chimique par transformation du dioxyde de carbone de l’atmosphère en
+méthane ;
+- un stockage physique à l’aide du remplissage d’un bassin de rétention d’eau.
+I. Étude du stockage chimique de l’énergie
+Le Professeur K. Hashimoto (Université de Sendai, Japon) a développé un procédé qui
+transforme le dioxyde de carbone en méthane en utilisant un électrolyseur à eau de mer et
+des catalyseurs. Les électrolyseurs sont alimentés par l’énergie solaire.
+Le méthane produit peut ensuite servir de carburant afin de faire fonctionner un générateur
+électrique. Ce dernier fonctionne sur le principe suivant : l’énergie thermique libérée par la
+combustion du méthane permet de produire de la vapeur d’eau qui actionne une turbine. Un
+alternateur permet alors de produire de l’électricité. Un schéma de principe du dispositif est
+représenté ci-dessous.
+
+Il se produit dans les différentes étapes les transformations chimiques modélisées par les
+réactions chimiques d’équation :
+étape 2 : CO 2 (g) + 4 H2 (g) → CH4 (g) + 2 H2O (g) ;
+
+-
+
+étape 1 : H2O (l ) → H2 (g) + O2 (g) ;
+
+-
+
+étape 3 : combustion complète du méthane.
+
+Problématique 1 : en quoi le procédé de transformation du dioxyde de carbone en
+méthane peut-il permettre de répondre aux difficultés liées au caractère intermittent des
+énergies renouvelables ?
+1. Justifier pour chacune des étapes 2 et 3 du procédé si elle est endothermique ou
+exothermique.
+2. Écrire l’équation de la réaction de combustion complète du méthane de formule brute CH4.
+On cherche à estimer le pouvoir calorifique massique du méthane. Pour cela on mesure la
+masse de méthane nécessaire pour porter à l’ébullition une masse d’eau meau = 1,00 kg dont
+la température initiale est Ti = 20,2 °C. La manipulation est réalisée 6 fois avec le même
+dispositif.
+On rappelle que le pouvoir calorifique massique du méthane est défini par la relation :
+
+PC =
+
+Elibérée
+mméthane consommée
+
+avec Elibérée l’énergie libérée lors de la combustion d’une masse de
+
+méthane mméthane consommée .
+Les résultats sont reportés dans le tableau ci-dessous.
+Essais
+N°1 N°2 N°3 N°4 N°5 N°6
+Masse de méthane consommée 12,1 10,9 11,6 11,0 11,8 10,9
+(en g)
+L’énergie libérée par la combustion peut être déterminée par la relation :
+
+El ibérée = meau × ceau × (Tf − Ti )
+avec :
+- ceau la capacité thermique massique de l’eau liquide : ceau = 4,18 kJ·kg-1·K-1.
+- Tf la température finale de l’eau, c’est-à-dire la température d’ébullition de l’eau dans
+les conditions de l’expérience Tf = 100,0 °C.
+Pour effectuer le calcul du pouvoir calorifique massique à partir des résultats expérimentaux, il
+est nécessaire de déterminer une masse expérimentale de méthane consommée. Pour cela,
+on fait la moyenne sur toutes les valeurs de masse (valeurs n°1 à n°6).
+3. Montrer, en détaillant les calculs, que la valeur expérimentale obtenue pour le pouvoir
+calorifique massique PC du méthane est de l’ordre de 29 MJ·kg-1.
+La valeur de référence du pouvoir calorifique massique du méthane est 50 MJ·kg-1.
+4. Proposer une explication pour interpréter l’écart entre la valeur expérimentale du pouvoir
+calorifique massique du méthane et sa valeur de référence.
+On considère que :
+- la production d’un kilogramme de méthane par les étapes 1 et 2 du procédé nécessite
+117 MJ d’énergie intermittente ;
+- seuls 25 % de l’énergie thermique libérée par la combustion du méthane est
+transformée en électricité.
+5. Répondre à la problématique 1 en déterminant la proportion d’énergie intermittente
+pouvant être considérée comme ayant été stockée par ce procédé. On utilisera la valeur
+de référence du pouvoir calorifique massique du méthane.
+II. El Hierro : île pionnière de l’énergie renouvelable
+Le pompage-turbinage est une technique de stockage de l’énergie électrique permettant de
+palier l’intermittence des ressources d’énergie renouvelables. Lorsque les conditions
+météorologiques sont favorables, l’excédent d’énergie produit par les éoliennes est utilisé pour
+faire fonctionner des pompes permettant de remplir des retenues d’eau situées en altitude.
+Lorsque la production d’électricité devient insuffisante, les retenues d’eau sont ouvertes. Après
+une chute de 650 m à travers une conduite forcée, l’eau actionne des turbines
+hydroélectriques qui entrainent un alternateur afin de produire de l’électricité.
+
+Source : Futura-Sciences https://www.futura-sciences.com/planete/actualites/developpement-durableile-el-hierro-bientot-totalement-autonome-energie-44372/
+
+Problématique 2 : en quoi les infrastructures de l’île de El Hierro lui permettent-elle de
+s’affranchir des énergies fossiles ?
+On s’intéresse à l’eau contenue dans le réservoir supérieur qui chute à travers la conduite
+forcée pour remplir le bassin inférieur. Le volume d’eau utile considéré est donc égal au
+volume du réservoir inférieur Vinf et la masse de ce volume d’eau utile, notée M, chute via la
+conduite du point A au point B (voir schéma ci-dessous).
+
+- altitude du bassin supérieur : zsup = 700 m
+- volume du bassin inférieur : Vinf = 150 000 m3
+- altitude du bassin inférieur : zinf = 50,0 m
+- accélération de la pesanteur : g = 9,81 m.s-2
+- masse volumique de l’eau : ρeau = 1000 kg.m-3
+- consommation annuelle sur l’île d’El Hierro en 2018 : E = 42,0 GWh
+- 1,000 Wh = 3600 J
+
+On se place dans le référentiel terrestre, supposé galiléen, muni d’un axe Oz orienté vers le
+haut. L’énergie potentielle de pesanteur est prise nulle à l’altitude z = 0.
+6. Exprimer la variation de l’énergie potentielle de pesanteur ∆Epp de cette masse M d’eau
+lors de sa chute à travers la conduite forcée, en fonction de ρeau, Vinf, g, zsup et zinf. Montrer
+que la valeur de ∆Epp est de l’ordre de − 950 GJ.
+7. En considérant que l’eau est immobile dans le réservoir supérieur et que la chute à travers
+la conduite s’effectue sans frottement, déterminer la valeur de l’énergie cinétique de cette
+masse M d’eau lorsqu’elle actionne les turbines.
+8. Sachant que le rendement de la phase de turbinage est de 90 %, calculer la valeur de
+l’énergie électrique que peut fournir la centrale hydro-électrique.
+9. Répondre à la problématique 2 en déterminant le nombre de jours d’autonomie sans vent
+que représente la réserve d’eau des bassins.
+PARTIE B
+Exposition au soleil et protection (10 points)
+Le Soleil est la principale source du rayonnement électromagnétique reçu par la Terre. Une
+partie de ce rayonnement est constituée de radiations ultraviolettes (UV). Une exposition
+prolongée aux rayons ultraviolets peut provoquer des dommages au niveau des yeux ou de la
+peau, tels que brûlures, vieillissement prématuré ou cancers. Il est donc nécessaire de
+prendre certaines précautions pour s’en protéger.
+1. Les différents types de rayons ultraviolets
+Il existe trois catégories de rayonnements ultraviolets, classés par domaines de longueur
+d’onde selon leurs effets biologiques et leur pouvoir de pénétration dans la peau :
+- les UV-A : 320 nm < λ < 400 nm ;
+- les UV-B : 280 nm < λ < 320 nm ;
+- les UV-C : 100 nm < λ < 280 nm ;
+Plus l’énergie d’un rayonnement UV est élevée, plus celui-ci sera dangereux pour la peau.
+• constante de Planck : h = 6,63×10-34 J.s ;
+• la valeur de la célérité de la lumière c dans le vide est supposée connue du candidat ;
+• 1 eV = 1,60×10-19 J.
+1.1. Calculer, en eV, la valeur de l’énergie E d’un photon de longueur d’onde λ = 280 nm
+dans le vide.
+1.2. Classer, en justifiant, les différents types d’UV par nocivité croissante.
+
+2. L’ozone, l’écran solaire de la Terre
+Avant d’atteindre la surface de la Terre, le rayonnement solaire subit des phénomènes
+d’absorption et de diffusion dans les couches de l’atmosphère, notamment en raison de la
+présence de dioxygène et d’ozone (O3).
+L’ozone est particulièrement présent dans la stratosphère, couche située entre dix et
+cinquante kilomètres d’altitude.
+La couche d’ozone atmosphérique absorbe totalement les rayonnements ultraviolets de
+fréquence comprise entre 11×1014 Hz et 30×1014 Hz.
+2.1. Déterminer quelle catégorie d’ultraviolets ne parvient pas jusqu’à la surface terrestre.
+Lorsque le rayonnement UV traverse la stratosphère, certains photons incidents possèdent
+une énergie suffisante pour être absorbés par l’ozone. La transformation (dissociation) qui en
+résulte est modélisée par la réaction (1) :
+O3 + photon → O2 + O*
+(1)
+La notation O* signifie que l’atome d’oxygène formé est dans un état excité.
+2.2. Le diagramme énergétique simplifié ci-dessous présente les niveaux d’énergie mis en
+jeu avant et après dissociation de l’ozone modélisée par la réaction (1).
+Énergie
+
+∆Edissociation
+
+2.2.1. Recopier ce diagramme sur la copie et représenter par une flèche la transition
+correspondant au phénomène d’absorption des photons incidents par l’ozone.
+2.2.2. L’énergie de dissociation de l’ozone ∆Edissociation est égale à 4,97 eV. Montrer que
+cette valeur est en accord avec la réponse donnée à la question 2.1.
+3. Le Soleil sans coup de soleil
+Pour limiter les effets des rayonnements UV sur la peau, il est recommandé par les
+dermatologues de porter des vêtements et accessoires protecteurs, et d’utiliser une crème
+solaire. Il existe deux grandes catégories de protection solaire offerte par les cosmétiques
+selon la nature des filtres et leur mode d’action ; tous doivent être expressément autorisés par
+la réglementation :
+- les filtres organiques qui agissent par absorption des rayonnements UV ;
+- les filtres minéraux, à savoir le dioxyde de titane (TiO2) et l’oxyde de zinc (ZnO), qui
+agissent par réflexion des rayons UV : ceux-ci ne pénètrent pas dans l’épiderme.
+Ces différents filtres, chimiques ou minéraux [ ] peuvent être combinés entre eux par les
+fabricants [ ].
+D’après https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fichespratiques/Protection-solaire
+
+• Spectre d’absorption de deux filtres minéraux, TiO2 et ZnO :
+absorbance
+
+390 longueur d'onde (nm)
+
+D’après http://www.chimix.com/an19/bts/chim180.html
+
+• L’avobenzone est un filtre organique dont la masse molaire M est égale à 310,4 g.mol-1.
+• Spectre d’absorption de l’avobenzone :
+absorbance
+
+longueur d’onde (nm)
+
+3.1. Expliquer l’intérêt pour un fabricant de crème solaire de combiner un filtre organique tel
+que l’avobenzone avec un filtre minéral tel que TiO2.
+Une crème solaire, dont le seul principe actif est l’avobenzone, est étudiée au laboratoire afin de
+vérifier son efficacité dans le temps.
+
+Sa formulation est à 3 %, ce qui signifie que le pourcentage en masse de principe actif est de
+3,0 g d’avobenzone pour 100 g de crème.
+On considère que la crème solaire reste efficace et peut être
+conservée tant que le pourcentage en masse du principe actif est
+supérieur à 2,5 %.
+La période de conservation maximale après ouverture d’un produit Exemple de logo
+figurant sur un produit
+cosmétique est indiquée par un symbole représentant un pot
+ouvert sur lequel la durée est précisée : 6 M pour 6 mois, 12 M
+pour 12 mois, 24 M pour 24 mois, etc.
+
+Pour vérifier l’efficacité dans le temps de la crème solaire, on réalise la mesure de
+l’absorbance A, pour un rayonnement de longueur d’onde égale à 360 nm, de différentes
+solutions de concentration en quantité de matière c connue d’avobenzone dans du méthanol.
+Les résultats obtenus permettent le tracé de la courbe ci-après.
+0,8
+
+AA
+
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+-1
+
+-1 ) )
+(µmol.L
+Cc (µmol.L
+
+Tous les trois mois, on prépare une solution en introduisant 200 mg de crème solaire issue
+du même tube dans du méthanol pour obtenir un litre de solution dont on mesure
+l’absorbance.
+Les résultats obtenus sont rassemblés dans le tableau suivant :
+Nombre de mois écoulés
+depuis l’ouverture du tube
+Absorbance
+
+0,52 0,52 0,51 0,43 0,35 0,25
+
+On considère que l’absorption des UV par des espèces chimiques autres que l’avobenzone
+est négligeable.
+3.2. Justifier le choix de la longueur d’onde de travail.
+3.3. Formulation de la crème solaire.
+3.3.1. Déterminer la concentration en quantité de matière c0 de la solution réalisée à
+l’ouverture du tube de crème solaire.
+3.3.2. La formulation de la crème solaire est-elle bien celle attendue ?
+3.4. Évolution de la formulation de la crème solaire au cours du temps.
+3.4.1. Indiquer, en justifiant, comment évolue la concentration en avobenzone au cours
+du temps.
+3.4.2. La mention «12 M » peut-elle être inscrite sur le logo figurant sur le tube de
+crème solaire ?
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche de
+résolution, ainsi que sur la qualité de sa rédaction.
+Toutes les prises d’initiative et toutes les tentatives de résolution, même partielles, seront
+valorisées.

@@ -1,0 +1,273 @@
+{"pages": 13, "method": "pdftotext", "bytes": 823488, "at": "2026-11-23T09:27:08+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☐ E3C2 ☒ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme : Analyser, Modéliser et résoudre, Communiquer
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 13
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 7 à 11
+
+Documents réponses ................................................... Pages 12 et 13
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION
+Ce mini robot motorisé pour caméra, permet de faire des prises de vues animées. En
+fonction du réglage de l'angle des deux bras articulés supportant les deux roues
+folles, ce robot peut se déplacer en translation rectiligne ou suivant un mouvement
+de rotation autour d'un objet à filmer.
+Capacité : 1800 mAh
+Autonomie : 6h
+Tension : 3,4 V
+Masse
+maximale
+déplacée : 3 kg
+Rechargeable via USB
+
+Accessoires
+
+Mini robot motorisé pour caméra
+
+Principales caractéristiques
+Remarque
+La position angulaire est
+réglée manuellement en
+faisant
+correspondre
+visuellement le repère d'un
+bras
+articulé
+sur
+les
+graduations
+angulaires
+liées au corps. Ce réglage
+est donc quelque peu
+approximatif.
+
+Plié, ce robot est d'un faible volume
+Autres caractéristiques techniques
+3 vitesses de déplacements possibles :
+24 mm·s-1, 26 mm·s-1, 28 mm·s-1
+(précision ± 1 mm·s-1)
+2 sens de rotation pour la roue motrice (Av/Ar)
+Angle de réglage des bras articulés : ±90°(180°)
+
+Diamètre des roues : 37 mm
+Fréquence de rotation du moteur :4000 tr·min-1
+Masse à vide : 0,280 kg
+Masse maximale de la charge : 3 kg
+
+Figure 1 : données techniques
+
+Figure 2 : diagramme des cas d’utilisations
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Problématique : on souhaite savoir en quoi l’orientation des bras articulés a une
+influence sur les trajectoires du robot en mouvement de rotation autour d’un point.
+On va donc déterminer la relation géométrique entre l'angle de réglage α et le rayon
+de giration Rg. Pour cette étude α sera compris entre 0 et +90°.
+Question I-1
+
+Indiquer en quoi l’utilisation de cet objet technique améliore la
+qualité des prises de vue initialement réalisée manuellement.
+
+Figure 3 : vue partielle de dessus du robot en phase de réglage
+
+Question I-2
+DR1
+
+Compléter, à partir de la vue partielle de dessus (figure 3), le
+schéma cinématique du document réponse correspondant aux 3
+liaisons manquantes puis les nommer en précisant leurs axes.
+Utiliser des couleurs différentes pour représenter : le bras articulé, la
+roue motrice et la roue folle.
+
+Pour que ce robot puisse réaliser dans de bonnes conditions un mouvement de
+rotation autour d'un point fixe, il est nécessaire que les axes des 3 roues convergent
+vers un même point « O1 ». Si cette condition n'était pas respectée, il en résulterait
+des écarts sur la trajectoire ainsi que le patinage des roues. Le rayon de giration Rg
+caractérise la trajectoire du point « D » appartenant à l’axe de la roue motrice / au
+sol.
+Six autres grandeurs définissent la géométrie de ce robot (figure 4).
+R:
+Rayon des roues avec R = 18,5mm
+l:
+Longueur du corps (D,H), avec l = 93,5 mm
+m:
+Longueur de l’excentration (H,J), avec m = 33 mm
+n:
+Longueur du bras articulé (J,F), avec n = 29 mm
+p:
+Longueur entre le bras articulé et la roue folle (F,E), avec p = 13 mm
+α:
+Angle entre le bras articulé et l'axe vertical. Il pourra varier de + ou –
+90°
+
+Figure 4 : schéma modélisant la géométrie du robot
+Question I-3
+
+Indiquer ce qu'il se passerait, si les réglages angulaires des deux
+bras n'étaient pas identiques.
+
+Question I-4
+
+Établir, d'après le schéma de la figure 4 modélisant la géométrie du
+robot, les équations littérales suivantes :
+ distance (H, K) en fonction de n et de α ;
+ distance (F, K) en fonction de m, de n et de α ;
+ distance (K, O1) en fonction de la distance (F, K) et de α .
+À partir de ces trois relations, exprimer la distance (D, O1) (donc Rg)
+en fonction de l, m, n et de α.
+
+Question I-5
+
+Déterminer, pour répondre à la problématique initiale, la valeur
+numérique du rayon de giration Rg pour α = 90° puis pour α = 45°.
+Définir le type de trajectoire réalisée par ce robot si α = 0.
+
+La figure 5 présente le relevé de mesures expérimentales ainsi que les résultats
+issus de la simulation sur un modeleur 3D.
+
+Figure 5 : rayon de giration en fonction de l’angle α choisi
+Question I-6
+
+Quantifier, à partir des éléments de la figure 5, l’écart maximal
+existant entre les 2 courbes et donner une explication possible
+pouvant le justifier.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : on désire modifier le comportement du robot afin de réaliser des
+vues panoramiques (figure 6). La trajectoire du point D appartement à l’axe de la
+roue/sol sera alors un arc de cercle (entre D et D’) de centre O1, avec une amplitude
+souhaitée de 120° et un rayon de giration faible (Rg = distance (D,O1) = 20 mm). La
+durée souhaitée pour la prise de vue sur 120° est de 5 secondes.
+Le diamètre extérieur de la roue motrice vaut 37 mm.
+
+Figure 6 : réglage des bras du robot sans l'appareil photo
+
+Figure 7 : diagramme des exigences
+Question II-1
+
+Calculer la fréquence de rotation de la roue motrice afin d’atteindre la
+vitesse maximale de déplacement du robot en mouvement de
+translation rectiligne (réponse à formuler en tr·min-1 et en rad·s-1).
+
+Question II-2
+
+Déterminer la longueur de l’arc (D, D’) qui sera alors parcouru par la
+roue motrice en mode panoramique, en déduire la vitesse ⃗𝑉 (𝐷, 2/1)
+ainsi que la fréquence de rotation de la roue afin de respecter la
+durée imposée. Conclure sur le respect de l’exigence de
+performance 1.2.1 (figure 7).
+
+Une solution consiste à modifier le programme, mais le système d’origine possède
+un circuit de contrôle qui ne peut être reprogrammé. Il est donc envisagé de
+remplacer celui-ci par une carte Arduino Pro mini DEV11113 (figure 8) qui
+commande le hacheur d’origine LB1938FA (figure 9).
+
+Figure 8 : identification des entrées/sorties Figure 9 : schéma de raccordement et table de
+du micro-contrôleur Arduino Pro mini
+vérité du hacheur LB1938FA
+La commande en tension du hacheur est de type Modulation Largeur Impulsion
+(PWM en anglais) et répond au fonctionnement décrit ci-dessous.
+th : la durée d’impulsion (s)
+T : la période (s)
+
+= th/T : le rapport cyclique
+Umoy : tension moyenne appliquée au moteur (V)
+Umoy = 3,4·αH
+
+Figure 10 : principe de la commande MLI
+
+Question II-3
+DR2
+
+À partir du schéma partiel de la carte Arduino (figure 8), de la
+documentation partielle du hacheur (figure 9) et du principe de la
+commande MLI (figure 10), donner la fonction remplie par le hacheur
+LB1938FA puis compléter le schéma électrique de raccordement de
+la tension de commande du hacheur (document réponse) afin
+d’obtenir un déplacement en sens avant (Umoy > 0V), piloté par la
+sortie PD3 (PWM) de la carte Arduino.
+
+La chaîne d’énergie de l’entraînement de la roue motrice est donnée par le
+diagramme des blocs internes (figure 11).
+
+Figure 11 : chaîne d'énergie de l'entraînement de la roue motrice
+Question II-4
+
+À partir de la vitesse de déplacement et des caractéristiques de la
+roue motrice et du réducteur, calculer ωroue (rad·s-1), Nroue (tr·min-1) et
+Nmoteur (tr·min-1).
+Des essais sur le système ont permis de relever la vitesse du moteur (en tr·min-1)
+pour différentes valeurs de tension Umoteur. Les résultats de mesures sont présentés
+à la figure 12.
+
+Figure 12 : relevé de Nmoteur (tr·min-1) en fonction de Umoteur (V)
+
+Question II-5
+
+Déterminer la relation entre Nmoteur et Umoteur et en déduire la valeur de la
+tension Umoteur à appliquer pour obtenir la vitesse de 10 mm·s-1.
+
+Question II-6
+
+À l’aide de la présentation de la commande MLI (figure 10), calculer le
+rapport cyclique αH, la valeur de la consigne (voir la remarque sur le
+document réponse) puis compléter l’algorithme partiel (document
+réponse) permettant de commander le moteur à la vitesse demandée.
+
+DR3
+
+DOCUMENTS RÉPONSES
+DR1- QI-2
+
+DR2- QII-3
+Fonction du Hacheur LB1938FA : ………………………………………………………….
+
+DR 3- QII-6
+DEBUT
+initialiser la sortie en MLI sur la patte 3 de l’Arduino
+TANT QUE 1=1 FAIRE
+……..............….....
+Partie à compléter
+Set_duty_cycle(consigne)
+FIN TANT QUE
+FIN
+Remarque : Set_duty_cycle(valeur) est le sous-programme d’écriture de la valeur sur
+la sortie MLI avec Usortie = 0,0125xvaleur.

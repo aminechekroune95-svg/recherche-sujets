@@ -1,0 +1,416 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1273057, "at": "2026-11-23T09:39:53+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A 2
+Parmi les propositions suivantes, laquelle est la représentation binaire de 761 ?
+11 1100 1101
+11 1110 0101
+10 0111 1001
+10 1111 1001
+Question A 3
+A et B sont deux propositions vraies. Laquelle des ces propositions est-elle également vraie ?
+((non A) et B) ou (A et (non B))
+((non A) ou B) et ((non A) ou (non B))
+((non A) ou B) et (A ou (non B))
+((non A) et B) et (A et (non B))
+Question A 4
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+Question A 5
+Combien de bits sont nécessaires pour représenter le nombre 15 en binaire ?
+
+Question A 6
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+
+Thème B : types construits
+Question B 1
+On définit en Python la fonction suivante :
+def f(L):
+S = []
+for i in range(len(L)-1):
+S.append(L[i] + L[i+1])
+return S
+Quelle est la liste renvoyée par f([1, 2, 3, 4, 5, 6]) ?
+[3, 5, 7, 9, 11, 13]
+[1, 3, 5, 7, 9, 11]
+[3, 5, 7, 9, 11]
+cet appel de fonction déclenche un message d'erreur
+Question B 2
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b] ?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B 3
+On définit : matrice = [[1,2,3], [4,5,6], [7,8,9], [10,11,12]].
+Quelle est la valeur de matrice[1][2] ?
+Question B 4
+On construit une matrice par compréhension :
+M = [ [i*j for j in range(4)] for i in range(4) ]
+Laquelle des conditions suivantes est-elle vérifiée ?
+M[4][4] == 16
+M[0][1] == 1
+M[2][3] == 6
+M[1][2] == 3
+Question B 5
+
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B 6
+On définit L = [4,25,10,9,7,13]. Quelle est la valeur de L[2] ?
+
+Thème C : traitement de données en tables
+Question C 1
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+Question C 2
+On exécute le code suivant :
+table = [
+
+['lovelace', 'ada', 1815, 1852],
+['von neumann','john', 1903, 1957],
+['turing', 'alan', 1912, 1954],
+['mccarthy', 'john', 1927, 2011],
+['floyd', 'robert', 1936, 2001] ]
+
+def age(personnage):
+return personnage[3] - personnage[2]
+table.sort(key=age, reverse=True)
+Quelle est la première ligne de la table table à la suite de cette exécution ?
+['lovelace', 'ada', 1815, 1852]
+['mccarthy', 'john', 1927, 2011]
+['turing', 'alan', 1912, 1954]
+['mccarthy', 'floyd', 'von neumann', 'turing', 'lovelace']
+Question C 3
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+Question C 5
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 6
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D 2
+Si un utilisateur doit saisir des données sensibles (mot de passe, numéro de carte bancaire…) dans le formulaire
+d’une page HTML, quel est l’entête de formulaire le plus approprié parmi les quatre propositions suivantes ?
+<form method="formulaire.php" action="submit">
+<form method="secure" action=onclick()>
+<form method="get" action="arret.php">
+<form method="post" action="arret.php">
+Question D 3
+On considère l’extrait suivant d'une page web d'un site de vente en ligne.
+<form id="fmCreerCommande" name="fmCreerCommande" action="gestion.php" method="post">
+<input type="HIDDEN" name="reference" value="F1245">
+<label for="quantite" class="dropdown">Quantité :</label>
+<select name="quantite" autocomplete="off" id="quantite" class="dropdown">
+<option value="1" selected>1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+<div id="btnMulti" class="clValidBtn">
+<input type="button" value="Ajouter" class="btn" onclick="ajouterProduit()">
+</div>
+</form>
+Quelle est la méthode utilisée pour transmettre les informations saisies dans ce formulaire ?
+La méthode HIDDEN
+La méthode GET
+La méthode POST
+La méthode SELECT
+Question D 4
+
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D 5
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 6
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Laquelle des propositions suivantes n'est pas une adresse IP valide ?
+255.300.1.1
+255.255.1.1
+255.32.6.1
+255.2.35.249
+Question E 2
+Sous Linux, dans quel but utilise-t-on la commande ls ?
+pour afficher le chemin vers le répertoire courant
+pour afficher les noms de fichiers et répertoires du répertoire courant
+pour effacer un fichier
+pour copier un fichier
+Question E 3
+Sur un ordinateur, où est stocké de manière permanente le système d'exploitation ?
+dans la mémoire RAM
+sur le bus de donnée
+sur le disque dur ou le disque SSD
+dans le Cloud
+Question E 4
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E 5
+Sachant que hibou est un fichier présent dans le répertoire courant, quel est l’effet de la commande
+suivante : mv hibou chouette
+déplacer le fichier hibou dans le répertoire chouette
+ajouter le contenu du fichier hibou à la fin du fichier chouette
+renommer le fichier hibou en chouette
+créer le fichier chouette, copie du fichier hibou
+Question E 6
+
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+
+Thème F : langages et programmation
+Question F 1
+La fonction maxi ci-dessous a pour but de renvoyer la valeur maximale présente dans la liste qui lui est passée
+en argument.
+def maxi(L):
+dernier_indice = len(L) - 1
+valeur_max = L[0]
+for i in range(1,dernier_indice):
+if L[i] > valeur_max:
+valeur_max = L[i]
+return valeur_max
+Cette fonction a été mal programmée. On souhaite réaliser un test pour le démontrer.
+Parmi les propositions suivantes, laquelle mettra la fonction maxi en défaut ?
+maxi([1, 2, 3, 4])
+maxi([4, 3, 2, 1])
+maxi([1, 3, 3, 2])
+maxi([1, 1, 1, 1])
+Question F 2
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en
+argument. On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+Question F 3
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+
+# à compléter
+
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F 4
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 5
+En Python, quelle est l’instruction permettant de charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Question F 6
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Thème G : algorithmique
+Question G 1
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 2
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 3
+On considère la fonction suivante :
+def f(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+Quelle est la valeur de f([ 7, 3, 1, 8, 19, 9, 3, 5 ], 0) ?
+Question G 4
+
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G 5
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 6
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables

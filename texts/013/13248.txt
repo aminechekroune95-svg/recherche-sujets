@@ -1,0 +1,450 @@
+{"pages": 14, "method": "pdftotext", "bytes": 2408219, "at": "2026-11-23T09:26:01+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+SUJET SI-10-01
+
+Constitution du sujet
+
+Présentation du produit ............................................... Pages 3 à 4
+
+Étude d'une performance du produit .......................... Pages 5 à 9
+
+Commande du fonctionnement du produit ................ Pages 9 à 12
+
+Documents réponses ................................................... Pages 13 et 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DE LA MOTO
+ÉLECTRIQUE "e-Raw"
+
+.
+
+Figure 2 : Diagramme de présentation des
+principaux composants
+
+Figure 1 : Mission de la moto
+électrique "e-Raw"
+
+L’impact environnemental des véhicules dits
+"thermiques" lors de leur utilisation est désormais pris
+en considération par les utilisateurs. Les motos
+n’échappent pas à cette préoccupation, et des
+modèles électriques tels que la moto "e-Raw" arrivent
+sur le marché.
+
+Figure 3 : Diagramme d'exigences partiel
+
+rechargement
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Le constructeur souhaite fournir au pilote un grand confort en toute situation. L'un des
+constituants principaux agissant sur la sensation de confort est le combiné ressortamortisseur de suspension.
+Le composant prévu sur cette moto est un combiné ressort-amortisseur dont les
+principales spécifications techniques sont présentées ci-dessous.
+
+Entraxe et course :
+Entraxe : 310 mm
+Course : 75 mm
+Possibilités de réglage :
+ Réglage de la précontrainte ressort
+Caractéristiques techniques ressort
+par défaut :
+ Ressort par défaut : 01095-44
+(Raideur 100 N·mm-1)
+ Couleur du ressort : Jaune
+ Longueur libre : 190 mm
+ Autres raideurs possibles :
+80/90/100/110/120 N·mm-1
+
+En utilisation urbaine, la moto peut être amenée à franchir tout type de ralentisseur,
+ou encore pour quitter un stationnement, à descendre brusquement un trottoir. Ceci
+risque de mettre en butée et de dégrader le combiné ressort-amortisseur de la
+suspension arrière. C'est ce que l'on appelle dans le jargon des motards le talonnage*
+de la suspension.
+*Talonner : arriver au maximum de la capacité d’enfoncement d’une suspension
+(suspensions arrières, fourche avant). Atteindre cette butée est fortement déconseillé.
+Problématique : le combiné choisi permet-il d'éviter de talonner avec une marge de
+sécurité de 5 mm lors de la descente d’une marche de 160 mm de haut avec un pilote
+de 80 kg ?
+
+Modélisation du mécanisme de suspension arrière :
+Le
+mécanisme
+autorisant
+le
+débattement vertical de la roue arrière
+par rapport au châssis de la moto
+peut être modélisé par un mécanisme
+plan
+composé
+de
+classes
+d'équivalence : le châssis 1, Le bras
+oscillant 2, la tige 3 de l'amortisseur, le
+corps 4 de l'amortisseur (cf. figures 4 et
+5). Sur la figure 5 sont repérés les
+articulations du mécanisme en A, B, C,
+et D.
+En effet, le mouvement du bras oscillant
+provoque directement le mouvement de
+la roue arrière puisque celle-ci est liée
+au bras oscillant en D par une liaison
+pivot.
+
+Figure 5 : Centre des liaisons de la suspension
+
+Le document réponse DR1 propose une vue simplifiée de la suspension arrière qui
+correspond au modèle cinématique ci-dessous. L'amortisseur est ici modélisé par une
+liaison pivot glissant.
+Tige 3
+
+Corps 4
+
+Figure 6 : Schéma cinématique de la suspension arrière
+
+QI-1
+Figure 6
+
+QI-2
+
+Colorier
+de couleurs différentes sur le DR1 les 4 classes
+d'équivalence telles que décrites précédemment, et indiquer la
+classe d'équivalence considérée comme fixe.
+Définir, sur votre copie, le mouvement du bras oscillant 2 par rapport
+au châssis 1.
+Justifier les trajectoires représentées sur le DR1 :
+TD2/1 , trajectoire du point D appartenant à 2 dans son mouvement
+par rapport à 1,
+TB2/1 , trajectoire du point B appartenant à 2 dans son mouvement
+par rapport à 1.
+
+Le combiné ressort amortisseur au repos a un entraxe de 310 mm et une course
+disponible de 75 mm. Or, sur le DR1 l'ensemble est déjà comprimé de 10 mm sous
+l'effet du pilote de 80 kg et du poids propre de la moto. Cela signifie donc que
+l'amortisseur ne doit pas s'enfoncer de plus de 65 mm lors de la descente d'un trottoir
+pour que la suspension arrière ne talonne pas.
+À la descente d'un trottoir de 160 mm de haut on considère que le centre de la roue
+arrière D s'élève de 160 mm par rapport au cadre de la moto, provoquant ainsi la
+compression de l'ensemble ressort-amortisseur.
+Q1-3
+
+Q1-4
+
+Déterminer le point D’ correspondant à la position extrême du point
+D lorsque la moto descend d’un trottoir d'une hauteur de 160 mm.
+En déduire le point B’ correspondant alors à la nouvelle position du
+point B lorsque le centre de la roue arrière D s'élève de 160 mm.
+
+Mesurer la distance B'C sur le DR1, et indiquer si la suspension
+arrière talonne et si la marge de sécurité sera respectée.
+
+Une série de mesures a été réalisée en conditions réelles : la tige 3 du combiné
+ressort-amortisseur est recouverte de graisse, puis la moto et son pilote
+descendent un trottoir. Ensuite, la longueur de tige sans graisse (C, course de
+la tige 3) est mesurée à l’aide d’un réglet.
+N° de mesure :
+Course (mm) C :
+
+Figure 7 : Résultats d'essais d'enfoncement de la suspension arrière
+
+La valeur moyenne de ces 9 mesures est 60.3 mm, la marge de sécurité de 5 mm
+souhaitée n'est donc pas garantie.
+Pour garantir cette marge de sécurité il est possible de
+choisir un ressort de raideur différente dans les options
+proposées pour ce combiné.
+Il est également possible d'agir sur le réglage de la
+"précontrainte" du combiné. Il s'agit pour cela de modifier la
+longueur comprimée du ressort.
+
+A: longueur libre du ressort
+
+B: longueur comprimée du ressort
+
+- BA
+
+: réglage
+de la précontrainte
+
+Ce réglage de la précontrainte, permet d’ajuster la
+résistance à la pression du combiné lors du passage d’une
+bosse ou d’un creux par exemple. Ce réglage s'effectue par
+manipulation de l'écrou de réglage 1B. Le contre écrou 1A
+permet de garantir le maintien du réglage.
+
+Figure 8 : illustration
+réglage précontrainte
+
+Si la précontrainte est insuffisante : la course de l'amortisseur sera plus importante
+sous l'effet du poids propre de la moto et donc il y a un risque important d’arriver en
+butée lors du franchissement d'une bosse.
+Si la précontrainte est trop importante : la course de l'amortisseur pourrait être trop
+faible et par conséquent engendrer des pertes de contact de la roue arrière avec le
+sol.
+La précontrainte réglée est de 8mm pour un ressort de raideur 100 N·mm -1.
+Q1-5
+
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Représenter par les vecteurs 𝐅
+𝐑𝐞𝐬𝐬𝐨𝐫𝐭⁄𝐂𝐨𝐫𝐩𝐬 𝟒 et 𝐅𝐑𝐞𝐬𝐬𝐨𝐫𝐭⁄𝐓𝐢𝐠𝐞 𝟑
+sur le DR1, modélisant respectivement, l'action mécanique du
+ressort précontraint sur le corps 4 de l'amortisseur en C, et
+l'action mécanique du ressort précontraint sur la tige 3 de
+l'amortisseur en B.
+
+Face au risque de talonnage de la suspension arrière, le constructeur a le choix entre
+changer le ressort du combiné, ou bien modifier la précontrainte.
+
+Q1-6
+Figure 3
+
+Indiquer sur votre copie pour les deux solutions envisagées : s'il faut
+augmenter ou diminuer la raideur du ressort ou s'il faut augmenter ou
+diminuer la précontrainte du ressort et, dans ce cas, le type de réglage
+à effectuer sur le ressort.
+Conclure en indiquant vos préconisations pour garantir le fait que la
+suspension arrière ne talonnera pas, et à quelle exigence le combiné
+ressort-amortisseur permet-il de répondre.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT
+
+Le Smartphone du pilote fait office de tableau de bord. Les
+indications nécessaires à la conduite de la moto sont
+affichées à l’écran du Smartphone du pilote, fixé au
+guidon. Une des informations les plus utiles pour le pilote
+est de connaitre avec précision sa vitesse de
+déplacement.
+
+Figure 9 : vue moteur
+brushless
+
+Problématique : comment respecter l'exigence de précision de la vitesse de
+déplacement affichée sur le tableau de bord ?
+
+Principe de détection de la fréquence de rotation de la poulie motrice :
+La vitesse de déplacement de la moto est calculée à partir de la fréquence de rotation
+de la poulie motrice montée directement sur l'arbre moteur (cf. algorigramme de calcul
+de la vitesse sur le DR2).
+Pour obtenir la fréquence de rotation de la poulie motrice, le constructeur a installé sur
+le cadre de la moto un capteur à effet Hall, positionné face à la poulie motrice qui est
+équipée d'un insert magnétique (figure 10). Ce capteur à effet Hall détecte ainsi
+chaque passage de l'insert magnétique et renvoie cette information à la carte de
+commande.
+
+Poulie réceptrice liée à la
+roue arrière de la moto
+
+Insert
+magnétique
+
+Figure 10 : Principe de détection de la
+fréquence de rotation de la poulie motrice.
+
+Courroie crantée
+
+Capteur à effet hall fixé
+au cadre de la moto
+Poulie motrice
+
+Calcul de la vitesse de déplacement de la moto :
+À chaque passage de l’insert magnétique devant le capteur, celui-ci envoie une
+impulsion à la carte de commande. L'algorigramme de calcul de la vitesse de
+déplacement va ensuite compter le nombre d'impulsions reçus (C imp) pendant un
+temps donné (Durée d'acquisition Da). Ce rapport Cimp/Da correspond donc à la
+fréquence de rotation de la poulie motrice en tr·s-1 qui sera ensuite utilisé pour
+calculer la vitesse de déplacement de la moto à afficher sur le tableau de bord.
+QII-1
+Figure 2
+DR2
+
+En vous aidant de la figure 2, compléter sur le DR2 les valeurs des
+paramètres géométriques k et R dans la partie initialisation des
+paramètres de l'algorigramme. En considérant que la roue arrière
+roule sans glisser sur le sol, exprimer la relation existant entre la
+vitesse angulaire de la roue arrière de la moto ωroue/châssis en rad·s-1
+-1
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+et ‖V
+moto/sol ‖ la vitesse de déplacement exprimée en m·s
+
+Le rapport de transmission permet d'exprimer le rapport entre les vitesses angulaires
+de de la roue arrière de la moto et de la poulie motrice :
+𝜔𝑟𝑜𝑢𝑒/𝑐ℎâ𝑠𝑠𝑖𝑠
+=𝑘
+𝜔𝑝𝑜𝑢𝑙𝑖𝑒/𝑐ℎâ𝑠𝑠𝑖𝑠
+Dans le cas où la poulie motrice ne dispose que d'un seul insert, la relation
+suivante permet alors de calculer, en fonction de la fréquence de rotation de la poulie
+motrice, la vitesse de déplacement de la moto en km·h-1 :
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+‖𝑉
+𝑚𝑜𝑡𝑜⁄𝑠𝑜𝑙 ‖ =
+
+𝐶𝑖𝑚𝑝
+× 2𝜋 × 𝑘 × 𝑅 × 3,6
+𝐷𝑎
+
+QII-2
+
+Justifier la relation précédente qui permet de calculer la vitesse de
+déplacement de la moto en km·h-1. Calculer, pour une fréquence de
+rotation de 17 tr·s-1 de la poulie motrice, la vitesse de déplacement de
+la moto.
+
+QII-3
+
+Relever sur le diagramme d'exigence la précision souhaitée pour
+l'affichage de la vitesse. Calculer l'écart toléré à l'affichage pour une
+vitesse réelle de 25 km·h-1.
+
+Figure 3
+
+On vous fournit ci-dessous un extrait de résultats issus d'une simulation numérique qui
+illustrent le signal envoyé par le capteur à effet Hall en corrélation avec l'évolution de
+la vitesse de déplacement de la moto.
+
+QII-4
+
+Calculer pour les trois fenêtres d'acquisition identifiées, la vitesse qui
+sera affichée sur le tableau de bord. Vérifier pour ces trois cas si
+l'exigence de précision est respectée. Vous présenterez votre
+réponse sous la forme d'un tableau assorti d'une phrase de
+conclusion.
+
+Avec une durée d'acquisition Da de 0,5 s et l'utilisation d'un seul insert, l'écart entre la
+vitesse de déplacement affichée sur le tableau de bord et la vitesse réelle de la moto
+pourrait être au maximum de 2,94 km·h-1. Ce qui ne correspond pas à l'exigence de
+précision.
+Afin d'améliorer la précision d'affichage de la vitesse il est possible de modifier le
+nombre d'inserts ainsi que la durée d'acquisition du signal. Différentes combinaisons
+ont été simulées, dont les résultats sont les suivants :
+Nombre d'inserts
+
+Durée d'acquisition
+(Da en s)
+0,5
+1,5
+0,5
+
+Écart maximum possible
+en km·h-1
+1,47
+0,735
+0,49
+1,47
+0,49
+0,735
+0,3675
+
+Figure 12 : Résultats de simulations de différentes combinaisons
+
+QII-5
+DR2
+
+QII-6
+
+Proposer une combinaison entre la durée d'acquisition et le nombre
+d'inserts qui permet de répondre à l'exigence de précision imposée.
+Finir de compléter l'algorigramme DR2 en prenant en compte votre
+choix de solution.
+Conclure en justifiant votre choix de solution pour répondre à la
+problématique : « comment respecter l'exigence de précision de la
+vitesse de déplacement affichée sur le tableau de bord ? ».
+
+DOCUMENT RÉPONSE
+DR1 : VÉRIFICATION DE L'ENFONCEMENT DE L'AMORTISSEUR QI-1 à QI-5
+Échelle de représentation : ¼ (10 mm ↔ 2,5 mm)
+Échelle de représentation des efforts : 10 mm ↔ 200 N
+
+TD2/1
+
+Ressort non
+représenté
+
+Tige 3
+
+Corps 4
+
+TB2/1
+
+DR2 : ALGORIGRAMME DE CALCUL DE LA VITESSE DE DÉPLACEMENT
+QII-1 et Q2-5
+Déclaration des variables :
+Début
+"Initialisation des paramètres"
+Cimp = 0
+Da = ……………………..
+k = ………………………
+N = ………………………
+R = ………………………
+Tinit = millis()
+
+Cimp correspond au nombre d'impulsions
+Da est la durée d'acquisition du signal
+capteur en secondes
+k correspond au rapport de transmission du
+système poulie courroie
+N correspond au nombre d'inserts implanté
+sur la poulie motrice
+R correspond au rayon extérieur de la roue
+arrière en m
+Vitesse correspond à la valeur de la vitesse
+de déplacement de la moto en km·h-1
+
+Tmes<Tinit+1000xDa
+
+" Calcul vitesse en km·h-1 "
+Acquérir signal
+du capteur à
+effet Hall
+
+Détection front
+montant sur signal
+capteur ?
+
+Vitesse =
+……………………………………….
+
+Envoyer valeur
+Vitesse
+Fin
+
+Cimp = Cimp + 1
+
+La fonction millis() renvoie le temps
+courant en millisecondes depuis le
+début du programme
+
+Tmes = millis()

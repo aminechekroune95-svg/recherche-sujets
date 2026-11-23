@@ -1,0 +1,448 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1270151, "at": "2026-11-23T09:40:21+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien de bits sont nécessaires pour représenter le nombre 15 en binaire ?
+Question A 2
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 + 101 1000 ?
+1101
+1000 0101
+1 0000 0101
+Question A 3
+Quelle est, en écriture décimale, la somme d'entiers dont l'écriture en base 16 (hexadécimale) est 2A + 2 ?
+Question A 4
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+Question A 5
+Pour quelles valeurs booléennes des variables a, b et c l'expression (a or b) and (not c) a-t-elle pour
+valeur True ?
+a = True b = False c = True
+
+= True b = False
+= False b = False
+= False b = True
+
+c = False
+c = True
+c = True
+
+Question A 6
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+
+Thème B : types construits
+Question B 1
+On considère le code suivant :
+def f(L):
+return [x*x for x in L if x%2 == 1]
+carre = f([0,1,2,3,4,5,6,7,8,9])
+Que vaut carre à la fin de son exécution ?
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 4, 16, 36, 64]
+[1, 9, 25, 49, 81]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 19]
+Question B 2
+On exécute le code suivant :
+placard = { 'chemise': 3, 'pantalon': 6, 'tee shirt': 7 }
+placard['chaussette'] = 4
+placard['chemise'] = 5
+L = list(placard.values())
+Quelle est la valeur de la variable L à l'issue de cette exécution ?
+[ 3, 6, 7 ]
+[ 3, 6, 7, 4 ]
+[ 5, 6, 7 ]
+[ 5, 6, 7, 4 ]
+Question B 3
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Que fait alors l'instruction P[1]["âge"] = 25 ?
+elle modifie la valeur de la clé âge du deuxième élément de la liste P
+elle modifie la valeur de la clé âge du premier élément de la liste P
+elle donne la longueur de la liste P
+elle donne la longueur du premier élément de la liste P
+Question B 4
+On dispose dans le tableau annee2019 les températures mensuelles moyennes d'une région française.
+On exécute le script suivant :
+annee2019
+
+= [('janvier',6), ('février',6), ('mars',12),
+('avril',20), ('mai',23), ('juin',25),
+
+('juillet',29), ('août',25), ('septembre',22),
+('octobre',15), ('novembre',11), ('décembre',7)]
+m = annee2019[0][1]
+for mois in annee2019:
+if (m > mois[1]):
+m = mois[1]
+Que contient la variable m à la fin de cette exécution ?
+le mois le plus froid
+le mois le plus chaud
+la température mensuelle moyenne la plus basse
+la température mensuelle moyenne la plus haute
+Question B 5
+Quel est le type de la variable billes définie par :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+c'est une séquence
+c'est une liste
+c'est une liste de listes
+c'est un dictionnaire
+Question B 6
+On dispose d'une liste définie par L = [15,17,12,23].
+Quelle est la valeur de L après l'instruction L[2] = 25 ?
+[15,25,12,23]
+[15,17,25,12,23]
+[15,17,25,23]
+[15,17,12,25,23]
+
+Thème C : traitement de données en tables
+Question C 1
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 2
+On considère le code suivant :
+def sort(f):
+for i in range(1, len(f)):
+temp = f[i]
+j = i - 1
+while j >= 0 and f[j]['prix'] <
+f[j+1] = f[j]
+j = j - 1
+f[j+1] = temp
+return f
+fiche = [
+
+temp['prix']:
+
+{"nom": "ananas", "prix": 5.99, "code": 82},
+{"nom": "kiwi", "prix": 2.99, "code": 78},
+{"nom": "poires", "prix": 7.99, "code": 92} ]
+
+Que renvoie sort(fiche) ?
+[{'nom': 'kiwi', 'prix': 2.99, 'code': 78}
+{'nom': 'ananas', 'prix': 5.99, 'code': 82},
+{'nom': 'poires', 'prix': 7.99, 'code': 92}]
+
+[{'nom': 'ananas', 'prix': 5.99, 'code': 92},
+{'nom': 'poires', 'prix': 7.99, 'code': 82},
+{'nom': 'kiwi', 'prix': 2.99, 'code': 78}]
+
+[{'nom': 'poires', 'prix': 7.99, 'code': 92},
+{'nom': 'ananas', 'prix': 5.99, 'code': 82},
+{'nom': 'kiwi', 'prix': 2.99, 'code': 78}]
+
+[{'nom': 'kiwi', 'prix': 2.99, 'code': 78},
+{'nom': 'ananas', 'prix': 7.99, 'code': 92},
+{'nom': 'poires', 'prix': 5.99, 'code': 82}]
+
+Question C 3
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 4
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 5
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 6
+Quel type de fichier est le plus adapté au traitement des données parmi les formats suivant ?
+PNG
+DOC
+CSV
+PDF
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D 2
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D 3
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D 4
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 5
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+Question D 6
+
+Lequel des termes suivants ne désigne pas un protocole de transmission par un réseau :
+HTTP
+WWW
+TCP
+IP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 2
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E 3
+Parmi les éléments suivants, lequel est un capteur ?
+une diode électroluminescente
+un moteur
+un accéléromètre
+un afficheur à cristaux liquides
+Question E 4
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+Question E 5
+Sachant que hibou est un fichier présent dans le répertoire courant, quel est l’effet de la commande
+suivante : mv hibou chouette
+déplacer le fichier hibou dans le répertoire chouette
+ajouter le contenu du fichier hibou à la fin du fichier chouette
+renommer le fichier hibou en chouette
+créer le fichier chouette, copie du fichier hibou
+
+Question E 6
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+
+Thème F : langages et programmation
+Question F 1
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 2
+On définit :
+def f(a,m):
+i = 1
+n = 0
+while n <= m:
+i = i * a
+n = n + 1
+return i
+Quelle est la valeur renvoyée par l'appel f(2,4) ?
+Question F 3
+Un programme Python commence par la ligne :
+import os
+À quoi sert cette ligne ?
+
+c'est le début du squelette de tout programme Python
+c'est la déclaration du système d'exploitation (operating system)
+Python 3.6 exige cette ligne au début de tout programme
+c'est la déclaration d'une bibliothèque (ou module) que le programme compte utiliser
+
+Question F 4
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F 5
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F 6
+On définit la fonction suivante :
+def f(n):
+c = 0
+while n > 0:
+c = c + 1
+n = n // 2
+return c
+Quel est la valeur renvoyée par l'appel f(35) ?
+
+Thème G : algorithmique
+Question G 1
+Un algorithme de calcul de moyenne est implémenté de la façon suivante :
+def moyenne(liste) :
+t = 0
+for e in liste :
+t = t + e
+# assertion vraie à cet endroit
+return t/len(liste)
+Parmi les propositions suivantes, laquelle reste vraie à la fin de chaque itération de la boucle ?
+e vaut le nombre de passages dans la boucle
+t vaut la somme des éléments visités de la liste
+t vaut la moyenne des éléments visités de la liste
+après k passages dans la boucle la liste contient k termes
+Question G 2
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 3
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 4
+Sur quel algorithme est basé le script python, la liste lst est triée :
+def truc(lst: list, x) -> int:
+deb = 0
+fin = len(lst) - 1
+ok = False
+while ok == False and deb <= fin:
+
+m = (deb+fin)//2
+if lst[m] == x:
+ok = True
+elif lst[m] < x:
+deb = m + 1
+else:
+fin = m -1
+return ok
+k plus proche voisin
+tri pas insertion
+dichotomie
+glouton
+Question G 5
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G 6
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+2500

@@ -1,0 +1,438 @@
+{"pages": 18, "method": "pdftotext", "bytes": 487941, "at": "2026-11-23T09:40:53+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+Question A 2
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 + 101 1000 ?
+1101
+1000 0101
+1 0000 0101
+Question A 3
+Quelle table de vérité correspond à l'expression (non(A) ou B) ?
+Remarque : dans les tables proposées, la première colonne donne les valeurs de A, la première ligne les valeurs
+de B.
+
+Question A 4
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A 5
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+Question A 6
+On exécute le code suivant :
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+
+Thème B : types construits
+Question B 1
+Quel est le type de l'expression f(4) si la fonction f est définie par :
+def f(x):
+return (x, x**2)
+un entier
+un flottant
+une liste
+un tuple
+Question B 2
+On définit la liste L ainsi :
+L = [ [1], [1, 2], [1, 2, 3]]
+Des égalités suivantes, une seule est fausse. Laquelle ?
+len(L[0]) == 1
+len(L) == 6
+len(L[2]) == 3
+L[2][2] == 3
+Question B 3
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 4
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 5
+
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036 }
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+Question B 6
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n
+{ n*n
+[ n*n
+[ n*n
+
+for n in range(1,7) }
+for n in range(6) }
+for n in range(1,7) ]
+for n in range(6) ]
+
+Thème C : traitement de données en tables
+Question C 1
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 2
+Les données clients d’une entreprise sont stockées dans un fichier csv. Afin de les importer, on effectue une
+lecture séquentielle de ce fichier ligne par ligne. On affecte à la variable ligne le contenu d’une ligne de ce
+fichier. La fonction split() découpe un str en utilisant un motif de séparation, et produit une liste de str.
+La variable c est alors définie ainsi :
+ligne = "dupont;arnaud;245862;france"
+c = ligne.split(';')
+Que contient cette variable c ?
+"dupontarnaud245862france"
+["dupont", "arnaud", "245862", "france"]
+"dupont"
+Question C 3
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 4
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 5
+
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C 6
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 2
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+Question D 3
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 4
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D 5
+
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 6
+Quelle est la balise HTML utilisée pour indiquer un titre de niveau d'importance maximal ?
+la balise <h0>
+la balise <h1>
+la balise <head>
+la balise <header>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+On réalise une petite station météo.
+Quel composant est un capteur ?
+l'afficheur LCD
+l'écran de l'ordinateur
+la LED
+le thermomètre
+Question E 2
+Quel est l'élément qui ne fait pas partie de l'architecture du modèle de Von Neumann ?
+l'unité d'entrée
+l'unité arithmétique et logique
+la mémoire centrale
+l'unité d'affichage
+Question E 3
+Lequel de ces systèmes d'exploitation est libre ?
+Linux
+Windows
+MacOS
+iOS
+Question E 4
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+Question E 5
+Dans un terminal, on exécute la suite de commandes système suivante :
+cd ~
+cd seances/tp
+mv exercice.txt
+
+./../../exercice.txt
+
+Où se trouve finalement placé le fichier exercice.txt ?
+dans le répertoire ~/seance/tp
+dans le répertoire ~/seance
+dans le répertoire ~
+
+dans le répertoire /home
+
+Question E 6
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+
+Thème F : langages et programmation
+Question F 1
+Un programme Python commence par la ligne :
+import os
+À quoi sert cette ligne ?
+c'est le début du squelette de tout programme Python
+c'est la déclaration du système d'exploitation (operating system)
+Python 3.6 exige cette ligne au début de tout programme
+c'est la déclaration d'une bibliothèque (ou module) que le programme compte utiliser
+Question F 2
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 3
+On exécute le script suivant :
+resultat = [1 * 7]
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+Question F 4
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 5
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F 6
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Thème G : algorithmique
+Question G 1
+La fonction suivante prend en paramètre un tableau non vide de nombres réels.
+def mystere(T):
+k = len(T)
+val = T[k-1]
+if k == 1:
+return T[k-1]
+else:
+while k >= 0:
+if val < T[k-2]:
+val = T[k-2]
+k = k-1
+return val
+Quelle est la valeur renvoyée par cette fonction ?
+la plus grande des valeurs du tableau T
+la plus petite des valeurs du tableau T
+la moyenne des valeurs du tableau T
+la valeur la plus fréquente du tableau T
+Question G 2
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n = 0
+for item in L:
+if item == x:
+n = n + 1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste
+deux fois plus grande ?
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x
+Question G 3
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+
+2.2
+Question G 4
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 5
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 6
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+for x in L:
+
+for i in range(n//2):
+for j in range(n//2):

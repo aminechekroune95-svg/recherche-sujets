@@ -1,0 +1,202 @@
+{"pages": 10, "method": "pdftotext", "bytes": 2222665, "at": "2026-11-23T09:25:31+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE :  Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L'INGENIEUR
+DURÉE DE L’ÉPREUVE : 2 heures
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages :10
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+- l'usage de calculatrice avec mode examen actif est autorisé ;
+- l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-31-3
+
+Constitution du sujet
+ Présentation du distributeur de savon ....................... Pages 3 à 4
+ Étude d'une performance du produit .......................... Pages 5 à 7
+ Modification du comportement du produit ................ Pages 8 à 9
+ Document réponse ....................................................... Page 10
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés
+en durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les connaissances
+associées pour qualifier et/ou quantifier cette performance, à partir de
+l'analyse, de la modélisation de tout ou partie du produit ou de relevés
+expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit
+ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies au
+candidat qu'il devra exploiter, compléter ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par
+les textes en vigueur.
+
+PRÉSENTATION DU DISTRIBUTEUR DE SAVON
+Dans un souci de santé publique, on veut limiter la transmission des bactéries
+lors du lavage des mains. Le problème vient du fait qu'avec les distributeurs de
+savon manuels, le contact des mains favorise la transmission des bactéries.
+Le système étudié permet la distribution sans contact d'une dose suffisante de
+savon liquide pour un usage domestique
+Ce distributeur est un nouveau modèle plus compact pour le fabricant. Le cahier
+des charges spécifie qu'il doit utiliser les mêmes recharges que ceux du modèle
+précédent.
+
+Exercice 1 - ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+le moteur est-il en capacité de délivrer une dose de savon en 2,5 s ?
+L'étude sera menée dans un plan (𝑥⃗ ,𝑦⃗) figure 1.
+Les liaisons sont supposées parfaites, le poids des pièces est négligé.
+Pour refouler la dose de savon, le piston doit exercer une force de 20 N.
+On isole d'abord le coulisse/piston à l'équilibre, il est soumis à :
+
+Question I-1 - Le système coulisse/piston étant en équilibre, établir la relation entre les
+Figure 1
+normes de ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Fr/e et de ⃗⃗⃗⃗⃗⃗
+Fs . En déduire la valeur de Fr/e .
+On isole maintenant la roue/excentrique à l'équilibre, elle est soumise à :
+
+L'équation du moment du « principe fondamental de la statique » donne la relation :
+
+OA x Fc/p x sin - Cr = 0
+
+figure 3 : déplacement du piston durant la phase de refoulement
+d'une dose
+
+Question I-2 - Calculer les différentes valeur du couple Cr pour les valeurs suivantes de
+Figure 2
+l'angle  ( = 0° ; 90° et 180°), c'est-à-dire durant la phase de refoulement.
+- En déduire la valeur maxi du couple Cr.
+
+Question I-3 - Donner l'expression littérale du couple moteur Cmot en fonction de Cr, η et r.
+Figure 4
+
+- Calculer la valeur maximale du couple moteur Cmot ( Nmm )
+
+On utilise pour la suite la simulation d'une modélisation multiphysique du moteur
+électrique du distributeur qui nous permet de déterminer des caractéristiques en
+fonction du couple moteur Cmot.
+
+Paramètres internes du moteur :
+tension U= 3V
+résistance interne R = 4,5 
+inductance L = 30mH
+constante de couple k = 0,002817 N.m.A-1
+moment d'inertie du rotor J = 0,19.10-6 kg/m2
+constante de viscosité d = 11.10-7 N.m.s/rad
+
+Les résultats de la simulation sont les suivants :
+Caractéristiques déterminées :
+Pa : puissance électrique
+absorbée
+Pu : puissance mécanique utile
+η : rendement du moteur
+Im : courant absorbé
+Nm : vitesse du moteur
+
+figure 5 : Modélisation multiphysique du moteur électrique
+Question I-4
+
+On prendra 0,75 N mm comme valeur de Cm.
+- Rechercher dans le tableau figure 5 les valeurs de Pu, η et Nm pour la
+valeur du couple Cm.
+- Conclure quant aux valeurs de la puissance et du rendement.
+
+Le temps du fabricant pour refouler une dose de savon est 2,5 s
+On choisit une vitesse du moteur de 3 517 tr/min
+Question I-5
+Figure 4
+
+- Calculer la vitesse Nr ( tr/min ) de la roue/excentrique, sachant que le
+rapport de réduction r est de 198.
+
+Sachant que pour une dose de savon, la roue/excentrique fait 1 tour
+Question I-6
+
+- Déterminer en fonction de la valeur de Nr trouvée précédemment, la durée
+(en secondes) pour refouler une dose de savon
+- Conclure quant à la valeur annoncée par le fabricant.
+
+Exercice 2 - MODIFICATION DU COMPORTEMENT DU PRODUIT
+Le fonctionnement du distributeur est géré par un microprocesseur qui se trouve sur
+la carte électronique (voir figure 3)
+Afin d’éviter le gaspillage, on impose une temporisation de 2 secondes, à partir de la
+détection d’une main par le capteur, avant de délivrer la dose de savon.
+Question II-1
+DR1
+
+Question II-2
+DR1
+
+Établir les correspondances, entre l’algorigramme décrivant ce fonctionnement
+et les propositions, dans le tableau du document réponse DR1.
+Compléter sur DR1, la description de ce fonctionnement en notation
+algorithmique.
+
+La durée d’exécution d’une instruction (blocs de l’algorigramme) est en moyenne de
+2 µs pour les opérations internes et de 6 µs pour les échanges avec la périphérie.
+Question II-3
+
+Évaluer la durée séparant la détection d’une main à l’émission de la dose
+de savon. Conclure sur l’utilité de la temporisation de 2 s.
+
+Le capteur utilisé est de type barrage (figure 6), le récepteur est susceptible de
+recevoir du savon ou de l’eau, ce qui provoque par moment une non-détection de la
+main.
+Le constructeur décide de remplacer le capteur de type barrage par un capteur de
+type proximité (figure 6).
+
+Extrait du cahier des charges :
+
+La tension d’alimentation fournit par les 2 piles est de 3V
+La distance de détection est 10cm au maximum
+Le cône de détection doit être de 20° au maximum
+La consommation doit être la plus faible possible
+Figure7 : Document technique du capteur SCHARP GP2Y0D810Z0F
+Figure 8 : Document technique du détecteur IT15IR
+Figure 9 : Document technique du capteur VL6180X
+
+Question II-4
+Figure 7
+Figure 8
+Figure 9
+
+Compléter le tableau comparatif sur DR2 en vous aidant des documents
+techniques figures 7, 8 et 9.
+
+Question II-5 Choisir et justifier le nouveau capteur de détection de la main en
+respectant le cahier des charges.
+Figure 7
+Figure 8
+Figure 9
+
+DOCUMENT RÉPONSE
+DR1 :
+Question II-1 : Compléter le tableau avec les propositions suivantes :
+Temporisation – Présence_Main ? – Emission_Dose – Début_Boucle - Lire_Capteur
+– Fin_Boucle – Présence_Main ? – Lire_Capteur

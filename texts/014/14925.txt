@@ -1,0 +1,277 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1298786, "at": "2026-11-23T09:22:04+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 9
+PARTIE A
+Le mythique waterslide revient le 21 avril à la Clusaz ! (10 points)
+
+Document 1 : Le défi Foly
+
+« Le Défi Foly c’est simple : il suffit de parcourir
+à skis, monoski, snowboard ou tout engin
+glissant similaire, la plus grande distance sur le
+LAC DES CONFINS.
+Après une prise d’élan sur une pente raide et
+enneigée, tentez de battre le record de 155 m ».
+Source https://canarddulac.fr/
+
+Document 2 : La piste du défi et les hypothèses de l’étude
+La pente enneigée sur laquelle se situe la piste d’élan est inclinée d’un angle θ = 20,0° par
+rapport à la surface du lac.
+
+Un skieur part sans vitesse initiale du point
+A situé sur la piste d'élan, arrive sur l’eau au
+point B puis glisse sur l’eau jusqu’au point
+C où il s’arrête, on note AB = d = 60,0 m et
+BC = D.
+
+A
+
+Piste
+d’éla
+
+20°
+
+Lac
+B
+
+C
+
+Le système {skieur et son équipement} est modélisé par un point matériel et son mouvement
+est étudié dans le référentiel terrestre supposé galiléen. La masse de ce système est m = 110
+kg. On néglige toutes les forces de frottement qui s’exercent sur le système entre A et B et on
+suppose qu’une force de frottement constante de norme 𝑓 = 200 N s’exerce sur le système
+entre B et C.
+La surface du lac constitue par ailleurs le niveau de référence pour l’énergie potentielle de
+pesanteur du skieur.
+Document 3 : Disposition des spectateurs et du commentateur de la compétition
+Les spectateurs et photographes sont placés de part et d’autre de la piste d’élan mais
+également sur la rive opposée du lac à une distance L = 300 m du point A. Au niveau du départ
+de la piste d’élan, au point A , se trouve le commentateur de l’épreuve et son dispositif de
+sonorisation qui permet à tous les spectateurs de suivre la
+compétition et en particulier d’entendre le top départ.
+
+Document 4 : Caractéristiques de l’appareil photo d’un
+spectateur
+Distance focale de l’objectif : f’ = 100 mm
+Capteur “Full Frame” : l’image sur le capteur a pour
+dimensions 24 mm x 36 mm
+Taille de l’écran de visualisation externe : 4,8 cm x 7,2 cm
+- Une image de hauteur h sur le capteur “Full Frame” sera vue sur l’écran de visualisation
+avec une hauteur h’ = 20 x h
+Source: https://fr.wikipedia.org/wiki/Appareil_photographique_reflex_num%C3%A9rique
+
+Document 5 : Schématisation, relations de conjugaison et de grandissement pour une
+lentille mince convergente
+
+Source : https://fr.wikipedia.org/wiki/Fichier:ThinLens.png
+1. Mouvement d’un skieur relevant le défi Foly
+1.a. Le graphique suivant représente une
+simulation de l’allure des variations des énergies
+du système (en ordonnée) en fonction du temps
+(en abscisse) lors de la descente de la piste d’élan.
+
+courbe (2)
+
+courbe (1)
+
+Identifier en justifiant votre choix :
+-
+
+cinétique ;
+potentielle de pesanteur ;
+mécanique.
+
+courbe (3)
+
+1.b. En utilisant le document 2, calculer la valeur de la hauteur du point A par rapport au lac.
+1.c. Déterminer au point A les valeurs de :
+- l’énergie cinétique ;
+- l’énergie potentielle de pesanteur ;
+- l’énergie mécanique.
+Donnée : intensité de la pesanteur g = 9,80 m.s-2
+1.d. On suppose pour la suite que l’énergie mécanique du système au point A vaut
+EmA = 22,1 kJ. En considérant qu’il y a conservation de l’énergie mécanique, vérifier que la
+vitesse atteinte par le skieur en bas de la pente enneigée, c’est-à-dire au point B, est égale à
+20,0 m.s-1.
+
+1.e. En appliquant au système le théorème de l’énergie cinétique entre B et C, montrer que
+l’on obtient l’équation suivante : 2 𝑚𝑉𝐶2 − 2 𝑚𝑉𝐵2 = −𝑓𝐷 où 𝑉𝐶 et 𝑉𝐵 désignent respectivement
+la norme des vitesses en C et B.
+1.f. En déduire que la distance D parcourue par ce skieur sur le lac est égale à 110 m.
+1.g. Le résultat vous semble-t-il en cohérence avec les informations données dans le
+document 1 ?
+2. Photo du départ ratée ou réussie ?
+2.a. Un spectateur est situé sur la rive opposée du lac à une distance L = 300 m du point A. Il
+souhaite prendre une photo avec un cadrage en gros plan d’un participant à l’instant où il
+s'élance du point A. Il appuie donc sur le déclencheur de son appareil photo au moment où il
+entend le top départ donné par le commentateur situé près de la ligne de départ au point A.
+Après visionnage de la photo sur son écran, il s’exclame : « J’ai raté le départ ! ».
+Calculer les durées nécessaires au son et à la lumière pour parcourir la distance entre le point
+A et le spectateur. Expliquer la réaction du photographe amateur.
+Données : célérité des ondes sonores dans l’air cson = 341 m.s-1 ;
+célérité des ondes lumineuses dans l’air clum = 3,00 x 108 m.s-1.
+2.b. Ce même spectateur est également déçu de sa photo pour une autre raison.
+2.b.1 Déterminer la taille h1 de l’image du skieur qui se forme sur le capteur “Full Frame” de
+l’appareil photo sachant que le skieur mesure h = 1,80 m.
+2.b.2 À l’aide du document 4, en déduire la taille h1’ de l’image du skieur sur l’écran de
+visualisation de l’appareil photo et expliquer la déception du spectateur à la vue de la photo
+qu’il a prise.
+PARTIE B
+UTILISATION DU PEROXYDE D’HYDROGENE DANS UN BAIN DE BOUCHE (10 points)
+Le peroxyde d’hydrogène (eau oxygénée), de formule brute H2O2, fut découvert par le chimiste
+français Louis Jacques Thenard au début du 19 ème siècle. Il est utilisé dans de nombreux
+produits cosmétiques, dans la composition de bain de bouche pour blanchir les dents, ainsi
+que dans des produits pour éclaircir les cheveux ou pour blanchir les ongles.
+En 2018, trois marques de produit pour blanchir les dents ont été retirées des magasins en
+Europe à cause d’une concentration trop élevée en peroxyde d’hydrogène. Une exposition à
+
+une trop grande concentration en peroxyde d’hydrogène peut provoquer d'une part une
+irritation de la bouche et d'autre part une sensibilité accrue des dents aux variations de
+température.
+Des normes ont donc été établies pour limiter la concentration de peroxyde d’hydrogène dans
+les produits bucco dentaires vendus dans le commerce. Ces normes dépendent du pays de
+vente.
+Nous allons étudier la composition d’un bain de bouche vendu sur internet qui contient du
+peroxyde d’hydrogène et ainsi déterminer si ce produit a toute légitimité ou non à être vendu
+dans le commerce.
+Indications sur l’étiquette du bain de bouche étudié :
+L’action moussante du peroxyde d’hydrogène vous procurera une bouche très propre.
+Ce produit nettoie et rend les dents étincelantes.
+Sans parabène, sulfate, phtalate, parfum et conservateur.
+Ingrédients : Eau purifiée, peroxyde d'hydrogène, arome naturel végétal, fluorure de sodium.
+Données :
+
+Formule développée de la molécule de peroxyde d’hydrogène : H – O – O – H
+Électronégativité : hydrogène χ(H)= 2,2 ; oxygène χ(O) = 3,2.
+Numéros atomiques : élément hydrogène H : Z = 1 ; élément oxygène O : Z = 8.
+Configuration électronique à l’état fondamental de l’atome d’hydrogène H : 1s1 et de l’atome
+d’oxygène O : 1s2 2s2 2p4.
+
+Structure et solubilité du peroxyde d’hydrogène
+Sur l’étiquette du bain de bouche, nous pouvons remarquer que le peroxyde d’hydrogène se
+trouve en solution aqueuse.
+1. Déterminer les électrons de valence de l’atome d’hydrogène et de l’atome d’oxygène à
+partir de leur configuration électronique à l’état fondamental.
+2. Établir les schémas de Lewis de la molécule d’eau et de la molécule de peroxyde
+d’hydrogène.
+3. Déterminer le caractère polaire de la liaison O-H.
+4. Représenter sur un schéma les interactions entre une molécule d’eau et une molécule
+de peroxyde d’hydrogène. Nommer ces interactions et justifier la miscibilité du peroxyde
+d’hydrogène dans l’eau.
+
+Détermination de la concentration en peroxyde d’hydrogène
+On souhaite déterminer la concentration en peroxyde d’hydrogène de la solution commerciale
+de bain de bouche vendue sur internet. La solution est incolore. Pour cela nous allons effectuer
+un titrage avec suivi colorimétrique.
+Pour déterminer à la concentration en quantité de matière C1 en peroxyde d’hydrogène de la
+solution commerciale de bain de bouche on va étudier la transformation chimique modélisée
+par la réaction d’oxydoréduction qui prend place entre le peroxyde d'hydrogène H 2O2 (aq) et
+les ions permanganate MnO4- (aq).
+Il s’agit d’une réaction d’oxydoréduction mettant en jeu les couples O 2(g) / H2O2(aq) et MnO4(aq) / Mn2+(aq) dont l’équation est la suivante :
+2 MnO4–(aq) + 5 H2O2(aq) + 6 H+(aq)  2 Mn2+(aq) + 8 H2O (l) + 5 O2 (g)
+Une solution aqueuse contenant des ions permanganate MnO4- (aq) est de couleur rose. En
+revanche, la présence des espèces Mn2+(aq) ou H2O2 (aq) dans l’eau laissent la solution
+aqueuse incolore.
+5. Écrire les demi-équations électroniques associées aux couples O2(g) / H2O2(aq) et
+MnO4- (aq) / Mn2+(aq).
+6. Retrouver l’équation de la réaction entre H2O2(aq) et MnO4- (aq), réaction support du
+titrage.
+Dans un erlenmeyer, on verse un volume V1= 5,0 mL de la solution de bain de bouche de
+concentration C1 en quantité de matière de peroxyde d’hydrogène. On y ajoute 50 mL d’eau
+distillée et 10 mL d’une solution d’acide sulfurique de concentration 1,0 mol·L-1. On verse
+ensuite, progressivement, une solution de permanganate de potassium de concentration en
+quantité de matière C2= 5,0.10 - 2 mol·L-1. L’équivalence est atteinte pour un volume versé de
+la solution de permanganate de potassium V2,eq = 14,7 mL.
+
+Solution de
+permanganate de
+potassium
+
+7. Légender le montage du
+titrage sur le document
+réponse en annexe en
+indiquant le nom du matériel
+de laboratoire.
+
+C2 = 5,0 x 10-2 mol·L-1
+V1 = 5,0 mL de solution de
+bain de bouche de
+concentration C1 inconnue
+en H2O2, 50 mL d’eau
+distillée et 10 mL d'acide
+sulfurique.
+
+8. Indiquer le nom du réactif
+limitant avant l’équivalence et
+celui du réactif limitant après
+l’équivalence.
+9. Indiquer
+et
+justifier
+le
+changement de couleur de la
+solution lors de l’équivalence.
+
+Schéma du montage du titrage
+10. Démontrer que la relation à l’équivalence entre les volumes et les concentrations des
+solutions est : 2 C1 x V1 = 5 C2 x V2,eq .
+11. Calculer la valeur de la concentration C1 en peroxyde d’hydrogène de la solution
+commerciale de bain de bouche.
+Titre en volume de la solution commerciale
+Le peroxyde d’hydrogène peut se dismuter (se décomposer) ; cette transformation peut être
+modélisée par l’équation de la réaction suivante :
+2 H2O2(aq)  2 H2O (l) + O2 (g)
+C’est pourquoi les concentrations commerciales de peroxyde d’hydrogène sont généralement
+reliées à une grandeur appelée titre en volume.
+En effet, par convention, le titre en volume correspond au volume en litre de dioxygène gazeux
+que peut dégager un litre de solution aqueuse de peroxyde d’hydrogène lors de sa dismutation.
+On rappelle que dans les conditions normales de température et de pression le volume molaire
+du dioxygène O2(g) est de Vm = 22,4 L·mol-1.
+Des normes ont été établies pour limiter la concentration de peroxyde d’hydrogène dans les
+produits vendus dans le commerce. Ces normes dépendent du pays de vente.
+
+Titre maximal autorisé dans les produits cosmétiques (exprimé en volume) :
+Type de produit
+
+Titre maximal dans les Titre
+maximal
+dans
+les
+préparations vendues dans le préparations vendues dans le
+commerce en Europe
+commerce aux États-Unis
+
+Produits pour les
+40 volumes
+cheveux
+Produits pour la peau 13,3 volumes
+Produits pour durcir
+6,6 volumes
+les ongles
+Produits
+bucco0,3 volume
+dentaires
+
+42 volumes
+10 volumes
+Non renseigné
+15,4 volumes
+www.cir-safety.org
+
+12. Montrer qu’un litre de solution commerciale de bain de bouche de concentration en
+peroxyde d’hydrogène C1= 3,7 x 10-1 mol·L-1 produit, lors de sa dismutation, une
+quantité de dioxygène O2 environ égale à 1,9x10-1 mol.
+13. Déterminer le titre en volume de la solution de bain de bouche. Conclure sur la
+possibilité de vendre ce bain de bouche en Europe et aux Etats-Unis.
+
+ANNEXE À RENDRE AVEC LA COPIE
+
+Document réponse : Partie B - Question 7

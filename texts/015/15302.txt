@@ -1,0 +1,436 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1105684, "at": "2026-11-23T09:40:09+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Un nombre entier signé est codé en complément à deux sur 8 bits par : 0111 0101.
+Que peut-on dire ?
+c'est un nombre positif
+c'est un nombre négatif
+c'est un nombre pair
+7 bits auraient suffi à représenter cet entier signé en complément à deux
+Question A 2
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 3
+Quelle est la représentation décimale de l'entier qui s'écrit AB en hexadécimal?
+1011
+Question A 4
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+Question A 5
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+
+Question A 6
+Parmi les propositions suivantes, laquelle est la représentation binaire de 761 ?
+11 1100 1101
+11 1110 0101
+10 0111 1001
+10 1111 1001
+
+Thème B : types construits
+Question B 1
+On dispose d'une liste définie par L = [15,17,12,23].
+Quelle est la valeur de L après l'instruction L[2] = 25 ?
+[15,25,12,23]
+[15,17,25,12,23]
+[15,17,25,23]
+[15,17,12,25,23]
+Question B 2
+On définit :
+tab = [ ('Léa', 14), ('Guillaume', 12), ('Anthony', 16), ('Anne', 15) ]
+Quelle est la valeur de l'expression [x[0] for x in tab if x[1]>=15] ?
+[('Anthony', 16), ('Anne', 15)]
+['Anthony', 'Anne']
+[16, 15]
+TypeError : 'tuple' object is not callable
+Question B 3
+Quel est le type de la variable billes définie par :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+c'est une séquence
+c'est une liste
+c'est une liste de listes
+c'est un dictionnaire
+Question B 4
+Voici une définition incomplète d'une fonction qui renvoie le couple du quotient et du reste de la division
+euclidienne :
+def divEuclid(n,d):
+'''renvoie le couple formé du quotient et du reste dans la division de n par d'''
+q = 0
+while n-d > 0:
+q = q + 1
+n = n - d
+.......
+Par quelle instruction faut-il remplacer la ligne en pointillés pour que l'appel
+(quotient,reste) = divEuclid(15,6)
+
+affecte les valeurs attendues ?
+(q,n)
+(quotient,reste)
+return (q,n)
+return (quotient,reste)
+Question B 5
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]]] ?
+Question B 6
+On exécute le script suivant :
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+
+Thème C : traitement de données en tables
+Question C 1
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 2
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 3
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C 4
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C 5
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 6
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D 2
+Saisir l'URL http://monsite.com/monprogramme.py?id=25 dans la barre d'adresse d'un navigateur ne peut
+jamais permettre :
+d'obtenir une image
+d'envoyer une requête GET
+d'envoyer une requête POST
+d'exécuter un programme Python sur le serveur
+Question D 3
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 4
+Un navigateur affiche la page HTML suivante :
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Un bouton</title>
+</head>
+<body>
+<button onclick="maFonction()">Cliquer ici</button>
+</body>
+<script src="script.js"></script>
+</html>
+Lorsque l'on clique sur le bouton, l'action déclenchée maFonction() est définie :
+
+dans le fichier HTML seul
+dans le fichier style.css
+dans une bibliothèque prédéfinie du navigateur
+dans le fichier script.js
+
+Question D 5
+Quelle méthode d’envoi des paramètres est-il préférable d’utiliser, pour un formulaire d’une page web, destiné
+à demander à l’utilisateur un mot de passe pour se connecter (le protocole utilisé est HTTPS) ?
+la méthode PASSWORD
+la méthode CRYPT
+la méthode GET
+la méthode POST
+Question D 6
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Parmi les dispositifs d’entrée et de sortie suivants, lequel est uniquement un capteur ?
+la diode
+l'écran tactile
+le thermomètre
+le moteur pas à pas
+Question E 2
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E 3
+Lorsqu'un utilisateur lance une application, le système d'exploitation va l'ouvrir dans :
+un espace disponible du disque SSD
+un espace disponible du disque HDD
+un espace disponible de la RAM
+un espace disponible de la ROM
+Question E 4
+Parmi les commandes suivantes, laquelle permet à n’importe quel utilisateur d’exécuter le fichier appelé jeu ?
+chmod u+x jeu
+chmod u+rwx jeu
+chmod a+x jeu
+chmod a-x jeu
+Question E 5
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E 6
+
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+
+Thème F : langages et programmation
+Question F 1
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 2
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a = 1
+else:
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+Question F 3
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F 4
+
+On définit la fonction suivante :
+def f(n):
+c = 0
+while n > 0:
+c = c + 1
+n = n // 2
+return c
+Quel est la valeur renvoyée par l'appel f(35) ?
+Question F 5
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 6
+On considère le code suivant :
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+
+Thème G : algorithmique
+Question G 1
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+Question G 2
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 3
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 4
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+
+Question G 5
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+Question G 6
+En utilisant une recherche dichotomique, combien faut-il de comparaisons avec l'opérateur == pour trouver
+une valeur dans un tableau trié de 1000 nombres, dans le pire des cas ?
+1000
+1024

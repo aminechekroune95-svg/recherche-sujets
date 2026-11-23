@@ -1,0 +1,408 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1377230, "at": "2026-11-23T09:40:43+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+Question A 2
+Soit 𝑛 l'entier positif dont l'écriture binaire est 10001. Quelle est l'écriture binaire de l'entier 2𝑛 ?
+20002
+100010
+010001
+1000110001
+Question A 3
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+Question A 4
+La couleur « bleu roi » a pour code RGB (65,105,225), sa représentation en hexadécimal est :
+#2852C2
+#4169E1
+#33A5C61
+#C3T622
+Question A 5
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+Question A 6
+On considère une formule booléenne form des variables booléennes a et b dont voici la table de vérité.
+
+a
+
+b
+
+form
+
+Quelle est cette formule booléenne form ?
+a and b
+a or b
+a and not(b)
+not(a) or b
+
+Thème B : types construits
+Question B 1
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B 2
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b] ?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B 3
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B 4
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 5
+Quelle est la valeur de l'expression [[i for i in range(5)] for j in range(3)] ?
+[[0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
+[[0, 1, 2, 3, 4], [0, 1, 2, 3, 4], [0, 1, 2, 3, 4]]
+[[0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3]]
+[[0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5]]
+
+Question B 6
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 2
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 3
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 4
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 5
+On exécute le script suivant :
+notes = {"Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18}
+t = list(notes.keys())
+Quelle est la valeur de t à la fin de cette exécution ?
+Paul
+["Paul", '"Jean", "Clara", "'Aïssa']
+[12, 16, 14, 18]
+[ "Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18 ]
+Question C 6
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+On considère l’extrait suivant d'une page web d'un site de vente en ligne.
+<form id="fmCreerCommande" name="fmCreerCommande" action="gestion.php" method="post">
+<input type="HIDDEN" name="reference" value="F1245">
+<label for="quantite" class="dropdown">Quantité :</label>
+<select name="quantite" autocomplete="off" id="quantite" class="dropdown">
+<option value="1" selected>1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+<div id="btnMulti" class="clValidBtn">
+<input type="button" value="Ajouter" class="btn" onclick="ajouterProduit()">
+</div>
+</form>
+Quelle est la méthode utilisée pour transmettre les informations saisies dans ce formulaire ?
+La méthode HIDDEN
+La méthode GET
+La méthode POST
+La méthode SELECT
+Question D 2
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 3
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+Question D 4
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 5
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 6
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle est la commande qui permet d’afficher le répertoire courant dans le shell GNU/Linux ?
+mkdir
+pwd
+cd
+ls -l
+Question E 2
+Dans un terminal sous Linux, à quoi sert la commande traceroute ?
+à afficher un itinéraire routier entre deux villes
+c'est un synonyme pour la commande ping
+à afficher le chemin suivi par des paquets à travers un protocole IP
+à suivre pas à pas l'exécution d'un programme
+Question E 3
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 4
+Pour renommer un fichier text1.txt en text1.old dans un même répertoire, quelle commande faut-il
+utiliser ?
+mv text1.txt ../text1.old
+mv text1.txt text1.old
+cp text1.txt text1.old
+lns text1.txt text1.old
+Question E 5
+Quel matériel permet d'interconnecter des ordinateurs entre eux :
+
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+Question E 6
+Dans un terminal, on exécute la suite de commandes système suivante :
+cd ~
+cd seances/tp
+mv exercice.txt
+
+./../../exercice.txt
+
+Où se trouve finalement placé le fichier exercice.txt ?
+dans le répertoire ~/seance/tp
+dans le répertoire ~/seance
+dans le répertoire ~
+dans le répertoire /home
+
+Thème F : langages et programmation
+Question F 1
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 2
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Question F 3
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Question F 4
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément.
+Combien de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand
+élément n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+Question F 5
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 6
+Dans le programme suivant, la variable A contient un entier strictement positif. Quelle est la valeur numérique
+de la variable i en fin de programme ?
+i = 0
+while 2**i < A :
+i = i + 1
+Que vaut la variable i à la fin de l'exécution ?
+A + 1
+l'exposant de la plus grande puissance de 2 inférieure à A
+l'exposant de la plus petite puissance de 2 supérieure à A
+A - 1
+
+Thème G : algorithmique
+Question G 1
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 2
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇
+Question G 3
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G 5
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+
+Question G 6
+Combien d’échanges effectue la fonction Python suivante pour trier un tableau de 10 éléments au pire des
+cas ?
+def tri (tab):
+for i in range (1, len(tab)):
+for j in range (len(tab) - i):
+if tab[j]>tab[j+1]:
+tab[j],tab[j+1] = tab[j+1], tab[j]

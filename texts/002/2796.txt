@@ -1,0 +1,245 @@
+{"pages": 9, "method": "pdftotext", "bytes": 868000, "at": "2026-11-23T09:25:15+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Un antiseptique : l’eau oxygénée (10 points)
+Communément appelée « eau oxygénée », la solution aqueuse antiseptique est utilisée,
+notamment pour détruire les virus, champignons et bactéries. Son principe actif est le
+peroxyde d’hydrogène, de formule brute H2O2.
+Le but de cet exercice est de vérifier les indications figurant sur l’étiquette d’une solution
+commerciale d’eau oxygénée.
+Etiquette d’une solution commerciale d’eau oxygénée S :
+
+Données
+- Masse Molaire Moléculaire du peroxyde d’hydrogène : M(H2O2) = 34 g.mol-1
+
+- Le peroxyde d’hydrogène H2O2 contenu dans l’eau oxygénée peut être oxydé par les ions
+permanganates MnO4 - suivant la réaction d’oxydoréduction dont l’équation est la suivante :
+2 MnO4 –(aq) + 6 H+(aq) + 5 H2O2(aq) -> 2 Mn2+(aq) + 8 H2O(l) + 5 O2(g)
+- Couples d’oxydoréduction mis en jeu : MnO4 – (aq) / Mn2+(aq) O2 (g) / H2O2 (l)
+- Le titre T d’une eau oxygénée exprime le volume de dioxygène que peut libérer un litre
+d’eau oxygénée en volume: En effet, l’eau oxygénée en réagissant avec elle-même, libère
+du dioxygène gazeux selon l’équation :
+2 H2O2(aq) -> 2 H2O(l) + O2(g)
+Lors de cette réaction, H2O2 joue à la fois le rôle d’oxydant et de réducteur.
+𝐶.𝑉𝑚
+Le titre T est donnée par la relation : 𝑇 = 2
+avec T : titre, C : concentration en quantité de matière en mol.L-1 et Vm = 22,4 L.mol-1 :
+volume molaire d’un gaz (dans les conditions normales de température et de pression)
+- Spectre d’absorption obtenu au laboratoire d’une solution aqueuse de permanganate de
+potassium :
+
+1. Préparation de la solution à titrer
+Afin de procéder au titrage du peroxyde d’hydrogène contenue dans la solution commerciale
+par les ions permanganate, la solution commerciale S est diluée dix fois pour obtenir la
+solution S’.
+1.1.
+
+Rédiger précisément le protocole à suivre pour réaliser cette dilution.
+
+1.2.
+
+Seuls les ions permanganate sont colorés en solution aqueuse. Justifier cette
+propriété et préciser la couleur de ces ions en solution aqueuse.
+
+2. Titrage du peroxyde d’hydrogène par les ions permanganate
+Il est procédé au titrage d’oxydoréduction suivi par colorimétrie de V’=20,0 ± 0,05 mL de la
+solution S’ par une solution de permanganate de potassium de concentration en quantité de
+matière égale à C0 = (5,00 ± 0,2).10-2 mol.L-1. Lors de ce titrage colorimétrique, le volume
+obtenu à l’équivalence est de Véq = 13,7 ± 0,05 mL.
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+
+Schématiser le montage expérimental utilisé en le légendant.
+Écrire les demi-équations électroniques mises en jeu lors du titrage permettant de
+retrouver l’équation de la réaction d’oxydoréduction support du titrage.
+Définir l’équivalence et donner, à l’équivalence, la relation entre les quantités de
+matière des ions permanganate introduits n(MnO4-(aq)) et du peroxyde d’hydrogène
+n(H2O2(aq)) initialement présent dans l’échantillon titré.
+Comment l’équivalence est-elle repérée lors de ce titrage ?
+Déterminer C’, la concentration en quantité de matière du peroxyde d’hydrogène de
+la solution S’.
+L’incertitude relative sur C vaut U(C)=0,034 mol.L-1.Proposer un encadrement de la
+concentration en quantité de matière C du peroxyde d’hydrogène de la solution
+commerciale S
+
+3. Conformité de la solution avec les indications de l’étiquette
+3.1. Vérifier que la concentration Cétiquette en quantité de matière du peroxyde
+d’hydrogène indiquée sur l’étiquette correspond à 0,89 mol.L -1.
+3.2. Les indications de l’étiquette correspondent-elles à la solution commerciale
+analysée ?
+4. Efficacité d’une bouteille d’eau oxygénée ouverte depuis plusieurs mois
+Une bouteille d'eau oxygénée a été ouverte depuis plusieurs mois. L'eau oxygénée peut réagir
+avec le dioxygène de l'air et perdre ainsi toute ou une partie de ses propriétés antiseptiques.
+On considère que l’eau oxygénée est encore efficace pour désinfecter les plaies si son titre est
+au moins égal à 0,5 volume.
+Le protocole de titrage est reproduit sans diluer la solution d'eau oxygénée et le volume
+équivalent obtenu est alors Veq = 4,32 mL.
+La solution contenue dans cette bouteille est-elle encore efficace ?
+PARTIE B
+Séisme : comment localiser son épicentre ? (10 points)
+Les séismes sont des événements redoutés par l’espèce humaine car ils sont associés à des
+destructions massives et imprévisibles. Pourtant un réseau de surveillance existe et détecte à
+l’échelle planétaire les vibrations du sol dont la plupart sont inoffensives.
+
+L’objectif de cet exercice est de comprendre comment on peut localiser l’épicentre d’un
+séisme. Pour répondre à cette question, il faut d’abord s’intéresser aux ondes de différentes
+natures responsables des secousses sismiques.
+Nature des ondes sismiques
+Les ondes P sont aussi appelées ondes longitudinales. La vibration du sol se fait par des
+dilatations et des compressions successives. Ces perturbations se déplacent parallèlement à
+la direction de propagation de l'onde. Les ondes P se propagent dans les milieux solides ainsi
+que dans les liquides.
+
+Représentation des ondes P (d’après C. Allègre «Les fureurs de la Terre »).
+Les ondes S sont aussi appelées ondes transversales. À leur passage, les perturbations du
+sol s'effectuent perpendiculairement au sens de propagation de l'onde. Les ondes S ne se
+propagent que dans les milieux solides.
+
+?
+
+Représentation des ondes S (d’après C. Allègre « Les fureurs de la Terre »).
+1.
+2.
+
+Les ondes P et S sont qualifiées d’ondes de type mécanique. Justifier cette affirmation.
+On considère ces ondes comme périodiques. Indiquer quelle est la grandeur représentée
+par la flèche double en pointillés sur la représentation précédente des ondes S.
+
+3.
+
+Graphe : célérité des différents types d’onde dans la structure terrestre
+(d’après données planet-terre.ens-lyon.fr)
+Indiquer quel est le type d’onde (P ou S) qui traverse le noyau terrestre. Justifier.
+
+Détection des séismes
+Lorsqu’un séisme se produit, les ondes sismiques ne sont pas forcément détectées par l’être
+humain, mais elles peuvent être suivies par les nombreux sismographes situés sur la Terre
+dans des stations de surveillance sismique.
+Un sismographe traditionnel est constitué d'un bâti fixe et d'un pendule qui réagit aux
+secousses. Le dispositif permet de transcrire les secousses enregistrées sous forme d'une
+courbe tracée si le mécanisme est mécanique, ou sous forme de données informatiques pour
+les sismographes numériques modernes.
+Ces sismographes permettent d’obtenir des sismogrammes qui peuvent être décomposés
+comme sur le document en annexe 1 à rendre avec la copie.
+4.
+5.
+
+Déterminer si l’allure du sismogramme fourni (annexe 1) est cohérente avec les
+informations du graphe précédent.
+Représenter sur le document donné en annexe 1 à rendre avec la copie, le retard de
+l’onde S par rapport à l’onde P.
+
+Localisation de l’épicentre
+Un séisme se produit généralement à l’intérieur du globe terrestre. L’épicentre du séisme est
+le lieu de la surface, le plus proche de la source du séisme. C’est le premier endroit de la
+surface à recevoir les ondes sismiques.
+
+Un séisme dont l’épicentre se situe en Équateur, pays d’Amérique du Sud, s’est produit le 22
+février 2019. L’enregistrement du sismographe de la station de surveillance LFCV située au
+Venezuela, un autre pays d’Amérique du Sud, a permis de mesurer les heures d’arrivée des
+ondes P et S.
+On fera les hypothèses suivantes pour modéliser simplement la situation :
+ hypothèse 1 : les ondes P et S se propagent quasiment à la surface de la Terre ;
+ hypothèse 2 : le rayon de courbure de la Terre est négligeable ;
+ hypothèse 3 : les ondes se déplacent avec des célérités de valeurs constantes.
+Données :
+Type d’onde Heure d’arrivée
+à la station LFCV
+Ondes P
+
+HP = 10 h 21 min 01 s
+
+Célérités moyennes
+des ondes
+cP = 8,7 km.s-1
+
+Distance parcourue
+depuis l’épicentre
+d
+
+-1
+
+cS = 4,7 km.s
+d
+Ondes S
+HS = 10 h 24 min 03 s
+6.
+On note d la distance entre l’épicentre du séisme et la station LFCV. En notant
+tS et tP respectivement les durées de propagation de l’onde S et de l’onde P entre
+l’épicentre et la station LFCV, exprimer tS -tP en fonction de d, cS et cP .
+7.
+Exprimer la distance d puis calculer sa valeur.
+En réalité, les calculs de localisation d’épicentre prennent en compte le fait que les célérités
+des ondes P et S ne sont pas constantes. On réalise pour cela une hodochrone (voir cidessous) à partir des enregistrements obtenus par plusieurs sismographes situés en divers
+endroits du globe. Elle représente l’évolution du temps de propagation des ondes sismiques P
+et S en fonction de la distance à l’épicentre.
+
+8.
+
+En exploitant l’hodochrone, déterminer la distance L entre l’épicentre et une station de
+mesure dans le cas où l’onde S arrive avec 5 min de retard par rapport à l’onde P.
+
+L’utilisation de l’hodochrone donne pour trois stations différentes les résultats suivants :
+Station
+LFCV (Venezuela)
+HPAP (Haïti)
+GCAPE (Guadeloupe)
+
+Durée tS-tp
+183 s
+231 s
+247 s
+
+Distance L de la station
+à l’épicentre
+1,93.103 km
+2,39.103 km
+2,78.103 km
+
+On considère que, pour chaque station, l’épicentre se trouve sur un cercle de rayon L.
+Pour déterminer graphiquement la position de l’épicentre, on a utilisé un programme
+informatique en langage Python. Ce programme permet de créer un fond de carte, de
+positionner les trois stations LFCV, HPAP et GCAPE, de tracer des cercles dont les centres
+sont les stations. La carte produite figure dans le document en annexe 2 à rendre avec la
+copie.
+9.
+
+Indiquer pourquoi le document en annexe 2 à rendre avec la copie ne permet pas de
+positionner précisément l’épicentre du séisme.
+
+Le programme utilisé est donné ci-dessous :
+
+10. Indiquer l’information chiffrée manquante dans ce programme informatique, pour tracer le
+cercle autour de la station GCAPE. Préciser le numéro de la ligne à corriger et réécrire
+cette ligne entièrement sur votre copie.
+11. À la ligne 27, proposer une modification du programme permettant de faire apparaître le
+cercle autour de GCAPE.
+12. Placer l’épicentre sur l’annexe 2 à rendre avec la copie en expliquant votre démarche.
+
+ANNEXES À RENDRE AVEC LA COPIE
+
+Mouvement du sol
+
+Annexe 1: Enregistrement simplifié des mouvements du sol en fonction du temps lors d’un séisme
+
+T
+e
+m
+p
+s
+
+Annexe 2 : Carte obtenue par le programme en langage python

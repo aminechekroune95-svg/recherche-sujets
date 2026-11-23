@@ -1,0 +1,392 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1408025, "at": "2026-11-23T09:27:11+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l'ingénieur
+DURÉE DE L’ÉPREUVE : 2h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulée
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+PRÉSENTATION DU PRODUIT ÉTUDIÉ
+La loi relative à la transition énergétique pour la croissance verte
+interdit la vente et la distribution des gobelets, verres et assiettes en
+plastique au 1er janvier 2020 (Voir décret du 30 août 2016). L'objectif
+est de moins polluer car le plastique met des dizaines d'années à
+disparaître dans la nature et est souvent associé à des produits
+toxiques.
+Les solutions pour les organisateurs d'évènements publics
+consistent donc :
+- soit à utiliser de la vaisselle jetable en compostage domestique
+et constituée pour tout ou partie de matières biosourcées ;
+- soit à utiliser de la vaisselle réutilisable.
+Lorsque la deuxième solution est retenue, il est parfois difficile
+pour les organisateurs de récupérer les gobelets malgré les frais de
+consigne. Le système GOBLOX automatise la récupération, le
+stockage des gobelets ainsi que la restitution de la consigne tout en
+multipliant les points de collecte sur le site de l'évènement.
+
+Figure 1
+
+Cas d'utilisation du Goblox
+Le GOBLOX doit :
+- identifier l'objet collecté comme étant bien un gobelet plastique réutilisable selon la
+norme « Greencup » ;
+- déplacer le gobelet identifié vers la zone de stockage ;
+- stocker le gobelet dans la zone dédiée en optimisant l'espace disponible ;
+- rendre la consigne à l'utilisateur ;
+- réaliser ces opérations rapidement pour éviter les temps d'attente aux utilisateurs.
+Diagramme de contexte partiel
+Le GOBLOX doit :
+- permettre la récupération et le stockage
+des gobelets plastiques réutilisables et la
+restitution de la consigne ;
+- pouvoir être déplacé aisément sur le
+site de l'événement ;
+- respecter les normes ;
+- résister à son environnement et limiter
+les impacts sur celui-ci ;
+- se connecter à Internet pour effectuer
+un suivi continu ;
+- permettre (via internet) au responsable
+de l'événement de connaître l'état du
+stockage des gobelets et de la réserve
+de consigne.
+Figure 2
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Afin que le « GOBLOX » assure sa fonction de récupération de gobelets et de
+restitution de consigne. Il faut que chaque gobelet soit positionné dans la machine puis
+mesuré afin de s'assurer de sa bonne conformité.
+Après quoi le gobelet doit être déplacé vers la zone de stockage qui est située en
+partie basse de la machine. C'est cette phase de déplacement qui sera étudiée dans
+cet exercice. Dans la suite de l’étude le temps nécessaire au contrôle de conformité
+du gobelet sera négligé. La phase de déplacement du gobelet ne doit pas excéder
+0,7 s afin de garantir un temps d’attente acceptable par l’utilisateur.
+
+Problématique : comment assurer un temps de basculement du support de gobelet
+inférieur à 0,7 s ?
+
+Le schéma cinématique retenu par les concepteurs du système pour transférer un
+gobelet vers la zone de stockage est représenté sur la figure 3.
+Le support de gobelet reste horizontal pendant la phase de vérification de la conformité
+du gobelet (figure 3-A). Si celui-ci est conforme, il est déplacé vers la zone de
+stockage. Pour cela, la tige du vérin se déplace, le support du gobelet est entrainé en
+rotation dans le sens horaire autour du point A jusqu'à un angle de 56° après quoi le
+gobelet glisse sur le support vers la zone de stockage (figure 3-B).
+Question I.1 Déterminer la vitesse moyenne de rotation de l'ensemble
+"Gobelet + support-4" afin de parcourir un débattement angulaire de 56°
+en 0,7 s.
+Les concepteurs du système ont prévu que la vitesse de déplacement de la tige du
+vérin par rapport au corps du vérin soit constante et modélisée par 𝑉
+𝐶3/2.
+Le graphique ci-dessous décrit l'évolution du débattement angulaire de 4 par rapport
+à 1 au cours du temps lorsque la tige du vérin 3 se déplace. Cette évolution est décrite
+pour 4 valeurs différentes de la norme de 𝑉
+𝐶3/2 .
+
+Débattement angulaire de 4 par rapport à 1 en
+degrés
+
+0,04 m/s
+
+0,035 m/s
+
+0,03 m/s
+
+0,025 m/s
+
+0,02 m/s
+
+0,2
+
+0,4
+
+0,6
+
+0,8
+
+1,2
+
+Temps en seconde
+
+Figure 4 : débattement angulaire.
+Afin que le gobelet glisse vers la zone de stockage, le support 4 doit s'incliner d'un
+−1
+angle de 56° par rapport au bâti 1. La norme de 𝑉
+𝐶3/2 est égale à 0,03 𝑚 ∙ 𝑠 .
+Question I.2
+Figure 4
+
+Déterminer le temps que prendra le mouvement d’inclinaison. Conclure
+sur la compatibilité de ce temps avec le cahier des charges.
+
+Question I.3
+
+Déterminer une valeur possible de la norme de ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝐕𝐂𝟑/𝟐 permettant de
+respecter le cahier des charges.
+
+Le vérin qui entraîne le support du gobelet est un vérin électrique. Les schémas
+cinématiques des figures 5 et 6 illustrent son fonctionnement.
+
+Description du fonctionnement :
+Le moteur électrique entraine un réducteur à engrenage composé de deux roues
+dentées RD1 et RD2. Ce réducteur entraine à son tour un ensemble vis/écrou. L'écrou
+étant lié par une liaison glissière avec le bâti, il ne peut que translater le long de l'axe
+(BC). C'est ce mouvement de translation qui est utilisé pour déplacer le support de
+gobelet en rotation.
+Données :
+- Nombre de dents de la roue RD1 : Z1 = 15 dents ;
+- Nombre de dents de la roue RD2 : Z2 = 70 dents ;
+- Vitesse de rotation du moteur (supposée constante) : Nmot = 2800 trmin-1 ;
+- Pas de la vis : 3,5 mm.
+
+Rappel: le pas d'une vis correspond à la distance parcourue par l'écrou lorsque la vis
+fait un tour.
+Question I.4
+Figures 5 et 6
+
+À partir de la structure interne du vérin électrique, déterminer la norme
+−𝟏
+de la vitesse de sortie de la tige du vérin ‖𝑽
+𝑪𝟑/𝟐‖ en 𝒎 ∙ 𝒔 .
+Conclure sur les performances du vérin en termes de vitesse.
+
+−1
+Pour la suite de l'étude : ‖𝑽
+𝑪𝟑/𝟐 ‖ = 0,035 𝑚𝑠 .
+
+Question I.5 Proposer un protocole expérimental pour déterminer l’effort que doit
+développer le vérin afin de remonter le support du gobelet
+L’expérience a montré que l’effort nécessaire est de 13 N.
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗ ‖ * ‖𝑽
+Rappel : dans le cas étudié ici, Pvérin = ‖𝑭𝒗𝒆𝒓𝒊𝒏
+𝑪𝟑/𝟐 ‖
+Calculer la puissance Pvérin que doit fournir le vérin électrique afin d'assurer
+le déplacement correct du système.
+Question I.6 En consultant le document technique sur le vérin électrique (voir figure 7),
+conclure sur la capacité du vérin électrique à répondre au cahier des charges
+en prenant en compte le critère de vitesse et le critère de puissance
+
+Référence du vérin électrique
+
+M10
+
+Construction
+
+Vérin linéaire avec moteur à courant continu.
+
+Force de poussée/traction
+
+Jusqu'à 150 N
+
+Irréversibilité
+
+Jusqu'à 300 N
+
+Température de fonctionnement
+
+De -20°C à +60°C
+
+Tension d'alimentation
+
+24 V CC
+
+Consommation électrique
+
+1,1 A maximum
+
+Puissance mécanique
+
+20 W maximum
+
+Vitesse de sortie de tige maximale
+
+0,05 m.s-1
+
+Figure 7 : Dossier technique vérin
+
+MODIFICATION DU COMPORTEMENT DU PRODUIT
+Fonctionnement
+Le rendeur de monnaie est l’un des 4 modules fonctionnels de la machine Goblox.
+Il est constitué d’un tube dont la fonction est de contenir un nombre prédéfini de pièces
+de monnaie.
+À la base du tube se trouve un plateau percé d’une encoche permettant le passage
+de pièces de 1 € et 2 €. Par gravité, les pièces descendent le long du tube jusqu’à ce
+que la pièce inférieure se place dans l’encoche. Le plateau peut être mis en rotation
+par le biais du motoréducteur situé en dessous. La pièce ainsi placée dans l’encoche
+peut être rendue à l’utilisateur après un tour du plateau. Un interrupteur de fin de
+course à galet, par l’intermédiaire de l’unité de traitement, permet d’arrêter le moteur
+lorsque le plateau a effectué un tour et donc distribué une pièce (« fin de course en
+position appuyé »).
+La position du plateau est alors connue partiellement et peut manquer de
+précision.
+
+Figure 8 : vue du capteur fin de course.
+
+Problématique : comment assurer la restitution de la consigne en 1 s maximum ?
+Question II.1 Dessiner sur le document réponse DR1 les chronogrammes correspondant
+DR1
+au fonctionnement du rendeur de monnaie dans le cas où l’utilisateur
+demande la restitution de la consigne.
+Des tests de fonctionnement ont montré de possibles imprécisions lors de l’arrêt
+du plateau. Il a été décidé de remplacer l’interrupteur de fin de course par un
+motoréducteur associé à un codeur incrémental. La résolution de ce dernier est de 100
+impulsions par tour du moteur.
+
+Figure 9 : motoréducteur avec codeur incrémental.
+L’ensemble est piloté par un microcontrôleur dont une partie de la programmation
+sera étudiée par la suite.
+
+Figure 10 : diagramme des blocs internes.
+
+Figure 11 : modèle multi-physique du motoréducteur.
+Des résultats de simulation du modèle multi-physique sont fournis dans le document
+réponse DR1. Les courbes fournies dans ce document correspondent à un tour
+complet du plateau.
+
+Question II.2
+DR1
+
+À partir des résultats de simulations fournis sur le document technique
+DT1, calculer le rapport de réduction entre la vitesse de sortie du
+réducteur et celle du moteur.
+Déterminer la vitesse de rotation du plateau pendant le mouvement
+et le nombre d’impulsions en sortie du codeur incrémental à l’issue du
+mouvement.
+
+Programmation du microcontrôleur de gestion de la restitution de la consigne.
+À la demande de la restitution de la consigne par l’utilisateur, le moteur est
+alimenté et le plateau doit réaliser un tour. Le pseudo code décrivant ce comportement
+est donné ci-dessous. Les phrases notées en italique et précédées du caractère « # »
+sont des commentaires.
+Les fonctions suivantes sont utilisées :
+Calcul_Impulsions() : renvoie le nombre d’impulsions depuis la mise en
+rotation du moteur.
+Moteur_Arrêt : met le moteur à l’arrêt.
+Moteur_Marche : met le moteur en rotation.
+1. # Début déclaration des variables
+2. Demande_Consigne : ENTIER
+# Volonté de l’utilisateur : valeur 1 pour la
+#
+demande de restitution de la consigne et
+3. #
+valeur 0 dans le cas contraire.
+4. Nb_Impulsions_Max : ENTIER # Contient le nombre d’impulsions pour un tour
+#
+du plateau.
+5. K : ENTIER
+# Variable d’incrémentation.
+6. J : ENTIER
+# Variable d’incrémentation
+7. # Début du programme
+8. FAIRE A L’INFINI
+9.
+Moteur_..............
+10. J ← Demande_Consigne
+11. K ← 0
+12. SI J=1
+ALORS
+13.
+Moteur_...............
+14.
+TANT QUE K < …………….
+15.
+16.
+17.
+Moteur_..............
+18. FIN SI
+19. FIN DE FAIRE
+
+Question II.3
+
+Recopier et compléter les lignes 7 à 18 de l’algorithme de programmation
+du microcontrôleur de gestion de la restitution de la consigne.
+
+De nouveaux tests de fonctionnement ont montré un dépassement de la position
+à atteindre pour le plateau à cause d’un arrêt trop brusque du moteur. Pour pallier cet
+inconvénient, il faut ralentir le moteur à partir du moment où 75% de la rotation du
+plateau aura été réalisée. Pendant la phase à vitesse réduite on utilise la Modulation
+de Largeur d’Impulsion (MLI) en alimentant le moteur périodiquement en pleine tension
+pendant 0,25 ms et hors alimentation pendant 0,75 ms sur une période de 1 ms.
+Question II.4
+
+Donner la valeur moyenne de la tension d’alimentation pendant la phase de
+ralentissement si le moteur est alimenté en pleine tension sous +12V.
+En supposant que la vitesse de rotation du moteur est proportionnelle à la
+tension moyenne de sa tension d’alimentation, déduire la nouvelle vitesse
+du moteur pendant la phase de ralentissement.
+
+Question II.5
+
+Recopier et compléter les lignes 13 à 22 ci-dessous du nouvel algorithme
+de programmation du microcontrôleur en remplacement des lignes 13 à 15
+précédentes.
+
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+
+TANT QUE K < ……..
+TANT QUE K < ……..
+Moteur_Marche
+Pause ………
+Moteur_Arrêt
+Pause ………
+
+Question II.6
+
+Conclure quant à l’exigence de restitution de la consigne en moins
+d’1 s. Proposer une modification possible du fonctionnement actuel
+qui permettrait de satisfaire à l’exigence du cahier des charges.
+
+DOCUMENTS RÉPONSES
+DR1 :
+Question II.1
+
+Question II.2.
+Unités utilisées :
+En abscisses : le temps en s.
+En ordonnées : la vitesse de rotation en rad•s-1
+
+Curseur N°1 sur « vitesse MOTEUR ».
+Curseur N°2 sur « vitesse REDUCTEUR ».

@@ -1,0 +1,316 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1210952, "at": "2026-11-23T09:23:43+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Allantoïne (10 points)
+L'allantoïne est un composé chimique azoté, de formule brute C 4H6N4O3, découvert par
+Louis-Nicolas Vauquelin. On le trouve en particulier dans l’urine de veau ou la bave
+d’escargot, cependant aujourd’hui, il est synthétisé à grande échelle à partir de l’acide
+glyoxylique C2H2O3 et de l’urée CH4N2O pour l’utiliser dans l'industrie cosmétique, car ce
+composé possède des propriétés adoucissantes et apaisantes. On le trouve principalement
+dans les produits de soins de la peau et les produits de maquillage, mais aussi dans les
+dentifrices, shampoings, crèmes à raser, rouges à lèvres, etc.
+D’après https://fr.wikipedia.org/wiki/Allantoïne
+L’objectif de l’exercice est d’étudier l’acide glyoxylique et l’urée, puis un protocole de
+synthèse de l’allantoïne au laboratoire.
+Données
+Données physiques de quelques espèces chimiques
+Masse molaire Température
+Espèce chimique
+(g/mol)
+de fusion (°C)
+Urée
+60,0
+Acide glyoxylique
+74,0
+Allantoïne
+
+158,1
+
+Acide sulfurique
+
+98,1
+
+Solubilité dans l’eau
+Très soluble : 1360 g/L à 20°C
+Très soluble
+Peu soluble,
+150 g/L si eau bouillante
+5 g/L si eau très froide
+Très soluble
+
+Données de spectroscopie infrarouge
+Liaison
+Liaison C – NH2
+Liaison C - NH
+Liaison O – H acide carboxylique
+Liaison C – H
+Liaison C = O avec N voisin
+Liaison C = O aldéhyde et cétone
+Liaison C = O acide carboxylique
+Liaison C = C
+
+Nombre
+d’onde (cm-1)
+3100 - 3500
+3100 - 3500
+2500-3200
+2800-3000
+1660 - 1685
+1650-1730
+1680-1710
+1640-1680
+
+Intensité
+Bande double forte
+Bande simple forte
+Bande forte à moyenne, large
+Bande forte
+Bande moyenne
+
+Masse volumique de la solution d’acide glyoxylique à 50 % en masse : ρ = 1,3 g.mL-1
+Valeurs d’électronégativité de quelques atomes :
+(H) = 2,20 (C) = 2,55 (N) = 3,04 (O) = 3,44
+Numéros atomiques de quelques éléments :
+Z(H) = 1 Z(C) = 6 Z(N) = 7 Z(O) = 8
+1. À propos de l’acide glyoxylique.
+L’acide glyoxylique est un solide, très utilisé dans l’industrie, de formule semi-développée :
+O
+
+O
+C
+
+H
+
+C
+OH
+
+1.1. Recopier sur la copie la formule semi-développée de la molécule d’acide glyoxylique
+et identifier les groupes caractéristiques qui la composent.
+1.2. Représenter le schéma de Lewis de la molécule.
+1.3. Donner, en justifiant, la géométrie de cette molécule autour de l’un ou l’autre des
+atomes de carbone.
+2. A propos de l’ammoniac et urée
+L’urée est un composé organique de formule chimique semi-développée : H2N – CO – NH2
+L’urée naturelle fut découverte en 1773 par le pharmacien Hilaire Rouelle. Formée dans le
+foie, à partir de l’ammoniac, NH3, provenant de la dégradation d’acides aminés, l’urée
+naturelle est éliminée au niveau des reins par l’urine.
+En 1828, le chimiste allemand Friedrich Wöhler réussit à synthétiser en laboratoire l’urée,
+molécule dite « organique » à l’époque, à partir d’ammoniac. On considérait avant cette
+synthèse que les molécules « organiques » ne pouvaient provenir que de constituants ou de
+dérivés d’organismes vivants habités par la « force vitale » (vis vitalis). Cette date, gravée
+dans l’histoire, est retenue comme étant celle fondatrice de la chimie organique.
+
+D’après http://www.societechimiquedefrance.fr/uree.html
+2.1. Donner la configuration électronique de l’azote N et de l’hydrogène H. En déduire la
+géométrie de la molécule d’ammoniac.
+2.2. Justifier le caractère polaire de la molécule d’ammoniac.
+2.3. On s’intéresse au spectre Infrarouge de l’urée.
+
+2.3.1. Nommer la grandeur qui figure en abscisse du spectre Infrarouge.
+2.3.2. Que confirme la bande la plus à gauche du spectre ?
+2.3.3. Repérer la bande du spectre qui confirme la présence d’une liaison C = O.
+Peut-elle être attribuée sans ambiguïté à la liaison C=O de l’urée ? Justifier.
+3. Synthèse de l’allantoïne
+Une voie de synthèse de l’allantoïne s’effectue à partir d’urée et d’acide glyoxylique et peut
+être modélisée par une réaction chimique d’équation suivante :
+2 CH4 N2 O(s) + C2 H2 O3(aq) → C4 H6 N4 O3(s) + 2 H2 O(l)
+Le protocole expérimental d’une synthèse de l’allantoïne, réalisée au laboratoire, est décrit
+ci-après :
+a. Placer un barreau aimanté dans un erlenmeyer de 100 mL puis, à l’aide d’un entonnoir
+à solide, verser 13,6 g d’urée et 10,0 mL de solution aqueuse d’acide glyoxylique à 50%
+en masse. Agiter jusqu’à l’obtention d’une solution limpide. Introduire lentement 1,5 mL
+d’acide sulfurique concentré, sous agitation magnétique. L’acide sulfurique a pour rôle
+d’accélérer la réaction. Adapter un réfrigérant ascendant.
+b. Placer l’erlenmeyer dans un bain-marie. Maintenir l’agitation, le chauffage et l’ébullition
+de l’eau du bain-marie pendant 45 minutes. Le milieu réactionnel se trouble au bout de
+15 à 20 minutes avec l’apparition d’un précipité blanchâtre.
+c. Plonger ensuite le bécher dans de la glace pendant quelques minutes. Récupérer le
+solide à l’aide d’un dispositif de filtration sous vide de type Büchner.
+d. Laver avec suffisamment d’eau glacée. Sécher à l’étuve le temps nécessaire.
+e. Peser le solide obtenu.
+
+3.1. Associer aux différentes étapes (a, b, c, d, e) mises en oeuve les différentes étapes
+d’un protocole de synthèse : transformation ; séparation, purification, analyse.
+3.2. Préciser Expliquer l’apparition progressive du précipité blanchâtre.
+3.3. Justifier l’utilisation de la glace dans l’étape c.
+3.4. Justifier l’intérêt de laver à l’étape d du protocole, le solide obtenu avec
+suffisamment d’eau glacée.
+3.5. Déterminer le rendement de la synthèse ainsi effectuée, sachant que la masse
+d’allantoïne sèche obtenue vaut m = 8,60 g.
+PARTIE B
+Aspects énergétiques des phénomènes électriques (10 points)
+Autour du petit électroménager
+À la maison, l’électricité́ est facile d’accès, semble inépuisable et nombre de ses utilisations
+ne peuvent pas être remplacées par une autre source d’énergie. Ces usages spécifiques
+représentent plus de la moitié de la consommation d’électricité́ des ménages, chaque foyer
+possédant en moyenne près d’une centaine d’appareils électriques ou électroniques.
+L’efficacité́ énergétique de nos équipements électriques s’améliore régulièrement. Pourtant,
+notre consommation d’électricité́ ne cesse d’augmenter : la consommation d’électricité́ pour
+les petits appareils électroménagers a doublé en vingt ans.
+Maitriser sa consommation d’électricité́ , c’est possible : il suffit souvent de bien choisir ses
+équipements, de bien les utiliser et de bien les entretenir.
+En France, le prix du kWh électrique est de l’ordre de 15 centimes d’euros en 2019.
+Sources : guide pratique « réduire sa facture d’électricité » de l’ademe.fr et edf.fr
+Une famille profite de la foire de Paris pour acheter du nouveau petit électroménager.
+Dans les stands, ils repèrent un grille-pain, une machine à café et une bouilloire.
+La famille compte utiliser le grille-pain 5 minutes par jour tous les jours lors du petit-déjeuner.
+Les deux parents prennent chacun un café par jour.
+
+Consommations moyennes des appareils électriques d’une famille dans la cuisine.
+
+Données :
+- l’énergie thermique 𝐸 reçue par une masse m d’eau lors de la variation de sa température
+est proportionnelle à cette variation :
+𝐸 = 𝑚. 𝑐. (𝑇2 − 𝑇1 )
+avec m la masse d’eau en kg, c la capacité́ thermique massique de l’eau : c = 4185 J.kg–
+1.K–1 et T -T : l’élévation de température en °C ou en K ;
+2 1
+- 1 kWh = 3,6.106 J ;
+- masse volumique de l’eau : 𝜌 = 1,0 kg. L−1.
+Extrait des fiches techniques des appareils
+fiche technique
+du grille-pain
+Puissance* : 1500 W
+
+fiche technique de la bouilloire
+
+Puissance* : 2200 W
+Arrêt automatique
+Capacité : 1,6 L
+Prix : 29,99 euros
+Prix : 19,99 euros
+* puissance moyenne reçue par l’appareil en fonctionnement.
+
+fiche technique
+de la machine à café
+30 secondes pour faire un
+expresso
+Prix : 99 euros
+
+Partie 1 : consommation énergétique des appareils électroménagers
+1.1.
+
+1.2.
+
+En utilisant vos connaissances, choisir un ordre de grandeur pour la puissance de la
+machine à café parmi les trois propositions suivantes :
+a : 10 W ; b : 1 kW ; c : 100 kW.
+Nommer le phénomène physique commun mis en jeu pour griller les tartines dans le
+grille-pain ou pour chauffer l’eau de la machine à café ou de la bouilloire.
+
+1.3.
+
+Calculer la consommation supplémentaire d’énergie qu’apporterait l'usage de la
+machine à café et du grille-pain sur une année. En déduire la dépense engendrée en
+euros sur une année.
+
+Partie 2 : rendement de la bouilloire
+2.1.
+2.2.
+2.3.
+
+Pourquoi peut-on qualifier le grille-pain ou la bouilloire de convertisseurs d’énergies ?
+Définir le rendement d’un convertisseur. Expliquer sans calcul pourquoi le rendement
+de ces deux appareils électriques n’est pas de 100 %.
+La bouilloire contient un volume V = 0,60 L d’eau initialement à la température
+T1 = 20 °C et la chauffe à la température T2 = 90 °C en 1 min 30 s. Calculer le
+rendement énergétique de cette bouilloire. Établir un bilan énergétique relatif à la
+bouilloire sous la forme d’un schéma énergétique. Commenter.
+
+Partie 3 : modélisation d’une résistance chauffante au laboratoire
+La résistance chauffante d’une bouilloire peut être assimilée à un conducteur ohmique.
+Au laboratoire, on dispose d’un conducteur ohmique immergeable de résistance R que l’on
+place dans un calorimètre (récipient fermé et isolé thermiquement ; les échanges d’énergie
+thermique avec l‘extérieur sont ainsi très faibles). On réalise le montage représenté cidessous.
+
+La résistance est en série avec un générateur de tension, de force électromotrice E, ainsi
+qu’un rhéostat de résistance variable R’ = 33 Ω.
+Le calorimètre est rempli d’un volume V d’eau.
+Un voltmètre indique la valeur de la tension aux bornes de la résistance immergeable :
+U = 12,18 V.
+L’ampèremètre indique que la valeur de l’intensité dans le circuit est I = 2,26 A.
+On mesure également la valeur de la température de l’eau à l’aide d’un thermomètre
+électronique.
+
+Initialement la température de l’eau est T1 = 28,1 °C.
+On déclenche le chronomètre au moment où allume le générateur.
+Les résultats sont consignés dans le tableau ci-dessous.
+t (s)
+température T de 29,1
+29,8
+30,5
+31,8
+l’eau (en °C)
+Le schéma du montage est représenté ci-dessous :
+
+A
+
+32,5
+
+33,4
+
+34,3
+
+35,9
+
+Résistance
+immergeable
+
+R
+
+V
+
+3.1.
+3.2.
+
+35,0
+
+R’
+
+Calculer la valeur de la résistance R immergeable.
+Compléter le programme écrit en langage Python et proposé en annexe à rendre
+avec la copie aux lignes 2, 3 et 4 afin que celui-ci réalise le tracé de l’écart de
+température T-T1 en fonction du temps exprimé en secondes.
+
+Le graphe représentant T-T1 en fonction du temps est donné ci-après.
+
+3.3.
+
+On montre que :
+
+𝑅. 𝐼 2
+(𝑇 − 𝑇1 ) =
+.𝑡
+𝑚𝑐
+avec m la masse d’eau introduite, c la capacité thermique massique de l’eau. Déterminer la
+valeur du volume d’eau V introduit dans le calorimètre à l’aide du graphe. On prendra
+R = 5,4 Ω.
+
+Annexe à rendre avec la copie
+Question 3.2.
+Programme permettant de tracer T-T1 en fonction du temps.
+1 import matplotlib.pyplot as plt
+2 temps=
+#liste des valeurs de temps en secondes
+3 ecart_T=
+#liste des valeurs des écarts de températures en °C
+4 plt.plot(
+,
+,'ro',marker='+')
+5 #tracé de ecart_T en fonction du temps
+6 plt.grid(True) #affiche une grille sur le graphe
+7 plt.xlabel("t en s") #nom de l'abcisse
+8 plt.ylabel("ecart temperature en degres") #nom de l'ordonnée
+9 plt.title("ecart temperature en fonction du temps")
+10 plt.savefig('graphe2.png')
+11 plt.show()

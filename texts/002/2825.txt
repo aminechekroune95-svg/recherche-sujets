@@ -1,0 +1,310 @@
+{"pages": 9, "method": "pdftotext", "bytes": 784519, "at": "2026-11-23T09:25:00+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+La détection du tabagisme passif (10 points)
+La fumée de cigarette est l'un des polluants atmosphériques les plus répandus dans
+l'environnement intérieur. Allumer une cigarette initie une série de processus chimiques
+impliquant la transformation ou la formation de plus de 4 000 espèces chimiques : des
+goudrons, des gaz toxiques, des composés irritants, etc. Les formules de quelques espèces
+chimiques présentes dans la fumée de cigarette sont représentées ou citées ci-dessous.
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/149/?sequence=7
+
+Le tabagisme passif est défini comme l'inhalation involontaire de la fumée de tabac présente
+dans l'air. Dans cette partie on cherche à déterminer si une femme enceinte est victime d’un
+tabagisme passif.
+- Numéros atomiques : H (Z = 1) ; C (Z = 6) ; N (Z = 7)
+- Masse molaire de l’ion thiocyanate SCN− : 58 g·mol-1
+- Cercle chromatique :
+
+1. Après avoir recopié la formule semi-développée de chacune des quatre molécules
+représentées ci-dessus, identifier le groupe caractéristique présent et l’associer à une
+famille de composés.
+2. Justifier le nom donné à la propanone.
+3. Établir le schéma de Lewis de la molécule de cyanure d’hydrogène de formule HCN et
+proposer une géométrie pour cette molécule.
+Le cyanure d’hydrogène est absorbé par le corps, puis en partie dégradé en ions thiocyanate
+SCN− que l’on retrouve ensuite dans la salive ou dans l’urine. Dans la salive, par exemple, les
+concentrations en masse en ions thiocyanate sont en moyenne de 112 mg·L-1 chez les nonfumeurs et de 349 mg·L-1 chez les fumeurs. Les ions thiocyanate peuvent donc être
+considérés comme des marqueurs biologiques du tabagisme car leur concentration renseigne
+sur l’exposition d’une personne à la fumée du tabac.
+Principe du dosage
+Un échantillon noté S de 250 µL de salive d’une femme enceinte est prélevé. Les ions
+thiocyanate présents dans l’échantillon étant incolores et n’absorbant pas dans le proche
+ultraviolet, on les fait réagir avec une solution d’ions fer III, 𝐹𝑒 3+ (aq). On obtient 10,0 mL d’une
+solution S’ dans laquelle s’est formée l’espèce ionique de formule 𝐹𝑒(𝑆𝐶𝑁)2+ , soluble dans
+l’eau. La transformation chimique est modélisée par la réaction d’équation suivante :
+−
+3+
+𝑆𝐶𝑁(𝑎𝑞)
++ 𝐹𝑒(𝑎𝑞)
+→ 𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+La courbe ci-dessous représente l'absorbance d'une solution aqueuse contenant l’espèce
+ionique 𝐹𝑒(𝑆𝐶𝑁)2+ en fonction de la longueur d'onde.
+
+A
+0,78
+0,68
+0,58
+0,48
+0,38
+0,28
+
+λ/nm
+
+4. Expliquer pourquoi les ions thiocyanate ne peuvent pas être dosés directement par
+spectrophotométrie UV-visible. Indiquer l’intérêt de les faire réagir avec les ions 𝐹𝑒 3+
+Préparation de la gamme de solution étalon et tracé de la droite d’étalonnage
+On cherche à doser l’espèce chimique 𝐹𝑒(𝑆𝐶𝑁)2+ présente dans la solution S’.
+À partir d’une solution S0 de concentration C0 = 2,0×10−4 mol.L-1 en ions 𝐹𝑒(𝑆𝐶𝑁)2+ , on
+prépare la gamme d’étalonnage composée des solutions S0, S1, S2, S3 et S4 dont les
+concentrations sont données dans le tableau ci-dessous.
+Solution
+S0
+S1
+S2
+S3
+S4
+[Fe(SCN)2+]
+en mol·L-1
+
+2,0×10-4
+
+1,6×10-4
+
+1,0×10-4
+
+0,80×10-4
+
+0,40×10-4
+
+5. Indiquer la verrerie nécessaire pour préparer 50,0 mL de solution S2 à partir de la solution
+S0 en justifiant votre raisonnement.
+On mesure l’absorbance de chacune des solutions et on trace le graphique ci-dessous
+donnant l’évolution de l’absorbance en fonction de la concentration en ions Fe(SCN)2+.
+
+6. Après avoir rappelé l’expression de la loi de Beer-Lambert en indiquant les unités des
+grandeurs, déterminer si les résultats expérimentaux obtenus sont en accord avec cette
+loi.
+Détermination de la concentration en ions thiocyanate dans la salive
+Dans la solution S’ tous les ions thiocyanate contenus dans la salive de la femme enceinte ont
+réagi avec les ions Fe3+ présents en large excès. L'absorbance de la solution S’ a pour valeur
+A = 0,65.
+7. Déterminer la concentration en quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ dans la solution S’.
+En déduire leur quantité de matière dans la solution de volume V = 10,0 mL.
+8. Recopier et compléter le tableau d’avancement ci-dessous. En déduire la relation entre la
+quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ à la fin de la transformation et la quantité de
+matière en ions 𝑆𝐶𝑁 − initialement présente dans la solution.
+−
+𝑆𝐶𝑁(𝑎𝑞)
+
++
+
+3+
+𝐹𝑒(𝑎𝑞)
+
+État du système
+
+Avancement
+(en mol)
+
+État initial
+
+x=0
+
+excès
+
+État final
+
+xmax
+
+excès
+
+n (𝑆𝐶𝑁 − )
+
+n (𝐹𝑒 3+ )
+
+→
+
+𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+n (𝐹𝑒(𝑆𝐶𝑁)2+ )
+
+9. Déterminer la valeur de la concentration en masse des ions thiocyanate SCN− dans
+l’échantillon de salive de la femme enceinte et conclure sur le potentiel tabagisme passif
+de cette femme.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie, même si elle
+n’a pas abouti.
+PARTIE B
+La photographie (10 points)
+Le monde de la photographie évolue sans cesse. Après les appareils argentiques, utilisant des
+pellicules au format 24  36 mm, les appareils numériques ont fait leur apparition. Les
+dimensions du capteur utilisé dans ces appareils dépendent de la gamme de l’appareil.
+Pour des appareils compacts, le format du capteur n’excède pas 6  8 mm. Pour les appareils
+dits « réflex », il peut aller jusqu’à 24  36 mm.
+
+Principe de l’appareil réflex et modélisation de l’objectif
+L’objectif de l’appareil, composé de
+plusieurs lentilles, est caractérisé par
+sa distance focale. Un miroir pivotant
+situé dans le boitier de l’appareil
+permet au photographe d’observer
+dans le viseur le sujet qu’il
+photographie. Le miroir pivotant se lève
+au moment de prendre le cliché : la
+lumière, après avoir traversé l’objectif,
+arrive alors directement sur le capteur.
+
+V
+i
+s
+e
+u
+r
+
+Trajet de
+la lumière
+
+CCD
+Objectif
+
+Boîtier
+
+Pour simplifier, l’objectif peut être modélisé par une lentille mince convergente unique, dont la
+distance focale est égale à celle de l’objectif. Les distances sont donc exprimées par rapport
+au centre optique de cette lentille.
+Quelques standards de capteurs pour appareils photographiques réflex
+Standard
+Système micro 4/3
+APS-C
+Plein format
+- relation de conjugaison :
+-
+
+Diagonale
+21,6 mm
+24,8 mm
+43,3 mm
+
+Dimensions
+13  17,3 mm
+15,8  23,6 mm
+24  36 mm
+
+= ̅̅̅̅̅
++ ̅̅̅̅̅
+;
+OA'
+OA
+OF'
+
+A'B'
+
+OA'
+
+grandissement :
+ = AB
+̅̅̅̅̅ où O est le centre optique de la lentille, OF’ (ou f’) la
+̅̅̅̅ = OA
+distance focale de la lentille, AB l’objet et A’B’ l’image de cet objet obtenu avec la
+lentille mince.
+
+1. Gros plan sur un martin pêcheur.
+Un photographe dit avoir pris la photographie ci-contre,
+en milieu naturel, avec un objectif dont la distance
+focale peut varier de 28 mm à 100 mm. Il ne précise
+pas la distance focale utilisée pour cette image.
+L’oiseau était situé à 45 cm du centre optique de
+l’objectif et le capteur à 63 mm de ce centre optique.
+La taille d’un martin pêcheur adulte est de l’ordre de
+16 cm.
+
+source ixabay.com/fr
+
+1.1. Distance focale de l’objectif.
+
+1.1.1. Réaliser sur l’annexe à rendre avec la copie une construction graphique, à
+l’échelle ¼, pour déterminer la valeur de la distance focale de l’objectif lors de la
+prise de cette photo.
+1.1.2. Retrouver cette valeur par un calcul.
+1.2. Format du capteur.
+1.2.1. Calculer le grandissement , puis la taille de l’image sur le capteur. Commenter
+les résultats obtenus et vérifier leur cohérence avec le schéma réalisé.
+1.2.2.Quel(s) type(s) de capteur(s) le photographe a-t-il pu utiliser ? Justifier.
+1.3. Exercer un regard critique sur les valeurs des distances précisées par le photographe
+dans cette situation.
+2. Restitution des couleurs.
+L’écran d’un appareil photographique numérique permet d’observer la photographie obtenue.
+Les pixels de l’écran sont de trois types selon qu’ils émettent une lumière rouge (R), une
+lumière verte (V) ou une lumière bleue (B).
+2.1. La couleur du plumage du ventre de l’oiseau ci-dessus peut être assimilée à du rouge.
+2.1.1. Comment qualifie-t-on la lumière qui éclaire l’oiseau en milieu naturel ?
+2.1.2. En utilisant le vocabulaire scientifique adapté, formuler une hypothèse expliquant
+pourquoi le plumage du ventre de l’oiseau apparaît rouge.
+2.2. Restitution des couleurs sur l’écran.
+2.2.1. Comment nomme-t-on la synthèse des couleurs en jeu dans la restitution des
+couleurs sur l’écran de l’appareil photographique ?
+2.2.2. Quel(s) est(sont) le(s) pixel(s) activé(s) dans la zone de l’image correspondant :
+- au plumage des ailes, de couleur cyan ;
+- à la pointe du bec qui est noire ;
+- à la zone du cou qui est blanche.
+3. Règle des tiers.
+La photo ci-dessous a été prise avec un appareil muni d’un objectif de distance focale f’ égale
+à 50 mm. Elle respecte la règle des tiers, règle académique permettant de réussir nombre de
+cadrages. Cette règle consiste à placer les éléments forts de l’image sur les lignes
+horizontales et verticales placées au tiers de l’image, et aux points d’intersection entre ces
+lignes.
+
+source pixabay.com/fr
+
+ Extrait des caractéristiques de l’appareil réflex numérique utilisé :
+Type
+Type
+Monture
+d’objectif
+Angle de
+champ
+Pixels effectifs
+Pixels effectifs
+d’image
+d’image
+Nombre total
+de pixels
+
+Appareil photo numérique de type réflex
+Monture à baïonnette avec couplage AF et
+contacts AF
+Équivalent à l’angle de la focale de l’objectif (1,5
+fois lorsque le format DX est sélectionné)
+12,1 millions
+Capteur CMOS ; 23,9 x 36 mm
+12,87 millions
+
+ Largeur de la main de l’adulte entre l’index et l’annulaire : 8,5 cm
+3.1. À quel standard de capteur appartient le capteur de l’appareil utilisé ?
+3.2. Déterminer à quelle distance des mains l’objectif doit être placé pour que l’image
+obtenue respecte la règle des tiers, c’est-à-dire pour que l’image de la main de l’adulte
+soit située entre les deux lignes des horizontales dites « des tiers ».
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une
+démarche de résolution, ainsi que sur la qualité de sa rédaction.
+Toutes les prises d’initiative et toutes les tentatives de résolution, même partielles,
+seront valorisées.
+
+Annexe à rendre avec la copie
+
+Gros plan sur le martin pêcheur
+
+O
+
+Question 1.1.1.

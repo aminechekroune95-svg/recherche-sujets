@@ -1,0 +1,230 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1477871, "at": "2026-11-23T09:26:51+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1  E3C2 ☐ E3C3
+VOIE :  Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L'INGENIEUR
+DURÉE DE L’ÉPREUVE : 2 heures
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages :10
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+- l'usage de calculatrice avec mode examen actif est autorisé ;
+- l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-31-4
+
+Constitution du sujet
+ Présentation du distributeur de savon ....................... Pages 3 à 4
+ Étude d'une performance du produit .......................... Pages 5 à 7
+ Modification du comportement du produit ................ Pages 8 à 9
+ Document réponse ....................................................... Page 10
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre,
+équilibrés en durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les
+connaissances associées pour qualifier et/ou quantifier cette
+performance, à partir de l'analyse, de la modélisation de tout ou partie
+du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du
+produit ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies
+au candidat qu'il devra exploiter, compléter ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par
+les textes en vigueur.
+
+PRÉSENTATION DU DISTRIBUTEUR DE SAVON
+Dans un souci de santé publique, on veut limiter la transmission des bactéries
+lors du lavage des mains. Le problème vient du fait qu'avec les distributeurs
+de savon manuels, le contact des mains favorise la transmission des
+bactéries.
+Le système étudié permet la distribution sans contact d'une dose suffisante de
+savon liquide pour un usage domestique
+Ce distributeur est un nouveau modèle plus compact pour le fabricant. Le
+cahier des charges spécifie qu'il doit utiliser les mêmes recharges que ceux du
+modèle précédent.
+
+Exercice 1 - ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+le moteur est-il en capacité de délivrer une dose de savon en 2,5 s ?
+L'étude sera menée dans un plan (𝑥⃗ ,𝑦⃗) figure 1.
+Les liaisons sont supposées parfaites, le poids des pièces est négligé.
+Pour refouler la dose de savon, le piston doit exercer une force de 20 N.
+On isole d'abord le coulisse/piston à l'équilibre, il est soumis à :
+
+Question I-1 - Le système coulisse/piston étant en équilibre, établir la relation entre les
+Figure 1
+normes de ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Fr/e et de ⃗⃗⃗⃗⃗⃗
+Fs . En déduire la valeur de Fr/e .
+On isole maintenant la roue/excentrique à l'équilibre, elle est soumise à :
+
+L'équation du moment du « principe fondamental de la statique » donne la relation :
+
+OA x Fc/p x sin - Cr = 0
+
+figure 3 : déplacement du piston durant la phase de refoulement
+d'une dose
+
+Question I-2 - Calculer les différentes valeur du couple Cr pour les valeurs suivantes de
+Figure 2
+l'angle  ( = 0° ; 90° et 180°), c'est-à-dire durant la phase de refoulement.
+- En déduire la valeur maxi du couple Cr.
+
+Question I-3 - Donner l'expression littérale du couple moteur Cmot en fonction de Cr, η et r.
+Figure 4
+
+- Calculer la valeur maximale du couple moteur Cmot ( Nmm )
+
+On utilise pour la suite la simulation d'une modélisation multiphysique du moteur
+électrique du distributeur qui nous permet de déterminer des caractéristiques en
+fonction du couple moteur Cmot.
+
+Paramètres internes du moteur :
+tension U= 3V
+résistance interne R = 4,5 
+inductance L = 30mH
+constante de couple k = 0,002817 N.m.A-1
+moment d'inertie du rotor J = 0,19.10-6 kg/m2
+constante de viscosité d = 11.10-7 N.m.s/rad
+
+Les résultats de la simulation sont les suivants :
+Caractéristiques déterminées :
+Pa : puissance électrique
+absorbée
+Pu : puissance mécanique utile
+η : rendement du moteur
+Im : courant absorbé
+Nm : vitesse du moteur
+
+figure 5 : Modélisation multiphysique du moteur électrique
+Question I-4
+
+On prendra 0,75 N mm comme valeur de Cm.
+- Rechercher dans le tableau figure 5 les valeurs de Pu, η et Nm pour la
+valeur du couple Cm.
+- Conclure quant aux valeurs de la puissance et du rendement.
+
+Le temps du fabricant pour refouler une dose de savon est 2,5 s
+On choisit une vitesse du moteur de 3 517 tr/min
+Question I-5
+Figure 4
+
+- Calculer la vitesse Nr ( tr/min ) de la roue/excentrique, sachant que le
+rapport de réduction r est de 198.
+
+Sachant que pour une dose de savon, la roue/excentrique fait 1 tour
+Question I-6
+
+- Déterminer en fonction de la valeur de Nr trouvée précédemment, la
+durée (en secondes) pour refouler une dose de savon
+- Conclure quant à la valeur annoncée par le fabricant.
+
+Exercice 2 – MODIFICATION DU COMPORTEMENT DU PRODUIT
+Dans une démarche d’économie de savon et de protection de l’environnement, le
+fabriquant souhaite d’une part éviter de distribuer une dose de savon si l’utilisateur a
+retiré sa main et d’autre part utiliser des batteries rechargeables.
+Le fonctionnement du distributeur est décrit par l’algorigramme suivant (figure 7)
+
+Figure 7 : Algorigramme de fonctionnement du distributeur de savon
+Question II-1
+Figure 7
+DR1
+
+Compléter, à l’aide de l’algorigramme (figure 7), la description du
+fonctionnement en notation algorithmique sur le document réponse
+(DR1).
+
+On souhaite vérifier que l’utilisateur n’a pas retiré sa main avant de distribuer la dose de savon.
+Pour cela, on introduit un temps d’attente de 2 secondes au bout duquel la dose de savon ne
+sera émise que si la main de l’utilisateur est toujours présente.
+Question II-2
+DR1
+
+Question II-3
+
+Compléter l’algorigramme décrivant ce fonctionnement sur le
+document réponse (DR1).
+Proposer, sur votre copie, la description de ce fonctionnement en
+notation algorithmique.
+
+Le fabricant désire un nombre minimum de 8000 refoulements de savon et pour des
+raisons écologiques, il remplace les piles non rechargeables de type alcalines par
+des micro batteries rechargeables par USB
+Le cahier des charges précise :
+Le temps de refoulement d’une dose de savon est de 2,5 s
+La tension d’alimentation du moteur est de 3V
+Le couple moteur moyen (Cm) sur un cycle est estimé à 0,68 mN.m
+La constante de couple k = 0,002817 N.m.A-1
+La partie commande consomme environ 25 mA.
+Dimensions
+
+L 50mm
+
+Ø 14,2mm
+
+Tension
+
+1,5V
+
+Capacité
+
+1500 mAh
+
+type
+
+LITHIUM Li-ion
+
+Figure 8 : Paramètres d’une micro batterie rechargeable par USB
+On rappelle que la relation entre le couple et le courant moteur est : Cm = k ∙ Im
+Question II-4
+
+Calculer le courant total consommé par le distributeur pour un
+refoulement de savon
+Calculer alors la quantité d’électricité (Qtotal) en mAh
+
+Les piles câblées en série permettent d’alimenter le moteur et la carte électronique.
+Question II-5
+Figure 8
+
+Question II-6
+
+Donner la capacité totale (Qbat) et la tension aux bornes des deux
+piles (Ubat).
+
+Calculer le nombre total de refoulements de savon avant que les 2
+piles ne se déchargent.
+Conclure sur la faisabilité de remplacer les piles alcalines non
+rechargeables par des micro batteries rechargeables par USB
+
+DOCUMENT RÉPONSE
+DR1 :
+Question II-1
+
+Question II-2

@@ -1,0 +1,328 @@
+{"pages": 15, "method": "pdftotext", "bytes": 2466724, "at": "2026-11-23T09:26:32+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 15
+
+PRÉSENTATION DU PRODUIT ÉTUDIÉ
+Tous les motards connaissent ce problème : sur la route, il
+faut incliner la moto pour tourner et non pas tourner le
+guidon comme sur un vélo.
+Conséquence, en pleine nuit, le phare qui est fixé sur le
+guidon éclaire droit devant et non dans le virage où doit se
+porter le regard du pilote.
+La société GiroNac a développé un phare accessoire (kit iZ-Night) qui s'installe en
+complément du phare d'origine sur la moto. Il peut suivre les yeux du pilote pour bien
+éclairer la sortie du virage, grâce à une matrice comprenant plusieurs LED. Il est, en
+fait, asservi à un capteur situé derrière le casque et qui capte les mouvements de la
+tête. Sous la selle se trouve en plus un autre capteur qui analyse la trajectoire de la
+moto.
+
+Diagramme des missions
+
+Diagramme cas d’utilisation
+
+Diagramme de définition des blocs
+
+Figure de référence pour l'orientation des axes, valable dans tout le sujet.
+Le roulis correspond à l’angle d’inclinaison de la moto autour de son axe longitudinal
+(𝑋⃗).
+Le tangage correspond à l’angle de plongée (freinage) ou de cabrage (accélération)
+⃗⃗ .
+de la moto autour de l’axe 𝑌
+Le lacet donne l’orientation de l’axe longitudinal de la moto dans le plan de route
+(rotation autour de 𝑍⃗).
+Problématique générale :
+Le produit doit permettre au pilote de moto d’améliorer sa vision nocturne, par une
+assistance sur la zone d’éclairage, par un suivi du regard du pilote et de la trajectoire
+de la moto, tout en respectant les normes routières et sans gêner les autres usagers
+de la route.
+Ainsi, pour un virage court à basse vitesse, l'éclairage est large et proche, car le
+motard a besoin de voir dans cette zone pour cette manœuvre, alors qu'un virage
+avec la même inclinaison, mais à haute vitesse, produit un faisceau qui éclaire au
+loin. La combinaison de toutes les LEDs permet d'éclairer la bonne zone, en fonction
+de la trajectoire et du regard du pilote.
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT ÉTUDIÉ
+La combinaison de l’éclairage des LEDs avec le phare principal varie en fonction du
+besoin en éclairage (zone large et proche ou zone étroite et éloignée).
+Problématique : comment se comporte la zone
+d’éclairement en fonction de la trajectoire, de la
+moto et du regard du motard (problème réel de
+risque de mauvaise visibilité dans certains cas) ?
+
+Angle 100°
+
+Angle 75°
+
+Angle 45°
+
+Angle 30°
+
+La première partie de l’étude porte sur l’intérêt du kit
+iZ-Night en ligne droite.
+La sécurité routière met en évidence que la capacité
+visuelle du conducteur (d’environ 120° à l’arrêt)
+diminue quand la vitesse augmente.
+Remarque : plus la vitesse est élevée, plus le champ
+visuel se rétréci. (Figure 1). À très grande vitesse, le
+champ visuel est réduit à la zone centrale. Le risque
+est de ne pas repérer un piéton ou un autre véhicule
+arrivant sur le côté.
+
+Question I.1
+DR 1
+
+Figure 1
+
+En vous aidant de la figure 1, représenter sous forme graphique
+sur le document réponse DR1 l’évolution de l’angle du champ
+visuel en fonction de la vitesse. D’après la courbe obtenue, en
+déduire, dans ce contexte, l’intérêt ou non du kit iZ-Night en ligne
+droite.
+
+La seconde partie porte sur
+l’étude de l’intérêt du kit iZNight.
+Le motard est dans un virage à
+rayon de courbure constant
+(figure 2), avec l’hypothèse que
+sa vitesse est modérée, et donc
+que sa capacité visuelle n’est
+pas altérée.
+L’axe de la moto, tangent à la
+trajectoire, représente l’axe de
+
+Virage
+à droite
+Figure 2
+
+référence pour la représentation des angles. On considère que les sources
+lumineuses ont la même origine et le même axe de référence.
+
+Question I.2
+DR2
+
+Représenter sur le document réponse DR2 l’angle
+d’éclairage d’un phare classique ainsi que l’angle
+d’éclairage du module droit du phare d’iZ-Night.
+(rappel : du cahier des charges : angle lacet 0 à 45°)
+Méthode de représentation conseillée :
+- à partir de la figure 3, dessin de l’angle d’éclairage
+d’un phare classique (représenter cette zone
+d’éclairement en bleu) ;
+- dessin de l’angle d’éclairage du module droit du
+phare
+iZ-Night
+(représenter
+cette
+zone
+d’éclairement en vert).
+Figure 3
+
+Question I.3
+
+En déduire, dans ce contexte, l’intérêt ou non du kit iZ-Night dans un
+virage.
+
+Des modèles d’éclairement ont été faits par le bureau d’études en charge de la
+conception du phare d’iZ-Night (figure 4) sur une route en ligne droite, de nuit, à
+l’arrêt, et sans éclairage public.
+
+Phare principal
+(1650 lumens)
+Phare latéral
+droit iZ-Night
+(7500 lumens)
+Figure 4
+Rappel : l’éclairement se mesure en Lux (lx) et
+représente la quantité de lumière reçue (Lumen)
+sur un plan utile de 1m2 (figure 5).
+Figure 5
+
+Afin de mesurer l’utilité du phare iZ-Night dans le cas d’un danger latéral, le
+concepteur a réalisé 3 scenarii, sur une route droite, sans autre source lumineuse,
+avec comme seul paramètre changeant la source lumineuse de la moto :
+
+scénario 1 : le phare principal uniquement ;
+
+scénario 2 : le phare latéral droit iZ-Night uniquement ;
+
+scénario 3 : les deux phares (principal et latéral droit).
+
+Les modèles isolux (figure 6) indiquent la répartition du niveau d’éclairement sur une
+surface visible. Les courbes (lignes isolux) relient les points ayant le même niveau
+d’éclairement.
+La simulation donne les courbes isolux suivantes :
+
+Figure 6
+Question I.4
+
+Indiquer pour chaque modèle le scénario étudié.
+
+Question I.5
+
+Conclure sur l’utilité du kit iZ-Night au regard des modèles
+d’éclairement.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT ÉTUDIÉ
+La mesure de l’angle d’orientation en roulis de la moto est basée sur un kit
+MPU6050. Dans ce kit deux capteurs sont utilisables, pour la mesure de l’angle :
+capteur gyroscopique et accéléromètre. Dans ses premiers tests, le bureau d’études
+constate un problème de stabilité de traitement de l’information pour piloter de
+manière optimale la matrice de LEDs.
+Problématique : Pourquoi le concepteur a fait le choix d’un algorithme de
+commande combinant à la fois valeurs d’angle (°) déduites du capteur
+gyroscopique (° ∙ 𝒔−𝟏) et de l’accéléromètre (𝒎 ∙ 𝒔−𝟐 ) ?
+Schéma de description fonctionnelle de la mesure d’inclinaison en roulis de la moto :
+Valeur numérique image
+de l’angle de roulis
+
+Tension en
+sortie du kit
+Angle de
+roulis
+
+Acquérir la
+position
+angulaire de
+la moto
+
+Numériser la
+tension du kit
+
+MPU6050
+Centrale inertielle du module principal
+
+Traiter
+l'information
+numérique
+
+Commande
+de la
+matrice à
+LED
+
+Figure 7
+
+La courbe suivante donne un extrait de relevé, au niveau de la carte de contrôle du
+traitement de l’information, de la valeur numérique de l’image de l’angle : position
+angulaire sur l’axe de roulis de la moto en fonction du temps. Cet extrait est considéré
+comme représentatif des conditions normales de roulage (ligne droite, virage droite et/ou
+gauche avec un roulis extrême) et a été réalisé sur circuit.
+
+Figure 8
+
+Rappel : le repère d’orientation est celui donné par la figure de la partie présentation
+intitulée « Figure de référence pour l'orientation des axes, valable dans tout le
+sujet. »
+Question II.1 En fonction du repère, indiquer la nature du ou des virages et les
+angles de roulis extremum de la figure 8 et comparer par rapport
+au cahier des charges (angle roulis ± 45°) sur la mesure de
+l’inclinaison en roulis de la moto.
+
+Le kit MPU6050 mesure un angle sur 360°, la tension, image de cet angle, en sortie
+du capteur évolue entre 0 et 5V. Cette tension est ensuite numérisée en un mot
+numérique codé sur un octet. La résolution souhaitée doit être inférieure à 2.5°.
+Question II.2 Donner la résolution de mesure induite par la numérisation. Au
+regard de ces deux questions, conclure sur la capacité du
+système à bien suivre les mouvements de la moto.
+Mesures angulaires avec le capteur gyroscopique seul.
+Le concepteur souhaite améliorer la précision des valeurs numériques, en lisant et
+traitant directement les données brutes du capteur gyroscopique uniquement. Voici
+un relevé de mesures brutes du gyroscope, avant traitement, en position verticale et
+fixe.
+
+Figure 9
+
+Question II.3 Analyser ces valeurs brutes figure 9, sachant que l’on est en
+position verticale et fixe de la moto. Proposer un protocole de
+correction pour pallier ce problème.
+
+En phase d’initialisation (démarrage de la moto) le concepteur souhaite réaliser
+automatiquement un calibrage de l’offset en rotation du gyroscope suivant l’axe 𝑋⃗ de
+roulis, en prenant un lot de 2000 mesures et en calculant la valeur moyenne afin
+d’appliquer l’offset moyen pour calibrer l’axe de roulis.
+Question II.4
+
+Compléter l’algorithme sur le document réponse DR3.
+
+DR3
+Après avoir calibré le gyroscope et laissé le système au repos on constate que la
+courbe des valeurs mesurées s’éloigne de plus en plus de leur valeur réelle. Le
+phénomène physique, de dérive en fonction du temps propre au gyroscope, ne
+permet pas d’avoir un traitement et une valeur de l’angle fiable dans le temps.
+Mesures angulaires avec l’accéléromètre seul.
+Un accéléromètre mesure des accélérations, l’inclinaison de l’accéléromètre est
+déduite en mesurant l’angle entre deux vecteurs accélérations suivant ⃗𝑌⃗ et 𝑍⃗.
+
+angle de roulis mesuré, à l’arrêt en penchant la moto de droite à gauche ;
+
+Figure 10
+
+angle de roulis mesuré, moteur en marche en penchant la moto de droite à gauche.
+
+Figure 11
+Question II.5 Commenter la figure 11 et conclure quant à l’utilisation de
+l’accéléromètre seul pour mesurer l’inclinaison de la moto.
+Compenser la dérive du gyroscope et l’instabilité de l’accéléromètre.
+Afin de compenser la dérive du gyroscope, il a été décidé de prendre en compte les
+deux capteurs et d’appliquer un algorithme qui prend 80% de la mesure gyroscope et
+20% de la mesure de l'accéléromètre.
+Variables utilisées :
+ « angle_roulis_gyro » donne l’angle de roulis autour de l’axe 𝑋⃗, mesuré par le
+gyroscope ;
+ « angle_roulis_acc » donne l’angle de roulis autour de l’axe 𝑋⃗, mesuré par
+l’accéléromètre ;
+ « angle_roulis » donne l’angle de roulis autour de l’axe 𝑋⃗, calculé par
+compensation.
+Question II.6
+DR4
+
+Compléter l’algorithme du document réponse DR4. Conclure en
+donnant les avantages et inconvénients des deux instruments
+séparés et l’avantage du couplage des mesures.
+
+DOCUMENTS RÉPONSES
+DR1 :
+
+DR2 :
+
+DR3 :
+
+DR4 :

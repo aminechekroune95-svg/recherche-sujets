@@ -1,0 +1,240 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1459547, "at": "2026-11-23T09:25:38+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Traduire le comportement attendu ou observé d’un objet par un diagramme d'états-transitions
+Modéliser sous une forme graphique une structure, un mécanisme, un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+SUJET SI-E3C-25-02
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 7 à 8
+
+Documents réponses ........................................................................ Pages 9 à 11
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation du Produit
+Stéphane Rachmulh et Antoine d'Acremont, deux entrepreneurs français férus de
+bicyclette, ont trouvé la solution pour transformer n'importe quel vélo en vélo à
+assistance électrique (VAE). Leur concept : Rool'in.
+Le Rool’in est une roue électrique amovible que vous pouvez installer sur votre
+vélo. Elle remplace la roue avant de votre bicyclette.
+
+Le système Rool’in se compose d’une roue avant dont le moyeu contient un moteur
+électrique, des batteries et un capteur de vitesse, d’un détecteur de pédalage, d’un
+détecteur de freinage et d’une console électronique. Dès qu’un mouvement de
+pédalage est détecté, la console électronique transmet, par WiFi, l’ordre au moteur
+électrique de se mettre à tourner.
+Le moteur fournit ainsi une assistance électrique tant que la vitesse, surveillée par le
+capteur intégré dans la roue, ne dépasse pas 25 kmh-1, la limite légale autorisée en
+Europe.
+
+Étude d'une performance du produit
+Problématique : la batterie du Rool’in permet-elle de satisfaire les attentes des
+usagers en matière d’autonomie ?
+La roue Rool’in, comme tous les vélos à assistance électrique, fait l’objet d’une
+certification afin d’être classée dans la catégorie cycle et non cyclomoteur (catégorie
+nécessitant le port d’un casque et la prise d’une assurance particulière).
+Cette certification impose trois contraintes :
+ arrêt du moteur dès que le cycliste arrête de pédaler ou freine,
+ arrêt du moteur lorsque la vitesse atteint ou dépasse 25 kmh-1,
+ puissance de la motorisation inférieure ou égale à 250 W.
+De façon à pouvoir comparer les performances de différents vélos à assistance
+électrique, les essais sont réalisés sur circuits standardisés représentatifs de
+différentes configurations d’utilisation des vélos.
+Le circuit utilisé pour réaliser les essais ci-dessous est le suivant :
+ sol en revêtement bitume,
+ sol sec,
+ pas de pente,
+ pas de vent.
+Les graphiques ci-dessous montrent l’évolution de la vitesse du V.A.E et du courant
+moteur au cours du temps lors d’un cycle sur le circuit décrit ci-dessus. La durée du
+cycle est 90 secondes. Le cycle commence à la date t=10 s. Le niveau d’assistance
+demandé est maximal.
+Courant (A) en fonction du temps (s)
+
+TEMPS (S)
+
+Figure 1-1 : évolution du courant moteur en fonction du temps
+
+Vitesse (km/h) en fonction du temps (s)
+
+TEMPS (S)
+
+Figure 1-2 : évolution de la vitesse du VAE en fonction du
+temps
+
+A partir du graphique de la vitesse du vélo au cours du temps,
+lors d’un cycle, compléter, sur le document réponse DR1 QI-1, le tableau par
+des croix pour indiquer le type de mouvement et l’état de l’assistance. Calculer
+la distance parcourue par le vélo.
+La batterie du Rool’in est composée d’accumulateurs Lithium-ion. La capacité de la
+batterie est de 17 Ah et la tension à ses bornes est de 30 V.
+Rappel : Energie (Wh) = Capacité (Ah) x Tension (V)
+Calculer la quantité d’énergie stockée dans la batterie. Pour
+éviter une décharge profonde de la batterie, on limitera le taux de décharge à
+80%. Calculer l’énergie exploitable dans la batterie.
+Le constructeur indique que l’autonomie de la roue est comprise entre 40 et 60 km
+en fonction du niveau d’assistance choisie.
+A partir du graphique du courant en fonction du temps et sachant
+que la tension aux bornes de la batterie est de 30 V, calculer l’énergie
+nécessaire à la réalisation de ce cycle ainsi que l’autonomie du vélo en
+heure, puis en kilomètres s’il ne parcourt que des cycles identiques à celui
+présenté. Comparer vos résultats avec les performances attendues.
+En 2017, la start-up Rool’in a commercialisé une roue électrique
+motorisée équipée de cellules photovoltaïques pour étendre son
+autonomie. Se rechargeant automatiquement aussi bien à l’arrêt qu’en
+mouvement, ses créateurs assurent pouvoir vous faire gagner jusqu’à
+20 km d’autonomie quotidienne en fonction de l’exposition.
+Pour mettre en évidence les transferts d’énergie et d’information entre les
+constituants du la roue Rool’in, un diagramme de flux a été tracé sur le DR1 QI-4.
+
+Sur DR1 QI-4, associer les noms des composants aux numéros
+correspondants sur le tableau proposé. Compléter les cases vides sous les liens
+de puissance avec la nature de ce lien avec les mentions suivantes :
+Mécanique (M) ou Electrique (E).
+Le diagramme ci-dessous représente les caractéristiques courant-tension d’une des
+24 cellules utilisées sur la roue Rool’in :
+
+Figure 1-3 : Caractéristique courant/tension d’une cellule
+
+A partir du diagramme ci-dessous, relever le courant I et la tension
+U au point de puissance maximum. Sachant que la roue dispose, sur chaque
+face de 12 cellules photovoltaïques, comment doit-on les brancher (série ou
+parallèle) pour que chaque face puisse générer une différence de potentiel
+environ égale à 6 V ?
+L’énergie supplémentaire stockée issue des cellules photovoltaïques à Copenhague
+est 140 Wh ce qui garantit une autonomie kilométrique de 20 km supplémentaires
+pour la période de mars à octobre. Vous considérerez qu’une seule face est exposée
+au soleil et toutes les cellules fournissent un courant IMPP lu sur la caractéristique
+courant-tension.
+Calculer le temps d’exposition solaire en heure permettant
+d’atteindre 140 Wh. Conclure sur l’intérêt des panneaux pour augmenter
+l’autonomie.
+
+Commande du fonctionnement du produit ou
+modification de son comportement
+Problématique : comment sont calculées les grandeurs affichées sur la console
+Rool’in ?
+Question II-1
+A partir de la présentation du produit et du diagramme de
+séquence du document réponse DR2, associer, dans le tableau sur le
+document DR2 QII-1, à chaque message son numéro présent dans le
+diagramme de séquence.
+Question II-2
+Faire correspondre les repères a, b, c, d avec les transitions
+proposées du diagramme d’étape-transition de fonctionnement du V.A.E
+Rool’in sur le document réponse DR2 QII-2.
+La roue avant motorisée est équipée de 16 aimants sur la partie tournante, et d’un
+capteur à effet Hall (Capt_H) sur la partie fixe. Le passage d’un aimant devant le
+capteur déclenche en sortie une impulsion à l’état haut (figure 2-1). On donne le
+diamètre de la roue : Dr =0,7 m.
+
+Figure 2-1 : Chronogramme de Capt_H
+
+Question II-3
+Expliquer d’après la figure 2-1, pourquoi la vitesse du vélo par
+rapport au sol est bien constante au cours de 5 périodes représentées.
+Question II-4
+Calculer la distance parcourue par le vélo sur ces 5 périodes. En
+déduire la distance Dimp en m/impulsion (une impulsion équivaut à une
+période).
+On définit la valeur moyenne de la vitesse, en kmh-1, du vélo par rapport au sol sur
+le trajet en cours :
+
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑝𝑎𝑟𝑐𝑜𝑢𝑟𝑢𝑒 𝑒𝑛 𝑚è𝑡𝑟𝑒(𝐷𝑡)
+
+Vmoy = 𝑡𝑒𝑚𝑝𝑠 𝑑𝑒 𝑝𝑎𝑟𝑐𝑜𝑢𝑟𝑠 𝑒𝑛 𝑠𝑒𝑐𝑜𝑛𝑑𝑒( 𝑡𝑝𝑠) ∙3,6
+La vitesse instantanée Vinst est définie comme la vitesse évaluée au cours de la
+dernière seconde en kmh-1 :
+Vinst =
+
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑝𝑎𝑟𝑐𝑜𝑢𝑟𝑢𝑒 𝑒𝑛 𝑚è𝑡𝑟𝑒 𝑎𝑢 𝑐𝑜𝑢𝑟𝑠 𝑑𝑒 𝑙𝑎 𝑑𝑒𝑟𝑛𝑖è𝑟𝑒 𝑠𝑒𝑐𝑜𝑛𝑑𝑒 (D1s)
+1𝑠
+
+∗ 3,6
+
+On appellera Dt_km, la valeur de Dt exprimée en km.
+Les termes entre parenthèses correspondent à leur expression symbolique à utiliser
+par la suite.
+Le programme en charge du calcul et de l’affichage des grandeurs Dt_km, Vmoy et Vinst
+est composé de deux tâches logicielles distinctes :
+un sous-programme d’interruption qui se déclenche à chaque front
+montant de Capt_H, gère l’incrémentation d’un compteur N ;
+une tâche de fond, qui se déclenche toutes les secondes qui réalise le
+calcul et l’affichage des grandeurs précisées. On appellera N0, la valeur N lors
+du précédent appel de la tâche de fond, une remise à jour de N0 par N sera
+effectuée. En début de trajet, N et N0 sont initialisées à 0 (tâche non traitée
+ici).
+
+Question II-5
+Compléter, dans les cases repérées en trait fort sur le document
+réponse DR2 QII-5, le sous-programme d’interruption et la tâche de fond en
+fonction des indications précédentes.
+On cherche à estimer l’autonomie kilométrique Akm(tps) à l’instant tps dont dispose
+l’utilisateur au cours de son trajet. On appelle E0 l’énergie initiale exploitable dans les
+batteries exprimée en Joule, E(tps) l’énergie restante dans les batteries à l’instant
+tps. L’équation de la décharge de la batterie est : 𝐸(𝑡𝑝𝑠) = 𝐸0 − 𝑈 ∙ 𝐼𝑚𝑜𝑦 ∙ 𝑡𝑝𝑠
+avec U = tension nominale des batteries supposée constante et Imoy valeur moyenne
+du courant calculée depuis le début du parcours.
+On notera tpsf la valeur de tps pour laquelle la batterie est vide E(tpsf)=0, que l’on
+peut déterminer par l’équation de la décharge précédente. On supposera Vmoy établie
+précédemment reste constante pour la suite du parcours.
+Question II-6
+Exprimer Akm(tps) en fonction de tps et des grandeurs
+constantes E0, U, Imoy et Vmoy. Justifier en quoi l’autonomie kilométrique est
+une grandeur estimée.
+
+Documents Réponse DR1
+QI-1
+
+QI-4
+
+Document Réponse DR2

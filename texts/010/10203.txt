@@ -1,0 +1,426 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1817193, "at": "2026-11-23T09:44:52+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+Question A.2
+Quelle est la représentation binaire de l'entier 45 ?
+2D
+0010 1101
+0100 0101
+1011 0100
+Question A.3
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A.4
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture
+hexadécimale CD8FA - 9FF81?
+2E979
+3D989
+2D979
+2DA979
+Question A.5
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+
+Question A.6
+Quel est le résultat de l'addition binaire 0100 1110 + 0110 1101 ?
+0101 1011
+1010 1101
+1011 0110
+1011 1011
+
+Thème B : types construits
+Question B.1
+On exécute le code suivant :
+t = [1,2,3,4,5,6,7,8,9]
+v = [c for c in t if c%3 == 0]
+Quelle est la valeur de la variable v à la fin de cette exécution ?
+[1,4,7]
+[3,6,9]
+[1,2,3,4,5,6,7,8,9]
+Question B.2
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+Question B.3
+Quelle est la valeur de l'expression [[n,n+2] for n in range(3)] ?
+[0,2,1,3,2,4]
+[1,3,2,4,3,5]
+[[0,2],[1,3],[2,4]]
+[[1,3],[2,4],[3,5]]
+
+Question B.4
+On construit une matrice par compréhension :
+M = [ [i*j for j in range(4)] for i in range(4) ]
+Laquelle des conditions suivantes est-elle vérifiée ?
+M[4][4] == 16
+M[0][1] == 1
+M[2][3] == 6
+M[1][2] == 3
+Question B.5
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B.6
+On exécute le script suivant :
+def ajoute(stock,element,quantite):
+if element in stock:
+stock[element] = stock[element] + quantite
+else:
+stock[element] = quantite
+stock = { 'clous': 14, 'vis': 27, 'boulons': 8, 'écrous': 24 }
+ajoute(stock,'vis',5)
+ajoute(stock,'chevilles',3)
+Quelle est la valeur de la variable stock à la fin de cette exécution ?
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+
+Thème C : traitement de données en tables
+Question C.1
+Dans une course de chevaux, chaque participant est représenté par un numéro de dossard unique , son nom et
+sa ville sous la forme d'un couple formé d'un entier et d'une liste : (dossard, [nom, ville]).
+Les données de quelques participants sont réunies au sein de la liste course ci-dessous :
+course = [ (5,['Mistral','Lille']), (3,['Zéphir','Paris']),
+(7,['Ouragan','Bordeaux']), ......, ....... ]
+Quelle expression permet d'obtenir la ville du cheval nommé Zéphir ?
+course[1][1][1]
+course[1][1][2]
+course[1][2][1]
+course[2][1][1]
+Question C.2
+Quelle est la valeur de x après exécution du programme ci-dessous ?
+t = [[3,4,5,1],[33,6,1,2]]
+x = t[0][0]
+for i in range(len(t)):
+for j in range(len(t[i])):
+if x < t[i][j]:
+x = t[i][j]
+Question C.3
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+
+Question C.4
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour asssurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C.5
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C.6
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol', 'tel':'5248'}, {'nom':'Dupond', 'tel':'3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quelle est la fonction principale d’un fichier CSS ?
+Définir le style d’une page web
+Assurer l’interaction entre une page web et l’utilisateur
+Créer une page web dynamique
+Créer un bouton dans une page web
+
+Question D.2
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D.3
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.4
+Une page HTML comporte ce bout de code :
+<article>
+<h1>Les auteurs de ce site</h1>
+<button onclick="auteurs()">Appuyer ici</button>
+</article>
+<script src="java_script/ScriptJava.js"></script>
+<script>
+function auteurs() { alert("Auteurs anonymes"); }
+<\script>
+Quel sera le résultat d’un clic sur le bouton "Appuyer ici" ?
+Rien
+La page du navigateur se fermera
+La page affichera à la place du bouton "Appuyer ici" le message "Auteurs anonymes"
+Cela provoquera l’ouverture d’une fenêtre comportant le message "Auteurs anonymes"
+Question D.5
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+
+Question D.6
+Voici un formulaire contenu dans une page HTML :
+<form action="traitement.php" method="get">
+<label for="nom">Classe:</label>
+<input type="text" id="nom" name="leNom" />
+<label for="effectif">Effectif:</label>
+<input type="number" id="effectif" name="n" />
+<button type="submit">Go!</button>
+</form>
+Un utilisateur remplit le formulaire comme suit :
+
+Quelle est l'adresse de la page obtenue lorsque l'utilisateur clique sur le bouton Go! ?
+traitement.php?leNom=Seconde B&n=35
+traitement.php?leNom=Seconde+B&n=35
+traitement.php?nom=Seconde+B&effectif=35
+traitement.php
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Parmi les éléments suivants, lequel n'est pas un capteur ?
+un haut-parleur
+une caméra
+un écran tactile
+un microphone
+Question E.2
+Quel protocole permet d’attribuer dynamiquement une adresse IP ?
+UDP
+HTTP
+DHCP
+DNS
+
+Question E.3
+Le répertoire personnel de l'utilisateur contient deux répertoires tempo et sauve.
+On souhaite déplacer le fichier bac.txt du repertoire tempo vers le répertoire sauve.
+Quelle commande permet de réaliser ce déplacement ?
+mkdir ~/tempo/bac.txt ~/sauve
+mkdir ~/sauve ~/tempo/bac.txt
+mv ~/tempo/bac.txt ~/sauve
+mv ~/sauve ~/tempo/bac.txt
+Question E.4
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E.5
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.6
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+
+Thème F : langages et programmation
+Question F.1
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a=2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F.2
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F.3
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+
+Question F.4
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+Question F.5
+Avec la définition de fonction capital_double suivante, que peut-on toujours affirmer à propos du résultat n
+retourné par la fonction ?
+def capital_double (capital, interet):
+montant = capital
+n=0
+while montant <= 2 * capital:
+montant = montant + interet
+n=n+1
+return n
+n == capital / interet
+capital * n * interet > 2 * capital
+capital + n * interet > 2 * capital
+n == 2 * capital / interet
+Question F.6
+On définit la fonction suivante :
+def rey(n):
+i=0
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+
+Thème G : algorithmique
+Question G.1
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans un tableau de longueur 𝑛 est de l’ordre de … » ?
+𝑛
+𝑛2
+𝑛3
+Question G.2
+Un algorithme de tri d’une liste d’entiers est implémenté de la façon suivante :
+def trier(L) :
+for i in range(len(L)):
+indice_min = i
+for j in range(i+1, len(L)):
+if L[j] < L[indice_min] :
+indice_min = j
+L[i], L[indice_min] = L[indice_min], L[i]
+# assertion vraie à cet endroit
+return L
+Parmi les assertions suivantes laquelle reste vraie à chaque itération de la boucle, à l'endroit indiqué ci-dessus ?
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre croissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre croissant
+Question G.3
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+
+Question G.4
+Un algorithme de calcul de moyenne est implémenté de la façon suivante :
+def moyenne(liste) :
+t=0
+for e in liste :
+t=t+e
+# assertion vraie à cet endroit
+return t/len(liste)
+Parmi les propositions suivantes, laquelle reste vraie à la fin de chaque itération de la boucle ?
+e vaut le nombre de passages dans la boucle
+t vaut la somme des éléments visités de la liste
+t vaut la moyenne des éléments visités de la liste
+après k passages dans la boucle la liste contient k termes
+Question G.5
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G.6
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S=0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6

@@ -1,0 +1,331 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1350980, "at": "2026-11-23T09:23:35+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Plongée en eau douce (10 points)
+La plongée en eau douce peut se pratiquer dans les lacs, les étangs, les anciennes carrières,
+les rivières et même les piscines. Ce sport permet de découvrir une faune et une flore
+aquatiques typiques de ces milieux.
+1. Pression et profondeur
+Un plongeur débutant ressent souvent une douleur intense au niveau des tympans lors des
+plongées. Le tympan est une membrane qui sépare l’oreille moyenne du milieu extérieur. Il est
+assimilable à un disque de surface 𝑆 = 6,0 × 10−5 m².
+Une légère différence entre la pression extérieure et celle de l’air dans l’oreille moyenne suffit
+à provoquer des douleurs qui peuvent aller jusqu’à l’inflammation du tympan : c’est le
+barotraumatisme auriculaire. Celui-ci peut se déclarer dès lors que la différence entre la force
+pressante exercée par un fluide extérieur et celle exercée par l'air intérieur sur le tympan
+excède une valeur de l’ordre de 2 N. Pour l’éviter, il est possible d’effectuer la manœuvre de
+Valsalva : elle consiste à expirer tout en se pinçant les narines afin de rééquilibrer les
+pressions de part et d’autre du tympan.
+Un plongeur souhaite vérifier au laboratoire l'influence de la profondeur sur la pression lors
+d'une séance de travaux pratiques. Pour cela, il utilise un manomètre associé à un tuyau en
+plastique pour mesurer la valeur de la pression, un mètre ruban pour mesurer celle de la
+profondeur et un long tube de plexiglas.
+Il remplit le tube de plexiglas avec de l'eau et y plonge le tuyau en plastique. Il relève la
+pression P en fonction de la profondeur d'immersion h de l'extrémité du tuyau.
+
+Le plongeur obtient les résultats suivants :
+h(cm)
+P(hPa)
+
+1012
+
+1023
+
+1032
+
+1042
+
+1052
+
+1062
+
+1072
+
+1082
+
+1091
+
+- la loi fondamentale de la statique des fluides est donnée par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+où 𝐴 et 𝐵 sont deux points d'un fluide au repos, d'altitudes respectives 𝑧𝐴 et 𝑧𝐵 (en
+mètre), où règnent les pressions respectives 𝑃𝐴 et 𝑃𝐵 (en pascal) ;
+- masse volumique de l'eau : ρ = 1000 kg. m−3 ;
+- intensité de la pesanteur : 𝑔 = 10 N. kg −1 .
+1.1.
+
+Expliquer qualitativement le lien entre la pression et le comportement microscopique
+des entités qui constituent le fluide.
+
+1.2.
+
+En utilisant une étude graphique, tester la loi fondamentale de la statique des fluides à
+partir des mesures consignées dans le tableau ci-dessus.
+
+1.3.
+
+On considère que la loi fondamentale de la statique des fluides est vérifiée à 10 mètres
+de profondeur.
+
+Estimer la valeur de la force pressante exercée par l'eau sur la surface du tympan d’un
+plongeur à cette profondeur.
+On considère que le plongeur effectue la descente de la surface de l’eau jusqu’à 10 m de
+profondeur sans réaliser la manœuvre de Valsalva. Risque-t-il un barotraumatisme
+auriculaire ? Une réponse détaillée est attendue.
+2. Le sens électrique chez les poissons
+Les poissons électriques
+On appelle poisson électrique les poissons capables d'utiliser un courant électrique pour
+s'orienter, pour se protéger ou pour communiquer. La majorité de ces poissons vivent dans les
+eaux turbides ou ont une activité nocturne. Ils génèrent un champ électrostatique autour de
+leur corps. Un objet placé à proximité modifie la valeur de l'intensité locale du champ
+électrostatique. Par la suite, des récepteurs électriques situés dans la peau détectent le
+champ électrostatique et les modifications subies, ce qui permet au poisson de percevoir les
+caractéristiques de son environnement, détecter des proies et communiquer avec des
+congénères. Quelques espèces sont capables de produire des décharges électriques de forte
+intensité, comme les anguilles électriques, les torpilles ou les silures électriques. Elles s'en
+
+servent pour se protéger contre des prédateurs, ou pour assommer des proies avant de les
+consommer.
+Source : article « Poisson électrique » de Wikipédia en français.
+(http://fr.wikipedia.org/wiki/Poisson_%C3%A9lectrique).
+Force et champ électrostatiques
+Un objet possédant une charge électrique 𝑞𝐵 placée dans un champ électrostatique 𝐸⃗ ,
+engendré par une charge électrique 𝑞𝐴 , subit une action mécanique modélisée par une force
+électrostatique :
+𝐹 = 𝑞𝐵 𝐸⃗ .
+La force électrostatique est donnée par la loi de Coulomb :
+𝐹=
+
+𝑞𝐴 𝑞𝐵
+×
+⃗𝑢
+4𝜋𝜀𝑅 𝜀0
+𝑟2
+
+avec ⃗𝑢, vecteur unitaire de même direction que la droite reliant les deux charges et orienté de
+A vers B, 𝜀𝑅 et 𝜀0 deux constantes appelées permittivités diélectriques, 𝑞𝐴 et 𝑞𝐵 les charges, 𝑟
+la distance entre les deux charges.
+Valeurs des permittivités diélectriques :
+ permittivité diélectrique du vide : 𝜀0 = 8,85  10−12 F. m−1 ;
+ permittivité diélectrique relative de l'air par rapport au vide : 𝜀𝑅 = 1,00 ;
+ permittivité diélectrique relative de l'eau par rapport au vide : 𝜀𝑅 = 78,5.
+Effets des champs électrostatiques sur la santé
+Les champs électrostatiques peuvent provoquer des réactions cutanées. En effet, ils
+induisent au niveau de la peau des personnes exposées une modification de la répartition des
+charges électriques. Cette modification est perceptible surtout au niveau des poils et des
+cheveux (seuil de perception : 10 kV.m-1, seuil de sensations désagréables : 25 kV.m-1).
+Source : http://www.inrs.fr/risques/champs-electromagnetiques/effets-sante.html
+Un plongeur se trouve à 2,0 m d'une anguille électrique. En première approximation, on
+modélise une partie de l'anguille par un point placé en A et de charge unique 𝑞𝐴 = 4,4×10-12
+C.
+2.1.
+
+Montrer que l’expression du champ électrostatique⃗⃗⃗𝐸 créé au point B par une charge 𝑞𝐴
+est donnée par la relation :
+𝑞𝐴
+⃗𝐸 =
+× 2 ⃗𝑢
+4𝜋𝜀𝑅 𝜀0 𝑟
+
+2.2.
+
+L’intensité du champ électrostatique décroît très vite avec la distance. En outre, les
+valeurs des champs électrostatiques créées par les poissons sont souvent faibles car
+l’eau, par rapport à l’air, divise par environ 80 l’amplitude du champ électrostatique.
+Justifier ces deux affirmations.
+
+2.3.
+
+Dans le cadre de cette modélisation, calculer la valeur du champ électrostatique
+ressenti par le plongeur. Ce champ est-il perceptible par le plongeur ? Justifier.
+
+2.4.
+
+Le champ électrostatique créé par un poisson électrique peut être assimilé à celui d’un
+ensemble composé de deux charges électriques de signes opposés.
+
+Figure 3.a.
+Figure 3.b.
+Lignes de champ électrostatique créé par un ensemble de deux charges électriques placées aux points
+M et N.
+
+Pour chaque figure, donner le signe des charges placées aux points M et N.
+Parmi les deux figures proposées, laquelle correspond au modèle du poisson électrique ?
+PARTIE B
+Recycler un médicament (10 points)
+L’activité des établissements de santé et médico-sociaux génère
+divers types de déchets (déchets ménagers, déchets à risque
+infectieux ou radioactif, déchets issus de médicaments, etc) relevant
+ou non d’activités spécifiques liées aux soins. Ces établissements se
+sont intéressés dans un premier temps à la gestion des déchets
+solides, mais, depuis plusieurs années, la prise en charge des
+
+déchets liquides est devenue une préoccupation vis-à-vis de la prévention des risques et du
+développement durable.
+D’après :https://solidaritessante.gouv.fr/IMG/pdf/pour_une_bonne_gestion_des_dechets_produits_par_les_etab
+lissements_de_sante.pdf
+
+La Bétadine est un antiseptique local très utilisé dans les établissements de santé et médicosociaux qui se périme rapidement après son ouverture. Ce médicament est constitué d’une
+solution aqueuse de diiode, soluté toxique pour les organismes aquatiques.
+Extrait de données figurant sur un flacon de Bétadine®
+-
+
+-
+
+Substance active : diiode
+Excipients : glycérol, macrogoléther laurique, phosphate disodique
+dihydraté, acide citrique monohydraté, hydroxyde de sodium, eau
+purifiée
+Densité : d = 1,01
+
+Cet exercice s’intéresse à l’extraction du diiode pour envisager ensuite son rejet ou son
+recyclage.
+Masse molaire du diiode : M = 254 g.mol1
+Chlore : numéro atomique : Z = 17 ; configuration électronique : (1s)2(2s)2(2p)6(3s)2(3p)5
+Caractéristiques physico-chimiques de quelques solvants :
+eau
+éthanol
+-1
+Masse volumique (en kg.L ) à la
+1,0
+0,80
+température de l’expérience
+peu
+très
+Solubilité du diiode
+Miscibilité avec l’eau
+miscible
+miscible
+Température d’ébullition (en °C) à P
+= 1 bar
+
+cyclohexane
+0,78
+non miscible
+
+Pictogrammes de sécurité
+Électronégativité de quelques atomes selon l’échelle de Pauling :
+Atome
+
+H
+
+O
+
+C
+
+I
+
+Électronégativité
+
+2,2
+
+3,4
+
+2,5
+
+2,7
+
+1. Extraction liquide-liquide du diiode
+1.1. Justifier, à l’aide de deux arguments, le choix du solvant à utiliser pour extraire le
+diiode contenu dans la solution de Bétadine®.
+1.2. Le schéma de Lewis de la molécule de diiode est le même que celui du dichlore.
+Représenter ce schéma de Lewis.
+1.3. La molécule de diiode I2 est-elle polaire ? En déduire une propriété du solvant choisi
+précédemment.
+1.4. On utilise 20 mL de ce solvant pour extraire le diiode de 10 mL de solution de
+Bétadine®. Quelle est la masse de solvant d’extraction utilisé ?
+1.5. Schématiser les étapes du protocole expérimental d’extraction liquide-liquide simple
+du diiode de 10 mL de solution de Bétadine® en tenant compte des risques liés à
+l’utilisation du solvant choisi. Légender en précisant les contenus des différentes
+phases.
+2. Comparaison de deux protocoles d’extraction du diiode d’une solution aqueuse
+On souhaite à présent comparer l’efficacité de deux méthodes d’extraction du diiode d’une
+solution aqueuse, dont le principe est décrit ci-dessous. Toutefois la solution aqueuse de
+diiode étant très concentrée, on la dilue 10 fois, on obtient alors une solution S’.
+- Méthode 1 : extraction simple
+On procède à une extraction simple en utilisant un volume VS = 20 mL de solvant pour 10 mL
+de solution de S’.
+- Méthode 2 : extraction multiple
+On procède à une première extraction en utilisant un volume VS1 = 10 mL de solvant pour 10
+mL de solution de S’. On récupère la phase aqueuse dans un bécher et on réalise une
+nouvelle extraction avec à nouveau VS2 = 10 mL de solvant.
+Spectre d’absorption du diiode :
+
+Spectre d'absorption du diiode en solution
+aqueuse
+
+Absorbance
+
+1,5
+0,5
+400 420 440 460 480 500 520 540 560 580 600 620 640 660 680 700
+
+Longueur d'onde (nm)
+
+Cercle chromatique :
+
+2.1. Déterminer la couleur de la solution aqueuse de diiode.
+2.2. A quelle longueur d’onde faut-il régler le spectrophotomètre, pour mesurer
+l’absorbance des solutions de diiode ? Justifier.
+Le spectrophotomètre est réglé, non pas sur la longueur d’onde trouvée précédemment mais à
+une longueur d'onde λ = 600 nm : ce choix exceptionnel permet de ne pas dépasser les limites
+de mesure du spectrophotomètre. On trace l’évolution de l’absorbance du diiode en solution
+aqueuse en fonction de sa concentration en quantité de matière ; le graphe représentant cette
+évolution est figure ci-après. Puis, on mesure les absorbances des phases aqueuse finales
+obtenues à l’issue des deux méthodes d’extraction.
+Absorbance
+
+1,8
+1,6
+1,4
+1,2
+0,8
+0,6
+0,4
+0,2
+
+-0,2
+
+0,005
+
+0,01
+
+0,015
+
+0,02
+
+0,025
+
+0,03
+
+0,035
+
+0,04
+
+0,045
+
+Concentration du diiode en mol/L
+
+2.3. Quelle est la loi vérifiée à l’aide de la courbe représentant l’évolution de l’absorbance
+avec la concentration ?
+2.4. Quel type de dosage permet-elle d’envisager ?
+
+2.5. La mesure de l’absorbance de la phase aqueuse finale, obtenue à l’issue des deux
+méthodes d’extraction donne pour la méthode 1, A1 = 0,65 et pour la méthode 2, A2 =
+0,50.
+Comparer l’efficacité des deux méthodes d’extraction.
+2.6. La fiche de sécurité du diiode indique que la concentration maximale d’une solution
+aqueuse de diiode pour qu’elle soit sans effet sur l’environnement est de 11 mg/L.
+Peut-on rejeter la phase aqueuse à l’évier à l’issue d’une des deux méthodes
+d’extraction ? Commenter.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même si elle
+n’a pas abouti.

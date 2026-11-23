@@ -1,0 +1,165 @@
+{"pages": 4, "method": "ocr", "bytes": 6484590, "at": "2026-11-23T09:21:39+00:00"}
+D re Né(e) le: |2 (2 | /JO} 4 2 [ololz
+
+Partie Il
+Calculatrice autorisée
+
+Cette partie est composée de trois exercices indépendants
+Exercice 2 (5 points)
+
+entreprise de fabrication de deux roues, doit proposer une estimation du nombre de vélos à
+produire pour les années à venir. En 2018 l'entreprise a réalisé 4 500 ventes de VAE. Le
+marché étant porteur et dynamique, ce responsable estime que le nombre de ventes
+
+Un responsable commercial du service de Vélos à Assistance Électrique (VAE) dans une
+i
+progressera chaque année de 22 %.
+
+On note », le nombre de VAE vendus par l’entreprise en 2018 + n. On a donc vp = 4 500.
+
+1) Recopier le tableau ci-dessous sur votre copie en complétant les valeurs
+
+manquantes. Re ds
+A B Cc D E
+Rang d cr
+1 ang de 0 1 2 3
+l'année n
+2 Nombres de ra
+ventes V,
+
+2) Exprimer v,,, en fonction de v, pour tout entier naturel n.
+
+3) Quelle est la nature de la suite (,,) ? Préciser sa raison.
+
+T1CMATHO0726
+
+4) Le responsable souhaite connaître le nombre d'années nécessaire pour que les
+ventes de VAE dépassent 20 000 unités. Pour cela il a préparé un script, en langage
+
+python. Recopier sur votre copie et compléter ce script afin qu'il permette d'obtenir
+la réponse au problème.
+
+h
+
+def temps_attente():
+
+:
+F
+
+v=4500 sf
+n=@ =
+PTE manie
+V=v#1.22 ca
+n=n+1
+
+return ... a
+
+Ll
+
+5) Déterminer la valeur renvoyée par ce programme par la méthode de votre choix.
+
+Exercice 3 (5 points)
+
+Une entreprise commercialise des chocolats. La production hebdomadaire maximale est de
+30 000 chocolats. On suppose que la totalité de la production hebdomadaire est vendue
+chaque semaine. Les charges de production, en euro, pour x milliers de chocolats vendus
+sont modélisées par la fonction C définie sur l'intervalle [0 ; 30] par C (x) = 4x2 + 4x +
+520. L'entreprise fixe le prix de vente d’un chocolat à 0,128 euros. Pour la vente de x
+milliers de chocolats le chiffre d'affaires, en euro, est donné par la fonction R définie sur
+
+l'intervalle [0 ; 30] par R(x) = 128x.
+
+Page 4 sur 6 | T1CMATHO0726
+
+VR NEE ES fs ES es et Ps ES
+(Les numéros figurent sur la convocation.)
+
+E |
+
+Liberté + Égalité + Fraternité
+
+REPUBLIQUE FRANCAISE
+
+neteyte: 2 |2|/[o[4] /[2 [0 |e 2]
+
+fan Ny selina = a ee at Gre
+
+CR et Cc désignent les courbes représentatives respectives de R et C dans le repère ci-
+
+dessous.
+
+/
+
+4000
+
+if
+
+3500
+
+3000
+
+2500
+
+2000
+
+us
+
+NS
+
+k
+
+1 15 20
+
+Le résultat réalisé pour x milliers de chocolats vendus est donné par la fonction B, définie
+
+pour tout nombre x appartenant à l'intervalle [0 ; 30] par: B(x) = R(x) — C(x).
+
+oar
+
+1) Montrer que B(x) = —4x2 + 124x — 520.
+2) Montrer que B(x) = —4(x — 5)(x — 26).
+
+3) En déduire le tableau de signes de B(x) sur [0 ; 30].
+4) À l’aide des questions précédentes déterminer les quantités de chocolats à produire
+
+permettant d'obtenir un résultat positif.
+
+Ae Job ei bie
+
+5) Quelle est la quantité de chocolats à produire pour maximiser le résultat
+
+hebdomadaire ? On précisera la valeur de ce résultat maximal en euro.
+
+| T1CMATHO0726
+
+Exercice 4 (5 points)
+
+Un sac contient trois boules rouges et deux boules jaunes. Une partie consiste à prélever
+deux boules successivement en replaçant la première boule tirée dans l’urne avant le
+deuxième tirage.
+On définit les événements suivants :
+- R:« La boule tirée est rouge » ;
+- J:«La boule tirée est jaune ».
+1) Recopier sur votre copie et compléter l'arbre des probabilités suivant :
+
+R
+
+J
+
+Chaque boule rouge tirée rapporte 2 €. Chaque boule jaune fait perdre 1 €.
+
+Soit X la variable aléatoire égale au gain algébrique du joueur à l'issue d’une partie.
+
+2) Compléter le tableau suivant donnant la loi de probabilité de la variable aléatoire X.
+
+k 2 1
+
+P(X = k) 0,16 . 0,36
+
+ER
+
+3) Déterminer P(X > 0). interpréter le résultat précédent.
+
+4) Calculer l'espérance E(X) et interpréter le résultat.
+
+Page 6 sur 6 T1CMATHO0726

@@ -1,0 +1,355 @@
+{"pages": 13, "method": "pdftotext", "bytes": 859231, "at": "2026-11-23T09:33:17+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents des pages suivantes :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+-10
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+légère
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or, un élément chimique précieux
+L’or, élément de numéro atomique Z=79, a de tout temps été un métal fort prisé
+notamment pour son caractère ductile et inoxydable. C’est une valeur refuge en
+économie et un métal précieux tant en orfèvrerie qu’en médecine ou dans l’industrie.
+Partie 1 : Estimation de quelques masses d’or
+Le World Gold Council, union des principales compagnies mondiales de l’industrie
+aurifère, estime que si tout l’or extrait depuis le début de l’humanité – bijoux, lingots et
+masque de Toutankhamon inclus – était fondu en un seul bloc, il formerait un cube de
+21 mètres de côté. Bien plus petit que l’Arc de triomphe de l’Étoile à Paris !
+En 2016, 13% de l’extraction d’or au niveau mondial a été réalisée en Chine, ce qui
+représente 455 tonnes.
+1- Sachant que la masse volumique de l’or est 19,3 g.cm -3, calculer la masse totale de
+l’or extrait depuis le début de l’humanité. On exprimera le résultat en tonnes.
+2- Calculer la masse de l’or extrait dans le monde en 2016.
+Partie 2 : Peut-on transformer du plomb en or ?
+La transmutation1 de métaux non précieux en or était, dès le Moyen-Âge, l’objectif
+principal des alchimistes. Aucun n’a jamais atteint cet objectif.
+Le développement de la science moderne a cependant permis de montrer qu’il est
+effectivement possible de réaliser cette transmutation, mais avec des méthodes bien
+différentes de ce que les alchimistes avaient pu proposer.
+Voici un extrait du tableau établi par Dmitri Mendeleïev (1834 – 1907) donnant la
+classification périodique des éléments :
+
+Transmutation : changement d’une substance en une autre.
+
+195,078
+
+196,9665
+
+200,59
+
+204,3833
+
+207,2
+
+Pt
+
+Au
+
+Hg
+
+Tl
+
+Pb
+
+Platine
+
+Or
+
+Mercure
+
+Thallium
+
+Plomb
+
+3- Préciser le nombre de protons que l’on doit arracher à un noyau de mercure pour
+obtenir un noyau d’or. Préciser si ce type de transformation est une transformation
+chimique, physique ou nucléaire.
+4- En utilisant le tableau de Mendeleiev, indiquer pourquoi il semble a priori plus facile
+de transformer du mercure en or que du plomb en or.
+
+Document 1 : Peut-on obtenir de l’or à partir d’un autre métal ?
+Pour casser un noyau de plomb, on sait aujourd’hui qu’il faut fournir beaucoup d’énergie, de
+l’ordre de celle mise en jeu dans les réacteurs nucléaires et les accélérateurs de particules.
+Du coup, réaliser la transformation coûte vraiment très cher et le prix de revient de l’or
+obtenu est infiniment plus élevé que celui du marché. L’obtention d’un gramme d’or se
+chiffrerait en effet en centaines de millions d’euros. L’opération perd donc tout son intérêt et
+personne n’a tenté de la réaliser.
+Pourtant il arrive que de l’or soit créé en quantité infime dans les réacteurs nucléaires ou les
+accélérateurs de particules comme une conséquence collatérale de leur fonctionnement
+normal. […]
+Il existe, dans le Tennessee aux États Unis, un complexe du département de l’énergie
+américain, le laboratoire d’Oak Ridge, qui possède l’une des plus puissantes sources de
+neutrons dans le monde. Le principe de cet instrument est de bombarder une cible de
+mercure avec des neutrons afin d’extraire des protons de très haute énergie. Au cours des
+collisions entre les protons et les noyaux de mercure, il se passe beaucoup de choses :
+certains protons sont capturés par des noyaux, certains noyaux se cassent en émettant des
+protons et des neutrons, … au final, un ou deux atomes de mercure sont transformés en
+atome d’or. Mais la quantité est bien trop infime pour être exploitable.
+Inspiré de la vidéo KESAKO https://www.youtube.com/watch?v=MHipsgUGUP8
+
+Document 2 : Représentation graphique de la fonction donnant la masse d’or
+obtenue par bombardement de neutrons d’un échantillon de mercure en fonction de
+la durée du bombardement
+
+Document 3 : Cours de l’or
+Sur les marchés, l’or est côté à la bourse. La cotation se fait en2 USD/once (une once
+correspond à environ 31 g d’or). Au 31 mai 2019, le cours était 1 305,80 USD/once, soit
+1 166,05 EUR/once.
+
+USD : United States Dollar.
+
+5-a- À partir du document 2, identifier l’affirmation exacte parmi les 4 affirmations
+suivantes. Recopier l’affirmation exacte sur la copie et justifier la réponse.
+(a) La masse d’or obtenue à partir du mercure par bombardement de neutrons est
+une fonction décroissante de la durée du bombardement.
+(b) La masse d’or obtenue à partir du mercure par bombardement de neutrons est
+proportionnelle à la durée du bombardement.
+(c) La masse d’or obtenue à partir du mercure par bombardement de neutrons est
+proportionnelle au carré de la durée du bombardement.
+(d) La masse d’or obtenue à partir du mercure par bombardement de neutrons ne
+dépend pas de la durée du bombardement.
+5-b- Avec la précision permise par le graphique, déterminer la durée du
+bombardement permettant d’obtenir 6 µg d’or, puis la masse d’or obtenu à l’issue de
+3 heures de bombardement.
+5-c- Montrer qu’en une année, on peut ainsi produire environ 10 mg d’or.
+6- Estimer le prix (en euro) d’un gramme d’or acheté sur le marché.
+7- Justifier l’affirmation du document 1 « L’opération perd donc tout son intérêt ».
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+New York – Pékin en avion
+Les constructeurs d’avions ayant fait de grandes améliorations en matière de sécurité
+sur leurs biréacteurs, les autorités américaines de l’aviation civile ont revu fin
+décembre 2011 la réglementation sur ces avions, en les autorisant à voler au-dessus
+du Pôle Nord.
+Ce sujet étudie les durées de vol sur le trajet New York-Pékin en fonction de deux
+trajectoires possibles : soit le long du 40e parallèle, soit en passant par le Pôle Nord.
+
+Document 1 : deux planisphères - deux représentations de la Terre
+Figure 1a – Représentation de la Terre en projection cylindrique
+
+Figure 1b – Représentation de la Terre en projection polaire
+
+N
+
+•
+
+•P
+
+Équateur
+
+N représente la ville de New York.
+P représente la ville de Pékin.
+
+Document 2 : représentation de la Terre pour l’étude du trajet en passant par
+le Pôle Nord
+
+N : New York
+P : Pékin
+O : centre de la Terre
+H : centre du cercle
+formé par le 40e
+parallèle
+
+Le rayon de la Terre
+1- On admet que la longueur du méridien terrestre est égale à 40 000 km. En déduire
+le rayon de la sphère terrestre.
+Trajet New York – Pékin en suivant le 40e parallèle
+Jusqu’au début des années 2010, la liaison aérienne New York – Pékin à bord d’avions
+biréacteurs suivait une route relativement proche de la ligne du 40 e parallèle.
+2- Tracer, sur le schéma du document-réponse situé en annexe, l’un des deux arcs de
+parallèle qui relie New York à Pékin.
+3- D’après le document 1, figure 1a, indiquer les coordonnées terrestres (latitude,
+longitude) de chacune des villes de New York et de Pékin. Il est attendu des
+coordonnées entières.
+4- En utilisant les coordonnées de New York et de Pékin, montrer que chacun des arcs
+de parallèle reliant New-York à Pékin est un demi-cercle.
+5- Parmi les quatre propositions ci-dessous, une seule représente la distance New
+York – Pékin le long du 40e parallèle :
+Proposition A
+1 200 km
+
+Proposition B
+15 300 km
+
+Proposition C
+20 000 km
+
+Proposition D
+40 000 km
+
+Éliminer les trois propositions fausses pour trouver la distance New York – Pékin le
+long du 40e parallèle. Justifier. On pourra utiliser cos(40°)=0,766.
+Trajet New York – Pékin en passant par le Pôle Nord
+Depuis décembre 2011, les avions biréacteurs peuvent survoler le Pôle Nord.
+6- Tracer (d’une autre couleur que celle utilisée en question 2) sur le schéma du
+document-réponse situé en annexe, la route que les avions biréacteurs sont autorisés
+à emprunter entre New York et Pékin en passant par le Pôle Nord.
+7- Montrer que la distance New York – Pékin par la route polaire mesure environ
+11 100 km.
+8- D’un point de vue environnemental, indiquer un avantage lié à la route aérienne
+passant par le Pôle Nord par rapport à la route suivant le 40e parallèle.
+
+Document réponse à rendre avec la copie
+Exercice 3
+New York – Pékin en avion
+Questions 2 et 6
+
+N
+
+•
+
+•P
+
+Équateur

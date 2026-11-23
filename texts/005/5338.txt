@@ -1,0 +1,424 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1403566, "at": "2026-11-23T09:26:14+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L'INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique
+traduisant la transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+PRÉSENTATION DU SURF ELECTRIQUE OU E-SURF
+Plus facile à pratiquer que le surf conventionnel,
+le surf électrique peut être appris par un amateur en
+5 min. Les chutes sont moins fréquentes, donc
+l’amusement est plus rapide. Plus besoin non plus de
+prendre des grosses vagues, il peut avancer sur une
+eau lisse comme sur une eau formée. Contrairement à
+la planche de surf tractée, la technologie électrique
+apporte un rendu plus silencieux et moins polluant. Il
+devient même plus facile de prendre des vagues : à
+l’aide d’une télécommande, on accélère lorsque la vague s’élève et on stoppe le moteur
+une fois qu’on est lancé. C'est grâce au foil, la petite aile située sous la planche (Voir
+figure 2), et un groupe propulseur (moteur, hélice), que l'engin s'élève au-dessus de l'eau.
+
+ÉTUDE DES PERFORMANCES DU E-SURF
+Problématique : dans les conditions aux limites stipulées par le fabricant, le groupe
+propulseur est-il suffisamment performant pour élever au-dessus de l’eau un surfeur de
+85 kg sur la planche à une vitesse de 35 km.h -1. Tout en garantissant une résistance et
+une fiabilité optimales.
+La gravité est donnée à g = 9.81 m.s-².
+
+Figure 1 : extrait du diagramme des exigences
+Question I-1
+Figure 1
+
+Calculer la masse totale en kg de l’ensemble surfeur-planche-batterie.
+En déduire le poids total en N.
+
+Télécommande
+
+Mât
+
+Planche
+Groupe moteur/hélice
+
+Profil aile (foil) avant
+
+Stabilisateur
+
+Fuselage
+Figure 2
+Un foil (ou un hydrofoil) est une aile profilée (figures 2 et 3) qui se déplace dans l’eau. La
+vitesse de déplacement génère sur le foil une portance hydrodynamique capable de
+soulever un objet partiellement ou totalement hors de l’eau. Le but de ce transfert de
+portance est de réduire le frottement et donc la puissance nécessaire à la propulsion.
+Si on déplace dans un fluide (air ou eau) un profil asymétrique, il se crée une différence de
+pression entre le dessous du profil (surface la plus faible ou intrados) et le dessus (surface
+la plus grande ou extrados).Voir figure 3.
+
+Figure 3 : coupe d’un hydrofoil
+
+La force Fz qui tend à faire monter le profil s’appelle la portance et est de la forme :
+F𝑧 = 2 Cz.ρ.S.V²
+avec :
+Cz : Coefficient de portance.
+ρ : 1025 kg.m-3 (masse volumique de l’eau de mer)
+S : 0.08 m² (surface immergée ou surface « mouillée »)
+V : Vitesse de déplacement en m.s-1
+Si on fait varier l’angle d’incidence α (Figure 4), les valeurs des coefficients de portance Cz
+et de traînée Cx varient comme présenté dans le tableau 5.
+
+.
+Figure 4 : angle d’incidence α
+
+Incidence 0°
+Cz
+0.05
+Cx
+0.006
+
+2°
+0.1
+0.006
+
+4°
+6°
+0.15
+0.2
+0.0065 0.008
+
+8°
+10°
+0.25
+0.3
+0.0105 0.012
+
+12°
+0.33
+0.014
+
+14°
+0.34
+0.016
+
+16°
+0.32
+0.02
+
+Tableau 5 : coefficients de portance Cz et de traînée Cx en fonction de α
+
+Question I-2
+
+Structurellement, l’angle est de 0°. Calculer la force de portance Fz.
+Dans ces conditions, conclure quant à la capacité du foil à soulever
+l’ensemble (surfeur + engin).
+
+Question I-3
+
+Le surfeur peut incliner la planche grâce à ses appuis. Définir alors
+l’angle d’incidence minimum αminimum pour soulever l’ensemble.
+
+Tableau 5
+
+Dimensionnement partiel du groupe moteur-arbre-hélice
+La vitesse doit atteindre 35 km.h-1. La figure 6 présente la chaîne de puissance partielle.
+Les résultats présentés ci-après sont issus de simulations.
+Pm : puissance sur l’arbre moteur
+Fp : force de poussée de l’hélice.
+
+Fp = 500 N
+
+Pm = 8970 W
+Alimenter
+
+Distribuer
+
+Batterie
+
+Convertir
+
+Transmettre
+
+Moteur
+
+Hélice
+
+Figure 6 : modélisation de la chaîne de puissance partielle
+On rappelle que Phélice = Fp.V
+Question I-4
+
+Calculer le rendement entre l’arbre moteur et l’hélice. Commenter ce
+résultat.
+
+Conditions de résistance hydrodynamique de l’hélice
+Augmenter la portance des objets profilés sans pour autant augmenter de façon exagérée
+ses dimensions, implique d’augmenter la vitesse du surf. Cela implique, souvent, une
+augmentation de la fréquence de rotation du moteur, donc de l’hélice. Cependant, cette
+solution atteint voire dépasse elle aussi très vite les limites à cause d’un phénomène
+particulier : la cavitation. Cette limite est variable et dépend des paramètres liés à
+l’environnement (profondeur d’immersion, température, salinité, forme de l’hélice…). C’est
+un phénomène d’ébullition dû à une dépression avec apparition de bulles de vapeur qui
+vont avoir des effets très néfastes sur le fonctionnement comme le décrochage du profil,
+l’apparition de bruits et de vibrations, d’usure voire la destruction de la surface.
+
+Figure 7 : une hélice est formée de pales s’apparentant à un foil
+
+La figure 8 montre la variation de dépression répartie sur une pale en fonction du régime
+moteur ainsi que la limite de cavitation, calculée à 100 617 Pa.
+Dépression en Pa
+
+Fréquence en
+tr.min-1
+Figure 8 : courbe d’évolution du risque de cavitation de portance en fonction de la
+vitesse de rotation de l’arbre moteur
+
+Question I-5
+Figure 8
+
+Préciser, pour la fréquence de rotation étudiée de 3 000 tr.min-1, si le
+phénomène de cavitation existe. Évaluer à partir de quelle valeur de
+fréquence de rotation apparaît ce phénomène.
+
+Conclusion sur les performances générales de ce dispositif.
+Question I-6
+
+Conclure, par rapport aux différents points abordés, sur les capacités
+de cet engin à respecter les contraintes du cahier des charges.
+Proposer des solutions techniques pour améliorer ses performances.
+
+MODIFICATION DU COMPORTEMENT DU E-SURF
+Dans le cadre de leurs activités proposées pendant les vacances scolaires à des enfants
+de 6 à 13 ans et plus particulièrement aux enfants de plus de 7 ans ayant validé un test
+natation/voile, de nombreux centres de loisirs sans hébergement (C.L.S.H.) basés sur le
+littoral méditerranéen souhaitent élargir leur gamme d’activités nautiques afin de leur faire
+découvrir des expériences inédites sur l’eau et de leur permettre d’accéder à de nouvelles
+sensations sportives en toute sécurité. Séduits par l’équipement de sport nautique grand
+public nouvelle génération, « la planche de surf électrique volant ou e-surf », ils
+s’interrogent sur son acquisition car ils savent que le surf électrique peut être une
+expérience très tendue, surtout pour les débutants. Cela peut être aussi fatiguant, assez
+épuisant. Habituellement, après 15 minutes, une pause est nécessaire.
+C’est la raison pour laquelle le constructeur du e-surf est sollicité afin de rendre la
+commande du mouvement plus adaptée à un tout jeune public au petit gabarit et d’y
+associer un fonctionnement davantage personnalisé.
+Pour permettre l’évolution des jeunes surfeurs débutants ou non chevronnés, deux
+tranches d’âge sont prises en compte :
+Groupe 1 / Tranche d’âge : 6-10 ans pour une masse embarquée de 15 à 22 kg
+Groupe 2 / Tranche d’âge : 10-13 ans pour une masse embarquée de 22 à 36 kg
+Pour chaque groupe sont associés trois niveaux de performance : niveau 1 débutant,
+niveau 2 confirmé, niveau 3 expert.
+Problématique : développer pour le jeune surfeur débutant de moins de 40 kg un
+programme permettant de :
+-
+
+gérer automatiquement la vitesse de déplacement de la planche de surf en fonction
+de la consigne donnée par le jeune surfeur,
+informer à chaque démarrage le jeune surfeur du niveau de charge de la batterie,
+gérer le temps écoulé.
+
+Pour un confort d’utilisation et une progression dans les étapes d’apprentissage, plusieurs
+vitesses de déplacement de consigne sont imposées.
+Pour commencer, on désire faire évoluer le surfeur débutant niveau 1 du premier groupe
+en lui proposant d’effectuer des allers retours dans le plan (O, X,Y) à la vitesse de 1 km.h-1
+selon un profil d’apprentissage décrit dans la figure 9 (vitesse constante, pas de vol audessus de l’eau) :
+
+Parcours surfeur 1er groupe
+niveau 1 débutant
+
+12 mètres
+Y
+O
+Bord du rivage
+poste de départ
+
+X
+
+Bord du rivage poste
+d’arrivée pour pause
+Figure 9 : secteur d’apprentissage numéro 1
+
+Question II-1
+Figure 9
+
+Déterminer la durée de ce parcours. En déduire en une heure, le
+nombre de démarrages que va effectuer le e-surf si l’on prend en
+compte uniquement une pause du jeune surfeur de 10 minutes entre
+deux parcours successifs.
+
+Dans la pratique, comme il s’agit de la première prise en main d’une planche de surf, un
+accompagnement davantage soutenu est nécessaire pour les surfeurs du groupe 1. Sur le
+boitier de la télécommande, le constructeur
+envisage d’indiquer le secteur
+d’apprentissage dans lequel va évoluer un surfeur du groupe 1 par des pictogrammes. Il
+pense au choix d’une matrice à 25 DEL réparties sur 5 lignes et 5 colonnes (voir figure
+10), commandée par le microcontrôleur de la carte de commande afin que le jeune surfeur
+visualise quel type de parcours est associé à son niveau (figure 11).
+
+pictogramme parcours 1
+Groupe 1 - niveau 1
+débutant
+
+pictogramme parcours 2
+Groupe 1 - niveau 2
+confirmé
+
+Figure 10 : matrice 25 DEL
+
+Figure 11 : pictogrammes des parcours
+
+Pour commander une DEL, il suffit d’activer sa ligne et sa colonne.
+
+Pour commander la DEL A, il faut activer sa
+ligne et sa colonne (soit L1 et C2 du schéma
+ci-contre) ce qui nécessite d’utiliser deux
+sorties du microcontrôleur.
+
+Question II-2
+Figure 10
+
+Indiquer quelles sont les DEL de la matrice de la figure 10 qui devront
+s’allumer pour afficher le pictogramme du parcours 1. Indiquer quelles
+sont les lignes et les colonnes qu’il est nécessaire d’activer pour
+allumer DEL 13 et DEL 21.
+
+Le microcontrôleur possède 2 ports de sorties de 8 bits chacun dédiés à la commande des
+DEL de la matrice.
+Question II-3
+DR1
+
+Déterminer le nombre de sorties du microcontrôleur disponibles pour
+l’affichage des pictogrammes. Afin de valider le choix du constructeur,
+compléter le tableau (DR1).
+
+Lorsque la réussite du parcours 1 a été enregistrée par le moniteur du centre de loisirs, les
+jeunes apprentis surfeurs doivent emprunter le parcours 2 et imposer une consigne de
+vitesse de déplacement du e-surf égale à 5 km.h-1.
+Pour assurer le pilotage de l’engin dans une plage de réglage de vitesse 0-20 km.h-1,
+adaptée aux jeunes surfeurs du groupe 1, le constructeur propose d’utiliser une fonction
+de programmation du microcontrôleur : la commande de la vitesse du moteur par PMW
+(PWM, pour Pulse Width Modulation, ou MLI en français pour Modulation de Largeur
+d’Impulsion).
+Question II-4
+
+Compléter le tableau du document réponse (DR2).
+
+DR2
+
+On souhaite un démarrage progressif. Par appui sur un bouton poussoir BP+, la vitesse
+augmente progressivement jusqu’à la valeur de consigne : on incrémente la valeur de la
+variable N_vitesse d’un palier PWM correspondant à 1 km.h -1.
+Question II-5
+
+Relever la valeur de ce palier PWM trouvé dans la question
+précédente.
+
+On souhaite insérer le limiteur de vitesse dans le programme gérant le rapport cyclique.
+Question II-6
+DR3
+
+Compléter les éléments de l’algorigramme (DR3) de façon à créer la
+variable N_vitesse qui tient compte de la limitation en vitesse.
+
+DOCUMENTS RÉPONSES
+DR1, question II-3
+C1
+
+C2
+
+C3
+
+C4
+
+C5
+
+Les colonnes impliquées sont
+les colonnes :
+
+………………………………….
+
+L1
+
+L2
+
+L3
+
+L4
+
+L5
+
+Les lignes impliquées sont les
+lignes :
+
+………………………………….
+
+Bilan : Nombre de colonnes utilisées :
+Nombre de lignes utilisées :
+
+Nc = ………
+Nl = ……….
+
+Nombre de sorties nécessaires : Nt = Nc + Nl = ………
+Le choix du constructeur peut être validé  Oui  Non puisque …………………….…
+………………………………………………………………………………………………….….
+DR2, question II-4
+
+Vitesse minimale
+Vitesse imposée
+parcours 1
+Vitesse imposée
+parcours 2
+Vitesse A
+Vitesse B
+Vitesse maximale
+
+Vitesse
+(km.h-1)
+
+Rapport cyclique α
+
+PWM réglé à
+(entier arrondi à la
+valeur supérieure)
+
+…………………….
+
+…………………..
+
+50 % (= 0,5)
+
+................
+
+75 % (= 0,75)
+
+100 % (= 1)
+
+DOCUMENTS RÉPONSES (suite)
+DR3, question II-6
+Extrait d’une partie du programme
+Création de la variable N_vitesse en
+tenant compte de la limitation de vitesse

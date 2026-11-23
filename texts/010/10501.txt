@@ -1,0 +1,316 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1520360, "at": "2026-11-23T09:23:18+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Synthèse de la menthone à partir du menthol (10 points)
+Le menthol et la menthone sont deux espèces chimiques organiques présentes dans
+certaines espèces de menthe.
+Le menthol (2-isopropyl-5-méthylcyclohexan-1-ol) est utilisé fréquemment dans les
+industries agroalimentaire, pharmaceutique et cosmétique.
+La menthone (2-isopropyl-5-méthylcyclohenan-1-one) entre dans la composition de certains
+parfums et arômes naturels ; elle est obtenue par oxydation, en milieu acide, du menthol.
+Dans cet exercice, on s’intéresse à la synthèse de la menthone à partir du menthol,
+réalisable au laboratoire du lycée.
+Données :
+Menthol
+
+Menthone
+
+Blanche
+
+Incolore
+
+Masse molaire (g.mol-1)
+
+Température de fusion (°C)
+
+- 6,5
+
+Température d’ébullition (°C)
+
+Couleur
+
+Solvant
+
+Dichlorométhane
+
+Cyclohexane Ethanol
+
+Eau
+
+Densité
+
+1,33
+
+0,78
+
+0,79
+
+Miscibilité avec
+l’eau
+
+Miscible
+
+Miscibilité avec
+l’éthanol
+
+Solubilité du
+menthol à 25°C
+
+Peu soluble
+
+Soluble
+
+Non soluble
+
+Solubilité de la
+menthone à 25°C
+
+Soluble
+
+Non soluble
+
+Miscible
+
+Tableau de données de spectroscopie infrarouge (IR) :
+Liaison
+Nombre d’onde (cm-1)
+
+1.
+
+Intensité
+
+O-H libre
+
+3500 - 3700
+
+Forte, fine
+
+O-H liée
+
+3200-3400
+
+Forte, large
+
+O-H acide carboxylique
+
+2500-3200
+
+Forte à moyenne,
+large
+
+C-H
+
+2800-3000
+
+C=O aldéhyde et cétone
+
+1650-1730
+
+C=O acide carboxylique
+
+1680-1710
+
+C=C
+
+1640-1680
+
+Moyenne
+
+La formule semi-développée du menthol est représentée ci-après :
+
+Justifier le fait que le menthol fasse partie de la famille des alcools
+
+2.
+Sachant que lors de l’oxydation ménagée du menthol en menthone seul le groupe
+caractéristique est modifié et que la menthone appartient à la famille des cétones,
+représenter la formule semi-développée de la molécule de menthone.
+3.
+L'oxydation du menthol en menthone s’effectue en milieu acide par l'ion
+permanganate
+qui appartient au couple oxydant-réducteur
+
+.
+
+Cette oxydation est modélisée par une réaction dont l’équation est la suivante :
+
+Justifier le fait que le menthol subit une oxydation.
+4.
+On réalise, au laboratoire du lycée, l’oxydation d’une masse
+de menthol.
+par un volume
+d’une solution aqueuse acide permanganate de potassium dont
+la concentration en ions permanganate est
+. Le mélange est acidifié par
+quelques millilitres d'acide sulfurique concentré. Le dispositif expérimental utilisé est celui
+du chauffage à reflux.
+
+4.1. Parmi les montages A, B et C précédents, indiquer celui qu'il convient de choisir pour
+réaliser le chauffage à reflux.
+4.2.
+
+Expliquer le rôle des différents éléments de verrerie dans le montage à reflux.
+
+4.3. En s’aidant éventuellement d’un tableau d’avancement, montrer que, lors de cette
+oxydation, le menthol est le réactif limitant.
+4.4.
+
+Déterminer la masse théorique maximum
+
+de menthone que l’on peut obtenir.
+
+5.
+On transvase le contenu du ballon dans une ampoule à décanter et on y ajoute 20
+mL d’un solvant extracteur. On agite puis on laisse reposer. On observe la séparation de 2
+phases, la phase organique surnageant.
+Déterminer quel solvant, parmi le dichlorométhane, le cyclohexane, l’éthanol et l’eau, a été
+utilisé pour extraire la menthone du mélange réactionnel. Justifier
+6.
+La séparation de la menthone du solvant extracteur se fait en réalisant une
+distillation. En fin d’opération on obtient une masse
+de distillat que l’on
+considère être de la menthone pure. On réalise le spectre infrarouge du distillat ; il est
+reproduit ci-après.
+
+6.1.
+
+Justifier que le spectre précédent est compatible avec celui de la menthone.
+
+6.2.
+
+Déterminer le rendement de cette synthèse. Conclure.
+
+Aide au calcul :
+
+PARTIE B
+Un drone pour ausculter la couverture végétale (10 points)
+Les drones, d’une technologie simple et peu coûteuse, sont utilisés dans le domaine de la
+télédétection par les agriculteurs et l’ONF (Office National des Forêts) pour le suivi du
+couvert végétal. Le procédé consiste à analyser la lumière réfléchie par les végétaux en les
+survolant pour connaître, entre autres, leur état de santé. L’activité plus ou moins
+importante de la photosynthèse est un bon indicateur du cycle de vie du végétal. Le profil
+spectral obtenu permet également d’apporter des éléments d’analyse précieux et de
+dresser rapidement des cartographies de grandes étendues végétales.
+Partie 1 : étude du vol du drone
+Les courbes présentées en annexe À RENDRE AVEC LA COPIE montrent l’évolution des
+énergies cinétique Ec et mécanique Em du drone lors d’un vol d’observation rectiligne.
+Localement, l’intensité de la pesanteur g a une valeur voisine de 10 N·kg-1.
+1.1
+1.2
+
+Qualifier le mouvement du drone. Justifier la réponse.
+Montrer, sans calcul, que l’altitude de vol du drone h est constante.
+
+Ces représentations graphiques ont été obtenues grâce au programme en langage Python
+présenté en annexe À RENDRE AVEC LA COPIE et à partir des relevés du temps de vol,
+de la vitesse d’évolution du drone et de son altitude lors du vol d’observation. Une partie du
+script est volontairement cachée et manquante.
+1.3
+Repérer le numéro de la ligne du programme où apparaît la masse m du drone puis
+noter la valeur de m avec son unité.
+1.4
+En s’aidant des représentations graphiques, calculer l’altitude de vol du drone.
+L’énergie potentielle de pesanteur Epp est considérée nulle au niveau du sol.
+Aide au calcul :
+850/7,00
+
+900/7,00
+
+129 7,00/850
+
+8,24 10-3
+
+7,00/900
+
+7,78 10-3
+
+1.5
+Sur le programme fourni en annexe À RENDRE AVEC LA COPIE, écrire, à la
+bonne place, l’instruction permettant de calculer l’énergie potentielle de pesanteur puis celle
+permettant sa représentation graphique.
+1.6
+Tracer la courbe représentant l’évolution de l’énergie potentielle de pesanteur du
+drone au cours du vol sur le graphique de l’annexe À RENDRE AVEC LA COPIE.
+
+Lors d’un vol rectiligne en palier (altitude
+Le vol en palier
+fixe) à vitesse constante, on considère
+qu’un drone à ailes est soumis à quatre
+actions mécaniques modélisées par les
+forces suivantes : le poids du drone, la
+force de propulsion , la traînée totale
+G
+qui s’oppose au déplacement et la
+portance générées par la circulation de
+l’air autour de l’avion. On peut se référer
+au schéma ci-après.
+Représentation des forces s’exerçant
+sur le drone dans les conditions du
+vol étudié
+(d’après https://www.drone-academy.fr/reglementation-drones-ailes-volantes/)
+1.7
+À partir de la première loi de Newton appliquée au drone durant le vol rectiligne en
+palier, montrer que l’intensité
+de la force de propulsion est égale à l’intensité de la
+traînée totale.
+Le candidat est invité à présenter son raisonnement de manière claire et ordonnée. Toute
+tentative de réponse, même incomplète, sera valorisée.
+Partie 2 : analyse de la lumière réfléchie par la couverture végétale
+La lumière incidente reçue par un végétal est partiellement absorbée, transmise et réfléchie.
+La part de lumière réfléchie est analysée par un spectrophotomètre qui permet d’obtenir le
+« profil spectral du végétal ». Les courbes du document ci-dessous représentent la
+proportion de lumière réfléchie par rapport à la lumière incidente (réflectance) en fonction
+de la longueur d’onde λ.
+La signature spectrale des feuilles dans le visible (longueur d’onde comprise environ entre
+400 nm et 800 nm) reflète l’activité chlorophyllienne. Dans la partie du proche infrarouge
+(longueur d’onde comprise environ entre 800 et 3000 nm environ), la réflectance dépend de
+l’état de la structure interne des cellules de la feuille.
+
+Réflectance (%) en fonction de la longueur d’onde λ (nm)
+Légende
+ Feuille saine et en pleine activité ;
+ Stress du végétal ;
+ Stress important : la chlorophylle a subi une importante dégradation ;
+ Chlorophylle fortement dégradée : la récupération du végétal est impossible ;
+ La feuille du végétal est morte.
+2.1
+Schématiser la feuille d’un végétal et légender avec les mots clés suivants : lumière
+réfléchie, lumière incidente et lumière transmise.
+2.2
+Quelles longueurs d’onde situées dans le visible la feuille d’un végétal sain réfléchitelle ? Quelle est la couleur associée ?
+2.3
+Quel rayonnement n’appartenant pas au domaine du visible est également réfléchi ?
+2.4
+Justifier l’installation sur le drone de capteurs sensibles aux longueurs d’onde
+550 nm et 880 nm.
+Les feuilles utilisent dans leur phase de croissance des pigments comme les chlorophylles
+a et b et les caroténoïdes. La couleur des pigments de la chlorophylle domine et masque la
+couleur de tout autre pigment.
+2.5
+À l’aide des spectres d’absorption des chlorophylles a et b (document ci-dessous),
+montrer que la feuille saine absorbe en particulier des longueurs d’onde dans deux zones
+distinctes. Quelles sont les couleurs absorbées correspondantes ?
+
+Spectres d’absorption des chlorophylles a et b ainsi que des caroténoïdes
+(d’après http://www.cima.ualg.pt l)
+
+Cercle chromatique
+2.6
+Montrer que les couleurs absorbées permettent d’expliquer la couleur verte diffusée
+par le végétal sain.
+
+ANNEXE À RENDRE AVEC LA COPIE
+Partie 1 : question 1.5
+
+Partie 1 : question 1.6
+
+Courbes montrant l’évolution des énergies cinétiques et mécaniques du drone lors
+du vol d’observation.

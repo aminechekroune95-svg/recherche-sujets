@@ -1,0 +1,278 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1699383, "at": "2026-11-23T09:22:35+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Ballon-sonde (10 points)
+Le 17 mars 1898, le premier ballon-sonde météorologique
+français était lancé depuis l'observatoire de Trappes, en
+région parisienne. Il emportait, dans un panier d'osier, un
+« météorographe », destiné à enregistrer la pression et la
+température en altitude. Aujourd'hui, les ballons -sondes
+sont toujours utilisés (figure 1). Ces radiosondages
+fournissent des informations sur l'état des premières
+couches de l'atmosphère (troposphère et stratosphère).
+D’après : meteofrance.com 16/03/2018
+
+Figure 1 : lâcher de ballon automatique
+© Météo-France, Pascal Taburet
+Dans le cadre d’un atelier scientifique, des lycéens ont conçu un ballon -sonde
+constitué :
+ d’une enveloppe fermée remplie d’hélium ;
+ d’une nacelle contenant des appareils de mesure et un parachute.
+Lors du lâcher, le ballon-sonde communique avec une station au sol. Des mesures de
+pression, température, position sont récoltées au cours de l ’ascension.
+
+L’objectif de cet exercice est de justifier le choix de valeur de la fréquence de
+télécommunication et de confronter certaines mesures réalisées à des modèles
+physiques.
+Données :
+- la valeur de la célérité c des ondes électromagnétiques dans le vide ou dans
+l’air est supposée connue des candidats
+- masse(enveloppe) = 3,2 x 10 2 g ;
+- masse(nacelle) = 3,6 kg ;
+- masse(hélium) = 7,0 x 10 2 g ;
+- intensité du champ de pesanteur : g = 9,81 m.s -2 ;
+- pression atmosphérique au niveau du sol : P 0 = 1,0 x 10 3 hPa ;
+- volume initial du ballon : V 0 = 4,0 m³ ;
+- volume du ballon juste avant éclatement : V max = 51 m³.
+1. Choix technique pour la télécommunication
+Pour éviter les interférences avec d’autres systèmes, les lycéens doivent respecter
+les normes en vigueur. Leur ballon-sonde doit émettre des ondes électromagnétiques
+dans le domaine radioélectrique UHF (Ultra Hautes Fréquences), que l ’union
+internationale des télécommunications a attribué au service de la météorologie.
+Les lycéens ont choisi de régler la valeur de la fréquence d ’émission de leur ballonsonde à f = 403,2 MHz.
+
+Figure 2 : différents domaines du spectre des ondes électromagnétiques
+1.1.
+Citer un autre type d’ondes que les ondes électromagnétiques. En donner un
+exemple.
+1.2.
+Exprimer la relation entre célérité c, longueur d’onde  et fréquence f.
+1.3.
+Déterminer la valeur de la longueur d’onde des ondes émises par le ballon -sonde.
+Commenter le choix effectué par les lycéens par rapport aux normes de
+télécommunication.
+2. Décollage du ballon-sonde
+On considère le ballon juste après le décollage, étudié dans le référentiel terrestre
+supposé galiléen. On néglige les frottements exercés par l’air.
+Le système {ballon + nacelle + hélium} est soumis à deux forces :
+ son poids, noté ⃗𝑃 ;
+ la poussée d’Archimède, notée 𝐹 , verticale, dirigée vers le haut telle que sa
+norme F = 50 N.
+
+2.1.
+Calculer la valeur de la masse m totale du système étudié.
+2.2.
+Calculer la valeur du poids du système {ballon + nacelle + hélium}.
+2.3.
+Représenter les forces exercées sur le système {ballon + nacelle + hélium}
+modélisé par un point matériel noté S (échelle : 10 N ↔ 1 cm).
+2.4.
+En déduire le vecteur représentant la somme des forces appliquées sur le
+système et donner les caractéristiques de ce vecteur (direction, sens, norme).
+Le ballon possède une trajectoire verticale ascendante. Les lycéens ont calculé la
+vitesse du ballon-sonde à partir des mesures de positions. La vitesse est
+V 1 = 1,1 m.s -1 à t 1 = 1,0 s et V 3 = 3,2 m.s -1 à t 3 = 3,0 s.
+2.5.
+Calculer la variation de la valeur de la vitesse entre les instants t 1 et t 3 .
+2.6.
+Montrer que cette variation est cohérente avec les caractéristiques de la somme
+des forces appliquées sur le système.
+3. Éclatement
+Dans cette partie, on considère que l’enveloppe du ballon -sonde est parfaitement
+souple et extensible de sorte que la pression de l’hélium à l’intérieur est
+constamment égale à la pression atmosphérique.
+
+Figure 3 : Relevé de pression dans la troposphère et la stratosphère pour différentes
+altitudes h. (D’après : Concours Centrale-Supélec, TSI, 2008.)
+
+Figure 4 : Relevé de température dans la troposphère et la stratosphère pour
+différentes altitudes h. (D’après : Concours Centrale-Supélec, TSI, 2008.)
+3.1.
+À l’aide de la figure 3, expliquer comment varie la pression dans le ballon sonde
+lorsque l’altitude augmente.
+3.2.
+Énoncer la loi de Mariotte relative au produit de la pression P par le volume V
+d’un gaz pour une quantité de matière donnée et une température constante.
+3.3.
+À l’aide de la loi de Mariotte, indiquer comment varie qualitativement le volume
+du ballon au cours de son ascension. Déterminer ensuite l’altitude maximale atteinte
+par le ballon au moment de l’éclatement.
+3.4.
+En réalité le ballon a atteint une altitude de 31 km, elle est supérieure à celle
+prévue dans la question précédente. Proposer une explication.
+
+PARTIE B
+
+Synthon d’un antihypertenseur (10 points)
+
+Irbésartan
+
+L’irbésartan, dont la formule est représentée ci-contre, est un composé organique utilisé dans
+le traitement de l’hypertension artérielle.
+Cette espèce présente des points communs avec une hormone produite naturellement par
+l’organisme responsable d’une élévation de la pression artérielle. L’irbésartan vient se fixer sur
+les récepteurs spécifiques de cette hormone, les empêchant alors de la reconnaître et évitant
+ainsi une élévation trop importante de la pression artérielle.
+d’après Thèse : Conception et synthèse de métalloprotéases et de cibles à ligand acide, Cousaert N.,
+2008 https://tel.archives-ouvertes.fr/tel-00356629/document
+
+Pour synthétiser une molécule complexe les chimistes la « coupe » fictivement en plusieurs
+fragments appelés « synthons ». Le choix des synthons se fait de telle sorte qu’ils soient
+fabriqués en un minimum d’étapes avec de bons rendements. Ces synthons réagiront ensuite
+entre eux pour conduire à la molécule souhaitée.
+Dans le cas de la synthèse de l’irbésartan, une équipe de chimiste a envisagé la fabrication
+des deux synthons ci-dessous (synthons 1 et 2) :
+
+« Coupure »
+
++
+
+Br
+
+Synthon
+Irbésartan
+Synthon 2Ce
+La synthèse du synthon
+1 se fait en trois étapes à partir de
+la molécule
+de cyclopentanone.
+sujet porte sur l’étape 1 de cette synthèse multi-étapes, celle permettant d’obtenir le
+composé A.
+
+étape 1
+
+étape 2
+
+puis étape 3
+
+Synthon 1
+
+Cyclopentanone
+
+A
+
+NH2
+
+Protocole expérimental de l’étape 1 :
+ Dans un ballon de 250 mL, introduire 5,2 g (80 mmol) de cyanure de potassium solide,
+8 mL d’eau et un barreau aimanté. Mettre le tout au-dessus d’un agitateur magnétique et
+agiter jusqu’à dissolution complète.
+ Introduire successivement 20 mL d’une solution aqueuse d’ammoniac de concentration en
+quantité de matière d’ammoniac 10,8 mol.L- 1, puis 6,3 mL de cyclopentanone dissous dans
+8 mL de méthanol.
+ Surmonter le ballon d’un réfrigérant, agiter et chauffer le mélange durant 45 minutes à
+60 °C.
+ Laisser refroidir tout en continuant à agiter durant 45 minutes.
+ Verser le mélange dans une ampoule à décanter et ajouter 50 mL de dichlorométhane.
+Séparer les phases.
+ Extraire la phase aqueuse avec trois fois 25 mL de dichlorométhane.
+ Rassembler les phases organiques et les sécher avec du sulfate de magnésium anhydre
+MgSO4 (s). Filtrer et récupérer la phase organique.
+ Le solvant organique est évaporé et on obtient alors 7,1 g d’une huile incolore : le composé
+A.
+Données:
+Quelques informations relatives aux espèces chimiques de l’étape 1 du protocole expérimental
+Espèce chimique,
+Formule brute
+Masse molaire
+Cyclopentanone
+C5 H8 O
+Mcyclo = 84,1 g∙mol -1
+Solution aqueuse d’ammoniac à 10,8 mol.L- 1
+NH3 (aq)
+MNH 3 = 17,0 g.mol - 1
+
+État physique
+Température d’ébullition
+Densité par rapport à l’eau à 20°C
+(à la pression atmosphérique)
+Liquide incolore
+Téb = 130,5 °C
+ρcyclo = 950 g.L-1
+Liquide incolore
+Téb = 50 °C
+NH3 (aq) = 910 g.L – 1
+
+Cyanure de potassium
+KCN (s)
+MKCN = 65,1 g∙mol-1
+A
+C6 H10 N2
+MA = 110,2 g∙mol-1
+
+Solide blanc
+Huile incolore
+
+Masse volumique de l’eau à 20°C : ρeau = 1000 g.L-1
+
+Masse volumique du dichlorométhane : ρ𝑑𝑖𝑐ℎ𝑙𝑜 = 1330 g.L-1
+Tableau des miscibilités entre différentes espèces chimiques
+Eau
+Dichlorométhane
+Eau
+Non miscible
+Dichlorométhane
+Non miscible
+Molécule A
+Bonne
+Très bonne
+
+Valeurs des électronégativités de certains atomes (selon Pauling)
+Atomes
+H
+Électronégativité
+2,1
+2,5
+3,5
+
+Molécule A
+Bonne
+Très bonne
+
+3,0
+
+1. À propos des réactifs et produits
+1.1. Définir un composé organique.
+1.2. Recopier la molécule de cyclopentanone et la molécule A sur la copie et y ajouter tous les
+doublets non liants de la molécule. Justifier la démarche.
+1.3. Entourer le groupe caractéristique présent sur la molécule de cyclopentanone et préciser
+le nom de la famille de composés associée.
+2. Analyse du protocole
+Deux solvants sont mélangés lors de cette synthèse, l’eau et le méthanol, dont le mélange est
+homogène.
+2.1. Représenter le schéma de Lewis de la molécule d’eau, puis celui de la molécule de
+méthanol de formule brute CH4O.
+2.2. Donner le nom de l’interaction prépondérante entre l’eau et le méthanol qui permet
+d’expliquer la présence d’une seule phase dans le milieu réactionnel. Justifier à l’aide d’un
+schéma.
+2.3. Citer le nom du montage utilisé lors du chauffage. Donner son intérêt.
+2.4. Donner le nom de l’opération effectuée lors des étapes  et  du protocole de synthèse.
+2.5. Sur l’annexe à rendre avec la copie compléter le schéma correspondant à la fin de
+l’opération . Préciser la nature des phases sur le schéma en justifiant la réponse sur la copie
+et indiquer dans quelle phase se trouve le composé A.
+
+2.6. Donner le nom de l’opération  et préciser le rôle du sulfate de magnésium anhydre
+ajouté à la phase organique lors de cette étape.
+3. Rendement de la synthèse
+L’équation de la réaction modélisant la transformation associée à l’étape 1 est la suivante :
+C5H8O(l) + CN(aq) + NH3 (aq)  C6H10N2 + HO (aq)
+3.1. Calculer les quantités de matière d’ammoniac et de cyclopentanone introduites
+initialement dans le milieu réactionnel.
+3.2. En déduire la valeur de l’avancement maximal de la réaction xmax .
+3.3. Définir le rendement de la synthèse et le calculer en admettant que l’huile incolore
+obtenue correspond au composé A pur.
+
+Annexe à rendre avec la copie
+Question 2.5.
+
+anneau
+potence

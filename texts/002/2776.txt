@@ -1,0 +1,291 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1359698, "at": "2026-11-23T09:25:25+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Un modèle pour la balle de tennis pendant le service (10 points)
+L’objet de l’exercice est de proposer un modèle pour l’étude du mouvement d’une balle de
+tennis.
+intensité de la pesanteur : g = 9,8 N/kg ;
+-6
+masse volumique de l’air à 20 °C : ρ = 1,0.10 kg/cm ;
+le diamètre des balles de tennis est en moyenne de 6,5 cm.
+1. Modélisation de la chute verticale de la balle
+Une balle, de masse m = 55 g, est lâchée sans vitesse initiale.
+On filme ce mouvement de chute verticale et, à l'aide d'un
+logiciel adapté, on relève les positions successives de la balle.
+Un programme informatique permet de calculer les énergies
+cinétiques, potentielles de pesanteur et mécaniques de la balle
+à partir des relevés.
+L’origine du repère est prise au sol, et l’axe des altitudes est
+dirigé vers le haut. On note A la position initiale de la balle
+lorsqu’elle quitte la main de l’opérateur, et B son point d’impact,
+sur le sol.
+Figure 1. Capture d’écran de la vidéo de la chute de la balle
+étudiée, et son repère de position.
+1.1. On identifie trois forces qui peuvent s’exercer sur la balle
+
+lors de son mouvement :
+• le poids P de la balle ;
+• la force de frottement f exercée par l’air sur la balle et qui dépend de la vitesse de la
+balle ;
+• la poussée d’Archimède FA , indépendante de la vitesse de la balle, qui est exercée
+par l’air sur la balle, dirigée vers le haut et de valeur FA = ρ⋅g⋅V, avec V le volume de
+la balle et ρ la masse volumique de l’air.
+Représenter sur votre copie un schéma de la balle modélisée par un point en M, à un
+instant quelconque de son mouvement ainsi que les forces s’exerçant sur elle, sans souci
+d’échelle.
+1.2. Comparer la valeur de la poussée d’Archimède au poids et en déduire que la poussée
+d’Archimède est négligeable devant le poids.
+1.3. Parmi les trois séries de points reproduites sur la figure ci-après, identifier en justifiant
+la réponse :
+• la série de points qui correspond aux mesures de l’énergie cinétique ;
+• la série de points qui correspond aux mesures de l’énergie potentielle de
+pesanteur ;
+• la série de points qui correspond aux mesures de l’énergie mécanique.
+
+Figure 2. Évolution au cours du temps des énergies cinétique, potentielle de pesanteur et
+mécanique de la balle
+
+1.4. À l’aide de ces courbes, justifier que l’on peut, dans cette étude, faire le choix de
+négliger les forces de frottement.
+1.5. À quelle force est due la variation d’énergie cinétique observée ? Donner la valeur de
+son travail sur le trajet AB.
+2. Modélisation du service au tennis
+L'objectif de cette seconde partie est de vérifier si le
+modèle proposé dans la première partie convient aussi
+pour le mouvement de la balle lors du service, c’est-à-dire
+une fois qu’elle a quitté la raquette, venant d’être frappée
+par le joueur qui engage. Pour la suite de l’exercice,
+toutes les forces sont négligées, sauf le poids.
+
+Figure 3. Joueuse de tennis au service, avant de frapper
+la balle (d’après https://pixabay.com).
+
+La position initiale de la balle est notée C, lieu où le contact est rompu avec la raquette. La
+vitesse de la balle en C, supposée horizontale, est notée vC . Son altitude est notée zC. Le
+schéma de la situation est représenté ci-dessous sans souci d’échelle. La balle atteint le sol
+au point D, à la vitesse de norme vD et à la même altitude que l’origine du repère choisi.
+C
+
+s
+
+Figure 4. Schéma de la situation sans souci d’échelle
+2.1. Reproduire la figure 4 et le compléter en représentant l'allure de la trajectoire de la balle
+lors du service.
+2.2. Montrer à l’aide d’un théorème énergétique que, dans les conditions du modèle
+proposé dans la première partie, la vitesse au point d'impact s'écrit : vD = v2C +2⋅g⋅zC
+
+2.3. Déterminer la valeur de vD pour zC = 2,20 m et vC = 200 km.h-1 pour ce modèle.
+Commenter.
+
+2.4. Avec les valeurs initiales précédentes, la valeur de la vitesse vDexp effectivement
+mesurée au point D est de l’ordre de 100 km.h-1. Proposer une hypothèse qui pourrait
+expliquer l’écart entre les valeurs de la vitesse mesurée et de celle déterminée avec le
+modèle précédent.
+PARTIE B
+Détermination du degré alcoolique d’un vin d’épines (10 points)
+Dans plusieurs régions de France, on fabrique du vin d’épines, un
+apéritif alcoolisé qui titre environ à environ 15 % en degré d’alcool.
+Cette boisson est préparée en faisant macérer de jeunes pousses
+de prunellier, un petit arbre rustique, dans un mélange de sucre, de
+vin et d’eau de vie* pendant un mois. Après filtration, ce mélange est
+mis en bouteille pour vieillir pendant au moins trois mois, avant de
+pouvoir être dégusté. En fin de période de vieillissement, il est
+possible de vérifier le degré d’alcool du vin d’épines fabriqué en
+réalisant un titrage suivi par colorimétrie.
+On considère que l'alcool présent dans les boissons alcoolisées est une seule et même
+espèce chimique : l’éthanol.
+Le degré d’alcool d’une boisson alcoolisée, noté (°), correspond au volume d'éthanol pur
+contenu dans 100 mL de boisson. Par exemple,100 mL d’une boisson à 35° contient 35 mL
+d’éthanol pur.
+*boisson alcoolisée obtenue par distillation de jus fermentés de fruits, de céréales ou de
+tubercules.
+L’objectif de cet exercice est d’étudier quelques propriétés de l’éthanol et de déterminer le
+degré d’alcool d’un vin d’épines.
+1. À propos de l’éthanol
+- Représentations moléculaires de l’éthanol et de l’acide éthanoïque
+Ethanol
+Acide éthanoïque
+Formule brute
+Modèle moléculaire
+Formule semidéveloppée
+
+C2H6O
+
+-
+
+Électronégativité selon l'échelle de Pauling de quelques éléments
+
+Elément
+
+C
+
+H
+
+O
+
+Électronégativité χ
+
+2,55
+
+2,20
+
+3,44
+
+-
+
+Bandes d’absorption en spectroscopie IR
+O-H (alcool)
+O-H (acide)
+Liaison
+Nombre
+d’onde (cm-1)
+
+3200 - 3400
+bande forte et large
+
+C=O
+
+2500 - 3200
+1700 - 1800
+bande forte et très large bande forte et fine
+
+1.1. Représenter le schéma de Lewis de l’éthanol.
+1.2. Justifier le fait que la molécule d’éthanol est une molécule polaire.
+1.3. Expliquer pourquoi l’éthanol est miscible avec l’eau.
+1.4. En présence d’un excès d’oxydant, l’éthanol peut être oxydé en acide éthanoïque.
+Les spectres infrarouges de l’acide éthanoïque et de l’éthanol sont donnés ci-dessous.
+Expliquer comment on peut les utiliser pour justifier que la transformation de l’éthanol en
+acide éthanoïque a eu lieu.
+Spectre infrarouge de l’acide éthanoïque
+
+Spectre infrarouge de l’éthanol
+
+D’après tice.ac-montpellier.fr
+
+2. Détermination du degré d’alcool du vin d’épines
+Le vin d’épines étant constitué de diverses espèces chimiques, on effectue une distillation
+fractionnée d’un mélange de 50 mL de vin d’épines et d’eau pour en extraire l’éthanol. On
+verse le distillat dans une fiole jaugée de 500 mL et on complète avec de l’eau distillée. On
+obtient 500 mL de solution notée S contenant tout l’éthanol initialement présent dans
+50 mL de vin d’épines.
+
+L’éthanol réagit avec les ions permanganate en milieu acide, mais cette transformation,
+quoique totale, est lente : elle ne peut donc pas être le support d’un titrage. On procède
+donc en deux étapes.
+Étape 1 : on introduit les ions permanganate en excès dans un volume donné de la solution
+S pour transformer tout l’éthanol présent en acide éthanoïque et on laisse le temps
+nécessaire à la transformation de s’effectuer.
+Étape 2 : on réalise ensuite le titrage des ions permanganate restants par les ions Fe2+.
+- Couples oxydant-réducteur :
+acide éthanoïque / éthanol : C2H4O2(aq) / C2H6O (aq)
+ion permanganate / ion manganèse : MnO4-(aq) / Mn2+(aq)
+- Demi-équation électronique : MnO4-(aq) + 8 H+(aq) + 5 e- = Mn2+(aq) + 4 H2O(l)
+- Masse volumique de l’éthanol : 0,79 g.mL-1
+- Masse molaire de l’éthanol : M = 46 g.mol-1
+- Toutes les espèces chimiques en solution sont incolores mis à part les ions permanganate
+qui sont violets.
+2.1. Étude de l’étape 1
+On s’intéresse ici à la réaction entre les ions permanganate et l’éthanol.
+Dans un erlenmeyer, on mélange V0 = 2,0 mL de solution S et V1 = 25,0 mL d'une solution
+acidifiée de permanganate de potassium (K+(aq) +MnO4- (aq)) de concentration en quantité de
+matière C1 = 5,00.10–2 mol.L–1 .
+On bouche l'erlenmeyer et on laisse réagir pendant environ 30 minutes, à 60°C.
+2.1.1.
+Établir que l’équation de réaction entre l’éthanol et les ions permanganate en milieu
+acide s’écrit : 5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+(aq) → 5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O (ℓ)
+2.1.2.
+Compléter le tableau d'avancement en ANNEXE A RENDRE AVEC LA COPIE, en
+utilisant comme notation :
+- n0, quantité de matière initiale d'éthanol présente dans le volume V0
+- n1, quantité de matière initiale d'ions permanganate présente dans le volume V1.
+2.1.3.
+En s'appuyant sur le tableau d'avancement de l’ANNEXE A RENDRE AVEC LA
+COPIE, montrer que dans l'état final, la quantité d'ions permanganate restant dans
+l'erlenmeyer peut s'écrire :
+
+2.2. Étude de l’étape 2
+On titre les ions permanganate restants à la fin de l’étape 1, directement dans l’erlenmeyer,
+par une solution aqueuse contenant des ions Fe2+ à la concentration en quantité de matière
+C2 = 3,00.10-1 mol.L-1.
+L'équation de la réaction de support du titrage entre les ions permanganate MnO4- et les
+ions Fe2+ est : MnO4– (aq) + 5 Fe2+(aq) + 8 H+(aq) → Mn2+(aq) + 5 Fe3+(aq) + 4 H2O(ℓ)
+Le volume de solution titrante versé pour atteindre l’équivalence est V2éq = 14,1 mL.
+2.2.1.
+Définir du terme « équivalence » utilisé lors d’un titrage.
+2.2.2.
+Préciser, en justifiant, le changement de couleur qui permet de repérer l’équivalence.
+2.2.3.
+Indiquer la relation qui existe, à l’équivalence, entre les quantités de matière d’ions
+permanganate présents initialement et les ions Fe2+ versés à l’équivalence.
+2.2.4.
+La quantité d'éthanol initialement présente dans le volume 50 mL de vin d’épines est
+alors donnée par la relation :
+
+é
+
+é
+
+.
+
+Déterminer si le degré d’alcool annoncé de ce vin d’épines est conforme à celui annoncé
+pour ces apéritifs.
+Le candidat est invité à présenter son raisonnement de manière claire et ordonnée. Toute
+tentative de réponse, même incomplète, sera valorisée.
+
+ANNEXE À RENDRE AVEC LA COPIE
+
+Question 2.1.2 :
+
+Équation de la réaction
+
+5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+ →
+
+État
+
+Avancement
+(mol)
+
+n(C2H6O)
+
+n(MnO4-)
+
+Initial
+
+n0
+
+n1
+
+En
+cours
+Final
+
+n(H+)
+
+5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O(l)
+n(C2H4O2)
+
+n(Mn2+)
+
+n(H2O)
+
+x
+
+xf
+
+Remarques :
+•
+•
+
+On rappelle que l'ion permanganate est introduit en excès.
+L'eau étant le solvant et l'ion hydrogène n'étant pas limitant, leurs quantités ne seront
+pas précisées.

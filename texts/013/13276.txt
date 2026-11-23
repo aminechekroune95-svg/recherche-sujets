@@ -1,0 +1,344 @@
+{"pages": 18, "method": "pdftotext", "bytes": 2269658, "at": "2026-11-23T09:25:46+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT :
+DURÉE DE L’ÉPREUVE : 2h-Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec
+mode examen devront l’activer le jour des épreuves et les calculatrices dépourvues
+de mémoire seront autorisées. Ainsi tous les candidats composeront sans aucun
+accès à des données personnelles pendant les épreuves.
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 5 à 7
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 7 à 10
+Documents techniques ............................................... Pages 11 à 14
+Documents réponses ................................................... Pages 15 à 18
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+GYROPODE « HOVERBOARD »
+L’objet de cette étude est un gyropode (souvent appelé « hoverboard »).
+Un gyropode est un véhicule de loisirs permettant d e s e déplacer rapidement,
+silencieusement e t sans émission polluante dans l’espace dévolu aux piétons. Le
+système étudié sera un gyropode à roues de diamètre 6,5 pouces (16,51cm) dont on
+donne la description ci-dessous :
+
+P
+l
+
+Description :
+Le gyropode est constitué de 2 plateformes (droite et gauche) reliées entre elles par
+un axe leurs permettant une rotation relative l’une par rapport à l’autre.
+Chaque plateforme contient :
+ Un ensemble moteur brushless associé à une roue ;
+ Un capteur d’inclinaison permettant d’acquérir l’angle d’inclinaison de la
+plateforme par rapport à l’horizontale ;
+ Un capteur de vitesse permettant d’acquérir la vitesse de rotation du moteur ;
+ Un capteur de présence.
+L’ensemble contient également une batterie et une carte électronique (carte de
+commande et de puissance, carte Leds).
+
+Fonctionnement :
+Par l’intermédiaire de ses pieds, l’utilisateur génère l’inclinaison des plateformes par
+rapport à l’horizontal de manière indépendante. La mesure de cette inclinaison, est
+interprétée par la carte électronique comme une consigne de vitesse pour les moteurs.
+
+La carte électronique génère alors le signal correspondant de commande de la tension
+d’alimentation des moteurs.
+Caractéristiques :
+ Puissance Moteur : 700 Watts (2 moteurs de 350W) ;
+ Batterie : 36 V - 4.4 Ah (lithium-ion) ;
+ Autonomie : 1h environ ou 5 km avec une charge complète (varie selon le poids de
+l’utilisateur, le type de terrain pratiqué et la vitesse d’utilisation) ;
+ Temps de chargement : 2 à 3 heures ;
+ Vitesse maximale : 15 km·h-1 en fonction du poids de l’utilisateur ;
+ Charge maximale de l’utilisateur : 120 kg.
+
+EXERCICE 1 : ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+OBJECTIF : vérifier l’autonomie du gyropode
+Question I-1
+
+Donner le « service attendu » offert par le système du point de vue
+utilisateur, en complétant le diagramme de cas d’utilisation (voir
+document réponse DR1). Puis à partir du diagramme des exigences
+(voir document technique DT1), donner l’exigence permettant de
+définir l’autonomie du gyropode ainsi que les paramètres de la
+batterie permettant de satisfaire cette exigence.
+
+Dans le but de vérifier l’autonomie du gyropode, un modèle multi-physique de la chaîne
+de puissance est élaboré (voir document technique DT3). Il comprend entre autres la
+batterie, les moteurs, et prend en compte la masse de la personne, les inerties des
+roues et la résistance au roulement.
+Nota : Le contrôle de la stabilité ne sera pas étudié ici.
+Les courbes de la fig1. sont le résultat d’une simulation effectuée avec le modèle multiphysique du gyropode. La simulation a été réalisée en considérant une personne
+utilisant le gyropode ayant une masse de 70 Kg.
+
+courant (A)
+distance (m)
+
+Temps
+(en
+s) la batterie et de la distance parcourue
+Fig.1 : courbes du courant délivré
+par
+
+Cette courbe présente l'évolution du courant délivré par la batterie lors d'un
+déplacement type à une vitesse de 6 km·h-1 sur un sol plat (vitesse maximale autorisée
+sur une voie piétonne). La distance totale parcourue lors de ce parcours est de 8
+mètres. Ce parcours type est composé de quatre phases :
+
+Phase 1 : démarrage et déplacement de 3 m en ligne droite sur un plan
+horizontal (vitesse : 6 km·h-1) ;
+ Phase 2 : montée sur 1 m en ligne droite sur un plan incliné à 10°
+(vitesse : 2,46 km·h-1) ;
+ Phase 3 : déplacement de 3 m en ligne droite sur un plan horizontal
+(vitesse : 6 km·h-1) ;
+ Phase 4 : ralentissement sur 1 m jusqu’à l’arrêt complet.
+Durant ce parcours, la valeur de la tension aux bornes de la batterie est considérée
+constante et égale à 36 V.
+Question I-2
+
+Identifier sur le document DR2 les différentes phases du parcours
+type (phases 1 à 4) puis relever sur la fig. 1 la valeur du courant
+électrique i1 lorsque le gyropode se déplace sur un sol horizontal et
+la valeur du courant électrique i2 lorsque le gyropode se déplace sur
+une montée inclinée à 10°.
+
+Courant
+(en A)
+
+La mesure des courants consommés pendant les différentes phases du parcours
+précédent sur le système réel a permis d'obtenir la courbe de la fig2.
+
+Temps
+(en s) durant le parcours type réel
+Fig.2 Intensité délivrée par la batterie
+
+Question I-3
+
+Comparer l'allure des courbes « simulée » fig.1 et « réelle »
+fig.2 ainsi que les valeurs moyennes des courants i1 et i2 lorsque le
+gyropode se déplace sur un sol horizontal et sur une montée inclinée
+à 10°. Conclure sur la validité du modèle multi-physique.
+
+Question I-4
+
+Calculer l'énergie nominale en W·h stockée dans la batterie lorsque
+celle-ci est complètement chargée W bat.
+
+Question I-5
+
+Évaluer en A·h la charge de batterie consommée durant le parcours
+type sachant qu’elle représente l’aire définie par la courbe du courant
+de la fig.1 (faire des hypothèses et effectuer les tracés sur DR2).
+Puis calculer l'énergie consommée W conso lors du parcours type.
+Quel que soit le résultat trouvé précédemment, on suppose que la
+charge de la batterie consommée durant le parcours est de 27 A·s.
+
+Question I-6
+
+En déduire le nombre de parcours types qu’il serait possible
+d’effectuer, l'autonomie du gyropode tauto (en heures) s'il n'effectue
+que des parcours types ainsi que la distance qu'il est possible de
+parcourir.
+Comparer ces résultats avec les données du constructeur et
+commenter les écarts observés.
+
+EXERCICE 2 : MODIFICATION DU COMPORTEMENT DE L’HOVERBOARD
+Dans le cas où le conducteur se lance à vitesse maximale, et que le niveau de la
+batterie est faible l’hoverboard s’arrête brusquement et peut causer des dommages
+importants sur le conducteur.
+L’objectif de cette partie est donc d’élaborer un algorigramme qui permettra d’assurer
+la sécurité du conducteur lorsque la batterie est déchargée, ceci en évitant un arrêt
+brusque de l’hoverboard et en signalant visuellement l’état de charge de la batterie.
+
+L’hoverboard est équipé d’une batterie lithium-ion dont la courbe de décharge est
+présentée sur la fig.3.
+
+Batterie lithium-ion
+Tension de batterie
+(en V)
+
+36,5
+35,5
+34,5
+33,5
+32,5
+31,5
+30,5
+29,5
+28,5
+27,5
+26,5
+25,5
+
+36 V - 4,4 Ah
+
+Charge restante (en %)
+Fig.3 courbe de décharge de batterie
+
+Afin de connaître l’état de charge de la batterie en temps réel, il est nécessaire
+d’implanter un capteur pour l’acquisition de la tension de la batterie. Son choix
+nécessite de connaître la plage de mesure de cette tension nommée V_bat.
+Question II-1
+
+À partir de la courbe de la fig.3, relever la valeur de la tension de
+la batterie :
+- lorsque celle-ci est chargée à 99% ;
+- lorsque celle-ci est déchargée de 90%.
+Vous ferez apparaitre les tracés sur le document DR3.
+
+Un algorigramme a été élaboré afin de permettre un arrêt graduel de l’hoverboard
+lorsque la batterie de celui-ci atteint 90% de décharge, comme le présente la fig.4 cidessous.
+
+Début
+
+Nota : - CTR représente une variable qui s’incrémentera (compteur) ;
+- La vitesse est en km·h-1.
+
+Initialiser
+Page
+8 / 18CTR à 0
+
+Fig.4 Algorigramme d’arrêt graduel de l’hoverboard
+
+Hypothèse : L’hoverboard se déplace en ligne droite sur un plan horizontal.
+Question II-2
+
+À l’aide de l’algorigramme de la fig.4, définir le temps d’arrêt de
+l’hoverboard et le type exact de mouvement auquel il est soumis
+pendant cette phase. En déduire la distance parcourue avant un
+arrêt complet lorsqu’il roulait initialement à sa vitesse maximale.
+
+Observation : Le temps d’arrêt actuel reste encore trop long.
+Question II-3
+
+Réécrire la partie de l’algorigramme de la fig.4 que vous devez
+modifier afin que l’hoverboard s’arrête en 3 secondes.
+
+On désire également donner un indicateur visuel de l’état de batterie à l’utilisateur.
+Dans l’algorigramme de la fig.4 est placé un appel de « sous-programme » pour
+introduire une « Gestion des LEDs » (bleu, orange, rouge), ce sont les LEDs des
+« cartes à LEDs » présentent sur l’avant de l’hoverboard.
+
+Question II-4
+
+Compléter l’algorigramme « Gestion des LEDs » du document
+réponse DR4 permettant de visualiser le niveau de batterie, en
+respectant les exigences suivantes :
+- LED bleu allumée pour la charge supérieure à 99% ;
+- LED rouge allumée lorsqu’elle est déchargée à 90% ;
+- LED orange allumée tout autre niveau de charge.
+Vous utiliserez les variables :
+« L_Bleu » : Led de couleur bleu
+« L_Orange » : Led de couleur orange
+« L_Rouge » : Led de couleur rouge
+« V_bat » : Valeur de la tension de batterie
+
+Fonctionnement : « L_Bleu = 1 » led bleu allumée, « L_Bleu = 0 » led bleu éteinte.
+
+Question II-5
+
+Compléter le diagramme de définition de blocs (voir document
+réponse DR5) en ajoutant les cartes à LEDs.
+
+DOCUMENTS TECHNIQUES
+DT1 Diagramme des exigences
+
+DT2 Diagramme de définition de blocs
+
+DT3 Diagramme de blocs internes (partiel)
+
+DT4 Schéma multi-physique
+
+DOCUMENTS RÉPONSES
+DR1
+Question I-1 : Diagramme de cas d’utilisation
+
+DR2
+Question I-2 : phases du parcours type
+Question I-5 : évaluation de la charge de batterie consommée
+
+courant (A)
+distance (m)
+
+DR3
+Question II-1 : tracés
+
+Batterie lithium-ion
+Tension de batterie
+(en V)
+
+36,5
+35,5
+34,5
+33,5
+32,5
+31,5
+30,5
+29,5
+28,5
+27,5
+26,5
+25,5
+
+36 V - 4,4 Ah
+
+Charge restante (en %)
+
+DR4
+Question II-4 : Algorigramme « Gestion des LEDs »
+
+Déb
+ut
+
+Lire
+V_bat
+
+Si
+V_Ba
+t…....
+
+DR5
+Question II-5 : Diagramme de définition de blocs

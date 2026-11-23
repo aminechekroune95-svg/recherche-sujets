@@ -1,0 +1,348 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1653861, "at": "2026-11-23T09:30:19+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Élimination d’une substance dans le sang
+Sur 8 points
+
+Les parties A, B et D de cet exercice peuvent être traitées de façon indépendante.
+Dans la partie C, on attend du candidat qu’il compare la pertinence des modèles
+étudiés dans les parties A et B.
+
+Partie A
+On injecte une dose de 1 gramme d'un médicament dans le sang d'un patient. On
+souhaite étudier la quantité de médicament présente dans le sang en fonction du
+temps. On sait que le médicament est progressivement éliminé par l’organisme de
+sorte que, chaque heure, la quantité de médicament présente dans le sang diminue
+de 30 %.
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de
+médicament (exprimée en grammes) qui est présente dans le sang du patient après
+𝑛 heures écoulées depuis l’injection. Sous ces conditions, on a 𝑢0 = 1.
+1- Justifier que, selon cette modélisation, 𝑢1 = 0,7 et 𝑢2 = 0,49 .
+On admet alors que la suite (𝑢𝑛 ) est une suite géométrique de raison 0,7.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3- On sait que le médicament n’est plus actif lorsque la quantité présente dans le
+sang est strictement inférieure à 0,2 g. D’après cette modélisation, pendant quelle
+durée le médicament est-il actif ? Expliquer brièvement la démarche.
+
+Partie B
+Dans cette partie on suppose que la quantité de médicament présente dans le sang
+du patient (exprimée en grammes) peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par 𝑓(𝑡) = 0,7𝑡 où 𝑡 représente le temps écoulé depuis l’injection
+(exprimé en heures).
+Ci-après, on donne la courbe représentative 𝐶𝑓 de la fonction 𝑓 dans un repère
+orthogonal du plan.
+On a tracé en pointillés la droite tangente à 𝐶𝑓 au point A d’abscisse 3.
+
+4- Avec la précision permise par le graphique, répondre aux deux questions
+suivantes :
+4-a- Quelle est la quantité de médicament présente dans le sang trois heures après
+l’injection ?
+4-b- Quelle est la valeur de 𝑓’(3)? Comment interpréter cette valeur dans le contexte
+de l’exercice ?
+
+5-a- Recopier et compléter le tableau de valeurs ci-dessous à l'aide d’une
+calculatrice (on arrondira à 0,01).
+𝑡
+
+𝑓(𝑡)
+
+0,24
+
+4,1
+
+4,2
+
+4,3
+
+4,4
+
+4,5
+
+4,6
+
+4,7
+
+4,8
+
+4,9
+
+5-b- On rappelle que le médicament n’est plus actif lorsque la quantité présente dans
+le sang est strictement inférieure à 0,2 g.
+Donner une valeur approchée à 0,1 du temps au bout duquel le médicament cesse
+d’être actif.
+
+Partie C
+On souhaite donner une indication précise sur la durée du principe actif du
+médicament.
+6- D’après vous quel est le modèle le plus pertinent ? Justifier brièvement la réponse.
+
+Partie D
+Le médicament a pour but de faire baisser le taux de glycémie chez des patients
+ayant un taux de glycémie anormalement élevé. Afin de tester l’efficacité de ce
+médicament sur un groupe de patients (que l’on appellera « groupe-test » par la
+suite), on procède comme ceci : 60 % des patients de ce groupe reçoivent le
+médicament et les autres patients reçoivent un placebo.
+À l’issue du traitement, on mesure leur taux de glycémie et les résultats sont les
+suivants :
+-
+
+chez les patients ayant reçu le médicament, on observe une baisse du taux de
+glycémie dans 15 % des cas ;
+
+-
+
+chez les patients ayant reçu le placebo, on n’observe aucune baisse du taux
+de glycémie dans 90 % des cas.
+
+On choisit au hasard un patient du groupe-test et on note :
+𝑀 l’événement « le patient a reçu le médicament »
+̅ l’événement « le patient a reçu le placebo»
+𝑀
+𝐵 l’événement « on observe chez le patient une baisse du taux de glycémie »
+7- D’après les données ci-dessus, quelle est la valeur de 𝑃𝑀̅ ( 𝐵) ?
+̅ ∩ 𝐵) et interpréter ce résultat.
+8- Calculer la probabilité 𝑃( 𝑀
+9- On admet que 𝑃(𝐵) = 0,13. On choisit au hasard un patient du groupe-test et on
+constate que son taux de glycémie a baissé. Quelle est la probabilité qu’il ait pris le
+placebo (on arrondira au centième) ?
+10- À votre avis, peut-on considérer que ce test a prouvé l’efficacité du
+médicament ? Justifier.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+« Vers l’horizon et au-delà ! »
+Sur 12 points
+Un adulte et un enfant regardent la mer depuis la plage. L’enfant s'interroge :
+« Comment sait-on que la Terre est ronde, alors que l'horizon semble plat ? »
+Document 1a – Observations dans l’Antiquité
+« Quand un navire quitte la terre, sa coque est cachée en premier tandis que son
+mat est encore visible. »
+Source : Cléomède,« Théorie des mouvements circulaires des corps célestes »,
+Ier siècle av. J.-C.
+
+Document 1b – Photographies d’un navire quittant la côte
+
+Navire loin
+de la côte
+
+Navire proche
+de la côte
+
+1- Expliquer en quoi les observations décrites dans les documents 1a et 1b
+permettent de justifier que la Terre n’est pas plate. On pourra s’aider d’un ou de
+plusieurs schémas.
+2- Donner, à l'aide de vos connaissances, une autre observation faite dans
+l’Antiquité confirmant l’idée d’une Terre ronde.
+Après quelques explications, l’adulte montre à l’enfant le bateau qu’il voit à l’horizon,
+mais l’enfant ne le voit pas ! On cherche maintenant à expliquer pourquoi.
+Document 2 – Détermination de la distance 𝒅 à l'horizon pour l’adulte
+Rayon de la Terre :
+𝑅 = 6371𝑘𝑚 = 6,371 × 106 𝑚
+Hauteur des yeux de l’adulte par
+rapport au niveau de la mer :
+ℎ = 1,75𝑚
+Distance à l’horizon où se situe le bateau : 𝑑
+Figure 1 – Schéma explicatif
+
+Document 3 – Distance 𝒅 à l’horizon en fonction de la hauteur 𝒉 des yeux
+d’un observateur au niveau de la mer
+5500
+
+distance d (m)
+
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+0,5
+
+0,7
+
+0,9
+
+1,1
+
+1,3
+
+1,5
+
+1,7
+
+1,9
+
+2,1
+
+hauteur h (m)
+
+3- En utilisant le document 2 et le théorème de Pythagore, exprimer la distance 𝑑
+en fonction de 𝑅 et de ℎ puis montrer que 𝑑 peut s’écrire :
+ℎ
+
+𝑑 = √ℎ × 𝑅 × (2 + 𝑅).
+
+ℎ
+
+4- Justifier que 2 + 𝑅 ≈ 2.
+Pour la suite de l’exercice, on admet que la distance à l’horizon s’exprime :
+𝑑 ≈ √2 × 𝑅 × ℎ.
+5- Calculer 𝑑 et préciser si la valeur obtenue est compatible avec le document 3.
+6- Justifier pourquoi l’enfant ne peut pas voir le bateau. (On estimera la hauteur ℎ
+de ses yeux à 1,10 m).
+
+Exercice 3 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le sang des glaciers
+Sur 12 points
+L’expression « Le sang des glaciers » désigne le rosissement des glaciers par une
+espèce d’algues des neiges. Nous nous intéresserons dans une première partie à
+l’énergie solaire reçue par la Terre et au phénomène de l’albédo, puis dans une
+seconde partie nous chercherons à comprendre en quoi ce type d’algues peut
+contribuer au réchauffement climatique.
+Partie A – Comprendre l’albédo
+Document 1 – Modélisation permettant le calcul de la puissance rayonnée
+À une distance donnée du Soleil, la totalité de la
+puissance émise par le Soleil se trouve
+uniformément répartie sur une sphère de rayon
+égal à cette distance.
+La puissance surfacique 𝑃𝑆 reçue par chaque point
+de la sphère imaginaire est donc donnée par la
+formule suivante :
+PS =
+
+PT
+, exprimée en W · m−2
+S
+
+Avec 𝑃𝑇 la puissance totale du soleil qui vaut 3,87 × 1026 W et 𝑆 la surface de la
+sphère imaginaire.
+Sur le schéma ci-contre, la Terre et le Soleil ne sont pas représentés à l’échelle.
+On rappelle que l’aire d’une sphère de rayon 𝑅 est 𝑆𝑠𝑝ℎè𝑟𝑒 = 4𝜋𝑅 2 et que l’aire d’un
+disque de rayon 𝑅 est 𝑆𝑑𝑖𝑠𝑞𝑢𝑒 = 𝜋𝑅 2 .
+1- À partir de vos connaissances, nommer le phénomène physique à l’origine de
+l’énergie dégagée par le Soleil.
+2- Montrer par le calcul, à l’aide du document 1, que la puissance solaire 𝑃𝑆 reçue
+par mètre carré à la distance 𝐷 du Soleil est environ de 1 370 W ∙ m−2 .
+
+3- La Terre intercepte le rayonnement solaire sur une surface correspondant à un
+disque de rayon 𝑅 = 6 400 km. Calculer l’aire de cette surface, exprimée en m2 .
+4- La puissance surfacique solaire correspond à la puissance solaire reçue par une
+surface d’un mètre carré. Montrer par le calcul que la puissance solaire 𝑃reçue
+reçue par la Terre d’après ce modèle simplifié est voisine de 1,8 × 1017 W.
+5- La puissance solaire moyenne reçue par la Terre se répartit sur toute la surface
+𝑃
+
+de la sphère qu’elle constitue : 𝑃moy = 𝑆reçue . Montrer que la puissance solaire
+Terre
+
+moyenne reçue par unité de surface vaut 342 W · m−2 .
+
+Document 2 – Bilan radiatif
+La puissance solaire qui est reçue par la Terre peut être réfléchie, absorbée,
+réémise.
+Le schéma ci-dessous présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère et de la surface terrestre.
+
+Source : d’après l’auteur
+
+Document 3 – Albédo
+L'albédo A d'une surface permet d’évaluer l’effet de réflexion de la lumière
+incidente par une surface. C’est le rapport entre la puissance de rayonnement
+réfléchie par une surface (P réfléchie) et la puissance de rayonnement incident sur
+cette même surface
+(P incidente).
+L’albédo A est une valeur sans
+unité, comprise entre 0 et 1.
+𝑃réfléchie (W · m−2 )
+𝐴=
+𝑃incidente (W · m−2 )
+Moins le rayonnement incident est réfléchi, plus la surface chauffe.
+Source : https://planet-terre.ens-lyon.fr
+
+6- À l’aide des documents 2 et 3, montrer que l’albédo terrestre moyen qui
+correspond à l’albédo de l’ensemble {atmosphère + surface de la Terre} vaut
+environ 0,3.
+7- À l’aide du document 2, justifier à l’aide de calculs que le bilan radiatif terrestre
+est équilibré.
+8- En vous appuyant sur les documents 2 et 3 et sur vos connaissances, citer deux
+phénomènes qui peuvent contribuer à déséquilibrer ce bilan et entrainer un
+réchauffement climatique. Justifier votre réponse.
+Partie B – Origine et conséquences de la couleur rose des glaciers
+Les algues des neiges sont des algues unicellulaires
+capables de vivre à une température d’environ 0 °C. La plus
+courante d’entre elles est la Chlamydomonas nivalis
+(observée au microscope optique sur la photographie cicontre). C’est une algue verte qui en plus de la chlorophylle,
+contient un pigment rouge de type caroténoïde à l’origine de
+la coloration rose-clair des glaciers. Cet organisme, d’une
+teinte rose-clair, remonte à la surface, en été, pour pouvoir
+accéder à l’eau liquide et se multiplie activement.
+Source : d’après https://www.semanticscholar.org/
+
+Document 4 – Identification du métabolisme de cet organisme
+De la glace rose contenant des Chlamydomonas nivalis est fondue et placée dans
+une enceinte hermétique. Les teneurs en dioxygène et en dioxyde de carbone
+dans l’eau sont relevées sous différentes conditions d’éclairement. Le graphique
+ci-dessous présente l’évolution des teneurs en dioxygène et dioxyde de carbone
+dans de l’eau contenant Chlamydomonas nivalis.
+
+Source : Bac S SVT 2017 Afrique
+
+9- À partir de l’étude du document 4 et de vos connaissances, montrer que
+Chlamydomonas nivalis est un organisme photosynthétique.
+Document 5 – Mesure de l’albédo de glace présentant différentes teintes
+On a mesuré l’albédo de la glace non colorée ainsi que de la glace colorée par
+différents colorants.
+Surface
+
+Albédo
+
+Glace non colorée
+Glace rose
+Glace verte
+Glace bleue
+
+0,60
+0,42
+0,52
+0,48
+Source : D’après l’auteur
+
+10- D’après l’étude des documents 3 et 5, expliquer en quoi la présence de
+Chlamydomonas nivalis peut être une menace pour les glaciers d’altitude.
+11- Ce type d’algues de neige s’observe également au niveau des zones polaires.
+Justifier le fait que les algues des neiges peuvent contribuer au réchauffement
+climatique.

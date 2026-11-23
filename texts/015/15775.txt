@@ -1,0 +1,281 @@
+{"pages": 14, "method": "pdftotext", "bytes": 2007421, "at": "2026-11-23T09:27:50+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+L’évolution humaine
+Pour reconstituer l’histoire évolutive des humains, il faut en premier lieu préciser leur
+place au sein du monde vivant actuel. Les humains font partie du groupe des
+primates avec lesquels ils partagent de manière exclusive certains caractères. On
+souhaite étudier comment les scientifiques réussissent à établir des liens de parenté
+entre les humains et les autres primates.
+La phylogénie est l’étude des relations de parenté entre les êtres vivants basée sur
+le partage de caractères dérivés, c’est à dire des caractères qui proviennent de la
+transformation d’un caractère ancestral à la suite d’une innovation évolutive.
+Ainsi, plus le nombre de caractères dérivés partagés entre deux espèces est élevé,
+plus elles sont apparentées et plus leur ancêtre commun est récent.
+Document 1 – Matrice de caractères morpho-anatomiques de 8 espèces
+obtenue à l’aide du logiciel Phylogène
+
+En gras : état dérivé du caractère
+En italique : état ancestral du caractère
+Source : logiciel phylogène.
+
+1- Recopier sur votre feuille l’arbre de parenté obtenu avec le logiciel Phylogène ciaprès. Positionner les espèces présentes dans la matrice de caractères sachant
+que le Toupaïe est considéré comme l’extragroupe (espèce chez qui l’ensemble
+des caractères morpho-anatomiques étudiés existent sous l’état ancestral).
+
+Arbre à recopier sur la copie et à compléter
+2- Positionner sur votre arbre les innovations évolutives qui correspondent aux
+caractères dérivés de la matrice.
+3- Citer les espèces qui sont les plus apparentées aux humains. Justifier votre
+réponse.
+4- En utilisant le document 2 page suivante, calculer la proportion de bases
+similaires entre les séquences de la NAD de l’Homme et du chimpanzé, puis de
+l’Homme et du gorille.
+5- En déduire les liens de parenté qui existent entre l’Homme, le chimpanzé et le
+gorille.
+6- En utilisant le document 3 page suivante et en se basant sur le pourcentage de
+similarités entre les séquences d'ADN de la NAD, calculer l'intervalle de
+confiance à 95 % du pourcentage de similarités entre les séquences d'ADN de
+l'Homme et du chimpanzé. Expliquer ce que signifie cet intervalle.
+7- Proposer deux arguments illustrant le fait que le chimpanzé soit le primate le plus
+apparenté à l’Homme.
+
+Document 2 – Le gène impliqué dans la synthèse de la NAD, un gène présent
+dans les cellules de tous les êtres vivants
+La comparaison des séquences nucléotidiques du gène impliqué dans la synthèse
+de la NAD, permet de préciser les relations de parenté entre l’Homme, le
+chimpanzé et le gorille.
+
+Données moléculaires obtenues avec le logiciel Anagène
+Source : logiciel anagène.
+
+Document 3 – Calcul simplifié d’un intervalle de confiance à 95 %
+Pour calculer de manière simplifiée un intervalle de confiance à 95 %, on évalue la
+limite inférieure Linf et la limite supérieure Lsup de l’intervalle selon les formules :
+Linf = p - (z x ES)
+
+Lsup = p + (z x ES)
+
+avec :
+𝑝×(1−𝑝)
+
+ES : l'erreur standard, calculée avec la formule ES = √
+
+p : la proportion de bases similaires et n : le nombre total de bases ;
+
+z : la valeur critique pour un niveau de confiance donné.
+
+𝑛
+
+;
+
+Exemple : z est estimée à 1,96 pour un niveau de confiance de 95 %.
+Source : Théorème de Moivre Laplace
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le Soleil, source de vie sur Terre ?
+Le Soleil émet un rayonnement électromagnétique dans toutes les directions ; une
+partie de ce rayonnement est reçue par la Terre et constitue une source d’énergie
+essentielle à la vie. De même, l’atmosphère terrestre contribue à créer des
+conditions propices à la vie sur Terre.
+Partie 1 – Le rayonnement solaire
+Document 1 – Spectre du rayonnement émis par le Soleil en fonction de la
+longueur d’onde
+
+Source : D’après https://www.ilephysique.net/img/forum_img/0258/forum_258713_1.jpg
+
+La relation entre la température en degrés Celsius θ (°C) et la température absolue T
+en kelvins (K) est : T(K) = 273 + θ(°C).
+Le Soleil peut être modélisé par un corps noir, qui émet un rayonnement thermique
+correspondant à une température d’environ 5800 K.
+La loi de Wien est la relation entre la température de surface T d’un corps et la
+longueur d’onde λmax au maximum d’émission :
+λmax × T = 2,90 ×10-3 m.K
+
+avec T en kelvins et λmax en mètres.
+
+1- Déterminer approximativement, à partir du document 1, la valeur de la longueur
+d’onde correspondant au maximum d’intensité du rayonnement solaire hors
+atmosphère.
+2- Justifier par un calcul que dans l’hypothèse où le soleil est modélisé par un corps
+noir, sa température de surface est voisine de 5800 K.
+3- Définir l’albédo terrestre évoqué dans le document 2 page suivante à l’aide de
+vos connaissances.
+4- À partir des valeurs indiquées dans le document 2, montrer que le bilan
+énergétique à la surface de la Terre est équilibré, autrement dit que la puissance
+que la Terre reçoit est égale à celle qu’elle fournit à l’extérieur. Montrer que cela
+est également le cas pour le système global Terre-atmosphère.
+
+Document 2 – Schéma du bilan énergétique terrestre
+
+Le schéma précédent présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère. L’albédo terrestre moyen est de 30 %.
+Les flèches pleines correspondent à des transferts radiatifs. Les flèches hachurées
+correspondent à des transferts mixtes- radiatifs et non radiatifs.
+Sont précisés : les puissances par unité de surface associées à chaque transfert et
+le pourcentage qu’elles représentent relativement à la puissance solaire incidente
+(342 W∙m-2).
+Source : Document créé par l’auteur
+
+Partie 2 – La conversion de l’énergie solaire
+
+Document 3 – Spectre des chlorophylles
+Les organismes chlorophylliens renferment de nombreux pigments
+photosynthétiques comme les chlorophylles a et b, et les caroténoïdes. En faisant
+traverser par de la lumière blanche (spectre 1), des solutions contenant chacune
+un seul de de ces pigments, on obtient les spectres suivants : chlorophylle a
+(spectre 2), chlorophylle b (spectre 3) et caroténoïdes (spectre 4).
+
+Source : D’après http://www.snv.jussieu.fr/bmedia/Photosynthese/exp233.html
+
+5- Pour chacune des propositions suivantes (5-1 à 5-3), indiquer la bonne réponse.
+5-1- Ces différents spectres nous permettent alors :
+a- de déterminer la température de la plante.
+b- d’en déduire la composition chimique des pigments.
+c- d’en déduire les longueurs d’ondes absorbées par chaque pigment
+photosynthétique.
+d- d’en déduire la quantité de chaque pigment.
+
+5-2- Dans la cellule, l’énergie solaire captée par les pigments photosynthétiques :
+a- permet la synthèse de la matière minérale.
+b- permet la synthèse de la matière organique.
+c- permet la consommation de matière organique.
+d- permet la consommation de dioxygène.
+5-3- L’être humain est dépendant de l’énergie solaire utilisée par les plantes pour
+son fonctionnement car, en présence de lumière et lors de la photosynthèse,
+les plantes produisent :
+a- matière organique et O2.
+b- matière organique et CO2.
+c- matière minérale et O2.
+d- matière minérale et CO2.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Traumatismes acoustiques
+Tous les sons deviennent du bruit lorsqu’ils sont gênants ou lorsque leur niveau trop
+élevé les rend nocifs pour l’oreille.
+On se propose d’étudier les conséquences d’une exposition à des bruits de forte
+intensité ainsi que l’efficacité de dispositifs de protection auditive individuels.
+Partie A – L’oreille et la perception sonore d’un concert
+
+Document 1 – Effet de l’augmentation de l’intensité du son sur les cellules
+ciliées sensorielles de la cochlée (oreille interne)
+
+Source : d’après http://www.cochlea.eu (photos de M. Lenoir et J. Wang)
+
+1- Rappeler le rôle des trois parties de l’oreille (oreille externe, moyenne et interne).
+2- À l’aide du document 1, expliquer la cause biologique de la surdité apparue suite
+à une exposition à un son trop intense.
+Document 2 – Intensité sonore et niveau sonore
+Les sons perçus sont caractérisés par une intensité sonore, notée 𝐼, exprimée
+en W·m-2. L’intensité sonore 𝐼 reçue par une source de puissance 𝑃 (en W)
+placée à une distance d (en m) est égale à :
+𝐼=
+
+𝑃
+4𝜋𝑑 2
+
+Le niveau sonore 𝐿, exprimé en décibel (dB), est relié à l’intensité sonore 𝐼 selon
+une échelle logarithmique :
+
+Document 3 – Recommandations de l’Organisation Mondiale de la Santé
+(OMS)
+
+Source : d’après www.cochlea.org et www.inrs.fr/risques/bruit
+
+Document 4 – Législation européenne sur le niveau d’intensité sonore en
+décibels (dB) (Directive 2003/10/CE).
+
+Sons exceptionnels,
+dommages irréversibles
+Dangers : sons nocifs
+Limite de nocivité
+Pas de risque
+
+Source : d’après www.cochlea.org et www.inrs.fr/risques/bruit
+
+Un spectateur assiste à un concert. Ce dernier se trouve face à une enceinte de
+puissance 13 W.
+3- Encourt-il des risques de perte auditive s’il est placé à 10 m de l’enceinte ?
+Justifier le raisonnement.
+4- À l’aide des documents 2 à 4, identifier deux paramètres physiques qui influent
+sur les risques de perte auditive.
+
+Partie B – Efficacité de la protection auditive individuelle du spectateur
+Pour protéger leur audition, le spectateur et le musicien s’intéressent aux protections
+individuelles contre le bruit (notées PICB) en vente sur le marché. Il existe différents
+types : des bouchons pré-moulés, des bouchons formables en mousse, des
+bouchons moulés individualisés, ou encore des casques.
+À chaque PICB est associée une atténuation du niveau sonore ainsi qu’une plage
+d’incertitude qui peut varier selon les méthodes de test utilisées par les fabricants.
+Document 5 – Efficacité des dispositifs de protection individuels contre le
+bruit (PICB)
+La législation européenne impose aux fabricants de PICB de tester et d’indiquer
+l’atténuation des dispositifs qu’ils commercialisent, avec la plage d’incertitude. Les
+fabricants ont le choix entre deux méthodes pour réaliser ces tests :
+
+la méthode subjective : on expose une personne équipée de PICB à un son
+de faible intensité et on augmente progressivement l’intensité. On note
+l’intensité à partir de laquelle la personne signale percevoir le son ;
+
+la méthode objective : on place un micro dans le conduit auditif d’une
+personne équipée de PICB qu’on expose à un son de forte intensité. On
+mesure la différence entre l’intensité réelle du son et l’intensité mesurée par
+le micro.
+
+Exemple : résultats des tests d’atténuation réalisés par un fabricant de deux PICB.
+
+Chaque dispositif a été testé avec la même méthode (non communiquée par le
+fabricant) sur plusieurs
+personnes.
+Pour chaque dispositif, le
+fabricant indique dans le
+graphique ci-contre la valeur
+moyenne de l’atténuation par un
+carré. De plus, il indique la plage
+d’incertitude sur son résultat à
+l’aide des deux barres
+horizontales.
+
+Source : d’après INRS, « Référence en santé au travail – N°138 ».
+
+5- Parmi les deux méthodes de test mentionnées dans le document 5, indiquer celle
+qui s’appuie sur la démarche scientifique. Donner deux arguments pour justifier
+la réponse.
+6- En analysant l’exemple présenté dans le document 5, choisir le dispositif de
+protection contre le bruit qui semble le plus efficace. Justifier le choix.

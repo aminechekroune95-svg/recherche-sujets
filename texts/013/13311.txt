@@ -1,0 +1,347 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1664132, "at": "2026-11-23T09:25:29+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l'Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Caractériser les échanges d’informations
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+PRÉSENTATION DE L’IMPRIMANTE 3D
+
+Figure 1
+
+Figure 2
+
+La technologie d'impression 3D (figure 1) permet de réaliser des pièces à partir de
+leur modélisation numérique 3D. L’impression (FDM : (Fused Deposition Modeling)
+est réalisée à partir d'un filament plastique fondu par la tête d’impression de
+l’imprimante 3D et déposé sur la plateforme d’impression de l’imprimante 3D pour
+créer l’objet voulu, couche par couche (figure 2).
+Ce procédé est utilisé pour des productions de prototypes ou des petites séries, car
+le temps d’impression est relativement long par rapport aux procédés de fabrication
+« grandes séries » de mise en forme industriels des matières plastiques.
+Le fichier 3D est traité par un logiciel spécifique qui organise le découpage de la
+pièce en tranches. Il est transmis à l'imprimante 3D qui dépose la matière couche par
+couche jusqu'à obtention de la pièce finale.
+La tête d’impression (ou extrudeur) assure la fusion de la matière plastique et
+l’avancement du fil. Elle se déplace en translation sur le plan horizontal suivant les
+directions ⃗x et ⃗y en fonction des formes à réaliser. La tête se déplace également
+verticalement pour assurer la superposition des couches.
+
+Figure 3
+
+Problématique : comment optimiser le temps d’impression d’une pièce ?
+Deux études sont proposées :
+– Etude de l’influence de la vitesse de la tête d’impression sur la qualité de la
+pièce
+– Programmation du déplacement horizontal de la tête d’impression
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+L’étude consiste à analyser les conséquences de l’augmentation de la vitesse
+d’impression sur la qualité des éléments imprimés.
+Déplacement horizontal de la tête d'impression (figure 4)
+Des colonnes cylindriques permettent le guidage en
+translation de la tête d'impression suivant les directions
+⃗x et ⃗y. Pour chacun des axes, les déplacements sont
+réalisés par l'association d'un moteur pas à pas et d'un
+système poulie courroie comme illustré figure 4 pour la
+direction ⃗x :
+Figure 4 : déplacement horizontal
+
+Déplacement vertical suivant la direction ⃗z du plateau.
+Deux piliers permettent le guidage en translation du plateau sur la direction ⃗z. Celuici est mis en mouvement par l'association d'un moteur pas à pas et d'une vis sans fin
+dont l'écrou (encore appelé noix) est lié au plateau.
+Question I-1
+DR1
+Figure 5
+
+Compléter la chaine de puissance de la fonction « déplacer sur
+𝑧 », en indiquant les grandeurs de flux et d’efforts entre chaque
+élément de la chaine de puissance. Caractériser la liaison en E
+entre le bâti et la roue d’entrainement (nom et axe) (figure 5).
+
+Figure 5 : schéma de principe de l'imprimante 3D
+
+Lorsque le filament en fusion sort de la buse, il a un diamètre ∅𝒃𝒖𝒔𝒆 qui est celui du
+trou d'évacuation de la buse. Le déplacement vertical h du plateau permet de
+déposer une couche d’épaisseur h.
+Le point M (voir figure 7) représente l’intersection de deux couches.
+
+Figure 6 : empilement (3D) de couches
+
+Figure 7 : empilement (2D) de couches
+
+La rugosité est caractérisée par la distance
+Dx séparant l'abscisse xM du point M de la
+position de la surface plane théorique
+souhaitée (figure 8).
+La résolution d'un système d'équations de
+deux cercles permet de déterminer
+⃗ ).
+l’abscisse xM du point M suivant l'axe (O,x
+L’étude du systéme d’équations liant xM du
+point M, le diamètre de la buse ∅𝑏𝑢𝑠𝑒 et la
+hauteur h des couches permet d’obtenir la
+relation suivante :
+Dx =
+
+∅buse
+
+∅
+
+Figure 8 : zoom d'un empilement de deux couches
+
+2 h2
+
+- √( buse
+) -4
+
+Pour les calculs, on fixe : ∅𝑏𝑢𝑠𝑒 = 0,4 mm.
+Question I-2
+DR2
+
+Compléter le tableau du document réponses DR2 en calculant
+Dx pour h = 0,3 mm. Expliquer, en une phrase, l’influence de la
+hauteur des couches h sur la rugosité de la surface.
+
+Une diminution de h augmente de façon importante le temps d'impression des objets.
+Pour limiter cet inconvénient, on envisage d’augmenter la vitesse de déplacement de
+la tête d'impression à une vitesse maximale VOb,Tête /plateau Max= 50 mm·s-1.
+Pour maintenir la quantité de matière fondue déposée, l'augmentation de la vitesse
+de déplacement nécessite un débit plus important de matière fondue sortant de la
+buse. Le "débit" est défini par le volume de matière déposée par unité de temps. Il
+est obtenu en multipliant la surface (ou section) du fil de matière déposée par la
+vitesse. Ce débit, noté Qbuse, est exprimé en mm3·s-1.
+Pour simplifier le problème, la section de matière déposée est considérée comme
+une surface (ou section) rectangulaire (voir figure 9).
+L’objectif de la suite de l’exercice est de vérifier que l'extrudeuse est en mesure de
+répondre à ce besoin.
+Section de
+matière réelle
+
+Section rectangulaire
+de surface (S)
+
+Illustration du dépôt de matière
+
+Figure 9 : définition du cordon de plastique fondu
+
+Question I-3
+
+VOb,Tête /plateau
+Max = 50 mm·s-1
+
+Exprimer littéralement Qbuse en fonction de S et VOb,Tête/plateau , calculer la
+valeur correspondante du débit Qbuse (en mm3·s-1) nécessaire pour que la
+tête d'impression se déplace à la vitesse maximale
+VOb,Tête/plateau Max = 50 mm·s-1.
+
+La tête d'impression est composée d'une roue d'entrainement dentée de diamètre ØE
+qui, par sa rotation, entraine en translation le fil plastique (matière première) vers la
+zone de fusion incluse dans la tête d'impression (figure 5).
+
+Le débit de matériau fondu en sortie de la buse Qbuse doit être égal au débit de fil QFil
+en entrée de zone de fusion. La vitesse d’un point F du fil par rapport au bâti est
+⃗⃗ F,Fil/Bâti ‖ = VF,Fil/Bâti . L’expression liant la vitesse de
+définie par ⃗⃗VF,Fil/Bâti avec ‖V
+déplacement du fil VF,Fil/Bâti , en fonction de ØFil et de Qbuse s’écrit Qbuse = VF,Fil/Bâti ∙
+π∙ØFil
+
+. L’hypothèse de roulement sans glissement entre la roue d’entrainement et le
+
+fil est faite.
+Question I-4
+
+Calculer la valeur de VF,Fil/Bâti en mm.s-1 lorsque Qbuse = 4 mm3·s1 et Ø
+Fil = 1,75 mm.
+
+⃗⃗ F,Fil/Bâti ‖ = VF,Fil/Bâti = 1,5 mm·s-1
+Pour la question suivante on considère que ‖V
+La vitesse de rotation du moteur pas à pas
+assurant l'entrainement du fil est variable
+et comprise entre 0 et 30 tr·min-1.
+L’hypothèse de roulement sans
+glissement entre la roue d’entrainement et
+le fil est faite (figure10).
+
+Figure 10
+
+La composition des vecteurs vitesse au
+point I et le fait que le fil soit en translation
+par rapport au bâti permettent d’écrire :
+
+⃗⃗VI,roue d entrainement/Bâti = ⃗⃗VI,roue d entrainement/Fil + ⃗⃗VI,Fil/Bâti et ⃗⃗VF,Fil/Bâti = ⃗⃗VI,Fil/Bâti
+Question I-5
+Figure 5
+Figure 10
+
+Établir l’expression de la vitesse angulaire du moteur ωmoteur/bâti
+en rd·s-1 en fonction de VF,Fil/Bâti , et du diamètre de la roue
+d'entrainement ØE . Calculer ωmoteur/bâti pour ØE = 12 mm.
+
+Un essai montre qu'avec le déplacement de la buse réglé à vitesse maximale, les
+couches d'impression sont mal formées (zone vides …).
+Le manuel d'utilisation indique quatre vitesses de déplacements possibles de la tête
+d’impression (20 – 30 – 40 – 50 mm·s-1 ) mais aussi la possibilité d'utiliser trois
+buses de diamètres différents (0,2 mm - 0,4 mm - 0,6 mm).
+Question I-6
+
+Conclure quant à la compatibilité de cette vitesse de
+déplacement avec les capacités de rotation du moteur.
+Préciser, au regard des autres moyens de réduire le temps
+d'impression, sur quels paramètres agir et les conséquences
+sur l’objet imprimé.
+
+COMMANDE DU FONCTIONNEMENT DU
+MODIFICATION DE SON COMPORTEMENT
+
+PRODUIT
+
+OU
+
+Une des premières conditions de la qualité de l’impression est que la première
+couche adhère correctement au plateau.
+Comment améliorer l’adhérence (collage) de la première couche sur le
+plateau ?
+Une solution serait de chauffer le plateau à 60°C de façon à favoriser
+l'accrochage des premiers dépôts de couches plastiques. Le chauffage
+permettrait d'assurer la bonne adhérence de la matière sur le plateau.
+L’étude porte sur un plateau équipé d'un dispositif de chauffage, constitué d'une
+résistance chauffante d'une valeur de 5 Ω, alimentée en 24 V. Un thermocouple
+permet de mesurer la température. Cette température est « numérisée » grâce à
+un CAN (Convertisseur Analogique Numérique) 10 bits.
+La loi permettant de passer de la valeur numérique T num à une valeur T exprimée
+en degré Celsius est :
+T = 0,19  Tnum + 15,4
+Avec :
+T, la température exprimée en degré Celsius [°C] ;
+Tnum la valeur numérique fournie par le CAN.
+Question II-1
+
+Calculer la valeur de Tnum pour une température du plateau de
+60°C, puis l’exprimer en binaire.
+
+La commande de l’alimentation de la résistance chauffante est réalisée par un
+signal du type MLI (Modulation de Largeur d’Impulsion) à l’aide d’un hacheur
+série (voir figure 9).
+
+Figure 11 : schéma électrique d’alimentation de la résistance chauffante par un hacheur série
+commandé par un signal de type MLI
+
+La puissance dissipée par effet joule d’une résistance électrique s’écrit P = R ∙I2
+Avec :
+P : puissance dissipée par effet joule en watt (W) ;
+I : l’intensité aux bornes du dipôle (de la résistance) en ampère (A) ;
+R : la résistance en ohm (Ω).
+Question II-2
+figure 9
+
+Lorsque la commande est active (interrupteur fermé), calculer le
+courant maximum Imax circulant dans la résistance, ainsi que la
+puissance dissipée correspondante Pmax.
+
+Le hacheur permet de moduler la tension d'alimentation de la résistance
+chauffante entre 0 V et 24 V.
+Grâce à un module de puissance, la carte de commande alimente la résistance
+chauffante. Le fonctionnement du chauffage est réalisé suivant la séquence
+suivante :
+chauffage à plein régime jusqu'à atteindre la valeur désirée + 2 °C ;
+arrêt du chauffage lorsque la température du plateau atteint la valeur
+désirée + 2 °C, ce qui entraine la chute de la température du plateau ;
+redémarrage du chauffage du plateau lorsque la température du plateau
+descend de – 2 °C en dessous de la valeur désirée.
+Question II-3
+DR3
+
+Compléter la portion d'algorithme (sur le document réponse
+DR3) réalisant le principe de commande qui se répète en boucle.
+
+La consigne de température de chauffe de la résistance est de 60°C.
+Une mesure effectuée (figure 10) grâce au thermocouple montre l'évolution de la
+température :
+
+Figure 12 : mesure de la température du plateau
+
+Question II-4
+DR4
+
+Question II-5
+
+D’après le fonctionnement décrit précédemment, compléter sur le
+document réponse DR4 l’évolution de la tension aux bornes de la
+résistance chauffante en fonction du temps.
+Montrer que l’évolution de la température obtenue par mesure est
+conforme à ce qui était attendu. Justifier votre réponse.
+
+DOCUMENTS RÉPONSES
+DR1
+
+DR2
+
+𝒉 (en mm)
+
+0,1
+
+0,2
+
+0,3
+
+𝐷𝑥 (en mm)
+
+6,35 .10-3
+
+26,8 .10-3
+
+…
+
+DR3
+
+LIRE Tcons
+
+Tcons : Température
+de consigne en °C
+
+LIRE Tnum
+
+CALCULER T
+
+OUI
+T………
+.
+NON
+
+OUI
+T……….
+
+NON
+
+COUPER
+
+CHAUFFER
+
+DR4

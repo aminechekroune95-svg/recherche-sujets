@@ -1,0 +1,355 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1118182, "at": "2026-11-23T09:26:48+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Analyser les principaux protocoles pour un réseau de communication
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire
+que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 13
+
+SUJET SI-N°01-01
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 8
+
+Commande du fonctionnement du produit ou
+modification de son comportement ................................................ Pages 8 à 11
+
+Document réponses .......................................................................... Page
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT
+Afin de rendre l’astronomie accessible au plus grand nombre, la société
+montpelliéraine Vaonis a conçu et développé le télescope Stellina. Il est compact,
+tout-en-un, facile à transporter et à utiliser et contrôlable par mobile.
+
+Lors de la conception du télescope différentes problématiques se sont posées :
+
+assurer la fluidité de la transmission de l’image : l’image ne doit pas mettre plus
+d’une seconde pour être transmise à l’appareil mobile ;
+garantir la netteté de l’image : permettre un traitement des images correct en
+effectuant un suivi précis et éviter la formation de buée sur la lentille.
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Objectif de cette partie : garantir la netteté de l’image en vérifiant la stabilité du
+tube.
+La précision du pointage nécessite la stabilité du tube, c’est-à-dire son équilibre (pas
+de basculement) par rapport à l’axe de rotation (𝑂, 𝑧⃗).
+
+𝐶
+𝑎𝑙
+
+Figure 1 : Paramétrage du tube pour l’étude de son équilibre
+
+Le paramétrage retenu pour vérifier la condition d’équilibre est :
+
+le repère (𝑂, 𝑥⃗, 𝑦⃗, 𝑧⃗) est orthonormé direct ;
+l’accélération de la pesanteur est : −𝑔 · 𝑦⃗ ;
+𝛽 : angle d’inclinaison du tube par rapport à l’horizontale.
+L’inventaire des actions mécaniques extérieures s’exerçant sur le tube en équilibre
+sont les suivantes :
+
+en O : couple que la motorisation altitudinale transmet au tube (𝐶
+𝑎𝑙 = 𝐶𝑎𝑙 ∙ 𝑧⃗) ;
+en L : ⃗⃗⃗⃗
+𝑃𝑙 poids de l’ensemble {lentille, porte lentille} de masse 𝑚𝑙 ;
+
+⃗⃗⃗⃗𝑡 poids du tube de masse 𝑚𝑡 ;
+en T : 𝑃
+en M : ⃗⃗⃗⃗⃗
+𝑃𝑚 poids de l’ensemble {miroir, porte miroir} de masse 𝑚𝑚 ;
+
+en C : ⃗⃗⃗⃗
+𝑃𝑐 poids du contrepoids de masse 𝑚𝑐 .
+
+Les positions des points sont les suivantes :
+𝑂𝐿 = 𝑎 ∙ ⃗𝑢⃗
+
+⃗⃗⃗⃗⃗⃗ = 𝑏 ∙ ⃗𝑢⃗
+𝑂𝑇
+
+⃗⃗⃗⃗⃗⃗⃗
+𝑂𝑀 = −𝑐 ∙ ⃗𝑢⃗
+
+⃗⃗⃗⃗⃗⃗ = −𝑑 ∙ ⃗𝑢⃗
+𝑂𝐶
+
+L’équation du principe fondamental de la dynamique traduisant l’équilibre du tube
+autour de son axe de rotation donne la relation suivante :
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+⃗⃗
+𝐶𝑎𝑙 + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝑃𝑐 ) + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝑃𝑚 ) + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝑃𝑡 ) + 𝑀
+𝑂 (𝑃𝑙 ) = 0
+Question I-1 Montrer que |𝐶
+𝑎𝑙 | = 𝑔 ∙ cos(𝛽) · |𝑐 ∙ 𝑚𝑚 + 𝑑 ∙ 𝑚𝑐 − 𝑎 ∙ 𝑚𝑙 − 𝑏 ∙ 𝑚𝑡 |
+pour 0 ≤ 𝛽 ≤ 90°
+Figure 1
+
+Figure 2 : Variation de |Cal| avec contrepoids
+
+Figure 3 : Variation de |Cal| sans contrepoids
+
+Question I-2 À partir de l’analyse des courbes précédentes représentant |𝐶
+𝑎𝑙 | en
+fonction de 𝛽, justifier ou non l’utilité de la présence du contrepoids.
+Figure 2
+Figure 3
+La transmission du couple moteur à l’axe altitudinal se fait selon la chaîne
+cinématique représentée figure 4.
+
+Cm
+Moteur
+
+m
+
+Réducteur
+roue et vis
+sans fin
+
+Cal
+Tube
+
+al
+
+Rapport de réduction : ral = 0,008
+Rendement :  = 0,45
+Figure 4 : Architecture du dispositif de conversion d’énergie de la chaîne altitudinale
+Question I-3 À partir de la chaîne de flux d’énergie précédente montrer que
+𝑟
+𝐶𝑚 = 𝐶𝑎𝑙 ∙ 𝜂𝑎𝑙.
+Figure 4
+En déduire le couple que doit fournir le moteur pour assurer l’équilibre
+du tube (tube à l’horizontale et avec contrepoids).
+
+Tableau 1.
+
+Caractéristiques du moteur pas à pas NEMA 11HS18-0674S
+
+Spécificités générales
+
+Spécificités électriques
+
+Nombre de pas
+
+200 pas
+
+Tension nominale
+
+4,6 V
+
+Température
+d’utilisation
+
+-10 °C ~ 50 °C
+
+Courant nominal
+
+0,67 A
+
+Nombre de phase(s)
+
+Résistance/phase
+
+6,8 
+
+Couple nominal de
+maintien
+
+0,095 N·m
+
+Inductance/phase
+
+4,9 mH
+
+Source : Documentation du constructeur
+
+Question I-4 À partir du tableau 1, relever la caractéristique du moteur qui traduit sa
+capacité à assurer l’équilibre du tube, ainsi que sa valeur.
+Tableau 1
+Conclure quant à la capacité de ce moteur à maintenir l’équilibre dans
+chaque position de pointage.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Objectif de cette partie : valider la garantie d’absence de buée sur la lentille malgré
+les forts écarts de température nocturne.
+L’observation céleste est une pratique nocturne qui pose un problème : durant la
+nuit, des écarts de température entre l’air extérieur et la lentille peuvent entraîner la
+formation de buée sur celle-ci en fonction de l’hygrométrie (mesure du taux
+d’humidité de l’air) du lieu.
+La prédiction de la formation de buée se fait en utilisant la notion de point de rosée.
+Le point de rosée correspond au moment où l’eau contenue dans l’air à l’état gazeux
+va passer à l’état liquide. Ainsi tant que la température de la lentille est au-dessus de
+ce point de rosée elle reste sèche et quand elle passe au-dessous de celui-ci de la
+buée se forme.
+Pour réaliser le désembuage, le constructeur a équipé le support de la lentille du
+télescope de résistances chauffantes qui vont entrer en fonctionnement lorsque le
+point de rosée est détecté.
+Un capteur permet d’obtenir la température et l’humidité relative dans l’air.
+Pour l’instant le constructeur a choisi de commander l’allumage des résistantes
+chauffantes en T.O.R.
+Le capteur choisi pour connaître la température et l’humidité est un capteur qui
+communique avec le microcontrôleur à l’aide d’un bus I2C (Inter-Integrated Circuit).
+Le capteur d’humidité et de température I²C intègre les éléments suivants : un
+convertisseur analogique-numérique, un traitement du signal, les données
+d’étalonnage et une interface I²C.
+Pour commander le composant il faut lui envoyer des commandes. Voici une liste
+non exhaustive des commandes qu’il est possible d’envoyer.
+
+Description de la commande
+
+Code de la
+commande en
+hexadécimal
+
+Mesure de l’humidité relative
+
+0xE3
+
+Mesure de la température
+
+0xF3
+
+Remettre à zéro
+
+0xFE
+
+Lire la version de firmware
+
+0x84 0xB8
+
+Le résultat de la mesure de température peut être converti en degrés Celsius en
+utilisant l’expression suivante :
+𝑇𝑒𝑚𝑝𝑚𝑜𝑡 =
+
+(𝑇𝑒𝑚𝑝°𝐶 − 46,85) × 65536
+175,72
+
+𝑇𝑒𝑚𝑝𝑚𝑜𝑡 est un mot de 16 bits retourné par le capteur et image de la température.
+𝑇𝑒𝑚𝑝°𝐶 est la température mesurée.
+Le résultat de la mesure d’humidité peut être converti en humidité relative en utilisant
+l’expression suivante :
+𝑅𝐻𝑚𝑜𝑡 =
+
+(𝑅𝐻% − 6) × 65536
+
+𝑅𝐻𝑚𝑜𝑡 est un mot de 16 bits retourné par le capteur et image de l’humidité relative.
+𝑅𝐻% est l’humidité relative mesurée.
+Lors d’un échange d’informations, le dialogue entre le capteur et le microcontrôleur
+est le suivant :
+Demande
+d’écriture
+sur le
+capteur
+
+Envoi de la
+commande
+
+Demande
+de lecture
+du capteur
+
+Octet de
+poids fort de
+l’information
+demandée
+
+Octet de
+poids faible
+de
+l’information
+demandée
+
+Chaque élément de ce tableau est un octet.
+
+Checksum
+
+À l’aide d’un logiciel d’analyse de trame, on obtient l’image de la transmission des
+données suivante :
+
+Question II-1 À partir des informations données sur le capteur et de la trame fournie,
+indiquer :
+Trame cidessus
+la commande qui est envoyée au capteur ;
+la valeur qui est retournée par le capteur.
+Données
+capteur
+Un algorigramme a été établi pour lancer la commande de détection de la
+température du point de rosée (cf. DR1).
+Dans l’algorigramme, les variables doivent être obligatoirement déclarées en base
+décimale.
+Question II-2 Compléter le DR1 en indiquant la valeur décimale que doit prendre la
+variable « commande » qui précède les envois permettant le
+déclenchement de la mesure de la température et de la mesure de
+l’humidité.
+Les valeurs renvoyées par le composant sont des valeurs image de la température
+ou de l’humidité relative codées sur 16 bits.
+La routine (ou sous-programme) de lecture renvoie la valeur lue dans une variable
+nommée « retour » exprimée en base décimale.
+
+Question II-3 Compléter l’algorigramme (DR1) pour que les valeurs des variables
+« température » et « humidité » contiennent les valeurs exactes (en
+degrés et en pourcentage).
+
+La routine « Calcul du point de rosée » renvoie une valeur booléenne qui, si elle est
+vraie, signifie que le point de rosée a été atteint et si elle est fausse qu’il ne l’est pas.
+Cette valeur booléenne est stockée dans une variable nommée « rosée ».
+Pour mettre en fonctionnement les résistances chauffantes, il faut que la variable
+« res » prenne la valeur 1, et pour les arrêter la valeur 0.
+Question II-4 Compléter la fin de l’algorigramme pour que celui-ci gère l’allumage et
+l’extinction des résistances.
+
+commande =
+DR1 :
+questions II-2 à II-4
+
+température =
+
+commande =
+
+humidité =

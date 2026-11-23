@@ -1,0 +1,444 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1274042, "at": "2026-11-23T09:47:22+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quel est le nombre minimum de bits qui permet de représenter les 26 lettres majuscules de l'alphabet ?
+Question A.2
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+Question A.3
+Quel est le résultat de l'addition binaire 0100 1110 + 0110 1101 ?
+0101 1011
+1010 1101
+1011 0110
+1011 1011
+Question A.4
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A.5
+Quelle est l'écriture en base 10 du nombre qui s'écrit F1 en base 16 ?
+
+Question A.6
+Combien de valeurs entières positives ou nulles un octet peut-il représenter ?
+
+Thème B : types construits
+Question B.1
+On dispose d'une table tab constituée d'une liste de trois sous-listes contenant chacune quatre caractères.
+tab = [
+
+['A', 'B', 'C', 'D'],
+['E', 'F', 'G', 'H'],
+['I', 'J', 'K', 'L'] ]
+
+Parmi les propositions suivantes, laquelle permet de convertir cette table en une liste L contenant dans l'ordre,
+ligne par ligne, les 12 caractères de tab ?
+# à la fin, on a l'égalité :
+L == [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L' ]
+for i in range(3):
+for j in range(4):
+L.append(tab[i][j])
+
+for i in range(4):
+for j in range(3):
+L.append(tab[i][j])
+
+for i in range(3):
+L.append(tab[i])
+
+for i in range(4):
+L.append(tab[i])
+
+Question B.2
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B.3
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+Question B.4
+Laquelle de ces expressions a pour valeur la liste [[0,1,2],[3,4,5],[6,7,8]] ?
+[[i+j for i in range(3)] for j in range(3)]
+[[i]*3 for i in range(3)]*3
+[[i+j*3 for i in range(3)] for j in range(3)]
+[[i+j for i in range(3)] for j in range(3)]*3
+Question B.5
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+Question B.6
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+
+Thème C : traitement de données en tables
+Question C.1
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['8', '12', '142', '21']
+['8', '12', '21', '142']
+['12', '142', '21', '8']
+['12', '21', '8', '142']
+Question C.2
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a-t-elle pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Question C.3
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C.4
+On considère la table suivants :
+t=[
+
+{'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+
+Quelle expression permet d'obtenir la quantié de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+
+Question C.5
+On considère une table de données <films> qui est une liste de dictionnaires "Titre", "Réalisateur","Date".
+Un enregistrement de la table contient un titre de film, le nom de son réalisateur et l'année de sortie du film.
+films = [{"Titre": "ET", "Réalisateur": "Spielberg", "Date": 1982},
+{"Titre": "Ready Player One", "Réalisateur": "Spielberg", "Date": 2018},
+{"Titre": "The Artist", "Réalisateur": "Hazanavicius", "Date": 2011},
+...]
+On souhaite obtenir la liste des films réalisés par "Spielberg" ou par "Hazanavicius" depuis l'année 2000.
+Quelle doit être la condition utilisée pour sélectionner les enregistrements correspondants, lors du parcours de
+la table ?
+(film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius")
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius"
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius"
+or film["Date"] >= 2000
+
+(film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius")
+or film["Date"] >= 2000
+
+Question C.6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Lequel des termes suivants ne désigne pas un protocole de transmission par un réseau :
+HTTP
+WWW
+TCP
+IP
+Question D.2
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D.3
+Lors de la consultation d’une page HTML, contenant un bouton auquel est associée la fonction javascript
+suivante, que se passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "red"
+}
+le pointeur de souris devient rouge lorsqu'il arrive sur le bouton
+le texte du bouton devient rouge
+le texte du bouton est remplacé par le mot "red"
+le texte de la page passe en rouge
+Question D.4
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Question D.5
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D.6
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui afficher une
+erreur 404.
+Quelle cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion internet
+un changement de titre du forum qu'il veut consulter
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Depuis le répertoire /home/ubuntu/ on exécute la commande
+mkdir ./Documents/Holidays
+Quel est son effet ?
+supprimer le dossier Holidays situé dans Documents
+changer de répertoire pour se retrouver dans le répertoire /home/Documents/Holidays
+créer un dossier Holidays dans le répertoire /home/ubuntu/Documents
+lister le contenu du répertoire Holidays de Documents
+Question E.2
+Quel matériel permet d'interconnecter des ordinateurs entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+Question E.3
+Dans le protocole de communication IP :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination dans un ordre quelconque.
+
+Question E.4
+Dans la console Linux, quelle commande faut-il exécuter pour effacer le fichier test0.csv ?
+rm test0.cvs
+cp test0.csv
+ls test0.csv
+mv test0.csv
+Question E.5
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+
+Question E.6
+Dans un établissement scolaire, tous les ordinateurs sont reliés au réseau local par l'intermédiaire de câbles
+Ethernet ; il n'existe pas de liaisons sans fil. Dans chaque salle d'ordinateurs, les machines sont reliées à un
+commutateur. Chaque commutateur est relié par un câble jusqu'à la salle où se situe le serveur contrôleur de
+domaine et la passerelle internet (routeur).
+En début de séance, aucune personne de votre classe n'arrive à se connecter. Le même message d'erreur s'affiche
+« Aucun serveur d'authentification n'est joignable sur le réseau. » Parmi ces quatre propositions, laquelle est la
+plus vraisemblable ?
+Un de vos camarades a débranché accidentellement le câble Ethernet de votre machine.
+Le routeur de l'étage est indisponible (il a été débranché ou est en panne).
+Le commutateur de la salle est indisponible (il a été débranché ou est en panne).
+La passerelle internet de l'établissement est indisponible (elle a été débranchée ou est en panne).
+
+Thème F : langages et programmation
+Question F.1
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F.2
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F.3
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x=4
+while x > 0:
+y=1
+while y < x:
+y=y+1
+x=x–1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+
+Question F.4
+On considère le code suivant
+def moyenne(notes):
+somme = 0
+for cpt in range(len(notes)):
+....
+m = somme/len(notes)
+return m
+Par quoi remplacer la ligne en pointillée pour que cette fonction calcule la moyenne d'une liste de nombres ?
+somme = somme + notes[cpt]
+somme = notes[cpt]
+somme = cpt
+somme = somme + cpt
+Question F.5
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p=x
+for i in range (y - 1):
+p=p*x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F.6
+if x < 4:
+x=x+3
+else:
+x=x-3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+
+Thème G : algorithmique
+Question G.1
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G.2
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s=0
+i=1
+while i < 5:
+s=s+i
+i=i+1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+Question G.3
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+
+Question G.4
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i]== lettre:
+indexResultat=i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G.5
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X=0
+m=0
+for k in L:
+X=X+k
+m=m+1
+2.2
+Question G.6
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(i, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]

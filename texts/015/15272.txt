@@ -1,0 +1,461 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1248970, "at": "2026-11-23T09:40:28+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On considère une formule booléenne form des variables booléennes a et b dont voici la table de vérité.
+a
+
+b
+
+form
+
+Quelle est cette formule booléenne form ?
+a and b
+a or b
+a and not(b)
+not(a) or b
+Question A 2
+Quelle est l'écriture décimale de l'entier positif dont l'écriture binaire est 00101001 ?
+101001
+Question A 3
+Quelle est l’écriture hexadécimale de l’entier dont la représentation en binaire non signé est 1100 0011 ?
+BB
+C3
+CB
+7610
+Question A 4
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+2 − 1 = 32767
+2 = 32768
+2 − 1 = 65535
+2 = 65536
+Question A 5
+
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+c = True
+if a > b+10:
+c = True
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 6
+Parmi les nombres décimaux suivants, lequel a une représentation exacte en binaire ?
+0,2
+0,3
+0,4
+0,5
+
+Thème B : types construits
+Question B 1
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+Question B 2
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B 3
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 4
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B 5
+
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]]] ?
+Question B 6
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle est la valeur de la variable t1 à la fin de l'exécution du script suivant :
+t1 = [['Valenciennes', 24],['Lille', 23],['Laon', 31],['Arras', 18]]
+t2 = [['Lille', 62],['Arras', 53],['Valenciennes', 67],['Laon', 48]]
+for i in range(len(t1)):
+for v in t2:
+if v[0] == t1[i][0]:
+t1[i].append(v[1])
+[['Valenciennes', 67], ['Lille', 62], ['Laon', 48], ['Arras', 53]]
+[['Valenciennes', 24, 67], ['Lille', 23, 62], ['Laon', 31, 48], ['Arras', 18, 53]]
+[['Arras', 18, 53],['Laon', 31, 48], ['Lille', 23, 62], ['Valenciennes', 24, 67]]
+[['Valenciennes', 67, 24], ['Lille', 62,23], ['Laon', 48, 31], ['Arras', 53, 18]]
+Question C 2
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 3
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C 4
+
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 5
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 6
+On considère la liste de p-uplets suivante :
+table = [
+
+('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912)
+]
+
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une
+femme) et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 2
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 3
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui affiche une
+erreur 404.
+Quel cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion Internet
+un changement de titre du forum qu'il veut consulter
+Question D 4
+Si un utilisateur doit saisir des données sensibles (mot de passe, numéro de carte bancaire…) dans le formulaire
+d’une page HTML, quel est l’entête de formulaire le plus approprié parmi les quatre propositions suivantes ?
+<form method="formulaire.php" action="submit">
+<form method="secure" action=onclick()>
+<form method="get" action="arret.php">
+<form method="post" action="arret.php">
+Question D 5
+
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D 6
+Parmi les éléments suivants, lequel est un protocole ?
+GET
+POST
+HTTP
+HTML
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E 2
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+Question E 3
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 4
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 5
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+
+Question E 6
+Dans un établissement scolaire, tous les ordinateurs sont reliés au réseau local par l'intermédiaire de câbles
+Ethernet ; il n'existe pas de liaisons sans fil. Dans chaque salle d'ordinateurs, les machines sont reliées à un
+commutateur. Chaque commutateur est relié par un câble jusqu'à la salle où se situe le serveur contrôleur de
+domaine et la passerelle internet (routeur).
+En début de séance, aucune personne de votre classe n'arrive à se connecter. Le même message d'erreur
+s'affiche « Aucun serveur d'authentification n'est joignable sur le réseau. » Parmi ces quatre propositions,
+laquelle est la plus vraisemblable ?
+Un de vos camarades a débranché accidentellement le câble Ethernet de votre machine.
+Le câble qui relie le serveur et la passerelle a été débranché.
+Le commutateur de la salle est indisponible (il a été débranché ou est en panne).
+La passerelle internet de l'établissement est indisponible (elle a été débranchée ou est en panne).
+
+Thème F : langages et programmation
+Question F 1
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+Question F 2
+En Python, quelle est l’instruction permettant de charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Question F 3
+On exécute le script suivant.
+n = 6
+s = 0
+while n >= 0:
+s = s + n
+n = n -1
+Que contient la variable s à la fin de cette exécution ?
+Question F 4
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+
+alert(i)
+i = i + 1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 5
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 6
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+
+Thème G : algorithmique
+Question G 1
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G 2
+Algorithme des k plus proches voisins. Nous disposons de 3 espèces de plantes (A, B, C) et
+d'un échantillon de plantes. Nous disposons de la distance entre notre échantillon et les
+spécimens de chaque espèce.
+Voici le début du tableau trié par ordre croissant de distance :
+Espèce
+Distance
+
+0,3
+
+0,7
+
+0,8
+
+1,0
+
+1,1
+
+…
+...
+Dans le cas ou k = 3, l'échantillon appartient à l’espèce :
+Impossible à déterminer
+Question G 3
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+Question G 4
+On dispose d'une fonction moyenne qui calcule la moyenne d'une liste de nombres et on écrit la fonction
+suivante :
+def centrage(L, a):
+for i in range(0,len(L)):
+L[i] = L[i] - a
+return L
+Pour la liste L1 = [5, 3, 1], quelle est la valeur de centrage(L1, moyenne(L1)) ?
+[5.0, 3.0, 1.0]
+[3.0, 3.0, 3.0]
+[2.0, 0.0, -2.0]
+[2.0, 1.0, -0.3333333]
+Question G 5
+On exécute le script suivant :
+liste = [17, 12, 5, 18, 2, 7, 9, 15, 14, 20]
+somme = 0
+i = 0
+while i < len(liste):
+somme = somme + liste[i]
+i = i + 1
+resultat = somme / len(liste)
+Quelle affirmation est fausse parmi les suivantes ?
+le corps de la boucle a été exécuté 10 fois
+à la fin de l'exécution la valeur de i est 9
+resultat contient la moyenne des éléments de liste
+len est une fonction
+Question G 6
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+
+m = m + 1
+2.2

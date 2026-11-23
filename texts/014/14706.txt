@@ -1,0 +1,468 @@
+{"pages": 19, "method": "pdftotext", "bytes": 459090, "at": "2026-11-23T09:42:31+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est la représentation binaire en complément à deux sur huit bits du nombre –3 ?
+1000 0011
+1111 1100
+1111 1101
+1 0000 0011
+Question A 2
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+Question A 3
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A 4
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)10 sur un octet ?
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+Question A 5
+On considère une formule booléenne form des variables booléennes a et b dont voici la table de vérité.
+a
+
+b
+
+form
+
+Quelle est cette formule booléenne form ?
+a and b
+a or b
+a and not(b)
+not(a) or b
+Question A 6
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+
+Thème B : types construits
+Question B 1
+On dispose d'une liste L d'entiers rangés en ordre croissant.
+On désire connaître le nombre de valeurs distinctes contenues dans cette liste.
+Parmi les quatre fonctions proposées, laquelle ne donne pas le résultat attendu ?
+n = 1
+if L[i] != L[i-1]:
+
+n = 1
+for i in range(0,len(L)-1):
+if L[i] != L[i+1]:
+
+n = 0
+for i in range(0,len(L)-1):
+if L[i] != L[i+1]:
+
+n = 0
+if L[i] != L[i-1]:
+return n + 1
+
+Question B 2
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B 3
+On définit :
+L = [ ["lundi",10,0.87], ["mardi",11,0.82], ["mercredi",12,0.91] ]
+
+Quel est le type de la variable a définie par a = L[1][2] ?
+nombre entier
+liste
+nombre flottant
+chaîne de caractères
+Question B 4
+Soit le code ci-dessous :
+tableau = [5,8,6,9]
+a = tableau[2]
+Après son exécution, quelle valeur contient la variable a ?
+[5, 8]
+Question B 5
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 6
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 2
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+a = 'matière
+b = 'moyenne'
+a = 0
+b = 1
+a = 1
+b = 0
+Question C 3
+Que réalise l'instruction suivante :
+mon_fichier = open("exemple.txt", "r")
+
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Question C 4
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+Question C 5
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+Question C 6
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser des données de façon plus sécurisées
+Question D 2
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+
+Question D 3
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 4
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 5
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+Question D 6
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E 2
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+Question E 3
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+Question E 4
+Quelle est l’utilité de la commande ping dans un réseau informatique ?
+établir un réseau privé virtuel
+tester si la connexion peut être établie avec une machine distante
+obtenir la route suivie par un paquet dans le réseau
+mesurer les performances d'une machine distante
+Question E 5
+Dans un réseau informatique, que peut-on dire de la transmission de données par paquets ?
+cela empêche l’interception des données transmises
+cela garantit que toutes les données empruntent le même chemin
+cela assure une utilisation efficace des liens de connexion
+cela nécessite la réservation d’un chemin entre l’émetteur et le récepteur
+Question E 6
+
+Vous soupçonnez que des paquets se perdent entre votre ordinateur et leur destination.
+Quelle commande utiliseriez-vous pour trouver la source du problème efficacement ?
+ping
+ipconfig
+traceroute
+nslookup
+
+Thème F : langages et programmation
+Question F 1
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F 2
+On définit la fonction suivante :
+def f(x,y,z):
+if x+y == z:
+return True
+else:
+return False
+Quel type de paramètres est-il déconseillé d'utiliser avec cette fonction ?
+les entiers
+les chaînes de caractères
+les flottants
+les tableaux
+Question F 3
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+if .........:
+m = L[i]
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 4
+
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 5
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 6
+On définit une fonction f de la façon suivante :
+def f(L, m):
+R = []
+for i in range(len(L)):
+if L[i] > m:
+R.append(L[i])
+return R
+On définit L = [1, 7, 3, 4, 8, 2, 0, 3, 5].
+Que vaut f(L, 4) ?
+[0, 7, 0, 0, 8, 0, 0, 0, 5]
+[0, 0, 0, 5]
+[7, 8, 5]
+[]
+
+Thème G : algorithmique
+Question G 1
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 2
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(1, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]
+Question G 3
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+
+Question G 4
+
+La fonction ci-dessous renvoie le maximum d'une liste.
+def maximum(L):
+m = L[0]
+#
+if L[i] > m:
+m = L[i]
+Au passage dans la ligne marquée d'un #, quelle propriété reste toujours vérifiée ?
+m est le maximum des éléments L[k] pour i <= k < len(L)
+m est le maximum des éléments L[k] pour i < k < len(L)
+m est le maximum des éléments L[k] pour 0 <= k < i)
+m est le maximum des éléments L[k] pour 0 <= k <= i
+Question G 5
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 6
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques

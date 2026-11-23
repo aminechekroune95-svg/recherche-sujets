@@ -1,0 +1,347 @@
+{"pages": 19, "method": "pdftotext", "bytes": 2132298, "at": "2026-11-23T09:25:46+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT :
+DURÉE DE L’ÉPREUVE : 2h-Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec
+mode examen devront l’activer le jour des épreuves et les calculatrices dépourvues
+de mémoire seront autorisées. Ainsi tous les candidats composeront sans aucun
+accès à des données personnelles pendant les épreuves.
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 5 à 7
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 11
+Documents techniques ............................................... Pages 12 à 15
+Documents réponses ................................................... Pages 16 à 19
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+GYROPODE « HOVERBOARD »
+L’objet de cette étude est un gyropode (souvent appelé « hoverboard »).
+Un gyropode est un véhicule de loisirs permettant d e s e déplacer rapidement,
+silencieusement e t sans émission polluante dans l’espace dévolu aux piétons. Le
+système étudié sera un gyropode à roues de diamètre 6,5 pouces (16,51cm) dont on
+donne la description ci-dessous :
+
+P
+l
+
+Description :
+Le gyropode est constitué de 2 plateformes (droite et gauche) reliées entre elles par
+un axe leurs permettant une rotation relative l’une par rapport à l’autre.
+Chaque plateforme contient :
+ Un ensemble moteur brushless associé à une roue ;
+ Un capteur d’inclinaison permettant d’acquérir l’angle d’inclinaison de la
+plateforme par rapport à l’horizontale ;
+ Un capteur de vitesse permettant d’acquérir la vitesse de rotation du moteur ;
+ Un capteur de présence.
+L’ensemble contient également une batterie et une carte électronique (carte de
+commande et de puissance, carte Leds).
+Fonctionnement :
+Par l’intermédiaire de ses pieds, l’utilisateur génère l’inclinaison des plateformes par
+rapport à l’horizontal de manière indépendante. La mesure de cette inclinaison, est
+interprétée par la carte électronique comme une consigne de vitesse pour les moteurs.
+La carte électronique génère alors le signal correspondant de commande de la tension
+d’alimentation des moteurs.
+
+Caractéristiques :
+ Puissance Moteur : 700 Watts (2 moteurs de 350W) ;
+ Batterie : 36 V - 4.4 Ah (lithium-ion) ;
+ Autonomie : 1h environ ou 5 km avec une charge complète (varie selon le poids de
+l’utilisateur, le type de terrain pratiqué et la vitesse d’utilisation) ;
+ Temps de chargement : 2 à 3 heures ;
+ Vitesse maximale : 15 km·h-1 en fonction du poids de l’utilisateur ;
+ Charge maximale de l’utilisateur : 120 kg.
+
+EXERCICE 1 : ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+OBJECTIF : validation des données constructeur concernant la vitesse avant de
+laisser l’hoverboard circuler sur voie publique.
+Question I-1
+
+Donner le « service attendu » offert par le système du point de vue
+utilisateur, en complétant le diagramme de cas d’utilisation (voir
+document réponse DR1). Puis à partir du diagramme d’exigences
+(voir document technique DT1). Donner l’exigence permettant de
+définir la vitesse maximale du gyropode ainsi que la valeur
+permettant de satisfaire cette exigence.
+
+Question I-2
+
+À partir du diagramme de bloc interne « ibd » (voir document
+technique DT3), indiquer la nature et l'unité des grandeurs de flux et
+d'effort correspondant à la puissance en sortie du composant «
+moteur brushless ».
+
+Dans le but de vérifier l’autonomie du gyropode, un modèle multi-physique de la chaîne
+de puissance est élaboré (voir document technique DT4). Il comprend entre autres, la
+batterie, les moteurs, et prend en compte la masse de la personne, les inerties des
+roues et la résistance au roulement. Nota : Le contrôle de la stabilité ne sera pas étudié
+ici.
+La courbe de la fig1. est le résultat d’une simulation effectuée avec le modèle multiphysique du gyropode. La simulation a été réalisée en considérant une personne
+utilisant le gyropode ayant une masse de 70 Kg.
+
+Cette courbe présente l'évolution de la vitesse de rotation d’une roue lors d'un
+déplacement en ligne droite à la vitesse maximale. La distance totale parcourue lors
+de ce parcours est de 0,7 mètres sur une durée de 0,2 s.
+
+Vitesse angulaire de la roue
+(en rad·s-1)
+
+0,05
+
+0,1
+
+0,15
+
+0,2
+
+Temps
+Fig1. Vitesse de rotation de la roue
+Question I-3
+
+Relever sur la fig. 1 précédente la valeur de la vitesse de rotation
+des roues en rad.s-1 du gyropode lorsque celui-ci atteint sa vitesse
+maximale. En faisant l’hypothèse d’un roulement sans glissement et
+sachant que les roues ont un diamètre de 6,5 pouces, soit 165,1 mm,
+en déduire la vitesse de translation du gyropode. Comparer cette
+valeur avec la valeur du constructeur. Conclure quant à l’exigence
+de vitesse maximale.
+
+Étude de l'acquisition de l'information vitesse de rotation des roues
+La commande des moteurs électriques nécessite de connaître précisément leur
+vitesse et leur sens de rotation.
+Des capteurs à effet hall sont utilisés pour connaitre à tout moment la vitesse du rotor,
+et adapter en conséquence l’alimentation des bobines et le champ magnétique. Le
+capteur va détecter le passage d’un pôle magnétique, et à partir de cette information
+le circuit de commande électronique assurera la commutation des bobines.
+
+Chacune des roues est équipée de 3 capteurs à effet Hall délivrant 3 signaux
+permettant d’obtenir les informations sur la vitesse et le sens de rotation.
+Un moteur de roue comporte 27 bobines sur le stator (fixe) et 30 aimants permanents
+sur le rotor (tournant) constituant alternativement 15 paires de pôles positifs et
+négatifs.
+
+Détails de la roue :
+
+Capteurs à effet Hall sur le stator :
+
+Un capteur à effet Hall envoie un signal haut lorsqu’il détecte le passage d’un pôle
+positif (état 1) et un signal bas lorsqu’il détecte le passage d’un pôle négatif (état 0).
+Des essais ont permis de relever le signal reçu par un capteur à effet Hall sous la
+forme du chronogramme suivant, le gyropode fonctionnant à vitesse maximale :
+
+Temps (en ms)
+
+Fig.2 : Chronogramme du signal relevé au niveau d’un capteur à effet Hall
+Question I-4
+
+Quelle est la nature du signal provenant du capteur à effet Hall ?
+Déterminer, à partir de la mesure issue de ce capteur, la vitesse de
+rotation de la roue en rad·s-1.
+
+Question I-5
+
+Calculer la vitesse de translation atteinte par le gyropode en km·h -1
+lors de l’essai (rappel : les roues ont un diamètre de 6,5 pouces, soit
+165,1 mm).
+Comparer ces résultats avec les données du constructeur et
+commenter les écarts observés.
+
+EXERCICE 2 - MODIFICATION DU COMPORTEMENT DE
+L’HOVERBOARD
+Dans le cas où le conducteur se lance à vitesse maximale, et que le niveau de la
+batterie est faible l’hoverboard s’arrête brusquement et peut causer des dommages
+importants sur le conducteur.
+L’objectif de cette partie est donc d’élaborer un algorigramme qui permettra d’assurer
+la sécurité du conducteur lorsque la batterie est déchargée, ceci en évitant un arrêt
+brusque de l’hoverboard et en signalant visuellement l’état de charge de la batterie.
+L’hoverboard est équipé d’une batterie lithium-ion dont la courbe de décharge est
+présentée sur la fig.3.
+
+Batterie lithium-ion
+Tension de batterie
+(en V)
+
+36,5
+35,5
+34,5
+33,5
+32,5
+31,5
+30,5
+29,5
+28,5
+27,5
+26,5
+25,5
+
+36 V - 4,4 Ah
+
+Charge restante (en %)
+Fig.3 courbe de décharge de batterie
+
+Afin de connaître l’état de charge de la batterie en temps réel, il est nécessaire d’implanter un
+capteur pour l’acquisition de la tension de la batterie. Son choix nécessite de connaître la plage
+de mesure de cette tension nommée V_bat.
+
+Question II-1
+
+À partir de la courbe de la fig.3, relever la valeur de la tension de la
+batterie :
+
+- lorsque celle-ci est chargée à 99% ;
+- lorsque celle-ci est déchargée de 90%.
+
+Vous ferez apparaitre les tracés sur le document DR2.
+
+Un algorigramme a été élaboré afin de permettre un arrêt graduel de l’hoverboard
+lorsque la batterie de celui-ci atteint 90% de décharge, comme le présente la fig.4 cidessous.
+
+Début
+
+Nota : - CTR représente une variable qui s’incrémentera (compteur) ;
+
+Initialiser CTR à 0
+
+- La vitesse est en km·h-1.
+
+Fig.4 Algorigramme d’arrêt graduel de l’hoverboard
+
+Hypothèse : L’hoverboard se déplace en ligne droite sur un plan horizontal.
+Question II-2
+
+À l’aide de l’algorigramme de la fig.4, définir le temps d’arrêt de
+l’hoverboard et le type exact de mouvement auquel il est soumis pendant
+cette phase. En déduire la distance parcourue avant un arrêt complet
+lorsqu’il roulait initialement à sa vitesse maximale.
+
+Observation : Le temps d’arrêt actuel reste encore trop long.
+Question II-3
+
+Réécrire la partie de l’algorigramme de la fig.4 que vous devez
+modifier afin que l’hoverboard s’arrête en 3 secondes.
+
+On désire également donner un indicateur visuel de l’état de batterie à l’utilisateur.
+Dans l’algorigramme de la fig.4 est placé un appel de « sous-programme » pour
+introduire une « Gestion des LEDs » (bleu, orange, rouge), ce sont les LEDs des
+« cartes à LEDs » présentent sur l’avant de l’hoverboard.
+
+Question II-4
+
+Compléter l’algorigramme « Gestion des LEDs » du document
+réponse DR3 permettant de visualiser le niveau de batterie, en
+respectant les exigences suivantes :
+- LED bleu allumée pour la charge supérieure à
+99% ;
+- LED rouge allumée lorsqu’elle est déchargée à
+90% ;
+- LED orange allumée tout autre niveau de charge.
+Vous utiliserez les variables :
+« L_Bleu » : Led de couleur bleu
+« L_Orange » : Led de couleur orange
+« L_Rouge » : Led de couleur rouge
+« V_bat » : Valeur de la tension de
+batterie
+
+Fonctionnement : « L_Bleu = 1 » led bleu allumée, « L_Bleu = 0 » led bleu éteinte.
+
+Question II-5
+
+Compléter le diagramme de définition de blocs (voir document réponse
+DR4) en ajoutant les cartes à LEDs.
+
+DOCUMENTS TECHNIQUES
+DT1 Diagramme des exigences
+
+DT2 Diagramme de définition de blocs
+
+DT3 Diagramme de blocs internes (partiel)
+
+DT4 Schéma multi-physique
+
+DOCUMENTS RÉPONSES
+DR1
+Question I-1 : Diagramme de cas d’utilisations
+
+DR2 :
+Question II-1 : tracés
+
+Batterie lithium-ion
+Tension de batterie
+(en V)
+
+36,5
+35,5
+34,5
+33,5
+32,5
+31,5
+30,5
+29,5
+28,5
+27,5
+26,5
+25,5
+
+36 V - 4,4 Ah
+
+Charge restante (en %)
+
+DR3
+Question II-4 : Algorigramme « Gestion des LEDs »
+
+Déb
+ut
+
+Lire
+V_bat
+
+Si
+V_Ba
+t…....
+
+DR4
+Question II-5 : Diagramme de définition de blocs

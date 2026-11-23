@@ -1,0 +1,284 @@
+{"pages": 10, "method": "pdftotext", "bytes": 760585, "at": "2026-11-23T09:27:16+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PRÉSENTATION DU DIFFUSEUR DE PARFUM
+Bien que l’odorat soit un des sens qu’il utilise le moins, l’être humain reste très sensible
+aux odeurs qui l’environnent, surtout lorsque celles-ci sont désagréables. Parfumer son
+environnement est un besoin que l’Homme cherche à satisfaire depuis l’Antiquité.
+Le sujet porte sur un diffuseur automatique de parfum à usage domestique inspiré des
+solutions industrielles. Un mécanisme agit sur la tête de l’aérosol contenant le parfum.
+L’utilisateur sélectionne l’intervalle de temps qui sépare deux diffusions. Le système
+fonctionne de manière autonome, et est vendu sous blister par le réseau de la grande
+distribution.
+
+Figure 1.a : vues du diffuseur avec et sans capot
+
+Figure 1.b : mission et cas d’utilisation du diffuseur de parfum.
+
+ÉTUDE D’UNE PERFORMANCE DU DIFFUSEUR DE PARFUM
+Problématique : pour assurer la diffusion d’une dose de parfum, il faut enfoncer la tête
+d’aérosol en moins d’une seconde. La chaîne de puissance retenue permet-elle de
+répondre à cette exigence ?
+Principe de fonctionnement du diffuseur.
+Un moteur électrique à courant continu met en rotation un pignon moteur qui actionne un
+réducteur à engrenages. À la sortie de ce réducteur, la rotation de la came engendre la
+translation rectiligne de la tête de l’aérosol.
+
+Figure 1.c : positions relâchée et enfoncée de la tête d’aérosol.
+
+Figure 1.d : diagramme des blocs internes du système de diffusion
+
+Question 1.1 À partir des différents blocs du diagramme figure.1.d, compléter le
+(Fig.1.c et 1.d, document réponse DR1 en précisant la solution technologique associée
+DR1)
+à chacun des blocs de la chaîne de puissance.
+
+Figure 1.e : schéma cinématique du système de diffusion
+Question 1.2 Compléter le tableau du document réponse DR1 en donnant le nom
+(Fig.1.c et 1.e, des liaisons mécaniques manquantes sans oublier leurs orientations.
+DR1)
+
+Figure 1.f :
+
+modèle multiphysique de la chaîne de puissance du diffuseur automatique de
+parfum
+
+Question 1.3
+(Fig.1.e et 1.f)
+
+𝜃̇4/0
+
+Déterminer le rapport de transmission du réducteur r = ̇
+𝜃̇4/0
+
+𝜃1/0
+
+sachant
+
+que ̇
+= et en tenant compte du schéma cinématique de la figure
+𝜃3/0
+1.e.
+Justifier la valeur ratio du réducteur sur le modèle multiphysique de la
+figure 1.f.
+
+Figure 1.g : loi d’entrée sortie du système came et tête d’aérosol obtenue par un logiciel
+de simulation mécanique
+Question 1.4 Déterminer la valeur de l’angle parcouru par la came 4 𝜃4/0 pour
+(Fig.1.g)
+assurer une translation de la tête d’aérosol de 3 mm qui correspond à
+une diffusion.
+Question 1.5
+
+À partir du résultat de la question 1.3, déterminer la valeur de l’angle
+parcouru par le pignon moteur 1 𝜃1/0 pour assurer une translation de la
+tête d’aérosol de 3 mm
+
+Question 1.6
+
+En considérant que le moteur électrique alimenté sous 3 V atteint
+instantanément son régime établi de 250 tr·min-1, déterminer le temps
+d’alimentation en secondes de celui-ci pour assurer une diffusion.
+Rédiger en quelques lignes une conclusion au regard de la
+problématique énoncée à la page 3/10.
+
+MODIFICATION DU COMPORTEMENT DU DIFFUSEUR DE PARFUM
+Pour augmenter l’autonomie du diffuseur de parfum, le constructeur envisage d’ajouter
+une fonction permettant de sélectionner, grâce à un interrupteur deux positions, un des
+deux modes de fonctionnement suivants :
+- Mode_nuit = 0 : diffusion de parfum uniquement lorsqu’il fait jour ;
+- Mode_nuit = 1 : diffusion de parfum le jour et la nuit.
+Pour assurer ces modes de fonctionnement, il est nécessaire d’ajouter, en plus de
+l’interrupteur de sélection du mode de diffusion, un capteur d’éclairement lumineux.
+Problématique : quelle augmentation d’autonomie du diffuseur de parfum peut-on
+attendre lorsqu’il est utilisé avec le Mode_nuit = 0 ?
+Question 2.1 Compléter le diagramme des blocs internes du système de diffusion sur
+(DR2)
+le document DR2 pour faire apparaitre l’interrupteur deux positions et le
+capteur d’éclairement lumineux.
+Pour détecter la nuit, le fabricant du diffuseur souhaite utiliser comme capteur une
+photorésistance aussi appelée LDR (Light Dependent Resistor). La photorésistance est un
+composant électronique dont la résistivité varie en fonction de la quantité de lumière
+incidente : plus elle est éclairée, plus sa résistivité diminue.
+
+(éclairement lumineux)
+
+RLDR
+photorésistance
+
+symbole
+
+Éclairement lumineux
+
+10000
+
+1800
+
+en lux (lx)
+Résistance de la photorésistance RLDR
+en ohms (Ω)
+
+Figure 2.a : tableau des valeurs de la photorésistance
+
+La photo résistance est utilisée dans le montage suivant :
+
+(éclairement lumineux)
+
+I
+
+RLDR
+R1=33 kΩ
+
+VCC=3V
+
+Vc
+
+Figure 2.b : montage capteur
+Question 2.2 Montrer que 𝑉𝐶 = 𝑉𝐶𝐶 × 𝑅1
+𝑅1+𝑅𝐿𝐷𝑅
+(Fig. 2.a et
+2.b)
+
+Calculer les valeurs de Vc pour une luminosité de 10 lx, 100 lx et
+400 lx.
+
+On rappelle, que lorsque la variable logique Mode_nuit = 0, la diffusion de parfum doit se
+faire uniquement lorsqu’il fait jour. Lorsque Mode_nuit = 1, la diffusion de parfum doit se
+faire de jour et de nuit.
+On considère qu’il fait nuit lorsque l’éclairement lumineux est inférieur à 100 lx. Il fait jour
+dans le cas contraire.
+Question 2.3 Compléter l’algorigramme du document réponse DR2 pour que la
+(Figure 2.b et diffusion de parfum, en fonction de l’état de la variable logique
+DR2)
+Mode_nuit et de la valeur de la tension Vc issue du montage capteur
+d’éclairement lumineux, soit assurée.
+Des mesures, effectuées sur le montage capteur alimenté par la tension VCC = 3V, ont
+donné les valeurs de courant I consommé suivantes :
+•
+•
+
+Lorsqu’il fait jour I = 9,0 × 10-5 A
+Lorsqu’il fait nuit I = 1,3 × 10-5 A
+
+Question 2.4 Calculer la puissance consommée par le montage capteur lorsqu’il fait
+(Figure 2.b)
+jour et lorsqu’il fait nuit.
+Calculer l’énergie en joules consommée par le capteur de luminosité en
+24 h (12 h jour et 12 h de nuit).
+
+Pour la suite de l’étude, on prendra 14 J comme valeur de l’énergie consommée par le
+capteur de luminosité en 24 h.
+Lorsqu’il fait jour, on parle de période diurne.
+En ne tenant pas compte de la consommation du capteur de luminosité, une simulation
+montre que le fonctionnement diurne (12h), à raison d’une diffusion de parfum toutes les
+36 min, consomme 28 J par vingt-quatre heures.
+Le diffuseur de parfum est alimenté par des piles stockant une énergie totale de 11600 J.
+Question 2.5
+
+Déterminer l’autonomie en jour des piles alimentant le diffuseur de
+parfum utilisé en Mode_nuit = 0.
+
+Le diffuseur de parfum existant a une autonomie en énergie de 180 jours.
+Question 2.6
+
+Calculer le gain d’autonomie énergétique, exprimé en %, lorsque le
+diffuseur de parfum est utilisé en Mode_nuit = 0.
+Indiquer pour quelle raison l’autonomie énergétique n’a pas doublé
+alors qu’en Mode_nuit = 0 les diffusions de parfum sont réduites de
+moitié.
+
+DOCUMENTS RÉPONSES
+DR1 :
+Question 1.1
+
+Question 1.2
+L1/0
+
+Liaison pivot d’axe (A,z)
+
+L2/0
+
+L3/0
+
+L4/0
+
+L5/0
+
+L4/5
+
+DR2 :
+Question 2.1
+
+à compléter
+
+switch
+: interrupteur 4 positions
+
+: module électronique
+
+Doigt
+utilisateur
+: bouton poussoir
+
+: moteur électrique C-C
+
+Connecteurs soudés
+
+Contact
+
+Connecteurs soudés
+
+: 2 piles LR6
+
+M+/M- énergie
+électrique
+
+couple
+
+: réducteurs à engrenages
+
+Roue entrée: énergie
+mécanique
+
+Liaison complète
+
+effort
+: came
+
+Roulement avec glissement :
+énergie mécanique
+
+diagramme des blocs internes
+Question 2.3
+Début
+Intervalle
+Mesure Vc
+
+Sous programme gérant l’intervalle
+de temps séparant 2 diffusions.
+Sous programme mesurant la tension
+Vc issue du montage capteur.
+
+à compléter
+
+Diffusion
+
+Sous programme gérant le moteur
+pour diffuser 1 dose de parfum.
+
+Tête
+d’aérosol

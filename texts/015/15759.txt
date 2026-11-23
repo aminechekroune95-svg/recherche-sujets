@@ -1,0 +1,679 @@
+{"pages": 23, "method": "pdftotext", "bytes": 3240006, "at": "2026-11-23T09:27:58+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 23
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’un blob
+Sur 4 points
+Un blob est un organisme unicellulaire primitif qui est apparu il y a plus de 500
+millions d’années. Ce n’est ni un animal, ni un végétal, ni un champignon. Il est
+classé parmi les myxomycètes. Manon et Amine participent à une étude qui porte sur
+l’expansion et l’intelligence du blob.
+Partie 1 – Étude d’Amine : étude de l’expansion du blob
+Amine place un blob, qui occupe une superficie de 3,8 cm², dans une boite dont la
+base est un disque de rayon 8,2 cm.
+On modélise l’expansion du blob en cm² à l’aide de la fonction 𝑓 définie sur
+l’intervalle [0; +∞[ par :
+
+𝑓(𝑡 ) = 3,8 × *√2-
+
+!
+
+où 𝑡 désigne la durée en nombre de jours à partir du moment où Amine débute
+l’étude.
+1. Justifier que la fonction 𝑓 est croissante, puis que la taille du blob double tous
+les deux jours.
+2. Calculer la taille du blob au bout de 3 jours à partir du début de l’expérience.
+Arrondir le résultat au mm².
+3. On donne, ci-après, la représentation graphique de la fonction 𝑓 dans un
+repère du plan.
+Estimer graphiquement, avec la précision permise par le graphique, le temps
+qu’il faudra pour que le blob occupe toute la surface du fond de la boite.
+Expliquer la démarche utilisée pour répondre à cette question.
+
+Partie 2 – Étude de Manon : étude du déplacement du blob dans un labyrinthe
+Le blob a été étudié au Japon par un chercheur qui a révélé sa grande intelligence
+dans le cadre de la résolution de problème en labyrinthe.
+Manon dépose un blob à l’entrée d’un labyrinthe de 1 m de long. Le blob se déplace
+dans ce labyrinthe. À chaque heure, elle note la distance parcourue par le blob
+pendant la dernière heure écoulée. Les résultats incitent Manon à modéliser la
+distance parcourue pendant la 𝑛-ième heure par le blob par une suite arithmétique
+(𝑑! ) de raison 0,37, où 𝑑! désigne la distance parcourue par le blob, en cm, pendant
+la 𝑛-ième heure. L’étude commence à 8 h.
+On donne 𝑑" = 2,5.
+1. Justifier que 𝑑# = 2,87 et en déduire la distance, en cm, parcourue par le blob
+à 10 h.
+2. Exprimer 𝑑! en fonction de 𝑛, pour tout entier naturel 𝑛.
+3. Estimer la distance totale parcourue par le blob à 14 h (arrondir la réponse au
+cm).
+
+4. Manon souhaite savoir au bout de combien d’heures le blob aura parcouru
+90 cm. Reproduire sur la copie et compléter la fonction ci-dessous, écrite en
+Python, afin qu’elle renvoie le nombre minimal d’heures nécessaires pour
+atteindre cet objectif.
+def distanceparcourue():
+n=1
+d = 2.5
+d_total = 2.5
+while d_total < … :
+d = d + 0.37
+d_total = d_total + …
+n=n+1
+return n
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+La guitare ne sonne pas comme d’habitude…
+Un guitariste amateur se plaint de son oreille droite depuis quelques mois. Il souffre
+d’une gêne auditive et d’une distorsion du son perçu lorsqu’il joue de sa guitare, en
+particulier pour les sons aigus. Pour comprendre l’origine de cette sensation auditive,
+dans un premier temps le guitariste décide d’étudier le son émis par sa guitare. Dans
+un second temps, il consulte un médecin ORL pour un bilan auditif.
+Partie 1 – Du côté du son émis par la guitare
+Afin de vérifier que sa guitare n’a pas d’anomalie, le guitariste mesure les fréquences
+de sons joués par sa guitare à l’aide d’une application dédiée et souhaite les
+comparer à une loi modélisant les vibrations d’une corde.
+Il réalise en premier lieu l’expérience sur la corde la plus fine (document 1).
+Document 1 – Spectre du son joué par la corde la plus fine
+Le guitariste pince la corde la plus fine.
+À l’aide de son smartphone et d’une
+application dédiée, il enregistre le son joué
+et en obtient le spectre (figure ci-dessous).
+Le guitariste en déduit que le son joué a
+une fréquence de 328 Hz ce qui
+correspond à un Mi3.
+
+Source : Document de l’auteur
+
+Le guitariste reprend cette expérience en déplaçant son doigt sur différentes
+touches (voir figure ci-dessous) sur la même corde, la plus fine.
+Pour chaque son joué, il mesure la longueur de la partie de la corde libre de vibrer
+(figure ci-dessous). Il réalise plusieurs graphiques pour analyser les résultats de
+ses mesures (document 2).
+
+Document 2 – Exploitation graphique des données
+L représente la longueur vibrante de la corde (en cm) et f la fréquence du son joué
+(en Hz).
+
+1- L’application indique, sur le document 1, la fréquence du premier pic :
+« fréquence du pic 328,12 Hz ». Justifier que cette fréquence est celle du son
+émis.
+2- Justifier que le son joué est un son composé.
+
+3- En s’appuyant sur les graphiques du document 2, justifier que l’on peut
+considérer que la fréquence est inversement proportionnelle à la longueur vibrante
+de la corde.
+Document 3 – Une loi modélisant les vibrations de la corde
+Le père Marin Mersenne, savant et philosophe français, fut l’un des premiers à
+utiliser un laboratoire et à y faire des expériences. […] Il a été le premier à
+proposer une relation entre les différents paramètres de la corde vibrante :
+𝑓=
+
+1 T
+2𝐿 𝜇
+
+𝑓 : la fréquence du son émis par la corde (en Hz) ;
+𝐿 : la longueur vibrante de la corde (en m) ;
+𝑇 : la tension de la corde (en N) ;
+𝜇 : sa masse linéique (masse d’un mètre de corde) (en kg·m-1).
+
+Il fallut attendre le XVIIIe siècle avant d’avoir une démonstration mathématique de
+la formule de Mersenne.
+Source : D'après http://accromath.uqam.ca/2007/02/la-construction-des-gammesmusicales
+
+4- Discuter de la compatibilité des résultats expérimentaux obtenus et de la loi
+proposée dans le document 3. Une argumentation sur le choix du guitariste de
+mener toutes les mesures sur une seule et même corde est attendue.
+Partie 2 – Du côté du bilan auditif de l’oreille droite ?
+Le médecin ORL constate à l’auscultation que l’aspect du conduit auditif des deux
+oreilles du guitariste est normal. Pour identifier une éventuelle perte d’audition, il
+pratique un bilan complet d’audition.
+Document 4 – Modalités d’un bilan d’audition
+L’audiogramme représente la courbe spécifiant le niveau d’audition d’un sujet par
+rapport à des valeurs normales établies sur une large population d’adultes jeunes
+considérés comme ayant une audition normale. Le praticien fait varier l'intensité et
+la fréquence du stimulus acoustique afin de déterminer l'intensité minimum perçue
+par le patient. Deux types de conduction du son au niveau de chaque oreille sont
+testées :
+
+La conduction par voie aérienne : le praticien teste ainsi la conduction du
+son de l’oreille externe à l’oreille interne en passant par le tympan et les
+osselets.
+
+La conduction par voie osseuse : le praticien teste la conduction du son à
+travers les os du crâne grâce à un vibrateur placé à l’arrière de l’oreille.
+
+Source : D’après https://microbiologiemedicale.fr/anatomie-et-physiologie-de-loreille
+et https://www.cochlea.eu/exploration-fonctionnelle
+
+Document 5 – Comparaison des résultats de tests auditifs chez 3 patients
+dont le guitariste
+Seuls les résultats de l’oreille droite sont présentés ci-dessous. Le guitariste et les
+deux autres patients sont tous âgés d’une vingtaine d’années.
+
+Examen mesurant les seuils
+d’audition en conduction
+osseuse.
+Examen mesurant les seuils
+d’audition en conduction
+aérienne.
+
+Source : D’après http://www.orpac-grasse.com
+
+5- Identifier pour le patient 1 et le patient 2 (document 5) un des diagnostics cidessous qui pourrait lui correspondre. Justifier vos réponses.
+Diagnostic 1 :
+
+Le tympan, la chaine des osselets et la cochlée ne présentent
+pas d’anomalie. Le patient ne présente pas de surdité.
+
+Diagnostic 2 :
+
+Le tympan et les osselets sont probablement lésés mais ; la
+cochlée n’est pas atteinte. Il s’agit d’une surdité de
+transmission qui affecte l’oreille externe et/ou moyenne.
+
+Diagnostic 3 :
+
+La cochlée est atteinte mais la chaîne des osselets et le
+tympan ne présentent probablement pas d’anomalies. C’est
+d’une surdité de perception affectant l’oreille interne.
+
+Diagnostic 4 :
+
+La cochlée, le tympan et la chaîne des osselets sont
+probablement atteints. Il s’agit une surdité mixte avec
+surdité de transmission et surdité de perception.
+
+6- Le guitariste est le patient 2 (document 5). Il explique au médecin : « Pour une
+note aigue, j'entends un timbre différent depuis quelques mois. Ma guitare ne
+sonne pas comme avant ». En s’appuyant sur l’audiogramme du guitariste et sur
+le spectre d’une note aigue (document 1), proposer une explication à la
+distorsion de sa perception. Une démarche sur les harmoniques est attendue.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Le protoxyde d’azote et le réchauffement climatique
+À l’aube de nouvelles mesures prises pour la circulation des véhicules dans plusieurs
+grandes villes françaises, visant à limiter les émissions de gaz à effet de serre, nous
+allons nous interroger sur l’impact de différents gaz sur le réchauffement climatique.
+Le dioxyde de carbone et le méthane ont toujours été considérés comme les
+principaux responsables mais l’impact d’un autre gaz, le protoxyde d’azote, n’a-t-il
+pas été sous-estimé ?
+« Troisième gaz à effet de serre au monde, le N2O (protoxyde d'azote) joue un rôle
+important dans le réchauffement du climat, à quantités égales, il contribue environ
+300 fois plus au réchauffement de l’atmosphère par effet de serre que le dioxyde de
+carbone. » (Météo France, société scientifique nationale, 2020). À l’échelle mondiale,
+une part de sa production est d’origine naturelle (majoritairement issue des sols et
+dans une moindre mesure de l’océan) et l’autre part est d’origine anthropique.
+On cherche à étudier l’implication du protoxyde d’azote N2O comme gaz à effet de
+serre et à caractériser la part des activités humaines dans ces émissions.
+Partie 1 – Implication du protoxyde d’azote comme gaz à effet de serre
+D’après le site de Météo France, cité en introduction, le protoxyde d’azote est le
+troisième gaz à effet de serre.
+1- Citer les deux premiers gaz à effet de serre.
+2- Utiliser vos connaissances pour choisir la (ou les) proposition(s) correcte(s) dans
+chacune des séries a), b) et c). Indiquer sur votre copie le (ou les) numéro(s)
+correspondant(s).
+a) Le sol terrestre émet un maximum de rayonnement dans le domaine du
+spectre :
+1. visible ;
+2. infrarouge ;
+3. ultraviolet.
+
+b) Un gaz à effet de serre se caractérise par le fait qu’il :
+1. absorbe une partie du rayonnement visible ;
+2. réfléchit une partie du rayonnement visible ;
+3. absorbe une partie du rayonnement infrarouge ;
+4. réfléchit une partie du rayonnement infrarouge.
+c) Depuis un siècle, l’ordre de grandeur d’augmentation de la température
+moyenne du globe est de :
+1. 0,1 °C ;
+2. 1 °C ;
+3. 10 °C.
+Document 1 – Spectre d’absorption du protoxyde d’azote (N2O) dans le
+domaine des infrarouges
+
+Longueur d’onde (en µm)
+Source : d’après la base de données du National Institute of Standard and Technologie
+(USA)
+
+Le sol émet principalement un rayonnement sur une plage de longueurs d’onde
+comprises entre 7 et 15 µm.
+3- Montrer que le protoxyde d’azote est un gaz à effet de serre en vous appuyant
+sur le document 1.
+
+Document 2 – Impact des différents gaz sur le forçage radiatif et
+conséquences sur le réchauffement climatique
+L’effet des différents gaz sur le réchauffement climatique dépend :
+
+de leur concentration dans l’atmosphère ;
+
+de leur « pouvoir de réchauffement global » (PRG), qui correspond à la
+puissance radiative qu’une masse d’un kilogramme de gaz à effet de serre
+renvoie vers le sol sur une durée de 100 ans. On attribue la valeur 1 au
+PRG du dioxyde de carbone.
+
+Concentration
+atmosphérique
+en 2022
+(en 2005 entre
+parenthèses)
+PRG
+(cumulé sur 100
+ans)
+Origine des
+émissions
+anthropiques
+
+CO2
+Dioxyde de
+carbone
+
+CH4
+Méthane
+
+N2O
+Protoxyde
+d’azote
+
+HFC
+Hydrofluorocarbures
+
+PFC
+Perfluorocarbures
+
+412 ppm
+
+1 912 ppb
+
+336 ppb
+
+255 ppt
+
+92,8 ppt
+
+(379 ppm)
+
+(1 774 ppb)
+
+(319 ppb)
+
+(> 49 ppt)
+
+(> 4,1 ppt)
+
+[1,4 ;14 800]
+selon les gaz
+
+[6 630 ; 11 100]
+selon les gaz
+
+Combustion
+d’énergie
+fossile,
+industriels et
+déforestation
+tropicale
+
+Décharges,
+agriculture,
+élevage et
+industriels
+
+Agriculture,
+industriels,
+utilisation
+d’engrais
+
+Sprays, réfrigération, procédés industriels
+
+Note : ppm = partie par million ; ppb = partie par milliard ; ppt = partie par millier de milliard.
+
+Sources :
+GIEC (Groupe d’experts intergouvernemental avec comité scientifique de relecture) 2014,
+AGAGE (organisme sous tutelle de la NASA, USA) 2021,
+NOAA (National Oceanic and Atmospheric Administration, Agence gouvernementale
+américaine, USA) 2023
+
+Dans la citation de l’introduction, Météo France indiquait que le protoxyde d’azote
+contribue environ 300 fois plus au réchauffement de l’atmosphère par effet de serre
+que le dioxyde de carbone.
+4- Indiquer si le document 2 permet de confirmer cette affirmation.
+Météo France est l’agence nationale française de météorologie, et participe à ce titre
+à la recherche au sein de laboratoires mixtes avec des universités et avec le CNRS.
+
+5- Expliquer avec deux arguments différents pourquoi Météo France et les
+différentes sources citées dans le document 2 sont des sources fiables pour
+répondre à un questionnement sur le climat.
+Partie 2 – Évolution des concentrations en protoxyde d’azote et origines
+Document 3 – Émissions mondiales de protoxyde d’azote en 2005
+En 2005, la production mondiale de protoxyde d’azote, toutes origines confondues
+(anthropiques et naturelles), était estimée à 14,5 millions de tonnes.
+Le graphique ci-dessous présente les différentes contributions anthropiques (dues
+à l’activité humaine) aux émissions totales de N2O en 2005 :
+
+anthropiques
+
+avec 1 TgN = 1 million de tonnes d’azote
+Source : d’après les comptes rendus de l'Académie nationale des sciences américaine
+[www.pnas.org]
+
+Les émissions de N2O d’origine agricole proviennent essentiellement de la
+transformation des produits azotés tels que les engrais dans les sols, les
+déjections des animaux d’élevage (lisier, fumier) ou les résidus de récolte.
+
+6- Utiliser les informations du document 3 pour calculer le pourcentage des
+émissions de N2O liées aux activités agricoles par rapport aux émissions totales
+anthropiques pour 2005.
+Les émissions de N₂O d'origine anthropique ont augmenté de 30 % au cours des
+trois dernières décennies. Les croissances les plus importantes se produisent dans
+les économies émergentes, en particulier du Brésil, de la Chine et de l'Inde.
+Au cours des dernières décennies, la production végétale et le nombre de têtes de
+bétail ont également augmenté rapidement (Source CEA).
+
+Production mondiale de viande
+(en millions de tonnes
+
+Document 4 – Évolution de la production mondiale de viande de 1961 à 2009
+
+Année
+
+Source : FAOSTAT
+
+La croissance des émissions de protoxyde d’azote et celle de la production de
+viande sont donc concomitantes, c’est-à-dire qu’elles se sont produites en même
+temps.
+7- Justifier s’il est rigoureux scientifiquement de conclure qu’il existe une relation
+entre deux phénomènes à partir de leur concomitance. Vous pourrez vous
+appuyer sur les caractéristiques de la démarche permettant d’établir un fait
+scientifique.
+8- Développer deux arguments permettant ici d’établir un potentiel lien de causalité
+entre l’évolution montrée dans le document 4 et l’augmentation de la production
+de protoxyde d’azote anthropique.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+Histoire de l’âge de la Terre
+On se propose de comprendre de quelle manière on peut connaître l’âge de la Terre.
+Partie 1 – La radioactivité des roches, un outil de datation
+Document 1 – Principe de la datation absolue
+
+Nombre d’ atomes père
+
+Pour dater de manière absolue les roches, on utilise le principe de décroissance
+radioactive : au cours du temps, des éléments pères radioactifs se désintègrent en
+éléments fils, comme représenté ci-dessous
+Éléments pères
+Éléments fils
+Temps (en
+millions d’années)
+
+T1/2
+2xT1/2
+3xT1/2 4xT1/2
+T2
+Décroissance des atomes pères en fonction du temps
+
+Source : d’après le Livre scolaire
+1-
+
+Le temps de demi-vie (ou période radioactive T1/2) correspond à la durée
+écoulée lorsqu’une certaine quantité d'éléments pères est désintégrée. À partir
+du graphique du document 1, dire quelle est la proportion d’éléments pères
+désintégrée à T1/2.
+
+2-
+
+Calculer le pourcentage d’éléments pères encore présents à t = 4xT1/2. Vous
+détaillerez votre calcul.
+
+3-
+
+À partir des données du document 1, dire si le taux de désintégration des
+éléments pères (nombre de noyaux pères disparaissant par unité de temps)
+est constant avec le temps.
+
+Partie 2 – Donner un âge à la Terre : datation sur les météorites et sur les
+roches terrestres
+Pour donner un âge à la Terre, C. Patterson s’appuie sur le « modèle de formation
+par accrétion » qui admet que les météorites se sont formées en même temps que
+les planètes du système solaire. En 1955, C. Patterson, met au point une méthode
+de datation basée sur la mesure des rapports isotopiques du Plomb (Pb). Les deux
+éléments 207Pb et 206Pb sont issus de la désintégration de l’Uranium (U). L’isotope
+204 du plomb est stable et va servir de référence.
+Les rapports isotopiques mesurés sur des météorites permettent de tracer une droite
+nommée “isochrone”.
+Document 2 – La méthode de Clair Patterson
+La droite isochrone obtenue par C. Patterson est représentée ci-dessous. Les
+points correspondent aux rapports isotopiques mesurés sur des météorites. Ces
+points sont alignés sur un même droite car ils représentent des échantillons de
+même âge. Le coefficient directeur “m” de cette droite est directement lié à l'âge
+des météorites.
+2a – La droite isoschrone de C. Patterson
+
+Le coefficient directeur
+“m” est donné par la
+relation:
+
+Droite isochrone
+
+avec A (xA;yA) et B (xB;yB)
+deux points appartenant
+à la droite.
+
+10 15 20 25 30 35 40 45 50
+
+Droite isochrone obtenue par Patterson sur des échantillons de météorites.
+2b – Graphique représentant un géochronomètre
+En utilisant le géochronomètre ci-dessous, il est possible de déterminer
+graphiquement l’âge d’une roche ou d’un ensemble de roches de même âge grâce
+à la valeur du coefficient directeur « m » de la droite isochrone.
+
+4,2
+
+4,4
+
+4,6
+
+4,8
+
+Âge de la roche (en
+milliards d’années)
+Source : D’après http://acces.ens-lyon.fr/
+
+1-
+
+À partir du document 2, déterminer l’âge des météorites en appliquant la
+méthode de Patterson. Faire apparaître tous les calculs et les étapes du
+raisonnement.
+
+Partie 3 – Histoire de l’âge de la Terre
+Document 3 – âge estimé de la Terre en fonction des années
+Le graphique ci-dessous représente les âges donnés à la Terre par quelques
+auteurs au cours de notre Histoire.
+
+Source : Le livre scolaire
+
+2- En utilisant les données du document 3 et vos connaissances, commentez
+brièvement la proposition suivante : « les théories scientifiques ne sont que des
+théories, elles peuvent toujours changer ». Préciser en particulier comment la
+communauté scientifique procède pour valider une théorie.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Les impacts de la combustion sur l’environnement et la santé
+La combustion de carburants fossiles et de la biomasse libère, entre autres, du
+dioxyde de carbone et des particules fines qui impactent la santé publique.
+On se propose d’étudier ces deux paramètres distincts dans la suite de l’exercice.
+Partie 1 – Émission de dioxyde de carbone par combustion
+La combustion de différents carburants ou de la biomasse s’accompagne d’une
+libération d’énergie thermique, convertie en énergie électrique dans des centrales. La
+transformation chimique associée conduit également à la production de dioxyde de
+carbone et d’eau.
+Document 1 – Données concernant la combustion de carburants
+Production de dioxyde de carbone lors de la combustion
+de carburants fossiles et de la biomasse
+
+Équation de la réaction
+
+Gaz naturel méthane CH4
+
+CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(g)
+
+Essence modélisée par l’octane C8H18 2 C8H18(l) + 25 O2(g) → 16 CO2(g) +18 H2O(g)
+Biomasse (bois) modélisée par
+C6H10O5
+
+C6H10O5(s) + ... O2(g) → ... CO2(g) + ... H2O(g)
+
+Énergie massique libérée par kg de combustible brûlé
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Énergie massique
+libérée
+
+50 MJ/kg
+
+45 MJ/kg
+
+17 MJ/kg
+
+Masse de CO2 produite pour 1 MJ d’énergie obtenue
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Masse de CO2
+produite
+
+56 g
+
+70 g
+
+95 g
+
+Rappel : 1 MJ = 1 × 106 J
+Source : d’après J.-C. Guibet, Publications de l’Institut français du pétrole,1997
+et W.-M. Haynes, CRC Handbook of Chemistry and Physics, 2012
+
+1- Indiquer le (ou les) combustible(s) mentionnés dans le document 1 pouvant être
+considérés comme source(s) d’énergie renouvelable. Justifier votre réponse.
+2- Calculer la masse d’essence, notée messence, nécessaire pour obtenir une énergie
+de valeur 1 MJ.
+3- Comparer la masse de dioxyde de carbone émise par MJ d’énergie obtenue pour
+chaque combustible du document 1
+Document 2 – Bilan carbone d’un combustible
+Le bilan carbone d'un combustible correspond à la quantité totale de dioxyde de
+carbone émise dans l'atmosphère lors de son cycle de vie, incluant l'extraction, le
+transport, la transformation et la combustion. Ce bilan carbone correspond
+finalement à la différence entre l’émission et l’absorption de dioxyde de carbone au
+cours du cycle de vie d’un combustible.
+Source : d’après https://www.citepa.org/fr/2023_01_b04
+
+4- Sur un site internet, on trouve l’affirmation suivante : « l’utilisation de la biomasse
+à la place de combustibles fossiles permet de diminuer l’ampleur du
+réchauffement climatique ». Expliquer en quoi cette affirmation est justifiée (15
+lignes maximum) en intégrant les éléments suivants :
+
+rappel du lien entre émissions de CO2 et réchauffement climatique ;
+
+utilisation des données chiffrées disponibles dans l’exercice (document 1
+et réponses aux questions précédentes) ;
+
+lien entre vos connaissances concernant la biomasse et les informations
+du document 2.
+
+Partie 2 – Pollution aux particules fines
+Document 3 – Particules fines
+Les particules fines (PM2,5) sont des entités solides de diamètre inférieur à 2,5 µm.
+Comme toutes particules, elles sont constituées d’un mélange de différents
+composés chimiques.
+L’Organisation mondiale de la santé (OMS) indique que la santé publique est
+impactée par la pollution de l’air. Le Ministère en charge des questions des
+Solidarités et de la Santé estime qu’environ 48 000 personnes décèdent chaque
+année des effets de la pollution de l’air en France.
+Source : d’après site web d’AirParif, www.airparif.fr
+
+Document 4 – Pollution aux particules fines
+Le diagramme ci-contre montre la
+répartition (en %) par grands secteurs
+d’activité des émissions annuelles de
+particules fines de dimensions
+inférieures à 2,5 mm (PM 2,5) en Île
+de France.
+Source : d’après site web d’AirParif,
+www.airparif.fr
+
+La contribution des différents secteurs à
+la pollution atmosphérique varie selon le
+lieu.
+En fonction du lieu sur le territoire
+français, les concentrations
+atmosphériques en PM2.5 ne sont pas
+les mêmes, comme indiqué sur la carte
+ci-contre.
+Source : www.invs.sante.fr
+
+5- Indiquer le type de zone géographique le moins impacté par la pollution aux
+particules fines sur le territoire français en vous appuyant sur le document 4.
+Partie 3 – Synthèse
+6- Un collectif citoyen émet la proposition suivante : « pour lutter contre le
+réchauffement climatique dans notre commune, nous proposons d'interdire les
+véhicules les plus polluants en centre-ville grâce à la mise en place d'une ZFE
+(Zone à Faibles Émissions), ce qui permettra de réduire significativement notre
+impact sur l'effet de serre. » Nuancer de manière argumentée cette affirmation
+en vous appuyant sur l’ensemble des documents de l’exercice et notamment :
+
+la comparaison entre la nature physique du CO2 et des particules fines ;
+
+les effets du CO2 sur le climat et des particules fines sur l'environnement ;
+
+les échelles de temps et d'espace de leurs impacts.
+
+Votre réponse devra montrer en quoi cette mesure peut être pertinente tout en
+expliquant pourquoi l'affirmation mérite d'être nuancée.

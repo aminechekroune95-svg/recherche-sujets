@@ -1,0 +1,276 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1738854, "at": "2026-11-23T09:22:47+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Étude d’une montagne russe (10 points)
+Le Blue Fire Megacoaster est une attraction de type
+montagnes russes située dans un parc d’attraction.
+Elle détient le record du plus haut looping d’Europe
+sur des montagnes russes lancées.
+Dans cette attraction le train est lancé, c’est-à-dire
+qu’un moteur linéaire lui procure l’énergie cinétique
+nécessaire pour parcourir l’ensemble de l’attraction
+avant la première bosse.
+Source : d’après https://www.europapark.de/fr
+L’objectif de cet exercice est de vérifier la cohérence de certaines informations fournies par le
+constructeur de l’attraction et notamment d’apporter un regard critique sur la précision des
+données fournies.
+Quelques informations :
+La trajectoire que parcourt le train jusqu’au sommet de la première montée est la suivante :
+Le schéma est représenté sans souci d’échelle.
+
+Le train est initialement immobilisé au point A avec la vitesse initiale v0 = 0 m.s – 1. Grâce à un
+moteur linéaire électrique il est accéléré, sur une piste horizontale, par une force constante
+entre les points A et B pendant une durée t = 2,5 s pour atteindre sa vitesse maximale vmax
+au point B. À partir du point C, il parcourt la première montée pour atteindre son sommet au
+point D à une hauteur h = 38 m au-dessus de la piste de lancement.
+On considère, en première approximation, que les frottements sont négligeables.
+ Quelques caractéristiques de l’attraction :
+m = 10 t
+Masse du train
+P = 1,5 MW
+Puissance du moteur linéaire
+Durée de lancement
+t = 2,5 s
+vmax = 100 km.h – 1
+Vitesse maximale
+Hauteur maximale de l’attraction
+hmax = 38 m
+(par rapport à la piste de lancement)
+Sources : d’après https://www.europapark.de/fr/attractions/blue-fire-megacoaster-poweredgazprom
+http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.europapark.de%2Flangfr%2Fc51%2Fm242%2Fd459%2Fdefault.html
+Données :
+ intensité du champ de pesanteur terrestre : g = 9,81 ms – 2 ;
+ le niveau de référence de l’énergie potentielle de pesanteur est choisi pour l’altitude
+y = 0 : Epp(A) = 0 J.
+1. Étude de la chaine énergétique
+1.1. La chaîne énergétique suivante permet de schématiser la conversion d’énergie lors du
+lancement du train :
+
+Sans recopier la chaîne énergétique ci-dessus, donner la forme d’énergie à faire apparaître
+dans chaque cadre numéroté de 1 à 3.
+Pour cela, indiquer sur la copie le numéro du cadre et lui associer une forme d’énergie.
+
+1.2. Montrer que l’énergie cinétique du train Etrain à la fin de la phase de lancement vaut
+Etrain = 3,9 MJ.
+E train
+1.3. Le rendement du moteur linéaire étant donné par la relation  =
+où Eélectrique est
+E électrique
+l’énergie électrique fournie au moteur linéaire, déterminer la valeur du rendement .
+Commenter la valeur obtenue en apportant un regard critique sur les données fournies par le
+constructeur.
+2. Simulation de la propulsion du train
+Afin d’illustrer la phase de lancement, le programme suivant écrit en langage Python permet
+de simuler la trajectoire du train ainsi que de tracer les vecteurs variation de vitesse  v en
+quelques points de cette trajectoire sur une durée Δt. Le modèle utilisé formule l’hypothèse
+d’un mouvement à accélération constante.
+
+La fenêtre suivante présente le résultat obtenu :
+
+2.1. Compléter la ligne 24 du programme de simulation en modifiant la partie entre les
+crochets […] afin de calculer les coordonnées vx [k] des vecteurs vitesses aux différents points
+de la trajectoire.
+2.2. Déterminer graphiquement les valeurs v2 et v4 des normes des vecteurs  v aux points
+M2 et M4.
+2.3. Expliquer comment semble évoluer le vecteur  v au cours de la phase de lancement du
+train.
+2.4. Donner la relation approchée entre le vecteur variation de vitesse  v du train et la
+somme des forces extérieures  Fext qui s’appliquent sur celui-ci.
+2.5. En déduire les caractéristiques du vecteur  Fext .
+3. Étude du train lors de la première ascension
+Une modélisation simplifiée de la trajectoire du train, considéré comme un point matériel M,
+entre les points A et D peut être donnée par le schéma suivant, représenté sans souci
+d’échelle.
+
+On considère la première montée CD comme rectiligne et faisant un angle  = 45° avec
+l’horizontale.
+Le poids est une force conservative.
+3.1. Exprimer le travail W CD ( P ) du poids sur le trajet CD en fonction de ⃗⃗⃗⃗⃗⃗
+CD et de ⃗⃗P puis
+montrer que W CD ( P ) = m·g·(yC – yD).
+3.2. Donner la valeur du travail W CD ( R ) de la force de réaction des rails lors de la première
+montée. Justifier.
+3.3. Établir l’expression de l’altitude maximale hmax que pourrait atteindre le train en l’absence
+de frottements puis calculer sa valeur. Commenter.
+PARTIE B
+
+Synthon d’un antihypertenseur (10 points)
+
+Irbésartan
+
+L’irbésartan, dont la formule est représentée ci-contre, est un composé organique utilisé dans
+le traitement de l’hypertension artérielle.
+Cette espèce présente des points communs avec une hormone produite naturellement par
+l’organisme responsable d’une élévation de la pression artérielle. L’irbésartan vient se fixer sur
+les récepteurs spécifiques de cette hormone, les empêchant alors de la reconnaître et évitant
+ainsi une élévation trop importante de la pression artérielle.
+
+d’après Thèse : Conception et synthèse de métalloprotéases et de cibles à ligand acide, Cousaert N.,
+2008 https://tel.archives-ouvertes.fr/tel-00356629/document
+
+Pour synthétiser une molécule complexe les chimistes la « coupe » fictivement en plusieurs
+fragments appelés « synthons ». Le choix des synthons se fait de telle sorte qu’ils soient
+fabriqués en un minimum d’étapes avec de bons rendements. Ces synthons réagiront ensuite
+entre eux pour conduire à la molécule souhaitée.
+Dans le cas de la synthèse de l’irbésartan, une équipe de chimiste a envisagé la fabrication
+des deux synthons ci-dessous (synthons 1 et 2) :
+
+« Coupure »
+
++
+
+Br
+
+Synthon
+Irbésartan
+Synthon 2Ce
+La synthèse du synthon
+1 se fait en trois étapes à partir de
+la molécule
+de cyclopentanone.
+sujet porte sur l’étape 1 de cette synthèse multi-étapes, celle permettant d’obtenir le
+composé A.
+
+étape 1
+
+étape 2
+
+puis étape 3
+
+Synthon 1
+
+Cyclopentanone
+
+A
+
+NH2
+
+Protocole expérimental de l’étape 1 :
+ Dans un ballon de 250 mL, introduire 5,2 g (80 mmol) de cyanure de potassium solide,
+8 mL d’eau et un barreau aimanté. Mettre le tout au-dessus d’un agitateur magnétique et
+agiter jusqu’à dissolution complète.
+ Introduire successivement 20 mL d’une solution aqueuse d’ammoniac de concentration en
+quantité de matière d’ammoniac 10,8 mol.L- 1, puis 6,3 mL de cyclopentanone dissous dans
+8 mL de méthanol.
+ Surmonter le ballon d’un réfrigérant, agiter et chauffer le mélange durant 45 minutes à
+60 °C.
+ Laisser refroidir tout en continuant à agiter durant 45 minutes.
+
+ Verser le mélange dans une ampoule à décanter et ajouter 50 mL de dichlorométhane.
+Séparer les phases.
+ Extraire la phase aqueuse avec trois fois 25 mL de dichlorométhane.
+ Rassembler les phases organiques et les sécher avec du sulfate de magnésium anhydre
+MgSO4 (s). Filtrer et récupérer la phase organique.
+ Le solvant organique est évaporé et on obtient alors 7,1 g d’une huile incolore : le composé
+A.
+Données:
+Quelques informations relatives aux espèces chimiques de l’étape 1 du protocole expérimental
+Espèce chimique,
+Formule brute
+Masse molaire
+Cyclopentanone
+C5 H8 O
+Mcyclo = 84,1 g∙mol -1
+Solution aqueuse d’ammoniac à 10,8 mol.L- 1
+NH3 (aq)
+MNH 3 = 17,0 g.mol - 1
+
+État physique
+Température d’ébullition
+Densité par rapport à l’eau à 20°C
+(à la pression atmosphérique)
+Liquide incolore
+Téb = 130,5 °C
+ρcyclo = 950 g.L-1
+Liquide incolore
+Téb = 50 °C
+NH3 (aq) = 910 g.L – 1
+
+Cyanure de potassium
+KCN (s)
+MKCN = 65,1 g∙mol-1
+A
+C6 H10 N2
+MA = 110,2 g∙mol-1
+
+Solide blanc
+Huile incolore
+
+Masse volumique de l’eau à 20°C : ρeau = 1000 g.L-1
+
+Masse volumique du dichlorométhane : ρ𝑑𝑖𝑐ℎ𝑙𝑜 = 1330 g.L-1
+Tableau des miscibilités entre différentes espèces chimiques
+Eau
+Dichlorométhane
+Eau
+Non miscible
+Dichlorométhane
+Non miscible
+Molécule A
+Bonne
+Très bonne
+
+Valeurs des électronégativités de certains atomes (selon Pauling)
+Atomes
+H
+Électronégativité
+2,1
+2,5
+3,5
+
+Molécule A
+Bonne
+Très bonne
+
+3,0
+
+1. À propos des réactifs et produits
+1.1. Définir un composé organique.
+1.2. Recopier la molécule de cyclopentanone et la molécule A sur la copie et y ajouter tous les
+doublets non liants de la molécule. Justifier la démarche.
+1.3. Entourer le groupe caractéristique présent sur la molécule de cyclopentanone et préciser
+le nom de la famille de composés associée.
+2. Analyse du protocole
+Deux solvants sont mélangés lors de cette synthèse, l’eau et le méthanol, dont le mélange est
+homogène.
+2.1. Représenter le schéma de Lewis de la molécule d’eau, puis celui de la molécule de
+méthanol de formule brute CH4O.
+2.2. Donner le nom de l’interaction prépondérante entre l’eau et le méthanol qui permet
+d’expliquer la présence d’une seule phase dans le milieu réactionnel. Justifier à l’aide d’un
+schéma.
+2.3. Citer le nom du montage utilisé lors du chauffage. Donner son intérêt.
+2.4. Donner le nom de l’opération effectuée lors des étapes  et  du protocole de synthèse.
+2.5. Sur l’annexe à rendre avec la copie compléter le schéma correspondant à la fin de
+l’opération . Préciser la nature des phases sur le schéma en justifiant la réponse sur la copie
+et indiquer dans quelle phase se trouve le composé A.
+2.6. Donner le nom de l’opération  et préciser le rôle du sulfate de magnésium anhydre
+ajouté à la phase organique lors de cette étape.
+3. Rendement de la synthèse
+L’équation de la réaction modélisant la transformation associée à l’étape 1 est la suivante :
+C5H8O(l) + CN(aq) + NH3 (aq)  C6H10N2 + HO (aq)
+3.1. Calculer les quantités de matière d’ammoniac et de cyclopentanone introduites
+initialement dans le milieu réactionnel.
+3.2. En déduire la valeur de l’avancement maximal de la réaction xmax .
+3.3. Définir le rendement de la synthèse et le calculer en admettant que l’huile incolore
+obtenue correspond au composé A pur.
+
+Annexe à rendre avec la copie
+Question 2.5.
+
+a
+n
+n
+po
+te
+a
+nc
+eu

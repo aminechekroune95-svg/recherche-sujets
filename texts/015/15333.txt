@@ -1,0 +1,460 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1221622, "at": "2026-11-23T09:39:54+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A 2
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+Question A 3
+Quelle est l'écriture binaire du nombre entier 183 ?
+0100 1000
+1110 1101
+1011 0111
+1001 0101
+Question A 4
+Quelle table de vérité correspond à l'expression (non(A) ou B) ?
+Remarque : dans les tables proposées, la première colonne donne les valeurs de A, la première ligne les valeurs
+de B.
+
+Question A 5
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A 6
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+if a==b:
+c = True
+elif a > b+10:
+c = True
+else:
+c = False
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+
+Thème B : types construits
+Question B 1
+A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+B = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+for i in range(3):
+for j in range(3):
+B[i][j] = A[j][i]
+Que vaut B à la fin de l'exécution ?
+rien du tout, le programme déclenche une erreur d'exécution
+[[3, 2, 1], [6, 5, 4], [9, 8, 7]]
+[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+[[7, 8, 9], [4, 5, 6], [1, 2, 3]]
+Question B 2
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+Question B 3
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 4
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B 5
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+Question B 6
+Les points A, B et C sont de coordonnées A(1,5), B(3,4) et C(-2,1). On veut créer un dictionnaire triangle dont
+les clés sont les noms des points et les valeurs leur couple de coordonnées.
+Comment procéder ?
+triangle = ('A': (1,5), 'B': (3,4), 'C': (-2,1))
+triangle = ['A': (1,5), 'B': (3,4), 'C': (-2,1)]
+triangle = {'A': (1,5), 'B': (3,4), 'C': (-2,1)}
+triangle = {['A',(1,5)], ['B',(3,4)], ['C',(-2,1)]}
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 2
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 3
+On définit :
+stock = [
+
+{'nom': 'flageolets', 'quantité': 50, 'prix': 5.68},
+{'nom': 'caviar', 'quantité': 0, 'prix': 99.99},
+.........
+.........
+{'nom': 'biscuits', 'quantité': 100, 'prix': 7.71} ]
+
+Quelle expression permet d'obtenir la liste des noms des produits effectivement présents dans le stock (c'est-àdire ceux dont la quantité n'est pas nulle) ?
+['nom' for p in stock if 'quantité' != 0]
+[p for p in stock if p['quantité'] != 0]
+[p['nom'] for p in stock if 'quantité' != 0]
+[p['nom'] for p in stock if p['quantité'] != 0]
+Question C 4
+
+On écrit la fonction suivante :
+def extreme(t, test):
+m = t[0]
+for x in t:
+if test(x,m):
+m = x
+return m
+On dispose d'une liste L dont les éléments sont des couples (nom, note).
+Par exemple :
+L = [
+
+('Alice', 17), ('Barnabé', 18),
+('Casimir', 17), ('Doriane', 20),
+('Emilien', 15), ('Fabienne', 16) ]
+
+On aimerait que l'appel de fonction extreme(L, test) renvoie un couple présentant la note maximale.
+Quelle définition de la fonction test peut-on utiliser ?
+return a[0] < b[0]
+
+return a[0] > b[0]
+
+return a[1] < b[1]
+
+return a[1] > b[1]
+
+Question C 5
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 6
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Parmi ces quatre éléments d’un formulaire HTML, lequel est prévu pour envoyer les données saisies ?
+<input name="file" type="file"/>
+<input value="here we go !" type="submit"/>
+<input name="email" type="email"/>
+<input value="once again !" type="reset"/>
+Question D 2
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 3
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D 4
+Dans quelle situation peut-on garantir qu'une transmission entre un client et un serveur sera chiffrée ?
+Lorsqu'on utilise le protocole HTTP
+Lorsqu’on utilise la méthode POST
+Lorsqu’on utilise le protocole HTTPS
+Lorsqu’on utilise HTML et CSS
+Question D 5
+Un navigateur affiche la page HTML suivante :
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Un bouton</title>
+</head>
+<body>
+<button onclick="maFonction()">Cliquer ici</button>
+</body>
+
+<script src="script.js"></script>
+</html>
+Lorsque l'on clique sur le bouton, l'action déclenchée maFonction() est définie :
+dans le fichier HTML seul
+dans le fichier style.css
+dans une bibliothèque prédéfinie du navigateur
+dans le fichier script.js
+Question D 6
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Comment s'appelle le service qui permet de faire le lien entre une IP et un nom de domaine ?
+DNS
+ARP
+HTTP
+Internet
+Question E 2
+Lequel de ces objets n'est pas un périphérique ?
+le clavier
+une clé USB
+la carte graphique
+la carte mère
+Question E 3
+Dans un établissement scolaire, tous les ordinateurs sont reliés au réseau local par l'intermédiaire de câbles
+Ethernet. Il n'existe pas de liaisons sans fil. Dans chaque salle d'ordinateurs, les machines sont reliées à un
+commutateur. Chaque commutateur est relié par un câble jusqu'à la salle où se situe le serveur contrôleur de
+domaine et la passerelle internet (routeur).
+Vous êtes connectés sur un ordinateur d'une de ces salles d'ordinateurs avec votre classe. Tout à coup, plus
+personne n'a accès à Internet, mais toutes les ressources locales de l'établissement sont toujours accessibles.
+Parmi ces quatre propositions, laquelle est la plus vraisemblable ?
+Un de vos camarades a débranché accidentellement le câble Ethernet de votre machine.
+Le routeur de l'étage est indisponible (il a été débranché ou est en panne).
+Le commutateur de la salle est indisponible (il a été débranché ou est en panne).
+La passerelle internet de l'établissement est indisponible (elle a été débranchée ou est en panne).
+Question E 4
+Dans la console Linux, quelle commande faut-il exécuter pour effacer le fichier test0.csv ?
+rm test0.csv
+cp test0.csv
+ls test0.csv
+mv test0.csv
+Question E 5
+
+On cherche à connaître l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E 6
+Une et une seule de ces affirmations est fausse. Laquelle ?
+Un système d'exploitation libre est la plupart du temps gratuit
+Je peux contribuer à un système d'exploitation libre
+Il est interdit d'étudier un système d'exploitation propriétaire
+Un système d'exploitation propriétaire est plus sécurisé
+
+Thème F : langages et programmation
+Question F 1
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F 2
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 3
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+
+Question F 4
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+Question F 5
+On considère le code suivant
+def moyenne(notes):
+somme = 0
+for cpt in range(len(notes)):
+....
+m = somme/len(notes)
+return m
+Par quoi remplacer la ligne en pointillée pour que cette fonction calcule la moyenne d'une liste de nombres ?
+somme = somme + notes[cpt]
+somme = notes[cpt]
+somme = cpt
+somme = somme + cpt
+Question F 6
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+
+Thème G : algorithmique
+Question G 1
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 2
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 3
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 4
+
+On considère un entier positif A.
+Parmi les quatre codes suivants, il y en a un dont l'exécution ne termine pas. Lequel ?
+i = A + 1
+i = i - 1
+
+i = A + 1
+i = i + 1
+
+i = A - 1
+i = i - 1
+
+i = A - 1
+i = i + 1
+
+Question G 5
+Avec un algorithme de recherche par dichotomie, combien d’étapes sont nécessaires pour déterminer que 35
+est présent dans le tableau [1, 7, 12, 16, 18, 20, 24, 28, 35, 43, 69] ?
+1 étape
+2 étapes
+9 étapes
+11 étapes
+Question G 6
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+2.2

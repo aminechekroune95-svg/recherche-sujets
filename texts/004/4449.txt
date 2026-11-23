@@ -1,0 +1,188 @@
+{"pages": 7, "method": "pdftotext", "bytes": 916126, "at": "2026-11-23T09:34:13+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+DÉTERMINATION DE L'ÂGE DE LA TERRE PAR BUFFON
+Cet exercice propose d’étudier une méthode historique de détermination de l’âge de
+la Terre (proposée par Buffon au 18e siècle) et de la mettre en perspective avec une
+méthode actuelle.
+Partie 1. Expérience de Buffon et détermination de l’âge de la Terre
+Document 1. Description du protocole expérimental mis en œuvre par Buffon
+« J'ai fait faire dix boulets de fer forgé et battu :
+Le premier d'un demi-pouce de diamètre. Le second d'un pouce. Le troisième d'un
+pouce et demi. Le quatrième de deux pouces. Le cinquième de deux pouces et demi. Le
+sixième de trois pouces. Le septième de trois pouces et demi. Le huitième de quatre
+pouces. Le neuvième de quatre pouces et demi. Le dixième de cinq pouces.
+Ce fer venait de la forge de Chameçon près de Châtillon-sur-Seine, et comme tous
+les boulets ont été faits du fer de cette même forge, leurs poids se sont trouvés à très-peu
+près proportionnels aux volumes. [...]
+J'ai cherché à saisir deux instants dans le refroidissement, le premier où les boulets
+cessaient de brûler, c'est-à-dire le moment où on pouvait les toucher et les tenir avec la
+main, pendant une seconde, sans se brûler ; le second temps de ce refroidissement était
+celui où les boulets se sont trouvés refroidis jusqu'au point de la température actuelle, c'està-dire, à 10 degrés au-dessus de la congélation. »
+Extrait : Premier tome, rédigé par Buffon (1774)
+Document 2. Tableau présentant un extrait des mesures réalisées par Buffon
+Diamètre (en pouce)
+
+1,5
+
+Temps de
+« refroidissement au
+point de la température
+actuelle » (en minute)
+
+145 196 308 415
+
+1- « Le boulet de 5 pouces a été chauffé à blanc en 34 minutes. Il s'est refroidi au
+point de le tenir dans la main en 3 heures 52 min. Refroidi au point de la température
+actuelle en 8 heures 42 minutes. »
+Indiquer laquelle des quatre valeurs proposées ci-dessous correspond à la valeur
+manquante dans le document 2 (case grisée) pour le boulet de 5 pouces.
+Valeur A : 842
+
+Valeur B : 352
+
+Valeur C : 522
+
+Valeur D : 232
+
+2- Le pouce est une ancienne unité de longueur, valant environ 2,7 cm. Convertir en
+centimètre le diamètre du plus grand boulet.
+3- Sur l’annexe, représenter les points correspondant au temps de
+« refroidissement au point de la température actuelle » (en minute) en fonction du
+diamètre du boulet (en pouce).
+4- Indiquer laquelle des trois affirmations suivantes permet d’exprimer la relation
+entre le diamètre du boulet en fer forgé et son temps de « refroidissement au point
+de la température actuelle » au vu de l’expérience de Buffon.
+• Affirmation A : « Le temps de refroidissement est proportionnel au diamètre. »
+• Affirmation B : « La vitesse de refroidissement est proportionnelle au diamètre. »
+• Affirmation C : « L’accroissement du temps de refroidissement est proportionnel à
+l’accroissement du diamètre. »
+5- L’utilisation d’un tableur permet d’ajuster le nuage des points construits à la
+question 3 par la fonction f définie par 𝑓(𝑑) = 108𝑑 − 16 pour des valeurs de
+𝑑 supérieures ou égales à 1 et où d correspond au diamètre (en pouce) et f(d) la
+durée de refroidissement (en minute).
+À l’aide de ce modèle et sachant que le diamètre de la Terre est de 12 742 km,
+calculer l’âge de la Terre (en année).
+Partie 2. Mise en perspective avec les connaissances actuelles
+Nous cherchons à porter un regard critique sur l’utilisation de boulets en fer pour
+déterminer l’âge de la Terre.
+6- En utilisant le document 3, expliquer en quoi le modèle de Buffon utilisant des
+boulets de fer n’est pas adapté pour déterminer l’âge de la Terre.
+7- Indiquer l’âge de la Terre estimé actuellement. Nommer la méthode utilisée
+pour déterminer cet âge et décrire son principe.
+
+EXERCICE 2
+LA DATATION AU 14C POUR PRÉSERVER LA BIODIVERSITÉ
+L’Union européenne a interdit le commerce de l’ivoire depuis 1989, à l’exception de
+celui des antiquités acquises avant 1947. Selon un rapport remis à la Commission
+européenne en juillet 2018, l’ivoire vendu en Europe proviendrait pourtant
+essentiellement de défenses d’éléphants abattus récemment. Ce rapport s’appuie
+sur des résultats obtenus par datation au carbone 14C de l’ivoire saisi par les
+autorités. Les trafiquants contournent la loi en faisant passer l’ivoire récent pour de
+l’ivoire ancien.
+1- Expliquer le principe d’une datation utilisant un isotope radioactif.
+2- Parmi les propositions suivantes, indiquer sur votre copie celle qui correspond à la
+désintégration du carbone 14.
+a) 188𝑂 → 146𝐶 + 42𝐻𝑒
+b) 146𝐶 → 147𝑁 + −10𝑒
+c) 62𝐻𝑒 + 84𝐵𝑒 → 146𝐶
+2- Le document 1 indique que la demi-vie du carbone 14 est de 5730 ans. Expliquer
+le terme « demi-vie ».
+3- On considère un échantillon d’ivoire d’éléphant contenant à un instant donné
+16 milliards de noyaux de carbone 14. Calculer le nombre de noyaux de carbone 14
+restants au bout de :
+3-a- 5 730 ans.
+3-b- 11 460 ans.
+3-c- 17190 ans.
+
+Document 2. Courbe de décroissance du carbone 14 sur 40 000 ans
+
+Proportion du nombre d’atomes de carbone 14 restants par
+rapport au nombre d’atomes de carbone 14 au départ
+
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+t (ans)
+
+5- Estimer le nombre de noyaux de carbone 14 restants après 25 000 ans.
+On s’intéresse désormais à la datation au carbone 14 d’échantillons d’ivoire plus
+récents. Sur une période de 100 ans, on peut approcher la portion de courbe du
+document 2 par un segment de droite représenté dans le document 3.
+
+Document 3. Décroissance radioactive du carbone 14 sur 100 ans
+Proportion du nombre d’atomes de carbone 14 restants par
+rapport au nombre d’atomes de carbone 14 au départ
+0,999
+0,998
+0,997
+0,996
+0,995
+0,994
+0,993
+0,992
+0,991
+0,99
+0,989
+
+t (ans)
+
+0,988
+
+6- En 2019, l’analyse d’un échantillon d’ivoire d’éléphant a permis d’estimer à 0,994
+la proportion d’atomes de carbone 14 restants par rapport au nombre initial d’atomes
+de carbone 14.
+6-a- En utilisant le document 3, dater la mort de l’éléphant.
+6-b- Cet ivoire provient-il d’un éléphant abattu illégalement ? Justifier la réponse.
+
+ANNEXE A RENDRE AVEC LA COPIE
+Exercice 1 : Détermination de l’âge de la Terre selon Buffon
+Question 3
+Représenter les points correspondant au temps de « refroidissement au point de la
+température actuelle » (en minute) en fonction du diamètre du boulet (en pouce).

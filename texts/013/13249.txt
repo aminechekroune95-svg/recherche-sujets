@@ -1,0 +1,388 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1738519, "at": "2026-11-23T09:26:01+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+SUJET SI-N°10-05
+
+Constitution du sujet
+
+Étude d'une performance du produit .................................... Pages 4 à 7
+
+Commande du fonctionnement du produit .......................... Pages 8 à 11
+
+Documents réponses ............................................................. Pages 13 et 14
+
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier
+et/ou quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou
+partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+« LE SUNSEARIDER » UN CATAMARAN SOLAIRE AUTONOME
+
+Figure 1 : description du catamaran SunSeaRider
+
+Mise en situation
+Le contexte général
+Un des enjeux majeurs de la COP21, qui s’est tenue en 2019 à Biarritz, est de limiter
+le dérèglement climatique, en agissant notamment sur la consommation d’énergie, la
+réduction des gaz à effet de serre…
+Le secteur des transports représente plus de 27 % des émissions françaises de gaz à
+effet de serre. L’utilisation des énergies dites « propres » constitue donc un réel enjeu
+en termes de développement durable.
+
+Le SunSeaRider
+La société Polycreatis conçoit et produit des catamarans solaires et autonomes,
+appelés SunSeaRider. Ces catamarans permettent de se déplacer sur des plans
+d’eau, lorsque les conditions météorologiques sont clémentes. Polycreatis propose
+une gamme de trois tailles de catamarans permettant d’accueillir jusqu’à 8 passagers.
+
+Description du catamaran SunSeaRider
+Le catamaran possède un toit, soutenu par quatre épontilles, couvert de panneaux
+solaires reliés à des batteries placées dans la coque centrale du catamaran. Ces
+dernières peuvent être chargées directement par les panneaux solaires, ou, si
+l’ensoleillement est insuffisant, par une prise électrique à quai. La propulsion est
+réalisée par deux moteurs et deux hélices.
+
+La figure 2 présente le diagramme partiel de définition des blocs.
+
+I-
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+
+Problématique : Le catamaran permet-il de transporter huit passagers sur un
+plan d’eau ? Pour cela, l’entreprise Polycreatis doit respecter la réglementation
+concernant la flottabilité des bateaux. L’exigence à satisfaire est la suivante :
+« Le catamaran ne doit pas avoir un franc-bord (noté Hfb) inférieur à 200 mm ».
+
+Dans la marine, le franc-bord (noté Hfb sur la figure 3) d’un navire est la
+distance verticale entre la ligne de flottaison et le pont principal.
+
+Figure 2 : diagramme partiel de définition des blocs
+
+Pont
+principal
+
+Figure 3 : paramétrage du SunSeaRider
+
+Données :
+ la masse d’un passager m = 90 kg ;
+ le poids total du catamaran et des passagers est réparti uniformément, sa résultante
+est appliquée au centre de gravité G du catamaran ;
+ l’accélération de la pesanteur g = 9,81 m·s-2 ;
+ la masse volumique de l’eau douce ρeau = 1 000 kg·m-3 ;
+ le franc-bord Hfb (à vérifier).
+Question I-1
+DR1
+
+Représenter ⃗⃗Pcatamaran sur le document réponse DR1, résultante des
+actions mécaniques de la pesanteur sur le catamaran en son centre
+de gravité G, sans vous soucier de l’échelle.
+À l’aide des données et du diagramme partiel de définition des blocs
+(figure 2), calculer la norme de ⃗⃗Pcatamaran lorsque celui-ci est chargé
+de huit passagers.
+
+La section immergée d’un flotteur étant variable, on la supposera rectangulaire et
+identique sur toute la longueur du flotteur conformément à la représentation de la
+figure 3.
+Question I-2 Justifier l’hypothèse faite sur le volume du flotteur. Calculer le
+volume Vcarène de la partie immergée d'un flotteur (appelé carène).
+Exprimer cette valeur en fonction de Lf, af, Hf et Hfb.
+
+Principe de flottabilité (principe d’Archimède) :
+Tout solide plongé dans un fluide subit de la part de ce fluide une action mécanique
+appliquée en son centre (ici au centre de carène), dirigée de bas en haut et dont la
+norme est égale au poids du volume Veau de fluide occupé par ce solide.
+⃗⃗ eau ‖ = ρ × Veau × g.
+Pour un volume d'eau donné ce poids s'exprime par :‖C
+eau
+Question I-3
+DR1
+
+Représenter ⃗⃗Ceau→catamaran sur le document réponse DR1, résultante
+des actions mécaniques du fluide sur le catamaran en son centre de
+carène C, sans vous soucier de l’échelle. Exprimer l’action
+⃗⃗ eau→catamaran ‖en fonction de
+mécanique de l’eau sur les 2 flotteurs ‖C
+ρeau , Vcarène et g.
+
+On peut montrer que pour assurer la flottaison du catamaran, la résultante des actions
+mécanique de pesanteur ⃗⃗Pcatamaran et l’action mécanique de l’eau sur les 2 flotteurs
+⃗⃗Ceau→catamaran se compensent.
+Question I4
+
+⃗⃗ eau→catamaran ‖, montrer la relation
+⃗⃗ catamaran ‖= ‖C
+Sachant que ‖P
+suivante :
+Hfb =Hf -
+
+M+8.m
+
+2×ρeau ×af ×L
+
+.
+
+Question I-5
+
+Calculer le nombre maximum de passagers que l'on peut embarquer
+en respectant l'exigence sur la valeur du franc-bord. Expliquer
+l’intérêt d’assurer une marge de sécurité en termes de nombre de
+passagers à bord du catamaran.
+
+Question I-6
+
+Conclure sur la validation de l’exigence : « Le catamaran ne doit pas
+avoir un franc-bord inférieur à 200 mm ».
+
+II - COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Le catamaran est destiné à la location de plaisance. Suite à de nombreux incidents
+d’utilisateurs bloqués en navigation par manque d’énergie suffisante pour le retour, le
+gestionnaire souhaite installer un système qui sécurise la navigation du catamaran.
+Problématique : Comment s’assurer que le catamaran possède une énergie
+suffisante pour pouvoir retourner à quai ?
+Données et hypothèses :
+ on suppose que le catamaran est animé d’un mouvement de translation
+rectiligne uniforme ;
+ la capacité restante de la batterie est notée Cbat (en A.h) ;
+ l’intensité instantanée consommée est notée Ibat (en A) ;
+ la vitesse du catamaran est de 1,5 nœuds ;
+ l’équivalence des vitesses est 1 nœud = 1,8 km·h-1 .
+Dans un premier temps, on souhaite déterminer la distance maximale que peut
+parcourir le catamaran en fonction du courant de la batterie.
+
+Question II-1
+
+Exprimer le temps d’utilisation du catamaran Trestant (en h) en
+fonction de la capacité restante de la batterie Cbat (en A.h) et de la
+consommation instantanée des batteries Ibat (en A).
+
+Question II-2
+
+Dans le cas général d’un solide animé d’un mouvement de
+translation rectiligne uniforme, exprimer la distance parcourue d
+(en km) en fonction de la vitesse V (en km·h-1). À partir de la
+réponse à la question 1, en déduire l’expression de la distance
+maximale dmax pouvant être parcourue en fonction de la vitesse V
+(en km·h-1), Ibat (en A) et Cbat (en A·h).
+
+À partir des latitudes et longitudes obtenues grâce au GPS, on peut déterminer les
+coordonnées du catamaran (x,y) dans un repère plan donné. Le quai a pour
+coordonnées (0,0). Les coordonnées sont exprimées en km. La distance notée d du
+catamaran par rapport au quai s’écrit : d=√x2 +y2 .
+
+Compléter l’algorigramme donné sur le document réponse DR2 qui décrit
+le programme permettant d’afficher si l’autonomie du catamaran est
+suffisante ou insuffisante pour rentrer au port en fonction de la capacité
+restante de la batterie et de l’intensité instantanée consommée.
+
+Question II-3
+DR2
+
+On souhaite comprendre comment extraire la longitude et la latitude d’une trame
+transmise par le GPS. Cette trame est au standard NMEA, elle comporte de
+nombreuses informations telles que l'heure, la position, etc. La virgule est utilisée pour
+séparer les différents champs. La figure 4 donne un exemple de trame ainsi que la
+signification des champs utilisés.
+Trame:
+$GPGGA,073028.314,2514.3215,N,00819.1214,E,1,04,2.1,238.5,M,,,,0000*43
+
+Champ
+
+Valeur
+
+Traduction
+
+Type de trame
+
+$GPGGA
+
+Ceci est une trame pour les GPS.
+
+Heure d’envoi
+
+073028.314
+
+7 h 30 min 28,314 s
+
+Latitude
+
+2514.3215
+
+25 degrés et 14,3215 min
+
+Orientation
+latitude
+
+N
+
+Nord
+
+Longitude
+
+00819.1214
+
+8 degrés et 19,1214 min
+
+Orientation
+longitude
+
+E
+
+Est
+
+Positionnement
+
+1 pour GPS
+
+Nombre de
+satellites
+
+4 satellites
+
+Précision
+
+2.1
+
+Fiabilité mesurée de 1 à 9 (1 =
+bon, 9 = mauvais)
+
+Altitude
+
+238.5
+
+238,5 m au-dessus du niveau de
+la mer
+
+Unité altitude
+
+M
+
+Mètres
+
+,,,,0000*43
+
+Autres informations
+
+Figure 4 : Structure d’une trame NMEA produite par un GPS
+
+Le GPS émet la trame suivante :
+$GPGGA,122755.095,4329.9067,N,00534.6991,E,1,03,2.3,0,M,48.0,M,,0000*
+Question II-4
+
+Donner les valeurs de la position géographique du catamaran
+(latitude et longitude).
+
+Le format numérique de la longitude est différent de celui de la latitude avec un chiffre
+significatif supplémentaire. Ceci s’explique par la valeur de l’angle qui ne dépasse pas
+90° pour une latitude et qui peut atteindre 180° pour une longitude.
+L’objectif est d’extraire les suites de caractères définissant la latitude et la longitude,
+afin d’afficher la position géographique du catamaran.
+Chaque ligne débute par un caractère $. Il faut ensuite repérer la suite de
+caractères GPGGA, puis passer deux virgules pour commencer à lire les
+informations relatives à la latitude.
+
+L’algorigramme permettant d’extraire la latitude de la trame NMEA est fourni figure 5.
+Question II-5
+
+En se référant à la figure 5, proposer une suite à l’algorigramme
+permettant d’extraire et d’afficher la longitude de la trame NMEA.
+
+Question II-6
+
+En quelques lignes, rédiger une synthèse en expliquant comment il
+est possible de s’assurer que le catamaran ait une réserve d’énergie
+suffisante pour revenir au quai ; préciser notamment un axe de
+travail qui n’a pas été traité dans cet exercice.
+
+Début
+Déclaration des variables :
+réception, latitude, longitude : chaîne de caractère
+compteur : entier
+
+Initialisation compteur
+compteur =0
+
+Lire 1 caractère
+Lire 1 caractère
+
+réception =
+«$»
+
+Réception =
+«,»
+
+Compteur = Compteur + 1
+
+Compteur = 2
+Lire 5 caractères
+
+réception =
+« GPGGA »
+
+Initialisation Réception
+Réception ""
+Initialisation latitude
+Latitude ""
+Lire 11 caractères
+
+Figure 5 : Algorigramme du
+sous-programme permettant
+d’extraire et d’afficher la
+latitude à partir de la trame
+NMEA
+
+Latitude : 43° 29,9067 N
+
+B
+
+DOCUMENT RÉPONSE DR1
+
+Questions I-1 et I-3.
+
+DOCUMENT RÉPONSE DR2
+
+Question II-3. Compléter l’algorigramme donné sur le document réponse DR2 qui
+décrit le programme permettant d’afficher si l’autonomie du catamaran
+est suffisante ou insuffisante pour rentrer au port en fonction de la
+capacité restante de la batterie et de l’intensité instantanée
+consommée.
+Début
+
+Initialisation variables :
+x, y, Cbat, Ibat, V
+Entrées :
+x, y, Cbat, Ibat, V
+
+Calculer :
+dmax=
+d=
+
+Fin

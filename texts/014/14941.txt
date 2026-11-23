@@ -1,0 +1,197 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1376885, "at": "2026-11-23T09:21:54+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 8
+PARTIE A
+Les comprimés de permanganate de potassium sont-ils périmés ? (10 points)
+Un technicien trouve dans les réserves du laboratoire de chimie de son lycée des tubes de
+comprimés dont l’étiquette est reproduite ci-dessous
+
+https://www.doctissimo.fr/ , guide des médicaments, permanganate potassium Lafran
+
+Le technicien veut s'assurer qu'ils sont toujours conformes à la formulation donnée sur
+l’étiquette. Il réalise alors le titrage d’une solution obtenue en dissolvant un comprimé de
+permanganate dans de l’eau et en utilisant, comme solution titrante une solution de chlorure
+de fer II.
+
+Données utiles pour tout l’exercice :
+
+
+Masses molaires atomiques
+potassium K : 39,1 g·mol−1 ; manganèse Mn : 54,9 g·mol−1 ; oxygène O : 16,0 g·mol−1
+ Masses molaires moléculaires
+chlorure de fer FeCl2 : 127 g·mol-1 ;
+permanganate de potassium KMnO4 : 158 g·mol−1.
+ Couples oxydant-réducteur : MnO4-(aq)/Mn2+(aq) ; MnO2(s)/Mn2+(aq)
+ Couleurs de certaines espèces chimiques :
+L’ion permanganate MnO4-(aq) est violet, le dioxyde de manganèse MnO2(s) est marron, l’ion
+Fe2+(aq) est vert pâle, pratiquement incolore. Les ions potassium K +(aq) et chlorure Cl-(aq)
+sont incolores.
+Questions préalables
+Sous forme de cristaux de couleur violette, soluble dans l’eau, le permanganate de potassium
+est un solide de formule KMnO4 composé de cations K+(aq) et d’anions MnO4–(aq). […] En
+solution diluée le permanganate de potassium est utilisé pour le traitement de l’eau,
+notamment pour oxyder le fer et le manganèse dans les eaux souterraines.
+D’après : http://www.societechimiquedefrance.fr/permanganate-de-potassium
+1. Vérifier par un calcul la valeur de la masse molaire moléculaire du permanganate de
+potassium de 158 g·mol−1.
+2. Vérifier par un calcul qu'une masse m = 0,25 g de permanganate de potassium pur contient
+une quantité de matière n = 1,6 mmol de permanganate de potassium.
+Réaction support du titrage
+L’équation de la réaction support du titrage des ions permanganate par les ions ferreux Fe 2+
+s’écrit :
+MnO4-(aq) + 5 Fe2+(aq) + 8 H+(aq)  Mn2+(aq) + 5 Fe3+(aq) + 4 H2O(l)
+3. Justifier que pour procéder au titrage, le milieu doit être acidifié.
+4. Écrire les couples oxydant-réducteur mis en jeux dans la réaction support du titrage.
+5. Écrire les demi-équations électroniques associées à chacun de ces couples.
+
+Montage expérimental
+Le technicien s’interroge sur la place des solutions dans le montage expérimental. Bien que la
+solution de permanganate de potassium soit l’espèce titrée, il décide, après documentation,
+de la placer dans la partie haute du montage (voir figure ci-dessous) et de placer la solution
+titrante d’ions ferreux S1 dans la partie basse. Ce choix est fait, car cela permet d’éviter le
+contact prolongé entre les ions permanganate MnO4-(aq) et les ions manganèse Mn2+(aq)
+formés, qui engendrerait une réaction parasite et le « noircissement » du milieu réactionnel.
+
+Solution de
+permanganate de
+potassium
+Solution S1 d’ions ferreux
+Fe2+(aq)
+
+6. Nommer les éléments de verrerie contenant respectivement la solution de permanganate
+de potassium et la solution d’ions ferreux.
+Choix de la concentration de la solution titrante d’ions ferreux
+Le technicien s’interroge ensuite sur la concentration de la solution titrante S 1 d’ions ferreux
+placée dans le bécher. Il choisit de travailler avec un volume V1 = 20,0 mL de cette solution S1
+d’ions ferreux.
+Son objectif est que, dans le cas d’un comprimé de permanganate de potassium non périmé,
+cette concentration de la solution titrante S1 d’ions ferreux soit telle que l’équivalence du titrage
+se produise pour un volume de permanganate versé situé approximativement au milieu de la
+burette soit 12,5 mL environ.
+
+Il décide de rédiger un programme en langage Python lui permettant de déterminer la
+concentration de la solution titrante S1 d’ions ferreux à utiliser, et de suivre l’évolution de la
+quantité de matière en ions Fe2+ dans le bécher en fonction du volume de solution de
+permanganate de potassium versé.
+
+L’exécution du programme en langage Python permet d’obtenir la courbe suivante :
+
+7. Définir l’équivalence d’un titrage.
+Le technicien prépare la solution S0 de permanganate de potassium à titrer en dissolvant un
+comprimé de permanganate de potassium dans un volume V0 = 0,50 L d’eau distillée.
+8. Vérifier par un calcul que, dans le cas d’un comprimé non périmé, la concentration C0 en
+ions MnO4-(aq) dans cette solution correspond à celle mentionnée en ligne 4 du programme.
+La ligne 7 du programme en langage Python code la formule littérale permettant le calcul de
+la concentration en ions ferreux de la solution S1 à préparer.
+9. Vérifier la formule littérale utilisée en s’aidant de l’équation de la réaction support du titrage.
+10. Vérifier que la valeur de la concentration en ions ferreux Fe 2+ de la solution S1 à préparer
+est C1 = 1,0.10-2 mol·L-1.
+11. Ecrire une ligne de code (en ligne 8 par exemple) pour que la valeur de la concentration
+de la solution S1 à préparer apparaisse à l’écran lors de l’exécution de son programme.
+12. Commenter l’allure de la courbe obtenue à l’issue de l’exécution du programme.
+Réalisation du titrage des ions permanganate par les ions ferreux
+Le technicien réalise maintenant le titrage d’un comprimé de permanganate de potassium. Il
+prépare donc un volume V0 = 0,50 L d’une solution aqueuse S0 en dissolvant un comprimé de
+permanganate de potassium et il l’acidifie avec quelques gouttes d’acide sulfurique concentré.
+Il prépare son montage puis il verse progressivement cette solution dans un volume
+V1 = 20,0 mL de solution S1 d’ions ferreux de concentration en ions ferreux C1 = 1,0.10-2 mol·L1.
+13. Expliquer comment le technicien saura qu’il a atteint l’équivalence.
+Il juge que l’équivalence est atteinte lorsqu’il a versé un volume Veq = 12,8 mL de solution de
+permanganate de potassium.
+14. Déterminer la masse de permanganate de potassium dans le comprimé utilisé et l’écrire
+avec le nombre adapté de chiffres significatifs sachant que l’incertitude-type de la mesure de
+la masse u(m) = 0,003 g. Comparer qualitativement ce résultat à la valeur de référence de
+l’étiquette.
+
+PARTIE B
+Lévitation acoustique (10 points)
+Inventée dans les années 70 par la NASA pour la manipulation d’échantillons liquides sans
+contact physique, la lévitation acoustique vise à suspendre des objets dans un milieu en
+utilisant des ondes sonores, comme s’ils étaient maintenus par des doigts invisibles. Cette
+technique a des applications intéressantes, par exemple pour l’obtention de nouveaux
+matériaux pour l’électronique ou pour la synthèse de médicaments.
+La lévitation acoustique de deux boules de polystyrène peut
+être réalisée au laboratoire en utilisant deux émetteurs à
+ultrasons.
+Placés verticalement en vis-à-vis, ils émettent deux ondes
+ultrasonores de même longueur d’onde dont la superposition
+génère des zones horizontales de surpression de l’air,
+appelées « ventres », alternant avec des zones de
+dépression, appelées « nœuds ».
+C’est au niveau de ces « nœuds » que les objets peuvent
+rester en suspension.
+
+Données :
+ extrait de la fiche technique des émetteurs à ultrasons :
+- émetteur à ultrasons 40 kHz ;
+- tension maximale : 50 Vpp ;
+- pression acoustique : > 110 dB @ 10 V – 30 cm ;
+- température d’utilisation : - 20°C à + 70°C ;
+- dimensions : diamètre 10 mm ; hauteur 7 mm ;
+
+volume d’une sphère de rayon R : V = 3  R3 ;
+
+intensité du champ de pesanteur terrestre : g = 9,81 m.s-2 ;
+célérité du son dans l’air dans les conditions de l’expérience : c = 343 m.s-1 ;
+masse volumique du polystyrène expansé :  = 20 kg.m-3.
+
+1. Étude de l’onde ultrasonore émise par un émetteur
+Une onde sonore correspond à la propagation dans un milieu matériel, le plus souvent l’air,
+d’une surpression produite de manière périodique par la vibration d’une membrane de hautparleur par exemple.
+
+surpression
+
+élongation
+
+x
+
+D’après https://commons.wikimedia.org
+1.1. Proposer deux adjectifs pour caractériser l’onde sonore représentée ci-dessus et
+préciser la nature de la grandeur physique associée à l’élongation de cette onde.
+1.2. Cette onde présente une « périodicité spatiale ».
+1.2.1. Expliquer l’expression « périodicité spatiale ».
+1.2.2. Recopier l’allure de la courbe représentée ci-dessus, donnant l’élongation en
+fonction de la distance x à une date t0 donnée, en précisant la grandeur
+caractéristique associée à cette périodicité spatiale.
+1.2.3. On note T la période temporelle de l’onde sonore. Donner, en justifiant, l’allure
+T
+
+de la courbe donnant l’élongation en fonction de la distance x à la date t0 + 2 .
+1.3. Pourquoi utilise-t-on le terme « ultrasonore » pour l’onde émise par les émetteurs
+utilisés pour l’expérience de lévitation acoustique réalisée au laboratoire ?
+2. Analyse de l’expérience de lévitation acoustique.
+2.1. On peut établir que les nœuds où les billes de polystyrène peuvent léviter sont distants
+
+
+de 2 ,  étant la longueur d’onde des ondes ultrasonores utilisées.
+2.1.1. En utilisant la photo de l’expérience donnée en début de sujet et les
+caractéristiques géométriques des émetteurs, estimer la valeur de la longueur
+d’onde des ondes ultrasonores utilisées.
+
+2.1.2. Rappeler la relation entre longueur d’onde , fréquence f et célérité c du son dans
+l’air.
+2.1.3. Le résultat obtenu à la question 2.1.1 est-il compatible avec la valeur de la
+fréquence des ondes donnée par le constructeur ? Argumenter la réponse.
+2.2. Le diamètre d’une bille de polystyrène peut être estimé à 2,5 mm.
+2.2.1. Vérifier que la masse m de la bille est de l’ordre de 0,16 mg.
+2.2.2. Déterminer la valeur de la force exercée par l’air sur chaque bille.
+2.2.3. Dans une approche simplifiée, on cherche à expliquer la lévitation de la bille de
+polystyrène par l’existence de la force ⃗⃗⃗⃗
+FA exercée sur tout corps immergé dans
+un fluide de la part de celui-ci, appelée poussée d’Archimède, verticale, dirigée
+de bas en haut et dont l’expression de la norme FA est donnée par :
+FA = fluide V g
+où fluide est la masse volumique du fluide, V le volume du corps immergé et g
+l’intensité de la pesanteur.
+a) Que peut-on alors dire des masses volumiques de l’air et du
+polystyrène ?
+b) Critiquer cette approche sachant que la valeur de la masse volumique
+de l’air à 20 °C est 1,2 kg.m-3.

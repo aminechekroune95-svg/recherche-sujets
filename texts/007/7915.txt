@@ -1,0 +1,435 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1412841, "at": "2026-11-23T09:46:35+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+215 − 1
+216 − 1
+Question A.2
+On exécute le code suivant
+a=2
+b=3
+c = a ** b
+d=c%b
+Quelle est la valeur de d à la fin de l'exécution ?
+Question A.3
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A.4
+On rappelle que le nombre entier 12 s’écrit 1100 en base 2. Quelle est le codage en complément à 2 sur un octet
+du nombre entier −12 ?
+-0000 1100
+1000 1100
+1111 0100
+1111 0011
+
+Question A.5
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x=1
+for i in range(10):
+x=x*2
+1024
+2048
+20000000000
+Question A.6
+Qu'est-ce qui permet de traduire un nom d'hôte en adresse IP ?
+un serveur DNS
+un serveur DHCP
+un pare-feu
+un hub
+
+Thème B : types construits
+Question B.1
+On exécute le code suivant :
+t = [1,2,3,4,5,6,7,8,9]
+v = [c for c in t if c%3 == 0]
+Quelle est la valeur de la variable v à la fin de cette exécution ?
+[1,4,7]
+[3,6,9]
+[1,2,3,4,5,6,7,8,9]
+Question B.2
+On définit : T = [7*n for n in range(10)].
+Quelle est la valeur de l'expression T[7] ?
+
+Question B.3
+Le premier élément d'une liste Python L est noté :
+L(0)
+L(1)
+L[0]
+L[1]
+Question B.4
+Quel est le résultat de l'évaluation de l'expression Python suivante ?
+[ n * n for n in range(10) ]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+Question B.5
+On définit la fonction suivante :
+def f(x,y):
+if x > y:
+return y,x
+else:
+return x,y
+Quelle est la valeur renvoyée par l'appel f(42,21) ?
+(21, 42)
+(21, 21)
+(42, 21)
+(42, 42)
+Question B.6
+On exécute le script suivant :
+def quoi(liste):
+maListe = []
+for i in range(len(liste))
+maListe.append(liste[i][0])
+return maListe
+L = [[5,8,12,1], [20,11,3,8], [3,12,1,4], [2,13,17,3]]
+m = quoi(L)
+Que contient la variable m à la fin de cette exécution ?
+[5, 20, 3, 2]
+[5, 8, 12, 1]
+
+Thème C : traitement de données en tables
+Question C.1
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a-t-elle pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C.2
+On exécute le code suivant :
+dict = {
+
+"alexandre" : 17, "mehdi" : 18, "jeanne" : 16,
+"charlotte" : 19, "celina" : 18, "noé" : 19 }
+
+def f(dic):
+for cle, valeur in dic.items() :
+if valeur > 18:
+return cle
+Que renvoie l'appel f(dict) ?
+19,19
+"charlotte"
+"charlotte","noé"
+Question C.3
+Quel type de fichier est le plus adapté au traitement des données?
+PNG
+PDF
+CSV
+DOC
+
+Question C.4
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C.5
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C.6
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+
+Question D.2
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D.3
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D.4
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D.5
+On considère l’extrait suivant d'une page web d'un site de vente en ligne.
+<form id="fmCreerCommande" name="fmCreerCommande" action="gestion.php" method="post">
+<input type="HIDDEN" name="reference" value="F1245">
+<label for="quantite" class="dropdown">Quantité :</label>
+<select name="quantite" autocomplete="off" id="quantite" class="dropdown">
+<option value="1" selected>1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+<div id="btnMulti" class="clValidBtn">
+<input type="button" value="Ajouter" class="btn" onclick="ajouterProduit()">
+</div>
+</form>
+Quelle est la méthode utilisée pour transmettre les informations saisies dans ce formulaire ?
+La méthode HIDDEN
+La méthode GET
+La méthode POST
+La méthode SELECT
+
+Question D.6
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Une et une seule de ces affirmations est fausse. Laquelle ?
+Un système d'exploitation libre est la plupart du temps gratuit
+Je peux contribuer à un système d'exploitation libre
+Il est interdit d'étudier un système d'exploitation propriétaire
+Un système d'exploitation propriétaire est plus sécurisé
+Question E.2
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E.3
+Lequel de ces systèmes d'exploitation est sous licence propriétaire ?
+Android
+Linux
+Windows
+Ubuntu
+Question E.4
+Sur un ordinateur, où est stocké de manière permanente le système d'exploitation ?
+dans la mémoire RAM
+sur le bus de donnée
+sur le disque dur ou le disque SSD
+dans le Cloud
+
+Question E.5
+Parmi ces propositions, laquelle désigne un système d'exploitation libre ?
+LibreOffice
+Windows
+MacOS
+GNU-Linux
+Question E.6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des répertoires et dossiers contenus
+dans le répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+
+Thème F : langages et programmation
+Question F.1
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+Question F.2
+On exécute le script suivant.
+n=6
+s=0
+while n >= 0:
+s=s+n
+n = n -1
+Que contient la variable s à la fin de cette exécution ?
+
+Question F.3
+On exécute le script suivant :
+a=4
+b=4
+c=4
+while a < 5:
+a=a-1
+b=b+1
+c=c*b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F.4
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+else:
+p = 20
+return p
+Que renvoie maFonction(18) ?
+
+Question F.5
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre n et
+p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........): # ligne à modifier
+somme = somme + i
+return somme
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F.6
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s=0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+
+Thème G : algorithmique
+Question G.1
+On dispose de sacs de jetons portant les nombres 10, 5, 3 et 1.
+On veut obtenir un total de 21 en utilisant ces jetons.
+Si on utilise le principe de l'algorithme glouton, quelle addition va-t-on réaliser pour obtenir ce total de 21 ?
+5+5+5+5+1
+10 + 5 + 3 + 3
+10 + 5 + 5 + 1
+10 + 10 + 1
+
+Question G.2
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎𝑚 .
+def puissance(a,m):
+p=1
+n=0
+while n < m:
+#
+p=p*a
+n=n+1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+𝑝 = 𝑎𝑛−1
+𝑝 = 𝑎𝑛
+𝑝 = 𝑎𝑛+1
+𝑝 = 𝑎𝑚
+Question G.3
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a=1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt – 1
+Question G.4
+La fonction maximum doit renvoyer la valeur maximale d'un tableau de nombres. Par quoi doit-on remplacer les
+pointillés pour qu'elle donne le résultat attendu ?
+def maximum(T):
+maxi = T[0]
+for i in range(len(T)):
+.... T[i] > maxi:
+......
+return maxi
+if puis, sur la ligne suivante, maxi = T[i]
+while puis, sur la ligne suivante, maxi = T[i]
+if puis, sur la ligne suivante, maxi = maxi + 1
+while puis, sur la ligne suivante, maxi = maxi + 1
+
+Question G.5
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans un tableau de longueur 𝑛 est de l’ordre de … » ?
+𝑛
+𝑛2
+𝑛3
+Question G.6
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6

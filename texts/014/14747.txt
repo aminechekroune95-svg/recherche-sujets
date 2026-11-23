@@ -1,0 +1,452 @@
+{"pages": 18, "method": "pdftotext", "bytes": 485349, "at": "2026-11-23T09:42:11+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 2
+Sur une page web qui s’affiche sur notre navigateur on peut lire : « En consÃ©quence, l'AssemblÃ©e Nationale
+reconnaÃ®t et dÃ©clare, en prÃ©sence [...] »
+Quelle peut être la cause des affichages étranges de cette page ?
+l'encodage des caractères n'est pas celui attendu par le navigateur
+le texte original est en japonais
+la taille des caractères n'est pas celui attendu par le navigateur
+la connexion à Internet présente des coupures
+Question A 3
+On souhaite coder un entier relatif sur deux octets.
+Quels sont le plus petit et le plus grand entier que l'on peut coder de la sorte ?
+–32 768 et 32 767
+0 et 65 535
+–8 et 7
+–256 et 255
+Question A 4
+Quelle est l'écriture décimale de l'entier 𝑛 dont l'écriture hexadécimale est 7A ?
+Question A 5
+
+Quelle est la représentation en binaire de l'entier 64 sur un octet ?
+0101 0000
+1100 0100
+0100 0000
+0000 1100
+Question A 6
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?
+False
+True
+None
+
+Thème B : types construits
+Question B 1
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 2
+Laquelle de ces expressions a pour valeur la liste [[0,1,2],[3,4,5],[6,7,8]] ?
+[[i+j for i in range(3)] for j in range(3)]
+[[i]*3 for i in range(3)]*3
+[[i+j*3 for i in range(3)] for j in range(3)]
+[[i+j for i in range(3)] for j in range(3)]*3
+Question B 3
+Quelle est la valeur de l'expression [[i for i in range(5)] for j in range(3)] ?
+[[0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
+[[0, 1, 2, 3, 4], [0, 1, 2, 3, 4], [0, 1, 2, 3, 4]]
+[[0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3]]
+[[0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5]]
+Question B 4
+Parmi les propositions suivantes, laquelle permet de créer en Python la liste des nombres impairs de 1 à 399
+(inclus) ?
+impairs = [1 + nb*2 for nb in range(200)]
+for nb in range(400) :
+impairs = 1 + 2 * nb
+impairs = [i + 2 for i in range(1,200)]
+impairs = [1, 3, 5, 7, 9] * 40
+Question B 5
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+
+Question B 6
+
+Quelle est la valeur de l'expression [(i,i+1) for i in range(2)] ?
+[0,1,1,2]
+[(1,2),(2,3)]
+[(0,1),(1,2)]
+[[0,1],[1,2]]
+
+Thème C : traitement de données en tables
+Question C 1
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 2
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ...... :
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 3
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 4
+
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C 5
+On définit :
+stock = [
+
+{'nom': 'flageolets', 'quantité': 50, 'prix': 5.68},
+{'nom': 'caviar', 'quantité': 0, 'prix': 99.99},
+.........
+.........
+{'nom': 'biscuits', 'quantité': 100, 'prix': 7.71} ]
+
+Quelle expression permet d'obtenir la liste des noms des produits effectivement présents dans le stock (c'est-àdire ceux dont la quantité n'est pas nulle) ?
+['nom' for p in stock if 'quantité' != 0]
+[p for p in stock if p['quantité'] != 0]
+[p['nom'] for p in stock if 'quantité' != 0]
+[p['nom'] for p in stock if p['quantité'] != 0]
+Question C 6
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations difficiles à décrypter
+une transmission facturée proportionnellement à la taille du message
+Question D 2
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+
+Question D 3
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D 4
+On considère le formulaire ci-dessous :
+Quel est votre langage préféré ?
+Python □ Java □ Php □
+Quelle balise parmi les quatre suivantes a été utilisée pour les cases à cocher ?
+<input type="radio">
+<input type="circle">
+<input type="checkbox">
+<input type="square">
+Question D 5
+Parmi les langages suivants, lequel est exécuté sur le serveur lors de la consultation d’une page Web ?
+JavaScript
+
+HTML
+CSS
+PHP
+
+Question D 6
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E 2
+Nous disposons des commandes suivantes en langage machine :
+Instructions
+
+Effet
+
+LD X
+
+Lit le contenu de la cellule X (ACC ← #X)
+
+STO X
+
+Enregistre dans la cellule X (#X ← ACC)
+
+ADD X
+
+Ajoute le contenu de la cellule X (ACC ← ACC + #X)
+
+SUB X
+
+Soustrait le contenu de la cellule X (ACC ← ACC - #X)
+
+END
+
+Arrêt du programme
+
+Que fait le programme suivant :
+Adresse Contenu
+
+…
+
+…
+
+LD 0
+
+SUB 1
+
+STO 2
+
+END
+
+25 + 14
+14 - 25
+25 - 14
+25 . 14
+Question E 3
+Sous Unix, que fait la commande suivante :
+ls –a /home/pi >> toto.txt
+
+elle liste uniquement les répertoires cachés du répertoire /home/pi
+elle liste tous les fichiers du répertoire /home/pi et enregistre le résultat dans un fichier toto.txt
+elle liste tous les fichiers des répertoires de /home/pi et de toto.txt
+elle liste tous les fichiers du répertoire courant et enregistre le résultat dans un fichier
+/home/pi/toto.txt
+
+Question E 4
+Dans un établissement scolaire, tous les ordinateurs sont reliés au réseau local par l'intermédiaire de câbles
+Ethernet ; il n'existe pas de liaisons sans fil. Dans chaque salle d'ordinateurs, les machines sont reliées à un
+commutateur. Chaque commutateur est relié par un câble jusqu'à la salle où se situe le serveur contrôleur de
+domaine et la passerelle internet (routeur).
+Vous êtes connectés sur un ordinateur d'une de ces salles d'ordinateurs avec votre classe. Tout à coup, vous ne
+pouvez plus aller sur Internet, ni accéder aux ressources locales de l'établissement. Vos camarades ne semblent
+pas souffrir de cet incident. Parmi ces quatre propositions, laquelle est la plus vraisemblable ?
+Un de vos camarades a débranché accidentellement le câble Ethernet de votre machine.
+Le routeur de l'étage est indisponible (il a été débranché ou est en panne).
+Le commutateur de la salle est indisponible (il a été débranché ou est en panne).
+La passerelle internet de l'établissement est indisponible (elle a été débranchée ou est en panne).
+Question E 5
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+Question E 6
+On réalise une petite station météo.
+Quel composant est un capteur ?
+l'afficheur LCD
+l'écran de l'ordinateur
+la LED
+le thermomètre
+
+Thème F : langages et programmation
+Question F 1
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 2
+En Python, quelle est l’instruction permettant de charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Question F 3
+On définit la fonction suivante :
+def f(n):
+c = 0
+while n > 0:
+c = c + 1
+n = n // 2
+return c
+Quel est la valeur renvoyée par l'appel f(35) ?
+Question F 4
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 5
+On définit la fonction f suivante qui prend en argument une liste t d'entiers :
+def f(t):
+n = len(t)
+for i in range(n-1):
+for j in range(i+1,n):
+if t[i] == t[j]:
+return True
+return False
+Pour quelle valeur de t, f(t) vaut-elle True ?
+[[2,3], [3,4], [4,5], [2,3]]
+[[2,2], [3,4], [4,5], [2,3]]
+[[2,3], [3,2], [4,5], [5,4]]
+[[3,3], [4,4], [5,5], [6,6]]
+Question F 6
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+
+Thème G : algorithmique
+Question G 1
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G 2
+On considère un entier positif A.
+Parmi les quatre codes suivants, il y en a un dont l'exécution ne termine pas. Lequel ?
+i = A + 1
+i = i - 1
+
+i = A + 1
+
+i = A - 1
+i = i - 1
+
+i = A - 1
+
+Question G 3
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s = 0
+i = 1
+while i < 5:
+s = s + i
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+Question G 4
+
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+25002
+22500
+Question G 5
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 6
+On dispose d’un distributeur de boissons qui rend la monnaie uniquement en pièces de 1 centime, 10
+centimes, 50 centimes et 1 euro. On veut que le distributeur rende le moins de pièces possibles pour une
+somme donnée.
+On commence par rendre le plus de pièces possibles de 1 euro (sans dépasser la somme à rendre), puis le plus
+possible de pièces de 50 centimes, etc.
+Par exemple, s’il faut rendre 3 euros et 25 centimes, on doit rendre 3 pièces de 1 euro (il reste alors 25
+centimes à rendre), puis 2 pièces de 10 centimes et enfin 5 pièces de 1 centime.
+Comment s’appelle le type d’algorithme décrit pour rendre la monnaie ?
+Un algorithme de type « diviser pour régner »
+Un algorithme de tri
+Un algorithme de type « glouton »
+Un algorithme probabiliste

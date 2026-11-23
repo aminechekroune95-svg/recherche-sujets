@@ -1,0 +1,371 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1933695, "at": "2026-11-23T09:30:28+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Tourisme
+Sur 8 points
+Les trois parties sont indépendantes.
+
+Partie A
+Une étude portant sur les nuitées réservées par des touristes français et étrangers
+via une plateforme internet a donné les résultats suivants :
+
+19 000 000 nuitées ont été réservées dans les trois plus grandes villes
+françaises : Paris, Marseille et Lyon.
+
+79 % des touristes ont préféré Paris et parmi eux, 70 % sont des touristes
+étrangers.
+
+1 910 000 nuitées ont été réservées à Lyon dont 788 000 par des touristes
+étrangers.
+
+À Marseille, 800 000 touristes étrangers ont réservé des nuitées.
+
+1- Recopier et compléter le tableau suivant :
+Nombre de nuitées
+(en milliers)
+
+Touristes français
+
+Touristes étrangers
+
+Total
+
+Paris
+Lyon
+
+Marseille
+Total
+
+19000
+
+2- Dans l’ensemble de cette question 2, les pourcentages seront arrondis au
+dixième.
+2-a- Quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+2-b- Quel est le pourcentage de touristes qui ont réservé à Marseille et qui sont
+français ?
+2-c- À Lyon, quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+Partie B
+Sur cette plateforme internet, 35 % des clients choisissent de réserver dans un
+camping, et parmi eux 66 % sont français. 27 % de ceux qui n’ont pas réservé dans
+un camping sont des clients étrangers.
+On choisit au hasard un client ayant réservé via cette plateforme internet. On
+considère les événements suivants :
+
+C : « le client a réservé dans un camping » ;
+
+F : « le client est français ».
+
+3- Recopier et compléter l'arbre pondéré représentant la situation :
+
+4- Calculer la probabilité que le client choisi soit français et qu’il ait réservé dans un
+camping.
+5- On admet que p(F) = 0,7055. Le client choisi est français. Quelle est la probabilité
+qu’il ait réservé dans un camping ? On arrondira le résultat au millième.
+
+Partie C
+Une autre étude a permis de constater que le bénéfice par client réalisé par cette
+plateforme internet dépend du temps de connexion 𝑥, exprimé en minute. Pour les
+20 premières minutes de connexion d’un client, ce bénéfice, exprimé en centimes,
+peut être modélisé par une fonction 𝑓 définie sur [ 0 ; 20] par :
+𝑓(𝑥) = −2𝑥 3 + 54𝑥 2 − 270𝑥 − 80.
+6- Calculer 𝑓(0) et interpréter ce résultat.
+7- On admet que 𝑓 est dérivable sur [ 0 ; 20]. Calculer 𝑓’ (𝑥) pour 𝑥 ∈ [ 0 ; 20].
+8- Montrer que 𝑓 ′ (𝑥) = −6(𝑥 − 3)(𝑥 − 15) pour 𝑥 ∈ [ 0 ; 20].
+9- Dresser le tableau des variations de 𝑓 sur [ 0 ; 20].
+10- Pour les 20 premières minutes, quel temps de connexion du client, en minutes,
+permet d’assurer un bénéfice maximal pour la plateforme ? Quelle est la valeur de ce
+bénéfice ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Dessalement par les végétaux
+Sur 12 points
+L’augmentation croissante de la population mondiale et le réchauffement climatique
+global posent le problème de la gestion de l’eau douce pour les populations
+humaines. Parmi les techniques à l’étude, on cherche à exploiter l’eau salée par
+l’utilisation de certains végétaux.
+Un cabinet parisien a été lauréat d’un concours en 2010 en proposant le projet
+« Freshwater Factory ». Il s’agissait d’une tour de 280 mètres de haut, abritant des
+centaines de Palétuviers, arbres tropicaux peuplant les mangroves (forêts poussant
+au bord ou dans l’eau très salée). Si le projet avait été réalisé, il était attendu que
+cette tour produise 30 000 litres d’eau douce par jour.
+L’objectif de ce sujet est d’étudier la capacité du Palétuvier à extraire le sel de
+l’eau.
+Partie 1 – Étude des cristaux présents sur les feuilles du Palétuvier.
+La photographie ci-dessous présente une feuille de Palétuvier sur laquelle on
+observe des cristaux.
+Cristaux
+
+Source : d’après https://ocean.si.edu/ecosystems/coasts-shallow-water/crystals-salt
+
+Document 1 – Caractéristiques des cristaux échantillonnés sur les feuilles de
+Palétuvier
+Des mesures par des techniques physiques
+effectuées sur les cristaux provenant des
+feuilles de Palétuvier ont permis de
+déterminer une grandeur caractéristique, le
+côté de la maille a de valeur 5,62 × 10-10 m.
+
+a
+La perspective cavalière d’une maille des cristaux présents sur les feuilles de
+Palétuvier est donnée ci-dessus. La masse de chaque cation de ce cristal est
+égale à 3,68 × 10-26 kg. La masse de chaque anion est égale à 5,85 × 10-26 kg.
+La maille contient 4 cations et 4 anions.
+Source personnelle
+
+1- Justifier que la structure des cristaux provenant des feuilles de Palétuvier est
+celle d’un solide cristallin.
+2- À partir du document 1, montrer que la valeur de la masse totale des ions
+contenus dans une maille, notée mtot est de 3,81 × 10-25 kg.
+3- À partir du document 1, calculer la valeur du volume, notée V, de la maille des
+cristaux de la feuille de Palétuviers.
+4- En déduire que la masse volumique, notée ρ, des cristaux de Palétuviers a pour
+valeur 2,14 × 103 kg.m-3.
+
+Les encadrements des valeurs des masses volumiques de trois cristaux sont donnés
+dans le tableau ci-dessous :
+Cristal
+
+Iodure de
+potassium KI
+
+Hydroxyde de
+sodium NaOH
+
+Chlorure de
+sodium NaCl
+
+Couleur du cristal
+
+jaune clair
+
+blanche
+
+blanche
+
+Solubilité dans l’eau à
+20°C (g.L-1)
+
+1430
+
+1090
+
+358,5
+
+𝜌 × 103 (en kg.m-3)
+
+3,08 ≤ 𝜌 ≤ 3,16
+
+2,09 ≤ 𝜌 ≤ 2,17
+
+2,13 ≤ 𝜌 ≤ 2,21
+
+5- Expliquer si la valeur de la masse volumique calculée précédemment est
+suffisante pour identifier le cristal.
+6- Pour déterminer la nature des cristaux présents sur les feuilles de Palétuvier,
+recopier la proposition qui relève d’une étape d’une démarche scientifique
+(expérimentale) permettant d’identifier le cristal parmi les propositions 1 à 4 cidessous. Justifier votre réponse.
+Proposition 1 : on observe, on sent puis on goûte les cristaux. Si le goût est
+salé et amer et que les cristaux sont jaunes, alors il s’agit de cristaux d’iodure de
+potassium.
+Proposition 2 : placer sur une balance 1 L d’eau à 20°C. Dissoudre jusqu’à
+saturation des cristaux dans 1 L d’eau. Si la masse des cristaux pesée est de
+360 g alors il s’agit de cristaux de chlorure de sodium.
+Proposition 3 : prélever un échantillon puis le mettre dans de l’eau. Peser
+l’ensemble et mesurer sa température. Si la masse totale est de 1090 g et la
+température est de 20°C alors il s’agit de cristaux d’hydroxyde de sodium.
+Proposition 4 : prélever un échantillon de cristaux, le photographier, puis
+demander à un enseignant sa nature. Si l’enseignant pense qu’il s’agit de
+cristaux d’hydroxyde de sodium alors les cristaux sont bien ceux d’hydroxyde de
+sodium.
+
+Partie 2 – Le dessalement de l’eau par les Palétuviers dans le cadre du projet
+« Freshwater Factory »
+Document 2 – Principe de la Freshwater Factory
+La tour est composée d’une trentaine de sphères transparentes pour une hauteur
+de 280 mètres. Elle comprend plusieurs centaines de Palétuviers. La structure
+d’une sphère est présentée dans la figure ci-dessous. Grâce aux marées, l’eau de
+mer salée monte dans les sphères. Les Palétuviers sont présents dans ces
+sphères. La figure ci-dessous présente le fonctionnement d’une sphère.
+
+1 : absorption d’eau salée par les racines des Palétuviers ; 2 : circulation de l’eau salée
+dans la sève de la plante ; 3 : évaporation d’eau et formation des cristaux au niveau des
+feuilles du Palétuvier ; 4 : liquéfaction de l’eau sur les parois de la sphère ; 5 : récupération
+d’eau douce dans la sphère.
+Sources : d’après https://www.dca.archi/projet/freshwater-factory et
+https://www.dca.archi/pdf.php?url=projet/freshwater-factory
+
+Document 3 – Structure des feuilles de Palétuvier
+De fortes concentrations de sels sont toxiques pour les cellules végétales. Les
+feuilles de Palétuvier possèdent à leur surface des glandes appelées « glandes à
+sel ». Le document ci-dessous en présente des observations, aux microscopes
+optique et électronique.
+
+Observation en microscopie optique :
+Glande à sel
+
+Observation en
+microscopie
+électronique :
+
+Mitochondrie
+(organite)
+Noyau
+
+Cytoplasme
+
+Source : d’après Drennan PM, Berjak P, Lawton JR, Pammenter NW. Ultrastructure of the
+salt glands of the mangrove, Avicennia marina (Forssk.) Vierh., as indicated by the use of
+selective membrane staining. Planta. 1987 Oct et Cui, Miaomiao & Wang, Zuankai &
+Wang, Bin. (2022). Survival Strategies of Mangrove (Ceriops tagal (perr.) C. B. Rob) and
+the Inspired Corrosion Inhibitor. Frontiers in Materials
+
+Document 4 – Rôle des glandes à sel du Palétuvier
+Des études sont réalisées au niveau de ce qui est rejeté (les sécrétions) par les
+glandes à sel du Palétuvier, présentes au niveau de ses racines et de ses feuilles.
+Ces sécrétions sont des solutions ioniques salines qui cristallisent par la suite. Les
+concentrations en sel sont mesurées dans les sécrétions de ces glandes en
+fonction de la salinité du milieu dans lesquelles plongent les racines du Palétuvier.
+Les résultats de ces mesures sont indiqués sur la représentation graphique cidessous.
+
+Concentration en sel dans les
+sécrétions des glandes à sel (unités
+arbitraires)
+
+Influence de la concentration en sel dans le milieu sur la
+sécrétion de sels par les glandes à sel du Palétuvier
+2,5
+1,5
+0,5
+
+Concentration en sel dans le milieu (%)
+
+Sources : d’après Cheng H, Inyang A, Li CD, Fei J, Zhou YW, Wang YS. Salt tolerance
+and exclusion in the mangrove plant Avicennia marina in relation to root apoplastic
+barriers. Ecotoxicology. 2020 Aug;29(6):676-683
+
+7- Expliquer comment le fonctionnement des Palétuviers permet de produire de
+l’eau douce dans le cadre de la « Freshwater Factory ».
+Vous rédigerez une argumentation organisée à partir des documents 2 à 4 et de
+vos connaissances.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge des dinosaures
+Sur 12 points
+L’ensemble des données scientifiques établit que les premiers dinosaures sont
+apparus au début du Trias il y a environ 250 millions d’années. Leur expansion
+débute il y a environ 232 millions d'années. La branche des dinosaures excluant les
+oiseaux s’éteint lors de la crise Crétacé-Paléogène, il y a 65 millions d’années.
+Cet exercice propose de comparer des méthodes permettant de dater la période de
+vie des dinosaures.
+Document 1 – Cycle actuel du carbone 12 et du carbone 14
+
+Source : d’après https://futura-sciences.com
+
+Toute matière organique vivante (végétale ou animale) contient du 12C et du 14C.
+Dans les tissus organiques et le squelette, la proportion entre ces isotopes
+demeure la même tout au long de la vie de l'organisme, et est égale à leur
+proportion dans le CO2 atmosphérique et dans l’environnement. Connaissant cette
+proportion entre 14C et 12C dans l’environnement, on peut calculer la durée qui
+s'est écoulée depuis la mort de l'organisme qui a fixé le carbone jusqu’à
+aujourd’hui. Par conséquent, l'âge que l'on obtient avec la méthode du 14C,
+correspond à l'âge de la mort de l'organisme.
+Source : d’après http://www2.ggl.ulaval.ca/personnel/bourque/intro.pt/planete_terre.html
+
+1- Rappeler les principales caractéristiques de la radioactivité.
+
+Document 2 – Schéma simplifié des échanges de carbone dans un
+écosystème
+
+Source : document de l’auteur
+
+2- En vous appuyant sur les documents 1 et 2, expliquer pour quelle raison le
+carbone 14, bien que se désintégrant spontanément, reste à un taux quasi
+constant dans l’environnement.
+
+3- Expliquer pourquoi un organisme vivant possède un taux constant de carbone 14
+pendant toute sa vie.
+4- Parmi les équations suivantes, identifier en justifiant celle qui correspond à la
+désintégration d’un noyau de carbone 14.
+ 168O → 126C + 42He
+ 146C → 147N + −10e−
+ 62He + 84Be → 146C
+5- Sur la figure du document A en annexe à rendre avec la copie, vérifier que
+valeur de la demi-vie du carbone 14 est de 5 750 ans. Faire apparaître la
+construction graphique utilisée et l’expliciter.
+6- Évaluer le nombre de noyaux de carbone 14 restant après 115 000 ans (soit 20
+fois la demi-vie), si le nombre de noyaux initial dans l’échantillon est de l’ordre du
+million. Commenter.
+Document 3 – Méthode de datation de la période de vie des dinosaures
+Les dinosaures sont apparus il y a 250 millions d’années et se sont éteints il y a 65
+millions d’années. Les traces de carbone 14 de cette époque ont complètement
+disparu.
+La plupart des chercheurs estiment qu’au-delà de 30 000 ans, il y a trop peu de
+carbone 14 restant pour permettre une datation précise. Il faut donc utiliser
+d’autres isotopes, ayant une demi-vie beaucoup plus longue.
+Dans le cas des dinosaures, on utilise les isotopes d’uranium 238, d’uranium 235
+et de potassium 40 qui possèdent des demi-vies supérieures au milliard d’années.
+Le problème est que les os et les fossiles ne contiennent pas ces isotopes
+contrairement aux roches et aux sédiments environnants.
+L’idée est donc la suivante : on utilise la radiométrie sur les sédiments entourant
+les fossiles pour les dater à l’aide d’un radio-isotope approprié (comme le
+potassium 40 par exemple) ce qui permet ensuite de donner une fourchette sur
+l’âge du fossile emprisonné dans ces sédiments.
+Source : d’après https://lasciencepourtous.cafesciences.org/articles/ladatationradiometriqueaucarbone-14/
+
+7- À partir du document 3, expliquer comment les scientifiques ont réussi à dater la
+période de vie des dinosaures.
+
+Document 4 – Le discours des créationnistes
+Certains groupes créationnistes exposent une théorie dans laquelle ils datent,
+grâce au carbone 14, les os de dinosaures. Ils déclarent avoir utilisé 8 spécimens
+de dinosaures. Leurs résultats indiquent un âge allant de 22 000 à 39 000 ans. Ils
+expliquent avoir été très rigoureux, en éliminant notamment la contamination par le
+carbone moderne en tant que source du signal 14C dans les os. Pour obtenir ces
+résultats, ils font l’hypothèse que le taux de carbone dans l’atmosphère, utilisé
+comme référence, serait bien plus faible que celui utilisé usuellement et défini par
+un consensus scientifique.
+Source : document de l’auteur
+
+8- Relever un élément critiquable dans le raisonnement des créationnistes.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 5
+Document A : Courbe de décroissance radioactive du 14C

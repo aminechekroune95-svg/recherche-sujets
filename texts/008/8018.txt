@@ -1,0 +1,447 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1575323, "at": "2026-11-23T09:45:44+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+On considère l'expression logique (𝑎 or 𝑏) and 𝑎. Quelle est sa table de vérité ?
+
+Question A.2
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+
+Question A.3
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A.4
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+c = True
+if a > b+10:
+c = True
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A.5
+On considère l'extrait de code suivant :
+while (a < 20) or (b > 50):
+Quelles conditions permettent de mettre fin à cette boucle ?
+la boucle prend fin lorsque a < 20 ou b > 50
+la boucle prend fin lorsque a < 20 et b > 50
+la boucle prend fin lorsque a >= 20 ou b <= 50
+la boucle prend fin lorsque a >= 20 et b <= 50
+
+Question A.6
+On exécute le code suivant
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+
+Thème B : types construits
+Question B.1
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B.2
+Laquelle des quatre expressions suivantes a-t-elle pour valeur la liste [1, 2, 5, 10] ?
+[i for i in range(4) if i<2]
+[i for i in range(4)]
+[i*i + 1 for i in range(4)]
+[i*i - 2*i + 2 for i in range(4)]
+Question B.3
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B.4
+Après avoir défini :
+m = [[1, 2, 3], [4, 5, 6]]
+laquelle des quatre expressions suivantes a la valeur 4 ?
+m[0][1]
+m[1][0]
+m(0,1)
+m(1,0)
+
+Question B.5
+On considère le code suivant :
+def s(tuple1, tuple2):
+(x1,y1) = tuple1
+(x2,y2) = tuple2
+return (x1+x2, y1+y2)
+Que renvoie l'appel s((1,3), (2,4)) ?
+le tuple (3,7)
+le tuple (4,6)
+un entier
+une erreur
+Question B.6
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]] ?
+
+Thème C : traitement de données en tables
+Question C.1
+On a défini :
+mendeleiev = [ ['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C.2
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol',
+'tel':'5248'},
+'tel':'3452'}]
+
+{'nom':'Dupond',
+
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C.3
+On a défini :
+mendeleiev = [ ['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+
+Question C.4
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.5
+Dans une course de chevaux, chaque participant est représenté par un numéro de dossard unique , son nom et
+sa ville sous la forme d'un couple formé d'un entier et d'une liste : (dossard, [nom, ville]).
+Les données de quelques participants sont réunies au sein de la liste course ci-dessous :
+course = [ (5,['Mistral','Lille']), (3,['Zéphir','Paris']),
+(7,['Ouragan','Bordeaux']), ......, ....... ]
+Quelle expression permet d'obtenir la ville du cheval nommé Zéphir ?
+course[1][1][1]
+course[1][1][2]
+course[1][2][1]
+course[2][1][1]
+Question C.6
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D.2
+Quel
+est
+le
+protocole
+utilisé
+pour
+https://www.domaine.gouv.fr/qcm.php?nom=Martin ?
+HTTPS
+HTTP
+WWW
+FTP
+
+accéder
+
+à
+
+la
+
+page
+
+Question D.3
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D.4
+Un élève a écrit une fonction javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D.5
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+
+Question D.6
+Une page HTML comporte ce bout de code :
+<article>
+<h1>Les auteurs de ce site</h1>
+<button onclick="auteurs()">Appuyer ici</button>
+</article>
+<script src="java_script/ScriptJava.js"></script>
+<script>
+function auteurs() { alert("Auteurs anonymes"); }
+<\script>
+Quel sera le résultat d’un clic sur le bouton "Appuyer ici" ?
+Rien
+La page du navigateur se fermera
+La page affichera à la place du bouton "Appuyer ici" le message "Auteurs anonymes"
+Cela provoquera l’ouverture d’une fenêtre comportant le message "Auteurs anonymes"
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+Question E.2
+Lorsque, en ligne de commande, on saisit la commande
+chmod u+rw a.txt
+ceci a pour effet :
+de permettre au propriétaire du fichier de modifier le contenu de ce fichier
+d'interdire au propriétaire de modifier le contenu de ce fichier
+d'interdire à tous les autres utilisateurs de lire le fichier
+d'effacer le fichier
+Question E.3
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, trois répertoires nommés :
+JAVA, PYTHON et PHP ?
+mkdir JAVA, PYTHON, PHP
+mk -dir JAVA PYTHON PHP
+mkdir JAVA PYTHON PHP
+mk dir JAVA PYTHON PHP
+Question E.4
+On a exécuté la commande ls -l et obtenu l’affichage suivant :
+total 0
+-rw-rw-rw- 1 etudiant etudiant 15 Jul
+drwxrwxrwx 1 etudiant etudiant 512 Jul
+
+2 13:29 exercice
+2 13:37 seances
+
+Que permettent d’affirmer les informations obtenues ?
+exercice et seances sont deux fichiers
+exercice est un fichier et seances est un répertoire
+exercice et seances sont deux répertoires
+exercice est un répertoire et seances est un fichier
+
+Question E.5
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des répertoires et dossiers contenus
+dans le répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+
+Thème F : langages et programmation
+Question F.1
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F.2
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en argument.
+On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+Question F.3
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+
+Question F.4
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F.5
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F.6
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......): # à compléter
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+
+Thème G : algorithmique
+Question G.1
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G.2
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G.3
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+
+Question G.4
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de 18 euros.
+Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G.5
+Un algorithme de recherche dichotomique sur un tableau trié de mille entiers s'exécute en 50 millisecondes.
+Quelle est la durée approximative de son exécution sur un tabelau trié d'un million d'entiers ?
+la même durée : environ 50 millisecondes
+une durée environ dix fois plus longue : environ une demi-seconde
+une durée environ mille fois plus longue : environ 50 secondes
+une durée qui dépasserait l'année, car la complexité de l'algorithme est exponentielle
+Question G.6
+On a représenté sur un quadrillage les éléments de quatre classes (chaque classe est représentée par un carré,
+un triangle, un losange ou un disque) ainsi qu’un nouvel élément X.
+
+X
+
+En appliquant l'algorithme des k plus proches voisins pour la distance usuelle dans le plan, avec k=5, à quelle
+classe est affecté le nouvel élément X ?
+la classe des carrés
+la classe des triangles
+la classe des losanges
+la classe des disques

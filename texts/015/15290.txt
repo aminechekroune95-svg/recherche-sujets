@@ -1,0 +1,421 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1317636, "at": "2026-11-23T09:40:19+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l'écriture binaire, en complément à 2 sur 8 bits, du nombre entier négatif –13 ?
+-0111 0010
+-0000 1101
+1111 0010
+1111 0011
+Question A 2
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+if a > b+10:
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 3
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 4
+𝑛 est un entier dont la représentation en base 2 est : 100 1011.
+Laquelle de ces affirmations est vraie ?
+𝑛 est un entier pair plus grand que 128
+𝑛 est un entier impair plus grand que 128
+𝑛 est un entier pair plus petit que 128
+𝑛 est un entier impair plus petit que 128
+Question A 5
+
+Quelle est l'écriture décimale de l'entier positif dont l'écriture binaire est 00101001 ?
+101001
+Question A 6
+Pour quelles valeurs booléennes des variables a, b et c l'expression (a or b) and (not c) a-t-elle pour
+valeur True ?
+a = True b = False c = True
+a = True b = False c = False
+a = False b = False c = True
+a = False b = True
+
+Thème B : types construits
+Question B 1
+La variable sequence contient une liste de lettres, éventuellement répétées, choisies parmi 'A', 'B', 'C', 'D'.
+On veut créer un dictionnaire effectifs associant à chaque lettre le nombre de fois qu'elle apparaît dans la
+liste sequence.
+Par exemple si sequence contient ['A', 'B', 'B', 'D', 'B', 'A'],
+effectifs doit contenir {'A':2, 'B':3, 'C':0, 'D':1}.
+Parmi les scripts suivants, lequel réalise cet objectif ?
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+effectifs = {}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+Question B 2
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+Question B 3
+
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+Question B 4
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 5
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B 6
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+
+Thème C : traitement de données en tables
+Question C 1
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 3
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 4
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+
+t['quantité'][1]
+t['scies']['quantité']
+
+Question C 5
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 6
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 2
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui affiche une
+erreur 404.
+Quel cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion Internet
+un changement de titre du forum qu'il veut consulter
+Question D 3
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 4
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D 5
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 6
+
+Compléter le script ci-dessous :
+<!DOCTYPE html>
+<html>
+<head>
+<………>Ma page HTML</…………>
+</head>
+<html>
+href
+title
+html
+aucune des propositions précédentes
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 2
+Dans la console Linux, quelle commande faut-il exécuter pour copier le fichier test0.csv en un nouveau fichier
+nommé test1.csv ?
+ls test0.cvs test1.csv
+cp test0.csv test1.csv
+cp test1.csv test0.csv
+mv test1.csv test0.csv
+Question E 3
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 4
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E 5
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+Question E 6
+Dans un terminal sous Linux, à quoi sert la commande traceroute ?
+à afficher un itinéraire routier entre deux villes
+c'est un synonyme pour la commande ping
+à afficher le chemin suivi par des paquets à travers un protocole IP
+à suivre pas à pas l'exécution d'un programme
+
+Thème F : langages et programmation
+Question F 1
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+Question F 2
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+Question F 3
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+p = 20
+return p
+Que renvoie maFonction(18) ?
+Question F 4
+
+Soit 𝑛 un entier naturel. Sa factorielle est le produit des nombres entiers strictement positifs qui sont plus
+petits ou égaux à 𝑛. Par exemple la factorielle de 4 vaut 1 × 2 × 3 × 4 = 24.
+Quelle est la fonction correcte parmi les suivantes ?
+while i <= n:
+
+i = 1
+while i < n:
+
+while i < n:
+
+while i <= n:
+
+Question F 5
+On considère le code suivant :
+if x < 4:
+x = x + 3
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+
+Question F 6
+Dans le programme suivant, la variable A contient un entier strictement positif. Quelle est la valeur numérique
+de la variable i en fin de programme ?
+while 2**i < A :
+Que vaut la variable i à la fin de l'exécution ?
+A + 1
+l'exposant de la plus grande puissance de 2 inférieure à A
+l'exposant de la plus petite puissance de 2 supérieure à A
+A - 1
+
+Thème G : algorithmique
+Question G 1
+On considère la fonction suivante :
+def f(x,L):
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+i = k + 1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+Question G 2
+Au cours d’un tri de tableau, on observe les étapes suivantes :
+
+Quel est l’algorithme qui a été utilisé ?
+tri par sélection
+glouton
+tri par insertion
+dichotomique
+
+Question G 3
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+Question G 4
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1
+Question G 5
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G 6
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?

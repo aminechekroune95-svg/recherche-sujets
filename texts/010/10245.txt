@@ -1,0 +1,428 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1628280, "at": "2026-11-23T09:44:31+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A.2
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A.3
+Quelle est l'écriture binaire du nombre entier 183 ?
+0100 1000
+1110 1101
+1011 0111
+1001 0101
+Question A.4
+Quelle est l’écriture hexadécimale de l’entier dont la représentation en binaire non signé est 1100 0011 ?
+BB
+C3
+CB
+7610
+Question A.5
+Combien de bits doit-on utiliser au minimum pour représenter en base 2 le nombre entier 72 ?
+
+Question A.6
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+
+Thème B : types construits
+Question B.1
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B.2
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+Question B.3
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B.4
+Laquelle des expressions suivantes a-t-elle pour valeur la liste des carrés des premiers entiers qui ne sont pas
+multiples de 5 ?
+[x*x for x in range (11) if x//5 != 0]
+[x*x if x%5 != 0 for x in range (11)]
+[x*x if x//5 != 0 for x in range (11)]
+[x*x for x in range (11) if x%5 != 0]
+
+Question B.5
+On dispose dans le tableau annee2019 les températures mensuelles moyennes d'une région française.
+On exécute le script suivant :
+annee2019 = [('janvier',6), ('février',6), ('mars',12),
+('avril',20), ('mai',23), ('juin',25),
+('juillet',29), ('août',25), ('septembre',22),
+('octobre',15), ('novembre',11), ('décembre',7)]
+m = annee2019[0][1]
+for mois in annee2019:
+if (m > mois[1]):
+m = mois[1]
+Que contient la variable m à la fin de cette exécution ?
+le mois le plus froid
+le mois le plus chaud
+la température moyenne la plus basse
+la température moyenne la plus haute
+Question B.6
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+
+Thème C : traitement de données en tables
+Question C.1
+table = [ ['lovelace', 'ada', 1815, 1852],
+['von neumann','john', 1903, 1957],
+['turing', 'alan', 1912, 1954],
+['mccarthy', 'john', 1927, 2011],
+['floyd', 'robert', 1936, 2001] ]
+L = []
+for index in range(len(table)):
+if table[index][3] > 1954:
+L.append(index)
+Quelle est la valeur de la liste L à la suite de cette exécution ?
+['von neumann','mccarthy','floyd']
+[1957,2011,2001]
+[1,3,4]
+['lovelace','turing']
+Question C.2
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C.3
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+
+Question C.4
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C.5
+On définit :
+contacts = { 'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C.6
+On écrit la fonction suivante :
+def extreme(t, test):
+m = t[0]
+for x in t:
+if test(x,m):
+m=x
+return m
+On dispose d'une liste L dont les éléments sont des couples (nom, note).
+Par exemple :
+L = [ ('Alice', 17), ('Barnabé', 18),
+('Casimir', 17), ('Doriane', 20),
+('Emilien', 15), ('Fabienne', 16) ]
+On aimerait que l'appel de fonction extreme(L, test) renvoie un couple présentant la note maximale.
+Quelle définition de la fonction test peut-on utiliser ?
+return a[0] < b[0]
+
+return a[0] > b[0]
+
+return a[1] < b[1]
+
+return a[1] > b[1]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D.2
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en langage
+JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D.3
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser tout type de données
+Question D.4
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D.5
+Dans une page HTML se trouve le formulaire suivant :
+<form method="........." action="traitement.html">
+<p>Nom : <input type="text" name="nom"></p>
+<p>Mot de passe : <input type="password" name="mdp"></p>
+<p><input type="submit" name="envoi" value="Envoyer"></p>
+</form>
+Par quoi faut-il remplacer les pointillés pour que les données du formulaire n'apparaissent pas dans l'URL au
+moment où l'utilisateur soumet le formulaire au serveur ?
+GET
+POST
+SECRET
+HIDDEN
+
+Question D.6
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans un terminal sous Linux, à quoi sert la commande traceroute ?
+à afficher un itinéraire routier entre deux villes
+c'est un synonyme pour la commande ping
+à afficher le chemin suivi par des paquets à travers un protocole IP
+à suivre pas à pas l'exécution d'un programme
+Question E.2
+Depuis le répertoire /home/ubuntu/ on exécute la commande
+mkdir ./Documents/Holidays
+Quel est son effet ?
+supprimer le dossier Holidays situé dans Documents
+changer de répertoire pour se retrouver dans le répertoire /home/Documents/Holidays
+créer un dossier Holidays dans le répertoire /home/ubuntu/Documents
+lister le contenu du répertoire Holidays de Documents
+Question E.3
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E.4
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E.5
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E.6
+Dans un ordinateur, que permet de faire la mémoire vive ?
+Stocker les données de façon permanente
+Afficher les informations sur l’écran
+Réaliser les calculs
+
+Stocker les données de façon temporaire
+
+Thème F : langages et programmation
+Question F.1
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a=2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+
+Question F.2
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F.3
+Remplacer les pointillés par l'expression correcte pour que la fonction suivante renvoie le plus petit écart entre
+deux éléments d'une liste de 10 entiers :
+def plusPetitEcart(L):
+m = abs(L[1] - L[0])
+for i in range(0, 9):
+for j in ...... :
+ecart = abs(L[j] - L[i])
+if ecart < m:
+m = ecart
+return m
+range(0,10)
+range(0,i)
+range(i,10)
+range(i+1,10)
+Question F.4
+La documentation de la bibliothèque random de Python précise :
+random.randint(a,
+Renvoie un entier aléatoire N tel que a <= N <= b.
+
+b)
+
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+
+Question F.5
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a=2
+b=5
+if a > 8:
+b = 10
+elif a > 6:
+b=3
+Question F.6
+On définit la fonction suivante :
+def rey(n):
+i=0
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+
+Thème G : algorithmique
+Question G.1
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s=0
+i=1
+while i < 5:
+s=s+i
+i=i+1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+
+Question G.2
+Quelle est la valeur de c à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+c=0
+for k in L:
+if k == L[1]:
+c = c+1
+Question G.3
+tab = [1, 4, 3, 8, 2]
+S=0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+Question G.4
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans un tableau de longueur 𝑛 est de l’ordre de … » ?
+𝑛
+𝑛2
+𝑛3
+
+Question G.5
+On a représenté sur un quadrillage les éléments de quatre classes (chaque classe est représentée par un carré,
+un triangle, un losange ou un disque) ainsi qu’un nouvel élément X.
+
+X
+
+En appliquant l'algorithme des k plus proches voisins pour la distance usuelle dans le plan, avec k=5, à quelle
+classe est affecté le nouvel élément X ?
+la classe des carrés
+la classe des triangles
+la classe des losanges
+la classe des disques
+Question G.6
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus grande
+valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite valeur
+afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.

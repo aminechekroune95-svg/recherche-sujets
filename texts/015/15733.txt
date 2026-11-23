@@ -1,0 +1,487 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1372517, "at": "2026-11-23T09:28:11+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Niveau des océans
+Sur 4 points
+Partie 1 – Évolution du niveau moyen des océans
+Dans l’article « Élévation du niveau de la mer » publié en octobre 2019 sur le site du
+gouvernement français notre-environnement.gouv.fr, il est indiqué que le niveau
+moyen des océans a augmenté en moyenne de 3,2 mm par an sur la période allant
+de 1993 à 2011.
+On suppose dans cette partie qu’à partir de 2011 le niveau moyen de l’océan
+augmente chaque année de 3,2 mm. On modélise l’élévation, en mm, du niveau
+moyen de l’océan entre l’année 2011 et l’année 2011 + 𝑛 par une suite 𝑢 .
+Dans cette modélisation, on a 𝑢 0 = 0.
+1. Justifier que 𝑢 2 = 6,4 et proposer une interprétation dans le contexte de
+l’exercice.
+2. La suite (𝑢 ) est-elle arithmétique ou géométrique ? Justifier.
+3. Donner, pour tout entier naturel 𝑛, l’expression de 𝑢 en fonction de 𝑛.
+4. En déduire l’élévation en mm du niveau moyen de l’océan entre l’année 2011
+et l’année 2024.
+5. D’après ce modèle, à partir de quelle année, le niveau moyen des océans
+aura augmenté de plus de 10 cm par rapport au niveau moyen relevé en
+2011 ?
+Partie 2 – Étude du niveau de l’océan au Conquet (Finistère, Bretagne)
+La station du Conquet (ville du Finistère en Bretagne) enregistre différentes données
+dont le niveau de la mer. Ces données ont été saisies dans une feuille de calculs
+d’un tableur.
+En abscisse on trouve les années et en ordonnée le niveau moyen sur l’année, en
+mm, de l’Océan Atlantique pour la station du Conquet.
+
+Les données relevées chaque année permettent d’obtenir le nuage de points
+ci-dessous. Sur le graphique figure aussi une courbe de tendance, approchant le
+nuage de points.
+
+Source : psmsl.org
+1. La courbe de tendance obtenue correspond à la fonction 𝑓 définie sur
+[1971 ; 2020] par :
+𝑓(𝑥) = 3,0214𝑥 + 1032,4
+où 𝑥 représente le temps en année et 𝑓(𝑥) représente le niveau moyen sur
+l’année 𝑥, en mm de l’océan.
+Quelle est la nature de la fonction 𝑓 ?
+2. On admet que la fonction 𝑓 est dérivable sur [1971 ; 2020], on note 𝑓′ sa
+fonction dérivée.
+Calculer 𝑓′(𝑥). Interpréter ce résultat dans le contexte de l’exercice.
+3. En supposant que ce modèle reste valable dans le temps, estimer le niveau
+moyen de l’océan en 2050.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+I0
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Sachant qu’un spectateur situé à 5 m de la piste est soumis à un niveau
+d’intensité sonore L = 120 dB, indiquer, parmi les propositions suivantes, à
+quelle distance doit se trouver le spectateur pour n’être soumis qu’à une
+intensité sonore L’= 105 dB. Justifier (on n’attend aucun calcul).
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+2- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes et de porter des bouchons d’oreilles bien insérés.
+Justifier ces conseils.
+Partie 2 – Restaurer l’audition
+3- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Exploiter les documents pour identifier la (ou les) partie(s) de l’oreille
+concernée(s) par l’implant cochléaire
+4- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Mix énergétique de la France et l’Allemagne en 2023
+Historiquement, la France et l’Allemagne n’ont pas fait les mêmes choix de moyens
+de production d´électricité. Si la France a choisi d’orienter son appareil de production
+vers la technologie nucléaire dès les années 1970, l’Allemagne a alors privilégié les
+combustibles fossiles. Depuis les années 1990, France et Allemagne ont mis en en
+place diverses mesures pour une transition énergétique efficace avec un double
+objectif :
+
+une neutralité carbone en 2050 pour la France en 2050 et en 2045 pour
+l’Allemagne, ce qui implique un équilibre entre les émissions de carbone et
+l'absorption du carbone de l'atmosphère par les puits de carbone ;
+
+une réduction des émissions de gaz à effet de serre de 50 % en France d’ici
+2030 et de 65 % en Allemagne.
+
+1- Citer deux gaz à effet de serre.
+Quelle soit d’origine fossile, nucléaire ou hydraulique, la production d’énergie
+électrique est réalisée dans des centrales qui possèdent toutes le même
+convertisseur exploitant le phénomène d’induction électromagnétique.
+2- Donner le nom du convertisseur, élément central des centrales électriques.
+Le document 1 ci-dessous représente une chaîne de conversion énergétique.
+Document 1 – Chaîne de conversion énergétique
+Réservoir
+d’énergie
+
+Convertisseur
+
+Réseau
+électrique
+
+Environnement
+
+3- Donner un exemple de réservoir d’énergie utilisé dans les centrales
+hydrauliques.
+4- En exploitant le document 1, choisir parmi les trois propositions suivantes (a, b
+ou c) celle qui correspond aux formes d’énergie converties dans une centrale
+nucléaire :
+a) 1 : énergie chimique ; 2 : énergie électrique ; 3 : énergie thermique.
+b) 1 : énergie thermique ; 2 : énergie mécanique ; 3 : énergie électrique.
+c) 1 : énergie mécanique ; 2 : énergie électrique ; 3 : énergie thermique.
+La transition énergétique opérée en France et en Allemagne se concrétise par un
+mix énergétique représenté par les graphiques du document 2 page suivante.
+Donnée : 1 GWh = 106 kWh.
+5- Retrouver, à partir des données du document 2, les différentes sources
+énergétiques constituant les 94 % d’énergie décarbonée en France en 2023.
+6- En utilisant les informations du document 3 page suivante, commenter
+l’expression « énergie décarbonée ».
+7- Préciser en quoi le mix énergétique en France et en Allemagne correspond à un
+choix historique et aux mesures prises ces dernières années.
+
+Document 2 – Mix énergétiques en 2023
+Mix énergétique français en 2023
+Production : 495 000 GWh (94 % décarbonés)
+Énergies renouvelables
+y compris l'hydraulique
+29%
+
+Nucléaire 64%
+
+Fioul, charbon
+et autres 1%
+Gaz 6%
+
+Mix énergétique allemand en 2023
+Production : 483 000 GWh (56 % décarbonés)
+Nucléaire 1 %
+Gaz 16 %
+
+Énergies
+renouvelables y
+compris
+l'hydraulique 55 %
+
+Fioul, charbon
+et autres 24 %
+
+Document 3 – Bilan carbone (en g de CO2 émis par kWh produits) des
+sources de production énergétique
+Éolien
+
+Photovoltaïque Hydraulique Nucléaire Charbon Fioul
+
+1060
+
+Gaz
+
+Source : d’après https://orki.green/article/quel-bilan-carbonepour-la-production-d-electricite
+
+Exercice 3 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+De la peinture blanche pour modérer le réchauffement climatique ?
+
+Un homme peint en blanc un toit à l’aide
+d’une peinture réflective (Morbihan).
+
+« Une vague de chaleur exceptionnelle
+est en cours dans une grande partie de
+la France : 15 départements sont en
+vigilance rouge canicule ce lundi 18
+juillet 2022. Si tout le monde est à la
+recherche d'un peu de fraîcheur, il
+existe des techniques simples. En fait, il
+faudrait tout repeindre en blanc : nos
+maisons, nos voitures, nos routes... Du
+blanc partout, pour renvoyer l'énergie
+solaire plutôt que l'emmagasiner, c’est
+l’effet albédo.
+
+Les experts du climat évoquent notamment la technique des "cool roofs", "les toits
+froids". Il s'agit tout simplement de repeindre les toits en blanc, ceux de nos
+maisons, des hangars, des centres commerciaux pour rafraîchir l'intérieur des
+bâtiments. »
+Source : D’après France info, article du 18/07/2022
+
+Document 1 – Une peinture réfléchissante innovante
+Dans les années à venir, il va falloir diminuer notre consommation de climatisation,
+trop énergivore. Le fondateur de la peinture blanche “Enercool”, explique que sa
+peinture blanche réfléchissante anti-chaleur a un pouvoir réfléchissant de 83%.
+Elle réfléchit donc les rayons du Soleil, et protège les bâtiments de la chaleur. Elle
+a une durée de vie de 10 ans au minimum et ne crée aucune surconsommation de
+chauffage en hiver.
+Source : D’après https://www.neozone.org
+
+Document 2 – Définition de l’albédo α et valeurs d’albédo de quelques
+matériaux
+On appelle « albédo » le rapport entre la
+puissance lumineuse réfléchie par une surface
+et la puissance lumineuse incidente qu’elle
+reçoit. L’albédo est donc une grandeur sans
+dimension qui varie entre 0 (surface sombre
+totalement absorbante) et 1 (surface claire
+totalement réfléchissante).
+L’albédo terrestre moyen a été estimé à 0,30.
+
+Nature de
+la surface
+
+Neige
+fraîche
+
+Albédo α
+
+0,80-0,90 0,60-0,80 0,17-0,27 0,25-0,30
+
+Glace
+
+Béton
+
+Pelouse
+
+Goudron
+0,10
+
+Forêt
+
+Toit
+foncé
+
+0,10-0,20 0,08-0,18
+
+Par exemple, pour le sable, l’albédo prend toutes les valeurs possibles entre 0,20 et 0,30,
+ce qui correspond à des pourcentages entre 20 % et 30 %.
+
+Source : D’après https://temperture.home.blog
+
+1- À l’aide des documents, utiliser la valeur de l’albédo de la peinture « Enercool »
+afin de justifier son effet « anti-chaleur ».
+Document 3 – Perte de surface de glacier en Islande
+Menacés de disparition quasi complète d’ici 2200, les glaciers de l’île ont déjà
+perdu environ 750 km² de surface depuis le début des années 2000, soit 7 % de
+leur superficie totale, sous l’effet du réchauffement climatique, selon une étude
+publiée lundi.
+Au total, la surface des glaciers islandais, qui recouvrent encore un peu plus de
+10 % du pays, est tombée en 2019 à 10 400 km², selon une publication de la revue
+spécialisée Jökull (« Glacier » en islandais). Depuis 1890, la superficie occupée
+par les glaciers a reculé de près de 2 200 km², soit 18 % de sa surface en 1890.
+Près d’un tiers de ce recul a été enregistré depuis 2000, selon ce dernier pointage
+des glaciologues, géologues et géophysiciens islandais.
+Source : Extrait du Parisien du 31 mai 2021
+
+2- En utilisant le document 3 et sachant que l’aire de la surface totale des toits
+parisiens est d’environ 32 km², évaluer le nombre de villes équivalentes à Paris
+dont il faudrait repeindre les toits avec la peinture Enercool, afin de compenser la
+diminution d’albedo liée à la surface de glacier islandais perdue depuis 20 ans.
+Document 4 – Émission du corps noir
+Le modèle du corps noir est un modèle permettant de décrire l’émission de
+rayonnement électromagnétique d’un objet en fonction de sa température.
+Dans ce modèle, la loi de Wien établit une relation entre la température du corps
+noir T et la longueur d'onde λmax du maximum d’émission ce corps :
+λmax × T = 2,898.10-3 m·K
+Avec λmax en mètre (m) et T en Kelvin (K).
+
+Si on notre T la température exprimée en Kelvin (K) et θ la température
+exprimée en degrés Celsius (°C) alors on a T(K) = θ(°C) + 273,15.
+
+1 m = 109 nm.
+
+La couleur d’un objet dépend des radiations lumineuses diffusées par
+l’objet. Ainsi, un objet noir absorbe les radiations lumineuses du domaine
+visible alors qu’un objet blanc diffuse toutes les radiations lumineuses du
+visible.
+
+3- Montrer que dans le cadre du modèle du corps noir, la longueur d’onde du
+maximum d’émission du Soleil est d’environ 459 nm, sachant que sa
+température de surface vaut 6045 °C.
+4- Argumenter la cohérence du choix d’une peinture de couleur blanche pour
+repeindre les toits par rapport au spectre de la lumière du Soleil.
+5- À partir de l’ensemble des informations, discuter de l’intérêt, de la faisabilité ainsi
+que de l’efficacité d’utiliser la peinture « Enercool » pour modérer les effets du
+réchauffement climatique.
+
+Niveau terminale
+Thème « Une histoire du vivant »
+
+L’évolution humaine
+Partie 1
+L’espèce humaine actuelle fait partie du groupe des Primates et est plus
+particulièrement apparentée aux grands singes. On cherche à préciser ses liens de
+parenté avec deux espèces de grands singes, le gorille et le chimpanzé.
+1- Indiquer sur votre copie la lettre correspondant à la proposition exacte :
+Un pourcentage élevé de similitudes génétiques entre deux espèces est un
+argument pour dire que …
+A. l’ancêtre commun aux deux espèces est ancien ;
+B. l’ancêtre commun aux deux espèces est récent ;
+C. l’une des deux espèces est l’ancêtre de l’autre ;
+D. les deux espèces n’ont pas d’ancêtre commun.
+Document 1 : pourcentage des ressemblances dans la séquence du gène de
+la NADH déshydrogénase chez trois espèces de Primates
+
+Espèce
+humaine
+Chimpanzé
+Gorille
+
+Espèce
+humaine
+
+Chimpanzé
+
+Gorille
+
+86,5
+
+87,8
+
+Source : d’après le logiciel Anagène
+
+2- Les arbres 1 et 2 sont deux représentations des liens de parenté entre l’espèce
+humaine (notée « Homme »), le gorille et le chimpanzé.
+Sélectionner, en justifiant le choix, l’arbre en accord avec les données du
+document 1.
+
+Partie 2
+Aujourd’hui il n’existe plus qu’une seule espèce humaine : Homo sapiens. On
+cherche à préciser la parenté d’Homo sapiens avec d’autres espèces du genre
+Homo.
+3- À partir des connaissances, citer un caractère propre au genre Homo, qui
+distingue ses représentants des autres genres d’Hominidés
+Document 2 – L’Homme de Neandertal, notre « cousin » disparu
+L’Homme de Neandertal a vécu en Europe aux côtés des Hommes modernes (Homo
+sapiens) durant plus de 10 000 ans mais sa disparition, il y a environ 30 000 ans, reste
+encore inexpliquée.
+L’étude des gènes des Néanderthaliens suggère que, tout en étant très proches des
+Hommes modernes (Homo sapiens), ils sont suffisamment distants pour que l’on
+puisse considérer qu’il s’agit bien d’une espèce différente de Homo sapiens. D’après
+les études des fossiles et la comparaison de l’ADN des deux espèces, leur dernier
+ancêtre commun aurait vécu il y a environ 400 000 ans.
+Source : d’après Le Monde du 8 mai 2010
+
+Document 3 – Un nouveau venu dans la famille humaine : l’Homme de Denisova
+Pour la première fois, en 2010, une nouvelle espèce humaine a été décrite non pas
+grâce à des données anatomiques, mais d’après des analyses génétiques.
+L’ADN d’un os trouvé dans une grotte de Sibérie, daté d’un peu moins de 40 000 ans,
+appartient à un individu du genre Homo mais ce n’est ni un sapiens, ni un
+néandertalien. Ceci signifie qu’à une époque où les deux espèces du genre Homo
+(sapiens et neandertal) cohabitaient, un proche « cousin » subsistait lui aussi en
+Eurasie : l’Homme de Denisova (Homo denisovensis).
+En comparant son ADN à celui des Hommes modernes (H. sapiens) et des
+néandertaliens, les chercheurs ont constaté que les différences étaient deux fois plus
+nombreuses entre le nouvel homininé et nous que celles qui nous séparent de
+Neandertal. Ceci signifie qu’il faut remonter à plus d’un million d’années pour retrouver
+l’ancêtre commun à l’Homme de Denisova, à Neandertal et à l’Homme moderne
+(H. sapiens).
+Source : d’après Pour La Science n°386
+
+4- À l’aide des connaissances et des informations des documents 2 et 3, justifier
+l’affirmation suivante : « L’évolution humaine n’est pas linéaire (au sens où :
+Espèce 1 => Espèce 2 => Espèce 3 => …), mais buissonnante ».

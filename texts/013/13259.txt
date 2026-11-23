@@ -1,0 +1,433 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1580048, "at": "2026-11-23T09:25:55+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES de l’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Analyser les principaux protocoles pour un réseau de communication
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la transmission
+de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 12
+
+Documents réponses ................................................... Pages 13 à 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre,
+équilibrés en durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les
+connaissances associées pour qualifier et/ou quantifier cette
+performance, à partir de l'analyse, de la modélisation de tout ou partie
+du produit ou de relevés expérimentaux.
+
+Le second exercice porte sur la commande du fonctionnement du
+produit ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies
+au candidat qu'il devra exploiter, compléter ou modifier.
+
+PRÉSENTATION DE LA PERGOLA BIOCLIMATIQUE
+Une pergola « bioclimatique » est une pergola à lames orientables qui permet
+de moduler l’ensoleillement sur une terrasse et dans la maison, tout au long
+de la journée et en fonction de la saison. Elle est conçue pour résister au vent.
+Les lames peuvent être mises dans une position angulaire telle que la pergola
+se transforme en toiture fermée, afin de protéger la terrasse des intempéries.
+
+Photo 1 : pergola bioclimatique
+
+Figure 1 : diagramme des exigences
+
+Problématique : la motorisation choisie permet-elle de respecter le temps de
+manœuvre des lames de la pergola bioclimatique indiqué lors d’un
+mouvement complet ? La commande permet-elle de gérer automatiquement le
+repliement des lames en présence de pluie ?
+
+EXERCICE 1 - ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Vérification du temps de manœuvre angulaire des lames.
+La maîtrise du temps de manœuvre des lames orientables de la pergola
+nécessite de recourir à un asservissement en position angulaire des lames.
+Cet asservissement angulaire permet de surcroît de répondre à l’exigence de
+gestion de l’ensoleillement, puisque l’utilisateur pourra alors imposer une
+consigne de luminosité.
+Commenté [A1]: Peut-être faudrait-il reprendre les schémas
+compte tenu des problèmes de lisibilité lors de l'impression en
+noir & blanc
+
+Figure 2 : schéma de principe
+
+Figure 3 : schéma bloc de l’asservissement
+
+Le convertisseur détermine la valeur de la tension de consigne en fonction de
+la consigne de luminosité.
+Question I-1
+Figure 3
+
+Donner les grandeurs physiques en entrée et en sortie du
+capteur présenté figure 3. Indiquer la nature des grandeurs
+analogique, logique, numérique.
+
+Commenté [A2]: En référence à la grille :
+M&R9 : Ok
+M&R10 : Ok
+
+L’asservissement n’est actif qu’en présence d’un vent de faible intensité. Audelà d’une vitesse de vent de 20 kmh-1, un capteur de vitesse du vent permet
+de lancer le repliement des lames et de désactiver l’asservissement de
+luminosité. La vérification des performances qui suit se fera donc en
+négligeant l’action mécanique du vent sur les lames.
+Une lame est réalisée à partir d’un profilé extrudé en aluminium, de largeur
+190 mm, d’épaisseur 35 mm et de longueur de 4 m. La masse linéique de ce
+profil d’aluminium est de 1,5 kgm-1.
+Question I-2
+Figure 2
+
+Représenter, sur le document réponse DR1, le poids ⃗⃗P action
+mécanique de pesanteur sur la lame en utilisant une échelle
+de représentation de 1 cm pour 10 N et en prenant
+g = 9,81 ms-2 .
+Exprimer sur feuille de copie, sous forme de torseur au point
+G, l’action mécanique exercée par la pesanteur sur une lame.
+{τ(pesanteur→lame)}
+
+Commenté [A3]: En référence à la grille :
+M&R 8 : Ok
+
+Commenté [A4]: Peut-être faudrait-il guider pour la forme du
+torseur attendu selon les 3 axes en précisant le référentiel
+considéré
+
+Ecrire le résultat sous la forme ci-dessous :
+{τ(pesanteur→lame)}(𝑥,𝑦,𝑧) =
+
+…
+{…
+G …
+
+…
+…}
+… (x,y,z)
+
+La norme du moment en A de la pesanteur sur une lame s’écrit sous la forme :
+⃗⃗⃗ A (pesanteur→lame)‖ = d.‖P
+⃗⃗ ‖
+‖M
+
+⃗⃗⃗⃗⃗ ‖∙ cos θ
+avec d =⃗⃗⃗⃗⃗⃗
+AG ∙⃗⃗x soit d = ‖AG
+
+Commenté [A5]: Il faut définit d dans le texte et indiquer qu’il
+est représenté sur le DR
+Commenté [A6]: Proposer une schématisation avec d car
+les élèves risquent d'avoir des difficultés
+
+Question I-3
+
+Donner la valeur de l’angle  en ° pour lequel la valeur du
+bras de levier d est maximale notée dmax.
+⃗⃗⃗ A (pesanteur→lame)‖
+Calculer la norme de ‖M
+
+max
+
+Commenté [A7]: En référence à la grille :
+M&R 12: Ok
+
+en N.m
+
+pour une distance maximale dmax.
+Le motoréducteur entraîne l’ensemble des 25 lames en rotation grâce au profil
+de manœuvre. Seule l’action mécanique de pesanteur sur les lames est prise
+en compte.
+
+Question I-4
+
+Commenter la réalité physique de l’hypothèse « Seule l’action
+mécanique de pesanteur sur les lames est prise en compte ».
+Calculer la valeur numérique du moment du couple maximal
+en Nm, noté Cmax , à exercer pour vaincre l’action mécanique
+de pesanteur sur l’ensemble des lames.
+
+Commenté [A8]: En référence à la grille :
+M&R1 : Ok avec la question complémentaire ajoutée
+M&R8 :Ok
+C1 : Ok (mais cette compétence est toujours activée lorsque
+donne un résultat, il faut identifier les poids les plus pertinents
+sur les questions pour son évaluation)
+Commenté [A9]: Unité à préciser
+
+La cinématique choisie montre que le couple en sortie du réducteur varie entre
+0 et 𝐶𝑚𝑎𝑥 . Compte tenu de cette variation, et afin de simplifier les calculs, le
+couple en sortie du réducteur est considéré constant avec une valeur
+moyenne Cmoy = 70 Nm.
+
+La figure 4 représente la chaîne de puissance de la motorisation.
+
+Figure 4 : chaîne d’énergie de la motorisation
+
+Données :
+-
+
+La puissance électrique moyenne Pélec en entrée du moteur est de 90 W, elle
+s’exprime par la relation Pélec =Umoy .Imoy ;
+⃗ ) de 90 ° au cours du mouvement
+les lames pivotent autour de l’axe (A,z
+complet ;
+le moteur tourne à vitesse constante.
+
+I-5
+Figure 4
+
+I-6
+Figure 1
+
+Calculer la puissance en sortie Pmoy en W lorsque la
+puissance en entrée est égale à 90 W, déduire la vitesse
+angulaire ωmoy en rads-1.
+
+Commenté [A10]: En référence à la grille
+A4 : Ok
+M&R2 :Ok
+C1 : Ok (mais cette compétence est toujours activée lorsque
+donne un résultat, il faut identifier les poids les plus pertinents
+sur les questions pour son évaluation)
+
+Déterminer la durée en seconde du mouvement complet.
+Conclure quant au respect de l’exigence (figure 1) du
+temps de manœuvre.
+
+Commenté [A11]: En référence à la grille
+A1 : Ok
+A3 :OK
+M&R7 :Ok
+C1 :Ok
+
+EXERCICE 2 - ÉTUDE DE LA COMMANDE DU PRODUIT
+Validation de l’algorithme de gestion de l’orientation des lames en
+présence de pluie
+Le système de commande de la pergola bioclimatique comprend un ensemble
+nommé « bloc capteurs » autonome en énergie dont le diagramme de
+définition de blocs est donné à la figure 5. L’intérêt de cet unique « bloc
+capteurs » est sa facilité d’installation.
+
+Commenté [A12]: Reprendre les unités sur la figure
+
+Spanneau = 2925 mm²
+
+Commenté [A13]: Augmenter la taille du diagramme de
+définition de blocs
+
+Ptran = 100mW
+Ttran = 2 ms
+
+Pres = 100 mW
+Figure 5 : diagramme de définition de blocs du « bloc capteurs »
+
+En moyenne, en France, l’énergie produite en une journée par un panneau
+photovoltaïque est comprise entre 1 et 6 kWhm-2.
+
+II-1
+Figure 5
+
+A partir de la surface du panneau photovoltaïque et de
+l’énergie produite en une journée, calculer l’énergie
+minimale, notée Epan en Joules, produite par le panneau
+photovoltaïque du « bloc capteurs » en une journée.
+Calculer l’énergie, notée Etran en Joules, dépensée
+chaque jour par le système de transmission de données.
+
+Commenté [A14]: En référence à la grille :
+A2 :Ok
+A3 :Ok
+A4 :Ok
+E&S3 : le line est moins explicite
+Commenté [A15]: Peut-on considérer la relation entre les 2
+grandeurs comme connue ?
+
+L’alimentation du capteur de vitesse du rotor de l’anémomètre et de la carte
+du « bloc capteurs » (hors résistance chauffante et transmission ») nécessite
+une puissance de 2 mW en continu.
+Afin de pallier le problème de condensation, le capteur de pluie est muni d’une
+résistance chauffante. Lors d’une journée pluvieuse, afin de lutter contre les
+problèmes de condensation du capteur, il est nécessaire d’activer la
+résistance pendant 2 h.
+II-2
+
+Déterminer, dans le cas le plus défavorable, la durée
+maximale d’utilisation de la résistance chauffante, en
+heures, à partir de l’énergie récupérée par le panneau
+photovoltaïque (énergie Etran sera prise en compte).
+Conclure sur la validation du dimensionnement du
+panneau photovoltaïque pour qu'il puisse assurer le
+fonctionnement de l'ensemble autonome (énergie totale).
+
+Commenté [A16]: En référence à la Grille
+A2 :Ok pour trouver les valeurs
+A4 :Ok (attention même compétence évaluée à la question II1)
+A5 : Ok (attention même compétence évaluée à la question II1)
+Commenté [A17]: Peut-être faudrait-il préciser si les élèves
+doivent intégrer à leur réflexion l'énergie liée au système de
+transmission ?
+Commenté [A18]: Préciser les critères à prendre en
+considération
+
+La figure 6 représente la chaîne d’acquisition du capteur de pluie.
+
+Figure 6 : schéma fonctionnel de la chaîne d’acquisition du capteur de pluie
+
+Figure 7 : courbe de réponse du module capacitif du capteur de pluie
+
+Le bloc de « mise en forme et d’amplification » permet de générer la tension
+Vp2 à partir de Vp1 selon la loi : Vp2 = - 4,5 · (Vp1 - 1).
+
+Le convertisseur analogique numérique est un convertisseur unipolaire avec
+une tension de référence de 5 V. Il code sur 10 bits. Np est donné par la
+relation Np =
+
+Question II-3
+Figure 7
+
+Vvp2
+q
+
+V
+
+sachant que q = 2ref
+n .
+
+Relever les valeurs de la tension de sortie Vp1 sur la courbe
+figure 7 pour les surfaces recouvertes d’eau de 0 %, 20 % et
+100 %. Compléter les valeurs (Vp1, Vp2, Np) du tableau 1 du
+document réponse DR1.
+
+Commenté [A19]: En référence à la grille :
+A7 :Ok à la lecture du tableau du DR
+M&R9 : Ok (renforcer à le questionnement proposé)
+
+Le comportement de la pergola en mode automatique de gestion de la pluie
+est illustré par la courbe de la figure 8. Ce comportement permet de limiter des
+phases d’ouverture/fermeture de la pergola (répétition).
+
+Figure 8 : courbe de comportement de la pergola en mode automatique
+
+La figure 9 décrit l’algorigramme du comportement souhaité de la pergola,
+avec les variables logiques présentées dans le tableau 2.
+
+Np Nombre entier image de la
+quantité de pluie
+
+S3
+
+Seuil S3 dépassé
+
+S1 Seuil S1 dépassé
+
+Fermée Etat de la pergola (Fermée=1 si les
+lames sont en position fermée)
+
+S2 Seuil S2 dépassé
+
+Res
+
+Alimentation de la résistance de
+chauffage du capteur de pluie (Res=1
+si résistance alimentée)
+
+Tableau 2 : variables utilisées
+
+Figure 9 : algorigramme du comportement souhaité
+
+Question II-4
+DR2
+
+Compléter, à partir de l’analyse de l’algorigramme, le
+chronogramme du document réponse DR2. Les variables
+Res et Fermee sont à 0 au départ.
+
+Commenté [A20]: En référence à la grille :
+A9 :Ok
+M&R4 :Ok
+C1 :Ok
+
+Conclure quant à la conformité du comportement de la
+pergola en présence de pluie.
+
+DOCUMENTS RÉPONSES
+DR1 – Question I-2
+⃗⃗⃗⃗⃗ ‖=190 mm
+‖AB
+⃗⃗⃗⃗⃗⃗ ‖ =95 mm
+‖AG
+
+d est la projection
+orthogonale de
+⃗⃗⃗⃗⃗
+𝐴𝐺 sur l’axe 𝑥
+
+DR1 – Question II-3
+Pourcentage de surface
+recouverte de goutte
+d’eau
+
+Commenté [A21]: Il est demandé aux élèves de faire à
+plusieurs reprises les mêmes calculs en appliquant la même
+démarche ce qui revient à évaluer les mêmes compétences,
+cela n'est pas nécessaire.
+
+0%
+
+Tension de sortie du
+capteur de pluie (Vp1)
+
+20 %
+
+100 %
+
+Commenté [A22]: Faire relever les valeurs sur la courbe
+
+Tension image de la
+quantité d’eau (Vp2)
+Nombre image de la
+quantité d’eau (Np)
+Tableau 1
+
+DOCUMENTS RÉPONSES (suite)
+DR2 – Question II-4
+
+Chronogrammes à compléter
+
+Etats des variables (0 ou 1) en fonction du temps (heure)
+Commenté [A23]: Mettre un titre à ces chronogrammes
+Légender avec les unités des axes

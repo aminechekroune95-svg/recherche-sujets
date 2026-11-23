@@ -1,0 +1,432 @@
+{"pages": 18, "method": "pdftotext", "bytes": 488698, "at": "2026-11-23T09:42:08+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les noms suivants, lequel n'est pas celui d'une méthode d'encodage des caractères ?
+UTF-16
+ASCII
+Arial
+Unicode
+Question A 2
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+215 − 1 = 32767
+215 = 32768
+216 − 1 = 65535
+216 = 65536
+Question A 3
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+Question A 4
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+Question A 5
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+
+Question A 6
+Soit 𝑛 l'entier positif dont l'écriture binaire est 10001. Quelle est l'écriture binaire de l'entier 2𝑛 ?
+20002
+100010
+010001
+1000110001
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur de la variable S à la fin de l'exécution du script suivant ?
+res = [ [1,2,3], [4,5,6], [7,8,9] ]
+S = 0
+for i in range(3):
+S = S + res[i][2]
+Question B 2
+On définit une liste : L = [1, 1, 2, 9, 3, 4, 5, 6, 7].
+Quelle expression a-t-elle pour valeur la liste [4, 16, 36] ?
+[(x * x) % 2 == 0 for x in liste]
+[x for x in liste if x % 2 == 0]
+[x * x for x in liste]
+[x * x for x in liste if x % 2 == 0]
+Question B 3
+On définit : T = [7*n for n in range(10)].
+Quelle est la valeur de l'expression T[7] ?
+Question B 4
+On définit :
+dico = {"Herve": 15, "Kevin":17, "Fatima":16}
+qui associe nom et âge de trois élèves.
+Comment accéder à l'âge de Kevin ?
+dico[1]
+dico[Kevin]
+dico["Kevin"]
+dico("Kevin")
+Question B 5
+On définit L = [2,3,5,7,-4].
+
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B 6
+Quelle est la valeur de la variable r à la fin de l'exécution du script suivant ?
+t = (10,6,1,12,15)
+r = t[3] - t[1]
+-9
+
+Thème C : traitement de données en tables
+Question C 1
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 2
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 3
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+
+a = 'matière
+b = 'moyenne'
+a = 0
+b = 1
+a = 1
+b = 0
+
+Question C 4
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Question C 5
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 6
+On a récupéré le contenu d'un fichier CSV contenant le nom, le prénom et l'âge de personnes dans une table
+implémentée par la liste de dictionnaires suivante :
+table = [{"nom": "dupont","prenom": "jean","age": 16},
+{"nom": "durant","prenom": "pierre","age": 15},
+.....
+....
+{"nom": "doe","prenom": "jane","age": 16}]
+Quelle expression représente-t-elle la liste des noms des personnes dont l'âge a pour valeur 16 ?
+[personne[nom] for personne in table if personne[age]==16]
+[personne["nom"] for personne in table if personne["age"]==16]
+[personne["nom"] for personne in table if personne["age"]=16]
+[nom if age==16 for nom,age in table ]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 2
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D 3
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+Question D 4
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 5
+
+Quelle est la balise HTML utilisée pour indiquer un titre de niveau d'importance maximal ?
+la balise <h0>
+la balise <h1>
+la balise <head>
+la balise <header>
+Question D 6
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Lequel de ces systèmes d'exploitation est libre ?
+Linux
+Windows
+MacOS
+iOS
+Question E 2
+Quel matériel permet d'interconnecter des ordinateurs entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+Question E 3
+Quelle est la commande qui permet d’afficher le répertoire courant dans le shell GNU/Linux ?
+mkdir
+pwd
+cd
+ls -l
+Question E 4
+Une et une seule de ces affirmations est fausse. Laquelle ?
+Un système d'exploitation libre est la plupart du temps gratuit
+Je peux contribuer à un système d'exploitation libre
+Il est interdit d'étudier un système d'exploitation propriétaire
+Un système d'exploitation propriétaire est plus sécurisé
+Question E 5
+Parmi les adresses suivantes, laquelle est une adresse Ethernet non valide ?
+8D:A9:D5:67:E6:F3
+8d:a9:d5:67:e6:f3
+8H:A9:D5:67:E6:F3
+FF:A9:D5:67:E6:F3
+Question E 6
+Sur un ordinateur, où est stocké de manière permanente le système d'exploitation ?
+
+dans la mémoire RAM
+sur le bus de donnée
+sur le disque dur ou le disque SSD
+dans le Cloud
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 2
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F 3
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+Question F 4
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F 5
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for i in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F 6
+resultat = [1 * 7]
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+
+Thème G : algorithmique
+Question G 1
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus
+grande valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite
+valeur afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.
+
+Question G 2
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+Question G 3
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G 4
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+
+return i
+return None
+Quel est le coût dans le pire des cas de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique
+
+Question G 5
+liste=[48, 17, 25 , 9, 34, 12, -5, 89, 54, 12, 78, 8, 155, -85]
+def recherche(liste):
+valeur_1 = liste[0]
+valeur_2 = liste[0]
+for item in liste:
+if item < valeur_1:
+valeur_1 = item
+elif item > valeur_2:
+valeur_2 = item
+return(valeur_1, valeur_2)
+Que va renvoyer l'appel recherche(liste) ?
+(-85,155)
+[-85,155]
+(155,-85)
+[155,-85]
+Question G 6
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024

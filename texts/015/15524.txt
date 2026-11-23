@@ -1,0 +1,452 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1911455, "at": "2026-11-23T09:29:21+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Un lieu de baignade
+Sur 4 points
+Partie 1
+Durant l’été 2023 la plage surveillée d’un lac a accueilli 75 600 baigneurs.
+On a collecté les informations suivantes :
+- parmi ces baigneurs 40 % sont des adultes,
+- deux baigneurs sur trois sont de bons nageurs, 5 040 baigneurs ne savent pas
+nager, les autres sont qualifiés de « nageurs moyens »,
+- parmi les baigneurs qui sont de bons nageurs il y a autant d’adultes que d’enfants,
+- les trois quarts des baigneurs qui ne savent pas nager sont des enfants.
+1. Reproduire sur la copie et compléter le tableau suivant.
+« bons
+nageurs »
+Enfants
+Adultes
+
+« non
+nageurs »
+
+« nageurs
+moyens »
+
+Total
+
+3 780
+25 200
+
+Total
+
+30 240
+75 600
+
+Durant l’été 2023, on interroge au hasard un baigneur de ce lac.
+2. Quelle est la probabilité que ce soit un enfant non nageur ?
+3. La personne choisie est un adulte. Quelle est la probabilité que ce soit un bon
+nageur ?
+
+Partie 2 – Étude de fonction
+En eau douce, les risques sanitaires liés à la baignade peuvent être dus à la
+présence de toxines libérées par les algues de la famille des cyanobactéries
+(souvent appelées algues bleues).
+Les autorités sanitaires considèrent que ces toxines deviennent dangereuses pour la
+santé lorsque leur concentration dépasse 40 microgrammes par litre dans les eaux,
+la baignade n’est alors plus autorisée.
+L’eau du lac de baignade est surveillée en permanence.
+Suite aux mesures effectuées sur trois jours consécutifs l’évolution de la
+concentration de toxines dans l’eau de ce lac en microgrammes par litre a été
+modélisée par la fonction 𝐶 définie sur l’intervalle [0; 72] par :
+𝐶(𝑡) = −0,05𝑡 ! + 3,75𝑡 + 7,5
+où 𝑡 désigne le temps écoulé depuis le début de l’étude, exprimé en heures.
+On admet que la fonction 𝐶 est dérivable sur l’intervalle [0; 72] et on note 𝐶′ sa
+fonction dérivée.
+1. Montrer que 𝐶 " (𝑡) = −0,1𝑡 + 3,75.
+2. En déduire les variations de la fonction 𝐶 sur l’intervalle [0; 72]. Interpréter ces
+variations dans le contexte de l’exercice.
+3. Calculer 𝐶(10) et 𝐶(65).
+4. A-t-il été nécessaire d’interdire la baignade lors de cette période ? Justifier la
+réponse.
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Un décret qui fait grand bruit
+Dans un article du site https://www.rtl.fr publié le 01/10/2018, on peut lire :
+« Par décret, à partir d'aujourd'hui, les salles de spectacles, mais aussi les cinémas
+et les festivals vont devoir limiter le maximum de leur volume sonore, en le baissant
+de 105 décibels (c'était jusqu'ici la norme) à 102. C'est donc 3 décibels en moins.
+Cela n'a l'air de rien comme ça, mais cela revient tout de même à diviser par deux
+l’intensité sonore ».
+Cet exercice étudie l’intérêt d’une limitation du volume sonore, notamment dans une
+salle de spectacle.
+
+Document 1 – Vues de surface d'une cochlée de chat avant et après des
+traumatismes auditifs
+La cochlée représente la partie auditive de l'oreille interne. On observe une cochlée
+de chat au microscope électronique à balayage dans différentes conditions.
+Partie de cochlée normale
+On observe une rangée de
+cellules ciliées internes (CCI) et
+3 rangées de cellules ciliées
+externes (CCE).
+
+CCI
+
+Les cellules ciliées sont toutes
+visibles.
+
+CCE
+
+Cils vibratiles des cellules de la CCE
+
+Partie de cochlée après une
+exposition à un son pur de 8
+kHz à 120 dB pendant 20
+minutes
+
+CCI
+
+Les cils vibratiles des cellules
+ciliées internes sont absents
+ainsi que certains des cellules
+ciliées externes.
+
+CCE
+
+Source d’après
+http://www.ipubli.inserm.fr/bitstream/handle/10608/4361/MS_1991_4_357.pdf
+
+1- À partir du document 1 et de vos connaissances, expliquer pourquoi il est
+nécessaire de baisser le niveau sonore dans les salles de spectacles. Une
+réponse argumentée et structurée est attendue.
+
+Document 2. Les protections auditives individuelles
+Lorsque les mesures de réduction
+du bruit à la source et de protection
+collective ne permettent pas de
+réduire suffisamment l’exposition au
+bruit, le recours à des protecteurs
+individuels contre le bruit doit être
+envisagés pour éviter l’apparition
+d’une perte auditive.
+
+Exemples de protections auditives
+Source : d’après Brochure INRS « guide de choix aux protections auditives » 09-2023
+
+Document 3 – Durée d’exposition au bruit
+Ce document indique la durée
+admissible d’exposition quotidienne au
+bruit à différents niveaux d’intensité en
+décibels (dB). Au-dessous de 80 dB, il
+n’y a pas de risque de dégradation
+brutale de l’audition.
+
+Source : d’après https://www.journee-audition.org/pdf/guide-jeunes.pdf
+
+2- À partir de vos connaissances et des documents 2 et 3, expliquer les précautions
+à adopter afin de réduire les risques d’un traumatisme sonore au niveau de l’oreille
+interne en un lieu donné. Une réponse argumentée est attendue.
+3- Les techniciens concluent du document 4 que la nouvelle législation en vigueur
+(décret) sont respectées. Expliquer l’analyse graphique qu’ils ont mené.
+Une spectatrice assiste à ce concert de rock dont elle sait qu’il ne durera pas plus de
+4 h. Elle est placée au plus près de la scène à une distance d’environ 1,0 m. Au bout
+de quelques minutes, elle ressent une gêne auditive et décide de s’éloigner de la
+scène.
+4- À partir des documents 3 et 4, déterminer graphiquement à quelle distance de la
+scène la spectatrice doit se placer pour être sûre de ne subir aucun risque de
+dégradation brutale de son audition.
+
+Document 4. Évolution du niveau sonore en fonction de la distance à la
+scène du concert
+Pendant un concert, les techniciens du son réalisent un contrôle du niveau sonore
+dans la salle. Pour cela, ils mesurent le niveau sonore moyen sur quelques
+minutes en fonction de la distance à la scène. La distance minimale autorisée pour
+les spectateurs est de 1 m. Les mesures sont présentées dans le document 4.
+
+Niveau sonore (dB)
+
+Distance (m)
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+Confinement et atmosphère
+L’activité humaine a des conséquences sur la composition de l’atmosphère,
+notamment parce qu’elle conditionne les émissions de CO2.
+Nous nous proposons ici d’étudier une évolution récente de l’atmosphère durant les
+premiers mois de la crise sanitaire de la Covid 19 et les mesures qui l’ont
+accompagnées.
+
+Document 1 : émissions globales de CO2 en mégatonnes par jour d’origine
+fossile
+Le document présente l’évolution du total des émissions journalières dues à
+l’utilisation de combustibles fossiles, à l’échelle de la Terre, au cours du temps. Les
+parties grisées représentent la marge d’erreur.
+
+5. En s’appuyant sur l’analyse du document 1, préciser comment ont évolué les
+émissions de CO2 de 2000 à 2020, à l’échelle globale de la Terre et proposer une
+hypothèse quant aux causes des variations constatées pendant les premiers mois de
+l’année 2020.
+
+Document 2 : cycle et flux de carbone (en Gt / an)
+
+6. À l’aide de connaissances et en s’appuyant sur le document 2, identifier les deux
+réservoirs de carbone les plus importants et préciser les flux de carbone entre ces
+deux réservoirs.
+7. En effectuant un bilan à partir de données du document 2, montrer que la quantité
+de carbone augmente avec le temps dans l’atmosphère.
+8. Sachant qu’une mole d’essence produit huit moles de CO2, prouver par le calcul
+qu’un kilogramme d’essence produit une masse de CO2 d’environ 3,1 kg, en utilisant
+les données suivantes.
+En première approche, l’équation de la réaction de combustion de l’essence peut
+être assimilée à celle de la combustion de l’octane (C8H18) :
+2 C8H18 (ℓ) + 25 O2 (g)
+
+16 CO2 (g) + 18 H2O (g)
+
+Données : Une mole d’octane C8H18 a une masse de 114,0 g. Une mole de CO2 a
+une masse de 44,0 g.
+9. En déduire la masse de CO2 produite pour une quantité de 2,8.109 kg d’essence
+correspondant à la consommation mondiale journalière sans crise sanitaire.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Les documents 1 à 5, à consulter, sont fournis sur les pages suivantes.
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+2- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des transporteurs GLUT.
+3- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane
+plasmique.
+
+Légendes :
+CW = Paroi ; Mb
+= Membrane
+plasmique ; N =
+Noyau ; V =
+vacuole ; M =
+Mitochondries ;
+Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+Les impacts de la combustion sur l’environnement et la santé
+La combustion de carburants fossiles et de la biomasse libère du dioxyde de carbone
+qui a un impact environnemental majeur.
+
+Il est également reconnu par l’Organisation mondiale de la santé (OMS) que la santé
+publique est impactée par la pollution de l’air. Le Ministère des Solidarités et de la
+Santé estime qu’environ 48 000 personnes décèdent chaque année des effets de la
+pollution de l’air en France.
+On se propose d’étudier la part et les impacts de la combustion de carburants
+fossiles et de biomasse sur la santé humaine.
+Document 1 : Production de dioxyde de carbone lors de la combustion
+de carburants fossiles et de la biomasse
+
+Équation de la réaction
+
+Gaz naturel méthane CH4
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+Essence modélisée par
+l’octane C8H18
+
+2 C8H18 + 25 O2 → 16 CO2 +18 H2O
+
+Biomasse (bois)
+modélisée par C6H10O5
+
+C6H10O5 + 6 O2 → 6 CO2 + 5 H2O
+
+Énergie massique libérée par kg de combustible brûlé :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Énergie massique
+libérée
+
+50 MJ.kg-1
+
+45 MJ.kg-1
+
+17 MJ.kg-1
+
+Masse de CO2 produite pour 1 MJ d’énergie obtenue :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Masse de CO2
+produite
+
+56 g
+
+À calculer à la
+question 5
+
+95 g
+
+Source : d’après J.-C. Guibet, Publications de l’Institut français du pétrole,1997
+et W.-M. Haynes, CRC Handbook of Chemistry and Physics, 2012
+
+4- Indiquer le (ou les) combustible(s) mentionnés dans le document 1 pouvant être
+utilisés comme source(s) d’énergie renouvelable.
+
+5- Calculer la masse d’essence, notée 𝑚#$$#%&# , nécessaire pour obtenir une énergie
+de valeur 1 MJ.
+6- Sachant que la masse d’une mole d’essence est égale à 114 g, vérifier que la
+quantité de matière, notée 𝑛#$$#%&# , présente dans la masse d’essence nécessaire
+pour obtenir une énergie de valeur 1 MJ vaut environ : 𝑛#$$#%&# = 0,2 mol.
+7- À l’aide de l’équation de la réaction modélisant la combustion de l’essence, vérifier
+que la quantité de matière de dioxyde de carbone produite 𝑛'(! est telle que
+𝑛'(! = 8𝑛#$$#%&# . Calculer 𝑛'(! .
+8- La masse d’une mole de dioxyde de carbone étant égale à 44 g, déterminer la
+masse de CO2 libérée dans l’atmosphère par la combustion de l’essence pour
+obtenir une énergie de valeur 1 MJ.
+9- Comparer la masse de dioxyde de carbone émise par MJ produit pour chaque
+combustible du document 1 et indiquer quel est l’impact environnemental majeur du
+dioxyde de carbone.

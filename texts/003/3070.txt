@@ -1,0 +1,387 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1051793, "at": "2026-11-23T09:26:55+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Analyser les principaux protocoles pour un réseau de communication
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la transmission
+de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire
+que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+SUJET SI-E3C-25-07
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 7 à 9
+
+Documents réponses ........................................................................ Pages 10 à 12
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT
+La région Île-de-France représente 40 % du trafic ferroviaire assuré sur 10 % du
+réseau ferré national. On y observe une grande diversité de services et de matériels
+qui cohabitent : entre autres Transilien, TER, TGV, Intercités, trains spéciaux, trains
+de fret.
+Le réseau d’Ile de France est composé de lignes ferroviaires urbaines (métros,
+tramways), et de lignes ferroviaires suburbaines (RER, lignes Transilien). Les zones
+dites denses et très denses se situent dans une zone de 20 km de rayon autour du
+centre de Paris. Le défi de l’exploitation suburbaine en zone dense porte sur le débit,
+le temps de parcours et la qualité de service, et notamment la gestion des aléas.
+Afin de décharger la ligne A du RER, un prolongement d'Eole (ligne E du RER) à
+l'ouest d'Haussmann Saint-Lazare à Mantes-La-Jolie en passant par La Défense
+sera opérationnel à partir de 2024 (Figure 1).
+
+Figure 1 : Carte du prolongement du RER E
+
+Cette solution doit être capable d'assurer la contrainte de 28 trains par heure avec un
+intervalle de temps de 108 secondes entre deux trains. La SNCF va mettre en place
+le système NExTEO sur la section centrale Nanterre - Rosa Parks (Figure 2).
+
+Le système NExTEO permet de
+contrôler 3 tâches :
+- le contrôle de la vitesse ;
+- la réalisation des phases
+d’accélération et de freinage ;
+Figure 2 : Les sections du RER 2024
+
+- et une aide à la gestion des temps de stationnement de gare.
+Les objectifs de la technologie NExTEO ont pour but :
+- l’amélioration de la fréquence, de la vitesse et de la régularité ;
+- l'optimisation d’énergie ;
+- et l’optimisation des infrastructures.
+Le système NExTEO passe d'un espacement de sécurité fixe entre deux trains
+(canton fixe) à un espacement mobile qui s’adapte en temps réel aux conditions de
+circulation et à la vitesse des trains (canton mobile). (Figure 3).
+
+Figure 3 : La gestion des cantons
+
+Au cœur de NExTEO, le nouveau système CBTC (Communication Based Train
+Control) établit une communication continue entre les trains et l’intelligence centrale
+chargée de gérer automatiquement le trafic. L’intelligence centrale actualise en
+temps réel tous les outils d’information des voyageurs. (Figure 4).
+
+Figure 4 : Le système CBTC
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+
+Figure I-1 : Diagramme des exigences partiel du system Nexteo
+
+Problématique : La gestion du flux des trains permet-elle une restitution énergétique
+sur le réseau ? L’objectif est d’analyser le temps de trajet entre 2 gares avec l'effet
+marche sur erre et de valider la quantification énergétique pouvant être récupérée
+sur le réseau.
+Question I-1
+
+En vous aidant de la présentation du système et du diagramme des
+exigences de la figure I-1, analyser et justifier la mise en place du
+système Nexteo.
+
+Nous allons nous interresser ici au temps de trajet entre les stations Haussmann
+Saint-Lazare et Porte Maillot avec l'effet marche sur erre.
+
+Figure I-2 : Section utilisant le système Nexteo
+
+Le profil de vitesse d’un train est généralement découpé en phases dynamiques. Les
+quatre types de mouvements identifiés sont :
+
+la croisière : sans dénivelé, phase mobilisant un effort de traction positif faible et une
+accélération nulle ;
+la marche sur l’erre : sans dénivelé, phase mobilisant un effort de traction nul et une
+accélération négative ;
+l’accélération : sans dénivelé, phase mobilisant un effort de traction positif et une
+accélération positive ;
+le freinage : sans dénivelé, phase mobilisant un effort de traction négatif et une
+accélération négative.
+
+Question I-2
+
+Repérer sur le document réponse DR1 QI-2 les différentes phases
+dynamiques repérées , , , .
+
+Lorsque que le train atteint sa vitesse de croisière il est à 120 km.h-1
+Le train a une accélération constante de a = 0,842 m.s-2
+Le temps de trajet marche sur erre + freinage est estimé à environ 59 secondes
+La distance parcourue pendant la phase de croisière est de 906 mètres
+
+Question I-3
+
+À partir du profil de vitesse donné dans le DR1 QI-2, déterminer le temps
+de trajet entre les deux gares et quantifier l'écart entre le temps estimé et
+le profil de vitesse du train.
+
+Question I-4
+
+Caractériser les grandeurs de flux et d'effort en entrée et sortie du
+motoréducteur sur le document réponse DR1 QI-4.
+
+Question I-5
+
+Dans le tableau du document réponse DR1 QI-5, pour :
+
+La force de traction F ;
+La vitesse du train V ;
+La puissance consommée P ;
+
+Indiquer si la grandeur est positive, négative ou nulle (+, -, 0) pour
+chacune des phases identifiées , , , .
+Dans les cases de la dernière ligne du tableau, indiquer si la récupération
+d’énergie sur le réseau est possible ou non (Oui ou Non).
+Nous souhaitons maintenant déterminer la quantité d'énergie potentiellement
+récupérable sur le réseau. Pour cela, nous nous aiderons des relations suivantes :
+Force de freinage :
+
+F : force de freinage, exprimée en N
+
+𝐹 = 𝑚. 𝛾
+
+M : masse, exprimée en kg
+
+avec :
+
+𝛾 : décélération, exprimée en m.s-2
+Travail de la force de freinage
+F : force de freinage, exprimée en N
+𝐸 = 𝐹. 𝐷
+
+avec :
+
+E : travail, exprimé en Joules
+D : distance de freinage, exprimée en m
+
+Informations complémentaires :
+
+une décélération de 𝛾 = −0,842 m.s-2
+une distance de freinage de D = 960m
+la masse pesante du train à charge moyenne = 675 000 kg
+
+Question I-6
+
+En vous appuyant sur le DR1 et à partir des relations ci-dessus,
+quantifier l’énergie (en kWh) restituable sur le réseau pendant la
+phase de décélération.
+Rappel : 1 joule = 1 W.s
+Conclure quant à l’intérêt d’une telle gestion de flux de trains.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Problématique : Comment répondre au besoin de communiquer et traiter des
+informations entre un train et une intelligence centrale ?
+L’objectif est de valider la communication et le traitement des informations « vitesse,
+position, balise » via une trame GSM-R entre le train et l’intelligence centrale.
+Le nouveau système CBTC établit une communication continue entre les trains,
+l’intelligence centrale, les outils des voyageurs et l'ensemble des équipements du
+réseau (Figures 3 et 4 de la présentation du produit). L’intelligence centrale est
+chargée de gérer automatiquement le trafic des trains en leur communiquant une
+consigne de vitesse et une consigne d'attente en gare.
+La communication entre les trains et l’intelligence centrale, se fait par l’intermédiaire
+de stations situées dans les tunnels. En fonction de la distance et de la forme du
+tunnel les signaux transmis subissent des atténuations. L’aménagement envisagé
+amènera à installer 30 balises à égale distance sur un tronçon de 14 km entre
+Nanterre-La-Folie et Rosa Park.
+Le tunnelier Eole
+possède un diamètre
+de 10,6 m et une
+longueur de 90 m.
+
+Rectangulaire
+
+Ovale
+Karavanke
+
+Figure II-1 : Foreuse du tunnelier – Types de tunnel ferroviaire
+
+Atténuation
+[dB]
+
+Karavanke
+Ovale
+Rectangulaire
+
+Figure II-2 : Atténuation du signal dans le tunnel.
+
+Question II-1
+
+Valider le choix du tunnel ovale en fonction de l’atténuation acceptable de
+-70 dB et de la contrainte de réalisation.
+
+Le GSM-R utilise la technologie TDMA (time division multiple access) permettant
+la division du signal en huit intervalles de temps appelés slots. (Figure II-3).
+
+Figure II-3 : TDMA – (time division multiple access).
+Afin d’augmenter la sécurité, deux mesures de vitesse (en km.h -1) sont réalisées sur
+le train par deux procédés différents (Vitesse 1 : odotachymétrique et vitesse 2 :
+DOPPLER).
+Question II-2
+
+Déterminer les deux vitesses (1 et 2) en m.s-1 transmises à l’intelligence
+centrale puis, vérifier que l’écart de vitesse reste en dessous des 5% de
+part et d’autre de la vitesse réelle de 13 m.s-1.
+
+Question II-3
+
+Déterminer le nombre de bits dans un User Data ainsi que le nombre de
+bits de la trame d’un time slot.
+
+La norme GSM-R spécifie un débit brut de 271 kbits-1, et un débit utile de
+24,7 kbits-1. Les données s’actualisent tous les 8 slots.
+Question II-4
+
+Pour la durée d’émission sur un time slot calculer en kbits-1 le débit brut
+(ou maximal) et pour la durée d’une trame TDMA, calculer le débit utile,
+puis vérifier qu’ils correspondent bien à la norme.
+
+Dans le cadre du cantonnement mobile, l’outil SIMONE vise à simuler l’exploitation
+ferroviaire dans le cadre de scénarios complexes pouvant inclure des trains équipés
+d’un système CBTC, et des trains non-équipés.
+L’outil SIMONE doit permettre d’évaluer la performance d’un système ferroviaire
+dans le cadre de scénarios complexes. Il est codé dans un langage haut niveau et
+flexible (Python). Si la position d’un train « B » en approche d’une gare, où se trouve
+un train « A », devient inférieure à une certaine limite, celui-ci devra ralentir.
+La vitesse du train B envoyée par le CBTC avant freinage est « vitesse0 = 13m.s-1 ».
+Pour une certaine distance entre les trains A et B, le train B reçoit une consigne de
+ralentissement.
+
+Figure II-4 : Positions des trains et occupation de la voie dans SIMONE.
+Question II-5
+
+Déterminer la distance minimale entre les trains « A » et « B » ainsi que
+la nouvelle consigne vitesse en hexadécimale (50 % de vitesse0) émise
+par le CBTC à envoyer au train en km.h-1.
+Compléter l’algorithme permettant de gérer la sécurité sur le document
+réponse DR2 II-5.
+
+L’évolution de l’IHM (Interface Homme/Machine) du NexTEO découle de celui du
+système du TGV. La définition de l’IHM pour le conducteur est un point sensible pour
+deux raisons :
+• Il convient d’éviter toute erreur de représentation ;
+• Toute mauvaise interprétation de l’IHM est source de retard et de surcoût.
+
+Les principes retenus sont :
+• Afficher les seules informations utiles au conducteur ;
+• Reproduire autant que possible les principes d’IHM déjà existant (TGV, TER,
+…) par souci de cohérence (couleurs, sons, zones d’affichage…) ;
+• Utiliser un pas de graduation de l’indicateur de vitesse de 5 km/h.
+Question II-6
+
+A partir de la nouvelle graduation de l’IHM souhaitée compléter les
+fonctions range() sur le document réponse DR2 II-6.
+Conclure sur la validité de la communication et du traitement des
+informations « vitesse, position, balise » via une trame GSM-R entre le
+train et l’intelligence centrale.
+
+DOCUMENTS RÉPONSES
+DR1 QI-2 : Profil de vitesse du train entre les gares porte maillot et Haussmann
+Saint- Lazare
+
+DR1 QI-4 : Chaine de puissance motoréducteur + roue
+
+DR1 QI-5 :
+DR1 QI-5 :
+Phases
+
+
+
+
+
+
+
+F (N)
+V (m.s-1)
+Puissance
+consommée (W)
+Récupération
+d’énergie
+possible ?
+
+
+
+DOCUMENTS RÉPONSES
+DR2 question II-5 : Programme de ralentissement
+
+Note : Abs() est une
+fonction qui calcule une
+valeur absolue d’un nombre
+ou d’une opération.
+
+Début
+positions [0] = input(position_train_A)
+positions [1] = input(
+Si Abs(
+minimale
+Alors vitesse0 =
+.
+Fin Si
+Fin
+
+)
+) < distance
+
+DR2 question II-6 : Programme de graduation de l’IHM
+
+Ligne large
+Ligne medium
+Ligne short
+
+La fonction range() : range (start, stop ,step ou pas)
+start : Numéro de départ de stop : Génère des nombres jusqu'à, mais
+step ou pas : Différence entre
+la séquence.
+sans inclure ce nombre.
+chaque nombre dans la séquence.
+
+Figure II-5 : IHM sur les NexTEO et fonction range()
+
+A compléter :
+#Représentation des grandes graduations
+For i in range ( 0 , 200 , 20 ) :
+draw.line_large(i)
+#Représentation des moyennes graduations
+For i in range ( ..….. , ….... , ……. ) :
+draw.line_medium(i)
+#Représentation des petites graduations
+For i in range ( ..….. , ….... , ……. ) :
+draw.line_short(i)

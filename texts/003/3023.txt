@@ -1,0 +1,460 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1953374, "at": "2026-11-23T09:27:19+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+SUJET SI-E3C-10-09
+
+Constitution du sujet :
+
+Mise en situation …………………………………………………
+
+Exercice n°1 : Étude d'une performance du produit …………Pages 4 à 8
+
+Exercice n°2 : Commande du fonctionnement du produit ….Pages 9 à 12
+
+Documents réponses ……………………………………………..Pages 13 à 15
+
+Page 3
+
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Mise en situation
+Le contexte général
+Les problèmes de stationnement en ville, les émissions de gaz à effet de serre, sans
+compter l’émission de particules fines très nocives liée à l’utilisation de voitures à
+moteur thermique, ont poussé les municipalités de grandes villes à développer
+l’utilisation de moyens de locomotions dits « propres ». Après l’engouement qu’a
+suscité la location des vélos dans l’agglomération Lyonnaise avec le service « Vélo’v
+», la municipalité a permis à des opérateurs d’offrir un service de location de
+trottinettes. Le succès ne s’est pas fait attendre, posant malgré tout un certain nombre
+de difficultés, notamment en termes de collisions avec des piétons. L’autonomie des
+batteries n’étant pas très élevée, les trottinettes sont souvent abandonnées ici et là
+dans la ville, ce qui ne facilite pas leur récupération.
+
+Données technique de la trottinette
+- Dimensions : 94 x 13,5 x 116 (cm)
+- Moteur intégré à la roue : 350 W Brushless
+- Batterie Tension et capacité : lithium-ion 36V, 8,8 A·h
+- Vitesse maximale: 25 km·h-1
+- Autonomie : jusqu’à 30 km
+- Temps de charge : de 2 à 4 h
+- Poids net (produit) : 13 kg
+- Roues AV et AR : 9" (diamètre 22,86 cm)
+- Charge maximale : 100 kg
+Afficheur
+
+Poignée de frein
+Moteur-roue 9 pouces
+
+Phare
+avant
+
+Feu de
+signalisation
+arrière
+
+Scan du
+QR code
+
+Application Smartphone
+de l’opérateur
+Emplacement des batteries 8.8 A.h
+36V
+
+Bouton accélérateur
+
+Figure 1 : Description de trottinette de location
+
+Mode d’emploi de la trottinette de location
+Lorsqu’un usager veut louer une trottinette, il télécharge l’application de l’opérateur sur
+son Smartphone, et s’inscrit au service de location. Il peut localiser l’emplacement des
+trottinettes disponibles. Une fois la trottinette trouvée, il peut la déverrouiller, via une
+communication Bluetooth, en scannant son QR code, présent sur le guidon.
+L’utilisateur sera facturé d’une somme correspondant à un forfait de location et un
+temps d’utilisation.
+
+EXERCICE 1 – Étude d'une performance du PRODUIT
+Contexte : L’agglomération Lyonnaise (figure 1) a un relief varié. L’Est est
+relativement plat. Il en est de même pour le secteur de la presqu’île entre Saône et
+Rhône. Le 4ème arrondissement est constitué essentiellement par le plateau de la Croix
+Rousse. Le 5ème (colline de Fourvière), le 9ème ainsi que le 1er (pentes de la CroixRousse) ont des dénivelés importants, on peut y rencontrer des pentes dépassant les
+20%.
+
+Distance 6 km
+Altitude 249 m
+Plateau de la Croix
+Rousse
+
+Mairie du 4éme
+
+Trajet t1
+
+r
+
+Distance 4,5km
+Altitude 170m
+Bas de la pente de la
+Croix Rousse
+
+Musée ede la 8
+Confluence m
+
+Figure 1 : Carte de l’agglomération
+Lyonnaise - Tracé du trajet t1
+
+Musée de la
+confluence
+Départ altitude 167m
+
+Mairie du 4ème
+arrondissement
+Arrivée 6,5km
+Altitude 252m
+
+Figure 2 : Dénivelé du trajet t1
+
+En prenant comme trajet de référence t1, celui qui mène du musée de Confluence à
+la mairie du 4éme arrondissement (Figure 1), l’opérateur, louant les trottinettes souhaite
+vérifier à l’aide d’un modèle multi-physique que la trottinette est capable d’effectuer le
+trajet sans recharge.
+
+Problématique : L’utilisateur de la trottinette, peut-il effectuer un aller/retour sur
+le trajet t1, avec une batterie pleinement chargée ?
+
+Afin de créer un modèle multi-physique du comportement énergétique de la trottinette,
+les hypothèses suivantes ont été faites :
+
+la masse m de l’utilisateur et de sa trottinette est de 83 kg pour une taille
+de 1 m 80 ;
+la masse volumique de l'air est égale à 1,2 kg·m-3 ;
+la surface de traînée (S × Cx) est égale à 0,45 m2 ;
+le coefficient de résistance au roulement Cr est égal à 0,015 ;
+
+Trois forces s’opposent au déplacement de l’utilisateur et de sa trottinette (figure 3)
+ La résistance à la pénétration dans l’air FTraînée (en N) :
+
+FTraînée =
+
+× ρ × S × Cx × V2
+
+Avec :
+
+
+
+- ρ : masse volumique de l'air en kg·m-3
+- S : surface de référence en m²
+- CX : coefficient aérodynamique
+- V : vitesse de déplacement en m·s-1
+La résistance au roulement FRoulement est la force résistante due au roulement
+des pneus sur la chaussée. Elle dépend du coefficient de résistance au
+roulement Cr et de la masse supportée :
+
+FRoulement = Cr × m × g
+
+
+La composante du poids (trottinette + utilisateur) en projection sur le sol (en
+montée avec une pente d’angle 𝛼) s’oppose au déplacement :
+
+FPoids = m × g × sin 𝛼
+
+⃗⃗⃗⃗
+𝑍0
+
+Un essai dans une pente de 3% avec un
+utilisateur d’une masse de 70 kg à une
+vitesse de 5,38 m·s-1, montre que
+l'intensité de la force de trainée est de
+9,2 N, celle des frottements des roues au
+sol est de 12,21 N et que la force résistante
+liée au poids est de 24,5 N.
+
+Fmotrice
+FTrainée
+
+G
+
+F
+Froulement 𝒑𝒐𝒊𝒅𝒔
+
+⃗P.
+
+α
+⃗⃗⃗⃗0
+𝑋
+
+Figure 3: Bilan des actions
+mécaniques
+Question I.1
+Figure 3
+
+Question I.2
+DR 1
+
+Déterminer la norme de la force motrice ⃗Fmotrice que doit
+développer la roue pour vaincre ces 3 forces résistantes. Calculer la
+puissance que doit développer le moteur pour ce point de
+fonctionnement.
+Sur le document réponse DR1, représentant le modèle multiphysique de la trottinette, identifier les blocs modélisant ⃗Ftrainée ,
+⃗FRoulement et ⃗FPoids . Justifier que C = 0,27 dans le bloc 3.
+
+Alimenter
+
+Distribuer
+
+Convertir
+
+Transformer
+
+Batterie
+36V
+8.8 A.h
+
+Variateur
+
+moteur
+Brushless
+350W
+
+Roue Motrice
+9 pouces
+
+Figure 4 : Chaîne de puissance de La trottinette électrique
+
+Question I.3
+Figure 4
+
+Pour chaque repère (de 2 à 4) de la chaîne de puissance (figure 4),
+donner le nom, la nature de la puissance transmise, et les variables
+d’effort et de flux associées. Pour cela, recopier et compléter le
+tableau ci-dessous.
+
+Repère
+
+Domaine physique
+
+Variable d’effort
+
+Variable de flux
+
+Électrique
+
+Tension (V)
+
+Courant (A)
+
+On donne dans le tableau du document réponse DR2 le courant délivré par la batterie
+et la vitesse de la trottinette fournie par la simulation pour les phases de montée d’une
+pente à 5,3% et 0,6%. Les temps de trajet ainsi que l’énergie délivrée par la batterie
+sont calculés.
+On admettra que la tension de la batterie Ubat reste égale à 36 V durant l’intégralité du
+trajet.
+Question I.4
+Figures 2 et 4
+DR 2
+
+À partir des courbes figure 4, compléter le tableau du document
+réponse DR2 pour une pente à 0% qui mène du musée de la Confluence
+au bas des pentes de la Croix Rousse (hors phase de démarrage).
+Calculer l’énergie totale délivrée au cours du trajet t1 ainsi que la
+proportion de l’énergie consommée E%Croix_Rousse dans les pentes de la
+Croix-Rousse par rapport à la consommation totale du trajet Ebat.
+
+La prise en compte, dans le modèle multi-physique, des nombreux démarrages sur ce
+parcours, fait apparaitre que l’énergie prélevée dans la batterie Etotale est de 480 kJ,
+dont la moitié dans les pentes de la Croix Rousse.
+Question I.5
+
+Énoncer l'hypothèse que l'on peut formuler sur la quantité d'énergie
+consommée lors de la descente.
+
+Question I.6
+
+Sachant que l’on ne peut utiliser que 80% de l’énergie contenue dans
+la batterie, conclure sur la problématique : « L’utilisateur de la
+trottinette, peut-il faire un aller/retour sur le trajet t1, avec une batterie
+chargée ? ». Calculer l'écart entre l'autonomie réelle de la batterie
+sur ce type de trajet et celle annoncée par le constructeur.
+
+Démarrage de la trottinette
+Courant de la batterie Ibat(A)
+
+Puissance fournie par la batterie Pbat(W)
+
+Vitesse de la trottinette en m·s-1
+
+temps (s)
+
+Figure 4 : Courbes obtenues à partir du modèle multi-physique pour une pente
+de 0%
+
+EXERCICE 2 - COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Les trottinettes électriques en libre-service dans l’agglomération de Lyon sont de plus
+en plus nombreuses et parfois louées par des utilisateurs non expérimentés. Dans
+certaines zones particulièrement fréquentées par des piétons, il convient de limiter les
+risques de collision. La ville souhaite limiter la vitesse des trottinettes à 8 km·h-1 dans
+les zones piétonnes et 25 km·h-1 ailleurs.
+Problématique : Comment adapter la limitation de vitesse de la trottinette en
+fonction de la zone dans laquelle elle est utilisée ?
+La commande de vitesse de la trottinette est un bouton rotatif situé à la hauteur du
+pouce droit (figure 5) sur le guidon. Ce bouton a une course angulaire de 68° (figure
+6). Un capteur à effet Hall associé au bouton permet de délivrer une tension Vc en
+fonction de l’angle α de déplacement. La caractéristique de ce capteur est donnée
+figure 7.
+
+Des mesures ont permis de tracer la caractéristique de la vitesse de rotation du
+moteur-roue en fonction de la tension de commande du variateur Vv (figure 8).
+
+Question II.1
+Figure 8
+
+Déterminer la fréquence de rotation de la roue pour une vitesse de la
+trottinette de 8 km·h-1. En déduire la valeur de la tension de
+commande
+Vv 8km.h-1 pour obtenir cette vitesse.
+
+On donne ci-dessous la loi de conversion Numérique Analogique (CNA) qui convertit
+Nv, la consigne de vitesse établie par le microcontrôleur de la carte, en V v, la tension
+de commande du variateur :
+𝑉𝑉 =
+
+× 𝑁𝑣 ↔ 𝑁𝑣 =
+× 𝑉𝑣
+
+La communication entre le microcontrôleur et le CNA utilise le protocole UART-série.
+
+La valeur transmise ici est (01011001)2 soit (89)10.
+
+Question II.2 Calculer la valeur Nv8km.h-1 que doit transmettre le microcontrôleur au
+CNA pour obtenir une vitesse de la trottinette de 8km·h-1. Représenter
+DR 3
+sur le chronogramme du document réponse DR3 l’allure de la trame
+transmise par le microcontrôleur.
+
+Protocole de Conversion Analogique Numérique
+
+ Lorsque le microcontrôleur veut acquérir l’information αnum il envoie une commande
+CS au CAN (Convertisseur Analogique Numérique).
+ Celui-ci réalise la conversion, et transmet l’information sur 10 bits par liaison
+parallèle
+ Puis il valide la conversion du signal EOC.
+La loi de conversion du CAN est donnée ci-dessous :
+𝛼𝑛𝑢𝑚 =
+
+Question II.3
+Figure 7
+DR4
+
+1024
+× 𝑉𝑐
+
+Déterminer la valeur binaire numérisée par le CAN pour un angle de
+rotation du bouton de 40°. Représenter sur le document réponse
+DR4 (étape ) la valeur des 10 bits de données présents sur la
+liaison parallèle. B0 est le bit de poids faible.
+
+Une variable Zp (présence de la trottinette dans la zone piétonne) est calculée à partir
+des données GPS, la figure 10 décrit les lois de commande dans les différents cas :
+
+ZP = 1 : trottinette présente dans la zone piétonne
+ZP = 0 : trottinette en dehors d’une zone piétonne.
+
+Question II.4 Compléter sur le document réponse DR5 les colonnes αnum, Nv et Vv,
+permettant d’associer une consigne de vitesse V v en fonction de la
+Figure 7
+tension Vc délivrée par le capteur du bouton accélérateur et la variable
+Figure 10
+Zp.
+DR5
+
+Établir l'algorithme de calcul de Nv dans le cas où Zp = 1.
+
+Vtrottinette (km·h-1)
+
+Vtrottinette pour Zp=0
+Vtrottinette pour Zp=1
+
+Vc (V)
+
+Figure 10 : Lois de commande de la vitesse en fonction de la tension Vc et de
+la variable Zp
+
+Question II.5
+DR6
+
+Question II.6
+
+Dans le cas où la trottinette se trouve en zone piétonne, déterminer
+la valeur Nv à ne pas dépasser pour une consigne de vitesse
+Vtrottinette_Zone_Piétonne de 8 km·h-1. Compléter l’algorigramme du
+document réponse DR6 permettant d’obtenir la commande en vitesse
+du moteur.
+
+Conclure sur la conformité de la solution proposée par rapport à la
+problématique énoncée : « Comment adapter la limitation de vitesse
+de la trottinette en fonction de la zone dans laquelle elle est
+utilisée ? »
+
+DOCUMENTS RÉPONSES
+DR1, question I.2
+
+Masse trottinette +
+utilisateur 83 kg
+
+pente en %
+
+Bloc 1
+
+Bouton accélérateur
+
+Bloc 2
+
+Bloc 3
+
+Application des
+forces résistantes
+Force motrice
+
+Variateur
+Moteur+ roue
+
+DR2, question I.4
+
+DR 3 : Question II.2
+
+DR 4 : Question II.3
+
+DR 5 : Question II.4
+
+DR 6 : Question II.6

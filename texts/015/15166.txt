@@ -1,0 +1,353 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1710453, "at": "2026-11-23T09:30:35+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le sang des glaciers
+L’expression « Le sang des glaciers » désigne le rosissement des glaciers par une
+espèce d’algues des neiges. Nous nous intéresserons dans une première partie à
+l’énergie solaire reçue par la Terre et au phénomène de l’albédo, puis dans une
+seconde partie nous chercherons à comprendre en quoi ce type d’algues peut
+contribuer au réchauffement climatique.
+
+Partie A – Comprendre l’albédo
+Document 1 – Modélisation permettant le calcul de la puissance rayonnée
+À une distance donnée du Soleil, la totalité de la
+puissance émise par le Soleil se trouve
+uniformément répartie sur une sphère de rayon égal
+à cette distance.
+La puissance surfacique 𝑃𝑆 reçue par chaque point
+de la sphère imaginaire est donc donnée par la
+formule suivante :
+PS =
+
+PT
+, exprimée en W · m−2
+S
+
+Avec 𝑃𝑇 la puissance totale du soleil qui vaut 3,87 × 1026 W et 𝑆 la surface de la
+sphère imaginaire.
+Sur le schéma ci-contre, la Terre et le Soleil ne sont pas représentés à l’échelle.
+On rappelle que l’aire d’une sphère de rayon 𝑅 est 𝑆𝑠𝑝ℎè𝑟𝑒 = 4𝜋𝑅 2 et que l’aire d’un
+disque de rayon 𝑅 est 𝑆𝑑𝑖𝑠𝑞𝑢𝑒 = 𝜋𝑅 2 .
+1- Montrer par le calcul, à l’aide du document 1, que la puissance solaire 𝑃𝑆 reçue
+par mètre carré à la distance 𝐷 du Soleil est environ de 1 370 W ∙ m−2 .
+
+La puissance surfacique précédente correspond à celle qui est interceptée par un
+disque de rayon 𝑅. Pour un bilan sur Terre, cette puissance se répartit à la surface
+d’une sphère de même rayon 𝑅.
+2- En vous aidant du document 1, montrer que la puissance solaire moyenne reçue
+par unité de surface sur Terre vaut 342 W · m−2.
+
+Document 2 – Bilan radiatif
+La puissance solaire qui est reçue par la Terre peut être réfléchie, absorbée,
+réémise.
+Le schéma ci-dessous présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère et de la surface terrestre.
+
+Source : d’après l’auteur
+
+Document 3 – Albédo
+L'albédo A d'une surface permet d’évaluer l’effet de réflexion de la lumière
+incidente par une surface. C’est le rapport entre la puissance de rayonnement
+réfléchie par une surface (P réfléchie) et la puissance de rayonnement incident sur
+cette même surface
+(P incidente).
+L’albédo A est une valeur sans
+unité, comprise entre 0 et 1.
+𝐴=
+
+𝑃réfléchie (W · m−2 )
+𝑃incidente (W · m−2 )
+
+Moins le rayonnement incident est réfléchi, plus la surface chauffe.
+Source : https://planet-terre.ens-lyon.fr
+
+3- À l’aide des documents 2 et 3, montrer que l’albédo terrestre moyen qui
+correspond à l’albédo de l’ensemble {atmosphère + surface de la Terre} vaut
+environ 0,3.
+4- En vous appuyant sur le document 3 et sur vos connaissances, citer deux
+phénomènes qui peuvent contribuer à déséquilibrer le bilan radiatif et entrainer
+un réchauffement climatique. Justifier votre réponse.
+Partie B – Origine et conséquences de la couleur rose des glaciers
+Les algues des neiges sont des algues unicellulaires
+capables de vivre à une température d’environ 0 °C.
+La plus courante d’entre elles est la Chlamydomonas
+nivalis (observée au microscope optique sur la
+photographie ci-contre). C’est une algue verte qui en
+plus de la chlorophylle, contient un pigment rouge de
+type caroténoïde à l’origine de la coloration rose-clair
+des glaciers. Cet organisme, d’une teinte rose-clair,
+remonte à la surface, en été, pour pouvoir accéder à
+l’eau liquide et se multiplie activement.
+Source : d’après https://www.semanticscholar.org/
+
+Document 4 – Identification du métabolisme de cet organisme
+De la glace rose contenant des Chlamydomonas nivalis est fondue et placée dans
+une enceinte hermétique. Les teneurs en dioxygène et en dioxyde de carbone
+dans l’eau sont relevées sous différentes conditions d’éclairement. Le graphique
+ci-dessous présente l’évolution des teneurs en dioxygène et dioxyde de carbone
+dans de l’eau contenant Chlamydomonas nivalis.
+
+Source : Bac S SVT 2017 Afrique
+
+5- À partir de l’étude du document 4 et de vos connaissances, montrer que
+Chlamydomonas nivalis est un organisme photosynthétique.
+Document 5 – Mesure de l’albédo de glace présentant différentes teintes
+On a mesuré l’albédo de la glace non colorée ainsi que de la glace colorée par
+différents colorants.
+Surface
+
+Albédo
+
+Glace non colorée
+Glace rose
+Glace verte
+Glace bleue
+
+0,60
+0,42
+0,52
+0,48
+Source : D’après l’auteur
+
+6- D’après l’étude des documents 3 et 5, expliquer en quoi la présence de
+Chlamydomonas nivalis peut être une menace pour les glaciers d’altitude.
+7- Ce type d’algues de neige s’observe également au niveau des zones polaires.
+Justifier le fait que les algues des neiges peuvent contribuer au réchauffement
+climatique.
+
+Exercice 2 – Niveau première
+Thème « Son, musique et audition »
+
+Les paramètres du son
+Les parties 1 et 2 peuvent être traitées indépendamment l’une de l’autre.
+La partie 3 est une argumentation s’appuyant sur les parties 1 et 2.
+Partie 1 – Masse et fréquence
+On dispose de trois marteaux M1, M2 et M3 de masses respectives m1 = 0,24 kg,
+m2 = 0,48 kg et m3 = 1,44 kg.
+L’expérience consiste à les laisser tomber sur une enclume. Un logiciel d’acquisition
+enregistre le signal sonore émis.
+On désigne respectivement par f1 , f2 et f3 les fréquences fondamentales des sons
+émis par les marteaux M1, M2 et M3 lors de l’expérience.
+Document 1 – Spectre des fréquences des sons émis lors de la chute des
+marteaux
+
+Spectre du son obtenu avec le marteau 1
+
+Spectre du son obtenu avec le marteau 2
+
+Spectre du son obtenu avec le marteau 3
+
+1- Lire sur le document 1 les fréquences fondamentales f1 , f2 et f3 des sons émis
+lors de l’expérience et noter leurs valeurs sur la copie.
+2- Comparer ces fréquences. La masse du marteau influe-t-elle sur la fréquence
+fondamentale du son émis ?
+3- Comment qualifie-t-on le son du spectre 2 ? Justifier.
+4- Comment qualifie-t-on le son des spectres 1 et 3 ? Justifier.
+5- Grâce à vos connaissances, déterminer si l’humain est capable de détecter les
+fréquences produites par le marteau 3.
+
+Document 2 – Schéma d’une oreille humaine
+
+Source : www.audition.fr
+
+6- Présenter comment l’humain parvient à détecter un son. Le document 2 est une
+aide mais n’a pas pour but d’être analysé.
+Partie 2 – Tension et fréquence
+Dans cette partie, on tend une corde de longueur quelconque à l'aide d'une masse
+variable 𝑚.
+
+On a relevé dans le tableau ci-dessous les fréquences fondamentales obtenues en
+pinçant la corde :
+Masse (en kg)
+
+8,070
+
+9,990
+
+11,110
+
+Fréquence (en Hz)
+
+7- Peut-on affirmer que la fréquence fondamentale du son est proportionnelle à la
+masse utilisée pour tendre la corde ? Justifier par la méthode de votre choix.
+Partie 3 – Analyse d’un texte
+Voici un extrait du Commentaire au songe de Scipion écrit par Macrobe aux
+alentours de 400 après JC.
+« [...] la diversité des sons, indépendante des hommes, correspondait aux marteaux.
+Alors il mit tout son soin à en évaluer le poids, et après avoir noté la différence de
+poids qui caractérisait chacun il fit fabriquer des marteaux de poids différents, en plus
+ou en moins ; les sons produits par leurs coups ne ressemblaient en rien à ceux
+d’avant et ne s’accordaient plus aussi bien. Il constata alors que l’harmonie sonore
+était réglée par les poids, et après avoir relevé les nombres qui définissaient la
+diversité bien accordée de ces poids, il passa des marteaux à l’examen des
+instruments à cordes : il tendit des boyaux de mouton ou des nerfs de bœuf en y
+attachant des poids aussi variés que ceux qu’il avait découverts à propos des
+marteaux, et il en résulta bien le genre d’accord que lui avait fait espérer son
+observation antérieure, à laquelle il ne s’était pas livré pour rien. »
+Commentaire au songe de Scipion, II, 1, 9-13
+
+8- En quelques lignes, émettre une critique scientifique détaillée des affirmations
+contenues dans le Commentaire au songe de Scipion, en vous appuyant sur les
+résultats obtenus dans les parties 1 et 2.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or : exploitation et conséquences sanitaires
+L’objectif de cet exercice est d’étudier la structure cristalline de l’or puis de
+comprendre en quoi l’exploitation de l’or peut favoriser le développement de troubles
+neurologiques dans les populations humaines.
+Partie 1 – La structure d’un minerai aurifère
+La région d’Ontario au Canada présente de nombreuses mines et notamment des
+mines d’or, dont la mine Red Lake. C’est de cette mine qu’a été extrait le minerai cidessous. Ce minerai est un basalte tholéiitique métamorphisé, dans lequel sont
+inclus du quartz et de l’or.
+D’après https://en.wikipedia.org/wiki/Red_Lake_Mine
+
+Document 1 – Morceau de minerai extrait dans la mine Red Lake (6,6 cm pour
+son diamètre le plus large) et modélisation de sa composition
+
+Sources : d’après Wikipedia.org, Libmol.org et http://www.macromicrophoto.fr/petrography
+
+1- En vous aidant des propositions ci-dessous et en effectuant un choix, associer la
+légende adéquate à chacune des lettres A, B, C et D du document 1.
+
+maille
+
+atome
+
+cristal
+
+molécule
+
+cellule
+
+roche
+
+2- Dans ce minerai, identifier la ou les parties cristallines et la ou les parties
+amorphes parmi les éléments A à F. Justifiez votre réponse à l’aide du
+document 1 et de vos connaissances.
+3- Pour séparer l’or des autres éléments après broyage on peut utiliser leur
+différence de masse volumique. À l’aide du tableau ci-dessous, justifier qu’une
+fois en poudre, l’or peut être séparé du quartz. On rappelle la formule permettant
+de calculer la masse volumique 𝜌 à partir de la masse 𝑚 et du volume 𝑉 de
+l’échantillon :
+𝑚
+𝜌=
+𝑉
+Document 2 - Les mailles du quartz et de l’or
+Quartz
+
+Or
+
+SiO2
+
+Au
+
+Forme de la maille
+
+Hexagonale
+
+Cubique
+
+Masse de la maille
+
+3,0. 10−25 kg
+
+1,3. 10−24 kg
+
+Volume de la maille
+
+1,3. 10−28 m3
+
+6,7. 10−29 m3
+
+Formule
+
+Partie 2 – Conséquences sanitaires de l’exploitation d’or
+L’extraction de l’or nécessite d’utiliser de grandes quantités de cyanure et de
+mercure. Chez les adultes, les effets d'une exposition importante au mercure se
+remarquent par des symptômes affectant le système nerveux : des tremblements et
+des pertes de capacités sensorielles, avec notamment la perte de coordination entre
+les cellules musculaires et nerveuses, des troubles de la mémoire, et des déficiences
+intellectuelles. Le mercure est considéré par l’Organisation Mondiale de la Santé
+(OMS) comme l’un des dix produits chimiques ou groupes de produits chimiques
+extrêmement préoccupants pour la santé publique.
+
+Document 3 – Les effets du méthylmercure sur les êtres vivants
+Le cyanure et le mercure, utilisés sans précaution pour l’extraction de l’or,
+contaminent les sols et les nappes phréatiques à jamais. Même après la fermeture
+des mines, les gravats traités au cyanure génèrent pendant des décennies des
+acides sulfuriques toxiques.
+Le mercure peut se transformer dans l'environnement en méthylmercure. Ce
+méthylmercure tend à s'accumuler dans les eaux et dans les espèces aquatiques.
+[…]
+Le méthylmercure a la capacité de provoquer une réaction chimique dégradant les
+[molécules de] phospholipides qui constituent la membrane plasmique. Le
+méthylmercure peut pénétrer dans la cellule à travers ces membranes et peut se
+fixer sur certains organites notamment les mitochondries, et sur des protéines
+cytoplasmiques, dont le fonctionnement est alors altéré. Les cellules nerveuses
+sont particulièrement touchées.
+Source : D’après Segall H.J., Wood J.M.(1974). Reaction of methyl mercury with
+plasmalogens suggests a mechanism for neurotoxicity of metal-alkyls. Nature, 248 : 456-8
+
+Document 4 – Suivi microscopique de la croissance de cellules nerveuses dans
+différentes conditions (sans et avec exposition au méthylmercure)
+La même cellule nerveuse est suivie,
+dans différentes conditions
+environnementales.
+
+a – Avant exposition au méthylmercure.
+
+b– Après une exposition de
+10 minutes au méthylmercure.
+
+c – Après une exposition de
+40 minutes au méthylmercure.
+
+La barre d’échelle visible en bas à droite des photographies mesure 30 µm.
+La flèche noire permet de comparer un même point sur chaque image.
+Source : D’après Retrograde degeneration of neurite […] in vitro exposure to mercury,
+Christopher C. W., Leong et al. – NeuroReport – Décembre 2000
+
+4- À partir de l’exploitation des documents et de vos connaissances :
+4-a- Sur votre copie, indiquer dans la liste ci-dessous le ou les éléments des
+différentes échelles de l’organisme qui sont altérées par le méthylmercure.
+Justifier.
+a. atome
+b. molécule
+c. organite
+d. cellule
+e. organisme
+4-b- Rappeler le rôle de la membrane plasmique dans le fonctionnement
+cellulaire normal, puis expliquer comment le méthylmercure le modifie et
+provoque les symptômes nerveux présentés par les individus fortement exposés
+au mercure. Une réponse argumentée structurée est attendue. Elle ne doit pas
+excéder une page.

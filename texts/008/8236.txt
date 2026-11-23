@@ -1,0 +1,208 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1319207, "at": "2026-11-23T09:33:50+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE :
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : --2h-Niveaux visés (LV) : LVA
+
+LVB
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 - Un service de streaming musical
+Sur 10 points
+
+Le 10 Juillet 2020, une application de streaming musical a été perturbée par un
+problème de bug logiciel.
+1- Après avoir rappelé ce qu’est un bug, indiquer ses conséquences sur un
+programme informatique.
+Au moment de se connecter au service de streaming musical, on proposait à
+l’utilisateur de se connecter soit avec le réseau social R, soit avec un compte de
+messagerie M, soit en s’inscrivant à l’aide d’un autre compte.
+Le résultat du choix de l’utilisateur est stocké dans la variable « resultatclic », puis
+est passé en paramètre de la fonction prête-à-l ’emploi « connexionavec( ) ».
+Voici un extrait de l’algorithme qui devait permettre de gérer cette opération.
+Cependant l’algorithme ne pouvait pas fonctionner car cet extrait contient un ou des
+bugs.
+L1
+L2
+L3
+L4
+L5
+L6
+
+2- Pointer le(s) bug(s) en citant la (ou les) ligne(s) suspecte(s) et en la (ou les)
+réécrivant.
+Chaque fois qu’un utilisateur se connecte à cette application de streaming musical en
+utilisant un compte R, un fichier texte est enregistré sur les serveurs de ce dernier. Il
+indique le jour et l’heure de sa connexion, son identifiant, le lieu où il se trouve et le
+système d’exploitation qu’il utilise.
+Voici un exemple de fichier enregistré, il contient 30 caractères :
+
+08/12/2020
+8 pm
+Élise
+Paris
+Système
+
+En moyenne, pour chaque utilisateur, le fichier texte enregistré a la taille du fichier
+texte donné en exemple.
+
+Le réseau R compte 2,7 milliards d’utilisateurs. Dans la même journée 3% d’entre
+eux se connectent à cette application de streaming musical en utilisant leur
+compte R.
+3- Calculer la taille moyenne de l’ensemble des fichiers textes enregistrés sur le
+serveur durant cette journée, liés à la connexion à cette application.
+Cette application possède une intelligence artificielle, notée IA, que l’on souhaite
+entraîner afin qu’elle identifie les goûts musicaux des utilisateurs. Par exemple, on
+décide de l’entraîner pour identifier un utilisateur qui écoute ou qui n’écoute pas du
+rap.
+4- Choisir en le justifiant, parmi les deux jeux de données proposés, celui qui
+permettra à l’intelligence artificielle de distinguer un utilisateur écoutant du rap, d’un
+autre utilisateur.
+1er jeu de données
+
+2ème jeu de données
+
+Rap conscient
+Reggae
+Rock
+Rap égotrip
+Rap poétique
+Rap hardcore
+Jazz
+Rap commercial
+Blues
+
+Rap poétique
+Jazz
+Rap conscient
+Blues
+
+Après avoir fourni un grand nombre de profils d’utilisateurs d’entraînement à
+l’intelligence artificielle, ses résultats sont les suivants :
+- Sur 100 utilisateurs écoutant du rap, l’IA a reconnu le profil utilisateur de 98
+d’entre eux.
+- Sur 150 utilisateurs n’écoutant pas de rap, l’IA n’a pas reconnu le profil
+utilisateur de 5 d’entre eux.
+5- Recopier et compléter le tableau de contingence associé à cette expérience à
+cette étape de l’entraînement.
+Réponse de l’IA
+Rap
+Autres styles
+Réponse de
+l’utilisateur
+
+Total
+
+Rap
+Autres styles
+Total
+
+6- Un nouvel utilisateur est présenté à l’IA. L’IA qualifie ce nouvel utilisateur
+d’amateur de Rap. Calculer la probabilité, arrondie au centième, que ce résultat de
+l’IA soit correct.
+Fin de l’exercice
+
+Exercice 2 - Réchauffement climatique et pêche au
+carrelet
+Sur 10 points
+
+La préfecture de Charente-Maritime annonce,
+fin 2020, la mise en vente de onze
+emplacements permettant la réalisation de
+pontons de pêche au carrelet sur 6 communes
+du littoral. La pêche au carrelet utilise un filet
+mis à l'eau à partir d’une cabane sur pilotis.
+Ces petites cabanes en bois perchées, construites sur les rochers ou la vase
+des zones côtières, font partie du patrimoine de Charente-Maritime et sont
+très recherchées. Elles transmettent souvent de génération en génération.
+D’après Franceinfo.fr / octobre 2020
+
+On cherche à comprendre les conséquences du réchauffement climatique sur
+le niveau marin et son impact sur le littoral, en particulier concernant la pêche
+au carrelet.
+
+Document 1 : variation du niveau des océans par dilatation thermique
+L’un des indicateurs du réchauffement climatique global est l’élévation du
+niveau marin. L’une des causes de cette augmentation est la dilatation
+thermique de l’eau.
+On peut modéliser les océans par un parallélépipède comme sur le schéma cidessous.
+
+H= 300 à 500 m
+
+Seule la couche superficielle (de hauteur H = 300 à 500 m sur le schéma) est
+en fait sensible au réchauffement et donc impactée par cette dilatation
+thermique.
+On peut modéliser l’élévation du niveau marin (notée h sur le schéma) grâce à
+la formule suivante :
+h = a x H x DT
+avec a = coefficient de dilatation thermique et DT = variation de température
+
+Document 2 : scénarios du GIEC et projections climatiques
+
+Augmentation moyenne du niveau marin (m)
+
+Le 5ème rapport du GIEC (Groupe d'experts intergouvernemental sur l'évolution
+du climat) propose plusieurs scénarios, établis à l’aide de modélisations
+climatiques, en fonction du forçage radiatif estimé. Le scénario RCP 8.5
+(forçage de 8,5 W.m-2) est le plus pessimiste, mais c’est un scénario tout à fait
+envisageable car il correspond à la poursuite des émissions actuelles de gaz à
+effet de serre.
+
+Année
+
+Le graphique ci-dessous montre les prédictions de l’élévation du niveau marin
+(en m) dans le scénario RCP 8.5 d’ici à 2100.
+RCP (Representative Concentration Pathways) : profils représentatifs d'évolution de
+concentration de gaz à effet de serre
+D’après Yale Climate connections.
+
+1- Les scénarios RCP du GIEC prennent en compte les émissions anthropiques de
+gaz à effet de serre : citer deux des principaux gaz à effet de serre ainsi qu’une
+source liée à l’activité humaine pour chacun d’eux.
+2- Expliquer en quoi l’augmentation de la concentration des gaz à effet de serre
+provoque un réchauffement climatique.
+3- Dans le scénario RCP 8.5, on peut estimer qu’à l’horizon 2100, l’augmentation de
+la température moyenne des océans (DT) sera de l’ordre de 3°C. D’autre part, on
+considère que le coefficient de dilatation thermique des océans, dans la gamme des
+températures considérées, est a = 2,7x10-4 °C-1. On considère une hauteur H de la
+couche superficielle de l’océan de 500 m. Calculer l’élévation h du niveau marin en
+2100 selon le scénario RCP 8.5.
+4- Par lecture graphique, estimer le niveau d’élévation moyen prédit en 2100 par le
+scénario RCP 8.5.
+5- Indiquer si la dilatation thermique des océans est la seule cause de l’augmentation
+du niveau des océans. Justifier et proposer une autre cause possible.
+6- À partir de l’exploitation du document 3, discuter de la durabilité d’une cabane sur
+pilotis pour la pêche au carrelet dans le contexte du scénario RCP 8.5. Justifier.
+
+Document 3 : carte des terres émergées du littoral de Charente-Maritime en fonction
+de l’élévation du niveau marin.
+Niveau actuel
+
+Sur les cartes, les zones foncées
+correspondent aux zones immergées
+(sous l’eau) et les zones claires
+correspondent aux terres émergées.
+
+Le scénario RCP 8.5 prévoit une
+augmentation de 3 m en 2250.
+
+D’après flood.firetree.net
+
+Élévation de 1 m
+
+Élévation de 3 m en 2250
+Fin de l’exercice

@@ -1,0 +1,313 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1612721, "at": "2026-11-23T09:31:55+00:00"}
+Évaluation
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+Le complexe de Toco
+Le complexe de stockage Toco, situé en
+Guyane, est le plus grand complexe de
+stockage par batteries lithium-ion en France. Il
+rassemble la centrale solaire de Savane des
+Pères couplée à une installation de stockage par
+batterie ainsi que l’installation de stockage par
+batterie de Mana. On recherche une alternative
+à l’utilisation de batteries.
+Document 1 : Coefficient d’absorption des matériaux semi-conducteurs en
+fonction de la longueur d’onde de la lumière
+
+GaAS : arséniure de gallium ; Si : silicium ; InP : phosphure d’indium ; CdTe : tellurure de cadmium ;
+CdS : sulfure de Cadmium.
+D’après : https://tel.archives-ouvertes.fr/tel-01529748/document
+
+Document 2 : Le volant de stockage solaire
+Une solution innovante est expérimentée au sein du complexe de Toco, il s’agit d’un Volant
+de Stockage Solaire (VOSS) : “Pour une masse de 4-5 tonnes incluant l’équipement autour,
+le volant aura une capacité de stockage énergétique de 10 kWh, et l’ensemble
+moteur/alternateur une puissance nominale de 10 kW. Ainsi, le système disposera d’une
+autonomie d’une heure en utilisation maximum”.
+Un VOSS est constitué d'une masse en béton (mélange de sable et de ciment) précontraint
+entraînée par un moteur électrique. L'apport d'énergie électrique permet de faire tourner la
+masse à des vitesses très élevées et une fois lancée, elle continue à tourner, même si plus
+aucun courant ne l’alimente. L'énergie électrique est alors stockée dans le volant sous forme
+d’énergie cinétique, elle pourra ensuite être restituée instantanément en utilisant
+l’alternateur, entraînant la baisse de la vitesse de rotation de la masse.
+
+ Volant
+
+d’inertie en béton
+précontraint
+
+ Frettage en fibre de verre
+sous tension autour du volant
+
+ Moteur / Alternateur
+ Pompe à vide
+ Onduleur
+ Roulement à billes
+ Enceinte en béton sous vide
+ Le volant est enterré mais
+une partie est accessible pour
+la maintenance
+
+1kWh est l’énergie associée à une puissance de 1 kW transférée ou stockée pendant une
+heure.
+D’après : http://www.energiestro.fr
+
+À partir des connaissances et des informations fournies, répondre aux questions
+suivantes.
+1- À la suite de mesures, on trace à l’aide d’un tableur la courbe montrant les variations
+de l’intensité du courant électrique produit par une cellule photovoltaïque en fonction
+de la tension à ses bornes (I = f(U) en trait plein) et la courbe montrant les variations
+de la puissance électrique délivrée en fonction de cette même tension (P = f(U) en
+pointillés).
+
+Noter sur votre copie le numéro de la série de propositions (I, II…) et la lettre
+correspondant à proposition exacte :
+I. Une cellule photovoltaïque convertit :
+a. l’énergie électrique qu’elle reçoit en énergie radiative ;
+b. l’énergie radiative qu’elle reçoit en énergie thermique ;
+c. l’énergie radiative qu’elle reçoit en énergie électrique ;
+d. l’énergie thermique qu’elle reçoit en énergie électrique.
+
+II. La puissance délivrée par une cellule photovoltaïque peut se calculer à l’aide de
+la relation :
+a. P = U× I ;
+b. P = R× I2 ;
+c. P = U× I2 ;
+d. P = R× I.
+III. La cellule photovoltaïque étudiée est parcourue par :
+a. un courant d’intensité 80 mA lorsque la tension à ses bornes vaut 0,29 V ;
+b. un courant d’intensité 4 mA lorsque la tension à ses bornes vaut 0,14 V ;
+c. un courant d’intensité 8 mA lorsque la tension à ses bornes vaut 0,29 V ;
+d. un courant d’intensité 7 mA lorsque la tension à ses bornes vaut 0,39 V.
+IV. La puissance électrique maximale produite par la cellule vaut :
+a. 8,6 mW ;
+b. 2,6 W ;
+c. 2,6 mW ;
+d. 2,5 kW.
+V. La résistance d’utilisation maximisant la puissance électrique délivrée par la
+cellule est d’environ :
+a. 0,051 Ω ;
+b. 51 Ω ;
+c. 19 Ω ;
+d. 0,019 Ω.
+La centrale solaire de Savane des Pères est constituée d’une surface de 22 200 m²
+de modules photovoltaïques au tellurure de cadmium (Cd/Te) qui reçoivent
+annuellement une énergie solaire de 1,875 MWh/m² pour une production électrique de
+5 400 MWh.
+2- À partir du document 1, indiquer pourquoi il est possible d’utiliser le matériau semiconducteur tellurure de cadmium (Cd/Te) en remplacement du silicium (Si) que l’on
+trouve communément dans les modules photovoltaïques.
+
+3- Calculer le rendement énergétique de la centrale solaire. Toute démarche
+entreprise pour répondre à la question sera valorisée.
+4- Les batteries couplées à la centrale solaire de Savane des Pères ont une capacité
+de stockage de 2,9 MWh et une puissance de 2,6 MW. Calculer la durée d’autonomie
+électrique de ces batteries.
+5- Recopier et compléter le schéma de la chaîne de transformation énergétique d’un
+Voss lorsqu’il est en phase de restitution de l’énergie stockée.
+
+6- Donner le nom du phénomène physique exploité par un alternateur et le décrire
+brièvement.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Gamme tempérée et gamme de Pythagore
+Il y a eu dans l’histoire de nombreuses constructions de gammes pour ordonner les
+notes à l’intérieur d’une octave. Cet exercice étudie deux types de gammes à douze
+notes : la gamme tempérée et la gamme de Pythagore.
+L’octave peut être divisée en douze intervalles en formant douze notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si). La gamme fréquemment utilisée de
+nos jours est la gamme tempérée, dans laquelle le rapport de fréquences entre deux
+notes consécutives est constant.
+1- Préciser la valeur du rapport des fréquences de deux notes séparées d’une octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est 12 2 .
+3- La fréquence du La3 est égale à 440 Hz. Calculer la valeur, arrondie au dixième, de
+la fréquence de la note suivante (Si3b) dans la gamme tempérée.
+4- Jusqu’au XVIIe siècle, la gamme la plus utilisée était la gamme de Pythagore,
+obtenue à partir des quintes successives d’une note initiale. Le tableau ci-dessous
+donne les fréquences des différentes notes de la gamme de Pythagore en partant de
+440 Hz.
+Note
+
+Mi3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+Do4#
+
+Ré4
+
+Ré4#
+
+Fréquence
+(Hz)
+
+352,4
+
+371,3
+
+396,4
+
+417,7
+
+469,9
+
+528,6
+
+556,9
+
+594,7
+
+626,5
+
+4-a- Calculer le rapport des fréquences des notes Si3 et Mi3 et donner le nom d’un tel
+intervalle.
+4-b- On considère la fonction Python freq_suivante ci-dessous qui permet de
+construire la gamme de Pythagore.
+
+def freq_suivante(f):
+f = 3/2*f
+if f >= 660 :
+f = f/2
+return(f)
+Donner les nombres renvoyés après l’exécution de freq_suivante(330) et de
+freq_suivante(440).
+Préciser les notes correspondantes.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La lumière cendrée de la Lune
+Périodiquement la Lune nous présente un aspect des
+plus surprenants. En plus d’une partie fortement
+lumineuse correspondante à la phase lunaire, il est
+possible d’apercevoir l’autre partie de la Lune. La
+lumière qui nous parvient de cette partie plus sombre
+est appelée « lumière cendrée de la Lune » (voir la
+photographie).
+
+Document 1. Observations de Galilée
+« Je veux noter aussi un fait que j’ai observé, non sans un certain émerveillement :
+presque au centre de la Lune se trouve une cavité plus grande que toute autre et
+parfaitement circulaire [...] : dans son obscurcissement et dans son illumination, elle
+présenterait le même aspect que celui de la Terre dans une région comparable à la
+Bohème, si cette région était de tous côtés entourés de hautes montagnes et
+disposée en cercle parfait. Dans la lune, en effet, la cavité est entourée de cimes si
+élevées que la région extrême, attenante à la partie ténébreuse, se voit illuminée par
+les rayons solaires, avant que la ligne de partage entre la lumière et l’ombre atteigne
+le diamètre de la figure elle-même [...] ».
+Galilée, Sidereus Nuncius, trad. de E. Namer, Paris : Gauthier-Villars, p. 73 sq.
+
+« Chacun peut se rendre compte avec la certitude des sens, que la Lune est dotée
+d’une surface non point lisse et polie, mais faite d’aspérités et de rugosités, et que
+tout comme la face de la Terre elle-même, elle est toute en gros renflements, gouffres
+profonds et courbures. »
+Galilée, Sidereus Nuncius , trad. de E. Namer, Paris : Gauthier-Villars, 1964, p. 116
+
+Figure 1 : dessins de la Lune extraits du livre “Sidereus nuncius” de Galilée.
+
+Situation 1
+
+Situation 2
+D’après : https://media4.obspm.fr
+
+Document 2. Observations de Léonard de Vinci
+Il y a 500 ans de cela, Léonard de Vinci résolut une très ancienne énigme
+astronomique : l'origine de la lumière cendrée, cette douce lueur qui baigne la partie
+non éclairée de la Lune.
+Peu de gens le savent, mais une des plus grandes manifestations du génie de
+Léonard de Vinci n'a rien à voir avec la peinture ou l'ingénierie. Il s'agit en fait
+d'astronomie : il a compris l'origine de la lumière cendrée.
+
+On peut observer la lumière cendrée chaque nuit où la Lune est en croissant audessus de l'horizon, au coucher du soleil. Entre les pointes du croissant, vous devinez
+comme une image fantomatique de la Lune. C'est la lumière cendrée, le reflet sur la
+partie non éclairée de la Lune de la lumière renvoyée par la Terre.
+
+Pendant des milliers d'années, les hommes se sont émerveillés devant cette
+splendeur sans en comprendre la cause. Et il fallut attendre le 16e siècle pour que
+Léonard de Vinci la comprenne.
+Aujourd'hui, la réponse nous paraît évidente. Quand le Soleil se couche sur la Lune,
+il se produit exactement la même chose que sur Terre : c'est la nuit. Mais pas une
+nuit noire... Même quand le Soleil est couché, il y a encore une source de lumière
+dans la nuit lunaire : la Terre bien sûr !
+D’après https://www.cidehom.com/science_at_nasa.php?_a_id=224
+
+Document 3. Calendrier du premier semestre 2021
+Les disques noirs représentent les dates de nouvelle Lune et les disques blancs la
+pleine Lune. Ces dates ont été effacées pour le mois de juin.
+
+Source : https://www.lecalendrier.fr
+
+1- Les observations de Galilée (document 1)
+1-a- Pour les deux situations (notées Situation 1 et Situation 2) dessinées par Galilée
+sur la figure 1, représenter sur un schéma les positions de la Terre, de la Lune et du
+Soleil.
+1-b- Dessiner ce que Galilée aurait observé dans les deux situations de la figure 1 si
+la surface de la Lune était parfaitement lisse.
+1-c- Galilée a pu aisément comparer les observations qu’il a réalisées à différents
+moments de l’année parce que la Lune présente toujours la même face à la Terre.
+Voici plusieurs propositions pour expliquer ce phénomène :
+(a) la Lune tourne sur elle-même avec la même période que celle de son
+mouvement de rotation autour du Soleil ;
+(b) la Lune tourne sur elle-même avec la même période que celle de son
+mouvement de rotation autour de la Terre ;
+(c) la Lune ne tourne pas sur elle-même tout en tournant autour de la Terre,
+(d) la Lune reste fixe dans le ciel pour un observateur terrestre.
+Recopier sur votre copie la bonne explication ; justifier votre réponse en vous appuyant
+sur un schéma clair.
+2- Les observations de Léonard de Vinci
+2-a- Schématiser, sans souci d’échelle, les positions relatives de la Lune, du Soleil et
+de la Terre dans la situation décrite par Léonard de Vinci dans le document 2.
+2-b- À partir du document 2 et du schéma réalisé dans la question précédente,
+expliquer comment un individu, sur Terre, peut observer la lumière cendrée de la Lune.
+2-c- Expliquer en quoi l’observation de la lumière cendrée montre que l'albedo de la
+Terre n’est pas nul.
+3- Période favorable à l’observation de la lumière cendrée
+3-a- À partir des données figurant sur le calendrier du document 3, calculer la durée
+moyenne, en jour, de l’intervalle de temps qui sépare deux pleines lunes successives.
+3-b- En décrivant avec précision le raisonnement utilisé, déterminer une période de 10
+jours a priori favorables à l’observation de la lumière cendrée pendant le mois de juin
+2021.

@@ -1,0 +1,158 @@
+{"pages": 9, "method": "pdftotext", "bytes": 992862, "at": "2026-11-23T09:34:00+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+NUMERISATION ET COMPRESSION D’UN SIGNAL SONORE
+À l’aide d’un microphone, on a enregistré le signal sonore produit par un diapason.
+Le début du signal analogique obtenu est représenté sur la Figure 1.
+Figure 1
+Le diapason
+
+1- Préciser si ce signal représente un son pur ou un son composé. Justifier.
+2- À l’aide d’un logiciel, on procède à la numérisation de ce signal.
+Le logiciel procède en deux étapes : l’échantillonnage du signal puis sa
+quantification.
+À l’issue de ces deux opérations, on obtient le signal ci-dessous (La Figure 2b
+représente le même signal que celui de la Figure 2a mais enregistré sur une durée
+plus courte).
+Figure 2a
+
+Figure 2b
+
+2-a- Rappeler en quoi consiste l’échantillonnage d’un signal sonore analogique.
+2-b- Déterminer, parmi les valeurs du tableau ci-dessous, la fréquence d’échantillonnage
+utilisée pour cet enregistrement. On justifiera en s’appuyant sur la figure 2-b.
+8 000 Hz
+16 000 Hz
+24 000 Hz
+32 000 Hz
+
+3- Le signal échantillonné a été quantifié sur 16 bits.
+3-a- Préciser le nombre de valeurs différentes que l’on peut coder avec une
+quantification sur 16 bits.
+3-b- Si la quantification était réalisée sur 8 bits au lieu de 16 bits, indiquer les
+différences à prévoir sur la qualité sonore et sur la taille du fichier de
+stockage.
+À l’aide d’un logiciel, on enregistre plusieurs morceaux de musique en qualité CD
+(« Compact Disc » en anglais ou disque compact), ce qui correspond à un
+enregistrement sur deux voix (stéréo) avec une fréquence d’échantillonnage de 44 100
+Hz et une quantification sur 16 bits
+4- Déterminer l’espace nécessaire, en Mégaoctet (Mo), pour stocker le fichier obtenu
+lors de l’enregistrement en qualité CD d’un morceau de musique d’une durée de 3
+minutes.
+5- Le format mp3 correspond à une compression avec perte d’informations. Préciser
+ce que cela signifie.
+
+6- L’enregistrement d’un second morceau de musique a généré un fichier numérique
+de 90,25 Mo de données. On l’enregistre au format mp3 pour le compresser.
+Le fichier mp3 ainsi obtenu a une taille de 7,22 Mo.
+Calculer le taux de compression, défini comme étant le quotient de la taille du
+fichier compressé par la taille du fichier initial.
+
+EXERCICE 2
+LES PHASES DE LA LUNE
+Les astres dans le ciel, en particulier le deuxième plus brillant d’entre eux, la Lune,
+fascinent les humains. Depuis l’antiquité, les phases de la Lune et ses éclipses ont
+permis d’en étudier quelques caractéristiques.
+Cet exercice s’intéresse aux phases de la Lune ainsi qu’à une méthode géométrique
+pour déterminer son rayon.
+Partie A. Les phases de la Lune
+La Lune tourne autour de la Terre sur une orbite quasi-circulaire, avec une période de
+révolution de 27 jours, 7 h et 43 min. Dans le même temps, la Terre poursuit son
+mouvement sur une orbite quasi-circulaire autour du Soleil.
+Pour un observateur terrestre, la position relative des trois astres engendre un aspect
+de la lune qui varie au cours du temps et que l’on appelle les "phases de la Lune". Ce
+cycle au bout duquel la Lune retrouve son aspect initial, s’appelle la lunaison, et dure
+29 jours, 12 h et 44 min.
+Document 1. Le schéma ci-dessous représente quelques positions de la Terre et de
+la Lune lors d'une lunaison. Le Soleil est considéré comme fixe et on en a représenté
+quelques rayons.
+
+D’après commons.wikimedia.org/wiki/File:Moon_phases_00.jpg
+
+1- Indiquer à quelle position de (a) à (i) sur le document 1 correspondent les aspects
+suivants de la Lune :
+Lune gibbeuse.
+Premier quartier
+Dernier croissant
+
+2- Les positions (a) et (i), positions extrêmes d’un cycle de lunaison du document 1,
+correspondent aux situations appelées « nouvelle Lune ». Préciser ce qu’on
+observe alors depuis la Terre.
+3- La Lune présente toujours la même face à la Terre. Choisir, parmi les propositions
+suivantes, la période de rotation de la Lune sur elle-même. On pourra s’aider d’un
+schéma.
+365,25 jours
+24 h
+27 jours, 7 h et 43 min 29 jours, 12 h et 44
+min
+4- Parmi les situations de (a) à (i) du document 1, certaines permettent l’observation
+d’éclipses de Lune. Préciser laquelle ou lesquelles.
+Partie B – Dimension de la Lune
+Document 2. Éclipse de Lune
+Aristarque de Samos (310-230 avant JC) émet l’hypothèse
+qu'en mesurant la taille de l'ombre de la Terre sur la Lune
+lors d’une éclipse, on peut calculer le rapport entre le rayon
+de la Terre et le rayon de la Lune.
+Il suppose par ailleurs que l’ombre de la Terre sur la Lune
+a la même taille que la Terre, ce qui revient à considérer
+que les rayons du Soleil sont parallèles entre eux.
+Eclipse de lune du 19 janvier
+2019 à Chambord.
+Guillaume Souvant /AFP
+
+Document 3. Construction géométrique du centre d’un cercle connaissant trois points
+sur ce cercle
+Sur le schéma ci-contre, la Lune est modélisée
+par le cercle C dont on veut déterminer le
+centre. Pour cela, on choisit 3 points M, N, P
+sur ce cercle.
+La droite D 1 est la médiatrice du segment [MN]
+La droite D 2 est la médiatrice du segment [NP]
+Ces deux médiatrices se coupent en un point O.
+On rappelle que tout point appartenant à la
+médiatrice d’un segment est situé à égale
+distance des extrémités de ce segment.
+Schéma
+de
+la
+partiellement
+cachée
+l’ombre de la Terre
+
+Lune
+par
+
+5- Démontrer que O est le centre du cercle C .
+6- Dans le document donné en annexe, à rendre avec la copie, reproduire cette
+construction géométrique pour déterminer le centre de la Lune sur la photo, puis
+réaliser une mesure en centimètre de son rayon rL .
+7- Une construction similaire a permis de mesurer le rayon de la Terre sur la photo.
+On admet qu’elle a donné rT ≈ 16,5 cm. Sachant que le rayon RT de la Terre vaut
+6400 km, déterminer une valeur (en km) du rayon RL de la Lune.
+
+ANNEXE A REMETTRE AVEC LA COPIE
+EXERCICE : LES PHASES DE LA LUNE
+Question 7

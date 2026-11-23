@@ -1,0 +1,248 @@
+{"pages": 7, "method": "pdftotext", "bytes": 642626, "at": "2026-11-23T09:24:25+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+
+La fosse de plongée Nemo 33 (10 points)
+Le Nemo 33 est un centre de plongée à Uccle, en Belgique.
+Il possédait la fosse de plongée la plus profonde du monde
+jusqu'en février 2014 atteignant une profondeur de près de
+35 mètres.
+Une fosse de plongée sert à pratiquer la plongée sousmarine ou la plongée en apnée (sans bouteille). La
+profondeur est le principal critère qui distingue une fosse
+d'une simple piscine. La qualité de l’eau est un autre
+élément fondamental, autant pour les maîtres-nageurs que
+pour les usagers.
+Dans cet exercice, nous étudierons des propriétés
+chimiques d’une eau de fosse de plongée puis l’effet de la
+pression sur les poumons lors d’une plongée dans une
+fosse.
+Apnéistes dans une fosse de plongée
+https://communaute.ucpa.com
+
+1. Titrage des ions hypochlorite ClO présents dans l’eau d’une fosse de
+plongée
+Afin de maintenir la qualité sanitaire de l’eau d’une fosse de plongée on y ajoute des
+ions hypochlorite ClO , il s’agit d’un oxydant puissant qui peut réagir avec des
+composés organiques et des micro-organismes afin de les détruire. La
+réglementation impose une concentration en « chlore actif » pour les piscines en
+France correspondant à une concentration d’ions hypochlorite comprise entre 0,4
+mg.L-1 et 1,4 mg.L-1.
+Pour étudier les propriétés chimiques de l’eau d’une fosse de plongée et déterminer
+sa concentration en ions hypochlorite, on effectue un prélèvement. À l’aide d’une
+pipette jaugée, on prélève V1 = 20,0 mL d’eau d’une fosse de plongée que l’on place
+dans un bécher de 50 mL, on ajoute 1,0 mL d’une solution contenant des ions iodure
+en excès et 1,0 mL une solution d’acide sulfurique puis on agite. Le mélange obtenu,
+qui prend alors une teinte orange-brun, est appelé solution S.
+
+Les couples mis en jeu sont ClO (aq)/Cl (aq) et I2(aq)/I (aq). Le diiode a une
+coloration orange-brun en solution aqueuse, c’est la seule espèce colorée dans la
+solution S.
+ Masses molaires de l’oxygène et du chlore : M(O) = 16,0 g.mol-1 et M(Cl) = 35,5
+g.mol-1.
+1.1. Justifier à l’aide des observations expérimentales le caractère oxydant de l’eau
+de la fosse de plongée.
+1.2. Écrire la demi-équation électronique associée au couple de l’hypochlorite et
+justifier le rôle d’oxydant de cet ion.
+1.3. Donner l’équation de la réaction modélisant la transformation intervenant entre
+les ions hypochlorite et les ions iodure.
+1.4. Établir le tableau d’avancement de la réaction. Les ions iodure, I-(aq), et
+oxoniums H+(aq), sont en excès, l’eau est le solvant.
+On considère dans la suite que tout le diiode dans la solution S provient de la
+réaction entre les ions hypochlorite et iodure et que la transformation est totale. Afin
+de déterminer l’avancement final xf de cette réaction, on effectue un dosage par
+étalonnage du diiode dans la solution S. On réalise une série de mesure
+d’absorbance de solutions de concentrations connues en diode, les résultats sont
+donnés dans le tableau ci-dessous :
+concentration en diiode (mol.L-1)
+absorbance A (à 475 nm)
+
+2,0×10-5
+0,016
+
+5,0×10-5
+0,041
+
+1,0×10-4
+0,10
+
+2,5×10-4
+0,22
+
+On effectue une mesure d’absorbance pour la solution S, on obtient AS = 0,017.
+1.5. Déterminer la valeur de la concentration en diiode de la solution S. En déduire la
+valeur de la quantité de diiode, formée lors de la réaction entre les ions hypochlorite
+et iodure, et que la valeur de l’avancement final xf est voisine de 4,6×10-7 mol.
+1.6. En déduire la valeur de la concentration en moles en ions hypochlorites ClOdans l’eau de la fosse de plongée. Indiquer si cette eau est conforme la législation
+française.
+2. La pratique de l’apnée au NEMO 33
+Lors de la pratique de l’apnée, le plongeur inspire au maximum de sa capacité
+pulmonaire lorsqu’il se trouve à la surface puis bloque sa respiration. Au cours de la
+descente, la pression augmente et le volume pulmonaire diminue jusqu’à ce que la
+rigidité du thorax ne permette plus de réduire son volume : le volume pulmonaire est
+alors égal au volume résiduel. Au-delà de cette profondeur, du sang est aspiré puis
+retenu dans la circulation pulmonaire, remplissant ainsi les poumons. Ce
+phénomène, appelé « blood shift », permet aux poumons de résister à la
+compression, mais il peut aussi entraîner des troubles du rythme cardiaque.
+La capacité maximale des poumons est d’environ 6 L. Le volume résiduel, c’est-àdire le volume d’air contenu dans les poumons à la fin d’une expiration forcée, est
+d’environ 1,5 L.
+Données :
+ pression atmosphérique : Pa = 1,0 × 105 Pa ;
+ masse volumique de l’eau : ρe = 1,0 × 103 kg.m-3 ;
+ valeur du champ de pesanteur : g = 9,8 N.kg-1 ;
+ profondeur de NEMO 33 : h = 35 m ;
+ la loi fondamentale de la statique des fluides reliant la différence de pression
+pA - pB entre deux points A et B d’un fluide incompressible à ρe, g, et zA - zB ;
+zA et zB étant les ordonnées des points A et B sur un axe des z orienté suivant
+la verticale ascendante s’écrit : pA - pB = ρe g (zB - zA).
+2.1. Décrire qualitativement comment évolue la pression lorsque le plongeur descend
+dans la fosse de plongée. Expliquer en quoi la loi fondamentale de la statique des
+fluides rend compte de cette évolution.
+2.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V
+d’un gaz pour une quantité de matière donnée et une température constante.
+2.3. À l’aide des données, déterminer si le phénomène de « blood shift » risque
+d’apparaître lorsqu’un apnéiste, qui n’a pas expiré d’air au cours de sa plongée,
+atteint le fond de NEMO 33.
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une
+démarche de résolution.
+
+PARTIE B
+Bouquet final (10 points)
+Dans cet exercice, on s’intéresse à différents aspects physico-chimiques d’un feu
+d’artifice.
+La pyrotechnie, du grec « pyros » feu et
+« teckhnê » savoir-faire, est la technique des
+feux d’artifice. Elle fut inventée par les chinois, il
+y a plus de mille ans, et introduite en Occident
+grâce à Marco Polo au XIIIème siècle.
+Lors d’un feu d’artifice, la pièce d’artifice est
+l’élément le plus utilisé (voir schéma en coupe
+figure 1). La pièce est expulsée depuis un
+mortier jusqu’à une centaine de mètres de haut
+où elle explose pour former une figure
+lumineuse. La poudre noire présente dans la
+pièce d’artifice est un mélange intervenant lors
+des deux étapes : la propulsion, puis la
+dispersion des étoiles incandescentes qui
+forment le feu d’artifice.
+
+Figure 1 : Coupe d’une pièce
+d’artifice
+
+Projet Scientifique Collectif « Combustion, flammes et feux d’artifice » École Polytechnique
+http://www.penangol.fr/rapports/combustion.pdf
+Article « Feux d’artifice » du site de la société chimique de France
+http://www.societechimiquedefrance.fr/feux-d-artifice.html
+
+Données :
+- Intensité du champ de pesanteur : g = 9,81 m·s-2.
+- Masses molaires atomiques (en g·mol-1) : C : 12,0 ; N : 14,0 ; O : 16,0 ; K : 39,1
+- Constante de Planck : h = 6,63 × 1034 J∙s ;
+- 1 eV = 1,60  1019 J ;
+- la valeur de la célérité de la lumière c dans le vide est supposée connue par le
+candidat.
+I. Aspect énergétique d’une pièce d’artifice lors de la phase ascensionnelle,
+Dans cette partie, on modélise la pièce d’artifice par un point matériel dans le référentiel
+terrestre supposé galiléen. La pièce d’artifice étudiée, de masse 100 g, est tirée
+verticalement avec une vitesse initiale de valeur v0 = 100 m·s-1. On étudie le
+mouvement de son centre d’inertie G, repéré par son ordonnée y dans un repère
+vertical (O, j ) orienté vers le haut.
+On choisit l’instant t0 = 0 s lorsque le centre d’inertie G est confondu avec l’origine
+du repère O. On néglige toute action mécanique de l’air. On admet que la masse de la
+
+bombe est constante lors de son mouvement ascendant.
+En tenant compte des choix de modélisation précédents, un logiciel de simulation permet
+de représenter l’évolution temporelle de l’énergie cinétique Ec et de l’énergie potentielle
+de pesanteur Ep de la bombe lors de son mouvement ascendant : on obtient la
+représentation graphique ci-dessous.
+
+Figure 2 : Évolution des énergies cinétique et potentielle pendant l’ascension de la
+pièce
+
+1.
+2.
+
+3.
+
+Après avoir rappelé la définition de l’énergie mécanique de la pièce d’artifice,
+exploiter la figure 2 pour savoir si, dans la situation simulée, l’énergie
+mécanique se conserve. Commenter le résultat obtenu.
+On suppose que la pièce explose à l’instant tA = 2,0 s. Après cet instant, les
+évolutions de la figure 2 ne sont plus respectées. À l’aide de la figure 2,
+déterminer la valeur de l’énergie potentielle à cet instant puis calculer l’altitude
+atteinte notée yA.
+En réalité l’altitude maximale atteinte par la pièce vaut 55 m. Commenter l’écart
+observé par rapport au modèle.
+
+II. Combustion pyrotechnique
+Le principe de base des feux d’artifice repose sur la combustion de la poudre noire
+contenant jusqu’à 75 % en masse de salpêtre de formule KNO3, jouant le rôle de
+comburant et un mélange essentiellement constitué de carbone, mais contenant
+également du soufre et des éléments métalliques pour la couleur (solides ioniques
+comportant, par exemple, des ions sodium pour le jaune ou des ions potassium pour
+
+le violet) ou pour les effets spéciaux (métaux comme par exemple le magnésium
+pour des étincelles).
+Source : http://www.societechimiquedefrance.fr/feux-d-artifice.html
+
+Afin de simplifier cette étude, on fait l’hypothèse que la combustion de la poudre
+noire peut être modélisée par une seule réaction chimique dont l’équation est :
+2 KNO3 + 3 C + S  K2S + 3 CO2 + N2
+4.
+
+Après avoir écrit la demi-équation électronique du couple CO2 / C, préciser si le
+carbone joue le rôle d’oxydant ou de réducteur.
+
+L’artificier prépare environ 25 g de poudre noire. Ce mélange est réalisé dans les
+proportions stœchiométriques de la réaction : il contient 3,20 g de carbone, du nitrate
+de potassium (salpêtre) de formule KNO3, du soufre S et des solides ioniques ou
+métaux en faible quantité.
+5.
+Déterminer la valeur de quantité de matière de carbone dans ce mélange.
+6.
+En déduire la masse de nitrate de potassium nécessaire pour réaliser ce
+mélange.
+7.
+En déduire le pourcentage massique de nitrate de potassium présent dans la
+poudre noire préparée et indiquer si le résultat est compatible avec la
+description de la poudre noire.
+8.
+Dans les conditions de la combustion étudiée, l’énergie molaire de combustion
+(pour la combustion d’une mole de carbone) vaut Emcomb = – 208 kJ∙mol-1.
+Montrer que la valeur de l’énergie libérée par la combustion de la poudre noire
+préparée par l’artificier est de l’ordre de 55 kJ.
+9.
+Comparer la valeur précédente à l’énergie cinétique initiale de la bombe (voir
+figure 2) et interpréter la différence.
+III. Émission lumineuse
+Les feux d’artifice émettent de la lumière selon trois phénomènes : l’incandescence,
+l’émission atomique et l’émission moléculaire. On s’intéresse uniquement à
+l’émission atomique dans cette partie. Les ions des cristaux métalliques introduits
+sont excités thermiquement, ce qui leur permet de passer d’un niveau d’énergie
+fondamental à un niveau d’énergie supérieur ; au cours de leur retour vers l’état
+fondamental, l’énergie qu’ils avaient absorbée est émise sous forme de photons
+d’une longueur d’onde caractéristique de l’élément correspondant. L’ion sodium est
+l’un de ceux qui émet le plus de lumière par ce mécanisme. On donne ci-dessous
+des informations concernant l’émission de lumière par le sodium.
+
+Figure 3 : Longueurs d’onde dans le vide (en nm) du spectre
+d’émission d’une lampe à vapeurs de sodium
+
+Figure 4 : Diagramme des niveaux d’énergie du sodium
+10. Sur un diagramme de niveaux d’énergie d’un atome, comportant le niveau
+fondamental et un niveau excité d’énergie supérieure, illustrer le phénomène
+d’émission d’un photon.
+11. Déterminer quelle transition entre niveaux d’énergie du sodium représentés
+figure 4 a lieu lors de l’émission de la raie jaune du sodium, de longueur d’onde
+λ = 589,0 nm dans le vide.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie,
+même si elle n’a pas abouti.

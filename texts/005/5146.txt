@@ -1,0 +1,234 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1145080, "at": "2026-11-23T09:24:21+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+La plongée sous-marine en fosse (10 points)
+Pour finaliser sa formation de niveau 1, un plongeur descend
+progressivement au fond de la fosse de plongée située à La
+Teste-De-Buch. La profondeur est le principal critère qui
+distingue une fosse de plongée d'une simple piscine. Cette
+fosse est composée d’une colonne d’eau de 20 mètres hors-sol
+et de 6 m de diamètre. Cette fosse permet aux plongeurs de
+s'entraîner dans une eau à 28 °C tout au long de l’année, et ce
+quelle que soit la météo.
+
+http://lepyla.com
+La plongée sous-marine
+[…] Toute personne qui a déjà plongé le sait : la pression ambiante augmente à mesure
+que l'on s'enfonce sous l'eau […]. À 20 mètres de profondeur, elle est ainsi le triple de la
+pression atmosphérique (c'est-à-dire la pression qui règne à la surface de l'eau plus la
+pression due à la couche d'eau). Les tissus mous de notre organisme sont peu
+compressibles et ne changent quasiment pas de volume au cours d'une plongée.
+En revanche, le comportement de l'air contenu dans le système respiratoire est tout autre.
+Les gaz sont beaucoup plus compressibles que les liquides. Dès le milieu du XVIIe siècle,
+l'Irlandais R. Boyle et le Français E. Mariotte énoncèrent une loi pour décrire leur
+compressibilité […]
+
+Roland Lehoucq et Jean-Michel Courty 01 septembre 2001 POUR LA SCIENCE N° 287
+Données :
+ pression atmosphérique : 1,013 bar ; 1,0 bar = 1,0 x 105 Pa ;
+ masse volumique de l’eau : ρ = 1,0 x 103 kg.m-3 ;
+ intensité du champ de pesanteur : g = 9,81 N.kg-1.
+1.
+
+Pression à une profondeur donnée
+
+On s’intéresse dans cette partie à la loi fondamentale de la statique des
+fluides pour modéliser l’évolution de la pression atmosphérique en
+fonction de l’altitude. Cette loi précise que pour un fluide au repos
+incompressible de masse volumique , la différence de pression entre
+deux points, A et B, s’exprime par la relation : 𝑃𝐵 − 𝑃𝐴 = ρ × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+Dans cette relation :
+- la masse volumique  s’exprime en kgm3 ;
+- l’intensité de pesanteur g s’exprime en Nkg1 ;
+- les altitudes zA et zB s’expriment en m et sont repérées sur un axe
+vertical ascendant Oz.
+1.1. Décrire qualitativement comment la pression dans l’eau évolue lors de la descente du
+plongeur dans la fosse.
+1.2. Justifier, à l’aide de la relation de la statique des fluides, la phrase : « À 20 mètres de
+profondeur, elle est ainsi le triple de la pression atmosphérique (c'est-à-dire la pression qui
+règne à la surface de l'eau plus la pression due à la couche d'eau). »
+Il est possible de vérifier la loi fondamentale de la statique des fluides au laboratoire.
+Pour cela, on réalise une série de mesures de la pression P au sein d’un liquide en fonction
+de la profondeur h à l’aide du dispositif ci-contre.
+Le protocole expérimental est le suivant :
+- déplacer verticalement, dans une éprouvette contenant un
+liquide, un tube de verre relié à un tuyau souple branché à un
+capteur de pression lui-même relié à une interface d’acquisition.
+Ce capteur mesure la pression en kPa ;
+- faire une première mesure de pression à la surface ;
+- relever ensuite les valeurs de pression pour des profondeurs
+croissantes en descendant progressivement le tube en verre
+dans l’éprouvette ;
+- les valeurs mesurées permettent de représenter le graphe P
+en fonction de h à l’aide d’un tableur. On obtient alors une
+droite modélisée par le tableur par l’équation mathématique
+suivante :
+
+P = 9,771 x 103 x h + 101,3 x 103 ; P est exprimée en Pa et h en m.
+1.3. Que représente la valeur de la pression P0 à la profondeur h = 0 m ?
+1.4. Expliquer pourquoi les mesures expérimentales sont compatibles avec la loi
+fondamentale de la statique des fluides.
+1.5. Citer des sources d’erreurs possibles dans ce protocole expérimental.
+2. Autonomie d’un plongeur
+Lors de la plongée en bouteille le détendeur permet au plongeur de respirer de l’air à la
+même pression que la pression à la profondeur où il se trouve. Mais toute plongée en
+bouteille s'effectue avec une quantité limitée d'air. Il est donc indispensable de savoir
+contrôler la consommation de cette quantité d'air au cours de la plongée afin de pouvoir
+effectuer une remontée et d’éventuels paliers. Cela passe par l'évaluation de son autonomie
+en air en fonction de la profondeur. Il existe différentes méthodes de calcul de l’autonomie, la
+plus simple consiste à calculer le volume d’air disponible à la profondeur donnée et de tenir
+compte de l’air consommé par minutes.
+D’après www.cdp-plongee.com
+2.1. On note V1 le volume d’air disponible dans la bouteille de plongée lorsqu’elle est mise
+sous pression à la pression P1 et V2 celui d’air disponible pour le plongeur lorsque qu’il est à
+la pression P2. Les températures sont supposées identiques dans les deux situations.
+En utilisant la loi de Mariotte, écrire la relation liant V1, P1, V2 et P2.
+2.2. En supposant que la consommation en volume d’air du plongeur reste toujours la même
+au cours de la plongée, expliquer sans calcul comment l’autonomie en air du plongeur évolue
+avec la profondeur.
+2.3. Le plongeur dispose d’une bouteille de plongée d’une capacité de 12 litres mise sous
+pression à la pression initiale de 200 bars.
+En utilisant la loi de Mariotte, calculer la durée durant laquelle le plongeur peut rester dans la
+fosse à 20 m de profondeur sachant qu’il consomme 15 litres d’air par minute.
+En réalité le plongeur doit toujours calculer son autonomie en tenant compte d’une marge de
+sécurité. Pour remonter en surface en ayant conservé une pression de 50 bars dans sa
+bouteille : c'est ce qu'on appelle communément « la réserve ».
+2.4. La prise en compte de cette réserve réduit-elle ou augmente-t-elle la durée de la
+plongée ? Justifier sans calcul.
+
+3. La manœuvre de Valsalva
+En plongée, la différence de pression de
+part et d’autre du tympan peut provoquer
+une vive douleur. La manœuvre de
+Vasalva consiste à souffler par le nez,
+bouche fermée et nez pincé afin de faire
+pénétrer de l’air dans l’oreille moyenne.
+L’air extérieur passe par la trompe
+d’Eustache.
+https://fr.wikibooks.org
+
+3.1. Rappeler la relation entre la pression P, la norme F de la force pressante et l’aire S de la
+surface sur laquelle elle s’exerce.
+3.2. Évaluer la valeur de la norme de la force pressante F1 exercée par l’air emprisonné dans
+l’oreille moyenne à la pression de 1,0 bar sur la paroi interne du tympan dont la surface est de
+70 mm².
+3.3. La valeur de la norme de la force pressante F2 exercée par l’eau sur la paroi externe du
+tympan pour un plongeur situé à 20 m de profondeur est de 21 N.
+3.4. Reproduire sur la copie et compléter le schéma ci-dessous, en représentant les forces
+pressantes exercées sur le tympan :
+⃗⃗⃗1 la force pressante exercée par l’air emprisonné dans l’oreille moyenne ;
+- 𝐹
+⃗⃗⃗2 la force pressante exercée par l’eau sur la paroi externe du tympan.
+- 𝐹
+Échelle : 1 cm pour 7 N.
+
+En déduire pourquoi le plongeur ressent une vive douleur lors de la descente.
+3.5. Expliquer pourquoi la manœuvre de Vasalva permet de compenser la pression de l’eau
+introduite dans le conduit auditif.
+
+PARTIE B
+Réalisation d’une végétation métallique (10 points)
+En chimie, une végétation métallique est un type de dendrites produites par certaines
+transformations chimiques. La découverte de ces « feuillages métalliques » est
+attribuée à des alchimistes au Moyen-Age, qui croyaient y voir un phénomène
+magique. L’alchimie, malgré son statut de pseudoscience (c’est à dire de « fausse »
+science), a eu un rôle important dans le développement, au cours du XVIIIe siècle,
+de la chimie en tant que discipline scientifique s’appuyant sur des faits
+expérimentaux.
+
+Figure 1. Un des premières publications d'une végétation chimique par Athanase
+Kircher, dans Mundus subterraneus en 1660 (d’après : wikipedia.org/AthanasiusKircher-Mundus-subterraneus.jpg)
+On s’intéresse dans cet exercice à la modélisation du phénomène de « végétations
+métalliques » à l’aide des outils de la chimie moderne, en s’interrogeant notamment
+sur la nature de ce métal qui se dépose comme les feuilles d’un arbre.
+Données :
+- Couples oxydant/réducteur
+- couple ion argent/argent : Ag+/Ag ;
+- couple ion cuivre/cuivre : Cu2+/Cu.
+- Couleurs des solutions aqueuses :
+- les ions cuivre Cu2+(aq) donnent une couleur bleue aux solutions
+aqueuses ;
+- les ions argent Ag+(aq) et les ions nitrate NO3-(aq) sont incolores en
+solution aqueuse.
+
+- Masses molaires atomiques :
+M(Cu) = 63,5 g/mol, M(O) = 16,0 g/mol, M(Ag) = 107,9 g/mol, M(N) =
+14,0 g/mol.
+- Électronégativités selon l’échelle de Pauling : O : 3,2 , C : 2,6 , H : 2,2.
+Les alchimistes décrivent l’arbre de Diane comme une végétation d’argent se
+déposant sur un tronc fait en cuivre.
+On souhaite fabriquer un arbre de Diane au laboratoire. Pour ce faire, on place un fil
+de cuivre, de masse initiale m’ = 5,6 g dans un bécher contenant V = 220 mL d’une
+solution de nitrate d’argent à la concentration en quantité de matière égale à c = 0,10
+mol.L-1.
+1. Préparation de la solution métallique pour réaliser l’arbre de Diane
+Pour les chimistes, l’eau est un solvant très utilisé. Ses propriétés sont utilisées dans
+la réalisation de la végétation métallique car l’eau est capable de dissoudre le nitrate
+d’argent AgNO3 (s) et les autres ions intervenant dans le phénomène.
+1.1. Donner le schéma de Lewis d’une molécule d’eau, justifier sa forme coudée
+et indiquer ses propriétés en lien avec les électronégativités des atomes qui la
+constituent.
+1.2. Écrire l’équation de la réaction modélisant la dissolution du nitrate d’argent
+dans l’eau. Préciser l’état physique des différentes espèces chimiques.
+1.3. On note c la concentration en quantité de matière apportée en nitrate d’argent
+dans une solution. Exprimer, en fonction de c, la concentration en ions argent
+dissous [Ag+], si la dissolution est totale.
+1.4. En déduire la quantité de matière n d’ions argent Ag+ contenue dans 250 mL
+de la solution de nitrate d’argent de concentration c = 0,10 mol.L-1 et indiquer
+la masse m de nitrate d’argent nécessaire pour préparer cette solution.
+1.5. Proposer un protocole pour préparer cette solution avec le matériel et les
+éléments de verrerie usuels au laboratoire, dont on précisera le nom et le
+volume si nécessaire.
+2. Modélisation de la transformation chimique
+Diane
+
+intervenant dans l’arbre de
+
+On réalise l’expérience, et on prend en photos le système chimique dans son état
+initial et dans son état final. Dans l’état initial, la solution est incolore (photographie
+de gauche ci-après). Après plusieurs heures, la solution se colore progressivement
+en bleu, et le fil de cuivre se recouvre d’un solide brillant déposé sous forme de
+« feuillage métallique », qui porte le nom d’«arbre de Diane» (photographie de droite
+ci-après).
+
+État initial
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+
+État final (après plusieurs heures)
+
+Justifier qu’une transformation chimique a bien eu lieu.
+Identifier les couples mis en jeu lors de la formation d’un arbre de Diane et
+écrire les deux demi-équations correspondantes.
+En déduire que l’équation de la réaction modélisant la formation de l’arbre de
+Diane s’écrit : 2Ag+ (aq) + Cu (s) → 2Ag (s) + Cu2+ (aq)
+Avec la méthode de votre choix, montrer que le cuivre est en excès. La
+quantité initiale n d’ions argent sera prise égale à 2,2x10-2 mol.
+Avec la méthode de votre choix, déterminer la masse d’argent qui se forme
+sur le fil de cuivre si l’avancement maximal est atteint.
+
+3. Prévision de l’état final à l’aide d’un script en Python
+Le programme suivant, écrit en langage Python, permet de calculer la masse
+d’argent déposée sur le fil de cuivre.
+
+Ce programme permet aussi de s’assurer que le cuivre est bien introduit en excès :
+dans le cas contraire, le fil, qui joue aussi le rôle de support, risquerait de casser et
+l’on perdrait la végétation métallique qui met plusieurs heures à se former.
+On exécute le programme. Tout d’abord on indique les conditions expérimentales
+initiales de l’expérience décrites précédemment. On obtient l’écran suivant :
+
+Écrire la ligne qui apparaîtrait dans la console d’exécution à la suite de la saisie des
+données initiales ci-dessus. Justifier.

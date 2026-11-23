@@ -1,0 +1,395 @@
+{"pages": 13, "method": "pdftotext", "bytes": 820262, "at": "2026-11-23T09:32:30+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Étude démographique de la population d’Afrique du Sud
+Cet exercice a pour objet l’étude démographique d’une population.
+
+Document 1 : effectifs de la population en Afrique du Sud depuis 1950
+
+41,4
+
+36,8
+32,7
+
+population ( en millions)
+
+28,6
+
+25,2
+
+22,1
+19,3
+
+13,6
+
+15,2
+
+17,1
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+année
+Source : d’après World population prospects
+
+Document 2 : données démographiques d’Afrique du Sud
+Année
+
+Taux de natalité
+(pour mille)
+
+Taux de mortalité
+(pour mille)
+
+Taux d'accroissement
+annuel moyen
+(pour cent)
+
+1950
+
+43,3
+
+20,3
+
+2,3
+
+1960
+
+41,6
+
+16,7
+
+2,5
+
+1970
+
+37,1
+
+13,1
+
+2,4
+
+1980
+
+33,9
+
+10,2
+
+2,4
+
+1990
+
+28,3
+
+8,1
+
+2000
+
+22,6
+
+16,9
+
+0,6
+Source : d’après World population prospects
+
+Document 3 : la démographie dans différents pays d’Afrique sub-saharienne
+Depuis 1990, l’Afrique sub-saharienne, globalement, est entrée dans une phase de
+ralentissement démographique, passant de 2,9 % de croissance par an vers 1985 à
+2,3 % en 2000.
+Mais ce ralentissement se fait à des rythmes variables, et même divergents entre les
+pays.
+À un extrême, on trouve une petite vingtaine de pays, de différentes sous-régions,
+dont les croissances n’ont pas changé ou même ont légèrement augmenté depuis
+1985 (le Niger, le Mali, le Mozambique, la Somalie, etc.) ; à l’autre extrême, les cinq
+pays d’Afrique australe, le Zimbabwe et la Zambie dont les taux de croissance
+s’effondrent littéralement à partir de 1995 avec la surmortalité due au SIDA[…] :
+l’Afrique du Sud et le Botswana par exemple passent respectivement d’une
+croissance de 2,0 % et 2,8 % en 1990-1994 à 0,6 % et 0,9 % dix ans plus tard. C’est
+un exemple unique dans l’histoire.
+Source : d’après Tabutin-Schoumaker, « la démographie de l’Afrique au sud du Sahara des années 1950 aux
+années 2000 », Population, 2004, www.cairn-int.info/revue-population-2004-3-page-521.htm
+
+En 1950, l’Afrique du Sud est peuplée de 13,6 millions d’habitants. Entre 1950 et 1990,
+on a constaté que la population sud-africaine a augmenté en moyenne, d’une année
+sur l’autre, de 2,5 %.
+On modélise la population sud-africaine à l’aide d’une suite u. On note u(0) le nombre
+d’habitants en Afrique du Sud en 1950 et u(n) la population d’Afrique du Sud n années
+après 1950. Ainsi, u(1) est le nombre d’habitants en 1951.
+1- Justifier que l’on a la relation u(n+1) = 1,025 × u(n) pour n entier naturel.
+2- Vérifier qu’à l’aide de ce modèle, la population sud-africaine en 1951 est estimée à
+environ 13,9 millions d’habitants.
+3- À l’aide de ce modèle, estimer le nombre d’habitants en 1995 et comparer avec la
+valeur donnée sur le document 1. Indiquer si la modélisation de la variation de la
+population sud-africaine semble satisfaisante et justifier la réponse.
+4- Selon ce modèle, indiquer à partir de quelle année la population d’Afrique du sud
+dépassera 50 millions d’habitants.
+5- La population d’Afrique du Sud comptait respectivement 44 millions d’habitants en
+2000 et 45,3 millions en 2005. Compléter avec ces données le graphique fourni en
+annexe (à rendre avec la copie). Indiquer si ces données sont conformes au modèle
+proposé. Justifier la réponse.
+6- En utilisant le document 2, justifier que le taux d’accroissement annuel moyen en
+1970 est de 2,4 %.
+7- Au regard du document 2, on émet l’hypothèse qu’à partir de 1950, le taux de
+mortalité de la population diminue de 3 points sur mille tous les 10 ans. Calculer les
+taux de mortalité attendus en 1990 et 2000. Les comparer aux valeurs réelles.
+8- À partir de 1995, la population sud-africaine n’a plus suivi la variation prévue par ce
+dernier modèle. À l’aide des documents 2 et 3, donner des arguments permettant
+d’expliquer ce phénomène.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Approche historique de l’âge de la Terre
+Depuis l’Antiquité, la question de l’âge de la Terre a soulevé de nombreuses
+controverses. On se propose d’étudier différentes méthodes ayant permis d’estimer
+l’âge de la Terre au cours de l’histoire des sciences.
+Partie A. Les précurseurs : Buffon et Kelvin
+• La démarche de Buffon
+Georges Louis Leclerc, comte de Buffon, est le premier à réaliser une expérience pour
+déterminer l’âge de la Terre. Partant de l’hypothèse que la Terre a d’abord été une
+sphère de matière en fusion qui a refroidi, il chauffe au rouge 10 boulets de fer forgé
+de tailles différentes et inférieures à 5 pouces (1 pouce = 2,54 cm). Buffon mesure la
+durée de leur refroidissement et extrapole ensuite ses résultats au globe terrestre, dont
+le diamètre connu à l’époque est proche de 13 000 km. Pendant plusieurs années et
+avec des métaux différents, il effectuera plus de 60 expériences, chacune répétée trois
+fois.
+Document 1. Temps de refroidissement des boulets de canon selon leur rayon
+Temps en min
+
+Rayon
+en cm
+
+Buffon écrit :
+« Maintenant, si l’on voulait chercher […] combien il faudrait de temps à un globe gros
+comme la Terre pour se refroidir, on trouverait, d’après les expériences précédentes,
+[…] quatre-vingt-seize-mille six cent soixante-dix ans et cent trente-deux jours pour la
+refroidir à la température actuelle » (extrait de L’Histoire Naturelle, générale et
+particulière, Buffon, 1774).
+• La démarche de Kelvin
+Presque un siècle plus tard, le Britannique Lord Kelvin utilise la théorie de la
+conduction de la chaleur établie par Fourier et modélisée par « l’équation de la
+chaleur ». En considérant que l’intérieur de la Terre est homogène et rigide, il estime
+l’âge de la Terre entre 20 et 400 millions d’années en utilisant l’équation de transfert
+de chaleur.
+Lord Kelvin écrit :
+« Le fait que la température de la Terre augmente avec la profondeur sous la surface
+implique une perte continue de chaleur de l’intérieur par conduction vers l’extérieur, à
+travers ou dans la croûte supérieure. Puisque la croûte supérieure ne devient pas plus
+chaude d’année en année, il doit donc y avoir une perte de chaleur séculaire de la
+Terre entière… Mais il est certain que la Terre devient de plus en plus froide d’âge en
+âge… » (d’après On the Secular Cooling of the Earth, Lord Kelvin, 1862).
+En s’appuyant sur le document 1, les informations précédentes et sur les
+connaissances personnelles, répondre aux questions suivantes.
+1- Expliciter la démarche mise en œuvre par Buffon, ses points forts et ses limites.
+2- Expliciter la démarche mise en œuvre par Lord Kelvin, ses points forts et ses limites.
+3- Commenter les âges de la Terre proposés par Buffon et Kelvin. On attend une
+comparaison des valeurs, de leur précision et de leur ordre de grandeur.
+
+Partie B. Les positions des géologues et de Charles Darwin
+Au XIXe siècle, des géologues à l’instar de Charles Lyell, affirment que l’explication du
+passé de la Terre réside dans l’étude des phénomènes géologiques actuels. Ils
+utilisent la vitesse de sédimentation pour évaluer l’âge de la Terre.
+En considérant que les sédiments se déposent à un rythme compris entre 1 mm et
+1 cm par an, ils estiment l’âge de la Terre a environ 3 milliards d’années.
+Quant à Charles Darwin, il s’oppose à Kelvin dans son ouvrage « De l’origine des
+espèces » paru en 1859. Selon lui, la théorie de l’évolution permet d’expliquer la
+diversité du vivant, mais elle nécessite des temps très longs, de l’ordre du milliard
+d’années.
+
+Document 2. Coupe géologique d’un affleurement géologique à Wöllstein (Allemagne)
+
+L
+
+Argile
+
+Socle (roche magmatique)
+L
+
+L’épaisseur de chaque couche est en mètres.
+D’après Gustave-F. Dollfus, Bulletin de la société géologique de France, 1911
+
+4- En considérant que la vitesse de sédimentation est de 0,1 mm par an et que les
+sédiments formant ces différentes strates (couches 1 à 5) se sont déposés de manière
+uniforme, estimer la durée de formation de l’ensemble des strates de Wöllstein
+surmontant le socle.
+5- Comparer cet âge à celui estimé par Darwin. Proposer une hypothèse pour laquelle
+cette estimation de l’âge de la Terre à partir de cette coupe géologique est très
+différente.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents des pages suivantes :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+-10
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+légère
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Document réponse à rendre avec la copie
+Exercice 1
+Étude démographique de la population d’Afrique du Sud
+
+Réponse à la question 5

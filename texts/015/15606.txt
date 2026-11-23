@@ -1,0 +1,204 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1408738, "at": "2026-11-23T09:29:07+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Science, climat et société »
+
+Une élévation inquiétante du niveau des océans
+Sur 10 points
+Le but de cet exercice est d’évaluer l’élévation de température de la couche
+supérieure de l’océan et son impact sur la hausse du niveau de l'eau.
+Partie 1 – Étude de l’élévation de la température de la couche supérieure des
+océans
+L'océan joue un rôle majeur dans le changement climatique en raison de sa grande
+masse et de sa capacité thermique élevée par rapport à l'atmosphère. De plus, en
+raison d’un albédo très bas, il absorbe beaucoup plus le rayonnement solaire que la
+glace.
+Source : d’après GIEC - Climate Change 2013: The Physical Science Basis
+
+Données :
+
+La Terre peut être assimilée à une sphère dont 71 % de la surface est
+recouverte par les océans.
+
+Le rayon moyen de la Terre est 𝑅 = 6371 km.
+
+La surface d’une sphère est 𝑆 = 4 × 𝜋 × 𝑅 2.
+
+La masse volumique de l’eau de mer est 𝜌 = 1,02.103 kg ∙ m−3 .
+
+Volume de la couche supérieure des océans 1 × 1017 m3 .
+
+1- Calculer la surface S des océans sur Terre en km2.
+2- L’élévation de température des océans concerne essentiellement la couche
+supérieure. À partir du document 1 suivant, estimer l’énergie E emmagasinée par
+la couche supérieure des océans entre 1970 et 2010.
+
+Document 1 – Estimation de l’énergie thermique accumulée par la couche
+supérieure (0-700m) des océans entre 1955 et 2013
+
+Source : d’après https://www.nodc.noaa.gov
+
+Lorsque l’eau emmagasine de l’énergie par transfert thermique, et s'il n’y a pas de
+changement d’état, sa température augmente. La variation d’énergie stockée, E,
+peut-être reliée à la variation de température par la relation 𝐸 = 𝑚 × 𝑐 × 𝛥𝑇 avec :
+𝑚 : masse d’eau, en kilogrammes (kg) ;
+𝛥𝑇 : variation de température, en degrés Celsius (°C) ;
+E : variation d’énergie stockée, en joules (J) ;
+𝑐 : capacité thermique de l’eau ; 𝑐 = 3,98 × 103 J ∙ kg −1 ∙ °C−1 pour l’eau de mer.
+3- Calculer l’élévation de température de la couche supérieure de l’océan entre
+1970 et 2010.
+4- Indiquer si la valeur obtenue est en accord avec les observations du document 2
+page suivante.
+
+Document 2 – Évolution de la température moyenne de la surface des terres et
+des océans
+
+Source : https://data.giss.nasa.gov/gistemp/graphs/#
+
+Partie 2 – Étude de la dilatation thermique de l’océan
+Lorsqu’un corps s’échauffe, son volume change. Le coefficient de dilatation 𝛽
+caractérise cette évolution.
+Dans le cas de l’océan, on admet que seule la hauteur de la couche superficielle
+évolue alors que la surface reste inchangée.
+Pour une augmentation de température ΔT, on a la relation :
+Δh
+= 𝛽 × ΔT
+h
+Δh étant la variation de la hauteur h, et h la hauteur initiale.
+Le coefficient de dilatation de l’eau de mer est 𝛽 = 2,6 × 10−4 °C−1 à 15 °C.
+5- En prenant en compte une élévation de température de la couche superficielle
+(d’épaisseur h=300 m) de l’océan de 0,4 °C entre 1970 et 2010, calculer
+l’élévation du niveau de la mer provoquée par cet échauffement.
+6- À l’aide du document 3 suivant, estimer l’élévation du niveau de la mer entre
+1970 et 2010.
+
+Document 3 – Augmentation du niveau de la mer entre 1880 et 2016
+
+Source : d’après https://climate.nasa.gov
+
+7- Indiquer un autre facteur intervenant dans l’élévation du niveau de la mer et
+expliquant l’écart entre les précédentes valeurs obtenues.
+
+Exercice 2 – Niveau terminale
+Thème « Le futur des énergies »
+
+Pédaler pour produire son électricité
+Sur 10 points
+Pour produire de l’électricité, on utilise une énergie primaire qui peut avoir différentes
+origines. Depuis quelques années, les scientifiques s’intéressent à la transformation
+de l’énergie produite par le corps humain en énergie électrique, car la production
+d’électricité sans utiliser les combustibles fossiles est devenu un enjeu majeur dans
+notre société.
+Ainsi, certaines entreprises proposent par exemple à leurs salariés de travailler sur
+des bureaux-pédaliers afin de recharger leurs appareils, et certaines associations
+proposent un cinéma itinérant où la projection du film est possible grâce aux
+spectateurs qui se relaient pour produire l’électricité nécessaire en pédalant.
+Ces dispositifs utilisent un alternateur pour produire de l’énergie électrique.
+On s’intéresse ici aux méthodes de production d’électricité par pédalage, et à
+quelques-uns de leurs effets sur la santé.
+Document 1 – Produire de l’électricité sans
+combustion
+En 1820, le physicien danois Hans Christian
+Œrsted fut le premier à découvrir le lien entre
+l’électricité et le magnétisme puis en 1831,
+Michael Faraday mit en évidence le lien entre
+l’électricité, le magnétisme et le mouvement : il
+découvrit le phénomène d’induction
+électromagnétique, à la base du fonctionnement
+d’un alternateur.
+
+Source : d’après connaitrelascience.wordpress.com
+
+Schéma simplifié d’un
+alternateur : un courant électrique
+apparaît dans les bobines
+placées autour de l’aimant en
+rotation
+
+1- À partir du document 1, indiquer les numéros de la légende correspondant au
+rotor et au stator.
+
+2- Recopier sur votre copie l’affirmation exacte parmi les quatre propositions
+suivantes :
+Lors du fonctionnement d’un alternateur, on peut dire que l’énergie...
+a) ..électrique est transformée en énergie mécanique et une partie est perdue
+sous forme d’énergie thermique ;
+b) ..mécanique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie thermique ;
+c) ..thermique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie magnétique ;
+d) ..magnétique est convertie en énergie mécanique et une partie est perdue
+sous forme d’énergie électrique.
+3- Citer deux sources d’énergie primaire permettant de produire de l’énergie
+électrique sans combustion. Préciser pour chacune s’il s’agit d’une source
+d’énergie disponible sous forme de stock ou de flux.
+Certains modes de production d’énergie sont intermittents ce qui nécessite des
+solutions de stockage de l’énergie dont certaines sont à l’étude.
+4- Citer deux dispositifs qui permettent le stockage de l’énergie.
+Document 2 – Pédaler pour produire son électricité
+Une batterie de téléphone portable stocke approximativement une énergie égale à
+10 Wh. Une recharge complète de ce type de batterie à partir d’un chargeur
+électrique génère approximativement 0,5 gramme d’équivalent CO2.
+Une personne peut produire en pédalant une énergie de 30 Wh. Ainsi, il est
+possible de recharger cette batterie à 75 % de sa capacité totale en pédalant
+pendant 15 minutes. Cet effort nécessite une dépense métabolique importante.
+Source : d’après connaissancedesenergies.org
+
+5- Définir l’empreinte carbone et l’illustrer avec un exemple issu du document 2.
+6- En considérant que l’énergie nécessaire au fonctionnement d’un ordinateur
+portable est égale à 6 fois celle d’un téléphone portable, évaluer la durée totale
+de pédalage nécessaire pour recharger complètement un téléphone puis un
+ordinateur.
+
+Document 3 – Pédaler pour sa santé
+La production de l’électricité dans les centrales thermiques à partir de
+carburants fossiles émet dans l’air des composés chimiques (SO2, NO, etc.), et
+des particules fines, en suspension, de tailles variées.
+Ces éléments polluants impactent directement la santé humaine en
+provoquant notamment des inflammations du système respiratoire,
+particulièrement chez les personnes fragilisées. Cette pollution atmosphérique
+contribue ainsi à la diminution de leur longévité.
+Des chercheurs ont estimé, au moyen de modèles mathématiques, les
+conséquences de la réduction des émissions de particules fines de moins de
+2,5 m (notées PM 2,5) sur la surmortalité et l’espérance de vie, selon trois
+scénarios :
+
+réduction à 4,9 µg.m-3 (valeur que l’on peut rencontrer dans un site de
+haute montagne à faible activité économique) ;
+
+réduction à 10 µg.m-3 (valeur recommandée par l’OMS) ;
+
+réduction à 15 µg.m-3 (objectif fixé par le plan national santéenvironnement de 2009).
+
+Les résultats sont présentés dans les graphiques ci-dessous où les barres
+matérialisent l’intervalle de confiance à 95 %.
+
+Source : d’après Santé Publique France
+
+7- Réaliser une analyse critique des résultats présentés dans le document 3.
+8- À l’aide des connaissances et des documents 2 et 3, résumer les avantages et
+les limites d’une production d’électricité en pédalant.

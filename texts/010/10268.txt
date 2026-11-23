@@ -1,0 +1,410 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1862549, "at": "2026-11-23T09:44:19+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+Question A.2
+Parmi les noms suivants, lequel n'est pas celui d'une méthode d'encodage des caractères ?
+UTF-16
+ASCII
+Arial
+Unicode
+Question A.3
+Quel est l'entier positif dont la représentation binaire est 0100 1001 ?
+Question A.4
+Quelle est la représentation binaire, en complément à 2 sur 8 bits, de l'entier négatif –25 ?
+0001 1001
+1001 1001
+1110 0110
+1110 0111
+
+Question A.5
+Voici une table de vérité.
+a
+
+b
+
+c
+
+mux(a,b,c)
+
+Laquelle des fonctions suivantes lui correspond-elle ?
+return (not(a) and b) or (a and c)
+return (a and b) or (not(a) and c)
+return (not(a) or b) and (a or c)
+return b or (a and c)
+Question A.6
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+
+Thème B : types construits
+Question B.1
+Quelle est la valeur de la variable r à la fin de l'exécution du script suivant ?
+t = (10,6,1,12,15)
+r = t[3] - t[1]
+-9
+Question B.2
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+Question B.3
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+]
+
+Quelle expression permet d'accéder au poste d'Éric ?
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+
+Question B.4
+On considère deux entiers strictement positifs L et C. On note n = L*C leur produit et on écrit la fonction
+suivante, qui construit un tableau de L lignes et C colonnes, contenant les entiers consécutifs de 0 à n-1 :
+def construitTable(L,C):
+t = []
+for i in range(L):
+ligne = []
+for j in range(C):
+......
+t.append(ligne)
+return t
+Par exemple, l'appel construitTable(2,3) doit renvoyer la table :
+[ [0, 1, 2],
+[3, 4, 5] ]
+Que faut-il écrire à la place des points de suspension pour obtenir ce résultat ?
+ligne.append(i + C*j)
+ligne.append(L*i + j)
+ligne.append(i + L*j)
+ligne.append(C*i + j)
+Question B.5
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]] ?
+
+Question B.6
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+
+Thème C : traitement de données en tables
+Question C.1
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C.2
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C.3
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à un
+tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C.4
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Question C.5
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+
+Question C.6
+notes = {"Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18}
+t = list(notes.keys())
+Quelle est la valeur de t à la fin de cette exécution ?
+Paul
+["Paul", '"Jean", "Clara", "'Aïssa']
+[12, 16, 14, 18]
+[ "Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18 ]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D.2
+Parmi ces quatre éléments d’un formulaire HTML, lequel est prévu pour envoyer les données saisies ?
+<input name="file" type="file"/>
+<input value="here we go !" type="submit"/>
+<input name="email" type="email"/>
+<input value="once again !" type="reset"/>
+Question D.3
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D.4
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+Question D.5
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+
+Question D.6
+On considère le formulaire ci-dessous :
+Quel est votre langage préféré ?
+Python □ Java □ Php □
+Quelle balise parmi les quatre suivantes a été utilisée pour les cases à cocher ?
+<input type="radio">
+<input type="circle">
+<input type="checkbox">
+<input type="square">
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E.2
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez unfournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question E.3
+Dans un shell sous Linux, Alice utilise la commande pwd.
+Cette commande :
+liste les fichiers du répertoire courant
+liste les répertoires du répertoire courant
+affiche le chemin du répertoire courant
+affiche les permissions relatives au répertoire courant
+Question E.4
+Quelle est l’utilité de la commande ping dans un réseau informatique ?
+établir un réseau privé virtuel
+tester si la connexion peut être établie avec une machine distante
+obtenir la route suivie par un paquet dans le réseau
+mesurer les performances d'une machine distante
+
+Question E.5
+Dans un réseau informatique, que peut-on dire de la transmission de données par paquets ?
+cela empêche l’interception des données transmises
+cela garantit que toutes les données empruntent le même chemin
+cela assure une utilisation efficace des liens de connexion
+cela nécessite la réservation d’un chemin entre l’émetteur et le récepteur
+
+Question E.6
+Quel matériel permet d'interconnecter des réseaux entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+
+Thème F : langages et programmation
+Question F.1
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F.2
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+
+Question F.3
+On définit la fonction f suivante qui prend en argument une liste t d'entiers :
+def f(t):
+n = len(t)
+for i in range(n-1):
+for j in range(i+1,n):
+if t[i] == t[j]:
+return True
+return False
+Pour quelle valeur de t, f(t) vaut-elle True ?
+[[2,3], [3,4], [4,5], [2,3]]
+[[2,2], [3,4], [4,5], [2,3]]
+[[2,3], [3,2], [4,5], [5,4]]
+[[3,3], [4,4], [5,5], [6,6]]
+Question F.4
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F.5
+On définit une fonction f de la façon suivante :
+def f(L,m):
+R = []
+for i in range(len(L)):
+if L[i] > m:
+R.append(L[i])
+return R
+On définit L = [1, 7, 3, 4, 8, 2, 0, 3, 5].
+Que vaut f(L,4) ?
+[0, 7, 0, 0, 8, 0, 0, 0, 5]
+[0, 0, 0, 5]
+[7, 8, 5]
+[]
+Question F.6
+En Python, quelle est la méthode pour charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Thème G : algorithmique
+Question G.1
+On dispose d’un distributeur de boissons qui rend la monnaie uniquement en pièces de 1 centime, 10 centimes,
+50 centimes et 1 euro. On veut que le distributeur rende le moins de pièces possibles pour une somme donnée.
+On commence par rendre le plus de pièces possibles de 1 euro (sans dépasser la somme à rendre), puis le plus
+possible de pièces de 50 centimes, etc.
+Par exemple, s’il faut rendre 3 euros et 25 centimes, on doit rendre 3 pièces de 1 euro (il reste alors 25 centimes
+à rendre), puis 2 pièces de 10 centimes et enfin 5 pièces de 1 centime.
+Comment s’appelle le type d’algorithme décrit pour rendre la monnaie ?
+Un algorithme de type « diviser pour régner »
+Un algorithme de tri
+Un algorithme de type « glouton »
+Un algorithme probabiliste
+Question G.2
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G.3
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+
+Question G.4
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+2.2
+Question G.5
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.
+
+Question G.6
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1

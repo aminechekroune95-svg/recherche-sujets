@@ -1,0 +1,436 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1160001, "at": "2026-11-23T09:40:32+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle table de vérité correspond à l'expression (non(A) ou B) ?
+Remarque : dans les tables proposées, la première colonne donne les valeurs de A, la première ligne les valeurs
+de B.
+
+Question A 2
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+Question A 3
+Quelle est l'écriture binaire de 199 ?
+1111 1001
+1100 0111
+1100 1110
+0111 0111
+Question A 4
+
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+Question A 5
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x = 1
+for i in range(10):
+x = x * 2
+1024
+2048
+20000000000
+Question A 6
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de
+0 en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+
+Thème B : types construits
+Question B 1
+La variable sequence contient une liste de lettres, éventuellement répétées, choisies parmi 'A', 'B', 'C', 'D'.
+On veut créer un dictionnaire effectifs associant à chaque lettre le nombre de fois qu'elle apparaît dans la
+liste sequence.
+Par exemple si sequence contient ['A', 'B', 'B', 'D', 'B', 'A'],
+effectifs doit contenir {'A':2, 'B':3, 'C':0, 'D':1}.
+Parmi les scripts suivants, lequel réalise cet objectif ?
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+effectifs = {}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+Question B 2
+Quelle est la valeur de l'expression [[n,n+2] for n in range(3)] ?
+[0,2,1,3,2,4]
+[1,3,2,4,3,5]
+[[0,2],[1,3],[2,4]]
+[[1,3],[2,4],[3,5]]
+Question B 3
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+
+{ 'ftp': 21 }
+Key not found
+Question B 4
+Laquelle des quatre expressions suivantes a-t-elle pour valeur la liste [1, 2, 5, 10] ?
+[i for i in range(4) if i<2]
+[i for i in range(4)]
+[i*i + 1 for i in range(4)]
+[i*i - 2*i + 2 for i in range(4)]
+Question B 5
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 6
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 2
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 3
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 4
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i], table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+
+Question C 5
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 6
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D 2
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 3
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D 4
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 5
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+Question D 6
+
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui affiche une
+erreur 404.
+Quel cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion Internet
+un changement de titre du forum qu'il veut consulter
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+En informatique, que signifie l'acronyme ROM ?
+Rewrite Only Memory
+Reset Only Memory
+Read Only Memory
+Recall Only Memory
+Question E 2
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E 3
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E 4
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+Question E 5
+Lequel de ces systèmes d'exploitation est libre ?
+
+Linux
+Windows
+MacOS
+iOS
+Question E 6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 2
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F 3
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F 4
+On définit la fonction suivante :
+def f(x,y,z):
+if x+y == z:
+return True
+else:
+return False
+Quel type de paramètres est-il déconseillé d'utiliser avec cette fonction ?
+les entiers
+les chaînes de caractères
+les flottants
+les tableaux
+Question F 5
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F 6
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+
+Thème G : algorithmique
+Question G 1
+La recherche dichotomique est un algorithme rapide qui permet de trouver ou non la présence d’un élément
+dans un tableau. Mais, pour l’utiliser, une contrainte est indispensable, laquelle ?
+le tableau ne contient que des nombres positifs
+la longueur du tableau est une puissance de 2
+le tableau est trié en ordre croissant
+le tableau ne contient pas la valeur 0
+Question G 2
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+2.2
+Question G 3
+La fonction ci-dessous permet d’effectuer une recherche par dichotomie de l’index m de l’élément x dans un
+tableau L de valeurs distinctes et triées.
+def dicho(x,L):
+g = 0
+d = len(L)-1
+while g <= d:
+m = (g+d)//2
+if L[m] == x:
+return m
+elif L[m] < x:
+g = m+1
+else:
+d = m-1
+return None
+Que renvoie l'appel dicho(32, [4, 5, 7, 25, 32, 50, 51, 60] )?
+
+None
+True
+Question G 4
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇
+Question G 5
+La fonction suivante prend en arguments deux entiers positifs et renvoie leur produit.
+def produit(a,b):
+c = 0
+i = 0
+while i < b:
+#
+i = i + 1
+c = c + a
+return c
+Quelle propriété reste vraie à chaque passage par la ligne marquée d'un # ?
+𝑐 = 𝑎 × (𝑖 + 1)
+𝑐 = 𝑎 × (𝑖 − 1)
+𝑐 =𝑎×𝑖
+𝑐 =𝑎×𝑏
+Question G 6
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire

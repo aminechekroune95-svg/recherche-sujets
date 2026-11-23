@@ -1,0 +1,341 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1256278, "at": "2026-11-23T09:33:59+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+GAMME TEMPÉRÉE ET GUITARE CLASSIQUE
+
+Après avoir rappelé quelques généralités sur la gamme tempérée, cet exercice
+s’intéresse à l’espacement des frettes d’une guitare classique.
+
+Partie A. Gamme tempérée
+
+Il y a eu dans l’histoire de nombreuses méthodes de construction de gammes pour
+ordonner les notes à l’intérieur d’une octave.
+On peut diviser l’octave en douze intervalles à l’aide de treize notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si, Do). La gamme fréquemment utilisée
+de nos jours est la gamme au tempérament égal (ou gamme tempérée), dans
+laquelle le rapport de fréquences entre deux notes consécutives est constant.
+1- Rappeler la valeur du rapport des fréquences de deux notes situées aux
+
+extrémités d’une octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est √2.
+3- Le tableau suivant indique les fréquences (en Hertz), arrondies au dixième, de
+quelques notes de la gamme tempérée.
+Note
+Mi3
+Fa3
+Fa3#
+Sol3
+Sol3#
+La3
+Si3b
+Si3
+Fréquence
+329,6
+349,2
+370,0
+392,0
+440,0 466,2 493,9
+(Hz)
+Calculer la valeur, arrondie au dixième, de la fréquence qui manque dans le tableau
+ci-dessus.
+
+Do4
+523,3
+
+Partie B. Application aux frettes de la guitare classique
+En observant le manche d’une guitare classique, on remarque que les barrettes
+métalliques, appelées frettes, situées sur les cordes, ne sont pas espacées
+régulièrement : plus on s’approche du chevalet, plus elles sont resserrées.
+Cette partie se propose d’expliquer pourquoi.
+Document 1 : manche d’une guitare classique
+
+Une guitare classique est constituée de 6 cordes. La longueur située entre le
+chevalet et le sillet est la plus grande longueur de corde pouvant vibrer. On la note
+𝐿0 . On suppose ici que 𝐿0 = 650 mm. Le manche de la guitare est divisé en plusieurs
+cases délimitées par les frettes. Ces frettes permettent au joueur de guitare de
+modifier la longueur de la corde pouvant vibrer, et par conséquent de faire varier la
+fréquence du son issu de cette vibration.
+On se place dans le cas simple où le joueur utilise une seule corde.
+
+S’il joue à vide, c’est-à-dire sans pincer la corde au niveau d’une case, la corde qui
+vibre, de longueur 𝐿0 , produit un son d’une fréquence 𝑓0 . Lorsqu’il pince la corde au
+niveau de la case 𝑛, située juste au- dessus de la 𝑛-ième frette, la corde qui vibre, de
+longueur 𝐿𝑛 , émet un son de fréquence 𝑓𝑛 .
+Ces grandeurs sont reliées entre elles par la relation :
+𝐿𝑛 × 𝑓𝑛 = 𝐿0 × 𝑓0
+
+où :
+- 𝑛 est le numéro de la frette, compté à partir du haut du manche (𝑛 = 0 pour une
+
+corde jouée « à vide »).
+- 𝐿𝑛 est la longueur de la corde entre le chevalet et la 𝑛-ième frette.
+- 𝑓𝑛 est la fréquence de la note jouée lorsque l’on pince la corde au niveau de la case
+
+𝑛.
+
+4- Lorsqu’on joue à vide la corde la plus fine de la guitare, le son émis est le Mi3.
+
+Pour obtenir un Mi4 le joueur pince cette même corde au niveau de la 12e case
+(située juste au-dessus de la 12e frette), ce qui produit un son de fréquence 𝑓12 = 2 ×
+𝑓0 .
+4-a- Le Mi4 est-il plus aigu ou plus grave que le Mi3 ?
+
+4-b- Parmi les réponses suivantes, indiquer celle quelle qui correspond à la longueur
+
+𝐿12 correspondant à la fréquence 𝑓12 . Justifier la réponse.
+
+1) 𝐿12 = 2 × 𝐿0
+
+𝐿
+
+2) 𝐿12 = 20
+
+3) 𝐿12 = 𝐿
+
+5- Longueur de la 1re case.
+
+On rappelle que la fréquence du Fa3 est égale à 𝑓1 = √2 𝑓0 . Pour obtenir un Fa3, on
+pince la corde au niveau de la première case, la longueur de la corde vibrante étant
+alors égale à L1.
+𝐿
+
+Sachant que 𝐿1 = 120 , donner l’expression de la longueur de la première case en
+√2
+
+fonction de L0.
+
+EXERCICE 2
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTÈME SOLAIRE
+Le système solaire est formé d’une étoile, le Soleil, autour de laquelle des planètes, des
+satellites, des astéroïdes sont en orbite. La distance entre ces objets et l’étoile a une
+influence sur leur température de surface mais il semble que cela ne soit pas le seul facteur
+entrant en jeu…
+Document de référence : Caractéristiques de quelques objets du système solaire :
+Planètes
+internes
+Caractéristiques
+Distance au Soleil
+(106 km)
+Puissance solaire
+reçue par unité de
+surface (Wm-2)
+Importance
+qualitative de l’effet
+de serre
+atmosphérique
+Albédo du système
+« planèteatmosphère »**
+Satellites
+
+Mercure
+
+Venus
+
+Terre
+
+Mars
+
+57,91
+
+108,21
+
+149,6
+
+227,94
+
+2290
+
+Pas d’effet de Effet de serre
+Effet de serre
+serre
+atmosphérique atmosphérique
+atmosphérique très marqué
+modéré
+
+Effet de serre
+atmosphérique
+faible
+
+0,07
+
+0,15
+
+Aucun
+
+0,7
+
+Aucun
+
+La Lune :
+Phobos :
+Pas d’atmosphère Pas d’atmosphère
+Albédo : 0,07
+Albédo : 0,07
+
+** L’albédo mesure le pouvoir réfléchissant d’une surface. C’est la proportion d’énergie
+lumineuse réfléchie. Sa valeur est comprise entre 0 et 1. Plus une surface est réfléchissante,
+plus son albédo est élevé. Par exemple, l'albédo de la neige fraîche est de 0,87, ce qui signifie
+que 87 % de l’énergie lumineuse est réfléchie par ce type de neige.
+L'albédo d’un système Planète-atmosphère est la proportion de l'énergie solaire qui est
+réfléchie par la planète et son atmosphère vers l'espace. Les éléments qui contribuent le plus à
+l'albédo du système Terre-atmosphère sont les nuages, les surfaces de neige et de glace et
+les aérosols.
+D’après : Géosciences La dynamique du système Terre de Christian Robert et Romain Bousquet,
+https://www.actu-environnement.com et https://www.futura-sciences.com
+
+Partie 1 : Des données expérimentales à un modèle mathématique possible.
+
+Document 1. Montage expérimental permettant de mesurer la puissance lumineuse reçue par
+un récepteur en fonction de la distance à la source lumineuse.
+On dispose d’une lampe et d’un
+capteur, le luxmètre*, permettant de
+mesurer l’éclairement lumineux reçu.
+L’expérimentateur réalise une série de
+mesures en éloignant progressivement
+le luxmètre de la lampe. On présente
+ces mesures dans le tableau cidessous.
+Tableau des mesures réalisées :
+Distance par rapport à
+la lampe (en mètres)
+
+0,2
+
+0,4
+
+0,5
+
+0,7
+
+0,8
+
+0,9
+
+Éclairement lumineux
+reçu (en lux**)
+
+10 800
+
+5 300
+
+3 100
+
+1 800
+
+1 000
+
+D’après : https://www.pierron.fr/news/fiches-tp-svt-2nd.html
+
+* Luxmètre : Appareil de mesure de l'éclairement lumineux comportant une cellule
+photosensible.
+** Lux : unité de mesure de l'éclairement lumineux (puissance lumineuse reçue par unité de
+surface).
+1- Le graphique de l’annexe 1 (à rendre avec la copie) permet de représenter les variations
+de l’éclairement lumineux reçu par le capteur en fonction de la distance à la source
+d’énergie, Reporter sur ce graphique les points expérimentaux obtenus dans le document 1.
+
+2- À partir de l’allure du nuage de points obtenu à la question 1, un tableur permet de
+proposer une modélisation mathématique par une fonction. Cette fonction, notée 𝑓, est
+définie par :
+𝑓(𝑑) =
+
+𝑑2
+
+où 𝑑 représente la distance à la lampe (en mètre) et 𝑓(𝑑) l’éclairement lumineux reçu (en
+lux).
+
+2-a- En utilisant cette modélisation mathématique, compléter le tableau de valeurs donné en
+annexe 2 à rendre avec la copie. On arrondira les résultats à l’unité.
+2-b- Représenter la fonction 𝑓 dans le repère donné en annexe 1.
+2-c- Cette modélisation mathématique semble-t-elle pertinente pour caractériser la relation
+entre l’éclairement lumineux reçu par le capteur et la distance à la source lumineuse ?
+Justifier.
+3- On admet que la loi illustrée expérimentalement dans le document 1 est générale : « La
+puissance lumineuse par unité de surface reçue par un objet est inversement proportionnelle
+au carré de la distance qui le sépare de la source lumineuse ».
+En s’appuyant sur le document de référence, choisir, parmi les affirmations suivantes, celle
+qui est correcte au regard de ce modèle. L’écrire sur la copie et justifier la réponse donnée.
+La puissance lumineuse par unité de surface, provenant du Soleil et reçue sur Venus est
+environ :
+a) deux fois plus grand que celui reçu sur Mercure.
+b) quatre fois plus grand que celui reçu sur Terre.
+c) deux fois plus petit que celui reçu sur Terre.
+d) quatre fois plus petit que celui reçu sur Mercure.
+
+Partie 2 : Confrontation du modèle mathématique à la réalité.
+Dans cette partie, on admet que la puissance reçue par unité de surface par les objets du
+système solaire est inversement proportionnelle au carré de leur distance au soleil, d’une
+façon analogue à l’étude menée en partie 1. Moyennant certaines hypothèses, on peut en
+déduire une « loi de variation de la température moyenne des planètes en fonction de leur
+distance au soleil » (voir le document 2).
+
+Document 2. Températures de surface de quelques objets proches du Soleil.
+Le graphique ci-dessous précise :
+ Les températures moyennes effectivement mesurées à la surface de différentes
+planètes en fonction de leur distance au soleil (points gris).
+ L’évolution de la température moyenne d’un objet en fonction de la distance au soleil
+modélisée par la « loi de variation de la température moyenne des planètes en
+fonction de leur distance au soleil » (courbe continue).
+
+ua : Unité astronomique
+(1 ua  150 x 106 km)
+
+D’après : Collection in vivo, SVT 2de 2004, Magnard
+4- Quels sont les objets considérés dans le document 2 pour lesquels la loi modélisant
+l’évolution de la température des planètes en fonction de leur distance au Soleil est bien
+vérifiée ? Quelles propriétés ces objets ont-ils en commun ?
+5- A partir de vos connaissances, expliquer qualitativement l’influence de l’albedo et de l’effet
+de serre sur la température terrestre moyenne.
+6- Proposer une explication du fait que la température de Vénus est « anormalement »
+élevée par rapport aux autres objets considérés.
+
+ANNEXE A RENDRE AVEC LA COPIE
+EXERCICE 2
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTEME SOLAIRE
+Annexe 1 – Partie 1 – questions 1- et 2-bÉclairement lumineux reçu (en lux)
+
+Annexe 2 – Partie 1 – question 2-a𝑑
+
+0,2
+
+0,4
+
+0,5
+
+0,6
+
+0,8
+
+4 700
+
+1 728
+
+(en m)
+𝑓(𝑑)
+
+10 800
+
+(en lux)

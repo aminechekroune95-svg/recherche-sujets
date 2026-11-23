@@ -1,0 +1,249 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1277406, "at": "2026-11-23T09:21:58+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 9
+PARTIE A
+Le projet SEAREV : Système Électrique Autonome de Récupération de l’Énergie des
+Vagues (10 points)
+Comment fonctionne le système SEAREV ? SEAREV est un système offshore de deuxième
+génération composé d’un flotteur clos et étanche dans lequel est suspendue une roue chargée
+qui joue le rôle d’un pendule embarqué. Cette roue à axe horizontal, de grand diamètre (9 m),
+dont la moitié supérieure est évidée, a sa masse concentrée dans la moitié inférieure, lestée
+de béton, d’où l’effet de pendule. Sous l’action de la houle et des vagues, le flotteur se met à
+osciller, entraînant à son tour un mouvement de va-et-vient de la roue pendulaire. Chacun a
+son propre mouvement, et c’est le mouvement relatif entre le flotteur et la roue qui actionne un
+système hydro-électrique de conversion de l’énergie mécanique en électricité : des pompes
+hydrauliques liées à la roue pendulaire chargent des accumulateurs à haute pression ; en se
+déchargeant, ces derniers livrent à leur tour leur énergie à des moteurs hydrauliques qui
+entraînent des générateurs d’électricité. Plusieurs flotteurs SEAREV mouillés au large forment
+un parc (ou ferme). L’électricité est ramenée à terre par un câble sous-marin.
+http://www2.cnrs.fr/sites/communique/fichier/08searev.pdf
+
+Pour comprendre le fonctionnement complexe de la roue pendulaire du SEAREV, il a fallu
+s’intéresser aux oscillations libres des systèmes. Dans cet exercice, la roue pendulaire est
+modélisée par un pendule simple composé d’une bille de masse m et d’un fil de longueur L.
+On considère que la roue pendulaire, au passage d'une vague, effectue une oscillation
+complète (soit un aller-retour).
+
+Schéma d'un module SEAREV
+www.energies2demain.com
+
+Schéma d'un pendule simple
+
+Afin d'étudier le pendule simple, une vidéo enregistrant les oscillations du pendule a été
+réalisée ainsi que le pointage des positions occupées par le pendule au cours du temps. On
+obtient la courbe présentée ci-après.
+Oscillations du pendule simple
+
+1. Déterminer la valeur de la période des oscillations du pendule simple étudié.
+
+2. En déduire celle de la fréquence des oscillations de ce pendule.
+3. On considère que des vagues atteignent un module SEAREV à un rythme constant. On
+modélise la roue pendulaire par le pendule simple étudié ci-dessus. Calculer le nombre de
+vagues qui atteindraient le module en 50 secondes. Commenter le résultat obtenu.
+L’énergie des vagues
+On considère la puissance moyenne annuelle transportée par mètre perpendiculaire à la
+direction de propagation des vagues. Les valeurs maximales à la surface du globe, 100 kW·m1, se trouvent au Cap Horn, alors que dans le Golfe de Gascogne en face de nos côtes, on
+trouve des niveaux de 40 kW·m-1. La ressource moyenne globale en puissance des vagues se
+situerait entre 1,3 et 2 TW (soit entre 1,3.1012 et 2.1012 W) d’après le World Energy Council,
+soit l’ordre de grandeur de la puissance électrique mondiale installée (~2 TW). L’énergie
+récupérable avec les moyens envisagés aujourd’hui serait de l’ordre de 140 à 750 TWh par
+an. Les développeurs estiment que l’on pourrait installer en mer des parcs de machines avec
+une densité de puissance de l’ordre de 25 MW par km2 de mer occupée, ce qui pourrait
+alimenter de 7 000 à 8 000 foyers français en électricité (moyenne annuelle hors chauffage).
+http://www2.cnrs.fr/sites/communique/fichier/08searev.pdf
+4. Indiquer si le module SEAREV est un convertisseur d'énergie. Justifier.
+Afin de mieux comprendre l'aspect énergétique du module SEAREV, on étudie les énergies
+associées aux oscillations d'un pendule simple. On obtient les courbes simulées ci-après
+représentant les variations des énergies cinétique, potentielle et mécanique d'un pendule
+simple.
+5. Un joule équivaut à un kg∙m2∙s-2. Parmi les expressions suivantes, choisir, en justifiant à
+l'aide d'une analyse des unités, celle de l'énergie cinétique 𝐸𝐶 puis celle de l'énergie
+potentielle de pesanteur 𝐸𝑃𝑃 :
+
+a) 𝐸𝐶 = 2 × 𝑚 × 𝑣 2
+
+d) 𝐸𝑃𝑃 = 𝑚 × 𝑔
+
+b) 𝐸𝐶 = 2 × 𝑚 × 𝑣
+
+e) 𝐸𝑃𝑃 = 𝑚 × 𝑔 × 𝑧
+
+c) 𝐸𝐶 = 2 × 𝑣 2
+
+f) 𝐸𝑃𝑃 = 𝑔 × 𝑧
+où 𝑚 est la masse du système étudié, 𝑣 est la vitesse, 𝑔 est l'intensité de la pesanteur et 𝑧
+l'altitude.
+
+Simulation des variations des énergies cinétique, potentielle et mécanique d'un
+pendule simple
+
+6. Le pendule est lâché, sans vitesse initiale, avec un angle α = 30°. Associer à chaque courbe
+(a, b et c) de la simulation, une énergie (cinétique, potentielle ou mécanique). Justifier.
+7. Indiquer si l’énergie mécanique du pendule est conservée au cours de son mouvement.
+Justifier.
+8. Déterminer la valeur du travail des forces non conservatives s’exerçant sur le pendule
+pendant une durée Δt = 2,5 s. Justifier.
+9. Citer une force non conservative s'exerçant sur un module SEAREV.
+Des parcs de machines composés de dizaines de module SEAREV sont envisagés pour
+produire de l'électricité. On estime la surface d’un parc de machine à 1 km². D’après le site
+futura-science.com, la consommation d’électricité annuelle moyenne par foyer en France est
+d’environ 5 MWh.
+10. Déterminer si un parc de machines permettrait de répondre aux besoins énergétiques
+annuels de 8 000 foyers français, comme indiqué précédemment.
+Donnée : 1 Wh = 3 600 J.
+
+PARTIE B
+UTILISATION DU PEROXYDE D’HYDROGENE DANS UN BAIN DE BOUCHE (10 points)
+Le peroxyde d’hydrogène (eau oxygénée), de formule brute H2O2, fut découvert par le chimiste
+français Louis Jacques Thenard au début du 19 ème siècle. Il est utilisé dans de nombreux
+produits cosmétiques, dans la composition de bain de bouche pour blanchir les dents, ainsi
+que dans des produits pour éclaircir les cheveux ou pour blanchir les ongles.
+En 2018, trois marques de produit pour blanchir les dents ont été retirées des magasins en
+Europe à cause d’une concentration trop élevée en peroxyde d’hydrogène. Une exposition à
+une trop grande concentration en peroxyde d’hydrogène peut provoquer d'une part une
+irritation de la bouche et d'autre part une sensibilité accrue des dents aux variations de
+température.
+Des normes ont donc été établies pour limiter la concentration de peroxyde d’hydrogène dans
+les produits bucco dentaires vendus dans le commerce. Ces normes dépendent du pays de
+vente.
+Nous allons étudier la composition d’un bain de bouche vendu sur internet qui contient du
+peroxyde d’hydrogène et ainsi déterminer si ce produit a toute légitimité ou non à être vendu
+dans le commerce.
+Indications sur l’étiquette du bain de bouche étudié :
+L’action moussante du peroxyde d’hydrogène vous procurera une bouche très propre.
+Ce produit nettoie et rend les dents étincelantes.
+Sans parabène, sulfate, phtalate, parfum et conservateur.
+Ingrédients : Eau purifiée, peroxyde d'hydrogène, arome naturel végétal, fluorure de sodium.
+Données :
+
+Formule développée de la molécule de peroxyde d’hydrogène : H – O – O – H
+Électronégativité : hydrogène χ(H)= 2,2 ; oxygène χ(O) = 3,2.
+Numéros atomiques : élément hydrogène H : Z = 1 ; élément oxygène O : Z = 8.
+Configuration électronique à l’état fondamental de l’atome d’hydrogène H : 1s1 et de l’atome
+d’oxygène O : 1s2 2s2 2p4.
+
+Structure et solubilité du peroxyde d’hydrogène
+Sur l’étiquette du bain de bouche, nous pouvons remarquer que le peroxyde d’hydrogène se
+trouve en solution aqueuse.
+1. Déterminer les électrons de valence de l’atome d’hydrogène et de l’atome d’oxygène à
+partir de leur configuration électronique à l’état fondamental.
+2. Établir les schémas de Lewis de la molécule d’eau et de la molécule de peroxyde
+d’hydrogène.
+3. Déterminer le caractère polaire de la liaison O-H.
+4. Représenter sur un schéma les interactions entre une molécule d’eau et une molécule
+de peroxyde d’hydrogène. Nommer ces interactions et justifier la miscibilité du peroxyde
+d’hydrogène dans l’eau.
+Détermination de la concentration en peroxyde d’hydrogène
+On souhaite déterminer la concentration en peroxyde d’hydrogène de la solution commerciale
+de bain de bouche vendue sur internet. La solution est incolore. Pour cela nous allons effectuer
+un titrage avec suivi colorimétrique.
+Pour déterminer à la concentration en quantité de matière C1 en peroxyde d’hydrogène de la
+solution commerciale de bain de bouche on va étudier la transformation chimique modélisée
+par la réaction d’oxydoréduction qui prend place entre le peroxyde d'hydrogène H 2O2 (aq) et
+les ions permanganate MnO4- (aq).
+Il s’agit d’une réaction d’oxydoréduction mettant en jeu les couples O 2(g) / H2O2(aq) et MnO4(aq) / Mn2+(aq) dont l’équation est la suivante :
+2 MnO4–(aq) + 5 H2O2(aq) + 6 H+(aq)  2 Mn2+(aq) + 8 H2O (l) + 5 O2 (g)
+Une solution aqueuse contenant des ions permanganate MnO4- (aq) est de couleur rose. En
+revanche, la présence des espèces Mn2+(aq) ou H2O2 (aq) dans l’eau laissent la solution
+aqueuse incolore.
+5. Écrire les demi-équations électroniques associées aux couples O2(g) / H2O2(aq) et
+MnO4- (aq) / Mn2+(aq).
+6. Retrouver l’équation de la réaction entre H2O2(aq) et MnO4- (aq), réaction support du
+titrage.
+Dans un erlenmeyer, on verse un volume V1= 5,0 mL de la solution de bain de bouche de
+concentration C1 en quantité de matière de peroxyde d’hydrogène. On y ajoute 50 mL d’eau
+distillée et 10 mL d’une solution d’acide sulfurique de concentration 1,0 mol·L-1. On verse
+
+ensuite, progressivement, une solution de permanganate de potassium de concentration en
+quantité de matière C2= 5,0.10 - 2 mol·L-1. L’équivalence est atteinte pour un volume versé de
+la solution de permanganate de potassium V2,eq = 14,7 mL.
+Solution de
+permanganate de
+potassium
+7. Légender le montage du
+titrage sur le document
+C2 = 5,0 x 10-2 mol·L-1
+réponse en annexe en
+indiquant le nom du matériel
+V1 = 5,0 mL de solution de
+de laboratoire.
+bain de bouche de
+concentration C1 inconnue
+en H2O2, 50 mL d’eau
+distillée et 10 mL d'acide
+sulfurique.
+
+8. Indiquer le nom du réactif
+limitant avant l’équivalence et
+celui du réactif limitant après
+l’équivalence.
+9. Indiquer
+et
+justifier
+le
+changement de couleur de la
+solution lors de l’équivalence.
+
+Schéma du montage du titrage
+10. Démontrer que la relation à l’équivalence entre les volumes et les concentrations des
+solutions est : 2 C1 x V1 = 5 C2 x V2,eq .
+11. Calculer la valeur de la concentration C1 en peroxyde d’hydrogène de la solution
+commerciale de bain de bouche.
+Titre en volume de la solution commerciale
+Le peroxyde d’hydrogène peut se dismuter (se décomposer) ; cette transformation peut être
+modélisée par l’équation de la réaction suivante :
+2 H2O2(aq)  2 H2O (l) + O2 (g)
+C’est pourquoi les concentrations commerciales de peroxyde d’hydrogène sont généralement
+reliées à une grandeur appelée titre en volume.
+En effet, par convention, le titre en volume correspond au volume en litre de dioxygène gazeux
+que peut dégager un litre de solution aqueuse de peroxyde d’hydrogène lors de sa dismutation.
+On rappelle que dans les conditions normales de température et de pression le volume molaire
+du dioxygène O2(g) est de Vm = 22,4 L·mol-1.
+
+Des normes ont été établies pour limiter la concentration de peroxyde d’hydrogène dans les
+produits vendus dans le commerce. Ces normes dépendent du pays de vente.
+Titre maximal autorisé dans les produits cosmétiques (exprimé en volume) :
+Type de produit
+
+Titre maximal dans les Titre
+maximal
+dans
+les
+préparations vendues dans le préparations vendues dans le
+commerce en Europe
+commerce aux États-Unis
+
+Produits pour les
+40 volumes
+cheveux
+Produits pour la peau 13,3 volumes
+Produits pour durcir
+6,6 volumes
+les ongles
+Produits
+bucco0,3 volume
+dentaires
+
+42 volumes
+10 volumes
+Non renseigné
+15,4 volumes
+www.cir-safety.org
+
+12. Montrer qu’un litre de solution commerciale de bain de bouche de concentration en
+peroxyde d’hydrogène C1= 3,7 x 10-1 mol·L-1 produit, lors de sa dismutation, une
+quantité de dioxygène O2 environ égale à 1,9x10-1 mol.
+13. Déterminer le titre en volume de la solution de bain de bouche. Conclure sur la
+possibilité de vendre ce bain de bouche en Europe et aux Etats-Unis.
+
+ANNEXE À RENDRE AVEC LA COPIE
+
+Document réponse : Partie B - Question 7

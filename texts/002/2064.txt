@@ -1,0 +1,143 @@
+{"pages": 3, "method": "ocr", "bytes": 7165589, "at": "2026-11-23T09:22:31+00:00"}
+| nom de farnbile pmovsrpewes |
+
+ASP a | | TT LIL LLU For LE
+
+|
+
+[éprouve de MATHÉMATIQUES - Séries technologiques - Classe de première
+PARTIE Il
+
+Calculatrice autorisée selon la réglementation en vigueur.
+posée de trois exercices indépendants.
+
+Cette partie est com
+
+EXERCICE 2 (5 points)
+lle et on étudie plusieurs modèles d'évolution de cette
+
+On s'intéresse à la population d'une vi
+population. En 2018, la population de la ville était de 15 000 habitants.
+
+1) Modèle 1
+
+On fait l'hypothèse que le nombr
+Pour tout entier naturel n, on note un
+
+€ d'habitants augmente de 1 000 habitants par an.
+je nombre d'habitants pour l'année (2018 +n).
+
+On sa ainsiu, = 15 000.
+
+a. Calculer u, et indiquer ce que représente u:.
+
+b. Donner la nature de la suite (u,) sans justifier la réponse.
+
+c. On considère l'algorithme ci-dessous :
+
+N=0
+
+U = 15 000
+
+while U < 30 000:
+U = U + 1000
+N=N+1
+
+À la fin de l'exécution de cet algorithme, la variable N est égale à 15.
+interpréter cette valeur dans le contexte de l'exercice.
+
+2} Modèle 2
+On fait l'hypothèse que le nombre d'habitants augmente de 4,7 % par an. On note v,, te
+
+nombre d'habitants pour l'année (2018 + n).
+
+Ainsi on à v, = 15 000.
+a. On admet que la suite (v,,) est géométrique. Déterminer sa raison.
+b. Calculer, selon ce modèle, le nombre d'habitants de la ville en 2023, arrondi à
+
+l'unité.
+
+a
+oe?
+atin el
+
+EXERCICE 3 (5 points}
+
+| A+ Er te
+vw considère te fonction f définie sur l'intervalle (—4 ; 4] par f(x) = x* — 2x — 3.
+t} Calculer l'image de —1 par f.
+
+~
+
+viontrer que 3 est solution de l'équation f(x) = 0.
+3) En utilisant les questions 1} et 2), donner une forme factorisée de f (x).
+4) Dresser le tableau de signes de f sur l'intervalle [—4 ; 4] .
+
+5} Parmi les trois courbes suivantes, déterminer, en justifiant, celle qui représente
+graphiquement La fonction f.
+
++
+» :
+"+
+|
+
+-
+POP ok ore, Geen we dele
+:
+
+De pie CONES ODNE | | | ae
+By ee de famille (naissance) :
+Lai non avt su rote, du nom d'usage} | à
+| | Prénom(s) : eB
+$
+| N° d'inscription : a 5
+} N° candidat : pal
+Es By {Les numéros figurent sur la convocation )
+i
+rerstemechocest Né(e) le : / É
+EXERCICE 4 (5 points)
+
+les sports pratiqués sont le tennis, le squash et le
+
+i e 400 adhérents 5
+Dans un club multisport d 1 ait saree ban
+
+badminton. Les adhérents sont classés suivant leurs catégorie
+
+On sait que : :
+e 15 % pratiquent le badminton et parmi ceux-là, le tiers S
+
+e 75 % pratiquent le tennis et, parmi eux, 32 % sont seniors.
+e Parmiles adhérents pratiquant le squash, aucun n'es
+
+ont des enfants.
+
+t enfant et 20 sont des vétérans.
+
+1) Compléter, après l'avoir reproduit, le tableau suivant :
+
+& Badminton Tennis Squash Total 3
+[Enfant 130 a
+| Senior 30 “
+a Vétéran |
+ii Total 400 |
+
+Dans les questions qui suivent, les résultats seront donnés sous forme de fraction irréductible.
+
+2) On choisit au hasard un adhérent parmi les 400 adhérents du club.
+On considère les événements suivants :
+
+E : « L’adhérent est un enfant »
+$ : « L’adhérent est un senior »
+V : « L’adhérent est un vétéran »
+T : « L'adhérent joue au tennis »
+D : « L’adhérent joue au squash »
+B : « L’adhérent joue au badminton »
+
+a. Déterminer la probabilité des événements S et T.
+b. Décrire, à l’aide d’une phrase, l'événement S AT puis calculer sa probabilité.
+
+3} On choisit au hasard un adhérent parmi les joueurs de badminton.
+Calculer la probabilité que ce soit un vétéran.
+
+4) Calculer la probabilité conditionnelle de E sachant T, notée Pr(E).

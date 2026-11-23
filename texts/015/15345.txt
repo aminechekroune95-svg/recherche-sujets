@@ -1,0 +1,432 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1340482, "at": "2026-11-23T09:39:48+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Soit 𝑛 l'entier positif dont l'écriture binaire est 10001. Quelle est l'écriture binaire de l'entier 2𝑛 ?
+20002
+100010
+010001
+1000110001
+Question A 2
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+Question A 3
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+Question A 4
+Le résultat de la multiplication en binaire 1011 * 101 est égal au nombre binaire :
+102111
+101110
+110111
+110011
+Question A 5
+Combien de valeurs entières positives ou nulles un octet peut-il représenter ?
+Question A 6
+
+Quelle est l'écriture hexadécimale (en base 16) du nombre entier 157 ?
+8F
+9C
+9D
+AD
+
+Thème B : types construits
+Question B 1
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+Question B 2
+def h(L,m,n):
+for i in range(m, (m+n)//2 + 1):
+L[i], L[m+n-i] = L[m+n-i],L[i]
+On exécute les instructions suivantes :
+L = [ 2, 3, 4, 5, 7, 8 ]
+h(L,0,2)
+h(L,3,5)
+h(L,0,5)
+Quelle est la valeur de L à la fin de cette exécution ?
+[8, 7, 5, 4, 3, 2]
+[2, 3, 4, 5, 7, 8]
+[4, 3, 2, 8, 7, 5]
+[5, 7, 8, 2, 3, 4]
+Question B 3
+Quel est le résultat de l'évaluation de l'expression Python suivante ?
+[ n * n for n in range(10) ]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+
+Question B 4
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+]
+
+Quelle expression permet d'accéder au poste d'Éric ?
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+Question B 5
+On définit ainsi une liste M :
+M = [['A','B','C','D'], ['E','F','G','H'], ['I','J','K','L']]
+Quelle expression vaut la chaîne de caractères 'H' ?
+M[1][3]
+M[3][1]
+M(7)
+M(8)
+Question B 6
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 2
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+Question C 3
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 4
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Question C 5
+asso = []
+L = [ ['marc','marie'], ['marie','jean'], ['paul','marie'], ['marie','marie'],
+['marc','anne']
+]
+for c in L :
+if c[1]==’marie’:
+asso.append(c[0])
+Que vaut asso à la fin de l'exécution ?
+['marc', 'jean', 'paul']
+[['marc','marie'], ['paul','marie'], ['marie','marie']]
+['marc', 'paul', 'marie']
+['marie', 'anne']
+Question C 6
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D 2
+Compléter le script ci-dessous :
+<!DOCTYPE html>
+<html>
+<head>
+<………>Ma page HTML</…………>
+</head>
+<html>
+href
+title
+html
+aucune des propositions précédentes
+Question D 3
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 4
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 5
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 6
+Comment s'appelle la méthode permettant de transmettre les variables en les faisant apparaître dans la barre
+d’adresse du navigateur ?
+URL
+HEAD
+POST
+GET
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+Question E 2
+Lors d'un échange TCP/IP entre deux machines sur le réseau Internet, un paquet n'arrive pas à destination. Qui
+gère le renvoi du paquet ?
+le protocole IP de la machine de départ
+le protocole IP de la machine d'arrivée
+le protocole TCP de la machine de départ
+le protocole TCP de la machine d'arrivée
+Question E 3
+Dans le protocole de communication TCP/IP, pour le transfert d’un gros fichier :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination dans un ordre quelconque.
+Question E 4
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 5
+
+On cherche à connaître l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E 6
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+
+Thème F : langages et programmation
+Question F 1
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 2
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 3
+On définit la fonction f suivante qui prend en argument une liste t d'entiers :
+def f(t):
+n = len(t)
+for i in range(n-1):
+for j in range(i+1,n):
+if t[i] == t[j]:
+return True
+return False
+Pour quelle valeur de t, f(t) vaut-elle True ?
+[[2,3], [3,4], [4,5], [2,3]]
+[[2,2], [3,4], [4,5], [2,3]]
+[[2,3], [3,2], [4,5], [5,4]]
+[[3,3], [4,4], [5,5], [6,6]]
+Question F 4
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 5
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 6
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Thème G : algorithmique
+Question G 1
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+Question G 2
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables
+Question G 3
+On dispose d’une table de données de villes européennes. On utilise ensuite l’algorithme des k-plus proches
+voisins pour compléter automatiquement cette base avec de nouvelles villes.
+Ci-dessous, on a extrait les 7 villes connues de la base de données les plus proches de Davos.
+Ville
+Pays
+Distance jusqu’à Davos
+Berne
+180 km
+Innsbruck Autriche
+130 km
+Milan
+150 km
+Munich
+Allemagne 200 km
+Stuttgart
+Allemagne 225 km
+Turin
+250 km
+Zurich
+115 km
+En appliquant l’algorithme des 4 plus proches voisins, quel sera le pays prédit pour la ville de Davos ?
+Allemagne
+Autriche
+Question G 4
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+
+'e'
+Question G 5
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G 6
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1

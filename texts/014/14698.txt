@@ -1,0 +1,421 @@
+{"pages": 18, "method": "pdftotext", "bytes": 482797, "at": "2026-11-23T09:42:35+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On considère l'expression logique (𝑎 or 𝑏) and 𝑎. Quelle est sa table de vérité ?
+
+Question A 2
+Sur une page web qui s’affiche sur notre navigateur on peut lire : « En consÃ©quence, l'AssemblÃ©e Nationale
+reconnaÃ®t et dÃ©clare, en prÃ©sence [...] »
+Quelle peut être la cause des affichages étranges de cette page ?
+l'encodage des caractères n'est pas celui attendu par le navigateur
+le texte original est en japonais
+la taille des caractères n'est pas celui attendu par le navigateur
+la connexion à Internet présente des coupures
+Question A 3
+
+Combien de valeurs entières positives ou nulles un octet peut-il représenter ?
+Question A 4
+Quelle est la représentation binaire de l'entier 152 ?
+0001 1001
+0011 1010
+0100 0100
+1001 1000
+Question A 5
+Quelle est la représentation hexadécimale de l'entier qui s'écrit 0111 1100 en base 2 ?
+7C
+F4
+C7
+Question A 6
+Parmi les quatre nombres suivants lequel est le seul à pouvoir être représenté de façon exacte en machine ?
+3.1
+4.2
+5.24
+7.25
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+{ 'ftp': 21 }
+Key not found
+Question B 2
+On dispose d'une table tab constituée d'une liste de trois sous-listes contenant chacune quatre caractères.
+tab = [ ['A', 'B', 'C', 'D'],
+['E', 'F', 'G', 'H'],
+['I', 'J', 'K', 'L'] ]
+Parmi les propositions suivantes, laquelle permet de convertir cette table en une liste L contenant dans l'ordre,
+ligne par ligne, les 12 caractères de tab ?
+# à la fin, on doit passer l’assertion :
+assert L == [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L' ]
+for j in range(4):
+L.append(tab[i][j])
+
+for j in range(3):
+L.append(tab[i][j])
+
+L.append(tab[i])
+
+L.append(tab[i])
+
+Question B 3
+On considère le tableau suivant : L = [[1,2,3],[4,5,6],[7,8,9]].
+Quelle est la valeur de L[1][0] ?
+
+Question B 4
+On définit ainsi le tableau t = [[1,5,7], [8,4,2], [3,9,6]]
+Quel jeu d'indices permet d'obtenir l'élément "9" de ce tableau ?
+t[3][2]
+t[2][3]
+t[1][2]
+t[2][1]
+Question B 5
+Quel est le type de la variable billes définie par :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+c'est une séquence
+c'est une liste
+c'est une liste de listes
+c'est un dictionnaire
+
+Question B 6
+Le premier élément d'une liste Python L est noté :
+L(0)
+L(1)
+L[0]
+L[1]
+
+Thème C : traitement de données en tables
+Question C 1
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 2
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 3
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 4
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+Question C 5
+On considère la liste de p-uplets suivante :
+table = [
+
+('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912)
+]
+
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une
+femme) et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+Question C 6
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+Question D 2
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+
+Question D 3
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D 4
+Dans un fichier HTML nommé reservation.html, on a défini au sein d’une balise <script> la fonction
+confirmer. Ce fichier contient aussi la ligne suivante :
+<button onclick="confirmer();">Annuler la réservation</button>
+On affiche cette page dans un navigateur Web (pour lequel JavaScript est activé).
+En cliquant sur le bouton « Annuler la réservation » :
+Le navigateur va nécessairement générer une requête HTTP à destination du serveur pour confirmer cette
+action.
+Le navigateur ne va en aucun cas générer une requête HTTP à destination du serveur pour confirmer cette
+action.
+Le navigateur va nécessairement déclencher un appel à la fonction confirmer.
+Le navigateur ne va en aucun cas déclencher un appel à la fonction confirmer.
+Question D 5
+Parmi ces quatre éléments d’un formulaire HTML, lequel est prévu pour envoyer les données saisies ?
+
+<input name="file" type="file"/>
+<input value="here we go !" type="submit"/>
+<input name="email" type="email"/>
+<input value="once again !" type="reset"/>
+Question D 6
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E 2
+Identifier parmi les éléments suivants celui qui est uniquement un périphérique de sortie.
+clavier
+souris
+écran
+microphone
+Question E 3
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+Question E 4
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E 5
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+
+cd ...
+cd /../.
+
+Question E 6
+Que peut-on dire du système de fichier, suite à l’exécution des commandes suivantes ?
+% cd
+% ls
+Documents Images Videos
+% mv *.txt Documents
+
+help.txt
+
+tutorial.txt
+
+script.py
+
+L'utilisateur Documents a pris possession des fichiers help.txt et tutorial.txt
+Le répertoire /Documents contient maintenant les fichiers help.txt et tutorial.txt
+Le répertoire Documents du répertoire de l'utilisateur contient maintenant les fichiers help.txt et
+tutorial.txt
+script.py a été exécuté et a déplacé les fichiers textes
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant.
+a = 11
+a = a * 2
+a = a - 10
+Que contient la variable a à la fin de cette exécution ?
+Question F 2
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+n = n + 2
+Question F 3
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+
+Question F 4
+
+On exécute le code suivant :
+def f(t):
+n = len(t)
+tmp = t[0]
+for i in range(1,n-1):
+t[i] = t[i+1]
+t[n-1] = tmp
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 4, 5, 2, 1]
+[2, 1, 3, 4, 5]
+[3, 4, 5, 2, 1]
+[2, 5, 4, 3, 1]
+Question F 5
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 6
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+
+Thème G : algorithmique
+Question G 1
+Un algorithme de calcul de moyenne est implémenté de la façon suivante :
+def moyenne(liste) :
+t = 0
+for e in liste :
+t = t + e
+# assertion vraie à cet endroit
+return t/len(liste)
+Parmi les propositions suivantes, laquelle reste vraie à la fin de chaque itération de la boucle ?
+e vaut le nombre de passages dans la boucle
+t vaut la somme des éléments visités de la liste
+t vaut la moyenne des éléments visités de la liste
+après k passages dans la boucle la liste contient k termes
+Question G 2
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 3
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 4
+
+La recherche dichotomique est un algorithme rapide qui permet de trouver ou non la présence d’un élément
+dans un tableau. Mais, pour l’utiliser, une contrainte est indispensable, laquelle ?
+le tableau ne contient que des nombres positifs
+la longueur du tableau est une puissance de 2
+le tableau est trié en ordre croissant
+le tableau ne contient pas la valeur 0
+Question G 5
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+i = i + 1
+i = K-1
+i = i - 1
+i = K-1
+i = i + 1
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 6
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+constant
+logarithmique
+linéaire
+quadratique

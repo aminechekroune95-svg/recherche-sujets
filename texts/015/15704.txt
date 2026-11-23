@@ -1,0 +1,441 @@
+{"pages": 17, "method": "pdftotext", "bytes": 2131012, "at": "2026-11-23T09:28:18+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Organisation d’un marathon
+Sur 8 points
+En 2020, un marathon a eu lieu, comme tous les ans depuis l’année 2000, dans la
+ville de Poumoncity. Un tirage au sort est organisé pour pouvoir courir ce marathon.
+Les deux parties de cet exercice sont indépendantes.
+Partie A
+En 2020, 90 000 personnes ont participé au tirage au sort, et seulement 40 % d’entre
+elles ont été retenues. Sur ces personnes retenues, 85 % se sont présentées le jour
+de l’épreuve.
+1-a- Vérifier que 30 600 personnes se sont présentées au départ de ce marathon.
+1-b- Déterminer le pourcentage des personnes au départ par rapport aux personnes
+ayant participé au tirage au sort.
+En course à pied, la catégorie « Master » regroupe les personnes de 35 ans ou plus.
+Voici la répartition des coureurs par sexe et par catégorie :
+Hommes
+
+Femmes
+
+Master
+
+18 050
+
+3 800
+
+Autres
+
+6 150
+
+2 600
+
+Total
+
+Total
+
+30 600
+
+2-a- Recopier et compléter ce tableau.
+2-b- Calculer le pourcentage de personnes en catégorie « Master » parmi l’ensemble
+des coureurs, puis parmi les femmes. Arrondir les résultats à 0,1 %.
+
+Un journaliste interroge une personne au hasard parmi les 30 600 participants (on
+suppose que tous les participants ont la même probabilité d’être interrogés par le
+journaliste).
+On note :
+- H l’événement : « la personne choisie est un homme » ;
+- M l’événement : « la personne choisie appartient à la catégorie « Master » » ;
+̅ l’événement contraire d’un événement A.
+- A
+3-a- Reproduire et compléter l’arbre de probabilité suivant, en donnant les valeurs
+exactes des probabilités sur chacune des branches :
+
+3-b- On sait maintenant que la personne choisie par le journaliste est une femme.
+Donner alors la valeur exacte de la probabilité que cette femme ne fasse pas partie
+de la catégorie « Master ».
+Partie B
+Les organisateurs de l’épreuve ont remarqué que le nombre de personnes inscrites
+au marathon augmente en moyenne de 800 chaque année depuis l’an 2000. En
+2000, il y a eu 14 600 participants.
+On décide de modéliser ce nombre d’inscrits par une suite.
+Pour tout entier naturel 𝑛, on représente par 𝑢𝑛 le nombre de personnes inscrites à
+ce marathon pour l’année (2000 + 𝑛). Ainsi 𝑢0 = 14 600.
+4-a- Donner la nature de la suite (𝑢𝑛 ) et préciser sa raison.
+
+4-b- Si l’évolution se poursuit ainsi, à partir de quelle année, le nombre de
+participants dépassera-t-il 40 000 pour la première fois ? Détailler la démarche.
+Le vainqueur de ce marathon a couru 3 km pour s’échauffer avant la course, puis a
+couru son marathon à une vitesse moyenne de 20 km/h. On admet que la distance
+parcourue (exprimée en km) en fonction du temps 𝑡 (exprimé en heures) est donnée
+par la fonction 𝑑 définie sur [0 ; +∞[ par 𝑑(𝑡) = 3 + 20𝑡.
+5-a- Justifier le choix de modéliser la situation par une fonction plutôt que par une
+suite.
+5-b- Quelle distance ce coureur a-t-il parcourue au bout d’une heure et demie ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse artificielle
+Sur 12 points
+La photosynthèse est une réaction biochimique qui se produit chez les végétaux et
+certains micro-organismes. Depuis la fin des années 1980, des laboratoires
+cherchent à mettre au point des technologies de photosynthèse dite « artificielle » qui
+s’inspirent du processus naturel dans le but de produire de la matière organique
+pouvant constituer une ressource d’énergie verte pour produire de l’électricité.
+L’objectif de ce sujet est d’expliquer l’intérêt de la photosynthèse artificielle et
+d’étudier la possibilité d’utiliser des dispositifs de photosynthèse artificielle
+pour alimenter un foyer en électricité.
+Partie 1 – La conversion de l’énergie solaire en énergie chimique par les
+photosynthèses
+Les dispositifs de photosynthèse artificielle sont conçus avec des matériaux spéciaux
+qui sont capables de capter et convertir l’énergie solaire en énergie chimique stockée
+dans les carburants formés (produits carbonés et/ou dihydrogène).
+
+Principe de la photosynthèse artificielle
+Produit par l’auteur
+
+Cette énergie chimique pourra ensuite être convertie en électricité. La photosynthèse
+artificielle s’appuie sur le principe de la photosynthèse naturelle qui nécessite de
+l’énergie lumineuse.
+
+Document 1 – Expérience réalisée sur une feuille de Pelargonium
+Une expérience est réalisée en laboratoire avec une feuille de Pelargonium,
+recouverte partiellement d’un cache, éclairée pendant 12 heures. Le dispositif
+expérimental est présenté dans la figure A ci-dessous. Le cache est ensuite enlevé
+et la feuille est décolorée dans de l’éthanol bouillant sous hotte en présence d’un
+dispositif réfrigérant. La feuille est ensuite colorée à l’aide de l’eau iodée. L’eau
+iodée adopte une coloration noir-violet en présence d’amidon (glucide). Elle reste
+jaune en l’absence d’amidon. Les résultats obtenus sur la feuille sont présentés
+sur la photographie de la figure B.
+
+Figure A : dispositif expérimental
+présentant le cache posé sur la feuille de
+Pélargonium.
+
+Figure B : résultats obtenus suite à la
+coloration à l’eau iodée.
+
+Source : d’après https://planet-vie.ens.fr/thematiques/manipulations-en-svt/experiencessur-la-photosynthese
+
+1- Expliquer en quoi les photosynthèses naturelle et artificielle sont considérées
+comme des modes de conversion d’une énergie solaire en une énergie chimique
+à partir des données tirées du document 1 et de vos connaissances. Identifier les
+substrats (aussi appelés réactifs) et les produits de la photosynthèse.
+
+Partie 2 – Efficacité énergétique de la photosynthèse artificielle
+L’efficacité énergétique (rapport entre l'énergie chimique reçue et l'énergie solaire
+utilisée) de la photosynthèse naturelle ne dépasse pas les 1 % chez les végétaux. À
+l’heure actuelle, l’efficacité énergétique de la photosynthèse artificielle est également
+faible.
+2- La puissance surfacique solaire moyenne reçue au sol est de 350 W.m -2. La
+surface d’un dispositif de photosynthèse artificielle est de 10 cm 2.
+Montrer que la puissance solaire reçue par le dispositif est égale à 0,35 W.
+3- Calculer l’énergie solaire reçue par le dispositif pour une durée d’ensoleillement
+de 6 h par jour.
+L’énergie reçue et stockée chimiquement par le dispositif pour une durée
+d’ensoleillement de 6 h par jour est égale à 1,8 × 102 J.
+4- Calculer l’efficacité énergétique du dispositif. Comparer cette valeur avec celle de
+la photosynthèse naturelle.
+
+Pour la question suivante, on admettra que toute l’énergie stockée chimiquement par
+le dispositif peut être convertie en électricité pouvant alimenter un foyer et que la
+durée quotidienne d’ensoleillement est de 6 h. La consommation quotidienne
+d’électricité par personne par foyer en France est de 6 kWh.
+5- Déterminer le nombre nécessaire de dispositifs pour fournir quotidiennement en
+électricité un foyer composé de 5 personnes.
+Indication : le Watt-heure (Wh) est une unité physique qui correspond à l’énergie
+consommée ou délivrée par un système d’une puissance de 1 Watt pendant une
+durée d’une heure.
+6- Calculer la surface totale occupée par l’ensemble des dispositifs.
+Conclure sur la possibilité d’utilisation des dispositifs de photosynthèse artificielle
+pour alimenter quotidiennement un foyer en électricité.
+
+Partie 3 – L’intérêt de la photosynthèse artificielle
+
+Document 2 – Les besoins d’énergie dans le futur
+La population mondiale estimée à 7,7 milliards d’habitants en 2019 ne cessera de
+croître pour atteindre 9,8 milliards d’habitants en 2050. En poursuivant le rythme
+actuel de consommation d’énergie, celle-ci passerait d’environ 17 térawatts en
+2019 à 30 térawatts en 2050. (Note : 1 térawatt = 1012 watts)
+Source : d’après M.Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 3 – Proportion de l’utilisation des différentes sources d’énergie
+sur la planète
+Nucléaire
+(4 %)
+Hydraulique
+(6,8 %)
+
+Energies renouvelables
+(2,5 %)
+
+Energies fossiles
+(86,7 %)
+
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 4 – Évolution de l’anomalie de température moyenne globale de la
+Terre (en °C) et de la concentration des émissions de dioxyde
+de carbone (en parties par millions : ppm) de 1880 à 2016
+L’anomalie de la température
+de la Terre, positive ou négative,
+est l'écart entre la température
+annuelle observée sur la Terre
+mesurée en degrés Celsius par
+rapport à la température
+moyenne normale (calculée par
+rapport à 1850-1900).
+
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+7- À l’aide des documents 2 à 4 ainsi que des connaissances, discuter de l’intérêt
+de la photosynthèse artificielle en lien avec les défis auxquels l’humanité est
+confrontée.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+La symphonie des Mille
+Sur 12 points
+En septembre 1910, la Symphonie n°8 de Gustav Mahler fut jouée pour la première
+fois. Elle est aussi appelée la « Symphonie des Mille » car ce sont 1029 personnes,
+musiciens ou chanteurs, qui y participent.
+Partie 1 – Accorder les instruments
+Dès son entrée sur scène, un violoniste, appelé premier violon solo, a pour rôle
+d’accorder les instruments à cordes composant l’orchestre. Pour cela, il demande au
+hautbois de jouer un 𝑙𝑎3 dont la fréquence fondamentale est 440 Hz. Il peut ainsi
+accorder sa propre corde du 𝑙𝑎, puis c’est lui qui donne le 𝑙𝑎 aux autres instruments
+à cordes. Lorsque tout l’orchestre est accordé, le chef d’orchestre apparaît.
+Document 1 – Signal du son émis par la corde du 𝒍𝒂 d’un violon
+
+1- Justifier que le son obtenu est un son composé.
+
+Document 2 – Spectres de Fourier de deux sons correspondants à des 𝒍𝒂𝟑
+Spectre 1 :
+
+Spectre 2 :
+
+2- Indiquer quel spectre de Fourier du document 2 correspond au 𝑙𝑎3 du premier
+violon solo. Justifier la réponse.
+Un autre violoniste de l’orchestre n’ayant pas encore accordé son instrument joue la
+corde du 𝑙𝑎3 et trouve le son plus grave que celui émis par le premier violon solo.
+Document 3 – Fréquence du son émis par une corde
+La fréquence fondamentale 𝑓 (en Hz) de la note jouée par une corde dépend de la
+longueur 𝐿 (en m) de la corde, de la force de tension 𝐹 (en N) et de la masse
+linéique 𝜇 (en kg. m−3 ) de la corde. Elle se calcule avec la relation suivante :
+𝑓=
+
+1 𝐹
+√
+2𝐿 µ
+
+Plus la fréquence est élevée, plus le son est aigu.
+
+Document 4 – Accorder un violon
+
+Pour accorder un violon, le violoniste
+tourne les chevilles qui tendent ou
+détendent les cordes.
+
+Source : Concours général des Lycées,
+session 2020, Physique-chimie classe de
+terminale générale
+
+3- D’après les documents 3 et 4, expliquer comment doit procéder le violoniste pour
+accorder la corde en question. Justifier la réponse.
+La corde la plus aigüe d’un violoncelle correspond à un 𝑙𝑎2 lorsqu’elle est jouée à
+vide (c’est-à-dire avec toute la longueur de la corde). Le 𝑙𝑎2 est situé une octave en
+dessous du 𝑙𝑎3 .
+4- Calculer la fréquence fondamentale de la corde du 𝑙𝑎2 accordée jouée à vide.
+Justifier la réponse.
+Document 5 – Intensité sonore et niveau d’intensité sonore
+L’intensité sonore I (en W. m−2 ) correspond à la puissance sonore par unité de
+surface.
+On caractérise plus souvent un son par son niveau d’intensité sonore 𝐿 (en dB) :
+𝐼
+𝐿 = 10 × log ( )
+𝐼0
+avec 𝐼0 = 10−12 W. m−2 l’intensité sonore de référence à partir de laquelle un son
+est audible pour l’oreille humaine.
+
+Un spectateur est placé à une certaine distance de l’orchestre. Lors du final de la
+symphonie de Mahler, la quasi-totalité des instrumentistes et chanteurs sont en
+action pendant quelques minutes. On fera l’approximation que l’intensité sonore des
+différents instruments et chanteurs est la même au niveau où est situé le spectateur
+et vaut 𝐼1 = 1,0 × 10−6 W. m−2 .
+5- Déterminer l’intensité sonore 𝐼1000 du son émis par les 1000 musiciens lors du
+final. On rappelle que les intensités sonores s’ajoutent.
+Document 6 – Échelles d’intensité sonore I et de niveau d’intensité sonore L
+
+6- Déterminer le niveau d’intensité sonore 𝐿1000 pour le spectateur.
+Partie 2 – Santé auditive
+Une dosimétrie du bruit a été effectuée lors d’un concert de Mahler. Elle révèle que
+certaines places dans l’orchestre sont particulièrement bruyantes, dépassant
+fréquemment les 110 dB. Parmi ces places, devant les grosses caisses se trouvent
+des joueurs de trombone (les trombonistes) dont un qui déclare une perte d’audition.
+Un dépistage auditif lui est proposé par un médecin.
+Document 7 – La réalisation des audiogrammes du tromboniste
+Pour caractériser le niveau de surdité du musicien, on réalise un audiogramme
+indépendamment sur chaque oreille : le médecin fait écouter au patient certains
+sons via un casque. Les différents sons sont d’abord joués à très faible volume
+(faibles décibels), puis augmentés au fur et à mesure. On réalise différentes
+mesures pour des sons graves (faible fréquence) et des sons aigus (haute
+fréquence).
+Le médecin repère précisément la fréquence et l’intensité du son le plus bas que le
+patient peut percevoir, ce qui lui permet de tracer les courbes ci-dessous, en
+comparant avec un patient sain.
+
+Les deux graphiques suivants représentent les pertes auditives des oreilles du
+joueur de trombone (dB) en fonction de la fréquence du son (Hz).
+
+Source : d’après la clinique du son
+
+Document 8 – Les différents niveaux de surdité
+La surdité est calculée en décibels (dB) de perte auditive.
+Perte auditive
+(en dB)
+
+Niveau d’audition
+
+Conséquences sur la vie de la
+personne
+
+De 0 à 20 dB
+
+Audition normale
+
+Aucune conséquence
+
+De 20 à 39 dB
+
+Surdité légère
+
+La personne fait répéter son
+interlocuteur, sur les sons aigus
+
+De 40 à 69 dB
+
+Surdité moyenne
+
+La personne ne comprend que si
+l’interlocuteur élève la voix
+
+De 70 à 89 dB
+
+Surdité sévère
+
+La personne ne comprend que si
+l’interlocuteur élève la voix à proximité
+de son oreille
+
+Plus de 90 dB
+
+Surdité profonde
+
+La personne n’entend plus du tout la
+parole
+
+Source : https://www.ameli.fr/rhone/assure/sante/themes/perte-acuite-auditive/definitioncauses
+
+7- À l’aide des informations des documents 7 et 8, caractériser le niveau de surdité
+des oreilles du tromboniste. Une réponse argumentée est attendue.
+Document 9 – Schéma de l’anatomie de l’oreille humaine
+
+L’audition fait intervenir différents organes. L’exposition à un bruit important, qu’il soit
+prolongé ou bref, peut conduire à différentes pathologies : une perforation du
+tympan, une fracture des osselets, une détérioration des cellules ciliées, une
+connexion entre les cellules nerveuses défectueuse, ...
+8- Nommer les éléments 2, 3, 4 et 6 du document 9 qui interviennent
+successivement dans la transmission des vibrations sonores au niveau de
+l’oreille en les classant par ordre d’intervention successif.
+9- Utiliser les informations des documents 10 et 11 suivants pour expliquer l’origine
+de la baisse d’audition du musicien et déterminer son type de surdité.
+
+Document 10 – Données anatomiques sur les pathologies de l’audition
+État normal
+
+État pathologique
+
+Joueur de trombone
+
+Tympan
+
+Tympan perforé
+(1) https://orlpoitiers.fr/wp-content/uploads/2013/03/tympan.png
+(2) https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/
+TM_RIGHT_NORMAL.jpg/1200px-TM_RIGHT_NORMAL.jpg
+
+Osselets
+(IRM)
+
+indiqués
+par des
+flèches.
+
+Osselets fracturés
+(1) https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13244011-0126-z/MediaObjects/13244_2011_126_Fig21_HTML.gif
+(2) radiopaedia.org
+(3) foodmedicaleponyms.com
+
+Cellules
+ciliées
+(Microscopie
+électronique)
+(1) https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcSqgH6oONbjQr_7aw8SBUAKtxTpf8pn1UPEr6al5pjDjExx0gxG-SlswWfHjymty0iRBM&usqp=CAU
+(2) https://www.coopacou.com/fichiers/ACOUPHENE/pertes-auditives-CCI-CCE.png
+
+Document 11 – Les différents types de surdité
+Surdité de
+transmission
+
+Liée à un problème de transmission du signal sonore dans
+l'oreille externe (pavillon et conduit auditif externe) ou moyenne
+(fonctionnement du tympan ou mobilité des osselets)
+
+Surdité de
+perception
+
+Liée à la dégradation des cellules ciliées de la cochlée l’oreille
+interne ou du nerf auditif (responsable de la transmission des
+sons au cerveau).
+
+Surdité mixte
+
+Combine les deux surdités (de transmission et de perception)
+
+Source : https://www.ameli.fr/assure/sante/themes/perte-acuite-auditive/definition-causes

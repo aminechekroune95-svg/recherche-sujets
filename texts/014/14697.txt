@@ -1,0 +1,458 @@
+{"pages": 18, "method": "pdftotext", "bytes": 495422, "at": "2026-11-23T09:42:36+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+Question A 2
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 3
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+if a==b:
+c = True
+elif a > b+10:
+c = True
+else:
+c = False
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 4
+Quelle est la représentation hexadécimale de l'entier dont la représentation binaire s'écrit :
+0100 1001 1101 0011 ?
+18899
+3D94
+49D3
+93A3
+Question A 5
+Le résultat de la multiplication en binaire 1011 * 101 est égal au nombre binaire :
+
+102111
+101110
+110111
+110011
+Question A 6
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+215 − 1
+216 − 1
+
+Thème B : types construits
+Question B 1
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B 2
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 3
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+Question B 4
+Un programme Python présente la ligne suivante :
+x = ["x1", "x2", "x3"]
+Elle définit :
+une liste de trois éléments
+un tuple de trois éléments
+une fonction acceptant trois paramètres
+un dictionnaire associant la valeur x2 à la clé x1 d'indice x3
+Question B 5
+Laquelle des quatre expressions suivantes a-t-elle pour valeur la liste [1, 2, 5, 10] ?
+
+[i for i in range(4) if i<2]
+[i for i in range(4)]
+[i*i + 1 for i in range(4)]
+[i*i - 2*i + 2 for i in range(4)]
+Question B 6
+Considérons le tableau suivant :
+tableau = [ [i+2*j for j in range(4)] for i in range(4)]
+Quelle est la valeur de l'expression tableau[1] ?
+[0,1,2,3]
+[1,2,3,4]
+[0,2,4,6]
+[1,3,5,7]
+
+Thème C : traitement de données en tables
+Question C 1
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C 2
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 3
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 4
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 5
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+On considère le code suivant :
+import csv
+with open('departements.csv', newline='') as monFichier:
+lesLignes = csv.reader(monFichier)
+for uneLigne in lesLignes:
+print(uneLigne[3])
+Que va produire l'exécution de ce code ?
+L'affichage de la troisième colonne à savoir le nom du département avec une majuscule initiale
+L'affichage de tout le contenu du fichier
+L'affichage du nombre total de départements figurant dans le fichier
+L'affichage de la quatrième colonne, à savoir le nom du département tout en majuscules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D 2
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+
+Question D 3
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 4
+Dans une page HTML, on peut trouver le code suivant :
+<article>
+<h1>Les auteurs de ce site</h1>
+<button onclick="auteurs()">Appuyer ici</button>
+</article>
+<script src="java_script/ScriptJava.js"></script>
+<script>
+function auteurs() { alert("Auteurs anonymes"); }
+<\script>
+Quel sera le résultat d’un clic sur le bouton "Appuyer ici" ?
+Rien
+La page du navigateur se fermera
+La page affichera à la place du bouton "Appuyer ici" le message "Auteurs anonymes"
+Cela provoquera l’ouverture d’une fenêtre comportant le message "Auteurs anonymes"
+Question D 5
+
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+Question D 6
+Compléter le script ci-dessous :
+<!DOCTYPE html>
+<html>
+<head>
+<………>Ma page HTML</…………>
+</head>
+<html>
+
+href
+title
+html
+aucune des propositions précédentes
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+À partir du répertoire ~/Perso/Doc quelle commande permet de rejoindre le répertoire ~/Public ?
+cd ./Public
+cd ../Public
+cd ././Public
+cd ../../Public
+Question E 2
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens
+existants. Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+Question E 3
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E 4
+L'adresse IP du site www.education.gouv.fr est 185.75.143.24.
+Quel dispositif permet d'associer l'adresse IP et l'URL www.education.gouv.fr ?
+
+un routeur
+un serveur DNS
+un serveur de temps
+un serveur Web
+Question E 5
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+Question E 6
+À partir du dossier ~/Doc/QCM, quelle commande permet de rejoindre le dossier ~/Hack/Reponses ?
+cd Hack/Reponses
+cd /Hack/Reponses
+cd /~/Hack/Reponses
+cd ../../Hack/Reponses
+
+Thème F : langages et programmation
+Question F 1
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F 2
+Quelle est la valeur de la variable x à la fin de l'exécution du script suivant :
+def f(x):
+x = x + 1
+return x + 1
+x = 0
+f(x+1)
+Question F 3
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+Question F 4
+On exécute le script Python suivant :
+def cube(L):
+
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+Question F 5
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+i = i + 1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 6
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+while n != 20:
+n = n + 2
+le programme ne termine pas, la boucle tourne indéfiniment
+
+Thème G : algorithmique
+Question G 1
+On considère la fonction Python suivante, qui prend en argument une liste L et renvoie le maximum des
+éléments de la liste :
+def rechercheMaximum(L):
+max = L[0]
+for i in range(len(L)):
+if L[i] > max:
+max = L[i]
+return max
+On note 𝑛 la taille de la liste.
+Quelle est la complexité en nombre d’opérations de l’algorithme ?
+constante, c’est-à-dire ne dépend pas de 𝑛
+linéaire, c’est-à-dire de l’ordre de 𝑛
+quadratique, c’est-à-dire de l’ordre de 𝑛²
+cubique, c’est-à-dire de l’ordre de 𝑛3
+Question G 2
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+
+Question G 3
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+𝑛
+𝑛2
+𝑛3
+Question G 4
+
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 5
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables
+Question G 6
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)

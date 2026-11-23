@@ -1,0 +1,437 @@
+{"pages": 19, "method": "pdftotext", "bytes": 471873, "at": "2026-11-23T09:42:06+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est, en écriture décimale, la somme d'entiers dont l'écriture en base 16 (hexadécimale) est 2A + 2 ?
+Question A 2
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+Question A 3
+Quelle est la représentation binaire en complément à deux sur huit bits du nombre –3 ?
+1000 0011
+1111 1100
+1111 1101
+1 0000 0011
+Question A 4
+Quelle est la séquence de bit qui représente –25 en complément à 2 sur 8 bits ?
+0001 1001
+0001 1010
+1110 0110
+1110 0111
+Question A 5
+
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 6
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+
+Thème B : types construits
+Question B 1
+On définit le dictionnaire dico par les instructions suivantes :
+def f(x):
+return x*x
+def g(x):
+return x + x
+def h(x):
+return 3*x
+dico = { 'F': f, 'G': g(6), 'H': h }
+Une seule des affirmations suivantes est incorrecte. Laquelle ?
+dico['F'] est une fonction
+dico['F'](5) est un entier
+dico['G'] est une fonction
+dico['G'] est un entier
+Question B 2
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+Question B 3
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b] ?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B 4
+On définit L = [4,25,10,9,7,13]. Quelle est la valeur de L[2] ?
+Question B 5
+
+On considère la fonction suivante :
+def somme(tab):
+s = 0
+for i in range(len(tab)):
+......
+return s
+Par quelle instruction faut-il remplacer les points de suspension pour que l'appel somme([10,11,12,13,14])
+renvoie 60 ?
+s = tab[i]
+s = s + tab[i]
+tab[i] = tab[i] + s
+s = s + i
+Question B 6
+Quelle est la valeur de l'expression [[0] * 3 for i in range(2)] ?
+[[0,0], [0,0], [0,0]]
+[[0,0,0], [0,0,0]]
+[[0.000], [0.000]]
+[[0.00], [0.00], [0.00]]
+
+Thème C : traitement de données en tables
+Question C 1
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 2
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['8', '12', '142', '21']
+['8', '12', '21', '142']
+['12', '142', '21', '8']
+['12', '21', '8', '142']
+Question C 3
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 4
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 5
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 6
+
+Quelle est la valeur de la variable image après exécution du programme Python suivant ?
+image = [[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0]]
+for i in range(4):
+for j in range(4):
+if (i+j) == 3:
+image[i][j] = 1
+[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [1, 1, 1, 1]]
+[[0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1]]
+[[0, 0, 0, 1], [0, 0, 1, 0], [0, 1, 0, 0], [1, 0, 0, 0]]
+[[0, 0, 0, 1], [0, 0, 1, 1], [0, 1, 1, 1], [1, 1, 1, 1]]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page HTML, on peut trouver le code suivant :
+<article>
+<h1>Les auteurs de ce site</h1>
+<button onclick="auteurs()">Appuyer ici</button>
+</article>
+<script src="java_script/ScriptJava.js"></script>
+<script>
+function auteurs() { alert("Auteurs anonymes"); }
+<\script>
+Quel sera le résultat d’un clic sur le bouton "Appuyer ici" ?
+Rien
+La page du navigateur se fermera
+La page affichera à la place du bouton "Appuyer ici" le message "Auteurs anonymes"
+Cela provoquera l’ouverture d’une fenêtre comportant le message "Auteurs anonymes"
+Question D 2
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D 3
+Parmi les langages suivants, lequel est exécuté sur le serveur lors de la consultation d’une page Web ?
+JavaScript
+CSS
+PHP
+Question D 4
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 5
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D 6
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans la console Linux, quelle commande faut-il exécuter pour créer un dossier nommé travail dans le dossier
+courant ?
+pwd travail
+cd travail
+mkdir travail
+dir /home/martin/travail
+Question E 2
+Parmi ces composants électroniques, lequel est d'échelle microscopique dans un ordinateur ?
+le bus
+le radiateur
+le transistor
+le disque dur
+Question E 3
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+Question E 4
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+Question E 5
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+cp /etc/professeur/fichier.conf /home/nsi/fichier.conf
+
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question E 6
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+
+Thème F : langages et programmation
+Question F 1
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+CSS
+C++
+WEB
+Question F 2
+Remplacer les pointillés par l'expression correcte pour que la fonction suivante renvoie le plus petit écart entre
+deux éléments d'une liste de 10 entiers :
+def plusPetitEcart(L):
+m = abs(L[1] - L[0])
+for i in range(0, 9):
+for j in ...... :
+ecart = abs(L[j] - L[i])
+if ecart < m:
+m = ecart
+return m
+range(0,10)
+range(0,i)
+range(i,10)
+range(i+1,10)
+Question F 3
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+Python
+Question F 4
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 5
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F 6
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en
+argument. On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+
+Thème G : algorithmique
+Question G 1
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 2
+On dispose d'une fonction moyenne qui calcule la moyenne d'une liste de nombres et on écrit la fonction
+suivante :
+def centrage(L, a):
+for i in range(0,len(L)):
+L[i] = L[i] - a
+return L
+Pour la liste L1 = [5, 3, 1], quelle est la valeur de centrage(L1, moyenne(L1)) ?
+[5.0, 3.0, 1.0]
+[3.0, 3.0, 3.0]
+[2.0, 0.0, -2.0]
+[2.0, 1.0, -0.3333333]
+Question G 3
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 4
+Algorithme des k plus proches voisins. Nous disposons de 3 espèces de plantes (A, B, C) et
+d'un échantillon de plantes. Nous disposons de la distance entre notre échantillon et les
+spécimens de chaque espèce.
+Voici le début du tableau trié par ordre croissant de distance :
+Espèce
+Distance
+
+0,3
+
+0,7
+
+0,8
+
+1,0
+
+1,1
+
+…
+...
+Dans le cas ou k = 3, l'échantillon appartient à l’espèce :
+Impossible à déterminer
+Question G 5
+On dispose de sacs de jetons portant les nombres 10, 5, 3 et 1.
+On veut obtenir un total de 21 en utilisant ces jetons.
+Si on utilise le principe de l'algorithme glouton, quelle addition va-t-on réaliser pour obtenir ce total de 21 ?
+5 + 5 + 5 + 5 + 1
+10 + 5 + 3 + 3
+10 + 5 + 5 + 1
+10 + 10 + 1
+Question G 6
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+
+constant
+logarithmique
+linéaire
+quadratique

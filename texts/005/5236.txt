@@ -1,0 +1,184 @@
+{"pages": 6, "method": "pdftotext", "bytes": 890307, "at": "2026-11-23T09:23:36+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 6
+
+PARTIE A
+La pollution par le dioxyde de soufre (10 points)
+Le dioxyde de soufre est un gaz sans couleur et ininflammable dont l’odeur pénétrante irrite
+les yeux et les voies respiratoires. Le dioxyde de soufre provient principalement des
+combustions des combustibles fossiles (charbons, fiouls, etc), au cours desquelles les
+impuretés soufrées contenues réagissent avec le dioxygène de l’air pour former le dioxyde de
+soufre SO2(g). Ce polluant gazeux est rejeté dans l’atmosphère par de multiples petites
+sources (installations de chauffage domestique, véhicules à moteur diesel,…) et par des
+sources ponctuelles plus importantes telles que les centrales thermiques qui constituent
+d’ailleurs la plus grande source de dioxyde de soufre, notamment par la combustion du
+charbon.
+Les concentrations de dioxyde de soufre ont fortement baissé ces dernières années au rythme
+d’environ 10 % par an depuis cinq ans, pour atteindre une valeur plancher de l’ordre de 5
+µg.m-3 en moyenne annuelle pour l’ensemble des agglomérations. Cette évolution récente
+s’explique notamment par l’amélioration des combustibles et carburants.
+D’après www.actu-environnement.com
+L’objectif de l’exercice est de comparer la teneur en soufre d’un fioul domestique datant de
+1960 et d’un fioul domestique « nouvelle génération ».
+La méthode européenne de référence utilisée pour la mesure de la quantité de matière de
+dioxyde de soufre gazeux est la fluorescence ultraviolette.
+
+On se propose de déterminer la quantité de matière de dioxyde de soufre produite lors de la
+combustion des deux fiouls par une méthode pouvant être mise en œuvre dans un laboratoire
+de lycée, un titrage ayant pour support une réaction d’oxydo-réduction.
+Données
+- Couples oxydant-réducteur mis en jeu :
+
+2
+MnO4( aq) / Mn(aq
+)
+
+;
+
+SO42(aq) / SO2( aq)
+
+- Dans le titrage, parmi les espèces présentes, seuls les ions permanganate MnO4( aq)
+confèrent à la solution aqueuse une couleur violette.
+Soit S1 une solution aqueuse contenant une quantité de matière de dioxyde de soufre
+identique à celle utilisée pour la mesure, par la méthode européenne de référence, à la fin de
+la combustion totale du fioul « nouvelle génération ».
+On réalise le titrage d’un volume V1= 20,00 ± 0,02 mL de solution S1 introduite dans un bécher
+par une solution aqueuse de permanganate de potassium (K+(aq) + MnO4 (aq)) acidifiée dont la
+concentration en quantité de matière est C2 = (7,50 ± 0,01) x 10-3mol.L-1.
+Lors du titrage, l’équivalence est obtenue pour un volume versé VE = 8,5 ± 0,4 mL de la
+solution aqueuse de permanganate de potassium.
+1. Une des impuretés soufrées dans le fioul, évoqué dans l’introduction, est le soufre. Ecrire
+l’équation de la réaction modélisant la combustion du soufre S(s).
+2. Réaliser et légender précisément le schéma du montage utilisé pour réaliser le titrage.
+3. Etablir, à l’aide des données l’équation de la réaction d’oxydo-réduction support du titrage
+écrite ci-après:
+2
+2
++
+2 MnO4( aq) + 5 SO2( aq) + 2 H2O(l) 2 Mn(aq
+) + 5 SO4 ( aq ) + 4 H (aq)
+4. Définir l’équivalence d’un titrage.
+5. Décrire qualitativement comment évoluent, au cours du titrage, les quantités de matière des
+espèces chimiques présentes dans le bécher.
+6. Indiquer comment s’effectue le repérage de l’équivalence, en précisant votre raisonnement.
+7. On note n1, la quantité de matière initiale de dioxyde de soufre et n2, la quantité de matière
+des ions permanganate versés pour atteindre l’équivalence. Donner la relation entre les
+quantités de matière de réactifs introduits à l’équivalence
+
+8. L’incertitude-type sur la quantité de matière de dioxyde de soufre étant évaluée à une
+valeur de 8x10-6 mol lors de ce titrage, donner un encadrement à la valeur de la quantité de
+matière initiale de dioxyde de soufre dans la solution S 1.
+9. La quantité de matière de dioxyde de soufre dans le fioul datant de 1960 est déterminée
+égale à 2,5 x 10-2 mol, ce qui correspond à une teneur en soufre de 0,8 %. Estimer la
+teneur en soufre du fioul « nouvelle génération ». Commenter.
+10. Il est possible d’acheter du fioul domestique, notamment sur internet. Certains sites
+utilisent le terme de « fioul désoufré ». Justifier cette appellation.
+11. La fermeture des centrales thermiques produisant de l’électricité permettra-t-il d’atteindre
+les objectifs écologiques qui sont de réduire de façon significative les émissions de gaz à
+effet de serre d’ici 2050 et autres polluants gazeux ? Justifier et proposer une alternative
+pour produire de l’électricité.
+PARTIE B
+Photopile et développement durable (10 points)
+On appelle « générateur photovoltaïque » un
+assemblage de modules (ou panneaux)
+photovoltaïques, eux-mêmes composés de
+cellules photovoltaïques nommées également
+photopiles.
+https://www.futura-sciences.com/
+PREMIERE PARTIE : étude de la puissance électrique délivrée par une photopile.
+Une photopile fonctionne comme un générateur réel, c’est-à-dire qu’elle peut être modélisée
+par une source idéale de tension placée en série avec une résistance. On la représente par le
+symbole de la pile avec deux flèches pointant vers le dipôle ; ces flèches symbolisent la
+lumière.
+On désire tracer la courbe donnant les variations de la valeur de la puissance électrique
+produite par une photopile en fonction de celle de l’intensité du courant qu’elle débite.
+On dispose du matériel suivant : photopile, voltmètre, ampèremètre, interrupteur (noté K), fils
+de connexion, boîte de résistance réglable et lampe de forte intensité.
+La lampe sert à éclairer la photopile avec un éclairement constant : la puissance lumineuse
+qui arrive sur la photopile est toujours la même au cours de l’expérience ; elle vaut Plum = 3,0
+W.
+
+1. Quelle est la conversion d’énergie réalisée par une photopile ?
+Le montage expérimental nécessaire à l’étude est mis en place.
+Son schéma, représenté ci-dessous, est également représenté sur l’annexe à rendre avec la
+copie.
+2. Compléter sur l’annexe à rendre avec la copie l’emplacement du voltmètre et de
+l’ampèremètre. Le symbole normalisé de l’ampèremètre est A et celui du voltmètre est V.
+On précisera aussi les positions des bornes « COM » de chaque appareil pour assurer la
+lecture d’une valeur positive.
+
+3. Comment faire varier la valeur de l’intensité I du courant dans le circuit ?
+On reporte, dans le tableau ci-dessous, les valeurs expérimentales obtenues pour les mesures
+de la tension électrique UPN aux bornes de la photopile et de l’intensité du courant électrique
+débité par la photopile. La dernière ligne du tableau fait apparaître les valeurs
+correspondantes (sauf une) de la puissance électrique Pél ; elles sont calculées par un tableur.
+I (mA) 0,00 10,1 19,9 30,1 39,9 50,0 60,2 70,3 79,8 85,0 90,2 94,7 98,1 99,0 100,0
+UPN
+(V)
+
+4,98 4,92 4,79 4,72 4,58 4,50 4,33 4,15 3,77 3,51 3,05 2,16 1,22 0,84 0,030
+
+Pél
+(mW)
+
+0,0
+
+49,7 95,3 142 183
+
+261 292 301 298 275 205 120 83,0 3,0
+
+L’évolution de la puissance électrique produite par la photopile en fonction de l’intensité du
+courant qu’elle débite a été tracée à partir de ces valeurs expérimentales.
+Cette courbe est représentée sur l’annexe à rendre avec la copie.
+Déterminer, par le calcul, la valeur manquante dans le tableau.
+4. Expliquer pourquoi il n’est pas souhaitable que la photopile délivre son courant maximal.
+
+5. Pour quelle valeur de l’intensité du courant la puissance délivrée par la photopile est-elle
+maximale ? Que vaut alors cette puissance ? Justifier graphiquement la réponse en
+utilisant la courbe de l’annexe à rendre avec la copie.
+6. Définir puis évaluer le rendement, noté η.
+7. Formuler deux raisons pour lesquelles ce rendement n’est pas égal à 1.
+DEUXIEME PARTIE : utilisation de la photopile pour l’alimentation électrique d’un
+appartement.
+L’éclairement en France.
+La puissance lumineuse reçue
+sur la Terre en provenance du
+Soleil dépend de l’endroit où l’on
+se trouve sur la planète, de la
+saison, ainsi que des conditions
+météorologiques.
+La carte ci-contre, tirée du site
+spécialisé en réglementation
+thermique et environnementale
+xpair.com, représente l’énergie
+lumineuse reçue en moyenne par
+unité de surface et par année en
+France métropolitaine :
+https://formation.xpair.com/cours/
+cartes-solaires.htm
+La consommation moyenne en chauffage électrique d’un appartement thermiquement bien
+isolé est voisine de 5.103 kWh par an.
+L’étude porte sur un immeuble de 6 appartements thermiquement bien isolés, situé à Valence,
+dans le sud-est de la France. Sur le toit de l’immeuble est installé un dispositif de panneaux
+photovoltaïques recouvrant totalement une surface d’aire Spanneaux = 100 m². Ces panneaux
+sont confectionnés avec des photopiles identiques à celle étudiée ci-dessus ; ils fonctionnent
+au maximum de la puissance délivrée.
+8. Quel est le nombre d’appartements de cet immeuble que cette installation de panneaux
+photovoltaïques permet d’alimenter en électricité ?
+9. En utilisant les questions précédentes pour justifier vos affirmations, expliquer pourquoi le
+photovoltaïque contribue à faire face au réchauffement climatique, mais que cette
+technologie doit être associée à d’autres sources d’énergie. La réponse attendue
+comportera moins de dix lignes.
+
+Annexe à rendre avec la copie
+Première partie – question 2
+
+Première partie – question 6

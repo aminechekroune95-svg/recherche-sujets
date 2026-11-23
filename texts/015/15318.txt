@@ -1,0 +1,459 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1316620, "at": "2026-11-23T09:40:01+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+Question A 2
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+Quelle est l’écriture hexadécimale de l’entier dont la représentation en binaire non signé est 1100 0011 ?
+BB
+C3
+CB
+7610
+Question A 5
+On considère l'extrait de code suivant :
+while (a < 20) or (b > 50):
+......
+......
+
+Quelles conditions permettent de mettre fin à cette boucle ?
+la boucle prend fin lorsque a < 20 ou b > 50
+la boucle prend fin lorsque a < 20 et b > 50
+la boucle prend fin lorsque a >= 20 ou b <= 50
+la boucle prend fin lorsque a >= 20 et b <= 50
+Question A 6
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+
+Thème B : types construits
+Question B 1
+On définit une liste : L = [1, 1, 2, 9, 3, 4, 5, 6, 7].
+Quelle expression a-t-elle pour valeur la liste [4, 16, 36] ?
+[(x * x) % 2 == 0 for x in liste]
+[x for x in liste if x % 2 == 0]
+[x * x for x in liste]
+[x * x for x in liste if x % 2 == 0]
+Question B 2
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+Question B 3
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+Question B 4
+Comment peut-on accéder à la valeur associée à une clé dans un dictionnaire ?
+il faut parcourir le dictionnaire avec une boucle à la recherche de la clé
+on peut y accéder directement à partir de la clé
+on ne peut pas accéder à une valeur contenue dans un dictionnaire à partir d’une clé
+il faut d’abord déchiffrer la clé pour accéder à un dictionnaire
+Question B 5
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+
+"no"
+citation[11]
+
+Question B 6
+On considère le code suivant :
+t = [1, 6, 8, 3, 21]
+u = [x for x in t if x > 3]
+Que vaut u à la fin de son exécution ?
+[1, 6, 8, 21]
+[6, 8, 3, 21]
+[6, 8, 21]
+[1, 3, 6, 21]
+
+Thème C : traitement de données en tables
+Question C 1
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 2
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 3
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 4
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C 5
+Quel type de fichier est le plus adapté au traitement des données parmi les formats suivant ?
+PNG
+DOC
+CSV
+PDF
+Question C 6
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D 2
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 3
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+Question D 4
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser des données de façon plus sécurisées
+
+Question D 5
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 6
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E 2
+Dans quel but le protocole du bit alterné peut-il être utilisé ?
+Pour chiffrer des données lors de transmission de données sur un réseau
+Pour détecter des pertes de paquets de données lors de transmission de données sur un réseau
+Pour créer des paquets de données lors de transmission de données sur un réseau
+Pour envoyer les paquets de données à la bonne l’adresse IP de la machine de destination
+Question E 3
+Sachant que hibou est un fichier présent dans le répertoire courant, quel est l’effet de la commande
+suivante : mv hibou chouette
+déplacer le fichier hibou dans le répertoire chouette
+ajouter le contenu du fichier hibou à la fin du fichier chouette
+renommer le fichier hibou en chouette
+créer le fichier chouette, copie du fichier hibou
+Question E 4
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la documentation sur la commande pwd ?
+man pwd
+cd pwd
+mkdir pwd
+ls pwd
+Question E 5
+Parmi les éléments suivants, lequel n'est pas un capteur ?
+un haut-parleur
+une caméra
+un écran tactile
+un microphone
+
+Question E 6
+Quel matériel permet d'interconnecter des réseaux entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+
+Thème F : langages et programmation
+Question F 1
+Un programme Python commence par la ligne :
+import os
+À quoi sert cette ligne ?
+c'est le début du squelette de tout programme Python
+c'est la déclaration du système d'exploitation (operating system)
+Python 3.6 exige cette ligne au début de tout programme
+c'est la déclaration d'une bibliothèque (ou module) que le programme compte utiliser
+Question F 2
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 3
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+Question F 4
+
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F 5
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 6
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a = 1
+else:
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+
+Thème G : algorithmique
+Question G 1
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 2
+On définit une fonction de recherche dichotomique de l'indice d'un élément x à l'intérieur d'une liste triée de la
+façon suivante:
+def recherchee(x, liste_triee):
+a = 0
+b = len(liste_triee)-1
+while a < b:
+m = (a + b)//2
+if liste_triee[m] == x:
+return m
+elif liste_triee[m] > x:
+b = m - 1
+else:
+........
+return a
+Par quoi faut-il remplacer la ligne pointillée pour répondre à l'objectif ?
+a = m + 1
+a = m - 1
+a = b
+a = b - m
+Question G 3
+
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+return i
+return None
+Quel est le coût dans le pire des cas de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+Question G 5
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 6
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire

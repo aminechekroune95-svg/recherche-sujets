@@ -1,0 +1,262 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1095235, "at": "2026-11-23T09:24:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Le jet d’eau de Genève (10 points)
+Le jet d’eau de Genève, en Suisse, est l’emblème de la
+ville. Il permettait à l’origine de contrôler la pression d’une
+usine hydraulique en laissant s’échapper vers le ciel l’eau
+en surpression.
+Le but de cet exercice est de discuter de deux différentes
+modélisations permettant d’étudier le mouvement du jet
+d’eau.
+Données techniques :
+ hauteur moyenne du jet : 140 m ;
+ vitesse de sortie de l’eau : 200 km.h-1 ;
+ débit : 500 L.s-1 ;
+ puissance des pompes : 1000 kW ;
+ intensité du champ de pesanteur terrestre : g = 9,81
+m.s-2.
+
+Figure 1. Jet d’eau de Genève
+(d’après
+wikipedia.org/Jet_d’eau.jpg)
+
+1. Estimation de la hauteur du jet
+On souhaite estimer la hauteur du jet à l’aide d’un modèle très simple. On s’intéresse à une
+goutte d’eau de masse m initialement au niveau du sol, à qui on communique une vitesse v0
+= 56 m.s-1, soit 200 km.h-1, dirigée verticalement vers le haut.
+
+Dans cette partie, on néglige les frottements de l’air sur la goutte. La hauteur du jet est notée
+h1. L’origine des altitudes pour le calcul de l’énergie potentielle de pesanteur est choisie à la
+surface du lac, où est située la sortie des pompes et l’axe Oz est orienté vers le haut.
+1.1.
+1.2.
+1.3.
+
+1.4.
+
+Donner l’expression de l’énergie mécanique de la goutte en fonction de sa masse
+m, de sa vitesse v, de son altitude z et du champ de pesanteur terrestre g.
+En déduire l’expression de l’énergie mécanique en sortie des pompes en fonction
+de v0 et m.
+Indiquer en justifiant la valeur de l’énergie cinétique de la goutte en haut du jet. En
+déduire l’expression de l’énergie mécanique en haut du jet en fonction de la
+hauteur h1 du jet, de g et de m.
+Dans cette partie, on considère que l’énergie mécanique de la goutte se conserve.
+Estimer la hauteur h1 du jet. Commenter votre résultat.
+
+2. Un modèle plus complexe
+Une modélisation plus complexe permet d’obtenir les expressions de l’altitude z et de la
+vitesse v de la goutte en fonction du temps. On utilise le langage python afin d’obtenir le
+graphique des différentes énergies en fonction du temps.
+Dans cette partie, la hauteur du jet est notée h2.
+Extrait du programme réalisé en python :
+
+Figure 2. Représentation graphique des énergies obtenue à partir
+du programme python
+Compléter les lignes 26 et 27 du programme en python afin qu’il permette d’obtenir
+la représentation graphique de la figure 2.
+2.2. Commenter l’évolution de l’énergie mécanique de la goutte obtenue sur le
+graphique (figure 2). Indiquer en quoi la modélisation choisie ici permet d’obtenir
+des résultats plus en accord avec la réalité que le modèle proposé dans la partie 1.
+2.3. La norme de la force de frottement, supposée constante, qui s’applique sur la
+goutte est notée f.
+2.3.1. Relier la variation d’énergie mécanique de la goutte entre sa position haute et
+sa position basse ΔEm à la hauteur du jet h2 et à la norme force de frottement f.
+En déduire l’expression de f.
+2.3.2. La valeur choisie dans le programme pour f permet d’obtenir une valeur de
+140 m pour la hauteur h2 du jet. À l’aide du graphique figure 2, évaluer ΔEm. En
+déduire la valeur choisie pour la norme de la force de frottement.
+2.3.3. Les équations de la mécanique des fluides permettent d’établir que la force de
+frottement est proportionnelle au carré de la vitesse de la goutte. Indiquer une
+éventuelle amélioration à apporter à la modélisation utilisée dans la partie 2.
+Expliquer votre choix.
+2.1.
+
+PARTIE B
+Protection solaire (10 points)
+
+Le rayonnement solaire est indispensable à la synthèse de la
+vitamine D, essentielle pour la croissance, et il a des effets
+antidépressifs, mais son caractère nocif en cas d’exposition
+prolongée est aussi reconnu. La photoprotection désigne tous les
+moyens de protection contre les effets néfastes du rayonnement
+solaire.
+L'acide para-aminobenzoïque ou acide 4-aminobenzoïque,
+représenté ci-contre, a des propriétés de photoprotecteur. Il est
+nommé PABA (pour « para-aminobenzoic acid »).
+
+H2N
+
+HC
+
+O
+OH
+
+Formule semidéveloppée du
+PABA
+
+Le rayonnement solaire qui atteint la Terre est composé de rayonnements infrarouges, de
+lumière visible et de rayonnements ultraviolets potentiellement nocifs, comme l’indique le
+tableau ci-après. Les crèmes de protection solaire qui contiennent des substances actives
+appelées filtres organiques agissent par absorption d’une partie des rayonnements
+ultraviolets. Le PABA est le plus ancien filtre organique. Utilisé dès le début des années 70
+dans les crèmes solaires, il est résistant à l’eau et la transpiration. Cependant, en raison de
+son instabilité au soleil et de son potentiel allergisant, il a été peu à peu abandonné.
+- Classification des rayonnements ultraviolets (ou UV) :
+UV
+UVC
+UVB
+UVA
+Filtrés par la
+totalement
+partiellement
+non
+couche d’ozone
+Gamme de
+< 280
+280 - 315
+315 - 400
+longueur d’onde λ
+(nm)
+Coups de soleil
+Vue (cataracte)
+Danger
+Facteur principal
+Vieillissement de la peau
+de cancers de la
+Rôle dans l’apparition de cancers
+peau
+de la peau
+D’après fiches pratiques du DGCCRF et cosmeticobs.com
+Dans cet exercice seront étudiés le rôle de PABA comme photoprotecteur et comme réactif
+pour produire une autre substance active utile pour soulager des « coups de soleil ».
+Données :
+- Masse molaire moléculaire : M(PABA) = 137 g·mol-1 M(éthanol) = 46 g·mol-1 ;
+M(benzocaïne) = 165 g·mol-1 ;
+- Masse volumique : ρ(éthanol) = 0,79 g·mL-1
+
+1. Protéger sa peau
+L’acide para-aminobenzoïque est préconisé dans la prévention et le traitement
+de certaines maladies de la peau dues au soleil ; il est alors utilisé par voie
+interne, sous forme de comprimés à avaler, avant une exposition solaire, mais
+peut aussi être utilisé par voie externe dans une crème, pendant l’exposition.
+On donne ci-dessous l’allure du spectre UV-visible du PABA en solution dans
+l’éthanol
+Absorbance / échelle arbitraire
+
+longueur d’onde en nm
+
+D’après J. Soc. Cosmet. Chem., 1987
+1.1. Estimer la quantité de matière de PABA contenue dans un comprimé enrobé comportant
+1000 mg de substance active.
+1.2. Indiquer si une solution de PABA dans l’éthanol est colorée. Justifier.
+1.3. Justifier que le PABA est un filtre organique solaire.
+2. Soulager sa peau
+Le « coup de soleil » est une brûlure, généralement du premier degré, causée par une
+exposition prolongée au rayonnement solaire de la peau non protégée ; il peut être très
+douloureux. La benzocaïne est un anesthésique local pouvant être utilisé dans les
+médicaments soulageant les brûlures mineures.
+Sa synthèse au laboratoire peut s’effectuer à partir du PABA et elle est modélisée par la
+réaction d’équation suivante :
+
+Produit
+secondaire
+PABA
+
+éthanol
+
+Benzocaïne
+C9H11NO2
+
+Le protocole expérimental mis en œuvre est le suivant.
+Dans un ballon de 100 mL introduire une masse mPABA = 1,50 g (10,9 mmol) de PABA et un
+volume V = 20 mL d'éthanol pur. Agiter jusqu'à dissolution du solide et ajouter, avec
+précaution, environ 2 mL d'acide sulfurique concentré. Adapter au ballon un réfrigérant à eau
+et porter le mélange au reflux pendant une heure. À la fin du chauffage, laisser revenir le
+mélange réactionnel à température ambiante […]
+D’après Bac2006, Bac2015 et Iftlm.fr
+2.1. Réaction modélisant la synthèse de la benzocaïne
+2.1.1. Justifier le nom éthanol associé au deuxième réactif.
+2.1.2. Ecrire l'équation de la synthèse de la benzocaïne en utilisant les formules brutes et en
+déduire quel est le produit secondaire accompagnant sa formation.
+2.1.3. Reproduire et compléter le tableau d’avancement suivant puis montrer que PABA est
+le réactif limitant.
+= C9H11NO2 +
+
++
+
+Équation de réaction
+
+État initial
+
+Avancement
+(en mol)
+
+État intermédiaire
+
+x
+
+Quantités de matière (en mol)
+1,0910-2
+
+2.1.4. Déterminer la composition finale du système dans l’hypothèse d’une transformation
+totale.
+2.2. Protocole et résultats
+2.2.1. Schématiser et légender le schéma expérimental du
+montage à reflux de la photo ci-contre.
+http://www.ostralo.net/materieldelabo/pages/reflux.htm
+À la fin des étapes de transformation et isolement, un solide blanc
+qualifié de « produit brut » est obtenu. Ce solide est ensuite
+purifié par recristallisation, et la poudre cristallisée blanche
+obtenue est séchée et pesée. On obtient une masse de produit
+sec purifié de 0,81 g. Une chromatographie sur couche mince est
+effectuée et le chromatogramme obtenu après révélation est
+reproduit ci-après.
+
+Dépôt
+
+Composé
+
+A
+
+PABA commercial
+
+B
+
+Produit brut
+
+Produit recristallisé
+
+D
+
+Benzocaïne
+commerciale
+
+Mise en œuvre de la CCM :
+Les échantillons à étudier sont
+d’abord dissous dans l’éthanol.
+Ils sont déposés sur la ligne de
+dépôt de la plaque recouverte de
+gel de silice.
+La plaque est placée dans une
+cuve de chromatographie
+contenant l’éluant éthanoate
+d’éthyle.
+La plaque est séchée puis
+révélée sous UV.
+D’après Bac2006, Bac2015 et Iftlm.fr
+
+2.2.2. Justifier que la recristallisation a été efficace.
+2.2.3. Déterminer la valeur du rendement de la synthèse. Commenter et proposer plusieurs
+hypothèses pouvant expliquer cette valeur.

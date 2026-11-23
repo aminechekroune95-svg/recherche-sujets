@@ -1,0 +1,161 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1561230, "at": "2026-11-23T09:33:00+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+Minimisation des pertes par effet Joule
+Sur 10 points
+Dans le sud de la France, un immeuble et une maison sont alimentés la journée par
+des éoliennes et des panneaux solaires distribuant respectivement des courants
+d’intensités 𝐼1 et 𝐼2 . On veut minimiser les pertes par effet Joule dans ce réseau de
+distribution électrique.
+Partie 1 : Dissipation de l’énergie
+Document 1 : transport de l’énergie électrique
+L’électricité lors de son transport entre les
+lieux de production et les lieux de
+consommation subit des pertes en ligne dont
+le volume dépend de la distance de transport
+des caractéristiques du réseau. 80 % de ses
+pertes le sont par effet Joule dans les câbles
+électriques, soit pour la France, l’équivalent
+de deux unités de production nucléaires
+électriques.
+Pertes sur le réseau de transport de l’électricité en France en 2019 :
+Énergie électrique transportée en France en 2019 : 495 × 109 kWh.
+2,22 % : taux de perte d’énergie en France en 2019 pendant le transport de
+l’électricité.
+Source : https://www.actu-environnement.com
+
+1- Calculer les pertes d’énergie en kWh en France en 2019 dues au transport de
+l’énergie électrique.
+2- Calculer en 2019 en France, l’énergie électrique en kWh à disposition des
+consommateurs.
+
+Partie 2 : modélisation du réseau électrique
+Document 2 : schéma du réseau électrique
+
+Dans la modélisation simplifiée utilisée, on considère que les tensions et les
+courants sont continus.
+
+3- Identifier les cibles destinatrices et les sources distributrices du réseau du
+document 2.
+4- La tension du réseau de distribution étant fixée, expliquer pourquoi les intensités I3
+et I4 sont fixées.
+5- Modéliser le réseau électrique du document 2 par un graphe orienté.
+6- Justifier que 𝐼3 est environ égale à 36 A et 𝐼4 à 94 A, sachant que les puissances
+par effet Joule correspondent à 5 % des puissances utiles.
+
+On admet que les intensités vérifient la relation I1 + I2 = I3 + I4
+7- Donner l’expression de la puissance dissipée par effet Joule 𝑃𝐽 à minimiser en
+fonction de 𝐼1, , 𝐼2 , 𝐼3 et 𝐼4 . Exprimer la valeur de I2 en ampères en fonction de I1.
+Les intensités I3 et I4 étant connues et I2 pouvant s’exprimer en fonction de I1, la
+puissance PJ peut s’exprimer en fonction de I1 seulement. La représentation graphique
+de la fonction PJ(I1) est donnée dans le document 3.
+Document 3 : représentation graphique de 𝑷𝑱 en fonction de 𝑰𝟏
+𝑃𝐽 (W)
+
+Puissance dissipée par effet Joule
+
+𝐼1 (A)
+
+8- La contrainte sur les intensités délivrées par les sources impose que 𝐼1 peut
+prendre une valeur comprise dans l’intervalle [0 ; 70] en ampères.
+Déterminer les valeurs de 𝐼1 et de 𝐼2 pour lesquelles les pertes par effet Joule sont
+minimales.
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Effondrement des montagnes, biodiversité et climat
+Sur 10 points
+Les montagnes semblent ne pas changer au cours du temps à l’échelle de la vie
+humaine. Pourtant le réchauffement climatique en cours, avec une augmentation des
+températures deux fois supérieure dans les Alpes à celle du reste de l’Europe, entraîne
+la fonte de glaciers et la dégradation du permafrost. Quand ce sol gelé se réchauffe,
+les roches se désolidarisent et se déstabilisent.
+
+Photographies du glacier Carré situé sur la Meije, sommet emblématique des
+Alpes : en 2008 (à gauche) et en 2018 (à droite).
+
+Le glacier Carré se réduit à ses marges, libérant durant tout l’été un ruissèlement
+propice à la végétation.
+http://www.ecrins-parcnational.fr/sites/ecrins-parcnational.com/files/article/18476/body/084265meijecomparatifsoctobre2008-2018.jpg
+
+Document 1 : la renoncule des glaciers de la Meije
+1877 : le sommet de la Meije, culminant à 3893 m, est atteint par les alpinistes. Ils
+découvrent un « jardin suspendu » situé au « bivouac du glacier carré » où trois
+espèces végétales sont présentes à cette haute altitude.
+2012 : deux des trois espèces végétales perdurent. On observe aussi le net recul du
+glacier Carré libérant un espace rocailleux colonisé par une nouvelle population de
+renoncules des glaciers (Ranunculus glacialis). La renoncule des glaciers est la
+renoncule d’altitude par excellence. Elle pousse par petits groupes dans les pierriers
+et sols instables.
+D’après Espèces, Revue d’histoire naturelle n°37, 2020
+
+Photographie de renoncules des glaciers enracinées entre des pierres
+https://www.tela-botanica.org/bdtfx-nn-55036-illustrations
+
+Document 2 : la limite de la végétation en haute altitude
+La limite de la présence de végétation en altitude se situe à 4 504 m dans les Alpes.
+À cette altitude, la pression partielle du dioxyde de carbone a une valeur de 480 mbar.
+Ce gaz, fondamental pour les plantes, se réduit drastiquement en haute altitude : la
+photosynthèse est de ce fait rendue difficile. Ainsi, en plus de la température et de la
+disponibilité en eau liquide, la pression partielle en CO2 parait être un des facteurs clés
+pour comprendre la capacité des plantes à se développer en situation extrême.
+D’après Espèces, Revue d’histoire naturelle n°37 (septembre à novembre 2020)
+
+Document 3 : températures du Glacier Carré du 15 juillet 2015 au 1er janvier 2019
+Des capteurs de température ont été disposés au ras du sol, à hauteur de vie des
+renoncules des glaciers. L’éboulement de 2018 – malgré son côté destructeur – est
+une remarquable opportunité pour cette plante : de nombreuses particules et sables
+se sont déposés sur place, créant un sol meuble, les éléments minéraux sont plus
+facilement mis en solution et donc absorbables par les plantes.
+
+D’après la réalisation de R. Moine, Espèces, Revue d’histoire naturelle, n°37 (2020)
+
+1- Indiquer si les données du document 3 peuvent être qualifiées de climatiques ou
+météorologiques. Justifier la réponse.
+2- À partir de l’exploitation des informations fournies dans l’introduction et le
+document 3, expliquer l’origine de l’éboulement du glacier Carré de 2018.
+3- Rédiger un paragraphe argumenté (de dix à vingt lignes) décrivant l’effet du
+changement climatique sur les renoncules des glaciers, en exploitant les documents
+et vos connaissances.
+
+4- L’augmentation de la quantité de dioxyde de carbone dans l’atmosphère a de
+nombreuses conséquences concrètes à la surface de la Terre. Reporter sur la copie
+les lettres correspondant aux affirmations exactes suivantes.
+a) Le CO2 présent dans l’atmosphère réfléchit une partie du rayonnement infrarouge émis par la Terre. Il en résulte une élévation de la température au sol.
+b) Le CO2 présent dans l’atmosphère absorbe une partie du rayonnement infrarouge émis par la Terre. Il en résulte une élévation de la température au sol.
+c) La présence de CO2 dans l’atmosphère entraîne un surplus d’énergie radiative
+reçue par le sol et, indirectement, la montée du niveau des océans.
+d) La présence de CO2 dans l’atmosphère entraîne une augmentation de la
+température moyenne des océans.
+e) La pression partielle de CO2 est plus élevée en altitude, ce qui explique que la
+photosynthèse soit plus difficile à réaliser
+f) La pression partielle de CO2 est plus faible en altitude, ce qui explique en partie
+la limite altitudinale des plantes vasculaires.

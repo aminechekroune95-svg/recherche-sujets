@@ -1,0 +1,436 @@
+{"pages": 19, "method": "pdftotext", "bytes": 457777, "at": "2026-11-23T09:42:22+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+Question A 2
+Qu'est-ce qui permet de traduire un nom d'hôte en adresse IP ?
+un serveur DNS
+un serveur DHCP
+un pare-feu
+un hub
+Question A 3
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 4
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A 5
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 + 101 1000 ?
+
+1101
+1000 0101
+1 0000 0101
+
+Question A 6
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+
+Thème B : types construits
+Question B 1
+On définit un dictionnaire : d = { 'couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif' }
+Quelle est la valeur de l'expression [k for k in d.keys()] ?
+['couleur', 'taille', 'marque']
+[('couleur', 'vert'), ('taille', 42), ('marque', 'le coq sportif')]
+['vert', 42, 'le coq sportif']
+['couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif']
+Question B 2
+Si la variable note est définie par note = ["do","ré","mi","fa","sol","la","si"] alors :
+l'index de "sol" est 5
+l'index de note est 0
+l'index de "si" est 7
+l'index de "mi" est 2
+Question B 3
+Laquelle de ces expressions a pour valeur la liste [[0,1,2],[3,4,5],[6,7,8]] ?
+[[i+j for i in range(3)] for j in range(3)]
+[[i]*3 for i in range(3)]*3
+[[i+j*3 for i in range(3)] for j in range(3)]
+[[i+j for i in range(3)] for j in range(3)]*3
+Question B 4
+
+On définit une grille G remplie de 0, sous la forme d'une liste de listes, où toutes les sous-listes ont le même
+nombre d'éléments.
+G =
+
+[ [0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+……
+[0, 0, 0, …, 0] ]
+
+On appelle hauteur de la grille le nombre de sous-listes contenues dans G et largeur de la grille le nombre
+d'éléments dans chacune de ces sous-listes. Comment peut-on les obtenir ?
+hauteur = len(G[0])
+largeur = len(G)
+
+hauteur = len(G)
+largeur = len(G[0])
+
+hauteur = len(G[0])
+largeur = len(G[1])
+
+hauteur = len(G[1])
+largeur = len(G[0])
+
+Question B 5
+def ajoute(stock,element,quantite):
+if element in stock:
+stock[element] = stock[element] + quantite
+stock[element] = quantite
+stock = { 'clous': 14, 'vis': 27, 'boulons': 8, 'écrous': 24 }
+ajoute(stock,'vis',5)
+ajoute(stock,'chevilles',3)
+Quelle est la valeur de la variable stock à la fin de cette exécution ?
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+Question B 6
+On exécute le code suivant :
+placard = { 'chemise': 3, 'pantalon': 6, 'tee shirt': 7 }
+placard['chaussette'] = 4
+placard['chemise'] = 5
+L = list(placard.values())
+
+Quelle est la valeur de la variable L à l'issue de cette exécution ?
+[ 3, 6, 7 ]
+[ 3, 6, 7, 4 ]
+[ 5, 6, 7 ]
+[ 5, 6, 7, 4 ]
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 2
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 3
+asso = []
+L = [ ['marc','marie'], ['marie','jean'], ['paul','marie'], ['marie','marie'],
+['marc','anne']
+]
+for c in L :
+if c[1]==’marie’:
+asso.append(c[0])
+Que vaut asso à la fin de l'exécution ?
+['marc', 'jean', 'paul']
+[['marc','marie'], ['paul','marie'], ['marie','marie']]
+['marc', 'paul', 'marie']
+['marie', 'anne']
+Question C 4
+
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 5
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 6
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 2
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 3
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+Question D 4
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Javascript
+Question D 5
+
+Quelle méthode d’envoi des paramètres est-il préférable d’utiliser, pour un formulaire d’une page web, destiné
+à demander à l’utilisateur un mot de passe pour se connecter (le protocole utilisé est HTTPS) ?
+la méthode PASSWORD
+la méthode CRYPT
+la méthode GET
+la méthode POST
+Question D 6
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E 2
+À partir du répertoire ~/Perso/Doc quelle commande permet de rejoindre le répertoire ~/Public ?
+cd ./Public
+cd ../Public
+cd ././Public
+cd ../../Public
+Question E 3
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 4
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+cp /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question E 5
+La mémoire RAM :
+
+ne fonctionne qu'en mode lecture
+ne fonctionne qu'en mode écriture
+conserve les données en cas de coupure de l'alimentation
+perd les données en cas de coupure de l'alimentation
+Question E 6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la documentation sur la commande pwd ?
+man pwd
+cd pwd
+mkdir pwd
+ls pwd
+
+Thème F : langages et programmation
+Question F 1
+On considère le code incomplet suivant, où la fonction maximum renvoie le plus grand élément d’une liste de
+nombres :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+..............
+..............
+return m
+Que faut-il écrire à la place des lignes pointillées ?
+if m < L[i]:
+L[i] = m
+
+if L[i-1] < L[i]:
+m = L[i]
+
+if L[i] < L[0]:
+L[i],L[0] = L[0],L[i]
+
+if L[i] > m:
+m = L[i]
+
+Question F 2
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a = 1
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+Question F 3
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+
+JavaScript
+Question F 4
+Lequel des langages suivants n'est pas un langage de programmation :
+Javascript
+Question F 5
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 6
+Voici un programme en Python :
+tableau = [8, 1, 6, 6, 9, 6, 9, 3, 8, 6, 3, 4, 9, 6, 7, 1]
+m = -1
+rang = -1
+for i in range(len(tableau)):
+if m <= tableau[i]:
+m = tableau[i]
+rang = i
+Quelle est la valeur du couple (m,rang) à la fin de l'exécution du programme ?
+(1,1)
+(1,15)
+(9,4)
+(9,12)
+
+Thème G : algorithmique
+Question G 1
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a = x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+Question G 2
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G 3
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 4
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+
+'e'
+Question G 5
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+25002
+22500
+Question G 6
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+i = k + 1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin

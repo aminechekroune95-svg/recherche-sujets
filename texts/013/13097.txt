@@ -1,0 +1,349 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1436865, "at": "2026-11-23T09:32:44+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+Le complexe de Toco
+Le complexe de stockage Toco, situé en
+Guyane, est le plus grand complexe de
+stockage par batteries lithium-ion en France. Il
+rassemble la centrale solaire de Savane des
+Pères couplée à une installation de stockage par
+batterie ainsi que l’installation de stockage par
+batterie de Mana. On recherche une alternative
+à l’utilisation de batteries.
+Document 1 : Coefficient d’absorption des matériaux semi-conducteurs en
+fonction de la longueur d’onde de la lumière
+
+GaAS : arséniure de gallium ; Si : silicium ; InP : phosphure d’indium ; CdTe : tellurure de cadmium ;
+CdS : sulfure de Cadmium.
+D’après : https://tel.archives-ouvertes.fr/tel-01529748/document
+
+Document 2 : Le volant de stockage solaire
+Une solution innovante est expérimentée au sein du complexe de Toco, il s’agit d’un Volant
+de Stockage Solaire (VOSS) : “Pour une masse de 4-5 tonnes incluant l’équipement autour,
+le volant aura une capacité de stockage énergétique de 10 kWh, et l’ensemble
+moteur/alternateur une puissance nominale de 10 kW. Ainsi, le système disposera d’une
+autonomie d’une heure en utilisation maximum”.
+Un VOSS est constitué d'une masse en béton (mélange de sable et de ciment) précontraint
+entraînée par un moteur électrique. L'apport d'énergie électrique permet de faire tourner la
+masse à des vitesses très élevées et une fois lancée, elle continue à tourner, même si plus
+aucun courant ne l’alimente. L'énergie électrique est alors stockée dans le volant sous forme
+d’énergie cinétique, elle pourra ensuite être restituée instantanément en utilisant
+l’alternateur, entraînant la baisse de la vitesse de rotation de la masse.
+
+ Volant
+
+d’inertie en béton
+précontraint
+
+ Frettage en fibre de verre
+sous tension autour du volant
+
+ Moteur / Alternateur
+ Pompe à vide
+ Onduleur
+ Roulement à billes
+ Enceinte en béton sous vide
+ Le volant est enterré mais
+une partie est accessible pour
+la maintenance
+
+1kWh est l’énergie associée à une puissance de 1 kW transférée ou stockée pendant une
+heure.
+D’après : http://www.energiestro.fr
+
+À partir des connaissances et des informations fournies, répondre aux questions
+suivantes.
+1- À la suite de mesures, on trace à l’aide d’un tableur la courbe montrant les variations
+de l’intensité du courant électrique produit par une cellule photovoltaïque en fonction
+de la tension à ses bornes (I = f(U) en trait plein) et la courbe montrant les variations
+de la puissance électrique délivrée en fonction de cette même tension (P = f(U) en
+pointillés).
+
+Noter sur votre copie le numéro de la série de propositions (I, II…) et la lettre
+correspondant à proposition exacte :
+I. Une cellule photovoltaïque convertit :
+a. l’énergie électrique qu’elle reçoit en énergie radiative ;
+b. l’énergie radiative qu’elle reçoit en énergie thermique ;
+c. l’énergie radiative qu’elle reçoit en énergie électrique ;
+d. l’énergie thermique qu’elle reçoit en énergie électrique.
+
+II. La puissance délivrée par une cellule photovoltaïque peut se calculer à l’aide de
+la relation :
+a. P = U× I ;
+b. P = R× I2 ;
+c. P = U× I2 ;
+d. P = R× I.
+III. La cellule photovoltaïque étudiée est parcourue par :
+a. un courant d’intensité 80 mA lorsque la tension à ses bornes vaut 0,29 V ;
+b. un courant d’intensité 4 mA lorsque la tension à ses bornes vaut 0,14 V ;
+c. un courant d’intensité 8 mA lorsque la tension à ses bornes vaut 0,29 V ;
+d. un courant d’intensité 7 mA lorsque la tension à ses bornes vaut 0,39 V.
+IV. La puissance électrique maximale produite par la cellule vaut :
+a. 8,6 mW ;
+b. 2,6 W ;
+c. 2,6 mW ;
+d. 2,5 kW.
+V. La résistance d’utilisation maximisant la puissance électrique délivrée par la
+cellule est d’environ :
+a. 0,051 Ω ;
+b. 51 Ω ;
+c. 19 Ω ;
+d. 0,019 Ω.
+La centrale solaire de Savane des Pères est constituée d’une surface de 22 200 m²
+de modules photovoltaïques au tellurure de cadmium (Cd/Te) qui reçoivent
+annuellement une énergie solaire de 1,875 MWh/m² pour une production électrique de
+5 400 MWh.
+2- À partir du document 1, indiquer pourquoi il est possible d’utiliser le matériau semiconducteur tellurure de cadmium (Cd/Te) en remplacement du silicium (Si) que l’on
+trouve communément dans les modules photovoltaïques.
+
+3- Calculer le rendement énergétique de la centrale solaire. Toute démarche
+entreprise pour répondre à la question sera valorisée.
+4- Les batteries couplées à la centrale solaire de Savane des Pères ont une capacité
+de stockage de 2,9 MWh et une puissance de 2,6 MW. Calculer la durée d’autonomie
+électrique de ces batteries.
+5- Recopier et compléter le schéma de la chaîne de transformation énergétique d’un
+Voss lorsqu’il est en phase de restitution de l’énergie stockée.
+
+6- Donner le nom du phénomène physique exploité par un alternateur et le décrire
+brièvement.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+L’oreille et l’audition
+L’audition joue un rôle primordial dans les interactions sociales. L’oreille est l’organe
+sensoriel de l’audition, dont on étudiera tout d’abord le fonctionnement avant
+d’envisager la prévention d’un traumatisme acoustique.
+Partie 1. L’oreille et son fonctionnement
+
+Document 1. L’oreille humaine
+Figure 1. Schéma de
+l’anatomie de l’oreille
+humaine.
+
+Figure 2. Schéma d’une coupe transversale de la
+cochlée humaine (à gauche) et zoom sur les cellules
+ciliées (à droite).
+
+Membrane
+tectoriale
+Cils
+Cellule
+ciliée
+
+Source :
+https://fr.wikibooks.org/wiki/Neurosc
+iences/L%27audition
+
+Source : https://fr.wikipedia.org/wiki/Organe_de_Corti
+
+1- Compléter la phrase suivante par l’une des propositions parmi les quatre proposées
+ci-dessous.
+Les vibrations sonores perçues par les cils des cellules ciliées sont :
+a- acheminées au cerveau sous la forme d’ondes sonores.
+b- transformées en messages nerveux, qui sont acheminés au cerveau.
+c- acheminées au cerveau sous une forme moléculaire.
+d- directement analysées au niveau de l’oreille interne, ce qui permet l’audition.
+2- À l’aide de vos connaissances et du document 1, expliquer par un texte et/ou un
+schéma, comment les différentes parties de l’oreille permettent une réception et une
+transmission des vibrations sonores puis du message sensoriel auditif.
+
+Partie 2. La prévention d’un traumatisme acoustique
+Pour prévenir le risque lié aux sur-stimulations sonores, il existe des protections
+auditives de nature différente selon leur type d’utilisation.
+On peut distinguer, par exemple, deux catégories de bouchons d'oreilles qui
+permettent de s’isoler du bruit :
+- les bouchons en mousse, généralement jetables ;
+- les bouchons moulés en silicone, fabriqués sur mesure et nécessitant la prise
+d'empreinte du conduit auditif. Ils sont lavables à l'eau et se conservent plusieurs
+années.
+L’atténuation des sons par un bouchon est égale à la diminution du niveau d’intensité
+sonore perçu par l’oreille en présence du bouchon. Un fabricant fournit les courbes
+d'atténuation en fonction de la fréquence du son pour les deux types de bouchons
+(document 2).
+
+Document 2. Courbes d’atténuation du son correspondant aux deux types de
+bouchons.
+
+Atténuation (dB)
+
+Bouchons en mousse
+
+Bouchons moulés
+
+Source : Auteur
+
+3- Un musicien qui pratique régulièrement un instrument tel que la batterie ou la guitare
+électrique a besoin d’une atténuation du niveau sonore. Cependant, cette atténuation
+ne doit pas dépasser 25 dB afin qu’il entende suffisamment.
+3-a- À l’aide du document 2, indiquer pour chaque bouchon si cette condition est
+respectée. Justifier.
+3-b- En utilisant le document 2, indiquer si un bouchon en mousse atténue davantage
+les sons aigus ou les sons graves. Justifier.
+
+4- Afin de comparer la qualité acoustique des deux types de bouchons, on a enregistré
+le son émis par une guitare, ainsi que les sons obtenus après passage à travers les
+deux types de bouchons. Le document 3 présente les résultats obtenus.
+
+Document 3. Spectres du son émis par une guitare et des sons restitués après
+passage à travers les deux types de bouchons (Source : Auteur)
+L’amplitude relative est le rapport entre une amplitude et une amplitude de référence, ici
+celle de la fréquence fondamentale.
+
+Figure 1. Spectre correspondant au mi4 joué par la guitare
+
+Figure 2. Spectre du mi4 restitué après passage par un bouchon en mousse
+
+Figure 3. Spectre du mi4 restitué après passage par un bouchon moulé en silicone
+
+4-a- À partir de la figure 1 du document 3, indiquer, en justifiant, si le son émis par la
+guitare est un son pur ou un son composé.
+4-b- À partir du document 3, indiquer en justifiant le raisonnement, lequel des deux
+types de bouchon, en mousse ou en silicone, modifie le moins le timbre du son perçu.
+Une exposition prolongée à un niveau d’intensité sonore de 85 dB est nocive pour
+l'oreille humaine.
+5- Durant un concert de rock, un guitariste est soumis en moyenne à un niveau
+d’intensité sonore de 100 dB. Il désire préserver son audition tout en préservant une
+bonne qualité sonore.
+À partir de l’étude des documents 2 et 3, indiquer quel type de bouchon choisir et
+argumenter ce choix.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Détermination de l’âge de la Terre par Buffon
+Cet exercice propose d’étudier une méthode historique de détermination de l’âge de
+la Terre (proposée par Buffon au 18e siècle) et de la mettre en perspective avec une
+méthode actuelle.
+Partie 1. Expérience de Buffon et détermination de l’âge de la Terre
+Document 1. Description du protocole expérimental mis en œuvre par Buffon
+« J'ai fait faire dix boulets de fer forgé et battu :
+Le premier d'un demi-pouce de diamètre. Le second d'un pouce. Le troisième
+d'un pouce et demi. Le quatrième de deux pouces. Le cinquième de deux pouces et
+demi. Le sixième de trois pouces. Le septième de trois pouces et demi. Le huitième
+de quatre pouces. Le neuvième de quatre pouces et demi. Le dixième de cinq pouces.
+Ce fer venait de la forge de Chameçon près de Châtillon-sur-Seine, et comme
+tous les boulets ont été faits du fer de cette même forge, leurs poids se sont trouvés
+à très-peu près proportionnels aux volumes. [...]
+J'ai cherché à saisir deux instants dans le refroidissement, le premier où les
+boulets cessaient de brûler, c'est-à-dire le moment où on pouvait les toucher et les
+tenir avec la main, pendant une seconde, sans se brûler ; le second temps de ce
+refroidissement était celui où les boulets se sont trouvés refroidis jusqu'au point de la
+température actuelle, c'est-à-dire, à 10 degrés au-dessus de la congélation. »
+Extrait : Premier tome, rédigé par Buffon (1774)
+
+Document 2. Tableau présentant un extrait des mesures réalisées par Buffon
+Diamètre (en pouces)
+
+1,5
+
+Temps de « refroidissement au
+point de la température actuelle »
+(en minutes)
+
+1- « Le boulet de 5 pouces a été chauffé à blanc en 34 minutes. Il s'est refroidi au point
+de le tenir dans la main en 3 heures 52 min. Refroidi au point de la température actuelle
+en 8 heures 42 minutes ».
+Indiquer laquelle des quatre valeurs proposées ci-dessous correspond à la valeur
+manquante dans le document 2 (case grisée) pour le boulet de 5 pouces.
+Valeur A : 842
+
+Valeur B : 352
+
+Valeur C : 522
+
+Valeur D : 232
+
+2- Le pouce est une ancienne unité de longueur, valant environ 2,7 cm. Convertir en
+centimètre le diamètre du plus grand boulet.
+3- Sur l’annexe, représenter les points correspondant au temps de
+« refroidissement au point de la température actuelle » (en minutes) en fonction du
+diamètre du boulet (en pouces).
+4- Indiquer laquelle des trois affirmations suivantes permet d’exprimer la relation entre
+le diamètre du boulet en fer forgé et son temps de « refroidissement au point de la
+température actuelle » au vu de l’expérience de Buffon.
+• Affirmation A : « Le temps de refroidissement est proportionnel au diamètre ».
+• Affirmation B : « La vitesse de refroidissement est proportionnelle au diamètre ».
+• Affirmation C : « L’accroissement du temps de refroidissement est proportionnel
+à l’accroissement du diamètre ».
+5- L’utilisation d’un tableur permet d’ajuster le nuage des points construits à la
+question 3 par la fonction f définie par 𝑓(𝑑) = 108𝑑 − 16 pour des valeurs
+de 𝑑 supérieures ou égales à 1 et où d correspond au diamètre (en pouces) et f(d) la
+durée de refroidissement (en minutes).
+À l’aide de ce modèle et sachant que le diamètre de la Terre est de 12 742 km, calculer
+l’âge de la Terre (en années).
+Partie 2. Mise en perspective avec les connaissances actuelles
+Nous cherchons à porter un regard critique sur l’utilisation de boulets en fer pour
+déterminer l’âge de la Terre.
+6- En utilisant le document 3 suivant, expliquer en quoi le modèle de Buffon utilisant
+des boulets de fer n’est pas adapté pour déterminer l’âge de la Terre.
+
+Document 3. Composition simplifiée des principales enveloppes terrestres
+Composition chimique des différentes
+enveloppes terrestres
+Croûte
+Oxydes de :
+(continentale
+Si (50 à 70 %)
+et
+Al (13 à 16 %)
+océanique)
+Fe (5 %)
+…
+Manteau
+
+Oxydes de :
+Si (45 %)
+Mg (37 %)
+Fe (8 %)
+…
+
+Noyau
+
+Alliage fer-nickel (teneur
+en fer environ 98 %)
+
+Légende : Si : silicium, Al : aluminium, Fe : fer, Mg : magnésium.
+Source : d’après http://avg85.fr/category/mediatheque/galerie-de-photos/cartes-et-coupesgeologiques
+
+7- Indiquer l’âge de la Terre estimé actuellement. Nommer la méthode utilisée
+pour déterminer cet âge et décrire son principe.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Détermination de l’âge de la Terre par Buffon
+Question 3
+Représenter les points correspondant au temps de « refroidissement au point de la
+température actuelle » (en minutes) en fonction du diamètre du boulet (en pouces).

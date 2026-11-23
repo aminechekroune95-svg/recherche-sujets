@@ -1,0 +1,295 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1247078, "at": "2026-11-23T09:25:28+00:00"}
+Spécialité physique-chimie – Classe de première de la voie générale – Partie d’un sujet zéro
+
+Les ions ferreux essentiels pour le transport du dioxygène dans le sang (10 points)
+Transportées par les globules rouges, les molécules
+d’hémoglobine assurent, par la circulation sanguine,
+l’apport du dioxygène aux différents organes des
+animaux vertébrés.
+L’hémoglobine est un assemblage de quatre sousunités qui abritent chacune une structure chimique
+particulière nommée hème. Chaque hème contient un
+ion ferreux Fe2+. Cet ion ferreux Fe2+ est responsable
+de la fixation d’une molécule de dioxygène.
+
+Hémoglobine
+
+Hème
+
+Certains polluants ou toxines présents dans le sang
+D’après https://slideplayer.com/slide/7662391/
+peuvent oxyder les ions ferreux Fe2+ en ions ferriques
+Fe3+ qui n’ont pas la capacité de fixer le dioxygène. Il est donc important que l’élément fer de l’hème ne soit pas
+oxydé et reste sous la forme d’ion Fe2+.
+Dans cet exercice, on étudie d’abord l’oxydation des ions ferreux en ions ferriques. Ensuite, une méthode de dosage
+de l’hémoglobine dans le sang et le traitement d’une carence en fer sont abordés.
+
+1. Oxydation des ions ferreux.
+Une expérience est menée en laboratoire pour illustrer la capacité de l’ion permanganate à oxyder les ions ferreux.
+Dans un bécher contenant 40 mL d’une solution de sulfate de fer(II) (Fe2+(aq) + SO42-(aq)) de concentration en
+quantité de matière égale à 2,510-1 mol·L-1, on introduit 20 mL d’une solution aqueuse de permanganate de
+potassium (K+(aq) + MnO4 -(aq)) de concentration en quantité de matière 1,010-1 mol·L-1 contenant aussi des ions
+H+. Les solutions avant mélange et après le mélange ont été photographiées et figurent ci-dessous.
+
+(1)
+
+(2)
+
+Solution de permanganate de potassium (1)
+et solution de sulfate de fer (2) avant
+introduction de la solution (1) dans (2).
+
+Solution obtenue après mélange
+des deux solutions.
+
+Données :
+ La présence des espèces chimiques citées dans le tableau ci-dessous confère une coloration à une solution
+aqueuse.
+Espèce chimique
+
+Fe2+
+
+Fe3+
+
+Coloration de la solution aqueuse
+
+Verdâtre
+
+Orangée
+
+MnO4Violacée
+coloration intense
+
+Mn2+
+Incolore
+
+ Couples oxydant/réducteur :
+- Fe3+(aq)/Fe2+(aq) ;
+-
+
+MnO4 -(aq)/Mn2+(aq) dont la demi-équation électronique s’écrit :
+MnO4 - (aq) + 8 H+ (aq) + 5 e− = Mn2+ (aq) + 4 H2 O(ℓ).
+
+1.1. À l’aide des observations, montrer qu’une transformation chimique a bien eu lieu.
+1.2. Identifier les oxydants et les réducteurs consommés et ceux qui sont produits.
+1.3. On souhaite modéliser la transformation par une réaction oxydant-réducteur.
+1.3.1. Écrire la demi-équation électronique du couple Fe3+(aq)/Fe2+(aq).
+1.3.2. Vérifier que l’équation de la réaction oxydant-réducteur modélisant la transformation chimique
+s’écrit : MnO4 - (aq) + 5 Fe2+ (aq) + 8 H+ (aq) → Mn2+ (aq) + 5 Fe3+ (aq)+ 4 H2 O (ℓ).
+1.3.3. Justifier, à l’aide des données, que MnO4 - (aq) et Fe2+ (aq) sont introduits en proportions
+stœchiométriques dans le mélange initial.
+Cette modélisation de la transformation sert de support pour rédiger un programme en langage python. Ce
+programme permet de visualiser l’évolution des quantités de matière des ions permanganate et des ions ferreux
+dans le système précédent en fonction de l’avancement de la réaction noté x.
+Extrait du programme rédigé en langage python :
+
+Représentations graphiques de l’évolution des quantités de matière calculées par le programme :
+
+Figure 1 : Évolution des quantités de matière en fonction de l’avancement
+
+1.4. Indiquer la ligne du programme codant l’information correspondant à une transformation totale. Justifier.
+1.5. Établir un tableau d’avancement de la réaction et vérifier que la valeur de l’avancement maximal est compatible
+avec le tracé de la figure 1.
+1.6. Déduire du tableau d’avancement l’expression de la quantité de matière des ions Fe3+(aq) en fonction de
+l’avancement.
+1.7. Écrire l’instruction permettant de calculer la quantité de matière de Fe3+(aq) pour une valeur d’avancement x et
+proposer un numéro de ligne où elle pourrait être insérée dans le programme.
+1.8. Reproduire la figure 1 sur votre copie et tracer la représentation graphique de l’évolution de la quantité de
+matière d’ions Mn2+(aq) et celle de la quantité de matière d’ions Fe3+(aq).
+
+2. Dosage hémoglobine et traitement d’une carence en fer
+Quand l’organisme souffre d’une carence en fer, les hèmes contenus dans les globules rouges qui contiennent des
+ions Fe2+ ne sont plus suffisamment nombreux. Le taux d’hémoglobine est alors trop faible pour assurer une
+oxygénation normale des organes. Un dosage du taux d’hémoglobine permet de diagnostiquer une éventuelle
+carence et de prescrire un traitement adapté aux besoins.
+Principe du dosage de l’hémoglobine dans le sang par la « méthode de Drabkin »
+Le réactif de Drabkin permet de transformer l’hémoglobine d’un échantillon de sang en cyanméthémoglobine. On
+réalise ensuite un dosage spectrophotométrique de la cyanméthémoglobine dans l’échantillon analysé.
+Protocole simplifié du dosage :
+- ajout de 5 mL du réactif de Drabkin dans 20 µL d’échantillon de sang analysé ;
+- mesure de l’absorbance A de la solution obtenue à une longueur d’onde de 546 nm ;
+- ajout de 5 mL du réactif de Drabkin dans 20 µL d’échantillons de référence de concentrations connues en
+hémoglobine. Mesures d’absorbances et tracé d’une droite d’étalonnage (figure 2).
+
+Concentration en hémoglobine des échantillons de référence (mmol/L)
+D’après https://www.studocu.com/fr-be/document/haute-ecole-louvain-en-hainaut
+Figure 2
+
+Données
+ Cercle chromatique :
+
+
+
+Spectre d’absorption d’une solution aqueuse de cyanméthémoglobine :
+
+D’après basicmedicalkey.com
+
+
+
+Masses molaires :
+- hémoglobine : M(Hb) = 64103 g·mol-1 ;
+- soufre : M(S) = 32,0 g·mol-1 ; oxygène : M(O) = 16,0 g·mol-1 ; fer : M(Fe) = 55,8 g·mol-1.
+
+ Tableau de référence de diagnostic d’une carence en fer
+Concentrations en masse en hémoglobine du sang permettant de diagnostiquer une carence en fer :
+Taux d’hémoglobine en
+Taux normaux
+Carence légère Carence modérée Carence sévère
+g par litre de sang
+Homme (> 15 ans)
+135 - 175 g/L
+110 - 130 g/L
+80 - 110 g/L
+< 80 g/L
+Femme (>15 ans)
+115 - 155 g/L
+100 - 110 g/L
+70 - 100 g/L
+< 70 g/L
+Rapport 2016 de l’Organisation mondiale de la santé (OMS)
+« Évaluation de l’importance de la malnutrition par carence en micronutriments sur le plan de la santé publique »
+ Recommandations pour le traitement d’une carence en fer :
+Dans le cas d’une carence en fer chez les femmes, le traitement préconisé est un apport quotidien équivalent à
+50 mg d’ions Fe 2+ en carence légère et à 100 mg pour une carence modérée. Chez les hommes, l’apport doit être de
+100 mg pour une carence légère et 200 mg pour une carence modérée.
+Rapport 2016 de l’Organisation mondiale de la santé (OMS)
+ Extrait de l’étiquette d’un médicament pour traiter une carence en fer :
+- comprimés pour traitement curatif ou préventif d’une carence en fer ;
+- principe actif : Fer sous forme de sulfate ferreux desséché (FeSO4) ;
+- composition : Sulfate ferreux desséché 136,00 mg par comprimé.
+Extrait étiquette Timoférol
+2.1. Prévoir la teinte d’une solution aqueuse de cyanméthémoglobine.
+2.2. Expliquer le choix de la longueur d’onde de mesure d’absorbance.
+2.3. Un échantillon de sang d’une femme est analysé par la méthode de Drabkin et l’absorbance mesurée est de
+A = 0,26.
+2.3.1. Indiquer si une carence en fer est diagnostiquée.
+2.3.2. Proposer un traitement adapté en déterminant le nombre de comprimés à prescrire par jour.
+
+Enseignement de spécialité physique-chimie – Classe de première de la voie générale – Partie d’un sujet zéro
+
+Étude d’un véhicule électrique (10 points)
+Les voitures électriques deviennent des nouveaux acteurs du transport en représentant une alternative à l’utilisation
+des énergies fossiles. Elles présentent l’avantage de ne pas émettre de dioxyde de carbone lors de leur utilisation.
+L’achat de véhicules électriques ne cesse d’augmenter ces dernières années.
+L’objectif de cet exercice est d’étudier la charge de la batterie d’un véhicule électrique à partir d’une borne de
+recharge et sa décharge lors de la circulation du véhicule sur une autoroute.
+
+1. Étude de la charge du véhicule électrique avec une borne de recharge
+Le propriétaire d’une voiture électrique veut charger la batterie de son véhicule alors que la jauge d’autonomie de la
+batterie indique 20 %. Pour cela il utilise une borne de recharge fournissant une puissance constante de 7,40 kW en
+délivrant un courant électrique d’intensité constante de 32,0 A.
+ Les batteries lithium-ion
+Les batteries utilisées couramment dans les véhicules électriques, mais également dans d’autres applications comme
+les téléphones portables, sont de type lithium-ion. Elles présentent l’avantage d’une très grande énergie massique
+comprise entre 90 Wh·kg-1 et 180 Wh·kg-1. De plus, ces batteries, même partiellement déchargées, délivrent toujours
+la même puissance, permettant une utilisation dans les mêmes conditions quel que soit le niveau de charge.
+
+Des cellules constitutives d’une batterie d’un véhicule électrique de 41 kWh
+D’après https://www.automobile-propre.com/flins-visite-usine-fabrication-production-renault-zoe/
+ Quelques caractéristiques du véhicule électrique étudié
+BATTERIE
+Énergie utilisable (kWh)
+Technologie
+lithium-ion
+Tension totale (V)
+Nombre de cellules
+Masse de la batterie (kg)
+MASSE DU VÉHICULE À VIDE (kg)
+1480
+D’après brochure du site https://www.renault.fr/vehicules/vehicules-electriques/zoe.html
+ État de charge d’une batterie d’un véhicule électrique
+Le SOC (State Of Charge) représente l’état de charge d’une batterie qui varie de 0 % (batterie « vide ») à 100 %
+(batterie entièrement chargée). Le SOC est directement lié à l’énergie emmagasinée par la batterie. L’énergie
+maximale que peut emmagasiner la batterie représente son énergie utilisable.
+SOC =
+
+énergie emmagasinée par la batterie
+× 100
+énergie maximale que peut emmagasiner la batterie
+
+ Évolution du SOC (entre 0 et 80 %) en fonction du temps de charge pour la borne de recharge utilisée
+
+SOC (en %)
+
+Temps de charge (en h)
+
+D’après https://www.recharge-electrique.com/definition-wallbox-electrique/
+https://www.renault.fr/vehicules/vehicules-electriques/zoe/batterie-recharge.html
+ Données
+- 1,0 Wh = 3,6 103 J
+1.1. Calculer l’énergie massique maximale de la batterie de la voiture à partir des caractéristiques du véhicule
+électrique. Commenter.
+1.2. Montrer que l’énergie emmagasinée par la batterie lors de sa charge pour passer d’un SOC de 20 % à 80 % vaut
+environ 25 kWh.
+1.3. Définir le rendement de la charge, puis le calculer. Commenter cette valeur.
+On peut schématiser la conversion d’énergie du circuit de charge de la batterie lorsque le véhicule passe d’un SOC
+de 20 % à un SOC de 80 % de la manière suivante :
+
+batterie
+Eborne = 30 kWh
+borne de
+recharge
+
+Circuit de charge
+de la batterie
+
+Ebatterie = 25 kWh
+Emilieu ext = …………..
+milieu extérieur
+
+1.4.1. Donner la valeur manquante du schéma ci-dessus (sans le recopier sur la copie) en expliquant votre
+démarche.
+L’énergie libérée vers le milieu extérieur est due à la présence d’une résistance Rcharge dans le circuit de charge.
+1.4.2. En déduire la valeur de la résistance Rcharge. Commenter.
+
+2. Décharge de la batterie du véhicule électrique lors de son utilisation
+Le propriétaire du véhicule électrique, dont la batterie est suffisamment chargée, emprunte une autoroute
+horizontale et roule à vitesse constante de 100 km·h-1 pendant une durée de 5,0 minutes.
+On suppose que les accessoires de la voiture (climatisation, autoradio, électronique, navigateur, etc.) consomment
+une puissance constante de 400 W.
+ Existence de frottements lorsque le véhicule roule
+Lorsqu’une voiture roule à une vitesse donnée, il existe deux causes principales de dissipation de l’énergie
+mécanique fournie par le moteur : les frottements mécaniques en lien avec les différents mouvements associés au
+roulement de la voiture (parties mobiles liées à la transmission, roues, pneus, etc.) et les frottements fluides (ou
+aérodynamiques) liés au déplacement de l’air autour de la voiture. Les frottements fluides (ou aérodynamiques)
+dépendent de l’aérodynamisme de la voiture et leur action sur la voiture peut être modélisée par une force de
+frottement fluide (ou aérodynamique) de sens opposé à celui du vecteur vitesse de la voiture.
+ Évolution des différentes puissances en fonction de la vitesse du véhicule
+
+Évolution des différentes puissances en fonction de la vitesse du véhicule
+35,0
+
+P aérodynamisme en kW
+P roulements en kW
+
+30,0
+Puissances (en kW)
+
+P aéro + roulements en kW
+
+25,0
+
+P mécanique utilisée par la voiture en kW
+
+20,0
+15,0
+10,0
+5,0
+0,0
+
+Vitesse du véhicule (en km/h)
+
+D’après https://www.amperes.be/2019/02/15/les-moteurs-electriques-sont-efficaces-meme-sur-autoroute/
+2.1. Étude d’un programme de calculateur
+Les voitures électriques sont généralement équipées d’un calculateur. Un exemple possible de codage d’un
+calculateur, lorsque la batterie possède un état de charge de 100 %, est proposé ci-dessous.
+
+2.1.1. Expliquer brièvement ce que calcule ce programme.
+2.1.2. Modifier le programme afin de tenir compte de l’état de charge de la batterie.
+2.2. Étude mécanique du déplacement de la voiture
+On s’intéresse au système {voiture} en mouvement dans le référentiel terrestre.
+2.2.1. Comparer, à la vitesse de 100 km·h-1, les différentes puissances intervenant dans le bilan énergétique du
+fonctionnement de la voiture.
+2.2.2. Calculer la distance parcourue par la voiture pendant la durée du trajet étudié.
+2.2.3. Calculer l’énergie dissipée par les frottements fluides (ou aérodynamiques) pendant la durée du trajet
+étudié. En utilisant la notion de travail, déduire, à cette vitesse, la valeur de l’intensité de la force modélisant
+les frottements fluides (ou aérodynamiques). Commenter.

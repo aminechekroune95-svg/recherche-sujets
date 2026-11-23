@@ -1,0 +1,289 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1389495, "at": "2026-11-23T09:22:05+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 9
+PARTIE A
+Le projet SEAREV : Système Électrique Autonome de Récupération de l’Énergie des
+Vagues (10 points)
+Comment fonctionne le système SEAREV ? SEAREV est un système offshore de deuxième
+génération composé d’un flotteur clos et étanche dans lequel est suspendue une roue chargée
+qui joue le rôle d’un pendule embarqué. Cette roue à axe horizontal, de grand diamètre (9 m),
+dont la moitié supérieure est évidée, a sa masse concentrée dans la moitié inférieure, lestée
+de béton, d’où l’effet de pendule. Sous l’action de la houle et des vagues, le flotteur se met à
+osciller, entraînant à son tour un mouvement de va-et-vient de la roue pendulaire. Chacun a
+son propre mouvement, et c’est le mouvement relatif entre le flotteur et la roue qui actionne un
+système hydro-électrique de conversion de l’énergie mécanique en électricité : des pompes
+hydrauliques liées à la roue pendulaire chargent des accumulateurs à haute pression ; en se
+déchargeant, ces derniers livrent à leur tour leur énergie à des moteurs hydrauliques qui
+entraînent des générateurs d’électricité. Plusieurs flotteurs SEAREV mouillés au large forment
+un parc (ou ferme). L’électricité est ramenée à terre par un câble sous-marin.
+http://www2.cnrs.fr/sites/communique/fichier/08searev.pdf
+
+Pour comprendre le fonctionnement complexe de la roue pendulaire du SEAREV, il a fallu
+s’intéresser aux oscillations libres des systèmes. Dans cet exercice, la roue pendulaire est
+modélisée par un pendule simple composé d’une bille de masse m et d’un fil de longueur L.
+On considère que la roue pendulaire, au passage d'une vague, effectue une oscillation
+complète (soit un aller-retour).
+
+Schéma d'un module SEAREV
+www.energies2demain.com
+
+Schéma d'un pendule simple
+
+Afin d'étudier le pendule simple, une vidéo enregistrant les oscillations du pendule a été
+réalisée ainsi que le pointage des positions occupées par le pendule au cours du temps. On
+obtient la courbe présentée ci-après.
+Oscillations du pendule simple
+
+1. Déterminer la valeur de la période des oscillations du pendule simple étudié.
+
+2. En déduire celle de la fréquence des oscillations de ce pendule.
+3. On considère que des vagues atteignent un module SEAREV à un rythme constant. On
+modélise la roue pendulaire par le pendule simple étudié ci-dessus. Calculer le nombre de
+vagues qui atteindraient le module en 50 secondes. Commenter le résultat obtenu.
+L’énergie des vagues
+On considère la puissance moyenne annuelle transportée par mètre perpendiculaire à la
+direction de propagation des vagues. Les valeurs maximales à la surface du globe, 100 kW·m1, se trouvent au Cap Horn, alors que dans le Golfe de Gascogne en face de nos côtes, on
+trouve des niveaux de 40 kW·m-1. La ressource moyenne globale en puissance des vagues se
+situerait entre 1,3 et 2 TW (soit entre 1,3.1012 et 2.1012 W) d’après le World Energy Council,
+soit l’ordre de grandeur de la puissance électrique mondiale installée (~2 TW). L’énergie
+récupérable avec les moyens envisagés aujourd’hui serait de l’ordre de 140 à 750 TWh par
+an. Les développeurs estiment que l’on pourrait installer en mer des parcs de machines avec
+une densité de puissance de l’ordre de 25 MW par km2 de mer occupée, ce qui pourrait
+alimenter de 7 000 à 8 000 foyers français en électricité (moyenne annuelle hors chauffage).
+http://www2.cnrs.fr/sites/communique/fichier/08searev.pdf
+4. Indiquer si le module SEAREV est un convertisseur d'énergie. Justifier.
+Afin de mieux comprendre l'aspect énergétique du module SEAREV, on étudie les énergies
+associées aux oscillations d'un pendule simple. On obtient les courbes simulées ci-après
+représentant les variations des énergies cinétique, potentielle et mécanique d'un pendule
+simple.
+5. Un joule équivaut à un kg∙m2∙s-2. Parmi les expressions suivantes, choisir, en justifiant à
+l'aide d'une analyse des unités, celle de l'énergie cinétique 𝐸𝐶 puis celle de l'énergie
+potentielle de pesanteur 𝐸𝑃𝑃 :
+
+a) 𝐸𝐶 = 2 × 𝑚 × 𝑣 2
+
+d) 𝐸𝑃𝑃 = 𝑚 × 𝑔
+
+b) 𝐸𝐶 = 2 × 𝑚 × 𝑣
+
+e) 𝐸𝑃𝑃 = 𝑚 × 𝑔 × 𝑧
+
+c) 𝐸𝐶 = 2 × 𝑣 2
+
+f) 𝐸𝑃𝑃 = 𝑔 × 𝑧
+où 𝑚 est la masse du système étudié, 𝑣 est la vitesse, 𝑔 est l'intensité de la pesanteur et 𝑧
+l'altitude.
+
+Simulation des variations des énergies cinétique, potentielle et mécanique d'un
+pendule simple
+
+6. Le pendule est lâché, sans vitesse initiale, avec un angle α = 30°. Associer à chaque courbe
+(a, b et c) de la simulation, une énergie (cinétique, potentielle ou mécanique). Justifier.
+7. Indiquer si l’énergie mécanique du pendule est conservée au cours de son mouvement.
+Justifier.
+8. Déterminer la valeur du travail des forces non conservatives s’exerçant sur le pendule
+pendant une durée Δt = 2,5 s. Justifier.
+9. Citer une force non conservative s'exerçant sur un module SEAREV.
+Des parcs de machines composés de dizaines de module SEAREV sont envisagés pour
+produire de l'électricité. On estime la surface d’un parc de machine à 1 km². D’après le site
+futura-science.com, la consommation d’électricité annuelle moyenne par foyer en France est
+d’environ 5 MWh.
+10. Déterminer si un parc de machines permettrait de répondre aux besoins énergétiques
+annuels de 8 000 foyers français, comme indiqué précédemment.
+Donnée : 1 Wh = 3 600 J.
+
+PARTIE B
+Synthèse d’un composé chimique photochrome (10 points)
+Le photochromisme est la transformation d'une espèce chimique d’une forme A vers une forme
+B (ou inversement) provoquée par l'absorption d'un rayonnement électromagnétique. Chacune
+des deux formes, A et B, possède un spectre d'absorption différent. Le passage d’une forme
+à l’autre est accompagnée par un changement des propriétés physiques de l'espèce chimique,
+telles que l'indice de réfraction, la solubilité, la viscosité.
+La plupart des composés photochrome passe d'une forme incolore ou légèrement colorée
+(jaune pâle) à une forme plus colorée (bleu, rouge...). Les applications de ce type de composé
+sont nombreuses : verre photochromique (qui s’assombrit à la lumière du soleil), capteurs UV,
+revêtements intelligents, stockage d'information, encre de sécurité.
+https://fr.wikipedia.org/wiki/Photochromisme
+Nous nous intéressons à la synthèse d’un composé photochrome le N-(3,5-di-tertbutylsalicylidène)-4-iodobenzène, que nous noterons DTSIB.
+L’équation de la réaction modélisant la synthèse du DTSIB à partir du 3,5-di-tert-butyl-2hydroxybenzaldéhyde (1) et du 4-iodoaniline (2) est la suivante :
+
+Synthèse et étude d’un composé photochrome de la famille des salicylidène-anilines par
+Jonathan Piard et Rémi MÉTIVIER, Le Bup n° 955-956
+Données
+-
+
+Electronégativité de certains atomes : hydrogène χ(H) = 2,2 ; carbone χ(C) = 2,5 ;
+oxygène χ(O) = 3,44.
+
+-
+
+Informations concernant certaines molécules :
+Molécule
+
+3,5-di-tert-butyl
+2-hydroxybenzaldéhyde
+(ou pourra la noter DTBHB) 
+
+Propriétés
+Etat solide à
+température ambiante
+Soluble dans le
+méthanol et l’éthanol
+
+Dangers
+
+4-iodoaniline
+
+234,33 g·mol-1
+
+Peut
+irriter
+respiratoires
+
+Etat solide à
+température ambiante
+Légèrement soluble
+dans l’eau. Soluble
+dans le chloroforme, le
+méthanol et l’éthanol
+219,02 g·mol-1
+
+Nocif par contact cutané
+Nocif par inhalation
+Nocif en cas d'ingestion
+Peut
+irriter
+les
+voies
+respiratoires
+
+N-(3,5-di-tert
+butylsalicylidène)-4iodobenzène (on pourra le
+noter DTSIB)
+
+Dichlorométhane
+
+84,93 g·mol-1
+
+32 g·mol-1
+
+CH3 - OH
+Ethanol
+
+voies
+
+Peu soluble dans le
+méthanol
+Soluble dans le
+dichlorométhane
+435,34 g·mol-1
+
+Méthanol
+
+les
+
+Nocif par contact cutané
+Nocif par inhalation
+Nocif en cas d'ingestion
+Cancérogénicité
+
+CH3 – CH2 – OH
+Cyclohexane
+
+
+
+46 g·mol-1
+
+78 g·mol-1
+
+Table de données pour la spectroscopie infrarouge :
+Liaison
+OH
+NH amine
+OH acide carboxylique
+NH amine ou amide
+C = N imine
+
+
+
+Nombre d’onde
+(cm-1)
+2900-3200
+31003500
+25003200
+15601640
+1615-1700
+
+Intensité
+moyenne
+forte à moyenne, large
+
+Cercle chromatique :
+
+Étude du protocole expérimental
+Le protocole expérimental de la synthèse du DTSIB est le suivant :
+Dans un erlenmeyer, introduire 400 mg de 3,5-di-tert-butyl-2-hydroxybenzaldéhyde
+et 400 mg de 4-iodoaniline dissous dans 15 mL d’éthanol. Le 4-iodoaniline est donc ajouté en
+léger excès.
+Ajouter une pointe de spatule d’acide para-toluènesulfonique. Agiter vigoureusement la
+solution à température ambiante. Au bout de vingt minutes d’agitation environ, vérifier
+l’apparition d’un précipité jaune persistant. Après quarante-cinq minutes d’agitation, le mélange
+réactionnel est filtré sur Büchner, lavé avec 15 mL d’éthanol par petites fractions, essoré cinq
+minutes sous vide puis séché sur papier filtre.
+Synthèse et étude d’un composé photochromede la famille des salicylidène-anilines par Jonathan Piard
+et Rémi MÉTIVIER, Le Bup n° 955-956
+
+1. Indiquer les précautions à prendre lors de l’utilisation du 3,5 di-tert-butyl-2hydroxybenzaldéhyde et du 4-iodoaniline.
+2. Justifier par un calcul la phrase suivante : « Le 4-iodoaniline est donc ajouté en léger
+excès. »
+3. Indiquer le rôle joué par l’éthanol lors de cette synthèse.
+4. Déterminer le caractère polaire ou apolaire des molécules d’éthanol et de
+cyclohexane.
+5. Indiquer si on peut utiliser le cyclohexane à la place de l’éthanol lors de cette
+synthèse.
+6. Indiquer le nom de la technique de séparation utilisée à la fin de la synthèse.
+Schématiser le matériel utilisé et légender le schéma.
+A la fin de la synthèse, on recueille 392 mg de DTSIB brut.
+7. Déterminer le rendement de cette synthèse. Commenter le résultat obtenu.
+Identification et propriétés du produit obtenu
+Une analyse du produit de synthèse obtenu par chromatographie sur couche mince
+donne les résultats suivants :
+(1) 3,5- di-tert-butyl-2 hydroxybenzaldéhyde
+(2) 4-iodoaniline
+(3) DTSIB pur
+(4) Produit de synthèse brut
+
+8. Interpréter le chromatogramme obtenu.
+9. Indiquer si les résultats de la CCM paraissent en accord avec les conditions
+expérimentales choisies.
+Afin de purifier le produit brut obtenu, on peut procéder à une recristallisation en utilisant du
+méthanol comme solvant de recristallisation.
+
+10. Justifier l’utilisation du méthanol comme solvant permettant d’éliminer les
+éventuelles traces de 3,5-di-tert-butyl-2-hydroxybenzaldéhyde et de 4-iodoaniline
+présentes dans le produit final.
+11. Nommer la famille associée au groupe caractéristique entouré sur la molécule
+DTSIB représentée ci-dessous :
+
+Les groupes caractéristiques présents dans cette molécule peuvent être identifiées grâce aux
+spectres infrarouge (I.R.). Celui de cette molécule DTSIB est proposé ci-dessous :
+
+Spectre infrarouge du DTSIB sous sa forme énol
+Synthèse et étude d’un composé photochromede la famille des salicylidène-anilines par Jonathan Piard et Rémi
+MÉTIVIER, Le Bup n° 955-956
+
+12. Analyser le spectre infrarouge ci-dessus et justifier qu’il peut correspondre à celui
+de la molécule de DTSIB.
+Le DTSIB existe sous deux formes : une forme énol de couleur jaune et une forme cétone de
+couleur rouge. Il est possible d’analyser le passage de la forme cétone à la forme énol grâce
+à la spectrophotométrie.
+13. Indiquer dans quel intervalle de longueur d’onde régler le spectrophotomètre afin de
+suivre la disparition de la forme cétone.

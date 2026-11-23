@@ -1,0 +1,429 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1280465, "at": "2026-11-23T09:47:32+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+En hexadécimal (base 16), quelle est la valeur de la différence CBD - BAC ?
+AB
+TB
+FF
+Question A.2
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A.3
+Quelle est l'écriture binaire, en complément à deux sur 8 bits, de l'entier négatif –7 ?
+- 0000 0111
+1000 0111
+1111 1000
+1111 1001
+Question A.4
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+215 − 1
+216 − 1
+Question A.5
+Quel est le nombre maximal de bits du produit de deux entiers positifs codés sur 8 bits ?
+
+Question A.6
+En ajoutant trois chiffres 0 à droite de l'écriture binaire d'un entier 𝑁 strictement positif, on obtient l'écriture
+binaire de :
+6×𝑁
+8×𝑁
+1000 × 𝑁
+aucune des réponses précédentes
+
+Thème B : types construits
+Question B.1
+On veut affecter à t la valeur [[0,1,2], [3,4,5], [6,7,8], [9,10,11], [12,13,14]].
+Pour cela on utilise le code suivant. Par quoi doit-on remplacer les pointillés …… ?
+n=5
+p=3
+t = [ [ …… for j in range(p) ] for i in range(n) ]
+i*j + j
+p*i + j
+p*j + i
+i*(j+1)
+Question B.2
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+Question B.3
+On dispose dans le tableau annee2019 les températures mensuelles moyennes d'une région française.
+On exécute le script suivant :
+annee2019 = [('janvier',6), ('février',6), ('mars',12),
+('avril',20), ('mai',23), ('juin',25),
+('juillet',29), ('août',25), ('septembre',22),
+('octobre',15), ('novembre',11), ('décembre',7)]
+m = annee2019[0][1]
+for mois in annee2019:
+if (m > mois[1]):
+m = mois[1]
+Que contient la variable m à la fin de cette exécution ?
+le mois le plus froid
+le mois le plus chaud
+la température moyenne la plus basse
+la température moyenne la plus haute
+
+Question B.4
+Quelle est la valeur de la variable r à la fin de l'exécution du script suivant ?
+t = (10,6,1,12,15)
+r = t[3] - t[1]
+-9
+Question B.5
+On définit un dictionnaire : d = { 'couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif' }
+Quelle est la valeur de l'expression d.keys() ?
+['couleur', 'taille', 'marque']
+[('couleur', 'vert'), ('taille', 42), ('marque', 'le coq sportif')]
+['vert', 42, 'le coq sportif']
+['couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif']
+Question B.6
+On définit L = [4,25,10,9,7,13]. Quelle est la valeur de L[2] ?
+
+Thème C : traitement de données en tables
+Question C.1
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+Question C.2
+On définit :
+contacts = {'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C.3
+On considère la liste de p-uplets suivante :
+Table = [('Grace','Hopper','F',1906),('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815), ('Alan', 'Turing', 'H', 1912) ]
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une femme)
+et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+
+Question C.4
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C.5
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.6
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D.2
+Parmi les langages suivants, lequel est exécuté sur le serveur lors de la consultation d’une page Web ?
+JavaScript
+HTML
+CSS
+PHP
+Question D.3
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+Question D.4
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+Question D.5
+Quelle méthode d’envoi des paramètres est-il préférable d’utiliser, pour un formulaire d’une page web, destiné
+à demander à l’utilisateur un mot de passe pour se connecter (le protocole utilisé est HTTPS) ?
+la méthode PASSWORD
+la méthode CRYPT
+la méthode GET
+la méthode POST
+
+Question D.6
+On considère le formulaire HTML suivant :
+<form action="action.php" method="get" name="prenom">
+Prénom :
+<input type="text" id="champ1" name="p"/>
+<br/>
+<input type="hidden" name="util" value="1549"/>
+<input value="Envoi du prénom" type="submit"/>
+</form>
+Le prénom entré par l'utilisateur est contenu dans :
+l’élément dont l’attribut id est champ1
+l’élément nommé prénom
+l’élément dont l’attribut value est Envoi du prénom
+l’élément dont l’attribut type est hidden
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans un système Linux, on dispose d'un répertoire racine contenant deux répertoires documents et sauvegardes.
+On se trouve dans le répertoire documents où figure un fichier NSI.txt.
+Quelle commande permet de créer une copie nommée NSI2.txt de ce fichier dans le répertoire sauvegardes ?
+cp NSI.txt NSI2.txt
+cp NSI.txt sauvegardes/NSI2.txt
+cp NSI.txt ../NSI2.txt
+cp NSI.txt ../sauvegardes/NSI2.txt
+Question E.2
+Un ordinateur possède les caractéristiques matérielles suivantes :
+— mémoire DDR SDRAM : 8 Go
+— antémémoire (mémoire cache) : 1 Mo
+— disque dur SSD : 1 To
+Parmi les classements ci-dessous lequel est celui de l’accès mémoire le plus rapide au moins rapide ?
+Antémémoire puis SDRAM puis SSD
+SSD puis Antémémoire puis SDRAM
+SSD puis SDRAM puis Antémémoire
+SDRAM puis SSD puis Antémémoire
+Question E.3
+À partir du dossier ~/Doc/QCM, quelle commande permet de rejoindre le dossier ~/Hack/Reponses ?
+cd Hack/Reponses
+cd /Hack/Reponses
+cd /~/Hack/Reponses
+cd ../../Hack/Reponses
+Question E.4
+L'adresse IP du site www.education.gouv.fr est 185.75.143.24.
+Quel dispositif permet d'associer l'adresse IP et l'URL www.education.gouv.fr ?
+un routeur
+un serveur DNS
+un serveur de temps
+un serveur Web
+Question E.5
+Dans un terminal sous Linux, quelle commande faut-il écrire pour donner à tout le monde le droit d'écriture sur
+un fichier information.py ?
+
+chmod o+w information.py
+chmod a+w information.py
+chmod o+x information.py
+chmod a+x information.py
+Question E.6
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+
+Thème F : langages et programmation
+Question F.1
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+Question F.2
+On exécute le script suivant.
+n=6
+s=0
+while n >= 0:
+s=s+n
+n = n -1
+Que contient la variable s à la fin de cette exécution ?
+Question F.3
+La
+documentation
+de
+la
+bibliothèque
+random
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+
+de
+
+Python
+
+précise
+
+que
+
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F.4
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F.5
+On définit la fonction suivante :
+def f(x,y):
+x=x+y
+y=x-y
+x=x-y
+return (x,y)
+Quel est la valeur renvoyée par l'appel f(2019,2020) ?
+(2019,2019)
+(2019,2020)
+(2020,2019)
+(2020,2020)
+Question F.6
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s=0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+
+Thème G : algorithmique
+Question G.1
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G.2
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G.3
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i]== lettre:
+indexResultat=i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+
+Question G.4
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+for x in L:
+
+for i in range(n//2):
+for j in range(n//2):
+
+Question G.5
+Combien d’échanges effectue la fonction Python suivante pour trier un tableau de 10 éléments au pire des cas ?
+def tri (tab):
+for i in range (1, len(tab)):
+for j in range (len(tab) - i):
+if tab[j]>tab[j+1]:
+tab[j],tab[j+1] = tab[j+1], tab[j]
+Question G.6
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus grande
+valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite valeur
+afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.

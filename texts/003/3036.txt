@@ -1,0 +1,348 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1132140, "at": "2026-11-23T09:27:13+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT :
+DURÉE DE L’ÉPREUVE : --2h-Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 11
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec mode examen
+devront l’activer le jour des épreuves et les calculatrices dépourvues de mémoire seront autorisées.
+Ainsi tous les candidats composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-N°08
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................. Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................. Pages 8 à 10
+
+Documents réponses ...................................................................... Page 11
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en difficulté, qui
+s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats doivent
+mobiliser leurs compétences et les connaissances associées pour qualifier et/ou quantifier cette
+performance, à partir de l'analyse, de la modélisation de tout ou partie du produit ou de relevés
+expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la modification de son
+comportement. L'étude s'appuie sur l'algorithmique et de la programmation, à partir de ressources
+fournies au candidat qu'il devra exploiter, compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT ETUDIÉ
+Qu’est-ce que BOBOPTIC ?
+BOBOPTIC est une machine dans laquelle les lunettes
+sont arrosées et séchées avec un jet d’air. Elle déloge
+les graisses et les saletés en plus de stériliser verres et
+montures. L’eau utilisée au cours du processus de
+nettoyage est recyclée grâce à des rayons ultraviolets et
+des filtres ionisés. L’ensemble est donc sans tâches pour
+l’environnement et simple d’utilisation! Pratique, une
+carte magnétique rechargeable permet de régler ses
+lavages.
+Où trouver BOBOPTIC ?
+BOBOPTIC se trouve dans certains
+centres d’optique indépendants et
+lieux publics à fort achalandage. À
+l’heure actuelle, douze robots sont
+accessibles au Québec. Il est prévu
+que sera disponible une centaine
+d’entre eux et qu’ils seront
+géolocalisables à partir d’une
+application
+pour
+téléphones
+intelligents. Les autres provinces
+canadiennes pourraient bien se doter
+également du nouveau produit.
+(Extrait de http://mon-quartier.ca/)
+Figure 1 :
+diagramme
+SysML du
+système
+« BOOPTIC »
+
+ETUDE D’UNE PERFORMANCE DU PRODUIT
+On souhaite repositionner le produit <Machine à laver les lunettes> sur le marché
+français en améliorant ses performances.
+Problématique : Comment améliorer les performances du système « BOBOPTIC »
+en rajoutant un rouleau essuyeur afin de satisfaire au mieux ses clients ?
+A l’aide de la présentation du système composé uniquement d’un jet d’eau, répondre
+aux questions suivantes :
+Question I.1
+
+En vous aidant des diagrammes figure 1, donner les principales
+exigences de BOBOPTIC permettant de satisfaire cette
+problématique de nettoyage des lunettes.
+
+Le service qualité a fait une enquête sur 5 mois auprès de ses clients. Il s’avère que
+seul 68% des lunettes ressortent vraiment propres.
+Seule la partie nettoyage des faces avant des verres sera étudiée.
+Lorsque nous nettoyons machinalement une paire de lunettes, nous essuyons les
+verres avec un chiffon adapté après avoir mouillé la surface du verre. Le but de ce
+prototype est de reproduire ce principe de nettoyage de façon autonome sur la face
+avant des verres.
+Ce prototype conserve la pompe initialement installée pour projeter l’eau à laquelle
+on adjoint un rouleau. Ce nouvel élément combine un mouvement de rotation du
+rouleau par rapport au chariot et un mouvement de translation du chariot par rapport
+au bâti.
+Le service de recherche et développement a mis en évidence le besoin de nettoyer
+efficacement les lunettes sans les déformer.
+A cet effet il a été déduit que la vitesse de translation du chariot par rapport au bâti,
+notée ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Vchariot/bâti doit être égale à 0,15 m.s-1
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+‖Vchariot/bâti‖ = 0,15 𝐦. 𝒔−𝟏
+
+Figure 2 : Perspective du système à rouleau
+
+Figure 3 : Schéma cinématique partiel de la mise en rotation du rouleau
+
+Question I.2
+DR1
+
+Sur le document réponse DR1, compléter les grandeurs d’effort et flux
+permettant la translation du chariot en indiquant les unités du système
+international de ces grandeurs.
+
+Question I.3 Sur le document réponse DR1, nommer les liaisons en précisant :
+ les mobilités entre le pignon moteur 3 et le chariot 1 ;
+ les mobilités entre le chariot 1 et le bâti fixe 10 ;
+ la nature du mouvement entre le chariot 1 et le bâti fixe 10.
+La vitesse de rotation de l’arbre moteur par rapport au chariot :
+N arbre moteur / chariot = 750 tr.min−1
+Question I.4
+
+A partir de la nomenclature et du schéma cinématique, calculer le
+rapport de transmission entre le pignon 5 et le pignon moteur 3 :
+r=
+
+Npignon 5/ chariot
+Npignon moteur / chariot
+
+Un système pignon-crémaillère peut être représenté par le schéma ci-contre :
+Entrée : énergie de rotation, caractérisée par une
+vitesse angulaire ω et un couple C.
+Sortie : énergie de translation, caractérisée par
+une vitesse linéaire V et une force F.
+Paramètres : le rayon primitif : rayon primitif du
+pignon (en m), dépendant du nombre de dents et
+du module.
+Figure 4 : Système pignon-crémaillère
+Relation cinématique dans un système pignon-crémaillère :
+- ω pignon 5/chariot en rad.s−1
+- V chariot/bâti en m.s−1
+- r : rayon primitif du pignon qui dépend du nombre de dents et du module en mètre.
+Rayon r =
+
+module d′ un engrenage × nombre de dents
+
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗ = r × ω𝑝𝑖𝑔𝑛𝑜𝑛 5/𝑐ℎ𝑎𝑟𝑖𝑜𝑡
+‖Vchariot/bâti‖
+
+Une courbe de mesurage sur le produit réel a été obtenue par logiciel de capture vidéo
+et donne la loi de vitesse de déplacement du chariot suivant :
+
+Figure 5 : Courbe de vitesse
+Question I.5
+
+Déterminer la vitesse de translation du chariot par rapport au bâti
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗ ‖. Conclure quant au choix de cette vitesse et les
+‖Vchariot/bâti
+résultats obtenus par la mesure (figure 5).
+
+Question I.6
+
+A partir des différents résultats et de la présentation du système
+montrer que le rajout du système à rouleau améliore bien le nettoyage
+des lunettes.
+
+COMMANDE DU FONCTIONNEMENT DU SYSTEME « BOBOPTIC »
+Lors du positionnement avant lavage, un maintien par
+serrage est réalisé au niveau de la partie centrale des
+lunettes (figure 6). Afin d’éviter tout risque de
+déformation des lunettes un capteur de force a été
+placé afin de limiter cet effort à 5 N avec une tolérance
+de +/- 0,5 N.
+Problématique : Le capteur
+satisfaire à cette contrainte ?
+
+choisi
+
+permet-il
+
+de
+
+Figure 6
+
+Caractéristique du capteur de force :
+Ensemble constitué d'un capteur à jauge de contrainte et pont de Wheatstone et d'un
+convertisseur analogique-numérique de précision.
+N Valeur
+Pression
+Udef (V)
+Unum (V)
+numérique image
+de la pression
+Amplifier la
+Acquérir la
+Numériser la
+tension Udef
+déformation
+tension
+par 40
+Figure 7 : Schéma de description fonctionnelle de la mesure de force.
+Convertisseur analogique-numérique 8 bits :
+
+Capteur de force 1 kg :
+
+- alimentation : 5 Vcc
+
+- plage de mesure : jusqu'à 1 kg
+
+- consommation : < 1,6 mA
+
+- sortie : 1,0 ± 0,15 mV/V
+- précision : 1 % de la pleine échelle
+
+Au repos la tension Vjauge image de la déformation de la
+jauge de contrainte peut être déterminée à l’aide du
+montage pont diviseur de tension figure 8:
+
+𝑉𝑗𝑎𝑢𝑔𝑒 =
+
+I
+=
+
+Vjauge
+
+𝑉1 × 𝑅𝑗𝑎𝑢𝑔𝑒
+𝑅1 + 𝑅𝑗𝑎𝑢𝑔𝑒
+Figure 8
+
+Question II.1
+
+Déterminer la valeur de la résistance R1 afin que Vjauge, la
+tension aux bornes de la jauge de contrainte au repos, soit égale à
+la moitié de la tension d’alimentation du capteur.
+
+La relation donnée ici est la suivante :
+
+∆𝑅
+𝑅𝑗𝑎𝑢𝑔𝑒
+
+= 𝑘.
+
+∆𝑙
+𝑙
+
+Avec Rjauge valeur de la résistance de la jauge en ohm, ∆𝑅 variation de cette valeur
+après allongement de la jauge en ohm, l longueur de la jauge en millimètre et ∆𝑙 sa
+variation de longueur en millimètre. Ici le facteur de jauge k = 2.
+Un allongement de la jauge de contrainte entraine une augmentation de la résistance
+∆𝒍
+
+de cette jauge. Le fabriquant donne pour ses jauges un allongement maximum 𝒍 de
+5%.
+
+Question II.2
+
+Donner la variation de résistance correspondante à l’allongement
+∆𝒍
+
+maximum 𝒍 de 5%. Indiquer la tension correspondante aux bornes
+de la jauge Vjauge.
+
+A l’équilibre toutes les résistances y compris la jauge
+ont la même valeur 120 Ω (figure 9). Par conséquent
+les deux ponts diviseurs de tension qui constituent le
+pont de Wheastone donnent des potentiels en A et
+en B de 2,5V donc Udef =0V
+Udef = Vjauge – VA
+
+V
+
+Vjauge
+
+A
+
+Figure 9
+
+La tension Unum (figure 7) est numérisée par un convertisseur analogique
+numérique sur 8 bits sur une plage d’utilisation en entrée de 0 à 5V.
+Le quantum q est la plus petite variation de tension appliquée à l’entrée du
+convertisseur qui augmente la valeur binaire en sortie de 1. Upleine échelle
+représente la tension à convertir en volt et n le nombre de bit en sortie du
+convertisseur.
+
+Quantum :
+Question II.3
+Figure 7
+
+𝑞=
+
+𝑈𝑝𝑙𝑒𝑖𝑛𝑒 é𝑐ℎ𝑒𝑙𝑙𝑒
+2𝑛
+
+Après déformation de 5% donner la valeur des tensions Udef et
+Unum si Vjauge = 2,620V. Conclure sur l’intérêt du montage
+d’amplification avec un gain de 40 si la tension Unum est traitée
+par un convertisseur analogique numérique dont l’entrée accepte
+des tensions de 0 à 5V.
+
+Nous considèrerons Unum = 4,5V.
+Question II.4
+
+Calculer le quantum du convertisseur analogique numérique.
+
+Le capteur de force étant linaire l’effort de maintien en Newton E= 2,5 x Unum
+Question II.5
+DR1
+
+Compléter le tableau 2 du document réponse DR1.
+Conclure quant à l’utilisation de ce capteur de force dans le
+contrôle du serrage des lunettes.
+
+DOCUMENTS RÉPONSES DR1
+DR1 : Question I.2 : grandeurs d’effort et flux
+
+DR1 : Question I.3 : liaisons mécaniques
+
+Nommer la nature du mouvement entre le chariot 1 et le bâti fixe 10 :
+---------------------------------------------------------------------------------------------------------DR1 : Question II.5
+Tableau 2 :
+relation entre la
+pression et sa
+valeur numérique

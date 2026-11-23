@@ -1,0 +1,221 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1003500, "at": "2026-11-23T09:26:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Associer un modèle aux composants d’une chaîne de puissance
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PRÉSENTATION DU PRODUIT
+Le déplacement individuel des personnes est un secteur très porteur dans notre
+société ces 5 dernières années.
+Que cela soit dans un but de loisirs, de sport ou de solutions alternatives à un autre
+mode de déplacement, il existe à ce jour de très nombreux produits proposés à la
+vente, certains électriques, d’autres non (trottinette, skateboard, vélo …)
+Le support d’étude de cette épreuve est un skateboard électrique permettant à son
+utilisateur, grâce à une télécommande, de se déplacer dans un milieu urbain.
+
+Figure 1 : Diagramme de cas d’utilisation du skateboard
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+En cas de chute de l’utilisateur le leash (laisse en français) qui relie le skate à
+l’utilisateur coupe la commande, le skateboard s’éloigne encore de plusieurs mètres
+avant de s’arrêter.
+Problématique : comment réduire la distance parcourue par le skateboard à moins
+de deux mètres suite à la chute de l’utilisateur?
+La figure 2 illustre la distance parcourue par le skateboard lors d’une utilisation
+normale suivie d’une chute de l’utilisateur au bout de 10 s.
+
+Figure 2 : Distance parcourue par le skateboard
+Question I.1
+
+À l’aide de la figure 2 et sachant que l’utilisateur chute au bout de
+10 secondes, montrer que la course parcourue par le skate après la
+chute de son utilisateur est supérieure à celle mentionnée dans la
+problématique
+
+Le moteur à courant continu du skate permet de convertir l’énergie électrique
+provenant de la batterie en une énergie mécanique de rotation. Un ensemble formé
+d’une courroie et de deux poulies permet de transmettre cette énergie à la roue
+motrice du skate. La figure 3 illustre la chaine de puissance du skateboard.
+
+Figure 3 : Chaine de puissance du skateboard
+Le diamètre de la roue motrice est de 19,6 cm et le rapport de réduction de
+l’ensemble poulies / courroie est de 65. Le modèle multiphysique établi nous permet
+d’observer que, au moment de la chute de l’utilisateur, la vitesse de rotation de
+l’arbre moteur est de 225 rads-1.
+
+Question I.2 A l’aide de la figure 2, calculer la vitesse du skateboard au moment
+de la chute de l’utilisateur. Conclure quant à la validité du modèle
+multiphysique établi.
+Pour réduire la distance parcourue par le skate après la chute de son utilisateur on
+souhaite créer un couple de freinage permettant de le ralentir. Pour cela, dès que la
+chute de l’utilisateur est détectée, on connecte une résistance RCHARGE aux bornes
+du moteur à courant continu. La figure 4 illustre le schéma électrique équivalent du
+moteur associé à la résistance RCHARGE.
+
+Hypothèse simplificatrice :
+Dans ce schéma on néglige
+l’influence de l’inductance du
+moteur à courant continu.
+
+Figure 4 : Schéma électrique équivalent au moteur associé RCHARGE
+
+Question I.3
+
+À l’aide de la figure 4, déterminer l’expression du courant I en fonction de
+E, R et de RCHARGE.
+
+Le couple de freinage imposé sur l’arbre du moteur dépend du courant I circulant
+dans le moteur. On peut déterminer le couple de freinage à l’aide de la formule 𝐼 =
+𝐶𝐹𝑅𝐸𝐼𝑁𝐴𝐺𝐸
+où I est le courant traversant le moteur, CFREINAGE le couple de freinage
+𝑘
+provoqué par le moteur et k est la constante électromagnétique du moteur.
+Question I.4
+
+À l’aide de la relation qui lie CFREINAGE à I et de votre réponse à la
+question précédente, montrer que le couple résistant augmente
+lorsque la valeur de RCHARGE diminue.
+
+La relation qui lie la position atteinte par le skate après la chute de son utilisateur
+avec la résistance RCHARGE a été déterminée à l’aide de la modélisation du
+skateboard. La formule obtenue est la suivante :
+
+PF = a x RCHARGE + P0
+
+-
+
+Question I.5
+
+Où :
+a = 12,87 mΩ-1 ;
+P0 est la position du skateboard au moment de la
+chute de l’utilisateur ;
+PF est la position finale atteinte par le skateboard
+une fois celui-ci immobilisé.
+
+Déterminer la valeur maximale que devra prendre RCHARGE pour
+pouvoir respecter le cahier des charges. Le choix de la valeur de
+RCHARGE s’étant finalement portée vers la valeur normalisée de
+0,15 Ω, conclure quant à la capacité du skateboard à respecter le
+cahier des charges.
+
+COMMANDE
+DU
+FONCTIONNEMENT
+MODIFICATION DE SON COMPORTEMENT
+
+DU
+
+PRODUIT
+
+OU
+
+Le fabricant du skateboard électrique souhaite élargir son utilisation à un plus jeune
+public. Pour cela il souhaite s’assurer qu’il n’y a aucun risque de chute de l’utilisateur
+en cas d’utilisation à vitesse maximale ou de forte accélération lors du démarrage.
+Problématique : Comment limiter la vitesse maximale et l’accélération du
+skateboard pour prévenir toute chute de l’utilisateur?
+Le cahier des charges fixe la vitesse maximale souhaitée à 4 m.s-1, et l’accélération
+maximale désirée à 2 m.s-2. Les figures 6 et 7 montrent respectivement les courbes
+d’accélération et de vitesse du skateboard lorsque l’utilisateur demande au
+démarrage la plus forte montée en vitesse.
+
+Figure 6 : Evolution de l’accélération du skateboard en ms-2
+
+Figure 7 : Evolution de la vitesse du skateboard en ms-1
+
+Question II.1
+
+À partir des figures 6 et 7 quantifier les écarts entre la vitesse et
+l’accélération maximales du skateboard actuel et les performances
+souhaitées par le cahier des charges. Conclure quant à la nécessité
+de modifier le skateboard actuel.
+
+Une description schématique de la chaîne de puissance du skateboard est illustrée
+par la figure 8.
+
+Figure 8 : Chaine de puissance du skateboard
+Question II.2
+
+Citer les différents types d’énergies mobilisées le long de la chaîne
+de puissance pour tous les repères de 1 à 5. Pour chaque repère
+préciser les grandeurs de flux et d’efforts correspondantes.
+
+La vitesse du skateboard évolue proportionnellement à la valeur moyenne de la
+tension de commande issue du variateur. On souhaite donc contrôler la tension
+Vmoteur en sortie du variateur (repère 2 sur la figure 8). La figure 9 illustre l’allure
+temporelle de cette tension, il s’agit d’un signal rectangulaire dont le rapport cyclique
+est variable selon la commande de l’utilisateur.
+
+Figure 9 : Signal électrique de commande du moteur
+
+Question II.3
+
+À partir des éléments de la figure 9, exprimer Vmoyen en fonction de
+Vmaxi, Th et T.
+
+Afin de paramétrer la tension issue du variateur des essais sont effectués sur le
+skateboard. Ces essais montrent que le skateboard atteint une vitesse maximale de
+6,3 ms-1 lorsque la tension Vmoteur est une tension continue de 13,8 V (cas où Th = T)
+directement issue de la batterie. La période de la tension Vmoteur est fixée à 1 ms.
+Question II.4
+
+Sachant que la vitesse du skateboard est directement
+proportionnelle à Vmoyen, calculer la valeur de Th permettant de
+limiter la vitesse de l’appareil à la valeur désirée.
+
+Afin de réduire l’accélération à la valeur désirée on propose, au moment du
+démarrage, de faire évoluer progressivement la vitesse du skateboard jusqu’à sa
+valeur de croisière. C’est donc le variateur qui va imposer la limitation d’accélération
+en augmentant progressivement la valeur de Vmoyen en 10 paliers identiques
+successifs. La figure 10 représente l’évolution temporelle souhaitée de Vmoyen.
+
+Figure 10 : Évolution progressive de la valeur moyenne de Vmoteur
+
+On rappelle que la tension de la batterie est de 13,8 V.
+Question II.5
+
+Justifier la valeur de 8,76 V proposée comme valeur maximale de
+Vmoyen puis calculer, à l’aide la figure 10, les valeurs de ta et de Vdelta.
+
+Question II.6
+
+À l’aide la figure 10, déterminer la valeur d’accélération imposée au
+skateboard. Conclure quant à la conformité de l’accélération
+obtenue vis-à-vis du cahier des charges.

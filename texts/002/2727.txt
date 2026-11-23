@@ -1,0 +1,399 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1368453, "at": "2026-11-23T09:47:23+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Soit 𝑛 l'entier dont la représentation binaire en complément à deux codée sur 8 bits est 0110 1110.
+Quelle est la représentation binaire de −𝑛 ?
+0001 0001
+0001 0010
+1001 0001
+1001 0010
+Question A.2
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A.3
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+Question A.4
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A.5
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a) OR NOT(b)
+
+Question A.6
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+
+Thème B : types construits
+Question B.1
+On s'intéresse à la valeur 14 présente dans la liste suivante:
+L = [[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15], [16,17,18,19,20]].
+Quelle expression vaut 14 parmi les suivantes ?
+T[2][3]
+T[3][4]
+T[3][2]
+T[4][3]
+Question B.2
+Après avoir défini :
+m = [[1, 2, 3], [4, 5, 6]]
+laquelle des quatre expressions suivantes a la valeur 4 ?
+m[0][1]
+m[1][0]
+m(0,1)
+m(1,0)
+Question B.3
+Après avoir défini :
+d = { 'tigre': 'félin', 'tortue': 'reptile', 'renard': 'canidé' }
+laquelle des quatre expressions suivantes est correcte ?
+d['tortue']
+d['reptile']
+d['tortue': 'reptile']
+d[1]
+
+Question B.4
+On définit :
+notes = [('Toto', 20), ('John', 12), ('Johnny', 2), ('Superman', 16)]
+Quelle est l'expression donnant la note de Superman ?
+notes[4][2]
+notes[3][1]
+notes[Superman]
+notes['Superman']
+Question B.5
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n for n in range(1,7) }
+{ n*n for n in range(6) }
+[ n*n for n in range(1,7) ]
+[ n*n for n in range(6) ]
+Question B.6
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+
+Thème C : traitement de données en tables
+Question C.1
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+Question C.2
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C.3
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Question C.4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['8', '12', '142', '21']
+['8', '12', '21', '142']
+['12', '142', '21', '8']
+['12', '21', '8', '142']
+Question C.5
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C.6
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+Question D.2
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+
+Question D.3
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+Question D.4
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D.5
+Quel est le protocole utilisé pour accéder à la page https://www.domaine.gouv.fr/qcm.php?nom=Martin ?
+HTTPS
+HTTP
+WWW
+FTP
+Question D.6
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui afficher une
+erreur 404.
+Quelle cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion internet
+un changement de titre du forum qu'il veut consulter
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Lorsqu'un utilisateur lance une application, le système d'exploitation va l'ouvrir dans :
+un espace disponible du disque SSD
+un espace disponible du disque HDD
+un espace disponible de la RAM
+un espace disponible de la ROM
+Question E.2
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.3
+Parmi les adresses suivantes, laquelle est une adresse Ethernet non valide ?
+8D:A9:D5:67:E6:F3
+8d:a9:d5:67:e6:f3
+8H:A9:D5:67:E6:F3
+FF:A9:D5:67:E6:F3
+Question E.4
+On réalise une petite station météo.
+Quel composant est un capteur ?
+l'afficheur LCD
+l'écran de l'ordinateur
+la LED
+le thermomètre
+Question E.5
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+
+Question E.6
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+
+Thème F : langages et programmation
+Question F.1
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y=x-1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F.2
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+
+Question F.3
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x=4
+while x > 0:
+y=1
+while y < x:
+y=y+1
+x=x–1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F.4
+La
+documentation
+de
+la
+bibliothèque
+random
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+
+de
+
+Python
+
+précise
+
+que
+
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F.5
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n=1
+for i in range(4):
+n=n+2
+
+Question F.6
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en argument.
+On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+
+Thème G : algorithmique
+Question G.1
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.
+Question G.2
+On décide d'effectuer une recherche dans un tableau trié contenant 42000 valeurs. On procède par dichotomie.
+Le nombre maximal d'itérations de l'algorithme sera :
+21000 car une recherche dichotomique divise le nombre de tests maximal par deux.
+42000 car la valeur recherchée pourrait très bien être la dernière du tableau.
+41999 car si on n'a pas trouvé l'élément recherché à l'avant-dernière position du tableau, il n'est plus utile
+d'effectuer de test pour la dernière position.
+16 car à chaque itération, le nombre d'éléments à examiner est divisé par deux et que 215 ⩽ 42000 ⩽ 216 .
+Question G.3
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+
+Question G.4
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X=0
+m=0
+for k in L:
+X=X+k
+m=m+1
+2.2
+Question G.5
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a=x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+Question G.6
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i=0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'

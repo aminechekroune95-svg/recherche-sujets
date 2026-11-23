@@ -1,0 +1,430 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1909317, "at": "2026-11-23T09:43:06+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quel est le nombre minimum de bits qui permet de représenter les 26 lettres majuscules de l'alphabet ?
+Question A.2
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+Question A.3
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A.4
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+
+Question A.5
+Quelle est la représentation décimale de l’entier négatif codé en complément à 2 sur un octet par
+1100 1011 ?
+–84
+–53
+–35
+–21
+Question A.6
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+
+Thème B : types construits
+Question B.1
+Quelle expression permet d'accéder à la valeur 'hello' après qu'on a défini
+L = [['a','b','c'],['bonjour','hello']]
+L[5]
+L[1][1]
+L[2][2]
+L['hello']
+Question B.2
+Quelle est la valeur de l'expression [[i,2*i] for i in range(3)] ?
+[0,0,1,2,2,4]
+[[0,0],[1,2],[2,4]]
+[1,2,2,4,3,6]
+[[1,2],[2,4],[3,6]]
+Question B.3
+On s'intéresse à la valeur 14 présente dans la liste suivante:
+L = [[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15], [16,17,18,19,20]].
+Quelle expression vaut 14 parmi les suivantes ?
+T[2][3]
+T[3][4]
+T[3][2]
+T[4][3]
+Question B.4
+On définit : matrice = [[1,2,3], [4,5,6], [7,8,9], [10,11,12]].
+Quelle est la valeur de matrice[1][2] ?
+
+Question B.5
+On considère la fonction suivante :
+def somme(tab):
+s = 0
+for i in range(len(tab)):
+......
+return s
+Par quelle instruction faut-il remplacer
+somme([10,11,12,13,14]) renvoie 60 ?
+s = tab[i]
+s = s + tab[i]
+tab[i] = tab[i] + s
+s = s + i
+
+les
+
+points
+
+de
+
+suspension
+
+pour
+
+que
+
+l'appel
+
+Question B.6
+On a défini : T = [[1,2,3], [4,5,6], [7,8,9]].
+Quelle expression parmi les suivantes a pour valeur le nombre 8 ?
+T[1,2]
+T[1][2]
+T[2,1]
+T[2][1]
+
+Thème C : traitement de données en tables
+Question C.1
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C.2
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C.3
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’),
+(‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C.4
+On définit la variable suivante : lettres = {"a": 1, "b": 2, "c": 3}.
+Quelle est la valeur de l'expression list(lettres.keys()) ?
+[a,b,c]
+[1,2,3]
+["a","b","c"]
+{"a": 1, "b": 2, "c": 3}
+
+Question C.5
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C.6
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['8', '12', '142', '21']
+['8', '12', '21', '142']
+['12', '142', '21', '8']
+['12', '21', '8', '142']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D.2
+Parmi les langages suivants, lequel est exécuté sur le serveur lors de la consultation d’une page Web ?
+JavaScript
+HTML
+CSS
+PHP
+Question D.3
+Quelle est la fonction principale d’un fichier CSS ?
+Définir le style d’une page web
+Assurer l’interaction entre une page web et l’utilisateur
+Créer une page web dynamique
+Créer un bouton dans une page web
+
+Question D.4
+Un navigateur affiche la page HTML suivante :
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Un bouton</title>
+</head>
+<body>
+<button onclick="maFonction()">Cliquer ici</button>
+</body>
+<script src="script.js"></script>
+</html>
+Lorsque l'on clique sur le bouton, l'action déclenchée maFonction() est définie :
+dans le fichier HTML seul
+dans le fichier style.css
+dans une bibliothèque prédéfinie du navigateur
+dans le fichier script.js
+
+Question D.5
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+Question D.6
+Parmi ces quatre éléments d’un formulaire HTML, lequel est prévu pour envoyer les données saisies ?
+<input name="file" type="file"/>
+<input value="here we go !" type="submit"/>
+<input name="email" type="email"/>
+<input value="once again !" type="reset"/>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Le répertoire personnel de l'utilisateur contient deux répertoires tempo et sauve.
+On souhaite déplacer le fichier bac.txt du repertoire tempo vers le répertoire sauve.
+Quelle commande permet de réaliser ce déplacement ?
+mkdir ~/tempo/bac.txt ~/sauve
+mkdir ~/sauve ~/tempo/bac.txt
+mv ~/tempo/bac.txt ~/sauve
+mv ~/sauve ~/tempo/bac.txt
+Question E.2
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E.3
+La mémoire RAM :
+ne fonctionne qu'en mode lecture
+ne fonctionne qu'en mode écriture
+conserve les données en cas de coupure de l'alimentation
+perd les données en cas de coupure de l'alimentation
+Question E.4
+Dans un réseau informatique, que peut-on dire de la transmission de données par paquets ?
+cela empêche l’interception des données transmises
+cela garantit que toutes les données empruntent le même chemin
+cela assure une utilisation efficace des liens de connexion
+cela nécessite la réservation d’un chemin entre l’émetteur et le récepteur
+Question E.5
+Parmi les dispositifs d’entrée et de sortie suivants, lequel est uniquement un capteur ?
+la diode
+l'écran tactile
+le thermomètre
+le moteur pas à pas
+
+Question E.6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la documentation sur la commande pwd ?
+man pwd
+cd pwd
+mkdir pwd
+ls pwd
+
+Thème F : langages et programmation
+Question F.1
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for in in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F.2
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+
+Question F.3
+On considère le code incomplet suivant, où la fonction maximum renvoie le plus grand élément d’une liste de
+nombres :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+..............
+..............
+return m
+Que faut-il écrire à la place des lignes pointillées ?
+if m < L[i]:
+L[i] = m
+
+if L[i-1] < L[i]:
+m = L[i]
+
+if L[i] < L[0]:
+L[i],L[0] = L[0],L[i]
+
+if L[i] > m:
+m = L[i]
+
+Question F.4
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......): # à compléter
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+
+Question F.5
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F.6
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+
+Thème G : algorithmique
+Question G.1
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+25002
+22500
+Question G.2
+On a représenté sur un quadrillage les éléments de quatre classes (chaque classe est représentée par un carré,
+un triangle, un losange ou un disque) ainsi qu’un nouvel élément X.
+
+X
+
+En appliquant l'algorithme des k plus proches voisins pour la distance usuelle dans le plan, avec k=5, à quelle
+classe est affecté le nouvel élément X ?
+la classe des carrés
+la classe des triangles
+la classe des losanges
+la classe des disques
+
+Question G.3
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G.4
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G.5
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇 2
+Question G.6
+La fonction maximum doit renvoyer la valeur maximale d'un tableau de nombres. Par quoi doit-on remplacer les
+pointillés pour qu'elle donne le résultat attendu ?
+def maximum(T):
+maxi = T[0]
+for i in range(len(T)):
+.... T[i] > maxi:
+......
+return maxi
+if puis, sur la ligne suivante, maxi = T[i]
+while puis, sur la ligne suivante, maxi = T[i]
+if puis, sur la ligne suivante, maxi = maxi + 1
+while puis, sur la ligne suivante, maxi = maxi + 1

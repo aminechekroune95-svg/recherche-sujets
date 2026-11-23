@@ -1,0 +1,297 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1253524, "at": "2026-11-23T09:23:27+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Bouquet final (10 points)
+Dans cet exercice, on s’intéresse à différents aspects physico-chimiques d’un feu
+d’artifice.
+La pyrotechnie, du grec « pyros » feu et
+« teckhnê » savoir-faire, est la technique des
+feux d’artifice. Elle fut inventée par les chinois, il
+y a plus de mille ans, et introduite en Occident
+grâce à Marco Polo au XIIIème siècle.
+Lors d’un feu d’artifice, la pièce d’artifice est
+l’élément le plus utilisé (voir schéma en coupe
+figure 1). La pièce est expulsée depuis un
+mortier jusqu’à une centaine de mètres de haut
+où elle explose pour former une figure
+lumineuse. La poudre noire présente dans la
+pièce d’artifice est un mélange intervenant lors
+des deux étapes : la propulsion, puis la
+dispersion des étoiles incandescentes qui
+forment le feu d’artifice.
+
+Figure 1 : Coupe d’une pièce
+d’artifice
+
+Projet Scientifique Collectif « Combustion, flammes et feux d’artifice » École Polytechnique
+http://www.penangol.fr/rapports/combustion.pdf
+Article « Feux d’artifice » du site de la société chimique de France
+http://www.societechimiquedefrance.fr/feux-d-artifice.html
+
+Données :
+- Intensité du champ de pesanteur : g = 9,81 m·s-2.
+- Masses molaires atomiques (en g·mol-1) : C : 12,0 ; N : 14,0 ; O : 16,0 ; K : 39,1
+- Constante de Planck : h = 6,63 × 1034 J∙s ;
+- 1 eV = 1,60  1019 J ;
+- la valeur de la célérité de la lumière c dans le vide est supposée connue par le
+candidat.
+I. Aspect énergétique d’une pièce d’artifice lors de la phase ascensionnelle,
+Dans cette partie, on modélise la pièce d’artifice par un point matériel dans le référentiel
+terrestre supposé galiléen. La pièce d’artifice étudiée, de masse 100 g, est tirée
+verticalement avec une vitesse initiale de valeur v0 = 100 m·s-1. On étudie le
+mouvement de son centre d’inertie G, repéré par son ordonnée y dans un repère
+vertical (O, j ) orienté vers le haut.
+On choisit l’instant t0 = 0 s lorsque le centre d’inertie G est confondu avec l’origine
+du repère O. On néglige toute action mécanique de l’air. On admet que la masse de la
+bombe est constante lors de son mouvement ascendant.
+En tenant compte des choix de modélisation précédents, un logiciel de simulation permet
+de représenter l’évolution temporelle de l’énergie cinétique Ec et de l’énergie potentielle
+de pesanteur Ep de la bombe lors de son mouvement ascendant : on obtient la
+représentation graphique ci-dessous.
+
+Figure 2 : Évolution des énergies cinétique et potentielle pendant l’ascension de la
+pièce
+
+1.
+
+2.
+
+3.
+
+Après avoir rappelé la définition de l’énergie mécanique de la pièce d’artifice,
+exploiter la figure 2 pour savoir si, dans la situation simulée, l’énergie
+mécanique se conserve. Commenter le résultat obtenu.
+On suppose que la pièce explose à l’instant tA = 2,0 s. Après cet instant, les
+évolutions de la figure 2 ne sont plus respectées. À l’aide de la figure 2,
+déterminer la valeur de l’énergie potentielle à cet instant puis calculer l’altitude
+atteinte notée yA.
+En réalité l’altitude maximale atteinte par la pièce vaut 55 m. Commenter l’écart
+observé par rapport au modèle.
+
+II. Combustion pyrotechnique
+Le principe de base des feux d’artifice repose sur la combustion de la poudre noire
+contenant jusqu’à 75 % en masse de salpêtre de formule KNO3, jouant le rôle de
+comburant et un mélange essentiellement constitué de carbone, mais contenant
+également du soufre et des éléments métalliques pour la couleur (solides ioniques
+comportant, par exemple, des ions sodium pour le jaune ou des ions potassium pour
+le violet) ou pour les effets spéciaux (métaux comme par exemple le magnésium
+pour des étincelles).
+Source : http://www.societechimiquedefrance.fr/feux-d-artifice.html
+
+Afin de simplifier cette étude, on fait l’hypothèse que la combustion de la poudre
+noire peut être modélisée par une seule réaction chimique dont l’équation est :
+2 KNO3 + 3 C + S  K2S + 3 CO2 + N2
+4.
+
+Après avoir écrit la demi-équation électronique du couple CO2 / C, préciser si le
+carbone joue le rôle d’oxydant ou de réducteur.
+
+L’artificier prépare environ 25 g de poudre noire. Ce mélange est réalisé dans les
+proportions stœchiométriques de la réaction : il contient 3,20 g de carbone, du nitrate
+de potassium (salpêtre) de formule KNO3, du soufre S et des solides ioniques ou
+métaux en faible quantité.
+5.
+Déterminer la valeur de quantité de matière de carbone dans ce mélange.
+6.
+En déduire la masse de nitrate de potassium nécessaire pour réaliser ce
+mélange.
+7.
+En déduire le pourcentage massique de nitrate de potassium présent dans la
+poudre noire préparée et indiquer si le résultat est compatible avec la
+description de la poudre noire.
+8.
+Dans les conditions de la combustion étudiée, l’énergie molaire de combustion
+(pour la combustion d’une mole de carbone) vaut Emcomb = – 208 kJ∙mol-1.
+Montrer que la valeur de l’énergie libérée par la combustion de la poudre noire
+préparée par l’artificier est de l’ordre de 55 kJ.
+9.
+Comparer la valeur précédente à l’énergie cinétique initiale de la bombe (voir
+figure 2) et interpréter la différence.
+
+III. Émission lumineuse
+Les feux d’artifice émettent de la lumière selon trois phénomènes : l’incandescence,
+l’émission atomique et l’émission moléculaire. On s’intéresse uniquement à
+l’émission atomique dans cette partie. Les ions des cristaux métalliques introduits
+sont excités thermiquement, ce qui leur permet de passer d’un niveau d’énergie
+fondamental à un niveau d’énergie supérieur ; au cours de leur retour vers l’état
+fondamental, l’énergie qu’ils avaient absorbée est émise sous forme de photons
+d’une longueur d’onde caractéristique de l’élément correspondant. L’ion sodium est
+l’un de ceux qui émet le plus de lumière par ce mécanisme. On donne ci-dessous
+des informations concernant l’émission de lumière par le sodium.
+
+Figure 3 : Longueurs d’onde dans le vide (en nm) du spectre
+d’émission d’une lampe à vapeurs de sodium
+
+Figure 4 : Diagramme des niveaux d’énergie du sodium
+10. Sur un diagramme de niveaux d’énergie d’un atome, comportant le niveau
+fondamental et un niveau excité d’énergie supérieure, illustrer le phénomène
+d’émission d’un photon.
+11. Déterminer quelle transition entre niveaux d’énergie du sodium représentés
+figure 4 a lieu lors de l’émission de la raie jaune du sodium, de longueur d’onde
+λ = 589,0 nm dans le vide.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie,
+même si elle n’a pas abouti.
+
+PARTIE B
+Centrale électrique de l’Ouest Guyanais (CEOG) (10 points)
+En Guyane, le fonds Meridiam et HDF Energy vont financer et construire la plus
+grande centrale électrique non polluante au monde
+HDF Energy s’inscrit comme le premier producteur mondial d’électricité́ stable à
+partir d’énergies intermittentes, en associant un parc photovoltaïque de puissance
+55 MW avec le plus gros stockage de ressource d’énergie renouvelable au monde à
+base d’hydrogène. Cette combinaison permet ainsi de produire, dans la durée, une
+électricité́ stable avec une énergie 100 % propre.
+La centrale électrique de L'Ouest Guyanais (CEOG) sera raccordée au réseau EDF,
+elle produira quotidiennement, sur une durée de 20 ans, une puissance électrique
+fixe de 10 MW la journée jusqu’au soir, et de 3,0 MW la nuit. La production électrique
+étant stable et garantie, le service rendu par CEOG sera équivalent aux centrales
+fonctionnant au diesel ou au gaz, mais sans pollution, ni logistique
+d’approvisionnement en carburant ou combustible. Le prix de l’électricité de CEOG
+sera inférieur à l’actuel coût de production dans l’Ouest guyanais, et ce, sans
+subvention.
+La mise en service de CEOG est prévue à l’automne 2020.
+Sources : d’après communiqué de presse HDF Energy et
+https://la1ere.francetvinfo.fr/guyane-fonds-meridiam-hdf-energy-vont-financer-construireplus-grande-centrale-electrique-non-polluante-au-monde-626880.html
+
+Le projet consiste à associer une centrale photovoltaïque à une centrale à
+dihydrogène.
+L’énergie électrique non consommée produite par la centrale photovoltaïque en
+journée, est utilisée pour réaliser l’électrolyse de l’eau pour produire du dihydrogène.
+Ce dihydrogène est alors stocké sur place pour pouvoir être utilisé la nuit dans une
+pile à combustible.
+La première partie de l’exercice est consacrée à la production et au stockage du
+dihydrogène. La deuxième partie est consacrée au fonctionnement électrique d’un
+électrolyseur.
+Partie 1. Production et stockage du dihydrogène
+On cherche dans un premier temps à dimensionner les différents réservoirs à utiliser
+pour stocker le dihydrogène produit par la centrale à dihydrogène.
+Données :
+- masses molaires atomiques : MH = 1,00 g.mol-1 ; MO = 16,0 g.mol-1 ;
+- masse volumique de l’eau : eau = 1000 kg.m – 3 ;
+- volume molaire : le volume molaire du dihydrogène gazeux à température
+ambiante de 25 °C et à la pression de 1,0×10 5 Pa est de Vm = 24 L.mol -1.
+
+Les couples d’oxydo-réduction mis en jeu pour l’obtention de dihydrogène lors de
+l’électrolyse de l’eau sont les suivants :
+O2 (g) / H2O(l)
+- H+(aq) / H2 (g)
+1.1. Définir un oxydant et un réducteur.
+1.2.1. Écrire les demi-équations électroniques associées aux deux couples mis en
+jeu.
+1.2.2. L’électrolyse de l’eau est modélisée par la réaction d’équation :
+2 H2 O(l) → 2 H2 (g) + O2 (g)
+L’électrolyseur devra permettre de produire une masse de 50 kg de dihydrogène en
+journée.
+Déterminer la valeur de la quantité de matière de dihydrogène à produire n(H2) en
+journée.
+1.2.3. Calculer la masse d’eau m(H2O) nécessaire pour produire les 50 kg de
+dihydrogène à stocker durant la journée.
+1.2.4. Déterminer le volume minimum du réservoir d’eau V(H2O).
+1.3.1. Le stockage du dihydrogène s’effectue quant à lui généralement avec des
+bouteilles ou assemblages de bouteilles cylindriques, en acier, portées à une
+pression Pstock de 5,0×10 6 Pa. En utilisant la loi de Mariotte, déterminer le volume
+nécessaire Vstock des bouteilles pour stocker le dihydrogène.
+1.3.2. Commenter les résultats sachant que le parc photovoltaïque s’étend sur une
+surface de 700 000 m ².
+Partie 2. Étude du fonctionnement électrique d’un électrolyseur
+On cherche maintenant à caractériser le fonctionnement électrique d’un électrolyseur
+pouvant servir à produire du dihydrogène.
+L’électrolyse de l’eau est réalisée au laboratoire à l’aide du montage électrique
+suivant :
+Générateur
+I
+
+A
+
+U
+V
+
+En faisant varier la tension U aux bornes de l’électrolyseur, on mesure pour chaque
+valeur de la tension U, l’intensité du courant I dans le circuit de l’électrolyseur. On
+obtient le tableau de résultats suivant :
+U (en
+V)
+I (en
+mA)
+
+0,0 1,0
+
+2,0
+
+3,0
+
+4,0
+
+5,0
+
+6,0
+
+7,0
+
+8,0
+
+9,0
+
+10,0 11,0 12,0
+
+0,0 0,0
+
+0,0
+
+0,1
+
+3,4
+
+9,7
+
+16,2 21,9 27,9 34,8 40,5 47,2 53,5
+
+La caractéristique représentant l’évolution de la tension U aux bornes de
+l’électrolyseur en fonction de l’intensité du courant I, est représentée ci-dessous.
+Une partie de la courbe obtenue est modélisable par l’équation U = E’ + r’.I où :
+ E’ est la force contre-électromotrice de l’électrolyseur exprimée en volt (V) ;
+ r’ est la résistance interne de l’électrolyseur exprimée en ohm ().
+Caractéristique U en fonction de I :
+
+U (V)
+
+I(mA)
+
+Équation de la droite déterminée à l’aide d’un logiciel de calcul : U = 3,46 + 160 × I
+où U exprimée en V et I en A.
+2.1. Sans recopier la chaîne énergétique ci-dessous, donner la forme d’énergie à
+faire apparaître dans chaque cadre numéroté de 1 à 3.
+Pour cela, indiquer sur la copie le numéro du cadre et lui associer une expression
+choisie parmi les suivantes : énergie chimique ; énergie électrique ; énergie
+lumineuse ; énergie mécanique ; énergie thermique.
+
+Cadre 1
+
+Cadre 2
+
+Cadre 3
+
+2.2. Déterminer, en utilisant la modélisation effectuée par le logiciel de calcul, les
+valeurs des grandeurs physiques E’ et r’ pour cet électrolyseur.
+2.3.1. Donner l’expression littérale de l’énergie totale reçue Ereçue par l’électrolyseur
+s’il fonctionne pendant une durée t en fonction de U, I et t.
+2.3.2. Donner l’expression littérale de l’énergie totale dissipée Edissipée par
+l’électrolyseur sous forme d’effet Joule s’il fonctionne pendant une durée t.
+E'
+2.3.3. En déduire que l’expression littérale du rendement de l’électrolyseur est  
+U
+2.3.4. Calculer le rendement de cet électrolyseur pour un courant d’intensité I = 50
+mA.
+2.4. En s’appuyant sur les données de l’énoncé et les réponses aux questions
+précédentes, expliquer en quoi le projet semble être une bonne alternative aux
+énergies fossiles.

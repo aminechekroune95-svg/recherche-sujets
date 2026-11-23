@@ -1,0 +1,328 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1329376, "at": "2026-11-23T09:23:16+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Étude d’une structure en béton : de la pose à l’analyse (10 points)
+Un coffrage a pour but de réaliser avec du béton des ouvrages aux formes définies. Il
+s’agit d’une structure provisoire utile pour maintenir le béton en place en attendant sa
+prise puis son durcissement.
+Une fois la structure en béton réalisée, il est important de vérifier si celle-ci ne
+présente aucun défaut. Des contrôles de la structure sont faits grâce à des outils
+utilisant des ondes de différentes natures.
+1. Pression exercée par le béton sur les fondations
+Le béton frais avant le début de son durcissement possède des propriétés
+communes avec les liquides. Le béton frais exerce une pression sur le coffrage qui
+l’entoure et sur les fondations. Il est donc important d’estimer cette pression pour
+s’assurer que la structure est suffisamment résistante.
+Le coffrage représenté ci-dessous permet de construire un pilier carré en béton de
+côté L = 30,0 cm et de hauteur h = 4,50 m ouvert du côté A.
+
+Figure 1. Coffrage vu du dessus
+Source : www.cofrasud.com
+
+Figure 2. Coffrage vu de côté
+
+ il existe différents types de coffrage plus ou moins résistants à la pression exercée
+par le béton liquide.
+Gammes
+Pression relative* maximale autorisée
+Coffrages
+exercée sur les coffrages (en kPa)
+Alu et acier
+Élite métal
+Cosfort métal
+* La pression relative est l’écart entre la pression dans le liquide P et la pression
+atmosphérique Patm :
+Prelative = P - Patm
+Source : https://www.coffrages-cosmos.com
+ intensité de la pesanteur g = 9,81 N∙kg-1 ;
+ masse volumique du béton ρbéton = 2,40×103 kg∙m-3 ;
+ pression atmosphérique Patm = 1,00 bar avec 1 bar = 105 Pa ;
+ les pressions en deux points situés dans un même liquide incompressible sont liées
+par le principe fondamental de l’hydrostatique : P2 – P1 = ρ × g × (z1- z2), avec P1
+et P2 pressions (en Pa) aux points d’altitudes z1 et z2 (en m) et ρ la masse volumique
+du liquide en kg.m-3.
+1.1. Indiquer la valeur de la pression PA au point A en pascal (Pa).
+1.2. Montrer que la valeur de la pression au point B est PB = 2,06×105 Pa.
+1.3. Indiquer la gamme de coffrage à utiliser pour construire ce pilier en béton.
+
+2. Étude de la qualité du béton
+Une fois la structure en béton réalisée, il est possible de contrôler sa qualité
+(résistance, défauts, position des armatures, etc.) grâce à des techniques utilisant
+des ondes de différentes natures.
+Étude par gammagraphie
+La gammagraphie est une méthode d’inspection des constructions en béton qui est
+utilisée pour localiser les armatures en fer contenues dans le béton. Le principe de
+fonctionnement de cette technique est fondé sur l’émission de rayonnement gamma
+par une source (ici le Cobalt 60) qui traverse le matériau ausculté. Le rayonnement
+gamma est absorbé en fonction de la nature et de la densité du matériau, permettant
+ainsi d’obtenir une image, en niveaux de gris, des objets présents dans le volume de
+béton radiographié.
+D’après www.ifsttar.fr
+L’émission de rayonnement gamma par le Cobalt 60 se fait en plusieurs étapes :
+- 1ère étape : en subissant une désintégration radioactive le Cobalt 60 se
+transforme en du Nickel 60 à l’état d’énergie E3 ;
+- 2ème étape : la désexcitation de l’atome de Nickel de l’état d’énergie E3 à l’état
+d’énergie E1 entraîne l’émission d’un rayonnement ;
+- 3ème étape : l’atome de Nickel se désexcite une seconde fois passant du
+niveau d’énergie E1 au niveau fondamental.
+
+Figure 3. Diagramme d’énergie du Nickel 60. www.laradioactivite.com
+ domaine des ondes électromagnétiques :
+
+ constante de Planck : h = 6,63 ×10–34 J∙s ;
+
+ 1 eV = 1,602 × 10–19 J.
+2.1. Reproduire sur votre copie le diagramme d’énergie du Nickel 60 de la figure 3
+et présenter les transitions correspondant à la 2ème et la 3ème étape évoquées
+dans le texte.
+2.2. Montrer que l’énergie d’un photon émis lors de la 2ème étape vaut
+E = 1,9×10-13 J.
+2.3. Calculer la fréquence de l’onde émise lors de la 2ème étape. Justifier le nom
+donné à cette méthode d’inspection.
+Étude par onde ultrasonore
+L’utilisation d’ultrasons est un outil très adapté pour l’évaluation non destructive des
+bétons. Il est possible de détecter des microfissures en étudiant la propagation
+d’onde ultrasonore dans le béton. De plus, la vitesse de propagation des ondes
+ultrasonores est reliée directement à la résistance du béton et donc à la qualité de
+celui-ci.
+La courbe ci-dessous représente une simulation de la tension d’alimentation d’un
+émetteur à ultrason utilisé pour le contrôle des bétons :
+
+U
+(en V)
+
+-5
+-10
+-15
+
+t (en ns)
+
+L’émetteur génère des ondes ultrasonores de même fréquence que celle de la
+tension qui l’alimente.
+2.4. Calculer, en MHz, la valeur de la fréquence des ondes utilisées par cet
+appareil. On explicitera la méthode utilisée.
+Pour qu’un défaut dans la structure soit détectable, il faut qu’il ait une taille au moins
+égale à la moitié de la longueur d’onde ultrasonore.
+La vitesse des ondes ultrasonores peut aller jusqu’à 4 500 m∙s-1 dans le cas des
+bétons de grande qualité.
+2.5. Une fissure est à considérer comme anormale dès qu’elle dépasse 0,3 mm de
+largeur. Est-il possible de détecter, dans un béton de grande qualité, une
+fissure de 0,3 mm à l’aide de cet émetteur à ultrason ?
+
+Dans le cas d’un béton soumis au feu, l’élévation de température provoque une
+modification physico-chimique du matériau. L’auscultation aux ultrasons, fondée sur
+des mesures de temps de parcours d’onde ultrasonore est une méthode
+particulièrement bien adaptée pour remonter à la résistance du béton et ainsi
+déterminer si une zone a été trop endommagée par le feu.
+L’auscultation aux ultrasons consiste à envoyer des ultrasons à l’aide d’un émetteur
+(E). On place ensuite tous les 20 cm des récepteurs (R1 à R4) et on mesure la durée
+de trajet du signal.
+D’après le laboratoire central des Ponts et Chaussées.
+ Principe de l’auscultation aux ultrasons
+
+E : Émetteur à Ultrason
+R : Récepteurs
+
+D’après : http://thesesups.ups-tlse.fr
+
+Onde
+ultrasonor
+e
+
+Béton ausculté
+
+ Résultats pour le bloc de béton soumis au feu :
+Récepteur
+Distance entre émetteur et Temps de réception
+récepteur (en cm)
+du signal (en μs)
+R1
+R2
+R3
+R4
+ Relation entre vitesse des ultrasons et qualité du béton
+Vitesse des
+Appréciation de la
+-1
+ultrasons v en m.s
+qualité
+> 4500
+Excellent
+3500 à 4500
+Bon
+3000 à 3500
+Assez bon
+2000 à 3000
+Médiocre
+<2000
+Très mauvais
+D’après http://www.geniecivilfrance.com
+On considère qu’une zone de béton de qualité médiocre ou inférieure est éliminée
+par piquage pour réparation ou reconstruction.
+2.6. Déterminer si le morceau de béton compris entre les récepteurs R2 et R3
+ausculté doit subir des réparations.
+
+PARTIE B
+Dihydrogène et ballons dirigeables (10 points)
+Paracelse, Cavendish, Lavoisier sont quelques-uns des scientifiques rattachés à
+l’histoire du dihydrogène, gaz inodore et incolore, découvert depuis plus de trois
+siècles. On le produisait à l’époque en faisant réagir de l’acide sulfurique ou de
+l’acide chlorhydrique sur différents métaux comme le fer, le zinc ou encore l’étain.
+Les frères Montgolfier, Jacques Charles et Nicolas Robert
+qui avaient construit le premier ballon à air chaud, mirent
+au point le premier ballon à gaz, rempli de dihydrogène. Le
+27 août 1783, ce ballon s’éleva dans les airs depuis le
+Champ-de-Mars à Paris. Plus tard, d’autres ballons ont été
+construits et équipés de moteurs, ouvrant au début du
+20ème siècle, une nouvelle technique de navigation
+aérienne avec les dirigeables, comme ceux construit par la
+société allemande Zeppelin.
+
+Gravure extraite de l’Album de la
+Science
+
+Cet exercice a pour objectif, l’étude d’une transformation chimique permettant de
+produire du dihydrogène, puis l’interprétation de l’accident survenu en 1937 à
+l’Hindenburg, un ballon dirigeable gonflé au dihydrogène.
+1. Étude d’une transformation chimique permettant de produire du
+dihydrogène
+Pour observer cette transformation, on
+réalise le montage représenté ci-contre.
+On introduit dans un erlenmeyer un
+morceau de ruban de magnésium Mg(s), de
+masse m= 40 mg, et un volume Va = 100
+mL d’acide chlorhydrique (H+(aq) + Cl– (aq)),
+solution aqueuse Sa de concentration en
+ions H+(aq) égale à Ca = 5,0x10-1 mol.L-1.
+En réalisant l’expérience à 20 °C, on recueille, par déplacement d’eau, un gaz que
+l’on peut identifier à du dihydrogène dont on relève à intervalle de temps réguliers le
+volume dégagé et l’on obtient le graphique représenté ci-après.
+L’équation de la réaction modélisant la transformation chimique s’écrit :
+Mg(s) + 2 H+(aq) → Mg2+(aq) + H2(g)
+
+Données
+- Volume molaire des gaz dans les conditions de l’expérience :Vm = 24,0
+L.mol-1.
+- Couples oxydant-réducteur : Mg2+(aq) /Mg(s) et H+(aq)/H2 (g)
+- Masse molaire atomique du magnésium : M(Mg) = 24,3 g.mol–1
+- Pictogrammes de sécurité :
+Magnésium en ruban
+Acide chlorhydrique
+Dihydrogène
+
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+
+Quelle(s) précaution(s) faut-il prendre pour manipuler de l’acide chlorhydrique ?
+Proposer un test pour montrer que le gaz formé au cours de cette
+transformation chimique est bien du dihydrogène.
+Identifier parmi les réactifs, celui qui joue le rôle d’oxydant et celui qui joue le
+rôle de le réducteur.
+Déterminer les quantités de matière initiales des réactifs.
+Compléter le tableau d’avancement en annexe à rendre avec la copie et
+identifier le réactif limitant de cette transformation chimique.
+Montrer qu’en fin de transformation une quantité 𝑛𝐻2 = 1,6.10-3 mol de
+dihydrogène pourrait être formé si la transformation est totale.
+A partir des mesures expérimentales effectuées :
+déterminer quand la transformation peut être considérée comme terminée ;
+relever la valeur du volume Vexp H2 de dihydrogène obtenu à la fin de
+l’expérience.
+Peut-on considérer que la transformation étudiée est une transformation
+totale ? Justifier.
+
+2. Un accident de dirigeable gonflé au dihydrogène qui a marqué
+l’histoire
+L’Hindenburg a été le 129ème dirigeable construit par la société
+allemande Zeppelin entre 1935 et 1936. Dirigeable le plus
+grand et le plus luxueux jamais construit, avec ses dimensions
+hors normes de plus de 240 m de long, il pouvait accueillir 124
+personnes et comportait une salle à manger, un salon de
+lecture, un fumoir, des cuisines et plusieurs cabines.
+Disposant d’un volume de dihydrogène de près de 200 000 m3
+et de 4 moteurs il affichait une vitesse de croisière de plus de
+120 km.h-1. Le 6 mai 1937, lors de son 63ème voyage et après
+77 heures de vol, il s’est écrasé à l’atterrissage à Lakehurst
+dans le New Jersey.
+
+www.portail-aviation.com
+
+On explique aujourd’hui cet accident de la façon suivante : après trois jours de vol, le
+dirigeable chargé d’électricité statique et après avoir rencontré un orage aurait connu une
+défaillance technique engendrant une fuite de dihydrogène. Une décharge d’électricité
+statique créée lorsqu’une des amarres du dirigeable a touché le sol aurait amorcé la
+combustion du dihydrogène, réaction du dihydrogène avec le dioxygène de l’air.
+Données
+- Équation de la réaction modélisant la combustion du dihydrogène :
+H2 (g) + 2 O2 (g) → H2O (l)
+- Numéros atomiques : H (Z = 1) ; O (Z = 8)
+- Énergies de liaison
+Liaison
+H –H
+O=O
+O–H
+Énergie de liaison
+DH – H = 436
+DO=O= 496
+DO – H = 463
+(en kJ.mol-1)
+- Volume molaire des gaz à 20°C : Vm = 24,0 L.mol-1
+- Le TNT (trinitrotoluène) est un explosif. On compare souvent les
+énergies produites lors des explosions en équivalent TNT, l’explosion
+d’un gramme de TNT libérant une énergie de 4184 J.
+2.1. Établir les schémas de Lewis des molécules H2, O2 et H2O.
+2.2. Identifier la nature et le nombre de liaisons rompues et formées au
+cours de la combustion du dihydrogène.
+2.3. Combien de tonnes de TNT produiraient une énergie équivalente lors
+de son explosion à celle produite par l’explosion du dihydrogène contenu
+dans l’Hindenburg ?
+Le candidat est invité à prendre des initiatives et à présenter la démarche
+suivie même si elle n’a pas abouti.
+
+ANNEXE A RENDRE AVEC LA COPIE
+
+Question 1.5 :
+
+Équation de la réaction
+Avancement
+État du système
+(mol)
+État initial
+
+État en cours de
+transformation
+
+𝒙
+
+État final
+
+Mg(s)
+n(Mg)
+
++
+
+2 H+(aq) →
+n(H+)
+
+Mg2+(aq) +
+
+n(Mg2+)
+
+H2(g)
+n(H2)
+
+𝒙𝒎𝒂𝒙

@@ -1,0 +1,325 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1134168, "at": "2026-11-23T09:23:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Chauffage et eau chaude de la maison (10 points)
+Les principales dépenses d'énergie au sein d'une maison
+française se répartissent entre quatre grands postes dont le
+plus important est le chauffage. La production d'eau chaude
+sanitaire est aussi un poste important.
+Le but de l'exercice est d'étudier les dépenses énergétiques
+liées à ces deux postes (chauffage et production d’eau chaude
+sanitaire) dans une maison comportant deux étages.
+
+Principales dépenses d'énergie au sein d'une maison française
+Source https://travaux.edf.fr/
+
+1. Chauffage de la maison
+La maison est équipée d'un chauffage central à partir d'une chaudière fonctionnant au gaz
+naturel. Afin de réaliser des économies d'énergie, le choix a été fait d'installer une
+chaudière à condensation. Le principe de fonctionnement d'une chaudière à condensation
+est illustré sur ci-dessous.
+Dans le brûleur (1), la combustion du gaz naturel permet de transférer de l'énergie à l'eau
+du circuit de chauffage (2). Cette eau, après avoir alimenté les radiateurs (3), circule dans
+
+un serpentin (4) mis en contact avec les produits de la combustion du gaz naturel (5). Ces
+produits se condensent au contact de l'eau froide et les condensats produits dans la
+chaudière (6) sont ensuite rejetés à l'égout. La condensation étant un phénomène
+exothermique, de l'énergie thermique est ainsi fournie à l'eau du circuit de chauffage.
+
+Produits de la
+combustion sous
+forme vapeur (5)
+
+Eau du circuit
+de chauffage (2)
+
+Serpentin (4)
+
+Radiateur (3)
+
+Produits de la
+combustion
+sous forme
+liquide (6)
+(condensats).
+
+Bruleur (1)
+
+Principe de fonctionnement d'une chaudière à condensation.
+D'après https://ma-maison-eco-confort.atlantic.fr/
+ le « gaz naturel » est principalement constitué de méthane ;
+ énergies molaires des liaisons en kJ·mol-1
+Liaison
+C-H
+C=O (dans CO2)
+O=O
+
+O-H
+
+énergie de liaison (kJ·mol-1)
+
+ masses molaires atomiques en g·mol-1 : H : 1,0 g·mol-1 ; C : 12,0 g·mol-1 ; O : 16,0
+g·mol-1
+ numéros atomiques :
+H:1
+C:6
+O:8;
+ la valeur de l'énergie libérée par la condensation d'un gramme d'eau est : 2,3 kJ ;
+ masse volumique de l'eau liquide : ρ = 1,0 kg·L-1.
+1.1. Écrire l'équation de la réaction modélisant la combustion du gaz naturel dans le
+dioxygène. La formule du méthane est CH4 et les produits de combustion sont le dioxyde
+de carbone et l’eau.
+1.2. Établir le schéma de Lewis des molécules de dioxyde de carbone et d’eau.
+
+1.3. À partir du tableau donnant les valeurs des énergies de liaison, calculer celle de
+l’énergie molaire de réaction de la combustion du gaz naturel dans le dioxygène et justifier
+du caractère exothermique de la transformation. En déduire que le pouvoir calorifique du
+méthane est d’environ 50 kJ·g-1.
+1.4. Calculer l’énergie thermique libérée au cours de la combustion de 100 g de méthane.
+Montrer qu’au cours de cette combustion il se forme 225 g de vapeur d’eau.
+1.5. On fait l'hypothèse que toute la vapeur d'eau formée lors de la combustion se
+condense et que seule l'énergie libérée lors de la condensation de l'eau est récupérée.
+Calculer la valeur de l’énergie associée à la condensation de la vapeur d’eau formée pour
+100 g de méthane puis montrer que l’utilisation de cette énergie permet de réaliser un gain
+maximal d’environ 10 % en énergie.
+2. Eau chaude sanitaire
+Dans ce logement l'eau chaude sanitaire est fournie par chauffe-eau qui fonctionne à
+l'électricité. Le principe est simple : une résistance électrique placée dans le cumulus
+chauffe l'eau jusqu'à une température définie appelée température de consigne.
+Les caractéristiques techniques du chauffe-eau indiquées par le constructeur sont en
+partie reproduites :
+Capacité
+Tension de
+Puissance Temps de chauffe(1)
+fonctionnement
+150 L
+230 V
+1800 W
+5 h 15
+(1) Le temps de chauffe est indiqué pour une eau dont la température initiale est de 15 °C
+et la température finale de 65 °C.
+ L’énergie thermique E nécessaire pour élever la température d'une masse m d'eau
+liquide de ΔT est donnée par la relation E = m·ceau·ΔT où ceau est la capacité
+thermique massique de l'eau (ceau = 4,18×103J·kg-1·K-1) ;
+ masse volumique de l'eau ρ = 1,00 kg·L-1 ;
+ ϴ(°C) = T(K) – 273 ; 1,0 J = 3,6 kWh ; 1 bar = 105 Pa.
+2.1. Nommer le phénomène physique qui permet le chauffage de l'eau dans le cumulus.
+Déterminer la valeur de la résistance chauffante du cumulus.
+2.2. À l’aide des caractéristiques techniques du constructeur et des données, calculer la
+valeur de l’énergie thermique nécessaire
+à l’élévation de la température de la
+totalité de l’eau du cumulus.
+2ème
+2.3. Utiliser la puissance du chauffe-eau
+étage
+pour en déduire la durée nécessaire à
+cette élévation de température.
+1er étage
+Comparer à la valeur indiquée par le
+constructeur et proposer une explication
+Canalisation
+à une éventuelle différence.
+Rez-de-chaussée
+
+Le cumulus est installé au rez-de-chaussée d’une maison de deux étages (schéma cicontre). Le graphe ci-dessous indique la pression minimale de l’eau en sortie du cumulus
+en fonction de l’altitude z du point de distribution de l’eau chaude. Pour un fonctionnement
+correct l’eau doit arriver au point de distribution avec une pression minimale de 2,50 bar.
+Prez-de-chaussée
+(bar)
+
+Pression de l’eau en sortie de cumulus en fonction de l’altitude de la distribution
+2.4. Commenter l’allure du graphe puis l’utiliser pour estimer la pression minimale de l’eau
+en sortie du cumulus nécessaire à la distribution d’eau chaude dans une maison de deux
+étages.
+PARTIE B
+La fluorescence au service du diagnostic médical (10 points)
+L’angiographie est une analyse médicale qui consiste à photographier les artères et les
+veines afin de déceler éventuellement des anomalies circulatoires telles que des lésions,
+des anévrismes, etc. Dans le cas particulier de l’angiographie rétinienne on injecte un
+colorant fluorescent tel que la fluorescéine au patient. Ce colorant est transporté dans tout
+le réseau artériel et veineux de la rétine. Des clichés sont pris au cours du temps et leur
+analyse permet d’établir le diagnostic. L’image ci-dessous est l’image obtenue suite à une
+angiographie rétinienne d’un patient diabétique. Elle révèle une rétinopathie qui se
+caractérise par l’existence d’une tâche blanche sur la rétine.
+
+z
+
+www.creteilophtalmo.fr/autres-pathologies/retinopathie-diabetique/
+Les objectifs de cet exercice sont les suivants :
+- comprendre l’origine physique du phénomène de fluorescence en étudiant l’expérience
+de Stokes ;
+- l’étude du principe de photographie réalisée lors de l’angiographie ;
+- l’analyse d’une solution de fluorescéine.
+I. Origine physique du phénomène de fluorescence
+Les travaux de nombreux scientifiques ont contribué à la compréhension de l’origine de la
+fluorescence ainsi qu’à son utilisation au quotidien dans la détection, les analyses et les
+diagnostics. Parmi ces scientifiques nous pouvons citer Sir Gabriel Stokes (1819-1903)
+dont l’expérience est décrite ci-dessous.
+En 1852, Sir Georges Gabriel Stokes, professeur de mathématiques et de physique à
+l’université de Cambridge étudia les propriétés d’une solution de sulfate de quinine dont la
+surface est de couleur bleue lorsqu’elle est éclairée en lumière blanche…
+L’expérience qu’il réalise consiste, dans un premier temps, à décomposer la lumière du
+Soleil par un prisme afin d’obtenir un spectre d’émission. Puis il éclaire la solution de
+sulfate de quinine avec les différentes parties du spectre obtenu en allant du rouge au
+violet. Il observe que la solution est traversée par la quasi-totalité de la lumière qu’elle
+reçoit, sans perturbation particulière, lorsque les radiations se situent entre le rouge et
+bleu du spectre. Par contre lorsque la solution est éclairée avec les rayonnements violets
+du spectre visible et au-delà c’est-à-dire dans l’ultraviolet, la solution émet une lumière de
+couleur bleue.
+Cette dernière observation permet à Sir Stokes de prouver que l’émission bleutée
+observée provient d’une absorption de la lumière dans l’ultraviolet. Il aboutit à la
+conclusion selon laquelle : « la longueur d’onde d’une lumière émise par une solution
+colorée sera supérieure à celle du rayonnement incident à l’origine de cette
+émission » : c’est la loi de Stokes.
+Texte Inspiré de « Lumière et Phosphorescence » de Bernard Valeur
+- Constante de Planck : h = 6,63×10–34 J.s ;
+- 1 eV = 1,602×10–19 J ;
+- la relation de Planck Einstein reliant ∆𝐸, ℎ, 𝑐 𝑒𝑡 𝜆 est supposée connue.
+
+-
+
+Diagramme simplifié de Perrin-Jablonski
+Le diagramme ci-contre est une représentation
+simplifiée de la voie de désexcitation d’une
+molécule fluorescente après absorption d’un
+photon du niveau fondamental au deuxième
+niveau d’énergie électronique.
+La désexcitation comporte deux phases :
+- la première qui porte le nom de processus
+de conversion interne permet à la
+molécule de passer d’un niveau excité
+supérieur à un niveau excité intermédiaire
+inférieur. Au cours de cette étape il n’y a pas
+d’émission de photons mais il peut y avoir
+des transferts thermiques.
+- la deuxième phase, la fluorescence, est le
+retour à l’état fondamental avec émission
+d’un photon.
+
+1. D’après les conclusions de Sir Gabriel Stokes, quelle est l’origine de la couleur bleue
+fluorescente de la solution de quinine ?
+2. À partir des mots soulignés dans le document présentant le diagramme simplifié de
+Perrin-Jablonski, compléter l’annexe à rendre avec la copie.
+3. Proposer une explication, s’appuyant sur des calculs, permettant de justifier que les
+transitions représentées dans le diagramme simplifié de Perrin-Jablonski sont en accord
+avec la « loi de Stokes ».
+II. Principes de la photographie réalisée lors de l’angiographie rétinienne
+L’appareil photographique utilisé pour l’angiographie peut être modélisé par :
+- une lentille convergente de centre O, correspondant à l’objectif. Sa distance focale
+image est égale à ̅̅̅̅
+𝑂𝐹 ’ = f’ = 60 mm ;
+- un écran correspondant au capteur numérique de l’appareil photographique.
+On suppose par la suite que l’objectif de l’appareil photographique est proche de l’œil au
+cours de cette analyse médicale comme le montre le schéma ci-dessous.
+Schéma représentant l’expérience réalisé, sans souci d’échelle.
+écran
+
+Œil
+rétine R
+é
+t
+i
+n
+e
+
+Axe optique
+
+D
+
+4. La tâche blanche présente sur la rétine est représentée par le segment AB. Son image
+sur l’écran est notée A’B’. Sachant que le grandissement de l’objectif de l’appareil
+̅̅̅ ′
+𝐴′𝐵
+
+̅̅̅̅̅
+𝑂𝐴′
+
+photographique utilisé lors de cette analyse est 𝛾 = ̅̅̅̅
+= ̅̅̅̅
+= -1, donner les
+𝐴𝐵
+𝑂𝐴
+caractéristiques de l’image de la tâche blanche formée sur le capteur numérique dans
+l’hypothèse où ̅̅̅̅
+𝐴𝐵 > 0.
+5. Exprimer, en fonction de f ‘ et 𝛾 , la distance̅̅̅̅̅̅
+𝑂𝐴′ pour laquelle l’image de la tâche
+blanche est nette sur le capteur de l’appareil photographique. Donner la valeur de la
+distance D et commenter la valeur obtenue.
+III. Analyse de la solution de fluorescéine utilisée pour l’angiographie
+La solution de fluorescéine utilisée lors de l’angiographie rétinienne doit avoir les
+caractéristiques suivantes :
+fluorescéine sodique : 10,00 g pour 100 mL de solution injectable ;
+une ampoule de 5 mL contient 0,5 g de fluorescéine sodique.
+http://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0287916.htm
+On souhaite vérifier la concentration en fluorescéine d’une solution commercialeafin de
+s’assurer qu’elle puisse être utilisée lors d’une angiographie rétinienne.
+- Formule brute de la fluorescéine : C20H1205 ;
+- Masses molaires atomiques :
+M(C) = 12,0 g.mol-1 ; M(H) = 1,0 g.mol-1 ; M(O) = 16,0 g.mol-1
+- Spectres d’absorption et de fluorescence de la fluorescéine :
+
+Pour simplifier leurs exploitations, ces spectres sont ramenés au même maximum.
+
+6. Les spectres d’absorption et de fluorescence de la fluorescéine sont- ils en accords
+avec la loi de Stokes ? Justifier votre réponse.
+Pour déterminer la concentration en quantité de matière en fluorescéine de la solution
+commerciale, l’absorbance de plusieurs solutions de fluorescéine de concentrations en
+quantité de matière connues a été mesurée.
+Les mesures ont permis d’obtenir les résultats suivants :
+Concentration C
+1,5
+3,0
+4,5
+6,0
+7,5
+9,0
+de la solution
+en µmol. L-1
+Absorbance A de
+la solution
+
+0,10
+
+0,21
+
+0,31
+
+0,64
+
+0,80
+
+0,96
+
+La courbe d’étalonnage représentant l’évolution de l’absorbance en fonction de la
+concentration en quantité de matière en fluorescéine est reproduite ci-dessous.
+
+Courbe d'étalonnage
+A
+
+Résultat de la modélisation : A = 0,0693 x C
+
+Concentration C en µmol.L-1
+
+7. À quelle longueur d’onde doit-on se placer afin de réaliser les mesures décrites ?
+Justifier votre réponse.
+Afin d’analyser la solution commerciale, il faut la diluer. On prépare ainsi une solution S1
+en diluant 30 000 fois la solution commerciale.
+8. La valeur de l’absorbance de la solution S1 mesurée étant de 0,67, déterminer la
+concentration en quantité de matière C de fluorescéine, contenue dans la solution
+commerciale.
+9. L’incertitude-type sur la valeur de C est estimée à ∆C = 0,02 mol.L-1 dans les conditions
+de l’expérience. Comparer la valeur expérimentale obtenue à la valeur retenue pour les
+angiographies rétiniennes. Conclure.
+
+Annexe à rendre avec la copie

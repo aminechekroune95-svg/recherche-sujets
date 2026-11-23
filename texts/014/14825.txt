@@ -1,0 +1,412 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1319594, "at": "2026-11-23T09:41:32+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+Question A 2
+La variable x contient la valeur 3, la variable y contient la valeur 4.
+Quelle expression s'évalue en True parmi les quatre propositions suivantes ?
+x == 3 or y == 5
+x == 3 and y == 5
+x != 3 or y == 5
+y < 4
+Question A 3
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A 4
+On considère l'expression logique (𝑎 or 𝑏) and 𝑎. Quelle est sa table de vérité ?
+
+Question A 5
+L'entier positif 255 se représente en hexadécimal (base 16) par :
+AA
+CC
+FF
+Question A 6
+La représentation en complément à deux sur 8 bits de l’entier –42 est :
+– 00101010
+10101010
+11010101
+11010110
+
+Thème B : types construits
+Question B 1
+Soit une liste définie de la manière suivante : liste = [18, 23, 45, 38, 12]
+On exécute l’instruction liste.append(45), la liste a alors pour valeur :
+[18, 23, 38, 12, 45]
+[18, 23, 38, 12]
+[45, 18, 23, 45, 38, 12]
+[18, 23, 45, 38, 12, 45]
+Question B 2
+Quelle est la valeur de l'expression [[0] * 3 for i in range(2)] ?
+[[0,0], [0,0], [0,0]]
+[[0,0,0], [0,0,0]]
+[[0.000], [0.000]]
+[[0.00], [0.00], [0.00]]
+Question B 3
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Que fait alors l'instruction P[1]["âge"] = 25 ?
+elle modifie la valeur de la clé âge du deuxième élément de la liste P
+elle modifie la valeur de la clé âge du premier élément de la liste P
+elle donne la longueur de la liste P
+elle donne la longueur du premier élément de la liste P
+Question B 4
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+Question B 5
+La fonction ci-dessous prend en argument deux nombres entiers.
+def f(n1,n2):
+etendue = max(n1,n2)-min(n1,n2)
+moyenne = (n1+n2)/2
+
+return etendue,moyenne
+Quel est le type de la valeur renvoyée par un appel à cette fonction ?
+un entier
+un réel (ou flottant)
+un tuple
+une liste
+Question B 6
+Quelle est la valeur de :
+[ x - y for x in range(4) for y in range(3) if x > y ]
+[1, 2, 1, 3, 2, 1]
+[1, 2, 3, 1, 2, 1]
+[1, 2, 3, 3, 2, 1]
+[1, 2, 1, 2, 3, 1]
+
+Thème C : traitement de données en tables
+Question C 1
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 2
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C 3
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+Question C 4
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C 5
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 6
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D 2
+On considère le formulaire ci-dessous :
+Quel est votre langage préféré ?
+Python □ Java □ Php □
+Quelle balise parmi les quatre suivantes a été utilisée pour les cases à cocher ?
+<input type="radio">
+<input type="circle">
+<input type="checkbox">
+<input type="square">
+Question D 3
+Voici un extrait d'un document HTML.
+<body>
+.........
+Clic !
+</button>
+<h1><span id="valeur">2000</span></h1>
+</body>
+<html>
+Quelle doit être la ligne qui remplace les pointillés pour obtenir un bouton dont l'appui déclenche la fonction
+javascript actionBouton() ?
+<button click = "actionBouton();">
+<button onclick = "actionBouton();">
+<button onclick => "actionBouton();"
+<button> onclick = "actionBouton();"
+Question D 4
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+
+Question D 5
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D 6
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E 2
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+adresse Ipv4 : 172.16.100.202
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+Question E 3
+Parmi les éléments suivants, lequel est un capteur ?
+une diode électroluminescente
+un moteur
+un accéléromètre
+un afficheur à cristaux liquides
+Question E 4
+L'adresse IP du site www.education.gouv.fr est 185.75.143.24.
+Quel dispositif permet d'associer l'adresse IP et l'URL www.education.gouv.fr ?
+un routeur
+un serveur DNS
+un serveur de temps
+un serveur Web
+Question E 5
+
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+Question E 6
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+
+Thème F : langages et programmation
+Question F 1
+Quelle est la valeur de la variable x à la fin de l'exécution du script suivant :
+def f(x):
+x = x + 1
+return x + 1
+x = 0
+f(x+1)
+Question F 2
+En Python, quelle est l’instruction permettant de charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Question F 3
+On souhaite échanger les contenus de deux variables entières a et b sans utiliser de variable auxiliaire en
+écrivant le code suivant :
+a = a - b
+b = a + b
+a = ......
+Que peut-on écrire à la place des pointillés pour réaliser cet échange ?
+a - b
+a + b
+b - a
+- a - b
+Question F 4
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+
+Question F 5
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 6
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+
+# à compléter
+
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+
+Thème G : algorithmique
+Question G 1
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+Question G 2
+On a représenté sur un quadrillage les éléments de quatre classes (chaque classe est représentée par un carré,
+un triangle, un losange ou un disque) ainsi qu’un nouvel élément X.
+
+X
+
+En appliquant l'algorithme des k plus proches voisins pour la distance usuelle dans le plan, avec k=5, à quelle
+classe est affecté le nouvel élément X ?
+la classe des carrés
+la classe des triangles
+la classe des losanges
+la classe des disques
+Question G 3
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 4
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 5
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.
+Question G 6
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle

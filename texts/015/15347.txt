@@ -1,0 +1,423 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1269000, "at": "2026-11-23T09:39:46+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+En base 2, l'entier 2019 s'écrit :
+111 1110 0011
+7E3
+110 0011 1111
+3E7
+Question A 2
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture hexadécimale
+7B692 + 4C81E?
+C8EB0
+C5EB0
+C7EC0
+C7EB0
+Question A 3
+Soit 𝑛 l'entier dont la représentation binaire en complément à deux codée sur 8 bits est 0110 1110.
+Quelle est la représentation binaire de −𝑛 ?
+0001 0001
+0001 0010
+1001 0001
+1001 0010
+Question A 4
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+Question A 5
+Combien de bits sont nécessaires pour représenter le nombre 15 en binaire ?
+
+Question A 6
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+
+Thème B : types construits
+Question B 1
+On définit la liste L ainsi :
+L = [ [1], [1, 2], [1, 2, 3]]
+Des égalités suivantes, une seule est fausse. Laquelle ?
+len(L[0]) == 1
+len(L) == 6
+len(L[2]) == 3
+L[2][2] == 3
+Question B 2
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+Question B 3
+On définit un dictionnaire : d = { 'couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif' }
+Quelle est la valeur de l'expression [k for k in d.keys()] ?
+['couleur', 'taille', 'marque']
+[('couleur', 'vert'), ('taille', 42), ('marque', 'le coq sportif')]
+['vert', 42, 'le coq sportif']
+['couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif']
+Question B 4
+On s'intéresse à la valeur 14 présente dans la liste suivante:
+T = [[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15], [16,17,18,19,20]].
+Quelle expression vaut 14 parmi les suivantes ?
+T[2][3]
+T[3][4]
+T[3][2]
+T[4][3]
+Question B 5
+On considère le code suivant :
+t = [1, 6, 8, 3, 21]
+u = [x for x in t if x > 3]
+
+Que vaut u à la fin de son exécution ?
+[1, 6, 8, 21]
+[6, 8, 3, 21]
+[6, 8, 21]
+[1, 3, 6, 21]
+Question B 6
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+
+Thème C : traitement de données en tables
+Question C 1
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 3
+On définit la variable suivante : lettres = {"a": 1, "b": 2, "c": 3}.
+Quelle est la valeur de l'expression list(lettres.keys()) ?
+[a,b,c]
+[1,2,3]
+["a","b","c"]
+{"a": 1, "b": 2, "c": 3}
+Question C 4
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 5
+On exécute le code suivant :
+dict = { "alexandre" : 17, "mehdi" : 18, "jeanne" : 16,
+"charlotte" : 19, "celina" : 18, "noé" : 19 }
+def f(dic):
+for cle, valeur in dic.items() :
+if valeur > 18:
+return cle
+Que renvoie l'appel f(dict) ?
+
+19,19
+"charlotte"
+"charlotte","noé"
+Question C 6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+Question D 2
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D 3
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D 4
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+Question D 5
+
+Qu'affiche cet extrait de code HTML en supposant que le fichier photo-lycee.jpg se trouve bien dans le dossier
+images ?
+<a href=’photo.html’><img src=’images/photo-lycee.jpg’ alt=’Photo du Lycée’/></a>
+seulement l'image contenue dans le fichier photo-lycee.jpg
+seulement le texte Photo du Lycée
+l'image contenue dans le fichier photo-lycee.jpg avec le texte Photo du Lycée en légende
+la page Web photo.html
+Question D 6
+Lors de la consultation d’une page HTML, contenant un bouton dans lequel on ajoute l’attribut suivant, que se
+passe-t-il quand on clique sur ce bouton ?
+<button onclick="this.style.color='red'">
+le pointeur de souris devient rouge lorsqu'il arrive sur le bouton
+le texte du bouton devient rouge
+le texte du bouton est remplacé par le mot "red"
+le texte de la page passe en rouge
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+On cherche à connaître l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E 2
+Le shell Linux renvoie ce résultat à la commande ls -al :
+lrwxr--r-- 2 toto toto
+drwxr-xr-x 2 toto toto
+-rw-r-xr-x 2 toto toto
+-rwxr-xr-x 2 toto toto
+
+807 juin 26 14:06 eclipse
+4096 juin 26 15:00 Doc_1
+4096 juin 26 14:06 QCM
+4096 juin 26 14:06 Doc_Travail
+
+Quel est le nom du fichier du répertoire courant, de taille 4096 octets, exécutable par son propriétaire ?
+eclipse
+Doc_1
+QCM
+Doc_Travail
+Question E 3
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+Question E 4
+Dans le protocole de communication TCP/IP, pour le transfert d’un gros fichier :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination dans un ordre quelconque.
+Question E 5
+Le répertoire personnel de l'utilisateur contient deux répertoires tempo et sauve.
+On souhaite déplacer le fichier bac.txt du répertoire tempo vers le répertoire sauve.
+Quelle commande permet de réaliser ce déplacement ?
+
+mkdir ~/tempo/bac.txt ~/sauve
+mkdir ~/sauve ~/tempo/bac.txt
+mv ~/tempo/bac.txt ~/sauve
+mv ~/sauve ~/tempo/bac.txt
+Question E 6
+Quelle est la seule affirmation exacte ?
+la mémoire RAM ne fonctionne qu'en mode lecture
+la mémoire RAM permet de stocker des données et des programmes
+une mémoire morte ne peut pas être utilisée
+la mémoire RAM permet de stocker définitivement des données
+
+Thème F : langages et programmation
+Question F 1
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 2
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 3
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F 4
+On exécute le code suivant
+
+def calculPourcentage (prix,reduction):
+assert reduction >= 0, 'la réduction doit être un nombre positif'
+assert reduction < 100, 'la réduction doit être inférieure à 100'
+assert prix > 0, 'le prix doit être un nombre strictement positif'
+remise = (reduction*prix)/100
+prix_remise = prix - remise
+return prix_remise
+Quelle est la valeur renvoyée par l'appel calcul(30,100) ?
+AssertionError: la réduction doit être un nombre positif
+AssertionError: la réduction doit être inférieure à 100
+AssertionError: le prix doit être un nombre strictement positif
+Question F 5
+La fonction suivante calcule la racine carrée du double d’un nombre flottant.
+from math import sqrt
+def racine_du_double(x):
+return sqrt(2*x)
+Quelle est la précondition sur l'argument de cette fonction ?
+x < 0
+x >= 0
+2 * x > 0
+sqrt(x) >= 0
+Question F 6
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+
+Thème G : algorithmique
+Question G 1
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+Question G 2
+Un algorithme de recherche dichotomique sur un tableau trié de mille entiers s'exécute en 50 millisecondes.
+Quelle est la durée approximative de son exécution sur un tabelau trié d'un million d'entiers ?
+la même durée : environ 50 millisecondes
+une durée environ deux fois plus longue : environ 100 millisecondes
+une durée environ mille fois plus longue : environ 50 secondes
+une durée qui dépasserait l'année, car la complexité de l'algorithme est exponentielle
+Question G 3
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+return i
+return None
+Quel est le coût dans le pire des cas de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique
+
+Question G 4
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G 5
+On exécute le script suivant :
+liste = [17, 12, 5, 18, 2, 7, 9, 15, 14, 20]
+somme = 0
+i = 0
+while i < len(liste):
+somme = somme + liste[i]
+i = i + 1
+resultat = somme / len(liste)
+Quelle affirmation est fausse parmi les suivantes ?
+le corps de la boucle a été exécuté 10 fois
+à la fin de l'exécution la valeur de i est 9
+resultat contient la moyenne des éléments de liste
+len est une fonction
+Question G 6
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024

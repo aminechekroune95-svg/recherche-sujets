@@ -1,0 +1,438 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1537462, "at": "2026-11-23T09:45:40+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A.2
+Quelle est l'écriture décimale de l'entier positif dont la représentation binaire est 1101 0101 ?
+-42
+Question A.3
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A.4
+Un entier positif est représenté sur 8 bits par 0001 0110.
+En utilisant le complément à 2, quelle est la représentation sur 8 bits de son opposé ?
+1001 0110
+1110 1001
+1110 1010
+1001 0111
+
+Question A.5
+On exécute le code suivant
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+Question A.6
+Combien de bits sont nécessaires pour représenter 15 en binaire ?
+
+Thème B : types construits
+Question B.1
+t1 est un tableau à n lignes et n colonnes. On souhaite remplir un tableau t2 de mêmes dimensions que t1
+avec les contraintes suivantes : les lignes de t2 sont les colonnes de t1 et les colonnes de t2 sont les lignes de
+t1.
+Par quelle instruction faut-il remplacer la ligne en pointillées du code suivant ?
+for i in range(n):
+for j in range(n):
+......
+t1[i][j] = t2[j][i]
+t2[j][i] = t1[j][i]
+t1[j][i] = t2[i][j]
+t2[i][j] = t1[j][i]
+Question B.2
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B.3
+On a défini : T = [[1,2,3], [4,5,6], [7,8,9]].
+Quelle expression parmi les suivantes a pour valeur le nombre 8 ?
+T[1,2]
+T[1][2]
+T[2,1]
+T[2][1]
+Question B.4
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de
+tableau[2][1] ?
+
+Question B.5
+On considère le code suivant :
+def f(L):
+return [x*x for x in L if x%2 == 1]
+carre = f([0,1,2,3,4,5,6,7,8,9])
+Que vaut carre à la fin de son exécution ?
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 4, 16, 36, 64]
+[1, 9, 25, 49, 81]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 19]
+Question B.6
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+
+Thème C : traitement de données en tables
+Question C.1
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-dehaute-provence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C.2
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C.3
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+
+Question C.4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+Question C.5
+On exécute le code suivant :
+def maxi(t):
+m = t[0]
+for x in t:
+if x[1] >= m[1]:
+m = x
+return m
+L = [
+
+('Alice', 17), ('Barnabé', 17),
+('Casimir', 17), ('Doriane', 17),
+('Emilien', 14), ('Fabienne', 16) ]
+
+Quelle est alors la valeur de maxi(L) ?
+('Alice',17)
+('Doriane',17)
+('Fabienne',17)
+('Emilien',14)
+Question C.6
+On dispose du fichier « info.csv » donné ci-dessous :
+nom, prenom, naissance, deces
+lovelace, ada, 1815, 1852
+von neumann, john, 1903, 1957
+turing, alan, 1912, 1954
+mccarthy, john, 1927, 2011
+floyd, robert, 1936, 2001
+Le programme ci-dessous nous permet de créer un tableau à partir de ce fichier.
+file = open("info.csv", "r")
+firstLine = file.readline()
+# chargement de la ligne d’entête
+tableau = [line.split(',') for line in file] # chargement des données
+Les index des lignes de ce tableau vont…
+de 0 à 3
+de 1 à 4
+de 0 à 4
+de 0 à 5
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D.2
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+Question D.3
+On considère l’extrait d’un fichier « html » ci-dessous qui génère le champ de saisie d’une application web
+destiné à recueillir la réponse à une question.
+<form action="gestion_reponse.php" id="form_reponse" method="get">
+<input type="text" name="saisie" />
+<input type="submit" value = "Soumettre" />
+</form>
+Lorsque l’utilisateur clique sur le bouton de ce formulaire, que se passe-t-il ?
+Le contenu du champ de saisie est transmis au serveur web en étant visible dans l’URL de la page cible.
+Le contenu du champ de saisie est transmis au serveur web sans être visible dans l’URL de la page cible.
+Sans communiquer avec le serveur web, le contenu du champ de saisie est passé en argument à une
+fonction qui s’exécute sur le client puis le contenu du champ de saisie est rendu visible dans l’URL.
+Sans communiquer avec le serveur web, le contenu du champ de saisie est passé en argument à une
+fonction qui s’exécute sur le client sans que le contenu du champ de saisie ne soit visible dans l’URL.
+Question D.4
+Que
+peut-on
+comprendre
+en
+lisant
+https://www.myfalselink.com/results?search_query=NSI ?
+
+l'URL
+
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+
+:
+
+Question D.5
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D.6
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un formulaire
+en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans la console Linux, quelle commande faut-il exécuter pour copier le fichier test0.csv en un nouveau fichier
+nommé test1.csv ?
+ls test0.cvs test1.csv
+cp test0.csv test1.csv
+cp test1.csv test0.csv
+mv test1.csv test0.csv
+Question E.2
+Parmi les systèmes d’exploitation suivants, lequel est libre ?
+Mac OS
+iOS
+Microsoft Windows
+GNU/Linux
+Question E.3
+Pour renommer un fichier text1.txt en text1.old dans un même répertoire, quelle commande faut-il
+utiliser ?
+mv text1.txt ../text1.old
+mv text1.txt text1.old
+cp text1.txt text1.old
+lns text1.txt text1.old
+Question E.4
+Dans un système Linux, on dispose d'un répertoire racine contenant deux répertoires documents et
+sauvegardes. On se trouve dans le répertoire documents où figure un fichier NSI.txt.
+Quelle commande permet de créer une copie nommée NSI2.txt de ce fichier dans le répertoire
+sauvegardes ?
+cp NSI.txt NSI2.txt
+cp NSI.txt sauvegardes/NSI2.txt
+cp NSI.txt ../NSI2.txt
+cp NSI.txt ../sauvegardes/NSI2.txt
+
+Question E.5
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+Question E.6
+Lorsque, en ligne de commande, on saisit la commande
+chmod u+rw a.txt
+ceci a pour effet :
+de permettre au propriétaire du fichier de modifier le contenu de ce fichier
+d'interdire au propriétaire de modifier le contenu de ce fichier
+d'interdire à tous les autres utilisateurs de lire le fichier
+d'effacer le fichier
+
+Thème F : langages et programmation
+Question F.1
+Dans le programme suivant, la variable A contient un entier strictement positif. Quelle est la valeur numérique
+de la variable i en fin de programme ?
+while 2**i < A :
+Que vaut la variable i à la fin de l'exécution ?
+A + 1
+l'exposant de la plus grande puissance de 2 inférieure à A
+l'exposant de la plus petite puissance de 2 supérieure à A
+A - 1
+Question F.2
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F.3
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+
+Question F.4
+Soit 𝑛 un entier naturel. Sa factorielle est le produit des nombres entiers strictement positifs qui sont plus petits
+ou égaux à 𝑛. Par exemple la factorielle de 4 vaut 1 × 2 × 3 × 4 = 24.
+Quelle est la fonction correcte parmi les suivantes ?
+while i <= n:
+
+i = 1
+while i < n:
+
+while i < n:
+
+while i <= n:
+
+Question F.5
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+Question F.6
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+
+Thème G : algorithmique
+Question G.1
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+
+Question G.2
+Avec un algorithme de recherche par dichotomie, combien de comparaisons sont-elles nécessaires pour s’assurer
+que 22 n’est pas dans la liste suivante :
+[1, 5, 9, 12, 20, 21, 24, 32, 35, 40, 41, 47, 53, 60, 70]
+Question G.3
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G.4
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+
+Question G.5
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G.6
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎𝑚 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+p = p * a
+#
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+𝑝 = 𝑎𝑛−1
+𝑝 = 𝑎𝑛
+𝑝 = 𝑎𝑛+1
+𝑝 = 𝑎𝑚

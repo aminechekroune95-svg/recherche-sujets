@@ -1,0 +1,256 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1135630, "at": "2026-11-23T09:33:23+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Implant cochléaire
+L’implant cochléaire est un dispositif auditif destiné aux personnes atteintes d’une
+surdité sévère ou profonde. Il transforme les sons en signaux électriques envoyés
+directement au nerf auditif grâce à des électrodes posées chirurgicalement.
+Document 1. Fonctionnement d’un implant cochléaire
+
+osselets
+
+cochlée
+
+Modifié d’après : https://idataresearch.com/cascination-and-med-el-collaborate-on-state-of-the-art-cochlearimplantation-method
+
+Le microphone
+L’audio-processeur
+
+capte les sons en provenance de l’extérieur.
+numérise les sons.
+
+L’antenne
+
+transmet les signaux numériques à l’implant situé sous la peau.
+
+L’implant
+
+envoie des signaux électriques dans les électrodes
+
+situées dans
+
+la cochlée (comprenant les cellules sensorielles ciliées) ⑧.
+Les fibres du nerf auditif captent les signaux électriques et les transmettent au
+cerveau.
+
+1- Indiquer les légendes des structures numérotées 6, 9, 10, 11 et 12.
+2- Certaines personnes subissent une surdité consécutive à un dommage des cellules
+ciliées de l’oreille interne. Elles peuvent alors être appareillées avec un implant
+cochléaire.
+Expliquer le rôle des cellules ciliées de l’oreille interne dans le cas d’une audition
+normale et comment l’implant cochléaire permet de corriger la surdité.
+3- Le microphone d’un implant cochléaire capte un son périodique en provenance de
+l’extérieur. Un motif élémentaire de période T de ce son est représenté sur le
+document 2 de la page suivante.
+Déterminer la valeur de la fréquence f du son capté par le microphone.
+4- Déterminer graphiquement la valeur de la période d’échantillonnage Te utilisée pour
+cette numérisation puis justifier que la valeur de la fréquence d’échantillonnage fe est
+égale à 10 000 Hz.
+
+Document 2. Son capté par le microphone et numérisation par l’audio-processeur
+
+Source : http://www.ostralo.net/3_animations/js/CAN/index_v2nmoins1.htm
+
+5-a- Sachant qu’une quantification sur n bits permet 2n paliers numériques, indiquer,
+en le justifiant, pourquoi ici n=3.
+5-b- La taille L en octet d’un fichier audio est donnée par la formule :
+n
+L = fe × × ∆t
+avec fe la fréquence d’échantillonnage (en hertz), n la quantification (en bits) et ∆t la
+durée (en secondes).
+Pendant une journée, l’audio-processeur numérise en moyenne 10 heures de sons
+différents. Calculer la taille L d’un fichier audio équivalent à une journée de
+fonctionnement de l’implant cochléaire.
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Approche historique de l’âge de la Terre
+Depuis l’Antiquité, la question de l’âge de la Terre a soulevé de nombreuses
+controverses. On se propose d’étudier différentes méthodes ayant permis d’estimer
+l’âge de la Terre au cours de l’histoire des sciences.
+Partie A. Les précurseurs : Buffon et Kelvin
+• La démarche de Buffon
+Georges Louis Leclerc, comte de Buffon, est le premier à réaliser une expérience pour
+déterminer l’âge de la Terre. Partant de l’hypothèse que la Terre a d’abord été une
+sphère de matière en fusion qui a refroidi, il chauffe au rouge 10 boulets de fer forgé
+de tailles différentes et inférieures à 5 pouces (1 pouce = 2,54 cm). Buffon mesure la
+durée de leur refroidissement et extrapole ensuite ses résultats au globe terrestre, dont
+le diamètre connu à l’époque est proche de 13 000 km. Pendant plusieurs années et
+avec des métaux différents, il effectuera plus de 60 expériences, chacune répétée trois
+fois.
+Document 1. Temps de refroidissement des boulets de canon selon leur rayon
+Temps en min
+
+Rayon
+en cm
+
+Buffon écrit :
+« Maintenant, si l’on voulait chercher […] combien il faudrait de temps à un globe gros
+comme la Terre pour se refroidir, on trouverait, d’après les expériences précédentes,
+[…] quatre-vingt-seize-mille six cent soixante-dix ans et cent trente-deux jours pour la
+refroidir à la température actuelle » (extrait de L’Histoire Naturelle, générale et
+particulière, Buffon, 1774).
+• La démarche de Kelvin
+Presque un siècle plus tard, le Britannique Lord Kelvin utilise la théorie de la
+conduction de la chaleur établie par Fourier et modélisée par « l’équation de la
+chaleur ». En considérant que l’intérieur de la Terre est homogène et rigide, il estime
+l’âge de la Terre entre 20 et 400 millions d’années en utilisant l’équation de transfert
+de chaleur.
+Lord Kelvin écrit :
+« Le fait que la température de la Terre augmente avec la profondeur sous la surface
+implique une perte continue de chaleur de l’intérieur par conduction vers l’extérieur, à
+travers ou dans la croûte supérieure. Puisque la croûte supérieure ne devient pas plus
+chaude d’année en année, il doit donc y avoir une perte de chaleur séculaire de la
+Terre entière… Mais il est certain que la Terre devient de plus en plus froide d’âge en
+âge… » (d’après On the Secular Cooling of the Earth, Lord Kelvin, 1862).
+En s’appuyant sur le document 1, les informations précédentes et sur les
+connaissances personnelles, répondre aux questions suivantes.
+1- Expliciter la démarche mise en œuvre par Buffon, ses points forts et ses limites.
+2- Expliciter la démarche mise en œuvre par Lord Kelvin, ses points forts et ses limites.
+3- Commenter les âges de la Terre proposés par Buffon et Kelvin. On attend une
+comparaison des valeurs, de leur précision et de leur ordre de grandeur.
+
+Partie B. Les positions des géologues et de Charles Darwin
+Au XIXe siècle, des géologues à l’instar de Charles Lyell, affirment que l’explication du
+passé de la Terre réside dans l’étude des phénomènes géologiques actuels. Ils
+utilisent la vitesse de sédimentation pour évaluer l’âge de la Terre.
+En considérant que les sédiments se déposent à un rythme compris entre 1 mm et
+1 cm par an, ils estiment l’âge de la Terre a environ 3 milliards d’années.
+Quant à Charles Darwin, il s’oppose à Kelvin dans son ouvrage « De l’origine des
+espèces » paru en 1859. Selon lui, la théorie de l’évolution permet d’expliquer la
+diversité du vivant, mais elle nécessite des temps très longs, de l’ordre du milliard
+d’années.
+
+Document 2. Coupe géologique d’un affleurement géologique à Wöllstein (Allemagne)
+
+L
+
+Argile
+
+Socle (roche magmatique)
+L
+
+L’épaisseur de chaque couche est en mètres.
+D’après Gustave-F. Dollfus, Bulletin de la société géologique de France, 1911
+
+4- En considérant que la vitesse de sédimentation est de 0,1 mm par an et que les
+sédiments formant ces différentes strates (couches 1 à 5) se sont déposés de manière
+uniforme, estimer la durée de formation de l’ensemble des strates de Wöllstein
+surmontant le socle.
+5- Comparer cet âge à celui estimé par Darwin. Proposer une hypothèse pour laquelle
+cette estimation de l’âge de la Terre à partir de cette coupe géologique est très
+différente.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Un poison radioactif
+Un écrivain vous contacte pour achever un roman d’espionnage… Suspense !
+Document 1 : lettre de l’écrivain à votre attention
+Bonjour, je suis Jules Servadac, écrivain de roman policier. Je vous sollicite afin de
+valider quelques aspects scientifiques de mon roman.
+Voici mes premières lignes :
+« Pierre et Marie Curie ont découvert le polonium, juste avant le radium qui les rendit
+célèbres. Le polonium-210 (210Po) est mille fois plus toxique que le plutonium, et un
+million de fois plus encore que le cyanure. Sachez que dix microgrammes (µg) sont
+nécessaires pour empoisonner un homme de poids moyen en quelques semaines et
+que cette dose mortelle est invisible à l’œil nu ».
+Dans mon roman, Tiago, agent secret de Folivie, souhaite s’en servir pour éliminer
+un agent infiltré. Celui-ci dîne tous les soirs dans le même restaurant : l’agent secret
+compte en profiter pour « poivrer » à sa façon son dîner.
+Pour cela, Tiago doit se procurer du polonium-210. Pour des raisons logistiques, il ne
+peut récupérer le polonium que 100 jours avant le dîner programmé dans un autre
+pays. Or le polonium perd la moitié de sa radioactivité tous les 138 jours.
+J’ai deux problèmes à vous soumettre concernant la quantité de polonium que Tiago
+doit transporter :
+-
+
+Restera-t-il suffisamment de Polonium-210 radioactif à la fin de son voyage ?
+
+-
+
+La dose sera-t-elle invisible à l’œil nu ?
+
+Document 2 : données relatives au polonium
+Le polonium est l’un des rares éléments à cristalliser dans le réseau cubique simple.
+Paramètre de maille : a = 3,359 x 10-10 m.
+Masse molaire du polonium : M(Po) = 209,98 g∙mol-1.
+Donnée complémentaire : nombre d’Avogadro NA = 6,022 x 1023 mol-1.
+Il est rappelé que la masse molaire d’un élément est la masse d’une mole de quantité
+de matière de cet élément.
+
+Partie 1 : la radioactivité du polonium
+L’objectif est ici de vérifier qu’en partant avec 20 µg de polonium-210, il restera
+suffisamment de polonium radioactif à l’issue du voyage.
+Document 3 : courbe de décroissance radioactive du polonium
+
+Nombre d'atomes restants (×1016)
+
+Courbe de décroissance d'un échantillon de
+polonium 210
+
+durée en jour
+
+1- Déterminer en µg la masse initiale de Polonium présente dans l’échantillon utilisé
+pour réaliser le graphique du document 3.
+2- Jules Servadac écrit dans son roman : « Le polonium perd la moitié de sa
+radioactivité tous les 138 jours ».
+2-a- Définir scientifiquement la grandeur physique sur laquelle il appuie cette
+affirmation, en donnant son nom.
+2-b- La faire figurer sur le graphique du document réponse à rendre avec la copie en
+laissant apparents les traits de construction.
+3- Justifier par la méthode de votre choix que, pour l’échantillon considéré, la quantité
+de polonium restant après le voyage sera suffisante pour accomplir la mission.
+
+Partie 2 : la structure du polonium
+L’objectif est ici de vérifier que les 10 µg de polonium dont Tiago a besoin pour
+empoisonner l’agent infiltré sont bien invisibles à l’œil nu.
+4- À partir de vos connaissances et des informations apportées par le document 3,
+répondre aux questions suivantes :
+4-a- Représenter la structure cubique simple du polonium en perspective cavalière.
+4-b- Dénombrer, en indiquant les calculs effectués, les atomes par maille.
+5- Montrer que la masse volumique du polonium est de 9,20 x 106 g.m-3.
+6- Comparaison avec la taille d’un grain de poivre.
+6-a- Calculer le volume occupé par la masse de polonium utilisée par Tiago (10 µg).
+6-b- Sachant qu’un grain de poivre broyé occupe un volume d’environ 10 -10 m3 et est
+difficilement visible à l’œil nu, justifier que l’échantillon est invisible.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Un poison radioactif
+
+Courbe de décroissance
+d'un échantillon de polonium 210
+
+Nombre d'atomes restants (×1016)
+
+durée en jours

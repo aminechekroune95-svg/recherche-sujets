@@ -1,0 +1,432 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1378808, "at": "2026-11-23T09:40:22+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On considère les codes ASCII en écriture hexadécimale (en base 16).
+Le code ASCII de la lettre A est 0x41, celui de la lettre B est 0x42, celui de la lettre C est 0x43, etc.
+Quel est le code ASCII, en hexadécimal, de la lettre X (c'est la 24e lettre de l'alphabet usuel).
+0x58
+0x64
+0x7A
+0x88
+Question A 2
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de
+0 en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+Question A 5
+On considère l'expression logique (𝑎 or 𝑏) and 𝑎. Quelle est sa table de vérité ?
+
+Question A 6
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)
+
+sur un octet ?
+
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+
+Thème B : types construits
+Question B 1
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 2
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B 3
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 4
+On définit le dictionnaire suivant d = {'A': 3, 'B': 7, 'C': 2}. Quelle expression permet de récupérer la
+valeur de la clé 'B' ?
+d['B']
+d[1]
+d[7]
+d[B]
+
+Question B 5
+Quelle affectation permet de donner à L la valeur [1,9,25,49,81] ?
+L = [i*2 for i in range(9) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 1]
+L = [i**2 for i in range(10) if i//2 == 1]
+Question B 6
+def ajoute(stock,element,quantite):
+if element in stock:
+stock[element] = stock[element] + quantite
+else:
+stock[element] = quantite
+stock = { 'clous': 14, 'vis': 27, 'boulons': 8, 'écrous': 24 }
+ajoute(stock,'vis',5)
+ajoute(stock,'chevilles',3)
+Quelle est la valeur de la variable stock à la fin de cette exécution ?
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24}
+{‘clous’: 14, ‘vis’: 27, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+{‘clous’: 14, ‘vis’: 32, ‘boulons’: 8, ‘écrous’: 24, 'chevilles': 3}
+
+Thème C : traitement de données en tables
+Question C 1
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 2
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+Question C 3
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 4
+Quel type de fichier est le plus adapté au traitement des données parmi les formats suivant ?
+PNG
+DOC
+CSV
+PDF
+Question C 5
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+
+3B
+B3
+
+Question C 6
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Lors de la consultation d’une page HTML, contenant un bouton dans lequel on ajoute l’attribut suivant, que se
+passe-t-il quand on clique sur ce bouton ?
+<button onclick="this.style.color='red'">
+le pointeur de souris devient rouge lorsqu'il arrive sur le bouton
+le texte du bouton devient rouge
+le texte du bouton est remplacé par le mot "red"
+le texte de la page passe en rouge
+Question D 2
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 3
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 4
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D 5
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+Question D 6
+Dans le code HTML les délimiteurs tels que <body> et </body> s’appellent ?
+des bornes
+des balises
+des paragraphes
+des liens
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Que peut-on dire du système de fichier, suite à l’exécution des commandes suivantes ?
+% cd
+% ls
+Documents Images Videos
+% mv *.txt Documents
+
+help.txt
+
+tutorial.txt
+
+script.py
+
+L'utilisateur Documents a pris possession des fichiers help.txt et tutorial.txt
+Le répertoire /Documents contient maintenant les fichiers help.txt et tutorial.txt
+Le répertoire Documents du répertoire de l'utilisateur contient maintenant les fichiers help.txt et
+tutorial.txt
+script.py a été exécuté et a déplacé les fichiers textes
+Question E 2
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 3
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+Question E 4
+Le shell Linux renvoie ce résultat à la commande ls -al :
+lrwxr--r-- 2 toto toto
+drwxr-xr-x 2 toto toto
+-rw-r-xr-x 2 toto toto
+-rwxr-xr-x 2 toto toto
+
+807 juin 26 14:06 eclipse
+4096 juin 26 15:00 Doc_1
+4096 juin 26 14:06 QCM
+4096 juin 26 14:06 Doc_Travail
+
+Quel est le nom du fichier du répertoire courant, de taille 4096 octets, exécutable par son propriétaire ?
+eclipse
+Doc_1
+QCM
+Doc_Travail
+Question E 5
+
+Un ordinateur possède les caractéristiques matérielles suivantes :
+— mémoire DDR SDRAM : 8 Go
+— antémémoire (mémoire cache) : 1 Mo
+— disque dur SSD : 1 To
+Parmi les classements ci-dessous lequel est celui de l’accès mémoire le plus rapide au moins rapide ?
+Antémémoire puis SDRAM puis SSD
+SSD puis Antémémoire puis SDRAM
+SSD puis SDRAM puis Antémémoire
+SDRAM puis SSD puis Antémémoire
+Question E 6
+Quelle commande du shell Linux permet de modifier les autorisations d'accès à un fichier ?
+chmod
+chown
+chgrp
+dir
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 2
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F 3
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 4
+
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F 5
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 6
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+
+Thème G : algorithmique
+Question G 1
+Un algorithme est dit glouton si :
+Il consomme énormément de mémoire
+Il contient de nombreuses lignes de code
+Il s’inspire de la méthode de John Elwood Glouton
+Il fait à chaque étape le choix localement optimum
+Question G 2
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G 3
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+Un algorithme de tri d’une liste d’entiers est implémenté de la façon suivante :
+def trier(L) :
+for i in range(len(L)):
+indice_min = i
+for j in range(i+1, len(L)):
+if L[j] < L[indice_min] :
+indice_min = j
+L[i], L[indice_min] = L[indice_min], L[i]
+return L
+Quelle est l'affirmation exacte ?
+cet algorithme est celui du tri par sélection et sa complexité est O(n)
+cet algorithme est celui du tri par insertion et sa complexité est O(n*log(n))
+cet algorithme est celui du tri par sélection et sa complexité est O(n2)
+cet algorithme est celui du tri par insertion et sa complexité est O(1)
+Question G 5
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G 6
+On considère la fonction suivante, où T est une liste d'entiers et i un indice de la liste :
+def indiceMinimum(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+On exécute indiceMinimum(T,i) pour une liste T de longueur n.
+Combien de fois l'inégalité T[k] < m est-elle évaluée ?
+𝑛−𝑖
+𝑛−𝑖+1
+𝑛−𝑖−1
+𝑛−1

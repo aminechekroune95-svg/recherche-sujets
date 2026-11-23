@@ -1,0 +1,292 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1624121, "at": "2026-11-23T09:22:39+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Solar Impulse 2, l’avion solaire (10 points)
+L'avion solaire Solar Impulse 2 restera dans l’histoire de l’aéronautique comme le premier
+avion à avoir bouclé avec succès un tour du monde (43 041 km parcourus en 17 étapes) sans
+une goutte de carburant et avec le Soleil comme unique source d’énergie. Au cours de ce tour
+du monde, cet avion piloté alternativement par les pilotes suisses Bertrand Picard et André
+Borschberg aura notamment :
+- effectué sa première traversée de l’Atlantique entre New York et Séville ;
+- établi le plus long vol de l’histoire sans escale et sans pilote automatique
+(117 heures 52 minutes entre Nagoya et Hawaï).
+Ce tour du monde aura été rendu possible grâce à des choix technologiques innovants et un
+profil de vol raisonné.
+
+Partie 1 : le solaire photovoltaïque
+Solar Impulse 2 est presque entièrement recouvert de panneaux solaires photovoltaïques. Les
+matériaux semi-conducteurs utilisés pour constituer les cellules photovoltaïques sont le
+résultat de nombreuses recherches.
+On s’intéresse dans cette partie à la production d’électricité par l’effet photovoltaïque.
+ L’effet photovoltaïque
+Dans un semi-conducteur exposé à la lumière, un photon d’énergie suffisante extrait un
+électron qui participe à la conduction de l’électricité.
+La valeur minimale d’énergie apportée par le photon doit être Emin = 1,12 eV.
+- électronvolt : 1 eV = 1,60 x 10-19 J ;
+- constante de Planck : h = 6,62 x 10-34 J.s ;
+- la valeur de la célérité c de la lumière dans le vide est supposée connue.
+ Absorption atmosphérique du rayonnement solaire pour des radiations lumineuses
+de longueurs d’onde comprises entre 1 nm et 10 mm
+
+ Les ondes électromagnétiques
+
+1.1 Montrer qu’un photon d’énergie 1,12 eV est associé à un rayonnement de longueur d’onde
+λ voisine de 1 μm.
+1.2 À quel domaine des ondes électromagnétiques ces ondes appartiennent-elles ?
+
+1.3 Expliquer pourquoi les matériaux semi-conducteurs présentent un intérêt dans le
+fonctionnement des cellules photovoltaïques.
+Partie 2 : les performances des panneaux solaires de Solar Impulse 2
+On se propose d’étudier en laboratoire une cellule photovoltaïque « classique » afin de
+comparer son rendement à l’une des 17 000 cellules qui équipent l’avion Solar Impulse 2.
+ Diagramme de puissance d’une cellule photovoltaïque
+
+ Puissance lumineuse reçue
+La puissance lumineuse Plum reçue par la cellule photovoltaïque, exprimée en W, est égale au
+produit de l’éclairement Elum, exprimé en W.m-2, par la surface utile S de la cellule exprimée en
+m2 : 𝑷𝒍𝒖𝒎 = 𝑬𝒍𝒖𝒎 ∗ 𝑺.
+ Étude d’une cellule photovoltaïque « classique » en laboratoire
+Matériel à disposition :
+- une lampe halogène ;
+- un solarimètre ;
+- une cellule photovoltaïque de surface utile S = 26,1 x 10-4 m2 ;
+- une résistance variable ;
+- un ampèremètre ;
+- un voltmètre ;
+- des fils de connexion.
+
+Symbole normalisé d’une
+cellule photovoltaïque :
+
+Protocole expérimental :
+ brancher en série la cellule photovoltaïque et la résistance variable ;
+ éclairer la cellule photovoltaïque à l’aide de la lampe halogène placée à 10 cm, et
+mesurer l’éclairement Elum au niveau de la cellule photovoltaïque en utilisant le solarimètre
+(la distance lampe/cellule sera maintenue fixe tout au long de l’étude) ;
+ pour différentes valeurs de la résistance R, relever les valeurs de la tension U aux bornes
+de la cellule et de l’intensité I du courant dans le circuit à l’aide des appareils de mesure
+correctement connectés ;
+ tracer à l’aide d’un tableur grapheur la caractéristique I = f(U) de la cellule photovoltaïque.
+La caractéristique ci-dessous a été obtenue pour un éclairement Elum = 300 W.m-2 (mesure
+effectuée avec le solarimètre).
+
+ Rendement de différents types de convertisseurs d’énergie
+Convertisseur d’énergie
+Rendement moyen
+15 %
+Cellule photovoltaïque « classique »
+(conditions normalisées : Esoleil = 1000 W.m-2)
+Éolienne domestique
+20 %
+Alternateur
+90 %
+Batterie automobile
+70 %
+2.1 Schématiser le montage électrique associé au protocole (le solarimètre ne sera pas
+représenté sur votre schéma).
+2.2 Dans quelle zone (1, 2 ou 3) la puissance électrique délivrée par cette cellule est-elle la
+plus grande ? Justifier la réponse en déterminant la puissance électrique délivrée par la
+cellule aux points A, B et C.
+On considère que la puissance électrique maximale délivrée par la cellule photovoltaïque
+étudiée est Pelec_max = 0,041 W.
+2.3 Montrer, en justifiant par un calcul, que le rendement maximal de la cellule photovoltaïque
+étudiée au laboratoire est ηmax = 5,2 %.
+2.4 Pourquoi le rendement déterminé ne correspond-il pas à celui du tableau, alors que la
+cellule étudiée peut être considérée comme une cellule photovoltaïque « classique » ?
+2.5 Les cellules photovoltaïques de Solar Impulse 2 ont un rendement de 23 %. Vous
+paraissent-elles performantes ? Justifier la réponse.
+
+PARTIE B
+Détermination du degré alcoolique d’un vin d’épines (10 points)
+Dans plusieurs régions de France, on fabrique du vin d’épines, un apéritif alcoolisé qui titre
+environ à environ 15 % en degré d’alcool. Cette boisson est préparée en faisant macérer de
+jeunes pousses de prunellier, un petit arbre rustique, dans un mélange de sucre, de vin et
+d’eau de vie* pendant un mois. Après filtration, ce mélange est mis en bouteille pour vieillir
+pendant au moins trois mois, avant de pouvoir être dégusté. En fin de
+période de vieillissement, il est possible de vérifier le degré d’alcool du vin
+d’épines fabriqué en réalisant un titrage suivi par colorimétrie.
+On considère que l'alcool présent dans les boissons alcoolisées est une
+seule et même espèce chimique : l’éthanol.
+Le degré d’alcool d’une boisson alcoolisée, noté (°), correspond au
+volume d'éthanol pur contenu dans 100 mL de boisson. Par exemple,100
+mL d’une boisson à 35° contient 35 mL d’éthanol pur.
+*boisson alcoolisée obtenue par distillation de jus fermentés de fruits, de
+céréales ou de tubercules.
+L’objectif de cet exercice est d’étudier quelques propriétés de l’éthanol et de déterminer le
+degré d’alcool d’un vin d’épines.
+1. À propos de l’éthanol
+- Représentations moléculaires de l’éthanol et de l’acide éthanoïque
+Ethanol
+Acide éthanoïque
+Formule brute
+Modèle moléculaire
+Formule semidéveloppée
+C
+
+C2H6O
+O
+
+-
+
+Électronégativité selon l'échelle de Pauling de quelques éléments
+Elément
+
+C
+
+H
+
+O
+
+Électronégativité χ
+
+2,55
+
+2,20
+
+3,44
+
+-
+
+Bandes d’absorption en spectroscopie IR
+
+Liaison
+Nombre
+d’onde (cm-1)
+
+O-H (alcool)
+3200 - 3400
+bande forte et large
+
+O-H (acide)
+C=O
+carboxylique)
+2500 - 3200
+1700 - 1800
+bande forte et très large bande forte et fine
+
+1.1. Représenter le schéma de Lewis de l’éthanol.
+1.2. Justifier le fait que la molécule d’éthanol est une molécule polaire.
+1.3. Expliquer pourquoi l’éthanol est miscible avec l’eau.
+1.4. En présence d’un excès d’oxydant, l’éthanol peut être oxydé en acide éthanoïque.
+Les spectres infrarouges de l’acide éthanoïque et de l’éthanol sont donnés ci-dessous.
+Expliquer comment on peut les utiliser pour justifier que la transformation de l’éthanol en acide
+éthanoïque a eu lieu.
+Spectre infrarouge de l’acide éthanoïque
+
+Spectre infrarouge de l’éthanol
+
+D’après tice.ac-montpellier.fr
+2. Détermination du degré d’alcool du vin d’épines
+Le vin d’épines étant constitué de diverses espèces chimiques, on effectue une distillation
+fractionnée d’un mélange de 50 mL de vin d’épines et d’eau pour en extraire l’éthanol. On
+verse le distillat dans une fiole jaugée de 500 mL et on complète avec de l’eau distillée. On
+obtient 500 mL de solution notée S contenant tout l’éthanol initialement présent dans 50
+mL de vin d’épines.
+L’éthanol réagit avec les ions permanganate en milieu acide, mais cette transformation,
+quoique totale, est lente : elle ne peut donc pas être le support d’un titrage. On procède donc
+en deux étapes.
+
+Étape 1 : on introduit les ions permanganate en excès dans un volume donné de la solution S
+pour transformer tout l’éthanol présent en acide éthanoïque et on laisse le temps nécessaire à
+la transformation de s’effectuer.
+Étape 2 : on réalise ensuite le titrage des ions permanganate restants par les ions Fe2+.
+- Couples oxydant-réducteur :
+acide éthanoïque / éthanol : C2H4O2(aq) / C2H6O (aq)
+ion permanganate / ion manganèse : MnO4-(aq) / Mn2+(aq)
+- Demi-équation électronique : MnO4-(aq) + 8 H+(aq) + 5 e- = Mn2+(aq) + 4 H2O(l)
+- Masse volumique de l’éthanol : 0,79 g.mL-1
+- Masse molaire de l’éthanol : M = 46 g.mol-1
+- Toutes les espèces chimiques en solution sont incolores mis à part les ions permanganate
+qui sont violets.
+2.1. Étude de l’étape 1
+On s’intéresse ici à la réaction entre les ions permanganate et l’éthanol.
+Dans un erlenmeyer, on mélange V0 = 2,0 mL de solution S et V1 = 25,0 mL d'une solution
+acidifiée de permanganate de potassium (K+(aq) +MnO4- (aq)) de concentration en quantité de
+matière C1 = 5,00.10–2 mol.L–1 .
+On bouche l'erlenmeyer et on laisse réagir pendant environ 30 minutes, à 60°C.
+2.1.1.
+Établir que l’équation de réaction entre l’éthanol et les ions permanganate en milieu
+acide s’écrit :
+5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+(aq) → 5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O (ℓ)
+2.1.2.
+Compléter le tableau d'avancement en ANNEXE A RENDRE AVEC LA COPIE, en
+utilisant comme notation :
+- n0, quantité de matière initiale d'éthanol présente dans le volume V0
+- n1, quantité de matière initiale d'ions permanganate présente dans le volume V1.
+2.1.3.
+En s'appuyant sur le tableau d'avancement de l’ANNEXE A RENDRE AVEC LA
+COPIE, montrer que dans l'état final, la quantité d'ions permanganate restant dans
+l'erlenmeyer peut s'écrire :
+𝑛(𝑀𝑛𝑂4− )𝑟𝑒𝑠𝑡𝑎𝑛𝑡 = 𝐶1 × 𝑉1 − × 𝑛0
+2.2. Étude de l’étape 2
+On titre les ions permanganate restants à la fin de l’étape 1, directement dans l’erlenmeyer,
+par une solution aqueuse contenant des ions Fe2+ à la concentration en quantité de matière
+C2 = 3,00.10-1 mol.L-1.
+L'équation de la réaction de support du titrage entre les ions permanganate MnO4- et les ions
+Fe2+ est : MnO4– (aq) + 5 Fe2+(aq) + 8 H+(aq) → Mn2+(aq) + 5 Fe3+(aq) + 4 H2O(ℓ)
+Le volume de solution titrante versé pour atteindre l’équivalence est V2éq = 14,1 mL.
+
+2.2.1.
+Définir du terme « équivalence » utilisé lors d’un titrage.
+2.2.2.
+Préciser, en justifiant, le changement de couleur qui permet de repérer l’équivalence.
+2.2.3.
+Indiquer la relation qui existe, à l’équivalence, entre les quantités de matière d’ions
+permanganate présents initialement et les ions Fe2+ versés à l’équivalence.
+2.2.4.
+La quantité d'éthanol initialement présente dans le volume 50 mL de vin d’épines est
+
+alors donnée par la relation : 𝑛é𝑡ℎ𝑎𝑛𝑜𝑙 = 250 × (4 × 𝑐1 × 𝑉1 − 4 × 𝑐2 × 𝑉2é𝑞 ).
+Déterminer si le degré d’alcool annoncé de ce vin d’épines est conforme à celui annoncé pour
+ces apéritifs.
+Le candidat est invité à présenter son raisonnement de manière claire et ordonnée. Toute
+tentative de réponse, même incomplète, sera valorisée.
+
+ANNEXE À RENDRE AVEC LA COPIE
+Question 2.1.2 :
+Équation de la réaction 5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+ → 5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O(l)
+État
+
+Avancement
+(mol)
+
+n(C2H6O)
+
+n(MnO4-)
+
+n(H+)
+
+Initial
+
+n0
+
+n1
+
+En
+cours
+
+X
+
+Final
+
+xf
+
+n(C2H4O2)
+
+n(Mn2+)
+
+n(H2O)
+
+Remarques :
+ On rappelle que l'ion permanganate est introduit en excès.
+ L'eau étant le solvant et l'ion hydrogène n'étant pas limitant, leurs quantités ne seront pas
+précisées.

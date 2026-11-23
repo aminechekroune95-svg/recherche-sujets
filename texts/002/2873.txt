@@ -1,0 +1,294 @@
+{"pages": 9, "method": "pdftotext", "bytes": 761164, "at": "2026-11-23T09:24:36+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+La fosse de plongée Nemo 33 (10 points)
+Le Nemo 33 est un centre de plongée à Uccle, en Belgique.
+Il possédait la fosse de plongée la plus profonde du monde
+jusqu'en février 2014 atteignant une profondeur de près de
+35 mètres.
+Une fosse de plongée sert à pratiquer la plongée sousmarine ou la plongée en apnée (sans bouteille). La
+profondeur est le principal critère qui distingue une fosse
+d'une simple piscine. La qualité de l’eau est un autre
+élément fondamental, autant pour les maîtres-nageurs que
+pour les usagers.
+Dans cet exercice, nous étudierons des propriétés
+chimiques d’une eau de fosse de plongée puis l’effet de la
+pression sur les poumons lors d’une plongée dans une
+fosse.
+Apnéistes dans une fosse de plongée
+https://communaute.ucpa.com
+1. Titrage des ions hypochlorite ClO présents dans l’eau d’une fosse de plongée
+Afin de maintenir la qualité sanitaire de l’eau d’une fosse de plongée on y ajoute des ions
+hypochlorite ClO , il s’agit d’un oxydant puissant qui peut réagir avec des composés
+
+organiques et des micro-organismes afin de les détruire. La réglementation impose une
+concentration en « chlore actif » pour les piscines en France correspondant à une
+concentration d’ions hypochlorite comprise entre 0,4 mg.L-1 et 1,4 mg.L-1.
+Pour étudier les propriétés chimiques de l’eau d’une fosse de plongée et déterminer sa
+concentration en ions hypochlorite, on effectue un prélèvement. À l’aide d’une pipette
+jaugée, on prélève V1 = 20,0 mL d’eau d’une fosse de plongée que l’on place dans un
+bécher de 50 mL, on ajoute 1,0 mL d’une solution contenant des ions iodure en excès et
+1,0 mL une solution d’acide sulfurique puis on agite. Le mélange obtenu, qui prend alors
+une teinte orange-brun, est appelé solution S.
+
+Les couples mis en jeu sont ClO (aq)/Cl (aq) et I2(aq)/I (aq). Le diiode a une coloration
+orange-brun en solution aqueuse, c’est la seule espèce colorée dans la solution S.
+ Masses molaires de l’oxygène et du chlore : M(O) = 16,0 g.mol-1 et M(Cl) = 35,5 g.mol-1.
+1.1. Justifier à l’aide des observations expérimentales le caractère oxydant de l’eau de la
+fosse de plongée.
+1.2. Écrire la demi-équation électronique associée au couple de l’hypochlorite et justifier le
+rôle d’oxydant de cet ion.
+1.3. Donner l’équation de la réaction modélisant la transformation intervenant entre les
+ions hypochlorite et les ions iodure.
+1.4. Établir le tableau d’avancement de la réaction. Les ions iodure, I-(aq), et oxoniums
+H+(aq), sont en excès, l’eau est le solvant.
+On considère dans la suite que tout le diiode dans la solution S provient de la réaction
+entre les ions hypochlorite et iodure et que la transformation est totale. Afin de déterminer
+l’avancement final xf de cette réaction, on effectue un dosage par étalonnage du diiode
+dans la solution S. On réalise une série de mesure d’absorbance de solutions de
+concentrations connues en diode, les résultats sont donnés dans le tableau ci-dessous :
+concentration en diiode (mol.L-1)
+absorbance A (à 475 nm)
+
+2,0×10-5
+0,016
+
+5,0×10-5
+0,041
+
+1,0×10-4
+0,10
+
+2,5×10-4
+0,22
+
+On effectue une mesure d’absorbance pour la solution S, on obtient AS = 0,017.
+1.5. Déterminer la valeur de la concentration en diiode de la solution S. En déduire la
+valeur de la quantité de diiode, formée lors de la réaction entre les ions hypochlorite et
+iodure, et que la valeur de l’avancement final xf est voisine de 4,6×10-7 mol.
+1.6. En déduire la valeur de la concentration en moles en ions hypochlorites ClO- dans
+l’eau de la fosse de plongée. Indiquer si cette eau est conforme la législation française.
+
+2. La pratique de l’apnée au NEMO 33
+Lors de la pratique de l’apnée, le plongeur inspire au maximum de sa capacité pulmonaire
+lorsqu’il se trouve à la surface puis bloque sa respiration. Au cours de la descente, la
+pression augmente et le volume pulmonaire diminue jusqu’à ce que la rigidité du thorax ne
+permette plus de réduire son volume : le volume pulmonaire est alors égal au volume
+résiduel. Au-delà de cette profondeur, du sang est aspiré puis retenu dans la circulation
+pulmonaire, remplissant ainsi les poumons. Ce phénomène, appelé « blood shift », permet
+aux poumons de résister à la compression, mais il peut aussi entraîner des troubles du
+rythme cardiaque.
+La capacité maximale des poumons est d’environ 6 L. Le volume résiduel, c’est-à-dire le
+volume d’air contenu dans les poumons à la fin d’une expiration forcée, est d’environ
+1,5 L.
+ pression atmosphérique : Pa = 1,0 × 105 Pa ;
+ masse volumique de l’eau : ρe = 1,0 × 103 kg.m-3 ;
+ valeur du champ de pesanteur : g = 9,8 N.kg-1 ;
+ profondeur de NEMO 33 : h = 35 m ;
+ la loi fondamentale de la statique des fluides reliant la différence de pression pA - pB
+entre deux points A et B d’un fluide incompressible à ρe, g, et zA - zB ; zA et zB étant
+les ordonnées des points A et B sur un axe des z orienté suivant la verticale
+ascendante s’écrit : pA - pB = ρe g (zB - zA).
+2.1. Décrire qualitativement comment évolue la pression lorsque le plongeur descend
+dans la fosse de plongée. Expliquer en quoi la loi fondamentale de la statique des fluides
+rend compte de cette évolution.
+2.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un
+gaz pour une quantité de matière donnée et une température constante.
+2.3. À l’aide des données, déterminer si le phénomène de « blood shift » risque
+d’apparaître lorsqu’un apnéiste, qui n’a pas expiré d’air au cours de sa plongée, atteint le
+fond de NEMO 33.
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche
+de résolution.Toute prise d’initiative et toute tentative de résolution, même partielle sera
+valorisée.
+
+PARTIE B
+La fluorescence au service du diagnostic médical (10 points)
+L’angiographie est une analyse médicale qui consiste à photographier les artères et
+les veines afin de déceler éventuellement des anomalies circulatoires telles que des
+lésions, des anévrismes, etc. Dans le cas particulier de l’angiographie rétinienne on
+injecte un colorant fluorescent tel que la fluorescéine au patient. Ce colorant est
+transporté dans tout le réseau artériel et veineux de la rétine. Des clichés sont pris
+au cours du temps et leur analyse permet d’établir le diagnostic. L’image ci-dessous
+est l’image obtenue suite à une angiographie rétinienne d’un patient diabétique. Elle
+révèle une rétinopathie qui se caractérise par l’existence d’une tâche blanche sur la
+rétine.
+
+www.creteilophtalmo.fr/autres-pathologies/retinopathie-diabetique/
+Les objectifs de cet exercice sont les suivants :
+- comprendre l’origine physique du phénomène de fluorescence en étudiant l’expérience
+de Stokes ;
+- l’étude du principe de photographie réalisée lors de l’angiographie ;
+- l’analyse d’une solution de fluorescéine.
+I. Origine physique du phénomène de fluorescence
+Les travaux de nombreux scientifiques ont contribué à la compréhension de l’origine de la
+fluorescence ainsi qu’à son utilisation au quotidien dans la détection, les analyses et les
+diagnostics. Parmi ces scientifiques nous pouvons citer Sir Gabriel Stokes (1819-1903)
+dont l’expérience est décrite ci-dessous.
+En 1852, Sir Georges Gabriel Stokes, professeur de mathématiques et de physique à
+l’université de Cambridge étudia les propriétés d’une solution de sulfate de quinine dont la
+surface est de couleur bleue lorsqu’elle est éclairée en lumière blanche…
+L’expérience qu’il réalise consiste, dans un premier temps, à décomposer la lumière du
+Soleil par un prisme afin d’obtenir un spectre d’émission. Puis il éclaire la solution de
+sulfate de quinine avec les différentes parties du spectre obtenu en allant du rouge au
+violet. Il observe que la solution est traversée par la quasi-totalité de la lumière qu’elle
+
+reçoit, sans perturbation particulière, lorsque les radiations se situent entre le rouge et
+bleu du spectre. Par contre lorsque la solution est éclairée avec les rayonnements violets
+du spectre visible et au-delà c’est-à-dire dans l’ultraviolet, la solution émet une lumière de
+couleur bleue.
+Cette dernière observation permet à Sir Stokes de prouver que l’émission bleutée
+observée provient d’une absorption de la lumière dans l’ultraviolet. Il aboutit à la
+conclusion selon laquelle : « la longueur d’onde d’une lumière émise par une solution
+colorée sera supérieure à celle du rayonnement incident à l’origine de cette
+émission » : c’est la loi de Stokes.
+Texte Inspiré de « Lumière et Phosphorescence » de Bernard Valeur
+- Constante de Planck : h = 6,63×10–34 J.s ;
+- 1 eV = 1,602×10–19 J ;
+- la relation de Planck Einstein reliant ∆𝐸, ℎ, 𝑐 𝑒𝑡 𝜆 est supposée connue.
+- Diagramme simplifié de Perrin-Jablonski
+Le diagramme ci-contre est une représentation
+simplifiée de la voie de désexcitation d’une
+molécule fluorescente après absorption d’un
+photon du niveau fondamental au deuxième
+niveau d’énergie électronique.
+La désexcitation comporte deux phases :
+- la première qui porte le nom de processus
+de conversion interne permet à la
+molécule de passer d’un niveau excité
+supérieur à un niveau excité intermédiaire
+inférieur. Au cours de cette étape il n’y a pas
+d’émission de photons mais il peut y avoir
+des transferts thermiques.
+- la deuxième phase, la fluorescence, est le
+retour à l’état fondamental avec émission
+d’un photon.
+1. D’après les conclusions de Sir Gabriel Stokes, quelle est l’origine de la couleur bleue
+fluorescente de la solution de quinine ?
+2. À partir des mots soulignés dans le document présentant le diagramme simplifié de
+Perrin-Jablonski, compléter l’annexe à rendre avec la copie.
+3. Proposer une explication, s’appuyant sur des calculs, permettant de justifier que les
+transitions représentées dans le diagramme simplifié de Perrin-Jablonski sont en accord
+avec la « loi de Stokes ».
+II. Principes de la photographie réalisée lors de l’angiographie rétinienne
+L’appareil photographique utilisé pour l’angiographie peut être modélisé par :
+
+- une lentille convergente de centre O, correspondant à l’objectif. Sa distance focale
+image est égale à ̅̅̅̅
+𝑂𝐹 ’ = f’ = 60 mm ;
+- un écran correspondant au capteur numérique de l’appareil photographique.
+On suppose par la suite que l’objectif de l’appareil photographique est proche de
+l’œil au cours de cette analyse médicale comme le montre le schéma ci-dessous.
+Schéma représentant l’expérience réalisé, sans souci d’échelle.
+écran
+
+Œil
+rétine R
+é
+t
+i
+n
+e
+
+Axe optique
+
+D
+
+4. La tâche blanche présente sur la rétine est représentée par le segment AB. Son image
+sur l’écran est notée A’B’. Sachant que le grandissement de l’objectif de l’appareil
+̅̅̅ ′
+𝐴′𝐵
+
+̅̅̅̅̅
+𝑂𝐴′
+
+photographique utilisé lors de cette analyse est 𝛾 = ̅̅̅̅
+= ̅̅̅̅
+= -1, donner les
+𝐴𝐵
+𝑂𝐴
+caractéristiques de l’image de la tâche blanche formée sur le capteur numérique dans
+̅̅̅̅ > 0.
+l’hypothèse où 𝐴𝐵
+5. Exprimer, en fonction de f ‘ et 𝛾 , la distance̅̅̅̅̅̅
+𝑂𝐴′ pour laquelle l’image de la tâche
+blanche est nette sur le capteur de l’appareil photographique. Donner la valeur de la
+distance D et commenter la valeur obtenue.
+III. Analyse de la solution de fluorescéine utilisée pour l’angiographie
+La solution de fluorescéine utilisée lors de l’angiographie rétinienne doit avoir les
+caractéristiques suivantes :
+fluorescéine sodique : 10,00 g pour 100 mL de solution injectable ;
+une ampoule de 5 mL contient 0,5 g de fluorescéine sodique.
+http://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0287916.htm
+On souhaite vérifier la concentration en fluorescéine d’une solution commercialeafin de
+s’assurer qu’elle puisse être utilisée lors d’une angiographie rétinienne.
+- Formule brute de la fluorescéine : C20H1205 ;
+- Masses molaires atomiques :
+M(C) = 12,0 g.mol-1 ; M(H) = 1,0 g.mol-1 ; M(O) = 16,0 g.mol-1
+- Spectres d’absorption et de fluorescence de la fluorescéine :
+
+Pour simplifier leurs exploitations, ces spectres sont ramenés au même maximum.
+6. Les spectres d’absorption et de fluorescence de la fluorescéine sont- ils en accords
+avec la loi de Stokes ? Justifier votre réponse.
+Pour déterminer la concentration en quantité de matière en fluorescéine de la solution
+commerciale, l’absorbance de plusieurs solutions de fluorescéine de concentrations en
+quantité de matière connues a été mesurée.
+Les mesures ont permis d’obtenir les résultats suivants :
+1,5
+3,0
+4,5
+6,0
+Concentration C
+de la solution
+
+7,5
+
+9,0
+
+0,80
+
+0,96
+
+en µmol. L-1
+Absorbance A
+de la solution
+
+0,10
+
+0,21
+
+0,31
+
+0,64
+
+La courbe d’étalonnage représentant l’évolution de l’absorbance en fonction de la
+concentration en quantité de matière en fluorescéine est reproduite ci-dessous.
+
+Courbe d'étalonnage
+A
+
+Résultat de la modélisation : A = 0,0693 x C
+
+Concentration C en µmol.L-1
+
+7. À quelle longueur d’onde doit-on se placer afin de réaliser les mesures décrites ?
+Justifier votre réponse.
+Afin d’analyser la solution commerciale, il faut la diluer. On prépare ainsi une solution S1
+en diluant 30 000 fois la solution commerciale.
+8. La valeur de l’absorbance de la solution S1 mesurée étant de 0,67, déterminer la
+concentration en quantité de matière C de fluorescéine, contenue dans la solution
+commerciale.
+9. L’incertitude-type sur la valeur de C est estimée à ∆C = 0,02 mol.L-1 dans les conditions
+de l’expérience. Comparer la valeur expérimentale obtenue à la valeur retenue pour les
+angiographies rétiniennes. Conclure.
+
+Annexe à rendre avec la copie

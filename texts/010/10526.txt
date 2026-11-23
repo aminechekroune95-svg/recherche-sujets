@@ -1,0 +1,200 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1454049, "at": "2026-11-23T09:23:06+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Ballon-sonde (10 points)
+Le 17 mars 1898, le premier ballon-sonde météorologique
+français était lancé depuis l'observatoire de Trappes, en
+région parisienne. Il emportait, dans un panier d'osier, un
+« météorographe », destiné à enregistrer la pression et la
+température en altitude. Aujourd'hui, les ballons -sondes
+sont toujours utilisés (figure 1). Ces radiosondages
+fournissent des informations sur l'état des premières
+couches de l'atmosphère (troposphère et stratosphère).
+D’après : meteofrance.com 16/03/2018
+
+Figure 1 : lâcher de ballon automatique
+© Météo-France, Pascal Taburet
+Dans le cadre d’un atelier scientifique, des lycéens ont conçu un ballon -sonde
+constitué :
+ d’une enveloppe fermée remplie d’hélium ;
+ d’une nacelle contenant des appareils de mesure et un parachute.
+Lors du lâcher, le ballon-sonde communique avec une station au sol. Des mesures de
+pression, température, position sont récoltées au cours de l ’ascension.
+
+L’objectif de cet exercice est de justifier le choix de valeur de la fréquence de
+télécommunication et de confronter certaines mesures réalisées à des modèles
+physiques.
+Données :
+- la valeur de la célérité c des ondes électromagnétiques dans le vide ou dans
+l’air est supposée connue des candidats
+- masse(enveloppe) = 3,2 x 10 2 g ;
+- masse(nacelle) = 3,6 kg ;
+- masse(hélium) = 7,0 x 10 2 g ;
+- intensité du champ de pesanteur : g = 9,81 m.s -2 ;
+- pression atmosphérique au niveau du sol : P 0 = 1,0 x 10 3 hPa ;
+- volume initial du ballon : V 0 = 4,0 m³ ;
+- volume du ballon juste avant éclatement : V max = 51 m³.
+1. Choix technique pour la télécommunication
+Pour éviter les interférences avec d’autres systèmes, les lycéens doivent respecter
+les normes en vigueur. Leur ballon-sonde doit émettre des ondes électromagnétiques
+dans le domaine radioélectrique UHF (Ultra Hautes Fréquences), que l ’union
+internationale des télécommunications a attribué au service de la météorologie.
+Les lycéens ont choisi de régler la valeur de la fréquence d ’émission de leur ballonsonde à f = 403,2 MHz.
+
+Figure 2 : différents domaines du spectre des ondes électromagnétiques
+1.1.
+Citer un autre type d’ondes que les ondes électromagnétiques. En donner un
+exemple.
+1.2.
+Exprimer la relation entre célérité c, longueur d’onde  et fréquence f.
+1.3.
+Déterminer la valeur de la longueur d’onde des ondes émises par le ballon -sonde.
+Commenter le choix effectué par les lycéens par rapport aux normes de
+télécommunication.
+2. Décollage du ballon-sonde
+On considère le ballon juste après le décollage, étudié dans le référentiel terrestre
+supposé galiléen. On néglige les frottements exercés par l’air.
+Le système {ballon + nacelle + hélium} est soumis à deux forces :
+ son poids, noté ⃗𝑃 ;
+ la poussée d’Archimède, notée 𝐹 , verticale, dirigée vers le haut telle que sa
+norme F = 50 N.
+
+2.1.
+Calculer la valeur de la masse m totale du système étudié.
+2.2.
+Calculer la valeur du poids du système {ballon + nacelle + hélium}.
+2.3.
+Représenter les forces exercées sur le système {ballon + nacelle + hélium}
+modélisé par un point matériel noté S (échelle : 10 N ↔ 1 cm).
+2.4.
+En déduire le vecteur représentant la somme des forces appliquées sur le
+système et donner les caractéristiques de ce vecteur (direction, sens, norme).
+Le ballon possède une trajectoire verticale ascendante. Les lycéens ont calculé la
+vitesse du ballon-sonde à partir des mesures de positions. La vitesse est
+V 1 = 1,1 m.s -1 à t 1 = 1,0 s et V 3 = 3,2 m.s -1 à t 3 = 3,0 s.
+2.5.
+Calculer la variation de la valeur de la vitesse entre les instants t 1 et t 3 .
+2.6.
+Montrer que cette variation est cohérente avec les caractéristiques de la somme
+des forces appliquées sur le système.
+3. Éclatement
+Dans cette partie, on considère que l’enveloppe du ballon-sonde est parfaitement
+souple et extensible de sorte que la pression de l’hélium à l’intérieur est
+constamment égale à la pression atmosphérique.
+
+Figure 3 : Relevé de pression dans la troposphère et la stratosphère pour différentes
+altitudes h. (D’après : Concours Centrale-Supélec, TSI, 2008.)
+
+Figure 4 : Relevé de température dans la troposphère et la stratosphère pour
+différentes altitudes h. (D’après : Concours Centrale-Supélec, TSI, 2008.)
+3.1.
+À l’aide de la figure 3, expliquer comment varie la pression dans le ballon sonde
+lorsque l’altitude augmente.
+3.2.
+Énoncer la loi de Mariotte relative au produit de la pression P par le volume V
+d’un gaz pour une quantité de matière donnée et une température constante.
+3.3.
+À l’aide de la loi de Mariotte, indiquer comment varie qualitativement le volume
+du ballon au cours de son ascension. Déterminer ensuite l’altitude maximale atteinte
+par le ballon au moment de l’éclatement.
+3.4.
+En réalité le ballon a atteint une altitude de 31 km, elle est supérieure à celle
+prévue dans la question précédente. Proposer une explication.
+PARTIE B
+Recyclage d’une solution de bouillie bordelaise (10 points)
+
+La bouillie bordelaise peut être utilisée par les jardiniers pour traiter le
+potager ou les arbres fruitiers contre certaines maladies. Dans le commerce,
+elle est vendue sous la forme d'une poudre à dissoudre dans de l’eau.
+Cette poudre est constituée de sulfate de cuivre hydraté CuSO4,5H2O(s) et
+d’hydroxyde de calcium Ca(OH)2(s).
+On obtient, par dissolution de cette poudre dans l’eau, une solution contenant
+des ions cuivre Cu2+ à pulvériser sur les végétaux.
+Comme tout produit de traitement, cette solution doit être utilisée en
+respectant des concentrations précises. En effet au-delà d’un certain seuil, le cuivre est
+toxique pour l’Homme et l’environnement.
+Le but de l’exercice est de déterminer si la solution de bouillie bordelaise notée S, fabriquée
+en trop grande quantité par un jardinier amateur, peut être jetée à l’évier ou doit être traitée ou
+recyclée
+Données :
+- Concentration en masse limite d’ions Cu2+ pour les rejets dans les eaux usées : Cm = 0,5
+mg par litre d’eau déversée
+- Masse molaire atomique du cuivre : M(Cu) = 63,5 g·mol−1
+- Masse molaire de l’hydroxyde de sodium : M(NaOH) = 40,0 g·mol−1
+- Cercle chromatique :
+
+- Spectre d’absorbance d’une solution aqueuse de sulfate de cuivre
+(Cu2+ (aq) + SO42-(aq)) :
+
+- L’espèce ionique Cu2+ (aq) est responsable de la couleur de la solution aqueuse.
+1. Déterminer la couleur de l’espèce ionique Cu2+(aq) en solution aqueuse. Justifier.
+On souhaite déterminer la concentration en quantité de matière d’ions cuivre Cu 2+(aq) de la
+solution de bouillie bordelaise S, par un dosage spectrophotométrique. On réalise pour cela
+une gamme étalon et des mesures d’absorbance à la longueur d’onde 810 nm.
+2. Expliquer en quelques lignes le principe de cette méthode de dosage.
+On dispose d’une solution mère de sulfate de cuivre S0 de concentration en quantité de
+matière d’ions cuivre Cu 2+(aq) égale à C0 = 0,040 mol·L-1. À partir de cette solution S0 on
+prépare différentes solutions Si. Le volume de chaque solution fille obtenue est égal à VF
+=10,0 mL.
+3. Recopier et compléter le tableau ci-dessous en explicitant le calcul pour la solution S2.
+Solution fille Si
+S1
+S2
+S3
+S4
+S5
+Concentration en quantité
+0,020
+0,016
+0,012
+0,008
+0,004
+de matière Ci (mol.L-1)
+Volume V0 de solution S0 à
+prélever (mL)
+On mesure l’absorbance A des différentes solutions préparées et on trace le graphique suivant :
+
+4. Après avoir rappelé l’expression de la loi de Beer-Lambert en indiquant le nom des
+grandeurs et les unités associées, déterminer si les résultats expérimentaux obtenus sont
+en accord avec cette loi.
+Afin de déterminer la concentration de la bouillie bordelaise préparée par le jardinier, on dilue
+20 fois la solution S avant de l’analyser avec le spectrophotomètre. On mesure une absorbance
+A’ = 0,120 pour la solution diluée S’.
+5. Détailler le protocole expérimental de préparation des 100 mL de la solution S’. La verrerie
+mise à disposition est :
+− fiole jaugée : 100 mL et 200 mL
+− éprouvettes graduées : 10 mL, 50 mL et
+100 mL
+− pipettes jaugées : 5 mL, 10 mL, 50 mL
+et 100 mL
+− pissette d’eau distillée
+− béchers : 50 mL et 100 mL
+− pipette en plastique souple
+6. Déterminer si le jardinier peut rejeter son excédent de solution S à l’évier ou s’il doit le faire
+recycler.
+La toxicité de la bouillie bordelaise est liée à la présence des ions cuivre Cu2+. Un traitement
+pour éliminer ces ions consiste à ajouter des pastilles d’hydroxyde de sodium NaOH(s. La
+transformation est modélisée par la réaction des ions cuivre Cu 2+ présents dans la bouillie
+bordelaise et des ions hydroxyde OH– apportés par les pastilles d’hydroxyde de sodium) pour
+former un précipité d’hydroxyde de cuivre Cu(OH)2(s) qui est récupéré par filtration puis traité.
+L’équation de la réaction chimique est la suivante :
+Cu2+(aq) + 2 OH - (aq)
+→
+Cu(OH)2(s)
+On souhaite traiter 500 mL d’une solution dont la concentration en quantité de matière d’ions
+Cu2+ est égale à CT = 0,22 mol.L-1.
+
+7. Déterminer la masse m d’hydroxyde de sodium NaOH(s) à ajouter à cette solution pour
+éliminer totalement les ions cuivre sans pour autant que les ions hydroxyde ne soient en
+excès.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même si elle
+n’a pas abouti.

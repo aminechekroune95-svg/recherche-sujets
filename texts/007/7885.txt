@@ -1,0 +1,210 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1076977, "at": "2026-11-23T09:34:04+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+LE SON : DE L’ANALOGIQUE AU NUMERIQUE
+L’industrie de la musique a connu au cours des dernières décennies de nombreuses
+évolutions (disque vinyle, CD, MP3, plateformes de musique en ligne). Ces
+évolutions sont dues au développement de la numérisation du son qui permet un
+stockage, une transmission et un accès plus aisés.
+L’objectif de l’exercice est de comprendre l’influence de certains paramètres sur la
+qualité du son numérisé.
+Document 1. Discrétisation du signal analogique d’un même son.
+Pour numériser un son, on procède à la discrétisation du signal analogique sonore
+(échantillonnage et quantification), comme l’illustrent les graphiques ci-après.
+Les échelles de tension et de temps sont les mêmes pour tous les graphiques.
+On note Te , la période d’échantillonnage.
+
+Document 2. Caractéristiques de numérisation de signaux audio suivant l’application.
+Plage des
+fréquences
+transmises
+
+Fréquence
+d’échantillonnage
+
+Nombre de
+bits pour la
+quantification
+
+Applications
+
+téléphonie
+
+300-3400
+
+8 kHz
+
+Téléphonie
+
+bande élargie
+
+50-7000 Hz
+
+16 kHz
+
+Audioconférence
+
+50-15000
+
+32 kHz
+
+Radiodiffusion
+
+20-20000
+
+44,1 kHz
+
+CD audio
+
+Haute
+qualité
+« Hi-Fi »
+
+D’après Des données à l’information de Florent Chavand (ISTE éditions)
+
+Document 3. Taille d’un fichier numérique et taux de compression
+La taille T d’un fichier audio numérique (en bit) peut être calculée à partir de la
+fréquence d’échantillonnage fe (en Hertz), du nombre n de bits utilisés pour la
+quantification, de la durée t (en secondes) de l’enregistrement et du nombre k de
+voies ou canaux utilisés (1 en mono, 2 en stéréo…), à l’aide de la formule
+suivante :
+T = fe × n × t × k
+Le taux de compression est ici défini comme le rapport de la taille du fichier
+compressé sur la taille du fichier original.
+1- À partir de l’exploitation des graphiques du document 1, recopier la ou les bonnes
+réponses pour chaque situation ci-dessous.
+ La fréquence d’échantillonnage est plus élevée dans le cas du graphique (a)
+que dans le cas du graphique (b).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (b) que dans celle correspondant au graphique (a).
+ Le fichier numérique correspondant à la situation du graphique (c) a une plus
+petite taille que le cas du graphique (d).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (c) que dans celle correspondant au graphique
+(d).
+1- À partir de vos connaissances, indiquer la condition que doit vérifier la fréquence
+d’échantillonnage si on veut numériser fidèlement un son analogique sinusoïdal
+de fréquence 𝑓.
+2- Justifier, à partir des informations du document 2, que le choix de la fréquence
+d’échantillonnage permet une numérisation fidèle des sons sur un CD audio.
+3- À partir de vos connaissances, donner l’intervalle des fréquences des sons
+audibles par les humains. Indiquer, en justifiant, si tous les sons correspondant à
+ces fréquences sont transmis lors d’une audioconférence numérisée.
+4- Un morceau de musique de 4 minutes 27 secondes est enregistré en stéréo sur
+un CD audio. Justifier par un calcul que la taille du fichier enregistré est de 47
+Mo.
+5- Le format MP3 est un format de compression audio avec perte d’informations.
+Si on admet que le taux de compression du format CD au format MP3 à 128 kbits/s
+est égal à 9%, calculer la taille du fichier MP3 à 128 kbits/s correspondant à
+l’enregistrement précédent. On rappelle que le taux de compression est défini
+comme le rapport de la taille du fichier compressé sur la taille du fichier initial.
+
+EXERCICE 2
+La datation au 14C pour préserver la biodiversité
+L’Union Européenne a interdit le commerce de l’ivoire depuis 1989, à l’exception de
+celui des antiquités acquises avant 1947. Selon un rapport remis à la Commission
+européenne en juillet 2018, l’ivoire vendu en Europe proviendrait pourtant
+essentiellement de défenses d’éléphants abattus récemment. Ce rapport s’appuie
+sur des résultats obtenus par datation au carbone 14C de l’ivoire saisi par les
+autorités. Les trafiquants contournent la loi en faisant passer l’ivoire récent pour de
+l’ivoire ancien.
+1- Expliquer le principe d’une datation utilisant un isotope radioactif.
+2- Parmi les propositions suivantes, indiquer sur votre copie celle qui correspond à la
+désintégration du carbone 14.
+a) 188𝑂 → 146𝐶 + 42𝐻𝑒
+b) 146𝐶 → 147𝑁 + −10𝑒
+c) 62𝐻𝑒 + 84𝐵𝑒 → 146𝐶
+2- Le document 1 indique que la demi-vie du carbone 14 est de 5730 ans. Expliquer
+le terme « demi-vie ».
+3- On considère un échantillon d’ivoire d’éléphant contenant à un instant donné
+16 milliards de noyaux de carbone 14. Calculer le nombre de noyaux de carbone 14
+restants au bout de :
+3-a- 5 730 ans.
+3-b- 11 460 ans.
+3-c- 17190 ans.
+
+Document 2. Courbe de décroissance du carbone 14 sur 40 000 ans
+
+Proportion du nombre d’atomes de carbone 14 restants
+par rapport au nombre d’atomes de carbone 14 au départ
+
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+t (ans)
+
+5- Estimer le nombre de noyaux de carbone 14 restants après 25 000 ans.
+
+On s’intéresse désormais à la datation au carbone 14 d’échantillons d’ivoire plus
+récents. Sur une période de 100 ans, on peut approcher la portion de courbe du
+document 2 par un segment de droite représenté dans le document 3.
+Document 3. Décroissance radioactive du carbone 14 sur 100 ans
+Proportion du nombre d’atomes de carbone 14 restants par
+rapport au nombre d’atomes de carbone 14 au départ
+0,999
+0,998
+0,997
+0,996
+0,995
+0,994
+0,993
+0,992
+0,991
+0,99
+
+t (ans)
+
+0,989
+0,988
+
+6- En 2019, l’analyse d’un échantillon d’ivoire d’éléphant a permis d’estimer à 0,994
+la proportion d’atomes de carbone 14 restants par rapport au nombre initial d’atomes
+de carbone 14.
+6-a- En utilisant le document 3, dater la mort de l’éléphant.
+6-b- Cet ivoire provient-il d’un éléphant abattu illégalement ? Justifier la réponse.

@@ -1,0 +1,282 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1513472, "at": "2026-11-23T09:28:31+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « La Terre, un astre singulier »
+
+« Vers l’horizon et au-delà ! »
+Un adulte et un enfant regardent la mer depuis la plage. L’enfant s'interroge :
+« Comment sait-on que la Terre est ronde, alors que l'horizon semble plat ? »
+Document 1a – Observations dans l’Antiquité
+« Quand un navire quitte la terre, sa coque est cachée en premier tandis que son
+mat est encore visible. »
+Source : Cléomède,« Théorie des mouvements circulaires des corps célestes »,
+Ier siècle av. J.-C.
+
+Document 1b – Photographies d’un navire quittant la côte
+
+Navire loin
+de la côte
+
+Navire proche
+de la côte
+
+1- Expliquer en quoi les observations décrites dans les documents 1a et 1b
+permettent de justifier que la Terre n’est pas plate. On pourra s’aider d’un ou de
+plusieurs schémas.
+2- Donner, à l'aide de vos connaissances, une autre observation faite dans
+l’Antiquité confirmant l’idée d’une Terre ronde.
+Après quelques explications, l’adulte montre à l’enfant le bateau qu’il voit à l’horizon,
+mais l’enfant ne le voit pas ! On cherche maintenant à expliquer pourquoi.
+Document 2 – Détermination de la distance 𝒅 à l'horizon pour l’adulte
+Rayon de la Terre :
+𝑅 = 6 371 𝑘𝑚 = 6,371 × 106 𝑚
+Hauteur des yeux de l’adulte par
+rapport au niveau de la mer :
+ℎ = 1,75 𝑚
+Distance à l’horizon où se situe le bateau : 𝑑
+Figure 1 – Schéma explicatif
+
+Document 3 – Distance 𝒅 à l’horizon en fonction de la hauteur 𝒉 des yeux
+d’un observateur au niveau de la mer
+5500
+5000
+
+distance d (m)
+
+4500
+4000
+3500
+3000
+2500
+2000
+0,5
+
+0,7
+
+0,9
+
+1,1
+
+1,3
+
+1,5
+
+1,7
+
+1,9
+
+2,1
+
+hauteur h (m)
+
+3- En utilisant le document 2 et le théorème de Pythagore, exprimer la distance 𝑑
+en fonction de 𝑅 et de ℎ.
+Pour la suite de l’exercice, on admettra que, comme 𝑅 est très grand devant ℎ, on
+peut simplifier l'expression précédente :
+𝑑 ≈ √2 × 𝑅 × ℎ.
+4- Calculer 𝑑 et préciser si la valeur obtenue est compatible avec le document 3.
+5- Justifier pourquoi l’enfant ne peut pas voir le bateau. (On estimera la hauteur ℎ
+de ses yeux à 1,10 m).
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Utilisation de l’iode en médecine
+La scintigraphie thyroïdienne est un examen d'imagerie médicale, qui permet de
+réaliser des clichés de la glande thyroïde. Cette technique s’appuie sur les propriétés
+radioactives de l’iode 123.
+On cherche à comprendre comment la scintigraphie thyroïdienne peut aider au
+diagnostic de certaines anomalies de la thyroïde.
+Partie 1 – L’iode 123, noyau radioactif
+Document 1 – Courbe de désintégration radioactive de l’iode 123
+
+Proportion de noyaux restant (en %)
+
+Temps (en heures)
+
+1- À l’aide du document 1, déterminer la valeur de la demi-vie de l’iode 123.
+Expliquer succinctement la méthode utilisée.
+2- Indiquer la proportion de noyaux restant au bout de 48 h.
+
+Partie 2 – Anomalie de la thyroïde
+Document 2 – Description de la thyroïde
+La thyroïde est une petite glande
+d’environ 5 cm de diamètre, en
+forme de papillon, située sous la
+peau du cou et au-dessous de la
+pomme d’Adam. Cet organe
+fabrique des hormones
+indispensables au bon
+fonctionnement de l’organisme.
+Pour fabriquer les hormones
+thyroïdiennes, la thyroïde intègre
+dans ses cellules l’iode contenu
+dans l’eau et les aliments.
+Source : d’après https://www.msdmanuals.com
+
+Document 3 – Principe et résultats de scintigraphie de la thyroïde de deux
+patients
+Pour réaliser une scintigraphie,
+le médecin injecte au patient
+une solution d’iode 123 qui se
+fixe principalement sur les
+cellules de la thyroïde. Les
+rayonnements gamma émis
+par l’iode radioactif sont
+enregistrés par une caméra
+spécifique : sur l’image, les
+cellules apparaissent alors
+grisées. Ainsi, chez un patient
+sain (qui ne présente aucune
+anomalie), on pourra visualiser
+la totalité de la glande alors que chez un patient atteint d’une pathologie, on pourra
+visualiser des régions de la thyroïde qui captent moins le traceur (hypofixations
+appelées nodules froids) ou qui captent plus le traceur (hyperfixations appelées
+nodules chauds).
+Sources : d’après https://www.ch-mt-marsan.fr et https://www.bordeauxnordscintigraphie.fr/
+
+3- Le médecin indique que le patient 1 présente une thyroïde normale. Donner des
+arguments, issus des documents 2 et 3, sur lesquels il a pu s’appuyer pour poser
+ce diagnostic.
+4- Le patient 2 présente une anomalie de la thyroïde. Parmi les quatre propositions
+ci-dessous, recopier celle qui est juste.
+Cette anomalie correspond à ...
+a- un nodule froid localisé sur la partie antérieure gauche de la thyroïde ;
+b- un nodule froid localisé sur la partie antérieure droite de la thyroïde ;
+c- un nodule chaud localisé sur la partie antérieure gauche de la thyroïde ;
+d- un nodule chaud localisé sur la partie antérieure droite de la thyroïde.
+5- La scintigraphie thyroïdienne est un examen, non douloureux, pour lequel le
+patient doit rester quelques heures à l’hôpital. À l’issue de l’examen, aucune
+précaution particulière n'est recommandée pour l'entourage. Cependant le
+médecin peut fournir un certificat médical, indiquant l'élément radioactif qui lui a
+été administré, afin qu’il justifie auprès des autorités le déclenchement des
+détecteurs de radioactivité très sensibles présents dans certains lieux (aéroports,
+certains postes frontières, ...). Justifier cette précaution.
+
+Exercice 3 – Niveau première
+Thème « Son, musique et audition »
+
+Ariane décolle, attention à vos oreilles !
+Le 25 décembre 2021, le lanceur Ariane 5 a réussi
+un décollage parfait depuis son pas de tir à Kourou
+en Guyane Française pour lancer dans l’espace le
+télescope James Webb.
+Lors du décollage, une partie de l’énergie s’est
+dissipée autour du lanceur, se propageant dans l’air
+sous forme d’ondes sonores. La puissance de ces
+ondes sonores est estimée à 300 MW soit
+3,00.108 W. D’une durée de 1 à 2 minutes, ces
+vibrations de fréquences comprises entre 20 Hz et
+2000 Hz sont audibles jusqu’à une centaine de
+kilomètres autour du pas de tir.
+Pour assister au lancement, les spectateurs peuvent
+se rendre au site d’observation Toucan situé à
+7,0 km du pas de tir.
+
+Figure 1 – Ariane 5 sur son
+pas de tir
+Source : Wikipedia
+
+L’objectif de cet exercice est d’évaluer le risque encouru par les spectateurs et les
+éventuelles conséquences sur leur audition.
+Document 1 – intensité sonore
+Calcul de l’intensité sonore reçue :
+Lorsqu’une source sonore de puissance 𝑃 émet une onde sonore, l’intensité
+sonore perçue à une distance 𝑑 de la source est égale à :
+𝐼=
+
+𝑃
+4𝜋𝑑 2
+
+avec 𝑃 la puissance en W et 𝑑 la distance en m.
+
+Document 2 – Durée limite d’exposition journalière sans protection avant
+dommages
+
+De 120 dB à 140 dB : quelques secondes
+
+107 dB : 1 min/jour
+
+100 dB : 4 min/jour
+
+95 dB : 15 min/jour
+
+92 dB : 30 min/jour
+
+86 dB : 2 h/jour
+
+80 dB : 8 h/jour
+Source : d’après l’Organisation Mondiale de la Santé
+
+Document 3 – Atténuation selon le type de bouchons d’oreilles
+Les bouchons d’oreilles permettent de réduire le niveau d’intensité sonore perçu
+par l’utilisateur. La valeur de l’atténuation en décibels dépend du type de bouchon
+et de la fréquence du son.
+
+Atténuation dBA
+
+Fréquence (Hz)
+
+Source : auteur
+
+1- Montrer que l’intensité sonore reçue par un spectateur présent au site
+d’observation Toucan est proche de 5,0.10-1 W.m-2.
+2- Sachant que le niveau sonore est estimé à 118 dB, les bouchons en mousse
+distribués à l’entrée du site d’observation Toucan pour les spectateurs sont-ils
+suffisants pour protéger leurs oreilles ? Justifier.
+
+Document 4 – Photographies au microscope électronique de la cochlée d’un
+rat avant et après un traumatisme sonore d’intensité croissante
+Photographie 1 :
+
+Photographie 2 :
+
+Cochlée de rat normale
+
+traumatisme sonore de niveau 1
+
+ Cellules ciliées internes
+ Cellules ciliées externes
+Photographie 3 :
+
+Photographie 4 :
+
+traumatisme sonore de niveau 2
+
+traumatisme sonore de niveau 3
+
+Source : https://www.cochlea.eu/pathologie/surdites-neuro-sensorielles/traumatismeacoustique
+
+3- À l’aide de vos connaissances, expliquer comment les vibrations sonores
+perçues dans l’oreille interne sont à l’origine de messages nerveux auditifs
+transmis vers le cerveau.
+La cochlée d’un humain présente la même structure cellulaire que celle du rat.
+4- Déterminer les conséquences d’un traumatisme sonore sur l’audition en utilisant
+vos connaissances et en comparant les photographies électroniques de la
+cochlée de rats présentées dans le document 4.

@@ -1,0 +1,458 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1340468, "at": "2026-11-23T09:39:55+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est, en écriture décimale, la somme d'entiers dont l'écriture en base 16 (hexadécimale) est 2A + 2 ?
+Question A 2
+On considère l'extrait de code suivant :
+while (a < 20) or (b > 50):
+......
+......
+Quelles conditions permettent de mettre fin à cette boucle ?
+la boucle prend fin lorsque a < 20 ou b > 50
+la boucle prend fin lorsque a < 20 et b > 50
+la boucle prend fin lorsque a >= 20 ou b <= 50
+la boucle prend fin lorsque a >= 20 et b <= 50
+Question A 3
+Quelle est la séquence de bit qui représente –25 en complément à 2 sur 8 bits ?
+0001 1001
+0001 1010
+1110 0110
+1110 0111
+Question A 4
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+Question A 5
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+Question A 6
+Quelle est l'écriture en hexadécimal (base 16) du nombre entier positif qui s'écrit 1110 1101 en base 2 ?
+DE
+ED
+EDF
+FEFD
+
+Thème B : types construits
+Question B 1
+L = [12,0,8,7,3,1,5,3,8]
+a = [elt for elt in L if elt<4]
+Quelle est la valeur de a à la fin de son exécution ?
+[12,0,8]
+[12,0,8,7]
+[0,3,1,3]
+[0,3,1]
+Question B 2
+On définit une grille G remplie de 0, sous la forme d'une liste de listes, où toutes les sous-listes ont le même
+nombre d'éléments.
+G =
+
+[ [0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+……
+[0, 0, 0, …, 0] ]
+
+On appelle hauteur de la grille le nombre de sous-listes contenues dans G et largeur de la grille le nombre
+d'éléments dans chacune de ces sous-listes. Comment peut-on les obtenir ?
+hauteur = len(G[0])
+largeur = len(G)
+
+hauteur = len(G)
+largeur = len(G[0])
+
+hauteur = len(G[0])
+largeur = len(G[1])
+
+hauteur = len(G[1])
+largeur = len(G[0])
+
+Question B 3
+On définit : L = [10,9,8,7,6,5,4,3,2,1].
+Quelle est la valeur de L[L[3]] ?
+
+Question B 4
+On dispose d’une table patients de personnes décrits par 4 colonnes « Nom », « Prénom », « Age », « Numéro
+de sécurité sociale » et d’une table affections contenant « Nom », « Prénom », « Numéro de sécurité
+sociale », « Maladie », « Date d’entrée à l’hôpital ».
+On souhaite fusionner ces deux tables pour faciliter la gestion des patients et leur distribution entre les services
+pédiatriques, gérontologiques et autres. Quelle donnée doit-on utiliser pour unifier ces tables :
+Le nom du patient
+Le prénom du patient
+Le numéro de sécurité sociale du patient
+La maladie du patient
+Question B 5
+Quelle est la valeur de l'expression [[0] * 3 for i in range(2)] ?
+[[0,0], [0,0], [0,0]]
+[[0,0,0], [0,0,0]]
+[[0.000], [0.000]]
+[[0.00], [0.00], [0.00]]
+Question B 6
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036
+
+}
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+
+Thème C : traitement de données en tables
+Question C 1
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 2
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 3
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 5
+Quelle est la valeur de la variable t1 à la fin de l'exécution du script suivant :
+t1 = [['Valenciennes', 24],['Lille', 23],['Laon', 31],['Arras', 18]]
+t2 = [['Lille', 62],['Arras', 53],['Valenciennes', 67],['Laon', 48]]
+for i in range(len(t1)):
+for v in t2:
+
+if v[0] == t1[i][0]:
+t1[i].append(v[1])
+[['Valenciennes', 67], ['Lille', 62], ['Laon', 48], ['Arras', 53]]
+[['Valenciennes', 24, 67], ['Lille', 23, 62], ['Laon', 31, 48], ['Arras', 18, 53]]
+[['Arras', 18, 53],['Laon', 31, 48], ['Lille', 23, 62], ['Valenciennes', 24, 67]]
+[['Valenciennes', 67, 24], ['Lille', 62,23], ['Laon', 48, 31], ['Arras', 53, 18]]
+Question C 6
+asso = []
+L = [ ['marc','marie'], ['marie','jean'], ['paul','marie'], ['marie','marie'],
+['marc','anne']
+]
+for c in L :
+if c[1]==’marie’:
+asso.append(c[0])
+Que vaut asso à la fin de l'exécution ?
+['marc', 'jean', 'paul']
+[['marc','marie'], ['paul','marie'], ['marie','marie']]
+['marc', 'paul', 'marie']
+['marie', 'anne']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D 2
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 3
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D 4
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 5
+
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 6
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+<html>
+<div>
+<form>
+
+</body>
+</html>
+</div>
+</form>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle est la seule affirmation exacte ?
+la mémoire RAM ne fonctionne qu'en mode lecture
+la mémoire RAM permet de stocker des données et des programmes
+une mémoire morte ne peut pas être utilisée
+la mémoire RAM permet de stocker définitivement des données
+Question E 2
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens
+existants. Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+Question E 3
+Sous Unix, que fait la commande suivante :
+ls –a /home/pi >> toto.txt
+elle liste uniquement les répertoires cachés du répertoire /home/pi
+elle liste tous les fichiers du répertoire /home/pi et enregistre le résultat dans un fichier toto.txt
+elle liste tous les fichiers des répertoires de /home/pi et de toto.txt
+elle liste tous les fichiers du répertoire courant et enregistre le résultat dans un fichier
+/home/pi/toto.txt
+Question E 4
+
+Dans un réseau informatique, que peut-on dire de la transmission de données par paquets ?
+cela empêche l’interception des données transmises
+cela garantit que toutes les données empruntent le même chemin
+cela assure une utilisation efficace des liens de connexion
+cela nécessite la réservation d’un chemin entre l’émetteur et le récepteur
+Question E 5
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 6
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+
+Thème F : langages et programmation
+Question F 1
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 2
+
+Soit 𝑛 un entier naturel. Sa factorielle est le produit des nombres entiers strictement positifs qui sont plus
+petits ou égaux à 𝑛. Par exemple la factorielle de 4 vaut 1 × 2 × 3 × 4 = 24.
+Quelle est la fonction correcte parmi les suivantes ?
+while i <= n:
+
+i = 1
+while i < n:
+
+while i < n:
+
+while i <= n:
+
+Question F 3
+On définit une fonction f de la façon suivante :
+def f(L, m):
+R = []
+for i in range(len(L)):
+if L[i] > m:
+R.append(L[i])
+return R
+On définit L = [1, 7, 3, 4, 8, 2, 0, 3, 5].
+Que vaut f(L, 4) ?
+
+[0, 7, 0, 0, 8, 0, 0, 0, 5]
+[0, 0, 0, 5]
+[7, 8, 5]
+[]
+Question F 4
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F 5
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 6
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+while n != 20:
+n = n + 2
+
+le programme ne termine pas, la boucle tourne indéfiniment
+
+Thème G : algorithmique
+Question G 1
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+Question G 2
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 3
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+Question G 4
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 5
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G 6
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante

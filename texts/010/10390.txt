@@ -1,0 +1,431 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1973229, "at": "2026-11-23T09:43:18+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+On considère l'extrait de code suivant :
+while (a < 20) or (b > 50):
+......
+......
+Quelles conditions permettent de mettre fin à cette boucle ?
+la boucle prend fin lorsque a < 20 ou b > 50
+la boucle prend fin lorsque a < 20 et b > 50
+la boucle prend fin lorsque a >= 20 ou b <= 50
+la boucle prend fin lorsque a >= 20 et b <= 50
+Question A.2
+En ajoutant trois chiffres 0 à droite de l'écriture binaire d'un entier 𝑁 strictement positif, on obtient l'écriture
+binaire de :
+6×𝑁
+8×𝑁
+1000 × 𝑁
+aucune des réponses précédentes
+Question A.3
+En hexadécimal (base 16), quelle est la valeur de la différence CBD - BAC ?
+AB
+TB
+FF
+Question A.4
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+
+Question A.5
+Parmi les caractères ci-dessous, lequel ne fait pas partie du code ASCII ?
+a
+@
+é
+Question A.6
+Quelle est la représentation décimale de l’entier négatif codé en complément à 2 sur un octet par
+1100 1011 ?
+–84
+–53
+–35
+–21
+
+Thème B : types construits
+Question B.1
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B.2
+Soit une liste définie de la manière suivante : liste = [18, 23, 45, 38, 12]
+On exécute l’instruction liste.append(45), la liste a alors pour valeur :
+[18, 23, 38, 12, 45]
+[18, 23, 38, 12]
+[45, 18, 23, 45, 38, 12]
+[18, 23, 45, 38, 12, 45]
+Question B.3
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B.4
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n
+{ n*n
+[ n*n
+[ n*n
+
+for n in range(1,7) }
+for n in range(6) }
+for n in range(1,7) ]
+for n in range(6) ]
+
+Question B.5
+Quelle affectation permet de donner à L la valeur [1,9,25,49,81] ?
+L = [i*2 for i in range(9) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 1]
+L = [i**2 for i in range(10) if i//2 == 1]
+
+Question B.6
+Quelle est la valeur de :
+[ x - y for x in range(4) for y in range(3) if x > y ]
+[1, 2, 1, 3, 2, 1]
+[1, 2, 3, 1, 2, 1]
+[1, 2, 3, 3, 2, 1]
+[1, 2, 1, 2, 3, 1]
+
+Thème C : traitement de données en tables
+Question C.1
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution affiche
+le numéro de Dupond ?
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol', 'tel':'5248'}, {'nom':'Dupond',
+'tel':'3452'}]
+for i in range(len(repertoire)):
+if ......
+:
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C.2
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i],table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+Question C.3
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol',
+'tel':'5248'},
+'tel':'3452'}]
+
+{'nom':'Dupond',
+
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+
+Question C.4
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C.5
+On a défini :
+mendeleiev = [ ['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C.6
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à un
+tableau de pixels ?
+pdf
+xls
+png
+exe
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D.2
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D.3
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D.4
+Un élève a écrit une fonction javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+
+Question D.5
+Une page Web contient un formulaire dont le code HTML est le suivant :
+<form action="/action_page.php" method="post">
+First name : <input type="text" name = "fname"><br>
+Last name : <input type="text" name = "lname"><br>
+<input type="submit" value="Submit">
+</form>
+Que peut-on dire des informations transmises dans ce formulaire ?
+elles seront enregistrées dans l’historique du navigateur
+elles seront enregistrées dans le cache du navigateur
+elles ne devront pas dépasser une limite en nombre de caractères transmis
+elles ne seront pas visibles dans la barre du navigateur
+Question D.6
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quel est l'élément qui ne fait pas partie de l'architecture du modèle de Von Neumann ?
+l'unité d'entrée
+l'unité arithmétique et logique
+la mémoire centrale
+l'unité d'affichage
+Question E.2
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E.3
+Un ordinateur possède les caractéristiques matérielles suivantes :
+— mémoire DDR SDRAM : 8 Go
+— antémémoire (mémoire cache) : 1 Mo
+— disque dur SSD : 1 To
+Parmi les classements ci-dessous lequel est celui de l’accès mémoire le plus rapide au moins rapide ?
+Antémémoire puis SDRAM puis SSD
+SSD puis Antémémoire puis SDRAM
+SSD puis SDRAM puis Antémémoire
+SDRAM puis SSD puis Antémémoire
+Question E.4
+En informatique, que signifie l'acronyme ROM ?
+Rewrite Only Memory
+Reset Only Memory
+Read Only Memory
+Recall Only Memory
+
+Question E.5
+Le shell Linux renvoie ce résultat à la commande ls -al :
+lrwxr--r-drwxr-xr-x
+-rw-r-xr-x
+-rwxr-xr-x
+
+807 juin 26 14:06 eclipse
+4096 juin 26 15:00 Doc_1
+4096 juin 26 14:06 QCM
+4096 juin 26 14:06 Doc_Travail
+
+Quel est le nom du fichier du répertoire courant, de taille 4096 octets, exécutable par son propriétaire ?
+eclipse
+Doc_1
+QCM
+Doc_Travail
+Question E.6
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+
+Thème F : langages et programmation
+Question F.1
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F.2
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+
+Question F.3
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F.4
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F.5
+Remplacer les pointillés par l'expression correcte pour que la fonction suivante renvoie le plus petit écart entre
+deux éléments d'une liste de 10 entiers :
+def plusPetitEcart(L):
+m = abs(L[1] - L[0])
+for i in range(0, 9):
+for j in ...... :
+ecart = abs(L[j] - L[i])
+if ecart < m:
+m = ecart
+return m
+range(0,10)
+range(0,i)
+range(i,10)
+range(i+1,10)
+
+Question F.6
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+
+Thème G : algorithmique
+Question G.1
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G.2
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G.3
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+Question G.4
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎𝑚 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+#
+p = p * a
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+𝑝 = 𝑎𝑛−1
+𝑝 = 𝑎𝑛
+𝑝 = 𝑎𝑛+1
+𝑝 = 𝑎𝑚
+
+Question G.5
+Quelle précondition suppose l'algorithme de recherche dichotomique dans un tableau ?
+que le tableau soit à éléments positifs
+que le tableau soit trié
+que l'élément cherché dans le tableau soit positif
+que l'élément cherché figure effectivement dans le tableau
+Question G.6
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s = 0
+i = 1
+while i < 5:
+s = s + i
+i = i + 1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)

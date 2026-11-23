@@ -1,0 +1,354 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1109820, "at": "2026-11-23T09:34:16+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement Scientifique
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTEME SOLAIRE
+Le système solaire est formé d’une étoile, le Soleil, autour de laquelle des planètes, des
+satellites, des astéroïdes sont en orbite. La distance entre ces objets et l’étoile a une influence
+sur leur température de surface mais il semble que cela ne soit pas le seul facteur entrant en
+jeu…
+Document de référence : Caractéristiques de quelques objets du système solaire :
+Planètes
+internes
+Caractéristiques
+Distance au Soleil
+(106 km)
+Puissance solaire
+reçue par unité de
+surface (Wm-2)
+Importance
+qualitative de l’effet
+de serre
+atmosphérique
+Albédo du système
+« planèteatmosphère »**
+
+Mercure
+
+Venus
+
+Terre
+
+Mars
+
+57,91
+
+108,21
+
+149,6
+
+227,94
+
+2290
+
+Pas d’effet de Effet de serre
+Effet de serre
+serre
+atmosphérique atmosphérique
+atmosphérique très marqué
+modéré
+
+Effet de serre
+atmosphérique
+faible
+
+0,07
+
+0,15
+
+0,7
+
+La Lune :
+Phobos :
+Satellites
+Aucun
+Aucun
+Pas d’atmosphère Pas d’atmosphère
+Albédo : 0,07
+Albédo : 0,07
+** L’albédo mesure le pouvoir réfléchissant d’une surface. C’est la proportion d’énergie
+lumineuse réfléchie. Sa valeur est comprise entre 0 et 1. Plus une surface est réfléchissante,
+plus son albédo est élevé. Par exemple, l'albédo de la neige fraîche est de 0,87, ce qui signifie
+que 87 % de l’énergie lumineuse est réfléchie par ce type de neige.
+L'albédo d’un système Planète-atmosphère est la proportion de l'énergie solaire qui est
+réfléchie par la planète et son atmosphère vers l'espace. Les éléments qui contribuent le plus à
+l'albédo du système Terre-atmosphère sont les nuages, les surfaces de neige et de glace et
+les aérosols.
+D’après : Géosciences La dynamique du système Terre de Christian Robert et Romain Bousquet,
+https://www.actu-environnement.com et https://www.futura-sciences.com
+
+Partie 1 : Des données expérimentales à un modèle mathématique possible.
+Document 1 : Montage expérimental permettant de mesurer la puissance lumineuse reçue par
+un récepteur en fonction de la distance à la source lumineuse.
+On dispose d’une lampe et d’un
+capteur, le luxmètre*, permettant de
+mesurer l’éclairement lumineux reçu.
+L’expérimentateur réalise une série de
+mesures en éloignant progressivement
+le luxmètre de la lampe. On présente
+ces mesures dans le tableau cidessous.
+Tableau des mesures réalisées :
+Distance par rapport à
+0,2
+la lampe (en mètres)
+
+0,4
+
+0,5
+
+0,7
+
+0,8
+
+0,9
+
+Éclairement lumineux
+reçu (en lux**)
+
+5 300
+
+3 100
+
+1 800
+
+10 800
+
+D’après : https://www.pierron.fr/news/fiches-tp-svt-2nd.html
+
+* Luxmètre : Appareil de mesure de l'éclairement lumineux comportant une cellule
+photosensible.
+** Lux : unité de mesure de l'éclairement lumineux (puissance lumineuse reçue par
+unité de surface).
+1- Le graphique de l’annexe 1 (à rendre avec la copie) permet de représenter les
+variations de l’éclairement lumineux reçu par le capteur en fonction de la distance à la
+source d’énergie, Reporter sur ce graphique les points expérimentaux obtenus dans le
+document 1.
+2- À partir de l’allure du nuage de points obtenu à la question 1, un tableur permet de
+proposer une modélisation mathématique par une fonction. Cette fonction, notée 𝑓,
+est définie par :
+𝑓(𝑑) =
+
+𝑑2
+
+où 𝑑 représente la distance à la lampe (en mètre) et 𝑓(𝑑) l’éclairement lumineux reçu
+(en lux).
+2-a- En utilisant cette modélisation mathématique, compléter le tableau de valeurs
+donné en annexe 2 à rendre avec la copie. On arrondira les résultats à l’unité.
+
+2-b- Représenter la fonction 𝑓 dans le repère donné en annexe 1.
+2-c- Cette modélisation mathématique semble-t-elle pertinente pour caractériser la relation
+entre l’éclairement lumineux reçu par le capteur et la distance à la source lumineuse ?
+Justifier.
+3- On admet que la loi illustrée expérimentalement dans le document 1 est générale : « La
+puissance lumineuse par unité de surface reçue par un objet est inversement proportionnelle
+au carré de la distance qui le sépare de la source lumineuse ».
+En s’appuyant sur le document de référence, choisir, parmi les affirmations suivantes, celle
+qui est correcte au regard de ce modèle. L’écrire sur la copie et justifier la réponse donnée.
+La puissance lumineuse par unité de surface, provenant du Soleil et reçue sur Venus est
+environ :
+a) deux fois plus grand que celui reçu sur Mercure.
+b) quatre fois plus grand que celui reçu sur Terre.
+c) deux fois plus petit que celui reçu sur Terre.
+d) quatre fois plus petit que celui reçu sur Mercure.
+Partie 2 : Confrontation du modèle mathématique à la réalité.
+Dans cette partie, on admet que la puissance reçue par unité de surface par les objets du
+système solaire est inversement proportionnelle au carré de leur distance au soleil, d’une
+façon analogue à l’étude menée en partie 1. Moyennant certaines hypothèses, on peut en
+déduire une « loi de variation de la température moyenne des planètes en fonction de leur
+distance au soleil » (voir le document 2).
+
+Document 2 : Températures de surface de quelques objets proches du Soleil.
+Le graphique ci-dessous précise :
+ Les températures moyennes effectivement mesurées à la surface de différentes
+planètes en fonction de leur distance au soleil (points gris).
+ L’évolution de la température moyenne d’un objet en fonction de la distance au soleil
+modélisée par la « loi de variation de la température moyenne des planètes en
+fonction de leur distance au soleil » (courbe continue).
+
+ua : Unité astronomique
+(1 ua  150 x 106 km)
+
+D’après : Collection in vivo, SVT 2de 2004, Magnard
+4- Quels sont les objets considérés dans le document 2 pour lesquels la loi modélisant
+l’évolution de la température des planètes en fonction de leur distance au Soleil est bien
+vérifiée ? Quelles propriétés ces objets ont-ils en commun ?
+5- A partir de vos connaissances, expliquer qualitativement l’influence de l’albedo et de l’effet
+de serre sur la température terrestre moyenne.
+6- Proposer une explication du fait que la température de Vénus est « anormalement »
+élevée par rapport aux autres objets considérés.
+
+EXERCICE 2
+PERTE AUDITIVE APRÈS UN CONCERT
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les semaines
+qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre les
+questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité
+sonore minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les
+fréquences sonores testées sont comprises entre 500 et 8 000 Hz.
+
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+-10
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour
+chaque oreille, on calcule la différence entre l’intensité du son audible par le
+patient et la norme auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la
+moyenne de ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive
+moyenne (sur les deux oreilles) :
+def Perte auditive moyenne
+(Pmd,Pmg) :
+if -15 <= Pmg-Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 *
+Pmg
+else :
+if Pmg – Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20
+
+Vous n'éprouvez aucune difficulté particulière, en
+milieu calme ou bruyant.
+
+Perte légère
+
+de 20 à 40
+
+Vous avez des difficultés à percevoir les voix faibles
+ou lointaines et les conversations, surtout lorsque
+vous êtes en milieu bruyant.
+
+de 40 à 70
+
+La perception des paroles devient difficile, il faut que
+celles-ci soient fortes pour que vous puissiez les
+comprendre aisément. Vous avez tendance à
+augmenter le volume de la télévision, radio, mp3...
+Suivre une conversation en groupe devient très
+compliqué et fatiguant.
+
+de 70 à 90
+
+Vous n'entendez pas les paroles, à moins que cellesci soient fortes ou proche de vous. Il est très difficile
+pour vous de suivre une conversation, voire
+impossible si vous n'êtes pas équipé d'aides
+auditives. Certains sons forts restent audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel
+que soit l'environnement d'écoute. Vous n'arrivez pas
+à communiquer, suivre une conversation est
+impossible sans appareil auditif, certains sons
+extrêmement forts restent toutefois audibles.
+
+Surdité totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+moyenne
+
+Perte sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perted-audition.html
+
+ANNEXE A RENDRE AVEC LA COPIE
+Exercice : Températures de surface de quelques objets du système solaire
+Partie 1 – questions 1- et 2-b
+
+Partie 1 – question 2-a𝑑
+
+0,2
+
+0,4
+
+0,5
+
+0,6
+
+0,8
+
+10 800
+
+4 700
+
+1 728
+
+(en m)
+𝑓(𝑑)
+(en lux)

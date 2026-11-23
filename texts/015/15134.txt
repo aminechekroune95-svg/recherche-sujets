@@ -1,0 +1,319 @@
+{"pages": 14, "method": "pdftotext", "bytes": 2016160, "at": "2026-11-23T09:30:51+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Exposition au bruit
+Le bruit fait partie de la vie. D’ailleurs, l’absence totale de bruit est unanimement
+reconnue comme très difficilement supportable pour l’homme. Pourtant, certaines
+situations d’exposition au bruit, dans la vie de tous les jours ou au travail, peuvent
+être néfastes pour la santé. Aujourd’hui, en France, plus de trois millions de salariés
+sont exposés sur leur lieu de travail, de manière prolongée, à des niveaux de bruit
+potentiellement nocifs. En outre, le bruit est reconnu comme cause de maladies
+professionnelles depuis 1963.
+L’exposition au bruit sur le lieu de travail est susceptible d’affecter la santé des
+travailleurs. La perte auditive (surdité) en est l’effet le plus connu, mais le risque
+accru d’accidents et l’exacerbation du stress comptent aussi parmi les conséquences
+possibles du bruit au travail.
+Ministère du travail – « Bruit en milieu de travail »
+
+Dans cet exercice, nous allons nous intéresser à l’exposition au bruit. Dans un
+premier temps, nous discuterons comme comprendre l’outil de diagnostic utilisé par
+les médecins pour évaluer les pertes d’audition, puis nous verrons comment nous en
+préserver en fonction des situations.
+Partie 1 – Diagnostic d’une perte d’audition
+Pour diagnostiquer la santé auditive d’un patient, un médecin peut réaliser un test
+d’audiométrie tonale. Ce test consiste à faire écouter au patient des sons de
+fréquence bien déterminée à des niveaux d’intensité croissants. Lorsque le patient
+entend le son, il le signifie. Le niveau d’intensité sonore le plus faible que perçoit un
+patient pour une fréquence 𝑓 est son seuil d’audition. Nous le noterons 𝐿seuil (𝑓).
+En comparant le seuil d’audition du patient au seuil d’audition de référence (noté
+𝐿ref (𝑓)) établi pour des personnes ayant une santé dans la norme, on définit la perte
+auditive 𝑃(𝑓) du patient :
+𝑃(𝑓) = 𝐿seuil (𝑓) − 𝐿ref (𝑓)
+Une valeur positive de la perte auditive correspond à un patient entendant moins
+bien que la normale. A l’inverse, une valeur négative de 𝑃(𝑓) indique que le patient
+entend mieux que la normale.
+
+En mesurant la perte auditive du patient pour différentes fréquences du domaine
+audible (20 Hz − 20 kHz), on obtient un audiogramme tel que ceux représentés sur le
+document 1.
+Sur ce diagramme, on porte :
+
+La fréquence en abscisse ;
+
+La perte auditive en ordonnée suivant un axe inversé (la perte augmente
+lorsque l’on descend).
+
+1- Préciser les unités des grandeurs sur chacun de ces axes.
+2- Justifier que l’audiogramme ne couvre pas tout le domaine des fréquences
+audibles.
+
+Document 1 – Audiogramme d’un patient (pour chaque oreille)
+
+Le patient se plaint de demander de plus en plus souvent à ses interlocuteurs de
+répéter leurs propos.
+On se donne quelques repères :
+
+La gamme de fréquence d’une voix plutôt grave va de 80 Hz à 400 Hz et celle
+d’une voix plutôt aigüe va de 300 Hz à 1500 Hz.
+
+Une conversation normale entre adultes se situe à un niveau sonore de l’ordre
+de 60 dB.
+
+Une conversation chuchotée se situe à un niveau sonore de l’ordre de 40 dB.
+
+Une conversation dans un environnement bruyant se situe à un niveau sonore
+de l’ordre de 80 dB.
+
+3- Rédiger un court texte argumenté expliquant pourquoi le patient rencontre des
+difficultés à comprendre une conversation normale.
+Pour mieux caractériser la gêne que peut représenter la perte auditive de ce patient,
+nous allons considérer le cas de la perception de l’arrivée d’une moto dans la rue.
+Lorsqu’une moto en marche se situe à une distance d’un mètre derrière le patient
+(distance 𝑑0 = 1 m), elle émet un bruit dont le niveau d’intensité sonore au niveau
+des oreilles du patient est 𝐿0 = 90 dB.
+Lorsque la moto en marche se situe à une distance 𝑑 derrière le patient, le bruit
+qu’elle émet atteint les oreilles du patient avec un niveau d’intensité sonore 𝐿(𝑑) dont
+la valeur est donnée par la formule :
+𝐿0 −𝐿
+
+𝑑 = 𝑑0 × 10 20
+
+Par ailleurs, une moto émet des sons dans une gamme de fréquence autour de
+4 kHz.
+Enfin, on considère que dans un environnement urbain calme, une personne sans
+perte auditive commence à percevoir la moto lorsque l’intensité sonore 𝐿 atteint
+50 dB, ce qui correspond à une distance de 100 m d’après la formule ci-dessus.
+4- Déterminer la distance à partir de laquelle le patient commence à percevoir la
+présence de la moto.
+5- Commenter cette valeur et en déduire un exemple de l’impact de cette perte
+auditive sur sa vie quotidienne.
+Partie 2 – Se protéger du bruit
+Pour se prémunir des problèmes de santé induit par le bruit, il est important d’utiliser
+des dispositifs de protection. Toutefois, ceux-ci doivent être adaptés au contexte.
+Par exemple, dans un environnement de travail bruyant, il faut pouvoir se prémunir
+des bruits les plus agressifs pour l’oreille (situés principalement dans une bande de
+fréquence autour de 4 000 Hz) tout en restant disponible pour des échanges
+conversationnels (bande de fréquence de 80 Hz à 1 500 Hz).
+
+En revanche, pour bien dormir dans un environnement nocturne bruyant, il est
+préférable de réduire l’ensemble des bruits.
+Le graphique du document 2 présente la réduction de bruit en fonction de la
+fréquence pour trois bouchons d’oreille en mousse réalisés dans des matériaux
+différents.
+6- Rédiger un court paragraphe argumenté expliquant quel type de bouchons
+d’oreille (A, B ou C) est le plus adapté pour se prémunir du bruit dans chacun
+des deux contextes précédents :
+
+Un environnement de travail bruyant.
+
+Une nuit de sommeil dans un environnement nocturne bruyant.
+
+Document 2 – Réduction du bruit par trois types de bouchons d’oreille
+
+Source : D’après l’article « Les meilleurs bouchons d’oreilles pour mieux dormir » paru sur
+le site lemonde.fr
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+De l’or pour lutter contre les bactéries
+Les antibiotiques sont des substances chimiques capables de tuer les bactéries ou
+d’empêcher leur reproduction.
+La surutilisation des antibiotiques depuis la maîtrise de leur extraction et de leur
+synthèse a conduit à l'apparition de souches bactériennes résistantes aux
+antibiotiques connus. La lutte contre la résistance aux antibiotiques est devenue un
+enjeu majeur de santé publique ces dernières années. Dans ce contexte, les nanoantibiotiques, composés de nanoparticules d'or à la surface desquelles sont greffés
+des antibiotiques, présentent souvent des propriétés exceptionnelles, allant même
+jusqu'à contourner les mécanismes de résistance bactérienne.
+
+Illustration d'un nano-antibiotique
+
+Source : d’après https://theses.hal.science
+
+Dans cet exercice, on cherche à étudier la structure des nanoparticules d’or et leur
+utilisation dans la lutte contre les bactéries.
+On rappelle que l'or est l'élément chimique de symbole Au. C’est un métal précieux
+de couleur jaune et présentant un fort éclat.
+
+Document 1 : Un nano-objet constitué d’or
+
+Image au microscope électronique du nano-objet
+Source : d’après https://rtflash.fr
+
+Une nanoparticule est un nano-objet dont la dimension caractéristique est inférieure
+à 100 nm.
+Source : d’après https://biologiedelapeau.fr
+
+Graphique  donnant le nombre d’atomes d’or Nor dans une nanoparticule
+en fonction de son rayon r en nm : Nor = f (r)
+
+Source : d’après synthese-de-nanoparticule-dor-et-leur-caracterisation-par-granulometrielaser.pdf (univ-tlemcen.dz)
+
+Document 2 : Organisation microscopique d’une nanoparticule d’or
+À l’état microscopique, les nanoparticules d’or sont organisées selon un réseau dont
+les mailles élémentaires sont dites « cubiques faces centrées ». Une maille
+élémentaire de ce type est représentée ci-dessous de deux manières en perspective
+cavalière.
+
+Outil pour dénombrer les entités dans une maille :
+
+Source : d’après https://www.lelivrescolaire.fr/page/5737687
+
+Données :
+
+Masse d’un atome d’or : 3,27×10-25 kg
+
+1 g = 10-3 kg
+
+1 cm = 10-2 m
+
+1 nm = 10-9 m
+
+1 pm = 10-12 m
+
+Volume d’un cube d’arête a : V = a3
+
+Document 3 : Action de nanoparticules Ampicilline-Or sur quelques souches
+bactériennes
+L’ampicilline est un antibiotique qui peut être greffé sur des nanoparticules d’or.
+Efficacité de l’ampicilline sur différentes souches bactériennes
+Souche bactérienne
+
+CMI Ampicilline (μg·mL-1)
+
+CMI Ampicilline greffée sur
+nanoparticule d’or (μg·mL-1)
+
+Escherichia coli (souche 1)
+Escherichia coli (souche 2)
+Staphylococcus aureus
+Bacillus subtilis
+Flavobacterium devorans
+
+15,6
+62,5
+7,8
+7,8
+
+CMI : Concentration Minimale Inhibitrice c’est-à-dire la plus petite concentration en
+antibiotique nécessaire pour bloquer la croissance d’une souche bactérienne.
+Source : d’après Nanotechnology, Volume 31, Issue 21
+
+1- Vérifier que le nano-objet photographié au document 1, sur lequel les atomes
+sont clairement visibles, est bien une nanoparticule et que celle-ci relève de l’état
+cristallin.
+2- Justifier l’appellation « cubique faces centrées » de la maille élémentaire
+représentée au document 2.
+3- Montrer que cette maille élémentaire contient 4 atomes d’or et calculer leur
+masse totale.
+4- Calculer le volume de cette maille élémentaire.
+5- Déduire des questions 3- et 4- que la masse volumique d’une maille élémentaire
+de nanoparticule d’or est égale à celle de l’or métallique à savoir 19,3 g·cm -3.
+6- Une nanoparticule d’or, sur laquelle des antibiotiques peuvent être greffés, a un
+rayon moyen de 40 nm. À l’aide du document 1, préciser dans ce cas le nombre
+d’atomes d’or qui constituent la nanoparticule.
+
+7- Louis Pasteur, pionnier de la microbiologie, a affirmé : « Dans la nature, le rôle
+de l’infiniment petit est infiniment grand ». Commenter cette affirmation en
+analysant le cas des nanoparticules d’or greffées d’ampicilline, illustré par les
+documents de l’exercice.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- D’après vos connaissances, expliquer en quoi choisir un régime alimentaire
+constitué uniquement de céréales va causer à plus ou moins long terme des
+problèmes de santé.
+2- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+3- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé en milieu urbain au Nord de l’Europe loin des côtes à l’époque
+industrielle.
+Exploiter le document 2, à l’aide de vos connaissances, pour expliquer que la
+maladie, à l’époque industrielle, ait été plus fréquente en milieu urbain, dans les
+régions du Nord de l’Europe, éloignées des bords marins et océaniques.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers (yaourts, fromage blanc,
+fromage, lait) qui contribuent respectivement à 19 % et 25 % des apports chez les
+adultes et à 12 % et 40 % des apports en vitamine D chez les enfants de 11 à
+17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+4- À l’aide de vos connaissances, expliquer l’origine des variations de la puissance
+solaire reçue au sol, observées dans le document 3.
+5- Expliquer la recommandation générale des campagnes de prévention des
+cancers de la peau : « éviter l’exposition au soleil entre 12 h et 16 h ».
+6- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.

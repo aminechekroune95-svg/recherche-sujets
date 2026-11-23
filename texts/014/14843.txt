@@ -1,0 +1,462 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1159859, "at": "2026-11-23T09:41:23+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On exécute le code suivant :
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+Question A 2
+Quelle est la représentation binaire de l'entier 152 ?
+0001 1001
+0011 1010
+0100 0100
+1001 1000
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+Quelle est l'écriture décimale de l'entier positif dont l'écriture hexadécimale (en base 16) est 3F ?
+Question A 5
+Parmi les quatre nombres suivants lequel est le seul à pouvoir être représenté de façon exacte en machine ?
+
+3.1
+4.2
+5.24
+7.25
+Question A 6
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+
+Thème B : types construits
+Question B 1
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+Question B 2
+On définit :
+dico = {"Herve": 15, "Kevin":17, "Fatima":16}
+qui associe nom et âge de trois élèves.
+Comment accéder à l'âge de Kevin ?
+dico[1]
+dico[Kevin]
+dico["Kevin"]
+dico("Kevin")
+Question B 3
+L est une liste d'entiers.
+On définit la fonction suivante :
+def f(L):
+m = L[0]
+for x in L:
+if x > m:
+m = x
+return m
+Que calcule cette fonction ?
+le maximum de la liste L passée en argument
+le minimum de la liste L passée en argument
+le premier terme de la liste L passée en argument
+le dernier terme de la liste L passée en argument
+Question B 4
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B 5
+Parmi les propositions suivantes, laquelle permet de créer en Python la liste des nombres impairs de 1 à 399
+(inclus) ?
+impairs = [1 + nb*2 for nb in range(200)]
+for nb in range(400) :
+impairs = 1 + 2 * nb
+impairs = [i + 2 for i in range(1,200)]
+impairs = [1, 3, 5, 7, 9] * 40
+Question B 6
+On définit la liste L ainsi :
+L = [ [1], [1, 2], [1, 2, 3]]
+Des égalités suivantes, une seule est fausse. Laquelle ?
+len(L[0]) == 1
+len(L) == 6
+len(L[2]) == 3
+L[2][2] == 3
+
+Thème C : traitement de données en tables
+Question C 1
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 2
+On exécute le code suivant :
+table = [
+
+['lovelace', 'ada', 1815, 1852],
+['von neumann','john', 1903, 1957],
+['turing', 'alan', 1912, 1954],
+['mccarthy', 'john', 1927, 2011],
+['floyd', 'robert', 1936, 2001] ]
+
+def age(personnage):
+return personnage[3] - personnage[2]
+table.sort(key=age, reverse=True)
+Quelle est la première ligne de la table table à la suite de cette exécution ?
+['lovelace', 'ada', 1815, 1852]
+['mccarthy', 'john', 1927, 2011]
+['turing', 'alan', 1912, 1954]
+['mccarthy', 'floyd', 'von neumann', 'turing', 'lovelace']
+Question C 3
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 4
+On définit les notes des élèves dans le dictionnaire suivant :
+notes = {
+
+'Pierre' : 9, 'Paule' : 16, 'Claire' : 12,
+'Sophie' : 11, 'Yasmine' : 8,
+'David' : 17, 'Julie' : 3
+}
+
+Quelle expression permet d'accéder à la note de l’élève Claire ?
+
+notes[12]
+notes[2]
+notes['Claire']
+notes.values('Claire')
+
+Question C 5
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 6
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quelle est la fonction principale d’un fichier CSS ?
+Définir le style d’une page web
+Assurer l’interaction entre une page web et l’utilisateur
+Créer une page web dynamique
+Créer un bouton dans une page web
+Question D 2
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 3
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 4
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+
+Question D 5
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D 6
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations difficiles à décrypter
+une transmission facturée proportionnellement à la taille du message
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle commande sous Linux permet de donner à tout le monde les droits en écriture sur un fichier nommé
+monFichier ?
+chmod o+x monFichier
+chmod a+x monFichier
+chmod o+w monFichier
+chmod a+w monFichier
+Question E 2
+Sous Unix, quelle commande permet de créer un nouveau répertoire ?
+mkdir
+echo
+ls
+rm
+Question E 3
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+adresse Ipv4 : 172.16.100.202
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+Question E 4
+Parmi les dispositifs d’entrée et de sortie suivants, lequel est uniquement un capteur ?
+la diode
+l'écran tactile
+le thermomètre
+le moteur pas à pas
+Question E 5
+
+Sachant que le répertoire courant contient les fichiers fich.txt, mafich.txt et programme.py, quel est le
+résultat de la commande ls fich* dans un shell Linux ?
+fich.txt mafich.txt
+mafich.txt
+fich.txt
+programme.py
+Question E 6
+Lorsque, en ligne de commande, on saisit la commande
+chmod u+rw a.txt
+ceci a pour effet :
+de permettre au propriétaire du fichier de modifier le contenu de ce fichier
+d'interdire au propriétaire de modifier le contenu de ce fichier
+d'interdire à tous les autres utilisateurs de lire le fichier
+d'effacer le fichier
+
+Thème F : langages et programmation
+Question F 1
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 2
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F 3
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 4
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+
+# à compléter
+
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F 5
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 6
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+else:
+p = 20
+return p
+Que renvoie maFonction(18) ?
+
+Thème G : algorithmique
+Question G 1
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+Question G 2
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 3
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n = 0
+for item in L:
+if item == x:
+n = n + 1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste
+deux fois plus grande ?
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x
+Question G 4
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G 5
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 6
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(1, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]

@@ -1,0 +1,340 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1008703, "at": "2026-11-23T09:32:21+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Population de la France métropolitaine de 1946 à 2050
+Le tableau ci-dessous donne l’évolution de la population en France métropolitaine de
+1946 à 2013.
+Année
+
+1946
+
+1954
+
+1962
+
+1968
+
+1975
+
+1982
+
+1990
+
+1999
+
+2006
+
+2013
+
+Rang xi
+
+Population en
+millions yi
+
+40,5
+
+42,8
+
+46,5
+
+49,8
+
+52,7
+
+54,3
+
+56 ,6
+
+58,2
+
+61,4
+
+63,7
+
+Source INED, ined.fr
+
+Afin de faire des prévisions, cette évolution est représentée par un nuage de points
+dans le but d’en faire un ajustement affine.
+Une équation de la droite d’ajustement du nuage est : y = 0,341x + 41,21.
+1- Parmi les trois graphiques ci-dessous, quel est selon vous celui qui correspond à la
+droite d’ajustement trouvée ? Justifier.
+
+Graphique 1
+
+Graphique 2
+
+Graphique 3
+
+2- Après avoir déterminé le rang correspondant à l’année 2020, montrer, à l’aide de
+l’équation de la droite, que le modèle prévoit une population française de 66,4 millions
+d’habitants à cette date.
+
+Le recensement effectué au cours de l’année 2020 montre que la population en France
+métropolitaine est de 64,9 millions d’habitants.
+3- Au-delà d’un écart supérieur à un million, ce modèle n’est pas valide. Conclure sur
+la validité du modèle en 2020. Justifier la réponse.
+Afin d’affiner les prévisions, il est envisagé de modifier le modèle précédent. Les
+relevés annuels de la population en France Métropolitaine de 2013 à 2020 sont donnés
+ci-dessous :
+Année
+
+2013 2014 2015 2016 2017 2018 2019 2020
+
+Rang xi
+
+Population en millions yi
+
+63,7
+
+64,3
+
+64,5
+
+64,6
+
+64,7
+
+64,8
+
+64,9
+
+Source INED, ined.fr
+
+Une droite d’équation y = 0,163x + 63,87 correspond au nouveau modèle choisi pour
+les 30 années à venir.
+Nous souhaitons savoir à partir de quelle année la population en France métropolitaine
+dépassera, d’après le nouveau modèle, les 65,5 millions d’habitants.
+Afin d’automatiser les calculs, nous avons
+programmé la fonction seuil_pop en langage
+Python ci-contre.
+
+4- Recopier parmi les quatre propositions suivantes celle qui correspond à la donnée
+manquante du programme :
+Proposition a : pop = 0.163*n+0
+Proposition b : pop = 0.163*n+63.87
+Proposition c : pop = pop+1
+Proposition d : pop = 0.163*pop+63.87
+5- À partir de quelle année la population en France métropolitaine dépassera-t-elle les
+65,5 millions d’habitants ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Gamme tempérée et gamme de Pythagore
+Il y a eu dans l’histoire de nombreuses constructions de gammes pour ordonner les
+notes à l’intérieur d’une octave. Cet exercice étudie deux types de gammes à douze
+notes : la gamme tempérée et la gamme de Pythagore.
+L’octave peut être divisée en douze intervalles en formant douze notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si). La gamme fréquemment utilisée de
+nos jours est la gamme tempérée, dans laquelle le rapport de fréquences entre deux
+notes consécutives est constant.
+1- Préciser la valeur du rapport des fréquences de deux notes séparées d’une octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est 12 2 .
+3- La fréquence du La3 est égale à 440 Hz. Calculer la valeur, arrondie au dixième, de
+la fréquence de la note suivante (Si3b) dans la gamme tempérée.
+4- Jusqu’au XVIIe siècle, la gamme la plus utilisée était la gamme de Pythagore,
+obtenue à partir des quintes successives d’une note initiale. Le tableau ci-dessous
+donne les fréquences des différentes notes de la gamme de Pythagore en partant de
+440 Hz.
+Note
+
+Mi3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+Do4#
+
+Ré4
+
+Ré4#
+
+Fréquence
+(Hz)
+
+352,4
+
+371,3
+
+396,4
+
+417,7
+
+469,9
+
+528,6
+
+556,9
+
+594,7
+
+626,5
+
+4-a- Calculer le rapport des fréquences des notes Si3 et Mi3 et donner le nom d’un tel
+intervalle.
+4-b- On considère la fonction Python freq_suivante ci-dessous qui permet de
+construire la gamme de Pythagore.
+
+def freq_suivante(f):
+f = 3/2*f
+if f >= 660 :
+f = f/2
+return(f)
+Donner les nombres renvoyés après l’exécution de freq_suivante(330) et de
+freq_suivante(440).
+Préciser les notes correspondantes.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+De la radiumthérapie à la curiethérapie
+En décembre 1898, Marie et Pierre Curie découvrent un nouvel élément chimique
+qu’ils appellent « radium ». Pierre Curie et Henri Becquerel publient en 1901 un article
+relatant les effets physiologiques du rayonnement du radium.
+Dans les années 1910, Marie Curie, qui dirige alors l’Institut du Radium développe,
+avec le Dr. Regaud qui dirige l’Institut Pasteur, la « curiethérapie ». C’est une méthode
+qui consistait à irradier localement une tumeur cancéreuse en introduisant de fines
+aiguilles contenant du radium.
+L’objectif de l’exercice est de comprendre le principe d’une radiothérapie, la
+curiethérapie.
+Document 1. Les débuts de la curiethérapie
+Les médecins avaient très vite compris que les rayonnements ionisants tuaient plus
+facilement les cellules cancéreuses que les cellules saines, bien qu'ils n'aient pas
+su pourquoi. Mais il y eut un long chemin à parcourir avant qu'ils ne parviennent à
+optimiser les doses de ces rayonnements tout en minimisant les risques pour les
+patients et les opérateurs. À l'âge héroïque, il n'était pas possible de calculer la dose
+de rayonnement émise et les médecins recouraient le plus souvent à une irradiation
+massive aux rayons X d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur. Pour les tumeurs traitées par
+radioactivité, on employait des sels de radium, d'abord contenus dans des tubes en
+verre puis dans des aiguilles en platine, placés contre les tumeurs (ou à l'intérieur)
+ce qui limitait leur usage aux cancers accessibles de l'extérieur et de petite taille
+(cancers du sein, de la peau, du col de l'utérus).
+Source : d’après www.futura-sciences.com, dossier radioactivité : les pionniers
+
+Aiguilles contenant les sels de radium
+utilisées en curiethérapie dans les années 1910
+Source : http://www.jeanboudou.fr/blog/la-grande-decouverte-des-curie
+
+Le radium est un élément radioactif. On estime aujourd’hui sa demi-vie à 1622 ans.
+1. À partir de vos connaissances, expliquer ce qu’est un élément radioactif.
+2. Donner la définition de la demi-vie d’un élément radioactif.
+3. À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre copie :
+La curiethérapie a été utilisée dès le début du XXème siècle pour soigner des cancers,
+car :
+3a. Les rayonnements produits empêchent les récidives de la tumeur.
+3b. Les rayonnements produits détruisent les cellules des tumeurs.
+3c. Les rayonnements produits pouvaient être facilement dosés et localisés
+avec précision sur la tumeur.
+3d. Les rayonnements produits provoquent uniquement une nécrose des
+cellules cancéreuses.
+
+Document 2. La méthode actuelle de curiethérapie de la prostate
+La curiethérapie de la prostate consiste à installer directement dans l’organe des
+implants radioactifs constitués d'une source radioactive enrobée dans une capsule
+de titane. Un radioélément utilisé est l'iode-125. De 40 à 130 implants sont installés
+dans la prostate, le nombre étant déterminé par le volume de la prostate à traiter.
+Ces implants restent à demeure.
+
+Implants contenant de l’iode125 utilisés en curiethérapie de
+Radiographie du bassin d’un patient traité par
+la prostate
+curiethérapie. Les implants apparaissent sous
+forme de bâtonnets blancs.
+Évolution de la radioactivité des implants en fonction du temps
+Pourcentage
+de radioactivité
+restante (%)
+
+Temps
+(semaines)
+
+Source : d’après http://www.laradioactivite.com/site/pages/Projet_Curietherapie.htm
+
+Document 3. Radioprotection après la pose des implants radioactifs lors d’une
+curiethérapie de la prostate
+La plupart des rayonnements émis par l'iode-125 ont beau être essentiellement
+absorbés dans l’organe à traiter, une fraction touche néanmoins des structures
+proches, comme le rectum ou la vessie par exemple. À cette inquiétude légitime
+pour le patient, s'ajoute un risque pour l'entourage tant que la radioactivité n'a pas
+décru suffisamment : le patient est lui-même radioactif. Quelques précautions
+permettent de réduire le risque. Voici les conseils donnés par l’Institut National du
+Cancer :
+« En cas de curiethérapie par implants permanents (iode-125), la radioactivité des
+sources implantées diminue progressivement dans le temps. Les risques pour
+l’entourage sont jugés inexistants, les rayonnements émis étant très peu pénétrants
+et donc arrêtés presque totalement par le corps lui-même.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 6 mois qui suivent l’implantation. En pratique,
+vous devez notamment éviter les contacts directs et prolongés avec les jeunes
+enfants (par exemple, les prendre sur vos genoux) et les femmes enceintes. »
+Source : d’après https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie/Quel-deroulement
+
+4. À partir de l’exploitation des documents 2 et 3 et de vos connaissances :
+4a. Réaliser sur le document en annexe la courbe de décroissance radioactive de
+l’iode-125 représentant le pourcentage de l’activité restante en fonction du temps.
+4b. Déterminer le temps de demi-vie de l’iode-125.
+4c. L’activité des implants utilisés en curiethérapie est considérée comme faible
+lorsque l’activité restante est inférieure à 15 % de l’activité initiale. Déterminer au bout
+de combien de temps les implants auront une activité faible.
+4d. Justifier la durée des précautions à prendre par le patient concernant son
+entourage.
+5. À l’aide de l’ensemble des documents, donner un intérêt d’utiliser l’iode-125 plutôt
+que le radium pour la curiethérapie. Une réponse argumentée est attendue.
+
+Document réponse à rendre avec la copie
+Exercice 3
+De la radiumthérapie à la curiethérapie
+
+Question 4a)
+
+% de radioactivité restante
+
+Temps (en semaine)

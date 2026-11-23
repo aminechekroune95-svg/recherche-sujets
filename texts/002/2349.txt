@@ -1,0 +1,90 @@
+{"pages": 4, "method": "pdftotext", "bytes": 307742, "at": "2026-11-23T09:11:10+00:00"}
+Exercice 2 (5 points)
+
+Une entreprise fabrique des lampes solaires. Elle ne peut pas produire plus de 5000 lampes
+
+par mois.
+
+le résultat qu'elle peut réaliser en un mois, exprimé en centaines d'euros, est modélisé par
+une fonction b dont la représentation graphique est donnée ci-dessous. Si ce résultat est
+
+positif, on l'appelle bénéfice. L'axe des abscisses indique le nombre de lampes produites et
+vendues exprimé en centaines.
+
+En utilisantlegraphique:
+1. lire b(lO) et interpréter ce résultat dans le contexte de l'exercice.
+2. Déterminer avec la précision que la lecture graphique permet, le bénéfice maximal
+que peut réaliser l'entreprise et les quantités de lampes à fabriquer correspondantes.
+
+3. La fonction b définie sur l'intervalle (0, +=( est définie par l'expression suivante .
+b(x) = -3x² + 160x - 1600.
+
+a. Montrer queb(x) = (x-40){-3x +40).
+b. Résoudre l'équation /J(x) = O
+c. Donner la valeur exacte du maximum de la fonction b et en quel nombre il est
+atteint.
+
+T1CMATH00166
+
+Exercice 3 {S points)
+On souhaite réaliser une frise sur un tissu à partir d'un motif élémentaire A assembl ant un demicercle de rayon R et la mo1t1é d'un hexagone régul ier inscrit dans un cercle de même rayon
+Le motif élémentaire A est représenté ci dessous .
+
+H
+
+l. Le contour du motif A dans la frise sera brodé. Déterminer le périmètre de ce motif A
+sachant que le rayon du cercle est égal à 4 cm.
+2.
+
+L'intér1eur du motif A de la frise sera peint.
+1. Calculer la hauteur OM du triangle OHG constituant le demi-hexagone.
+2. Déterminer l'aire de ce motif A.
+
+3. À partir de ce motif élémentaire A. construire sur la feuille annexe à rendre avec la copie
+un second motif par symétrie centrale de centre M.
+4. La frise est obtenue par translation de vecteur EH à partir de ces deux motifs (A et son
+symétrique). Construire sur la frise en annexe le prochain motif élémentaire A.
+
+EYerclcc 4 (5 points)
+Un restaurant propose dans son menu trois formules:
+
+Formule A : entrée+ plat
+Formule B : plat+ dessert
+FormuleC: entrée+ plat+ dessert
+
+On note le choix de!) clients venu� pour déjeuner à midi (ensemble noté M) ou pour diner le
+soir (ensemble noté S) Les effectifs sont répertoriés dans le tableau ci-dessous.
+Formule A
+DéjeunerM
+.._
+Diner S
+Total
+
+-
+
+1.
+
+Formule B
+
+FormuleC
+
+Total
+
+Quel effectif doit-on écrire dans la case vide du tableau 7
+
+2.
+a. Calculer la fréquence en pourcentage des clients ayant choisi la formule A parmi
+ceux qui sont venus déjeuner le midi.
+
+b. Montrez que la fréquence en pourcentage de clients venus diner le soir parmi
+ceux qui ont choisi la formule 13 est au dixième près égale à 39,2%.
+3.
+
+Calculer la fréquence en pourcentage des clients ayant déjeuné le midi dans ce
+
+restaurant.
+
+4.
+Le patron du restaurant déclare : « J'ai une carte des desserts très attractive car plus
+des trois quarts des clients choisissent une formule avec dessert. ».
+A-t-il raison? Justifier.

@@ -1,0 +1,456 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1898434, "at": "2026-11-23T09:28:27+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude de l’accidentologie
+Sur 8 points
+Dans cet exercice, on étudie l’accidentologie (circulation en véhicules automobiles)
+en France.
+Partie A
+On considère le tableau et le graphique suivants qui représentent le nombre de tués
+sur les routes en France en fonction des années :
+Année
+
+Nombre
+de tués
+
+2004
+
+5 593
+
+2005
+
+5 318
+
+5 000
+
+2006
+
+4 709
+
+4 000
+
+2007
+
+4 620
+
+2008
+
+4 275
+
+2009
+
+4 273
+
+2 000
+
+2010
+
+3 992
+
+1 000
+
+2011
+
+3 963
+
+2012
+
+3 653
+
+2013
+
+3 268
+
+6 000
+
+3 000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Source : https://www.onisr.securite-routiere.gouv.fr
+1-a- Déterminer la variation absolue du nombre de tués sur les routes entre 2004 et
+2013.
+1-b- Déterminer la diminution moyenne par an du nombre de tués entre 2004 et
+2013.
+2- En 2013, on a décidé de fixer comme objectif à l'horizon 2025 une poursuite de la
+baisse de la mortalité dans les mêmes conditions. On choisit de modéliser le nombre
+de tués sur les routes par la fonction affine 𝑓 définie sur [0 ; +∞[, par :
+𝑓(𝑥) = −231,5𝑥 + 469 316 où 𝑥 représente l'année.
+
+2-a- Tracer la représentation graphique de la fonction 𝑓 sur le graphique du
+document réponse fourni en annexe.
+2-b- À l'aide de ce modèle et du graphique tracé sur le document réponse en
+annexe, estimer, avec la précision permise par le graphique, le nombre de tués en
+2025.
+3- En réalité, entre 2014 et 2021, le nombre de tués est donné par le tableau
+suivant :
+Année
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Nombre de
+tués
+
+3 384
+
+3 461
+
+3 477
+
+3 448
+
+3 248
+
+3 244
+
+2 541
+
+2 944
+
+Que peut-on penser du modèle choisi dans la question 2- ?
+Partie B
+On s’intéresse au lien éventuel entre l’âge d’un véhicule impliqué dans un accident et
+le type de gravité de celui-ci (on ne s'intéresse ici qu'aux véhicules de tourisme).
+Le tableau suivant présente le nombre de véhicules impliqués dans un accident de la
+circulation en 2021 en France, en fonction de son âge et de la gravité de l’accident
+(léger, grave non mortel ou mortel) :
+Âge 𝑥 du
+véhicule
+en années
+
+Accident
+léger
+
+Accident grave
+non mortel
+
+Accident mortel
+
+Total
+
+𝑥<5
+
+10 407
+
+3 422
+
+14 403
+
+5 ≤ 𝑥 < 10
+
+8 588
+
+3 185
+
+12 262
+
+10 ≤ 𝑥 < 20
+
+15 993
+
+6 369
+
+1 180
+
+23 542
+
+𝑥 ≥ 20
+
+2 606
+
+1 416
+
+4 339
+
+Total
+
+37 594
+
+14 392
+
+2 560
+
+54 546
+
+Nombre de véhicules de tourisme impliqués
+dans un accident de la circulation en 2021
+Source : https://www.data.gouv.fr
+
+On arrondira les résultats au millième si nécessaire.
+4-a- Calculer la fréquence de véhicules âgés de plus de 20 ans parmi les véhicules
+impliqués dans un accident de la circulation en 2021 en France.
+4-b- Calculer la fréquence des véhicules impliqués dans un accident léger parmi les
+véhicules âgés de plus de 20 ans impliqués dans un accident de la circulation en
+2021 en France.
+On choisit au hasard un véhicule impliqué dans un accident de la circulation en 2021
+en France (on suppose que tous les véhicules impliqués dans un accident en 2021
+en France ont la même probabilité d’être choisis).
+On appelle 𝐶 l’événement « le véhicule choisi a moins de cinq ans » et 𝐿 l’événement
+« le véhicule choisi est impliqué dans un accident léger ». On désigne par 𝐴̅
+l’événement contraire d’un événement 𝐴.
+5- Calculer la probabilité de l’événement 𝐶 et la probabilité de l’événement L.
+6- Décrire par une phrase l’événement 𝐶̅ puis calculer sa probabilité.
+7- Décrire par une phrase l’événement 𝐶 ∩ 𝐿 puis calculer sa probabilité.
+8-a- On choisit un véhicule âgé de moins de cinq ans impliqué dans un accident de
+la circulation en 2021 en France. Quelle est la probabilité qu’il soit impliqué dans un
+accident léger ?
+8-b- Pour un véhicule impliqué dans un accident de la circulation en 2021 en France,
+le fait d'être impliqué dans un accident léger est-il indépendant du fait d'être âgé de
+moins de cinq ans ? Justifier la réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Sur 12 points
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- D’après vos connaissances, expliquer en quoi choisir un régime alimentaire
+constitué uniquement de céréales va causer à plus ou moins long terme des
+problèmes de santé.
+2- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+3- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé en milieu urbain au Nord de l’Europe loin des côtes à l’époque
+industrielle.
+Exploiter le document 2 suivant, à l’aide de vos connaissances, pour expliquer
+que la maladie, à l’époque industrielle, ait été plus fréquente en milieu urbain,
+dans les régions du Nord de l’Europe, situées loin des côtes.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers (yaourts, fromage blanc,
+fromage, lait) qui contribuent respectivement à 19 % et 25 % des apports chez les
+adultes et à 12 % et 40 % des apports en vitamine D chez les enfants de 11 à
+17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+4- À l’aide de vos connaissances, expliquer par un texte accompagné d’un schéma,
+l’origine des variations de la puissance solaire reçue au sol, observées dans le
+document 3.
+5- Expliquer la recommandation générale des campagnes de prévention des
+cancers de la peau : « éviter l’exposition au soleil entre 12 h et 16 h ».
+6- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Ariane décolle, attention à vos oreilles !
+Sur 12 points
+Le 25 décembre 2021, le lanceur Ariane 5 a réussi
+un décollage parfait depuis son pas de tir à Kourou
+en Guyane Française pour lancer dans l’espace le
+télescope James Webb.
+Lors du décollage, une partie de l’énergie s’est
+dissipée autour du lanceur, se propageant dans l’air
+sous forme d’ondes sonores. La puissance de ces
+ondes sonores est estimée à 300 MW soit
+3,00.108 W. D’une durée de 1 à 2 minutes, ces
+vibrations de fréquences comprises entre 20 Hz et
+2000 Hz sont audibles jusqu’à une centaine de
+kilomètres autour du pas de tir.
+Pour assister au lancement, les spectateurs peuvent
+se rendre au site d’observation Toucan situé à
+7,0 km du pas de tir.
+
+Figure 1 – Ariane 5 sur son
+pas de tir
+Source : Wikipedia
+
+L’objectif de cet exercice est d’évaluer le risque encouru par les spectateurs et les
+éventuelles conséquences sur leur audition.
+Document 1 – Intensité et niveau sonore
+Calcul de l’intensité sonore reçue :
+Lorsqu’une source sonore de puissance 𝑃 émet une onde sonore, l’intensité
+sonore perçue à une distance 𝑑 de la source est égale à :
+𝐼=
+
+𝑃
+4𝜋𝑑 2
+
+avec 𝑃 la puissance en W et 𝑑 la distance en m.
+
+Représentation graphique du niveau sonore :
+
+Source : auteur
+
+Document 2 – Durée limite d’exposition journalière sans protection avant
+dommages
+
+De 120 dB à 140 dB : quelques secondes
+
+107 dB : 1 min/jour
+
+100 dB : 4 min/jour
+
+95 dB : 15 min/jour
+
+92 dB : 30 min/jour
+
+86 dB : 2 h/jour
+
+80 dB : 8 h/jour
+Source : d’après l’Organisation Mondiale de la Santé
+
+Document 3 – Atténuation selon le type de bouchons d’oreilles
+Les bouchons d’oreilles permettent de réduire le niveau d’intensité sonore perçu
+par l’utilisateur. La valeur de l’atténuation en décibels dépend du type de bouchon
+et de la fréquence du son.
+
+Atténuation dBA
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+7000
+
+8000
+
+Fréquence (Hz)
+Source : auteur
+
+1- Montrer que l’intensité sonore reçue par un spectateur présent au site
+d’observation Toucan est proche de 5,0.10-1 W.m-2.
+2- Déterminer, en expliquant la démarche, si les oreilles des spectateurs sont en
+danger lors du décollage.
+3- Les bouchons en mousse distribués à l’entrée du site d’observation Toucan pour
+les spectateurs sont-ils suffisants pour protéger leurs oreilles ? Justifier.
+
+Document 4 – Photographies au microscope électronique de la cochlée d’un
+rat avant et après un traumatisme sonore d’intensité croissante
+Photographie 1 :
+
+Photographie 2 :
+
+Cochlée de rat normale
+
+traumatisme sonore de niveau 1
+
+ Cellules ciliées internes
+ Cellules ciliées externes
+Photographie 3 :
+
+Photographie 4 :
+
+traumatisme sonore de niveau 2
+
+traumatisme sonore de niveau 3
+
+Source : https://www.cochlea.eu/pathologie/surdites-neuro-sensorielles/traumatismeacoustique
+
+4- À l’aide de vos connaissances, expliquer comment les vibrations sonores
+perçues dans l’oreille interne sont à l’origine de messages nerveux auditifs
+transmis vers le cerveau.
+
+La cochlée d’un humain présente la même structure cellulaire que celle du rat.
+5- Déterminer les conséquences d’un traumatisme sonore sur l’audition, en utilisant
+vos connaissances et en comparant les photographies électroniques de la
+cochlée de rats présentées dans le document 4.
+
+Document réponse à rendre avec la copie
+Exercice 1

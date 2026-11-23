@@ -1,0 +1,295 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1573782, "at": "2026-11-23T09:28:13+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Tourisme
+Sur 8 points
+Les trois parties sont indépendantes.
+
+Partie A
+Une étude portant sur les nuitées réservées par des touristes français et étrangers
+via une plateforme internet a donné les résultats suivants :
+
+19 000 000 nuitées ont été réservées dans les trois plus grandes villes
+françaises : Paris, Marseille et Lyon.
+
+79 % des touristes ont préféré Paris et parmi eux, 70 % sont des touristes
+étrangers.
+
+1 910 000 nuitées ont été réservées à Lyon dont 788 000 par des touristes
+étrangers.
+
+À Marseille, 800 000 touristes étrangers ont réservé des nuitées.
+
+1- Recopier et compléter le tableau suivant :
+Nombre de nuitées
+(en milliers)
+
+Touristes français
+
+Touristes étrangers
+
+Total
+
+Paris
+Lyon
+
+Marseille
+Total
+
+19000
+
+2- Dans l’ensemble de cette question 2, les pourcentages seront arrondis au
+dixième.
+2-a- Quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+2-b- Quel est le pourcentage de touristes qui ont réservé à Marseille et qui sont
+français ?
+2-c- À Lyon, quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+Partie B
+Sur cette plateforme internet, 35 % des clients choisissent de réserver dans un
+camping, et parmi eux 66 % sont français. 27 % de ceux qui n’ont pas réservé dans
+un camping sont des clients étrangers.
+On choisit au hasard un client ayant réservé via cette plateforme internet. On
+considère les événements suivants :
+
+C : « le client a réservé dans un camping » ;
+
+F : « le client est français ».
+
+3- Recopier et compléter l'arbre pondéré représentant la situation :
+
+4- Calculer la probabilité que le client choisi soit français et qu’il ait réservé dans un
+camping.
+5- On admet que p(F) = 0,7055. Le client choisi est français. Quelle est la probabilité
+qu’il ait réservé dans un camping ? On arrondira le résultat au millième.
+
+Partie C
+Une autre étude a permis de constater que le bénéfice par client réalisé par cette
+plateforme internet dépend du temps de connexion 𝑥, exprimé en minute. Pour les
+20 premières minutes de connexion d’un client, ce bénéfice, exprimé en centimes,
+peut être modélisé par une fonction 𝑓 définie sur [ 0 ; 20] par :
+𝑓(𝑥) = −2𝑥 3 + 54𝑥 2 − 270𝑥 − 80.
+6- Calculer 𝑓(0) et interpréter ce résultat.
+7- On admet que 𝑓 est dérivable sur [ 0 ; 20]. Calculer 𝑓’ (𝑥) pour 𝑥 ∈ [ 0 ; 20].
+8- Montrer que 𝑓 ′ (𝑥) = −6(𝑥 − 3)(𝑥 − 15) pour 𝑥 ∈ [ 0 ; 20].
+9- Dresser le tableau des variations de 𝑓 sur [ 0 ; 20].
+10- Pour les 20 premières minutes, quel temps de connexion du client, en minutes,
+permet d’assurer un bénéfice maximal pour la plateforme ? Quelle est la valeur de ce
+bénéfice ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+Sur 12 points
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+
+6- En 1983, la définition du mètre a été redéfinie en se basant sur la vitesse de la
+lumière dans le vide. Cette nouvelle définition a été établie lors de la 17e
+Conférence générale des poids et mesures (CGPM), et elle stipule que le mètre
+est la distance parcourue par la lumière dans le vide en 1/299 792 458ème de
+seconde. En déduire la vitesse de propagation de la lumière dans le vide.
+7- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres et
+en toises.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+L’oreille et l’audition
+Sur 12 points
+L’audition joue un rôle primordial dans les interactions sociales. L’oreille est l’organe
+sensoriel de l’audition, dont on étudiera tout d’abord le fonctionnement avant
+d’envisager la prévention d’un traumatisme acoustique.
+Partie 1 – L’oreille et son fonctionnement
+Document 1 – L’oreille humaine
+
+Figure A – Schéma anatomique de l’oreille humaine et détail de l’organisation de la
+cochée déduite d’une coupe transversale effectuée au niveau de la double flèche noire
+Sources : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition
+et https://fr.wikipedia.org/wiki/Organe_de_Corti
+
+1- À l’aide de vos connaissances et du document 1, expliquer par un texte comment
+les différentes parties de l’oreille interviennent depuis la réception de la vibration
+sonore jusqu’à la naissance d’un message nerveux auditif.
+
+Partie 2 – La prévention d’un traumatisme acoustique
+Pour prévenir le risque lié aux sur-stimulations sonores, il existe des protections
+auditives de nature différente selon leur type d’utilisation.
+On peut distinguer, par exemple, deux catégories de bouchons d'oreilles qui
+permettent de s’isoler du bruit :
+–
+
+les bouchons en mousse, généralement jetables ;
+
+–
+
+les bouchons moulés en silicone, fabriqués sur mesure et nécessitant la prise
+d'empreinte du conduit auditif. Ils sont lavables à l'eau et se conservent
+plusieurs années.
+
+L’atténuation des sons par un bouchon est égale à la diminution du niveau d’intensité
+sonore perçu par l’oreille en présence du bouchon. Un fabricant fournit les courbes
+d'atténuation en fonction de la fréquence du son pour les deux types de bouchons
+(document 2).
+Document 2 – Courbes d’atténuation du son correspondant aux deux types
+de bouchons
+
+Figure B – Niveau sonore (en dBA) dû à un bouchon en fonction de la fréquence de
+l’onde (Hz) qui le traverse
+Source : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition.
+
+Un musicien qui pratique régulièrement un instrument tel que la batterie ou la guitare
+électrique a besoin d’une atténuation du niveau sonore. Cependant, cette atténuation
+ne doit pas dépasser 25 dB afin qu’il entende suffisamment.
+2- À l’aide du document 2, indiquer pour chaque bouchon si cette condition est
+respectée. Justifier.
+3- En utilisant le document 2, indiquer si un bouchon en mousse atténue davantage
+les sons aigus ou les sons graves. Justifier en s’appuyant sur des valeurs.
+Afin de comparer la qualité acoustique des deux types de bouchons, on a enregistré
+le son émis par une guitare, ainsi que les sons obtenus après passage à travers les
+deux types de bouchons. Le document 3 présente les résultats obtenus.
+
+Document 3 – Spectres du son émis par une guitare et des sons restitués
+après passage à travers les deux types de bouchons
+L’amplitude relative est le rapport entre
+une amplitude et une amplitude de
+référence, ici celle de la fréquence
+fondamentale.
+
+Figure B – Spectre correspondant au mi4
+joué par la guitare
+
+Figure C – Spectre du mi4 restitué après passage par un bouchon en mousse
+(gauche) ou moulé en silicone (droite)
+Source : Auteur
+
+4- À partir de la figure 1 du document 3, indiquer, en justifiant, si le son émis par la
+guitare est un son pur ou un son composé.
+5- À partir du document 3, indiquer en justifiant le raisonnement, lequel des deux
+types de bouchons, en mousse ou en silicone, modifie le moins le timbre du son
+perçu.
+Une exposition prolongée à un niveau d’intensité sonore de 85 dB est nocive pour
+l'oreille humaine. Durant un concert de rock, un guitariste est situé à 10,0 mètres d’une
+enceinte délivrant une puissance sonore de 10,0 watts.
+Par souci de simplification, on suppose que l’onde sonore produite par l’enceinte se
+propage de manière équivalente dans toutes les directions autour d’elle. La puissance
+sonore est alors répartie sur des surfaces de forme sphérique.
+6- À l’aide du document 4 page suivante, calculer l’intensité sonore à l’endroit où se
+trouve le guitariste.
+Donnée :
+Surface 𝑆 d’une sphère de rayon 𝑑, 𝑆 = 4 × 𝜋 × 𝑑2 .
+
+7- À l’aide du document 4, montrer que le niveau sonore reçu par ce guitariste est
+proche de 100 dB.
+Document 4 – Puissance, intensité et niveau sonore
+L’intensité sonore 𝐼 est la puissance 𝑃 de la vibration sonore reçue par unité de
+surface 𝑆 :
+
+𝐼=
+
+𝑃
+𝑆
+
+Avec : 𝑃 en watt (W) ; 𝑆 en m2 ; 𝐼 en W. m−2
+
+Pour une intensité sonore 𝐼 donnée, le niveau sonore 𝐿 exprimé en décibels (dB)
+est déterminé par la formule :
+𝐼
+
+𝐿 = 10 × log(𝐼 )
+
+Avec : 𝐿 en décibels (dB) ; 𝐼 en W. m−2
+
+𝐼0 est l’intensité correspondant au seuil d’audibilité : 𝐼0 = 10−12 W. m−2 .
+
+Ce guitariste désire préserver son audition tout en préservant une bonne qualité
+sonore.
+8- À partir de l’étude des documents 2 et 3, indiquer quel type de bouchons choisir
+et argumenter ce choix.

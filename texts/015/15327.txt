@@ -1,0 +1,421 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1222432, "at": "2026-11-23T09:39:57+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien de bits sont nécessaires pour écrire le nombre entier 16 en base 2 ?
+Question A 2
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)
+
+sur un octet ?
+
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+Question A 3
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+Question A 4
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+Question A 5
+Quelle est la représentation décimale de l’entier négatif codé en complément à 2 sur un octet par 1100 1011 ?
+–84
+–53
+–35
+–21
+
+Question A 6
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b] ?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B 2
+On définit :
+dico = {"Herve": 15, "Kevin":17, "Fatima":16}
+qui associe nom et âge de trois élèves.
+Comment accéder à l'âge de Kevin ?
+dico[1]
+dico[Kevin]
+dico["Kevin"]
+dico("Kevin")
+Question B 3
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+Question B 4
+Quelle est la valeur de l'expression [[n,n+2] for n in range(3)] ?
+[0,2,1,3,2,4]
+[1,3,2,4,3,5]
+[[0,2],[1,3],[2,4]]
+[[1,3],[2,4],[3,5]]
+Question B 5
+On définit ainsi une liste M :
+M = [['A','B','C','D'], ['E','F','G','H'], ['I','J','K','L']]
+Que vaut l'expression M[2][1] ?
+
+'G'
+'J'
+'E'
+'B'
+Question B 6
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+
+Thème C : traitement de données en tables
+Question C 1
+On considère la liste de p-uplets suivante :
+table = [
+
+('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912)
+]
+
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une
+femme) et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+Question C 2
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 3
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+Question C 4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 5
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 6
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D 2
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 3
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations difficiles à décrypter
+une transmission facturée proportionnellement à la taille du message
+Question D 4
+Un élément form (un formulaire) d'une page HTML contient un élément button de type submit. Un clic sur ce
+bouton :
+envoie les données du formulaire vers la page définie par l'attribut action de l'élément form
+efface les données entrées par l'utilisateur dans le formulaire
+envoie les données du formulaire vers la page définie par l'attribut method de l'élément form
+ne fait rien du tout si un script Javascript n'est pas associé au bouton
+Question D 5
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 6
+
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans le protocole de communication TCP/IP, pour le transfert d’un gros fichier :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui peuvent suivre des itinéraires différents au sein du
+réseau et arrivent à destination dans un ordre quelconque.
+Question E 2
+Quelle est la racine du système de fichiers de Linux ?
+/
+root
+sudo
+home
+Question E 3
+Lorsqu'un utilisateur lance une application, le système d'exploitation va l'ouvrir dans :
+un espace disponible du disque SSD
+un espace disponible du disque HDD
+un espace disponible de la RAM
+un espace disponible de la ROM
+Question E 4
+Dans la console Linux, quelle commande faut-il exécuter pour effacer le fichier test0.csv ?
+rm test0.csv
+cp test0.csv
+ls test0.csv
+mv test0.csv
+Question E 5
+Sous Unix, quelle commande permet de créer un nouveau répertoire ?
+mkdir
+echo
+ls
+rm
+
+Question E 6
+Que peut-on dire du système de fichier, suite à l’exécution des commandes suivantes ?
+% cd
+% ls
+Documents Images Videos
+% mv *.txt Documents
+
+help.txt
+
+tutorial.txt
+
+script.py
+
+L'utilisateur Documents a pris possession des fichiers help.txt et tutorial.txt
+Le répertoire /Documents contient maintenant les fichiers help.txt et tutorial.txt
+Le répertoire Documents du répertoire de l'utilisateur contient maintenant les fichiers help.txt et
+tutorial.txt
+script.py a été exécuté et a déplacé les fichiers textes
+
+Thème F : langages et programmation
+Question F 1
+On considère le code suivant :
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+Question F 2
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 3
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Question F 4
+Karine écrit une bibliothèque Python, nommée GeomPlan, de géométrie plane dont voici un extrait :
+import math
+def aireDisque(R):
+return math.pi * R**2
+Gilles utilise cette bibliothèque pour calculer l'aire d'un disque de rayon 8.
+Laquelle des instructions suivantes renvoie un message d'erreur ?
+import GeomPlan
+GeomPlan.aireDisque(8)
+
+import GeomPlan
+
+from GeomPlan import *
+
+from GeomPlan import aireDisque
+
+Question F 5
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 6
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+
+Thème G : algorithmique
+Question G 1
+Sur quel algorithme est basé le script python, la liste lst est triée :
+def truc(lst: list, x) -> int:
+deb = 0
+fin = len(lst) - 1
+ok = False
+while ok == False and deb <= fin:
+m = (deb+fin)//2
+if lst[m] == x:
+ok = True
+elif lst[m] < x:
+deb = m + 1
+else:
+fin = m -1
+return ok
+k plus proche voisin
+tri pas insertion
+dichotomie
+glouton
+Question G 2
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 3
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(1, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]
+Question G 4
+
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 5
+La recherche dichotomique est un algorithme rapide qui permet de trouver ou non la présence d’un élément
+dans un tableau. Mais, pour l’utiliser, une contrainte est indispensable, laquelle ?
+le tableau ne contient que des nombres positifs
+la longueur du tableau est une puissance de 2
+le tableau est trié en ordre croissant
+le tableau ne contient pas la valeur 0
+Question G 6
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste

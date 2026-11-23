@@ -1,0 +1,428 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1634724, "at": "2026-11-23T09:44:54+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quand on ajoute deux bits 𝑎 et 𝑏, on obtient un bit de somme 𝑠 et un bit de retenue 𝑟. On peut exprimer 𝑠 et 𝑟 à
+l'aide de formules logiques, lesquelles ?
+𝑠 = 𝑎 𝑂𝑈 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+𝑠 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑟 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+
+Question A.2
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?
+Question A.3
+Comment s'écrit le nombre −42 en binaire, sur 8 bits, en complément à 2 ?
+-0010 1010
+1010 1011
+1101 0101
+1101 0110
+Question A.4
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+Question A.5
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A.6
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+
+Thème B : types construits
+Question B.1
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+Question B.2
+De quelle expression la liste suivante est-elle la valeur ?
+[[0,0,0,0], [1,1,1,1], [2,2,2,2]]
+[[i] * 4 for i in range(4)]
+[[i] * 3 for i in range(4)]
+[[i] * 4 for i in range(3)]
+[[i] * 3 for i in range(3)]
+Question B.3
+On exécute le script suivant.
+m = []
+for i in range(5):
+n = []
+for j in range(3):
+n.append(i*j)
+m.append(n)
+Quelle est la valeur de m à la fin de son exécution ?
+[ [0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8] ]
+[ [0, 0, 0], [0, 1, 2], [0, 2, 4], [0, 3, 6], [0, 4, 8] ]
+[ [1, 1, 1], [2, 4, 6], [3, 6, 9], [4, 8, 12], [5, 10, 15] ]
+[ [1, 1, 1, 1, 1], [2, 4, 6, 8, 10], [3, 6, 9, 12, 15], [4, 8, 12, 16, 20], [5, 10, 15, 20, 25] ]
+Question B.4
+Quel est le type de la variable billes définie par :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+c'est une séquence
+c'est une liste
+c'est une liste de listes
+c'est un dictionnaire
+
+Question B.5
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+{ 'ftp': 21 }
+Key not found
+Question B.6
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+
+Thème C : traitement de données en tables
+Question C.1
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C.2
+Les données clients d’une entreprise sont stockées dans un fichier csv. Afin de les importer, on effectue une
+lecture séquentielle de ce fichier par ligne. On affecte à la variable ligne le contenu d’une ligne de ce fichier.
+La variable c est alors définie ainsi :
+ligne = "dupont;arnaud;245862;france"
+c = ligne.split(;)
+Que contient cette variable c ?
+"dupontarnaud245862france"
+["dupont", "arnaud", "245862", "france"]
+"dupont"
+
+Question C.3
+On a défini :
+mendeleiev = [
+
+['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C.4
+Que réalise l'instruction suivante :
+mon_fichier = open("exemple.txt", "r")
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Question C.5
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+Question C.6
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol', 'tel':'5248'}, {'nom':'Dupond', 'tel':'3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D.2
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D.3
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D.4
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.5
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+
+Question D.6
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+Question E.2
+Sous Linux, dans quel but utilise-t-on la commande cat readme.txt ?
+pour supprimer le fichier readme.txt
+pour copier le fichier readme.txt
+pour afficher le contenu du fichier readme.txt
+pour renommer le fichier readme.txt
+Question E.3
+Parmi les adresses suivantes, laquelle est une adresse Ethernet non valide ?
+8D:A9:D5:67:E6:F3
+8d:a9:d5:67:e6:f3
+8H:A9:D5:67:E6:F3
+FF:A9:D5:67:E6:F3
+Question E.4
+Identifier parmi les éléments suivants celui qui n'est pas un capteur.
+haut-parleur
+caméra
+accéléromètre
+microphone
+
+Question E.5
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des répertoires et dossiers contenus
+dans le répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+Question E.6
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des fichiers du répertoire courant
+dont l'extension est jpg ?
+ls -l *.jpg
+man pwd **jpg
+cd jpg
+man jpg
+
+Thème F : langages et programmation
+Question F.1
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for in in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F.2
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à chaque
+passage dans la boucle while ?
+i=0
+while (i < 10) {
+alert(i)
+i=i+1
+}
+alert("Fin")
+
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F.3
+On exécute le script suivant :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F.4
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a=1
+else:
+a=0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+Question F.5
+On considère le code suivant :
+def puiss(y,x):
+res = y
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+
+Question F.6
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+
+Thème G : algorithmique
+Question G.1
+L'algorithme suivant permet de calculer la somme des N premiers entiers, où N est un nombre entier donné :
+i =0
+somme =0
+while i < N :
+i = i +1
+somme = somme + i
+Un invariant de boucle de cet algorithme est le suivant :
+somme = 0 + 1 + 2 + ... + i et i < N
+somme = 0 + 1 + 2 + ... + N et i < N
+somme = 0 + 1 + 2 + ... + i et i < N+1
+somme = 0 + 1 + 2 + ... + N et i < N+1
+Question G.2
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus grande
+valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite valeur
+afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.
+
+Question G.3
+Qu'affiche le programme suivant :
+a=3
+
+b=4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+jaune
+
+Question G.4
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G.5
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+
+Question G.6
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇 2

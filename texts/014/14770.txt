@@ -1,0 +1,430 @@
+{"pages": 19, "method": "pdftotext", "bytes": 454593, "at": "2026-11-23T09:41:59+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+Question A 2
+Quel est l'entier positif dont la représentation binaire est 0100 1001 ?
+Question A 3
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+Question A 4
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 5
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+
+Question A 6
+Sur une page web qui s’affiche sur notre navigateur on peut lire : « En consÃ©quence, l'AssemblÃ©e Nationale
+reconnaÃ®t et dÃ©clare, en prÃ©sence [...] »
+Quelle peut être la cause des affichages étranges de cette page ?
+l'encodage des caractères n'est pas celui attendu par le navigateur
+le texte original est en japonais
+la taille des caractères n'est pas celui attendu par le navigateur
+la connexion à Internet présente des coupures
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur de L à la fin de l'exécution du script suivant ?
+def f(L):
+temp = L[0]
+for i in range(len(L)-1):
+L[i] = L[i+1]
+L[-1] = temp
+L = [1, 2,
+f(L)
+
+3, 4, 5]
+
+[2, 3, 4, 5, 1]
+[5, 1, 2, 3, 4]
+[5, 4, 3, 2, 1]
+[3, 4, 5, 1, 2]
+Question B 2
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 3
+On définit un dictionnaire : d = { 'couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif' }
+Quelle est la valeur de l'expression [k for k in d.keys()] ?
+['couleur', 'taille', 'marque']
+[('couleur', 'vert'), ('taille', 42), ('marque', 'le coq sportif')]
+['vert', 42, 'le coq sportif']
+['couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif']
+Question B 4
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+Question B 5
+
+On dispose d’une table patients de personnes décrits par 4 colonnes « Nom », « Prénom », « Age », « Numéro
+de sécurité sociale » et d’une table affections contenant « Nom », « Prénom », « Numéro de sécurité
+sociale », « Maladie », « Date d’entrée à l’hôpital ».
+On souhaite fusionner ces deux tables pour faciliter la gestion des patients et leur distribution entre les services
+pédiatriques, gérontologiques et autres. Quelle donnée doit-on utiliser pour unifier ces tables :
+Le nom du patient
+Le prénom du patient
+Le numéro de sécurité sociale du patient
+La maladie du patient
+Question B 6
+On considère le tableau suivant : L = [[1,2,3],[4,5,6],[7,8,9]].
+Quelle est la valeur de L[1][0] ?
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle est la valeur de la variable image après exécution du programme Python suivant ?
+image = [[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0],
+[0, 0, 0, 0]]
+for i in range(4):
+for j in range(4):
+if (i+j) == 3:
+image[i][j] = 1
+[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [1, 1, 1, 1]]
+[[0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1], [0, 0, 0, 1]]
+[[0, 0, 0, 1], [0, 0, 1, 0], [0, 1, 0, 0], [1, 0, 0, 0]]
+[[0, 0, 0, 1], [0, 0, 1, 1], [0, 1, 1, 1], [1, 1, 1, 1]]
+
+Question C 2
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 3
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 4
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ...... :
+print(repertoire[i]['tel'])
+
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 5
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 6
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Saisir l'URL http://monsite.com/monprogramme.py?id=25 dans la barre d'adresse d'un navigateur ne peut
+jamais permettre :
+d'obtenir une image
+d'envoyer une requête GET
+d'envoyer une requête POST
+d'exécuter un programme Python sur le serveur
+
+Question D 2
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D 3
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 4
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+
+Question D 5
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+
+Question D 6
+Une page Web contient un formulaire dont le code HTML est le suivant :
+<form action="/action_page.php" method="post">
+First name : <input type="text" name = "fname"><br>
+Last name : <input type="text" name = "lname"><br>
+<input type="submit" value="Submit">
+</form>
+Que peut-on dire des informations transmises dans ce formulaire ?
+elles seront enregistrées dans l’historique du navigateur
+elles seront enregistrées dans le cache du navigateur
+elles ne devront pas dépasser une limite en nombre de caractères transmis
+elles ne seront pas visibles dans la barre du navigateur
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Parmi les adresses suivantes, laquelle est une adresse IP non valide ?
+1.2.3.4
+192.168.23.242
+127.3.87.256
+10.1.64.42
+Question E 2
+Dans la console Linux, quelle commande faut-il exécuter pour copier le fichier test0.csv en un nouveau fichier
+nommé test1.csv ?
+ls test0.cvs test1.csv
+cp test0.csv test1.csv
+cp test1.csv test0.csv
+mv test1.csv test0.csv
+Question E 3
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+Question E 4
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+Question E 5
+Identifier parmi les éléments suivants celui qui est uniquement un périphérique de sortie.
+
+clavier
+souris
+écran
+microphone
+Question E 6
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt
+
+NSI_ex1_Marie.txt
+
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+
+Thème F : langages et programmation
+Question F 1
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F 2
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 3
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F 4
+
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F 5
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 6
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+
+Thème G : algorithmique
+Question G 1
+On exécute le script suivant :
+liste = [4,8,12,6,2]
+def permute(L):
+for k in range(len(L)-1):
+if (L[k] > L[k+1]):
+L[k],L[k+1] = L[k+1],L[k]
+return L
+permute(liste)
+Quelle est la valeur de liste à la fin de l'exécution du script ?
+[2, 4, 8, 6, 12]
+[2, 4, 6, 8, 12]
+[4, 8, 6, 2, 12]
+[12, 8, 6, 4, 2]
+Question G 2
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G 3
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+𝑛
+𝑛2
+𝑛3
+Question G 4
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+
+i = i + 1
+i = K-1
+i = i - 1
+i = K-1
+i = i + 1
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 5
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 6
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+
+√2500
+2500
+25002
+22500

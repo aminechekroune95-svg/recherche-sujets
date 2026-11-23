@@ -1,0 +1,467 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1842894, "at": "2026-11-23T09:28:28+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude de l’accidentologie
+Sur 8 points
+Dans cet exercice, on étudie l’accidentologie (circulation en véhicules automobiles)
+en France.
+Partie A
+On considère le tableau et le graphique suivants qui représentent le nombre de tués
+sur les routes en France en fonction des années :
+Année
+
+Nombre
+de tués
+
+2004
+
+5 593
+
+2005
+
+5 318
+
+5 000
+
+2006
+
+4 709
+
+4 000
+
+2007
+
+4 620
+
+2008
+
+4 275
+
+2009
+
+4 273
+
+2 000
+
+2010
+
+3 992
+
+1 000
+
+2011
+
+3 963
+
+2012
+
+3 653
+
+2013
+
+3 268
+
+6 000
+
+3 000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Source : https://www.onisr.securite-routiere.gouv.fr
+1-a- Déterminer la variation absolue du nombre de tués sur les routes entre 2004 et
+2013.
+1-b- Déterminer la diminution moyenne par an du nombre de tués entre 2004 et
+2013.
+2- En 2013, on a décidé de fixer comme objectif à l'horizon 2025 une poursuite de la
+baisse de la mortalité dans les mêmes conditions. On choisit de modéliser le nombre
+de tués sur les routes par la fonction affine 𝑓 définie sur [0 ; +∞[, par :
+𝑓(𝑥) = −231,5𝑥 + 469 316 où 𝑥 représente l'année.
+
+2-a- Tracer la représentation graphique de la fonction 𝑓 sur le graphique du
+document réponse fourni en annexe.
+2-b- À l'aide de ce modèle et du graphique tracé sur le document réponse en
+annexe, estimer, avec la précision permise par le graphique, le nombre de tués en
+2025.
+3- En réalité, entre 2014 et 2021, le nombre de tués est donné par le tableau
+suivant :
+Année
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Nombre de
+tués
+
+3 384
+
+3 461
+
+3 477
+
+3 448
+
+3 248
+
+3 244
+
+2 541
+
+2 944
+
+Que peut-on penser du modèle choisi dans la question 2- ?
+Partie B
+On s’intéresse au lien éventuel entre l’âge d’un véhicule impliqué dans un accident et
+le type de gravité de celui-ci (on ne s'intéresse ici qu'aux véhicules de tourisme).
+Le tableau suivant présente le nombre de véhicules impliqués dans un accident de la
+circulation en 2021 en France, en fonction de son âge et de la gravité de l’accident
+(léger, grave non mortel ou mortel) :
+Âge 𝑥 du
+véhicule
+en années
+
+Accident
+léger
+
+Accident grave
+non mortel
+
+Accident mortel
+
+Total
+
+𝑥<5
+
+10 407
+
+3 422
+
+14 403
+
+5 ≤ 𝑥 < 10
+
+8 588
+
+3 185
+
+12 262
+
+10 ≤ 𝑥 < 20
+
+15 993
+
+6 369
+
+1 180
+
+23 542
+
+𝑥 ≥ 20
+
+2 606
+
+1 416
+
+4 339
+
+Total
+
+37 594
+
+14 392
+
+2 560
+
+54 546
+
+Nombre de véhicules de tourisme impliqués
+dans un accident de la circulation en 2021
+Source : https://www.data.gouv.fr
+
+On arrondira les résultats au millième si nécessaire.
+4-a- Calculer la fréquence de véhicules âgés de plus de 20 ans parmi les véhicules
+impliqués dans un accident de la circulation en 2021 en France.
+4-b- Calculer la fréquence des véhicules impliqués dans un accident léger parmi les
+véhicules âgés de plus de 20 ans impliqués dans un accident de la circulation en
+2021 en France.
+On choisit au hasard un véhicule impliqué dans un accident de la circulation en 2021
+en France (on suppose que tous les véhicules impliqués dans un accident en 2021
+en France ont la même probabilité d’être choisis).
+On appelle 𝐶 l’événement « le véhicule choisi a moins de cinq ans » et 𝐿 l’événement
+« le véhicule choisi est impliqué dans un accident léger ». On désigne par 𝐴̅
+l’événement contraire d’un événement 𝐴.
+5- Calculer la probabilité de l’événement 𝐶 et la probabilité de l’événement L.
+6- Décrire par une phrase l’événement 𝐶̅ puis calculer sa probabilité.
+7- Décrire par une phrase l’événement 𝐶 ∩ 𝐿 puis calculer sa probabilité.
+8-a- On choisit un véhicule âgé de moins de cinq ans impliqué dans un accident de
+la circulation en 2021 en France. Quelle est la probabilité qu’il soit impliqué dans un
+accident léger ?
+8-b- Pour un véhicule impliqué dans un accident de la circulation en 2021 en France,
+le fait d'être impliqué dans un accident léger est-il indépendant du fait d'être âgé de
+moins de cinq ans ? Justifier la réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse artificielle
+Sur 12 points
+La photosynthèse est une réaction biochimique qui se produit chez les végétaux et
+certains micro-organismes. Depuis la fin des années 1980, des laboratoires
+cherchent à mettre au point des technologies de photosynthèse dite « artificielle » qui
+s’inspirent du processus naturel dans le but de produire de la matière organique
+pouvant constituer une ressource d’énergie verte pour produire de l’électricité.
+L’objectif de ce sujet est d’expliquer l’intérêt de la photosynthèse artificielle et
+d’étudier la possibilité d’utiliser des dispositifs de photosynthèse artificielle
+pour alimenter un foyer en électricité.
+Partie 1 – La conversion de l’énergie solaire en énergie chimique par les
+photosynthèses
+Les dispositifs de photosynthèse artificielle sont conçus avec des matériaux spéciaux
+qui sont capables de capter et convertir l’énergie solaire en énergie chimique stockée
+dans les carburants formés (produits carbonés et/ou dihydrogène).
+
+Principe de la photosynthèse artificielle
+Produit par l’auteur
+
+Cette énergie chimique pourra ensuite être convertie en électricité. La photosynthèse
+artificielle s’appuie sur le principe de la photosynthèse naturelle qui nécessite de
+l’énergie lumineuse.
+
+Document 1 – Expérience réalisée sur une feuille de Pelargonium
+Une expérience est réalisée en laboratoire avec une feuille de Pelargonium,
+recouverte partiellement d’un cache, éclairée pendant 12 heures. Le dispositif
+expérimental est présenté dans la figure A ci-dessous. Le cache est ensuite enlevé
+et la feuille est décolorée dans de l’éthanol bouillant sous hotte en présence d’un
+dispositif réfrigérant. La feuille est ensuite colorée à l’aide de l’eau iodée. L’eau
+iodée adopte une coloration noir-violet en présence d’amidon (glucide). Elle reste
+jaune en l’absence d’amidon. Les résultats obtenus sur la feuille sont présentés
+sur la photographie de la figure B.
+
+Figure A : dispositif expérimental
+présentant le cache posé sur la feuille de
+Pélargonium.
+
+Figure B : résultats obtenus suite à la
+coloration à l’eau iodée.
+
+Source : d’après https://planet-vie.ens.fr/thematiques/manipulations-en-svt/experiencessur-la-photosynthese
+
+1- Expliquer en quoi les photosynthèses naturelle et artificielle sont considérées
+comme des modes de conversion d’une énergie solaire en une énergie chimique
+à partir des données tirées du document 1 et de vos connaissances. Identifier les
+substrats (aussi appelés réactifs) et les produits de la photosynthèse.
+
+Partie 2 – Efficacité énergétique de la photosynthèse artificielle
+L’efficacité énergétique (rapport entre l'énergie chimique reçue et l'énergie solaire
+utilisée) de la photosynthèse naturelle ne dépasse pas les 1 % chez les végétaux. À
+l’heure actuelle, l’efficacité énergétique de la photosynthèse artificielle est également
+faible.
+2- La puissance surfacique solaire moyenne reçue au sol est de 350 W.m-2. La
+surface d’un dispositif de photosynthèse artificielle est de 10 cm 2.
+Montrer que la puissance solaire reçue par le dispositif est égale à 0,35 W.
+3- Calculer l’énergie solaire reçue par le dispositif pour une durée d’ensoleillement
+de 6 h par jour.
+L’énergie reçue et stockée chimiquement par le dispositif pour une durée
+d’ensoleillement de 6 h par jour est égale à 1,8 × 102 J.
+4- Calculer l’efficacité énergétique du dispositif. Comparer cette valeur avec celle de
+la photosynthèse naturelle.
+
+Pour la question suivante, on admettra que toute l’énergie stockée chimiquement par
+le dispositif peut être convertie en électricité pouvant alimenter un foyer et que la
+durée quotidienne d’ensoleillement est de 6 h. La consommation quotidienne
+d’électricité par personne par foyer en France est de 6 kWh.
+5- Déterminer le nombre nécessaire de dispositifs pour fournir quotidiennement en
+électricité un foyer composé de 5 personnes.
+Indication : le Watt-heure (Wh) est une unité physique qui correspond à l’énergie
+consommée ou délivrée par un système d’une puissance de 1 Watt pendant une
+durée d’une heure.
+6- Calculer la surface totale occupée par l’ensemble des dispositifs.
+Conclure sur la possibilité d’utilisation des dispositifs de photosynthèse artificielle
+pour alimenter quotidiennement un foyer en électricité.
+
+Partie 3 – L’intérêt de la photosynthèse artificielle
+
+Document 2 – Les besoins d’énergie dans le futur
+La population mondiale estimée à 7,7 milliards d’habitants en 2019 ne cessera de
+croître pour atteindre 9,8 milliards d’habitants en 2050. En poursuivant le rythme
+actuel de consommation d’énergie, celle-ci passerait d’environ 17 térawatts en
+2019 à 30 térawatts en 2050. (Note : 1 térawatt = 1012 watts)
+Source : d’après M.Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 3 – Proportion de l’utilisation des différentes sources d’énergie
+sur la planète
+Nucléaire
+(4 %)
+Hydraulique
+(6,8 %)
+
+Energies renouvelables
+(2,5 %)
+
+Energies fossiles
+(86,7 %)
+
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 4 – Évolution de l’anomalie de température moyenne globale de la
+Terre (en °C) et de la concentration des émissions de dioxyde
+de carbone (en parties par millions : ppm) de 1880 à 2016
+L’anomalie de la température
+de la Terre, positive ou négative,
+est l'écart entre la température
+annuelle observée sur la Terre
+mesurée en degrés Celsius par
+rapport à la température
+moyenne normale (calculée par
+rapport à 1850-1900).
+
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+7- À l’aide des documents 2 à 4 ainsi que des connaissances, discuter de l’intérêt
+de la photosynthèse artificielle en lien avec les défis auxquels l’humanité est
+confrontée.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+La formation des verres
+Sur 12 points
+La silice est la forme naturelle du dioxyde de silicium (SiO2) qui entre dans la
+composition de nombreux minéraux (quartz, etc.) et de nombreuses roches (sable,
+grès, granite, etc.). Le verre désigne un solide non cristallin (amorphe). Sa
+composition chimique contient une part importante de silice.
+Partie 1 – La silice : une structure amorphe ou cristalline
+Document 1 – Modèles moléculaires de deux structures en coupe de la silice
+
+Source : d'après CHAGUETMI, Salem (2010), Élaboration et caractérisation de
+nouveaux verres de fluorohafnates de strontium et de phosphosulfates. Université
+Mohamed Khider Biskra
+
+1- La figure du document 1 montre deux structures possibles de la silice. L’une est
+dite cristalline, l’autre amorphe (verre). Parmi les représentations a et b, préciser
+laquelle correspond à une structure cristalline. Justifier votre choix.
+
+À partir de deux échantillons identiques de silice liquide, on peut obtenir soit un
+verre, soit un cristal selon la vitesse de refroidissement.
+
+Document 2 – Évolution du volume d’un échantillon de silice lors du
+changement d’état
+
+Graphique de l’évolution du volume d’un échantillon de 5g de silice en fonction
+de la température. La courbe relative au cristal est en trait continu ; elle
+correspond à la vitesse de refroidissement la plus faible. La courbe relative au
+verre est un trait discontinu ; elle correspond à la vitesse de refroidissement la
+plus forte.
+
+2- La masse volumique du cristal est de ρcristal = 2,648 g.mL-1 et celle du verre est
+ρverre = 2,196 g.mL-1 .Calculer le volume du verre et du cristal pour une masse de
+5 g.
+3- Déterminer, en justifiant, si vos résultats sont cohérents avec le graphique du
+document 2.
+4- Indiquer entre le verre et le cristal, quelle structure s’obtient par le
+refroidissement le plus lent. Donner une autre condition qui peut conditionner
+l’apparition d’un verre ou d’un cristal.
+
+Partie 2 – Formation du verre en contexte géologique
+Les basaltes et les gabbros sont des roches magmatiques qui se forment dans
+plusieurs contextes géologiques, notamment au niveau des dorsales océaniques.
+Document 3 – Structures du basalte et du gabbro
+
+Basalte de dorsale océanique
+
+Gabbro de la croûte océanique
+
+Photographies de lames minces de roches observées au microscope en lumière
+polarisée et analysée (grossissement x40).
+Source : http://www.ipgp.fr/fr Catherine Mével
+Source : Banque Nationale de photo en SVT-Lyon www2.aclyon.fr/enseigne/biologie/photossql/photos.php
+
+5- Ranger par ordre d’échelle croissante les 5 termes suivants : roche, atome,
+cristal, maille, minéral. Quels termes mobiliser pour décrire les photographies du
+document 3 ?
+6- Comparer la structure cristalline de ces deux échantillons de roches, puis, à
+partir des informations précédentes, proposer une explication des différences
+observées.
+
+Partie 3 – La datation des basaltes
+La datation des basaltes peut faire appel à une méthode de datation
+radiochronologique appelé « méthode rubidium - strontium (Rb-Sr) ». Cette méthode
+87Sr
+
+87Rb
+
+se base sur la mesure des rapports 38
+86Sr et 86Sr .
+
+7- Indiquer la différence de composition entre les noyaux de de 87
+37Rb et de 38Sr.
+Même question entre les noyaux de 86
+38Sr et de 38Sr. Nommer la relation entre les
+noyaux de 86
+38Sr et de 38Sr.
+
+8- Sur les 3 noyaux évoqués, seul le noyau de 87
+37Rb est dit radioactif. Définir ce
+terme.
+9- Définir le terme de « demi-vie » puis indiquer le nombre de noyau de 87
+37Rb
+restants au bout de 3 demi-vies sur un échantillon initial de 1000 noyaux.
+
+Document réponse à rendre avec la copie
+Exercice 1

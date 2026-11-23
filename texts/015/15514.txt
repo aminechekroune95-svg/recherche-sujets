@@ -1,0 +1,488 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1304613, "at": "2026-11-23T09:29:26+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Niveau des océans
+Sur 4 points
+Partie 1 – Évolution du niveau moyen des océans
+Dans l’article « Élévation du niveau de la mer » publié en octobre 2019 sur le site du
+gouvernement français notre-environnement.gouv.fr, il est indiqué que le niveau
+moyen des océans a augmenté en moyenne de 3,2 mm par an sur la période allant
+de 1993 à 2011.
+On suppose dans cette partie qu’à partir de 2011 le niveau moyen de l’océan
+augmente chaque année de 3,2 mm. On modélise l’élévation, en mm, du niveau
+moyen de l’océan entre l’année 2011 et l’année 2011 + 𝑛 par une suite (𝑢! ).
+Dans cette modélisation, on a 𝑢(0) = 0.
+1. Justifier que 𝑢(2) = 6,4 et proposer une interprétation dans le contexte de
+l’exercice.
+2. La suite (𝑢! ) est-elle arithmétique ou géométrique ? Justifier.
+3. Donner, pour tout entier naturel 𝑛, l’expression de 𝑢! en fonction de 𝑛.
+4. En déduire l’élévation en mm du niveau moyen de l’océan entre l’année 2011
+et l’année 2024.
+5. D’après ce modèle, à partir de quelle année, le niveau moyen des océans
+aura augmenté de plus de 10 cm par rapport au niveau moyen relevé en
+2011 ?
+Partie 2 – Étude du niveau de l’océan au Conquet (Finistère, Bretagne)
+La station du Conquet (ville du Finistère en Bretagne) enregistre différentes données
+dont le niveau de la mer. Ces données ont été saisies dans une feuille de calculs
+d’un tableur.
+En abscisse on trouve les années et en ordonnée le niveau moyen sur l’année, en
+mm, de l’Océan Atlantique pour la station du Conquet.
+
+Les données relevées chaque année permettent d’obtenir le nuage de points
+ci-dessous. Sur le graphique figure aussi une courbe de tendance, approchant le
+nuage de points.
+
+Source : psmsl.org
+1. La courbe de tendance obtenue correspond à la fonction 𝑓 définie sur
+[1971 ; 2020] par :
+𝑓(𝑥) = 3,0214𝑥 + 1032,4
+où 𝑥 représente le temps en année et 𝑓(𝑥) représente le niveau moyen sur
+l’année 𝑥, en mm de l’océan.
+Quelle est la nature de la fonction 𝑓 ?
+2. On admet que la fonction 𝑓 est dérivable sur [1971 ; 2020], on note 𝑓′ sa
+fonction dérivée.
+Calculer 𝑓′(𝑥). Interpréter ce résultat dans le contexte de l’exercice.
+3. En supposant que ce modèle reste valable dans le temps, estimer le niveau
+moyen de l’océan en 2050.
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Réchauffement climatique
+Le réchauffement climatique anthropique est défini comme l’évolution du climat
+engendrée par les activités humaines et venant s'ajouter aux variations naturelles.
+Effectivement, certaines activités humaines libèrent en grandes quantités des gaz à
+effet de serre (comme la vapeur d’eau, le dioxyde de carbone, méthane…) dont
+l’action sur le climat est connue. Pourtant, on peut lire sur des réseaux sociaux des
+affirmations comme : « Le climat a toujours changé, mais cela n’a rien à voir avec
+l’homme ».
+L’objectif de ce sujet est de développer des arguments permettant de trancher ce
+débat dans le respect de la démarche scientifique.
+Partie 1 – Un exemple de la variabilité naturelle du climat
+Plusieurs facteurs naturels peuvent être à l’origine de la variabilité climatique sur
+Terre. C’est le cas de la puissance reçue sur Terre de la part du Soleil, qui peut
+changer du fait de différents facteurs.
+
+Document 1 – Courbes superposées de l’évolution de l’anomalie de la
+température de la Terre et de la puissance surfacique solaire
+reçue par la Terre au cours des années
+L’anomalie de la température de la
+Terre est l'écart entre la température
+mesurée en degrés Celsius, positive
+ou négative, par rapport à la
+température moyenne normale
+(calculée sur une période d'au moins
+30 ans) annuelle observée sur la
+Terre.
+
+Source : d’après https://climate.nasa.gov/climate_resources/189/graphic-temperature-vssolar-activity/
+
+1- À partir du document 1, décrire l’évolution de l’anomalie de la température de la
+Terre et celle de la puissance surfacique solaire reçue par la planète depuis 1900.
+
+Document 2 – L’énergie solaire
+Depuis son existence il y a 4,6 milliards d’années, le Soleil fournit en permanence
+à la Terre l’énergie indispensable à la vie. L’énergie solaire est issue de réactions
+de fusion nucléaire ayant lieu au cœur du Soleil à une température très élevée
+(environ 15 millions de Kelvin) en comparaison avec celle de la surface (environ
+6 000 Kelvin).
+Ainsi, ce sont 620 millions de tonnes d’hydrogène qui, chaque seconde, sont
+transformées en 615,7 millions de tonnes d’hélium. Cela signifie que, chaque
+seconde, l’énergie libérée par des réactions de fusion qui se produisent au sein du
+Soleil est de 3,9 × 1026 J soit une puissance totale émise par le Soleil de
+3,9 × 1026 W. Cette valeur fluctue selon un cycle de 11 ans avec l’activité du Soleil.
+Source : d’après l’article du CEA « De l'étoile à l'énergie domestique », 2009
+
+2- À l’aide des documents 1 et 2, justifier que l’activité du Soleil n’est pas un facteur
+du réchauffement climatique au cours de la dernière soixantaine d’années.
+
+Partie 2 – Le dioxyde de carbone, gaz à effet de serre, facteur de variabilité du
+climat ?
+Le dernier siècle a connu un réchauffement important. Les émissions de gaz à effet
+de serre, et plus particulièrement les émissions de dioxyde de carbone CO2,
+interrogent la responsabilité des humains dans l’élévation de la température globale
+de la Terre.
+Document 3 – Le GIEC
+Au niveau international, le Groupe d’experts intergouvernemental sur l’évolution du
+climat (GIEC) a été créé en 1988 par l’Organisation météorologique mondiale
+(OMM) et le Programme des Nations unies pour l’environnement (PNUE). Pour
+chaque rapport, les experts du GIEC analysent plusieurs milliers de publications
+scientifiques. Unique au monde, ce réseau de scientifiques a pour mission de
+compiler et de rendre compte des connaissances les plus avancées relatives à
+l’évolution du climat mondial, à ses impacts et aux moyens de les atténuer. Le
+GIEC est organisé de manière à garantir la qualité et l’indépendance du travail
+scientifique.
+
+Variation de la température de la Terre en °C
+
+Le GIEC s’appuie sur la représentation ci-dessous pour suggérer une relation
+entre la température terrestre moyenne et les émissions anthropiques cumulées de
+dioxyde de carbone, gaz à effet de serre (1 Gt = 1 milliard de tonnes). Cette
+relation est représentée graphiquement ci-dessous.
+
+Source : https://www.climato-realistes.fr
+
+Document 4 – Lien causal et savoirs scientifiques
+Bien conscients du fait que la corrélation n’implique pas forcément une causalité,
+les scientifiques ont recours à des méthodes qui leur permettent d’identifier les
+causes d’un phénomène avec le plus grand degré de certitude et, notamment,
+d’exclure que l’effet observé ne soit attribué à d’autres causes possibles. Les
+scientifiques cherchent à valider leurs hypothèses à l’aide de nombreuses
+expériences – et notamment la répétition de la même expérience par d’autres
+chercheurs, dans d’autres laboratoires – par la recherche d’un mécanisme
+permettant de rendre compte du lien entre la variable et l’effet, et donc, à préciser
+le lien causal à travers des causes de plus en plus précises et non ambiguës.
+Toute cette procédure garantit au mieux d’exclure les variables confondantes : on
+augmente fortement notre confiance dans le lien causal que l’on cherche à établir
+entre le facteur observé et la variable suspectée. Déterminer un lien causal est
+l’une des étapes qui permettent aux scientifiques de parvenir à établir des
+connaissances scientifiques.
+Source : d’après https://cqfd-lamap.org/esprit-critique/competences/cause-et-correlation/
+
+3- À partir des documents 3 et 4, expliquer comment le GIEC contribue à établir des
+savoirs scientifiques.
+4- À l’aide du graphique du document 3, recopier les propositions exactes sur la
+copie, choisies parmi les suivantes :
+
+en 2000, la température de la Terre a augmenté de 0,9 °C ;
+
+sur la période 1850-2020, les émissions anthropiques cumulées ont été de
+2 410 Gigatonnes de CO2 ;
+
+les émissions anthropiques cumulées de CO2 ont augmenté jusqu’à la valeur
+de 2020 Gigatonnes ;
+
+sur la période 1900-2020, la température de la Terre s’est accrue d’environ
+1,1 à 1,2°C ;
+
+sur la période 1900-2020, les émissions anthropiques cumulées ont doublé.
+
+Document 5 – Graphiques représentant les fluctuations des teneurs en
+dioxyde de carbone et les fluctuations des températures
+depuis 220 000 ans sur Terre
+Les teneurs en CO2 sont obtenues par l'analyse de minuscules bulles d'air
+piégées dans la glace d’une carotte prélevée au nord de la Russie. Les
+fluctuations de température sont indiquées selon leur déviation par rapport aux
+températures actuelles (1993).
+
+Source : https://www.futura-sciences.com
+
+5- À l’aide de l’ensemble des documents, développer une argumentation permettant
+de confirmer ou d’infirmer les propos tenus dans la publication énoncée en
+introduction : « Le climat a toujours changé, mais cela n’a rien à voir avec
+l’homme ».
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+Forçage radiatif et conséquences
+Sur 16 points
+L’Agence de la transition écologique (ADEME) publie en octobre 2020 une prévision
+des impacts climatiques à venir d’ici 2050 en France. Ces impacts concernent
+principalement l’augmentation des températures et les risques d’inondation qui en
+découlent.
+L’objectif de cet exercice est de comprendre quelques effets sur le climat de la
+variation du forçage radiatif.
+Document 1 : les scénarios RCP (Representative Concentration Pathway)
+sont quatre scénarios de trajectoire du forçage radiatif jusqu'à l'horizon 2100
+
+RCP 8.5
+RCP 6.0
+RCP 4.5
+RCP 2.6
+
+Chaque scénario RCP est caractérisé par un nombre qui correspond à une valeur
+d’élévation du forçage radiatif par unité de temps et de surface, exprimé en W ⋅ m"# .
+Source : d’après https://www.climate-chance.org
+
+Document 2 : composantes du forçage radiatif terrestre
+
+Source : Wikimedias
+
+6.a. Définir la notion de « forçage radiatif ».
+6.b. Justifier que, par unité de temps et de surface terrestre, ce forçage radiatif
+s’exprime en W∙m-2.
+6.c. Expliquer en quoi le forçage radiatif est lié à la variation de la température
+terrestre.
+7. Expliquer les causes de l’augmentation du forçage radiatif depuis la révolution
+industrielle (1850).
+
+8. On analyse l’effet du forçage radiatif sur le niveau des océans.
+En tenant compte uniquement de la dilatation des océans, estimer la variation du
+niveau marin 𝛥𝑒 à l’échelle du globe, en 2100, pour un RCP 4.5 qui correspond aux
+accords de Paris, à l’aide des données ci-dessous.
+Données :
+La variation 𝛥𝑉 d’un volume 𝑉$ d’eau est proportionnelle à la variation de
+température 𝛥𝑇 selon la relation 𝛥𝑉 = 𝛽 · 𝑉$ · 𝛥𝑇 avec le coefficient de dilatation
+thermique de l’eau 𝛽 = 2,6 × 10"% °C "& .
+La surface totale des océans est 𝑆 = 360 × 10' km# .
+L’épaisseur de la couche superficielle océanique concernée est 𝑒 = 300 m.
+L’un des paramètres qui influe sur le forçage radiatif est l’albédo terrestre moyen.
+On rappelle que l’albédo d’une surface correspond au rapport de l’énergie lumineuse
+réfléchie sur l’énergie lumineuse incidente. Le tableau suivant fournit quelques
+valeurs d’albédo suivant la nature des surfaces.
+Type de Surface
+Mer / Océan
+Glace
+Neige fraîche
+
+Albédo
+0,26
+0,6
+0,85
+
+Albédo de différentes surfaces (source : Météo France)
+
+9. Préciser si une augmentation de l’albedo terrestre produit une augmentation ou
+une diminution du forçage radiatif. En déduire que la fonte des glaces (terrestres et
+marines) se traduit par une augmentation du forçage radiatif.
+10. Expliquer pourquoi la fonte des glaces est un facteur de rétroaction positive de
+l’échauffement global du climat. Il est possible d’appuyer le raisonnement sur un
+schéma.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Les documents 1 à 5, à consulter, sont fournis sur les pages suivantes.
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+2- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des transporteurs GLUT.
+3- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane
+plasmique.
+
+Légendes :
+CW = Paroi ; Mb
+= Membrane
+plasmique ; N =
+Noyau ; V =
+vacuole ; M =
+Mitochondries ;
+Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+Les impacts de la combustion sur l’environnement et la santé
+La combustion de carburants fossiles et de la biomasse libère du dioxyde de carbone
+qui a un impact environnemental majeur.
+Il est également reconnu par l’Organisation mondiale de la santé (OMS) que la santé
+publique est impactée par la pollution de l’air. Le Ministère des Solidarités et de la
+Santé estime qu’environ 48 000 personnes décèdent chaque année des effets de la
+pollution de l’air en France.
+On se propose d’étudier la part et les impacts de la combustion de carburants
+fossiles et de biomasse sur la santé humaine.
+Document 1 : Production de dioxyde de carbone lors de la combustion
+de carburants fossiles et de la biomasse
+
+Équation de la réaction
+
+Gaz naturel méthane CH4
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+Essence modélisée par
+l’octane C8H18
+
+2 C8H18 + 25 O2 → 16 CO2 +18 H2O
+
+Biomasse (bois)
+modélisée par C6H10O5
+
+C6H10O5 + 6 O2 → 6 CO2 + 5 H2O
+
+Énergie massique libérée par kg de combustible brûlé :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Énergie massique
+libérée
+
+50 MJ.kg-1
+
+45 MJ.kg-1
+
+17 MJ.kg-1
+
+Masse de CO2 produite pour 1 MJ d’énergie obtenue :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Masse de CO2
+produite
+
+56 g
+
+À calculer à la
+question 5
+
+95 g
+
+Source : d’après J.-C. Guibet, Publications de l’Institut français du pétrole,1997
+et W.-M. Haynes, CRC Handbook of Chemistry and Physics, 2012
+
+4- Indiquer le (ou les) combustible(s) mentionnés dans le document 1 pouvant être
+utilisés comme source(s) d’énergie renouvelable.
+5- Calculer la masse d’essence, notée 𝑚())(*+( , nécessaire pour obtenir une énergie
+de valeur 1 MJ.
+6- Sachant que la masse d’une mole d’essence est égale à 114 g, vérifier que la
+quantité de matière, notée 𝑛())(*+( , présente dans la masse d’essence nécessaire
+pour obtenir une énergie de valeur 1 MJ vaut environ : 𝑛())(*+( = 0,2 mol.
+7- À l’aide de l’équation de la réaction modélisant la combustion de l’essence, vérifier
+que la quantité de matière de dioxyde de carbone produite 𝑛,-! est telle que
+𝑛,-! = 8𝑛())(*+( . Calculer 𝑛,-! .
+8- La masse d’une mole de dioxyde de carbone étant égale à 44 g, déterminer la
+masse de CO2 libérée dans l’atmosphère par la combustion de l’essence pour
+obtenir une énergie de valeur 1 MJ.
+9- Comparer la masse de dioxyde de carbone émise par MJ produit pour chaque
+combustible du document 1 et indiquer quel est l’impact environnemental majeur du
+dioxyde de carbone.

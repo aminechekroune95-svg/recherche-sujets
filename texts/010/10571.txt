@@ -1,0 +1,280 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1370876, "at": "2026-11-23T09:22:42+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+La Betadine® (10 points)
+La Bétadine® 10% est un antiseptique proposé sous forme de solution,
+utilisé en application locale pour le traitement des plaies et des brûlures
+superficielles. Ses propriétés antiseptiques sont dues à son principe actif :
+le diiode de formule I2. C’est aussi le diiode qui lui donne sa couleur
+jaune-orange.
+Les molécules de diiode présentes dans la Bétadine® 10% sont liées à un
+polymère, la polyvidone et forment avec lui une espèce appelée
+polyvidone iodée.
+Sur le flacon de Bétadine® 10% est indiqué : « polyvidone iodée : 10 g
+pour 100 mL ».
+L’objectif de cet exercice est de vérifier cette indication et d’un des modes d’action bactéricide
+de la Bétadine® 10%.
+Données
+Masse molaire atomique de l’iode : M(I) = 126,9 g·mol−1
+Masse molaire de la « polyvidone iodée » : M = 2362,8 g.mol-1.
+- Spectre d’absorption d’une solution aqueuse de diiode I 2
+
+Cercle chromatique
+
+1. Dosage du diiode contenu dans la Bétadine® par spectrophotométrie
+Un volume de 250,0 mL de solution dite « mère » S0 est préparé par dissolution de diiode dans
+l’eau, pour obtenir une concentration en quantité de matière de diiode C0 = 2,0010−2 mol·L−1.
+1.1. Déterminer la masse de diiode solide qu’il faut dissoudre pour obtenir 250,0 mL de
+solution « mère » à la concentration souhaitée ?
+La préparation de la gamme de solutions permettant d’obtenir le graphe d’étalonnage, se fait
+par dilution à partir de la solution aqueuse de diiode S0 de concentration C0 = 2,0010−2
+mol·L−1.
+Nom de la
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+solution
+Concentration
+0,10
+0,20
+0,40
+0,50
+0,60
+0,80
+1,0
+(en mmol·L−1)
+1.2. À partir de la liste des matériels et produits proposée ci-après, indiquer la verrerie
+nécessaire et le protocole pour préparer la solution S 3. Justifier ce choix par un calcul.
+- Pipettes jaugées de 5,0 ; 10,0 ; 15,0 ; 20,0 et 25,0 mL.
+- Fioles jaugées de 50,0 ; 100,0 et 250,0 mL.
+- Trois béchers.
+- Solution « mère » de diiode S0
+- Eau distillée.
+1.3. Choix de la longueur d’onde de travail
+1.3.1. Dissous en solution aqueuse, le diiode donne à la solution une coloration jauneorange. Expliquer cette coloration.
+1.3.2. À quelle longueur d’onde faut-il régler le spectrophotomètre pour réaliser les
+mesures d’absorbance des solutions étalon ? Justifier.
+1.4. Utilisation de la loi de Beer-Lambert
+La loi de Beer-Lambert énonce que pour une longueur d’onde donnée, l’absorbance A d’une
+solution est proportionnelle à sa concentration C, si celle-ci n’est pas trop élevée. À partir des
+mesures d’absorbance des différentes solutions étalon préparées, on obtient la courbe
+d’étalonnage suivante :
+
+Courbe d'étalonnage - Solutions I2
+A = f(C)
+
+1,5
+
+0,5
+
+0,0
+
+0,2
+
+0,4
+
+0,6
+
+0,8
+
+1,0
+
+1,2
+
+1.4.1. Montrer qu’il n’est pas possible, à partir de cette courbe, de déterminer la
+concentration de la solution commerciale pour confirmer l’indication fournie par le
+fabricant. Justifier.
+La solution commerciale de Bétadine® doit donc être diluée. La solution proposée est de la
+diluer 200 fois. Le spectrophotomètre indique une absorbance A de la solution diluée.
+1.4.2. Prévoir la valeur de l’absorbance A, qui confirmerait l’indication portée sur le
+flacon de Bétadine® 10%. Justifier.
+2. Action bactéricide de la Bétadine®
+Une bactérie est un être unicellulaire dont la taille varie de 1 à 10 μm. Elle contient 70% d’eau.
+Rapporté à son poids sec, une bactérie est constituée à 55% de protéines [...]. Les protéines
+sont des macromolécules biologiques présentes dans toutes les cellules vivantes. Elles sont
+constituées d‘enchaînements d'acides aminés liés entre eux par des liaisons peptidiques. Parmi
+les acides aminés présents dans ces enchaînements, certains sont susceptibles de réagir avec
+le diiode libéré progressivement par la polyvidone iodée. L’un d’entre eux est la cystéine, notée
+Cys sur l’illustration ci-dessous.
+Les symboles Ala, Leu, Asp… sont relatifs à d’autres acides aminés, qui ne sont pas étudiés
+dans cet exercice.
+
+Protéinla formation de liaisons chimiques appelées
+La réaction entre le diiode et la cystéine entraîne
+« ponts disulfures » entre deux parties différentes d’une même protéine ou entre deux protéines
+différentes. Les protéines forment alors des agrégats qui entraînent la mort de la bactérie.
+
+La cystéine forme un couple oxydant-réducteur avec la cystine. En notant la cystéine Cys–S–H
+et la cystine Cys–S–S–Cys, la demi-équation électronique du couple s’écrit :
+2 Cys–S–H = Cys–S–S–Cys + 2 H+(aq) + 2 e2.1. Nommer l’oxydant du couple oxydant-réducteur formé par la cystéine et la cystine ?
+Justifier.
+2.2. Écrire la demi-équation électronique du couple diiode/ion iodure noté I 2(aq)/I−(aq).
+2.3. Écrire l’équation de la réaction d’oxydoréduction modélisant la transformation chimique
+entre le diiode I2 et la cystéine notée Cys–S–H.
+2.4. L’action bactéricide de la Bétadine® présentée ici, est-elle la conséquence d’une oxydation
+ou d’une réduction des protéines ? Justifier.
+PARTIE B
+Plongée en eau douce (10 points)
+La plongée en eau douce peut se pratiquer dans les lacs, les étangs, les anciennes carrières,
+les rivières et même les piscines. Ce sport permet de découvrir une faune et une flore
+aquatiques typiques de ces milieux.
+1. Pression et profondeur
+Un plongeur débutant ressent souvent une douleur intense au niveau des tympans lors des
+plongées. Le tympan est une membrane qui sépare l’oreille moyenne du milieu extérieur. Il est
+assimilable à un disque de surface 𝑆 = 6,0 × 10−5 m².
+Une légère différence entre la pression extérieure et celle de l’air dans l’oreille moyenne suffit à
+provoquer des douleurs qui peuvent aller jusqu’à l’inflammation du tympan : c’est le
+barotraumatisme auriculaire. Celui-ci peut se déclarer dès lors que la différence entre la force
+pressante exercée par un fluide extérieur et celle exercée par l'air intérieur sur le tympan
+excède une valeur de l’ordre de 2 N. Pour l’éviter, il est possible d’effectuer la manœuvre de
+Valsalva : elle consiste à expirer tout en se pinçant les narines afin de rééquilibrer les pressions
+de part et d’autre du tympan.
+Un plongeur souhaite vérifier au laboratoire l'influence de la profondeur sur la pression lors
+d'une séance de travaux pratiques. Pour cela, il utilise un manomètre associé à un tuyau en
+plastique pour mesurer la valeur de la pression, un mètre ruban pour mesurer celle de la
+profondeur et un long tube de plexiglas.
+
+Il remplit le tube de plexiglas avec de l'eau et y plonge le tuyau en plastique. Il relève la
+pression P en fonction de la profondeur d'immersion h de l'extrémité du tuyau.
+Le plongeur obtient les résultats suivants :
+h(cm)
+P(hPa)
+
+1012
+
+1023
+
+1032
+
+1042
+
+1052
+
+1062
+
+1072
+
+1082
+
+1091
+
+Données :
+- la loi fondamentale de la statique des fluides est donnée par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+où 𝐴 et 𝐵 sont deux points d'un fluide au repos, d'altitudes respectives 𝑧𝐴 et 𝑧𝐵 (en
+mètre), où règnent les pressions respectives 𝑃𝐴 et 𝑃𝐵 (en pascal) ;
+- masse volumique de l'eau : ρ = 1000 kg. m−3 ;
+- intensité de la pesanteur : 𝑔 = 10 N. kg −1 .
+1.1.
+
+Expliquer qualitativement le lien entre la pression et le comportement microscopique des
+entités qui constituent le fluide.
+
+1.2.
+
+En utilisant une étude graphique, tester la loi fondamentale de la statique des fluides à
+partir des mesures consignées dans le tableau ci-dessus.
+
+1.3.
+
+On considère que la loi fondamentale de la statique des fluides est vérifiée à 10 mètres
+de profondeur.
+
+Estimer la valeur de la force pressante exercée par l'eau sur la surface du tympan d’un
+plongeur à cette profondeur.
+On considère que le plongeur effectue la descente de la surface de l’eau jusqu’à 10 m de
+profondeur sans réaliser la manœuvre de Valsalva. Risque-t-il un barotraumatisme
+auriculaire ? Une réponse détaillée est attendue.
+2. Le sens électrique chez les poissons
+Les poissons électriques
+On appelle poisson électrique les poissons capables d'utiliser un courant électrique pour
+s'orienter, pour se protéger ou pour communiquer. La majorité de ces poissons vivent dans les
+eaux turbides ou ont une activité nocturne. Ils génèrent un champ électrostatique autour de leur
+corps. Un objet placé à proximité modifie la valeur de l'intensité locale du champ
+électrostatique. Par la suite, des récepteurs électriques situés dans la peau détectent le champ
+électrostatique et les modifications subies, ce qui permet au poisson de percevoir les
+caractéristiques de son environnement, détecter des proies et communiquer avec des
+
+congénères. Quelques espèces sont capables de produire des décharges électriques de forte
+intensité, comme les anguilles électriques, les torpilles ou les silures électriques. Elles s'en
+servent pour se protéger contre des prédateurs, ou pour assommer des proies avant de les
+consommer.
+Source : article « Poisson électrique » de Wikipédia en français.
+(http://fr.wikipedia.org/wiki/Poisson_%C3%A9lectrique).
+Force et champ électrostatiques
+Un objet possédant une charge électrique 𝑞𝐵 placée dans un champ électrostatique 𝐸⃗ ,
+engendré par une charge électrique 𝑞𝐴 , subit une action mécanique modélisée par une force
+électrostatique :
+𝐹 = 𝑞𝐵 𝐸⃗ .
+La force électrostatique est donnée par la loi de Coulomb :
+𝐹=
+
+𝑞𝐴 𝑞𝐵
+×
+⃗𝑢
+4𝜋𝜀𝑅 𝜀0
+𝑟2
+
+avec ⃗𝑢, vecteur unitaire de même direction que la droite reliant les deux charges et orienté de A
+vers B, 𝜀𝑅 et 𝜀0 deux constantes appelées permittivités diélectriques, 𝑞𝐴 et 𝑞𝐵 les charges, 𝑟 la
+distance entre les deux charges.
+Valeurs des permittivités diélectriques :
+ permittivité diélectrique du vide : 𝜀0 = 8,85  10−12 F. m−1 ;
+ permittivité diélectrique relative de l'air par rapport au vide : 𝜀𝑅 = 1,00 ;
+ permittivité diélectrique relative de l'eau par rapport au vide : 𝜀𝑅 = 78,5.
+Effets des champs électrostatiques sur la santé
+Les champs électrostatiques peuvent provoquer des réactions cutanées. En effet, ils induisent
+au niveau de la peau des personnes exposées une modification de la répartition des charges
+électriques. Cette modification est perceptible surtout au niveau des poils et des cheveux (seuil
+de perception : 10 kV.m-1, seuil de sensations désagréables : 25 kV.m-1).
+Source : http://www.inrs.fr/risques/champs-electromagnetiques/effets-sante.html
+Un plongeur se trouve à 2,0 m d'une anguille électrique. En première approximation, on
+modélise une partie de l'anguille par un point placé en A et de charge unique 𝑞𝐴 = 4,4×10-12 C.
+2.1.
+
+Montrer que l’expression du champ électrostatique⃗⃗⃗𝐸 créé au point B par une charge 𝑞𝐴
+est donnée par la relation :
+
+𝐸⃗ =
+
+𝑞𝐴
+× 2 ⃗𝑢
+4𝜋𝜀𝑅 𝜀0 𝑟
+
+2.2.
+
+L’intensité du champ électrostatique décroît très vite avec la distance. En outre, les
+valeurs des champs électrostatiques créées par les poissons sont souvent faibles car
+l’eau, par rapport à l’air, divise par environ 80 l’amplitude du champ électrostatique.
+Justifier ces deux affirmations.
+
+2.3.
+
+Dans le cadre de cette modélisation, calculer la valeur du champ électrostatique ressenti
+par le plongeur. Ce champ est-il perceptible par le plongeur ? Justifier.
+
+2.4.
+
+Le champ électrostatique créé par un poisson électrique peut être assimilé à celui d’un
+ensemble composé de deux charges électriques de signes opposés.
+
+Figure 3.a.
+Figure 3.b.
+Lignes de champ électrostatique créé par un ensemble de deux charges électriques placées
+aux points M et N.
+
+Pour chaque figure, donner le signe des charges placées aux points M et N.
+Parmi les deux figures proposées, laquelle correspond au modèle du poisson électrique ?

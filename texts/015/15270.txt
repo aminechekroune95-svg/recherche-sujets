@@ -1,0 +1,443 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1223765, "at": "2026-11-23T09:40:29+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A 2
+Olivier visite son site préféré pour relire le programme de NSI.
+Il devrait lire le texte ci-dessous :
+L’enseignement de spécialité de numérique et sciences informatiques du cycle terminal de la voie
+générale vise l’appropriation des fondements de l’informatique pour préparer les élèves à une
+poursuite d’études dans l’enseignement supérieur, en les formant à la pratique d’une démarche
+scientifique et en développant leur appétence pour des activités de recherche.
+Le paramétrage de son navigateur lui donne l’affichage ci-dessous :
+Lâ€™enseignement de spÃ©cialitÃ© de numÃ©rique et sciences informatiques du cycle terminal
+de la voie gÃ©nÃ©rale vise lâ€™appropriation des fondements de lâ€™informatique pour
+prÃ©parer les Ã©lÃ¨ves Ã une poursuite dâ€™Ã©tudes dans lâ€™enseignement supÃ©rieur, en
+les formant Ã la pratique dâ€™une dÃ©marche scientifique et en dÃ©veloppant leur
+appÃ©tence pour des activitÃ©s de recherche.
+Quel type d’encodage Olivier doit-il choisir dans les paramètres de son navigateur pour afficher correctement
+le texte ?
+ANSI
+LATIN-1
+UTF-8
+ASCII
+Question A 3
+Quel est le résultat de l'addition binaire 0100 1110 + 0110 1101 ?
+0101 1011
+1010 1101
+1011 0110
+1011 1011
+Question A 4
+
+𝑛 est un entier dont la représentation en base 2 est : 100 1011.
+Laquelle de ces affirmations est vraie ?
+𝑛 est un entier pair plus grand que 128
+𝑛 est un entier impair plus grand que 128
+𝑛 est un entier pair plus petit que 128
+𝑛 est un entier impair plus petit que 128
+Question A 5
+Quel est l'entier codé sur 4 bits en complément à 2 par 1101 ?
+-6
+-3
+Question A 6
+Quelle est la représentation en binaire de l'entier 64 sur un octet ?
+0101 0000
+1100 0100
+0100 0000
+0000 1100
+
+Thème B : types construits
+Question B 1
+On considère deux entiers strictement positifs L et C. On note n = L*C leur produit et on écrit la fonction
+suivante, qui construit un tableau de L lignes et C colonnes, contenant les entiers consécutifs de 0 à n-1 :
+def construitTable(L,C):
+t = []
+for i in range(L):
+ligne = []
+for j in range(C):
+......
+t.append(ligne)
+return t
+Par exemple, l'appel construitTable(2,3) doit renvoyer la table :
+[ [0, 1, 2],
+[3, 4, 5]
+
+]
+
+Que faut-il écrire à la place des points de suspension pour obtenir ce résultat ?
+ligne.append(i + C*j)
+ligne.append(L*i + j)
+ligne.append(i + L*j)
+ligne.append(C*i + j)
+Question B 2
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+Question B 3
+De quelle expression la liste suivante est-elle la valeur ?
+[[0,0,0,0], [1,1,1,1], [2,2,2,2]]
+[[i] * 4 for i in range(4)]
+[[i] * 3 for i in range(4)]
+[[i] * 4 for i in range(3)]
+[[i] * 3 for i in range(3)]
+Question B 4
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+Question B 5
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 6
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+
+Thème C : traitement de données en tables
+Question C 1
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ......
+:
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 2
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 3
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 4
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 5
+
+On considère le code suivant :
+def clearfield(f):
+for i in range(len(f)):
+f[i]['code'] = None
+return f
+fiche = [
+
+{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}
+
+]
+
+Que renvoie clearfield(fiche) ?
+[{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}]
+
+[{"nom": "pierre", "note": None, "code": 125},
+{"nom": "pol", "note": None, "code": 82},
+{"nom": "jack", "note": None, "code": 135}]
+
+[{"nom": "pierre", "note": 5.99, "None": 125},
+{"nom": "pol", "note": 2.99, "None": 82},
+{"nom": "jack", "note": 7.99, "None": 135}]
+
+[{"nom": "pierre", "note": 5.99, "code": None},
+{"nom": "pol", "note": 2.99, "code": None},
+{"nom": "jack", "note": 7.99, "code": None}]
+
+Question C 6
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+Question D 2
+Saisir l'URL http://monsite.com/monprogramme.py?id=25 dans la barre d'adresse d'un navigateur ne peut
+jamais permettre :
+d'obtenir une image
+d'envoyer une requête GET
+d'envoyer une requête POST
+d'exécuter un programme Python sur le serveur
+Question D 3
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D 4
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 5
+Dans quelle situation peut-on garantir qu'une transmission entre un client et un serveur sera chiffrée ?
+Lorsqu'on utilise le protocole HTTP
+Lorsqu’on utilise la méthode POST
+Lorsqu’on utilise le protocole HTTPS
+Lorsqu’on utilise HTML et CSS
+Question D 6
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E 2
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 3
+On a exécuté la commande ls -l et obtenu l’affichage suivant :
+total 0
+-rw-rw-rw- 1 etudiant etudiant 15 Jul 2 13:29 exercice
+drwxrwxrwx 1 etudiant etudiant 512 Jul 2 13:37 seances
+Que permettent d’affirmer les informations obtenues ?
+exercice et seances sont deux fichiers « ordinaires »
+exercice est un fichier « ordinaire » et seances est un répertoire
+exercice et seances sont deux répertoires
+exercice est un répertoire et seances est un fichier « ordinaire »
+Question E 4
+Dans un terminal Linux on écrit :
+user@promethee:/home/user/mesVideos $ cd ../mesPhotos
+que se passe-t-il si on appuie sur la touche entrée ?
+L'utilisateur sera positionné dans le répertoire /home/user/mesPhotos
+Un nouveau dossier nommé mesPhotos sera créé dans le répertoire /home/user
+L'utilisateur sera positionné dans le répertoire /home/user/mesVideos/mesPhotoss
+Un nouveau dossier nommé ../mesPhotos sera créé dans le répertoire /home/user/mesVideos
+Question E 5
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+Question E 6
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+
+Thème F : langages et programmation
+Question F 1
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F 2
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 3
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 4
+resultat = [1 * 7]
+
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+Question F 5
+La fonction maxi ci-dessous a pour but de renvoyer la valeur maximale présente dans la liste qui lui est passée
+en argument.
+def maxi(L):
+dernier_indice = len(L) - 1
+valeur_max = L[0]
+for i in range(1,dernier_indice):
+if L[i] > valeur_max:
+valeur_max = L[i]
+return valeur_max
+Cette fonction a été mal programmée. On souhaite réaliser un test pour le démontrer.
+Parmi les propositions suivantes, laquelle mettra la fonction maxi en défaut ?
+maxi([1, 2, 3, 4])
+maxi([4, 3, 2, 1])
+maxi([1, 3, 3, 2])
+maxi([1, 1, 1, 1])
+Question F 6
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+
+Thème G : algorithmique
+Question G 1
+liste = [4,8,12,6,2]
+def permute(L):
+for k in range(len(L)-1):
+if (L[k] > L[k+1]):
+L[k],L[k+1] = L[k+1],L[k]
+return L
+permute(liste)
+Quelle est la valeur de liste à la fin de l'exécution du script ?
+[2, 4, 8, 6, 12]
+[2, 4, 6, 8, 12]
+[4, 8, 6, 2, 12]
+[12, 8, 6, 4, 2]
+Question G 2
+On considère la fonction suivante :
+def f(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+Quelle est la valeur de f([ 7, 3, 1, 8, 19, 9, 3, 5 ], 0) ?
+Question G 3
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n = 0
+for item in L:
+if item == x:
+n = n + 1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste
+deux fois plus grande ?
+
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x
+Question G 4
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 5
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 6
+En utilisant une recherche dichotomique, combien faut-il de comparaisons avec l'opérateur == pour trouver
+une valeur dans un tableau trié de 1000 nombres, dans le pire des cas ?
+1000
+1024

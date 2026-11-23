@@ -1,0 +1,375 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1619821, "at": "2026-11-23T09:25:51+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l'ingénieur
+DURÉE DE L’ÉPREUVE : 2h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Analyser les principaux protocoles pour un réseau de communication
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Associer un modèle à un système asservi
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+PRÉSENTATION DU PRODUIT ÉTUDIÉ
+La loi relative à la transition énergétique pour la croissance verte
+interdit la vente et la distribution des gobelets, verres et assiettes en
+plastique au 1er janvier 2020 (Voir décret du 30 août 2016). L'objectif
+est de moins polluer car le plastique met des dizaines d'années à
+disparaître dans la nature et est souvent associé à des produits
+toxiques.
+Les solutions pour les organisateurs d'évènements publics
+consistent donc :
+- soit à utiliser de la vaisselle jetable en compostage domestique
+et constituée pour tout ou partie de matières biosourcées ;
+- soit à utiliser de la vaisselle réutilisable.
+Lorsque la deuxième solution est retenue, il est parfois difficile
+pour les organisateurs de récupérer les gobelets malgré les frais de
+consigne. Le système GOBLOX automatise la récupération, le
+stockage des gobelets ainsi que la restitution de la consigne tout en
+multipliant les points de collecte sur le site de l'évènement.
+
+Figure 1
+
+Cas d'utilisation du GOBLOX
+Le GOBLOX doit :
+- identifier l'objet collecté comme étant bien un gobelet plastique réutilisable selon la
+norme « Greencup » ;
+- déplacer le gobelet identifié vers la zone de stockage ;
+- stocker le gobelet dans la zone dédiée en optimisant l'espace disponible ;
+- rendre la consigne à l'utilisateur ;
+- réaliser ces opérations rapidement pour éviter les temps d'attente aux utilisateurs.
+Diagramme de contexte partiel
+Le GOBLOX doit :
+- permettre la récupération et le stockage
+des gobelets plastiques réutilisables et la
+restitution de la consigne ;
+- pouvoir être déplacé aisément sur le
+site de l'événement ;
+- respecter les normes ;
+- résister à son environnement et limiter
+les impacts sur celui-ci ;
+- se connecter à Internet pour effectuer
+un suivi continu ;
+- permettre (via internet) au responsable
+de l'événement de connaître l'état du
+stockage des gobelets et de la réserve
+de consigne.
+Figure 2
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Afin que le « GOBLOX » assure sa fonction de récupération de gobelet et de
+restitution de la consigne, il doit pouvoir stocker une grande quantité de gobelets
+récupérés et d’argent liquide pour la restitution des consignes conséquente.
+
+Problématique : comment stocker un millier de gobelets avec une attente maximale
+de 6 s entre le dépôt de 2 gobelets ?
+
+Figure 3 :
+gobelets sans rangement maîtrisé
+
+Étude du rangement des gobelets dans un carrousel
+L’objectif de cette étude est de justifier la pertinence du
+rangement des gobelets lors de la récupération et de la réaliser
+rapidement.
+Sachant que :
+- un gobelet occupe un volume de 370 cm3 ;
+- le container recevant les gobelets est un cylindre de diamètre 50
+cm et de hauteur de 75 cm ;
+- le volume du container est égal à Vcont =  × (Rcont)2 × hcont où Rcont est le rayon du
+container et hcont la hauteur du container ;
+- des mesures ont été réalisées afin de vérifier le nombre de gobelets contenu dans
+un container cylindrique sans rangement maîtrisé (figure 3). Ces mesures ont montré
+un taux de remplissage réel égal à 59% de la valeur théorique (sans tenir compte des
+espaces vides entre les gobelets).
+
+Figure 4 :
+empilement des gobelets réutilisables
+
+Figure 5 :
+implantation possible des empilements
+dans le container
+
+Question I.1
+
+Calculer la valeur théorique du nombre de gobelets récupérables.
+En déduire le nombre de gobelets réels contenus dans le container
+en cas de rangement non maitrisé.
+
+on possible des empilements dans le
+container
+Lors de l’empilage des gobelets, ils s’emboîtent de telle manière que la hauteur
+augmente de 20 mm à chaque gobelet ajouté (voir figure 4). Le nombre d’empilements
+possibles dans le container est égal à 30 répartis sur 3 couronnes concentriques de
+4,10 et 16 empilements (figure 5).
+Question I.2
+Figures 4 et 5
+
+Dans le container de hauteur de 75 cm, calculer le nombre de
+gobelets empilables pour un seul empilement comme le montre la
+figure 4 et le nombre de gobelets contenus dans le container une
+fois les 30 empilements réalisés.
+Conclure quant à la pertinence d’effectuer un rangement ordonné
+des gobelets.
+
+Étude de la chaîne de transmission de puissance en rotation du container
+recevant les gobelets réutilisables
+Le temps d’attente maximal acceptable par un utilisateur est de 6 secondes pour
+déposer son gobelet et récupérer sa consigne. On souhaite vérifier que la chaîne de
+puissance mise en place permet d’atteindre cette performance.
+Les données et paramètres renseignés dans le modèle sont les suivants (voir
+Figures 6a et 6b : chaîne de puissance et schéma cinématique du système de
+rotation du container, page suivante) :
+- tension nominale de la batterie 12 V ;
+- rapport de réduction du motoréducteur kréd = 1/36 ;
+- rapport de réduction du réducteur roue-vis kroue-vis = 1/30 ;
+- nombre de dents du pignon en sortie du réducteur : 9 dents ;
+- nombre de dents de la roue liée au container : 30 dents.
+
+Figure 6a : chaîne de puissance du système de rotation du container
+
+Roue
+(liée au container)
+
+Chaîne
+
+Pignon
+
+Motoréducteur
+
+Réducteur
+(roue et vis sans fin)
+Figure 6b : schéma cinématique du système de rotation du container
+
+Question I.3
+
+Calculer le rapport de réduction global kglobal du système de mise
+Figures 6a et 6b en rotation du container.
+Question I.4
+Figure 5
+
+À partir de l’angle de rotation du container le plus grand à parcourir
+(figure 5), déterminer le nombre maximum de tours du moteur.
+
+Sachant que :
+- le moteur tourne de 50 tours pendant la phase d’accélération qui dure 0,5 s et il
+tourne de 50 tours pendant la phase de décélération qui dure aussi 0,5 s ;
+- la vitesse nominale du moteur est de 12 000 trmin-1 ;
+- dans le cas le plus défavorable, le moteur doit tourner de 900 tours pour
+commencer un nouvel empilement.
+Question I.5
+
+Déterminer la durée maximale pour créer un nouvel empilement.
+
+Question I.6
+Figure 5
+
+Conclure par rapport au critère du cahier des charges de l’attente
+de réception entre deux gobelets et préciser si cette attente
+maximale se renouvelle souvent lors du remplissage du container.
+
+MODIFICATION DU COMPORTEMENT DU PRODUIT
+Fonctionnement
+Afin d'optimiser la capacité du "Goblox", les gobelets sont empilés en colonne, ces
+empilements sont disposés sur trois couronnes concentriques (voir figure 3). Lorsqu'une
+colonne est remplie, le carrousel doit tourner d'un angle donné. Lorsque la couronne
+intérieure est pleine, une goulotte (sous ensemble qui n'est pas étudié) guide les
+prochains gobelets vers la couronne intermédiaire (puis vers la couronne extérieure).
+En fin d'événement, les festivaliers souhaitent récupérer leur consigne le plus
+rapidement possible. Un temps d’attente entre deux usagers de 6 s est acceptable. Afin
+d'éviter le basculement des empilements présents dans le container lors du changement
+de colonnes, il est nécessaire de faire évoluer la commande du moteur vers une
+commande progressive.
+Problématique : comment gérer la rotation du plateau du carrousel en
+respectant le temps maximal de 6 secondes sans faire basculer les gobelets ?
+Le carrousel est directement entraîné en rotation par un motoréducteur.
+
+Figure 7 : diagramme des blocs internes du carrousel
+
+Question II.1
+Figure 7
+
+Pour chaque bloc du diagramme des blocs internes du carrousel
+(figure 7), indiquer si le constituant correspondant appartient à la
+chaîne de puissance ou à la chaîne d’information.
+
+Figure 8 : diagramme de blocs internes du bus RS485
+Afin de faciliter la modularité, une carte maître envoie des ordres à des cartes
+esclaves qui gèrent les fonctions principales du système. Lors d'une requête, le
+maître envoie une trame constituée de plusieurs octets :
+- le premier octet définit le destinataire
+($4D : carrousel, $50 : restitution pièce, $47 : détection gobelet, $41 : auxiliaire, …),
+$4D représente le nombre hexadécimal 4D et vaut 77 en décimal.
+- les octets suivants sont des ordres ou des valeurs. Pour la carte carrousel : il y
+a 2 octets pour indiquer l'angle de rotation exprimé en dixième de degré.
+Dès réception, l’esclave accuse réception en renvoyant 2 octets. Après exécution
+de l'ordre, il renvoie 2 nouveaux octets informant le maître sur la fin de l’exécution.
+Question II.2
+
+L'angle maximal de rotation du carrousel étant de 360° qui doit être
+exprimé en dixième de degré, déterminer le nombre de bits
+nécessaires pour coder cet angle.
+Justifier le nombre d'octets de données retenu pour indiquer
+l’angle de rotation souhaité au carrousel.
+
+Le maître envoie un ordre contenu dans la trame ci-dessous.
+Les données à transmettre à l’esclave sont divisées en octets transmis l’un après l’autre
+selon la trame décrite ci-dessous.
+Le protocole retenu est une transmission série à 9600 bits-1 :
+1 bit de start, 8 bits de données (LSB en premier), pas de parité, 1 bit de stop.
+(LSB : bit de poids le plus faible)
+
+Figure 9 : chronogramme d'une trame
+Question II.3
+Figure 9
+
+Déterminer le nombre de bits à transmettre pour envoyer l’ordre
+souhaité ainsi que la durée de transmission correspondante.
+Comparer la durée de la trame par rapport à la contrainte des 6
+secondes.
+
+Afin de connaître la position angulaire du carrousel, le motoréducteur intègre un capteur
+magnétique qui délivre une impulsion par tour du rotor moteur.
+Question II.4
+
+Indiquer la réduction minimale nécessaire entre le moteur et le
+carrousel, afin de garantir une précision de mesure d'un dixième de
+degré sur la roue du carrousel.
+Calculer le nombre d'impulsions délivrées par le capteur
+magnétique pour une rotation permettant de changer la position d'un
+empilement sur la couronne intérieure.
+
+Pour le passage d'un empilement au suivant, la vitesse du carrousel doit répondre à la
+courbe illustrée sur la figure 10 sur laquelle Ta ≤ 0,5 s et Td ≤ 0,5 s.
+
+Figure 10 : chronogramme de la vitesse de rotation du carrousel
+
+D'après l'algorithme de gestion de rotation, le sous-programme "SPEED(x)"
+permet de régler proportionnellement la vitesse du moteur, pour x = 0 → ω = 0 rads-1
+et pour x = 255 → ω = ωn où ωn est la vitesse de rotation nominale du moteur.
+La variable Pulse est incrémentée à chaque impulsion issue du capteur du moteur
+par une structure interne au microcontrôleur.
+En phase de décélération (voir figure 10), lorsque l'angle de rotation correspond à
+90% de l'angle souhaité, la vitesse ω décroit linéairement jusqu'à ωn / 4. Et le moteur
+reste à cette vitesse (ωn / 4) pour atteindre l'angle souhaité.
+L’accélération et la décélération ont la même norme.
+
+1.// Algorithme partiel de l'esclave "Carrousel"
+2.// Déclaration des variables et constantes
+3. Pulse : entier
+// nombre courant d’impulsions,
+4. Pulse_max : entier // valeur de Pulse pour l'angle prévu,
+fournie par le sous-programme "Lecture-serie"
+5. Pulse_R : entier
+// valeur de Pulse pour ralentissement
+6. Vit : entier
+// image de la vitesse de moteur
+7. Initialisations()
+8.// Programme principal
+9. Lecture_serie()
+// sous-programme qui attend une
+commande "carrousel"
+10.// Démarrage Progressif
+11.
+Pulse = 0
+12.
+Vit = 0
+13.
+TANT QUE Vit < 255
+14.
+SPEED(Vit)
+// Réglage vitesse
+15.
+Attendre (10ms)
+// Temporisation
+16.
+Vit = Vit +5
+// Modification vitesse
+17.
+18.// Rotation à vitesse constante jusqu'à 90% de Pulse_max
+19.
+Pulse_R = Pulse_max • 0,9
+20.
+TANT QUE (Pulse < Pulse_R)
+//
+21.
+22.// Décélération de ωn à (ωn/4)
+23.
+TANT QUE ?? > ??
+24.
+// Réglage vitesse
+
+25.
+26.
+27.
+
+// Temporisation
+// Modification vitesse
+
+28.// Vitesse constante à ωn/4 jusqu’à Pulse = Pulse_Max
+29.
+TANT QUE Pulse < Pulse_max
+30.
+SPEED(Vit)
+// vitesse constante
+31.
+32.
+
+SPEED(0)
+
+33.
+
+Emission_serie()
+
+// carrousel arrêté à l'angle prévu
+// informe le maître
+mouvement terminé
+
+34.// fin programme principal
+Question II.5
+
+que
+
+le
+
+(boucle sans fin)
+
+Après avoir analysé les lignes de l'algorithme correspondant au
+démarrage progressif, démontrer que la phase d'accélération
+valide la durée Ta imposée.
+Recopier et compléter la partie du programme en charge de la
+décélération (lignes 22 à 27).
+
+La vitesse nominale du moteur est de 12 000 trmin-1.
+Question II.6
+Figure 10
+
+En considérant que les durées Td et Ta sont égales chacune à 0,5 s
+et que le nombre de tours réalisés pendant les deux durées sont
+identiques, conclure quant au respect de 6 s pour la rotation du
+carrousel lors du passage d'un empilement à la suivante pour la
+couronne intérieure.

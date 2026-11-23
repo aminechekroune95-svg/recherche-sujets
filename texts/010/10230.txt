@@ -1,0 +1,435 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1642728, "at": "2026-11-23T09:44:39+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 - 101 1000 ?
+101 0101
+110 0001
+100 1111
+1 1000 0111
+Question A.2
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+Question A.3
+Quand on ajoute deux bits 𝑎 et 𝑏, on obtient un bit de somme 𝑠 et un bit de retenue 𝑟. On peut exprimer 𝑠 et 𝑟 à
+l'aide de formules logiques, lesquelles ?
+𝑠 = 𝑎 𝑂𝑈 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+𝑠 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑟 = 𝑎 𝑂𝑈 𝐸𝑋𝐶𝐿𝑈𝑆𝐼𝐹 𝑏
+𝑠 = 𝑎 𝐸𝑇 𝑏
+Question A.4
+En hexadécimal (base 16), quelle est la valeur de la différence CBD - BAC ?
+AB
+TB
+FF
+Question A.5
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A.6
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+
+Thème B : types construits
+Question B.1
+Le premier élément d'une liste Python L est noté :
+L(0)
+L(1)
+L[0]
+L[1]
+Question B.2
+On crée la liste suivante :
+t = [ [1,2,3,4], [5,6,7,8], [9,10,11,12] ]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError : list index out of range"
+Question B.3
+Voici une définition incomplète d'une fonction qui renvoie le couple du quotient et du reste de la division
+euclidienne :
+def divEuclid(n,d):
+'''renvoie le couple formé du quotient et du reste dans la division de n par d'''
+q=0
+while n-d > 0:
+q=q+1
+n=n-d
+.......
+Par quelle instruction faut-il remplacer la ligne en pointillés pour que l'appel
+(quotient,reste) = divEuclid(15,6)
+affecte les valeurs attendues ?
+(q,n)
+(quotient,reste)
+return (q,n)
+return (quotient,reste)
+
+Question B.4
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+Question B.5
+Parmi les propositions suivantes, laquelle permet de créer en Python la liste des nombres impairs de 1 à 399
+(inclus) ?
+impairs = [1 + nb*2 for nb in range(200)]
+for nb in range(400) :
+impairs = 1 + 2 * nb
+impairs = [i + 2 for i in range(1,200)]
+impairs = [1, 3, 5, 7, 9] * 40
+Question B.6
+On définit en Python la fonction suivante :
+def f(L):
+S = []
+for i in range(len(L)-1):
+S.append(L[i] + L[i+1])
+return S
+Quelle est la liste renvoyée par f([1, 2, 3, 4, 5, 6]) ?
+[3, 5, 7, 9, 11, 13]
+[1, 3, 5, 7, 9, 11]
+[3, 5, 7, 9, 11]
+cet appel de fonction déclenche un message d'erreur
+
+Thème C : traitement de données en tables
+Question C.1
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+
+Question C.2
+On exécute le code suivant :
+table = [ ['lovelace', 'ada', 1815, 1852],
+['von neumann','john', 1903, 1957],
+['turing', 'alan', 1912, 1954],
+['mccarthy', 'john', 1927, 2011],
+['floyd', 'robert', 1936, 2001] ]
+def age(personnage):
+return personnage[3] - personnage[2]
+table.sort(key=age, reverse=True)
+Quelle est la première ligne de la table table à la suite de cette exécution ?
+['lovelace', 'ada', 1815, 1852]
+['mccarthy', 'john', 1927, 2011]
+['turing', 'alan', 1912, 1954]
+['mccarthy', 'floyd', 'von neumann', 'turing', 'lovelace']
+Question C.3
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C.4
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+
+Question C.5
+On considère la table suivants :
+t=[
+
+{'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+
+Quelle expression permet d'obtenir la quantié de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C.6
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Un navigateur transmet une requête à un site bancaire à l'aide du protocole HTTPS.
+Une seule des affirmations suivantes est correcte :
+Le protocole HTTPS garantit uniquement l'identité du serveur de la banque.
+Le protocole HTTPS garantit uniquement l'identité du serveur de la banque et la confidentialité de la
+transmission (on ne peut espionner les données en raison de la connexion chiffrée).
+Le protocole HTTPS garantit l'identité du serveur de la banque, la confidentialité de la transmission ainsi
+que l'intégrité des données (on ne peut pas altérer les données à l'insu du client et du serveur en raison du
+chiffrement).
+Le protocole HTTPS garantit l'identité du serveur de la banque, la confidentialité de la transmission,
+l'intégrité des données ainsi que la protection des données au niveau du serveur (aucun hacker ne pourra
+les obtenir frauduleusement).
+
+Question D.2
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.3
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D.4
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D.5
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D.6
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans le protocole de communication IP :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination dans un ordre quelconque.
+Question E.2
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E.3
+Dans un terminal sous Linux, à quoi sert la commande traceroute ?
+à afficher un itinéraire routier entre deux villes
+c'est un synonyme pour la commande ping
+à afficher le chemin suivi par des paquets à travers un protocole IP
+à suivre pas à pas l'exécution d'un programme
+Question E.4
+Lequel de ces systèmes d'exploitation est libre ?
+Linux
+Windows
+MacOS
+iOS
+Question E.5
+Dans un shell sous Linux, Alice utilise la commande pwd.
+Cette commande :
+liste les fichiers du répertoire courant
+liste les répertoires du répertoire courant
+affiche le chemin du répertoire courant
+affiche les permissions relatives au répertoire courant
+
+Question E.6
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+
+Thème F : langages et programmation
+Question F.1
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F.2
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for in in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+
+Question F.3
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F.4
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F.5
+a=4
+b=4
+c=4
+while a < 5:
+a=a-1
+b=b+1
+c=c*b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+
+Question F.6
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i>m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+
+Thème G : algorithmique
+Question G.1
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G.2
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s=0
+i=1
+while i < 5:
+s=s+i
+i=i+1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+Question G.3
+La fonction suivante prend en arguments deux entiers positifs et renvoie leur produit.
+def produit(a,b):
+
+c=0
+i=0
+while i < b:
+#
+i=i+1
+c=c+a
+return c
+Quelle propriété reste vraie à chaque passage par la ligne marquée d'un # ?
+𝑐 = 𝑎 × (𝑖 + 1)
+𝑐 = 𝑎 × (𝑖 − 1)
+𝑐 =𝑎×𝑖
+𝑐 =𝑎×𝑏
+Question G.4
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇 2
+Question G.5
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+25002
+22500
+Question G.6
+Que calcule la fonction suivante ?
+def mystere(liste):
+valeur_de_retour = True
+indice = 0
+while indice < len(liste) - 1:
+if liste[indice] > liste[indice + 1]:
+valeur_de_retour = False
+indice = indice + 1
+return valeur_de_retour
+la valeur du plus grand élément de la liste passée en paramètre
+la valeur du plus petit élément de la liste passée en paramètre
+une valeur booléenne indiquant si la liste passée en paramètre est triée
+une valeur booléenne indiquant si la liste passée en paramètre contient plusieurs fois le même élément

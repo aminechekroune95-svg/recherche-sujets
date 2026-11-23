@@ -1,0 +1,268 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1194891, "at": "2026-11-23T09:26:49+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l'Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Caractériser les échanges d’informations
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+PRÉSENTATION DE L’IMPRIMANTE 3D
+
+Figure 1
+
+Figure 2
+
+La technologie d'impression 3D (figure 1) permet de réaliser des pièces à partir de
+leur modélisation numérique 3D. L’impression (FDM : (Fused Deposition Modeling)
+est réalisée à partir d'un filament plastique fondu par la tête d’impression de
+l’imprimante 3D et déposé sur la plateforme d’impression de l’imprimante 3D pour
+créer l’objet voulu, couche par couche (figure 2).
+Ce procédé est utilisé pour des productions de prototypes ou des petites séries, car
+le temps d’impression est relativement long par rapport aux procédés de fabrication
+« grandes séries » de mise en forme industriels des matières plastiques.
+Le fichier 3D est traité par un logiciel spécifique qui organise le découpage de la
+pièce en tranches. Il est transmis à l'imprimante 3D qui dépose la matière couche par
+couche jusqu'à obtention de la pièce finale.
+La tête d’impression (ou extrudeur) assure la fusion de la matière plastique et
+l’avancement du fil. Elle se déplace en translation sur le plan horizontal suivant les
+directions ⃗x et ⃗y en fonction des formes à réaliser. La tête se déplace également
+verticalement pour assurer la superposition des couches.
+
+Figure 3
+
+Problématique : comment optimiser le temps d’impression ?
+Deux études sont proposées :
+Augmentation de la vitesse de translation de la tête d’impression
+Amélioration de l’adhérence de la pièce sur le plateau
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Dans le but d’augmenter la vitesse d’impression, on souhaite vérifier que le moteur
+permet d’obtenir un déplacement de la tête à une vitesse de 200 mm·s-1.
+Déplacement suivant la direction ⃗x
+Deux colonnes permettent le guidage en translation suivant la direction ⃗x de la tête
+d’impression (figure 4). Son déplacement est obtenu par un système poulies-courroie
+crantée monté sur l’ensemble des colonnes. La poulie motrice est entraînée par un
+moteur pas à pas. La tête d’extrusion est fixée en un point sur la courroie.
+
+Figure 4 : schéma du guidage de la tête d’impression et du système poulies-courroie
+
+Question I-1
+DR1
+DR2
+
+Compléter la chaine de puissance de la fonction « déplacer suivant
+la direction ⃗x », en indiquant les grandeurs de flux et d’efforts entre
+chaque élément de la chaine de puissance.
+Compléter le schéma cinématique spatial de l’imprimante 3D.
+
+Déplacement suivant la direction ⃗y
+L’ensemble de guidage de la tête d’impression, appelé chariot, est guidé à son tour
+en translation suivant la direction ⃗y, grâce à deux piliers solidaires du bâti. Un
+système poulie-courroie et moteur pas à pas, permet de réaliser le déplacement
+suivant la direction ⃗y.
+Ce déplacement n’est pas étudié dans ce sujet.
+
+Figure 5 : système de transformation de la vitesse de rotation du moteur en vitesse linéaire de la tête
+d’impression
+
+Figure 6 : représentation des vitesses de l’ensemble poulie-courroie
+
+La norme de la vitesse linéaire de déplacement de la tête d’impression par rapport
+au bâti, (le bâti est supposé fixe) exprimé en m·s-1, est notée V. La tête d’impression
+par rapport au bâti doit atteindre une vitesse de 200 mm·s-1.
+L’hypothèse de roulement sans glissement au point I entre la courroie et la poulie est
+faite, soit ⃗⃗VI,courroie/bâti =⃗⃗⃗VI,poulie/bâti .
+Le moteur est en « prise directe » avec la poulie soit ωpoulie/moteur = 0 rad.s-1.
+Question I-2
+Figure 6
+
+Question I-3
+Figure 6
+
+Exprimer de façon littérale l'expression de ωpoulie/bâti en fonction de
+VI,poulie/bâti et R le rayon de la poulie.
+Exprimer la relation entre les vitesses de rotation ωpoulie/bâti et
+ωmoteur/bâti.
+Déduire de la relation de la question I-2 les valeurs de V (en m.s-1)
+et ωpoulie/bâti (en rad.s-1).
+Calculer N, la vitesse angulaire de rotation du moteur par rapport au
+bâti fixe correspondante en tr·s-1.
+
+Figure 7 : isolement de la poulie
+
+Les efforts pour déplacer la tête d’impression sont les plus importants dans les
+phases de changement de sens ou de démarrage. Une expérience a permis de
+⃗ courroie→poulie ‖ = Fcourroie→poulie = 40 N.
+mesurer la résultante maximale ‖F
+
+L’action mécanique de la courroie sur la poulie au point I est modélisée par :
+⃗F
+{T(courroie→poulie)}= { courroie→poulie }
+⃗0
+I
+En négligeant les effets inertiels, la poulie, à une date t, est considérée en équilibre
+statique avec la relation sur la direction ⃗z : COp,(moteur→poulie) = MOp, (courroie→poulie)
+Question I-4
+Figure 7
+
+Donner l’expression littérale de MOp, (courroie→poulie) avec
+‖ ⃗⃗⃗
+MOp, (courroie→poulie) ‖= MOp, (courroie→poulie) , moment exprimé au point
+Op associé à l’action mécanique de la courroie sur la poulie, en
+fonction de Fcourroie  poulie et du rayon R de la poulie.
+En déduire le couple moteur, sur la direction ⃗z , COp,(moteur→poulie) ,
+en N·m.
+
+Le moteur pas à pas utilisé est un moteur MOONS’ STEPPING alimenté en 24V de
+type 17HD2438. La courbe figure 8 représente le couple que peut fournir ce moteur
+en fonction de sa vitesse de rotation en tr·s-1.
+
+Figure 8 : couple moteur en N.m en fonction de la vitesse de rotation en tr·s-1
+
+Question I-5
+
+Conclure quant au choix du moteur au regard des performances
+attendues. Justifier votre réponse.
+
+COMMANDE
+DU
+FONCTIONNEMENT
+MODIFICATION DE SON COMPORTEMENT
+
+DU
+
+PRODUIT
+
+OU
+
+Une des premières conditions de la qualité de l’impression est que la première
+couche adhère correctement au plateau.
+Comment améliorer l’adhérence (collage) de la première couche sur le
+plateau ?
+Une solution serait de chauffer le plateau à 60°C de façon à favoriser l'accrochage
+des premiers dépôts de couches plastiques. Le chauffage permettrait d'assurer la
+bonne adhérence de la matière sur le plateau.
+L’étude porte sur un plateau équipé d'un dispositif de chauffage, constitué d'une
+résistance chauffante d'une valeur de 5 Ω, alimentée en 24 V. Un thermocouple
+permet de mesurer la température. Cette température est « numérisée » grâce à un
+CAN (Convertisseur Analogique Numérique) 10 bits.
+La loi permettant de passer de la valeur numérique T num à une valeur T exprimée en
+degré Celsius est :
+T = 0,19  Tnum + 15,4
+Avec :
+T, la température exprimée en degré Celsius [°C] ;
+Tnum la valeur numérique fournie par le CAN.
+Question II-1
+
+Calculer la valeur de Tnum pour une température du plateau de
+60°C, puis l’exprimer en binaire.
+
+La commande de l’alimentation de la résistance chauffante est réalisée par un
+signal du type MLI (Modulation de Largeur d’Impulsion) à l’aide d’un hacheur série
+(voir figure 9).
+
+Figure 9 : schéma électrique d’alimentation de la résistance chauffante par un hacheur série
+commandé par un signal de type MLI
+
+La puissance dissipée par effet joule d’une résistance électrique s’écrit P = R ∙I2
+Avec :
+P : puissance dissipée par effet joule en watt (W) ;
+I : l’intensité aux bornes du dipôle (de la résistance) en ampère (A) ;
+R : la résistance en ohm (Ω).
+Question II-2
+figure 9
+
+Lorsque la commande est active (interrupteur fermé), calculer le
+courant maximum Imax circulant dans la résistance, ainsi que la
+puissance dissipée correspondante Pmax.
+
+Le hacheur permet de moduler la tension d'alimentation de la résistance chauffante
+entre 0 V et 24 V.
+Grâce à un module de puissance, la carte de commande alimente la résistance
+chauffante. Le fonctionnement du chauffage est réalisé suivant la séquence
+suivante :
+chauffage à plein régime jusqu'à atteindre la valeur désirée + 2 °C ;
+arrêt du chauffage lorsque la température du plateau atteint la valeur désirée
++ 2 °C, ce qui entraine la chute de la température du plateau ;
+redémarrage du chauffage du plateau lorsque la température du plateau
+descend de – 2 °C en dessous de la valeur désirée.
+Question II-3
+DR3
+
+Compléter la portion d'algorithme (sur le document réponse
+DR3) réalisant le principe de commande qui se répète en boucle.
+
+La consigne de température de chauffe de la résistance est de 60°C.
+Une mesure effectuée (figure 10) grâce au thermocouple montre l'évolution de la
+température :
+
+Figure 10 : mesure de la température du plateau
+
+Question II-4
+DR4
+
+Question II-5
+
+D’après le fonctionnement décrit précédemment, compléter sur le
+document réponse DR4 l’évolution de la tension aux bornes de la
+résistance chauffante en fonction du temps.
+Montrer que l’évolution de la température obtenue par mesure est
+conforme à ce qui était attendu. Justifier votre réponse.
+
+DOCUMENTS RÉPONSES
+DR1
+
+DR2
+
+DR3
+
+LIRE Tcons
+
+Tcons : Température
+de consigne en °C
+
+LIRE Tnum
+
+CALCULER T
+
+OUI
+T………
+.
+NON
+
+OUI
+T……….
+
+NON
+
+COUPER
+
+CHAUFFER
+
+DR4

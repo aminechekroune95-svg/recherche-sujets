@@ -1,0 +1,471 @@
+{"pages": 23, "method": "pdftotext", "bytes": 5432774, "at": "2026-11-23T09:27:57+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 23
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’un blob
+Sur 4 points
+Un blob est un organisme unicellulaire primitif qui est apparu il y a plus de 500
+millions d’années. Ce n’est ni un animal, ni un végétal, ni un champignon. Il est
+classé parmi les myxomycètes. Manon et Amine participent à une étude qui porte sur
+l’expansion et l’intelligence du blob.
+Partie 1 – Étude d’Amine : étude de l’expansion du blob
+Amine place un blob, qui occupe une superficie de 3,8 cm², dans une boite dont la
+base est un disque de rayon 8,2 cm.
+On modélise l’expansion du blob en cm² à l’aide de la fonction 𝑓 définie sur
+l’intervalle [0; +∞[ par :
+
+𝑓 𝑡 = 3,8 × √2
+où 𝑡 désigne la durée en nombre de jours à partir du moment où Amine débute
+l’étude.
+1. Justifier que la fonction 𝑓 est croissante, puis que la taille du blob double tous
+les deux jours.
+2. Calculer la taille du blob au bout de 3 jours à partir du début de l’expérience.
+Arrondir le résultat au mm².
+3. On donne, ci-après, la représentation graphique de la fonction 𝑓 dans un
+repère du plan.
+Estimer graphiquement, avec la précision permise par le graphique, le temps
+qu’il faudra pour que le blob occupe toute la surface du fond de la boite.
+Expliquer la démarche utilisée pour répondre à cette question.
+
+Partie 2 – Étude de Manon : étude du déplacement du blob dans un labyrinthe
+Le blob a été étudié au Japon par un chercheur qui a révélé sa grande intelligence
+dans le cadre de la résolution de problème en labyrinthe.
+Manon dépose un blob à l’entrée d’un labyrinthe de 1 m de long. Le blob se déplace
+dans ce labyrinthe. À chaque heure, elle note la distance parcourue par le blob
+pendant la dernière heure écoulée. Les résultats incitent Manon à modéliser la
+distance parcourue pendant la 𝑛-ième heure par le blob par une suite arithmétique
+𝑑
+
+de raison 0,37, où 𝑑 désigne la distance parcourue par le blob, en cm, pendant
+
+la 𝑛-ième heure. L’étude commence à 8 h.
+On donne 𝑑 = 2,5.
+1. Justifier que 𝑑 = 2,87 et en déduire la distance, en cm, parcourue par le blob
+à 10 h.
+2. Exprimer 𝑑 en fonction de 𝑛, pour tout entier naturel 𝑛.
+3. Estimer la distance totale parcourue par le blob à 14 h (arrondir la réponse au
+cm).
+
+4. Manon souhaite savoir au bout de combien d’heures le blob aura parcouru
+90 cm. Reproduire sur la copie et compléter la fonction ci-dessous, écrite en
+Python, afin qu’elle renvoie le nombre minimal d’heures nécessaires pour
+atteindre cet objectif.
+def distanceparcourue():
+n=1
+d = 2.5
+d_total = 2.5
+while d_total < … :
+d = d + 0.37
+d_total = d_total + …
+n=n+1
+return n
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Prévention d’un traumatisme acoustique
+L’audition joue un rôle primordial dans les interactions sociales. L’oreille est l’organe
+sensoriel de l’audition. Une détérioration de sa structure peut entraîner des
+modifications de l’audition. La mise en place de mesures de prévention permet
+d’éviter une surdité acquise.
+Partie 1 – Traumatisme de l’oreille par sur-stimulation
+Les sur-stimulations sonores peuvent entraîner un traumatisme acoustique et
+constituent la première cause de surdité acquise.
+
+Document 1 – Schéma de l’anatomie de l’oreille humaine
+
+Source : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition
+
+Document 2 – Vues de surface d'une cochlée de rat en microscopie
+électronique à balayage
+Les images sont présentées à des grossissements légèrement différents.
+Échelle : la distance d’écartement des cils des cellules ciliées externes est de 7 µm.
+Cochlée normale
+Cellules
+ciliées
+internes
+
+Cochlée après un traumatisme sonore
+de niveau 1
+
+Cellules
+ciliées
+externes
+(en forme
+de V)
+Cochlée après un traumatisme
+sonore de niveau 2
+
+Cochlée après un traumatisme sonore
+de niveau 3
+
+Source : http://www.cochlea.eu/pathologie/surdites-neuro-sensorielles/traumatismeacoustique
+
+1- À partir de l’étude des documents 1 et 2 et de vos connaissances, expliquer
+l’origine de la surdité acquise après une sur-stimulation sonore.
+
+Partie 2 – La prévention d’un traumatisme acoustique
+Pour prévenir le risque lié aux sur-stimulations sonores, il existe différentes
+protections auditives. On peut distinguer, par exemple, deux catégories de bouchons
+d'oreilles qui permettent de s’isoler du bruit :
+•
+
+les bouchons en mousse, généralement jetables ;
+
+•
+
+les bouchons moulés en silicone, fabriqués sur mesure et nécessitant la prise
+d'empreinte du conduit auditif. Ils sont lavables à l'eau et se conservent
+plusieurs années.
+
+L’atténuation d’un bouchon est égale à la diminution du niveau d’intensité sonore
+perçu par l’oreille due à la présence du bouchon. Un fabricant fournit les courbes
+d'atténuation en fonction de la fréquence du son pour les deux types de bouchons
+(document 3).
+Document 3 - Courbes d’atténuation du son correspondant aux deux types
+de bouchons
+Atténuation (dB)
+
+Bouchons en mousse
+
+Bouchons moulés
+
+Source : d’après l’auteur à partir des données de fabricants de protections auditives
+
+Un musicien qui pratique régulièrement un instrument tel que la batterie ou la guitare
+électrique a besoin d’une atténuation du niveau d’intensité sonore. Cependant, cette
+atténuation ne doit pas dépasser 25 dB afin qu’il entende suffisamment.
+2- À l’aide du document 3, indiquer pour chaque bouchon si cette condition est
+respectée. Justifier.
+
+Afin de comparer la qualité acoustique des deux types de bouchons, on a enregistré
+le son émis par une guitare, ainsi que les sons obtenus après passage à travers les
+deux types de bouchons. Le document 4 pages suivantes présente les résultats
+obtenus.
+3- À partir de la figure 1 du document 4, indiquer, en justifiant, si le son émis par la
+guitare est un son pur ou un son composé.
+4- À l’aide du document 4, indiquer en justifiant, pour chaque type de bouchons, s’il
+y a une modification de l’allure du spectre du signal sonore produit par la guitare
+après passage par un bouchon.
+5- En déduire le type de bouchons qui conserve le mieux la qualité du son.
+
+Document 4 – Spectres du son émis par une guitare et des sons restitués
+après passage à travers les deux types de bouchons
+L’amplitude relative est le rapport entre une amplitude et une amplitude de
+référence, ici celle de la fréquence fondamentale.
+
+Figure 1 - Spectre correspondant au mi4 joué par la guitare
+
+Figure 2 - Spectre du mi4 restitué après passage par un bouchon en mousse
+
+Figure 3 - Spectre du mi4 restitué après passage par un bouchon moulé en silicone
+Source : d’après l’auteur
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne à
+haute tension.
+6- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+7- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+8- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 3 (au choix)
+Niveau première
+Thème « Une longue histoire de la matière »
+
+La formation des verres
+La silice est la forme naturelle du dioxyde de silicium (SiO2) qui entre dans la
+composition de nombreux minéraux (quartz, etc.) et de nombreuses roches (sable,
+grès, granite, etc.). Le verre désigne un solide non cristallin (amorphe). Sa
+composition chimique contient une part importante de silice.
+Partie 1 – La silice : une structure amorphe ou cristalline
+Document 1 – Modèles moléculaires de deux structures en coupe de la silice
+
+Source : d'après CHAGUETMI, Salem (2010), Élaboration et caractérisation de
+nouveaux verres de fluorohafnates de strontium et de phosphosulfates. Université
+Mohamed Khider Biskra
+
+1- Le document 1 montre deux structures possibles de la silice. L’une est dite
+cristalline, l’autre amorphe (verre). Parmi les représentations a et b, préciser
+laquelle correspond à une structure cristalline. Justifier votre choix.
+
+À partir de deux échantillons identiques de silice liquide, on peut obtenir soit un
+verre, soit un cristal selon la vitesse de refroidissement.
+
+Document 2 – Évolution du volume d’un échantillon de silice lors du
+changement d’état
+
+Graphique de l’évolution du volume d’un échantillon de 5 g de silice en fonction de la
+température. La courbe relative au cristal est en trait continu ; elle correspond à la
+vitesse de refroidissement la plus faible. La courbe relative au verre est un trait
+discontinu ; elle correspond à la vitesse de refroidissement la plus forte.
+
+2- À partir du document 2, calculer la masse volumique du verre et du cristal pour
+une masse de 5 g et une température de 1400 K. Déterminer, en justifiant, si vos
+résultats sont qualitativement cohérents avec le graphique du document 1.
+3- Indiquer entre le verre et le cristal, quelle structure s’obtient par le
+refroidissement le plus lent. Donner une autre condition qui peut conditionner
+l’apparition d’un verre ou d’un cristal.
+
+Partie 2 – Formation du verre en contexte géologique
+Les basaltes et les gabbros sont des roches magmatiques qui se forment dans
+plusieurs contextes géologiques, notamment au niveau des dorsales océaniques.
+Document 3 – Structures du basalte et du gabbro
+
+Basalte de dorsale océanique
+
+Gabbro de la croûte océanique
+
+Photographies de lames minces de roches observées au microscope en lumière
+polarisée et analysée (grossissement x40).
+Source : http://www.ipgp.fr/fr Catherine Mével
+Source : Banque Nationale de photo en SVT-Lyon www2.aclyon.fr/enseigne/biologie/photossql/photos.php
+
+4- Comparer la structure cristalline de ces deux échantillons de roches, puis, à
+partir des informations précédentes, proposer une explication des différences
+observées.
+Partie 3 – La datation des basaltes
+La datation des basaltes peut faire appel à une méthode de datation
+radiochronologique appelé « méthode rubidium - strontium (Rb-Sr) ». Cette méthode
+se base sur la mesure des rapports
+
+87Sr
+
+Sr
+
+Rb
+
+et 86 .
+38Sr
+
+5- Parmi les noyaux de 87
+37Rb, de 38Sr et de 38Sr, seul le noyau de 37Rb est dit
+radioactif. Définir ce terme.
+
+6- Définir le terme de « demi-vie » puis indiquer le nombre de noyau de 87
+37Rb
+restants au bout de 3 demi-vies sur un échantillon initial de 1000 noyaux.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Le permafrost, une bombe climatique à retardement ?
+Le permafrost est une couche de sol gelé en permanence. D’après les
+climatologues, il est considéré aujourd’hui comme une « bombe climatique à
+retardement ». Il s’agit ici de s’interroger sur la validité scientifique de cette
+expression.
+Partie 1 – L’évolution du permafrost arctique
+Document 1 – Répartition mondiale du permafrost actuel
+« Un cinquième de la surface terrestre est congelé. Ce sol mêlé de glace, nommé
+[…] permafrost, se trouve surtout en Arctique ; il représente 25 millions de
+kilomètres carrés, soit deux fois et demie la superficie de l'Europe. »
+Source : extrait d’un article scientifique publié dans Pour la Science, n° 390, Avril 2010
+Lieu A
+Alaska
+
+Lieu B
+
+Cercle polaire
+
+Figure 1 – Carte de l’Arctique
+Source : d’après Brown et al, 1997 in International Permafrost Association, 2020
+
+Figure 2 – Évolution de la température du permafrost en Alaska (lieu A)
+à 20 mètres de profondeur en fonction du temps.
+Source : d'après leau-vive.ca/Societe/pergelisol-et-impacts-sur-les-communautesnordiques, 2018
+
+Les chercheurs ont étudié l’évolution du permafrost à deux endroits situés en Alaska
+et près de la baie d’Hudson au Canada, où se trouvent deux centres d’études
+météorologiques. Ces lieux sont notés A et B sur la carte du document 1.
+1- En utilisant la figure 2 du document 1, décrire l’évolution globale de la
+température du permafrost dans le lieu A au cours du temps.
+2- En déduire si l’état physique de l’eau du permafrost en Alaska, dans le lieu A, a
+changé suite à cette évolution.
+
+Partie 2 – Conséquences sur le paysage de l’évolution du permafrost
+Document 2 – Structure du sol au lieu B
+Près de la baie d’Hudson (lieu B), la température du permafrost peut devenir
+positive au cours de l’année. Une coupe permet d’observer les différentes couches
+qui constituent le sol.
+
+Active layer = couche active
+
+Ice wedge = coin de glace (poche de glace)
+
+Source : The layers of permafrost. Photographie : Benjamin Jones, USGS
+
+3- Recopier la proposition correcte si la température du permafrost devient
+positive :
+a) Le permafrost fond.
+
+c) Le permafrost n’est pas modifié.
+
+b) La glace fond.
+
+d) L’état physique de la glace ne change pas.
+
+Document 3 – Vues aériennes du lieu B en 1959 et 2006
+Le « thermokarst » désigne la structure du paysage associée au réchauffement
+d’un permafrost riche en glace, ce qui provoque notamment l’affaissement de la
+surface du sol et la formation de mares ou de lacs dans les dépressions produites.
+L’eau liquide apparaît de couleur noire sur les photographies.
+Les légendes K1, K2, K6 et K20 indiquent la localisation de thermokarsts.
+
+Permafros
+
+Source : d’après Bouchard et al, 2012
+
+4- Identifier les changements observés sur les paysages en comparant les
+photographies aériennes du lieu B et proposer une explication.
+5- Indiquer une conséquence que peut avoir le dégel du permafrost sur les
+infrastructures et les activités humaines dans cette région.
+
+Partie 3 – Dioxyde de carbone et méthane, des gaz à effet de serre du
+permafrost
+Le méthane et le dioxyde de carbone sont naturellement émis par les sols comme
+produits de différents processus, principalement biologiques. La fermentation de
+matière organique produit ainsi du méthane en l’absence de dioxygène (conditions
+anaérobie). Le méthane peut être oxydé en dioxyde de carbone en présence de
+dioxygène (conditions aérobie). Les émissions sont habituellement faibles, mais le
+dégel du permafrost s’accompagne de variations de ces émissions.
+6- Identifier, sur la coupe de sol du document 2, la source de matière organique à
+l’origine de la fermentation qui se produit dans les thermokarsts.
+
+Surface (m2)
+
+Surface (m2)
+
+Figure 3 – Flux de CO2 et CH4 (en mmol de gaz par m2 et par jour) libérés par les
+thermokarsts dans l’atmosphère en fonction de leur surface
+Source : d’après ASLO 2020
+
+7- Comparer les ordres de grandeur des flux de dioxyde de carbone et de méthane.
+
+Document 4 – Pouvoir de réchauffement global (PRG) du dioxyde de carbone
+et du méthane
+Le pouvoir de réchauffement global d'un gaz (PRG) se définit comme le forçage
+radiatif (c'est-à-dire la puissance radiative que 1 kilogramme de gaz renvoie vers le
+sol), cumulé sur une durée de 100 ans. Cette valeur se mesure relativement au
+CO2. Par convention, le PRG est fixé à 1 pour le CO2.
+
+Figure 3 – Spectres d’absorption du CO2 et du CH4
+Source : d’après Terminale, spécialité SVT, éd. Magnard
+
+8- Comparer les conséquences des flux de CH4 et de CO2 sur la température
+moyenne globale atmosphérique.
+9- Expliquer que le permafrost arctique puisse être considéré comme « une bombe
+climatique à retardement » par les climatologues à l’aide de l’ensemble de
+l’étude menée dans cet exercice.

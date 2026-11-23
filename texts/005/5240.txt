@@ -1,0 +1,361 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1155313, "at": "2026-11-23T09:23:34+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Une éolienne à la maison (10 points)
+Un particulier veut installer une éolienne dans son jardin afin d’assurer ses besoins en
+énergie électrique. L’éolienne convertit une énergie renouvelable en électricité « verte »,
+que l'on peut stocker chez soi dans des batteries. L’installation peut être schématisée
+comme suit :
+
+D’après https://www.futura-sciences.com/
+(1) Régulateur de charge : protège l’installation des surcharges ou décharges totales.
+(2) Nombreuses batteries raccordées en série.
+(3) Utilisation TBT (« très basse tension » pour luminaires, système d’alarme,…)
+(4) Onduleur : permet d’obtenir un courant alternatif.
+(5) Prise électrique
+
+(6) Compteur d’autoconsommation (affichage de l’énergie électrique globalement
+consommée)
+(7) Compteur de production, en cas de revente à EDF.
+1. Produire de l’électricité
+L’éolienne se compose d'un rotor monté en haut d'un mât. La rotation des pâles de
+l’éolienne permet la transformation de l’énergie du vent en énergie électrique.
+La puissance électrique ainsi produite dépend de la valeur de la vitesse du vent :
+
+D’après https://www.futura-sciences.com/
+1.1. À quelle valeur minimale de la vitesse du vent, exprimée en km.h -1, l’éolienne
+commence-t-elle à produire de l’énergie électrique ?
+1.2. Transfert d’énergie au sein de l’éolienne.
+1.2.1. Représenter la chaîne énergétique de l’éolienne.
+1.2.2. Définir le rendement de l’éolienne puis calculer sa valeur pour une valeur de
+vitesse du vent égale à 7 m.s-1.
+1.3. L’éolienne est configurée pour produire une puissance maximale dans une plage de
+valeurs de vitesse du vent comprises entre 10 et 18 m.s-1. Interpréter la forme de la
+courbe donnant la puissance électrique produite en fonction de la vitesse du vent
+pour des valeurs supérieures à 18 m.s-1.
+2. Stocker de l’électricité
+Les batteries sont des accumulateurs électrochimiques capables de convertir de l’énergie
+électrique en énergie chimique lors de leur charge et de l'énergie chimique en énergie
+électrique lors de leur décharge. Parmi les dispositifs utilisés, les batteries au plomb sont
+actuellement les plus utilisées pour le stockage de l’énergie électrique produite par des
+éoliennes domestiques.
+
+Caractéristiques d'une batterie au plomb
+Tension à vide
+E’
+12,5 V
+
+Capacité**
+30 Ah
+
+Intensité
+maximale Imax
+10 A
+
+Résistance
+interne r
+0,4 Ω
+
+Densité
+Rendement
+énergétique* énergétique η
+25 Wh/kg
+75 %
+
+* 25 Wh/kg signifie qu’une batterie de 1 kg permet de stocker une énergie chimique de
+25 Wh.
+** 30 Ah signifie que la batterie peut délivrer un courant d’intensité égale à 30 A pendant
+1 h ou 10 A pendant 3 h ou encore 30 mA pendant 1000 h, etc.
+Modèle électrique équivalent de la batterie en charge
+Lorsque la batterie est en charge sous la tension électrique U délivrée par l’éolienne,
+elle peut être modélisée par la portion de circuit électrique suivante :
+E
+’
+r
+2.1. Relation entre l’intensité I et la tension U.
+2.1.1. Justifier l’expression U = E' + rI (relation 1) liant la tension U aux bornes de
+la batterie en charge et l’intensité I du courant électrique de charge. Que
+représente r ?
+2.1.2. Sélectionner le tracé correspondant à la charge de la batterie parmi les
+graphes ci-dessous. Justifier.
+a
+
+b
+
+c
+
+d
+
+2.2. La relation 1 peut s’écrire : UI = E'I + rI2 (relation 2).
+2.2.1. Après avoir donné la signification énergétique de chacun des termes de la
+relation 2, définir le rendement  du transfert d’énergie au sein de la batterie
+E'
+lors de sa charge et montrer que  = U .
+2.2.2.Vérifier que la valeur du rendement est égale à 76 % pour une valeur de
+l’intensité du courant électrique de charge égale à 10 A.
+2.3. La masse de la batterie étudiée est de l’ordre de 15 kg. L’installation comporte 20
+batteries identiques.
+En tenant compte du rendement mentionné à la question 2.2.2, l’éolienne,
+fonctionnant à sa puissance maximale, permet-elle de fournir l’énergie électrique
+nécessaire à la charge de ces batteries si celle-ci dure 1 h ?
+
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une
+démarche de résolution, ainsi que sur la qualité de sa rédaction.
+Toutes les prises d’initiative et toutes les tentatives de résolution, même partielles,
+seront valorisées.
+3. Consommer l’électricité
+La puissance électrique utilisable par le propriétaire de la maison lors de la décharge des
+batteries est de l’ordre de 6 kW.
+Pour suivre sa consommation d’électricité, le propriétaire a réalisé un programme en
+langage Python s’appuyant sur un classement des appareils électriques par pack, c’est-àdire par groupe d’appareils de même puissance électrique.
+Classement des appareils par pack
+Pack
+Puissance
+électrique
+2,5 kW
+(kW)
+Appareils chauffe-eau, machine à
+laver, radiateur, four
+
+1 kW
+
+0,1 kW
+
+bouilloire électrique,
+grille-pain, fer à
+repasser
+
+téléviseur, hotte
+aspirante, lampes
+basse consommation
+
+Programme en langage python
+1 # Bilan consommation électrique journalière
+2 # pack1 = appareils de puissance 2,5 kW
+3 # pack2 = appareils de puissance 1 kW
+4 # pack3 = appareils de puissance 0,1 kW
+5 t_1 = float(input('durée journalière utilisation du pack1 : '))
+6 t_2 = float(input('durée journalière utilisation du pack2 : '))
+7 t_3 = float(input('durée journalière utilisation du pack3: '))
+8 E_1 = 2.5*t_1
+9 E_2 = 1*t_2
+10 E_3 = 0.1*t_3
+11 E_totale_consommée = E_1+E_2+E_3
+12 # 1 kWh coûterait 0,15 euros
+13 Economie_journaliere = E_totale_consommée * 0.15
+14 print("L'énergie électrique du pack1 vaut E_1 = ",E_1,"kWh")
+15 print("L'énergie électrique du pack2 vaut E_2 = ",E_2,"kWh")
+16 print("L'énergie électrique du pack1 vaut E_3 = ",E_3,"kWh")
+17 print("L'économie réalisée vaut", Economie_journaliere,'euros')
+3.1. La maison est aussi équipée d’un ordinateur. Associer cet appareil à son pack.
+3.2. Programme en langage Python.
+3.2.1. Expliquer la ligne 13.
+
+3.2.2. Lors d’une journée, le four a été utilisé pendant 1h30, le chauffe-eau pendant
+5h et le radiateur pendant 2h. Le téléviseur est resté allumé 2h durant une
+séance de repassage.
+Quelle est le contenu de la dernière ligne affichée lors de l’exécution du
+programme ?
+PARTIE B
+Détermination du degré alcoolique d’un vin d’épines (10 points)
+Dans plusieurs régions de France, on fabrique du vin d’épines, un
+apéritif alcoolisé qui titre environ à environ 15 % en degré d’alcool.
+Cette boisson est préparée en faisant macérer de jeunes pousses
+de prunellier, un petit arbre rustique, dans un mélange de sucre, de
+vin et d’eau de vie* pendant un mois. Après filtration, ce mélange est
+mis en bouteille pour vieillir pendant au moins trois mois, avant de
+pouvoir être dégusté. En fin de période de vieillissement, il est
+possible de vérifier le degré d’alcool du vin d’épines fabriqué en
+réalisant un titrage suivi par colorimétrie.
+On considère que l'alcool présent dans les boissons alcoolisées est une seule et même
+espèce chimique : l’éthanol.
+Le degré d’alcool d’une boisson alcoolisée, noté (°), correspond au volume d'éthanol pur
+contenu dans 100 mL de boisson. Par exemple,100 mL d’une boisson à 35° contient 35 mL
+d’éthanol pur.
+*boisson alcoolisée obtenue par distillation de jus fermentés de fruits, de céréales ou de
+tubercules.
+L’objectif de cet exercice est d’étudier quelques propriétés de l’éthanol et de déterminer le
+degré d’alcool d’un vin d’épines.
+1. À propos de l’éthanol
+Données :
+- Représentations moléculaires de l’éthanol et de l’acide éthanoïque
+Ethanol
+Acide éthanoïque
+Formule brute
+Modèle moléculaire
+Formule semidéveloppée
+
+C2H6O
+O
+
+-
+
+Électronégativité selon l'échelle de Pauling de quelques éléments
+
+Elément
+
+H
+
+O
+
+Électronégativité χ
+
+2,55
+
+2,20
+
+3,44
+
+Bandes d’absorption en spectroscopie IR
+O-H (alcool)
+O-H (acide)
+Liaison
+C=O
+carboxylique)
+3200 - 3400
+2500 - 3200
+1700 - 1800
+Nombre
+d’onde (cm-1) bande forte et large
+bande forte et très large bande forte et fine
+-
+
+1.1. Représenter le schéma de Lewis de l’éthanol.
+1.2. Justifier le fait que la molécule d’éthanol est une molécule polaire.
+1.3. Expliquer pourquoi l’éthanol est miscible avec l’eau.
+1.4. En présence d’un excès d’oxydant, l’éthanol peut être oxydé en acide éthanoïque.
+Les spectres infrarouges de l’acide éthanoïque et de l’éthanol sont donnés ci-dessous.
+Expliquer comment on peut les utiliser pour justifier que la transformation de l’éthanol en
+acide éthanoïque a eu lieu.
+Spectre infrarouge de l’acide éthanoïque
+
+Spectre infrarouge de l’éthanol
+
+D’après tice.ac-montpellier.fr
+2. Détermination du degré d’alcool du vin d’épines
+Le vin d’épines étant constitué de diverses espèces chimiques, on effectue une distillation
+fractionnée d’un mélange de 50 mL de vin d’épines et d’eau pour en extraire l’éthanol. On
+verse le distillat dans une fiole jaugée de 500 mL et on complète avec de l’eau distillée. On
+obtient 500 mL de solution notée S contenant tout l’éthanol initialement présent dans
+50 mL de vin d’épines.
+
+L’éthanol réagit avec les ions permanganate en milieu acide, mais cette transformation,
+quoique totale, est lente : elle ne peut donc pas être le support d’un titrage. On procède
+donc en deux étapes.
+Étape 1 : on introduit les ions permanganate en excès dans un volume donné de la solution
+S pour transformer tout l’éthanol présent en acide éthanoïque et on laisse le temps
+nécessaire à la transformation de s’effectuer.
+Étape 2 : on réalise ensuite le titrage des ions permanganate restants par les ions Fe2+.
+Données :
+- Couples oxydant-réducteur :
+acide éthanoïque / éthanol : C2H4O2(aq) / C2H6O (aq)
+ion permanganate / ion manganèse : MnO4-(aq) / Mn2+(aq)
+- Demi-équation électronique : MnO4-(aq) + 8 H+(aq) + 5 e- = Mn2+(aq) + 4 H2O(l)
+- Masse volumique de l’éthanol : 0,79 g.mL-1
+- Masse molaire de l’éthanol : M = 46 g.mol-1
+- Toutes les espèces chimiques en solution sont incolores mis à part les ions permanganate
+qui sont violets.
+2.1. Étude de l’étape 1
+On s’intéresse ici à la réaction entre les ions permanganate et l’éthanol.
+Dans un erlenmeyer, on mélange V0 = 2,0 mL de solution S et V1 = 25,0 mL d'une solution
+acidifiée de permanganate de potassium (K+(aq) +MnO4- (aq)) de concentration en quantité de
+matière C1 = 5,00.10–2 mol.L–1 .
+On bouche l'erlenmeyer et on laisse réagir pendant environ 30 minutes, à 60°C.
+2.1.1.
+Établir que l’équation de réaction entre l’éthanol et les ions permanganate en milieu
+acide s’écrit : 5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+(aq) → 5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O (ℓ)
+
+2.1.2.
+Compléter le tableau d'avancement en ANNEXE A RENDRE AVEC LA COPIE, en
+utilisant comme notation :
+- n0, quantité de matière initiale d'éthanol présente dans le volume V0
+- n1, quantité de matière initiale d'ions permanganate présente dans le volume V1.
+2.1.3.
+En s'appuyant sur le tableau d'avancement de l’ANNEXE A RENDRE AVEC LA
+COPIE, montrer que dans l'état final, la quantité d'ions permanganate restant dans
+l'erlenmeyer peut s'écrire :
+
+𝑛(𝑀𝑛𝑂4− )𝑟𝑒𝑠𝑡𝑎𝑛𝑡 = 𝐶1 × 𝑉1 −
+
+× 𝑛0
+
+2.2. Étude de l’étape 2
+On titre les ions permanganate restants à la fin de l’étape 1, directement dans l’erlenmeyer,
+par une solution aqueuse contenant des ions Fe2+ à la concentration en quantité de matière
+C2 = 3,00.10-1 mol.L-1.
+L'équation de la réaction de support du titrage entre les ions permanganate MnO4- et les
+ions Fe2+ est : MnO4– (aq) + 5 Fe2+(aq) + 8 H+(aq) → Mn2+(aq) + 5 Fe3+(aq) + 4 H2O(ℓ)
+Le volume de solution titrante versé pour atteindre l’équivalence est V2éq = 14,1 mL.
+2.2.1.
+Définir du terme « équivalence » utilisé lors d’un titrage.
+2.2.2.
+Préciser, en justifiant, le changement de couleur qui permet de repérer l’équivalence.
+2.2.3.
+Indiquer la relation qui existe, à l’équivalence, entre les quantités de matière d’ions
+permanganate présents initialement et les ions Fe2+ versés à l’équivalence.
+2.2.4.
+La quantité d'éthanol initialement présente dans le volume 50 mL de vin d’épines est
+
+alors donnée par la relation : 𝑛é𝑡ℎ𝑎𝑛𝑜𝑙 = 250 × (4 × 𝑐1 × 𝑉1 − 4 × 𝑐2 × 𝑉2é𝑞 ).
+Déterminer si le degré d’alcool annoncé de ce vin d’épines est conforme à celui annoncé
+pour ces apéritifs.
+Le candidat est invité à présenter son raisonnement de manière claire et ordonnée. Toute
+tentative de réponse, même incomplète, sera valorisée.
+
+ANNEXE À RENDRE AVEC LA COPIE
+
+Question 2.1.2 :
+
+Équation de la réaction
+
+5 C2H6O(aq) + 4 MnO4-(aq) + 12 H+ →
+
+État
+
+Avancement
+(mol)
+
+n(C2H6O)
+
+n(MnO4-)
+
+Initial
+
+n0
+
+n1
+
+En
+cours
+Final
+
+n(H+)
+
+5 C2H4O2(aq) + 4 Mn2+(aq) + 11 H2O(l)
+n(C2H4O2)
+
+n(Mn2+)
+
+n(H2O)
+
+x
+
+xf
+
+Remarques :
+
+
+
+On rappelle que l'ion permanganate est introduit en excès.
+L'eau étant le solvant et l'ion hydrogène n'étant pas limitant, leurs quantités ne seront
+pas précisées.

@@ -1,0 +1,442 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1295088, "at": "2026-11-23T09:46:38+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est la séquence de bit qui représente –25 en complément à 2 sur 8 bits ?
+0001 1001
+0001 1010
+1110 0110
+1110 0111
+Question A.2
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+Question A.3
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+Question A.4
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A.5
+Le résultat de la soustraction en binaire 101001 - 101 est égal au nombre binaire :
+100900
+101110
+100100
+100110
+
+Question A.6
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+
+Thème B : types construits
+Question B.1
+On considère la fonction définie par :
+def f(a,b):
+c = []
+for i in range(min(len(a),len(b))):
+if a[i] < b[i]:
+c.append(a[i])
+else:
+c.append(b[i])
+return c
+Quelle est la valeur de c à la fin de l'exécution des lignes de code suivantes ?
+a = [2, 4, 8, 19]
+b = [1, 5, 7, 11, 12, 13]
+c = f(a,b)
+[1, 2, 4, 5]
+[1, 4, 7, 11]
+[1, 2, 4, 5, 7, 8, 11, 12]
+[2, 4, 1, 5]
+Question B.2
+On définit :
+notes = [('Toto', 20), ('John', 12), ('Johnny', 2), ('Superman', 16)]
+Quelle est l'expression donnant la note de Superman ?
+notes[4][2]
+notes[3][1]
+notes[Superman]
+notes['Superman']
+
+Question B.3
+t1 est un tableau à n lignes et n colonnes. On souhaite remplir un tableau t2 de mêmes dimensions que t1 avec
+les contraintes suivantes : les lignes de t2 sont les colonnes de t1 et les colonnes de t2 sont les lignes de t1.
+Par quelle instruction faut-il remplacer la ligne en pointillées du code suivant ?
+for i in range(n):
+for j in range(n):
+......
+t1[i][j] = t2[j][i]
+t2[j][i] = t1[j][i]
+t1[j][i] = t2[i][j]
+t2[i][j] = t1[j][i]
+Question B.4
+On considère le code suivant :
+def s(tuple1, tuple2):
+(x1,y1) = tuple1
+(x2,y2) = tuple2
+return (x1+x2, y1+y2)
+Que renvoie l'appel s((1,3), (2,4)) ?
+le tuple (3,7)
+le tuple (4,6)
+un entier
+une erreur
+Question B.5
+Après l'affectation suivante :
+alphabet = [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B.6
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+
+Thème C : traitement de données en tables
+Question C.1
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C.2
+On écrit la fonction suivante :
+def extreme(t, test):
+m = t[0]
+for x in t:
+if test(x,m):
+m=x
+return m
+On dispose d'une liste L dont les éléments sont des couples (nom, note).
+Par exemple :
+L = [ ('Alice', 17), ('Barnabé', 18),
+('Casimir', 17), ('Doriane', 20),
+('Emilien', 15), ('Fabienne', 16) ]
+On aimerait que l'appel de fonction extreme(L, test) renvoie un couple présentant la note maximale.
+Quelle définition de la fonction test peut-on utiliser ?
+return a[0] < b[0]
+
+return a[0] > b[0]
+
+return a[1] < b[1]
+
+return a[1] > b[1]
+
+Question C.3
+On a défini :
+mendeleiev = [
+
+['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C.4
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+Question C.5
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C.6
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D.2
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D.3
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui afficher une
+erreur 404.
+Quelle cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion internet
+un changement de titre du forum qu'il veut consulter
+Question D.4
+Un navigateur transmet une requête à un site bancaire à l'aide du protocole HTTPS.
+Une seule des affirmations suivantes est correcte :
+Le protocole HTTPS garantit uniquement l'identité du serveur de la banque.
+Le protocole HTTPS garantit uniquement l'identité du serveur de la banque et la confidentialité de la
+transmission (on ne peut espionner les données en raison de la connexion chiffrée).
+Le protocole HTTPS garantit l'identité du serveur de la banque, la confidentialité de la transmission ainsi
+que l'intégrité des données (on ne peut pas altérer les données à l'insu du client et du serveur en raison du
+chiffrement).
+Le protocole HTTPS garantit l'identité du serveur de la banque, la confidentialité de la transmission,
+l'intégrité des données ainsi que la protection des données au niveau du serveur (aucun hacker ne pourra
+les obtenir frauduleusement).
+
+Question D.5
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D.6
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Lorsqu'un utilisateur lance une application, le système d'exploitation va l'ouvrir dans :
+un espace disponible du disque SSD
+un espace disponible du disque HDD
+un espace disponible de la RAM
+un espace disponible de la ROM
+Question E.2
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+Question E.3
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez unfournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+
+Question E.4
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E.5
+Dans un terminal sous Linux, quelle commande permet d'afficher la liste des fichiers du répertoire courant ?
+ls
+cd
+mv
+rm
+Question E.6
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+
+Thème F : langages et programmation
+Question F.1
+Avec la définition de fonction capital_double suivante, que peut-on toujours affirmer à propos du résultat n
+retourné par la fonction ?
+def capital_double (capital, interet):
+montant = capital
+n=0
+while montant <= 2 * capital:
+montant = montant + interet
+n=n+1
+return n
+n == capital / interet
+capital * n * interet > 2 * capital
+capital + n * interet > 2 * capital
+n == 2 * capital / interet
+
+Question F.2
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre n et
+p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........): # ligne à modifier
+somme = somme + i
+return somme
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F.3
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+Question F.4
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p=x
+for i in range (y - 1):
+p=p*x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+
+Question F.5
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à chaque
+passage dans la boucle while ?
+i=0
+while (i < 10) {
+alert(i)
+i=i+1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F.6
+On exécute le code suivant
+def calculPourcentage (prix,reduction):
+assert reduction >= 0, 'la réduction doit être un nombre positif'
+assert reduction < 100, 'la réduction doit être inférieure à 100'
+assert prix > 0, 'le prix doit être un nombre strictement positif'
+remise = (reduction*prix)/100
+prix_remise = prix - remise
+return prix_remise
+Quelle est la valeur renvoyée par l'appel calcul(30,100) ?
+AssertionError: la réduction doit être un nombre positif
+AssertionError: la réduction doit être inférieure à 100
+AssertionError: le prix doit être un nombre strictement positif
+
+Thème G : algorithmique
+Question G.1
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i]== lettre:
+indexResultat=i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G.2
+L'algorithme suivant permet de calculer la somme des N premiers entiers, où N est un nombre entier donné :
+i =0
+somme =0
+while i < N :
+i = i +1
+somme = somme + i
+Un invariant de boucle de cet algorithme est le suivant :
+somme = 0 + 1 + 2 + ... + i et i < N
+somme = 0 + 1 + 2 + ... + N et i < N
+somme = 0 + 1 + 2 + ... + i et i < N+1
+somme = 0 + 1 + 2 + ... + N et i < N+1
+Question G.3
+Un algorithme de calcul de moyenne est implémenté de la façon suivante :
+def moyenne(liste) :
+t=0
+for e in liste :
+t=t+e
+# assertion vraie à cet endroit
+return t/len(liste)
+Parmi les propositions suivantes, laquelle reste vraie à la fin de chaque itération de la boucle ?
+e vaut le nombre de passages dans la boucle
+t vaut la somme des éléments visités de la liste
+t vaut la moyenne des éléments visités de la liste
+après k passages dans la boucle la liste contient k termes
+
+Question G.4
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G.5
+On dispose de sacs de jetons portant les nombres 10, 5, 3 et 1.
+On veut obtenir un total de 21 en utilisant ces jetons.
+Si on utilise le principe de l'algorithme glouton, quelle addition va-t-on réaliser pour obtenir ce total de 21 ?
+5+5+5+5+1
+10 + 5 + 3 + 3
+10 + 5 + 5 + 1
+10 + 10 + 1
+Question G.6
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle

@@ -1,0 +1,504 @@
+{"pages": 18, "method": "pdftotext", "bytes": 2159539, "at": "2026-11-23T09:28:10+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Population en Inde 1
+Sur 4 points
+Le tableau suivant donne la population de l’Inde, en millions d’habitants, arrondie au
+dixième entre 1871 et 2021.
+1871
+
+1881
+
+1891
+
+1901
+
+1911
+
+1921
+
+1931
+
+1941
+
+Population 209,1
+
+210,9
+
+231,4
+
+238,4
+
+252,1
+
+251,3
+
+318,7
+
+1951
+
+1961
+
+1971
+
+1981
+
+1991
+
+2001
+
+2011
+
+2021
+
+Population 361,1
+
+439,2
+
+548,2
+
+683,3
+
+846,4 1028,7 1210,2 1407,6
+
+Année
+
+Année
+
+Partie A – On s’intéresse à la période entre 1871 et 2021
+Sur les graphiques suivants, on a représenté les données précédentes. Sur le
+graphique situé à gauche, on a tracé une droite d’ajustement linéaire. Sur le
+graphique situé à droite, on a tracé une courbe d’ajustement exponentiel.
+
+1- Au vu des graphiques précédents, déterminer le modèle (linéaire ou
+exponentiel) qui semble le plus adapté pour décrire l’évolution de la population
+de l’Inde entre 1871 et 2021. Justifier la réponse.
+
+2- On admet que la courbe correspondant à l’ajustement exponentiel (graphique
+situé à droite) a une équation de la forme 𝑦 = 𝑎𝑞 ! avec 𝑎 et 𝑞 réels strictement
+positifs et que cette courbe passe par les points de coordonnées (1890 ; 200) et
+(1940 ; 400). Déterminer la valeur exacte de 𝑞.
+Partie B – On s’intéresse à la période entre 1871 et 1931
+On choisit de modéliser la population entre 1871 et 1931 à l’aide des premiers termes
+d’une suite (𝑢" ) où 𝑢" , arrondi au dixième, représente le nombre de millions d’habitants
+de l’Inde l’année 1871+10𝑛, avec 𝑛 entier naturel. Ainsi 𝑢# = 209,1 𝑢$ = 210,9, etc.
+1- Sur la période entre 1871 et 1931, en utilisant les graphiques de la partie A,
+Justifier pourquoi il semble pertinent de choisir le modèle d’une suite
+arithmétique.
+2- Calculer la variation absolue de la population sur la période entre 1871 et
+1931.
+3- En déduire que la raison de la suite arithmétique (𝑢" ) pourrait valoir 11,65.
+4- Exprimer (𝑢" ) en fonction de 𝑛.
+5- Avec ce modèle, donner une estimation de la population en 1941.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( I ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Sachant qu’un spectateur situé à 5 m de la piste est soumis à un niveau
+d’intensité sonore L = 120 dB, indiquer, parmi les propositions suivantes, à
+quelle distance doit se trouver le spectateur pour n’être soumis qu’à une
+intensité sonore L’= 105 dB. Justifier (on n’attend aucun calcul).
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+2- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes et de porter des bouchons d’oreilles bien insérés.
+Justifier ces conseils.
+Partie 2 – Restaurer l’audition
+3- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Exploiter les documents pour identifier la (ou les) partie(s) de l’oreille
+concernée(s) par l’implant cochléaire
+4- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Empreinte carbone d’un(e) français(e)
+L’empreinte carbone d’une activité ou d’une personne est la masse de gaz à effet de
+serre produit directement ou indirectement par sa consommation d’énergie et/ou de
+matières premières.
+Pour quantifier l’empreinte carbone d’une personne ou d’une activité on exprime la
+masse de dioxyde de carbone (CO2) émise par celle-ci sur une année. L’empreinte
+carbone moyenne s’exprime en « kg CO2 équivalent par an et par habitant »
+Dans cet exercice, on s’intéressera plus spécifiquement aux secteurs de
+l’alimentation et du transport.
+1- Expliquer en quelques phrases l’impact principal des émissions anthropiques de
+dioxyde de carbone sur l’environnement. Pour cela, vous pourrez notamment
+mobiliser vos connaissances concernant l’effet de serre.
+Document 1 – Empreinte carbone moyenne d’un(e) français(e) en 2021
+
+Source : site Carbone4, https://www.carbone4.com/analyse-myco2-empreinte-carbone-moyenne-2021
+
+2- Donner l’empreinte carbone totale du secteur alimentation en kg CO2 équivalent
+par an et par personne. Calculer, en pourcentage, la part du secteur alimentation
+dans l’empreinte carbone totale d’un(e) français(e).
+Document 2 – Transcription d’un extrait de l’émission « Vrai ou Fake ? » sur France Info
+Selon l'ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie), une tonne de
+tomates cultivées sous une serre chauffée émet 2 360 kg de CO2. Une tonne de tomates
+cultivées sous un simple abri non chauffé émet 160 kg de CO2, soit 2 200 kg de CO2 en
+moins. Et 2 200 kg de CO2, c'est en effet ce qu'émettrait un camion de transport reliant l'Afrique
+du Sud à la France en passant par l'Asie centrale, soit environ 26 000 km.
+Théoriquement, une tonne de tomates cultivées sous une serre chauffée en France émet donc
+autant de CO2 qu'une tonne de tomates de saison transportées en camion depuis l'Afrique du
+Sud.
+Source : d’après https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-fake-le-bilan-carbone-d-une-tomatesous-serre-francaise-similaire-a-celui-d-une-tomate-importee-d-afrique-du-sud_5608193.html
+
+Document 3 – Empreinte carbone associée à la production de 100 g d’aliments source
+de protéines
+
+Source : site « Bonpote », https://bonpote.com/infographies
+
+3- D’après les documents 2 et 3, proposer deux pistes concrètes qui peuvent être
+mises en place à l’échelle individuelle pour réduire l’empreinte carbone dans le
+secteur de l’alimentation. Préciser une limite pour chacune de ces propositions.
+Document 4 – À propos des véhicules électriques
+Sur l'ensemble de sa durée de vie, une voiture électrique roulant en France, a un impact
+carbone 2 à 3 fois inférieur à celui d'un modèle similaire thermique, à condition que sa batterie
+soit de capacité raisonnable (< 60 kWh).
+Au cours de son utilisation, l’impact carbone d’un véhicule électrique augmente quasiment
+proportionnellement à son poids, lui-même fortement impacté par la capacité de stockage de
+sa batterie, qui dimensionne l’autonomie du véhicule selon sa consommation.
+L’augmentation de la capacité et de la performance des usines de recyclage des batteries en
+Europe est un enjeu clé pour la prochaine décennie. En effet, le coût écologique de la
+fabrication des batteries est très élevé, notamment parce qu’elles nécessitent l’extraction de
+métaux tels que le lithium, le cobalt, le nickel ou le graphite.
+Source : d’après avis ADEME publié sur le site Éduscol
+
+Document 5 – Émissions de carbone cumulées pour différents types de véhicules
+
+Source : d’après avis ADEME publié sur le site Éduscol
+
+4- Pour un conducteur qui parcourt 15 000 km par an, déterminer le nombre
+d’années au bout duquel l’utilisation d’un véhicule compact électrique devient
+plus avantageux en termes d’émissions de CO2. Détailler les différentes étapes
+de votre raisonnement.
+5- En vous appuyant sur les documents 4 et 5, expliquer pourquoi il est important
+de considérer l'ensemble du cycle de vie d'un véhicule pour évaluer son impact
+environnemental. Votre réponse n’excédera pas une demi page.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La pile végétale
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible.
+On cherche ici à déterminer si cette technologie peut constituer
+une solution d’avenir.
+Les deux parties peuvent être traitées indépendamment.
+Partie 1 – La photosynthèse et ses caractéristiques
+Document 1 - Étude expérimentale des échanges gazeux d’une plante
+chlorophyllienne
+On mesure les variations au
+cours du temps de trois
+paramètres environnementaux
+au sein d’une enceinte fermée
+hermétiquement et contenant un
+végétal chlorophyllien :
+
+teneur en dioxygène
+(O2) ;
+
+teneur en dioxyde de
+carbone (CO2) ;
+
+luminosité reçue par
+l’enceinte.
+
+Source : d’après https://www.pedagogie.ac-nantes.fr
+
+1- Indiquer sur la copie si chacune des propositions ci-dessous est juste (indiquer
+« oui » si elle est juste ou « non » si elle est fausse).
+Proposition a : à l’obscurité, la teneur en O2 augmente dans l’enceinte.
+Proposition b : à l’obscurité, la teneur en CO2 augmente dans l’enceinte.
+Proposition c : à l’obscurité, le végétal respire.
+Proposition d : à la lumière, la teneur en O2 diminue dans l’enceinte.
+Proposition e : à la lumière, la teneur en CO2 diminue dans l’enceinte.
+Proposition f : à la lumière, le végétal réalise la photosynthèse.
+Partie 2 – Énergie de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. La réaction
+chimique correspondante peut être exploitée au sein d’une pile comportant deux
+électrodes dont l’une est positionnées près de la racine de la plante et l’autre en est
+plus éloignée. Cette pile peut délivrer un courant électrique qui transporte de
+l’énergie. On admet que la puissance électrique fournie par une « pile végétale » de
+cette sorte est proportionnelle à la surface que les plantes, exposées au soleil et qui
+se trouvent au voisinage des électrodes, occupent sur le sol.
+2- À partir de vos connaissances, expliquer ce qu'est une source d'énergie
+renouvelable. Justifier que la pile végétale est considérée comme une source
+d'énergie électrique renouvelable.
+On peut estimer qu’une « pile végétale » de 1 m2 de surface globale (en feuilles et en
+racines) fournit une puissance de 3 W et que l’énergie moyenne nécessaire à la
+recharge d’un smartphone est de 10 Wh.
+L’énergie moyenne consommée par une famille pendant une année est 3000 kWh.
+3- Calculer la surface nécessaire en m2 de surface de « pile végétale » pour fournir
+l’énergie annuelle à une famille.
+Indication : le Watt-heure (Wh) une unité physique qui correspond à l'énergie
+consommée ou délivrée par un système d'une puissance de 1 Watt fonctionnant
+pendant une heure
+4- À partir des arguments issus de l’étude des deux parties de l’exercice et de vos
+connaissances notamment sur le fait que la « pile végétale » peut être considérée
+comme de la biomasse, indiquer un intérêt et une limite de ce dispositif.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+L’atmosphère de la Terre
+Notre planète Terre est singulière dans le système solaire, notamment par son
+atmosphère. Dans cet exercice, nous étudions cette atmosphère en la comparant à
+celle de Vénus et en analysant son évolution depuis sa formation.
+Partie 1 – Vénus et la Terre : des atmosphères jumelles ?
+Vénus est la deuxième planète du système solaire par sa distance au Soleil. Elle est
+appelée l'Étoile du berger car elle brille intensément. De par sa taille équivalente et
+sa proximité de la Terre, Vénus a longtemps été considérée comme la « sœur
+jumelle » de la Terre.
+Document 1 – Paramètres physico-chimiques des quatre planètes telluriques
+Planètes
+
+Composition
+atmosphérique (en %
+volumique)
+
+Pression
+atmosphérique
+(en Pa)
+
+Distance moyenne
+au Soleil (en
+millions de km)
+
+Température
+moyenne de
+surface (en °C)
+
+Mercure
+
+atmosphère
+quasi inexistante
+
+≈0
+
+1 x 107
+
+1 x 107
+
+> 1500
+
+1 x 105
+
++ 15
+
+Vénus
+
+CO2 (96,5 %)
+N2 (3,5 %)
+H2O (80 %)
+
+primitive
+
+CO2 (12 %)
+N2 (5 %)
+Autres (3 %)
+
+actuelle
+
+CO2 (95 %)
+Mars
+
+6 x 103
+
+N2 (2,7 %)
+
+-63
+
+Autres (2,3%)
+
+1- Rappeler la composition atmosphérique actuelle de la Terre en précisant le
+pourcentage de chaque constituant.
+Si on représente les températures moyennes de surface en fonction de la distance
+moyenne au Soleil, on obtient le graphique ci-dessous :
+
+Températures en degré Celsius
+
+Mercure
+Vénus ?
+
+Mars
+
+-50
+-100
+
+Distance au Soleil en millions de km
+
+2- Le graphique précédent semble indiquer qu’il y a une relation affine entre la
+température moyenne de surface d’une planète et sa distance au soleil. Préciser,
+si tel était le cas, la température moyenne de surface que devrait avoir Vénus.
+3- La température moyenne de Vénus est en réalité voisine de 462 °C. L’hypothèse
+énoncée en question 1 est-elle validée ? En exploitant le document 1 et ses
+connaissances personnelles, proposer une hypothèse expliquant la température
+moyenne observée de Vénus.
+4- À l’aide du document 1 et des connaissances, formuler des arguments pour
+expliquer que l’atmosphère de Vénus ne peut être considérée ni comme
+« jumelle » de celle de la Terre primitive ni comme « jumelle » de celle de la
+Terre actuelle.
+
+Partie 2 - L’évolution de l’atmosphère terrestre au cours des temps
+géologiques
+Document 2 – Évolution de la concentration de quelques gaz de l’atmosphère
+terrestre au cours du temps
+
+5- En exploitant le document 2 et ses connaissances personnelles, expliquer
+l’évolution de la teneur en eau de l’atmosphère de la Terre observée sur le
+document 2.
+
+Document 3 – Stromatolithes et métabolisme des cyanobactéries actuelles
+Les stromatolithes sont des constructions carbonatées parmi les plus anciennes
+roches fossiles d’origine biologiques connues : les plus anciennes ont été datées à
+environ 3,5 milliards d’années. Elles se sont formées à partir de micro-organismes
+comme les cyanobactéries. On en trouve à quelques endroits de la Terre sur les
+littoraux marins ou lacustres.
+
+Photo de stromatolithes à Highborne aux Bahamas
+Source : Wikipédia
+
+Une culture de cyanobactéries est placée dans une enceinte hermétique. Les
+teneurs en dioxygène et en dioxyde de carbone sont relevées sous différentes
+conditions d’éclairement. Les résultats sont présentés sur le graphique ci-dessous.
+Évolution des teneurs en dioxygène et dioxyde de carbone
+de la culture de cyanobactéries
+
+6- En exploitant le document 3 et ses connaissances personnelles, donner, en le
+justifiant, le nom des métabolismes mis en œuvre par les cyanobactéries dans
+l’expérience, entre 0 et 5 minutes puis entre 5 et 10 minutes.
+8- En exploitant l’ensemble des documents de l’exercice et ses connaissances
+personnelles, décrire les quatre grandes étapes expliquant l'évolution de la
+composition de l'atmosphère terrestre depuis sa formation jusqu'aux
+changements les plus récents.

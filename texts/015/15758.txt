@@ -1,0 +1,487 @@
+{"pages": 20, "method": "pdftotext", "bytes": 3299106, "at": "2026-11-23T09:27:59+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’un blob
+Sur 4 points
+Un blob est un organisme unicellulaire primitif qui est apparu il y a plus de 500
+millions d’années. Ce n’est ni un animal, ni un végétal, ni un champignon. Il est
+classé parmi les myxomycètes. Manon et Amine participent à une étude qui porte sur
+l’expansion et l’intelligence du blob.
+Partie 1 – Étude d’Amine : étude de l’expansion du blob
+Amine place un blob, qui occupe une superficie de 3,8 cm², dans une boite dont la
+base est un disque de rayon 8,2 cm.
+On modélise l’expansion du blob en cm² à l’aide de la fonction 𝑓 définie sur
+l’intervalle [0; +∞[ par :
+
+𝑓(𝑡 ) = 3,8 × *√2-
+
+!
+
+où 𝑡 désigne la durée en nombre de jours à partir du moment où Amine débute
+l’étude.
+1. Justifier que la fonction 𝑓 est croissante, puis que la taille du blob double tous
+les deux jours.
+2. Calculer la taille du blob au bout de 3 jours à partir du début de l’expérience.
+Arrondir le résultat au mm².
+3. On donne, ci-après, la représentation graphique de la fonction 𝑓 dans un
+repère du plan.
+Estimer graphiquement, avec la précision permise par le graphique, le temps
+qu’il faudra pour que le blob occupe toute la surface du fond de la boite.
+Expliquer la démarche utilisée pour répondre à cette question.
+
+Partie 2 – Étude de Manon : étude du déplacement du blob dans un labyrinthe
+Le blob a été étudié au Japon par un chercheur qui a révélé sa grande intelligence
+dans le cadre de la résolution de problème en labyrinthe.
+Manon dépose un blob à l’entrée d’un labyrinthe de 1 m de long. Le blob se déplace
+dans ce labyrinthe. À chaque heure, elle note la distance parcourue par le blob
+pendant la dernière heure écoulée. Les résultats incitent Manon à modéliser la
+distance parcourue pendant la 𝑛-ième heure par le blob par une suite arithmétique
+(𝑑! ) de raison 0,37, où 𝑑! désigne la distance parcourue par le blob, en cm, pendant
+la 𝑛-ième heure. L’étude commence à 8 h.
+On donne 𝑑" = 2,5.
+1. Justifier que 𝑑# = 2,87 et en déduire la distance, en cm, parcourue par le blob
+à 10 h.
+2. Exprimer 𝑑! en fonction de 𝑛, pour tout entier naturel 𝑛.
+3. Estimer la distance totale parcourue par le blob à 14 h (arrondir la réponse au
+cm).
+
+4. Manon souhaite savoir au bout de combien d’heures le blob aura parcouru
+90 cm. Reproduire sur la copie et compléter la fonction ci-dessous, écrite en
+Python, afin qu’elle renvoie le nombre minimal d’heures nécessaires pour
+atteindre cet objectif.
+def distanceparcourue():
+n=1
+d = 2.5
+d_total = 2.5
+while d_total < … :
+d = d + 0.37
+d_total = d_total + …
+n=n+1
+return n
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Températures de surface de la Terre et du Soleil
+Partie 1 – Origine de l’énergie solaire
+La Terre reçoit l’essentiel de son énergie du soleil. Cette énergie conditionne sa
+température de surface.
+1- Préciser le phénomène physique à l’origine de l’énergie dégagée par le soleil.
+2- A partir de la relation d’Einstein : 𝐸 = ∆𝑚 × 𝑐 # , calculer la masse solaire
+transformée chaque seconde en énergie, sachant que l’énergie émise chaque
+seconde par le soleil a pour valeur 3,9×1026 J.
+Donnée : vitesse de la lumière dans le vide c = 3,0×108 m·s–1
+Partie 2 – Température de surface du Soleil
+L’étude du spectre du rayonnement émis par le Soleil, que l’on peut modéliser
+comme un spectre de corps noir, permet de déterminer la température de la surface
+du Soleil.
+À l’aide du document 1 fourni sur la page ci-après, répondre aux questions 3 à 5 :
+3- Déterminer graphiquement la longueur d’ondes correspondant au maximum
+d’émission pour une températures 6000 K. Décrire qualitativement l’évolution de
+la longueur d’onde au maximum d'émission en fonction de la température du
+corps.
+4- Justifier à partir de la valeur de la longueur d’onde d’émission maximale du
+spectre solaire que la température du Soleil est comprise entre 5500 K et
+6000 K.
+
+Document 1 – Spectres d’émission
+
+Figure 1a : spectres d’émission du corps noir à différentes températures
+
+Figure 1b : modèle du spectre d’émission du soleil.
+
+La température de surface du Soleil peut être déterminée plus précisément à partir
+de la loi de Wien. Cette loi permet de déterminer la température d’un corps noir à
+partir de la longueur d’onde λmax de son maximum d’émission par la relation :
+𝜆 $%& =
+
+𝑘
+𝑇
+
+avec :
+T : température du corps noir, en kelvins (K)
+k : constante égale à 2,898×10-3 m·K
+5- En considérant que le Soleil se comporte comme un corps noir, déterminer sa
+température de surface T à partir de la loi de Wien.
+
+Partie 2 – Énergie solaire et albedo
+L’albedo est un paramètre influençant la température de surface de la Terre.
+Sa valeur moyenne actuelle est de 0,3 et tend à diminuer
+6- Définir l’albedo.
+7- Préciser, en justifiant votre réponse, si la diminution de l’albedo conduit à une
+augmentation ou une diminution de la température moyenne à la surface de la
+Terre.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+L’évolution de la composition de l’atmosphère primitive
+Partie 1 : L’évolution de la quantité de dioxygène dans l’atmosphère
+Contrairement à l’atmosphère actuelle, l’atmosphère primitive était totalement
+dépourvue de dioxygène. Bien que présent dans les océans dès - 3,5 milliards
+d’années, ce gaz n’apparaît dans l’atmosphère que vers - 2,4 milliards d’années.
+1- D’après l’expérience présentée dans le document 1, indiquer à quelle condition
+un précipité rouge d’hydroxyde de fer peut se former. Justifier.
+
+Document 1 – Ions Fe2+ et dioxygène
+Exploités comme gisements de fer, les
+formations de fer rubanés sont des roches
+sédimentaires formées en grandes
+quantités dans les océans entre - 3,8 et
+- 2,2 milliards d’années. Elles contiennent
+du fer à l’état oxydé, issu de l’oxydation du
+fer qui était présent à l’époque dans les
+océans sous forme d’ions Fe2+.
+Figure A – Échantillon de fer rubané
+(Afrique du Sud).
+Source : https://planet-terre.ens-lyon.fr
+
+Figure B - Résultats d’une expérience d’oxydation des ions Fe2+
+Source : schémas réalisés par l’auteur
+
+Lors de l’altération par l’eau des roches continentales, des ions Fe2+ sont libérés. Ils
+sont transportés sous forme soluble jusque dans les océans. En présence d’oxygène,
+ils s’oxydent en ions Fe3+ qui précipitent sous forme d’hydroxyde de fer (précipité
+rouge). Ce précipité s’accumule au fond des océans et forme les fers rubanés.
+Remarque : à l’époque de la formation des fers rubanés, l’atmosphère primitive était
+réductrice (dépourvue de dioxygène).
+
+2- À l’aide du document 1 et du document 2 (page suivante), proposer une
+explication à la fin de la formation des fers rubanés après - 2,2 milliards
+d’années.
+
+Document 2 – Évolution du dioxygène atmosphérique
+L’analyse chimique des roches très anciennes a permis d’établir les taux de
+dioxygène atmosphérique au cours de l’histoire de la Terre.
+
+Figure C – Évolution du taux de dioxygène atmosphérique au cours des temps
+géologiques
+Source : Campbell, 2012
+
+Document 3 – Formation de la rouille
+La rouille se forme à partir du fer (ou d’alliage contenant du fer comme l’acier). On
+cherche à comprendre le rôle du dioxygène de l’atmosphère dans la formation de
+la rouille à partir de fer. On place pour cela de la laine de fer dans une éprouvette
+humidifiée retournée sur de l’eau. Cette dernière a été préalablement bouillie pour
+retirer tous les gaz dissous qu’elle pouvait contenir. On réalise alors trois
+expériences schématisées ci-dessous.
+
+Figure D – Les expériences et leurs résultats
+Source : schémas réalisés par l’auteur
+
+3- Montrer, à l’aide du document 3, que l’atmosphère actuelle est composée
+d’environ un cinquième de dioxygène en volume.
+
+Partie 2 – La contribution des cyanobactéries à l’évolution de la composition
+de l’atmosphère
+Document 4 – Cyanobactéries et formation des stromatolithes
+
+Les stromatolites sont des bioconstructions
+calcaires que l’on retrouve dans des
+milieux marins chauds et peu profonds. Ils
+sont créés par des cyanobactéries. Les
+plus anciens ont été datés de 3,5 milliards
+d’années.
+Figure E – Stromatolithe actuel dans la
+baie de Shark (Australie)
+https://stromatolites.weebly.com
+
+Figure F – Organisation et fonctionnement d’un stromatolithe
+
+Dans une eau chaude et peu profonde,
+les cyanobactéries contenues dans les
+stromatolithes fabriquent leurs propres
+molécules organiques selon la réaction
+chimique suivante :
+CO# + H# O → glucides + O#
+Cette réaction chimique, en consommant
+du CO2, favorise la précipitation des ions
+carbonates (HCO(
+' ) sous forme de calcaire
+(CaCO3) :
+
+Figure C – Cyanobactéries actuelles
+observées au microscope
+
+#)
+2 HCO(
+→ CaCO' + CO# + H# O
+' + Ca
+
+4- À partir du document 4 et de vos connaissances, donner le nom de la réaction
+chimique pratiquée par les cyanobactéries permettant la synthèse de molécules
+organiques.
+5- L’atmosphère primitive de la Terre était totalement dépourvue de dioxygène.
+Indiquer l’origine probable de l’augmentation de la quantité de dioxygène dans
+l’atmosphère. Justifier.
+6- À partir de la figure C du document 2, argumenter les conséquences probables
+de l’apparition des stromatolithes il y a 3,5 milliards d’années sur le teneur
+atmosphérique en CO# .
+7- En vous appuyant sur cet exemple et au moins un autre exemple issu de vos
+connaissances, expliquer comment les scientifiques parviennent à reconstituer
+les environnements du passé alors qu'ils ne disposent d'aucune mesure directe.
+Indiquer les types d'indices utilisés et préciser comment les scientifiques les
+interprètent.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge de la Terre
+L’estimation de l’âge de la Terre a été le sujet de controverses et a évolué au cours
+des siècles au fur et à mesure des connaissances et des progrès techniques.
+1- À partir de vos connaissances, indiquer deux arguments (ou méthodes)
+scientifiques autres que la radiochronologie qui ont été utilisés au cours du
+temps pour estimer l’âge de la Terre.
+En 1969, une météorite du type chondrite carbonée est tombée au nord du Mexique.
+Les scientifiques l’ont nommée météorite "Allende". Ce type de météorite s’est formé
+en même temps que le système solaire.
+Document 1 – Caractéristiques de la météorite Allende
+La météorite Allende contient des
+structures en formes de petites
+sphères de minéraux appelées
+chondres dont la composition est
+proche de la composition moyenne
+de la Terre.
+Ces chondres appartenant à la
+même météorite ont tous le même
+âge et contiennent du rubidium 87
+(87Rb) qui avec le temps se
+désintègre en strontium 87 (87Sr),
+un des isotopes stables du
+strontium.
+Des mesures de rapports
+isotopiques ont été réalisées sur
+ces chondres.
+
+Figure – La météorite Allende
+Source : acces.enslyon.fr/acces/thematiques/limites/Temps/datatio
+n-isotopique/enseigner/les-meteorites-temoinsde-la-formation-du-systeme-solaire
+
+Document 2 – La radiochronologie, une méthode de datation
+La radiochronologie consiste à mesurer dans plusieurs échantillons d’une même
+roche la quantité de noyaux pères rubidium 87 (87Rb), de noyaux fils strontium 87
+(87Sr) et de noyaux stables strontium 86 (86Sr). On déduit des rapports isotopiques
+(rapports des quantités mesurées) 87Sr/86Sr et 87Rb/86Sr.
+En traçant la courbe représentant le rapport isotopique 87Sr/86Sr en fonction du
+rapport isotopique 87Rb/86Sr, une droite est obtenue.
+Cette droite, appelée droite isochrone (iso : identique et chronos : temps), peut être
+modélisée par la fonction 𝑦 = 𝑎𝑥 + 𝑏. Le coefficient directeur de 𝑎 de la droite
+donne, après un calcul, l’âge de l’ensemble des échantillons de la roche.
++,
++*
+2- Parmi les noyaux +*
+'*Rb, '+Sr et '+Sr, indiquer en justifiant quel est le noyau
+radioactif.
+
+3- Donner la définition de la demi-vie d’un noyau radioactif.
+Document 3 – Droite isochrone des rapports isotopiques des chondres pour
+le couple Rb/Sr de la météorite Allende
+(avec les coordonnées x ; y associées à certains points)
+0,7025
+0,05213 ; 0,70214
+
+0,702
+
+87Sr/86Sr
+
+0,7015
+0,701
+0,7005
+0,7
+
+0,0066 ; 0,69925
+
+0,6995
+
+0,00853 ; 0,69933
+
+0,699
+
+0,00017 ; 0,69877
+
+0,6985
+
+0,01
+
+0,02
+
+0,03
+
+0,04
+
+0,05
+
+0,06
+
+87Rb/86Sr
+Source : construite à partir de données issues de
+https://www.sciencedirect.com/science/article/abs/pii/0016703776901083
+
+4- Montrer à l’aide du document 3 que le coefficient directeur de la droite isochrone
+correspond approximativement à une valeur de 0,065.
+
+Document 4 – Tableau de correspondance entre valeur du coefficient
+directeur d’une droite isochrone et âge de l’échantillon étudié
+pour le couple Rb/Sr
+Coefficient directeur
+
+Âge (années)
+
+0,000028
+
+2x106
+
+0,000063
+
+4,5x106
+
+0,028
+
+2x109
+
+0,065
+
+4,5x109
+
+0,88
+
+4,5x1010
+
+15,38
+
+2x1011
+
+5- En vous appuyant sur le document 4, montrer comment la datation d’une
+météorite comme celle d’Allende apporte un argument en faveur d’un âge de la
+Terre d’environ 4,57 Ga.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Pédaler pour produire son électricité
+Pour produire de l’électricité, on utilise une énergie primaire qui peut avoir différentes
+origines. Depuis quelques années, les scientifiques s’intéressent à la transformation
+de l’énergie produite par le corps humain en énergie électrique, car la production
+d’électricité sans utiliser les combustibles fossiles est devenu un enjeu majeur dans
+notre société.
+Ainsi, certaines entreprises proposent par exemple à leurs salariés de travailler sur
+des bureaux-pédaliers afin de recharger leurs appareils, et certaines associations
+proposent un cinéma itinérant où la projection du film est possible grâce aux
+spectateurs qui se relaient pour produire l’électricité nécessaire en pédalant.
+Ces dispositifs utilisent un alternateur pour produire de l’énergie électrique.
+On s’intéresse ici aux méthodes de production d’électricité par pédalage, et à
+quelques-uns de leurs effets sur la santé.
+Document 1 – Produire de l’électricité sans
+combustion
+En 1820, le physicien danois Hans Christian
+Œrsted fut le premier à découvrir le lien entre
+l’électricité et le magnétisme puis en 1831,
+Michael Faraday mit en évidence le lien entre
+l’électricité, le magnétisme et le mouvement : il
+découvrit le phénomène d’induction
+électromagnétique, à la base du fonctionnement
+d’un alternateur.
+
+Source : d’après connaitrelascience.wordpress.com
+
+Schéma simplifié d’un
+alternateur : un courant électrique
+apparaît dans les bobines
+placées autour de l’aimant en
+rotation
+
+1- À partir du document 1, indiquer les numéros de la légende correspondant au
+rotor et au stator.
+
+2- Recopier sur votre copie l’affirmation exacte parmi les quatre propositions
+suivantes :
+Lors du fonctionnement d’un alternateur, on peut dire que l’énergie...
+a) ..électrique est transformée en énergie mécanique et une partie est perdue
+sous forme d’énergie thermique ;
+b) ..mécanique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie thermique ;
+c) ..thermique est transformée en énergie électrique et une partie est perdue
+sous forme d’énergie magnétique ;
+d) ..magnétique est convertie en énergie mécanique et une partie est perdue
+sous forme d’énergie électrique.
+3- Citer deux sources d’énergie primaire permettant de produire de l’énergie
+électrique sans combustion. Préciser pour chacune s’il s’agit d’une source
+d’énergie disponible sous forme de stock ou de flux.
+Certains modes de production d’énergie sont intermittents ce qui nécessite des
+solutions de stockage de l’énergie dont certaines sont à l’étude.
+Document 2 – Pédaler pour produire son électricité
+Une batterie de téléphone portable stocke approximativement une énergie égale à
+10 Wh. Une recharge complète de ce type de batterie à partir d’un chargeur
+électrique génère approximativement 0,5 gramme d’équivalent CO2.
+Une personne peut produire en pédalant une énergie de 30 Wh. Ainsi, il est
+possible de recharger cette batterie à 75 % de sa capacité totale en pédalant
+pendant 15 minutes. Cet effort nécessite une dépense métabolique importante.
+Source : d’après connaissancedesenergies.org
+
+4- Définir l’empreinte carbone et l’illustrer avec un exemple issu du document 2.
+5- En considérant que l’énergie nécessaire au fonctionnement d’un ordinateur
+portable est égale à 6 fois celle d’un téléphone portable, évaluer la durée totale
+de pédalage nécessaire pour recharger complètement un téléphone puis un
+ordinateur.
+
+Document 3 – Pédaler pour sa santé
+La production de l’électricité dans les centrales thermiques à partir de
+carburants fossiles émet dans l’air des composés chimiques (SO2, NO, etc.), et
+des particules fines, en suspension, de tailles variées.
+Ces éléments polluants impactent directement la santé humaine en
+provoquant notamment des inflammations du système respiratoire,
+particulièrement chez les personnes fragilisées. Cette pollution atmosphérique
+contribue ainsi à la diminution de leur longévité.
+Des chercheurs ont estimé, au moyen de modèles mathématiques, les
+conséquences de la réduction des émissions de particules fines de moins de
+2,5 µm (notées PM 2,5) sur la surmortalité et l’espérance de vie, selon trois
+scénarios :
+
+réduction à 4,9 µg.m-3 (valeur que l’on peut rencontrer dans un site de
+haute montagne à faible activité économique) ;
+
+réduction à 10 µg.m-3 (valeur recommandée par l’OMS) ;
+
+réduction à 15 µg.m-3 (objectif fixé par le plan national santéenvironnement de 2009).
+
+Les résultats sont présentés dans les graphiques ci-dessous où les barres
+matérialisent l’intervalle de confiance à 95 %.
+
+Source : d’après Santé Publique France
+
+6- Réaliser une analyse critique des résultats présentés dans le document 3.

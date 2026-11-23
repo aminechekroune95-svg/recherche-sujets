@@ -1,0 +1,346 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1652426, "at": "2026-11-23T09:27:32+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- À l’aide du document 2, déterminer comment varie la puissance dissipée par
+effet Joule si l’intensité du courant électrique est divisée par deux. Écrire sur
+votre copie le numéro de la proposition correcte.
+P1 : elle ne varie pas
+
+P2 : elle est divisée
+par 2
+
+P3 : elle est divisée
+par 4
+
+P4 : elle est multipliée
+par 4
+
+6- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne
+à haute tension.
+7- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+8- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+9- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+10- Repérer l’intervalle où la fréquence dépasse 50 Hz. Conclure sur l’équilibre entre
+production et consommation électrique durant ces heures.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La forme de la Terre à l’Antiquité
+Dès l’Antiquité, les Grecs savaient que la Terre était sphérique. Ils ont même mesuré
+sa circonférence. Cet exercice étudie deux approches historiques liées à la
+connaissance de la forme de la Terre.
+Partie A – La Terre est ronde
+Le document 1 page suivante présente un texte d'après Aristote, philosophe et
+savant grec (384-322 av. J.-C.), dont la pensée a longtemps influencé les sciences.
+1- Extraire du texte (document 1) deux observations qui permettent à Aristote
+d’affirmer que la Terre est ronde.
+2- Donner deux autres arguments qui permettent aujourd’hui de dire que la Terre
+n’est pas plate.
+3- Parmi les objets ci-dessous, citer ceux qui peuvent, sous au moins une
+exposition donnée, projeter une ombre portée circulaire.
+
+Cône
+
+Cylindre
+
+Pyramide
+
+Sphère
+
+4- En déduire laquelle des observations d’Aristote (document 1) permet de prouver
+que la Terre est sphérique. Justifier.
+
+Document 1 – La forme de la Terre
+« Dans les éclipses de Lune, la ligne qui limite
+l'ombre est toujours une ligne incurvée. Puisque
+l'éclipse est due à l'interposition de la Terre entre
+la Lune et le Soleil, c'est la forme de la surface de
+la Terre, sphérique, qui produit cette ligne courbe.
+De plus, la manière dont les astres nous
+apparaissent ne prouve pas seulement que la
+Terre est ronde, mais aussi que son étendue est
+assez petite.
+En effectuant un déplacement minime vers le Sud
+ou vers le Nord, nous voyons se modifier le cercle
+d'horizon; les astres au-dessus de nous changent
+considérablement et ce ne sont pas les mêmes
+qui brillent dans le ciel quand on va vers le Nord
+et quand on va vers le Sud. Certains astres
+visibles en Égypte ou vers Chypre sont invisibles
+dans les régions septentrionales. Par ailleurs les
+astres qui, dans les régions septentrionales, sont
+visibles à tout instant, connaissent un coucher
+dans les pays cités plus haut. Tout cela ne montre
+pas seulement que la Terre est ronde, mais
+encore qu'elle a la forme d'une sphère de
+modeste dimension ; autrement, on n'apercevrait
+pas si vite les effets d'un déplacement si court. »
+
+Le dessin ci-dessus, qui illustre
+la démonstration d'Aristote, est
+extrait de la Cosmographie de
+Petrus Apianus (1581)
+
+Source : Du Ciel, Il, 14, Éd. des Belles Lettres, 1965
+
+Partie B – Mesure de la circonférence de la Terre
+
+Document 2 – La méthode d’Ératosthène
+Ératosthène (276 à 194 av JC) est célèbre pour sa méthode de mesure de la
+circonférence de la Terre. Il était connu qu'à Syène (Assouan aujourd’hui), le 21
+juin à midi, on pouvait voir l'image du Soleil se refléter au fond d'un puits. Cela
+signifie que le Soleil est exactement à la verticale du puits le jour du solstice d’été,
+c’est-à-dire que Syène est sur le tropique du Cancer. Mais le même jour, à la
+même heure, dans la ville d'Alexandrie située plus au Nord on constate que les
+rayons du soleil n'atteignent pas le fond des puits. On mesure que les rayons du
+Soleil font, avec la verticale, un angle de 7,2°. Eratosthène en déduit que l’écart
+angulaire entre Syène et Alexandrie est lui aussi de 7,2° (comme noté dans le
+schéma ci-dessous).
+
+La démarche d’Ératosthène s’appuie sur plusieurs hypothèses :
+- la Terre est sphérique,
+- Syène est sur le tropique du Cancer,
+- Syène et Alexandrie sont sur le même méridien,
+- les rayons du Soleil arrivant sur la Terre sont parallèles entre eux.
+
+Pour calculer la circonférence de la terre, Eratosthène utilise les données
+suivantes :
+- il faut 50 jours à une caravane de chameaux pour relier Syène et Alexandrie.
+- Chaque jour, cette caravane parcourt une distance de 100 stades.
+- Le stade est une ancienne unité de longueur valant environ 157 m.
+- Un angle de 7,2° correspond à un cinquantième de tour.
+
+5- Déterminer la distance, en kilomètres, entre Syène et Alexandrie.
+6- Refaire les calculs d’Ératosthène afin de déterminer la circonférence de la Terre.
+La véritable valeur de la circonférence de la Terre est légèrement différente de celle
+mesurée par Ératosthène. Cet écart peut s’expliquer par certaines imprécisions dans
+les hypothèses qu’il a formulées.
+Document 3 – Carte actuelle de l’Égypte
+
+7- À l’aide de la carte du document 3, citer deux hypothèses d’Ératosthène qui
+peuvent être remises en question. Justifier.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( I ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Sachant qu’un spectateur situé à 5 m de la piste est soumis à un niveau
+d’intensité sonore L = 120 dB, indiquer, parmi les propositions suivantes, à
+quelle distance doit se trouver le spectateur pour n’être soumis qu’à une
+intensité sonore L’= 105 dB. Justifier (on n’attend aucun calcul).
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+2- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes, de porter des bouchons d’oreilles bien insérés et
+de faire des pauses auditives régulières. Justifier ces différents conseils.
+Partie 2 – Restaurer l’audition
+3- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Nommer en justifiant la partie dysfonctionnelle de l’oreille concernée par
+chacune des aides auditives.
+4- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.

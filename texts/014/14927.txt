@@ -1,0 +1,245 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1279504, "at": "2026-11-23T09:22:02+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+LE SAUT PENDULAIRE (10 points)
+Document 1 : Le saut pendulaire
+Dix secondes de chute libre depuis une falaise qui offre plus de 400 mètres de vide, ça vous
+dit quelque chose ?
+C’est le temps et le nouveau record de France réalisé en rope jump, dernier né des sports
+extrêmes qui s’inspire à la fois du base jump et du saut à l’élastique. Sauf que dans cette
+discipline (le saut pendulaire en bon français), les athlètes ne sont pas attachés par un
+élastique mais par de simples cordes d’alpinisme… Et la longueur de chute libre atteint 80 %
+de la hauteur quand le saut à l’élastique limite la chute proprement dite à 40 %.
+D'après le dauphiné libéré
+https://www.ledauphine.com/isere-sud/2019/09/15/
+
+Document 2 : Les différentes phases du saut
+
+Le saut pendulaire peut se décomposer en
+trois phases :
+-
+
+-
+
+la première, entre A et B est une phase de
+chute libre où la corde n'est pas tendue ;
+la deuxième, entre B et C, la corde
+commence à se tendre et la trajectoire du
+sauteur est déviée sous son action ;
+la dernière, entre C et D, la corde est
+tendue et la trajectoire du sauteur est
+circulaire.
+
+Pour repérer l'altitude du sauteur, on utilise un
+axe des y vertical dont l'origine est au sol.
+
+Document 3
+
+Le but de cet exercice est de vérifier que la hauteur de chute libre lors d'un saut pendulaire
+correspond à 80 % de la hauteur du saut, c'est à dire la longueur de la corde.
+Pour cela, on étudie l'enregistrement vidéo d'un saut réalisé par un sauteur de masse
+m = 80,0 kg (avec son équipement). Un pointage vidéo a été réalisé, il a permis d'obtenir les
+coordonnées (x,y) du sauteur au cours du temps.
+Le sautoir se situe à une altitude yA = 30 m par rapport au sol.
+Donnée : intensité du champ de pesanteur : g = 9,81 m.s-2.
+1. Étude de la première phase du saut entre A et B
+1.1 Étude du saut en négligeant les frottements
+Dans un premier temps, on formule l'hypothèse que les forces de frottement de l'air sont
+négligeables.
+1.1.1. Effectuer l'inventaire des forces extérieures appliquées au système.
+1.1.2. Donner l'expression du travail du poids 𝑊𝐴𝐵 (𝑃⃗) entre les points A et B en
+fonction de m, g, yA et yB, altitude du point B. Ce travail est-il moteur ou résistant ?
+1.1.3. On considère que la vitesse initiale du sauteur au point A est nulle. En
+utilisant le théorème de l'énergie cinétique entre les points A et B, montrer que 𝑉𝐵 la vitesse au
+point B est reliée à la hauteur de chute libre h = (yA – yB) par la relation : 𝑉𝐵 = √2𝑔ℎ.
+1.1.4. Sur l'enregistrement réalisé, le sauteur commence à s'écarter de sa
+trajectoire verticale pour une hauteur h = 16 m (fin de la chute libre). Calculer la valeur de la
+vitesse au point B en utilisant l'expression établie à la question précédente.
+1.2 Confrontation avec le saut réalisé
+Voici une partie du code Python permettant de calculer la vitesse à partir des listes x et y,
+respectivement la liste des abscisses des points repérant le sauteur sur la vidéo et la liste des
+ordonnées de ces mêmes points. Les vitesses sont calculées avec la convention suivante :
+- la vitesse en abscisses vx est définie comme l’abscisse du point suivant moins celle
+du point actuel, le tout divisé par la durée entre ces deux points notée dt. ;
+- même convention pour l'axe des ordonnées.
+
+1.2.1. Compléter les morceaux du code manquants entre les crochets lignes 56
+et 57.
+1.2.2. Expliquer ce que calcule la partie soulignée de la ligne 58, sachant que
+math.sqrt permet de calculer une racine carrée.
+1.2.3. L'exploitation des résultats conduit à une vitesse au point B de 58 km.h–1
+au cours du saut réalisé. Comparer cette valeur à celle déterminée à la question 1.1.4,
+proposer une explication à cet écart.
+2. Étude de la phase du saut entre C et D
+2.1. Donner l'expression de l'énergie cinétique du sauteur Ec en fonction de sa masse
+m et de sa vitesse v.
+2.2. Donner l'expression de l'énergie potentielle de pesanteur du sauteur Epp en
+fonction de sa masse m, de g et de son altitude y par rapport au sol.
+2.3. Donner l'expression de son énergie mécanique Em.
+2.4. Identifier les courbes Ec, Epp et Em données dans le document 3. Justifier.
+2.5. L'hypothèse d'une chute libre sans frottements est-elle ici justifiée ? Pourquoi ?
+2.6. D'après la courbe du document 3, pour quelle date t, le sauteur passe par sa
+position d'équilibre : la verticale ?
+2.7. En exploitant les courbes du document 3 et le passage par la position verticale,
+déterminer la longueur de la corde et vérifier l'affirmation du document 1 : pour un saut
+pendulaire, la longueur de chute libre atteint 80 % de sa hauteur, c'est à dire la longueur de la
+corde.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même si elle
+n’a pas abouti.
+Partie B
+Comment lutter contre les « marées noires » (10 points)
+Lorsque du pétrole se déverse dans le milieu marin, les autorités n’ont comme options pour
+minimiser l’impact sur l’environnement des « marées noires » que de le récupérer, de le
+disperser ou de le brûler.
+La récupération du pétrole n’est pas aisée à cause des conditions généralement houleuses en
+mer, et ne se pratique que très rarement. La dispersion en revanche tient ses promesses grâce
+au travail des chimistes en particulier. Le brûlage du pétrole sur zone est peu pratiqué, car
+pour être efficace le pétrole doit contenir suffisamment de constituants légers et inflammables.
+
+Cela génère, de plus, de graves incidences sur l’environnement à cause des gaz et des suies
+qu’une telle combustion libère.
+Données :
+
+Échelle d’électronégativité de Pauling de quelques éléments chimiques :
+H
+2,1
+
+He
+
+Li
+1,0
+
+Be
+1,5
+
+B
+2,0
+
+C
+2,5
+
+N
+3,0
+
+O
+3,5
+
+F
+4,0
+
+Ne
+
+Na
+0,9
+
+Mg
+1,2
+
+Al
+1,5
+
+Si
+1,8
+
+P
+2,1
+
+S
+2,5
+
+Cl
+3,0
+
+Ar
+
+On considère qu’une liaison est polarisée quand la différence d’électronégativité entre
+les deux atomes liés est supérieure à 0,4.
+
+Numéros atomiques : carbone Z(C) = 6 ; hydrogène Z(H) = 1 ; oxygène Z(O) = 8 ; chlore
+Z(Cl) = 17
+
+Informations diverses à 25 °C :
+Éthanol
+
+M = 46 g·mol-1 ;  = 0,79 g·cm-3
+
+n-octane
+
+M = 114 g·mol-1 ;  = 0,70 g·cm-3
+
+Eau de mer  = 1,029 g·cm-3
+CO2
+
+M = 44 g·mol-1
+
+Un individu émet en moyenne environ 30 kg de CO2 par jour. Les origines de ces
+émissions sont les déplacements, le chauffage, l’eau chaude, l’électricité consommée.
+
+Nous allons étudier le naufrage d’un navire dont le carburant, le n-octane par simplification,
+s’est étalé à la surface de l’eau formant des nappes d’hydrocarbures à la dérive. Le littoral est
+donc menacé par une « marée noire ».
+
+Miscible ou non miscible ?
+1.
+
+Établir le schéma de Lewis de la molécule d’eau H2O.
+
+2.
+
+Déterminer le caractère polaire ou apolaire de la molécule d’eau.
+
+Le n-octane appartient à la famille des alcanes. Il est constitué de 8 atomes de carbone et de
+18 d’hydrogène liés par de simples liaisons covalentes.
+3. Déterminer le caractère polaire ou apolaire de la molécule de n-octane.
+4.
+
+Justifier que le carburant du navire qui se répand dans la mer forme une nappe
+d’hydrocarbure en surface.
+
+Dispersion d’une nappe d’hydrocarbures
+La dispersion d’une nappe d’hydrocarbures consiste à épandre un dispersant, c’est-à-dire un
+produit tensioactif composé de molécules amphiphiles. Ces molécules ont la capacité de
+séparer la nappe d’hydrocarbures en une multitude de gouttelettes de pétrole en les entourant,
+chacune formant ainsi des micelles, comme représentées ci-dessous :
+
+Molécule de
+tensioactif
+Nappe
+de
+pétrole
+
++
+
+Gouttelettes
+de pétrole
+
+Micelles en
+suspension
+
+D’après Dossier n°73 / Octobre – Décembre 2011 / © Pour la Science
+
+5. Définir ce qu’est une molécule amphiphile.
+6. Expliquer, en quelques mots, la formation des micelles et la dispersion possible des
+micelles en suspension.
+On considère un produit tensioactif composé d’une molécule amphiphile dont la formule semidéveloppée est :
+
+CH3 – (CH2)8 – COOH
+7. Identifier la famille fonctionnelle à laquelle appartient cette molécule.
+8. Expliquer le caractère amphiphile de cette molécule.
+Le brûlage d’une nappe d’hydrocarbures et ses conséquences.
+Le volume de n-octane déversé par un navire est de V = 2,9 x 106 L. La combustion envisagée
+de la nappe d’hydrocarbures constituée de n-octane ne sera pas une combustion complète.
+Outre le dioxyde de carbone et l’eau formés, la combustion libèrera aussi du carbone.
+9. Écrire l’équation de la réaction modélisant la combustion incomplète du n-octane.
+10. En vous appuyant sur un calcul, discuter de l’opportunité d’utiliser cette méthode, au
+regard de son impact environnemental lié au dégagement de dioxyde de carbone.

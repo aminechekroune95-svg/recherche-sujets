@@ -1,0 +1,315 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1405864, "at": "2026-11-23T09:34:15+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTÈME SOLAIRE
+Le système solaire est formé d’une étoile, le Soleil, autour de laquelle des planètes, des
+satellites, des astéroïdes sont en orbite. La distance entre ces objets et l’étoile a une
+influence sur leur température de surface mais il semble que cela ne soit pas le seul facteur
+entrant en jeu…
+Document de référence : Caractéristiques de quelques objets du système solaire :
+Planètes
+internes
+Caractéristiques
+Distance au Soleil
+(106 km)
+Puissance solaire
+reçue par unité de
+surface (Wm-2)
+Importance
+qualitative de l’effet
+de serre
+atmosphérique
+Albédo du système
+« planèteatmosphère »**
+Satellites
+
+Mercure
+
+Venus
+
+Terre
+
+Mars
+
+57,91
+
+108,21
+
+149,6
+
+227,94
+
+2290
+
+Pas d’effet de Effet de serre
+Effet de serre
+serre
+atmosphérique atmosphérique
+atmosphérique très marqué
+modéré
+
+Effet de serre
+atmosphérique
+faible
+
+0,07
+
+0,7
+
+0,15
+
+Aucun
+
+Aucun
+
+La Lune :
+Phobos :
+Pas d’atmosphère Pas d’atmosphère
+Albédo : 0,07
+Albédo : 0,07
+
+** L’albédo mesure le pouvoir réfléchissant d’une surface. C’est la proportion d’énergie
+lumineuse réfléchie. Sa valeur est comprise entre 0 et 1. Plus une surface est réfléchissante,
+plus son albédo est élevé. Par exemple, l'albédo de la neige fraîche est de 0,87, ce qui signifie
+que 87 % de l’énergie lumineuse est réfléchie par ce type de neige.
+L'albédo d’un système Planète-atmosphère est la proportion de l'énergie solaire qui est
+réfléchie par la planète et son atmosphère vers l'espace. Les éléments qui contribuent le plus à
+l'albédo du système Terre-atmosphère sont les nuages, les surfaces de neige et de glace et
+les aérosols.
+D’après : Géosciences La dynamique du système Terre de Christian Robert et Romain Bousquet,
+https://www.actu-environnement.com et https://www.futura-sciences.com
+
+Partie 1 : Des données expérimentales à un modèle mathématique possible.
+
+Document 1. Montage expérimental permettant de mesurer la puissance lumineuse reçue par
+un récepteur en fonction de la distance à la source lumineuse.
+On dispose d’une lampe et d’un
+capteur, le luxmètre*, permettant de
+mesurer l’éclairement lumineux reçu.
+L’expérimentateur réalise une série de
+mesures en éloignant progressivement
+le luxmètre de la lampe. On présente
+ces mesures dans le tableau cidessous.
+Tableau des mesures réalisées :
+Distance par rapport à
+la lampe (en mètres)
+
+0,2
+
+0,4
+
+0,5
+
+0,7
+
+0,8
+
+0,9
+
+Éclairement lumineux
+reçu (en lux**)
+
+10 800
+
+5 300
+
+3 100
+
+1 800
+
+1 000
+
+D’après : https://www.pierron.fr/news/fiches-tp-svt-2nd.html
+
+* Luxmètre : Appareil de mesure de l'éclairement lumineux comportant une cellule
+photosensible.
+** Lux : unité de mesure de l'éclairement lumineux (puissance lumineuse reçue par unité de
+surface).
+1- Le graphique de l’annexe 1 (à rendre avec la copie) permet de représenter les variations
+de l’éclairement lumineux reçu par le capteur en fonction de la distance à la source
+d’énergie, Reporter sur ce graphique les points expérimentaux obtenus dans le document 1.
+
+2- À partir de l’allure du nuage de points obtenu à la question 1, un tableur permet de
+proposer une modélisation mathématique par une fonction. Cette fonction, notée 𝑓, est
+définie par :
+𝑓(𝑑) =
+
+𝑑2
+
+où 𝑑 représente la distance à la lampe (en mètre) et 𝑓(𝑑) l’éclairement lumineux reçu (en
+lux).
+2-a- En utilisant cette modélisation mathématique, compléter le tableau de valeurs donné en
+annexe 2 à rendre avec la copie. On arrondira les résultats à l’unité.
+
+2-b- Représenter la fonction 𝑓 dans le repère donné en annexe 1.
+2-c- Cette modélisation mathématique semble-t-elle pertinente pour caractériser la relation
+entre l’éclairement lumineux reçu par le capteur et la distance à la source lumineuse ?
+Justifier.
+3- On admet que la loi illustrée expérimentalement dans le document 1 est générale : « La
+puissance lumineuse par unité de surface reçue par un objet est inversement proportionnelle
+au carré de la distance qui le sépare de la source lumineuse ».
+En s’appuyant sur le document de référence, choisir, parmi les affirmations suivantes, celle
+qui est correcte au regard de ce modèle. L’écrire sur la copie et justifier la réponse donnée.
+La puissance lumineuse par unité de surface, provenant du Soleil et reçue sur Venus est
+environ :
+a) deux fois plus grand que celui reçu sur Mercure.
+b) quatre fois plus grand que celui reçu sur Terre.
+c) deux fois plus petit que celui reçu sur Terre.
+d) quatre fois plus petit que celui reçu sur Mercure.
+
+Partie 2 : Confrontation du modèle mathématique à la réalité.
+Dans cette partie, on admet que la puissance reçue par unité de surface par les objets du
+système solaire est inversement proportionnelle au carré de leur distance au soleil, d’une
+façon analogue à l’étude menée en partie 1. Moyennant certaines hypothèses, on peut en
+déduire une « loi de variation de la température moyenne des planètes en fonction de leur
+distance au soleil » (voir le document 2).
+
+Document 2. Températures de surface de quelques objets proches du Soleil.
+Le graphique ci-dessous précise :
+ Les températures moyennes effectivement mesurées à la surface de différentes
+planètes en fonction de leur distance au soleil (points gris).
+ L’évolution de la température moyenne d’un objet en fonction de la distance au soleil
+modélisée par la « loi de variation de la température moyenne des planètes en
+fonction de leur distance au soleil » (courbe continue).
+
+ua : Unité astronomique
+(1 ua  150 x 106 km)
+
+D’après : Collection in vivo, SVT 2de 2004, Magnard
+4- Quels sont les objets considérés dans le document 2 pour lesquels la loi modélisant
+l’évolution de la température des planètes en fonction de leur distance au Soleil est bien
+vérifiée ? Quelles propriétés ces objets ont-ils en commun ?
+5- A partir de vos connaissances, expliquer qualitativement l’influence de l’albedo et de l’effet
+de serre sur la température terrestre moyenne.
+6- Proposer une explication du fait que la température de Vénus est « anormalement »
+élevée par rapport aux autres objets considérés.
+
+EXERCICE 2
+APPROCHE HISTORIQUE DE L’ÂGE DE LA TERRE
+Depuis l’Antiquité, la question de l’âge de la Terre a soulevé de nombreuses
+controverses. On se propose d’étudier différentes méthodes ayant permis d’estimer
+l’âge de la Terre au cours de l’histoire des sciences.
+Partie A. Les précurseurs : Buffon et Kelvin
+• La démarche de Buffon
+Georges Louis Leclerc, comte de Buffon, est le premier à réaliser une expérience
+pour déterminer l’âge de la Terre. Partant de l’hypothèse que la Terre a d’abord été
+une sphère de matière en fusion qui a refroidi, il chauffe au rouge 10 boulets de fer
+forgé de tailles différentes et inférieures à 5 pouces (1 pouce = 2,54 cm). Buffon
+mesure la durée de leur refroidissement et extrapole ensuite ses résultats au globe
+terrestre, dont le diamètre connu à l’époque est proche de 13 000 km. Pendant
+plusieurs années et avec des métaux différents, il effectuera plus de 60 expériences,
+chacune répétées trois fois.
+Document 1. Étude du temps de refroidissement des boulets de canon
+Temps de refroidissement en fonction du rayon des boulets
+Temps en min
+
+Rayon
+
+8 en cm
+
+Buffon écrit :
+« Maintenant, si l’on voulait chercher […] combien il faudrait de temps à un globe
+gros comme la Terre pour se refroidir, on trouverait, d’après les expériences
+précédentes, […] quatre-vingt-seize-mille six cent soixante-dix ans et cent trentedeux jours pour la refroidir à la température actuelle » (extrait de L’Histoire Naturelle,
+générale et particulière, Buffon, 1774).
+• La démarche de Kelvin
+Presque un siècle plus tard, le Britannique Lord Kelvin utilise la théorie de la
+conduction de la chaleur établie par Fourier et modélisée par « l’équation de la
+chaleur ». En considérant que l’intérieur de la Terre est homogène et rigide, il estime
+l’âge de la Terre entre 20 et 400 millions d’années en utilisant l’équation de transfert
+de chaleur.
+Lord Kelvin écrit :
+« Le fait que la température de la Terre augmente avec la profondeur sous la surface
+implique une perte continue de chaleur de l’intérieur par conduction vers l’extérieur, à
+travers ou dans la croûte supérieure. Puisque la croûte supérieure ne devient pas
+plus chaude d’année en année, il doit donc y avoir une perte de chaleur séculaire de
+la Terre entière… Mais il est certain que la Terre devient de plus en plus froide d’âge
+en âge… » (d’après On the Secular Cooling of the Earth, Lord Kelvin, 1862)
+En s’appuyant sur le document 1, les informations précédentes et sur vos
+connaissances personnelles, répondre aux questions suivantes.
+1- Expliciter la démarche mise en œuvre par Buffon, ses points forts et ses limites.
+2- Expliciter la démarche mise en œuvre par Lord Kelvin, ses points forts et ses
+limites.
+3- Commenter les âges de la Terre proposés par Buffon et Kelvin. On attend une
+comparaison des valeurs, de leur précision et de leur ordre de grandeur.
+
+Partie B. Les positions des géologues et de Charles Darwin
+Au XIXe siècle, des géologues à l’instar de Charles Lyell, affirment que l’explication
+du passé de la Terre réside dans l’étude des phénomènes géologiques actuels. Ils
+utilisent la vitesse de sédimentation pour évaluer l’âge de la Terre.
+En considérant que les sédiments se déposent à un rythme compris entre 1 mm et
+1 cm par an, ils estiment l’âge de la Terre a environ 3 milliards d’années.
+
+Quant à Charles Darwin, il s’oppose à Kelvin dans son ouvrage « De l’origine des
+espèces » paru en 1859. Selon lui, la théorie de l’évolution permet d’expliquer la
+diversité du vivant, mais elle nécessite des temps très longs, de l’ordre du milliard
+d’années.
+Document 2. Coupe géologique d’un affleurement géologique à Wöllstein
+(Allemagne).
+L
+
+Argile
+
+Socle (roche magmatique)
+L
+
+L’épaisseur de chaque couche est donnée en mètres.
+D’après Gustave-F. Dollfus, Bulletin de la société géologique de France, 1911.
+4- En considérant que la vitesse de sédimentation est de 0,1 mm par an et que les
+sédiments formant ces différentes strates (couches 1 à 5) se sont déposés de
+manière uniforme, estimer la durée de formation de l’ensemble des strates de
+Wöllstein surmontant le socle.
+5- Comparer cet âge à celui estimé par Darwin. Proposer une hypothèse pour
+laquelle cette estimation de l’âge de la Terre à partir de cette coupe géologique est
+très différente.
+
+ANNEXE A RENDRE AVEC LA COPIE
+EXERCICE 1
+TEMPERATURES DE SURFACE DE QUELQUES OBJETS DU SYSTEME SOLAIRE
+Annexe 1 – Partie 1 – questions 1- et 2-bÉclairement lumineux reçu (en lux)
+
+Annexe 2 – Partie 1 – question 2-a𝑑
+
+0,2
+
+0,4
+
+0,5
+
+0,6
+
+0,8
+
+4 700
+
+1 728
+
+(en m)
+𝑓(𝑑)
+
+10 800
+
+(en lux)

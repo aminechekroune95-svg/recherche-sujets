@@ -1,0 +1,482 @@
+{"pages": 19, "method": "pdftotext", "bytes": 2065716, "at": "2026-11-23T09:43:40+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Combien de bits sont nécessaires pour représenter 15 en binaire ?
+Question A.2
+En ajoutant trois chiffres 0 à droite de l'écriture binaire d'un entier 𝑁 strictement positif, on obtient l'écriture
+binaire de :
+6×𝑁
+8×𝑁
+1000 × 𝑁
+aucune des réponses précédentes
+Question A.3
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A.4
+La couleur « bleu roi » a pour code RGB (65,105,225), sa représentation en hexadécimal est :
+#2852C2
+#4169E1
+#33A5C61
+#C3T622
+Question A.5
+Quelle est la représentation binaire en complément à deux sur huit bits du nombre –3 ?
+1000 0011
+1111 1100
+1111 1101
+1 0000 0011
+
+Question A.6
+Quelle est la représentation décimale de l'entier qui s'écrit AB en hexadécimal?
+1011
+
+Thème B : types construits
+Question B.1
+On définit ainsi le tableau t = [[1,5,7], [8,4,2], [3,9,6]]
+Quel jeu d'indices permet d'obtenir l'élément "9" de ce tableau ?
+t[3][2]
+t[2][3]
+t[1][2]
+t[2][1]
+Question B.2
+On définit une grille G remplie de 0, sous la forme d'une liste de listes, où toutes les sous-listes ont le même
+nombre d'éléments.
+G =
+
+[ [0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+[0, 0, 0, …, 0],
+……
+[0, 0, 0, …, 0] ]
+
+On appelle hauteur de la grille le nombre de sous-listes contenues dans G et largeur de la grille le nombre
+d'éléments dans chacune de ces sous-listes. Comment peut-on les obtenir ?
+hauteur = len(G[0])
+largeur = len(G)
+
+hauteur = len(G)
+largeur = len(G[0])
+
+hauteur = len(G[0])
+largeur = len(G[1])
+
+hauteur = len(G[1])
+largeur = len(G[0])
+
+Question B.3
+On a défini : T = [[1,2,3], [4,5,6], [7,8,9]].
+Quelle expression parmi les suivantes a pour valeur le nombre 8 ?
+T[1,2]
+T[1][2]
+T[2,1]
+T[2][1]
+
+Question B.4
+On considère la fonction suivante :
+def somme(tab):
+s = 0
+for i in range(len(tab)):
+......
+return s
+Par quelle instruction faut-il remplacer
+somme([10,11,12,13,14]) renvoie 60 ?
+s = tab[i]
+s = s + tab[i]
+tab[i] = tab[i] + s
+s = s + i
+
+les
+
+points
+
+de
+
+suspension
+
+pour
+
+que
+
+l'appel
+
+Question B.5
+Dans le cadre d'un travail sur la représentation binaire d'un entier positif, on construit un dictionnaire par le code
+suivant :
+correspondance = {}
+for d0 in (0,1):
+for d1 in (0,1):
+for d2 in (0,1):
+m = strc(d2)+str(d1)+str(d0)
+n = d0 + 2*d1 + 4*d2
+correspondance[m] = v
+
+# bit de poids faible
+# bit de poids fort
+# écriture binaire
+
+Quel dictionnaire correspondance obtient-on ?
+{ '000': 0, '001': 4, '010': 2, '011': 6, '100': 1, '101': 5, '110': 3,
+'111': 7 }
+{ 0: '000', 4: '001', 2: '010', 6: '011', 1: '100', 5: '101', 3: '110',
+7: '111' }
+{ '000': 0, '001': 1, '010': 2, '011': 3, '100': 4, '101': 5, '110': 6,
+'111': 7 }
+{ 0: '000', 1: '001', 2: '010', 3:'011', 4: '100', 5: '101', 6: '110',
+7: '111' }
+Question B.6
+Quelle est la valeur de l'expression [2**i for i in range(5)] ?
+[0,1,4,9,16]
+[1,4,9,16,25]
+[0,2,4,6,8]
+[1,2,4,8,16]
+
+Thème C : traitement de données en tables
+Question C.1
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C.2
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.3
+On a défini :
+mendeleiev = [ ['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C.4
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre':
+124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a-t-elle pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+
+T[3,'nombre']
+
+Question C.5
+Les données clients d’une entreprise sont stockées dans un fichier csv. Afin de les importer, on effectue une
+lecture séquentielle de ce fichier par ligne. On affecte à la variable ligne le contenu d’une ligne de ce fichier.
+La variable c est alors définie ainsi :
+ligne = "dupont;arnaud;245862;france"
+c = ligne.split(;)
+Que contient cette variable c ?
+"dupontarnaud245862france"
+["dupont", "arnaud", "245862", "france"]
+"dupont"
+Question C.6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-dehaute-provence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+On considère le code suivant :
+import csv
+with open('departements.csv', newline='') as monFichier:
+lesLignes = csv.reader(monFichier)
+for uneLigne in lesLignes:
+print(uneLigne[3])
+Que va produire l'exécution de ce code ?
+L'affichage de la troisième colonne à savoir le nom du département avec une majuscule initiale
+L'affichage de tout le contenu du fichier
+L'affichage du nombre total de départements figurant dans le fichier
+L'affichage de la quatrième colonne, à savoir le nom du département tout en majuscules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Que demande cette requête au serveur ?
+de renvoyer le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'exécuter le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'indiquer si Jon Snow a bien pris son traitement
+de renvoyer le fichier traitement.php en affichant prénom et nom : Jon Snow
+Question D.2
+Quelle balise HTML permet de créer des liens entre pages ?
+<r>
+<l>
+<link>
+<a>
+Question D.3
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D.4
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+
+Question D.5
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D.6
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.2
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez unfournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question E.3
+On cherche à connaitre l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E.4
+Lequel de ces systèmes d'exploitation est sous licence propriétaire ?
+Android
+Linux
+Windows
+Ubuntu
+
+Question E.5
+Dans une mémoire RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+Question E.6
+Dans la console Linux, quelle commande faut-il exécuter pour effacer le fichier test0.csv ?
+rm test0.cvs
+cp test0.csv
+ls test0.csv
+mv test0.csv
+
+Thème F : langages et programmation
+Question F.1
+On considère le code incomplet suivant, où la fonction maximum renvoie le plus grand élément d’une liste de
+nombres :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+..............
+..............
+return m
+Que faut-il écrire à la place des lignes pointillées ?
+if m < L[i]:
+L[i] = m
+
+if L[i-1] < L[i]:
+
+if L[i] < L[0]:
+L[i],L[0] = L[0],L[i]
+
+if L[i] > m:
+
+Question F.2
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+
+Question F.3
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F.4
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F.5
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+
+Question F.6
+Combien de fois l'instruction x = x+2 va-t-elle être exécutée dans le script suivant ?
+x = 2
+while x < 10:
+x = x + 2
+1 fois
+4 fois
+5 fois
+6 fois
+
+Thème G : algorithmique
+Question G.1
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s = 0
+i = 1
+while i < 5:
+s = s + i
+i = i + 1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)
+Question G.2
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G.3
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de 18 euros.
+Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+
+Question G.4
+On considère la fonction Python suivante, qui prend en argument une liste L et renvoie le maximum des éléments
+de la liste :
+def rechercheMaximum(L):
+max = L[0]
+for i in range(len(L)):
+if L[i] > max:
+max = L[i]
+return max
+On note 𝑛 la taille de la liste.
+Quelle est la complexité en nombre d’opérations de l’algorithme ?
+constante, c’est-à-dire ne dépend pas de 𝑛
+linéaire, c’est-à-dire de l’ordre de 𝑛
+quadratique, c’est-à-dire de l’ordre de 𝑛²
+cubique, c’est-à-dire de l’ordre de 𝑛3
+Question G.5
+La fonction maximum doit renvoyer la valeur maximale d'un tableau de nombres. Par quoi doit-on remplacer les
+pointillés pour qu'elle donne le résultat attendu ?
+def maximum(T):
+maxi = T[0]
+for i in range(len(T)):
+.... T[i] > maxi:
+......
+return maxi
+if puis, sur la ligne suivante, maxi = T[i]
+while puis, sur la ligne suivante, maxi = T[i]
+if puis, sur la ligne suivante, maxi = maxi + 1
+while puis, sur la ligne suivante, maxi = maxi + 1
+Question G.6
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables

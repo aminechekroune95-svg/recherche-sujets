@@ -1,0 +1,258 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1294704, "at": "2026-11-23T09:33:29+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Implant cochléaire
+L’implant cochléaire est un dispositif auditif destiné aux personnes atteintes d’une
+surdité sévère ou profonde. Il transforme les sons en signaux électriques envoyés
+directement au nerf auditif grâce à des électrodes posées chirurgicalement.
+Document 1. Fonctionnement d’un implant cochléaire
+
+osselets
+
+cochlée
+
+Modifié d’après : https://idataresearch.com/cascination-and-med-el-collaborate-on-state-of-the-art-cochlearimplantation-method
+
+Le microphone
+L’audio-processeur
+
+capte les sons en provenance de l’extérieur.
+numérise les sons.
+
+L’antenne
+
+transmet les signaux numériques à l’implant situé sous la peau.
+
+L’implant
+
+envoie des signaux électriques dans les électrodes
+
+situées dans
+
+la cochlée (comprenant les cellules sensorielles ciliées) ⑧.
+Les fibres du nerf auditif captent les signaux électriques et les transmettent au
+cerveau.
+
+1- Indiquer les légendes des structures numérotées 6, 9, 10, 11 et 12.
+2- Certaines personnes subissent une surdité consécutive à un dommage des cellules
+ciliées de l’oreille interne. Elles peuvent alors être appareillées avec un implant
+cochléaire.
+Expliquer le rôle des cellules ciliées de l’oreille interne dans le cas d’une audition
+normale et comment l’implant cochléaire permet de corriger la surdité.
+3- Le microphone d’un implant cochléaire capte un son périodique en provenance de
+l’extérieur. Un motif élémentaire de période T de ce son est représenté sur le
+document 2 de la page suivante.
+Déterminer la valeur de la fréquence f du son capté par le microphone.
+4- Déterminer graphiquement la valeur de la période d’échantillonnage Te utilisée pour
+cette numérisation puis justifier que la valeur de la fréquence d’échantillonnage fe est
+égale à 10 000 Hz.
+
+Document 2. Son capté par le microphone et numérisation par l’audio-processeur
+
+Source : http://www.ostralo.net/3_animations/js/CAN/index_v2nmoins1.htm
+
+5-a- Sachant qu’une quantification sur n bits permet 2n paliers numériques, indiquer,
+en le justifiant, pourquoi ici n=3.
+5-b- La taille L en octet d’un fichier audio est donnée par la formule :
+n
+L = fe × × ∆t
+avec fe la fréquence d’échantillonnage (en hertz), n la quantification (en bits) et ∆t la
+durée (en secondes).
+Pendant une journée, l’audio-processeur numérise en moyenne 10 heures de sons
+différents. Calculer la taille L d’un fichier audio équivalent à une journée de
+fonctionnement de l’implant cochléaire.
+
+Exercice 2 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+L’énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire le mécanisme qui est à l’origine de l’énergie rayonnée par une
+étoile.
+Document 1. Informations sur la lumière émise par Véga et sur l’influence de la
+température de surface
+
+Source : ci2mrduthoit.weebly.com
+
+Rappel sur la loi de Wien : la longueur d’onde correspondant à l’intensité lumineuse
+maximale λmax est donnée par
+
+avec λmax en mètres et T en kelvins.
+Relation entre température Θ en degrés Celsius (°C) et température T en
+kelvins (K) : Θ = T - 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+À partir de vos connaissances et des informations apportées par les documents,
+répondre aux questions suivantes.
+2- Indiquer si la température de surface de l’étoile Véga est supérieure ou inférieure à
+celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la proposition la plus juste parmi les suivantes et justifier
+votre réponse.
+La température de surface de l’étoile Véga vaut environ :
+
+750 K
+
+7500 K
+
+7200 °C
+
+72000 °C
+
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des informations
+extraites des documents 2 et 3 suivants, ainsi que de vos connaissances.
+La réponse ne doit pas excéder une page.
+
+Document 2. Photosynthèse, respiration et fonctionnement d’une plante
+
+La photosynthèse est un métabolisme qui se déroule dans les cellules chlorophylliennes. La
+respiration cellulaire est un métabolisme se déroulant dans toutes les cellules et qui produit
+un type de molécule permettant des transferts d’énergie donc le fonctionnement cellulaire :
+l’ATP (adénosine tri-phosphate).
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 3. Représentation schématique des flux d’énergie et de matière
+organique (biomasse) dans un écosystème
+
+Figure 1 : une pyramide énergétique dans un écosystème terrestre
+Les différents maillons d’un réseau trophique sont positionnés verticalement en fonction de
+leur place fonctionnelle (des producteurs primaires à la base aux consommateurs tertiaires
+en haut). Dans cet exemple d’écosystème, environ 10 % de l’énergie disponible à chaque
+niveau trophique sont convertis en nouvelle biomasse au niveau suivant, ce qui représente
+une efficacité trophique de 10 %.
+
+Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique
+Moins de 17 % de la nourriture d’une chenille sert réellement à la production de biomasse
+(croissance).
+D’après Biologie, Reece, Urry et al ; 4ème édition.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Les peintures et les gravures de la grotte Chauvet
+La grotte Chauvet, découverte en décembre 1994, s’ouvre au pied d’une falaise
+bordant les gorges de l’Ardèche. Elle contient de nombreuses peintures et gravures
+mais ne semble pas avoir servi d’habitat car les outils de silex et les restes de faune
+apportés par les humains sont rares.
+Document 1. Photographies de deux œuvres de la grotte Chauvet
+1-a Peintures de chevaux,
+aurochs et rhinocéros
+
+1-b Gravure du hibou moyen-duc
+
+Source : wikipedia
+On cherche à associer la peinture de chevaux, aurochs et rhinocéros (document 1-a)
+à l’une des phases d’occupation de la grotte. Pour cela, on utilise une méthode de
+datation basée sur la désintégration des noyaux radioactifs.
+L’évolution du nombre de noyaux radioactifs d’une composition donnée au cours du
+temps suit une loi de décroissance représentée dans le document réponse à rendre
+avec la copie.
+
+1- Rappeler la définition de la demi-vie t1/2 associée à cette désintégration radioactive.
+Sur le document réponse, faire apparaître la construction graphique permettant de
+repérer la valeur de la demi-vie du noyau.
+La grotte a connu deux phases d'occupation, l'une à l'Aurignacien (entre 37 000 et
+33 500 années avant aujourd’hui), l'autre au Gravettien (31 000 à 28 000 années avant
+aujourd’hui).
+Il existe de nombreux noyaux radioactifs mais leur demi-vie est différente (quelques
+exemples sont donnés dans le document 2).
+Document 2. Différents noyaux radioactifs et leur demi-vie
+Noyaux radioactifs
+
+Demi-vie (années)
+
+Uranium 238
+
+4,4688 × 109
+
+Uranium 235
+
+7,03 × 108
+
+Potassium 40
+
+1,248 × 109
+
+Carbone 14
+
+5,568 × 103
+
+Iode 131
+
+2 × 10-2
+
+2- Déterminer le noyau radioactif dont la demi-vie est la mieux adaptée pour dater
+l’occupation de la grotte. Justifier.
+Le charbon de bois est obtenu à partir du bois, qui est un matériau d'origine
+végétale. La peinture des chevaux (document 1-a) a été réalisée sur les parois de la
+grotte avec du charbon de bois.
+On rappelle que le carbone radioactif (14C) est présent naturellement dans le dioxyde
+de carbone (CO2) atmosphérique.
+Les végétaux fixent le carbone atmosphérique au sein de leur matière organique grâce
+à la photosynthèse. Après leur mort ou leur prélèvement par l’être humain, ils
+n’échangent plus de carbone avec l’atmosphère.
+3-a Compléter le document réponse représentant la désintégration de 14C au sein du
+charbon de bois.
+
+3-b Indiquer si, en principe, la datation pourrait être réalisée avec un échantillon
+comprenant initialement un seul noyau de 14C, en admettant que l’on dispose
+d’appareils susceptibles de détecter la présence d’un seul noyau de 14C.
+4-a Sachant qu’il ne reste que 2,34 % du 14C initial dans le charbon de la peinture,
+donner un encadrement en nombres entiers de demi-vies de la date de la mort du bois
+qui a servi – sous forme de charbon de bois – à réaliser la peinture.
+4-b On utilise la figure 1 du document réponse dans laquelle on prend comme origine
+des âges l’instant correspondant à 5 demi-vies du 14C, pour lequel N0 représente
+3,13 % du nombre initial de noyaux de 14C présents dans le charbon de la peinture.
+Déterminer graphiquement en années la durée nécessaire pour que le pourcentage
+de 14C restant dans le charbon de bois passe de 3,13 % à 2,34 %.
+4-c Indiquer si cette peinture a été faite lors de l'occupation à l'Aurignacien ou au
+Gravettien. Justifier.
+5- Au sein de cette grotte, on trouve également des gravures réalisées dans le calcaire
+(exemple de la gravure du hibou moyen-duc du document 1-b). La méthode
+précédente ne peut pas être utilisée pour la dater. Proposer une explication.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Les peintures et les gravures de la grotte Chauvet
+
+Questions 1 et 4-b
+Figure 1. Évolution du nombre de noyaux radioactifs en fonction du temps
+
+Question 3-a
+Évolution du nombre de noyaux de 14C dans le charbon de bois au cours du temps
+
+Dans la première ligne du tableau, chaque point représente un très grand nombre de
+noyaux de 14C.
+Compléter cette première ligne avec les nombres de points appropriés.
+Compléter la deuxième ligne en indiquant les pourcentages de 14C restant par rapport
+à la valeur initiale au moment de la mort.

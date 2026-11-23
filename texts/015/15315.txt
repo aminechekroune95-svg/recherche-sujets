@@ -1,0 +1,425 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1324291, "at": "2026-11-23T09:40:03+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?
+False
+True
+None
+Question A 2
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 3
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+Question A 4
+Combien de bits doit-on utiliser au minimum pour représenter en base 2 le nombre entier 72 ?
+Question A 5
+Quelle est la représentation décimale de l’entier négatif codé en complément à 2 sur un octet par 1100 1011 ?
+–84
+–53
+–35
+–21
+
+Question A 6
+Quel est l'entier positif qui admet BAC pour écriture hexadécimale (base 16) ?
+2988
+3018
+3242
+3258
+
+Thème B : types construits
+Question B 1
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 2
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+Question B 3
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 4
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B 5
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+
+{ n*n
+{ n*n
+[ n*n
+[ n*n
+
+for n in range(1,7) }
+for n in range(6) }
+for n in range(1,7) ]
+for n in range(6) ]
+
+Question B 6
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+
+Thème C : traitement de données en tables
+Question C 1
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 2
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+a = 'matière
+b = 'moyenne'
+a = 0
+b = 1
+a = 1
+b = 0
+Question C 3
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 4
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 5
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C 6
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D 2
+Dans une page HTML se trouve le formulaire suivant :
+<form method="........." action="traitement.html">
+<p>Nom : <input type="text" name="nom"></p>
+<p>Mot de passe : <input type="password" name="mdp"></p>
+<p><input type="submit" name="envoi" value="Envoyer"></p>
+</form>
+Par quoi faut-il remplacer les pointillés pour que les données du formulaire n'apparaissent pas dans l'URL au
+moment où l'utilisateur soumet le formulaire au serveur ?
+GET
+POST
+SECRET
+HIDDEN
+Question D 3
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D 4
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+Question D 5
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+Question D 6
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans un terminal Linux on écrit :
+user@promethee:/home/user/mesVideos $ cd ../mesPhotos
+que se passe-t-il si on appuie sur la touche entrée ?
+L'utilisateur sera positionné dans le répertoire /home/user/mesPhotos
+Un nouveau dossier nommé mesPhotos sera créé dans le répertoire /home/user
+L'utilisateur sera positionné dans le répertoire /home/user/mesVideos/mesPhotoss
+Un nouveau dossier nommé ../mesPhotos sera créé dans le répertoire /home/user/mesVideos
+Question E 2
+Quel protocole permet d’attribuer dynamiquement une adresse IP ?
+UDP
+HTTP
+DHCP
+DNS
+Question E 3
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 4
+Sous Linux, dans quel but utilise-t-on la commande cat readme.txt ?
+pour supprimer le fichier readme.txt
+pour copier le fichier readme.txt
+pour afficher le contenu du fichier readme.txt
+pour renommer le fichier readme.txt
+Question E 5
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 6
+
+Quelle est l’utilité de la commande ping dans un réseau informatique ?
+établir un réseau privé virtuel
+tester si la connexion peut être établie avec une machine distante
+obtenir la route suivie par un paquet dans le réseau
+mesurer les performances d'une machine distante
+
+Thème F : langages et programmation
+Question F 1
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+Question F 2
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 3
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Question F 4
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 5
+On considère le code suivant
+def moyenne(notes):
+somme = 0
+for cpt in range(len(notes)):
+....
+m = somme/len(notes)
+return m
+Par quoi remplacer la ligne en pointillée pour que cette fonction calcule la moyenne d'une liste de nombres ?
+somme = somme + notes[cpt]
+somme = notes[cpt]
+somme = cpt
+somme = somme + cpt
+Question F 6
+
+On souhaite échanger les contenus de deux variables entières a et b sans utiliser de variable auxiliaire en
+écrivant le code suivant :
+a = a - b
+b = a + b
+a = ......
+Que peut-on écrire à la place des pointillés pour réaliser cet échange ?
+a - b
+a + b
+b - a
+- a - b
+
+Thème G : algorithmique
+Question G 1
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G 2
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G 3
+Un algorithme glouton permet de :
+trier des données
+trouver des solutions localement optimales
+parcourir un tableau
+faire un apprentissage automatique
+Question G 4
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+Question G 5
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+Question G 6
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'

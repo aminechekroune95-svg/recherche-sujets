@@ -1,0 +1,557 @@
+{"pages": 20, "method": "pdftotext", "bytes": 4924916, "at": "2026-11-23T09:28:01+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Population de deux villages
+Sur 4 points
+Partie A – Premier village
+Un village compte 1 500 habitants au 1er janvier 2023. Le maire estime que la
+population de ce village va augmenter de 2 % par an.
+En utilisant cette estimation, on choisit de modéliser la population de ce village à
+l’aide d’une suite (𝑢! ) où 𝑢! désigne le nombre d’habitants du village au 1er janvier
+de l’année 2023 + 𝑛, avec 𝑛 entier naturel. Ainsi 𝑢" = 1 500.
+1- Selon les estimations du maire, combien d’habitants y aura-t-il dans ce village le
+1er janvier 2024 ?
+2- Justifier que (𝑢! ) est une suite géométrique dont on précisera la raison.
+3- Exprimer, pour tout entier naturel 𝑛, 𝑢! en fonction de 𝑛.
+Partie B – Second village
+Un village voisin compte 2 000 habitants au 1er janvier 2023. Le maire estime que la
+population de ce village va augmenter de 30 habitants par an.
+En utilisant cette estimation, on choisit de modéliser la population de ce village à
+l’aide d’une suite (𝑣! ) où 𝑣! désigne le nombre d’habitants de ce village au 1er janvier
+de l’année 2023 + 𝑛, avec 𝑛 entier naturel. Ainsi 𝑣" = 2 000.
+1- Justifier que (𝑣! ) est une suite arithmétique dont on précisera la raison.
+2- Exprimer, pour tout entier naturel 𝑛, 𝑣! en fonction de 𝑛.
+Partie C – Comparaison du nombre d’habitants
+En utilisant les modélisations précédentes, déterminer au bout de combien d’années
+le nombre d’habitants du premier village sera supérieur au nombre d’habitants du
+second village.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le sang des glaciers
+L’expression « Le sang des glaciers » désigne le rosissement des glaciers par une
+espèce d’algues des neiges. Nous nous intéresserons dans une première partie à
+l’énergie solaire reçue par la Terre et au phénomène de l’albédo, puis dans une
+seconde partie nous chercherons à comprendre en quoi ce type d’algues peut
+contribuer au réchauffement climatique.
+Partie 1 – Comprendre l’albédo
+Document 1 – Modélisation permettant le calcul de la puissance rayonnée
+À une distance donnée du Soleil, la totalité de la
+puissance émise par le Soleil se trouve
+uniformément répartie sur une sphère de rayon égal
+à cette distance.
+La puissance surfacique 𝑃# reçue par chaque point
+de la sphère imaginaire est donc donnée par la
+formule suivante :
+P$ =
+
+P&
+, exprimée en W · m'(
+S
+
+Avec 𝑃) la puissance totale du soleil qui vaut 3,87 × 10(* W et 𝑆 la surface de la
+sphère imaginaire.
+Sur le schéma ci-contre, la Terre et le Soleil ne sont pas représentés à l’échelle.
+On rappelle que l’aire d’une sphère de rayon 𝑅 est 𝑆+,-è/0 = 4𝜋𝑅( .
+
+1- Montrer par le calcul, à l’aide du document 1, que la puissance solaire 𝑃# reçue
+par mètre carré à la distance 𝐷 du Soleil est environ de 1 370 W ∙ m'( .
+
+2- À l’aide des documents 2 et 3 (page suivante), montrer que l’albédo terrestre
+moyen qui correspond à l’albédo de l’ensemble {atmosphère + surface de la
+Terre} vaut environ 0,3.
+Document 2 – Bilan radiatif
+La puissance solaire qui est reçue par la Terre peut être réfléchie, absorbée,
+réémise. Le schéma ci-dessous présente les flux énergétiques émis, diffusés et
+réfléchis par les différentes parties de l’atmosphère et de la surface terrestre.
+
+Source : d’après l’auteur
+
+Document 3 – Albédo
+L'albédo A d'une surface permet d’évaluer l’effet de réflexion de la lumière
+incidente par une surface. C’est le rapport entre la puissance de rayonnement
+réfléchie par une surface (P réfléchie) et la puissance de rayonnement incident sur
+cette même surface
+(P incidente).
+L’albédo A est une valeur sans
+unité, comprise entre 0 et 1.
+𝐴=
+
+𝑃réfléchie (W · m'( )
+𝑃incidente (W · m'( )
+
+Moins le rayonnement incident est réfléchi, plus la surface chauffe.
+Source : https://planet-terre.ens-lyon.fr
+
+Partie B – Origine et conséquences de la couleur rose des glaciers
+Les algues des neiges sont des algues unicellulaires
+capables de vivre à une température d’environ 0 °C.
+La plus courante d’entre elles est la Chlamydomonas
+nivalis (observée au microscope optique sur la
+photographie ci-contre). C’est une algue verte qui en
+plus de la chlorophylle, contient un pigment rouge de
+type caroténoïde à l’origine de la coloration rose-clair
+des glaciers. Cet organisme, d’une teinte rose-clair,
+remonte à la surface, en été, pour pouvoir accéder à
+l’eau liquide et se multiplie activement.
+Source : d’après https://www.semanticscholar.org/
+
+Document 4 – Identification du métabolisme de cet organisme
+De la glace rose contenant des Chlamydomonas nivalis est fondue et placée dans
+une enceinte hermétique. Les teneurs en dioxygène et en dioxyde de carbone
+dans l’eau sont relevées sous différentes conditions d’éclairement. Le graphique
+ci-dessous présente l’évolution des teneurs en dioxygène et dioxyde de carbone
+dans de l’eau contenant Chlamydomonas nivalis.
+
+Source : Bac S SVT 2017 Afrique
+
+3- À partir de l’étude du document 4 et de vos connaissances, montrer que
+Chlamydomonas nivalis est un organisme photosynthétique.
+
+Document 5 – Mesure de l’albédo de glace présentant différentes teintes
+On a mesuré l’albédo de la glace non colorée ainsi que de la glace colorée par
+différents colorants.
+Surface
+
+Albédo
+
+Glace non colorée
+Glace rose
+Glace verte
+Glace bleue
+
+0,60
+0,42
+0,52
+0,48
+Source : D’après l’auteur
+
+4- D’après l’étude des documents 3 et 5, expliquer en quoi la présence de
+Chlamydomonas nivalis peut être une menace pour les glaciers d’altitude.
+5- Ce type d’algues de neige s’observe également au niveau des zones polaires.
+Justifier le fait que les algues des neiges peuvent contribuer au réchauffement
+climatique.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Le permafrost, une bombe climatique à retardement ?
+Le permafrost est une couche de sol gelé en permanence. D’après les
+climatologues, il est considéré aujourd’hui comme une « bombe climatique à
+retardement ». Il s’agit ici de s’interroger sur la validité scientifique de cette
+expression.
+Partie 1 – L’évolution du permafrost arctique
+Document 1 – Répartition mondiale du permafrost actuel
+« Un cinquième de la surface terrestre est congelé. Ce sol mêlé de glace, nommé
+[…] permafrost, se trouve surtout en Arctique ; il représente 25 millions de
+kilomètres carrés, soit deux fois et demie la superficie de l'Europe. »
+Source : extrait d’un article scientifique publié dans Pour la Science, n° 390, Avril 2010
+Lieu A
+Alaska
+Ca
+na
+da
+
+e
+ssi
+Ru
+
+Lieu B
+
+Cercle polaire
+
+Figure 1 – Carte de l’Arctique
+Source : d’après Brown et al, 1997 in International Permafrost Association, 2020
+
+Figure 2 – Évolution de la température du permafrost en Alaska (lieu A)
+à 20 mètres de profondeur en fonction du temps.
+Source : d'après leau-vive.ca/Societe/pergelisol-et-impacts-sur-les-communautesnordiques, 2018
+
+Les chercheurs ont étudié l’évolution du permafrost à deux endroits situés en Alaska
+et près de la baie d’Hudson au Canada, où se trouvent deux centres d’études
+météorologiques. Ces lieux sont notés A et B sur la carte du document 1.
+1- En utilisant la figure 2 du document 1, décrire l’évolution globale de la
+température du permafrost dans le lieu A au cours du temps.
+2- En déduire si l’état physique de l’eau du permafrost en Alaska, dans le lieu A, a
+changé suite à cette évolution.
+
+Partie 2 – Conséquences sur le paysage de l’évolution du permafrost
+Document 2 – Structure du sol au lieu B
+Près de la baie d’Hudson (lieu B), la température du permafrost peut devenir
+positive au cours de l’année. Une coupe permet d’observer les différentes couches
+qui constituent le sol.
+
+Active layer = couche active
+
+Ice wedge = coin de glace (poche de glace)
+
+Source : The layers of permafrost. Photographie : Benjamin Jones, USGS
+
+3- Recopier la proposition correcte si la température du permafrost devient
+positive :
+a) Le permafrost fond.
+
+c) Le permafrost n’est pas modifié.
+
+b) La glace fond.
+
+d) L’état physique de la glace ne change pas.
+
+Document 3 – Vues aériennes du lieu B en 1959 et 2006
+Le « thermokarst » désigne la structure du paysage associée au réchauffement
+d’un permafrost riche en glace, ce qui provoque notamment l’affaissement de la
+surface du sol et la formation de mares ou de lacs dans les dépressions produites.
+L’eau liquide apparaît de couleur noire sur les photographies.
+Les légendes K1, K2, K6 et K20 indiquent la localisation de thermokarsts.
+
+Permafros
+t
+
+Source : d’après Bouchard et al, 2012
+
+4- Identifier les changements observés sur les paysages en comparant les
+photographies aériennes du lieu B et proposer une explication.
+5- Indiquer une conséquence que peut avoir le dégel du permafrost sur les
+infrastructures et les activités humaines dans cette région.
+
+Partie 3 – Dioxyde de carbone et méthane, des gaz à effet de serre du
+permafrost
+Le méthane et le dioxyde de carbone sont naturellement émis par les sols comme
+produits de différents processus, principalement biologiques. La fermentation de
+matière organique produit ainsi du méthane en l’absence de dioxygène (conditions
+anaérobie). Le méthane peut être oxydé en dioxyde de carbone en présence de
+dioxygène (conditions aérobie). Les émissions sont habituellement faibles, mais le
+dégel du permafrost s’accompagne de variations de ces émissions.
+6- Identifier, sur la coupe de sol du document 2, la source de matière organique à
+l’origine de la fermentation qui se produit dans les thermokarsts.
+
+Surface (m2)
+
+Surface (m2)
+
+Figure 3 – Flux de CO2 et CH4 (en mmol de gaz par m2 et par jour) libérés par les
+thermokarsts dans l’atmosphère en fonction de leur surface
+Source : d’après ASLO 2020
+
+7- Comparer les ordres de grandeur des flux de dioxyde de carbone et de méthane.
+
+Document 4 – Pouvoir de réchauffement global (PRG) du dioxyde de carbone
+et du méthane
+Le pouvoir de réchauffement global d'un gaz (PRG) se définit comme le forçage
+radiatif (c'est-à-dire la puissance radiative que 1 kilogramme de gaz renvoie vers le
+sol), cumulé sur une durée de 100 ans. Cette valeur se mesure relativement au
+CO2. Par convention, le PRG est fixé à 1 pour le CO2.
+
+Figure 3 – Spectres d’absorption du CO2 et du CH4
+Source : d’après Terminale, spécialité SVT, éd. Magnard
+
+8- Comparer les conséquences des flux de CH4 et de CO2 sur la température
+moyenne globale atmosphérique.
+9- Expliquer que le permafrost arctique puisse être considéré comme « une bombe
+climatique à retardement » par les climatologues à l’aide de l’ensemble de
+l’étude menée dans cet exercice.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or et son extraction
+L’or est un métal qui fascine l’homme depuis toujours : après avoir servi pendant des
+siècles à l’apparat, facilement travaillé grâce à sa ductilité*, ses propriétés pour la
+conduction de l’électricité en font actuellement un matériau de choix dans
+l’électronique.
+* Ductilité : capacité d’un matériau à se déformer sans se rompre.
+Partie 1 – Origine de l’or
+Document 1 – Pyramide de la complexité
+
+Source : document de l’auteur
+
+1- Estimer la date à laquelle les premiers atomes d’or (Au) se sont formés et
+l’évènement associé.
+
+L’un des mécanismes de formation des noyaux d’or est une succession de réactions
+nucléaires à partir de noyaux de fer.
+2- Associer à chacune des réactions suivantes l’un des termes parmi : fusion
+nucléaire, fission nucléaire, bilan de la formation des noyaux d'or.
+a.
+
+<*
+=
+(*Fe + 141 "n
+
+" '
+→ =?>
+>?Au + 53 '=e
+
+b.
+
+(A
+(A
+=@Si + =@Si
+
+c.
+
+=><
+=>=
+@
+>?Au → >>Ir + (He
+
+→ <*
+(ANi
+
+La connaissance de la structure du noyau atomique de l’or ne suffit cependant pas
+pour expliquer les propriétés du matériau. Il faut alors étudier sa structure cristalline.
+Partie 2 – Le cristal d’or
+Document 2 – Représentations en trois dimensions de plusieurs mailles
+d’un cristal d’or
+Chaque sphère ci-dessous représente un atome d’or (Z = 79). Une maille est mise
+en évidence sur la représentation 2.
+
+Représentation 1
+
+Représentation 2
+Source : logiciel MinUSc
+
+3- En vous appuyant sur vos connaissances, justifier que l’échantillon d’or soit
+qualifié de cristal.
+
+Document 3 – Différents types de structures cristallines
+Cubique simple
+
+Cubique centré
+
+Cubique à faces centrées
+
+4- Déterminer le type de structure cristalline de l’échantillon considéré. Justifier
+votre réponse.
+La découverte d’or est devenue synonyme de richesse facile et les épisodes de
+ruées vers l’or du 19e siècle en sont témoins. L’extraction minière de l’or se fait alors
+souvent au détriment de l’environnement et de la santé des populations vivant sur
+place.
+Partie 3 – L’extraction de l’or et son impact sur l’environnement
+La cyanuration est une technique d'extraction de l'or grâce à une solution de sels de
+cyanure (cyanure de potassium KCN, cyanure de sodium NaCN ou cyanure de
+calcium Ca(CN)2) et de dioxygène dissout.
+Document 4 – Un déversement accidentel de fluides cyanurés en 2000 en
+Australie
+Le Département des Ressources Naturelles, des Mines et de l’Énergie du
+Queensland a fait état d’un accident dans une usine de traitement de l’or, lié à la
+défaillance d’une cuve d’extraction de l’or par cyanuration de 200 m3.
+Un débordement d’environ 50 m3 d’une solution comptant 70 μg/L de cyanures
+libres s’est produit.
+La CL50 ou « concentration létale à 50 % » désigne la concentration d’un produit
+chimique dans l’air ou dans l’eau qui cause la mort de 50 % des animaux, lors
+d’une durée d’exposition de 4 heures. Le tableau suivant présente la CL50 de
+plusieurs types de dérivés cyanurés pour les poissons et leur toxicité.
+
+Catégorie
+
+Cyanures libres
+
+Dérivés cyanurés
+
+Toxicité
+
+CL50 en mg/L
+
+CN-
+
+≈ 0,1
+
+HCN
+
+de 0,05 à 0,18
+
+KCN(s), Ca(CN)2(s)
+
+de 0,03 à 0,70
+
+NaCN.2H2O(s)
+
+de 0,40 à 0,70
+
+Sources : d’après Australian Government, 2010
+et Note d’Analyse Association SystExt, Avril 2021
+
+5- Grâce aux informations document 4, justifiez la forte toxicité du déversement
+australien.
+Pour comprendre l’effet du cyanure sur les organismes aquatiques, on étudie sa
+toxicité sur la respiration cellulaire. On utilise pour cela la levure, organisme
+unicellulaire réalisant la respiration et facile à cultiver en milieu aquatique.
+Document 5 – Dispositif expérimental pour étudier la respiration des levures
+La respiration cellulaire permet aux levures de produire l’énergie dont elles ont
+besoin pour vivre, à partir du glucose et du dioxygène prélevé dans leur
+environnement.
+L’équation de la respiration cellulaire est :
+C* H=( O* (glucose) + 6 O( → 6 CO( + 6 H( O
+Il est possible de mesurer au cours du temps les concentrations en dioxygène et
+en dioxyde de carbone dans un milieu de culture contenant des levures et de l’eau.
+L’injection d’une solution choisie par l’expérimentateur peut être réalisée dans le
+milieu de culture.
+Le graphique suivant montre la concentration en dioxygène en fonction du temps
+dans une suspension de levures.
+
+Source : document de l’auteur
+
+6- Exploiter les résultats du document 5 pour conclure sur la toxicité du cyanure sur
+les êtres vivants aquatiques.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+L’éolien : un choix raisonné ?
+La France s'engage dans une transition énergétique où le nucléaire, source
+principale de production électrique, coexiste avec le développement des énergies
+renouvelables, notamment l’éolien. Ce dernier contribue à diversifier les sources
+d'énergie tout en posant des enjeux liés à la préservation de la biodiversité.
+Partie A – La production d’énergie électrique française
+Selon RTE (Réseau de Transport de l’Électricité), la production d’énergie électrique a
+atteint son plus haut niveau depuis 5 ans avec 272 000 GWh pour le premier
+semestre de l’année 2024. Si la production nucléaire reste la principale contributrice,
+la part des énergies renouvelables ne cesse de croître. Parmi elles, le parc éolien
+raccordé en France métropolitaine tient une place majeure dans la production
+d’énergie électrique.
+Tableau 1 – Répartition des sources d’énergie dans le cadre de la production nette
+d’énergie électrique en France au premier semestre 2024
+
+Part
+en %
+
+Nucléaire
+
+Hydraulique
+
+Éolien
+
+Solaire
+
+Bioénergie
+
+Sources d’énergie fossile
+
+9,4
+
+4,2
+
+2,2
+
+4,2
+
+Source : RTE
+
+1- Citer une source d’énergie fossile.
+2- Calculer la production d’énergie électrique issue de l’éolien et du nucléaire en
+GWh pour le premier semestre de l’année 2024.
+
+Partie B – Comparaison des énergies éolienne et nucléaire
+Document 2 – Informations sur la production d’énergies éolienne et nucléaire
+La Nouvelle-Aquitaine est la 5ème région éolienne de France avec, en 2023, une
+capacité de 1850 MW répartie sur environ 702 éoliennes terrestres.
+Majoritairement positionnées dans le nord de la région qui bénéficie de vents plus
+réguliers, ces éoliennes fonctionnent en pleine charge 2000 h par an.
+Éolien terrestre
+Puissance électrique délivrée (MW)
+
+2à3
+
+Coût par MW produit (millions d’euros)
+
+Entre 1200 et 1800
+
+Bilan carbone (g de CO2 par kWh)
+
+Entre 10 et 15
+
+En comparaison, le nucléaire reste dominant avec la centrale nucléaire de Civaux,
+située dans la Vienne. À elle seule, elle produit en moyenne 25 mille GWh
+d’électricité en un an, suffisant pour alimenter environ 12 millions de foyers. Si le
+coût des deux réacteurs de la centrale de Civaux a été de 6 milliards d’euros, celui
+des réacteurs EPR (European Pressurized water Reaction) des nouvelles
+centrales se chiffre entre 3 voire 6 dizaines de milliards d’euros. Leur bilan carbone
+est généralement compris entre 5 et 15 g de CO2 par kWh produit.
+
+Document 3 – Informations sur l’impact des éoliennes sur la biodiversité
+La présence d’éoliennes terrestres modifie l’habitat sur de grandes surfaces. Il
+semble qu’elles perturbent la faune et la flore ainsi que le confort des personnes.
+
+Seuil
+d’audibilité
+
+Vent
+léger
+
+Chambre
+
+Salon
+
+Rue
+
+Éolienne
+à 2 km
+
+Éolienne
+à 1 km
+
+Éolienne Au pied
+à 500 m du mât
+
+Classe Voiture Danger
+
+Figure 1 – Niveaux d’intensité sonore (en dB)
+
+Figure 2 – Causes de
+mortalité des oiseaux
+Source : Parlons Sciences
+2019
+
+Données :
+•
+
+L’énergie électrique obtenue en watt heure (Wh) pendant une certaine durée
+se calcule par la formule 𝐸 = 𝑃 × ∆𝑡 où 𝑃 est la puissance en watts (W) et ∆𝑡
+la durée en heures (h).
+
+•
+
+1 MW = 106 W
+
+3- En vous aidant du document 2 et de la formule donnée, comparer l’énergie
+électrique fournie pendant un an par les 702 éoliennes de la région NouvelleAquitaine et celle fournie par la centrale nucléaire de Civaux.
+4- À l’aide de vos connaissances et de l’ensemble des documents, comparer les
+modes de production d’énergie électrique de sources éolienne et nucléaire. Une
+argumentation structurée d’une vingtaine de lignes est attendue.

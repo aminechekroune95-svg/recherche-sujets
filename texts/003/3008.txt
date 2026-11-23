@@ -1,0 +1,424 @@
+{"pages": 13, "method": "pdftotext", "bytes": 981881, "at": "2026-11-23T09:27:26+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Analyser les principaux protocoles pour un réseau de communication
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulée
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulée
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Caractériser les échanges d’informations
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire
+que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 13
+
+SUJET SI-N°01-04
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 9
+
+Commande du fonctionnement du produit ou
+modification de son comportement ................................................ Pages 9 à 13
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances
+associées pour qualifier et/ou quantifier cette performance, à partir de
+l'analyse, de la modélisation de tout ou partie du produit ou de relevés
+expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de
+la programmation, à partir de ressources fournies au candidat qu'il devra
+exploiter, compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT
+Afin de rendre l’astronomie accessible au plus grand nombre, la société
+montpelliéraine Vaonis a conçu et développé le télescope Stellina. Il est compact,
+tout-en-un, facile à transporter et à utiliser et contrôlable par mobile.
+
+Lors de la conception du télescope différentes problématiques se sont posées :
+
+assurer la fluidité de la transmission de l’image : l’image ne doit pas mettre plus
+d’une seconde pour être transmise à l’appareil mobile ;
+garantir la netteté de l’image : permettre un traitement des images correct en
+effectuant un suivi précis et éviter la formation de buée sur la lentille.
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Objectif de cette partie : garantir la netteté de l’image en vérifiant que la précision
+de pointage du télescope est suffisante pour permettre un traitement de l’image
+satisfaisant.
+Le capteur optique du télescope est constitué de rangées de cellules élémentaires,
+une cellule correspond à un pixel sur l’image. Le capteur utilisé par le télescope est
+un IMX178.
+Tableau 1.
+
+Caractéristiques IMX178
+
+Caractéristiques
+
+IMX178
+
+Taille d’image
+
+Diagonale de 8,92 mm
+
+Nombre de pixels
+
+3096 (horizontal) et 2080 (vertical)
+
+Taille d’une cellule élémentaire
+
+2,4 µm par 2,4 µm
+
+Fréquence de pilotage
+
+54 MHz / 27 MHz
+
+Package
+
+128 broches
+
+Tension d’alimentation
+
+2,9 V
+Source : Documentation IMX178 Sony
+
+Figure 1 : Représentation graphique d’une cellule élémentaire
+L’optique du télescope est assimilée à une simple lentille de focale F. Cette lentille
+projette l’image d’une source lumineuse (considérée à l’infini) sur le capteur optique
+et donc sur les cellules élémentaires.
+Lorsque la source lumineuse est convenablement pointée, c’est-à-dire qu’elle se
+trouve sur l’axe du tube, sa projection correspond au centre du capteur optique (voir
+figure 2).
+
+Figure 2 : Pointage correct d’un astre
+Lorsqu’elle a bougé, elle n’est plus alignée avec l’axe du télescope. Les rayons
+lumineux émanant de l’astre ont alors une inclinaison d’un angle α (cf. figure 3). Sa
+projection sur le capteur optique se retrouve alors à une distance h du centre du
+capteur. On assimilera la distance d de position du capteur à la focale F.
+
+Figure 3 : Modification du point convergence de l’image de l’astre
+Question I-1 Relever dans les caractéristiques du capteur optique, la valeur
+maximale de la distance h qui permet de respecter le critère de
+Tableau 1
+décalage. L’angle α (figure 3) va correspondre à l’angle de rotation que
+va devoir effectuer le télescope pour pouvoir effectuer un pointage
+Figure 2
+correct.
+Figure 3
+Déterminer l’expression littérale de α en fonction de h et de F ainsi
+que la valeur numérique de α si la distance F vaut 400 mm.
+Pour la suite la précision angulaire sera fixée à α = 0,00035°.
+Pour régler le télescope, on utilise deux repères géographiques que sont l’azimut et
+l’altitude. L’altitude correspond à la hauteur de l’étoile dans le ciel et l’azimut à un
+angle formé entre un point cardinal et l’étoile.
+
+Pour gérer l’orientation vers ces deux repères géographiques, le télescope est
+constitué de deux chaines cinématiques :
+
+la chaîne cinématique azimutale qui permet de régler l’azimut de l’observation ;
+la chaine cinématique altitudinale qui permet de régler l’altitude de l’observation.
+
+Figure 4 : Repères géographiques
+La précision angulaire donnée précédemment est la même pour les deux chaînes.
+Les deux chaines de transmission fonctionnent sur le même principe. Le moteur fait
+tourner une vis sans fin (1) à un seul filet qui entraîne une roue dentée (2).
+
+Figure 5 : Vue de la chaine cinématique
+Caractéristiques des chaines cinématiques :
+Vis (repère 1)
+
+Roue dentée (repère 2)
+
+chaine azimutale
+
+1 filet
+
+200 dents
+
+chaine altitudinale
+
+1 filet
+
+130 dents
+
+Question I-2 Calculer le rapport de réduction raz de la chaîne cinématique azimutale
+ainsi que le rapport de réduction ral de la chaîne altitudinale.
+Figure 5
+
+Pour chacune des chaînes cinématiques, le moteur utilisé est un moteur pas à pas
+NEMA 11 dont les caractéristiques sont données dans le tableau suivant.
+Tableau 2.
+
+Caractéristiques du moteur pas à pas NEMA 11HS18-0674S
+
+Spécificités générales
+
+Spécificités électriques
+
+Nombre de pas
+
+200 pas
+
+Tension nominale
+
+4,6 V
+
+Température
+d’utilisation
+
+-10 °C ~ 50 °C
+
+Courant nominal
+
+0,67 A
+
+Nombre de phase(s)
+
+Résistance/phase
+
+6,8 
+
+Couple nominal de
+maintien
+
+0,095 N·m
+
+Inductance/phase
+
+4,9 mH
+
+Source : Documentation du constructeur
+Le moteur pas à pas est un moteur qui permet de convertir l’énergie électrique en un
+mouvement de rotation. À la différence des moteurs à courant continu, ce moteur
+permet de régler la position angulaire désirée.
+Pour cela le moteur a la possibilité de tourner d’un angle « unitaire » que l’on nomme
+un « pas ». Pour tourner d’un angle θ il faut déterminer le nombre de pas à effectuer
+pour obtenir le déplacement angulaire souhaité.
+Question I-3 Calculer le pas angulaire maximum théorique en sortie du moteur
+permettant d’obtenir la précision angulaire α fixée précédemment pour
+Tableau 2
+les deux chaines cinématiques.
+Comparer ces valeurs au pas angulaire maximum du moteur.
+Le constructeur commande le moteur en mode « micro pas » ; cela signifie que
+chaque pas est divisé en énième de pas. Le constructeur indique que les moteurs
+sont commandés en 256ème de pas.
+Question I4
+
+Calculer l’angle minimal dont peut tourner l’arbre moteur commandé
+en 256ème de pas.
+
+Tableau 2
+
+Question I-5 Caractériser l’écart entre la précision demandée par le cahier des
+charges et la précision obtenue par la chaîne cinématique.
+Discuter de la capacité de la chaîne de pointage du télescope à
+permettre un traitement de l’image satisfaisant.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Objectif de cette partie : Assurer la fluidité de la transmission de l’image et garantir
+une image nette par une mise au point automatique.
+Le microcontrôleur embarqué dans Stellina est le composant qui permet au
+télescope d’être connecté à un appareil mobile (smartphone ou tablette). Il est
+équipé de deux connexions sans fil différentes :
+
+du Bluetooth dans sa version 4.1 ;
+et du Wi-Fi dans sa norme 802.11n.
+Pour la prise de vue, le télescope utilise un capteur optique de référence SONY IMX
+178 connecté au microcontrôleur. Le capteur est capable de générer des images de
+3096 pixels à l’horizontale et de 2080 pixels à la verticale.
+Après capture, l’image est traitée par le microcontrôleur puis transmise à l’aide d’une
+connexion sans fil.
+L’image est codée en RVB. C’est-à-dire que chaque pixel sera codé avec 3 octets, 1
+octet pour l’intensité de rouge (R), le suivant pour l’intensité de vert (V) et le dernier
+pour le bleu (B).
+Question II-1 Calculer le poids en Mégaoctets d’une image capturée par ce capteur
+optique.
+Après le traitement par le microcontrôleur, l’image est compressée au format jpeg.
+Des essais ont montré que le poids moyen de l’image compressée est 3,5
+Mégaoctets.
+La connexion doit permettre un temps d’envoi de l’image sur le smartphone de
+l’utilisateur le plus court possible.
+
+Caractéristiques Bluetooth et Wi-Fi :
+Normes
+
+Débits de données
+
+Portées
+
+Bluetooth 1.0
+
+1 Mbit/s
+
+Bluetooth 2.0
+
+2,1 Mbit/s
+
+Bluetooth 3.0
+
+2,1 Mbit/s
+
+Bluetooth 4.1
+
+3 Mbit/s
+
+802.11a (Wi-Fi)
+
+30 Mbit/s
+
+802.11b (Wi-Fi)
+
+6 Mbit/s
+
+300 m
+
+802.11g (Wi-Fi)
+
+26 Mbit/s
+
+70 m
+
+802.11n (Wi-Fi)
+
+40 Mbit/s
+
+250 m
+Source : Wikipedia
+
+Question II-2 Déterminer le temps moyen d’envoi d’une image compressée entre le
+télescope et le smartphone de l’utilisateur pour chacune des deux
+technologies sans fil disponibles.
+Question II-3 Comparer ces deux temps moyens et justifier le choix du Wi-Fi par le
+constructeur.
+Conclure quant au respect du cahier des charges.
+L’optique du télescope est assimilée à une simple lentille de focale F. Cette lentille
+projette l’image d’une source lumineuse (considérée à l’infini) sur le capteur optique.
+Pour obtenir une image nette sur tous les appareils de capture d’image, il faut
+effectuer une mise au point optique. Cette mise au point s’effectue par le
+déplacement du capteur optique pour faire coïncider la distance d de la position du
+capteur avec la focale F (cf. figure 5).
+
+Figure 6 : Pointage correct d’un astre
+La mise au point s’effectue lors du démarrage du télescope. Pour chaque image, un
+algorithme calcule un coefficient de flou. Pour savoir si le réglage est optimum, on
+effectue une comparaison du coefficient de flou en 3 points différents : on prend une
+image lorsque le capteur est à une distance d puis deux autres à + 0,4 mm et à 0,4 mm.
+En pratique, pour optimiser le déplacement du capteur, la première image est prise à
+d - 0,4 mm, puis la deuxième à la distance d et enfin la dernière à la position
+d + 0,4 mm ; le capteur est alors positionné à la distance d.
+Le calcul du coefficient de flou est effectué pour les trois images de ces trois points
+différents.
+Le réglage optimum est obtenu pour une courbe en V (cf. figure 6).
+
+Figure 6 : Trois cas de relevés du coefficient de flou en fonction de la distance
+
+Analyse des trois cas de courbes ci-dessus :
+
+le cas de la courbe descendante (cas de gauche de la figure 6) : cela signifie que le
+point optimum se situe à une distance supérieure à celles qui viennent d’être
+mesurées ;
+le cas de la courbe en V (cas du milieu de la figure 6) : cela signifie que le point
+optimum est atteint (réglage recherché) ;
+le cas de la courbe montante (cas de droite de la figure 6) : cela signifie que le point
+optimum se situe à une distance inférieure à celles qui viennent d’être mesurées.
+Pour trouver la position optimale, le constructeur a décidé de déplacer le capteur
+optique ; un algorithme va vérifier si le point optimum est trouvé. L’algorithme va
+chercher ce point optimum par itérations jusqu’à ce que celui-ci soit atteint.
+Pour observer l’évolution de la courbe de coefficient de flou, le capteur va être
+positionné sur 3 points de mesure nommés P1, P2, P3. Ces points sont définis
+comme suit :
+
+P1 représente le point qui se situe à - 0,4 mm du point de mesure principal ;
+P2 représente le point de mesure principal ;
+P3 représente le point qui se situe à + 0,4 mm du point de mesure principal.
+L’algorithme va dans un dernier temps effectuer une mesure initiale. Une fois celle-ci
+faite, si les valeurs des coefficients forment une courbe montante, un décalage du
+point de mesure principal sera effectué de - 0,4 mm, a contrario si les valeurs
+forment une courbe montante, un décalage du point de mesure principal sera
+effectué de + 0,4 mm.
+Mesure initiale en 3
+points
+Nouvelles positions de
+mesure si courbe
+montante
+Nouvelles positions de
+mesure si courbe
+descendante
+
+Figure 7 : Visualisation de la position du capteur lors de la mise au point
+
+L’algorithme suivant présente la mise au point :
+1. mesurenettete() : FLOTTANT
+renvoie une valeur numérique en
+fonction du coefficient de flou : si la valeur est élevée alors l’image est floue, si la
+valeur est faible alors l’image est nette
+2. m1, m2, m3 : FLOTTANT
+stockage de la valeur de coefficient de
+flou
+3. avance(valeur)
+sous-programme
+permettant
+d’avancer le capteur. Déplacement d’une distance en millimètre valant le dixième de
+la « valeur » entre les parenthèses
+4. recule(valeur)
+sous-programme
+permettant
+de
+reculer le capteur. Déplacement d’une distance en millimètre valant le dixième de la
+« valeur » entre les parenthèses
+5.
+6. DÉBUT
+7. TANT QUE (NON(m1>m2 ET m3>m2)) #
+on recherche (m1>m2 ET
+m3>m2)
+7. m1 = mesurenettete()
+8. avance(4)
+9. m2 = mesurenettete()
+10. avance(4)
+11. m3 = mesurenettete()
+12. recule(4)
+positionnement du capteur en
+P2
+13. SI (……………………...) ALORS
+courbe montante
+14. …………..
+15. FIN SI
+16. FIN TANT QUE
+17. FIN
+Question II-4 Recopier sur copie les lignes 13 et 14 et les compléter pour que
+l’algorithme se comporte comme défini.
+Figure 5
+Figure 6
+Figure 7

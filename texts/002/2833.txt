@@ -1,0 +1,291 @@
+{"pages": 10, "method": "pdftotext", "bytes": 758826, "at": "2026-11-23T09:24:56+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 10
+
+PARTIE A
+Teneur en fer d’un produit phytosanitaire (10 points)
+Les feuilles de certaines plantes comme celles des vignes, des rosiers, des pêchers peuvent
+parfois jaunir tout en gardant des nervures bien vertes. C’est le signe que ces plantes
+souffrent de chlorose ferrique. Le fer, comme le magnésium, le manganèse ou le zinc sont
+essentiels à la synthèse de la chlorophylle, et les plantes les puisent dans le sol. Lorsque ces
+éléments manquent, la chlorophylle n’est plus synthétisée et les feuilles perdent leur couleur
+verte.
+Il est possible de lutter contre la chlorose ferrique grâce à des moyens biologiques ;
+l’utilisation d’un purin d’ortie peut y contribuer par exemple.
+Il est aussi possible d’utiliser des produits phytosanitaires commerciaux. La teneur en fer
+d’un produit phytosanitaire anti-chlorose est indiquée sur son emballage : 6,0 % en masse.
+L’objectif de cet exercice est d’envisager un titrage par spectrophotométrie adapté au
+contrôle de qualité de ce produit.
+Données :
+Masse molaire atomique du fer : MFe = 56,0 g.mol-1
+Couples oxydant/réducteur : MnO4-/Mn2+ (incolore) ; S2O82-/SO42-(incolore) ;
+Fe3+(orange pâle)/Fe2+(vert pâle)
+Spectre d’absorption d’une solution de permanganate de potassium de concentration
+2,5×10-4 mol.L-1.
+
+Spectre d’absorption d’une solution de peroxodisulfate de potassium de concentration
+2,5×10-4 mol.L-1
+1,4
+Abosorbance
+
+1,2
+0,8
+0,6
+0,4
+0,2
+
+
+
+500 550 600 650 700
+Longueur d'onde en nm
+
+Cercle chromatique
+
+Tests caractéristiques des ions Fe2+ et Fe3+ avec une solution aqueuse d’hydroxyde
+de sodium
+Ajout de quelques gouttes de solution
+ions
+couleur
+d’hydroxyde de sodium
+Fe2+ Vert à peine perceptible
+Précipité vert d’hydroxyde de fer II
+3+
+Fe
+Rouille à peine perceptible Précipité rouille d’hydroxyde de fer III
+
+
+1. Choix du réactif titrant.
+Pour réaliser le titrage des ions ferreux, Fe2+, contenus dans un produit phytosanitaire
+destiné à lutter contre la chlorose ferrique, on dispose de deux solutions titrantes possibles :
+ Une solution de peroxodisulfate de potassium acidifiée (K+(aq)+S2O82-(aq)) de
+concentration 0,10 mol.L-1
+ Une solution de permanganate de potassium acidifiée (K+(aq)+MnO4-(aq)) de
+concentration molaire 0,10 mol.L-1.
+Les ions peroxodisulfate comme les ions permanganate réagissent en solution aqueuse avec
+les ions Fe2+. Un test avec une solution aqueuse d’hydroxyde de sodium, après réaction
+entre les ions Fe2+ et les ions S2O82- ou MnO4-, conduit au même précipité rouille d’hydroxyde
+de fer III.
+1.1. Préciser la nature de la transformation chimique qui se produit quand on mélange des
+ions Fe2+ et des ions peroxodisulfate S2O82- d’une part ou permanganate MnO4- d’autre
+part, que le test avec une solution aqueuse d’hydroxyde de sodium met en évidence.
+1.2. Écrire les équations des réactions modélisant les transformations chimiques mettant en
+jeu :
+ les ions Fe2+ et les ions S2O82- d’une part,
+ les ions Fe2+ et les ions MnO4- d’autre part.
+1.3. Montrer, en vous référant à la couleur de chaque solution titrante, qu’il est plus judicieux
+de choisir la solution de permanganate de potassium pour réaliser le titrage des ions
+ferreux contenus dans le produit phytosanitaire, la coloration due aux ions ferreux (Fe2+)
+ou ferrique (Fe3+) en solution aqueuse étant très peu perceptible.
+1.4. Définir l’équivalence d’un titrage.
+2. Mise en œuvre du titrage
+
+2.1. La solution de permanganate de potassium étant trop concentrée, il est nécessaire de
+la diluer 5 fois avant de l’utiliser pour le titrage. Choisir, dans la liste de matériel proposé
+(photographie ci-dessus), la verrerie adaptée à cette dilution. Justifier.
+2.2. Expliquer pourquoi certaines verreries sont associées à des capacités notées 100 mL,
+50 mL, 10 mL, et d’autres à des capacités de 100,0 mL, 50,0 mL, 10,0 mL.
+2.3. Le produit phytosanitaire se présente sous la forme d’une poudre. Afin de réaliser le
+titrage, on dissout 100,0 g de produit dans de l’eau et on complète avec de l’eau de
+façon à obtenir 1,0 L de solution.
+2.3.1. On prélève 10,0 mL de cette solution qu’on introduit dans un erlenmeyer.
+Dans la liste de matériel proposée ci-dessus, choisir la verrerie utilisée pour
+prélever ces 10,0 mL.
+2.3.2. Schématiser et légender le montage utilisé afin de réaliser le titrage.
+3. Exploitation du résultat du titrage
+3.1. Le titrage est réalisé plusieurs fois. On note VE, le volume de solution de permanganate
+de potassium versé pour atteindre l’équivalence pour chaque titrage réalisé. Les
+résultats sont rassemblés dans le tableau suivant :
+Mesure
+VE en mL
+11,0 10,6 10,4 10,6 10,8 10,5 10,7 10,9 11,2 11,0
+3.1.1. L’incertitude-type u(VE), de type A, sur cette série de mesures est égale à
+0,080 mL. Écrire le résultat de la mesure pour VE.
+3.1.2. Une autre méthode de détermination de l’incertitude-type sur le volume
+équivalent aurait pu être prise en compte. Préciser sa nature.
+3.1.3. Déterminer la teneur en masse d’ions ferreux présente dans l’échantillon de
+10,0 mL de solution titrée prélevé.
+3.2. Un titrage par spectrophotométrie peut-il être adapté au contrôle de la teneur en fer du
+produit phytosanitaire indiquée sur l’emballage ?
+
+PARTIE B
+Aspects énergétiques des phénomènes mécaniques : Le ski de vitesse (10 points)
+Personne sur Terre, et sans assistance motorisée, ne va plus vite que l’Italien Simone
+Origone, leader d'une discipline à part du ski alpin, plus spectaculaire que dangereuse.
+
+TamTam Photo
+Impossible 252,632 km/h ? Et pourtant. C’est bien la vitesse atteinte vendredi 3 avril 2015
+par Simone Origone qui, pour y parvenir, s’est servi d’un instrument complexe : une paire de
+skis. Et d’un moteur surpuissant : la gravité.
+En se laissant tomber du haut de la piste de Chabrières, gigantesque toboggan enneigé qui
+servait cette semaine de scène au Speed Masters dans la station de Vars (Hautes-Alpes),
+l’Italien de 35 ans a battu son propre record du monde de vitesse à ski (252,454 km/h).
+Le Monde | 03.04.2015
+Données :
+- caractéristiques techniques de la piste de Chabrières considérée comme rectiligne :
+ altitude de départ (D) : zD = 2720 m ;
+ altitude d’arrivée (A) : zA = 2285 m ;
+ pente moyenne α = 24° ;
+ longueur de la piste : L = 1070 m.
+- caractéristiques du skieur Simone Origone :
+ masse : 87 kg ;
+ équipement : 15 kg.
+- intensité de la pesanteur g = 9,8 m.s-2.
+Partie 1 : étude énergétique du mouvement du skieur dans l’hypothèse de frottement
+négligeable
+Le système étudié est le « skieur » constitué de l’athlète avec son équipement de masse
+totale m et de centre de masse G en mouvement sur la piste de ski d’un point D d’altitude zD
+à un point A d’altitude zA.
+Le départ s’effectue sans vitesse initiale. Le référentiel d’étude est supposé galiléen. Dans
+cette partie les frottements subis par le système sont négligés devant les autres actions
+mises en jeu.
+
+1.1.
+1.2.
+1.3.
+1.4.
+
+Effectuer le bilan des actions, modélisées par des forces, agissant sur le système.
+Préciser le sens et la direction de chaque force.
+Calculer le travail WDA de chaque force entre le point de départ D et le point d’arrivée
+A.
+En utilisant le théorème de l’énergie cinétique, déduire la valeur de la vitesse à
+l’arrivée, notée vA, en m.s-1 puis en km.h-1.
+Cette valeur est-elle en accord avec celle de la vitesse atteinte le vendredi 3 avril 2015
+par Simone Origone ? Quel aspect de la modélisation effectuée doit être remis en
+cause ?
+
+Partie 2 : mouvement d’un mobile autoporteur
+On se propose de mesurer l'intensité des actions de frottements qui agissent sur un mobile
+en mouvement. Ces actions seront modélisées par une force constante 𝑓⃗, d’intensité 𝑓, et de
+sens opposé au vecteur vitesse.
+Ce mobile, de centre de masse G, de masse m = 220 g, est abandonné sans vitesse sur un
+plan incliné d'un angle α0 par rapport à l'horizontale. Au cours de son mouvement, le mobile
+suit la ligne de plus grande pente de direction Ax, la position de G est repérée en fonction du
+temps par sa coordonnée x dans le repère (A, i⃗). On peut se référer à l’annexe 1 à rendre
+avec la copie.
+Une vidéo du mouvement est réalisée. Un logiciel de pointage permet de relever les valeurs
+de la position x et de l'altitude z sur l’axe vertical Oz du centre d'inertie G à des intervalles de
+temps réguliers et de déterminer à chaque pointage la valeur de la vitesse du mobile le long
+de l'axe Ax. On peut se référer à l’annexe 1 à rendre avec la copie.
+Un programme python (annexe 2
+à joindre avec la copie) permet
+de représenter l’évolution de
+l’énergie cinétique 𝐸𝑐 du système
+au cours du temps.
+On obtient la courbe ci-contre.
+
+2.1. Modifier le script du
+programme de l’annexe 2 à rendre avec la copie en ajoutant une ligne de code (ligne
+14) qui permettra de déterminer la valeur de l’énergie potentielle 𝐸𝑝𝑝 du système. Quelle
+donnée faut-il ajouter au script ? Compléter alors la ligne 5.
+
+Le script est ensuite encore modifié pour faire apparaître l’énergie cinétique, l’énergie
+potentielle et l’énergie mécanique. On obtient les courbes ci-dessous. L’énergie potentielle de
+pesanteur est choisie nulle en O.
+
+Énergie cinétique Ec(●)
+Énergie potentielle Epp(▼)
+Énergie mécanique Em(*)
+2.2. Comment expliquer l’évolution de
+l’énergie mécanique au cours du
+temps ?
+2.3. Compléter le schéma de l’annexe 1
+à
+rendre avec la copie en
+représentant les forces modélisant les actions sur le système.
+2.4. En tenant compte des valeurs relevées dans le tableau de l’annexe 1 à rendre avec la
+copie, calculer les valeurs de l’énergie mécanique Em0 et Em8 respectivement aux
+instants t0 = 0,000 s et t8 = 0,800 s.
+2.5. À l’aide d’une bilan énergétique, montrer que dans le cadre de ce modèle :
+𝐸 −𝐸𝑚8
+𝑓 = 𝑚0
+où
+x8 =x (t = 0,800 s) et x0 = x(t = 0,000 s).
+𝑥 −𝑥
+
+2.6. Déterminer la valeur de l’intensité de la force modélisant les frottements s’exerçant sur le
+mobile. Commenter.
+Partie 3 : retour qualitatif sur l’étude énergétique du mouvement du skieur
+3. Quelles sont les causes des actions de frottement exercées sur le skieur ? Discuter de
+l’influence de la valeur de la vitesse et de la pertinence d’une modélisation de ceux-ci par
+une force d’intensité constante.
+
+Annexe 1 à rendre avec la copie
+
+A
+
+O
+
+Numéro
+
+t(s)
+0.100
+0.200
+0.300
+0.400
+0.500
+0.600
+0.700
+0.800
+
+x(m)
+0.019
+0.076
+0.171
+0.303
+0.474
+0.682
+0.928
+1.212
+
+v(m.s−1)
+0.3789
+0.7578
+1.1367
+1.5156
+1.8945
+2.2734
+2.6523
+3.0312
+
+z(m)
+1.000
+0.991
+0.962
+0.915
+0.848
+0.763
+0.659
+0.536
+0.394
+
+Annexe 2 à rendre avec la copie
+
+import matplotlib.pyplot as plt
+m = 0.220 # valeur de m en kg
+alpha = 0.2618
+# valeur de alpha en radian
+# liste des dates relevées, des positions, des vitesses et des altitudes
+tps = [0.000, 0.100, 0.200, 0.300, 0.400, 0.500, 0.600, 0.700, 0.800]
+pos = [0.000, 0.019, 0.076, 0.171, 0.303, 0.474, 0.682, 0.928, 1.212]
+vit = [0.000, 0.3789, 0.7578, 1.1367, 1.5156, 1.8945, 2.2734, 2.6523, 3.0312]
+alt = [1.000, 0.991, 0.962, 0.915, 0.848, 0.763, 0.659, 0.536, 0.394]
+Ec = [1/2*m*v**2 for v in vit]
+
+# crée la liste Ec
+
+plt.grid(True)
+plt.plot(tps,Ec,"red")
+
+plt.xlabel("t en s")
+plt.ylabel("Ec en J")
+plt.title("Bilan énergétique")
+plt.show()

@@ -1,0 +1,482 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1344754, "at": "2026-11-23T09:39:51+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de
+0 en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+Question A 2
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+Question A 3
+Quel est le résultat de l'addition binaire 0100 1110 + 0110 1101 ?
+0101 1011
+1010 1101
+1011 0110
+1011 1011
+Question A 4
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+Question A 5
+L'entier positif 255 se représente en hexadécimal (base 16) par :
+AA
+
+CC
+FF
+
+Question A 6
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur de la variable S à la fin de l'exécution du script suivant ?
+res = [ [1,2,3], [4,5,6], [7,8,9] ]
+S = 0
+for i in range(3):
+S = S + res[i][2]
+Question B 2
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 3
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+Question B 4
+On considère le code suivant :
+def s(tuple1, tuple2):
+(x1,y1) = tuple1
+(x2,y2) = tuple2
+return (x1+x2, y1+y2)
+Que renvoie l'appel s((1,3), (2,4)) ?
+le tuple (3,7)
+le tuple (4,6)
+un entier
+une erreur
+
+Question B 5
+t = [ 0 for i in range(10) ]
+for i in range(10):
+if i%2==0:
+t[i] = i
+Une et une seule des affirmations suivantes est vraie. Laquelle ?
+La liste t contient tous entiers compris entre 0 et 10.
+La liste t contient tous les entiers pairs compris entre 0 et 20.
+La liste t contient tous les entiers impairs compris entre 0 et 10.
+La liste t contient tous les entiers pairs compris entre 0 et 8.
+Question B 6
+On définit : L = [10,9,8,7,6,5,4,3,2,1].
+Quelle est la valeur de L[L[3]] ?
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 2
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 3
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 4
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i], table[i+1] = table[i+1], table[i]
+
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+Question C 5
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 6
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+Question D 2
+Compléter le script ci-dessous :
+<!DOCTYPE html>
+<html>
+<head>
+<………>Ma page HTML</…………>
+</head>
+<html>
+href
+title
+html
+aucune des propositions précédentes
+Question D 3
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 4
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+
+Question D 5
+Quel est le code HTML permettant de créer un lien ?
+<a>http://tip-top.fr </a>
+<a href="http://tip-top.fr">Site du TIP-TOP</a>
+<a name="http://tip.top.fr</a>
+<a url=" http://tip-top.fr">Site du TIP-TOP</a>
+Question D 6
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+Question E 2
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 3
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 4
+Sachant que hibou est un fichier présent dans le répertoire courant, quel est l’effet de la commande
+suivante : mv hibou chouette
+déplacer le fichier hibou dans le répertoire chouette
+ajouter le contenu du fichier hibou à la fin du fichier chouette
+renommer le fichier hibou en chouette
+créer le fichier chouette, copie du fichier hibou
+Question E 5
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+adresse Ipv4 : 172.16.100.202
+
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+Question E 6
+Nous disposons des commandes suivantes en langage machine :
+Instructions
+
+Effet
+
+LD X
+
+Lit le contenu de la cellule X (ACC ← #X)
+
+STO X
+
+Enregistre dans la cellule X (#X ← ACC)
+
+ADD X
+
+Ajoute le contenu de la cellule X (ACC ← ACC + #X)
+
+SUB X
+
+Soustrait le contenu de la cellule X (ACC ← ACC - #X)
+
+END
+
+Arrêt du programme
+
+Que fait le programme suivant :
+Adresse Contenu
+
+…
+
+…
+
+LD 0
+
+SUB 1
+
+STO 2
+
+END
+
+25 + 14
+14 - 25
+25 - 14
+25 . 14
+
+Thème F : langages et programmation
+Question F 1
+On définit :
+def f(a,m):
+i = 1
+n = 0
+while n <= m:
+i = i * a
+n = n + 1
+Quelle est la valeur renvoyée par l'appel f(2,4) ?
+Question F 2
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 3
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 4
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F 5
+On définit la fonction suivante :
+def f(x):
+for d in range(2,x):
+if x%d == 0:
+return d
+Quelle est la valeur renvoyée par l'appel f(15) ?
+3,5
+3,5,15
+Question F 6
+
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+
+Thème G : algorithmique
+Question G 1
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+#
+p = p * a
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+Question G 2
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+Question G 3
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 4
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+else:
+i = k + 1
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+Question G 5
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 6
+Quelle est la valeur du couple (s,i) à la fin de l'exécution du script suivant ?
+s = 0
+i = 1
+while i < 5:
+s = s + i
+i = i + 1
+(4, 5)
+(10, 4)
+(10, 5)
+(15, 5)

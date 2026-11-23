@@ -1,0 +1,356 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1253642, "at": "2026-11-23T09:26:36+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PRÉSENTATION DU STEPPER
+Au sens de l’OMS, la santé est un état de bien-être physique, mental et social. Le
+sport contribue à maintenir ce bon état de santé. L’accès à une pratique sportive
+pour tous est un enjeu primordial
+uc [Modèle ] [ UC STEPPER cas géné ral ]
+pour notre société.
+STEPPER
+
+Le sujet porte sur l’étude d’un
+stepper qui se pratique en salle ou à
+domicile.
+L’entrainement efficace réalisé par le
+stepper est une pratique reconnue
+pour l’amélioration de l’état de santé.
+
+Dépenser de
+l'énergie physique en
+effectuant un effort se
+rapprochant d'une
+montée d'escalier
+
+Utilisateur
+Durée de l"effort
+Nombre de marches
+montées
+Estimation des calories
+dépensées
+
+Etre informé des
+paramètres liés à son
+effort physique
+
+Le stepper est un appareil qui reproduit à l’infini le mouvement effectué quand on
+monte des marches sans les à-coups habituels. Idéal pour se muscler jambes et
+fessiers et se maintenir en bonne condition physique.
+packa ge [
+
+]
+«Finalité»
+
+«problem»
+
+Amé liore r l'é tat de santé e n
+pratiqu ant une activ ité
+{Id = "0" ,
+Text = "Le produit doit
+reproduire la montée des
+marches d'escalier sans à
+coups habituels"}
+
+Le sport est reconnu pour
+améliorer l'état de santé et
+procurer un bien-être
+physique, mental et social.
+La pratique du stepper
+permet de reproduire la
+montée de marches
+d'escalier sans choc.
+
+«de riveReqt»
+
+«Mission»
+
+«system»
+
+Ste pp e r
+
+«satisfy»
+
+Pe rme ttre à l'utilisate ur, de
+re produ ire la mont é e
+d'e scal ie r
+{Id = "1" ,
+Text = "Le produit doit
+permettre à un pratiquant de
+reproduire, le plus fidèle ment
+possible, les mouvements et
+les efforts acco mplis lors d'une
+montée d'escalier."}
+
+Figure 1 : mission et cas d’utilisation du stepper
+
+EXERCICE 1 - ÉTUDE D'UNE PERFORMANCE DU STEPPER
+Problématique : le stepper est équipé d’un afficheur qui indique le nombre de
+calories dépensées par l’utilisateur au cours d’une séance d’activité physique. Cette
+indication est-elle fiable ?
+Le stepper est constitué de deux ensembles {pédale 3 + vérin amortisseur 1,2}
+identiques implantés symétriquement sur un châssis 0. La réponse à la
+problématique nécessite l’étude d’un seul de ces deux ensembles comme l’illustre la
+figure 2.
+
+Figure 2 : principaux éléments du stepper
+
+Modélisation cinématique et paramétrage partiel du système :
+On associe le repère fixe R0 =(O, ⃗⃗⃗
+x0 , ⃗⃗⃗
+y0 , ⃗⃗⃗
+z0 ) au châssis 0 et le repère R3 =(O, ⃗⃗⃗
+x3 , ⃗⃗⃗
+y3 ,
+z⃗⃗⃗3 ) à la pédale 3.
+On note : 3(t) le paramètre de position de la pédale 3 par rapport au châssis 0 :
+⃗⃗⃗0 , x
+⃗⃗⃗3 ).
+3(t) = (x
+⃗⃗⃗3 (m).
+On donne : ⃗⃗⃗⃗⃗⃗⃗
+OM = 0,35 z
+
+Hypothèses de l’étude :
+⃗⃗⃗0 ).
+Le problème est plan, de plan (x⃗⃗⃗0 ,y
+Le poids de l’amortisseur et celui de la pédale sont négligés par rapport à celui de
+l’utilisateur du stepper.
+Les liaisons sont considérées comme parfaites.
+Les solides sont supposés indéformables.
+On prendra : g = 9,81 m∙s-2.
+On donne la masse de l’utilisateur : m = 60 kg.
+On suppose que la totalité du poids de l’utilisateur est transmise à la pédale 3. On
+note ⃗⃗Rutilisateur→3 cette action mécanique.
+
+Figure 3 : schéma cinématique du stepper
+
+Question 1-1
+
+Déterminer la résultante ⃗⃗Rutilisateur→3 appliquée à la pédale 3.
+
+Figure 3
+
+Question 1-2 Déterminer et justifier la trajectoire du point M appartenant à la pédale
+3 dans son mouvement par rapport au châssis 0.
+
+Figure 4 : positions limites de la pédale
+Question 1-3 Sachant que l’angle de rotation 3 de la pédale 3 par rapport au châssis
+0 varie de +20° à -10°, déterminer le déplacement vertical du point M,
+noté h sur la figure 4.
+Dans la suite de l’exercice, on prendra h = 180 mm
+Question 1-4 Déterminer le travail développé par l’action de l’utilisateur sur la pédale
+3 pour l’angle de rotation envisagée à la question précédente. Convertir
+le résultat numérique obtenu en calorie. On rappelle que 1 cal = 4,19 J
+Pour la suite du sujet, on prendra la valeur 24 cal pour une descente.
+Question 1-5
+
+Expliquer par quel phénomène physique, le travail dépensé par
+l’utilisateur est dissipé sous forme de chaleur dans le vérin amortisseur.
+
+Dans des conditions réelles d’utilisation, les mesures faites expérimentalement sur le
+stepper indiquent que l’énergie dépensée pour cent appuis sur la pédale est de 2,7
+kcal (un appui correspond à une rotation de 30° de la pédale).
+Question 1-6
+
+Quantifier l’écart obtenu entre l’énergie dépensée expérimentalement
+et le travail déterminé à la question 1-4, puis justifier les écarts obtenus
+à partir de l’exploitation des hypothèses de l’étude données en page 4.
+
+EXERCICE 2 - MODIFICATION DU COMPORTEMENT DU STEPPER
+Problématique : habituellement les appareils de culture physique se contentent de
+compter le nombre de cycles effectués et de multiplier ce nombre par un coefficient
+pour indiquer les calories brulées durant l'exercice. Pour fournir une information plus
+précise, il est nécessaire de mesurer l'effort effectué.
+Diagramme de définition des blocs de la chaîne d'information :
+
+Figure 1 : diagramme de définition des blocs
+Mesurer
+l'énergie
+l'utilisateur
+
+fournie
+
+Vérin simple effet
+
+par
+
+Le stepper est constitué de deux vérins
+amortisseurs, le système est considéré
+comme symétrique. L'effort relevé sur un
+vérin pourra simplement être multiplié
+par deux pour obtenir l'énergie
+développée. Cette simplification permet
+d’utiliser qu'un seul capteur de pression.
+Le système de restriction réglable et le
+clapet antiretour sont intégrés au vérin
+amortisseur.
+
+Pédale
+droite
+Restriction
+réglable
+Clapet anti
+retour
+
+Vérin simple effet
+
+Capteur de
+pression
+
+Figure 2 : schéma
+pneumatique
+
+Pédale
+gauche
+
+On considère que la pression mesurée et proportionnelle à la force appliquée sur la
+pédale, donc proportionnelle à la masse et donc au poids de l'utilisateur.
+Question 2-1 Le stepper classique ne compte que le nombre de "marches" pour
+Figure 2
+estimer l'effort effectué. Indiquer ce que pourrait apporter la mesure de
+pression dans la chambre des vérins par rapport au stepper classique ?
+
+Chaîne d'acquisition :
+Le capteur WNK80MA GB2 C1 est un capteur compact de pression permettant de
+mesurer une pression de 0 à 106 Pa (0 à 1 MPa). Il fournit une tension analogique
+variable de 0,5V à 4,5V proportionnelle à la pression.
+Le capteur de pression est relié à la carte de traitement numérique du stepper.
+L’exploitation de la pression passe par une numérisation de la tension. C’est un
+convertisseur analogique numérique CAN de 10 bits ayant une tension de pleine
+échelle (Vref) de 5V qui va réaliser cette opération.
+Une valeur de 0V à l'entrée AN0 fournit un mot numérique de valeur 0
+Une valeur de 5V à l'entrée AN0 fournit un mot numérique de valeur 1023 (210 − 1)
+Tension de
+sortie Vp
+
+4,5V
+
+0,5V
+
+Capteur de
+pression
+
+Pression
+P(MPa)
+
+𝑅𝑎𝑝𝑝𝑒𝑙 ∶
+
+Vp
+
+AN0
+Traitement
+numérique
+
+𝑉𝑝 = 𝑉𝑟𝑒𝑓 ×
+
+0V
+
+Figure 3 : chaîne d'acquisition
+
+𝑁
+210 − 1
+
+Question 2-2 Exprimer l'équation liant la tension de sortie du capteur Vp(V) à la
+Figure 3
+pression P(MPa) puis, calculer la valeur numérique de :
+
+la tension sortie capteur Vp (V) ;
+
+la valeur numérique NVp ;
+pour une pression de : 0,6 MPa.
+Le programme de traitement
+Le rôle du programme est de compter les « marches » et de mesurer la pression
+dans le vérin afin de calculer l’effort effectué par l’utilisateur. Les phases du
+programme sont données page suivante.
+Le programme :
+ attendre une pression supérieure à 0 correspondant à la pression de
+l'utilisateur sur la pédale
+ temporiser 200 ms avant d'effectuer la mesure de la pression.
+ ajoute +1 au compteur de "marche", afficher la valeur "marche"
+ mesure la pression Nvp et calcul l'énergie dépensée pour monter une
+marche.
+ ajoute au compteur d'énergie l'énergie dépensée pour monter une marche,
+afficher la valeur "energie".
+ attendre une pression égale à 0 correspondant à la position haute de la
+pédale.
+On donne les chronogrammes de la pression fournie par le système :
+
+Figure 4 : chronogramme de la pression
+Question 2-3 Compléter sur le document réponse la localisation approximative des
+différentes phases de fonctionnement du programme.      
+
+Question 2-4 Compléter l'algorithme donné sur le document réponse 1.
+
+Des publications paramédicales donnent une estimation des dépenses d'énergie en
+Calories pour une activité physique d'une heure de type Stepper :
+Masse de l'utilisateur
+Stepper, machine simulateur
+d'escalier
+
+60 kg
+
+70 kg
+
+85 kg
+
+531 Calories
+
+Calories
+
+775 Calories
+
+Le stepper classique et le stepper modifié donnent les résultats suivants :
+Masse de
+l'utilisateur
+Stepper classique
+Stepper modifié
+
+Question 2-5
+
+40 kg
+
+60kg
+
+80 kg
+
+540 Calories
+275 Calories
+
+550 Calories
+540 Calories
+
+560 Calories
+765 Calories
+
+En observant les résultats ci-dessus, conclure sur l'intérêt de prendre
+en compte la masse de l'utilisateur pour estimer les calories dépensées.
+
+DOCUMENT RÉPONSE
+DR 1
+Question 2-3
+
+Question 2-4
+algorithme Stepper_Modifié
+var marche: entier, energie : Réel
+const coeff = 0.2
+début
+tant que NVp = 0 faire
+fin tant que
+energie  energie +NVp*coeff
+tant que NVp > 0 faire
+fin tant que
+fin

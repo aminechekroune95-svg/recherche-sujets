@@ -1,0 +1,234 @@
+{"pages": 7, "method": "pdftotext", "bytes": 556651, "at": "2026-11-23T09:33:42+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE :
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : --2h-Niveaux visés (LV) : LVA
+
+LVB
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 : Capteur photovoltaïque
+Sur 10 points
+
+Les capteurs
+photovoltaïques à base de
+semi-conducteurs équipent
+de plus en plus de
+logements en France, ce qui
+témoigne d’une prise de
+conscience par la population
+des problématiques
+environnementales.
+
+1- Donner le nom d’un semi-conducteur fréquemment utilisé dans les capteurs
+photovoltaïques.
+Document 1 : spectre solaire et spectres d’absorption de trois semiconducteurs
+Coefficientd’absorption
+d’absorption
+Coefficient
+(unitéarbitraire,
+arbitraire,identique
+identiquepour
+pourles
+les33semi
+semi
+(unité
+-conducteursétudiés)
+étudiés)
+-conducteurs
+
+2- À l’aide du document 1 et en justifiant la réponse, indiquer le numéro du semiconducteur (1,2 ou 3) le plus adapté pour équiper un capteur photovoltaïque.
+3- Compléter sur le document réponse de l’annexe, le diagramme des
+transformations énergétique réalisées par un capteur photovoltaïque.
+
+Le circuit électrique schématisé dans le document 2 est réalisé afin de mesurer la
+tension aux bornes d’un capteur photovoltaïque et l’intensité du courant qu’il délivre
+en fonction de la résistance variable présente dans ce circuit, lorsque le capteur est
+soumis a un éclairement constant.
+Document 2 : schéma du circuit électrique utilisé dans l’expérience
+
+4- Compléter sur le document de l’annexe, le tableau représentant les résultats des
+mesures en calculant la puissance pour chaque couple de valeurs (u ; i) puis
+déterminer la valeur de la résistance permettant de maximiser la puissance délivrée
+par le capteur photovoltaïque.
+Données :
+
+P=uxi
+P : puissance (en W)
+u : tension (en V)
+i : intensité du courant (en A)
+
+Document 3 : caractéristiques i=f(u)
+cas de la résistance
+cas du capteur photovoltaïque
+
+5- À l’aide des caractéristiques i=f(u) de la résistance et du capteur photovoltaïque
+données dans le document 3, déterminer les coordonnées (u ; i) du point de
+fonctionnement du circuit puis calculer la valeur de la résistance permettant de
+maximiser la puissance délivrée par le capteur photovoltaïque. Le résultat est-il
+cohérent avec celui trouvé à la question 4 ?
+Données :
+
+Loi d’ohm u = R x i
+u : tension (en V)
+R : résistance (en Ω)
+i : intensité du courant (en A)
+
+6- L’empreinte carbone liée à l’utilisation d’un capteur photovoltaïque n’est pas nulle
+alors que cette utilisation ne produit pas de dioxyde de carbone. Proposer une
+explication.
+Fin de l’exercice
+
+Exercice 2 : Autotest de dépistage du VIH
+Sur 10 points
+
+Un groupe de lycéens discute de l’intérêt d’acheter et de pratiquer un autotest
+de dépistage du VIH vendu sans ordonnance en pharmacie. Ils décident de
+consulter la notice disponible sur Internet.
+
+Document 1 : extrait de la notice d’un autotest de détermination du VIH
+Performances diagnostiques du test :
+Sensibilité = probabilité d’un résultat positif du test chez un
+patient malade (infecté par le VIH)
+
+96,70 %
+
+Spécificité = probabilité d’un résultat négatif du test chez un
+patient non-malade (non infecté par le VIH)
+
+99,42 %
+
+Prévalence (probabilité qu’une personne soit malade dans la population) du
+VIH en France : 0,30 %
+
+Document 2 : Tableau de contingence pour un groupe de 10 000
+personnes de la population française testées avec l’autotest de
+détermination du VIH du document 1.
+
+Malade
+
+Non malade
+
+Test positif
+
+Test négatif
+
+9912
+
+1. Sur les 10 000 personnes testées dans le document 2, combien sont des
+« vrais positifs » ? Combien sont des « faux positifs » ?
+
+2. En déduire, pour le groupe testé, la fréquence de vrais positifs, c’est-à-dire le
+pourcentage de personnes réellement malades parmi les résultats positifs au
+test.
+3. Montrer que seules 0,01 % des personnes ayant un résultat négatif au test
+sont en réalité malades (fréquence de faux négatifs).
+4. En Afrique du Sud, la prévalence du VIH est de 18,9 % : sur un groupe de
+10 000 personnes, combien sont malades ?
+5. Recopier et compléter le tableau de contingence pour ce groupe de 10 000
+personnes de la population sud-africaine testées avec l’autotest de
+détermination du VIH du document 1 (on arrondira les résultats à l’unité).
+Malade
+
+Non malade
+
+Test positif
+Test négatif
+6. Montrer que la fréquence de vrais positifs, c’est-à-dire le pourcentage de
+personnes réellement malades quand le test est positif, est supérieure à 97 %
+en Afrique du Sud.
+7. Comparer les fréquences de vrais positifs entre la France et de l’Afrique du
+Sud, en lien avec la prévalence du VIH dans les populations considérées.
+8. En France, on recommande de réserver la pratique de ces autotests aux
+personnes ayant eu une situation à risques (rapport sexuel non protégé,
+exposition au sang, …) pour lesquelles la prévalence est alors plus forte.
+Expliquer cette recommandation.
+
+Fin de l’exercice
+
+Annexe
+Document réponse à rendre avec la copie
+Exercice 1 - Capteur photovoltaïque
+Réponse à la question 3Diagramme énergétique d’un capteur photovoltaïque
+
+Réponse à la question 4R
+(en Ω)
+u
+(en V)
+i
+(en mA)
+
+1000
+
+10000
+
+0,016
+
+0,063
+
+0,128
+
+0,191
+
+0,209
+
+0,245
+
+0,286
+
+0,317
+
+0,339
+
+0,347
+
+0,356
+
+2,67
+
+2,59
+
+2,43
+
+2,23
+
+2,16
+
+1,94
+
+1,54
+
+1,05
+
+0,57
+
+0,36
+
+0,05
+
+P
+( en .....)
+
+0,043
+
+0,31
+
+0,43
+
+0,12
+
+0,018

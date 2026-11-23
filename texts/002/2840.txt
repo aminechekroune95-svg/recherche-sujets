@@ -1,0 +1,242 @@
+{"pages": 7, "method": "pdftotext", "bytes": 788501, "at": "2026-11-23T09:24:53+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Solar Impulse 2, l’avion solaire (10 points)
+L'avion solaire Solar Impulse 2 restera dans l’histoire de l’aéronautique comme le premier
+avion à avoir bouclé avec succès un tour du monde (43 041 km parcourus en 17 étapes) sans
+une goutte de carburant et avec le Soleil comme unique source d’énergie. Au cours de ce tour
+du monde, cet avion piloté alternativement par les pilotes suisses Bertrand Picard et André
+Borschberg aura notamment :
+- effectué sa première traversée de l’Atlantique entre New York et Séville ;
+- établi le plus long vol de l’histoire sans escale et sans pilote automatique
+(117 heures 52 minutes entre Nagoya et Hawaï).
+Ce tour du monde aura été rendu possible grâce à des choix technologiques innovants et un
+profil de vol raisonné.
+
+Partie 1 : le solaire photovoltaïque
+Solar Impulse 2 est presque entièrement recouvert de panneaux solaires photovoltaïques. Les
+matériaux semi-conducteurs utilisés pour constituer les cellules photovoltaïques sont le
+résultat de nombreuses recherches.
+On s’intéresse dans cette partie à la production d’électricité par l’effet photovoltaïque.
+ L’effet photovoltaïque
+Dans un semi-conducteur exposé à la lumière, un photon d’énergie suffisante extrait un
+électron qui participe à la conduction de l’électricité.
+La valeur minimale d’énergie apportée par le photon doit être Emin = 1,12 eV.
+Données :
+- électronvolt : 1 eV = 1,60 x 10-19 J ;
+- constante de Planck : h = 6,62 x 10-34 J.s ;
+- la valeur de la célérité c de la lumière dans le vide est supposée connue.
+ Absorption atmosphérique du rayonnement solaire pour des radiations lumineuses
+de longueurs d’onde comprises entre 1 nm et 10 mm
+
+ Les ondes électromagnétiques
+
+1.1 Montrer qu’un photon d’énergie 1,12 eV est associé à un rayonnement de longueur d’onde
+λ voisine de 1 μm.
+1.2 À quel domaine des ondes électromagnétiques ces ondes appartiennent-elles ?
+
+1.3 Expliquer pourquoi les matériaux semi-conducteurs présentent un intérêt dans le
+fonctionnement des cellules photovoltaïques.
+Partie 2 : les performances des panneaux solaires de Solar Impulse 2
+On se propose d’étudier en laboratoire une cellule photovoltaïque « classique » afin de
+comparer son rendement à l’une des 17 000 cellules qui équipent l’avion Solar Impulse 2.
+ Diagramme de puissance d’une cellule photovoltaïque
+
+ Puissance lumineuse reçue
+La puissance lumineuse Plum reçue par la cellule photovoltaïque, exprimée en W, est égale au
+produit de l’éclairement Elum, exprimé en W.m-2, par la surface utile S de la cellule exprimée en
+m2 : 𝑷𝒍𝒖𝒎 = 𝑬𝒍𝒖𝒎 ∗ 𝑺.
+ Étude d’une cellule photovoltaïque « classique » en laboratoire
+Matériel à disposition :
+- une lampe halogène ;
+- un solarimètre ;
+- une cellule photovoltaïque de surface utile S = 26,1 x 10-4 m2 ;
+- une résistance variable ;
+- un ampèremètre ;
+- un voltmètre ;
+- des fils de connexion.
+
+Symbole normalisé d’une
+cellule photovoltaïque :
+
+Protocole expérimental :
+ brancher en série la cellule photovoltaïque et la résistance variable ;
+ éclairer la cellule photovoltaïque à l’aide de la lampe halogène placée à 10 cm, et mesurer
+l’éclairement Elum au niveau de la cellule photovoltaïque en utilisant le solarimètre (la distance
+lampe/cellule sera maintenue fixe tout au long de l’étude) ;
+ pour différentes valeurs de la résistance R, relever les valeurs de la tension U aux bornes
+de la cellule et de l’intensité I du courant dans le circuit à l’aide des appareils de mesure
+correctement connectés ;
+ tracer à l’aide d’un tableur grapheur la caractéristique I = f(U) de la cellule photovoltaïque.
+La caractéristique ci-dessous a été obtenue pour un éclairement Elum = 300 W.m-2 (mesure
+effectuée avec le solarimètre).
+
+ Rendement de différents types de convertisseurs d’énergie
+Convertisseur d’énergie
+Rendement moyen
+15 %
+Cellule photovoltaïque « classique »
+(conditions normalisées : Esoleil = 1000 W.m-2)
+Éolienne domestique
+20 %
+Alternateur
+90 %
+Batterie automobile
+70 %
+2.1 Schématiser le montage électrique associé au protocole (le solarimètre ne sera pas
+représenté sur votre schéma).
+2.2 Dans quelle zone (1, 2 ou 3) la puissance électrique délivrée par cette cellule est-elle la
+plus grande ? Justifier la réponse en déterminant la puissance électrique délivrée par la
+cellule aux points A, B et C.
+On considère que la puissance électrique maximale délivrée par la cellule photovoltaïque
+étudiée est Pelec_max = 0,041 W.
+2.3 Montrer, en justifiant par un calcul, que le rendement maximal de la cellule photovoltaïque
+étudiée au laboratoire est ηmax = 5,2 %.
+2.4 Pourquoi le rendement déterminé ne correspond-il pas à celui du tableau, alors que la
+cellule étudiée peut être considérée comme une cellule photovoltaïque « classique » ?
+2.5 Les cellules photovoltaïques de Solar Impulse 2 ont un rendement de 23 %. Vous
+paraissent-elles performantes ? Justifier la réponse.
+
+PARTIE B
+Allantoïne (10 points)
+L'allantoïne est un composé chimique azoté, de formule brute C 4H6N4O3, découvert par LouisNicolas Vauquelin. On le trouve en particulier dans l’urine de veau ou la bave d’escargot,
+cependant aujourd’hui, il est synthétisé à grande échelle à partir de l’acide glyoxylique C 2H2O3
+et de l’urée CH4N2O pour l’utiliser dans l'industrie cosmétique, car ce composé possède des
+propriétés adoucissantes et apaisantes. On le trouve principalement dans les produits de
+soins de la peau et les produits de maquillage, mais aussi dans les dentifrices, shampoings,
+crèmes à raser, rouges à lèvres, etc.
+D’après https://fr.wikipedia.org/wiki/Allantoïne
+L’objectif de l’exercice est d’étudier l’acide glyoxylique et l’urée, puis un protocole de synthèse
+de l’allantoïne au laboratoire.
+Données
+Données physiques de quelques espèces chimiques
+Masse molaire Température
+Espèce chimique
+(g/mol)
+de fusion (°C)
+Urée
+60,0
+Acide glyoxylique
+74,0
+Allantoïne
+
+158,1
+
+Acide sulfurique
+
+98,1
+
+Solubilité dans l’eau
+Très soluble : 1360 g/L à 20°C
+Très soluble
+Peu soluble,
+150 g/L si eau bouillante
+5 g/L si eau très froide
+Très soluble
+
+Données de spectroscopie infrarouge
+Liaison
+Liaison C – NH2
+Liaison C - NH
+Liaison O – H acide carboxylique
+Liaison C – H
+Liaison C = O avec N voisin
+Liaison C = O aldéhyde et cétone
+Liaison C = O acide carboxylique
+Liaison C = C
+
+Nombre
+d’onde (cm-1)
+3100 - 3500
+3100 - 3500
+2500-3200
+2800-3000
+1660 - 1685
+1650-1730
+1680-1710
+1640-1680
+
+Intensité
+Bande double forte
+Bande simple forte
+Bande forte à moyenne, large
+Bande forte
+Bande moyenne
+
+Masse volumique de la solution d’acide glyoxylique à 50 % en masse : ρ = 1,3 g.mL-1
+Valeurs d’électronégativité de quelques atomes :
+(H) = 2,20 (C) = 2,55 (N) = 3,04 (O) = 3,44
+
+Numéros atomiques de quelques éléments :
+Z(H) = 1 Z(C) = 6 Z(N) = 7 Z(O) = 8
+1. À propos de l’acide glyoxylique.
+L’acide glyoxylique est un solide, très utilisé dans l’industrie, de formule semi-développée :
+O
+
+O
+C
+
+H
+
+C
+OH
+
+1.1. Recopier sur la copie la formule semi-développée de la molécule d’acide glyoxylique
+et identifier les groupes caractéristiques qui la composent.
+1.2. Représenter le schéma de Lewis de la molécule.
+1.3. Donner, en justifiant, la géométrie de cette molécule autour de l’un ou l’autre des
+atomes de carbone.
+2. A propos de l’ammoniac et urée
+L’urée est un composé organique de formule chimique semi-développée : H2N – CO – NH2
+L’urée naturelle fut découverte en 1773 par le pharmacien Hilaire Rouelle. Formée dans le
+foie, à partir de l’ammoniac, NH3, provenant de la dégradation d’acides aminés, l’urée
+naturelle est éliminée au niveau des reins par l’urine.
+En 1828, le chimiste allemand Friedrich Wöhler réussit à synthétiser en laboratoire l’urée,
+molécule dite « organique » à l’époque, à partir d’ammoniac. On considérait avant cette
+synthèse que les molécules « organiques » ne pouvaient provenir que de constituants ou de
+dérivés d’organismes vivants habités par la « force vitale » (vis vitalis). Cette date, gravée
+dans l’histoire, est retenue comme étant celle fondatrice de la chimie organique.
+D’après http://www.societechimiquedefrance.fr/uree.html
+2.1. Donner la configuration électronique de l’azote N et de l’hydrogène H. En déduire la
+géométrie de la molécule d’ammoniac.
+2.2. Justifier le caractère polaire de la molécule d’ammoniac.
+2.3. On s’intéresse au spectre Infrarouge de l’urée.
+
+2.3.1. Nommer la grandeur qui figure en abscisse du spectre Infrarouge.
+2.3.2. Que confirme la bande la plus à gauche du spectre ?
+2.3.3. Repérer la bande du spectre qui confirme la présence d’une liaison C = O. Peutelle être attribuée sans ambiguïté à la liaison C=O de l’urée ? Justifier.
+3. Synthèse de l’allantoïne
+Une voie de synthèse de l’allantoïne s’effectue à partir d’urée et d’acide glyoxylique et peut
+être modélisée par une réaction chimique d’équation suivante :
+2 CH4 N2 O(s) + C2 H2 O3(aq) → C4 H6 N4 O3(s) + 2 H2 O(l)
+Le protocole expérimental d’une synthèse de l’allantoïne, réalisée au laboratoire, est décrit ciaprès :
+a. Placer un barreau aimanté dans un erlenmeyer de 100 mL puis, à l’aide d’un entonnoir
+à solide, verser 13,6 g d’urée et 10,0 mL de solution aqueuse d’acide glyoxylique à 50%
+en masse. Agiter jusqu’à l’obtention d’une solution limpide. Introduire lentement 1,5 mL
+d’acide sulfurique concentré, sous agitation magnétique. L’acide sulfurique a pour rôle
+d’accélérer la réaction. Adapter un réfrigérant ascendant.
+b. Placer l’erlenmeyer dans un bain-marie. Maintenir l’agitation, le chauffage et l’ébullition
+de l’eau du bain-marie pendant 45 minutes. Le milieu réactionnel se trouble au bout de
+15 à 20 minutes avec l’apparition d’un précipité blanchâtre.
+c. Plonger ensuite le bécher dans de la glace pendant quelques minutes. Récupérer le
+solide à l’aide d’un dispositif de filtration sous vide de type Büchner.
+d. Laver avec suffisamment d’eau glacée. Sécher à l’étuve le temps nécessaire.
+e. Peser le solide obtenu.
+3.1. Associer aux différentes étapes (a, b, c, d, e) mises en oeuve les différentes étapes
+d’un protocole de synthèse : transformation ; séparation, purification, analyse.
+3.2. Préciser Expliquer l’apparition progressive du précipité blanchâtre.
+3.3. Justifier l’utilisation de la glace dans l’étape c.
+3.4. Justifier l’intérêt de laver à l’étape d du protocole, le solide obtenu avec suffisamment
+d’eau glacée.
+3.5. Déterminer le rendement de la synthèse ainsi effectuée, sachant que la masse
+d’allantoïne sèche obtenue vaut m = 8,60 g.

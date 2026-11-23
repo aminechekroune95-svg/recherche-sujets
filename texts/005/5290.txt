@@ -1,0 +1,172 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1186799, "at": "2026-11-23T09:26:38+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+PRÉSENTATION DU MODÈLE
+Cette voiture électrique pour enfants est la réplique d’un roadster de luxe mythique.
+Ce modèle sportif permettra aux tout petits de découvrir la joie de la conduite. Cette
+voiture est utilisée dans les galeries marchandes des supermarchés, les enfants sont
+au volant et se déplacent librement. Il faut donc faire cohabiter en toute sécurité les
+passants et les enfants en voiture.
+
+Caractéristiques et équipements de la voiture :
+- Batterie lithium-ion
+- Moteur électrique
+- Jantes chromées
+- Rétroviseurs avec miroirs
+- Feux avant Led bleutées
+- Marche avant et arrière
+- Masse du véhicule : 15 kg
+
+Diagramme des cas d'utilisation
+
+ÉTUDE DES PERFORMANCES DU MODÈLE
+Problématique : Comment assurer un confort d’utilisation du véhicule convenable
+pour un enfant ?
+Avant sa commercialisation, un essai a été réalisé sur un prototype piloté par un enfant
+de cinq ans. Un pointage vidéo est réalisé à l’aide d’un logiciel d’acquisition lors de cet
+essai.
+Une capture d’écran d’une vidéo réalisée lors de cet essai.
+
+Les résultats de vitesse obtenus sont présentés ci-dessous.
+
+Q1.1. A partir du relevé, identifier les deux phases du mouvement en définissant
+les intervalles de temps de chaque phase. Puis caractériser pour chacune des
+phases le type de mouvement de la voiture.
+Q1.2. Donner la vitesse de la voiture lors de la phase uniforme du mouvement.
+Q1.3. Calculer à partir de la courbe de vitesse l’accélération du véhicule pour
+chacune des phases.
+Le cahier des charges du véhicule spécifiait une vitesse de déplacement de la
+voiture d’environ 3 km.h-1 et une accélération de 1 m.s-2 afin d’éviter un « coup
+du lapin » dû à un brutal changement de vitesse maximal. Un écart sur
+l’accélération de 0,5 m.s-2 est accepté.
+Q1.4. Donner les écarts relatifs constatés sur les grandeurs étudiées en prenant
+pour référence le cahier des charges. Indiquer si ce dernier est respecté sur ce
+prototype.
+
+Suite à l’étude précédente, le prototype a été renvoyé en bureau d’études pour
+modifications. Un modèle simulé a alors été établi sur un logiciel de
+modélisation multi-physique
+
+On obtient le relevé suivant
+
+Q1.5. A partir du relevé précédent, calculer l’accélération de la voiture
+simulée.
+Q1.6. Que pensez-vous du confort d’utilisation du véhicule pour l’enfant après
+modification du modèle ?
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : Comment circonscrire l’évolution de la voiture dans un espace
+sécurisé ?
+Le constructeur a défini un parcours tracé au sol, matérialisé par une route peinte en
+rouge de largeur plus importante que la voiture. Si l’enfant, conduisant le roadsert sort
+partiellement de la route, une alarme sonore est émise. S’il sort totalement de la route,
+une alarme sonore est émise et la voiture est arrêtée.
+La solution technique choisie consiste à implanter deux capteurs infrarouges sous le
+pare-chocs avant de la voiture. Les informations fournies par les capteurs sont
+transmises à un microcontrôleur qui, en cas de nécessité, commande l’arrêt du moteur
+grâce à une ensemble relais + transistor et pilote l’équipement audio pour l’alarme
+sonore.
+
+Q2.1. Compléter les trois blocs de grandeur de flux et d’effort la description
+fonctionnelle de la chaine de puissance en proposant les solutions techniques
+retenues pour les composants (a), (b), (c), (d).
+La route est couverte d’une peinture rouge contrastée par rapport au
+carrelage. Chaque capteur infrarouge fournit un niveau 1 lorsqu’il détecte la
+route et un niveau 0 pour le carrelage.
+On propose à présent d’établir la commande de la fonction de sécurité
+associée à la problématique.
+
+Q2.2. Sur le document réponse DR2, compléter le tableau donnant l'état de
+chaque capteur en fonction des situations rencontrées.
+L’algorigramme ci-dessous décrit la commande de l’arrêt de la voiture et de
+l’alarme.
+Déclaration des variables
+Capt_G : Capteur infrarouge gauche
+Capt_D : Capteur infrarouge droit
+Arrêt : Commande d’arrêt d’urgence de la
+voiture
+Alarme : Commande de l’alarme sonore
+
+Q2.3. A l'aide de l'algorigramme, compléter sur le document réponse
+DR3 l'algorithme de la commande de l'arrêt de la voiture et de l'alarme.
+En cas d’obstacle sur la route, la voiture doit également s’arrêter pour éviter
+tout risque de collision. La distance de sécurité entre la voiture et un obstacle
+doit être supérieure à 90 cm pour détecter les obstacles. Le constructeur a
+choisi d’implanter un capteur ultrason sur le pare-choc avant de la voiture.
+
+Le capteur envoie une onde ultrasonore qui va se réfléchir sur l’obstacle.
+
+d
+
+d
+
+La distance "d" à mesurer est directement liée à la durée "t" nécessaire à
+l'onde pour faire le trajet aller-retour. Le programme de traitement de
+l'information issue du capteur devra calculer la distance "d".
+Q2.4. On note la célérité (vitesse de propagation) de l'onde ultrasonore "c".
+Exprimer sous forme littérale, le calcul que devra effectuer le programme
+pour donner la distance entre la voiture et l'obstacle.
+Il faut à présent intégrer le programme de gestion de la détection d'un obstacle
+à l'algorigramme de fonction de sécurité vu à la question 3.
+Q2.5. Compléter l'algorigramme de gestion de la détection d’un obstacle sur
+le document réponse DR4.
+Q2.6. Tous les aspects sécuritaires pour le déplacement de la voiture sont-ils
+à présent respectés ? Justifier en quelques lignes.
+
+DOCUMENTS REPONSES
+DOCUMENT REPONSE 1
+
+DOCUMENT REPONSE 2
+Situations
+
+Etat du capteur
+gauche
+
+Etat du capteur
+droit
+
+DOCUMENT REPONSE 3
+
+DEBUTPROG
+Lire Capt_G ;
+Lire Capt_D ;
+SI ( Capt_G = …… et Capt_D = …… ) ALORS
+Arrêt = …… Alarme = …… ;
+SI ( Capt_G = …… et Capt_D = …… ) ALORS
+Arrêt = …… Alarme = …… ;
+SI ( Capt_G = …… et Capt_D = ……) ALORS
+Arrêt = …… Alarme = ……;
+Arrêt = …… Alarme = ……;
+FINPROG
+
+DOCUMENT REPONSE 4
+Déclaration des variables
+Capt_G : Capteur infrarouge gauche
+Capt_D : Capteur infrarouge droit
+Arrêt : Commande d’arrêt d’urgence de la voiture
+Alarme : Commande de l’alarme sonore
+d : distance entre la voiture et l’obstacle à
+exprimer en cm

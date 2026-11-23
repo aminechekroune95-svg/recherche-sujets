@@ -1,0 +1,188 @@
+{"pages": 7, "method": "pdftotext", "bytes": 668161, "at": "2026-11-23T09:32:54+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+Des sphères géantes immergées sous l’eau
+Sur 10 points
+Le projet de recherche scientifique baptisé StEnSEA (pour « Stored Energy in the
+Sea ») développé par l’institut allemand Fraunhofer IWES propose un nouveau
+dispositif de stockage de l’électricité constitué de sphères géantes immergées en mer.
+On cherche à comprendre en quoi ce type de dispositif pourrait être intéressant pour
+stocker l’énergie et en pallier l’intermittence.
+
+Installation d’une sphère géante et schéma de leur position en mer
+(https://lenergeek.com)
+
+PARTIE 1 – Fonctionnement des sphères
+Document 1 : fonctionnement général et paramètres des sphères
+Chacune de ces sphères est connectée à un système de production d'électricité
+(ferme éolienne, ferme solaire…).
+Lors des périodes de forte production d'énergie, l'énergie électrique excédentaire
+qui ne peut être injectée dans le réseau est utilisée pour faire fonctionner des
+pompes qui expulsent l’eau présente à l’intérieur des sphères. À l’inverse, en période
+de faible production, on laisse l’eau s’engouffrer dans les sphères à travers un jeu
+de turbines qui génèrent de l’énergie électrique.
+L'objectif de ce projet est que chacune sphères soit en mesure de stocker 20 MWh.
+
+Paramètre
+
+Valeur
+
+Profondeur de d’installation
+
+750 m
+
+Diamètre intérieur de la sphère
+
+28,6 m
+
+Énergie stockée
+
+20 MWh
+
+Énergie restituée
+
+18,3 MWh
+
+Document 2 : schéma simplifié du couple turbine- alternateur
+Alternateur
+Turbine
+Bobine
+
+Aimant
+
+1- À partir du schéma simplifié du couple turbine-alternateur (document 2), indiquer
+quel élément (aimant ou bobine) constitue la source de champ magnétique et aux
+bornes de quel élément (aimant ou bobine) peut apparaitre une tension électrique.
+2- Recopier et compléter le schéma représentant la chaine de transformation
+énergétique du couple turbine-alternateur lors du remplissage d’une sphère.
+Couple turbinealternateur
+
+3- Calculer le rendement de l’opération de stockage d’énergie réalisée par l’une des
+sphères.
+
+PARTIE 2 – Alimentation des sphères par une ferme photovoltaïque
+Les sphères immergées sont reliées à une ferme solaire. On se propose d’étudier le
+fonctionnement d’une cellule photovoltaïque, élément de base de chaque panneau
+photovoltaïque de la ferme solaire.
+Grâce aux mesures réalisées aux bornes de la cellule, on trace la caractéristique
+tension - intensité (en trait plein) et la caractéristique tension - puissance (en pointillé).
+Document 3 : caractéristiques de la cellule photovoltaïque
+
+Intensité (en mA)
+
+1,5
+
+Puissance (en mW)
+
+2,5
+
+0,5
+
+0,1
+
+0,2
+0,3
+Tension (en V)
+
+0,4
+
+0,5
+
+4- Déterminer graphiquement la valeur de la puissance maximale Pmax.
+5- En déduire la valeur de l’intensité maximale Imax et celle de la tension maximale Umax.
+6- En déduire que la valeur de la résistance du récepteur à utiliser avec le panneau
+pour fonctionnement optimal est environ égale à 50 .
+
+PARTIE 3 – Conclusion
+7- Rédiger un paragraphe argumenté d’une dizaine de lignes environ expliquant en
+quoi cette association sphères immergées-panneaux solaires permet de « pallier
+l’intermittence des énergies » mais n’est pas sans impact sur l’environnement et la
+biodiversité.
+
+Exercice 2 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Autotest et dépistage du VIH
+Sur 10 points
+Un groupe de lycéens discute de l’intérêt d’acheter et de pratiquer un autotest de
+dépistage du VIH vendu sans ordonnance en pharmacie. Ils décident de consulter la
+notice disponible sur Internet.
+Document 1 : extrait de la notice d’un autotest de détermination du VIH
+Performances diagnostiques du test :
+Sensibilité = probabilité d’un résultat positif du test chez un
+patient malade (infecté par le VIH)
+
+96,70 %
+
+Spécificité = probabilité d’un résultat négatif du test chez un
+patient non-malade (non infecté par le VIH)
+
+99,42 %
+
+Prévalence (probabilité qu’une personne soit malade dans la population) du VIH en
+France : 0,30 %
+Document 2 : Tableau de contingence pour un groupe de 10 000 personnes de
+la population française testées avec l’autotest de détermination du VIH du
+document 1
+Malade
+
+Non malade
+
+Test positif
+
+Test négatif
+
+9912
+
+1- Sur les 10 000 personnes testées dans le document 2, combien sont des « vrais
+positifs » ? Combien sont des « faux positifs » ?
+2- En déduire, pour le groupe testé, la fréquence de vrais positifs, c’est-à-dire le
+pourcentage de personnes réellement malades parmi les résultats positifs au test.
+3- Montrer que seules 0,01 % des personnes ayant un résultat négatif au test sont en
+réalité malades (fréquence de faux négatifs).
+
+4- En Afrique du Sud, la prévalence du VIH est de 18,9 % : sur un groupe de 10 000
+personnes, combien sont malades ?
+5- Recopier et compléter le tableau de contingence pour ce groupe de 10 000
+personnes de la population sud-africaine testées avec l’autotest de détermination du
+VIH du document 1 (on arrondira les résultats à l’unité).
+Malade
+
+Non malade
+
+Test positif
+Test négatif
+6- Montrer que la fréquence de vrais positifs, c’est-à-dire le pourcentage de personnes
+réellement malades quand le test est positif, est supérieure à 97 % en Afrique du Sud.
+7- Comparer les fréquences de vrais positifs entre la France et de l’Afrique du Sud, en
+lien avec la prévalence du VIH dans les populations considérées.
+8- En France, on recommande de réserver la pratique de ces autotests aux personnes
+ayant eu une situation à risques (rapport sexuel non protégé, exposition au sang, …)
+pour lesquelles la prévalence est alors plus forte. Expliquer cette recommandation.

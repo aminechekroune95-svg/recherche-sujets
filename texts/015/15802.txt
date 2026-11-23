@@ -1,0 +1,339 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1885597, "at": "2026-11-23T09:27:36+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Prolifération et détection des punaises de lit
+Les punaises de lit sont des insectes qui se nourrissent du sang de mammifère à
+sang chaud. Elles vivent au côté de l’Homme depuis des milliers d’années. Depuis
+les années 1990, on observe une recrudescence à l’échelle mondiale. La France
+n’est pas épargnée par ce fléau. La première partie concerne la résistance des
+punaises de lit aux insecticides tandis que la seconde partie s’intéressera à un
+moyen de détecter des punaises de lit à l’aide de l’intelligence artificielle.
+Partie 1 – Résistance des punaises de lit aux insecticides
+Document 1 – Graphique présentant la mortalité des populations, issues de
+deux souches de punaises de lit, soumises chacune à une
+quantité croissante de pesticides
+
+La courbe en pointillé correspond à une souche de punaises de lit prélevée sur le
+terrain tandis que la courbe en trait plein correspond à une souche de laboratoire.
+La souche de laboratoire n’est pas préalablement soumise aux pesticides.
+Source : https://doi.org/10.1111/eva.13550
+
+1- Justifier que la souche de punaise de lit de terrain est plus résistante que celle de
+laboratoire.
+Document 2 – Coupe transversale de pattes de punaise de lit récupérées en
+laboratoire ou sur le terrain, observées au microscope
+électronique à balayage
+Punaise de lit de la souche de laboratoire
+
+Punaise de lit de la souche de terrain
+
+C
+C
+
+La cuticule (notée C sur les clichés) est une couche protectrice et imperméable
+limitant le passage de molécules.
+La double flèche
+
+représente l’épaisseur de la cuticule.
+Source : https://doi.org/10.1093/gbe/evae158
+
+2- À partir des photographies de coupes transversales de pattes de punaise de lit
+présentées dans le document 2, estimer l’épaisseur de la cuticule pour chaque
+souche. Le raisonnement s’appuiera sur une mesure effectuée au niveau des
+doubles flèches notée C.
+3- Indiquer comment on peut déterminer, de manière précise et rigoureuse,
+l’épaisseur de la cuticule de chaque souche.
+4-
+
+Déduire de ces résultats l’origine de la résistance aux pesticides des punaises
+de lit.
+
+5- Construire un raisonnement argumenté qui permet d’affirmer que la sélection
+naturelle est un mécanisme conduisant à la résistance des punaises de lit aux
+insecticides.
+Partie 2 – L’intelligence artificielle (IA) pour détecter les punaises de lit
+Document 3 – Une société innove avec l’intelligence artificielle pour aider les
+hôtels dans la lutte contre les punaises de lit
+Un fondateur d’une entreprise de détection des punaises de lit a communiqué dans
+la presse que « le nombre d’infestations double en France tous les cinq ans ».
+Pour faire face à ce fléau, un hôtel parisien a récemment utilisé un appareil dernier
+cri pour détecter la présence de punaises de lit dans l’établissement.
+Un boîtier, posé à proximité du lit d’une chambre, diffuse des phéromones pour
+attirer les punaises. Lorsque l’une d’entre elles pénètre la boîte, une photo est
+prise par une caméra embarquée couplée à une intelligence artificielle (IA). Si
+l’insecte s’avère être une punaise de lit, une alerte est envoyée par mail à
+l’hôtelier.
+Source : d’après un article de BFM TV
+
+Document 4 – Courbe de modèles
+Modèle 1
+
+Modèle 2
+
+6- Parmi les deux modèles du document 4 qui représentent l’évolution du nombre
+d’infestations en France durant les dernières années, indiquer en justifiant celui
+qui traduit le mieux les propos du fondateur de l’entreprise de détection de
+punaises de lit présentés dans le document 3.
+7- Parmi les trois propositions ci-dessous, indiquer l’extension qui pourrait
+correspondre au type de fichier généré par la camera et traité par l’intelligence
+artificielle parmi les 3 suivantes : .exe,.jpg,.txt.
+8- Sachant qu’une photo prise par la caméra comporte 8 millions de pixels et que
+chaque pixel est codé sur 3 octets, calculer le nombre maximal de photos prises
+par la caméra que peut contenir un espace de stockage de 32 Go.
+Donnée : 1 Go = 109 octets
+9- En utilisant vos connaissances, expliquer pourquoi ce système basé sur
+l’intelligence artificielle devient de plus en plus performant.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Audition et apprentissages chez les jeunes enfants
+En France, il est actuellement obligatoire que les équipes médicales encadrant les
+nouveaux nés proposent aux parents de réaliser un test de dépistage auditif. En effet,
+l’audition conditionne bon nombre d’apprentissages de l’enfant, particulièrement dans
+les domaines du langage et de la communication. Le dépistage d’un éventuel trouble
+peut ainsi être suivi d’un traitement rapide, adapté et efficace.
+Dans cet exercice, on cherche à comprendre le principe et l’intérêt d’un tel dépistage
+auditif précoce.
+
+Document 1 – Organisation de l’appareil auditif et principe du test de
+dépistage
+Une sonde placée dans le conduit auditif contient un haut-parleur (« émetteur »)
+qui émet un son et un microphone (« récepteur ») qui recueille les sons émis par
+les cellules ciliées de la cochlée. Ce test simple, non invasif et rapide, permet le
+dépistage d'un problème de surdité cochléaire chez le nouveau-né. Il permet aussi
+de suivre l’évolution de l’audition chez des sujets à risque victimes d’hypoacousies
+professionnelles (c’est-à-dire des baisses de l’audition liées à une activité
+professionnelle) ou victimes d’une hypoacousie liée à la prise de médicaments ototoxiques.
+Ce test permet de tester l’existence d’une audition entre 0 et 30 dB, pour des
+fréquences entre 700 et 5000 Hz.
+
+Source : d’après nosoreilles-onytient.org
+
+1- À l’aide des connaissances et du document 1, indiquer si le test ci-dessus permet
+de tester l’intégralité du domaine des fréquences audibles.
+2- Expliquer l’intérêt d’effectuer le test pour des niveaux sonores compris entre 0 et
+30 dB.
+3- Identifier la bonne proposition ci-dessous et la recopier sur votre copie.
+L’oreille interne a pour rôle :
+a- la réception des ondes sonores
+b- l’amplification des ondes sonores
+c- la transmission des ondes sonores
+d- la conversion des ondes sonores en messages nerveux
+
+Document 2 – Lien entre le développement cérébral et le développement
+cochléaire
+En absence d’anomalie du développement cochléaire :
+
+En cas d’anomalie du développement cochléaire :
+
+Zone A : De 4 mois ½ de grossesse à la naissance (= 0 mois)
+Zone B : De la naissance à 6 ans (= 72 mois)
+Source : d’après www.cochlea.eu
+
+Document 3 – Communication neuronale entre aires cérébrales impliquées
+dans la perception auditive
+Le cortex auditif primaire traite les sons en provenance de l’oreille interne via le
+nerf auditif. Il intervient dans la perception/sensation sonore. Il communique avec
+le cortex auditif secondaire où l’analyse se précise. Les facultés du langage
+mettent en jeu des aires cérébrales telles que l’aire de Broca ou de Wernicke.
+Ainsi, par communication entre aires cérébrales, les sons peuvent être interprétés
+et produits via la parole.
+La communication entre les aires cérébrales est permise par le réseau de
+neurones qui les constituent. En effet, les neurones sont des cellules pourvues
+d’un corps cellulaire et de prolongements par lesquels les messages nerveux
+circulent. En établissant des contacts entre eux par ces prolongements, les
+neurones communiquent.
+Aires cérébrales impliquées dans la perception auditive :
+
+Neurones du cortex auditif primaire au moment où la cochlée commence à
+fonctionner (fœtus de 5 mois) :
+Sans cochlée (surdité de naissance), le cerveau auditif va rester dans cet état
+immature
+
+Neurones du cortex auditif primaire à la fin du développement de la cochlée
+(équivalant à un cerveau humain de 6 ans) :
+
+Source : d’après Hatier 1ère enseignement scientifique et www.cochlea.eu
+
+4- À partir du document 2, identifier dans chacune des deux séries de propositions
+celle qui est juste et la recopier sur la copie :
+Dans un cas normal, le développement de la cochlée :
+a- débute à la naissance
+b- est achevé à la naissance
+c- débute à 6 ans
+d- est achevé à 4 mois ½ de vie fœtale
+Dans un cas normal, le développement des centres auditifs cérébraux :
+e- est indépendant du développement de la cochlée
+f- est maximal après celui de la cochlée
+g- est maximal avant celui de la cochlée
+h- est achevé à la naissance
+5- Après avoir comparé les neurones du cortex auditif primaire chez un fœtus de
+5 mois et chez un enfant de 6 ans (document 3), expliquer comment s’effectue
+l’apprentissage normal du langage.
+6- À partir de la mise en lien des documents 2 et 3, rédiger un argumentaire destiné
+à montrer l’intérêt d’un dépistage auditif précoce pour optimiser les
+apprentissages, notamment de langage, chez l’enfant.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Partie 1 – Marquage radioactif du glucose
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+2- Un nombre initial de 10 000 noyaux de 14C est présent dans un échantillon de
+glucose marqué au 14C. Calculer, en expliquant le raisonnement, le nombre de
+noyaux de 14C restants au bout de quatre demi-vies.
+3- À partir du document 2, déterminer la durée nécessaire pour obtenir un nombre
+de noyaux de 14C égal à 40 % du nombre initial. Expliquer la démarche retenue.
+
+Partie 2 – Utilisation du glucose radioactif et compréhension du mode d’action
+de la cytochalasine B
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane plasmique.
+
+Légendes :
+CW = Paroi ; Mb =
+Membrane plasmique ; N
+= Noyau ; V = vacuole ;
+M = Mitochondries ; Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+4- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des structures spécifiques qui seront nommées.
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+5- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).

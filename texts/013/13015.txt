@@ -1,0 +1,166 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1450070, "at": "2026-11-23T09:32:56+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+Minimisation des pertes par effet Joule
+Sur 10 points
+Dans le sud de la France, un immeuble et une maison sont alimentés la journée par
+des éoliennes et des panneaux solaires distribuant respectivement des courants
+d’intensités 𝐼1 et 𝐼2 . On veut minimiser les pertes par effet Joule dans ce réseau de
+distribution électrique.
+Partie 1 : Dissipation de l’énergie
+Document 1 : transport de l’énergie électrique
+L’électricité lors de son transport entre les
+lieux de production et les lieux de
+consommation subit des pertes en ligne dont
+le volume dépend de la distance de transport
+des caractéristiques du réseau. 80 % de ses
+pertes le sont par effet Joule dans les câbles
+électriques, soit pour la France, l’équivalent
+de deux unités de production nucléaires
+électriques.
+Pertes sur le réseau de transport de l’électricité en France en 2019 :
+Énergie électrique transportée en France en 2019 : 495 × 109 kWh.
+2,22 % : taux de perte d’énergie en France en 2019 pendant le transport de
+l’électricité.
+Source : https://www.actu-environnement.com
+
+1- Calculer les pertes d’énergie en kWh en France en 2019 dues au transport de
+l’énergie électrique.
+2- Calculer en 2019 en France, l’énergie électrique en kWh à disposition des
+consommateurs.
+
+Partie 2 : modélisation du réseau électrique
+Document 2 : schéma du réseau électrique
+
+Dans la modélisation simplifiée utilisée, on considère que les tensions et les
+courants sont continus.
+
+3- Identifier les cibles destinatrices et les sources distributrices du réseau du
+document 2.
+4- La tension du réseau de distribution étant fixée, expliquer pourquoi les intensités I3
+et I4 sont fixées.
+5- Modéliser le réseau électrique du document 2 par un graphe orienté.
+6- Justifier que 𝐼3 est environ égale à 36 A et 𝐼4 à 94 A, sachant que les puissances
+par effet Joule correspondent à 5 % des puissances utiles.
+
+On admet que les intensités vérifient la relation I1 + I2 = I3 + I4
+7- Donner l’expression de la puissance dissipée par effet Joule 𝑃𝐽 à minimiser en
+fonction de 𝐼1, , 𝐼2 , 𝐼3 et 𝐼4 . Exprimer la valeur de I2 en ampères en fonction de I1.
+Les intensités I3 et I4 étant connues et I2 pouvant s’exprimer en fonction de I1, la
+puissance PJ peut s’exprimer en fonction de I1 seulement. La représentation graphique
+de la fonction PJ(I1) est donnée dans le document 3.
+Document 3 : représentation graphique de 𝑷𝑱 en fonction de 𝑰𝟏
+𝑃𝐽 (W)
+
+Puissance dissipée par effet Joule
+
+𝐼1 (A)
+
+8- La contrainte sur les intensités délivrées par les sources impose que 𝐼1 peut
+prendre une valeur comprise dans l’intervalle [0 ; 70] en ampères.
+Déterminer les valeurs de 𝐼1 et de 𝐼2 pour lesquelles les pertes par effet Joule sont
+minimales.
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Le protoxyde d’azote et le réchauffement climatique
+Sur 10 points
+« Troisième gaz à effet de serre au monde, le N2O (protoxyde d'azote) joue un rôle
+important dans le réchauffement du climat, à quantités égales, il contribue environ 300
+fois plus au réchauffement de l’atmosphère par effet de serre que le dioxyde de
+carbone. » (Météo France, 2020). À l’échelle mondiale, une part de sa production est
+d’origine naturelle (majoritairement issue des sols et dans une moindre mesure de
+l’océan) et l’autre part est d’origine anthropique.
+On cherche à étudier l’implication du protoxyde d’azote (N2O) comme gaz à effet de
+serre et caractériser la part des activités humaines dans ces émissions.
+1- Utiliser vos connaissances pour choisir la (ou les) proposition(s) correcte(s) dans
+chacune des séries a), b), c), et d). Indiquer sur votre copie la (ou les) lettres
+correspondante(s).
+a) Le sol terrestre émet un rayonnement dans le domaine du spectre :
+1. visible.
+2. infrarouge.
+3. ultraviolet.
+b) Un gaz à effet de serre se caractérise par le fait qu’il :
+1. absorbe une partie du rayonnement visible.
+2. réfléchit une partie du rayonnement visible.
+3. absorbe une partie du rayonnement infrarouge.
+4. réfléchit une partie du rayonnement infrarouge.
+c) Les deux principaux gaz à effet de serre impliqués dans le forçage radiatif sont :
+1. le dioxyde de carbone (CO2).
+2. le dioxygène (O2).
+3. la vapeur d’eau (H2O).
+4. le diazote (N2).
+5. le méthane (CH4).
+
+d) Depuis un siècle, l’ordre de grandeur d’augmentation de la température moyenne
+du globe est de :
+1. 0,2°C.
+2. 1°C.
+3. 2°C.
+4. 5°C.
+5. 20°C.
+2- Sachant que le sol émet un rayonnement de longueur d’onde comprise entre 7 et
+15 µm, montrer que le protoxyde d’azote est un gaz à effet de serre, en exploitant le
+document 1.
+Document 1 : spectre d’absorption infrarouge du protoxyde d’azote (N2O)
+
+Longueur d’onde (en µm)
+D’après la base de données du National Institute of Standard and Technologie (USA)
+
+3- Utiliser les informations du document 2 pour :
+a) exprimer les émissions totales de N2O anthropiques en tonnes d’azote pour
+l’année 2005 ;
+b) calculer le pourcentage des émissions de N2O anthropiques par rapport aux
+émissions totales pour 2005.
+
+Document 2 : émissions mondiales de protoxyde d’azote en 2005
+En 2005, la production mondiale de protoxyde d’azote, toutes origines confondues
+était estimée à 14,5 millions de tonnes.
+Le graphique ci-dessous présente les émissions anthropiques de N2O en 2005.
+
+D’après www.pnas.org
+
+Les émissions de N2O d’origine agricole proviennent essentiellement de la
+transformation des produits azotés tels que les engrais dans les sols, les déjections
+des animaux d’élevage (lisier, fumier) ou les résidus de récolte.
+
+4- Rédiger un texte argumenté présentant la participation des différentes activités
+agricoles aux émissions de protoxyde d’azote (N2O) et leurs conséquences sur le
+réchauffement climatique, en utilisant les documents suivants et vos connaissances.
+
+Document 3 : évolution de la production mondiale de viande de 1961 à 2009 en
+millions de tonnes (source FAOSTAT)
+
+Document 4 : évolution de la concentration atmosphérique en N2O de 1750 à
+2010. Une concentration de 1 ppb, signifie qu’une molécule sur un milliard (soit 10-9) dans un
+échantillon d’air est du N2O.
+
+D’après l’EEA (agence européenne pour l’environnement)

@@ -1,0 +1,463 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1254920, "at": "2026-11-23T09:41:25+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?
+Question A 2
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x = 1
+for i in range(10):
+x = x * 2
+1024
+2048
+20000000000
+Question A 3
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+Question A 4
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 5
+
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+Question A 6
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture
+hexadécimale CD8FA + 9FF81?
+6E87B
+6D88B
+16D88B
+16E87B
+
+Thème B : types construits
+Question B 1
+On définit la liste L ainsi :
+L = [ [1], [1, 2], [1, 2, 3]]
+Des égalités suivantes, une seule est fausse. Laquelle ?
+len(L[0]) == 1
+len(L) == 6
+len(L[2]) == 3
+L[2][2] == 3
+Question B 2
+Laquelle des expressions suivantes a-t-elle pour valeur la liste des carrés des premiers entiers qui ne sont pas
+multiples de 5 ?
+[x*x for x in range (11) if x//5 != 0]
+[x*x if x%5 != 0 for x in range (11)]
+[x*x if x//5 != 0 for x in range (11)]
+[x*x for x in range (11) if x%5 != 0]
+Question B 3
+L est une liste d'entiers.
+On définit la fonction suivante :
+def f(L):
+for x in L:
+if x > m:
+m = x
+Que calcule cette fonction ?
+le maximum de la liste L passée en argument
+le minimum de la liste L passée en argument
+le premier terme de la liste L passée en argument
+le dernier terme de la liste L passée en argument
+Question B 4
+On exécute le code suivant :
+placard = { 'chemise': 3, 'pantalon': 6, 'tee shirt': 7 }
+placard['chaussette'] = 4
+placard['chemise'] = 5
+L = list(placard.values())
+Quelle est la valeur de la variable L à l'issue de cette exécution ?
+
+[ 3, 6, 7 ]
+[ 3, 6, 7, 4 ]
+[ 5, 6, 7 ]
+[ 5, 6, 7, 4 ]
+Question B 5
+Quelle est la valeur de l'expression [[i,2*i] for i in range(3)] ?
+[0,0,1,2,2,4]
+[[0,0],[1,2],[2,4]]
+[1,2,2,4,3,6]
+[[1,2],[2,4],[3,6]]
+Question B 6
+On définit le dictionnaire dico par les instructions suivantes :
+def f(x):
+return x*x
+def g(x):
+return x + x
+def h(x):
+return 3*x
+dico = { 'F': f, 'G': g(6), 'H': h }
+Une seule des affirmations suivantes est incorrecte. Laquelle ?
+dico['F'] est une fonction
+dico['F'](5) est un entier
+dico['G'] est une fonction
+dico['G'] est un entier
+
+Thème C : traitement de données en tables
+Question C 1
+On dispose du fichier « info.csv » donné ci-dessous :
+nom, prenom, naissance, deces
+lovelace, ada, 1815, 1852
+von neumann, john, 1903, 1957
+turing, alan, 1912, 1954
+mccarthy, john, 1927, 2011
+floyd, robert, 1936, 2001
+Le programme ci-dessous nous permet de créer un tableau à partir de ce fichier.
+file = open("info.csv", "r")
+firstLine = file.readline()
+# chargement de la ligne d’entête
+tableau = [line.split(',') for line in file] # chargement des données
+Les index des lignes de ce tableau vont…
+de 0 à 3
+de 1 à 4
+de 0 à 4
+de 0 à 5
+Question C 2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 3
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 4
+On définit les notes des élèves dans le dictionnaire suivant :
+notes = {
+
+'Pierre' : 9, 'Paule' : 16, 'Claire' : 12,
+'Sophie' : 11, 'Yasmine' : 8,
+'David' : 17, 'Julie' : 3
+}
+
+Quelle expression permet d'accéder à la note de l’élève Claire ?
+notes[12]
+notes[2]
+notes['Claire']
+notes.values('Claire')
+Question C 5
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 6
+On définit :
+stock = [
+
+{'nom': 'flageolets', 'quantité': 50, 'prix': 5.68},
+{'nom': 'caviar', 'quantité': 0, 'prix': 99.99},
+.........
+.........
+{'nom': 'biscuits', 'quantité': 100, 'prix': 7.71} ]
+
+Quelle expression permet d'obtenir la liste des noms des produits effectivement présents dans le stock (c'est-àdire ceux dont la quantité n'est pas nulle) ?
+['nom' for p in stock if 'quantité' != 0]
+[p for p in stock if p['quantité'] != 0]
+[p['nom'] for p in stock if 'quantité' != 0]
+[p['nom'] for p in stock if p['quantité'] != 0]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 2
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+Question D 3
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 4
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 5
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D 6
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+Question E 2
+Le répertoire personnel de l'utilisateur contient deux répertoires tempo et sauve.
+On souhaite déplacer le fichier bac.txt du répertoire tempo vers le répertoire sauve.
+Quelle commande permet de réaliser ce déplacement ?
+mkdir ~/tempo/bac.txt ~/sauve
+mkdir ~/sauve ~/tempo/bac.txt
+mv ~/tempo/bac.txt ~/sauve
+mv ~/sauve ~/tempo/bac.txt
+Question E 3
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens
+existants. Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+Question E 4
+La mémoire RAM :
+
+ne fonctionne qu'en mode lecture
+ne fonctionne qu'en mode écriture
+conserve les données en cas de coupure de l'alimentation
+perd les données en cas de coupure de l'alimentation
+Question E 5
+Dans un ordinateur, que permet de faire la mémoire vive ?
+Stocker les données de façon permanente
+Afficher les informations sur l’écran
+Réaliser les calculs
+Stocker les données de façon temporaire
+Question E 6
+Parmi ces propositions, laquelle désigne un système d'exploitation libre ?
+LibreOffice
+Windows
+MacOS
+GNU-Linux
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F 2
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+Question F 3
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+i = i + 1
+}
+alert("Fin")
+
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+
+Question F 4
+
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 5
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F 6
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+
+Thème G : algorithmique
+Question G 1
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1
+Question G 2
+En utilisant une recherche dichotomique, combien faut-il de comparaisons avec l'opérateur == pour trouver
+une valeur dans un tableau trié de 1000 nombres, dans le pire des cas ?
+1000
+1024
+Question G 3
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 4
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+Question G 5
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+p = p * a
+#
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+Question G 6
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?

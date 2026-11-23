@@ -1,0 +1,223 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1151935, "at": "2026-11-23T09:28:24+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Commercialisation d’un produit
+Sur 8 points
+Les deux parties peuvent être traitées séparément.
+Une petite entreprise fabrique des objets de décoration.
+Elle les vend dans deux magasins A et B.
+Partie A
+Le coût de fabrication annuel des objets de décoration, en euros, peut être modélisé
+par une fonction 𝐶 définie sur [0 ; 250] par 𝐶(𝑥) = 𝑥 2 + 100𝑥 + 50 où 𝑥
+représente le nombre d’objets fabriqués pendant l’année.
+1- Quel est le coût annuel, en euros, pour la fabrication de 100 objets de
+décoration ?
+Chaque objet de décoration est vendu 300 €. On note 𝐵 la fonction définie sur
+[0 ; 250] modélisant le bénéfice annuel.
+2- Montrer que 𝐵(𝑥) = −𝑥 2 + 200𝑥 − 50 où 𝑥 représente le nombre d’objets
+fabriqués pendant l’année.
+3- On admet que la fonction 𝐵 est dérivable sur [0 ; 250].
+3-a- Déterminer 𝐵′(𝑥) pour 𝑥 ∈ [0 ; 250].
+3-b- Dresser le tableau des variations de la fonction 𝐵 sur [0 ; 250].
+3-c- En déduire le nombre d’objets de décoration à fabriquer et à vendre pendant
+l’année afin que le bénéfice annuel soit maximal et donner le montant de ce
+bénéfice.
+
+Partie B
+En 2020, l’entreprise dépose 50 objets de décoration dans le magasin A et 50 objets
+de décoration dans le magasin B. Pensant pouvoir améliorer son coût de production,
+elle s’engage à déposer, tous les ans, 5 objets de plus dans le magasin A et 8%
+d’objets en plus dans le magasin B.
+On représente par 𝑎𝑛 et par 𝑏𝑛 le nombre d’objets déposés respectivement dans les
+magasins A et B l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel.
+4-a- Pour tout entier naturel 𝑛, exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+4-b- Quelle est la nature de la suite de terme général 𝑎𝑛 ?
+4-c- Selon ce modèle, combien d’objets seront déposés dans le magasin A en
+2025 ?
+5-a- Quelle est la nature de la suite (𝑏𝑛 ) ? En préciser les éléments caractéristiques.
+5-b- Selon ce modèle, combien d’objets seront déposés dans le magasin B en
+2025 ?
+6-a- Pour tout entier naturel 𝑛 compris entre 0 et 9, construire dans un même repère
+les points de coordonnées (𝑛, 𝑎𝑛 ) et (𝑛, 𝑏𝑛 ). On prendra 1 cm pour 1 sur l’axe des
+abscisses et 1 cm pour 5 sur l’axe des ordonnées en commençant à 50.
+6-b- En utilisant la représentation graphique précédente et en expliquant la
+démarche, donner l’année à partir de laquelle le nombre d’objets déposés dans le
+magasin B sera supérieur au nombre d’objets déposés dans le magasin A ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La pile végétale
+Sur 12 points
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible.
+On cherche ici à déterminer si cette technologie peut constituer
+une solution d’avenir.
+Les deux parties peuvent être traitées indépendamment.
+Partie 1 – La photosynthèse et ses caractéristiques
+Document 1 - Étude expérimentale des échanges gazeux d’une plante
+chlorophyllienne
+On mesure les variations au
+cours du temps de trois
+paramètres environnementaux
+au sein d’une enceinte fermée
+hermétiquement et contenant un
+végétal chlorophyllien :
+
+teneur en dioxygène
+(O2) ;
+
+teneur en dioxyde de
+carbone (CO2) ;
+
+luminosité reçue par
+l’enceinte.
+
+Source : d’après https://www.pedagogie.ac-nantes.fr
+
+1- D’après le document 1, décrire l’effet de la luminosité sur les échanges gazeux
+entre la plante chlorophyllienne et son environnement.
+Justifier à l’aide de données chiffrées.
+Partie 2 – Énergie de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. La réaction
+chimique correspondante peut être exploitée au sein d’une pile comportant deux
+électrodes dont l’une est positionnées près de la racine de la plante et l’autre en est
+plus éloignée. Cette pile peut délivrer un courant électrique qui transporte de
+l’énergie. On admet que la puissance électrique fournie par une « pile végétale » de
+cette sorte est proportionnelle à la surface que les plantes, exposées au soleil et qui
+se trouvent au voisinage des électrodes, occupent sur le sol.
+2- À partir de vos connaissances, expliquer ce qu'est une source d'énergie
+renouvelable. Justifier que la pile végétale est considérée comme une source
+d'énergie électrique renouvelable.
+On peut estimer qu’une « pile végétale » de 1 m2 de surface globale (en feuilles et en
+racines) fournit une puissance de 3 W et que l’énergie moyenne nécessaire à la
+recharge d’un smartphone est de 10 Wh.
+3- Calculer la durée de recharge d’un smartphone avec 1 m2 de surface de « pile
+végétale ».
+L’énergie moyenne consommée par une famille pendant une année est 3000 kWh.
+4- Calculer la surface nécessaire en m2 de surface de « pile végétale » pour fournir
+l’énergie annuelle à une famille.
+Indication : le Watt-heure (Wh) une unité physique qui correspond à l'énergie
+consommée ou délivrée par un système d'une puissance de 1 Watt fonctionnant
+pendant une heure.
+5- Définir la biomasse et expliquer pourquoi la « pile végétale » peut être considérée
+comme faisant partie de la biomasse.
+6- À partir des arguments issus de l’étude des deux parties de l’exercice et de vos
+connaissances, indiquer un intérêt et une limite de la « pile végétale ».
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+« Vers l’horizon et au-delà ! »
+Sur 12 points
+Un adulte et un enfant regardent la mer depuis la plage. L’enfant s'interroge :
+« Comment sait-on que la Terre est ronde, alors que l'horizon semble plat ? »
+Document 1a – Observations dans l’Antiquité
+« Quand un navire quitte la terre, sa coque est cachée en premier tandis que son
+mat est encore visible. »
+Source : Cléomède,« Théorie des mouvements circulaires des corps célestes »,
+Ier siècle av. J.-C.
+
+Document 1b – Photographies d’un navire quittant la côte
+
+Navire loin
+de la côte
+
+Navire proche
+de la côte
+
+1- Expliquer en quoi les observations décrites dans les documents 1a et 1b
+permettent de justifier que la Terre n’est pas plate. On pourra s’aider d’un ou de
+plusieurs schémas.
+2- Donner, à l'aide de vos connaissances, une autre observation faite dans
+l’Antiquité confirmant l’idée d’une Terre ronde.
+Après quelques explications, l’adulte montre à l’enfant le bateau qu’il voit à l’horizon,
+mais l’enfant ne le voit pas ! On cherche maintenant à expliquer pourquoi.
+Document 2 – Détermination de la distance 𝒅 à l'horizon pour l’adulte
+Rayon de la Terre :
+𝑅 = 6371𝑘𝑚 = 6,371 × 106 𝑚
+Hauteur des yeux de l’adulte par
+rapport au niveau de la mer :
+ℎ = 1,75𝑚
+Distance à l’horizon où se situe le bateau : 𝑑
+Figure 1 – Schéma explicatif
+
+Document 3 – Distance 𝒅 à l’horizon en fonction de la hauteur 𝒉 des yeux
+d’un observateur au niveau de la mer
+5500
+
+distance d (m)
+
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+0,5
+
+0,7
+
+0,9
+
+1,1
+
+1,3
+
+1,5
+
+1,7
+
+1,9
+
+2,1
+
+hauteur h (m)
+
+3- En utilisant le document 2 et le théorème de Pythagore, exprimer la distance 𝑑
+en fonction de 𝑅 et de ℎ puis montrer que 𝑑 peut s’écrire :
+ℎ
+
+𝑑 = √ℎ × 𝑅 × (2 + 𝑅).
+
+ℎ
+
+4- Justifier que 2 + 𝑅 ≈ 2.
+Pour la suite de l’exercice, on admet que la distance à l’horizon s’exprime :
+𝑑 ≈ √2 × 𝑅 × ℎ.
+5- Calculer 𝑑 et préciser si la valeur obtenue est compatible avec le document 3.
+6- Justifier pourquoi l’enfant ne peut pas voir le bateau. (On estimera la hauteur ℎ
+de ses yeux à 1,10 m).

@@ -1,0 +1,251 @@
+{"pages": 11, "method": "pdftotext", "bytes": 716319, "at": "2026-11-23T09:27:02+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Prévoir l’ordre de grandeur de la mesure
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 11
+
+PRESENTATION DU PRODUIT
+Le produit étudié est un portail automatisé
+coulissant permettant de contrôler l’accès à un
+espace privé. Ce portail est doté d’un panneau
+photovoltaïque et d’une batterie pour permettre
+soit une installation sur un site isolé soit une
+réduction de la consommation énergétique en
+cas de liaison avec le réseau électrique
+domestique.
+L’ouverture du portail peut être complète pour permettre l’accès à une voiture ou
+partielle pour un piéton ou un cycliste. Pendant la phase d’ouverture, si un obstacle
+est détecté le portail s’immobilise pour garantir la sécurité des personnes et des
+biens. L’ouverture du portail est déclenché à distance à l’aide de commandes
+pouvant prendre différentes formes (smartphone, clavier à code, visiophone ou
+télécommande).
+
+Figure 1 : diagramme des exigences du portail motorisé
+
+Tension d’alimentation
+Type de moteur
+Puissance du moteur
+Puissance maxi consommée (avec éclairage)
+Consommation en veille
+Fréquence moyenne de manœuvres par jour
+
+230 V~ / Solaire
+24 Vdc
+150 W
+600 W
+4,5 W
+20 cyclesjour-1
+16 s hors zone de
+Temps d’ouverture pour un portail de 3 m
+ralentissement
+Accélération phase 1
+187,5 mms-2
+Accélération phase 3
+- 72 mms-2
+Poids maxi. du portail (P)
+600 kg (8 m)
+Largeur maxi. du portail (L)
+8m
+Hauteur maxi. du portail (H)
+2m
+Figure 2 : performances et caractéristiques du portail motorisé
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+
+Problématique : dans le cadre d’une installation en site isolé, le dimensionnement
+du produit permet-il une continuité d’utilisation dans le cas le plus défavorable ?
+Dans le cadre d’une installation en site isolé le portail est alimenté uniquement par la
+batterie, cette dernière étant rechargée par l’intermédiaire du panneau
+photovoltaïque qui convertit l’énergie rayonnante du soleil en énergie électrique. La
+carte de commande du portail gère la distribution de l’énergie stockée dans la
+batterie vers le moteur électrique. La transmission du mouvement en sortie du
+moteur vers la partie mobile du portail est assurée par un système roue/vis associé à
+un système pignon/crémaillère.
+
+Question I.1
+
+Question I.2
+
+Compléter le diagramme de la chaîne de puissance sur le document
+réponse DR1, en précisant les grandeurs de flux et d’efforts
+manquantes ainsi que leurs unités.
+Indiquer les grandeurs physiques de la chaîne de puissance qui
+conditionnent la consommation électrique du moteur du portail.
+
+Une modélisation multi-physique de la chaîne de puissance a permis de déterminer
+la puissance électrique absorbée par le moteur en fonction du temps lors de
+l’ouverture du portail (figure 3). On suppose que l’énergie consommée par le portail
+pendant la phase d’ouverture et pendant la phase de fermeture sont égales.
+
+Figure 3 : Courbe de puissance en fonction du temps pendant une phase d'ouverture.
+L’énergie consommée par le portail pendant la phase d’ouverture peut être
+déterminée en calculant l’aire se trouvant entre la courbe de puissance et l’axe des
+abscisses sur la durée totale du mouvement.
+Question I.3
+
+Proposer une simplification de la courbe de puissance issue de la
+simulation pour faciliter le calcul de l’énergie consommée. À partir de
+cette simpification, déterminer l’énergie sur un cycle de
+fonctionnement (ouverture et fermeture).
+
+Une estimation de l’énergie consommée a permis d’obtenir une énergie électrique
+absorbée par le moteur de 1 340 J sur un cycle de fonctionnement. On suppose que la
+consommation des autres constituants électriques est négligeable devant la
+consommation électrique du moteur. Le cas le plus défavorable correspond à une
+utilisation du portail sans apport d’énergie solaire pendant 45 jours consécutifs à
+raison de deux cycles quotidiens. Dans l’étude du cas le plus défavorable on suppose
+que la batterie est pleinement chargée avant la période de 45 jours sans énergie
+solaire. Les caractéristiques de la batterie utilisée sont fournies sur la figure 4.
+TECHNOLOGIE
+
+AGM Lead acid
+
+TENSION NOMINALE
+
+24 V
+
+CAPACITE NOMINALE 12 Ah (20 h)
+CAPACITE
+
+12,0 Ah / 0,60 A
+(20 h ;1,80 Vcell-1; 25 °C (77 °F))
+Figure 4 : fiche technique de la batterie
+
+Question I.4 Calculer l’énergie consommée par le portail dans le cas le plus
+défavorable. Conclure quant à la capacité de la batterie à assurer la
+continuité de fonctionnement dans le cas le plus défavorable.
+La capacité de stockage de la batterie s’altère avec le nombre de cycles d’utilisation.
+Cette altération dépend du nombre de cycles mais également de la profondeur de
+décharge que ces cycles imposent à la batterie. La figure 5 présente l’altération de la
+capacité de stockage de la batterie en fonction du nombre de cycles d’utilisation et
+de la profondeur de décharge (notée DOD) sollicitée.
+
+cycles
+Figure 5 : Courbe indiquant la dégradation de la capacité de la batterie en fonction
+de la profondeur de décharge (DOD) et du nombre de cycles.
+
+Question I.5
+
+Déterminer la profondeur de décharge de la batterie dans le cas
+d’utilisation le plus défavorable. Conclure quant à la durée de vie de la
+batterie dans l’éventualité où cette situation se répète régulièrement.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : dans le cadre d’une installation du portail reliée au réseau
+électrique domestique, comment garantir la durée de vie de la batterie ?
+Pour pouvoir contrôler la recharge de la batterie à partir du secteur ou du panneau
+photovoltaïque il est nécessaire de connaître l’état de charge de la batterie. Ce
+dernier est déterminé à partir de la mesure de la tension de la batterie. Le schéma
+fourni en figure 6 montre le montage utilisé pour mesurer la tension de la batterie et
+adapter son niveau à la chaîne de traitement de l’information.
+
+Figure 6 - Schéma du capteur mesurant la tension de la batterie
+Le montage précédent utilise deux résistances de précisions afin de minimiser
+l’importance de la tolérance des composants dans la mesure. Dans le cadre de
+l’utilisation normale de la batterie, la tension à ses bornes peut varier entre 27,5 V
+(batterie chargée à 100%) et 21,6 V (batterie totalement déchargée).
+Question II.1
+
+A partir de la figure 6, déterminer l’expression littérale de la tension
+Ucpt en fonction de la tension Ubatt, de la résistance R1 et de la
+résistance Rcpt. Calculer la plage de variation de la tension Ucpt
+envoyée au microcontrôleur.
+
+La tension analogique Ucpt est convertie en un mot numérique Nbatt à l’aide d’un
+convertisseur analogique numérique intégré au microcontrôleur selon le schéma
+suivant :
+
+Le convertisseur analogique numérique du microcontrôleur est un convertisseur
+10 bits et utilise comme référence la tension d’alimentation du microcontrôleur fixée à
+5 V. La précision requise sur l’état de charge de la batterie est fixée à 1 %.
+Question II.2
+
+Donner la variation de tension minimale que peut mesurer le
+convertisseur analogique, cette grandeur est appelé quantum et est
+noté « q ». Vérifier que le convertisseur analogique numérique
+permet d’atteindre la précision requise de 1 % sur l’état de charge de
+la batterie.
+
+On considère que la tension aux bornes de la batterie évolue linéairement en
+fonction de son état de charge.
+Question II.3
+
+Donner l’équation permettant de calculer l’état de charge de la
+batterie en pourcentage en fonction du mot numérique Nbatt.
+Compléter l’algorithme du document réponse DR2 en y ajoutant
+cette équation.
+
+La capacité de stockage de la batterie s’altère avec le nombre de cycles d’utilisation.
+Cette altération dépend du nombre de cycles mais également de la profondeur de
+décharge que ces cycles imposent à la batterie. La figure 7 présente l’altération de la
+capacité de stockage de la batterie en fonction du nombre de cycles d’utilisation et
+de la profondeur de décharge (notée DOD) sollicitée.
+
+cycles
+Figure 7 - Courbe indiquant la dégradation de la capacité de la batterie en fonction
+de la profondeur de décharge (DOD) et du nombre de cycles.
+
+Question II.4
+
+Question II.5
+
+A partir de la courbe, figure 7, déterminer la profondeur de décharge
+de la batterie à prévoir afin de garantir un maintien de la capacité à
+60 % de sa valeur initiale après 1000 cycles. Compléter l’algorithme
+du document réponse DR2 avec la valeur trouvée afin de déclencher
+la recharge de la batterie via le réseau électrique domestique.
+Conclure quant à la capacité du produit à optimiser la durée de vie
+de sa batterie.
+
+DOCUMENTS RÉPONSES
+DR1, Question I.1 :
+
+DR1, Question II.3, II.4 :
+Programme de gestion de la charge de la batterie
+Début « Gestion de la recharge de la batterie »
+Lire Nbatt
+// donner par un entier défini sur 10 bits
+……………………………………………………………………….
+Si ………………………………………alors
+Déclencher recharge de la batterie à partir du secteur
+Fin Si
+Fin
+
+Q II.3
+Q II.4

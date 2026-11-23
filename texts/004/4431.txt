@@ -1,0 +1,145 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1058446, "at": "2026-11-23T09:34:22+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+EXERCICE 1
+IMPLANT COCHLÉAIRE
+
+L’implant cochléaire est un dispositif auditif destiné aux personnes atteintes d’une
+surdité sévère ou profonde. Il transforme les sons en signaux électriques envoyés
+directement au nerf auditif grâce à des électrodes posées chirurgicalement.
+Document 1. Fonctionnement d’un implant cochléaire
+
+osselets
+
+cochlée
+
+Modifié d’après : https://idataresearch.com/cascination-and-med-el-collaborate-on-state-of-the-art-cochlear-implantation-method/
+
+Le microphone
+
+capte les sons en provenance de l’extérieur. L’audio-processeur
+
+numérise les sons. L’antenne
+situé sous la peau. L’implant
+
+transmet les signaux numériques à l’implant
+
+envoie des signaux électriques dans les électrodes
+
+situées dans la cochlée (comprenant les cellules sensorielles ciliées) ⑧. Les
+fibres du nerf auditif captent les signaux électriques et les transmettent au cerveau.
+
+1- Indiquer les légendes des structures numérotées 6, 9, 10, 11 et 12.
+
+2- Certaines personnes subissent une surdité consécutive à un dommage des
+cellules ciliées de l’oreille interne. Elles peuvent alors être appareillées avec un
+implant cochléaire.
+Expliquer le rôle des cellules ciliées de l’oreille interne dans le cas d’une audition
+normale et comment l’implant cochléaire permet de corriger la surdité.
+
+3- Le microphone d’un implant cochléaire capte un son périodique en provenance de
+l’extérieur. Un motif élémentaire de période T de ce son est représenté sur le
+document 2.
+Déterminer la valeur de la fréquence f du son capté par le microphone.
+
+Document 2. Son capté par le microphone et numérisation par l’audio-processeur
+
+Source : http://www.ostralo.net/3_animations/js/CAN/index_v2nmoins1.htm
+
+4- Déterminer graphiquement la valeur de la période d’échantillonnage Te utilisée
+pour cette numérisation puis justifier que la valeur de la fréquence d’échantillonnage
+fe est égale à 10 000 Hz.
+
+5-a- Sachant qu’une quantification sur n bits permet 2n paliers numériques, indiquer,
+en le justifiant, pourquoi ici n=3 .
+
+5-b- La taille L en octet d’un fichier audio est donnée par la formule :
+L = fe ×
+
+n
+× ∆t
+
+avec : fe = fréquence d’échantillonnage (en Hertz) ; n= quantification (en bit) ; ∆t=
+durée (en seconde).
+Pendant une journée, l’audio-processeur numérise en moyenne 10 heures de sons
+différents. Calculer la taille L d’un fichier audio équivalent à une journée de
+fonctionnement de l’implant cochléaire.
+
+EXERCICE 2
+L’ÉNERGIE RAYONNÉE PAR LES ÉTOILES ET UTILISATION BIOLOGIQUE DU
+RAYONNEMENT SOLAIRE
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire le mécanisme qui est à l’origine de l’énergie rayonnée par une
+étoile.
+Document 1. Informations sur la lumière émise par Véga et sur l’influence de la
+température de surface
+Source : ci2mrduthoit.weebly.com
+
+Rappel sur la loi de Wien : la longueur d’onde correspondant à l’intensité lumineuse
+maximale λmax est donnée par :
+
+Avec λmax en mètre et T en Kelvin.
+- relation entre température Θ en degré Celsius (°C) et température T en Kelvin (K) :
+Θ = T - 273,15
+- La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil est
+λmax = 500 nm.
+À partir de vos connaissances et des informations apportées par les documents,
+répondre aux questions suivantes.
+2- Indiquer si la température de surface de l’étoile Véga est supérieure ou inférieure
+à celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la proposition la plus juste parmi les suivantes et justifier
+votre réponse.
+La température de surface de l’étoile Véga vaut environ :
+ 750 K
+ 7500 K
+ 7200 °C
+ 72000 °C
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des informations
+extraites des documents 2 et 3 ainsi que de vos connaissances.
+La réponse ne doit pas excéder une page.
+
+Document 2. Photosynthèse, respiration et fonctionnement d’une plante
+
+La photosynthèse est un métabolisme qui se déroule dans les cellules
+chlorophylliennes. La respiration cellulaire est un métabolisme se déroulant dans toutes
+les cellules et qui produit un type de molécule permettant des transferts d’énergie et
+ainsi le fonctionnement cellulaire : l’ATP (adénosine tri-phosphate).
+Source : d’après Biologie, Reece, Urry, Cain, Wasserman, Minorsky, Jackson et Campbell ; 4ème édition.
+
+Document 3. Représentation schématique des flux d’énergie et de matière organique
+(biomasse) dans un écosystème.
+
+Figure 1 : une pyramide énergétique dans un écosystème terrestre
+Les différents maillons d’un réseau trophique sont positionnés verticalement en fonction
+de leur place fonctionnelle (des producteurs primaires à la base aux consommateurs
+tertiaires en haut). Dans cet exemple d’écosystème, environ 10 % de l’énergie disponible
+à chaque niveau trophique sont convertis en nouvelle biomasse au niveau suivant, ce qui
+représente une efficacité trophique de 10 %.
+
+Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique.
+Moins de 17 % de la nourriture d’une chenille sert réellement à la production de
+biomasse (croissance). D’après Biologie, Reece et al. (4eed).

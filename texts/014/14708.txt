@@ -1,0 +1,437 @@
+{"pages": 19, "method": "pdftotext", "bytes": 460112, "at": "2026-11-23T09:42:30+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est, en écriture décimale, la somme d'entiers dont l'écriture en base 16 (hexadécimale) est 2A + 2 ?
+Question A 2
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+Question A 3
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 4
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+c = True
+if a > b+10:
+c = True
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+
+Question A 5
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a)
+Question A 6
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)10 sur un octet ?
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+
+Thème B : types construits
+Question B 1
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 2
+La variable sequence contient une liste de lettres, éventuellement répétées, choisies parmi 'A', 'B', 'C', 'D'.
+On veut créer un dictionnaire effectifs associant à chaque lettre le nombre de fois qu'elle apparaît dans la
+liste sequence.
+Par exemple si sequence contient ['A', 'B', 'B', 'D', 'B', 'A'],
+effectifs doit contenir {'A':2, 'B':3, 'C':0, 'D':1}.
+Parmi les scripts suivants, lequel réalise cet objectif ?
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+effectifs = {}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+Question B 3
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+
+Question B 4
+On veut affecter à t la valeur [[0,1,2], [3,4,5], [6,7,8], [9,10,11], [12,13,14]].
+Pour cela on utilise le code suivant. Par quoi doit-on remplacer les pointillés …… ?
+n = 5
+p = 3
+t = [ [ …… for j in range(p) ]
+
+for i in range(n) ]
+
+i*j + j
+p*i + j
+p*j + i
+i*(j+1)
+Question B 5
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+Question B 6
+Comment peut-on accéder à la valeur associée à une clé dans un dictionnaire ?
+il faut parcourir le dictionnaire avec une boucle à la recherche de la clé
+on peut y accéder directement à partir de la clé
+on ne peut pas accéder à une valeur contenue dans un dictionnaire à partir d’une clé
+il faut d’abord déchiffrer la clé pour accéder à un dictionnaire
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 2
+Quel type de fichier est le plus adapté au traitement des données parmi les formats suivant ?
+PNG
+DOC
+CSV
+PDF
+Question C 3
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+Question C 4
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 5
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+Question C 6
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D 2
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+Question D 3
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 4
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D 5
+
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D 6
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser des données de façon plus sécurisées
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+À partir du répertoire ~/Perso/Doc quelle commande permet de rejoindre le répertoire ~/Public ?
+cd ./Public
+cd ../Public
+cd ././Public
+cd ../../Public
+Question E 2
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 3
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 4
+Quel protocole permet d’attribuer dynamiquement une adresse IP ?
+UDP
+HTTP
+DHCP
+DNS
+Question E 5
+Dans un ordinateur, que permet de faire la mémoire vive ?
+Stocker les données de façon permanente
+Afficher les informations sur l’écran
+Réaliser les calculs
+Stocker les données de façon temporaire
+Question E 6
+
+Sous Linux, la console indique que l'utilisateur se trouve dans le dossier /var/lib. Quelle commande doit-il
+exécuter pour revenir dans son dossier personnel /home/martin ?
+cd ~
+cd /home
+dir
+dir /home/martin
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F 2
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 3
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+
+# à compléter
+
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F 4
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+Question F 5
+On définit :
+def f(a,m):
+i = 1
+n = 0
+while n <= m:
+i = i * a
+n = n + 1
+Quelle est la valeur renvoyée par l'appel f(2,4) ?
+
+Question F 6
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément.
+Combien de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand
+élément n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+
+Thème G : algorithmique
+Question G 1
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 2
+Quelle est la valeur de c à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+c = 0
+for k in L:
+if k == L[1]:
+c = c+1
+Question G 3
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 4
+
+La fonction maximum doit renvoyer la valeur maximale d'un tableau de nombres. Par quoi doit-on remplacer
+les pointillés pour qu'elle donne le résultat attendu ?
+def maximum(T):
+maxi = T[0]
+for i in range(len(T)):
+.... T[i] > maxi:
+......
+return maxi
+if puis, sur la ligne suivante, maxi = T[i]
+while puis, sur la ligne suivante, maxi = T[i]
+if puis, sur la ligne suivante, maxi = maxi + 1
+while puis, sur la ligne suivante, maxi = maxi + 1
+Question G 5
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+Question G 6
+Algorithme des k plus proches voisins. Nous disposons de 3 espèces de plantes (A, B, C) et
+d'un échantillon de plantes. Nous disposons de la distance entre notre échantillon et les
+spécimens de chaque espèce.
+Voici le début du tableau trié par ordre croissant de distance :
+Espèce
+Distance
+
+0,3
+
+0,7
+
+0,8
+
+1,0
+
+1,1
+
+…
+...
+Dans le cas ou k = 3, l'échantillon appartient à l’espèce :
+
+Impossible à déterminer

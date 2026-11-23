@@ -1,0 +1,175 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1570264, "at": "2026-11-23T09:32:48+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+Minimisation des pertes par effet Joule
+Sur 10 points
+Dans le sud de la France, un immeuble et une maison sont alimentés la journée par
+des éoliennes et des panneaux solaires distribuant respectivement des courants
+d’intensités 𝐼1 et 𝐼2 . On veut minimiser les pertes par effet Joule dans ce réseau de
+distribution électrique.
+Partie 1 : Dissipation de l’énergie
+Document 1 : transport de l’énergie électrique
+L’électricité lors de son transport entre les
+lieux de production et les lieux de
+consommation subit des pertes en ligne dont
+le volume dépend de la distance de transport
+des caractéristiques du réseau. 80 % de ses
+pertes le sont par effet Joule dans les câbles
+électriques, soit pour la France, l’équivalent
+de deux unités de production nucléaires
+électriques.
+Pertes sur le réseau de transport de l’électricité en France en 2019 :
+Énergie électrique transportée en France en 2019 : 495 × 109 kWh.
+2,22 % : taux de perte d’énergie en France en 2019 pendant le transport de
+l’électricité.
+Source : https://www.actu-environnement.com
+
+1- Calculer les pertes d’énergie en kWh en France en 2019 dues au transport de
+l’énergie électrique.
+2- Calculer en 2019 en France, l’énergie électrique en kWh à disposition des
+consommateurs.
+
+Partie 2 : modélisation du réseau électrique
+Document 2 : schéma du réseau électrique
+
+Dans la modélisation simplifiée utilisée, on considère que les tensions et les
+courants sont continus.
+
+3- Identifier les cibles destinatrices et les sources distributrices du réseau du
+document 2.
+4- La tension du réseau de distribution étant fixée, expliquer pourquoi les intensités I3
+et I4 sont fixées.
+5- Modéliser le réseau électrique du document 2 par un graphe orienté.
+6- Justifier que 𝐼3 est environ égale à 36 A et 𝐼4 à 94 A, sachant que les puissances
+par effet Joule correspondent à 5 % des puissances utiles.
+
+On admet que les intensités vérifient la relation I1 + I2 = I3 + I4
+7- Donner l’expression de la puissance dissipée par effet Joule 𝑃𝐽 à minimiser en
+fonction de 𝐼1, , 𝐼2 , 𝐼3 et 𝐼4 . Exprimer la valeur de I2 en ampères en fonction de I1.
+Les intensités I3 et I4 étant connues et I2 pouvant s’exprimer en fonction de I1, la
+puissance PJ peut s’exprimer en fonction de I1 seulement. La représentation graphique
+de la fonction PJ(I1) est donnée dans le document 3.
+Document 3 : représentation graphique de 𝑷𝑱 en fonction de 𝑰𝟏
+𝑃𝐽 (W)
+
+Puissance dissipée par effet Joule
+
+𝐼1 (A)
+
+8- La contrainte sur les intensités délivrées par les sources impose que 𝐼1 peut
+prendre une valeur comprise dans l’intervalle [0 ; 70] en ampères.
+Déterminer les valeurs de 𝐼1 et de 𝐼2 pour lesquelles les pertes par effet Joule sont
+minimales.
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Réchauffement climatique et pêche au carrelet
+Sur 10 points
+La préfecture de Charente-Maritime annonce, fin
+2020, la mise en vente de onze emplacements
+permettant la réalisation de pontons de pêche au
+carrelet sur six communes du littoral. La pêche au
+carrelet utilise un filet mis à l'eau à partir d’une
+cabane sur pilotis.
+Ces petites cabanes en bois perchées, construites sur les rochers ou la vase des
+zones côtières, font partie du patrimoine de Charente-Maritime et sont très
+recherchées. Elles transmettent souvent de génération en génération.
+D’après Franceinfo.fr, octobre 2020
+
+On cherche à comprendre les conséquences du réchauffement climatique sur le
+niveau marin et son impact sur le littoral, en particulier concernant la pêche au carrelet.
+
+Document 1 : variation du niveau des océans par dilatation thermique
+L’un des indicateurs du réchauffement climatique global est l’élévation du niveau
+marin. L’une des causes de cette augmentation est la dilatation thermique de l’eau.
+On peut modéliser les océans par un parallélépipède comme sur le schéma suivant.
+Seule la couche superficielle (de hauteur H = 300 à 500 m sur le schéma) est en fait
+sensible au réchauffement et donc impactée par cette dilatation thermique.
+On peut modéliser l’élévation du niveau marin (notée h sur le schéma) grâce à la
+formule suivante :
+h =  x H x T
+avec  le coefficient de dilatation thermique et T la variation de température.
+
+H= 300 à 500 m
+
+Document 2 : scénarios du GIEC et projections climatiques
+Le 5ème rapport du GIEC (Groupe d'experts intergouvernemental sur l'évolution du
+climat) propose plusieurs scénarios, établis à l’aide de modélisations climatiques, en
+fonction du forçage radiatif estimé. Le scénario RCP 8.5 (forçage de 8,5 W.m -2) est
+le plus pessimiste, mais c’est un scénario tout à fait envisageable car il correspond
+à la poursuite des émissions actuelles de gaz à effet de serre.
+
+Augmentation moyenne du niveau marin (m)
+
+Le graphique ci-dessous montre les prédictions de l’élévation du niveau marin (en
+mètres) dans le scénario RCP 8.5 d’ici à 2100.
+
+Année
+RCP (Representative Concentration Pathways) :
+profils représentatifs d'évolution de concentration de gaz à effet de serre
+D’après Yale Climate connections
+
+1- Les scénarios RCP du GIEC prennent en compte les émissions anthropiques de
+gaz à effet de serre : citer deux des principaux gaz à effet de serre ainsi qu’une source
+liée à l’activité humaine pour chacun d’eux.
+2- Expliquer en quoi l’augmentation de la concentration des gaz à effet de serre
+provoque un réchauffement climatique.
+3- Dans le scénario RCP 8.5, on peut estimer qu’à l’horizon 2100, l’augmentation de
+la température moyenne des océans (T) sera de l’ordre de 3°C. D’autre part, on
+considère que le coefficient de dilatation thermique des océans, dans la gamme des
+températures considérées, est  = 2,7x10-4 °C-1. On considère une hauteur H de la
+couche superficielle de l’océan de 500 m. Calculer l’élévation h du niveau marin en
+2100 selon le scénario RCP 8.5.
+4- Par lecture graphique, estimer le niveau d’élévation moyen prédit en 2100 par le
+scénario RCP 8.5.
+5- Indiquer si la dilatation thermique des océans est la seule cause de l’augmentation
+du niveau des océans. Justifier et proposer une autre cause possible.
+6- À partir de l’exploitation du document 3 de la page suivante, discuter de la durabilité
+d’une cabane sur pilotis pour la pêche au carrelet dans le contexte du scénario
+RCP 8.5. Justifier.
+
+Document 3 : carte des terres émergées du littoral de Charente-Maritime en fonction
+de l’élévation du niveau marin
+Niveau actuel
+
+Sur les cartes, les zones foncées
+correspondent aux zones immergées
+(sous l’eau) et les zones claires
+correspondent aux terres émergées.
+
+Le scénario RCP 8.5 prévoit une
+augmentation de 3 m en 2250.
+
+D’après flood.firetree.net
+
+Élévation de 1 m
+
+Élévation de 3 m en 2250

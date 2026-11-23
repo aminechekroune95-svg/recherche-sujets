@@ -1,0 +1,374 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1796984, "at": "2026-11-23T09:30:51+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le paradoxe du Soleil pâle
+Le système solaire s’est formé il y a 4,57 milliards d’années. Le paradoxe du jeune
+Soleil pâle désigne la contradiction apparente, entre la présence d'eau liquide sur
+Terre à cette époque et le fait que le Soleil ne brillait qu'à 70 % de son intensité
+actuelle. La température sur Terre devait être inférieure à 0 °C et donc l’eau aurait dû
+être présente à l’état solide uniquement.
+L’objectif de cet exercice est d’étudier ce paradoxe.
+Partie 1 – Caractérisation du Soleil jeune
+Actuellement, la puissance surfacique moyenne du rayonnement solaire arrivant à la
+surface de l’atmosphère terrestre est de 340 W · m−2 .
+1- Montrer que la puissance surfacique moyenne solaire qui atteignait la surface de
+l’atmosphère terrestre il y a 4 milliards d’années était d’environ 240 W. m−2 .
+Document 1 – Loi de Stefan
+La puissance émise par unité de surface (𝑃 exprimée en W · m−2 ) est
+proportionnelle à la puissance quatrième de la température (𝑇 exprimée en Kelvin).
+𝑃 = 𝜎 × 𝑇4
+avec 𝜎, constante de Stefan-Boltzmann valant 5,67 × 10−8 W · m−2 · K −4.
+Relation entre la température 𝜽(°𝐂) et la température 𝑻(𝐊) :
+𝑇 = 𝜃 + 273
+2- À l’aide du document 1, montrer qu’en première approximation, la température
+de la Terre aurait dû être d’environ −18 °C il y a 4 milliards d’années.
+
+Document 2 – Lien entre luminosité et température de surface d’une étoile
+En astrophysique, le diagramme Hertzprung Russel permet d’établir une relation
+entre la température d’une étoile et sa luminosité et conduit aux correspondances
+précisées dans le tableau suivant :
+Par exemple, si une étoile brille deux fois plus intensément que le Soleil actuel, ce
+rapport vaut 2.
+Rapport de la luminosité d’une étoile
+sur la luminosité actuelle du Soleil
+
+Température de l’étoile en kelvins (K)
+
+1,7
+0,7
+0,07
+
+6000
+5800
+5500
+4000
+
+Document 3 – Loi de Wien
+La longueur d’onde d’intensité maximale (𝜆𝑚𝑎𝑥 exprimée en mètres) relevée sur un
+spectre d’émission est inversement proportionnelle à la température (T exprimée
+en kelvins) du corps émetteur :
+𝜆𝑚𝑎𝑥 =
+
+𝑘
+𝑇
+
+avec 𝑘, constante de la loi de Wien valant 2,99 × 10−3 K · m.
+
+3- À l’aide des documents 2 et 3, déterminer en nanomètres la longueur d’onde
+d’intensité maximale du Soleil il y a 4 milliards d’années.
+
+Partie 2 – Première proposition d’explication du paradoxe
+Document 4 – Tableau de la pression partielle atmosphérique en 𝐂𝐎𝟐
+Une température de −15 °C est incompatible avec la présence d’eau liquide. Des
+études ont permis de montrer qu’il y a 4 milliards d’années, un volcanisme très
+intense rejetait de grandes quantités de dioxyde de carbone dans l’atmosphère
+terrestre.
+Période
+
+−4 Milliards d’années
+
+Actuelle
+
+Pression partielle en 𝐂𝐎𝟐
+
+Entre 0,3 et 0,6 bar
+
+3 × 10−4 bar
+
+Source : d’après https://planet-terre.ens-lyon.fr
+
+Document 5 – Bilan radiatif terrestre
+
+4- À partir des documents 4 et 5 et de vos connaissances, proposer une explication
+au paradoxe du Soleil pâle, c’est à dire à la présence d’eau liquide il y a
+4 milliards d’années malgré une température terrestre inférieure à 0°𝐶 due à la
+plus faible puissance reçue du Soleil.
+
+Partie 3 – Seconde proposition d’explication du paradoxe
+D’autres chercheurs ont proposé d’expliquer le paradoxe du Soleil jeune pâle par un
+albédo moyen très faible.
+5- Définir l’albédo.
+Document 6 – Quelques valeurs d’albédo
+Surface
+
+Océan
+
+Forêt
+
+Nuages
+
+Sable
+
+Neige
+
+Albédo
+
+0,05 – 0,10
+
+0,05 – 0,10
+
+0,2 – 0,3
+
+0,2 – 0,3
+
+0,8 – 0,9
+
+Albédo moyen terrestre actuel : α = 0,3
+Albédo moyen terrestre estimé à l’époque du Soleil jeune (4 milliards d’années) :
+α =0,05
+
+6- Expliquer pourquoi la valeur de l’albédo à l’époque du jeune Soleil pâle
+permettrait d’expliquer la présence d’eau liquide sur Terre alors que la puissance
+surfacique solaire incidente était plus faible qu’actuellement.
+7- Expliquer en quoi l’étude de paradoxes scientifiques est une composante
+essentielle de la démarche scientifique. Vous argumenterez en vous appuyant
+sur l’exemple étudié dans cet exercice et sur vos connaissances personnelles.
+
+Exercice 2 – Niveau première
+Thème « Son, musique et audition »
+
+Concert de Rock
+Ce soir, la salle de concert du Confort Moderne accueille un groupe de rock local,
+les VV, composé de deux guitaristes, d’un bassiste et d’un batteur. Le groupe joue à
+guichet fermé. Musiciens et fans attendent ce moment avec impatience.
+Un concert de Rock est, par essence, un lieu riche en sons ; des sons dont on veille
+à adapter la « hauteur » (c’est-à-dire la fréquence) pour obtenir les effets mélodiques
+souhaités ; mais également des sons que le public aime entendre avec puissance,
+ce qui n’est pas sans risque pour la santé.
+Dans la suite, nous allons explorer ces deux dimensions : hauteur et puissance.
+Partie 1 – Accordage d’une guitare
+Avant le concert, les guitaristes doivent accorder leur instrument. En effet, des
+phénomènes tels que les variations de températures et d’humidité modifient les
+caractéristiques des cordes et altèrent la sonorité de l’instrument : les sons joués
+n’ont plus la bonne hauteur, ce qui signifie que la fréquence fondamentale émise par
+la vibration de la corde n’a plus la bonne valeur.
+En général, les musiciens professionnels réalisent l’accordage « à l’oreille » : leur
+grande habitude des sons leur permet de juger si la fréquence est la bonne. Dans
+certains cas, ils peuvent s’aider d’un diapason pour disposer d’un son de référence.
+Lorsque l’on a moins d’expérience, on peut s’aider d’un enregistrement, ce que la
+plupart des smartphones permettent de faire désormais. C’est ce que nous allons
+faire dans cette partie pour réaliser l’accordage d’une guitare. Nous allons voir
+comment des lois scientifiques nous permettent de discuter les gestes à réaliser.
+Nous nous intéressons au cas d’un guitariste qui accorde la corde du Ré. Cette
+corde doit normalement émettre un son de fréquence 147 Hz. Le document 1
+propose un enregistrement du son émis par la corde.
+1- Expliquer comment déterminer la fréquence du son émis par la guitare à l’aide
+de l’enregistrement.
+2- Justifier que la corde n’est pas correctement accordée en précisant si le son est
+trop grave (fréquence trop faible) ou trop aigu.
+
+Document 1 – Enregistrement du son émis par la corde du « Ré »
+
+Partie grisée : durée totale de 189 ms pour 29 périodes.
+Pour réaliser l’accordage, le musicien tourne une clé située en haut du manche.
+Cette clé est reliée à une tige sur laquelle la corde s’enroule (voir document 2).
+Suivant le sens dans lequel il tourne la clé, il augmente l’enroulement de la corde sur
+la tige, ou la réduit.
+Document 2 – Clés d’une guitare
+
+Source : https://www.hguitare.com/communaute/blog/materiel/anatomie-guitare
+
+Une loi physique permet d’expliquer pourquoi cette action altère le son émis. En
+effet, une modélisation du comportement d’une corde vibrante permet de montrer
+que la fréquence 𝑓 du son émis (exprimée en hertz) est reliée aux caractéristiques
+physiques de la corde par la loi :
+𝑓=
+
+𝑇
+×√
+2𝐿
+𝜇
+
+Avec les caractéristiques physiques de la corde de guitare :
+
+𝐿 la longueur (en mètre) de la corde entre les deux points de fixation.
+
+𝑇 sa tension (en newton).
+
+𝜇 sa masse linéique (en kilogramme par mètre).
+
+3- Déterminer si le musicien doit tendre ou détendre la corde pour ajuster la
+fréquence du son émis sur celle souhaitée (147 Hz).
+Partie 2 – Exposition au son
+C’est l’heure ! Les musiciens sont en place. Les portes de la salle s’ouvrent et le
+public commence à entrer. Les premiers rangs se remplissent, les fans veulent être
+au plus près de leurs idoles.
+Lorsque tout le public est entré, il est disposé suivant un demi-disque comme
+représenté sur le schéma du document 3 page suivante.
+Lorsque les musiciens jouent, le son des instruments est amplifié et diffusé par des
+enceintes. Pour simplifier, on considère que l’ensemble des enceintes équivaut à une
+unique enceinte positionnée au centre du demi-disque.
+Dans ces conditions, le niveau d’intensité sonore 𝐿 (en décibel) perçue par une
+personne située à la distance 𝑟 de l’enceinte est donnée par la relation :
+𝑃
+𝐿 = 10 × log (
+)
+2𝜋 𝑟 2 𝐼0
+où 𝑃 est la puissance d’émission du son par l’enceinte (𝑃 = 150 W) et 𝐼0 est
+l’intensité sonore du seuil d’audibilité (𝐼0 = 10−12 W ⋅ m−2 ).
+
+Document 3 – Disposition de la salle
+
+4- Justifier que cette formule est cohérente avec le fait que l’on perçoive le son plus
+faiblement en fond de salle qu’à proximité de la scène.
+Indication : la fonction logarithme est croissante. Lorsque 𝑥 augmente, log(𝑥)
+augmente.
+On mesure les niveaux d’intensité sonore dans la salle pendant que le groupe joue.
+On trouve un niveau d’environ 115 dB au plus près de la scène (5 m) et environ
+100 dB en fond de salle (30 m). Ces niveaux correspondent à une moyenne sur un
+morceau, avec des variations d’intensité au cours de celui-ci. Par ailleurs, les
+morceaux joués par le groupe durent environ quatre minutes chacun.
+Le document 4 pages suivante présente une analyse des risques que représente
+l’exposition à des sons intenses.
+5- Discuter les risques pour la santé auditive des spectateurs suivant qu’ils sont
+proches ou loin de la scène.
+Le document 5 page suivante présente une campagne de sensibilisation aux
+dangers du bruit proposée par l’Agence Régionale de Sante de Normandie.
+6- Justifier le deuxième conseil.
+
+Document 4 – Danger du bruit pour les oreilles
+Selon le Dr Pascal Foeillet, médecin ORL
+praticien et Vice-Président de l’association
+JNA « Contrairement aux yeux, les oreilles ne
+sont pas constituées de protecteurs naturels
+et restent réceptives à tous les sons, toxiques
+ou non ».
+Au-delà de 85 dB l’oreille est en danger. La
+dangerosité va dépendre aussi de la durée
+d’exposition. Par exemple, il est possible
+d’être soumis à une exposition de 80 dB
+pendant huit heures sans danger pour le
+système auditif. Une fatigue s’en ressentira
+pour autant.
+Un impact soudain à 120 dB (pétard) peut
+créer autant de dégâts sur le système auditif
+que cinq minutes de MP3 à 100 dB.
+Source : Extrait d’un dossier de l’association pour la prévention et l’information dans le
+domaine de l’audition
+
+Document 5 – Campagne gouvernementale de prévention
+
+Source : https://www.normandie.ars.sante.fr/prevention-des-risques-auditifs-lies-au-bruit
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+La météorite Allende
+La météorite Allende est tombée le 8 février 1969, au nord du Mexique, près du
+village de Pueblito d'Allende dans la province de Chihuahua. C’est une météorite
+primitive dont les matériaux constitutifs se sont formés peu de temps après la
+formation du système solaire.
+À l’aide de la datation de certains éléments constitutifs de la météorite Allende, on
+cherche à estimer l’âge de la formation du système solaire.
+Document 1 - Les étapes de la formation du système solaire
+La formation du système solaire suit un scénario très largement accepté par la
+communauté scientifique :
+
+tout commence par la contraction d'un nuage constitué de poussières et de
+gaz hydrogène et hélium, appelé nébuleuse protosolaire. Cette contraction
+provoque une élévation de température engendrant des transformations
+chimiques de cette matière originelle dans le disque protoplanétaire
+(aujourd’hui, le plan de l'écliptique) ;
+
+les grains de matière ainsi obtenus, se réunissent pour former des éléments
+plus lourds puis des planétésimaux, de petits corps solides qui grossissent
+par accrétion ;
+
+les collisions des planétésimaux forment des planètes ;
+
+enfin, les planètes formées se différencient : les matériaux constitutifs des
+planètes se séparent en couches et enveloppes chimiques de compositions
+différentes (étape de différenciation).
+
+Pour la Terre, la majeure partie de la différenciation s'est produite, il y a 4,45 Ga
+environ (Ga = giga-années (milliards d’années) ; formation du noyau et formation
+de l'atmosphère entre 4,46 Ga et 4,43 Ga).
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+Document 2 - Les matériaux constitutifs de la météorite Allende
+La météorite Allende est une météorite non différenciée de type chondrite. Les
+chondrites sont constituées de chondres, un mélange de silicates et de métal, et
+des inclusions CAI (Calcium Aluminium Inclusions), le tout englobé dans une
+matrice qui "cimente" l'ensemble. Les inclusions réfractaires CAI sont riches en
+uranium. Formées à très hautes températures, elles sont considérées comme les
+plus vieux objets du système solaire.
+Observation à l’œil nu
+
+Observation au microscope polarisant
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+1- À l’aide du document 1, présenter sous la forme d’une frise chronologique
+simplifiée (sans date) les principales étapes de la formation du système solaire.
+2- À l’aide du document 2, placer sur la frise chronologique réalisée la période
+possible de formation de la météorite Allende. Justifier la réponse.
+
+Document 3 - Principe de la datation à l’aide de la méthode Plomb-Plomb
+Pour dater des inclusions réfractaires CAI, nous allons utiliser la méthode PlombPlomb. Cette méthode de datation isotopique repose sur la détermination de la
+composition en deux isotopes du plomb, le 206Pb et le 207Pb provenant
+respectivement de la désintégration naturelle de deux isotopes radioactifs de
+l'uranium, 235U et 238U.
+0 −
+92𝑈 → 82𝑃𝑏 + 6 −1𝑒 + 8 2𝐻𝑒
+0 −
+92U → 82Pb + 4 −1e + 7 2He
+
+On mesure alors les rapports du nombre d’atomes entre ces isotopes et l’isotope
+204Pb, autre isotope stable du Plomb, dans différentes inclusions réfractaires CAI
+prélevées dans la météorite. Ces rapports sont appelés rapports isotopiques et
+sont notés (206Pb/204Pb) et (207Pb/204Pb). Lorsque ces échantillons se sont bien
+formés à la même époque, à partir d'un même matériau source, la représentation
+graphique de (207Pb/204Pb) en fonction de (206Pb/204Pb) est une droite appelée
+droite isochrone.
+Il est possible de montrer que la pente (ou coefficient directeur) de cette droite
+permet de déterminer l’âge commun T des échantillons.
+Sources : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+3- D'après le document 3, identifier les deux isotopes radioactifs de l'uranium
+utilisés dans la méthode Plomb-Plomb.
+4- Expliquer comment se sont formés les isotopes 207Pb et 206Pb mis en jeu dans
+cette méthode.
+5- À l’aide des documents 2 et 3, expliquer en quoi les inclusions CAI permettent de
+dater la météorite Allende.
+
+Document 4 - Isochrone des inclusions réfractaires CAI
+
+Document 5 - Correspondance entre la pente de la droite isochrone et l’âge
+(en milliards d’années ou Ga) de l’échantillon obtenue après
+calibrage numérique
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+6- L’équation de la droite isochrone présentée dans le document 4 est
+𝑦 = 0,6245𝑥 + 4,3495 .
+Utiliser le document 5 pour en déduire l'âge de la météorite d'Allende.
+7- Expliquer en quoi le résultat précédent permet d’estimer l’âge du système
+solaire.

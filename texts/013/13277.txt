@@ -1,0 +1,299 @@
+{"pages": 17, "method": "pdftotext", "bytes": 2311111, "at": "2026-11-23T09:25:46+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT :
+DURÉE DE L’ÉPREUVE : 2h-Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec
+mode examen devront l’activer le jour des épreuves et les calculatrices dépourvues
+de mémoire seront autorisées. Ainsi tous les candidats composeront sans aucun
+accès à des données personnelles pendant les épreuves.
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 5 à 7
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 11
+Documents techniques ............................................... Pages 12 à 15
+Documents réponses ................................................... Pages 16 à 17
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+GYROPODE « HOVERBOARD »
+L’objet de cette étude est un gyropode (souvent appelé « hoverboard »).
+Un gyropode est un véhicule de loisirs permettant d e s e déplacer rapidement,
+silencieusement e t sans émission polluante dans l’espace dévolu aux piétons. Le
+système étudié sera un gyropode à roues de diamètre 6,5 pouces (16,51cm) dont on
+donne la description ci-dessous :
+
+P
+l
+
+Description :
+Le gyropode est constitué de 2 plateformes (droite et gauche) reliées entre elles par
+un axe leurs permettant une rotation relative l’une par rapport à l’autre.
+Chaque plateforme contient :
+ Un ensemble moteur brushless associé à une roue ;
+ Un capteur d’inclinaison permettant d’acquérir l’angle d’inclinaison de la
+plateforme par rapport à l’horizontale ;
+ Un capteur de vitesse permettant d’acquérir la vitesse de rotation du moteur ;
+ Un capteur de présence.
+L’ensemble contient également une batterie et une carte électronique (carte de
+commande et de puissance, carte Leds).
+Fonctionnement :
+Par l’intermédiaire de ses pieds, l’utilisateur génère l’inclinaison des plateformes par
+rapport à l’horizontal de manière indépendante. La mesure de cette inclinaison, est
+interprétée par la carte électronique comme une consigne de vitesse pour les moteurs.
+La carte électronique génère alors le signal correspondant de commande de la tension
+d’alimentation des moteurs.
+
+Caractéristiques :
+ Puissance Moteur : 700 Watts (2 moteurs de 350W) ;
+ Batterie : 36 V - 4.4 Ah (lithium-ion) ;
+ Autonomie : 1h environ ou 5 km avec une charge complète (varie selon le poids de
+l’utilisateur, le type de terrain pratiqué et la vitesse d’utilisation) ;
+ Temps de chargement : 2 à 3 heures ;
+ Vitesse maximale : 15 km·h-1 en fonction du poids de l’utilisateur ;
+ Charge maximale de l’utilisateur : 120 kg.
+
+EXERCICE 1 : ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+OBJECTIF : validation des données constructeur concernant la vitesse avant de
+laisser l’hoverboard circuler sur voie publique.
+Question I-1
+
+Donner le « service attendu » offert par le système du point de vue
+utilisateur, en complétant le diagramme de cas d’utilisation (voir
+document réponse DR1). Puis à partir du diagramme d’exigences
+(voir document technique DT1). Donner l’exigence permettant de
+définir la vitesse maximale du gyropode ainsi que la valeur
+permettant de satisfaire cette exigence.
+
+Question I-2
+
+À partir du diagramme de bloc interne « ibd » (voir document
+technique DT3), indiquer la nature et l'unité des grandeurs de flux et
+d'effort correspondant à la puissance en sortie du composant «
+moteur brushless ».
+
+Dans le but de vérifier l’autonomie du gyropode, un modèle multi-physique de la chaîne
+de puissance est élaboré (voir document technique DT4). Il comprend entre autres, la
+batterie, les moteurs, et prend en compte la masse de la personne, les inerties des
+roues et la résistance au roulement. Nota : Le contrôle de la stabilité ne sera pas étudié
+ici.
+La courbe de la fig1. est le résultat d’une simulation effectuée avec le modèle multiphysique du gyropode. La simulation a été réalisée en considérant une personne
+utilisant le gyropode ayant une masse de 70 Kg.
+
+Cette courbe présente l'évolution de la vitesse de rotation d’une roue lors d'un
+déplacement en ligne droite à la vitesse maximale. La distance totale parcourue lors
+de ce parcours est de 0,7 mètres sur une durée de 0,2 s.
+
+Vitesse angulaire de la roue
+(en rad·s-1)
+
+0,05
+
+0,1
+
+0,15
+
+0,2
+
+Temps
+Fig1. Vitesse de rotation de la roue
+Question I-3
+
+Relever sur la fig. 1 précédente la valeur de la vitesse de rotation
+des roues en rad.s-1 du gyropode lorsque celui-ci atteint sa vitesse
+maximale. En faisant l’hypothèse d’un roulement sans glissement et
+sachant que les roues ont un diamètre de 6,5 pouces, soit 165,1 mm,
+en déduire la vitesse de translation du gyropode. Comparer cette
+valeur avec la valeur du constructeur. Conclure quant à l’exigence
+de vitesse maximale.
+
+Étude de l'acquisition de l'information vitesse de rotation des roues
+La commande des moteurs électriques nécessite de connaître précisément leur
+vitesse et leur sens de rotation.
+Des capteurs à effet hall sont utilisés pour connaitre à tout moment la vitesse du rotor,
+et adapter en conséquence l’alimentation des bobines et le champ magnétique. Le
+capteur va détecter le passage d’un pôle magnétique, et à partir de cette information
+le circuit de commande électronique assurera la commutation des bobines.
+Chacune des roues est équipée de 3 capteurs à effet Hall délivrant 3 signaux
+permettant d’obtenir les informations sur la vitesse et le sens de rotation.
+
+Un moteur de roue comporte 27 bobines sur le stator (fixe) et 30 aimants permanents
+sur le rotor (tournant) constituant alternativement 15 paires de pôles positifs et négatifs
+Détails de la roue :
+
+Capteurs à effet Hall sur le stator :
+
+Un capteur à effet Hall envoie un signal haut lorsqu’il détecte le passage d’un pôle
+positif (état 1) et un signal bas lorsqu’il détecte le passage d’un pôle négatif (état 0).
+Des essais ont permis de relever le signal reçu par un capteur à effet Hall sous la
+forme du chronogramme suivant, le gyropode fonctionnant à vitesse maximale :
+
+Temps (en ms)
+
+Fig.2 : Chronogramme du signal relevé au niveau d’un capteur à effet Hall
+Question I-4
+
+Quelle est la nature du signal provenant du capteur à effet Hall ?
+Déterminer, à partir de la mesure issue de ce capteur, la vitesse de
+rotation de la roue en rad·s-1.
+
+Question I-5
+
+Calculer la vitesse de translation atteinte par le gyropode en km·h -1
+lors de l’essai (rappel : les roues ont un diamètre de 6,5 pouces, soit
+165,1 mm).
+Comparer ces résultats avec les données du constructeur et
+commenter les écarts observés.
+
+EXERCICE 2 - MODIFICATION DU COMPORTEMENT DE L’HOVERBOARD
+Lors de l’utilisation du gyropode, il est apparu que les chutes interviennent
+principalement lorsque l’utilisateur prend des virages trop serrés à trop grande vitesse.
+
+En effet, dans le cas d’un virage, l’utilisateur génère une accélération centripète qui se
+traduit par une force d’inertie centrifuge qui le déstabilise.
+Objectif : Pour améliorer la sécurité de son Hoverboard, le constructeur souhaite
+élaborer un algorigramme permettant de limiter l’accélération centripète au centre du
+gyropode à 4 m·s-2 en limitant la norme de la vitesse du centre du gyropode tout en
+conservant sa direction, c’est-à-dire le rayon de courbure du virage.
+Notations et limites : On se limite dans toute l’étude au cas d’un virage à droite.
+On appelle « 0 » le référentiel lié au sol et « 𝐻 » le référentiel lié au gyropode.
+
+O
+
+On note :
+ 𝐺 et 𝐷 les centres respectivement des roues gauche et droite ;
+ 𝐶 le centre du gyropode ;
+ 𝑅 le rayon de courbure du virage ;
+
+𝑒 l’empattement du gyropode (𝑒 = 𝐺𝐷) ;
+𝑉𝐺(𝐻/0) , ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑉𝐶(𝐻/0) , ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑉𝐷(𝐻/0) les vitesses respectivement en 𝐺, 𝐶 et 𝐷 du gyropode
+par rapport au sol ;
+𝜔𝐺 et 𝜔𝐷 les normes des vitesses de rotation des roues droite et gauche par
+rapport au gyropode.
+
+Pour simplifier les écritures, on notera dans la suite :
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑉𝐺 = ‖𝑉
+𝐺(𝐻/0) ‖, 𝑉𝐶 = ‖𝑉𝐶(𝐻/0) ‖, 𝑉𝐷 = ‖𝑉𝐷(𝐻/0) ‖
+Une première réflexion permet d’établir l’algorigramme fonctionnel suivant :
+
+Fig.3 : Algorigramme fonctionnel
+La norme de la vitesse du centre 𝐶 du gyropode par rapport au sol est la moyenne
+des vitesses en 𝐺 et en 𝐷 du gyropode par rapport au sol.
+Question II-1 Donner l’expression de 𝑉𝐷 et 𝑉𝐺 en fonction des vitesses de rotation
+des roues 𝜔𝐷 et 𝜔𝐺 et du diamètre 𝐷 des roues.
+En déduire l’expression 𝑉𝐶 en fonction de 𝜔𝐷 et 𝜔𝐺 et du diamètre 𝐷
+des roues.
+
+D’autre part, on peut montrer que l’on a la relation :
+𝑉𝐺 𝑅 + 𝑒
+=
+𝑉𝐷 𝑅 − 𝑒
+Question II-2
+
+Déterminer alors l’expression du rayon 𝑅 en fonction de 𝜔𝐷 et 𝜔𝐺.
+
+La norme de l’accélération centripète du centre 𝐶 du gyropode par rapport au sol est
+donnée par :
+𝑉𝐶
+𝐴 = ‖𝑎
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑐(𝐻/0) ‖ = 2
+𝑅
+Ainsi, si on conserve le rayon 𝑅 et que l’on impose 𝐴, on a
+
+𝑅+𝑒
+
+𝜔𝐺 = 2 ∙ 𝐷 ∙ 𝑅 ∙ 𝐴
+
+Question II-3 Quelle est alors l’expression de 𝜔𝐷 en fonction de 𝑅, 𝑒, 𝐷 et 𝐴 ?
+Question II-4 Reprendre l’algorigramme fonctionnel fig. 3 donné page précédente,
+le refaire en introduisant les résultats des questions II.1 à II.3.
+Vous pouvez ajouter les blocs (étapes) qui vous semblent
+nécessaires.
+Vous ne modifierez pas les blocs grisés.
+
+Afin de s’assurer qu’un virage soit pris en toute sécurité, il est nécessaire d’acquérir
+les vitesses de rotation réelles des moteurs et de les comparer avec les consignes de
+vitesse émises par la carte électronique. L’asservissement en vitesse présenté cidessous doit donc être mis en œuvre pour chaque moteur :
+
+Correcteur
+Consigne
+vitesse moteur
+Vitesse réelle
+moteur
+
+Question II-5
+
+Erreur
+
+Commande
+
+Moteur
+brushless
+
+Capteur
+
+Compléter le diagramme des blocs internes (voir document réponse DR2),
+de façon à faire apparaître cet asservissement en vitesse.
+
+DOCUMENTS TECHNIQUES
+DT1 Diagramme des exigences
+
+DT2 Diagramme de définition de blocs
+
+DT3 Diagramme de blocs internes (partiel)
+
+DT4 Schéma multi-physique
+
+DOCUMENTS RÉPONSES
+DR1
+Question I-1 : Diagramme de cas d’utilisations
+
+DR2
+Question II-5 : Diagramme de blocs internes

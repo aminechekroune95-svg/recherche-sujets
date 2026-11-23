@@ -1,0 +1,511 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1470791, "at": "2026-11-23T09:27:18+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+SUJET SI-E3C-10-12
+
+Constitution du sujet :
+
+Mise en situation …………………………………………………
+
+Page 3
+
+Exercice n°1 : Étude d'une performance du produit ………
+
+Page 4
+
+Exercice n°2 : Commande du fonctionnement du produit
+
+Page 7
+
+Document réponse exercice 2 …………………………………
+
+Page 13
+
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Mise en situation
+Le contexte général
+Les problèmes de stationnement en ville, l’émission de gaz à effet de serre, sans
+compter l’émission de particules fines très nocives liée à l’utilisation de voitures à
+moteurs thermique ont poussé les municipalités de grandes villes à développer
+l’utilisation de moyens de locomotions dits « propres ». Après l’engouement qu’a
+suscité la location des vélos dans l’agglomération Lyonnaise avec le service « Vélo’v
+», la municipalité a permis à des opérateurs d’offrir un service de location de
+trottinettes. Le succès ne s’est pas fait attendre, posant malgré tout un certain nombre
+de difficultés, notamment en terme de collisions avec des piétons. L’autonomie des
+batteries n’étant pas très élevée, les trottinettes sont souvent abandonnées ici et là
+dans la ville, ce qui ne facilite pas leur récupération.
+
+Données technique de la trottinette
+
+Dimensions : 94 x 13,5 x 116 cm
+Moteur intégré à la roue : 350 W Brushless
+Batterie : lithium-ion
+Vitesse maximale: 25 km·h-1
+Autonomie : jusqu’à 30 km
+Temps de charge : De 2 à 4 h
+Poids net (produit) : 13 kg
+Roues AV et AR : 9" (diamètre 22,86 cm)
+Charge maximale : 100 kg
+
+Mode d’emploi de la trottinette de location
+Lorsqu’un usager veut louer une trottinette, il télécharge l’application de l’opérateur sur
+son Smartphone, et s’inscrit au service de location. Il peut localiser l’emplacement des
+trottinettes disponibles. Une fois la trottinette trouvée, il peut la déverrouiller, via une
+communication Bluetooth, en scannant le QR code présent sur le guidon. L’utilisateur
+sera facturé d’une somme correspondant à un forfait de location et un temps
+d’utilisation.
+
+EXERCICE 1 - ETUDE D’UNE PERFORMANCE DU PRODUIT
+Contexte : L’utilisation des trottinettes en libre-service se développe
+exponentiellement. Le taux d’utilisation (nombre d’heure de roulage/jour) a tendance
+à augmenter. L’autonomie des modèles actuels devient insuffisante, ce qui engendre
+de nombreux problèmes : frustration des usagers, trottinettes stationnées n’importe
+où, multiplication des cycles de charge et pertes de productivité…
+Problématique : Est-il possible d’accroitre l’autonomie des modèles existants ?
+
+Question I.1
+Figure 2
+
+À partir des données fournies et du diagramme des exigences figure
+2, relever la capacité et la tension nominale de la batterie puis calculer
+Ebat, la quantité d’énergie stockée dans la batterie.
+
+Quelle que soit la valeur trouvée précédemment, on prendra : Ebat = 320 W·h
+Le moteur doit fournir une puissance mécanique à la trottinette permettant de vaincre
+les efforts résistants. Ceux-ci sont estimés à 30 N à 25 km·h-1, sur route horizontale,
+avec la charge maximale.
+Le rendement global de la chaine de puissance vaut g = 78 %.
+Question
+I.2
+
+Calculer Pu, la puissance utile de la trottinette, puis Pbat, la
+puissance fournie par la batterie. En déduire la distance
+que l’on peut parcourir avec une batterie complètement
+chargée (sur le plat, à 25 km·h-1).
+
+Deux pistes sont étudiées pour améliorer l'autonomie des trottinettes :
+
+remplacer les roues par des modèles plus performants afin de diminuer les
+efforts résistants ;
+changer de batteries pour des modèles avec une capacité plus importante.
+
+1ère piste :
+La force résistante s'opposant au roulement des roues est donnée par la formule
+suivante :
+
+FRoulement = μR × m × g
+avec :
+
+R : le facteur de frottement de roulement (sans unité)
+m : la masse en kg de l'ensemble trottinette + utilisateur
+g : l'accélération de la pesanteur = 9,81 m·s-2
+
+Le facteur de frottement de roulement dépend lui-même des dimensions de la roue :
+
+μR =
+
+𝑎
+𝑅
+
+avec :
+
+R : le rayon de la roue en mm
+a : le coefficient de résistance au roulement en mm. On prendra a = 3,5 mm
+
+Par ailleurs, les dimensions de la trottinette permettent d'adapter des roues un petit
+peu plus grandes : 10" (au lieu de 9").
+Question I.3
+
+Justifier l'intérêt, du point de vue de l'autonomie, d'augmenter la
+taille des roues.
+
+2ème piste :
+
+La batterie actuelle est constituée d’un
+assemblage de cellules lithium-ions de
+type "10S4P" : 4 groupes en parallèle de 10
+cellules en série (voir figure 3 ci-contre).
+
+Dans un assemblage en série, les tensions
+sont additionnées. Dans un assemblage en
+parallèle, la capacité du pack est la somme
+des capacités de chaque élément.
+Figure 3 : Structure interne de l'accumulateur
+
+Question I.4
+Figure 3
+
+Pour une tension nominale de l'accumulateur de 36 V, et une capacité
+de 8,8 A·h, déterminer la tension et la capacité d'une cellule. En
+déduire la capacité d'un accumulateur "10S5P".
+
+Le fabricant de trottinettes propose de remplacer le pack batterie actuel par un plus
+performant : tension nominale 36 V, quantité d'énergie stockée 400 W·h.
+L'encombrement de cet accumulateur est compatible avec les trottinettes.
+Un modèle numérique a permis d'obtenir les courbes figure 4, qui donnent, en fonction
+du temps (en s) la tension électrique (en V) et la distance parcourue (en m) pour la
+batterie actuelle et la nouvelle batterie :
+
+Figure 4 : Simulations du fonctionnement de la trottinette
+Sachant que pour ce type de batterie, il ne faut pas que la tension descende en
+dessous de 25 V, sous peine de l'endommager :
+Question I.5
+Figure 4
+
+Relever l'autonomie simulée (en km) pour les
+Calculer l'augmentation d'autonomie relative (en %).
+
+deux
+
+batteries.
+
+Question I.6
+
+Conclure sur la problématique (Est-il possible d’accroitre l’autonomie des
+modèles existants ?). Préciser les inconvénients d'utiliser des roues plus
+grandes.
+
+EXERCICE 2 - COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Contexte : Les trottinettes électriques en libre-service dans l’agglomération de Lyon
+sont de plus en plus nombreuses et parfois louées par des utilisateurs non
+expérimentés.
+La municipalité souhaite limiter la vitesse des trottinettes à 8 km·h-1 dans les zones
+piétonnes et 25 km·h-1 ailleurs.
+Problématique : Peut-on déterminer la présence de la trottinette dans une zone
+piétonne afin d’adapter sa vitesse maximale autorisée ?
+
+Figure 5 : Diagramme de blocs internes partiel
+
+Question II.1
+Figure 5
+
+Nommer les blocs ❶ et ❷ du diagramme de blocs internes figure
+5.
+
+Le module GPS G70020-KT communique avec le microcontrôleur Qualcomm ARMv7
+par l'intermédiaire du protocole UART.
+
+Figure 6 : Protocole UART
+
+Dans l’exemple de la figure 6,
+l’octet envoyé est
+(01011001)2 = (59)16.
+La table ASCII de la figure 7
+ci-contre permet de traduire la
+donnée en caractère : « Y ».
+
+Hexa Caract. Hexa Caract. Hexa Caract. Hexa Caract. Hexa Caract. Hexa Caract.
+20 (espace)
+!
+"
+#
+$
+%
+&
+'
+(
+)
+2A
+*
+2B
++
+2C
+,
+2D
+2E
+.
+2F
+/
+
+3A
+3B
+3C
+3D
+3E
+3F
+
+:
+;
+<
+=
+>
+?
+
+4A
+4B
+4C
+4D
+4E
+4F
+
+@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+
+5A
+5B
+5C
+5D
+5E
+5F
+
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+_
+
+6A
+6B
+6C
+6D
+6E
+6F
+
+`
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+
+7A
+7B
+7C
+7D
+7E
+7F
+
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+DEL
+
+Figure 7 : Table ASCII
+Le relevé du début d’une trame envoyée par le GPS a donné la figure 8 ci-dessous.
+
+Figure 8 : Trame envoyée par le GPS
+
+Question II.2
+
+Indiquer les deux caractères reçus.
+
+Figure 8
+
+Calculer le débit d’information en bit·s-1.
+
+La norme NMEA est utilisée pour transmettre les coordonnées de la trottinette en
+caractère ASCII du récepteur GPS jusqu'au microcontrôleur. Il existe plusieurs types
+de trames. La trame GGA est la plus couramment utilisée par les modules de
+communication des récepteur GPS. Chaque champ est séparé par une virgule, même
+s’il est vide. Le tableau figure 9 donne un exemple de trame.
+Trame: $GPGGA,073028.314,2514.3215,N,00819.1214,E,1,04,2.1,238.5,M,,,,0000*43
+Champ
+
+Valeur
+
+Traduction
+
+Type de trame
+
+$GPGGA
+
+trame GPS, de type GGA.
+
+Heure d’envoi
+
+073028.314
+
+7 h 30 min 28,314 s
+
+Latitude (de 0 à 90°)
+
+2514.3215
+
+25 degrés et 14,3215 min
+
+Orientation latitude
+
+N
+
+Nord
+
+Longitude (de 0 à 180°)
+
+00819.1214
+
+8 degrés et 19,1214 min
+
+Orientation longitude
+
+E
+
+Est
+
+Positionnement
+
+positionnement GPS
+
+Nombre de satellites utilisés
+
+4 satellites
+
+2.1
+
+Fiabilité mesurée de 1 à 9 (1 = bon,
+9 = mauvais)
+
+Altitude
+
+238.5
+
+238,5 m au-dessus du niveau de la
+mer
+
+Unité altitude
+
+M
+
+Mètres
+
+,,,,0000*43
+
+Autres informations
+
+Précision
+
+Figure 9 : Structure d’une trame NMEA produite par un GPS
+Au départ d’un trajet, la position d’une trottinette est donnée par la trame suivante :
+$GNGGA,213405.051,4577.4215,N,00482.7913,E,1,04,2.6,254.0,M,,,,0000*51
+
+Question II.3
+
+Déterminer les coordonnées géographiques (latitude et longitude)
+de la trottinette. Préciser à quelle heure cette position a été
+transmise.
+
+Les coordonnées géographiques du centre de Lyon sont :
+Latitude : 45 degrés et 44,9076 minutes Nord,
+longitude : 4 degrés et 50,8026 minutes Est.
+
+La circonférence de la Terre mesurée sur un
+méridien vaut 40007,8 km. Mesurée au niveau
+du 45ème parallèle, elle vaut 28337,3 km.
+
+Question II.4 Calculer, en mètres, la précision théorique de positionnement obtenue
+avec les coordonnées précédentes.
+Figure 10
+
+Pour déterminer si la trottinette se trouve dans
+une zone piétonne, délimitée par un polygone, il
+est possible d’utiliser la méthode « du nombre
+d’intersections », illustrée sur la figure 11 :
+On choisit un point O, extérieur au polygone (S1,
+S2, …, S10). Pour savoir si un point M est à
+l’intérieur, il suffit de compter le nombre ‘NI’
+d’intersections entre le segment [OM] et les
+côtés du polygone. Si NI est impair, M est à
+l’intérieur (cas des points M1 et M4). Si NI est
+pair, M est à l’extérieur (cas des points M2, M3 et
+M5).
+
+Les cas particuliers où M est sur un côté ou un sommet du polygone ne sont pas
+étudiés.
+
+L’algorigramme du document réponse DR1 permet, connaissant les coordonnées des
+n sommets Si d’un polygone, de déterminer si un point M est à l’intérieur ou pas.
+
+Question II.5
+DR
+
+Question II.6
+
+Compléter les cases ❶, ❷ et ❸ de l’algorithme sur le document
+réponse DR1.
+
+Conclure sur la réponse à la problématique (Comment déterminer la
+présence de la trottinette dans une zone piétonne afin d’adapter sa
+vitesse maximale autorisée ?) en s’appuyant sur le travail effectué
+plus haut.
+
+DOCUMENT RÉPONSE : Question II-5

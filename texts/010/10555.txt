@@ -1,0 +1,301 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1461467, "at": "2026-11-23T09:22:51+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Cloche de plongée (10 points)
+À partir du 16e siècle, les hommes commencent à
+s’intéresser à la récupération d’épaves et notamment aux
+trésors qu’elles renferment. Ils imaginent de nouvelles
+techniques pour respirer sous l’eau tout en résistant à la
+pression. Parmi les engins inventés : la cloche de plongée.
+Il s’agit d’un simple tonneau ouvert vers le bas et
+lourdement lesté, pouvant contenir plusieurs plongeurs. Elle
+est descendue à la verticale et posée sur ou près du fond.
+En 1690, le physicien anglais Edmund HALLEY, qui a
+également découvert la célèbre comète de Halley, améliore
+le principe de la cloche de plongée.
+Elle est actuellement encore utilisée pour véhiculer du
+matériel et du personnel entre la surface et des zones de
+travail subaquatiques.
+
+Schéma de la cloche
+de Halley
+dede
+Broux)
+On modélise
+de plongée
+pardeunlacylindre
+sans plancher dont(gravure
+la surface
+la
+D'aprèsune
+un cloche
+document
+de la Cité
+Mer
+base S(Cherbourg)
+est égale à 1,0 m² et la hauteur H à 2,4 m.
+Avant d'être immergée dans l'eau, la cloche est entièrement remplie d'air à la pression
+atmosphérique patm = 1,013105 Pa. On considère que la quantité d’air, ainsi que la
+température, restent constantes au cours de l'immersion de la cloche.
+
+Données :
+ masse volumique de l’eau de mer dans laquelle la cloche est immergée :
+ρ = 1,02103 kg.m-3 ;
+ intensité de la pesanteur : g = 9,81 m.s-2.
+1. Étude expérimentale de la loi de Mariotte
+Pour modéliser le comportement de l’air dans la
+cloche, on utilise le matériel photographié ci-contre.
+La pression P de l’air emprisonné dans la seringue est
+relevée pour différentes valeurs du volume V du corps
+de la seringue. On suppose que la température de l’air
+reste constante.
+Les résultats obtenus sont rassemblés dans le tableau ci-dessous :
+P (hPa)
+
+1011
+
+1127
+
+1261
+
+1419
+
+1633
+
+1932
+
+V (cm3)
+
+1.1. Quelle précaution doit-on prendre pour s’assurer que la température de l’air reste la
+même lors de chaque mesure ?
+1.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un
+gaz pour une quantité de matière donnée et une température constante.
+1.3. On utilise un programme écrit en langage Python pour tracer la courbe donnant la
+pression P en fonction de l’inverse du volume V. Un extrait de ce programme est
+donné ci-après.
+pression = [1011,1127,1261,1419,1633,1932]
+volume = [25,30,35,40,45,50]
+invVolume = [ ]
+pyplot.axis([0,0.05,0,2000])
+pyplot.xlabel(‘’ 1/V (mL-1)’’)
+pyplot.ylabel(‘’p (hPa) »)
+pyplot.title(‘’Etude de la loi de Mariotte »)
+for i in range (0,6) :
+invVolume.append(1/volume[i])
+pyplot.scatter (invVolume,pression,color=’black’,marker=‘’+”)
+pyplot.show ( )
+
+Le tracé obtenu suite à l’exécution du programme est reproduit ci-après :
+
+1.3.1. La courbe obtenue est-elle cohérente avec la loi de Mariotte ? Justifier.
+1.3.2. Identifier l’erreur commise dans le programme.
+1.4. Exploiter, par une méthode au choix, les résultats expérimentaux obtenus afin de
+tester la loi de Mariotte.
+2. Fonctionnement de la cloche de plongée
+2.1. Force pressante exercée par l’eau de mer sur la surface horizontale supérieure de
+la cloche immergée à 18 m de profondeur.
+2.1.1. La loi fondamentale de la statique des fluides reliant la différence de pression
+pA - pB entre deux points A et B d’un fluide incompressible à , g, et zB – zA ,
+s’écrit pA - pB = .g.(zB – zA) ; zA et zB étant les ordonnées des points A et B
+sur un axe des z orienté suivant la verticale ascendant. Décrire, en le
+justifiant, l’évolution de la pression en fonction de la profondeur.
+2.1.2. Montrer que la pression p18 de l'eau de mer à 18 m de profondeur est égale à
+2,8105 Pa.
+2.1.3. En déduire la valeur de la force pressante F qui modélise l’action exercée par
+l’eau de mer sur la surface horizontale supérieure d’aire S de la cloche
+immergée à 18 m de profondeur.
+2.1.4. Montrer que la valeur de cette force pressante est égale à celle du poids
+d'une masse environ égale à 29 t. Commenter.
+Extérieur de la cloche
+
+Paroi de la cloche
+
+Intérieur de la cloche
+Air
+
+2.2. En comparant qualitativement la pression de l’air dans la cloche immergée et la
+pression atmosphérique, expliquer pourquoi le niveau de l’eau à l’intérieur de la
+cloche augmente lorsque celle-ci est immergée.
+On considère que la quantité d’air, ainsi que la température, restent constantes au
+cours de l'immersion de la cloche.
+2.3. On néglige la variation de la pression de l’eau sur la hauteur de la cloche.
+2.3.1. Déterminer la valeur du volume d’air V0 contenu initialement dans la cloche
+cylindrique de section S et de hauteur H.
+2.3.2. Déterminer, en utilisant la loi de Mariotte, le volume V18 d’air contenu dans la
+cloche à 18 m de profondeur.
+2.3.3. En déduire de quelle hauteur h18 est montée l'eau dans la cloche.
+PARTIE B
+Synthon d’un antihypertenseur (10 points)
+
+Irbésartan
+L’irbésartan, dont la formule est représentée ci-contre, est un composé organique utilisé
+dans le traitement de l’hypertension artérielle.
+Cette espèce présente des points communs avec une hormone produite naturellement par
+l’organisme responsable d’une élévation de la pression artérielle. L’irbésartan vient se fixer
+sur les récepteurs spécifiques de cette hormone, les empêchant alors de la reconnaître et
+évitant ainsi une élévation tropimportante de la pression artérielle.
+d’après Thèse : Conception et synthèse de métalloprotéases et de cibles à ligand acide, Cousaert
+N., 2008 https://tel.archives-ouvertes.fr/tel-00356629/document
+
+Pour synthétiser une molécule complexe les chimistes la « coupe » fictivement en plusieurs
+fragments appelés « synthons ». Le choix des synthons se fait de telle sorte qu’ils soient
+fabriqués en un minimum d’étapes avec de bons rendements. Ces synthons réagiront
+ensuite entre eux pour conduire à la molécule souhaitée.
+
+Dans le cas de la synthèse de l’irbésartan, une équipe de chimiste a envisagé la fabrication
+des deux synthons ci-dessous (synthons 1 et 2) :
+
+« Coupure »
+
++
+
+Br
+
+Synthon
+Irbésartan
+Synthon 2
+La synthèse du synthon
+1 se fait en trois étapes à partir de
+la molécule
+de cyclopentanone.
+Ce sujet porte sur l’étape 1 de cette synthèse multi-étapes, celle permettant d’obtenir le
+composé A.
+
+étape 1
+
+étape 2
+
+puis étape 3
+
+Synthon 1
+
+Cyclopentanone
+
+A
+
+NH2
+
+Protocole expérimental de l’étape 1 :
+ Dans un ballon de 250 mL, introduire 5,2 g (80 mmol) de cyanure de potassium solide,
+8 mL d’eau et un barreau aimanté. Mettre le tout au-dessus d’un agitateur magnétique et
+agiter jusqu’à dissolution complète.
+ Introduire successivement 20 mL d’une solution aqueuse d’ammoniac de concentration
+en quantité de matière d’ammoniac 10,8 mol.L- 1, puis 6,3 mL de cyclopentanone dissous
+dans 8 mL de méthanol.
+ Surmonter le ballon d’un réfrigérant, agiter et chauffer le mélange durant 45 minutes à
+60 °C.
+ Laisser refroidir tout en continuant à agiter durant 45 minutes.
+ Verser le mélange dans une ampoule à décanter et ajouter 50 mL de dichlorométhane.
+Séparer les phases.
+ Extraire la phase aqueuse avec trois fois 25 mL de dichlorométhane.
+ Rassembler les phases organiques et les sécher avec du sulfate de magnésium anhydre
+MgSO4 (s). Filtrer et récupérer la phase organique.
+ Le solvant organique est évaporé et on obtient alors 7,1 g d’une huile incolore : le
+composé A.
+
+Données:
+Quelques informations relatives aux espèces chimiques de l’étape 1 du protocole
+expérimental
+Espèce chimique,
+Formule brute
+Masse molaire
+Cyclopentanone
+C5 H8 O
+Mcyclo = 84,1 g∙mol -1
+Solution aqueuse d’ammoniac à 10,8 mol.L- 1
+NH3 (aq)
+MNH 3 = 17,0 g.mol - 1
+
+État physique
+Température d’ébullition
+Densité par rapport à l’eau à 20°C
+(à la pression atmosphérique)
+Liquide incolore
+Téb = 130,5 °C
+ρcyclo = 950 g.L-1
+Liquide incolore
+Téb = 50 °C
+NH 3 (aq) = 910 g.L – 1
+
+Cyanure de potassium
+KCN (s)
+MKCN = 65,1 g∙mol-1
+A
+C6 H10 N2
+MA = 110,2 g∙mol-1
+
+Solide blanc
+Huile incolore
+
+Masse volumique de l’eau à 20°C : ρeau = 1000 g.L-1
+
+Masse volumique du dichlorométhane : ρ𝑑𝑖𝑐ℎ𝑙𝑜 = 1330 g.L-1
+Tableau des miscibilités entre différentes espèces chimiques
+Dichlorométhane
+Non miscible
+Dichlorométhane
+Non miscible
+Molécule A
+Bonne
+Très bonne
+
+Valeurs des électronégativités de certains atomes (selon Pauling)
+Atomes
+H
+Électronégativité
+2,1
+2,5
+3,5
+
+Molécule A
+Bonne
+Très bonne
+
+3,0
+
+1. À propos des réactifs et produits
+1.1. Définir un composé organique.
+1.2. Recopier la molécule de cyclopentanone et la molécule A sur la copie et y ajouter tous
+les doublets non liants de la molécule. Justifier la démarche.
+
+1.3. Entourer le groupe caractéristique présent sur la molécule de cyclopentanone et
+préciser le nom de la famille de composés associée.
+2. Analyse du protocole
+Deux solvants sont mélangés lors de cette synthèse, l’eau et le méthanol, dont le mélange
+est homogène.
+2.1. Représenter le schéma de Lewis de la molécule d’eau, puis celui de la molécule de
+méthanol de formule brute CH4O.
+2.2. Donner le nom de l’interaction prépondérante entre l’eau et le méthanol qui permet
+d’expliquer la présence d’une seule phase dans le milieu réactionnel. Justifier à l’aide d’un
+schéma.
+2.3. Citer le nom du montage utilisé lors du chauffage. Donner son intérêt.
+2.4. Donner le nom de l’opération effectuée lors des étapes  et  du protocole de
+synthèse.
+2.5. Sur l’annexe à rendre avec la copie compléter le schéma correspondant à la fin de
+l’opération . Préciser la nature des phases sur le schéma en justifiant la réponse sur la
+copie et indiquer dans quelle phase se trouve le composé A.
+2.6. Donner le nom de l’opération  et préciser le rôle du sulfate de magnésium anhydre
+ajouté à la phase organique lors de cette étape.
+3. Rendement de la synthèse
+L’équation de la réaction modélisant la transformation associée à l’étape 1 est la suivante :
+C5H8O(l) + CN(aq) + NH3 (aq)  C6H10N2 + HO (aq)
+3.1. Calculer les quantités de matière d’ammoniac et de cyclopentanone introduites
+initialement dans le milieu réactionnel.
+3.2. En déduire la valeur de l’avancement maximal de la réaction xmax .
+3.3. Définir le rendement de la synthèse et le calculer en admettant que l’huile incolore
+obtenue correspond au composé A pur.
+
+Annexe à rendre avec la copie
+Question 2.5.
+
+anneau
+potence

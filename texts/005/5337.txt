@@ -1,0 +1,375 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1101159, "at": "2026-11-23T09:26:15+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Analyser les principaux protocoles pour un réseau de communication
+Analyser les principaux les supports matériels (pour les réseaux)
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la transmission
+de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Traduire le comportement attendu ou observé d’un objet par un diagramme d'états-transitions
+Modéliser les mouvements
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire
+que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+SUJET SI-E3C-25-08
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 7 à 9
+
+Documents réponses ........................................................................ Pages 10 à 12
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT
+La région Île-de-France représente 40 % du trafic ferroviaire assuré sur 10 % du
+réseau ferré national. On y observe une grande diversité de services et de matériels
+qui cohabitent : entre autres Transilien, TER, TGV, Intercités, trains spéciaux, trains
+de fret.
+Le réseau d’Ile de France est composé de lignes ferroviaires urbaines (métros,
+tramways), et de lignes ferroviaires suburbaines (RER, lignes Transilien). Les zones
+dites denses et très denses se situent dans une zone de 20 km de rayon autour du
+centre de Paris. Le défi de l’exploitation suburbaine en zone dense porte sur le débit,
+le temps de parcours et la qualité de service, et notamment la gestion des aléas.
+Afin de décharger la ligne A du RER, un prolongement d'Eole (ligne E du RER) à
+l'ouest d'Haussmann Saint-Lazare à Mantes-La-Jolie en passant par La Défense
+sera opérationnel à partir de 2024 (Figure 1).
+
+Figure 1 : Carte du prolongement du RER E
+
+Cette solution doit être capable d'assurer la contrainte de 28 trains par heure avec un
+intervalle de temps de 108 secondes entre deux trains. La SNCF va mettre en place
+le système NExTEO sur la section centrale Nanterre - Rosa Parks (Figure 2).
+
+Le système NExTEO permet de
+contrôler 3 tâches :
+- le contrôle de la vitesse ;
+- la réalisation des phases
+d’accélération et de freinage ;
+Figure 2 : Les sections du RER 2024
+
+- et une aide à la gestion des temps de stationnement de gare.
+Les objectifs de la technologie NExTEO ont pour but :
+- l’amélioration de la fréquence, de la vitesse et de la régularité ;
+- l'optimisation d’énergie ;
+- et l’optimisation des infrastructures.
+Le système NExTEO passe d'un espacement de sécurité fixe entre deux trains
+(canton fixe) à un espacement mobile qui s’adapte en temps réel aux conditions de
+circulation et à la vitesse des trains (canton mobile). (Figure 3).
+
+Figure 3 : La gestion des cantons
+
+Au cœur de NExTEO, le nouveau système CBTC (Communication Based Train
+Control) établit une communication continue entre les trains et l’intelligence centrale
+chargée de gérer automatiquement le trafic. L’intelligence centrale actualise en
+temps réel tous les outils d’information des voyageurs. (Figure 4).
+
+Figure 4 : Le système CBTC
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Problématique : La gestion du flux des trains permet-elle une restitution énergétique
+sur le réseau ? L’objectif est d’analyser le temps de trajet entre 2 gares avec l'effet
+marche sur erre et de valider la quantification énergétique pouvant être récupérée
+sur le réseau.
+
+Figure I-1 : Diagramme des exigences partiel du system Nexteo
+
+Question I-1
+
+En vous aidant de la présentation du système et du diagramme des
+exigences de la figure I-1, analyser et justifier la mise en place du
+système Nexteo.
+
+Haussmann SaintLazare
+
+Nous allons nous interresser ici au temps de trajet entre les stations Haussmann
+Saint-Lazare et Porte Maillot avec l'effet marche sur erre.
+
+Figure I-2 : Section utilisant le système Nexteo
+
+Le profil de vitesse d’un train est généralement découpé en phases dynamiques. Les
+quatre types de mouvements identifiés sont :
+
+la croisière : sans dénivelé, phase mobilisant un effort de traction positif faible et une
+accélération nulle ;
+la marche sur l’erre : sans dénivelé, phase mobilisant un effort de traction nul et une
+accélération négative ;
+l’accélération : sans dénivelé, phase mobilisant un effort de traction positif et une
+accélération positive ;
+le freinage : sans dénivelé, phase mobilisant un effort de traction négatif et une
+accélération négative.
+
+Question I-2
+
+Repérer sur le document réponse DR1 QI-2 les différentes phases
+dynamiques repérées , , , .
+
+Lorsque que le train atteint sa vitesse de croisière il est à 120 km.h-1
+Le train a une accélération constante de a = 0,842 m.s-2
+Le temps de trajet marche sur erre + freinage est estimé à environ 59 secondes
+La distance parcourue pendant la phase de croisière est de 906 mètres
+
+Question I-3
+
+À partir du profil de vitesse donné dans le DR1 QI-2, déterminer le temps
+de trajet entre les deux gares et quantifier l'écart entre le temps estimé et
+le profil de vitesse du train.
+
+Question I-4
+
+Caractériser les grandeurs de flux et d'effort en entrée et sortie du
+motoréducteur sur le document réponse DR1 QI-4.
+
+Question I-5
+
+Dans le tableau du document réponse DR1 QI-5, pour :
+
+La force de traction F ;
+La vitesse du train V ;
+La puissance consommée P ;
+
+Indiquer si la grandeur est positive, négative ou nulle (+, -, 0) pour
+chacune des phases identifiées , , , .
+Dans les cases de la dernière ligne du tableau, indiquer si la récupération
+d’énergie sur le réseau est possible ou non (Oui ou Non).
+Nous souhaitons maintenant déterminer la quantité d'énergie potentiellement
+récupérable sur le réseau. Pour cela, nous nous aiderons des relations suivantes :
+Force de freinage :
+
+F : force de freinage, exprimée en N
+
+𝐹 = 𝑚. 𝛾
+
+M : masse, exprimée en kg
+
+avec :
+
+𝛾 : décélération, exprimée en m.s-2
+Travail de la force de freinage
+F : force de freinage, exprimée en N
+𝐸 = 𝐹. 𝐷
+
+avec :
+
+E : travail, exprimé en Joules
+D : distance de freinage, exprimée en m
+
+Informations complémentaires :
+
+une décélération de 𝛾 = −0,842 m.s-2
+une distance de freinage de D = 960m
+la masse pesante du train à charge moyenne = 675 000 kg
+
+Question I-6
+
+En vous appuyant sur le DR1 et à partir des relations ci-dessus,
+quantifier l’énergie (en kWh) restituable sur le réseau pendant la
+phase de décélération.
+Rappel : 1 joule = 1 W.s
+Conclure quant à l’intérêt d’une telle gestion de flux de trains.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Problématique : Comment adapter une intelligence centrale afin d’ajuster au mieux
+la régulation du flux des trains sur leurs parcours ?
+L’objectif est de compléter une partie d’algorithme de fonctionnement de l'intelligence
+centrale pour contrôler la vitesse du train ainsi que la gestion du temps de
+stationnement en gare.
+Le nouveau système CBTC établit une communication continue entre les trains,
+l’intelligence centrale, les outils des voyageurs et l'ensemble des équipements du
+réseau. L’intelligence centrale est chargée de gérer automatiquement le trafic des
+trains en leur communiquant une consigne de vitesse et une consigne d'attente en
+gare.
+Le standard de communication utilisé pour communiquer entre l’intelligence centrale
+et les trains est le standard GSM-R.
+
+Figure II-1 : Attribution des fréquences GSM en France
+Question II-1
+
+Analyser le moyen de communication utilisé pour communiquer entre
+l'intelligence centrale et les trains en donnant le sens de la
+communication : unidirectionnelle ou bidirectionnelle et le type : filaire
+ou non-filaire. Justifier le choix de bandes de fréquences différentes
+de celle utilisées par les opérateurs publics.
+
+Le cantonnement est le moyen employé pour assurer l'espacement des trains
+circulant dans le même sens sur une même voie. Pour assurer la sécurité contre les
+colisions, la présence d'un seul train dans un canton donné est autorisé. Le principe
+NExTEO est d'utiliser un cantonnement mobile ou découpage virtuel qui permet
+d’ajuster au plus près et en sécurité l’espacement des trains en fonction de leur
+vitesse (Figure II-2).
+Courbe de la vitesse du train suiveur
+
+Z
+o
+n
+Distance e
+minimale
+de sécurité
+d
+
+M
+a
+g
+
+Figure II-2 : Les cantons mobiles
+d
+
+f
+i
+n
+a
+g
+
+s
+é
+c
+u
+i
+t
+
+Par rapport à la gestion à cantons fixes, ce système permet deux principaux
+avantages : d’une part le point visé par le train suiveur (TRAIN 2) est situé au plus
+près de la queue du train meneur (TRAIN 1), et d’autre part l’espacement est ajusté
+aux performances dynamiques (vitesse, décélération, état de la voie, état du train...)
+de chaque train.
+
+Figure II-3 : L'intervalle entre deux trains
+La distance de freinage, en mètres, entre les deux trains correspond à la distance
+que met le train 2 à réduire sa vitesse pour atteindre la vitesse du train 1. Cette
+distance est modélisée par la courbe (figure II-4) représentant la distance de freinage
+en fonction de l'écart de vitesse entre les deux trains en m.s-1.
+
+Figure II-4 : Courbe de la distance de freinage par rapport à la différence
+de vitesse des trains
+
+Question II-2
+
+Pour les 3 cas de vitesses des trains 1 et 2 du tableau du document
+réponse DR2 II-3, calculer et reporter les résultats dans la colonne
+« distance minimale de sécurité » entre les deux trains sachant que la
+marge de sécurité à ajouter est de 50 m.
+
+Question II-3
+
+Indiquer dans la colonne « comportement attendu du train 2 » dans le cas
+où l'écart réel entre les deux trains est de 150 m (Ralentir, Maintenir la
+vitesse, Accélérer).
+
+Question II-4
+
+Compléter l'algorithme sur le document réponse DR2 II-5 en ajoutant la
+condition permettant d'adapter la vitesse du train en fonction de la position
+x1, de la position x2 et dsécu la distance minimale de sécurité.
+
+Afin de respecter la fréquence de 28 trains par heure il faut optimiser le temps de
+stationnement en gare. Le temps de stationnement peut être réduit si le train arrive
+en retard ou augmenté si le train arrive en avance. Dans tous les cas, le temps de
+stationnement ne peut pas être inférieur à 20 secondes. Nous appelons cette
+stratégie : régulation individuelle des temps de stationnement.
+Il est également possible de modifier l'accélération des trains pour essayer de
+rattraper leurs retards ou de combler leurs avances. Si un train arrive en avance,
+c'est à dire moins de 108 secondes après le train précédent, nous choisissons une
+accélération plus lente. Inversement si un train part en retard, on choisit une
+accélération plus rapide. Nous appelons cette stratégie : régulation individuelle des
+marches.
+
+Question II-5
+
+La variable temps_ecart contient le temps qui s'est écoulé entre deux trains
+arrivés sur le quai. Compléter les trois transitions du diagramme d'étatstransitions sur le document réponse DR2 II-6.
+
+DOCUMENTS RÉPONSES
+DR1 QI-2 : Profil de vitesse du train entre les gares porte maillot et Haussmann
+Saint- Lazare
+
+DR1 QI-4 : Chaine de puissance motoréducteur + roue
+
+DR1 QI-5 :
+DR1 QI-5 :
+Phases
+
+
+
+
+
+
+
+F (N)
+V (m.s-1)
+Puissance
+consommée (W)
+Récupération
+d’énergie
+possible ?
+
+
+
+DOCUMENTS RÉPONSES
+DR2 QII-3 : Programme de contrôle de la vitesse
+
+Vtrain 1
+
+Vtrain 2
+
+140 km.h-1
+
+100 km.h-1
+
+Distance minimale
+de sécurité
+
+Comportement attendu du
+train 2
+
+DR2 QII-5 : Programme de contrôle de la vitesse
+Début
+Si ______________________
+Alors ralentir le train 2
+Fin Si
+Fin
+
+Note : Abs() est une fonction
+qui calcule une valeur
+absolue d’un nombre ou
+d’une opération.
+
+DR2 QII-6 : Diagramme états-transitions de la gestion du temps de stationnement

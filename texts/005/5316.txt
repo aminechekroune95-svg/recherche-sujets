@@ -1,0 +1,367 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1857975, "at": "2026-11-23T09:26:25+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Identifier les erreurs de mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-20-01
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 2 à 5
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 6 à 8
+
+Documents réponses ................................................... Pages 9 à 10
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation de la trottinette électrique M365
+
+Figure 1 : cas d’utilisation
+
+Figure 2 : IBD de la trottinette m365
+
+Figure 3 : Exigences de la trottinette m365
+Caractéristiques techniques du constructeur
+Modèle
+Poids de la trottinette
+Taille des pneus
+Couple de serrage max.
+Vitesse max.
+Puissance nominale du moteur
+Puissance instantanée max.
+Inclinaison max.
+Énergie
+Tension nominale
+Capacité nominale
+Autonomie [1]
+
+M365
+environ 12,5 kg
+8,5 pouces
+16 N·m
+25 km·h-1
+250 W
+500 W
+environ 14 %
+batteries Li-ion 7,8 A·h
+36 V
+280 W·h
+30 km
+
+[1]. 30 km d’autonomie avec une seule charge définie en fonction des conditions suivantes conduite par une personne de 75 kg, une
+température extérieure de 25 °C, sur une route plate sans vent fort, mode économie d’énergie activé, roulant à une vitesse constante
+de 15 km·h-1. Les résultats peuvent varier selon le poids, la température, la vitesse du vent, les habitudes d’utilisation et d’autres
+facteurs.
+
+L’amélioration des trottinettes électriques pour adultes, en termes d’autonomie, de
+puissance, de confort et de design a permis de développer une nouvelle manière de
+se déplacer en ville. Elles permettent de répondre à la fois aux attentes des citadins
+et aux préoccupations actuelles liées au développement durable en matière de
+mobilité. Ce développement a entraîné le législateur à réglementer l’utilisation de ces
+trottinettes.
+Le sujet porte sur l’étude des capacités de mobilité de la trottinette électrique M365.
+
+ÉTUDE D'UNE PERFORMANCE DE LA TROTTINETTE ÉLECTRIQUE
+Problématique : La trottinette peut-elle gravir les pentes indiquées par le
+constructeur ?
+Pour rappel, une pente de x % correspond à une hauteur de x m pour 100 m
+parcourus horizontalement (voir le document réponse DR1).
+Question I.1 Relever la pente maximum de montée prévue par le constructeur. En
+Figure 3 déduire la hauteur (en mètre) pour 100 m par rapport à l’horizontale
+DR1
+correspondante puis l’angle α en rad.
+Étude des actions mécaniques nécessaires pour gravir la pente maximale.
+Pour l’étude en montée, les hypothèses suivantes sont faites :
+
+vitesse de la trottinette‖⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+VG,t/s ‖ constante et suffisamment faible pour négliger les
+
+effets aérodynamiques ;
+adhérence des roues sur le sol ;
+cas d’un usager moyen de masse 75 kg, les deux pieds sur la trottinette ;
+on prendra g = 9,81 m·s-2.
+
+Etude de l’équilibre de l’ensemble t = {usager + trottinette}
+L’ensemble t = {usager + trottinette} est soumis aux actions mécaniques suivantes :
+
+action mécanique du poids de l’ensemble
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+⃗ - m·g·cosα·v
+- m·g· sin α·u
+P
+{τ(poids→t}= { poids→t } = {
+
+actions mécaniques des roues arrière sur le sol
+
+Le contact roue-sol génère une force de résistance au roulement qui « s’oppose »
+au mouvement. Le coefficient de résistance au roulement pour un contact
+pneu - goudron est Crr = 0,004 (coefficient sans dimention)
+
+⃗ + Rar ·v
+⃗ + Rar ·v
+- m·g·Crr·u
+F ·u
+{τ(rar sol→t) }={ rrar
+} ={ 2
+
+actions mécaniques des roues avant sur le sol
+La roue avant motrice génère une force de traction dans le sens du
+déplacement.
+⃗⃗⃗ + Rav ·v
+F ·u
+{τ(rav sol→t) } = { tract
+A
+
+Question I.2 Placer, à côté des vecteurs en gras tracés sur le document réponse DR1,
+le nom des actions mécaniques suivantes:
+DR1
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Ppoids→t , ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Rav sol→t , ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Ftract sol→t , ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Frrar sol→t et ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Rar sol→t
+
+L’étude de l’équilibre de l’ensemble t = {usager + trottinette} permet d’obtenir
+l’équation suivante :
+-m·g· sin α - m·g·Crr + Ftract = 0
+L’étude de l’équilibre de la roue avant permet d’obtenir l’équation suivante :
+⃗⃗⃗⃗⃗⃗ ‖ = 0
+Cmot - Ftract · ‖OA
+Les roues ont un diamètre de 8,5 pouces soit 216 mm.
+Question I.3
+
+Déterminer, sous forme littérale, puis numérique, l’effort de traction
+Ftract nécessaire pour gravir la pente maximale du cahier des charges.
+En déduire le couple moteur Cmot .
+
+Étude des capacités énergétiques de la trottinette à gravir la pente maximale.
+
+Pour la suite de l’étude, on prendra Cmot = 13 N·m
+rendement η
+
+Pélect en Watt
+
+Cmot en N·m
+
+Figure 4 : Rendement et puissance absorbée du moteur en fonction de Cmot.
+
+Question I.4 Dans le cas précédent, relever sur la figure les valeurs de la
+Figure 4 puissance électrique absorbée Pélect et du rendement η pour le couple
+moteur Cmot donné. En déduire la valeur de la puissance mécanique
+utile Pméca en W.
+Pour la suite de l’étude, on prendra Pméca = 62 W et Ftract =120 N
+Question I.5 Exprimer l’expression littérale de la puissance utile mécanique Pméca
+en fonction de la vitesse ‖⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+VG,t/s ‖ et de la force de traction Ftract de la
+-1
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+trottinette. Calculer la vitesse ‖ V
+G,t/s ‖ en ms .
+
+Question I.6 Comparer la vitesse ‖⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+VG,t/s ‖ avec la vitesse minimale avant la mise
+Figure 3
+
+en roue libre de la trottinette et conclure sur les possibilités
+d’assistance électrique en pente élevée.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+La trottinette Xiaomi M365 a été conçue à destination d’une population
+d’adolescents. La vitesse ressentie et les accélérations franches ont été favorisées
+au détriment de la stabilité et du contrôle.
+Les nouveaux moyens de déplacement « éco-responsables » doivent permettre de
+toucher une tranche d’âge plus élevée.
+Problématique : L’expérience de conduite doit être sans à-coups. Comment
+modifier le comportement de la trottinette par une simple mise à jour du logiciel ?
+
+Étude de la commande d’accélération du système actuel :
+La commande d’accélération permet actuellement la commande du moteur si la
+vitesse est supérieure à 5 km·h-1 (voir figure 5).
+Question II.1
+
+Déterminer le nombre de valeurs possibles de pot_acc sachant que
+cette variable est définie sur 10 bits.
+Déterminer le nombre de valeurs possibles de var_mot sachant que
+cette variable est définie sur 8 bits.
+
+Question II.2
+
+À partir de la réponse à la question 1, justifier l’instruction var_mot=
+
+présente dans l’algorigramme figure 5.
+
+La courbe figure 6 illustre l’influence de la position du potentiomètre d’accélération sur
+la vitesse finale et le temps pour atteindre cette vitesse.
+
+Figure 6
+Une trop forte accélération (> 1 m·s-²) entraîne un patinage de la roue avant.
+Question II.3
+
+Calculer l’accélération (en m·s-²) quand pot_acc = 1023 avant que la vitesse
+ne se stabilise. En déduire si cette accélération entraîne un patinage des
+roues ou pas.
+
+Le constructeur souhaite réduire l’accélération réelle lorsque la consigne donnée par
+l’utilisateur est supérieure à 1 m·s-² , cela correspond à (pot_acc > 850).
+La fin de l’algorigramme figure 5 a été modifiée.
+Les six nouvelles instructions dans le programme de la figure 7 permettent de réduire
+l’accélération réelle. Si le potentiomètre d’accélération renvoie une consigne très
+grande (supérieure à 850) alors on augmente progressivement la commande de
+vitesse du moteur. La vitesse maximale du moteur doit alors être atteinte avec un
+
+délai de 0,3 s par rapport à l’ancien programme. Le cahier des charges impose que
+la vitesse maximale du moteur, avec la nouvelle programmation, doit être atteinte au
+maximum 0,3 s plus tard qu’avec l’ancienne programmation.
+
+Figure 7
+Étude de la modification de la commande d’accélération :
+Question II.4
+Figure 7
+DR2
+
+Question II.5
+DR2
+
+À l’aide de l’algorigramme « Nouvelle fin de programme », compléter
+les valeurs de var_mot et le nombre d’itérations correspondants aux
+valeurs du potentiomètre d’accélération du document réponse DR2.
+Sachant que chaque instruction a une durée d’environ 1 µs, compléter
+les durées de traitement d’une boucle « tant que » et de la « Nouvelle
+fin de programme » correspondantes aux valeurs du potentiomètre
+d’accélération du document réponse DR2.
+Comparer le délai engendré par ce nouveau programme avec celui
+attendu.
+
+Question II.6
+
+Conclure sur l’influence de la modification du programme au regard du
+cahier des charges. Proposer une solution pour répondre à la
+problématique.
+
+DOCUMENTS RÉPONSES
+DR1 :
+
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+VG,t/s
+⃗𝒗
+⃗𝒖
+
+𝒘
+⃗⃗⃗
+
+O +
+A +
+
+Hauteur
+pour 100m
+
+α
+100 m
+
+DR2 :
+Question 4 :
+var_mot initial
+
+var_mot final
+
+( i=0 )
+
+( i=pot_acc/4)
+
+= 106
+
+= 212
+
+212-106 = 106
+
+1023
+
+Nombre
+d’itérations
+
+Durée des cinq
+instructions dans le
+tant que
+
+Durée totale
+nouvelle fin de
+programme
+
+5 µs
+
+530 µs
+
+1023
+
+Nombre
+d’itérations
+
+Question 5 :

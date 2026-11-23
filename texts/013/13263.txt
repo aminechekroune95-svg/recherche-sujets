@@ -1,0 +1,336 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1656422, "at": "2026-11-23T09:25:53+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT :
+DURÉE DE L’ÉPREUVE : --2h-Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec mode examen devront
+l’activer le jour des épreuves et les calculatrices dépourvues de mémoire seront autorisées. Ainsi tous les
+candidats composeront sans aucun accès à des données personnelles pendant les épreuves.
+
+SUJET SI-N°05
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................. Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son comportement
+......................................................................................................... Pages 7 à 10
+
+Documents réponses ...................................................................... Pages 11 à 12
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en difficulté, qui
+s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats doivent mobiliser leurs
+compétences et les connaissances associées pour qualifier et/ou quantifier cette performance, à partir de
+l'analyse, de la modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la modification de son
+comportement. L'étude s'appuie sur l'algorithmique et de la programmation, à partir de ressources fournies au
+candidat qu'il devra exploiter, compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT ETUDIÉ
+Qu’est-ce que BOBOPTIC ?
+BOBOPTIC est une machine dans laquelle les lunettes
+sont arrosées et séchées avec un jet d’air. Elle déloge les
+graisses et les saletés en plus de stériliser verres et
+montures. L’eau utilisée au cours du processus de
+nettoyage est recyclée grâce à des rayons ultraviolets et
+des filtres ionisés. L’ensemble est donc sans tâches pour
+l’environnement et simple d’utilisation! Pratique, une carte
+magnétique rechargeable permet de régler ses lavages.
+Où trouver BOBOPTIC ?
+BOBOPTIC se trouve dans certains
+centres d’optique indépendants et lieux
+publics à fort achalandage. À l’heure
+actuelle, douze robots sont accessibles au
+Québec. Il est prévu que sera disponible
+une centaine d’entre eux et qu’ils seront
+géolocalisables à partir d’une application
+pour téléphones intelligents. Les autres
+provinces canadiennes pourraient bien se
+doter également du nouveau produit.
+(Extrait de http://mon-quartier.ca/)
+
+ETUDE D’UNE PERFORMANCE DE BOBOPTIC
+On souhaite repositionner le produit <Machine à laver les lunettes> sur le marché français
+en améliorant ses performances.
+Problématique : Comment améliorer les performances du système « BOBOPTIC » en
+rajoutant un rouleau essuyeur afin de satisfaire au mieux ses clients ?
+A l’aide de la présentation du système composé uniquement d’un jet d’eau, répondre aux
+questions suivantes :
+Question I.1
+
+En vous aidant des diagrammes figure 1, donner les principales
+exigences de BOBOPTIC permettant de satisfaire cette
+problématique de nettoyage des lunettes.
+
+Afin de vérifier que plus de 90% des lunettes sont correctement nettoyées, le service
+qualité a fait une enquête durant 5 mois auprès de ses clients.
+
+A l’aide du tableau 1, calculer le nombre de clients satisfaits et
+insatisfaits. Conclure quant à l’exigence de la quantité de clients
+satisfaits.
+Seule la partie nettoyage des faces avant des verres sera étudiée.
+Question I.2
+
+Lorsque nous nettoyons machinalement une paire de lunettes, nous essuyons les verres
+avec un chiffon adapté après avoir mouillé la surface du verre. Le but de ce prototype est
+de reproduire ce principe de nettoyage de façon autonome sur la face avant des verres.
+Ce prototype conserve la pompe initialement installée pour projeter l’eau à laquelle on
+adjoint un rouleau. Ce nouvel élément combine un mouvement de rotation du rouleau par
+rapport au chariot et un mouvement de translation du chariot par rapport au bâti.
+Le service de recherche et développement a mis en évidence le besoin de nettoyer
+efficacement les lunettes sans les déformer.
+A cet effet il a été déduit que la vitesse de rotation du rouleau par rapport au chariot doit
+être de :
+Nrouleau/chariot = 135 tr.min−1
+
+Figure 2 : Perspective du système à rouleau
+
+Figure 3 : Schéma cinématique partiel de la mise en rotation du rouleau
+
+Question I.3
+
+Sur le document réponse DR1, nommer les liaisons en précisant :
+ les mobilités entre le pignon moteur 3 et le chariot 1 ;
+ les mobilités entre le rouleau 9 et le chariot 1 ;
+ la nature du mouvement entre le rouleau 9 et le chariot 1.
+Compléter sur le document réponse DR1 les éléments manquants de la
+chaine de puissance.
+La vitesse de rotation de l’arbre moteur par rapport au chariot est de :
+N arbre moteur / chariot = 750 tr.min−1
+Question I.4
+
+A partir des données de la nomenclature (figure 2) et du schéma
+cinématique (figure 3), calculer le rapport de transmission :
+r=N
+
+Nrouleau / chariot
+arbre moteur / chariot
+
+puis la vitesse de rotation du rouleau par rapport au chariot N rouleau / chariot.
+Conclure en argumentant quant au respect de l’exigence de vitesse
+Nrouleau/chariot = 135 tr.min−1 et la vitesse calculée ci-dessus.
+Afin de valider le choix du moteur d’entrainement du système à rouleau, une mesure a
+permis de déterminer la vitesse et le couple appliqué au rouleau au moment de l’essuyage.
+A vitesse nominale N rouleau/chariot = 125 tr.min−1 ce couple vaut C rouleau = 0.28 N.m
+2𝜋𝑁
+La puissance mécanique en rotation : Ps = 𝐶 × 𝜔 𝑒𝑡 𝜔 = 60 avec N la vitesse de rotation
+en tr.min−1, lavitesse angulaire en rad.s−1 ; C le couple en N.m et Ps la puissance en W.
+
+Figure 4 : Chaîne de puissance
+Question I.5
+
+Calculer la puissance mécanique en rotation Ps appliqué au rouleau.
+Déterminer le rendement global de la chaîne de puissance et la puissance
+d’entrée Pe du moteur d’entraînement du système à rouleau.
+
+Question I.6
+
+A partir des différents résultats obtenus et de la présentation du système,
+montrer que le rajout du système à rouleau améliore bien le nettoyage des
+lunettes.
+
+COMMANDE DU FONCTIONNEMENT DU SYSTEME « BOBOPTIC »
+Pour faciliter les paiements la carte magnétique
+rechargeable à 10 lavages a été adoptée. Afin de permettre
+une gestion rapide du système le temps de lecture / écriture
+et de traitement des données contenues sur cette carte ne
+Figure 5 : Lecteur de carte
+devra pas excéder 50 ms.
+Problématique : Le paiement par carte magnétique respecte-t-il les exigences de rapidité
+de traitement des informations issues de la carte magnétique ?
+
+Figure 6 : Chaîne d’information
+Lors d’un règlement avec une carte magnétique reconnue, une vérification du solde de la
+carte est effectuée afin d’autoriser l’utilisation du système. Un décompte d’une unité puis
+une mémorisation du nouveau solde restant sur la carte seront ensuite réalisés.
+Déscription : - Nb : variable indiquant le nombre de lavage restant ;
+- Auto : [Action d’autoriser l’utilisation du système] ;
+- Mémo : [Mémoriser sur la carte le nouveau solde].
+Question II.1
+DR2
+
+Sur le document réponse DR2, compléter l’algorigramme permettant,
+après vérification du solde, d’autoriser une personne à utiliser le
+système grâce à sa carte magnétique. Les instructions liées aux
+symboles de traitement de l’algorigramme nécessitent en moyenne
+15 µs pour s’exécuter. Déterminer le temps de traitement maximum de
+ce programme.
+
+Les cartes magnétiques utilisées respectent la norme ISO 7811 (composée de 5 parties).
+Celle-ci définit, entre autres, les trois pistes constituant la bande magnétique de la carte
+normalisée : les pistes ISO 1, ISO 2 et ISO 3.
+Ces 3 pistes sont caractérisées par leur positionnement, leur densité d'enregistrement et
+l'encodage des données utilisées. Le schéma de la figure 7 résume ces caractéristiques.
+
+Figure 7 : Carte ISO normalisée
+Densité d’enregistrement :
+-
+
+les pistes ISO1 et ISO3, qui permettent de stocker 210 bits par pouce, soit environ 82 bits
+par cm ;
+la piste ISO2, qui permet de stocker 75 bits par pouce, soit environ 29 bits par cm.
+Ces normes définissent aussi des codes alphanumériques faisant la correspondance entre
+une suite de bits et un caractère particulier. La piste ISO1 a pour codage un alphabet à
+7 bits et les pistes 2 et 3 ont un alphabet à 5 bits.
+Ces codes contiennent aussi des caractères spéciaux de début et de fin de piste (qui
+encadrent l’information) et des séparateurs.
+Sur les cartes magnétiques utilisées ici, seule la piste ISO2 est utilisée. Les données sont
+disposées selon le schéma suivant :
+{Start}{Type de Carte} {Nettoyage Restant/Temps restant} {ID de la Ville : ID Borne} {End}
+
+Tableau 2 : Disposition des données
+Un lecteur de bande magnétique nous a permis de lire les données présentes sur les cartes
+suivantes :
+
+Tableau 3 : Données cartes magnétiques
+
+Question II.2
+
+Pour chacune de ces cartes présentées dans le tableau 2, indiquer le
+type de carte utilisée, le nombre de nettoyages restant ainsi que l’ID de
+la borne utilisée.
+
+La piste ISO2 a pour codage un « alphabet à 5 bits ».
+
+Tableau 4 : Alphabet à 5 bits
+Lors du passage de la carte magnétique dans le lecteur de carte les données sont lues les
+unes après les autres. Les données de la carte magnétique sont ensuite transmises au
+microcontrôleur par une liaison série de type RS232 sur 8 bits, avec un bit stop.
+Question II.3
+
+L’ID de la ville de la carte magnétique A est 4109. A partir du tableau 4
+« alphabet à 5 bits » traduire cet ID en code binaire.
+
+Structure de la trame RS232
+La transmission étant asynchrone, il faut pouvoir déterminer le début et la fin de l’émission.
+On se sert pour cela d’un bit de START à 0 pour indiquer le début et d’un bit de STOP à 1
+logique. Ils encadrent la transmission de 8 bits de données. Au repos, la ligne est à 1
+logique. Le bit de poids faible (LSB) est transmis en tête.
+
+Transmission logique
+
+Données 7 ou 8 bits
+MSB 0 ou1
+D0 D1 D2 D3 D4 D5 D6 bit
+
+1 ou 2
+bits
+
+Le codage utilisé fait correspondre un code numérique à chaque caractère transmis, le code
+standard s'appelle code ASCII et utilise les 7 premiers octets pour coder les caractères.
+Exemple : On veut envoyer le caractère « A », de code ASCII 65(10)=41(16)=01000001(2)
+Transmission logique du caractère « A »: 01000001(2) sur 8 bits parité paire, 1 stop
+
+D0 D1
+
+Données 8 bits
+
+D2
+
+D3
+
+D4
+
+D5
+
+MSB Paire
+D6 D7 1 bit
+
+1 bits
+
+Transmission physique du caractère « A »: 01000001(2) sur 8 bits parité paire, 1 stop
++12V
+
+-12V
+
+D0 D1
+
+Données 8 bits
+
+D2
+
+D3
+
+D4
+
+D5
+
+MSB Paire
+D6 D7 1 bit
+
+1 bits
+
+Attention : le « 1 » est transmis avec une tension -12 V, et le LSB est
+transmis en tête… il faut donc retourner les données sur les 2 axes pour
+pouvoir les lire !
+La transmission des données du lecteur de carte vers le microcontrôleur se fait par
+redécoupage de l’ensemble des 40 caractères.
+Le premier octet comportant des données de l’ID de la ville de la carte magnétique A,
+transmis sur cette liaison série est le suivant : 1001 0000
+Question II.4
+DR2
+
+Sur le document réponse DR2, compléter le signal de la transmission
+physique (RS232) ainsi que le signal logique du premier octet de l’ID ville de
+la carte magnétique A.
+
+Question II.5
+
+Sachant que les 40 caractères de la piste ISO2 de notre carte magnétique
+sont chacun transmis sur 8 bits+1bit start+1 bit stop déterminer le nombre
+de bits transmis entre le lecteur de carte et le microcontrôleur lors du
+passage de cette dernière.
+Calculer le temps de transmission de ces données si la liaison série a une
+vitesse de 9600 bit.s-1.
+
+Question II.6
+
+Conclure quant au temps de traitement et de transfert au microcontrôleur
+des informations présentes sur la carte magnétique.
+
+DOCUMENTS RÉPONSES DR1
+DR1 Question I.3 : liaisons mécaniques
+
+Nommer la nature du mouvement entre le rouleau 9 et le chariot 1 :
+----------------------------------------------------------------------------------------------------------
+
+Chaine de puissance permettant la rotation du rouleau 9
+
+Puissance
+électrique
+
+DOCUMENTS RÉPONSES DR2
+DR2, Question II.1 :
+
+DR2, Question II.4 : signal électrique de la transmission série :

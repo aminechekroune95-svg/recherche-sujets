@@ -1,0 +1,283 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1412185, "at": "2026-11-23T09:25:41+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme, un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+PRESENTATION DU PRODUIT
+Le produit étudié est un portail automatisé
+coulissant permettant de contrôler l’accès à un
+espace privé. Ce portail est doté d’un panneau
+photovoltaïque et d’une batterie pour permettre
+soit une installation sur un site isolé soit une
+réduction de la consommation énergétique en
+cas de liaison avec le réseau électrique
+domestique.
+L’ouverture du portail peut être complète pour permettre l’accès à une voiture ou
+partielle pour un piéton ou un cycliste. Pendant la phase d’ouverture, si un obstacle
+est détecté le portail s’immobilise pour garantir la sécurité des personnes et des
+biens. L’ouverture du portail est déclenché à distance à l’aide de commandes
+pouvant prendre différentes formes (smartphone, clavier à code, visiophone ou
+télécommande).
+
+Figure 1 : diagramme des exigences du portail motorisé
+
+Tension d’alimentation
+Type de moteur
+Puissance du moteur
+Puissance maxi consommée (avec éclairage)
+Consommation en veille
+Fréquence moyenne de manœuvres par jour
+
+230 V~ / Solaire
+24 Vdc
+150 W
+600 W
+4,5 W
+20 cyclesjour-1
+16 s hors zone de
+Temps d’ouverture pour un portail de 3 m
+ralentissement
+Accélération phase 1
+187,5 mms-2
+Accélération phase 3
+- 72 mms-2
+Poids maxi. du portail (P)
+600 kg (8 m)
+Largeur maxi. du portail (L)
+8m
+Hauteur maxi. du portail (H)
+2m
+Figure 2 : performances et caractéristiques du portail motorisé
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : La vitesse de fermeture et d’ouverture mesurée du portail valide-telle le cahier des charges du constructeur?
+Étude de la vitesse de fermeture et d’ouverture de la motorisation
+Fonctionnement en mode séquentiel (Extrait de la notice)
+Ouverture totale du portail par un appui sur la
+touche 1
+Arrêt du portail en cours de mouvement par un
+nouvel appui sur la touche 1.
+Fermeture du portail par un nouvel appui sur la
+touche1.
+Ouverture partielle du portail (environ 1 m) par un
+appui sur la touche 2.
+Ouverture totale du portail par un appui sur la
+touche 1.
+Fermeture du portail par un nouvel appui sur la
+touche 2.
+Figure 3 : fonctionnement en mode séquentiel (extrait notice).
+Lorsque le moteur fonctionne sur
+l’alimentation photovoltaïque :
+- seuls les télécommandes et points de
+commande radio permettent de commander
+le portail (les commandes filaires sont
+désactivées),
+- les accessoires de sécurité filaires
+(cellules photoélectriques, feu
+orange) restent activés.
+Figure 4 : alimentation photovoltaïque (extrait notice).
+Question I.1
+
+En prenant en compte les différents fonctionnements possibles du
+portail compléter le diagramme des cas d’utilisations sur le
+document réponse DR1.
+
+On souhaite étudier les
+mouvements du portail. La
+graphique ci-contre illustre
+la variation de la vitesse du
+portail lors d’une phase
+d’ouverture selon le cahier
+des charges.
+On s’intéresse dans un premier
+temps à l’ouverture d’un portail
+standard de 3 m.
+Question I.2
+
+Préciser le type de mouvement correspondant à chacune des
+phases de l’ouverture du portail.
+
+Le cahier des charges du portail fixe les accélérations des différentes phases du
+mouvement permettant d’atteindre les objectifs de vitesses tout en garantissant la
+sécurité des utilisateurs lors des ouvertures ou fermetures.
+Question I.3
+
+Question I.4
+
+Identifier sur la figure 2 l’accélération du portail lors de la phase 1. En
+déduire la vitesse maximale du portail lors du déplacement de la
+phase 1 en considérant que celle-ci dure 1 s.
+A l’aide des données fournies sur la figure 2, calculer les temps de
+fin des phases 2 et 3 du mouvement puis compléter le document
+réponse DR1.
+
+On rappelle que la distance d(t) parcourue par un objet dans le cadre d’un
+mouvement rectiligne uniformément accéléré se détermine à l’aide de la formule :
+
+𝑑(𝑡) = 𝑥(𝑡) − 𝑥0 = 2 𝑎 × (𝑡 − 𝑡0 )2 + 𝑣0 × (𝑡 − 𝑡0 ) où
+
+-
+
+𝑎 est l’accélération constante
+𝑡0 est l’instant initial du mouvement
+𝑣0 est la vitesse à l’instant initial du mouvement
+𝑥(𝑡) est la position de l’objet à l’instant t
+𝑥0 est la position de l’objet à l’instant initial du mouvement
+
+Question I.5
+
+Compléter le document réponse DR1 en indiquant la distance
+parcourue par le portail à l’issu de chacune des phases du
+mouvement. En déduire le temps de fin de la phase 4 du
+mouvement.
+
+Pour rationaliser sa gamme le constructeur du portail a développé un seul modèle de
+motorisation qui peut être utilisé pour tous les portails de 3 à 8 m. Le tableau suivant
+détaille les résultats des mesures sur le temps d’ouverture de portails de 8 m :
+
+Temps mesuré
+depuis le début du
+cycle (moyenne)
+
+1,1 s
+
+40,8 s
+
+42,9 s
+
+49,6 s
+
+Le constructeur annonce des temps d’ouverture et de fermeture proportionnels à ceux
+du portail de 3 m. Pour des raisons de sécurité, la vitesse maximale de mouvement
+d’un portail reste fixée à 188 mms-1 quelle que soit la longueur de celui-ci.
+Question I.6
+
+Quantifier l’écart entre le temps réel et le temps théorique
+d’ouverture d’un portail de 8m. Analyser les causes probables de
+cet écart.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : dans le cadre d’une installation du portail reliée au réseau
+électrique domestique, comment garantir la durée de vie de la batterie ?
+Pour pouvoir contrôler la recharge de la batterie à partir du secteur ou du panneau
+photovoltaïque il est nécessaire de connaître l’état de charge de la batterie. Ce
+dernier est déterminé à partir de la mesure de la tension de la batterie. Le schéma
+fourni en figure 6 montre le montage utilisé pour mesurer la tension de la batterie et
+adapter son niveau à la chaîne de traitement de l’information.
+
+Figure 5 - Schéma du capteur mesurant la tension de la batterie
+Le montage précédent utilise deux résistances de précisions afin de minimiser
+l’importance de la tolérance des composants dans la mesure. Dans le cadre de
+l’utilisation normale de la batterie, la tension à ses bornes peut varier entre 27,5 V
+(batterie chargée à 100%) et 21,6 V (batterie totalement déchargée).
+Question II.1
+
+A partir de la figure 6, déterminer l’expression littérale de la tension
+Ucpt en fonction de la tension Ubatt, de la résistance R1 et de la
+résistance Rcpt. Calculer la plage de variation de la tension Ucpt
+envoyée au microcontrôleur.
+
+La tension analogique Ucpt est convertie en un mot numérique Nbatt à l’aide d’un
+convertisseur analogique numérique intégré au microcontrôleur selon le schéma
+suivant :
+
+Le convertisseur analogique numérique du microcontrôleur est un convertisseur
+10 bits et utilise comme référence la tension d’alimentation du microcontrôleur fixée à
+5 V. La précision requise sur l’état de charge de la batterie est fixée à 1 %.
+Question II.2
+
+Donner la variation de tension minimale que peut mesurer le
+convertisseur analogique, cette grandeur est appelé quantum et est
+noté « q ». Vérifier que le convertisseur analogique numérique
+permet d’atteindre la précision requise de 1 % sur l’état de charge
+de la batterie.
+
+On considère que la tension aux bornes de la batterie évolue linéairement en
+fonction de son état de charge.
+Question II.3
+DR2
+
+Donner l’équation permettant de calculer l’état de charge de la
+batterie en pourcentage en fonction du mot numérique Nbatt.
+Compléter l’algorithme du document réponse DR2 en y ajoutant
+cette équation.
+
+La capacité de stockage de la batterie s’altère avec le nombre de cycles d’utilisation.
+Cette altération dépend du nombre de cycles mais également de la profondeur de
+décharge que ces cycles imposent à la batterie. La figure 7 présente l’altération de la
+capacité de stockage de la batterie en fonction du nombre de cycles d’utilisation et
+de la profondeur de décharge (notée DOD) sollicitée.
+
+cycles
+Figure 6 - Courbe indiquant la dégradation de la capacité de la batterie en fonction
+de la profondeur de décharge (DOD) et du nombre de cycles.
+
+Question II.4
+DR2
+
+Question II.5
+
+A partir de la courbe, figure 7, déterminer la profondeur de
+décharge de la batterie à prévoir afin de garantir un maintien de la
+capacité à 60 % de sa valeur initiale après 1000 cycles. Compléter
+l’algorithme du document réponse DR2 avec la valeur trouvée afin
+de déclencher la recharge de la batterie via le réseau électrique
+domestique.
+Conclure quant à la capacité du produit à optimiser la durée de vie
+de sa batterie.
+
+DOCUMENTS RÉPONSES
+DR1, Question I.1 : Diagramme des cas d’utilisations
+
+DR1, Question I.2, I.3, I.4 : Vitesse d’ouverture théorique en fonction du temps
+
+DOCUMENTS RÉPONSES
+DR2, Question II.3, II.4 :
+Programme de gestion de la charge de la batterie
+Début « Gestion de la recharge de la batterie »
+Lire Nbatt
+// donner par un entier défini sur 10 bits
+……………………………………………………………………….
+Si ………………………………………alors
+Déclencher recharge de la batterie à partir du secteur
+Fin Si
+Fin
+
+Q II.3
+Q II.4

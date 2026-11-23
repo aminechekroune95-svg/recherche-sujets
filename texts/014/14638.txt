@@ -1,0 +1,334 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1550951, "at": "2026-11-23T09:31:02+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique avec enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Élimination d’une substance dans le sang
+Sur 8 points
+Les parties A, B et D de cet exercice peuvent être traitées de façon indépendante.
+Dans la partie C, on attend du candidat qu’il compare la pertinence des modèles
+étudiés dans les parties A et B.
+Partie A
+On injecte une dose de 1 gramme d'un médicament dans le sang d'un patient. On
+souhaite étudier la quantité de médicament présente dans le sang en fonction du
+temps. On sait que le médicament est progressivement éliminé par l’organisme de
+sorte que, chaque heure, la quantité de médicament présente dans le sang diminue
+de 30 %.
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de
+médicament (exprimée en grammes) qui est présente dans le sang du patient après 𝑛
+heures écoulées depuis l’injection. Sous ces conditions, on a 𝑢0 = 1.
+1- Justifier que, selon cette modélisation, 𝑢1 = 0,7 et 𝑢2 = 0,49 .
+On admet alors que la suite (𝑢𝑛 ) est une suite géométrique de raison 0,7.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3- On sait que le médicament n’est plus actif lorsque la quantité présente dans le sang
+est strictement inférieure à 0,2 g. D’après cette modélisation, pendant quelle durée le
+médicament est-il actif ? Expliquer brièvement la démarche.
+Partie B
+Dans cette partie on suppose que la quantité de médicament présente dans le sang
+du patient (exprimée en grammes) peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par 𝑓(𝑡) = 0,7𝑡 où 𝑡 représente le temps écoulé depuis l’injection
+(exprimé en heures).
+Ci-après, on donne la courbe représentative 𝐶𝑓 de la fonction 𝑓 dans un repère
+orthogonal du plan.
+
+On a tracé en pointillés la droite tangente à 𝐶𝑓 au point A d’abscisse 3.
+
+4- Avec la précision permise par le graphique, répondre aux deux questions suivantes :
+4-a- Quelle est la quantité de médicament présente dans le sang trois heures après
+l’injection ?
+4-b- Quelle est la valeur de 𝑓’(3)? Comment interpréter cette valeur dans le contexte
+de l’exercice ?
+5-a- Recopier et compléter le tableau de valeurs ci-dessous à l'aide d’une calculatrice
+(on arrondira à 0,01).
+𝑡
+
+𝑓(𝑡)
+
+0,24
+
+4,1
+
+4,2
+
+4,3
+
+4,4
+
+4,5
+
+4,6
+
+4,7
+
+4,8
+
+4,9
+
+5-b- On rappelle que le médicament n’est plus actif lorsque la quantité présente dans
+le sang est strictement inférieure à 0,2 g.
+Donner une valeur approchée à 0,1 du temps au bout duquel le médicament cesse
+d’être actif.
+
+Partie C
+On souhaite donner une indication précise sur la durée du principe actif du
+médicament.
+6- D’après vous quel est le modèle le plus pertinent ? Justifier brièvement la réponse.
+Partie D
+Le médicament a pour but de faire baisser le taux de glycémie chez des patients ayant
+un taux de glycémie anormalement élevé. Afin de tester l’efficacité de ce médicament
+sur un groupe de patients (que l’on appellera « groupe-test » par la suite), on procède
+comme ceci : 60 % des patients de ce groupe reçoivent le médicament et les autres
+patients reçoivent un placebo.
+À l’issue du traitement, on mesure leur taux de glycémie et les résultats sont les
+suivants :
+-
+
+chez les patients ayant reçu le médicament, on observe une baisse du taux de
+glycémie dans 15 % des cas ;
+
+-
+
+chez les patients ayant reçu le placebo, on n’observe aucune baisse du taux de
+glycémie dans 90 % des cas.
+
+On choisit au hasard un patient du groupe-test et on note :
+𝑀 l’événement « le patient a reçu le médicament »
+̅ l’événement « le patient a reçu le placebo»
+𝑀
+𝐵 l’événement « on observe chez le patient une baisse du taux de glycémie »
+7- D’après les données ci-dessus, quelle est la valeur de 𝑃𝑀̅ ( 𝐵) ?
+̅ ∩ 𝐵) et interpréter ce résultat.
+8- Calculer la probabilité 𝑃( 𝑀
+9- On admet que 𝑃(𝐵) = 0,13. On choisit au hasard un patient du groupe-test et on
+constate que son taux de glycémie a baissé. Quelle est la probabilité qu’il ait pris le
+placebo (on arrondira au centième) ?
+10- À votre avis, peut-on considérer que ce test a prouvé l’efficacité du médicament ?
+Justifier.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Seul sur Mars
+Sur 12 points
+En 2035, lors d’une expédition de la mission Ares III sur Mars,
+l’astronaute Mark Watney est laissé pour mort par ses
+coéquipiers, une tempête les ayant obligés à décoller de la
+planète en urgence.
+Le lendemain, Mark Watney, qui n’est que blessé, se réveille
+et découvre qu’il est seul sur Mars.
+Pour survivre, il décide de cultiver des pommes de terre sous
+le dôme de la base, en utilisant le sol martien fertilisé avec les
+excréments de l’équipage, de l’eau et l’énergie solaire.
+Source : http://www.allocine.fr/film/fichefilm-221524/dvd-blu-ray/?cproduct=443240
+
+Partie 1. Puissance rayonnée par le Soleil
+Le Soleil, d’une masse totale de 2,0×1030 kg, est l’étoile du système solaire. Il est
+composé majoritairement d’atomes d’hydrogène H et d’atomes d’hélium He. Autour de
+lui gravitent la Terre et d’autres planètes comme Mars. La puissance rayonnée par le
+Soleil est voisine de 3,9×1026 W.
+Document 1. Réaction nucléaire de synthèse de l’hélium à partir de l’hydrogène dans
+le Soleil
+Sous l’effet de la température suffisamment élevée existant au cœur du Soleil,
+quatre noyaux d’hydrogène peuvent réagir pour former un noyau d’hélium et deux
+positons selon l’équation de la réaction nucléaire simplifiée, dans laquelle 01e
+représente un positon (particule de charge opposée à celle de l’électron) :
+4 11H → 42He + 2 01e
+Cette réaction s’accompagne d’une perte de masse et donc d’un dégagement
+d’énergie.
+1- Indiquer en le justifiant, si la formation de l’hélium dans le Soleil est une réaction de
+fusion ou de fission nucléaire.
+
+Partie 2. Puissance solaire reçue par Mars
+La base martienne de la mission Ares III est alimentée en énergie par des panneaux
+solaires qui captent le rayonnement solaire arrivant sur le sol martien. On souhaite
+connaître la puissance reçue par ces panneaux solaires.
+2- Sachant que la planète Mars est située à la distance dM-S = 2,3×108 km du Soleil, et
+à partir des données de la partie 1, calculer en W·m-2 la puissance par unité de surface
+traversant la sphère dont le centre est le Soleil et dont le rayon est dM-S. Cette
+puissance par unité de surface appelée constante solaire de Mars et notée CMars.
+Donnée : aire S d’une sphère de rayon d : S = 4×π×d².
+Document 2. Schéma d’un disque recevant une puissance solaire égale à celle
+reçue par Mars
+La puissance solaire reçue par Mars traverse un disque
+fictif de rayon RMars et se répartit ensuite sur toute la
+surface de la sphère martienne de rayon RMars. Celle-ci est
+en rotation sur elle-même.
+On peut considérer que le disque fictif est situé à la même
+distance du Soleil que Mars.
+Source : Daujean, C. D., & Guilleray, F. G. (2019). Le bilan radiatif
+terrestre. Éd. Hatier, Enseignement scientifique (p. 101).
+
+3- La puissance solaire moyenne reçue sur Mars par unité de surface est proche de
+CMars/4 ; sa valeur est voisine de 150 W·m-2. Expliquer qualitativement pourquoi cette
+puissance moyenne par unité de surface est plus petite que CMars.
+Partie 3. Des pommes de terre sur Mars
+Le dôme de la base martienne permet de recréer l’atmosphère terrestre. Grâce à un
+ingénieux système permettant de fournir l’eau nécessaire à la croissance des végétaux
+et à un éclairage adapté alimenté en électricité par les panneaux solaires, Mark
+Watney, botaniste de formation, décide de réaliser une culture végétale qui lui fournira
+de la nourriture nécessaire à sa survie.
+4- À partir de l’exploitation des résultats expérimentaux du document 3 ci-après,
+identifier un facteur essentiel à la production de glucides par la plante.
+
+Document 3. Fixation du CO2 par une feuille
+Une feuille est mise au contact en son centre avec du CO2 marqué au 14C radioactif
+durant 5 minutes. Le CO2 marqué peut diffuser dans la feuille à partir de la zone
+centrale. Seule la moitié de la feuille est exposée à la lumière. La technique
+d’autoradiographie permet de localiser des sucres radioactifs qui impressionnent
+fortement une plaque photographique mise au contact de la feuille (zone sombre sur
+le document).
+
+D’après : http://svt.ac-dijon.fr/schemassvt/IMG/gif/co2_feuill_maz.gif
+
+5- Au 79ème jour, Mark Watney récolte les tubercules de pomme de terre, qui ont stocké
+de l’énergie sous forme chimique.
+Calculer le nombre de jours d’autonomie dont dispose Mark Watney grâce à sa récolte
+de pommes de terre avant qu’une nouvelle mission ne vienne le récupérer sur Mars.
+Expliciter la démarche.
+Données :
+- Surface du champ de pommes de terre : S = 126 m²
+- Rendement* de la pomme de terre : r = 3 kg·m-2
+- Apport énergétique des pommes de terre : A = 3400 kJ·kg-1
+- Dépense énergétique moyenne par jour martien de Mark Watney : D = 11000 kJ
+* En agriculture, on appelle rendement la masse végétale récoltée par unité de surface et par
+saison.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Un décret qui fait grand bruit
+Sur 12 points
+« À partir d'aujourd'hui, les salles de spectacles, mais aussi les cinémas et les festivals
+vont devoir limiter le maximum de leur volume sonore, en le baissant de 105 décibels
+(c'était jusqu'ici la norme) à 102. C'est donc 3 décibels en moins. Cela n'a l'air de rien
+comme ça, mais cela revient tout de même à diviser par deux l’intensité sonore. 102
+décibels, cela reste toutefois encore beaucoup. Beaucoup trop disent certains, des
+médecins notamment, qui rappellent par exemple qu'un marteau piqueur équivaut à
+100 décibels. »
+D’après un article de https://www.rtl.fr publié le 01/10/2018
+
+1- À partir du document 1 et de vos connaissances, expliquer pourquoi il est nécessaire
+de baisser le niveau sonore dans les salles de spectacles. Une réponse argumentée
+et structurée est attendue.
+Document 1. Vues de surface d'une cochlée de chat avant et après des traumatismes
+auditifs
+La cochlée représente la partie auditive de l'oreille interne. On observe une cochlée
+de chat au microscope électronique à balayage dans différentes conditions.
+Partie de cochlée
+normale
+
+On observe une
+rangée de cellules
+ciliées internes (CCI)
+et 3 rangées de
+cellules ciliées
+externes (CCE).
+
+CCI
+
+CCE
+
+Les cellules ciliées
+sont toutes visibles.
+Cils vibratiles des cellules de la CCE
+
+Partie de cochlée
+après une exposition à
+un son pur de 8 kHz à
+120 dB pendant 20
+minutes
+
+CCI
+
+Les cils vibratiles des
+cellules ciliées internes
+sont absents ainsi que
+certains des cellules
+ciliées externes
+
+CCE
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/4361/MS_1991_4_357.pdf?sequence=1
+
+2- À partir de vos connaissances et des documents 2, 3 et 4, expliquer les précautions
+à adopter afin de réduire les risques d’un traumatisme sonore au niveau de l’oreille
+interne. Une réponse argumentée et structurée est attendue.
+Document 2. Effet d’un bouchon d’oreille sur le niveau sonore d’un son au sein de
+l’oreille interne en fonction de sa fréquence
+
+Son sans
+protection
+(dB)
+
+Niveau sonore (dB)
+
+Son avec
+bouchon
+mousse (dB)
+
+Son avec
+bouchon
+silicone (dB)
+
+-10
+
+1000
+
+10000
+
+Fréquence (Hz)
+
+D’après https://www.lesnumeriques.com/accessoire-audio/risques-auditifs-quelle-protectionauditive-choisir-a3795.html
+
+Document 3. Durées admissibles d’exposition quotidienne au bruit
+
+Ce document indique la durée admissible
+d’exposition quotidienne au bruit à différents
+niveaux d’intensité en décibels (dB). Au-dessous
+de 80 dB, il n’y a pas de risque de dégradation
+brutale de l’audition.
+D’après https://www.journee-audition.org/pdf/guidejeunes.pdf
+
+Document 4. Évolution du niveau sonore en fonction de la distance à la scène du
+concert
+
+Niveau sonore (dB)
+
+Distance (m)
+
+3- Louise écoute son groupe de rock préféré et ne veut rien rater du concert dont elle
+ne connait pas la durée exacte.
+Pour cela, elle se met au plus près de la scène à une distance d’environ 1,0 m.
+Les mesures effectuées par les techniciens de la salle montrent que le groupe respecte
+la nouvelle législation en vigueur : le niveau sonore à l’endroit où est Louise est de
+101 dB. Pourtant au bout de quelques minutes, Louise ressent une gêne et décide de
+s’éloigner un peu de la scène.
+À partir des documents 3 et 4, déterminer graphiquement à quelle distance de la scène
+Louise doit se placer pour être sûre de ne subir aucun risque de dégradation brutale
+de son audition.

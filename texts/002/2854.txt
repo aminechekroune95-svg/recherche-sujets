@@ -1,0 +1,239 @@
+{"pages": 7, "method": "pdftotext", "bytes": 636592, "at": "2026-11-23T09:24:46+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Un ballon pour les compétitions internationales de football (10 points)
+La loi 2 de l'International Football Association Board a fixé les caractéristiques d’un ballon
+utilisé pour les compétitions internationales : le ballon doit être sphérique, en cuir ou dans une
+autre matière adéquate, avoir un diamètre de 22 cm et la pression de l’air dans le ballon doit
+être comprise entre 1,6105 Pa et 2,1105 Pa.
+D’après http://www.theifab.com/fr/laws/chapter/22/section/31/
+L’objectif de cet exercice est d’étudier le gonflage d’un ballon et son utilisation dans des lieux
+de compétitions d’altitude différente. Nous nous intéresserons ainsi à deux lois liées à cette
+situation : la loi de Mariotte, qui permet d’étudier le gonflage et la loi de statique des fluides qui
+permet de réfléchir à l’influence de l’altitude sur le gonflage.
+1.
+Étude expérimentale et utilisation de la loi de Mariotte.
+Une expérience est menée au laboratoire pour tester la loi de Mariotte à l’aide d’un
+microcontrôleur et d’un capteur de pression.
+On suit le protocole expérimental suivant :
+ remplir initialement une seringue avec 30 cm3 d’air ;
+ relier la seringue au capteur de pression connecté à un microcontrôleur ;
+ téléverser le programme « Mesure Pression » présenté ci-dessous dans le microcontrôleur ;
+ faire varier le volume du gaz dans la seringue et noter alors la valeur de la pression
+correspondante affichée sur l’écran LCD relié au microcontrôleur.
+
+1.1. Adaptation du programme « Mesure Pression »
+Un extrait du programme associé au pilotage du microcontrôleur dans le montage
+expérimental précédent est donné ci-dessous.
+
+1.1.1.
+Indiquer en quelle unité la pression mesurée par le capteur sera affichée sur
+l’écran.
+1.1.2.
+Dans le programme, la valeur de la pression est affichée sans décimale. Expliquer
+comment modifier la ligne 39 du programme pour que la valeur de la pression soit affichée
+avec 2 décimales.
+1.1.3.
+Expliquer comment modifier la ligne 43 pour que les mesures soient faites toutes
+les 3 secondes.
+1.2. Traitement de mesures obtenues en faisant varier le volume du gaz
+Pour chaque volume d’air choisi dans la seringue, le microcontrôleur indique des valeurs de
+pression toutes les 2 secondes. Ces valeurs sont très proches, mais fluctuent légèrement.
+Le tableau ci-dessous rassemble les valeurs de la pression P affichée par l’écran LCD du
+microcontrôleur pour différents volumes du gaz dans la seringue :
+V (cm3)
+P (hPa)
+1505 1195
+
+1.2.1. Énoncer la loi de Mariotte.
+1.2.2. Exploiter ces mesures pour tester la loi de Mariotte. On explicitera précisément la
+méthode utilisée.
+1.3. Gonflage d’un ballon de football
+On utilise un gonfleur électronique de ballon ayant les caractéristiques suivantes :
+débit d’air à l’entrée du gonfleur : 4 litres par minute ;
+arrêt automatique quand la pression souhaitée est atteinte.
+
+On souhaite gonfler, à l’aide de ce gonfleur, un ballon de football de compétition de diamètre
+égal à 22 cm pour obtenir une pression de l’air à l’intérieur du ballon de 2,1105 Pa.
+On admet qu’avant le gonflage le ballon est totalement dégonflé et que le volume d’air à
+l’intérieur est négligeable. On admet également que la température reste constante pendant le
+gonflage. On précise que l’air entrant dans le compresseur est à la pression atmosphérique.
+1.3.1. On appelle V0 le volume d’air à prélever dans le milieu extérieur pour le gonflage, V1 et
+P1 le volume d’air et la pression à l’intérieur du ballon une fois qu’il est gonflé.
+𝑃 ×𝑉
+Montrer que 𝑉0 = 1𝑃 1 .
+
+1.3.2. Montrer que la durée nécessaire au gonflage, à l’aide du gonfleur électronique, est
+voisine de 3 minutes.
+
+Données :
+Pression atmosphérique Volume d’une sphère de rayon R
+Unités de volume
+1 litre correspond à 103 cm3
+P0 = 1,013  105 Pa
+𝑉 = × 𝜋 × 𝑅3
+2.
+
+Utilisation du ballon dans des lieux de compétitions d’altitudes différentes.
+
+On s’intéresse dans cette partie à la loi fondamentale de la statique des
+fluides pour modéliser l’évolution de la pression atmosphérique en
+fonction de l’altitude. Cette loi précise que, pour un fluide au repos
+incompressible de masse volumique , la différence de pression entre
+deux points, A et B, s’exprime par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+Dans cette relation :
+la masse volumique  s’exprime en kgm3 ;
+
+Oz.
+
+l’intensité de pesanteur g s’exprime en Nkg1 ;
+les altitudes zA et zB s’expriment en m et sont repérées sur un axe vertical ascendant
+
+Les villes de Denver et de New York se sont portées candidates pour accueillir les matchs de
+la coupe du monde de football 2026 organisée conjointement par les États-Unis, le Canada et
+le Mexique.
+2.1. Comparer qualitativement la valeur de la pression au point A à celle au point B.
+2.2. Évaluer la différence de pression atmosphérique 𝑃NY − 𝑃D entre les villes de New York
+située à 10 mètres d’altitude et de Denver située à 1600 mètres d’altitude. Pour les deux
+villes, on suppose que la masse volumique de l’air a pour valeur  = 1,1 kgm3 et et que
+l’intensité de la pesanteur a pour valeur g = 9,8 Nkg1.
+2.3. Sur le site Planet-Terre de l’École Normale Supérieure de Lyon, différents modèles de
+l’atmosphère sont proposés.
+
+Modèle 1 : la masse volumique de l'air dépend de la pression et de la température. On
+suppose que la température varie selon une fonction affine décroissante de l’altitude.
+
+Modèle 2 : la masse volumique de l'air est constante, quelle que soit l'altitude.
+Les graphes correspondants à chacun des deux modèles, et représentant l’évolution de la
+pression atmosphérique en fonction de l’altitude, sont donnés ci-dessous (par souci d’échelle
+l’axe vertical n’est pas gradué à partir de l’origine).
+
+On considère que ces deux modèles sont équivalents quand les valeurs de pression qu’ils
+donnent diffèrent entre elles de moins de 5 %.
+2.3.1. Auquel des modèles 1 ou 2 est liée la loi fondamentale de la statique des fluides ?
+2.3.2. Au vu des graphiques ci-dessus, l’utilisation de cette loi pour répondre à la question 2.2
+parait-elle justifiée ?
+PARTIE B
+Choix d’un moyen de transport (10 points)
+Avec 13,41 gigatonnes de dioxyde de carbone émis dans le monde en 2016, le transport est le
+deuxième contributeur de gaz à effet de serre derrière la production d'énergie électrique
+[…].Les émissions de dioxyde de carbone des transports dépendent de plusieurs facteurs : la
+distance totale parcourue, le nombre de passagers par véhicule, le carburant utilisé ou encore
+le type de trajet. Or, les statistiques montrent un nombre toujours plus important de voitures en
+circulation dans le monde, ainsi qu'une importante augmentation du trafic aérien et du
+commerce mondial de marchandises. La part des émissions de CO 2 par secteur d’activité
+dans le monde est fournie dans le tableau ci-après.
+Énergie électrique Industrie Résidentiel Transport Autres
+41,5 %
+18,9 %
+8,4 %
+24,4 %
+6,8 %
+D’après Céline Deluzarche, chiffres AIE pour l’année 2016.
+1. Voiture diesel ou voiture essence ?
+D’après le texte introductif, les émissions de dioxyde de carbone dues aux transports
+dépendent, entre autres, du carburant utilisé. On se propose, en répondant aux questions de
+cette première partie, de construire un argumentaire scientifique permettant de valider ou
+d’invalider cette affirmation. Les deux carburants étudiés sont le gasoil et l’essence sans
+plomb. On admet qu’ils sont respectivement modélisés par du dodécane (C 12H26) pour l’un et
+de l’octane (C8H18) pour l’autre.
+Type de véhicule
+Carburant utilisé
+Volume de carburant
+consommé pour 100 km
+parcourus
+Masse de dioxyde de
+carbone émis par kilomètre
+parcouru
+
+Diesel
+Gasoil : essentiellement
+du dodécane
+
+Essence sans plomb
+Essence : essentiellement
+de l’octane
+
+V = 5,0 L
+m = 120 g
+
+Données
+Energie molaire de combustion de l’octane : Em = - 5,1  103 kJ.mol-1.
+Masse volumique de l’octane :  = 0,70 kg.L-1.
+Masses molaires atomiques (g.mol-1) : M(C) = 12,0 ; M(H) = 1,00 ; M(O) = 16,0.
+Représentation de quelques éléments : 1H ; 6C ; 8O.
+Extrait d’une table d’énergies molaires de liaison :
+El (kJ.mol-1)
+Liaison
+C–H
+C–C
+C–O
+O=O
+O–H
+C=O
+C = O dans CO2
+1.1. L’équation de la réaction modélisant la combustion du dodécane s’écrit :
+2 C12H26 (l) + 37 O2 (g)  24 CO2 (g) + 26 H2O (g)
+Le schéma de Lewis du dodécane est donné ci-dessous :
+
+1.1.1. Représenter le schéma de Lewis du dioxygène, du dioxyde de carbone et de
+l’eau.
+1.1.2. Déterminer la quantité de matière de dioxyde de carbone rejeté par la voiture
+diesel par kilomètre parcouru.
+1.1.3. En déduire la quantité de matière de dodécane consommé par kilomètre parcouru.
+1.1.4. Montrer, à l’aide des données, qu’une estimation de l’énergie molaire de
+combustion du dodécane est E’m = - 7,50  103 kJ.mol-1. Indiquer pourquoi il
+s’agit d’une estimation.
+1.1.5. En déduire l’énergie libérée Elib par la combustion du gasoil pour un kilomètre
+parcouru.
+1.2. Une voiture essence de motorisation équivalente libère une énergie liée à la
+combustion de l’essence E’lib = - 1,7  103 kJ par kilomètre parcouru.
+1.2.1. Montrer que la masse de dioxyde de carbone émise par la voiture à essence par
+kilomètre parcouru vaut m’ = 1,2  102 g.
+1.2.2. Commenter le résultat obtenu et rédiger un conseil argumenté sur le choix du
+véhicule à utiliser pour minimiser l’impact sur le réchauffement climatique. On
+s’attachera notamment à montrer si le critère de la consommation par kilomètre
+parcouru est un indicateur suffisant.
+
+2. Quel moyen de transport choisir ?
+Un salarié d’une entreprise de conseil en développement durable doit effectuer un aller-retour
+Bordeaux-Paris pour aller défendre un projet d’aménagement. Les deux villes sont distantes de d =
+546 km. Soucieux de l’environnement, il étudie les différentes solutions alternatives à la voiture,
+comme le train (ligne TGV) et l’avion afin de réduire son empreinte carbone. L'empreinte « carbone »
+est la mesure de la quantité de dioxyde de carbone émis, suite à la combustion d'énergies fossiles,
+par une activité, un produit (depuis quelques années cette information est disponible sur
+l'électroménager, les offres immobilières, les véhicules), une prestation.
+Le site « oui.sncf » propose un calculateur des émissions de dioxyde de carbone lors d’un voyage en
+train. On y trouve notamment l’information suivante :
+Emissions de CO2 d’un voyageur parcourant un kilomètre, par type de train SNCF (basées sur
+les consommations d’énergie (source : Réseau de transport d’électricités (Rte), 2017) et
+fréquentations de 2017) :
+ Train TGV : 2,4 g de CO2 par kilomètre
+ Train Intercités : 8,1 g de CO2 par kilomètre
+ Train TER : 29,4 g de CO2 par kilomètre
+ Train Transilien / RER : 5,4 g de CO2 par kilomètre
+D’après https://fr.wikipedia.org et https://www.oui.sncf
+Le combustible utilisé dans les moteurs d’avion est le kérosène. C’est un mélange complexe
+d’alcanes, principalement des molécules comportant 11 atomes de carbone de formule brute
+C11H24.
+Des calculateurs en ligne permettent d’évaluer la masse de CO2 émis par voyageur lors d’un
+voyage en avion.
+Le résultat de la simulation est donné ci-dessous.
+
+En s’appuyant sur les informations données ci-dessus et les résultats trouvés à la partie 1,
+réaliser une étude comparée qui permettra au salarié de l’entreprise d’identifier, parmi les trois
+proposés, le mode de transport le plus écologique au niveau des émissions de dioxyde de
+carbone pour effectuer un aller-retour Bordeaux-Paris.
+L’analyse des données, la démarche suivie et l’analyse critique des résultats sont évaluées et
+nécessitent d’être correctement présentées. Toute trace de recherche sera valorisée.

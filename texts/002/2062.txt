@@ -1,0 +1,92 @@
+{"pages": 2, "method": "ocr", "bytes": 2449256, "at": "2026-11-23T09:22:34+00:00"}
+PARTIE TT
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+En 2019, le chiffre d'affaires d'un restaurant i i
+| } | gastronomique était de 300 0
+On modélise le chiffre d'affaires de ce restaurant (exprimé en milliers ARE
+pendant l'année 2019 + n par le n-ième terme, u, , de la suite (u,,) définie par :
+Up = 300 et u,,, =1,2Xu, — 50
+
+4) Montrer que, selon ce modèle, le chiffre d'affaires du restaurant sera de 310 000 €
+en 2020.
+
+2) Calculer uz et interpréter le résultat obtenu.
+
+3) Faire une conjecture sur le sens de variations de la suite (u,,). Expliquer la
+démarche:
+
+4) Montrer que la suite (u,,) n'est ni arithmétique, ni géométrique.
+
+5) Si on exécutél'algorithme ci-contre; a la fin de u=300
+l'algorithme, k a pour valeur 9. k=0
+while u<5@0:
+Comment peut-on interpréter ce résultat ? u=1.2*u-50
+k=k+1
+
+Exercice 3 (5 points)
+Soit f la fonction définie sur R par : f(x) = —2x° + 6x +8
+1) Montrer que : f(x) = —2(x + 1)(x — 4)
+2) Résoudre l'équation f(x) = 0
+
+3) Faire un schéma à main levée de l'allure de la courbe représentative de f dans un
+repère orthonormé.
+
+4) Expliquer pourquoi le maximum de la fonction f est atteint lorsque x = 1,5.
+
+5) Dresser le tableau de variation de la fonction f sur l'intervalle [—1; 4].
+
+T1CMATHO0124
+
+Exercice 4 (5 Points)
+
+Un hôtel Propose trois formules d'hébergement :
+° nuit avec petit-déjeuner
+* demi-pension
+° pension complète
+
+La directrice de l'hôtel s'intéresse aux durées des séjours de ses clients pendant
+
+; :
+l'année 2019 et les classe en deux Catégories :
+© séjour d'une semaine ou moins
+© séjour de plus d'une semaine
+
+Voici quelques-unes des informations dont elle dispose :
+e¢ 5000 clients ont fréquenté l'hôtel en 2019.
+3100 clients ont séjourné une semaine ou moins.
+
++ 750 clients ont séjourné en pension complète.
+e 3500 clients ont choisi la demi-pension et, parmi ceux-ci, 1050 sont
+
+restés plus d'une semaine
+420 clients ont séjourné en pension complète pendant plus d'une
+
+semaine.
+1) Combien de clients ont séjourné plus d'une semaine à l'hôtel ?
+
+2) Recopier sur la copie et compléter le tableau ci-dessous. On ne demande pas le
+détail des calculs.
+
+à Séjours ] Nuit avec petit- | Demi-pension Pension Total
+| | déjeuner complète
+| Unesemaineou |
+| moins |
+| Plus d'une semaine |
+| Total | 5000
+
+3) Quel pourcentage de clients a séjourné plus d'une semaine ?
+
+4) Parmi les clients qui ont séjourné une semaine ou moins, quelle est la proportion
+de ceux qui ont choisi la demi-pension ? Arrondir à l'unité de pourcentage.
+
+5) On interroge au hasard un des clients de l'hôtel en 2019.
+Quelle est la probabilité qu'il ait séjourné à l'hôtel en pension complète sachant qu'il
+
+est resté plus d'une semaine ? Arrondir au centième.
+
+Page 4 sur 4 [
+T1CMATH00124 ee

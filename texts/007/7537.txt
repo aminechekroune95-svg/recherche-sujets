@@ -1,0 +1,74 @@
+{"pages": 3, "method": "pdftotext", "bytes": 698949, "at": "2026-11-23T09:34:09+00:00"}
+Exercice 2
+MASSE, FRÉQUENCE, GAMME
+Les parties 1 et 2 peuvent être traitées indépendamment l’une de l’autre.
+Partie 1. Masse et fréquence.
+On dispose de trois marteaux M , M et M de masses respectives m = 0,24 kg,
+m = 0,48 kg et m = 1,44 kg.
+L’expérience consiste à les laisser tomber sur une enclume. Un logiciel d’acquisition
+enregistre le signal sonore émis.
+On désigne respectivement par f , f et f les fréquences fondamentales des sons
+émis par les marteaux M , M et M lors de l’expérience.
+Document 1 : spectres des fréquences des sons émis lors de la chute des
+marteaux
+Spectre du son obtenu avec le marteau 1 :
+
+Spectre du son obtenu avec le marteau 2 :
+
+Spectre du son obtenu avec le marteau 3 :
+
+1- Lire sur le document 1 les fréquences fondamentales f , f , et f des sons émis
+lors de l’expérience et noter leurs valeurs sur la copie.
+2- Comparer ces fréquences. La masse du marteau influe-t-elle sur la fréquence
+fondamentale du son émis ?
+Partie 2. Construction d'une gamme
+On souhaite construire une gamme musicale en harmonie avec la note obtenue en
+tapant sur l'enclume de la partie 1. On admet que cette fréquence vaut environ
+3600 Hz.
+3- Cette note, jugée trop aigüe, doit être diminuée de plusieurs octaves-pour obtenir
+une fréquence proche de 440 Hz, correspondant à la fréquence du La3 servant
+
+communément de référence. Combien d’octaves séparent la note obtenue en tapant
+sur l’enclume et le La3 ?
+4- Dans une gamme de douze notes au tempérament égal (aussi appelée gamme
+tempérée), la fréquence de chaque note est obtenue en multipliant la fréquence de la
+précédente par racine douzième de deux, notée √2 ou 2 .
+
+4-a- Recopier et compléter l'algorithme ci-dessous pour qu'il permette de construire
+la gamme de douze notes au tempérament égal à partir de la note de fréquence
+F=f
+←⋯
+Pour i allant de … à …
+Afficher F
+←⋯
+FinPour
+
+4-b- Donner la valeur de B dans le tableau des fréquences ci-dessous :
+Note 0 Note 1 Note 2 Note 3 Note 4 Note 5 Note 6 Note 7 Note 8 Note 9 Note 10 Note 11
+
+Fréquence
+(en Hertz)
+Rapport
+
+A
+
+21/12 22/12 23/12 24/12 25/12
+
+B
+
+28/12 29/12 210/12
+
+211/12
+
+455 482
+
+=
+
+Note 12
+
+4-c- Expliquer pourquoi A = 682 × 607 puis donner la valeur de A.
+
+5- On rappelle que la quinte juste introduite pour construire les gammes de
+Pythagore est exactement .
+Déterminer la note de la gamme pour laquelle l’intervalle qu’elle forme avec la note 0
+est le plus proche de la quinte juste.

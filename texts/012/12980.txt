@@ -1,0 +1,255 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1128663, "at": "2026-11-23T09:33:14+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Numérisation et compression d’un signal sonore
+À l’aide d’un microphone, on a enregistré le signal sonore produit par un diapason.
+Le début du signal analogique obtenu est représenté sur la figure 1.
+Figure 1
+Le diapason
+
+1- Préciser si ce signal représente un son pur ou un son composé. Justifier.
+2- À l’aide d’un logiciel, on procède à la numérisation de ce signal.
+Le logiciel procède en deux étapes : l’échantillonnage du signal puis sa
+quantification.
+À l’issue de ces deux opérations, on obtient le signal suivant (la figure 2b
+représente le même signal que celui de la figure 2a, mais enregistré sur une durée
+plus courte).
+
+Figure 2a
+
+Figure 2b
+
+2-a- Rappeler en quoi consiste l’échantillonnage d’un signal sonore analogique.
+2-b- Déterminer, parmi les valeurs du tableau ci-dessous, en justifiant à l’aide de
+
+la Figure 2b, la fréquence d’échantillonnage utilisée pour cet enregistrement.
+8 000 Hz
+
+16 000 Hz
+
+24 000 Hz
+
+32 000 Hz
+
+3- Le signal échantillonné a été quantifié sur 16 bits.
+3-a- Préciser le nombre de valeurs différentes que l’on peut coder avec une
+quantification sur 16 bits.
+3-b- Si la quantification était réalisée sur 8 bits au lieu de 16 bits, indiquer les
+différences à prévoir sur la qualité sonore et sur la taille du fichier de
+stockage.
+À l’aide d’un logiciel, on enregistre plusieurs morceaux de musique en qualité CD
+(« Compact Disc » en anglais ou disque compact), ce qui correspond à un
+enregistrement sur deux voix (stéréo) avec une fréquence d’échantillonnage de
+44 100 Hz et une quantification sur 16 bits.
+4- Déterminer l’espace nécessaire (en mégaoctets : Mo) pour stocker le fichier
+obtenu lors de l’enregistrement en qualité CD d’un morceau de musique d’une
+durée de 3 minutes.
+5- Le format mp3 correspond à une compression avec perte d’informations, préciser
+ce que cela signifie.
+6- L’enregistrement d’un second morceau de musique a généré un fichier numérique
+de 90,25 Mo de données. On l’enregistre au format mp3 pour le compresser.
+Le fichier mp3 ainsi obtenu a une taille de 7,22 Mo.
+Calculer le taux de compression.
+
+Exercice 2 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+L’énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire le mécanisme qui est à l’origine de l’énergie rayonnée par une
+étoile.
+Document 1. Informations sur la lumière émise par Véga et sur l’influence de la
+température de surface
+
+Source : ci2mrduthoit.weebly.com
+
+Rappel sur la loi de Wien : la longueur d’onde correspondant à l’intensité lumineuse
+maximale λmax est donnée par
+
+avec λmax en mètres et T en kelvins.
+Relation entre température Θ en degrés Celsius (°C) et température T en
+kelvins (K) : Θ = T - 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+À partir de vos connaissances et des informations apportées par les documents,
+répondre aux questions suivantes.
+2- Indiquer si la température de surface de l’étoile Véga est supérieure ou inférieure à
+celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la proposition la plus juste parmi les suivantes et justifier
+votre réponse.
+La température de surface de l’étoile Véga vaut environ :
+
+750 K
+
+7500 K
+
+7200 °C
+
+72000 °C
+
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des informations
+extraites des documents 2 et 3 suivants, ainsi que de vos connaissances.
+La réponse ne doit pas excéder une page.
+
+Document 2. Photosynthèse, respiration et fonctionnement d’une plante
+
+La photosynthèse est un métabolisme qui se déroule dans les cellules chlorophylliennes. La
+respiration cellulaire est un métabolisme se déroulant dans toutes les cellules et qui produit
+un type de molécule permettant des transferts d’énergie donc le fonctionnement cellulaire :
+l’ATP (adénosine tri-phosphate).
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 3. Représentation schématique des flux d’énergie et de matière
+organique (biomasse) dans un écosystème
+
+Figure 1 : une pyramide énergétique dans un écosystème terrestre
+Les différents maillons d’un réseau trophique sont positionnés verticalement en fonction de
+leur place fonctionnelle (des producteurs primaires à la base aux consommateurs tertiaires
+en haut). Dans cet exemple d’écosystème, environ 10 % de l’énergie disponible à chaque
+niveau trophique sont convertis en nouvelle biomasse au niveau suivant, ce qui représente
+une efficacité trophique de 10 %.
+
+Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique
+Moins de 17 % de la nourriture d’une chenille sert réellement à la production de biomasse
+(croissance).
+D’après Biologie, Reece, Urry et al ; 4ème édition.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+De la radiumthérapie à la curiethérapie
+En décembre 1898, Marie et Pierre Curie découvrent un nouvel élément chimique
+qu’ils appellent « radium ». Pierre Curie et Henri Becquerel publient en 1901 un article
+relatant les effets physiologiques du rayonnement du radium.
+Dans les années 1910, Marie Curie, qui dirige alors l’Institut du Radium développe,
+avec le Dr. Regaud qui dirige l’Institut Pasteur, la « curiethérapie ». C’est une méthode
+qui consistait à irradier localement une tumeur cancéreuse en introduisant de fines
+aiguilles contenant du radium.
+L’objectif de l’exercice est de comprendre le principe d’une radiothérapie, la
+curiethérapie.
+Document 1. Les débuts de la curiethérapie
+Les médecins avaient très vite compris que les rayonnements ionisants tuaient plus
+facilement les cellules cancéreuses que les cellules saines, bien qu'ils n'aient pas
+su pourquoi. Mais il y eut un long chemin à parcourir avant qu'ils ne parviennent à
+optimiser les doses de ces rayonnements tout en minimisant les risques pour les
+patients et les opérateurs. À l'âge héroïque, il n'était pas possible de calculer la dose
+de rayonnement émise et les médecins recouraient le plus souvent à une irradiation
+massive aux rayons X d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur. Pour les tumeurs traitées par
+radioactivité, on employait des sels de radium, d'abord contenus dans des tubes en
+verre puis dans des aiguilles en platine, placés contre les tumeurs (ou à l'intérieur)
+ce qui limitait leur usage aux cancers accessibles de l'extérieur et de petite taille
+(cancers du sein, de la peau, du col de l'utérus).
+Source : d’après www.futura-sciences.com, dossier radioactivité : les pionniers
+
+Aiguilles contenant les sels de radium
+utilisées en curiethérapie dans les années 1910
+Source : http://www.jeanboudou.fr/blog/la-grande-decouverte-des-curie
+
+Le radium est un élément radioactif. On estime aujourd’hui sa demi-vie à 1622 ans.
+1. À partir de vos connaissances, expliquer ce qu’est un élément radioactif.
+2. Donner la définition de la demi-vie d’un élément radioactif.
+3. À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre copie :
+La curiethérapie a été utilisée dès le début du XXème siècle pour soigner des cancers,
+car :
+3a. Les rayonnements produits empêchent les récidives de la tumeur.
+3b. Les rayonnements produits détruisent les cellules des tumeurs.
+3c. Les rayonnements produits pouvaient être facilement dosés et localisés
+avec précision sur la tumeur.
+3d. Les rayonnements produits provoquent uniquement une nécrose des
+cellules cancéreuses.
+
+Document 2. La méthode actuelle de curiethérapie de la prostate
+La curiethérapie de la prostate consiste à installer directement dans l’organe des
+implants radioactifs constitués d'une source radioactive enrobée dans une capsule
+de titane. Un radioélément utilisé est l'iode-125. De 40 à 130 implants sont installés
+dans la prostate, le nombre étant déterminé par le volume de la prostate à traiter.
+Ces implants restent à demeure.
+
+Implants contenant de l’iode125 utilisés en curiethérapie de
+Radiographie du bassin d’un patient traité par
+la prostate
+curiethérapie. Les implants apparaissent sous
+forme de bâtonnets blancs.
+Évolution de la radioactivité des implants en fonction du temps
+Pourcentage
+de radioactivité
+restante (%)
+
+Temps
+(semaines)
+
+Source : d’après http://www.laradioactivite.com/site/pages/Projet_Curietherapie.htm
+
+Document 3. Radioprotection après la pose des implants radioactifs lors d’une
+curiethérapie de la prostate
+La plupart des rayonnements émis par l'iode-125 ont beau être essentiellement
+absorbés dans l’organe à traiter, une fraction touche néanmoins des structures
+proches, comme le rectum ou la vessie par exemple. À cette inquiétude légitime
+pour le patient, s'ajoute un risque pour l'entourage tant que la radioactivité n'a pas
+décru suffisamment : le patient est lui-même radioactif. Quelques précautions
+permettent de réduire le risque. Voici les conseils donnés par l’Institut National du
+Cancer :
+« En cas de curiethérapie par implants permanents (iode-125), la radioactivité des
+sources implantées diminue progressivement dans le temps. Les risques pour
+l’entourage sont jugés inexistants, les rayonnements émis étant très peu pénétrants
+et donc arrêtés presque totalement par le corps lui-même.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 6 mois qui suivent l’implantation. En pratique,
+vous devez notamment éviter les contacts directs et prolongés avec les jeunes
+enfants (par exemple, les prendre sur vos genoux) et les femmes enceintes. »
+Source : d’après https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie/Quel-deroulement
+
+4. À partir de l’exploitation des documents 2 et 3 et de vos connaissances :
+4a. Réaliser sur le document en annexe la courbe de décroissance radioactive de
+l’iode-125 représentant le pourcentage de l’activité restante en fonction du temps.
+4b. Déterminer le temps de demi-vie de l’iode-125.
+4c. L’activité des implants utilisés en curiethérapie est considérée comme faible
+lorsque l’activité restante est inférieure à 15 % de l’activité initiale. Déterminer au bout
+de combien de temps les implants auront une activité faible.
+4d. Justifier la durée des précautions à prendre par le patient concernant son
+entourage.
+5. À l’aide de l’ensemble des documents, donner un intérêt d’utiliser l’iode-125 plutôt
+que le radium pour la curiethérapie. Une réponse argumentée est attendue.
+
+Document réponse à rendre avec la copie
+Exercice 3
+De la radiumthérapie à la curiethérapie
+
+Question 4a)
+
+% de radioactivité restante
+
+Temps (en semaine)

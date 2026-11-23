@@ -1,0 +1,398 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1830674, "at": "2026-11-23T09:30:40+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Exposition au bruit
+Le bruit fait partie de la vie. D’ailleurs, l’absence totale de bruit est unanimement
+reconnue comme très difficilement supportable pour l’homme. Pourtant, certaines
+situations d’exposition au bruit, dans la vie de tous les jours ou au travail, peuvent
+être néfastes pour la santé. Aujourd’hui, en France, plus de trois millions de salariés
+sont exposés sur leur lieu de travail, de manière prolongée, à des niveaux de bruit
+potentiellement nocifs. En outre, le bruit est reconnu comme cause de maladies
+professionnelles depuis 1963.
+L’exposition au bruit sur le lieu de travail est susceptible d’affecter la santé des
+travailleurs. La perte auditive (surdité) en est l’effet le plus connu, mais le risque
+accru d’accidents et l’exacerbation du stress comptent aussi parmi les conséquences
+possibles du bruit au travail.
+Ministère du travail – « Bruit en milieu de travail »
+
+Dans cet exercice, nous allons nous intéresser à l’exposition au bruit. Dans un
+premier temps, nous discuterons comme comprendre l’outil de diagnostic utilisé par
+les médecins pour évaluer les pertes d’audition, puis nous verrons comment nous en
+préserver en fonction des situations.
+Partie 1 – Diagnostic d’une perte d’audition
+Pour diagnostiquer la santé auditive d’un patient, un médecin peut réaliser un test
+d’audiométrie tonale. Ce test consiste à faire écouter au patient des sons de
+fréquence bien déterminée à des niveaux d’intensité croissants. Lorsque le patient
+entend le son, il le signifie. Le niveau d’intensité sonore le plus faible que perçoit un
+patient pour une fréquence 𝑓 est son seuil d’audition. Nous le noterons 𝐿seuil (𝑓).
+En comparant le seuil d’audition du patient au seuil d’audition de référence (noté
+𝐿ref (𝑓)) établi pour des personnes ayant une santé dans la norme, on définit la perte
+auditive 𝑃(𝑓) du patient :
+𝑃(𝑓) = 𝐿seuil (𝑓) − 𝐿ref (𝑓)
+Une valeur positive de la perte auditive correspond à un patient entendant moins
+bien que la normale. A l’inverse, une valeur négative de 𝑃(𝑓) indique que le patient
+entend mieux que la normale.
+
+En mesurant la perte auditive du patient pour différentes fréquences du domaine
+audible (20 Hz − 20 kHz), on obtient un audiogramme tel que ceux représentés sur le
+document 1.
+Sur ce diagramme, on porte :
+
+La fréquence en abscisse ;
+
+La perte auditive en ordonnée suivant un axe inversé (la perte augmente
+lorsque l’on descend).
+
+1- Préciser les unités des grandeurs sur chacun de ces axes.
+2- Justifier que l’audiogramme ne couvre pas tout le domaine des fréquences
+audibles.
+
+Document 1 – Audiogramme d’un patient (pour chaque oreille)
+
+Le patient se plaint de demander de plus en plus souvent à ses interlocuteurs de
+répéter leurs propos.
+On se donne quelques repères :
+
+La gamme de fréquence d’une voix plutôt grave va de 80 Hz à 400 Hz et celle
+d’une voix plutôt aigüe va de 300 Hz à 1500 Hz.
+
+Une conversation normale entre adultes se situe à un niveau sonore de l’ordre
+de 60 dB.
+
+Une conversation chuchotée se situe à un niveau sonore de l’ordre de 40 dB.
+
+Une conversation dans un environnement bruyant se situe à un niveau sonore
+de l’ordre de 80 dB.
+
+3- Rédiger un court texte argumenté expliquant pourquoi le patient rencontre des
+difficultés à comprendre une conversation normale.
+Pour mieux caractériser la gêne que peut représenter la perte auditive de ce patient,
+nous allons considérer le cas de la perception de l’arrivée d’une moto dans la rue.
+Lorsqu’une moto en marche se situe à une distance d’un mètre derrière le patient
+(distance 𝑑0 = 1 m), elle émet un bruit dont le niveau d’intensité sonore au niveau
+des oreilles du patient est 𝐿0 = 90 dB.
+Lorsque la moto en marche se situe à une distance 𝑑 derrière le patient, le bruit
+qu’elle émet atteint les oreilles du patient avec un niveau d’intensité sonore 𝐿(𝑑) dont
+la valeur est donnée par la formule :
+𝐿0 −𝐿
+
+𝑑 = 𝑑0 × 10 20
+
+Par ailleurs, une moto émet des sons dans une gamme de fréquence autour de
+4 kHz.
+Enfin, on considère que dans un environnement urbain calme, une personne sans
+perte auditive commence à percevoir la moto lorsque l’intensité sonore 𝐿 atteint
+50 dB, ce qui correspond à une distance de 100 m d’après la formule ci-dessus.
+4- Déterminer la distance à partir de laquelle le patient commence à percevoir la
+présence de la moto.
+5- Commenter cette valeur et en déduire un exemple de l’impact de cette perte
+auditive sur sa vie quotidienne.
+Partie 2 – Se protéger du bruit
+Pour se prémunir des problèmes de santé induit par le bruit, il est important d’utiliser
+des dispositifs de protection. Toutefois, ceux-ci doivent être adaptés au contexte.
+Par exemple, dans un environnement de travail bruyant, il faut pouvoir se prémunir
+des bruits les plus agressifs pour l’oreille (situés principalement dans une bande de
+fréquence autour de 4 000 Hz) tout en restant disponible pour des échanges
+conversationnels (bande de fréquence de 80 Hz à 1 500 Hz).
+
+En revanche, pour bien dormir dans un environnement nocturne bruyant, il est
+préférable de réduire l’ensemble des bruits.
+Le graphique du document 2 présente la réduction de bruit en fonction de la
+fréquence pour trois bouchons d’oreille en mousse réalisés dans des matériaux
+différents.
+6- Rédiger un court paragraphe argumenté expliquant quel type de bouchons
+d’oreille (A, B ou C) est le plus adapté pour se prémunir du bruit dans chacun
+des deux contextes précédents :
+
+Un environnement de travail bruyant.
+
+Une nuit de sommeil dans un environnement nocturne bruyant.
+
+Document 2 – Réduction du bruit par trois types de bouchons d’oreille
+
+Source : D’après l’article « Les meilleurs bouchons d’oreilles pour mieux dormir » paru sur
+le site lemonde.fr
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Pénurie d’eau sur la planète bleue
+Partie 1 – L’eau liquide, rare dans le système solaire
+L’eau est constituée d’hydrogène et d’oxygène, des éléments chimiques parmi les
+plus abondants dans l’Univers. Pourtant la molécule d’eau quant à elle est
+relativement rare dans l’Univers. À l’état liquide, indispensable à la vie, elle l’est
+encore plus : dans notre Système solaire on ne trouve de l’eau liquide que sur Terre.
+Document 1 – Données sur les planètes telluriques du système solaire
+La température théorique est la température calculée à la surface d’une planète
+si l’on ne considère que les effets de l’éclairement du Soleil et de l’albédo de sa
+surface : modèle de planète avec une atmosphère mais sans effet de serre
+Planète ou satellite
+
+Mercure
+
+Vénus
+
+Terre
+
+Mars
+
+Température théorique
+(°C)
+
+- 20
+
+- 18
+
+- 56
+
+Température moyenne
+mesurée (°C)
+
+- 63
+
+Distance au Soleil
+(×106 km)
+
+Pas
+Pression atmosphérique
+à la surface de la planète d’atmosphère
+(Pa)
+0 Pa
+
+Atmosphère
+ténue
+9,3.106 Pa
+
+105 Pa
+
+6 Pa
+
+Source : d’après https://planet-terre.ens-lyon.fr/ressource/planetes-telluriques.xml et
+https://cnes.fr
+
+1- Décrire la variation de la température théorique à la surface de la planète en
+fonction de sa distance au Soleil. Expliquer cette variation globale.
+
+2- Justifier que sans effet de serre, l’eau à la surface de la Terre ne serait pas
+liquide.
+
+Document 2 – Atmosphère ou pas ?
+La capacité d'un astre à retenir une atmosphère dépend de plusieurs paramètres.
+Les molécules qui constituent l’atmosphère sont soumises à une incessante
+agitation. Celle-ci est à l’origine d’une vitesse moyenne d'origine thermique qui
+dépend de la température sur la planète et de la masse des molécules.
+Les molécules de l’atmosphère sont également soumises à l’attraction
+gravitationnelle de l’astre, qui tend à les maintenir autour de lui.
+On appelle « vitesse de libération », la vitesse minimale qu'il faut communiquer à
+un corps à la surface d’un astre sans atmosphère, pour qu'il échappe
+définitivement à l'attraction gravitationnelle de cet astre.
+
+Vitesse de libération sur Terre : 11,2 km·s-1
+Vitesse de libération sur Mars : 5,0 km·s-1
+
+Sur un astre possédant une atmosphère, si la vitesse d’origine thermique des
+molécules est inférieure au dixième de la vitesse de libération sur l’astre, alors
+les molécules restent dans l’atmosphère, piégées pour de bon par l'attraction
+gravitationnelle.
+Le graphique ci-dessous représente le décuple de la vitesse d’origine thermique
+en fonction de la température pour quelques entités chimiques.
+
+*l’axe des ordonnées représente les valeurs de vitesse d’origine thermique
+multipliées par 10.
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/eau/comprendre/systemesolaire/atmosphere-atmosphere-1
+
+3- Choisir en justifiant parmi les réponses A, B ou C celle qui complète l’aide à
+l’exploitation du graphique du document 2 :
+« Pour déterminer si un astre peut retenir une atmosphère, placer sur le graphique
+un point dont les coordonnées sont la température moyenne de surface de l’astre en
+abscisse et la vitesse de libération sur l’astre en ordonnée. Si le point tracé
+est [réponse A, B ou C] la courbe associée à une entité chimique, alors l’astre est
+capable de retenir une atmosphère contenant cette entité ».
+
+Réponse A : [au-dessus de]
+
+Réponse B : [en-dessous de]
+
+Réponse C : [sur]
+
+4- En déduire que ce modèle est cohérent avec l’absence d’eau dans l’atmosphère
+de Mars et cohérent avec la présence d’eau dans l’atmosphère de la Terre.
+Partie 2 – La pénurie d’eau sur Terre
+« Nous allons devoir gérer de plus en plus d'épisodes de pénuries d'eau ». Ce sont
+les mots de Richard Connor, l'auteur du rapport mondial sur la mise en valeur des
+ressources en eau, publié mercredi 22 mars 2023 par l'Unesco.
+Document 3 – Répartition en pourcentage de l’eau sur Terre (en volume)
+L'eau recouvre 72 % de la surface du globe pour un volume total estimé à 1 386
+millions de km3, qui vaut à la Terre son nom de « planète bleue ».
+
+Source : d’après https://www.pnas.org/doi/epdf/10.1073/pnas.100481210
+
+L’Homme ne peut accéder, pour subvenir à ses besoins, qu’à l’eau douce de surface
+et aux eaux souterraines.
+5- Calculer le pourcentage d’eau douce utilisable par les humains par rapport à
+l’eau totale sur Terre et discuter de l’apparente grande quantité d’eau disponible
+sur la planète Terre.
+Pour quantifier la ressource en eau douce disponible pour l’humanité, on estime un
+flux d’eau. Celui-ci provient en grande partie des précipitations issues du cycle de
+l’eau.
+
+Document 4 – Différents niveaux de disponibilité de l’eau douce dans le
+monde
+Le flux d’eau douce est d’environ 40 000 millions de km3/an dans le monde. Ce qui
+équivaut, s’il était également réparti, à 5 700 m3 par personne et par an. Malgré
+cette ressource apparemment suffisante, de nombreux pays connaissent une crise
+de l’eau. Les pays du Maghreb, dont le Maroc, en font partie.
+La carte ci-dessous montre la disponibilité en eau douce dans le monde en m 3 par
+personne et par an :
+
+Source : d’après https://www.cieau.com/connaitre-leau/les-ressources-en-france-et-dansle-monde/ou-en-sont-les-ressources-en-eau-dans-le-monde/
+
+6- Montrer l’existence d’une inégale répartition des ressources en eau. Vous
+appuierez votre raisonnement sur des rapports entre les valeurs de disponibilité
+en France, Maroc et Canada.
+
+Document 5 – Comparaison de données entre la France et le Maroc
+Les précipitations se mesurent en hauteur d'eau tombée au sol rapportée à une
+unité de surface : 1 millimètre de pluie représente 1 litre d'eau par mètre carré.
+Précipitations annuelles moyennes en France (en mm)
+
+Précipitations annuelles moyennes au Maroc (en mm)
+
+Source : d’après http://meteofrance.com/ et https://www.marocmeteo.ma/
+
+L’agriculture est le premier usager de la ressource en eau douce, en particulier
+pour l’irrigation.
+Le tableau ci-dessous présente les superficies agricoles totales et irriguées en
+2010 en France et au Maroc (en milliers d’hectares) :
+Surface agricole totale
+
+Superficie irriguée
+
+France
+
+26325
+
+1575
+
+Maroc
+
+9900
+
+1500
+
+Source : d’après Mutin, 2011 ; FAO, 2010 et SSP-Agreste-recensement agricole 2010
+
+7- Déterminer deux causes possibles de l’inégale répartition des ressources en eau
+entre la France et le Maroc. Justifier la réponse par des valeurs chiffrées.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Titre de l’exercice
+Ötzi est une momie naturelle retrouvée dans les Alpes il y a 30 ans, allongée à plat
+ventre, au bord d’un lac gelé situé à 3 000 mètres d’altitude dans la vallée d’Ötzal.
+Les analyses
+scientifiques ont
+révélé qu’il s’agit d’une
+très ancienne scène
+de crime…
+
+Découverte de la momie et reconstitution de Ötzi, musée
+archéologique de Haut-Adige
+
+Crédit photo : SOUTH TYROL MUSEUM OF
+ARCHAEOLOGY.
+
+L’objectif de cet exercice est d’estimer la date de l’assassinat d’Ötzi.
+
+Partie 1 – L’atome de carbone
+Document 1 – Origine et cycle du carbone 14C
+Le carbone présent dans l'atmosphère essentiellement sous forme de dioxyde de
+carbone (CO2) possède plusieurs isotopes : carbone 12, carbone 13, carbone 14.
+Le carbone 14 est un isotope radioactif du carbone donc instable ; il se désintègre
+spontanément en un noyau fils (azote 14) plus stable.
+Sa période radioactive (ou « demi-vie ») est de 5 730 ans.
+On peut considérer que tant qu'une plante ou un animal est vivant, son organisme
+échange du carbone avec son environnement, si bien que le carbone qu'il contient
+aura la même proportion de 14C (carbone 14) que dans la biosphère.
+Lorsque cet organisme meurt, son métabolisme cesse, il ne reçoit plus
+de carbone 14 et celui qu'il contient va se désintégrer peu à peu au cours du temps
+selon une loi exponentielle.
+La datation par le carbone 14 se fonde alors sur le comptage du carbone 14
+résiduel dans l’organisme mort.
+
+Figure A – Cycle du Carbone 14
+Source : Manuel Nathan 1ère Enseignement Scientifique
+
+À l’aide des informations du document 1 :
+1- Donner la caractéristique d’un isotope radioactif.
+2- Énoncer ce qu’il faut quantifier pour évaluer la date de la mort d’un être vivant.
+Justifier votre réponse.
+
+3- Énumérer la succession des évènements qui aboutissent à la présence de
+carbone 14 dans le corps d’Ötzi.
+
+Partie 2 – Datation d’une mort
+À la mort d’Ötzi, le nombre initial 𝑁0 de noyaux de carbone 14 contenu dans son
+corps était de 3,87 × 1015 .
+À la découverte de la momie, elle possédait une activité radioactive en carbone 14
+de :
+𝐴 = 7910 Bq
+4- Établir la valeur de la demi-vie du carbone 14, en utilisant le graphique du
+document 3 (page suivante) et en exposant la démarche permettant de la
+déterminer.
+5- À l’aide des informations du document 2 (ci-après), calculer le nombre N de
+noyaux résiduels dans la momie au moment de sa découverte.
+6- Sachant que 3,87 × 1015 noyaux correspondent à 100 % de noyaux de
+carbone 14, vérifier que le pourcentage de carbone 14 résiduel lors de la
+découverte de la momie est de 53 %.
+7- À l’aide du résultat de la question précédente et de la courbe de décroissance
+radioactive du carbone 14, estimer la date de l’assassinat d’Ötzi.
+Document 2 – Définition de l’activité d’un échantillon
+On appelle activité 𝐴 d’un échantillon radioactif le nombre de désintégrations de
+noyaux qui s’y produisent par seconde. Ainsi l’activité 𝐴 en Bq de cet échantillon et
+le nombre de noyaux N qu’il contient sont liés par la relation :
+𝑁 =
+
+𝐴 × 𝑡1/2
+0,69
+
+𝑡1/2 : demi-vie de l’échantillon radioactif exprimée en seconde.
+Données :
+
+5730 ans = 1,81 × 1011 secondes.
+
+Document 3 – Courbe de décroissance radioactive
+La courbe de décroissance radioactive du carbone 14 suivante montre l’évolution
+de la quantité de carbone 14 au cours du temps à partir de la mort d’un organisme.
+
+Figure B – Courbe de décroissance radiactive du carbone 14C
+Source : Manuel Nathan 1ère Enseignement Scientifique

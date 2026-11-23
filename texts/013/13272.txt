@@ -1,0 +1,312 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1486707, "at": "2026-11-23T09:25:49+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingenieur
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme : Analyser, Modéliser et résoudre, Communiquer
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 10
+
+Documents réponses ................................................... Page 11
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier
+et/ou quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou
+partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION
+Une des attractions touristiques les plus célèbres
+de la ville de Nantes est le grand éléphant des
+Machines de l’île (figure 1).
+D’une longueur de 21 m, d’une hauteur de 12 m
+et d’une largeur de 8 m, cet éléphant pèse 49
+tonnes et est capable de transporter 50 passagers
+pour leur faire visiter le quartier autour des Nefs,
+anciennes
+halles
+industrielles
+restaurées
+constituant un espace public couvert et ouvert à
+chaque extrémité (figure 2).
+
+Figure 1 : photo de l’éléphant
+
+L’éléphant est un véhicule hybride fonctionnant avec de l’énergie thermique ou
+électrique. Il possède quatre roues et un châssis sur lequel est montée une structure
+représentant un éléphant. Ses différents mouvements sont assurés par une
+machinerie composée, entre autre, de 62 vérins (hydrauliques et pneumatiques) et de
+12 moteurs (électriques et hydrauliques).
+Il effectue toujours le même circuit sur une esplanade située sur l’ancien site des
+chantiers navals et passe à chaque tour sous les Nefs, où il s’arrête la nuit. Un extrait
+du circuit est présenté sur la figure 2.
+
+Figure 2 : extrait du
+circuit de l’éléphant à
+proximité des Nefs
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : vérifier que l’autonomie des batteries est suffisante pour que
+l’éléphant puisse se déplacer une journée sans avoir besoin de recharger les batteries.
+Le schéma cinématique de la patte avant de l’éléphant (figure 3) est présenté figure
+4.
+Le repère 1 représente le châssis et le repère 2 le « fémur ».
+
+Figure 3 : patte avant
+
+Figure 4 : schéma cinématique de la patte avant
+
+Question I-1
+
+Indiquer le nom de la liaison mécanique entre les pièces 1 et 2.
+Indiquer la (les) mobilité(s) entre ces 2 pièces (préciser axe, points).
+Les figures 5 et 6 représentent les modélisations de la patte avant dans la position
+initiale et dans la position finale vers l’avant.
+La pièce 2 tourne d’un angle de 45° par rapport à la pièce 1 autour de l’axe (𝑂, 𝑧⃗) en
+5 s. Les points G2, G3 et G4 représentent les centres de gravité des trois parties de la
+patte.
+
+Figure 5 : patte avant en position initiale
+
+Figure 6 : patte avant en position finale
+
+Le mouvement de rotation de la pièce 2 par rapport à la pièce 1 est assuré par un
+moto-réducteur hydraulique, fixé sur la pièce 2, dont l’axe de rotation passe par le point
+O.
+La figure 7 présente l’évolution du couple moteur en fonction du temps lors du
+mouvement complet de la patte (rotation de 0 à 45°, puis retour en position initiale).
+Ce graphe a été obtenu grâce à un logiciel de simulation.
+
+Figure 7 : couple moteur en fonction du temps
+Question I-2
+
+Expliquer pourquoi le couple est maximal à t = 5 s et préciser sa
+valeur.
+
+Le moto-réducteur transforme une énergie hydraulique (huile sous pression) en une
+énergie mécanique de rotation.
+Une pompe hydraulique assure la mise sous pression de l’huile (100 bars).
+La documentation technique de ce moto-réducteur donne les indications ci-dessous.
+- La vitesse de rotation maximale est de 140 tr·min-1.
+- Le couple maximal disponible sur son arbre est de 6 675 N·m pour une
+pression d’alimentation de 100 bars.
+Question I-3
+
+Indiquer si le moto-réducteur choisi est adapté (couple et vitesse).
+Justifier la réponse.
+
+Lorsque l’éléphant se déplace sous les Nefs, toute la machinerie hydraulique et
+électrique est alimentée par des batteries.
+Les Nefs mesurent 200 m de long et la vitesse de déplacement de l’éléphant est de
+3 km·h-1.
+On suppose que le déplacement sur les 200 m s’effectue en ligne droite à vitesse
+constante.
+Les trois phases de fonctionnement de l’éléphant sous les Nefs sont définies cidessous.
+- Phase 1 : avance de l’éléphant sur 150 m.
+- Phase 2 : arrêt de l’éléphant pendant 20 minutes pour permettre la descente et la
+montée des passagers. Pendant cet arrêt, l’éléphant est « réveillé » et consomme de
+l’énergie.
+- Phase 3 : avance de l’éléphant sur 50 m.
+L’évolution temporelle du courant consommé dans le moteur, quand l’éléphant se
+trouve sous les Nefs, est présentée figure 8.
+
+Figure 8 : courant consommé dans le moteur en fonction du temps
+
+Question I-4
+
+Vérifier que l’éléphant se déplace bien à une vitesse constante de
+3 km·h-1 durant les phases 1 et 3.
+
+Question I-5
+
+Calculer en ampères-heures la quantité d’électricité consommée
+par l’éléphant quand il est sous les Nefs.
+
+Chaque jour entre 10h et 19h, l’éléphant réalise 4 fois le parcours.
+Pendant 5h en dehors du créneau horaire défini ci-dessus, il est à l’arrêt sous les Nefs
+dans un état « réveillé ». Dans cet état le courant issu des batteries est de 15 A.
+Quatre batteries sont installées en parallèle.
+L’ensemble des quatre batteries présente une capacité de 144 A·h (36 A·h fois 4) avec
+une tension de 600 V DC.
+Question I-6
+
+Indiquer si la capacité des batteries est suffisante pour un
+fonctionnement (4 parcours + état « réveillé ») d’une journée.
+Justifier la réponse.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : contrôler la vitesse de chacune des roues motrices afin de maintenir
+une avance à vitesse constante.
+La rotation des deux roues arrière est assurée par des moteurs électriques
+asynchrones.
+Les deux moteurs asynchrones sont alimentés par des variateurs de vitesse qui font
+varier la fréquence des tensions aux bornes du moteur, en fonction de la vitesse de
+rotation souhaitée.
+Pour une avance de l’éléphant à la vitesse 3 km·h-1 en ligne droite, la vitesse de
+rotation des moteurs vaut 1 307 tr·min-1 et la fréquence programmée dans les
+variateurs est 44,7 Hz. La vitesse des roues vaut alors Nroue = 11,37 tr·min-1 et le
+diamètre des roues arrière est de 1,4 m.
+La vitesse de rotation des roues est mesurée au moyen d’un codeur incrémental fixé
+sur l’axe de chacune des roues.
+Un codeur incrémental délivre des signaux en créneau, du type de celui présenté figure
+9. Ces signaux permettent, après traitement, d’obtenir la vitesse de rotation ainsi que
+le déplacement angulaire de l’arbre sur lequel le codeur incrémental est fixé.
+Le codeur incrémental choisi délivre 360 créneaux par tour.
+Pour obtenir la vitesse de rotation de l’arbre sur lequel est placé le codeur, un dispositif
+de comptage compte le nombre d’impulsions par seconde.
+
+Figure 9 : signal en créneau délivré par le capteur lors de la rotation de la roue
+
+Question II-1
+
+Déterminer le nombre d’impulsions Nimp délivré par le capteur en une
+seconde, quand l’éléphant avance à la vitesse de 3 km·h-1 .
+
+Question II-2
+
+Déterminer le nombre d’impulsions NvaleurFinale délivrées par le
+capteur à la fin du déplacement de 150 m en ligne droite.
+
+La loi de commande de la vitesse au niveau des variateurs est définie de la façon
+suivante. Si la vitesse mesurée devient inférieure ou supérieure à 5% par rapport à la
+vitesse souhaitée, la fréquence du variateur de vitesse est modifiée dans les mêmes
+proportions.
+Par exemple :
+ quand la vitesse diminue de 8 % alors on augmente la fréquence en sortie de
+variateur de 8% ;
+ quand la vitesse augmente de 4% , on ne modifie pas la valeur de la fréquence f
+en sortie de variateur.
+Question II-3 Déterminer :
+ pour la vitesse de 3 km·h-1 +5 %, le nombre d’impulsions
+Nimp+5% en sortie du capteur par seconde ;
+ pour la vitesse de 3 km·h-1 -5 %, le nombre d’impulsions Nimp5% en sortie du capteur par seconde.
+
+L’algorithme du document réponse DR1 permet de contrôler le mouvement rectiligne
+de l’éléphant en commandant la fréquence du variateur de vitesse de la roue droite.
+
+Les sous-programmes et les variables sont définis ci-dessous.
+Définition du sous-programme de comptage des impulsions issues du capteur
+ComptageCapteurDroit()
+# sur le moteur droit
+Définition de la fonction de remise à zéro du comptage des impulsions issues
+du capteur
+RAZComptageCapteurDroit()
+Déclaration des variables
+CompteurAvance : entier # nombre d’impulsions comptées
+NvaleurFinale : entier
+#nombre d’impulsions délivrées par le capteur après un
+déplacement de X mètres en ligne droite.
+Nimp : entier
+# nombre d’impulsions délivrées par le capteur en
+une seconde pour une vitesse souhaitée
+Fd : réel
+# fréquence programmée sur le variateur en fonction de
+la vitesse souhaitée sur la roue droite
+
+CompteurDroit : entier
+Nimp-5% : entier
+Nimp+5% : entier
+écartD : réel
+
+Question II-4
+DR1
+
+# nombre d’impulsions comptées issues du codeur de la
+roue droite
+# nombre d’impulsions délivrées par le capteur à la
+vitesse souhaitée -5%
+# nombre d’impulsions délivrées par le capteur à la
+vitesse souhaitée +5%
+# écart en % entre le nombre d‘impulsions issues du
+capteur et celui correspondant à la vitesse souhaitée
+
+Compléter sur le document réponse DR 1 l’algorithme de contrôle
+de la vitesse de la roue droite pour un déplacement de 150 m à la
+vitesse 3 km·h-1.
+
+DOCUMENT RÉPONSE
+DR1 - QII-4
+# initialisations des variables
+Fd
+ 44,7
+
+Nimp
+
+Nimp-5%
+
+Nimp+5%
+
+NvaleurFinale
+
+# pour un déplacement de 150 m
+
+CompteurAvance  0
+Début
+Répéter
+
+attendre 1 s
+
+CompteurAvance  CompteurAvance + ComptageCapteurDroit()
+
+CompteurDroit  ComptageCapteurDroit()
+
+RAZComptageCapteurDroit()
+
+Si CompteurDroit < Nimp-5%
+
+# test vitesse roue droite
+
+trop faible
+
+alors
+
+écartD  (Nimp – CompteurDroit) / Nimp
+
+Fd Fd x (1+ écartD)
+
+sinon Si _______________________
+
+# test vitesse roue droite
+
+trop grande
+
+écartD 
+
+________________________________________
+
+Fd 
+
+____________________________________________
+
+FinSi
+
+Tant Que (CompteurAvance ___________________________

@@ -1,0 +1,254 @@
+{"pages": 11, "method": "pdftotext", "bytes": 956510, "at": "2026-11-23T09:26:59+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 11
+
+PRÉSENTATION DU PRODUIT
+Le déplacement individuel des personnes est un secteur très porteur dans notre
+société ces 5 dernières années.
+Que cela soit dans un but de loisirs, de sport ou de solutions alternatives à un autre
+mode de déplacement, il existe à ce jour de très nombreux produits proposés à la
+vente, certains électriques, d’autres non (trottinette, skateboard, vélo …)
+Le support d’étude de cette épreuve est un skateboard électrique permettant à son
+utilisateur, grâce à une télécommande, de se déplacer dans un milieu urbain.
+
+Figure 1 : Diagramme de cas d’utilisation du skateboard
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+En cas de chute de l’utilisateur le leash (laisse en français) qui relie le skate à
+l’utilisateur coupe la commande, le skateboard s’éloigne encore de plusieurs mètres
+avant de s’arrêter.
+Problématique : comment réduire la distance parcourue par le skateboard à moins
+de deux mètres suite à la chute de l’utilisateur?
+La figure 2 illustre la distance parcourue par le skateboard lors d’une utilisation
+normale suivie d’une chute de l’utilisateur au bout de 10 s.
+
+Figure 2 : Distance parcourue par le skateboard
+Question I.1
+
+À l’aide de la figure 2 et sachant que l’utilisateur chute au bout de
+10 secondes, montrer que la course parcourue par le skate après la
+chute de son utilisateur est supérieure à celle mentionnée dans la
+problématique
+
+Le moteur à courant continu du skate permet de convertir l’énergie électrique
+provenant de la batterie en une énergie mécanique de rotation. Un ensemble formé
+d’une courroie et de deux poulies permet de transmettre cette énergie à la roue
+motrice du skate. La figure 3 illustre la chaine de puissance du skateboard.
+
+Figure 3 : Chaine de puissance du skateboard
+Le diamètre de la roue motrice est de 19,6 cm et le rapport de réduction de
+l’ensemble poulies / courroie est de 65. Le modèle multiphysique établi nous permet
+d’observer que, au moment de la chute de l’utilisateur, la vitesse de rotation de
+l’arbre moteur est de 225 rads-1.
+
+Question I.2 A l’aide de la figure 2, calculer la vitesse du skateboard au moment
+de la chute de l’utilisateur. Conclure quant à la validité du modèle
+multiphysique établi.
+Pour réduire la distance parcourue par le skate après la chute de son utilisateur on
+souhaite créer un couple de freinage permettant de le ralentir. Pour cela, dès que la
+chute de l’utilisateur est détectée, on connecte une résistance RCHARGE aux bornes
+du moteur à courant continu. La figure 4 illustre le schéma électrique équivalent du
+moteur associé à la résistance RCHARGE.
+
+Hypothèse simplificatrice :
+Dans ce schéma on néglige
+l’influence de l’inductance du
+moteur à courant continu.
+
+Figure 4 : Schéma électrique équivalent au moteur associé RCHARGE
+
+Question I.3
+
+À l’aide de la figure 4, déterminer l’expression du courant I en fonction de
+E, R et de RCHARGE.
+
+Le couple de freinage imposé sur l’arbre du moteur dépend du courant I circulant
+dans le moteur. On peut déterminer le couple de freinage à l’aide de la formule
+𝐶
+𝐼 = 𝐹𝑅𝐸𝐼𝑁𝐴𝐺𝐸
+où I est le courant traversant le moteur, CFREINAGE le couple de freinage
+𝑘
+provoqué par le moteur et k est la constante électromagnétique du moteur.
+Question I.4
+
+À l’aide de la relation qui lie CFREINAGE à I et de votre réponse à la
+question précédente, montrer que le couple résistant augmente
+lorsque la valeur de RCHARGE diminue.
+
+La relation qui lie la position atteinte par le skate après la chute de son utilisateur
+avec la résistance RCHARGE a été déterminée à l’aide de la modélisation du
+skateboard. La formule obtenue est la suivante :
+
+PF = a x RCHARGE + P0
+
+Question I.5
+
+Où :
+a = 12,87 mΩ-1 ;
+P0 est la position du skateboard au moment de la
+chute de l’utilisateur ;
+PF est la position finale atteinte par le skateboard
+une fois celui-ci immobilisé.
+
+Déterminer la valeur maximale que devra prendre RCHARGE pour
+pouvoir respecter le cahier des charges. Le choix de la valeur de
+RCHARGE s’étant finalement portée vers la valeur normalisée de
+0,15 Ω, conclure quant à la capacité du skateboard à respecter le
+cahier des charges.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Le nombre croissant de moyens de locomotion électriques individuels dans le flux de
+circulation urbain multiplie le risque d’accident. Ce risque peut notamment avoir lieu
+lors d’un freinage brutal du skateboard. Dans sa version actuelle, aucune solution
+n’est mise en place afin d’avertir les autres personnes de l’environnement de cette
+décélération.
+Problématique : Comment prévenir un autre usager de la décélération du
+skateboard?
+La structure retenue pour répondre à la problématique est illustrée par la figure 6. Le
+comportement souhaité consiste à allumer le feu arrière en cas de freinage.
+L’importance de l’éclairage dépendra de l’intensité du freinage afin d’informer les
+autres usagers de l’urgence (ou non) de la situation.
+
+Figure 6 : Structure et notation des grandeurs de sortie des blocs fonctionnels
+Les seuils intermédiaires fixant les différents degrés d’éclairage sont déterminés
+proportionnellement à la décélération maximale. Un essai est donc réalisé sur le
+skateboard pour déterminer celle-ci. Durant cet essai le skateboard est lancé à sa
+vitesse maximale puis l’utilisateur active le freinage à son niveau maximum. Les
+mesures effectuées pendant cet essai donne :
+
+vitesse initiale avant freinage : 7 m·s-1 ;
+le skateboard met 1,5 s pour s’arrêter ;
+le mouvement est considéré comme uniformément décéléré.
+
+Question II.1
+
+Déterminer à partir des résultats du modèle multiphysique ci-dessus
+la valeur maximale de la décélération du skateboard Max en m·s-2.
+
+L’accéléromètre permet de mesurer la
+valeur Freinage de la décélération du
+skateboard et fournit à sa sortie une
+tension Uacc image de cette
+décélération. La caractéristique entréesortie de ce capteur est illustrée par la
+figure 7.
+
+Figure 7 : Caractéristique Uacc = f (Freinage) de l’accéléromètre
+
+Question II.2
+
+Déterminer l’équation de la caractéristique Uacc = f (Freinage).
+Compléter le document réponse DR1 en indiquant les valeurs de la
+tension Uacc pour les valeurs d’accélération 0 m·s-2, -1 m·s-2
+
+La variation de tension en sortie de
+l’accéléromètre étant faible, un amplificateur est
+inséré dans la chaîne d’information afin
+d’améliorer la précision de la mesure
+d’accélération. La relation entrée-sortie de
+l’amplificateur est définie par l’équation :
+𝑈𝑎𝑚𝑝 = (𝑈𝑎𝑐𝑐 − 1,3) × 15 .
+
+Question II.3
+
+Compléter le document réponse DR1 en indiquant les valeurs de la
+tension Uamp pour les valeurs d’accélération 0 m·s-2, -1 m·s-2
+
+Le Convertisseur Analogique Numérique (CAN)
+transforme la sortie analogique Uamp de
+l’amplificateur en un mot numérique N codé sur
+10 bits interprétable par le programme du
+microcontrôleur. La tension en entrée du CAN
+varie de 0 V à 5 V.
+
+On rappelle que le quantum q (également appelé résolution) du CAN se calcule à
+𝑈
+l’aide de la formule 𝑞 = 2𝑅𝐸𝐹
+𝑛 où UREF est la tension de référence (ici 5 V) et n le
+nombre de bits sur lequel le mot numérique en sortie.
+
+Question II.4
+
+Calculer le quantum q du CAN. Compléter le document réponse
+DR1 en indiquant les valeurs du nombre N en décimal (ne conserver
+que la partie entière) image des accélérations 0 m·s-2, -1 m·s-2
+
+Le feu arrière est composé de trois secteurs lumineux indépendants permettant ainsi
+de s’allumer progressivement dès qu’un seuil de décélération est dépassé. Pour
+contrôler l’allumage des différents secteurs le programme du microcontrôleur utilise
+une variable FEU codée sur 8 bits. Les 3 bits de poids les plus faibles de cette
+variable permettent de contrôler indépendamment chacun des 3 secteurs du feu :
+Le bit B0 (bit de poids le plus faible) de la variable FEU
+correspond à la zone intérieure du feu. Si ce bit est au
+« 1 » logique la zone intérieure s’allume.
+Le bit B1 de la variable FEU correspond à la zone centrale
+du feu. Si ce bit est au « 1 » logique la zone centrale
+s’allume.
+Le bit B2 de la variable FEU correspond à la zone
+extérieure du feu. Si ce bit est au « 1 » logique la zone
+extérieure s’allume.
+
+Le comportement souhaité pour le feu est le suivant :
+
+Si le skateboard ne décélère pas, le feu est totalement éteint ;
+
+Si la décélération est comprise en -1 m·s-2 ≤ freinage < 0 m·s-2, seule la zone
+intérieure est allumée ;
+
+Si la décélération est comprise en -2 m·s-2 ≤ freinage < -1 m·s-2, les zones
+centrale et intérieure sont allumées ;
+Au-delà de -2 m·s-2, les trois zones sont allumées.
+
+Question II.5
+
+Question II.6
+
+Calculer la valeur en binaire puis en décimale de la variable FEU
+dans les 4 cas de figure décrit dans le comportement souhaité du feu
+arrière. Reporter les valeurs décimales dans le tableau du document
+réponse DR1.
+Compléter l’algorigramme de contrôle du feu arrière du document
+réponse DR1 afin d’obtenir le comportement souhaité.
+
+DOCUMENTS RÉPONSES
+DR1, Question II.2, II.3 et II.4
+
+DR1, Question II.5
+
+DR1, Question II.6

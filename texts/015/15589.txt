@@ -1,0 +1,196 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1195064, "at": "2026-11-23T09:29:16+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Une histoire du vivant »
+
+L’évolution humaine
+Sur 10 points
+Pour reconstituer l’histoire évolutive des humains, il faut en premier lieu préciser leur
+place au sein du monde vivant actuel. Les humains font partie du groupe des
+primates avec lesquels ils partagent de manière exclusive certains caractères. On
+souhaite étudier comment les scientifiques réussissent à établir des liens de parenté
+entre les humains et les autres primates.
+La phylogénie est l’étude des relations de parenté entre les êtres vivants basée sur
+le partage de caractères dérivés, c’est à dire des caractères qui proviennent de la
+transformation d’un caractère ancestral à la suite d’une innovation évolutive.
+Ainsi, plus le nombre de caractères dérivés partagés entre deux espèces est élevé,
+plus elles sont apparentées et plus leur ancêtre commun est récent.
+Document 1 – Matrice de caractères morpho-anatomiques de 8 espèces
+obtenue à l’aide du logiciel Phylogène
+
+En gras : état dérivé du caractère
+En italique : état ancestral du caractère
+Source : logiciel phylogène.
+
+1- Recopier sur votre feuille l’arbre de parenté obtenu avec le logiciel Phylogène ciaprès. Positionner les espèces présentes dans la matrice de caractères sachant
+que le Toupaïe est considéré comme l’extragroupe (espèce chez qui l’ensemble
+des caractères morpho-anatomiques étudiés existent sous l’état ancestral).
+
+Arbre à recopier sur la copie et à compléter
+2- Positionner sur votre arbre les innovations évolutives qui correspondent aux
+caractères dérivés de la matrice.
+3- Citer les espèces qui sont les plus apparentées aux humains. Justifier votre
+réponse.
+4- En utilisant le document 2 page suivante, calculer la proportion de bases
+similaires entre les séquences de la NAD de l’Homme et du chimpanzé, puis de
+l’Homme et du gorille.
+5- En déduire les liens de parenté qui existent entre l’Homme, le chimpanzé et le
+gorille.
+6- En utilisant le document 3 page suivante et en se basant sur le pourcentage de
+similarités entre les séquences d'ADN de la NAD, calculer l'intervalle de
+confiance à 95 % du pourcentage de similarités entre les séquences d'ADN de
+l'Homme et du chimpanzé. Expliquer ce que signifie cet intervalle.
+7- Proposer deux arguments illustrant le fait que le chimpanzé soit le primate le plus
+apparenté à l’Homme.
+
+Document 2 – Le gène impliqué dans la synthèse de la NAD, un gène présent
+dans les cellules de tous les êtres vivants
+La comparaison des séquences nucléotidiques du gène impliqué dans la synthèse
+de la NAD, permet de préciser les relations de parenté entre l’Homme, le
+chimpanzé et le gorille.
+
+Données moléculaires obtenues avec le logiciel Anagène
+Source : logiciel anagène.
+
+Document 3 – Calcul simplifié d’un intervalle de confiance à 95 %
+Pour calculer de manière simplifiée un intervalle de confiance à 95 %, on évalue la
+limite inférieure Linf et la limite supérieure Lsup de l’intervalle selon les formules :
+Linf = p - (z x ES)
+
+Lsup = p + (z x ES)
+
+avec :
+𝑝×(1−𝑝)
+
+ES : l'erreur standard, calculée avec la formule ES = √
+
+p : la proportion de bases similaires et n : le nombre total de bases ;
+
+z : la valeur critique pour un niveau de confiance donné.
+
+𝑛
+
+;
+
+Exemple : z est estimée à 1,96 pour un niveau de confiance de 95 %.
+Source : Théorème de Moivre Laplace
+
+Exercice 2 – Niveau terminale
+Thème « Le futur des énergies »
+
+L’île de Samsø
+Sur 10 points
+L’île de Samsø est une petite île danoise située à une centaine de kilomètres à
+l’ouest de Copenhague, dans le détroit de Kattegat. Presque quatre mille habitants y
+vivent. En 1997, cette île est devenue la première île à énergie durable du Danemark
+et a atteint l’autosuffisance énergétique en dix ans. Des parcs terrestres d’éoliennes
+et une ferme marine ont été créés. Le stockage de l’énergie est basé sur des
+batteries au lithium ce qui permet de répondre à la demande. Dès 2007, l’empreinte
+carbone de l’île, vitrine de la transition énergétique du Danemark, était négative.
+Cette île peut-elle être un modèle pour la transition énergétique en France ?
+Document 1 – Samsø, une île laboratoire
+
+Les premières mesures ont été d’assurer une production électrique par
+11 éoliennes terrestres réparties en trois parcs puis 10 grandes éoliennes off-shore
+situées à 3 km des côtes. Un relais électrique collecte la production de chaque
+parc et la répartit à la fois vers les habitations de l’île, jusqu’à satisfaction des
+besoins, et vers le réseau national danois. La balance est très nettement en faveur
+des exportations : trois quarts des 105 000 MWh annuels vont approvisionner le
+réseau national.
+Source : Extrait d’un article de Planètes Énergies, 21 février 2018
+
+Document 2 – Caractéristiques d’une éolienne
+Le physicien allemand Albert Betz (1885-1968), pionnier des technologies éoliennes
+affirmait que 60 % seulement de l’énergie cinétique du vent intercepté par une
+éolienne est transformée en énergie mécanique par les pâles d’une éolienne.
+
+Énergie cinétique annuelle moyenne du vent intercepté par une éolienne sur
+l’île de Samsø en un an : 17 630 MWh
+
+Valeurs des énergies moyennes estimées par an pour une éolienne
+implantée sur l’île de Samsø:
+Énergie moyenne produite sous forme électrique : 4 200 MWh
+Énergie mécanique fournie par les pâles : 10 578 MWh
+
+Dimension d’une éolienne de sur l’île de Samsø :
+Diamètre du rotor : 110 m
+Hauteur totale : 150 m
+Source : inspiré de https://fr.wikipedia.org/wiki/Limite_de_Betz
+
+1- Schématiser la chaîne énergétique d’une éolienne. Nommer le phénomène
+physique exploité par l’alternateur dans les éoliennes.
+2- Calculer, en pourcentage, le rendement d’une éolienne présente sur l’île de
+Samsø.
+3- Justifier par un calcul l’affirmation de Albert Betz.
+Document 3 – Transport de l’énergie électrique produite
+L’énergie électrique produite sur l’île de Samsø est transportée grâce à des lignes
+hautes sur l’île mais également sur le territoire Danois. L’utilisation de lignes
+électriques à haute tension limite les pertes énergétiques par effet Joule. Les lignes
+électriques sont constituées de matériaux conducteurs qui sont caractérisées par
+une faible résistance.
+Nous rappelons les relations suivantes :
+
+La relation entre la puissance électrique 𝑃 consommé par un récepteur, la
+tension électrique à ses bornes 𝑈 et l’intensité 𝐼 traversant le récepteur
+s’écrit : 𝑃 = 𝑈 × 𝐼.
+
+La relation entre la tension électrique 𝑈 aux bornes d’un conducteur ohmique
+de résistance 𝑅 et l’intensité 𝐼 le traversant s’écrit : 𝑈 = 𝑅 × 𝐼.
+
+4- Après avoir rappelé ce qu’est l’effet Joule, justifier l’utilisation des lignes à haute
+tension pour le transport d’une puissance électrique donnée en s’appuyant sur
+les relations fournies dans le document 3.
+Document 4 – Besoin énergétique en France
+Le besoin énergétique total de la France varie chaque année en fonction de
+plusieurs facteurs, notamment la demande des secteurs résidentiels, industriels et
+tertiaires. En moyenne, la consommation d'énergie primaire en France s'élève à
+environ 1 500 TWh* (térawattheures) par an, toutes énergies confondues
+(électricité, gaz, pétrole, charbon, énergies renouvelables, etc.) :
+
+Électricité : environ 450 TWh par an (en 2022), avec une part importante
+provenant du nucléaire (environ 60-70 %), suivie des énergies
+renouvelables (hydroélectrique, éolien, solaire), notamment la France
+possède déjà 8000 éoliennes sur son sol et des combustibles fossiles.
+
+Gaz naturel : environ 460 TWh.
+
+Produits pétroliers : environ 630 TWh, principalement pour les transports et
+le chauffage
+*1 TWh = 106 MWh
+Source : d’après le site développement-durable.gouv.fr
+
+5- Montrer, par le calcul, qu’il faudrait plus de 100 000 éoliennes de mêmes
+caractéristiques que celles de l’île de Samsø pour pallier les besoins
+énergétiques en France. Commenter le résultat.
+
+Document 5 – Échelle de niveau d’intensité sonore
+
+Source : d’après Oberv’ER, BruitParif
+
+6- En exploitant l’ensemble des documents de l’exercice et ses connaissances
+personnelles, discuter de la faisabilité de cette alternative « tout éolien » pour la
+France.

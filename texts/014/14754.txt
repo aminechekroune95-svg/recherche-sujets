@@ -1,0 +1,424 @@
+{"pages": 18, "method": "pdftotext", "bytes": 442718, "at": "2026-11-23T09:42:07+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle table de vérité correspond à l'expression (non(A) ou B) ?
+Remarque : dans les tables proposées, la première colonne donne les valeurs de A, la première ligne les valeurs
+de B.
+
+Question A 2
+Pour quelles valeurs booléennes des variables a, b et c l'expression (a or b) and (not c) a-t-elle pour
+valeur True ?
+a = True b = False c = True
+a = True b = False c = False
+a = False b = False c = True
+a = False b = True
+Question A 3
+
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+
+Question A 4
+Quelle est la plage des valeurs entières (positifs ou négatifs) que l'on peut coder sur un octet (8 bits) en
+complément à 2 ?
+-127 à 128
+-128 à 127
+-255 à 128
+-256 à 127
+Question A 5
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+if a > b+10:
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 6
+Quelle est l'écriture en base 10 du nombre qui s'écrit F1 en base 16 ?
+
+Thème B : types construits
+Question B 1
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036 }
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+Question B 2
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b] ?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B 3
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 4
+On définit : matrice = [[1,2,3], [4,5,6], [7,8,9], [10,11,12]].
+Quelle est la valeur de matrice[1][2] ?
+Question B 5
+Après avoir défini :
+d = { 'tigre': 'félin', 'tortue': 'reptile', 'renard': 'canidé' }
+laquelle des quatre expressions suivantes est correcte ?
+
+d['tortue']
+d['reptile']
+d['tortue': 'reptile']
+d[1]
+
+Question B 6
+Quelle expression a pour valeur la liste [7,14,21,28,35,42,49,56,63] ?
+[7*k for k in range(9)]
+[7*k for k in range(1,10)]
+[7*k for k in range(10)]
+[[7*k for k in range(1,9)]
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 2
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 3
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 4
+On définit la fonction suivante qui prend en argument un tableau non vide d'entiers.
+def f(T):
+s = 0
+for k in T:
+if k == 8:
+s = s+1
+if s > 1:
+return True
+else:
+return False
+Dans quel cas cette fonction renvoie-t-elle la valeur True ?
+dans le cas où 8 est présent au moins une fois dans le tableau T
+dans le cas où 8 est présent au moins deux fois dans le tableau T
+dans le cas où 8 est présent exactement une fois dans le tableau T
+dans le cas où 8 est présent exactement deux fois dans le tableau T
+
+Question C 5
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C 6
+On dispose du fichier « info.csv » donné ci-dessous :
+nom, prenom, naissance, deces
+lovelace, ada, 1815, 1852
+von neumann, john, 1903, 1957
+turing, alan, 1912, 1954
+mccarthy, john, 1927, 2011
+floyd, robert, 1936, 2001
+Le programme ci-dessous nous permet de créer un tableau à partir de ce fichier.
+file = open("info.csv", "r")
+firstLine = file.readline()
+# chargement de la ligne d’entête
+tableau = [line.split(',') for line in file] # chargement des données
+Les index des lignes de ce tableau vont…
+de 0 à 3
+de 1 à 4
+de 0 à 4
+de 0 à 5
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 2
+On considère l’extrait suivant d'une page web d'un site de vente en ligne.
+<form id="fmCreerCommande" name="fmCreerCommande" action="gestion.php" method="post">
+<input type="HIDDEN" name="reference" value="F1245">
+<label for="quantite" class="dropdown">Quantité :</label>
+<select name="quantite" autocomplete="off" id="quantite" class="dropdown">
+<option value="1" selected>1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+<div id="btnMulti" class="clValidBtn">
+<input type="button" value="Ajouter" class="btn" onclick="ajouterProduit()">
+</div>
+</form>
+Quelle est la méthode utilisée pour transmettre les informations saisies dans ce formulaire ?
+La méthode HIDDEN
+La méthode GET
+La méthode POST
+La méthode SELECT
+Question D 3
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D 4
+
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 5
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 6
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Que permet d’effectuer la commande mkdir dans le shell d'Unix (interpréteur de commandes) ?
+créer un répertoire vide
+créer un fichier vide
+supprimer un répertoire cible
+supprimer un fichier cible
+Question E 2
+Dans un terminal Linux on écrit :
+user@promethee:/home/user/mesVideos $ cd ../mesPhotos
+que se passe-t-il si on appuie sur la touche entrée ?
+L'utilisateur sera positionné dans le répertoire /home/user/mesPhotos
+Un nouveau dossier nommé mesPhotos sera créé dans le répertoire /home/user
+L'utilisateur sera positionné dans le répertoire /home/user/mesVideos/mesPhotoss
+Un nouveau dossier nommé ../mesPhotos sera créé dans le répertoire /home/user/mesVideos
+Question E 3
+Dans un shell sous Linux, Alice utilise la commande pwd.
+Cette commande :
+liste les fichiers du répertoire courant
+liste les répertoires du répertoire courant
+affiche le chemin du répertoire courant
+affiche les permissions relatives au répertoire courant
+Question E 4
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+Question E 5
+Quel matériel permet d'interconnecter des ordinateurs entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+
+Question E 6
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+
+Thème F : langages et programmation
+Question F 1
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément.
+Combien de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand
+élément n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+Question F 2
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+else:
+p = 20
+return p
+Que renvoie maFonction(18) ?
+Question F 3
+On considère le code suivant :
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+
+Question F 4
+Quelle est la valeur de la variable x à la fin de l'exécution du script suivant :
+def f(x):
+x = x + 1
+return x + 1
+x = 0
+f(x+1)
+Question F 5
+On définit :
+def f(a,m):
+i = 1
+n = 0
+while n <= m:
+i = i * a
+n = n + 1
+return i
+Quelle est la valeur renvoyée par l'appel f(2,4) ?
+
+Question F 6
+Un programme Python commence par la ligne :
+import os
+À quoi sert cette ligne ?
+c'est le début du squelette de tout programme Python
+c'est la déclaration du système d'exploitation (operating system)
+Python 3.6 exige cette ligne au début de tout programme
+c'est la déclaration d'une bibliothèque (ou module) que le programme compte utiliser
+
+Thème G : algorithmique
+Question G 1
+Quelle est la valeur de c à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+c = 0
+for k in L:
+if k == L[1]:
+c = c+1
+Question G 2
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 3
+On considère la fonction suivante :
+def f(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+Quelle est la valeur de f([ 7, 3, 1, 8, 19, 9, 3, 5 ], 0) ?
+Question G 4
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+
+i = K+1
+i = i + 1
+i = K-1
+i = i - 1
+i = K-1
+i = i + 1
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 5
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+
+Question G 6
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1

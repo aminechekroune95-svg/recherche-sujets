@@ -1,0 +1,403 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1270344, "at": "2026-11-23T09:40:36+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l'écriture décimale de l'entier positif dont l'écriture hexadécimale (en base 16) est 3F ?
+Question A 2
+Quel est l'entier codé sur 4 bits en complément à 2 par 1101 ?
+-6
+-3
+Question A 3
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+Question A 4
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A 5
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+
+Question A 6
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+
+Thème B : types construits
+Question B 1
+Quelle expression a pour valeur la liste [7,14,21,28,35,42,49,56,63] ?
+[7*k for k in range(9)]
+[7*k for k in range(1,10)]
+[7*k for k in range(10)]
+[[7*k for k in range(1,9)]
+Question B 2
+Après avoir défini :
+d = { 'tigre': 'félin', 'tortue': 'reptile', 'renard': 'canidé' }
+laquelle des quatre expressions suivantes est correcte ?
+d['tortue']
+d['reptile']
+d['tortue': 'reptile']
+d[1]
+
+Question B 3
+On définit : L = [10,9,8,7,6,5,4,3,2,1].
+Quelle est la valeur de L[L[3]] ?
+Question B 4
+On a défini : T = [[1,2,3], [4,5,6], [7,8,9]].
+Quelle expression parmi les suivantes a pour valeur le nombre 8 ?
+T[1,2]
+T[1][2]
+T[2,1]
+T[2][1]
+Question B 5
+On considère le code suivant :
+def f(L):
+return [x*x for x in L if x%2 == 1]
+
+carre = f([0,1,2,3,4,5,6,7,8,9])
+Que vaut carre à la fin de son exécution ?
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 4, 16, 36, 64]
+[1, 9, 25, 49, 81]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 19]
+Question B 6
+On définit le dictionnaire dico par les instructions suivantes :
+def f(x):
+return x*x
+def g(x):
+return x + x
+def h(x):
+return 3*x
+dico = { 'F': f, 'G': g(6), 'H': h }
+Une seule des affirmations suivantes est incorrecte. Laquelle ?
+dico['F'] est une fonction
+dico['F'](5) est un entier
+dico['G'] est une fonction
+dico['G'] est un entier
+
+Thème C : traitement de données en tables
+Question C 1
+Quelle est la valeur de la variable t1 à la fin de l'exécution du script suivant :
+t1 = [['Valenciennes', 24],['Lille', 23],['Laon', 31],['Arras', 18]]
+t2 = [['Lille', 62],['Arras', 53],['Valenciennes', 67],['Laon', 48]]
+for i in range(len(t1)):
+for v in t2:
+if v[0] == t1[i][0]:
+t1[i].append(v[1])
+[['Valenciennes', 67], ['Lille', 62], ['Laon', 48], ['Arras', 53]]
+[['Valenciennes', 24, 67], ['Lille', 23, 62], ['Laon', 31, 48], ['Arras', 18, 53]]
+[['Arras', 18, 53],['Laon', 31, 48], ['Lille', 23, 62], ['Valenciennes', 24, 67]]
+[['Valenciennes', 67, 24], ['Lille', 62,23], ['Laon', 48, 31], ['Arras', 53, 18]]
+Question C 2
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 3
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C 4
+On définit la variable suivante : lettres = {"a": 1, "b": 2, "c": 3}.
+Quelle est la valeur de l'expression list(lettres.keys()) ?
+[a,b,c]
+[1,2,3]
+["a","b","c"]
+{"a": 1, "b": 2, "c": 3}
+Question C 5
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+
+Question C 6
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D 2
+Si un utilisateur doit saisir des données sensibles (mot de passe, numéro de carte bancaire…) dans le formulaire
+d’une page HTML, quel est l’entête de formulaire le plus approprié parmi les quatre propositions suivantes ?
+<form method="formulaire.php" action="submit">
+<form method="secure" action=onclick()>
+<form method="get" action="arret.php">
+<form method="post" action="arret.php">
+Question D 3
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 4
+Dans un fichier HTML nommé reservation.html, on a défini au sein d’une balise <script> la fonction
+confirmer. Ce fichier contient aussi la ligne suivante :
+<button onclick="confirmer();">Annuler la réservation</button>
+On affiche cette page dans un navigateur Web (pour lequel JavaScript est activé).
+En cliquant sur le bouton « Annuler la réservation » :
+Le navigateur va nécessairement générer une requête HTTP à destination du serveur pour confirmer cette
+action.
+Le navigateur ne va en aucun cas générer une requête HTTP à destination du serveur pour confirmer cette
+action.
+Le navigateur va nécessairement déclencher un appel à la fonction confirmer.
+Le navigateur ne va en aucun cas déclencher un appel à la fonction confirmer.
+Question D 5
+
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 6
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Une et une seule de ces affirmations est fausse. Laquelle ?
+Un système d'exploitation libre est la plupart du temps gratuit
+Je peux contribuer à un système d'exploitation libre
+Il est interdit d'étudier un système d'exploitation propriétaire
+Un système d'exploitation propriétaire est plus sécurisé
+Question E 2
+Laquelle de ces écritures ne désigne pas une adresse IP ?
+127.0.0.1
+207.142.131.245
+192.168.229.48
+296.141.2.4
+Question E 3
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 4
+Sous Linux, dans quel but utilise-t-on la commande ls ?
+pour afficher le chemin vers le répertoire courant
+pour afficher les noms de fichiers et répertoires du répertoire courant
+pour effacer un fichier
+pour copier un fichier
+Question E 5
+Parmi les éléments suivants, lequel n'est pas un capteur ?
+un haut-parleur
+une caméra
+un écran tactile
+un microphone
+Question E 6
+
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir le contenu du répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+
+Thème F : langages et programmation
+Question F 1
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 2
+La fonction suivante ne calcule pas toujours correctement le maximum des deux nombres donnés en
+argument. On rappelle que abs(z) calcule la valeur absolue du nombre z.
+def maxi(x,y) :
+m = (x-y+abs(x+y))/2
+return m
+Parmi les tests suivants, lequel va détecter l'erreur ?
+maxi(3,-2)
+maxi(2,2)
+maxi(3,2)
+maxi(2,3)
+Question F 3
+On définit une fonction f de la façon suivante :
+def f(L, m):
+R = []
+for i in range(len(L)):
+if L[i] > m:
+R.append(L[i])
+return R
+On définit L = [1, 7, 3, 4, 8, 2, 0, 3, 5].
+Que vaut f(L, 4) ?
+[0, 7, 0, 0, 8, 0, 0, 0, 5]
+[0, 0, 0, 5]
+[7, 8, 5]
+[]
+Question F 4
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+
+HTML
+JavaScript
+PHP
+Python
+Question F 5
+On considère le code suivant :
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+Question F 6
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+
+Thème G : algorithmique
+Question G 1
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 2
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G 3
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 4
+
+Un algorithme est dit glouton si :
+Il consomme énormément de mémoire
+Il contient de nombreuses lignes de code
+Il s’inspire de la méthode de John Elwood Glouton
+Il fait à chaque étape le choix localement optimum
+Question G 5
+Quelle précondition suppose l'algorithme de recherche dichotomique dans un tableau ?
+que le tableau soit à éléments positifs
+que le tableau soit trié
+que l'élément cherché dans le tableau soit positif
+que l'élément cherché figure effectivement dans le tableau
+Question G 6
+On considère un entier positif A.
+Parmi les quatre codes suivants, il y en a un dont l'exécution ne termine pas. Lequel ?
+i = A + 1
+i = i - 1
+
+i = A + 1
+i = i + 1
+
+i = A - 1
+i = i - 1
+
+i = A - 1
+i = i + 1

@@ -1,0 +1,436 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1243649, "at": "2026-11-23T09:40:26+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Choisir une expression booléenne pour la variable S qui satisfait la table de vérité suivante.
+S
+A ou (non B)
+(non A) ou B
+(non A) ou (non B)
+non (A ou B)
+Question A 2
+Quelle est l'écriture décimale de l'entier positif dont la représentation binaire est 1101 0101 ?
+-42
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+if a==b:
+c = True
+elif a > b+10:
+c = True
+c = False
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 5
+Combien de bits sont nécessaires pour écrire le nombre entier 16 en base 2 ?
+Question A 6
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+
+Thème B : types construits
+Question B 1
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B 2
+L est une liste d'entiers.
+On définit la fonction suivante :
+def f(L):
+m = L[0]
+for x in L:
+if x > m:
+m = x
+return m
+Que calcule cette fonction ?
+le maximum de la liste L passée en argument
+le minimum de la liste L passée en argument
+le premier terme de la liste L passée en argument
+le dernier terme de la liste L passée en argument
+Question B 3
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+Question B 4
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+
+{ 'ftp': 21 }
+Key not found
+Question B 5
+On considère deux entiers strictement positifs L et C. On note n = L*C leur produit et on écrit la fonction
+suivante, qui construit un tableau de L lignes et C colonnes, contenant les entiers consécutifs de 0 à n-1 :
+def construitTable(L,C):
+t = []
+for i in range(L):
+ligne = []
+for j in range(C):
+......
+t.append(ligne)
+return t
+Par exemple, l'appel construitTable(2,3) doit renvoyer la table :
+[ [0, 1, 2],
+[3, 4, 5]
+
+]
+
+Que faut-il écrire à la place des points de suspension pour obtenir ce résultat ?
+ligne.append(i + C*j)
+ligne.append(L*i + j)
+ligne.append(i + L*j)
+ligne.append(C*i + j)
+Question B 6
+Parmi les propositions suivantes, laquelle permet de créer en Python la liste des nombres impairs de 1 à 399
+(inclus) ?
+impairs = [1 + nb*2 for nb in range(200)]
+for nb in range(400) :
+impairs = 1 + 2 * nb
+impairs = [i + 2 for i in range(1,200)]
+impairs = [1, 3, 5, 7, 9] * 40
+
+Thème C : traitement de données en tables
+Question C 1
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+Question C 2
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C 3
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+Question C 4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 5
+Quelle est la valeur de la variable t1 à la fin de l'exécution du script suivant :
+
+t1 = [['Valenciennes', 24],['Lille', 23],['Laon', 31],['Arras', 18]]
+t2 = [['Lille', 62],['Arras', 53],['Valenciennes', 67],['Laon', 48]]
+for i in range(len(t1)):
+for v in t2:
+if v[0] == t1[i][0]:
+t1[i].append(v[1])
+[['Valenciennes', 67], ['Lille', 62], ['Laon', 48], ['Arras', 53]]
+[['Valenciennes', 24, 67], ['Lille', 23, 62], ['Laon', 31, 48], ['Arras', 18, 53]]
+[['Arras', 18, 53],['Laon', 31, 48], ['Lille', 23, 62], ['Valenciennes', 24, 67]]
+[['Valenciennes', 67, 24], ['Lille', 62,23], ['Laon', 48, 31], ['Arras', 53, 18]]
+Question C 6
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 2
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+Question D 3
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "blue"
+}
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D 4
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+Question D 5
+
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 6
+Lequel des termes suivants ne désigne pas un protocole de transmission par un réseau :
+HTTP
+WWW
+TCP
+IP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+Question E 2
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E 3
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 4
+Parmi ces composants électroniques, lequel est d'échelle microscopique dans un ordinateur ?
+le bus
+le radiateur
+le transistor
+le disque dur
+Question E 5
+Dans une mémoire vive RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+
+Question E 6
+
+Vous soupçonnez que des paquets se perdent entre votre ordinateur et leur destination.
+Quelle commande utiliseriez-vous pour trouver la source du problème efficacement ?
+ping
+ipconfig
+traceroute
+nslookup
+
+Thème F : langages et programmation
+Question F 1
+On exécute le code suivant :
+def ma_fonction(liste : list) -> int:
+valeur = liste[0]
+for i in range (1, len(liste)):
+if liste[i] < valeur :
+valeur = liste[i]
+return valeur
+table = [5, 43, 2, 22, 7]
+resultat = ma_fonction(table)
+Quelle est la valeur de resultat après l’exécution de ce code ?
+Question F 2
+La documentation de la bibliothèque random de Python précise :
+random.randint(a, b)
+Renvoie un entier aléatoire N tel que a <= N <= b.
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F 3
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Question F 4
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+p = 20
+Que renvoie maFonction(18) ?
+Question F 5
+On considère le code suivant :
+def puiss(y,x):
+res = 1
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier non nul
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+Question F 6
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+
+elif a < 1000:
+a = 1
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+
+Thème G : algorithmique
+Question G 1
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a = x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+Question G 2
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G 3
+
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = m
+q = a
+while n > 0:
+if n%2 == 0:
+q = q * q
+#
+n = n // 2
+p = q * p
+n = n - 1
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+𝑝×𝑞
+=𝑎
+𝑝×𝑞 = 𝑎
+𝑝×𝑞 = 𝑎
+𝑝×𝑞 / =𝑎
+Question G 4
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables
+Question G 5
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 6
+
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier

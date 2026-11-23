@@ -1,0 +1,369 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1793509, "at": "2026-11-23T09:25:43+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Identifier les erreurs de mesure
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+SUJET SI-E3C-22-03
+
+Constitution du sujet
+ Étude d'une performance du produit........................................... Pages 3 à 7
+ Commande du fonctionnement du produit ou modification de son
+comportement .............................................................................. Pages 8 à 12
+ Documents réponses .................................................................... Page. 13
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT ETUDIÉ
+L'Organisation Mondiale de la Santé (OMS) via "la classification internationale du
+fonctionnement, du handicap et de la santé" a défini plusieurs objectifs à atteindre
+afin de favoriser l'autonomie des personnes en situation de
+handicap (boire et se nourrir, prise de médicaments, sécurité
+personnelle, …).
+Un robot d'assistance permet d'atteindre ces objectifs et ainsi
+d'améliorer leur qualité de vie.
+Le sujet porte sur l'étude d'un bras robotisé d'assistance aux
+personnes en situation de handicap lourd (dystrophie
+musculaire, tétraplégie, ...).
+
+Figure 1 : mission et cas d'utilisation du bras robotisé d'assistance
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : Quelle est la capacité de la batterie nécessaire au fonctionnement
+du bras robotisé ?
+Le bras robotisé d’assistance (figure 1-1) utilisé est un bras
+poly-articulé 7 axes. Une main artificielle, que l’on
+dénommera pince, est fixée à son extrémité afin de
+manipuler les objets.
+L’objectif de l’étude est de vérifier l’autonomie de la batterie.
+
+Figure 1-1 : bras
+robotisé d'assistance
+
+Une étude des efforts dans la situation la plus contraignante
+sera réalisée. L’énergie nécessaire pour un cycle de
+fonctionnement sera ensuite estimée. Pour terminer, une
+validation de la capacité de la batterie sera faite.
+
+Une étude statique de la situation la plus contraignante pour l’actionneur 2 de
+l’articulation de l’épaule (figure 1-2 et 1-3).
+
+Figure 1-2 : composants principaux du bras robotisé
+
+Le bilan des actions mécaniques extérieures agissant sur le système étudié est
+le suivant :
+-
+
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑃𝑏𝑟𝑎𝑠 : poids du bras robotisé appliqué en son centre de gravité G bras ;
+𝑃
+𝑐ℎ𝑎𝑟𝑔𝑒 : poids de la charge à l’extrémité du bras robotisé (point P) ;
+
+-
+
+𝐶𝑚𝑜𝑡 2 : couple moteur de l’actionneur 2 autour de l’axe (O ; 𝑧).
+
+𝑦
+𝐶𝑚𝑜𝑡 2
+
+Gbras
+
+P
+
+G
+
+O
+𝑥
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑃𝑏𝑟𝑎𝑠
+
+𝑃
+𝑐ℎ𝑎𝑟𝑔𝑒
+
+Figure 1-3 : étude statique bras robotisé en position horizontale
+La configuration étudiée est celle où le bras est en position horizontale (figure 1-3)
+avec la charge maximale à son extrémité.
+Théorème du moment en statique en O :
+∑ ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝐹𝑒𝑥𝑡 ) = ⃗0
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗) = ⃗0
+𝐶𝑚𝑜𝑡 2 + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝑃𝑏𝑟𝑎𝑠 ) + 𝑀𝑂 (𝑃⃗
+𝑐ℎ𝑎𝑟𝑔𝑒
+𝐶𝑚𝑜𝑡 2 + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑂𝐺𝑏𝑟𝑎𝑠 ∧ 𝑃⃗𝑏𝑟𝑎𝑠 + ⃗⃗⃗⃗⃗
+𝑂𝑃 ∧ 𝑃⃗𝑐ℎ𝑎𝑟𝑔𝑒 = ⃗0
+⃗⃗⃗⃗⃗
+⃗
+⃗
+Dans notre cas, ‖𝐶
+𝑚𝑜𝑡 2 ‖ = ‖𝑂𝐺𝑏𝑟𝑎𝑠 ‖ . ‖𝑃𝑏𝑟𝑎𝑠 ‖ + ‖𝑂𝑃‖ . ‖𝑃𝑐ℎ𝑎𝑟𝑔𝑒 ‖
+où ‖𝑃⃗𝑖 ‖ est la norme du poids de i avec‖𝑃⃗𝑖 ‖ = 𝑚𝑖 . 𝑔 où 𝑚𝑖 est la masse de i et g
+l’accélération de la pesanteur de valeur 9,81 ms-2.
+⃗⃗⃗⃗⃗
+Données : ‖𝑂𝐺
+𝑏𝑟𝑎𝑠 ‖ = 491 mm, ‖𝑂𝑃‖ = 902,5 mm , 𝑚𝑏𝑟𝑎𝑠 = 5,12 kg
+et 𝑚𝑐ℎ𝑎𝑟𝑔𝑒 = 4 kg
+Question I-1 En utilisant les relations précédentes, déterminer le couple
+Figure 1-3
+nécessaire à l’actionneur 2 noté ‖𝐶
+𝑚𝑜𝑡 2 ‖ permettant de maintenir le
+bras dans la position étudiée.
+Une loi de mouvement en trapèze de vitesse (position initiale : bras horizontal) a été
+imposée en entrée du modèle simulé du système mécanique. Cette étude a permis
+d’obtenir la courbe de variation du couple de l’actionneur 2 (figure 1-4).
+
+Figure 1-4 : loi de mouvement en trapèze de vitesse et couple de l’actionneur 2
+
+Question I-2
+Figure 1-3
+Figure 1-4
+
+Relever sur la figure 1-4 le couple 𝐶𝑟𝑒𝑝𝑜𝑠 correspondant à la situation
+décrite par la figure 1-3 et le couple maximum 𝐶𝑚𝑎𝑥𝑖 lorsque
+l’accélération angulaire est maximale. En déduire la puissance
+maximale 𝑃𝑎𝑐𝑡𝑖𝑜𝑛𝑛𝑒𝑢𝑟 𝑚𝑎𝑥 en sortie de l’actionneur 2 pour effectuer ce
+mouvement à charge maximale.
+
+𝑈𝑏𝑎𝑡𝑡 ∗
+= 24 𝑉
+
+𝜂ℎ𝑎𝑐ℎ = 0,95
+
+𝜂𝑚𝑜𝑡 = 0,9
+
+𝑈𝑏𝑎𝑡𝑡 ∗ : tension batterie
+Figure 1-5 : diagramme de blocs Internes
+nominale
+La puissance maximale en sortie du moteur à courant continu 𝑃𝑀𝐶𝐶 est fixée à
+100 W.
+
+Question I-3
+Figure 1-5
+
+À partir des éléments figurant sur la figure 1-5, déterminer la
+puissance électrique 𝑃𝑏𝑎𝑡 que doit délivrer la batterie pour fournir la
+puissance maximale en sortie du moteur.
+
+P repos
+
+P max
+P utile
+
+Figure 1-6 : Puissance délivrée par la batterie lors d’un cycle de fonctionnement
+caractéristique
+Une analyse de l’utilisation du bras robotisé a permis de déterminer le cycle de
+fonctionnement caractéristique de l’utilisation du bras pendant 8 heures par jour (voir
+figure 1-6).
+Question I-4
+Figure 1-6
+
+Question I-5
+Figure 1-5
+
+Question I-6
+
+Déterminer l’énergie nécessaire avec le cycle de fonctionnement
+caractéristique (figure 1-6) en Joule puis en Wh pour une journée
+d’utilisation.
+Déterminer la capacité de la batterie en Ah nécessaire si l’on
+souhaite effectuer une seule recharge par semaine du système.
+Conclure sur l’utilisation d’une batterie au Lithium-Ion de 24 V 100
+Ah et quantifier l’écart entre la capacité nécessaire et celle de la
+batterie choisie.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : Peut-on établir la commande de fonctionnement du mode
+d'approche « pas à pas » du bras robotisé ?
+Les personnes en situation de handicap n'ont pas toutes la même mobilité au niveau
+des membres supérieurs. Il est donc nécessaire d'adapter la commande du bras
+robotisé d'assistance en fonction du niveau du
+handicap.
+Pour les personnes ayant les handicaps les plus lourds,
+l'interface homme machine, ici un joystick, propose un
+mode manuel avec possibilité d'approche pas à pas.
+Chaque action sur le joystick provoque une amplitude
+de déplacement de la pince limité à 5 mm (+ ou - 10 %)
+et cela quel que soit le positionnement du bras.
+Le bras robotisé d'assistance est composé de 7
+actionneurs (moteurs à courant continu) reliés par 6
+segments de bras. Les actionneurs du poignet sont de
+type 1 (petit) et les autres actionneurs de type 2 (grand).
+Le contrôle des mouvements est assuré par 7 codeurs
+optiques incrémentaux intégrés sur les actionneurs.
+Pour faciliter la maintenance, les 7 codeurs sont
+identiques.
+
+Figure 2-1 : composants principaux du bras robotisé
+
+Pour permettre une amplitude de déplacement de la pince limitée à 5 mm (+ ou - 10%),
+une étude des actionneurs est nécessaire.
+
+Figure 2-2-1: position 1
+Question II-1
+Figure 2-1
+Figures 2-2-x
+
+Figure 2-2-2 : position 2
+
+Figure 2-2-3 : position 3
+
+Déterminer quels sont les actionneurs à piloter afin de passer de
+la position 1 à la position 2 puis à la position 3. Justifier que la
+configuration représentée sur la figure 2-2-3 est la situation la plus
+contraignante pour respecter l'exigence imposée.
+
+Il est maintenant nécessaire d’établir la relation entre la commande en rotation de
+l'actionneur 2 et le déplacement correspondant de la pince. Pour assurer le contrôle
+du déplacement des actionneurs, l'acquisition de l'information de leur position est
+assurée par un codeur optique incrémental associé à un compteur (fonction assurée
+par un microcontrôleur).
+
+D
+E
+
+D
+E
+
+Figure 2-3 : fonctionnement d'un codeur optique incrémental
+Un codeur optique incrémental est composé d'un disque comportant des segments
+opaques et transparents. Le nombre de ces segments détermine le nombre
+
+d'informations obtenues pour un tour et donc la précision de la mesure. Une diode
+électroluminescente (DEL ou LED en anglais) émet une lumière qui traverse les
+segments transparents. Un phototransistor, situé de l'autre côté du disque, capte alors
+cette lumière et délivre un signal électrique.
+
+Figure 2-4 : schéma de description de l'acquisition de la position de l'actionneur 2
+Question II-2
+Figure 2-4
+
+Préciser la nature du flux d'information (analogique, logique ou
+numérique) pour chaque flèche numérotée.
+
+Figure 2-5 : diagramme partiel de définition des blocs du bras
+
+Question II-3
+Figure 2-5
+
+Retrouver sur le diagramme de définition de blocs, la
+caractéristique de résolution des codeurs incrémentaux. Calculer
+la précision angulaire en degré du codeur.
+
+Figure 2-6 : espace de travail du robot
+(Cotation en mm)
+
+Figure 2-7 : schéma de
+simplification de l'étude
+
+Pour une faible amplitude de commande de l'actionneur 2 et afin de simplifier les
+calculs, on peut assimiler la figure ABC à un triangle rectangle en B.
+
+Question II-4
+Figure 2-6
+Figure 2-7
+DR1
+
+Calculer l'angle de rotation de l'actionneur 2 pour un déplacement
+de la pince de 5 mm sur le segment [BC] et le nombre d'impulsions
+correspondant (permettant de s'approcher des 5 mm de
+déplacement sans les dépasser). Compléter l'algorithme de la
+gestion d'un pas du mode d'approche pas à pas de l'actionneur 2
+sur le DR1.
+
+Question II-5
+
+Si on admet que la commande de l'actionneur 2 pour 3 impulsions
+détectées du codeur permet de commander une rotation de 0,27°,
+déterminer l'amplitude du déplacement réel de la pince. Calculer
+les écarts entre l'exigence de départ, une amplitude de
+déplacement de la pince de 5 mm (+ ou - 10%), et le déplacement
+réel précédemment déterminé.
+
+Question II-6
+
+À partir des écarts calculés précédemment, conclure quant à la
+conformité avec l'amplitude du déplacement souhaité et proposer
+une évolution matérielle ou logicielle permettant de satisfaire
+l’exigence de précision.
+
+DOCUMENT RÉPONSE DR1
+Question II-4 : algorithme de la gestion d'un pas du mode d'approche pas à pas de
+l'actionneur 2
+
+Mnémonique Algorithme :
+ROT+ = Commande actionneur vers la droite
+ROT- = Commande actionneur vers la gauche
+↑S2 = front montant (passage de 0 à 1) du signal du codeur lié à l'actionneur 2
+Cpas = Compteur des impulsions marche pas à pas
+Remarque : la commande de l'ordre ROT+ ou ROT- dépend de l'action sur le joystick
+et n'est pas traitée dans cet algorithme
+
+Algorithme à compléter :
+DEBUT
+TANT QUE ROT+ = 1 OU ROT- = 1 // actionneur 2 commandé donc en
+mouvement
+
+// mise à zéro du compteur Cpas
+
+TANT QUE Cpas
+
+// comparaison au nombre souhaité
+
+SI ↑S2 = 1 ALORS // acquisition d'une impulsion du codeur S2
+
+FIN SI
+
+FIN TANT QUE
+
+// incrémentation de Cpas
+
+// arrêt de l'actionneur 2
+
+// arrêt de l'actionneur 2
+
+FIN TANT QUE
+FIN

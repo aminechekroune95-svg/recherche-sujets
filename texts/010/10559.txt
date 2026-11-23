@@ -1,0 +1,264 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1117398, "at": "2026-11-23T09:22:48+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Allantoïne (10 points)
+L'allantoïne est un composé chimique azoté, de formule brute C 4H6N4O3, découvert par
+Louis-Nicolas Vauquelin. On le trouve en particulier dans l’urine de veau ou la bave
+d’escargot, cependant aujourd’hui, il est synthétisé à grande échelle à partir de l’acide
+glyoxylique C2H2O3 et de l’urée CH4N2O pour l’utiliser dans l'industrie cosmétique, car ce
+composé possède des propriétés adoucissantes et apaisantes. On le trouve principalement
+dans les produits de soins de la peau et les produits de maquillage, mais aussi dans les
+dentifrices, shampoings, crèmes à raser, rouges à lèvres, etc.
+D’après https://fr.wikipedia.org/wiki/Allantoïne
+L’objectif de l’exercice est d’étudier l’acide glyoxylique et l’urée, puis un protocole de synthèse
+de l’allantoïne au laboratoire.
+Données
+Données physiques de quelques espèces chimiques
+Masse molaire Température
+Espèce chimique
+(g/mol)
+de fusion (°C)
+Urée
+60,0
+Acide glyoxylique
+74,0
+Allantoïne
+
+158,1
+
+Acide sulfurique
+
+98,1
+
+Solubilité dans l’eau
+Très soluble : 1360 g/L à 20°C
+Très soluble
+Peu soluble,
+150 g/L si eau bouillante
+5 g/L si eau très froide
+Très soluble
+
+Données de spectroscopie infrarouge
+Liaison
+Liaison C – NH2
+Liaison C - NH
+Liaison O – H acide carboxylique
+Liaison C – H
+Liaison C = O avec N voisin
+Liaison C = O aldéhyde et cétone
+Liaison C = O acide carboxylique
+Liaison C = C
+
+Nombre
+d’onde (cm-1)
+3100 - 3500
+3100 - 3500
+2500-3200
+2800-3000
+1660 - 1685
+1650-1730
+1680-1710
+1640-1680
+
+Intensité
+Bande double forte
+Bande simple forte
+Bande forte à moyenne, large
+Bande forte
+Bande moyenne
+
+Masse volumique de la solution d’acide glyoxylique à 50 % en masse : ρ = 1,3 g.mL-1
+Valeurs d’électronégativité de quelques atomes :
+(H) = 2,20 (C) = 2,55 (N) = 3,04 (O) = 3,44
+Numéros atomiques de quelques éléments :
+Z(H) = 1 Z(C) = 6 Z(N) = 7 Z(O) = 8
+1. À propos de l’acide glyoxylique.
+L’acide glyoxylique est un solide, très utilisé dans l’industrie, de formule semi-développée :
+O
+
+O
+C
+
+H
+
+C
+OH
+
+1.1. Recopier sur la copie la formule semi-développée de la molécule d’acide glyoxylique
+et identifier les groupes caractéristiques qui la composent.
+1.2. Représenter le schéma de Lewis de la molécule.
+1.3. Donner, en justifiant, la géométrie de cette molécule autour de l’un ou l’autre des
+atomes de carbone.
+2. A propos de l’ammoniac et urée
+L’urée est un composé organique de formule chimique semi-développée : H2N – CO – NH2
+L’urée naturelle fut découverte en 1773 par le pharmacien Hilaire Rouelle. Formée dans le
+foie, à partir de l’ammoniac, NH3, provenant de la dégradation d’acides aminés, l’urée
+naturelle est éliminée au niveau des reins par l’urine.
+En 1828, le chimiste allemand Friedrich Wöhler réussit à synthétiser en laboratoire l’urée,
+molécule dite « organique » à l’époque, à partir d’ammoniac. On considérait avant cette
+synthèse que les molécules « organiques » ne pouvaient provenir que de constituants ou de
+dérivés d’organismes vivants habités par la « force vitale » (vis vitalis). Cette date, gravée
+dans l’histoire, est retenue comme étant celle fondatrice de la chimie organique.
+
+D’après http://www.societechimiquedefrance.fr/uree.html
+2.1. Donner la configuration électronique de l’azote N et de l’hydrogène H. En déduire la
+géométrie de la molécule d’ammoniac.
+2.2. Justifier le caractère polaire de la molécule d’ammoniac.
+2.3. On s’intéresse au spectre Infrarouge de l’urée.
+
+2.3.1. Nommer la grandeur qui figure en abscisse du spectre Infrarouge.
+2.3.2. Que confirme la bande la plus à gauche du spectre ?
+2.3.3. Repérer la bande du spectre qui confirme la présence d’une liaison C = O.
+Peut-elle être attribuée sans ambiguïté à la liaison C=O de l’urée ? Justifier.
+3. Synthèse de l’allantoïne
+Une voie de synthèse de l’allantoïne s’effectue à partir d’urée et d’acide glyoxylique et peut
+être modélisée par une réaction chimique d’équation suivante :
+2 CH4 N2 O(s) + C2 H2 O3(aq) → C4 H6 N4 O3(s) + 2 H2 O(l)
+Le protocole expérimental d’une synthèse de l’allantoïne, réalisée au laboratoire, est décrit
+ci-après :
+a. Placer un barreau aimanté dans un erlenmeyer de 100 mL puis, à l’aide d’un entonnoir
+à solide, verser 13,6 g d’urée et 10,0 mL de solution aqueuse d’acide glyoxylique à 50%
+en masse. Agiter jusqu’à l’obtention d’une solution limpide. Introduire lentement 1,5 mL
+d’acide sulfurique concentré, sous agitation magnétique. L’acide sulfurique a pour rôle
+d’accélérer la réaction. Adapter un réfrigérant ascendant.
+b. Placer l’erlenmeyer dans un bain-marie. Maintenir l’agitation, le chauffage et l’ébullition
+de l’eau du bain-marie pendant 45 minutes. Le milieu réactionnel se trouble au bout de
+15 à 20 minutes avec l’apparition d’un précipité blanchâtre.
+c. Plonger ensuite le bécher dans de la glace pendant quelques minutes. Récupérer le
+solide à l’aide d’un dispositif de filtration sous vide de type Büchner.
+d. Laver avec suffisamment d’eau glacée. Sécher à l’étuve le temps nécessaire.
+e. Peser le solide obtenu.
+
+3.1. Associer aux différentes étapes (a, b, c, d, e) mises en oeuve les différentes étapes
+d’un protocole de synthèse : transformation ; séparation, purification, analyse.
+3.2. Préciser Expliquer l’apparition progressive du précipité blanchâtre.
+3.3. Justifier l’utilisation de la glace dans l’étape c.
+3.4. Justifier l’intérêt de laver à l’étape d du protocole, le solide obtenu avec
+suffisamment d’eau glacée.
+3.5. Déterminer le rendement de la synthèse ainsi effectuée, sachant que la masse
+d’allantoïne sèche obtenue vaut m = 8,60 g.
+PARTIE B
+Un ballon pour les compétitions internationales de football (10 points)
+La loi 2 de l'International Football Association Board a fixé les caractéristiques d’un ballon
+utilisé pour les compétitions internationales : le ballon doit être sphérique, en cuir ou dans
+une autre matière adéquate, avoir un diamètre de 22 cm et la pression de l’air dans le ballon
+doit être comprise entre 1,6105 Pa et 2,1105 Pa.
+D’après http://www.theifab.com/fr/laws/chapter/22/section/31/
+L’objectif de cet exercice est d’étudier le gonflage d’un ballon et son utilisation dans des lieux
+de compétitions d’altitude différente. Nous nous intéresserons ainsi à deux lois liées à cette
+situation : la loi de Mariotte, qui permet d’étudier le gonflage et la loi de statique des fluides
+qui permet de réfléchir à l’influence de l’altitude sur le gonflage.
+1.
+Étude expérimentale et utilisation de la loi de Mariotte.
+Une expérience est menée au laboratoire pour tester la loi de Mariotte à l’aide d’un
+microcontrôleur et d’un capteur de pression.
+On suit le protocole expérimental suivant :
+ remplir initialement une seringue avec 30 cm3 d’air ;
+ relier la seringue au capteur de pression connecté à un microcontrôleur ;
+ téléverser le programme « Mesure Pression » présenté ci-dessous dans le
+microcontrôleur ;
+ faire varier le volume du gaz dans la seringue et noter alors la valeur de la pression
+correspondante affichée sur l’écran LCD relié au microcontrôleur.
+
+1.1. Adaptation du programme « Mesure Pression »
+Un extrait du programme associé au pilotage du microcontrôleur dans le montage
+expérimental précédent est donné ci-dessous.
+
+1.1.1.
+Indiquer en quelle unité la pression mesurée par le capteur sera affichée sur
+l’écran.
+1.1.2.
+Dans le programme, la valeur de la pression est affichée sans décimale. Expliquer
+comment modifier la ligne 39 du programme pour que la valeur de la pression soit affichée
+avec 2 décimales.
+1.1.3.
+Expliquer comment modifier la ligne 43 pour que les mesures soient faites toutes
+les 3 secondes.
+1.2. Traitement de mesures obtenues en faisant varier le volume du gaz
+Pour chaque volume d’air choisi dans la seringue, le microcontrôleur indique des valeurs de
+pression toutes les 2 secondes. Ces valeurs sont très proches, mais fluctuent légèrement.
+Le tableau ci-dessous rassemble les valeurs de la pression P affichée par l’écran LCD du
+microcontrôleur pour différents volumes du gaz dans la seringue :
+V (cm3)
+P (hPa)
+1505 1195
+1.2.1. Énoncer la loi de Mariotte.
+1.2.2. Exploiter ces mesures pour tester la loi de Mariotte. On explicitera précisément la
+méthode utilisée.
+1.3. Gonflage d’un ballon de football
+On utilise un gonfleur électronique de ballon ayant les caractéristiques suivantes :
+débit d’air à l’entrée du gonfleur : 4 litres par minute ;
+arrêt automatique quand la pression souhaitée est atteinte.
+
+On souhaite gonfler, à l’aide de ce gonfleur, un ballon de football de compétition de diamètre
+égal à 22 cm pour obtenir une pression de l’air à l’intérieur du ballon de 2,1105 Pa.
+On admet qu’avant le gonflage le ballon est totalement dégonflé et que le volume d’air à
+l’intérieur est négligeable. On admet également que la température reste constante pendant
+le gonflage. On précise que l’air entrant dans le compresseur est à la pression
+atmosphérique.
+1.3.1. On appelle V0 le volume d’air à prélever dans le milieu extérieur pour le gonflage, V1
+et P1 le volume d’air et la pression à l’intérieur du ballon une fois qu’il est gonflé.
+𝑃 ×𝑉
+Montrer que 𝑉0 = 1𝑃 1 .
+
+1.3.2. Montrer que la durée nécessaire au gonflage, à l’aide du gonfleur électronique, est
+voisine de 3 minutes.
+
+Données :
+Pression atmosphérique
+Volume d’une sphère de rayon
+Unités de volume
+R
+1 litre correspond à 103 cm3
+P0 = 1,013  105 Pa
+𝑉 = × 𝜋 × 𝑅3
+2.
+
+Utilisation du ballon dans des lieux de compétitions d’altitudes différentes.
+
+On s’intéresse dans cette partie à la loi fondamentale de la statique
+des fluides pour modéliser l’évolution de la pression atmosphérique en
+fonction de l’altitude. Cette loi précise que, pour un fluide au repos
+incompressible de masse volumique , la différence de pression entre
+deux points, A et B, s’exprime par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+Dans cette relation :
+la masse volumique  s’exprime en kgm3 ;
+l’intensité de pesanteur g s’exprime en Nkg1 ;
+les altitudes zA et zB s’expriment en m et sont repérées sur un axe vertical ascendant
+Oz.
+
+Les villes de Denver et de New York se sont portées candidates pour accueillir les matchs de
+la coupe du monde de football 2026 organisée conjointement par les États-Unis, le Canada
+et le Mexique.
+2.1. Comparer qualitativement la valeur de la pression au point A à celle au point B.
+2.2. Évaluer la différence de pression atmosphérique 𝑃NY − 𝑃D entre les villes de New York
+située à 10 mètres d’altitude et de Denver située à 1600 mètres d’altitude. Pour les deux
+villes, on suppose que la masse volumique de l’air a pour valeur  = 1,1 kgm3 et et que
+l’intensité de la pesanteur a pour valeur g = 9,8 Nkg1.
+2.3. Sur le site Planet-Terre de l’École Normale Supérieure de Lyon, différents modèles de
+l’atmosphère sont proposés.
+
+Modèle 1 : la masse volumique de l'air dépend de la pression et de la température.
+On suppose que la température varie selon une fonction affine décroissante de l’altitude.
+
+Modèle 2 : la masse volumique de l'air est constante, quelle que soit l'altitude.
+Les graphes correspondants à chacun des deux modèles, et représentant l’évolution de la
+pression atmosphérique en fonction de l’altitude, sont donnés ci-dessous (par souci d’échelle
+l’axe vertical n’est pas gradué à partir de l’origine).
+
+On considère que ces deux modèles sont équivalents quand les valeurs de pression qu’ils
+donnent diffèrent entre elles de moins de 5 %.
+2.3.1. Auquel des modèles 1 ou 2 est liée la loi fondamentale de la statique des fluides ?
+
+2.3.2. Au vu des graphiques ci-dessus, l’utilisation de cette loi pour répondre à la question
+2.2 parait-elle justifiée ?

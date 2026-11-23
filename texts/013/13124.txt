@@ -1,0 +1,394 @@
+{"pages": 13, "method": "pdftotext", "bytes": 916686, "at": "2026-11-23T09:32:31+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Étude démographique de la population d’Afrique du Sud
+Cet exercice a pour objet l’étude démographique d’une population.
+
+Document 1 : effectifs de la population en Afrique du Sud depuis 1950
+
+41,4
+
+36,8
+32,7
+
+population ( en millions)
+
+28,6
+
+25,2
+
+22,1
+19,3
+
+13,6
+
+15,2
+
+17,1
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+année
+Source : d’après World population prospects
+
+Document 2 : données démographiques d’Afrique du Sud
+Année
+
+Taux de natalité
+(pour mille)
+
+Taux de mortalité
+(pour mille)
+
+Taux d'accroissement
+annuel moyen
+(pour cent)
+
+1950
+
+43,3
+
+20,3
+
+2,3
+
+1960
+
+41,6
+
+16,7
+
+2,5
+
+1970
+
+37,1
+
+13,1
+
+2,4
+
+1980
+
+33,9
+
+10,2
+
+2,4
+
+1990
+
+28,3
+
+8,1
+
+2000
+
+22,6
+
+16,9
+
+0,6
+Source : d’après World population prospects
+
+Document 3 : la démographie dans différents pays d’Afrique sub-saharienne
+Depuis 1990, l’Afrique sub-saharienne, globalement, est entrée dans une phase de
+ralentissement démographique, passant de 2,9 % de croissance par an vers 1985 à
+2,3 % en 2000.
+Mais ce ralentissement se fait à des rythmes variables, et même divergents entre les
+pays.
+À un extrême, on trouve une petite vingtaine de pays, de différentes sous-régions,
+dont les croissances n’ont pas changé ou même ont légèrement augmenté depuis
+1985 (le Niger, le Mali, le Mozambique, la Somalie, etc.) ; à l’autre extrême, les cinq
+pays d’Afrique australe, le Zimbabwe et la Zambie dont les taux de croissance
+s’effondrent littéralement à partir de 1995 avec la surmortalité due au SIDA[…] :
+l’Afrique du Sud et le Botswana par exemple passent respectivement d’une
+croissance de 2,0 % et 2,8 % en 1990-1994 à 0,6 % et 0,9 % dix ans plus tard. C’est
+un exemple unique dans l’histoire.
+Source : d’après Tabutin-Schoumaker, « la démographie de l’Afrique au sud du Sahara des années 1950 aux
+années 2000 », Population, 2004, www.cairn-int.info/revue-population-2004-3-page-521.htm
+
+En 1950, l’Afrique du Sud est peuplée de 13,6 millions d’habitants. Entre 1950 et 1990,
+on a constaté que la population sud-africaine a augmenté en moyenne, d’une année
+sur l’autre, de 2,5 %.
+On modélise la population sud-africaine à l’aide d’une suite u. On note u(0) le nombre
+d’habitants en Afrique du Sud en 1950 et u(n) la population d’Afrique du Sud n années
+après 1950. Ainsi, u(1) est le nombre d’habitants en 1951.
+1- Justifier que l’on a la relation u(n+1) = 1,025 × u(n) pour n entier naturel.
+2- Vérifier qu’à l’aide de ce modèle, la population sud-africaine en 1951 est estimée à
+environ 13,9 millions d’habitants.
+3- À l’aide de ce modèle, estimer le nombre d’habitants en 1995 et comparer avec la
+valeur donnée sur le document 1. Indiquer si la modélisation de la variation de la
+population sud-africaine semble satisfaisante et justifier la réponse.
+4- Selon ce modèle, indiquer à partir de quelle année la population d’Afrique du sud
+dépassera 50 millions d’habitants.
+5- La population d’Afrique du Sud comptait respectivement 44 millions d’habitants en
+2000 et 45,3 millions en 2005. Compléter avec ces données le graphique fourni en
+annexe (à rendre avec la copie). Indiquer si ces données sont conformes au modèle
+proposé. Justifier la réponse.
+6- En utilisant le document 2, justifier que le taux d’accroissement annuel moyen en
+1970 est de 2,4 %.
+7- Au regard du document 2, on émet l’hypothèse qu’à partir de 1950, le taux de
+mortalité de la population diminue de 3 points sur mille tous les 10 ans. Calculer les
+taux de mortalité attendus en 1990 et 2000. Les comparer aux valeurs réelles.
+8- À partir de 1995, la population sud-africaine n’a plus suivi la variation prévue par ce
+dernier modèle. À l’aide des documents 2 et 3, donner des arguments permettant
+d’expliquer ce phénomène.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Histoire d’eau : deux méthodes historiques permettant d’estimer
+l’âge de la Terre
+Deux approches ont permis d’estimer l’âge de la Terre au cours du XIXe siècle. La
+première utilise la mesure de la salinité de l’eau des océans tandis que la seconde se
+base sur l’étude des phénomènes de sédimentation et d’érosion.
+Partie 1. Estimation de l’âge de la Terre à l’aide de la salinité des eaux de mer
+À la toute fin du XIXe siècle, le physicien irlandais John Joly proposa une méthode
+d'estimation de l'âge de la Terre basée sur le taux de sel dans les océans : la salinité.
+Les eaux de pluie ruissellent à la surface de la Terre et se chargent en sel contenu
+dans les roches de la croûte terrestre pour ensuite alimenter les rivières qui, à leur
+tour, se déversent dans les océans. La quantité de sel dissous dans les océans
+résulterait donc du déversement du sel contenu dans les rivières.
+La première question porte sur le calcul de la masse de sel contenue dans les océans.
+1-a Calculer, en km3, le volume total des
+océans modélisés sous la forme d'un
+parallélépipède rectangle (cf. schéma cicontre).
+
+SURFACE
+
+Données utilisées par John Joly :
+• Superficie totale des océans : 360  106 km2
+• Profondeur moyenne des océans : 3,797 km
+
+HAUTEUR
+
+• Masse volumique moyenne des océans : 1,03  109 tonnes par km3
+• L'eau des océans contient environ 1,07 % en masse de sel dissous
+• Déversement des rivières dans les océans : 2,72  104 km3 par an
+• Concentration moyenne du sel dissous dans les rivières : 5 250 tonnes par km3
+1-b Calculer la masse totale des océans en tonnes.
+1-c En déduire que la masse de sel contenue dans les océans est de 1,5  1016 tonnes
+environ. On fera apparaître le calcul.
+
+2- Calculer la masse de sel apportée chaque année par les rivières à l'océan.
+3- En déduire, comme l’a fait John Joly, que l'âge de la Terre calculé par cette méthode
+est d’environ 100 millions d'années.
+4- En réalité, une partie du sel dissous subit une sédimentation dans certaines régions
+littorales et peut également être échangé avec du calcium lors de l'altération sousmarine du basalte. Commenter la validité de la méthode de calcul proposée par John
+Joly.
+Partie 2. Érosion et sédimentation
+Document 1 : un exemple de destruction due à l’érosion
+Le “Grind of the Navir” correspond à une ouverture faite par la mer dans une falaise
+des îles Shetland. Cette ouverture est élargie d’hiver en hiver par la houle qui s’y
+engouffre.
+
+Extrait de la sixième édition de Principles of geology (1833) par Charles Lyell
+
+Document 2 : l’argument des temps de sédimentation et d’érosion par Charles
+Darwin
+« Ainsi que Lyell l’a très justement fait remarquer, l’étendue et l’épaisseur de nos
+couches de sédiments sont le résultat et donnent la mesure de la dénudation 1 que la
+croûte terrestre a éprouvée ailleurs. Il faut donc examiner par soi-même ces énormes
+entassements de couches superposées, étudier les petits ruisseaux charriant de la
+boue, contempler les vagues rongeant les antiques falaises, pour se faire quelque
+notion de la durée des périodes écoulées [...]. Il faut surtout errer le long des côtes
+formées de roches modérément dures, et constater les progrès de leur désagrégation.
+[...] Rien ne peut mieux nous faire concevoir ce qu’est l’immense durée du temps, selon
+les idées que nous nous faisons du temps, que la vue des résultats si considérables
+produits par des agents atmosphériques2 qui nous paraissent avoir si peu de puissance
+et agir si lentement. Après s’être ainsi convaincu de la lenteur avec laquelle les agents
+atmosphériques et l’action des vagues sur les côtes rongent la surface terrestre, il faut
+ensuite, pour apprécier la durée des temps passés, considérer, d’une part, le volume
+immense des rochers qui ont été enlevés sur des étendues considérables, et, de l’autre,
+examiner l’épaisseur de nos formations sédimentaires. [...]
+J’ai vu, dans les Cordillères [une chaîne de montagnes], une masse de conglomérats 3
+dont j’ai estimé l’épaisseur à environ 10 000 pieds [3 km] ; et, bien que les conglomérats
+aient dû probablement s’accumuler plus vite que des couches de sédiments plus fins,
+ils ne sont cependant composés que de cailloux roulés et arrondis qui, portant chacun
+l’empreinte du temps, prouvent avec quelle lenteur des masses aussi considérables ont
+dû s’entasser. [...] M. Croll démontre, relativement à la dénudation produite par les
+agents atmosphériques, en calculant le rapport de la quantité connue de matériaux
+sédimentaires que charrient annuellement certaines rivières, relativement à l'étendue
+des surfaces drainées, qu'il faudrait six millions d'années pour désagréger et pour
+enlever au niveau moyen de l'aire totale qu'on considère une épaisseur de 1 000 pieds
+[305 mètres] de roches. Un tel résultat peut paraitre étonnant, et le serait encore si,
+d'après quelques considérations qui peuvent faire supposer qu'il est exagéré, on le
+réduisait à la moitié ou au quart. Bien peu de personnes, d'ailleurs, se rendent un
+compte exact de ce que signifie réellement un million ».
+Extrait “Du laps de temps écoulé, déduit de l’appréciation de la rapidité des dépôts et de
+l’étendue des dénudations”, L'origine des espèces, Charles Darwin, p. 393-398 (1859).
+1 - La dénudation correspond à l’effacement des reliefs par érosion.
+2 - Les agents atmosphériques désignent les agents responsables de l’érosion comme la pluie, le
+gel, le vent.
+3 - Un conglomérat est une roche issue de la dégradation mécanique d'autres roches et composée
+de sédiments liés par un ciment naturel.
+
+5- Expliquer la démarche utilisée par C. Darwin permettant d’estimer un âge minimal
+pour la Terre. La réponse ne doit pas excéder une demi-page.
+6- Commenter les résultats obtenus par ces deux méthodes au regard de l’âge de la
+Terre estimé aujourd’hui.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Un décret qui fait grand bruit
+« À partir d'aujourd'hui, les salles de spectacles, mais aussi les cinémas et les festivals
+vont devoir limiter le maximum de leur volume sonore, en le baissant de 105 décibels
+(c'était jusqu'ici la norme) à 102. C'est donc 3 décibels en moins. Cela n'a l'air de rien
+comme ça, mais cela revient tout de même à diviser par deux l’intensité sonore. 102
+décibels, cela reste toutefois encore beaucoup. Beaucoup trop disent certains, des
+médecins notamment, qui rappellent par exemple qu'un marteau piqueur équivaut à
+100 décibels. »
+D’après un article de https://www.rtl.fr publié le 01/10/2018
+
+1- À partir du document 1 et de vos connaissances, expliquer pourquoi il est nécessaire
+de baisser le niveau sonore dans les salles de spectacles. Une réponse argumentée
+et structurée est attendue.
+Document 1. Vues de surface d'une cochlée de chat avant et après des traumatismes
+auditifs
+La cochlée représente la partie auditive de l'oreille interne. On observe une cochlée
+de chat au microscope électronique à balayage dans différentes conditions.
+Partie de cochlée
+normale
+On observe une
+rangée de cellules
+ciliées internes (CCI)
+et 3 rangées de
+cellules ciliées
+externes (CCE).
+
+CCI
+
+CCE
+
+Les cellules ciliées
+sont toutes visibles.
+Cils vibratiles des cellules de la CCE
+
+Partie de cochlée
+après une exposition à
+un son pur de 8 kHz à
+120 dB pendant 20
+minutes
+
+CCI
+
+Les cils vibratiles des
+cellules ciliées internes
+sont absents ainsi que
+certains des cellules
+ciliées externes
+
+CCE
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/4361/MS_1991_4_357.pdf?sequence=1
+
+2- À partir de vos connaissances et des documents 2, 3 et 4, expliquer les précautions
+à adopter afin de réduire les risques d’un traumatisme sonore au niveau de l’oreille
+interne. Une réponse argumentée et structurée est attendue.
+Document 2. Effet d’un bouchon d’oreille sur le niveau sonore d’un son au sein de
+l’oreille interne en fonction de sa fréquence
+
+Son sans
+protection
+(dB)
+
+Niveau sonore (dB)
+
+Son avec
+bouchon
+mousse (dB)
+
+Son avec
+bouchon
+silicone (dB)
+
+-10
+
+1000
+
+10000
+
+Fréquence (Hz)
+
+D’après https://www.lesnumeriques.com/accessoire-audio/risques-auditifs-quelle-protectionauditive-choisir-a3795.html
+
+Document 3. Durées admissibles d’exposition quotidienne au bruit
+
+Ce document indique la durée admissible
+d’exposition quotidienne au bruit à différents
+niveaux d’intensité en décibels (dB). Au-dessous
+de 80 dB, il n’y a pas de risque de dégradation
+brutale de l’audition.
+D’après https://www.journee-audition.org/pdf/guidejeunes.pdf
+
+Document 4. Évolution du niveau sonore en fonction de la distance à la scène du
+concert
+
+Niveau sonore (dB)
+
+Distance (m)
+
+3- Louise écoute son groupe de rock préféré et ne veut rien rater du concert dont elle
+ne connait pas la durée exacte.
+Pour cela, elle se met au plus près de la scène à une distance d’environ 1,0 m.
+Les mesures effectuées par les techniciens de la salle montrent que le groupe respecte
+la nouvelle législation en vigueur : le niveau sonore à l’endroit où est Louise est de
+101 dB. Pourtant au bout de quelques minutes, Louise ressent une gêne et décide de
+s’éloigner un peu de la scène.
+À partir des documents 3 et 4, déterminer graphiquement à quelle distance de la scène
+Louise doit se placer pour être sûre de ne subir aucun risque de dégradation brutale
+de son audition.
+
+Document réponse à rendre avec la copie
+Exercice 1
+Étude démographique de la population d’Afrique du Sud
+
+Réponse à la question 5

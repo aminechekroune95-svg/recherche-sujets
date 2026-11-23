@@ -1,0 +1,468 @@
+{"pages": 19, "method": "pdftotext", "bytes": 3733504, "at": "2026-11-23T09:28:03+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vergers d’arbres fruitiers
+Sur 4 points
+Anthony et Élisabeth sont deux jeunes agriculteurs.
+Partie A – L’exploitation d’Anthony
+Lors de son installation, Anthony a choisi de planter des clémentiniers. En 2022, il a
+récolté 80 tonnes de clémentines et il estime que chaque année, à partir de 2022, sa
+production augmentera de 6 %.
+On modélise la production de clémentines par une suite (𝑝! ) où 𝑝! désigne, pour
+tout entier naturel 𝑛, le nombre de tonnes de clémentines qu’Anthony récoltera pour
+l’année 2022 + 𝑛.
+Ainsi 𝑝" = 80.
+1- Calculer 𝑝# .
+2- Exprimer, pour tout entier naturel 𝑛, 𝑝!$# en fonction de 𝑝! et en déduire la
+nature de la suite (𝑝! ). Préciser sa raison.
+3- Donner, pour tout entier naturel 𝑛, une expression de 𝑝! en fonction de 𝑛.
+Partie B – L’exploitation d’Élisabeth
+Lors de son installation en 2022, Élisabeth a choisi de planter 680 pommiers. Elle
+estime qu’à cause des maladies, trois pommiers vont mourir tous les ans.
+On modélise le nombre de pommiers que possède Élisabeth par une suite (𝑎! ).
+Pour tout entier naturel 𝑛, 𝑎! désigne le nombre de pommiers que possède
+Élisabeth pour l’année 2022 + 𝑛. Ainsi, 𝑎" = 680.
+1- Quelle est la nature de la suite (𝑎! ) ? Préciser sa raison.
+2- Donner, pour tout 𝑛 ∈ ℕ, une expression de 𝑎! en fonction de 𝑛.
+3- Calculer le nombre de pommiers présents dans le verger d’Élisabeth en 2035.
+
+Partie C – Comparaison de rendements
+Sachant qu’en moyenne un pommier produit 200 kg de pommes par an, comparer
+les masses de fruits récoltés par Anthony et Élisabeth en 2035.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Concert celtique
+Un concert de musique rock celtique se déroule dans une salle des fêtes.
+Partie 1 – Analyse du son
+Lors de ce concert, trois musiciens jouent ensemble sur scène : un guitariste, un
+bassiste et un violoniste.
+Le son de chaque instrument a été enregistré séparément. Les courbes des signaux
+en tension correspondantes sont données dans le document 1.
+Document 1 – Enregistrements des sons des différents instruments
+Courbe 1 : guitare électrique
+
+Courbe 2 : basse
+
+Courbe 3 : violon
+
+1- À l’aide des enregistrements précédents, indiquer en argumentant si les trois
+musiciens jouent la même note ou non.
+
+Partie 2 – Enregistrement du concert
+Un des spectateurs décide de réaliser un enregistrement audio d’une partie du
+concert avec son smartphone. Le stockage interne est quasiment saturé : il lui reste
+120 Mo de libres sur sa carte SD de 16 Go.
+Document 2 – Numérisation du son
+Courbe de superposition des trois sons et quantification en 4 bits
+avec Te = 0,02 ms, soit Fe = 50 000 Hz
+
+Données : 1 octet = 8 bits ; 1 Mo = 106 octets ; 1 Go = 109 octets.
+2- Justifier avec le document 2 que le smartphone encode à 200 000 bit.s-1.
+3- Calculer la durée d’enregistrement du concert possible sur le smartphone de ce
+spectateur.
+
+Partie 3 – Risque sur l’audition
+On s’interroge sur les risques encourus en étant souvent exposé à des niveaux
+sonores élevés.
+Lors du concert, l’application sonomètre du smartphone affiche une valeur de 102 dB
+à proximité des enceintes.
+Document 3 – Échelle de niveau sonore et risques associés
+
+Source : lelivrescolaire.fr
+
+Document 4 – Conséquences d’un traumatisme sonore sur l’oreille
+
+Photographies de cellules ciliées de rats, soumises à différents niveaux sonores
+prolongés, observées au Microscope Électronique à Balayage.
+
+Évolution du pourcentage de destruction des cils des cellules ciliées en fonction du
+niveau sonore chez le rat.
+
+Des rats ont été exposés à des bruits semblables à des explosions de niveaux
+sonores croissants. Leurs cellules ciliées ont ensuite été observées au
+microscope. Chez l’être humain lorsque les cellules ciliées sont endommagées,
+elles ne peuvent ni être réparées, ni remplacées. Ces dégâts irréversibles peuvent
+causer une surdité.
+Source : d’après https://irem-limoges.canoprof.fr/
+
+4- Indiquer s’il existe un risque de perte d’audition en assistant à ce concert.
+Argumenter votre réponse.
+5- Préciser les précautions qu’auraient pu prendre les spectateurs pour davantage
+préserver leur audition.
+
+Niveau terminale
+Thème « Une histoire du vivant »
+
+L’évolution humaine
+Pour reconstituer l’histoire évolutive des humains, il faut en premier lieu préciser leur
+place au sein du monde vivant actuel. Les humains font partie du groupe des
+primates avec lesquels ils partagent de manière exclusive certains caractères. On
+souhaite étudier comment les scientifiques réussissent à établir des liens de parenté
+entre les humains et les autres primates.
+La phylogénie est l’étude des relations de parenté entre les êtres vivants basée sur
+le partage de caractères dérivés, c’est à dire des caractères qui proviennent de la
+transformation d’un caractère ancestral à la suite d’une innovation évolutive.
+Ainsi, plus le nombre de caractères dérivés partagés entre deux espèces est élevé,
+plus elles sont apparentées et plus leur ancêtre commun est récent.
+Document 1 – Matrice de caractères morpho-anatomiques de 8 espèces
+obtenue à l’aide du logiciel Phylogène
+
+En gras : état dérivé du caractère
+En italique : état ancestral du caractère
+Source : logiciel phylogène.
+
+1- Recopier sur votre feuille l’arbre de parenté obtenu avec le logiciel Phylogène ciaprès. Positionner les espèces présentes dans la matrice de caractères sachant
+que le Toupaïe est considéré comme l’extragroupe (espèce chez qui l’ensemble
+des caractères morpho-anatomiques étudiés existent sous l’état ancestral).
+
+Arbre à recopier sur la copie et à compléter
+2- Positionner sur votre arbre les innovations évolutives qui correspondent aux
+caractères dérivés de la matrice.
+3- Citer les espèces qui sont les plus apparentées aux humains. Justifier votre
+réponse.
+4- En utilisant le document 2 page suivante, montrer que la proportion de bases
+similaires entre les séquences de la NAD de l’Homme et du chimpanzé, puis de
+l’Homme et du gorille sont respectivement de 89 % et 86 %.
+5- En déduire les liens de parenté qui existent entre l’Homme, le chimpanzé et le
+gorille.
+6- En utilisant le document 3 page suivante et en se basant sur le pourcentage de
+similarités entre les séquences d'ADN de la NAD, calculer l'intervalle de
+confiance à 95 % du pourcentage de similarités entre les séquences d'ADN de
+l'Homme et du chimpanzé. Expliquer ce que signifie cet intervalle.
+
+Document 2 – Le gène impliqué dans la synthèse de la NAD, un gène présent
+dans les cellules de tous les êtres vivants
+La comparaison des séquences nucléotidiques du gène impliqué dans la synthèse
+de la NAD, permet de préciser les relations de parenté entre l’Homme, le
+chimpanzé et le gorille.
+
+Données moléculaires obtenues avec le logiciel Anagène
+Source : logiciel anagène.
+
+Document 3 – Calcul simplifié d’un intervalle de confiance à 95 %
+Pour calculer de manière simplifiée un intervalle de confiance à 95 %, on évalue la
+limite inférieure Linf et la limite supérieure Lsup de l’intervalle selon les formules :
+Linf = p - (z x ES)
+
+Lsup = p + (z x ES)
+
+avec :
+%×(#(%)
+
+ES : l'erreur standard, calculée avec la formule ES = ;
+
+p : la proportion de bases similaires et n : le nombre total de bases ;
+
+z : la valeur critique pour un niveau de confiance donné.
+
+!
+
+;
+
+Exemple : z est estimée à 1,96 pour un niveau de confiance de 95 %.
+Source : Théorème de Moivre Laplace
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge de la Terre
+L’estimation de l’âge de la Terre a été le sujet de controverses et a évolué au cours
+des siècles au fur et à mesure des connaissances et des progrès techniques.
+1- À partir de vos connaissances, indiquer deux arguments (ou méthodes)
+scientifiques autres que la radiochronologie qui ont été utilisés au cours du
+temps pour estimer l’âge de la Terre.
+En 1969, une météorite du type chondrite carbonée est tombée au nord du Mexique.
+Les scientifiques l’ont nommée météorite "Allende". Ce type de météorite s’est formé
+en même temps que le système solaire.
+Document 1 – Caractéristiques de la météorite Allende
+La météorite Allende contient des
+structures en formes de petites
+sphères de minéraux appelées
+chondres dont la composition est
+proche de la composition
+moyenne de la Terre.
+Ces chondres appartenant à la
+même météorite ont tous le
+même âge et contiennent du
+rubidium 87 (87Rb) qui avec le
+temps se désintègre en strontium
+87 (87Sr), un des isotopes stables
+du strontium.
+Des mesures de rapports
+isotopiques ont été réalisées sur
+ces chondres.
+
+Figure – La météorite Allende
+Source : acces.enslyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-dela-formation-du-systeme-solaire
+
+Document 2 – La radiochronologie, une méthode de datation
+La radiochronologie consiste à mesurer dans plusieurs échantillons d’une même
+roche la quantité de noyaux pères rubidium 87 (87Rb), de noyaux fils strontium 87
+(87Sr) et de noyaux stables strontium 86 (86Sr). On déduit des rapports isotopiques
+(rapports des quantités mesurées) 87Sr/86Sr et 87Rb/86Sr.
+En traçant la courbe représentant le rapport isotopique 87Sr/86Sr en fonction du
+rapport isotopique 87Rb/86Sr, une droite est obtenue.
+Cette droite, appelée droite isochrone (iso : identique et chronos : temps), peut être
+modélisée par la fonction 𝑦 = 𝑎𝑥 + 𝑏. Le coefficient directeur de 𝑎 de la droite
+donne, après un calcul, l’âge de l’ensemble des échantillons de la roche.
+,,+
+2- Parmi les noyaux ,+
+*+Rb, *,Sr et *,Sr, indiquer en justifiant quel est le noyau
+radioactif.
+
+3- Donner la définition de la demi-vie d’un noyau radioactif.
+Document 3 – Droite isochrone des rapports isotopiques des chondres pour
+le couple Rb/Sr de la météorite Allende
+(avec les coordonnées x ; y associées à certains points)
+0,7025
+0,05213 ; 0,70214
+
+0,702
+
+87Sr/86Sr
+
+0,7015
+0,701
+0,7005
+0,7
+
+0,0066 ; 0,69925
+
+0,6995
+
+0,00853 ; 0,69933
+
+0,699
+
+0,00017 ; 0,69877
+
+0,6985
+
+0,01
+
+0,02
+
+0,03
+
+0,04
+
+0,05
+
+0,06
+
+87Rb/86Sr
+Source : construite à partir de données issues de
+https://www.sciencedirect.com/science/article/abs/pii/0016703776901083
+
+4- Montrer à l’aide du document 3 que le coefficient directeur de la droite isochrone
+correspond approximativement à une valeur de 0,065.
+
+Document 4 – Tableau de correspondance entre valeur du coefficient
+directeur d’une droite isochrone et âge de l’échantillon étudié
+pour le couple Rb/Sr
+Coefficient directeur
+
+Âge (années)
+
+0,000028
+
+2x106
+
+0,000063
+
+4,5x106
+
+0,028
+
+2x109
+
+0,065
+
+4,5x109
+
+0,88
+
+4,5x1010
+
+15,38
+
+2x1011
+
+5- En vous appuyant sur le document 4, montrer comment la datation d’une
+météorite comme celle d’Allende apporte un argument en faveur d’un âge de la
+Terre d’environ 4,57 Ga.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+La centrale Sable Blanc
+Depuis 2022, en Guyane, la centrale Sable Blanc
+combine une centrale solaire et le complexe de
+stockage de Toco qui est le plus grand complexe de
+stockage par batteries lithium-ion en France. Cette
+centrale mixte permet de produire le jour grâce à un
+excellent ensoleillement et d’injecter cette production
+sur le réseau électrique guyanais de 19 heures à
+21 heures, après le coucher du soleil.
+Dans cet exercice, on cherche à augmenter l’efficacité des panneaux
+photovoltaïques et à trouver une alternative à l’utilisation de batteries.
+Document 1 – Coefficient d’absorption des matériaux semi-conducteurs en
+fonction de la longueur d’onde de la lumière
+
+GaAs : arséniure de gallium ; Si : silicium ; InP : phosphure d’indium ; CdTe :
+tellurure de cadmium ; CdS : sulfure de Cadmium.
+Source : d’après https://tel.archives-ouvertes.fr/tel-01529748/document
+
+1- À partir du document 1, indiquer pourquoi il est possible d’utiliser le matériau
+semi-conducteur tellurure de cadmium (CdTe) en remplacement du silicium (Si) que
+l’on trouve communément dans les modules photovoltaïques.
+La centrale solaire est constituée d’une surface de 22 200 m² de modules
+photovoltaïques au tellurure de cadmium (Cd/Te) qui reçoivent annuellement une
+énergie solaire de 1,875 MWh/m² pour une production électrique de 5 400 MWh. On
+rappelle que 1 kWh est l’énergie associée à une puissance de 1 kW transférée ou
+stockée pendant une heure.
+2- On rappelle la définition du rendement énergétique d’une centrale solaire :
+r=
+
+Eélec produite
+Elum reçue
+
+. Calculer le rendement énergétique de la centrale solaire. Toute
+
+démarche entreprise pour répondre à la question sera valorisée.
+Document 2 – La découverte du volant de stockage solaire VOSS
+Savez-vous que l’énergie la moins chère est l’énergie solaire ? Grâce à la
+baisse spectaculaire du prix des panneaux photovoltaïques, […] l’énergie solaire
+est deux fois moins chère que les énergies classiques et polluantes. (…) elle est
+aussi extrêmement abondante. […]
+Si l’énergie solaire est si peu chère et si abondante, pourquoi n’est-elle pas
+notre énergie principale ? Parce qu’il y a un problème : l’intermittence […] le jour,
+il y a du soleil et la nuit, il n’y en a pas ! […]
+Il est absolument nécessaire de stocker le surplus d’énergie solaire en milieu
+de journée pour pouvoir l’utiliser le soir et la nuit.[…]. Les batteries, comme
+celles de votre téléphone, fonctionnent selon une réaction chimique. A chaque
+cycle de charge et de décharge, elle s’use, elle perd de sa capacité et il faut la
+changer au bout de quelques années. Le coût du stockage est donc très élevé […]
+si bien que l’énergie solaire, une fois stockée dans les batteries, n’est plus du tout
+intéressante […] elle a besoin de subventions pour se développer.
+Il y a quelques années, une entreprise innovante a proposé de remplacer les
+batteries par des volants […] un cylindre ou un disque qui tourne à très grande
+vitesse pour stocker de l’énergie sous forme d’énergie cinétique […] Le très gros
+avantage des volants par rapport aux batteries, c’est qu’ils ont une durée de vie
+illimitée […]. Avec mon équipe, nous avons fait des volants en acier, puis en fonte,
+[…] mais ces matériaux classiques sont trop chers […]. J’ai alors testé le béton
+[…] : il permet de stocker pour dix fois moins chers que les autres matériaux. Ce
+volant de stockage solaire, nous l’avons appelé VOSS.
+
+L’association du volant en béton avec les panneaux photovoltaïque conduit à une
+énergie renouvelable nuit et jour à un coût inférieure aux énergies polluantes.
+Notre grand projet est de créer des grandes centrales photovoltaïques dans des
+endroits très ensoleillés, comme les déserts, et d’alimenter le réseau mondial avec
+une énergie propre et bon marché.[…]
+Source : d’après TEDxParisSalon, 2015, extraits de la présentation d’A. Gennesseaux,
+fondateur de Energiestro
+
+3- À partir du document 2, citer un avantage et un inconvénient de l’énergie solaire.
+4- Les batteries couplées à la centrale solaire ont une capacité de stockage de
+2,9 MWh et une puissance de 2,6 MW. Calculer la durée d’autonomie électrique
+de ces batteries.
+Document 3 – Quelques données sur le volant de stockage solaire VOSS
+Un VOSS est constitué d'une masse en béton
+(mélange de sable et de ciment) précontraint
+(1) entraînée par un moteur électrique. L'apport
+d'énergie électrique permet de faire tourner la
+masse à des vitesses très élevées (environ
+6000 tours/min) et une fois lancée, elle
+continue à tourner, même si plus aucun
+courant ne l’alimente. L'énergie électrique est
+alors stockée dans le volant sous forme
+d’énergie cinétique, elle pourra ensuite être
+restituée instantanément en utilisant
+l’alternateur (3), entraînant la baisse de la
+vitesse de rotation de la masse.
+Le VOSS est expérimenté au sein du complexe
+de Toco : « Pour une masse de 4-5 tonnes
+incluant l’équipement autour, le volant aura une
+capacité de stockage énergétique de 10 kWh, et l’ensemble moteur/alternateur
+une puissance nominale de 10 kW. Ainsi, le système disposera d’une autonomie
+d’une heure en utilisation maximum ».
+
+Comparatif des dimensions et des masses des deux dispositifs de stockage
+concurrents pour une capacité de stockage identique :
+
+Volant solaire VOSS
+Batterie lithium-ion
+
+Puissance
+
+Hauteur
+
+10 kW
+10 kW
+
+1m
+0,9 m
+
+Largeur
+(diamètre)
+1,5 m
+0,60 m
+
+Masse totale
+3 000 kg
+180 kg
+
+Exemple : pour pouvoir stocker dans un ou plusieurs volants solaires la moitié de
+la production (60 MW) qui couvre les besoins d’une ville de 55 000 habitants, la
+masse totale du dispositif de stockage devrait atteindre 17 250 tonnes, soit
+l’équivalent de 345 avions de ligne.
+Source : d’après https://www.choisir.com/energie/articles/117094/quest-ce-que-le-volantde-stockage-solaire-voss
+
+5- Recopier et compléter sur votre copie le schéma de la chaîne de transformation
+énergétique d’un VOSS lorsqu’il est en phase de restitution de l’énergie stockée.
+
+6- Comparer les masses du volant solaire et de la batterie lithium-ion. En
+considérant que ces deux systèmes de stockage ont une forme cylindrique,
+comparer ensuite leurs volumes en détaillant vos calculs.
+7- La commercialisation du VOSS, qui devait officiellement débuter en 2018, puis
+en 2020, demeure encore aujourd’hui au stade de prototype. En vous appuyant
+sur le document 3, sur les questions précédentes et sur vos connaissances en
+lien avec l’empreinte carbone du béton, proposer des arguments pour expliquer
+ce retard alors que cette innovation semble prometteuse.

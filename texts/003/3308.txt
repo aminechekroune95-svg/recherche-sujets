@@ -1,0 +1,198 @@
+{"pages": 7, "method": "pdftotext", "bytes": 615607, "at": "2026-11-23T09:34:47+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement Scientifique
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+LE RAYONNEMENT SOLAIRE REÇU SUR TERRE
+L’exercice s’intéresse aux caractéristiques du rayonnement solaire reçu sur Terre.
+Donnée : la vitesse de propagation de la lumière dans le vide vaut c = 3,0 × 108 m∙s-1
+PARTIE A. TEMPÉRATURE DE LA SURFACE DU SOLEIL.
+Document 1. Spectre du rayonnement émis par le Soleil.
+
+Le spectre de corps noir modélisant au mieux le spectre d’émission solaire
+est indiqué sur la courbe en trait épais.
+(Source : AbulÉdu-fr)
+
+1- Selon la loi de Wien, la longueur d’onde d’émission maximale d’un corps noir est
+inversement proportionnelle à la température absolue de la surface d’une étoile selon
+la formule :
+𝜆"#$ =
+
+𝑘
+𝑇
+
+où 𝑇 représente la température absolue (exprimée en Kelvin), 𝜆max la longueur
+d’onde du maximum d’émission (exprimée en mètre) et 𝑘 une constante de valeur
+2,89 × 10‒3 m∙K.
+À l’aide de ces informations et du document 1, déterminer la température de surface
+du Soleil.
+
+PARTIE B. ÉNERGIE SOLAIRE REÇUE PAR LA TERRE
+Document 2. Modélisation permettant le calcul de la puissance rayonnée.
+À une distance donnée du Soleil, la totalité de la
+puissance émise par le Soleil se trouve
+uniformément répartie sur une sphère de rayon
+égal à cette distance.
+Sur le schéma ci-contre, la Terre et le Soleil ne
+sont pas représentés à l’échelle.
+On rappelle que :
+l’aire d’une sphère de rayon 𝑑 est 𝑆 = 4𝜋𝑑, et
+que l’aire d’un disque de rayon 𝑅 est 𝑆/01234 =
+𝜋𝑅, .
+
+𝑑 = 1,5×1011 m
+
+2- Le rayonnement solaire met en moyenne 500 s à nous parvenir depuis le Soleil.
+Montrer que la distance moyenne Soleil-Terre est 𝑑 = 1,5×1011 m.
+3- La constante solaire exprime la puissance émise par le Soleil que recevrait un mètre
+carré de la surface terrestre exposé directement aux rayons du Soleil si l’atmosphère
+terrestre n’existait pas, la surface étant perpendiculaire aux rayons solaires. Elle varie
+au cours de l’année. Sa moyenne annuelle est de 1 370 W∙m-2.
+En s’appuyant sur le document 2 et la valeur de la constante solaire, calculer la
+puissance totale rayonnée par le Soleil.
+4 - La Terre intercepte le rayonnement solaire sur une surface correspondant à un
+disque de rayon R = 6 400 km.
+Calculer l’aire de cette surface, exprimée en m2.
+5 - Montrer par le calcul que la puissance solaire reçue par la Terre (en dehors de
+l’atmosphère) d’après ce modèle est voisine de 1,77 ×1017 W.
+6- Expliquer pourquoi la puissance solaire reçue par unité de surface terrestre n’est
+pas uniforme à la surface de la Terre. Il est recommandé de s’appuyer sur un schéma.
+
+EXERCICE 2
+GAMME TEMPEREE ET GUITARE CLASSIQUE
+
+Après avoir rappelé quelques généralités sur la gamme tempérée, cet exercice s’intéresse
+à l’espacement des frettes d’une guitare classique.
+Partie A. Gamme tempérée
+Il y a eu dans l’histoire de nombreuses méthodes de construction de gammes pour
+ordonner les notes à l’intérieur d’une octave.
+On peut diviser l’octave en douze intervalles à l’aide de treize notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si, Do). La gamme fréquemment utilisée
+de nos jours est la gamme au tempérament égal (ou gamme tempérée), dans
+laquelle le rapport de fréquences entre deux notes consécutives est constant.
+1- Rappeler la valeur du rapport des fréquences de deux notes situées aux
+
+extrémités d’une octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est √2.
+3- Le tableau suivant indique les fréquences (en Hertz), arrondies au dixième, de
+quelques notes de la gamme tempérée.
+Note
+Fréquence
+(Hz)
+
+Mi3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+329,6
+
+349,2
+
+370,0
+
+392,0
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+440,0
+
+466,2
+
+493,9
+
+523,3
+
+Calculer la valeur, arrondie au dixième, de la fréquence qui manque dans le tableau
+ci-dessus.
+Partie B. Application aux frettes de la guitare classique
+En observant le manche d’une guitare classique, on remarque que les barrettes
+métalliques, appelées frettes, situées sur les cordes, ne sont pas espacées
+régulièrement : plus on s’approche du chevalet, plus elles sont resserrées.
+Cette partie se propose d’expliquer pourquoi.
+
+Manche d’une guitare classique
+Une guitare classique est constituée de 6 cordes. La longueur située entre le
+chevalet et le sillet est la plus grande longueur de corde pouvant vibrer. On la note
+𝐿: . On suppose ici que 𝐿: = 650 mm. Le manche de la guitare est divisé en plusieurs
+cases délimitées par les frettes. Ces frettes permettent au joueur de guitare de
+modifier la longueur de la corde pouvant vibrer, et par conséquent de faire varier la
+fréquence du son issu de cette vibration.
+On se place dans le cas simple où le joueur utilise une seule corde.
+S’il joue à vide, c’est-à-dire sans pincer la corde au niveau d’une case, la corde qui
+vibre, de longueur 𝐿: , produit un son d’une fréquence 𝑓: .
+Lorsqu’il pince la corde au niveau de la case 𝑛, située juste au- dessus de la 𝑛-ième
+frette, la corde qui vibre, de longueur 𝐿? , émet un son de fréquence 𝑓? .
+Ces grandeurs sont reliées entre elles par la relation
+𝐿? × 𝑓? = 𝐿: × 𝑓: où :
+- 𝑛 est le numéro de la frette, compté à partir du haut du manche (𝑛 = 0 pour
+une corde jouée « à vide »).
+- 𝐿? est la longueur de la corde entre le chevalet et la 𝑛-ième frette.
+- 𝑓? est la fréquence de la note jouée lorsque l’on pince la corde au niveau de
+la case 𝑛.
+4- Lorsqu’on joue à vide la corde la plus fine de la guitare, le son émis est le Mi3.
+Pour obtenir un Mi4 le joueur pince cette même corde au niveau de la 12e case
+(située juste au-dessus de la 12e frette), ce qui produit un son de fréquence
+𝑓A, = 2 × 𝑓: .
+4-a- Le Mi4 est-il plus aigu ou plus grave que le Mi3 ?
+
+4-b- Parmi les réponses suivantes, indiquer celle quelle qui correspond à la longueur
+
+𝐿A, correspondant à la fréquence 𝑓A, . Justifier la réponse.
+1)
+
+𝐿A, = 2 × 𝐿:
+
+5- Longueur de la 1re case.
+
+,
+
+B
+
+2) 𝐿A, = ,C
+
+3) 𝐿A, = B
+
+C
+
+On rappelle que la fréquence du Fa3 est égale à 𝑓A = √2 𝑓: . Pour obtenir un Fa3, on
+pince la corde au niveau de la première case, la longueur de la corde vibrante étant
+alors égale à L1.
+B
+Sachant que 𝐿A = 78C , donner l’expression de la longueur de la première case en
+fonction de L0.
+
+√,

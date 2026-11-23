@@ -1,0 +1,402 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1882071, "at": "2026-11-23T09:27:31+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- À l’aide du document 2, déterminer comment varie la puissance dissipée par
+effet Joule si l’intensité du courant électrique est divisée par deux. Écrire sur
+votre copie le numéro de la proposition correcte.
+P1 : elle ne varie pas
+
+P2 : elle est divisée
+par 2
+
+P3 : elle est divisée
+par 4
+
+P4 : elle est multipliée
+par 4
+
+6- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne
+à haute tension.
+7- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+8- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+9- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+10- Repérer l’intervalle où la fréquence dépasse 50 Hz. Conclure sur l’équilibre entre
+production et consommation électrique durant ces heures.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+6- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+La symphonie des Mille
+En septembre 1910, la Symphonie n°8 de Gustav Mahler fut jouée pour la première
+fois. Elle est aussi appelée la « Symphonie des Mille » car ce sont 1029 personnes,
+musiciens ou chanteurs, qui y participent.
+Partie 1 – Accorder les instruments
+Dès son entrée sur scène, un violoniste, appelé premier violon solo, a pour rôle
+d’accorder les instruments à cordes composant l’orchestre. Pour cela, il demande au
+hautbois de jouer un 𝑙𝑎3 dont la fréquence fondamentale est 440 Hz. Il peut ainsi
+accorder sa propre corde du 𝑙𝑎, puis c’est lui qui donne le 𝑙𝑎 aux autres instruments
+à cordes. Lorsque tout l’orchestre est accordé, le chef d’orchestre apparaît.
+Document 1 – Signal du son émis par la corde du 𝒍𝒂 d’un violon
+
+1- Justifier que le son obtenu est un son composé.
+
+Document 2 – Spectres de Fourier de deux sons correspondants à des 𝒍𝒂𝟑
+Spectre 1 :
+
+Spectre 2 :
+
+2- Indiquer quel spectre de Fourier du document 2 correspond au 𝑙𝑎3 du premier
+violon solo. Justifier la réponse.
+Un autre violoniste de l’orchestre n’ayant pas encore accordé son instrument joue la
+corde du 𝑙𝑎3 et trouve le son plus grave que celui émis par le premier violon solo.
+Document 3 – Fréquence du son émis par une corde
+La fréquence fondamentale 𝑓 (en Hz) de la note jouée par une corde dépend de la
+longueur 𝐿 (en m) de la corde, de la force de tension 𝐹 (en N) et de la masse
+linéique 𝜇 (en kg. m−3 ) de la corde. Elle se calcule avec la relation suivante :
+𝑓=
+
+1 𝐹
+√
+2𝐿 µ
+
+Plus la fréquence est élevée, plus le son est aigu.
+
+Document 4 – Accorder un violon
+
+Pour accorder un violon, le violoniste
+tourne les chevilles qui tendent ou
+détendent les cordes.
+
+Source : Concours général des Lycées,
+session 2020, Physique-chimie classe de
+terminale générale
+
+3- D’après les documents 3 et 4, expliquer comment doit procéder le violoniste pour
+accorder la corde en question. Justifier la réponse.
+Document 5 – Intensité sonore et niveau d’intensité sonore
+L’intensité sonore I (en W. m−2 ) correspond à la puissance sonore par unité de
+surface.
+On caractérise plus souvent un son par son niveau d’intensité sonore 𝐿 (en dB) :
+𝐼
+𝐿 = 10 × log⁡( )
+𝐼0
+avec 𝐼0 ⁡ = ⁡ 10−12 ⁡W. m−2 l’intensité sonore de référence à partir de laquelle un son
+est audible pour l’oreille humaine.
+Un spectateur est placé à une certaine distance de l’orchestre. Lors du final de la
+symphonie de Mahler, la quasi-totalité des instrumentistes et chanteurs sont en
+action pendant quelques minutes. On fera l’approximation que l’intensité sonore des
+différents instruments et chanteurs est la même au niveau où est situé le spectateur
+et vaut 𝐼1 ⁡ = ⁡1,0 × 10−6 ⁡W. m−2 .
+
+4- Déterminer l’intensité sonore 𝐼1000 du son émis par les 1000 musiciens lors du
+final. On rappelle que les intensités sonores s’ajoutent.
+Document 6 – Échelles d’intensité sonore I et de niveau d’intensité sonore L
+
+5- Déterminer le niveau d’intensité sonore 𝐿1000 pour le spectateur.
+Partie 2 – Santé auditive
+Une dosimétrie du bruit a été effectuée lors d’un concert de Mahler. Elle révèle que
+certaines places dans l’orchestre sont particulièrement bruyantes, dépassant
+fréquemment les 110⁡dB. Parmi ces places, devant les grosses caisses se trouvent
+des joueurs de trombone (les trombonistes) dont un qui déclare une perte d’audition.
+Un dépistage auditif lui est proposé par un médecin.
+Document 7 – La réalisation des audiogrammes du tromboniste
+Pour caractériser le niveau de surdité du musicien, on réalise un audiogramme
+indépendamment sur chaque oreille : le médecin fait écouter au patient certains
+sons via un casque. Les différents sons sont d’abord joués à très faible volume
+(faibles décibels), puis augmentés au fur et à mesure. On réalise différentes
+mesures pour des sons graves (faible fréquence) et des sons aigus (haute
+fréquence).
+Le médecin repère précisément la fréquence et l’intensité du son le plus bas que le
+patient peut percevoir, ce qui lui permet de tracer les courbes ci-dessous, en
+comparant avec un patient sain.
+Les deux graphiques suivants représentent les pertes auditives des oreilles du
+joueur de trombone (dB) en fonction de la fréquence du son (Hz).
+
+Source : d’après la clinique du son
+
+Document 8 – Les différents niveaux de surdité
+La surdité est calculée en décibels (dB) de perte auditive.
+Perte auditive
+(en dB)
+
+Niveau d’audition
+
+Conséquences sur la vie de la
+personne
+
+De 0 à 20 dB
+
+Audition normale
+
+Aucune conséquence
+
+De 20 à 39 dB
+
+Surdité légère
+
+La personne fait répéter son
+interlocuteur, sur les sons aigus
+
+De 40 à 69 dB
+
+Surdité moyenne
+
+La personne ne comprend que si
+l’interlocuteur élève la voix
+
+De 70 à 89 dB
+
+Surdité sévère
+
+La personne ne comprend que si
+l’interlocuteur élève la voix à proximité
+de son oreille
+
+Plus de 90 dB
+
+Surdité profonde
+
+La personne n’entend plus du tout la
+parole
+
+Source : https://www.ameli.fr/rhone/assure/sante/themes/perte-acuite-auditive/definitioncauses
+
+6- À l’aide des informations des documents 7 et 8, caractériser le niveau de surdité
+des oreilles du tromboniste. Une réponse argumentée est attendue.
+Document 9 – Schéma de l’anatomie de l’oreille humaine
+
+L’audition fait intervenir différents organes. L’exposition à un bruit important, qu’il soit
+prolongé ou bref, peut conduire à différentes pathologies : une perforation du
+tympan, une fracture des osselets, une détérioration des cellules ciliées, une
+connexion entre les cellules nerveuses défectueuse, ...
+7- Nommer les éléments 2, 3, 4 et 6 du document 9 qui interviennent
+successivement dans la transmission des vibrations sonores au niveau de
+l’oreille en les classant par ordre d’intervention successif.
+8- Utiliser les informations des documents 10 et 11 suivants pour expliquer l’origine
+de la baisse d’audition du musicien et déterminer son type de surdité.
+
+Document 10 – Données anatomiques sur les pathologies de l’audition
+État normal
+
+État pathologique
+
+Joueur de trombone
+
+Tympan
+
+Tympan perforé
+(1) https://orlpoitiers.fr/wp-content/uploads/2013/03/tympan.png
+(2) https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/
+TM_RIGHT_NORMAL.jpg/1200px-TM_RIGHT_NORMAL.jpg
+
+Osselets
+(IRM)
+
+indiqués
+par des
+flèches.
+
+Osselets fracturés
+(1) https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13244011-0126-z/MediaObjects/13244_2011_126_Fig21_HTML.gif
+(2) radiopaedia.org
+(3) foodmedicaleponyms.com
+
+Cellules
+ciliées
+(Microscopie
+électronique)
+(1) https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcSqgH6oONbjQr_7aw8SBUAKtxTpf8pn1UPEr6al5pjDjExx0gxG-SlswWfHjymty0iRBM&usqp=CAU
+(2) https://www.coopacou.com/fichiers/ACOUPHENE/pertes-auditives-CCI-CCE.png
+
+Document 11 – Les différents types de surdité
+Surdité de
+transmission
+
+Liée à un problème de transmission du signal sonore dans
+l'oreille externe (pavillon et conduit auditif externe) ou moyenne
+(fonctionnement du tympan ou mobilité des osselets)
+
+Surdité de
+perception
+
+Liée à la dégradation des cellules ciliées de la cochlée l’oreille
+interne ou du nerf auditif (responsable de la transmission des
+sons au cerveau).
+
+Surdité mixte
+
+Combine les deux surdités (de transmission et de perception)
+
+Source : https://www.ameli.fr/assure/sante/themes/perte-acuite-auditive/definition-causes

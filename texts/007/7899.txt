@@ -1,0 +1,187 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1131053, "at": "2026-11-23T09:33:56+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+EXERCICE 1
+LA NUMÉRISATION ET LE STOCKAGE D’UN SON.
+
+Cet exercice s’intéresse à différents aspects de la numérisation d’un son et du
+stockage du fichier obtenu.
+
+Partie A. Échantillonnage et quantification
+
+1- Une plateforme de service de musique en ligne propose de la musique en qualité
+« 16-Bit/44.1 kHz ». Expliquer ce que cela signifie.
+2- Pour chacune des propositions suivantes, recopier sur la copie la réponse qui
+convient :
+2-a- Pour échantillonner à 20 000 Hz un signal audio analogique, quelle est la durée
+de l’intervalle de temps entre deux mesures de la tension du signal audio ?
+5 × 10−5 s
+
+5 × 10−4 s
+
+5 × 10−3 s
+
+2 × 10−4 s
+
+2-b- Lorsqu’on quantifie un échantillon sur 24 bits, combien de niveaux de tension
+différents a-t-on la possibilité de coder ?
+2 × 24 = 48
+
+242 = 576
+
+224 = 16 777 216
+
+2-c- Dans cette question, on s’appuie sur le document 1 fourni en annexe.
+Parmi les choix ci-dessous, quelle est la fréquence d’échantillonnage choisie pour le
+signal audio représenté ?
+2 000 Hz
+
+12 500 Hz
+
+26 000 Hz
+
+44 100 Hz
+
+3- Cette question s’appuie également sur le document 1 fourni en annexe.
+On procède à la quantification, par codage sur 3 bits, des valeurs de la tension
+obtenues après l’échantillonnage du signal audio. Après quantification, la tension
+(exprimée en volt), peut prendre pour valeurs les 8 nombres entiers relatifs compris
+entre – 4 et +3, la valeur quantifiée d’une tension étant l’entier le plus proche de cette
+tension.
+Sur le document 1, à rendre avec la copie, représenter la courbe des tensions après
+échantillonnage et quantification
+
+Partie B. Taille de fichier
+La taille T(en bit) d’un fichier audio numérique s’exprime en fonction de la fréquence
+d’échantillonnage 𝑓𝑒 (en Hertz), du nombre 𝑛 de bits utilisés pour la quantification, de
+la durée Δ𝑡 de l’enregistrement et du nombre 𝑘 de voies d’enregistrement (une en
+mono, deux en stéréo) selon la relation :
+𝑇 = 𝑓𝑒 × 𝑛 × Δ𝑡 × 𝑘
+Dans un studio d’enregistrement, on enregistre un morceau de musique en stéréo en
+choisissant un encodage sur 24 bits et une fréquence d’échantillonnage de 192 kHz.
+4- Vérifier que l’espace de stockage nécessaire pour enregistrer une seconde de
+musique avec cette qualité est de 1,152 Mo.
+5- Un espace de stockage de 200 Mo est-il suffisant pour enregistrer un fichier
+contenant un morceau de musique de cinq minutes dans cette qualité ?
+6- Le dispositif d’encodage et de compression FLAC (Free Lossless Audio Codec)
+permet de compresser le fichier obtenu à la question précédente avec un taux de
+compression de 45 %. Avec 200 Mo de stockage, dispose-t-on de suffisamment
+d’espace pour enregistrer ce fichier compressé ?
+On rappelle que le taux de compression est le quotient de la taille du fichier
+compressé par la taille du fichier initial.
+
+EXERCICE 2
+APPROCHE HISTORIQUE DE L’ÂGE DE LA TERRE
+Depuis l’Antiquité, la question de l’âge de la Terre a soulevé de nombreuses
+controverses. On se propose d’étudier différentes méthodes ayant permis d’estimer
+l’âge de la Terre au cours de l’histoire des sciences.
+Partie A. Les précurseurs : Buffon et Kelvin
+• La démarche de Buffon
+Georges Louis Leclerc, comte de Buffon, est le premier à réaliser une expérience
+pour déterminer l’âge de la Terre. Partant de l’hypothèse que la Terre a d’abord été
+une sphère de matière en fusion qui a refroidi, il chauffe au rouge 10 boulets de fer
+forgé de tailles différentes et inférieures à 5 pouces (1 pouce = 2,54 cm). Buffon
+mesure la durée de leur refroidissement et extrapole ensuite ses résultats au globe
+terrestre, dont le diamètre connu à l’époque est proche de 13 000 km. Pendant
+plusieurs années et avec des métaux différents, il effectuera plus de 60 expériences,
+chacune répétées trois fois.
+Document 1. Étude du temps de refroidissement des boulets de canon
+Temps de refroidissement en fonction du rayon des boulets
+Temps en min
+
+Rayon
+
+8 en cm
+
+Buffon écrit :
+« Maintenant, si l’on voulait chercher […] combien il faudrait de temps à un globe
+gros comme la Terre pour se refroidir, on trouverait, d’après les expériences
+précédentes, […] quatre-vingt-seize-mille six cent soixante-dix ans et cent trentedeux jours pour la refroidir à la température actuelle » (extrait de L’Histoire Naturelle,
+générale et particulière, Buffon, 1774).
+• La démarche de Kelvin
+Presque un siècle plus tard, le Britannique Lord Kelvin utilise la théorie de la
+conduction de la chaleur établie par Fourier et modélisée par « l’équation de la
+chaleur ». En considérant que l’intérieur de la Terre est homogène et rigide, il estime
+l’âge de la Terre entre 20 et 400 millions d’années en utilisant l’équation de transfert
+de chaleur.
+Lord Kelvin écrit :
+« Le fait que la température de la Terre augmente avec la profondeur sous la surface
+implique une perte continue de chaleur de l’intérieur par conduction vers l’extérieur, à
+travers ou dans la croûte supérieure. Puisque la croûte supérieure ne devient pas
+plus chaude d’année en année, il doit donc y avoir une perte de chaleur séculaire de
+la Terre entière… Mais il est certain que la Terre devient de plus en plus froide d’âge
+en âge… » (d’après On the Secular Cooling of the Earth, Lord Kelvin, 1862)
+En s’appuyant sur le document 1, les informations précédentes et sur vos
+connaissances personnelles, répondre aux questions suivantes.
+1- Expliciter la démarche mise en œuvre par Buffon, ses points forts et ses limites.
+2- Expliciter la démarche mise en œuvre par Lord Kelvin, ses points forts et ses
+limites.
+3- Commenter les âges de la Terre proposés par Buffon et Kelvin. On attend une
+comparaison des valeurs, de leur précision et de leur ordre de grandeur.
+
+Partie B. Les positions des géologues et de Charles Darwin
+Au XIXe siècle, des géologues à l’instar de Charles Lyell, affirment que l’explication
+du passé de la Terre réside dans l’étude des phénomènes géologiques actuels. Ils
+utilisent la vitesse de sédimentation pour évaluer l’âge de la Terre.
+En considérant que les sédiments se déposent à un rythme compris entre 1 mm et
+1 cm par an, ils estiment l’âge de la Terre a environ 3 milliards d’années.
+
+Quant à Charles Darwin, il s’oppose à Kelvin dans son ouvrage « De l’origine des
+espèces » paru en 1859. Selon lui, la théorie de l’évolution permet d’expliquer la
+diversité du vivant, mais elle nécessite des temps très longs, de l’ordre du milliard
+d’années.
+Document 2. Coupe géologique d’un affleurement géologique à Wöllstein
+(Allemagne).
+L
+
+Argile
+
+Socle (roche magmatique)
+L
+
+L’épaisseur de chaque couche est donnée en mètres.
+D’après Gustave-F. Dollfus, Bulletin de la société géologique de France, 1911.
+4- En considérant que la vitesse de sédimentation est de 0,1 mm par an et que les
+sédiments formant ces différentes strates (couches 1 à 5) se sont déposés de
+manière uniforme, estimer la durée de formation de l’ensemble des strates de
+Wöllstein surmontant le socle.
+5- Comparer cet âge à celui estimé par Darwin. Proposer une hypothèse pour
+laquelle cette estimation de l’âge de la Terre à partir de cette coupe géologique est
+très différente.
+
+ANNEXE A RENDRE AVEC LA COPIE
+EXERCICE 1. LA NUMÉRISATION ET LE STOCKAGE D’UN SON
+
+Document 1 : Signal audio en fonction du temps
+En ordonnée, la tension U est exprimée en volt, en abscisse le temps t est exprimé
+en seconde.
+Lors de l’échantillonnage du signal, les mesures sont réalisées aux instants repérés
+par des lignes verticales.
+U en V
+Signal U (t)
+
+1 ms
+
+t en s

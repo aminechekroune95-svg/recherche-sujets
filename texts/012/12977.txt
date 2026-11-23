@@ -1,0 +1,328 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1030308, "at": "2026-11-23T09:33:15+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents des pages suivantes :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+-10
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+légère
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or : exploitation et conséquences sanitaires
+L’objectif de cet exercice est d’étudier la structure cristalline de l’or puis de comprendre
+en quoi l’exploitation de l’or peut favoriser le développement de troubles neurologiques
+dans les populations humaines.
+Partie 1. La structure du cristal d’or
+Document 1. Représentations de la maille cristalline de l’or
+L’or cristallise en réseau cubique à faces centrées. Les atomes d’or sont assimilés à
+des sphères rigides, tangentes entre elles, de rayon r = 144,2 pm (1 pm = 10−12 m).
+Les points de tangence sont situés sur la diagonale d’une face du cube.
+Ci-dessous, les points représentent la position des centres des atomes d’or dans la
+maille : chaque atome au sommet du cube appartient à huit mailles et ceux au centre
+de chaque face appartiennent à deux mailles.
+
+On donne la représentation plane de la face d’une maille sur la figure suivante ; 𝑎 est
+la longueur de l’arête de la maille et 𝑟 est le rayon d’un atome.
+
+1- On note 𝑎 la longueur de l’arête du cube représentant une maille. Démontrer par le
+calcul que 𝑎 = 407,9 pm. En déduire le volume 𝑉𝑚 d’une maille cubique en pm3.
+
+2- On rappelle que le volume 𝑉 d’une sphère de rayon 𝑟 est 𝑉 = 3 𝜋𝑟 3 . Calculer,
+en pm3, le volume 𝑉𝑂 d’un atome d’or.
+3- On définit la compacité 𝐶 d’un cristal par la relation :
+Volume occupé par les atomes d'une maille
+Volume de la maille
+Calculer la compacité du cristal d’or.
+𝐶=
+
+Partie 2. Conséquences sanitaires de l’exploitation d’or
+L’extraction de l’or nécessite d’utiliser de grandes quantités de cyanure et de mercure.
+Chez les adultes, les effets d'une exposition importante au mercure se remarquent par
+des symptômes affectant le système nerveux : des tremblements et des pertes de
+capacités sensorielles, avec notamment la perte de coordination entre les cellules
+musculaires et nerveuses, des troubles de la mémoire, et des déficiences
+intellectuelles. Le mercure est considéré par l’Organisation Mondiale de la Santé
+(OMS) comme l’un des dix produits chimiques ou groupes de produits chimiques
+extrêmement préoccupants pour la santé publique.
+
+Document 2. Les effets du méthyl-mercure sur les êtres-vivants
+Le cyanure et le mercure, utilisés sans précaution pour l’extraction de l’or, contaminent
+les sols et les nappes phréatiques à jamais. Même après la fermeture des mines, les
+gravats traités au cyanure génèrent pendant des décennies des acides sulfuriques
+toxiques.
+Le mercure peut se transformer dans l'environnement en méthyl-mercure. Ce méthylmercure tend à s'accumuler dans les eaux et dans les espèces aquatiques. […]
+Le méthyl-mercure a la capacité de provoquer une réaction chimique dégradant les
+phospholipides de la membrane plasmique. Le méthyl-mercure peut pénétrer dans la
+cellule à travers ces membranes et peut se fixer sur certains organites notamment les
+mitochondries, et sur des protéines cytoplasmiques, dont le fonctionnement est alors
+altéré. Les cellules nerveuses sont particulièrement touchées.
+D’après Segall H.J., Wood J.M.(1974). Reaction of methyl mercury with plasmalogens suggests a
+mechanism for neurotoxicity of metal-alkyls. Nature, 248 : 456-8
+
+Document 3. Suivi microscopique de la croissance de cellules nerveuses dans
+différentes conditions (sans et avec exposition au méthyl-mercure)
+La même cellule nerveuse est suivie,
+dans différentes conditions
+environnementales.
+
+a – Avant exposition au méthylmercure.
+
+b – Après une exposition de
+10 minutes au méthyl-mercure.
+
+c – Après une exposition de
+40 minutes au méthyl-mercure.
+
+La barre d’échelle visible en bas à droite des photographies mesure 30 µm.
+La flèche noire permet de comparer un même point sur chaque image.
+D’après Retrograde degeneration of neurite […] in vitro exposure to mercury, Christopher C. W., Leong
+et al. – NeuroReport – Décembre 2000
+
+4- À partir de l’exploitation des documents et de vos connaissances, expliquer l’origine
+cellulaire des symptômes présentés par les individus fortement exposés au mercure.
+Une réponse argumentée structurée est attendue. Elle ne doit pas excéder une page.
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Les phases de la Lune
+Les astres dans le ciel, en particulier le deuxième plus brillant d’entre eux, la Lune,
+fascinent les humains. Depuis l’antiquité, les phases de la Lune et ses éclipses ont
+permis d’en étudier quelques caractéristiques.
+Cet exercice s’intéresse aux phases de la Lune ainsi qu’à une méthode géométrique
+pour déterminer son rayon.
+Partie A – Les phases de la Lune
+La Lune tourne autour de la Terre sur une orbite quasi-circulaire, avec une période de
+révolution de 27 jours, 7 h et 43 min. Dans le même temps, la Terre poursuit son
+mouvement sur une orbite quasi-circulaire autour du Soleil.
+Pour un observateur terrestre, la position relative des trois astres engendre un aspect
+de la lune qui varie au cours du temps et que l’on appelle les "phases de la Lune". Ce
+cycle au bout duquel la Lune retrouve son aspect initial, s’appelle la lunaison, et dure
+29 jours, 12 h et 44 min.
+Document 1. Le schéma ci-dessous représente quelques positions de la Terre et de
+la Lune lors d'une lunaison. Le Soleil est considéré comme fixe et on en
+a représenté quelques rayons.
+
+D’après commons.wikimedia.org/wiki/File:Moon_phases_00.jpg
+
+1- Indiquer à quelles positions de (a) à (i) sur le document 1 correspondent les aspects
+suivants de la Lune :
+Lune gibbeuse
+
+Premier quartier
+
+Dernier croissant
+
+2- Les positions (a) et (i), positions extrêmes d’un cycle de lunaison du document 1,
+correspondent aux situations appelées « nouvelle Lune ». Préciser ce qu’on
+observe alors depuis la Terre.
+3- La Lune présente toujours la même face à la Terre. Choisir, parmi les propositions
+suivantes, la période de rotation de la Lune sur elle-même. On pourra s’aider d’un
+schéma.
+365,25 jours
+
+24 h
+
+27 jours 7 h et 43 min
+
+29 jours 12 h et 44 min
+
+4- Parmi les situations de (a) à (i) du document 1, certaines permettent l’observation
+d’éclipses de Lune. Préciser laquelle ou lesquelles.
+Partie B – Dimension de la Lune
+Document 2. Éclipse de Lune
+Aristarque de Samos (310-230 avant JC)
+émet l’hypothèse qu'en mesurant la taille de
+l'ombre de la Terre sur la Lune lors d’une
+éclipse, on peut calculer le rapport entre le
+rayon de la Terre et le rayon de la Lune.
+Il suppose par ailleurs que l’ombre de la Terre
+sur la Lune a la même taille que la Terre, ce
+qui revient à considérer que les rayons du
+Soleil sont parallèles entre eux.
+
+Éclipse de lune du 19 janvier 2019
+à Chambord (G. Souvant – AFP)
+
+Document 3. Construction géométrique du centre d’un cercle
+Sur le schéma ci-contre, la Lune est
+modélisée par le cercle C dont on veut
+déterminer le centre. Pour cela, on choisit
+3 points M, N, P sur ce cercle.
+La droite D 1 est la médiatrice du segment
+[MN].
+La droite D 2 est la médiatrice du segment
+[NP].
+Ces deux médiatrices se coupent en un
+point O.
+On rappelle que tout point appartenant à
+la médiatrice d’un segment est situé à
+égale distance des extrémités de ce
+segment.
+
+Schéma de la Lune partiellement
+cachée par l’ombre de la Terre
+
+5- Démontrer que O est le centre du cercle C .
+6- Dans le document donné en annexe, à rendre avec la copie, reproduire cette
+construction géométrique pour déterminer le centre de la Lune sur la photo, puis
+réaliser une mesure en centimètres de son rayon rL .
+7- Une construction similaire a permis de mesurer le rayon de la Terre sur la photo.
+On admet qu’elle a donné rT ≈ 16,5 cm. Sachant que le rayon RT de la Terre vaut
+6400 km, déterminer une valeur (en km) du rayon RL de la Lune.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Les phases de la Lune
+Question 7
+
+Éclipse de Lune
+Photo : Jean-Michel Vienney

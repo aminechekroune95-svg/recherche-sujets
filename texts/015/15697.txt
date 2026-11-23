@@ -1,0 +1,332 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1372906, "at": "2026-11-23T09:28:21+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Gestion d’un parc animalier
+Sur 8 points
+Les trois parties peuvent être traitées indépendamment.
+Partie A
+En janvier 2022, on dénombre, dans un parc animalier, 27 sangliers. Comme leur
+nombre peut s’accroître très rapidement, la direction du parc fait en sorte que la
+population de sangliers augmente de 5 unités tous les 1er janvier par rapport à
+l’année précédente.
+On représente le nombre de sangliers dans ce parc par une suite (𝑢𝑛 ), ainsi pour
+tout entier naturel 𝑛, 𝑢𝑛 désigne le nombre de sangliers le 1er janvier de l’année
+2022 + 𝑛.
+Ainsi 𝑢0 = 27.
+1- Calculer 𝑢1 .
+2- Exprimer, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛. Expliquer la démarche.
+3- Selon ce modèle, estimer le nombre de sangliers le 1er janvier 2035.
+Partie B
+Pour aider à réguler la population de sangliers, il est décidé de
+créer un enclos rectangulaire pour les marcassins (les jeunes
+sangliers) contre le mur de la billetterie. Pour cet enclos, on
+dispose d’un grillage de 50 mètres de long et on veut que la
+largeur ne dépasse pas 15 mètres.
+La situation est représentée sur le schéma ci-contre où 𝑥
+désigne la largeur de l’enclos.
+4- Justifier que l’aire de cet enclos est égale à 50𝑥 − 2𝑥 2 .
+
+5- On considère la fonction 𝑓 définie sur l’intervalle [0 ; 15] par
+𝑓(𝑥) = 50𝑥 − 2𝑥 2
+On admet que 𝑓 est dérivable sur l’intervalle [0 ; 15].
+On note 𝑓’ la dérivée de la fonction 𝑓. Déterminer 𝑓’(𝑥) en fonction de 𝑥, réel de
+l’intervalle [0 ; 15].
+6- Étudier le signe de 𝑓’(𝑥) en fonction de 𝑥, réel de l’intervalle [0 ; 15], et en déduire
+le tableau de variation de la fonction 𝑓 sur l’intervalle [0 ; 15].
+7- En déduire l’aire maximale que peut avoir l’enclos. Expliquer la démarche.
+Partie C
+Un certain jour, 350 visiteurs ont visité le parc et un sondage a été effectué à leur
+sortie selon leur provenance (Ville ou Campagne), et selon leur sentiment après la
+visite (Ravi ou Déçu). Certaines données sont rassemblées dans le tableau
+d’effectifs ci-dessous.
+Ville
+
+Campagne
+
+Ravi
+Déçu
+
+Total
+
+Total
+
+8- Recopier et compléter le tableau d’effectifs.
+On choisit au hasard la fiche réponse au sondage d’un visiteur (on suppose que
+toutes les fiches réponses au sondage ont la même probabilité d’être choisies).
+Les résultats des probabilités seront arrondis, si nécessaire, à 10−2.
+9- Calculer la probabilité que le visiteur choisi vienne de la campagne.
+10- Calculer la probabilité que le visiteur choisi vienne de la campagne et soit ravi de
+sa visite.
+11- On choisit un visiteur qui vient de la campagne. Calculer la probabilité qu’il soit
+ravi de sa visite.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+AVC et appareils auditifs
+Sur 12 points
+Partie 1 – Étude des symptômes de la patiente #361
+La patiente #361 se rend à l’hôpital pour réaliser des examens car son audition se
+dégrade. La patiente est soumise à un bilan auditif qui consiste à déterminer le seuil
+de niveau sonore audible pour différents sons purs.
+Le document 1 établit l’histogramme de la perte auditive de la patiente #361 en
+fonction de la fréquence ainsi que celle d’un groupe témoin constitué de personnes
+du même âge que la patiente (65 ans) :
+
+le niveau 0 dB correspond à une absence de perte auditive ;
+
+jusqu’à 20 dB de perte auditive, le patient ne perçoit aucun symptôme de
+perte d’audition ;
+
+à partir de 20 dB de perte auditive, le patient a une perte légère d’audition.
+
+Document 1 – Histogramme présentant les pertes auditives de la patiente
+#361 et du groupe témoin en fonction de la fréquence sonore
+
+Perte auditive (dB)
+
+Patiente #361
+
+Témoin
+
+1000
+
+2000
+
+4000
+
+8000
+
+Fréquence (Hz)
+
+Source : T. Fujioka et al. Central auditory processing in adults with chronic stroke without
+hearing loss a magnetoencephalography study - 2020
+
+1- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition chez les personnes du groupe témoin.
+2- À partir du document 1 et des données qui le précèdent, proposer une
+explication à la perte d’audition chez les personnes du groupe témoin.
+3- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition anormale de la patiente #361 par rapport au groupe témoin.
+Les oreilles externes, moyennes et internes de la patiente #361 sont normales. Elle
+réalise ensuite un examen d’imagerie à résonance magnétique (IRM). Les médecins
+ont détecté un Accident Vasculaire Cérébral (AVC) sur l’IRM. Les zones touchées
+par les AVC sont altérées et fonctionnent moins bien voire plus du tout en fonction
+des caractéristiques de l’AVC (localisation, durée, …).
+Document 2 – IRM de la patiente #361
+
+Document 3 – IRM d’un individu témoin
+
+L’AVC est localisé par une tâche grise
+sombre sur l’IRM.
+
+L’IRM fonctionnelle montre les zones du
+cerveau activées (zones entourées) chez
+un individu témoin écoutant de la musique.
+
+Source : T. Fujioka et al. Central auditory
+processing in adults with chronic stroke
+without hearing loss a
+magnetoencephalography study – 2020
+
+Source : Images issues du logiciel ÉduAnat2.
+Coupe axiale.
+
+4- En vous appuyant sur les documents 2 et 3, expliquer l’origine de la perte
+auditive anormale chez la patiente #361.
+
+Partie 2 – Traitement de la patiente #361
+Il existe différents dispositifs médicaux pour limiter la surdité.
+Document 4 – Tableau présentant le fonctionnement de différents appareils
+auditifs
+Type d’appareil
+
+Mode de fonctionnement
+
+Implant
+cochléaire
+
+Transforme, grâce à des microélectrodes, les signaux
+sonores captés par un microphone en signaux numériques
+stimulant directement le nerf auditif sans passer par l’oreille
+interne.
+
+Prothèse
+auditive
+
+Amplifie certaines fréquences sonores de façon
+préférentielle par voie aérienne.
+
+Prothèse
+ossiculaire
+
+Remplace un ou plusieurs osselets de l’oreille moyenne
+(différents matériaux et diverses formes sont disponibles)
+
+Source : Incursion dans le monde des prothèses auditives numériques – Gada Kalil et
+Sam V. Daniel
+
+5- Certains des appareils auditifs du document 4 utilisent un convertisseur
+analogique-numérique (CAN). À partir de vos connaissances, donner le nom des
+deux opérations de numérisation permettant de transformer un signal analogique
+en signal numérique.
+6- Choisir l’appareil auditif pertinent pour la patiente #361 parmi ceux proposés
+dans le document 4. Justifier ce choix.
+L’audioprothésiste établit les réglages de l’appareil auditif de la patiente pour
+différentes fréquences : 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz et 8000 Hz.
+Le document 5 suivant correspond à l’enregistrement d’un des signaux sonores
+utilisés.
+
+Document 5 – Enregistrement d’un signal sonore
+
+7- Justifier que le son associé au signal sonore représenté dans le document 5 est
+un son pur.
+8- Déterminer la fréquence 𝑓 de ce son.
+9- Donner la relation mathématique qui lie deux fréquences successives utilisées
+par l’audioprothésiste.
+10- À partir de vos connaissances, nommer l’intervalle séparant deux fréquences
+successives utilisées par l’audioprothésiste.
+11- L’appareil auditif a permis d’augmenter les performances auditives de la patiente
+#361 de 10 dB pour un son de fréquence 250 Hz. À partir du document 6 page
+suivante, indiquer le facteur de multiplication de l’intensité sonore associé à cette
+augmentation de 10 dB. Justifier votre réponse.
+
+Document 6 – Tableau de correspondance entre le niveau d’intensité sonore
+et l’intensité sonore avec les sensations associées
+
+Intensité
+sonore
+(W.m-2)
+
+10-12
+
+10-8
+
+10-6
+
+10-4
+
+10-3
+
+Niveau
+d’intensité
+sonore
+(dB)
+
+Limite
+d’audibilité
+
+fond
+calme
+
+gênant
+
+très
+gênant
+
+Seuil
+danger
+
+Seuil
+douleur
+
+Sensation
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+Sur 12 points
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+
+6- En 1983, la définition du mètre a été redéfinie en se basant sur la vitesse de la
+lumière dans le vide. Cette nouvelle définition a été établie lors de la 17e
+Conférence générale des poids et mesures (CGPM), et elle stipule que le mètre
+est la distance parcourue par la lumière dans le vide en 1/299 792 458ème de
+seconde. En déduire la vitesse de propagation de la lumière dans le vide.
+7- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres et
+en toises.

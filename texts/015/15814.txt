@@ -1,0 +1,443 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1605854, "at": "2026-11-23T09:27:31+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vente de livres
+Sur 4 points
+Le premier roman d’un humoriste français est paru fin juillet 2023.
+La première semaine après sa parution, 5 000 exemplaires ont été vendus. Durant
+les semaines suivantes, environ 3 000 exemplaires ont été vendus chaque semaine.
+Partie 1 – Étude des ventes au cours des premières semaines
+Au vu des premières ventes sur les quatre premières semaines, l’éditeur décide de
+modéliser cette situation à l’aide d’une suite 𝑢 .
+Pour tout entier naturel non nul 𝑛, on note 𝑢 le nombre d’exemplaires vendus au
+bout de 𝑛 semaines. Ainsi 𝑢 = 5 000.
+1- Justifier pourquoi la modélisation peut être réalisée par une suite
+arithmétique. Préciser alors la raison de cette suite.
+2- Calculer 𝑢 .
+3- L’éditeur souhaite savoir quand 100 000 exemplaires seront vendus.
+Au bout de combien de semaines cet objectif serait-il atteint ?
+Partie 2 – Étude de l’évolution des ventes
+L’évolution des ventes après plus de deux mois laisse penser que le nombre
+d’exemplaires vendus pourrait être modélisé à l’aide d’une suite géométrique 𝑣
+raison 𝑞. Pour tout entier naturel non nul 𝑛, 𝑣 représente ainsi le nombre
+d’exemplaires vendus au bout de 𝑛 semaines après la parution.
+Ainsi 𝑣 = 5 000 et 𝑣
+
+de
+
+= 103 305.
+
+1- Justifier que 𝑞 ≈ 1,4 (valeur arrondie au centième). Pour la suite de l’exercice
+on prend cette valeur 1,4 comme raison de la suite.
+2- Calculer le nombre d’exemplaires qui seraient alors vendus au bout de quinze
+semaines.
+
+3- L’auteur pense que son roman se vendra à plus de 3 000 000 d’exemplaires.
+Compléter la fonction ci-dessous, écrite en Python, afin qu’elle renvoie le
+nombre minimal de semaines nécessaires pour atteindre cet objectif.
+def exemplaire():
+n=1
+v = 5000
+while v … 3000000:
+v=…
+n=n+1
+return n
+Au bout de combien de semaines son objectif sera-t-il atteint ?
+
+Exercice 2 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+La météorite Allende
+La météorite Allende est tombée le 8 février 1969, au nord du Mexique, près du
+village de Pueblito d'Allende dans la province de Chihuahua. C’est une météorite
+primitive dont les matériaux constitutifs se sont formés peu de temps après la
+formation du système solaire.
+À l’aide de la datation de certains éléments constitutifs de la météorite Allende, on
+cherche à estimer l’âge de la formation du système solaire.
+Document 1 - Les étapes de la formation du système solaire
+La formation du système solaire suit un scénario très largement accepté par la
+communauté scientifique :
+
+tout commence par la contraction d'un nuage constitué de poussières et de
+gaz hydrogène et hélium, appelé nébuleuse protosolaire. Cette contraction
+provoque une élévation de température engendrant des transformations
+chimiques de cette matière originelle dans le disque protoplanétaire
+(aujourd’hui, le plan de l'écliptique) ;
+
+les grains de matière ainsi obtenus, se réunissent pour former des éléments
+plus lourds puis des planétésimaux, de petits corps solides qui grossissent
+par accrétion ;
+
+les collisions des planétésimaux forment des planètes ;
+
+enfin, les planètes formées se différencient : les matériaux constitutifs des
+planètes se séparent en couches et enveloppes chimiques de compositions
+différentes (étape de différenciation).
+
+Pour la Terre, la majeure partie de la différenciation s'est produite, il y a 4,45 Ga
+environ (Ga = giga-années (milliards d’années) ; formation du noyau et formation
+de l'atmosphère entre 4,46 Ga et 4,43 Ga).
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+1- À l’aide du document 1, présenter sous la forme d’une frise chronologique
+simplifiée (sans date) les principales étapes de la formation du système solaire.
+Document 2 - Principe de la datation à l’aide de la méthode Plomb-Plomb
+Pour dater des inclusions réfractaires CAI, nous allons utiliser la méthode PlombPlomb. Cette méthode de datation isotopique repose sur la détermination de la
+composition en deux isotopes du plomb, le 206Pb et le 207Pb provenant
+respectivement de la désintégration naturelle de deux isotopes radioactifs de
+l'uranium, 235U et 238U.
+𝑈→
+
+𝑃𝑏
+
+𝑒
+
+8 𝐻𝑒
+
+U→
+
+Pb
+
+e
+
+7 He
+
+On mesure alors les rapports du nombre d’atomes entre ces isotopes et l’isotope
+Pb, autre isotope stable du Plomb, dans différentes inclusions réfractaires CAI
+prélevées dans la météorite. Ces rapports sont appelés rapports isotopiques et
+sont notés (206Pb/204Pb) et (207Pb/204Pb). Lorsque ces échantillons se sont bien
+formés à la même époque, à partir d'un même matériau source, la représentation
+graphique de (207Pb/204Pb) en fonction de (206Pb/204Pb) est une droite appelée
+droite isochrone.
+Il est possible de montrer que la pente (ou coefficient directeur) de cette droite
+permet de déterminer l’âge commun T des échantillons.
+Sources : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+2- D'après le document 2, identifier les deux isotopes radioactifs de l'uranium
+utilisés dans la méthode Plomb-Plomb.
+3- Expliquer comment se sont formés les isotopes 207Pb et 206Pb mis en jeu dans
+cette méthode.
+4- À l’aide des documents 2 et 3 (page suivante), expliquer en quoi les inclusions
+CAI permettent de dater la météorite Allende.
+
+Document 3 - Les matériaux constitutifs de la météorite Allende
+La météorite Allende est une météorite non différenciée de type chondrite. Les
+chondrites sont constituées de chondres, un mélange de silicates et de métal, et
+des inclusions CAI (Calcium Aluminium Inclusions), le tout englobé dans une
+matrice qui "cimente" l'ensemble. Les inclusions réfractaires CAI sont riches en
+uranium. Formées à très hautes températures, elles sont considérées comme les
+plus vieux objets du système solaire.
+Observation à l’œil nu
+
+Observation au microscope polarisant
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+Document 4 - Isochrone des inclusions réfractaires CAI
+
+Document 5 - Correspondance entre la pente de la droite isochrone et l’âge
+(en milliards d’années ou Ga) de l’échantillon obtenue après
+calibrage numérique
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+5- L’équation de la droite isochrone présentée dans le document 4 est
+𝑦 = 0,6245𝑥 4,3495 .
+Utiliser le document 5 pour en déduire l'âge de la météorite d'Allende.
+6- Expliquer en quoi le résultat précédent permet d’estimer l’âge du système
+solaire.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+L’île de Samsø
+L’île de Samsø est une petite île danoise située à une centaine de kilomètres à
+l’ouest de Copenhague, dans le détroit de Kattegat. Presque quatre mille habitants y
+vivent. En 1997, cette île est devenue la première île à énergie durable du Danemark
+et a atteint l’autosuffisance énergétique en dix ans. Des parcs terrestres d’éoliennes
+et une ferme marine ont été créés. Le stockage de l’énergie est basé sur des
+batteries au lithium ce qui permet de répondre à la demande. Dès 2007, l’empreinte
+carbone de l’île, vitrine de la transition énergétique du Danemark, était négative.
+Cette île peut-elle être un modèle pour la transition énergétique en France ?
+Document 1 – Samsø, une île laboratoire
+
+Les premières mesures ont été d’assurer une production électrique par
+11 éoliennes terrestres réparties en trois parcs puis 10 grandes éoliennes off-shore
+situées à 3 km des côtes. Un relais électrique collecte la production de chaque
+parc et la répartit à la fois vers les habitations de l’île, jusqu’à satisfaction des
+besoins, et vers le réseau national danois. La balance est très nettement en faveur
+des exportations : trois quarts des 105 000 MWh annuels vont approvisionner le
+réseau national.
+Source : Extrait d’un article de Planètes Énergies, 21 février 2018
+
+Document 2 – Caractéristiques d’une éolienne
+Le physicien allemand Albert Betz (1885-1968), pionnier des technologies éoliennes
+affirmait que 60 % seulement de l’énergie cinétique du vent intercepté par une
+éolienne est transformée en énergie mécanique par les pâles d’une éolienne.
+
+Énergie cinétique annuelle moyenne du vent intercepté par une éolienne sur
+l’île de Samsø en un an : 17 630 MWh
+
+Valeurs des énergies moyennes estimées par an pour une éolienne
+implantée sur l’île de Samsø:
+Énergie moyenne produite sous forme électrique : 4 200 MWh
+Énergie mécanique fournie par les pâles : 10 578 MWh
+
+Dimension d’une éolienne de sur l’île de Samsø :
+Diamètre du rotor : 110 m
+Hauteur totale : 150 m
+Source : inspiré de https://fr.wikipedia.org/wiki/Limite_de_Betz
+
+1- Schématiser la chaîne énergétique d’une éolienne.
+2- Calculer, en pourcentage, le rendement d’une éolienne présente sur l’île de
+Samsø.
+Document 3 – Transport de l’énergie électrique produite
+L’énergie électrique produite sur l’île de Samsø est transportée grâce à des lignes
+hautes sur l’île mais également sur le territoire Danois. L’utilisation de lignes
+électriques à haute tension limite les pertes énergétiques par effet Joule. Les lignes
+électriques sont constituées de matériaux conducteurs qui sont caractérisées par
+une faible résistance.
+Nous rappelons les relations suivantes :
+
+La relation entre la puissance électrique 𝑃 consommé par un récepteur, la
+tension électrique à ses bornes 𝑈 et l’intensité 𝐼 traversant le récepteur
+s’écrit : 𝑃 = 𝑈 𝐼.
+
+La relation entre la tension électrique 𝑈 aux bornes d’un conducteur ohmique
+de résistance 𝑅 et l’intensité 𝐼 le traversant s’écrit : 𝑈 = 𝑅 𝐼.
+
+3- Après avoir rappelé ce qu’est l’effet Joule, justifier l’utilisation des lignes à haute
+tension pour le transport d’une puissance électrique donnée en s’appuyant sur
+les relations fournies dans le document 3.
+
+Document 4 – Besoin énergétique en France
+Le besoin énergétique total de la France varie chaque année en fonction de
+plusieurs facteurs, notamment la demande des secteurs résidentiels, industriels et
+tertiaires. En moyenne, la consommation d'énergie primaire en France s'élève à
+environ 1 500 TWh* (térawattheures) par an, toutes énergies confondues
+(électricité, gaz, pétrole, charbon, énergies renouvelables, etc.) :
+
+Électricité : environ 450 TWh par an (en 2022), avec une part importante
+provenant du nucléaire (environ 60-70 %), suivie des énergies
+renouvelables (hydroélectrique, éolien, solaire), notamment la France
+possède déjà 8000 éoliennes sur son sol et des combustibles fossiles.
+
+Gaz naturel : environ 460 TWh.
+
+Produits pétroliers : environ 630 TWh, principalement pour les transports et
+le chauffage
+*1 TWh = 106 MWh
+Source : d’après le site développement-durable.gouv.fr
+
+4- Montrer, par le calcul, qu’il faudrait plus de 100 000 éoliennes de mêmes
+caractéristiques que celles de l’île de Samsø pour pallier les besoins
+énergétiques en France.
+5- En exploitant l’ensemble des documents de l’exercice et ses connaissances
+personnelles, discuter de la faisabilité de cette alternative « tout éolien » pour la
+France.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Ariane décolle, attention à vos oreilles !
+Le 25 décembre 2021, le lanceur Ariane 5 a réussi
+un décollage parfait depuis son pas de tir à Kourou
+en Guyane Française pour lancer dans l’espace le
+télescope James Webb.
+Lors du décollage, une partie de l’énergie s’est
+dissipée autour du lanceur, se propageant dans l’air
+sous forme d’ondes sonores. La puissance de ces
+ondes sonores est estimée à 300 MW soit
+3,00.108 W. D’une durée de 1 à 2 minutes, ces
+vibrations de fréquences comprises entre 20 Hz et
+2000 Hz sont audibles jusqu’à une centaine de
+kilomètres autour du pas de tir.
+Pour assister au lancement, les spectateurs peuvent
+se rendre au site d’observation Toucan situé à
+7,0 km du pas de tir.
+
+Figure 1 – Ariane 5 sur son
+pas de tir
+Source : Wikipedia
+
+L’objectif de cet exercice est d’évaluer le risque encouru par les spectateurs et les
+éventuelles conséquences sur leur audition.
+Document 1 – intensité sonore
+Calcul de l’intensité sonore reçue :
+Lorsqu’une source sonore de puissance 𝑃 émet une onde sonore, l’intensité
+sonore perçue à une distance 𝑑 de la source est égale à :
+𝐼=
+
+𝑃
+4𝜋𝑑
+
+avec 𝑃 la puissance en W et 𝑑 la distance en m.
+
+Document 2 – Durée limite d’exposition journalière sans protection avant
+dommages
+
+De 120 dB à 140 dB : quelques secondes
+
+107 dB : 1 min/jour
+
+100 dB : 4 min/jour
+
+95 dB : 15 min/jour
+
+92 dB : 30 min/jour
+
+86 dB : 2 h/jour
+
+80 dB : 8 h/jour
+Source : d’après l’Organisation Mondiale de la Santé
+
+Document 3 – Atténuation selon le type de bouchons d’oreilles
+Les bouchons d’oreilles permettent de réduire le niveau d’intensité sonore perçu
+par l’utilisateur. La valeur de l’atténuation en décibels dépend du type de bouchon
+et de la fréquence du son.
+
+Atténuation dBA
+
+Fréquence (Hz)
+Source : auteur
+
+1- Montrer que l’intensité sonore reçue par un spectateur présent au site
+d’observation Toucan est proche de 5,0.10-1 W.m-2.
+2- Sachant que le niveau sonore est estimé à 118 dB, les bouchons en mousse
+distribués à l’entrée du site d’observation Toucan pour les spectateurs sont-ils
+suffisants pour protéger leurs oreilles ? Justifier.
+
+Document 4 – photographies au microscope électronique de la cochlée d’un
+rat avant et après un traumatisme sonore d’intensité croissante
+Photographie 1 :
+
+Photographie 2 :
+
+Cochlée de rat normale
+
+traumatisme sonore de niveau 1
+
+ Cellules ciliées internes
+ Cellules ciliées externes
+Photographie 3 :
+
+Photographie 4 :
+
+traumatisme sonore de niveau 2
+
+traumatisme sonore de niveau 3
+
+Source : https://www.cochlea.eu/pathologie/surdites-neuro-sensorielles/traumatismeacoustique
+
+La cochlée d’un humain présente la même structure cellulaire que celle du rat.
+3- Déterminer les conséquences d’un traumatisme sonore sur l’audition en utilisant
+vos connaissances et en comparant les photographies électroniques de la
+cochlée de rats présentées dans le document 4.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Les glaciers
+Les glaciers sont des empilements de glace plus ou moins étendus qui se forment
+par le tassement de couches de neige accumulées. Leur formation nécessite à la fois
+des précipitations et des températures suffisamment faibles pour former de la neige.
+Ils couvrent près de 16 millions de km2 et représentent 60 à 70 % de l’eau douce
+terrestre.
+En 2024, les 414 glaciers répertoriés en France sont attentivement étudiés et
+surveillés par les scientifiques, mais également par les alpinistes, parapentistes et
+touristes, qui s’inquiètent de leur évolution étroitement liée au réchauffement
+climatique actuel.
+Document 1 – Recul du front de trois grands glaciers du Massif du Mont
+Blanc depuis la fin du 19ème siècle
+
+Source : Vallot, Service des Eaux et Forêts, Observatoire GLACIOCLIM
+
+1- À l’aide du document 1, montrer en quoi l’étude des glaciers actuels dans le
+Massif du Mont Blanc témoigne de l’existence d’un réchauffement climatique
+récent.
+Document 2 – Albédo sur différentes surfaces
+Type de surface
+
+Albédo (0 à 1)
+
+Surface d’un lac
+
+0,02 à 0,04
+
+Surface de la mer
+
+0,05 à 0,15
+
+Sol sombre
+
+0,05 à 0,15
+
+Glace
+
+0,60 environ
+
+Neige tassée
+
+0,40 à 0,70
+Source : d’après Wikipédia
+
+2- Définir l’albédo terrestre.
+3- À l’aide du document 2, expliquer en quoi la fusion des glaciers accélère
+l’augmentation de la température terrestre.
+4- En exploitant l’ensemble des documents de cet exercice (le document 3 page
+suivante compris) et ses connaissances personnelles, présenter les différents
+problèmes soulevés par le recul des glaciers continentaux tels que ceux du
+Massif du Mont Blanc.
+5. En exploitant l’ensemble des documents de cet exercice (le document 3 page
+suivante compris) et ses connaissances personnelles, proposer des solutions
+possibles pour limiter le recul des glaciers.
+
+Document 3 – Extension de la mer de Glace
+
+La Mer de Glace durant l’été 2024
+L’accès à la Mer de Glace a été réaménagé plusieurs fois afin que 450 000
+touristes par an puissent parvenir au glacier. Ils empruntent le petit train électrique
+reliant la gare de Chamonix à la station de Montenvers, le point d’accès à la Mer
+de Glace. À la sortie du train, il faut désormais monter dans une télécabine puis
+descendre près de 600 marches pour atteindre enfin le glacier et visiter la grotte
+creusée dans la glace depuis 1946 par la famille Claret.
+Des bâches blanches géotextiles ont été posées sur le glacier. Elles favorisent
+l’albédo en réfléchissant la lumière, tout en maintenant en dessous une
+température inférieure à la température ambiante, ce qui aide donc à la
+préservation de la neige.
+Source : Photos personnelles

@@ -1,0 +1,470 @@
+{"pages": 19, "method": "pdftotext", "bytes": 3458697, "at": "2026-11-23T09:29:28+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’un blob
+Sur 4 points
+Un blob est un organisme unicellulaire primitif qui est apparu il y a plus de 500
+millions d’années. Ce n’est ni un animal, ni un végétal, ni un champignon. Il est
+classé parmi les myxomycètes. Manon et Amine participent à une étude qui porte sur
+l’expansion et l’intelligence du blob.
+Partie 1 – Étude d’Amine : étude de l’expansion du blob
+Amine place un blob, qui occupe une superficie de 3,8 cm², dans une boite dont la
+base est un disque de rayon 8,2 cm.
+On modélise l’expansion du blob en cm² à l’aide de la fonction 𝑓 définie sur
+l’intervalle [0; +∞[ par :
+
+𝑓(𝑡 ) = 3,8 × *√2-
+
+!
+
+où 𝑡 désigne la durée en nombre de jours à partir du moment où Amine débute
+l’étude.
+1. Justifier que la fonction 𝑓 est croissante, puis que la taille du blob double tous
+les deux jours.
+2. Calculer la taille du blob au bout de 3 jours à partir du début de l’expérience.
+Arrondir le résultat au mm².
+3. On donne, ci-après, la représentation graphique de la fonction 𝑓 dans un
+repère du plan.
+Estimer graphiquement, avec la précision permise par le graphique, le temps
+qu’il faudra pour que le blob occupe toute la surface du fond de la boite.
+Expliquer la démarche utilisée pour répondre à cette question.
+
+Partie 2 – Étude de Manon : étude du déplacement du blob dans un labyrinthe
+Le blob a été étudié au Japon par un chercheur qui a révélé sa grande intelligence
+dans le cadre de la résolution de problème en labyrinthe.
+Manon dépose un blob à l’entrée d’un labyrinthe de 1 m de long. Le blob se déplace
+dans ce labyrinthe. À chaque heure, elle note la distance parcourue par le blob
+pendant la dernière heure écoulée. Les résultats incitent Manon à modéliser la
+distance parcourue pendant la 𝑛-ième heure par le blob par une suite arithmétique
+(𝑑! ) de raison 0,37, où 𝑑! désigne la distance parcourue par le blob, en cm, pendant
+la 𝑛-ième heure. L’étude commence à 8 h.
+On donne 𝑑" = 2,5.
+1. Justifier que 𝑑# = 2,87 et en déduire la distance, en cm, parcourue par le blob
+à 10 h.
+2. Exprimer 𝑑! en fonction de 𝑛, pour tout entier naturel 𝑛.
+3. Estimer la distance totale parcourue par le blob à 14 h (arrondir la réponse au
+cm).
+
+4. Manon souhaite savoir au bout de combien d’heures le blob aura parcouru
+90 cm. Reproduire sur la copie et compléter la fonction ci-dessous, écrite en
+Python, afin qu’elle renvoie le nombre minimal d’heures nécessaires pour
+atteindre cet objectif.
+def distanceparcourue():
+n=1
+d = 2.5
+d_total = 2.5
+while d_total < … :
+d = d + 0.37
+d_total = d_total + …
+n=n+1
+return n
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Le cristal d’argent et la photographie
+Partie 1 – Étude des cristaux d’argent et de chlorure d’argent
+L’argent est connu depuis des millénaires. Son utilisation dans l’industrie s’est
+fortement développée au XXe siècle notamment avec l’invention de la photographie.
+L’objectif de cet exercice est de comprendre comment ses propriétés lui confère un
+rôle central dans la photographie.
+Données :
+Masse d’un atome d’argent : 𝑚$% = 1,79 × 10&#' kg.
+L’angström (Å) est une unité de longueur : 1 Å = 10-10 m.
+
+Document 1 – Description de la maille élémentaire du cristal d’argent
+L'argent est l'élément chimique de numéro atomique Z = 47
+et de symbole Ag. À l’état métallique, il est blanc, très brillant,
+malléable et ductile (c’est-à-dire qu’il peut être étiré sans se
+rompre).
+À l’état microscopique, l’argent métallique solide est organisé
+selon un réseau cubique à faces centrées.
+Une maille cubique à face centrées est représentée par :
+
+Photographie de
+cristaux d’argent
+
+un atome sur chaque sommet de la maille ;
+un atome au centre de chacune des faces de la maille.
+Une maille cubique à faces centrées contient l’équivalent de 4 atomes d’argent.
+
+Document 2 – Le cristal de chlorure d’argent AgCl
+Le chlorure d'argent, AgCl,
+présente une structure similaire
+au chlorure de sodium. NaCl. Le
+cristal de chlorure d'argent est
+un composé chimique blanc
+solide largement utilisé en
+photographie.
+
+Ag+ : ion argent
+Cl- : ion chlorure
+
+Représentation d’une maille élémentaire de
+chlorure d’argent AgCl(s)
+
+1- Justifier l’utilisation du terme de « cristal » pour caractériser les structures de
+l’argent et du chlorure d’argent à l’état solide.
+2- Nommer une autre organisation de la matière solide au niveau microscopique que
+l’organisation cristalline. En donner un exemple.
+3- En utilisant le document 1, choisir, parmi les trois propositions suivantes, celle qui
+permet de décrire correctement la maille élémentaire associée au cristal d’argent.
+
+Proposition a
+
+Proposition b
+
+Proposition c
+
+4- Calculer la masse volumique du cristal d’argent en kg. m&( . On rappelle que la
+masse volumique d’un cristal est égale au rapport de la masse totale des atomes
+d’argent contenus dans une maille par le volume de cette maille.
+Donnée : volume de la maille cubique d’argent : Vmaille = 6,89 × 10&#) m3
+5- Placer sur un axe horizontal, par ordre croissant de taille, les entités suivantes :
+maille, atome, organisme, cellule, molécule, roche, minéral.
+Partie 2 – Photographie et sciences
+Introduction
+Nicéphore Niépce est un ingénieur français qui a contribué à l’invention de la
+photographie au XIXe siècle.
+Jusqu’alors, les chambres obscures n’étaient utilisées que comme instrument à
+dessiner. Elles étaient constituées de boîtes percées d’un trou muni d’une lentille
+projetant sur le fond, l’image renversée de la vue extérieure. Niépce se lance alors
+dans des recherches sur la fixation des images projetées au fond des chambres
+obscures.
+Pour ses premières expériences, Nicéphore Niépce dispose au fond d’une chambre
+obscure des feuilles de papier enduites de sels d’argent, connus pour noircir sous
+l’action de la lumière. Il obtient alors en mai 1816, la première reproduction d’une
+image de la nature : une vue depuis sa fenêtre. Il s’agit d’un négatif et l’image ne
+reste pas fixée car, en pleine lumière, le papier continue de se noircir complètement.
+Il appelle ces images des « rétines ».
+
+Reconstitution d’une « rétine » de chlorure
+d’argent (négatif)
+
+Photographie réalisée à partir d’une réplique de
+l’appareil de Niépce
+
+Source : https://photo-museum.org/fr/anciens-procedes-maison-nicephore-niepce/
+
+Document 3 – Principe de fonctionnement de la photographie argentique
+
+La photographie argentique
+repose sur le principe de
+l'utilisation d'un film photosensible.
+Ce film est généralement
+composé d'une couche de
+chlorure d'argent obtenu grâce à
+une réaction chimique entre le
+chlorure de sodium NaCl et le
+nitrate d’argent AgNO3.
+
+Schéma d’une expérience mettant en évidence le
+caractère photosensible du chlorure d’argent
+
+Lorsque le chlorure d’argent est exposé à la lumière, l'énergie lumineuse permet
+d'arracher les électrons des ions chlorure et ceux-ci sont transférés aux ions argent
+qui se transforment alors en atomes d'argent et donnent des nuances de brun
+(précipité noir).
+Source : https://tpeimageanimee2016.wordpress.com/2016/01/02/la-photographieargentique/
+
+6- Sur les premières « rétines » prises par Niépce (voir introduction), préciser si les
+zones qui ont été les plus éclairées apparaissent plus sombres ou plus claires que
+les autres. Justifier votre réponse.
+Au cours de leurs activités de production du savoir, les scientifiques mettent en
+œuvre un certain nombre de pratiques. L’observation est une des pratiques de la
+démarche scientifique.
+7- À l’aide des documents et de vos connaissances, expliquer en quoi la
+photographie est une technique qui peut être utile à la mise en œuvre d’une
+démarche scientifique.
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+L’ozone atmosphérique et l’apparition de la vie sur Terre
+Les premières formes de vie sur Terre sont apparues dans les océans, un milieu qui
+absorbe les ultra-violets (UV). Il a fallu ensuite plus de 3 milliards d’années pour
+qu’apparaissent les premières formes de vie sur les continents.
+On cherche à comprendre l’importance de l’ozone stratosphérique dans cette
+colonisation des continents par les végétaux et les animaux.
+Document 1 : l'ozone, un filtre sélectif envers les UV
+Le rayonnement UV est potentiellement nocif pour les êtres vivants du fait de sa haute
+énergie. On subdivise les UV émis par le Soleil en trois classes, en fonction de leur
+activité biologique et du pouvoir de pénétration dans la peau humaine :
+- les UV-C : 200-280 nm, les plus énergétiques et les plus nocifs.
+- les UV-B : 280-315 nm, responsables du bronzage à retardement et des coups de
+soleil, favorisant le vieillissement de la peau et l'apparition de cancers cutanés.
+- les UV-A : 315-400 nm, responsables du bronzage immédiat et du vieillissement de
+la peau, ayant un effet cancérigène mais très inférieur à celui des UV-B.
+Le schéma ci-après représente les longueurs d’onde absorbées par l’atmosphère
+terrestre en présence ou non d’ozone stratosphérique.
+
+A : Longueurs d’onde absorbées par l’atmosphère terrestre sans ozone stratosphérique
+B : Longueurs d’onde absorbées par l’atmosphère terrestre avec ozone stratosphérique
+Source : d’après ENS Lyon, http://acces.ens-lyon.fr
+
+Document 2 : action des UV sur l’ADN dans l’atmosphère
+Dans les conditions atmosphériques, une solution d’ADN absorbe des longueurs
+d’ondes entre 210 nm et 235 nm, avec un maximum d’absorption de 100 % pour
+254 nm.
+Les principales cibles des UV dans l’ADN sont les bases thymine et cytosine.
+Lorsqu’elles sont côte à côte dans la molécule, il se forme des lésions induites par les
+photons absorbés pouvant être à l’origine de mutations. Si ces mutations touchent des
+gènes impliqués dans le contrôle du cycle cellulaire, elles contribuent à la formation de
+cellules cancéreuses ou à la mort de la cellule.
+Le graphique ci-après représente la proportion de mutations dans une solution d'ADN
+soumise à des longueurs d’onde variables en conditions atmosphériques.
+Pour chaque longueur d’onde, la proportion de mutations est estimée par rapport à un
+taux de mutation de référence, pour lequel toute la molécule d’ADN est détruite :
+- une proportion de 10-2 signifie que le taux de mutations est divisé par 100, par
+rapport à cette référence ;
+- une proportion de 10-6, un taux de mutation divisé par 1 million.
+
+Graphique représentant la proportion de mutations
+dans une solution d'ADN soumise à des longueurs d’onde variables
+Source : d’après ENS Lyon, http://acces.ens-lyon.fr/acces
+
+Document 3 : évolution des gaz de l’atmosphère terrestre dont l’ozone
+L’ozone (O3) se forme dans la stratosphère à partir du dioxygène (O2) qui réagit avec le
+rayonnement solaire.
+
+u.a. = unité arbitraire
+
+Ga : milliard d’années
+
+A : Origine de la Terre
+B : Apparition de la vie
+C : Apparition de la photosynthèse dans les océans
+D : Apparition de la respiration
+E : Colonisation des continents par les végétaux et les animaux
+Source : d’après http://svt.ac-dijon.fr/schemassvt
+
+8- À partir des informations extraites des documents 2 et 3, justifier que les UV-C
+sont les plus nocifs pour les êtres vivants.
+9- À partir des informations extraites des documents et de connaissances, expliquer
+l’importance de l’ozone stratosphérique pour la colonisation des continents par les
+plantes et les animaux.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+De la peinture blanche pour modérer le réchauffement climatique ?
+
+Un homme peint en blanc un toit à l’aide
+d’une peinture réflective (Morbihan).
+
+« Une vague de chaleur exceptionnelle
+est en cours dans une grande partie de
+la France : 15 départements sont en
+vigilance rouge canicule ce lundi 18
+juillet 2022. Si tout le monde est à la
+recherche d'un peu de fraîcheur, il
+existe des techniques simples. En fait, il
+faudrait tout repeindre en blanc : nos
+maisons, nos voitures, nos routes... Du
+blanc partout, pour renvoyer l'énergie
+solaire plutôt que l'emmagasiner, c’est
+l’effet albédo.
+
+Les experts du climat évoquent notamment la technique des "cool roofs", "les toits
+froids". Il s'agit tout simplement de repeindre les toits en blanc, ceux de nos
+maisons, des hangars, des centres commerciaux pour rafraîchir l'intérieur des
+bâtiments. »
+Source : D’après France info, article du 18/07/2022
+
+Document 1 – Une peinture réfléchissante innovante
+Dans les années à venir, il va falloir diminuer notre consommation de climatisation,
+trop énergivore. Le fondateur de la peinture blanche “Enercool”, explique que sa
+peinture blanche réfléchissante anti-chaleur a un pouvoir réfléchissant de 83%.
+Elle réfléchit donc les rayons du Soleil, et protège les bâtiments de la chaleur. Elle
+a une durée de vie de 10 ans au minimum et ne crée aucune surconsommation de
+chauffage en hiver.
+
+Source : D’après https://www.neozone.org
+
+Document 2 – Définition de l’albédo α et valeurs d’albédo de quelques
+matériaux
+On appelle « albédo » le rapport entre la
+puissance lumineuse réfléchie par une surface
+et la puissance lumineuse incidente qu’elle
+reçoit. L’albédo est donc une grandeur sans
+dimension qui varie entre 0 (surface sombre
+totalement absorbante) et 1 (surface claire
+totalement réfléchissante).
+L’albédo terrestre moyen a été estimé à 0,30.
+
+Nature de
+la surface
+
+Neige
+fraîche
+
+Albédo α
+
+0,80-0,90 0,60-0,80 0,17-0,27 0,25-0,30
+
+Glace
+
+Béton
+
+Pelouse
+
+Goudron
+0,10
+
+Forêt
+
+Toit
+foncé
+
+0,10-0,20 0,08-0,18
+
+Par exemple, pour le sable, l’albédo prend toutes les valeurs possibles entre 0,20 et 0,30,
+ce qui correspond à des pourcentages entre 20 % et 30 %.
+
+Source : D’après https://temperture.home.blog
+
+1- À l’aide des documents, utiliser la valeur de l’albédo de la peinture « Enercool »
+afin de justifier son effet « anti-chaleur ».
+Document 3 – Perte de surface de glacier en Islande
+Menacés de disparition quasi complète d’ici 2200, les glaciers de l’île ont déjà
+perdu environ 750 km² de surface depuis le début des années 2000, soit 7 % de
+leur superficie totale, sous l’effet du réchauffement climatique, selon une étude
+publiée lundi.
+Au total, la surface des glaciers islandais, qui recouvrent encore un peu plus de
+10 % du pays, est tombée en 2019 à 10 400 km², selon une publication de la revue
+spécialisée Jökull (« Glacier » en islandais). Depuis 1890, la superficie occupée
+par les glaciers a reculé de près de 2 200 km², soit 18 % de sa surface en 1890.
+Près d’un tiers de ce recul a été enregistré depuis 2000, selon ce dernier pointage
+des glaciologues, géologues et géophysiciens islandais.
+Source : Extrait du Parisien du 31 mai 2021
+
+2- En utilisant le document 3 et sachant que l’aire de la surface totale des toits
+parisiens est d’environ 32 km², évaluer le nombre de villes équivalentes à Paris
+dont il faudrait repeindre les toits avec la peinture Enercool, afin de compenser la
+diminution d’albedo liée à la surface de glacier islandais perdue depuis 20 ans.
+Document 4 – Émission du corps noir
+Le modèle du corps noir est un modèle permettant de décrire l’émission de
+rayonnement électromagnétique d’un objet en fonction de sa température.
+Dans ce modèle, la loi de Wien établit une relation entre la température du corps
+noir T et la longueur d'onde λmax du maximum d’émission ce corps :
+λmax × T = 2,898.10-3 m·K
+Avec λmax en mètre (m) et T en Kelvin (K).
+
+Si on notre T la température exprimée en Kelvin (K) et θ la température
+exprimée en degrés Celsius (°C) alors on a T(K) = θ(°C) + 273,15.
+
+1 m = 109 nm.
+
+La couleur d’un objet dépend des radiations lumineuses diffusées par
+l’objet. Ainsi, un objet noir absorbe les radiations lumineuses du domaine
+
+visible alors qu’un objet blanc diffuse toutes les radiations lumineuses du
+visible.
+
+3- Montrer que dans le cadre du modèle du corps noir, la longueur d’onde du
+maximum d’émission du Soleil est d’environ 459 nm, sachant que sa
+température de surface vaut 6045 °C.
+4- Argumenter la cohérence du choix d’une peinture de couleur blanche pour
+repeindre les toits par rapport au spectre de la lumière du Soleil.
+5- À partir de l’ensemble des informations, discuter de l’intérêt, de la faisabilité ainsi
+que de l’efficacité d’utiliser la peinture « Enercool » pour modérer les effets du
+réchauffement climatique.
+
+Partie B : Niveau terminale
+Thème « Une histoire du vivant »
+
+Les conséquences de la déforestation à Bornéo sur les populations
+d’orangs-outans
+Située en Asie du Sud-Est, à la jonction entre l’océan Indien et l’océan Pacifique, l’île
+de Bornéo représente 1 % des terres émergées. Elle détient 6 % de la biodiversité
+en lien avec sa richesse en écosystèmes (forêts tropicales, mangroves…). Ses forêts
+sont actuellement défrichées, notamment pour laisser place à des exploitations
+agricoles comme les palmeraies.
+Dans les forêts de Bornéo, vit une espèce de grand-singe, l’orang-outan (Pongo
+pygmaeus), qui est en danger critique d’extinction (selon l’UICN). L'espèce est
+menacée par la perte de son habitat naturel.
+Bien que l'ADN des orangs-outans est beaucoup plus diversifié que celui de l'espèce
+humaine, on s’intéresse aux conséquences possibles de la déforestation sur la
+diversité génétique des populations d’orangs-outans.
+Orang-outan
+
+Île de Bornéo (Asie du Sud-Est)
+
+Source : wikipedia
+
+Document 1 : représentation simplifiée de l'évolution de la forêt tropicale dans
+la région de Kalimantan entre 1970 et 2020 (île de Bornéo)
+
+Zone étudiée de la région
+de Kalimantan en 1970
+
+Zone étudiée de la région
+de Kalimantan en 2020
+
+Chaque carré a une aire de 100 km².
+Les carrés sombres correspondent à des zones recouvertes par de la forêt et les
+carrés blancs à des zones défrichées
+
+6- À l’aide du quadrillage fourni sur le document 1, déterminer l'impact de l'activité
+humaine sur la surface disponible pour les orangs-outans. Pour cela, calculer :
+- l’aire 𝒜")*+ de la surface de forêt disponible en 1970 dans la région de
+Kalimantan étudiée ;
+- l’aire 𝒜#+#+ de la surface de forêt disponible en 2020 dans la région de
+Kalimantan étudiée ;
+- le pourcentage de diminution de l’aire de la surface disponible entre 1970 et
+2020.
+
+Document 2 : simulation de l’évolution de la fréquence de trois allèles d’un
+gène donné au cours des générations
+Pour chaque graphique issu d’une simulation informatique, les différentes courbes
+représentent chacune l’évolution de la fréquence d’un des trois allèles d’un même
+gène au cours de quinze générations (pour une population théorique). On réalise
+des simulations en faisant varier le nombre d’individus de la population initiale : 10
+et 100 individus. Les résultats des simulations sont donnés ci-dessous.
+
+7- À partir de l’analyse de la simulation présentée dans le document 2, montrer que
+la taille de la population joue un rôle dans l’évolution des fréquences alléliques au
+cours des générations.
+8- D’après vos connaissances, indiquer quelle force évolutive est à l'œuvre dans
+l’évolution des fréquences alléliques pour une petite population de 10 individus.
+Justifier votre réponse.
+9- À l’aide des documents 1 et 2 et des connaissances, rédiger un paragraphe
+argumenté reliant la déforestation d’origine anthropique au risque d’appauvrissement
+génétique des populations d’orangs-outans de Bornéo.

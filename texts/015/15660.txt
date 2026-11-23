@@ -1,0 +1,336 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1294710, "at": "2026-11-23T09:28:40+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Musique et perception du son
+L’oreille humaine est un organe complexe capable de percevoir une large gamme de
+fréquences sonores, variant de 20 Hz à 20 kHz. La qualité de la perception auditive
+dépend de la santé de l’oreille, de l’âge de l’auditeur et de la sensibilité individuelle
+aux différentes fréquences. Certains paramètres extérieurs tels que la performance
+du support utilisé pour réaliser l’enregistrement et celui utilisé pour écouter le son
+(systèmes de lecture, haut-parleurs, casques et amplificateurs) influencent cette
+perception. Depuis le 19ème siècle, la technologie a joué un rôle essentiel dans la
+manière dont nous écoutons la musique.
+Document 1 – L’oreille et les sons
+Les vibrations sonores parviennent au tympan, une membrane vibrante qui
+transmet son mouvement aux plus petits os du corps, les osselets : marteau,
+l’enclume puis étrier. C’est la base de l’étrier qui transmet les vibrations amplifiées
+jusqu’au liquide de l’oreille interne.
+
+Source : spécimen Enseignement Scientifique 1re Calameo, p.215
+
+Document 2 – Taille d’une séquence sonore et compression avec ou sans
+perte de données
+
+Tableau comparatif de 4 formats de fichiers sonores
+
+On peut calculer la taille d'une séquence sonore non compressée en utilisant la
+formule suivante :
+Taille (bits) = Fréquence d'échantillonnage (hertz) × Quantification (bits)
+× Durée (secondes) × Nombre de voies
+Source : Lib Manuel, p.229
+
+Document 3 – Extrait des propriétés de deux fichiers d’enregistrement d’un
+même son sous deux formats différents
+
+D’après les données du logiciel Audacity
+
+À partir des données extraites de fichiers d’un même enregistrement, il est
+possible de déterminer le taux de compression. En effet, le taux de compression
+noté Tcom d’un fichier son est égal au rapport de la taille du fichier compressé notée
+TC par la taille du fichier non compressé notée TNC, les deux devant être exprimés
+dans la même unité. Ce taux s’exprime généralement en pourcentage.
+
+1- À l’aide des connaissances et du document 1, dire quels sont les rôles du conduit
+auditif et du pavillon dans la captation des sons et leur perception. Justifier.
+2- Indiquer ce qu’entraîne le mouvement du liquide de l’oreille interne provoqué par
+les vibrations transmises par l’étrier. Préciser les récepteurs impliqués et les
+effets de leur activation.
+On s’intéresse maintenant au stockage du son sur différents supports qui vont
+permettre des échanges entre êtres humains. La taille des fichiers audio est une
+contrainte majeure qui dépend de la manière dont le son a été numérisé.
+3- Répondre sur votre copie par vrai ou faux aux affirmations suivantes, et justifier :
+a) La taille d’une séquence sonore augmente quand la fréquence
+d’échantillonnage augmente.
+b) La taille d’une séquence sonore augmente quand le nombre de voies
+d’enregistrement diminue.
+c) La taille d’une séquence sonore augmente quand la quantification diminue.
+4- Estimer la taille d’un fichier audio d’une minute qui a été numérisé sans
+compression avec les paramètres suivants : 44 100 Hz, 16 bits, stéréo (2 voies).
+5- La taille du fichier audio étant considérée comme trop importante, une
+compression est envisagée. À partir du document 2, établir une comparaison des
+avantages et inconvénients des formats de compression MP3 et FLAC en
+justifiant leur contexte d’utilisation (CD et streaming).
+6- À l’aide des informations du document 3, établir la formule mathématique
+permettant de calculer le taux de compression d’un fichier.
+7- En déduire, en pourcentage, le taux de compression du fichier « ESSAI1 MP3 »,
+le fichier « ESSAI1 WAV » étant le fichier non compressé. Apporter un regard
+critique sur le terme « Taux de compression » employé dans le document 2 par
+rapport à la définition donnée dans le document 3.
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or : exploitation et conséquences sanitaires
+L’objectif de cet exercice est d’étudier la structure cristalline de l’or puis de
+comprendre en quoi l’exploitation de l’or peut favoriser le développement de troubles
+neurologiques dans les populations humaines.
+Partie 1 – La structure d’un minerai aurifère
+La région d’Ontario au Canada présente de nombreuses mines et notamment des
+mines d’or, dont la mine Red Lake. C’est de cette mine qu’a été extrait le minerai cidessous. Ce minerai est un basalte tholéiitique métamorphisé, dans lequel sont
+inclus du quartz et de l’or.
+D’après https://en.wikipedia.org/wiki/Red_Lake_Mine
+
+Document 1 – Morceau de minerai extrait dans la mine Red Lake (6,6 cm pour
+son diamètre le plus large) et modélisation de sa composition
+
+Sources : d’après Wikipedia.org, Libmol.org et http://www.macromicrophoto.fr/petrography
+
+1- En vous aidant des propositions ci-dessous et en effectuant un choix, associer la
+légende adéquate à chacune des lettres A, B, C et D du document 1.
+
+maille
+
+atome
+
+cristal
+
+molécule
+
+cellule
+
+roche
+
+2- Dans ce minerai, identifier la ou les parties cristallines et la ou les parties
+amorphes parmi les éléments A à F. Justifiez votre réponse à l’aide du
+document 1 et de vos connaissances.
+3- Pour séparer l’or des autres éléments après broyage on peut utiliser leur
+différence de masse volumique. À l’aide du tableau ci-dessous, justifier qu’une
+fois en poudre, l’or peut être séparé du quartz. On rappelle la formule permettant
+de calculer la masse volumique 𝜌 à partir de la masse 𝑚 et du volume 𝑉 de
+l’échantillon :
+𝑚
+𝜌=
+𝑉
+Document 2 - Les mailles du quartz et de l’or
+Quartz
+
+Or
+
+SiO!
+
+Au
+
+Forme de la maille
+
+Hexagonale
+
+Cubique
+
+Masse de la maille
+
+3,0. 10"!# kg
+
+1,3. 10"!$ kg
+
+Volume de la maille
+
+1,3. 10"!% m&
+
+6,7. 10"!' m&
+
+Formule
+
+Partie 2 – Conséquences sanitaires de l’exploitation d’or
+L’extraction de l’or nécessite d’utiliser de grandes quantités de cyanure et de
+mercure. Chez les adultes, les effets d'une exposition importante au mercure se
+remarquent par des symptômes affectant le système nerveux : des tremblements et
+des pertes de capacités sensorielles, avec notamment la perte de coordination entre
+les cellules musculaires et nerveuses, des troubles de la mémoire, et des déficiences
+intellectuelles. Le mercure est considéré par l’Organisation Mondiale de la Santé
+(OMS) comme l’un des dix produits chimiques ou groupes de produits chimiques
+extrêmement préoccupants pour la santé publique.
+
+Document 3 – Les effets du méthylmercure sur les êtres vivants
+Le cyanure et le mercure, utilisés sans précaution pour l’extraction de l’or,
+contaminent les sols et les nappes phréatiques à jamais. Même après la fermeture
+des mines, les gravats traités au cyanure génèrent pendant des décennies des
+acides sulfuriques toxiques.
+Le mercure peut se transformer dans l'environnement en méthylmercure. Ce
+méthylmercure tend à s'accumuler dans les eaux et dans les espèces aquatiques.
+[…]
+Le méthylmercure a la capacité de provoquer une réaction chimique dégradant les
+[molécules de] phospholipides qui constituent la membrane plasmique. Le
+méthylmercure peut pénétrer dans la cellule à travers ces membranes et peut se
+fixer sur certains organites notamment les mitochondries, et sur des protéines
+cytoplasmiques, dont le fonctionnement est alors altéré. Les cellules nerveuses
+sont particulièrement touchées.
+Source : D’après Segall H.J., Wood J.M.(1974). Reaction of methyl mercury with
+plasmalogens suggests a mechanism for neurotoxicity of metal-alkyls. Nature, 248 : 456-8
+
+Document 4 – Suivi microscopique de la croissance de cellules nerveuses dans
+différentes conditions (sans et avec exposition au méthylmercure)
+La même cellule nerveuse est suivie,
+dans différentes conditions
+environnementales.
+
+a – Avant exposition au méthylmercure.
+
+b– Après une exposition de
+10 minutes au méthylmercure.
+
+c – Après une exposition de
+40 minutes au méthylmercure.
+
+La barre d’échelle visible en bas à droite des photographies mesure 30 µm.
+La flèche noire permet de comparer un même point sur chaque image.
+Source : D’après Retrograde degeneration of neurite […] in vitro exposure to mercury,
+Christopher C. W., Leong et al. – NeuroReport – Décembre 2000
+
+4- À partir de l’exploitation des documents et de vos connaissances :
+4-a- Sur votre copie, indiquer dans la liste ci-dessous le ou les éléments des
+différentes échelles de l’organisme qui sont altérées par le méthylmercure.
+Justifier.
+a. atome
+b. molécule
+c. organite
+d. cellule
+e. organisme
+4-b- Rappeler le rôle de la membrane plasmique dans le fonctionnement
+cellulaire normal, puis expliquer comment le méthylmercure le modifie et
+provoque les symptômes nerveux présentés par les individus fortement exposés
+au mercure. Une réponse argumentée structurée est attendue. Elle ne doit pas
+excéder une page.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse artificielle
+La photosynthèse est une réaction biochimique qui se produit chez les végétaux et
+certains micro-organismes. Depuis la fin des années 1980, des laboratoires
+cherchent à mettre au point des technologies de photosynthèse dite « artificielle » qui
+s’inspirent du processus naturel dans le but de produire de la matière organique
+pouvant constituer une ressource d’énergie verte pour produire de l’électricité.
+L’objectif de ce sujet est d’expliquer l’intérêt de la photosynthèse artificielle et
+d’étudier la possibilité d’utiliser des dispositifs de photosynthèse artificielle
+pour alimenter un foyer en électricité.
+Partie 1 – La conversion de l’énergie solaire en énergie chimique par les
+photosynthèses
+Les dispositifs de photosynthèse artificielle sont conçus avec des matériaux spéciaux
+qui sont capables de capter et convertir l’énergie solaire en énergie chimique stockée
+dans les carburants formés (produits carbonés et/ou dihydrogène).
+
+Principe de la photosynthèse artificielle
+Produit par l’auteur
+
+Cette énergie chimique pourra ensuite être convertie en électricité. La photosynthèse
+artificielle s’appuie sur le principe de la photosynthèse naturelle qui nécessite de
+l’énergie lumineuse.
+
+Document 1 – Expérience réalisée sur une feuille de Pelargonium
+Une expérience est réalisée en laboratoire avec une feuille de Pelargonium,
+recouverte partiellement d’un cache, éclairée pendant 12 heures. Le dispositif
+expérimental est présenté dans la figure A ci-dessous. Le cache est ensuite enlevé
+et la feuille est décolorée dans de l’éthanol bouillant sous hotte en présence d’un
+dispositif réfrigérant. La feuille est ensuite colorée à l’aide de l’eau iodée. L’eau
+iodée adopte une coloration noir-violet en présence d’amidon (glucide). Elle reste
+jaune en l’absence d’amidon. Les résultats obtenus sur la feuille sont présentés
+sur la photographie de la figure B.
+
+Figure A : dispositif expérimental
+présentant le cache posé sur la feuille de
+Pélargonium.
+
+Figure B : résultats obtenus suite à la
+coloration à l’eau iodée.
+
+Source : d’après https://planet-vie.ens.fr/thematiques/manipulations-en-svt/experiencessur-la-photosynthese
+
+1- Expliquer en quoi les photosynthèses naturelle et artificielle sont considérées
+comme des modes de conversion d’une énergie solaire en une énergie chimique
+à partir des données tirées du document 1 et de vos connaissances.
+
+Partie 2 – Efficacité énergétique de la photosynthèse artificielle
+L’efficacité énergétique (rapport entre l'énergie chimique reçue et l'énergie solaire
+utilisée) de la photosynthèse naturelle ne dépasse pas les 1 % chez les végétaux. À
+l’heure actuelle, l’efficacité énergétique de la photosynthèse artificielle est également
+faible.
+2- La puissance surfacique solaire moyenne reçue au sol est de 350 W.m-2. La
+surface d’un dispositif de photosynthèse artificielle est de 10 cm2.
+Montrer que la puissance solaire reçue par le dispositif est égale à 0,35 W.
+3- Calculer l’énergie solaire reçue par le dispositif pour une durée d’ensoleillement
+de 6 h par jour.
+L’énergie reçue et stockée chimiquement par le dispositif pour une durée
+d’ensoleillement de 6 h par jour est égale à 1,8 × 102 J.
+4- Calculer l’efficacité énergétique du dispositif. Comparer cette valeur avec celle de
+la photosynthèse naturelle.
+
+Pour la question suivante, on admettra que toute l’énergie stockée chimiquement par
+le dispositif peut être convertie en électricité pouvant alimenter un foyer et que la
+durée quotidienne d’ensoleillement est de 6 h. La consommation quotidienne
+d’électricité par personne par foyer en France est de 6 kWh.
+5- Déterminer le nombre nécessaire de dispositifs pour fournir quotidiennement en
+électricité un foyer composé de 5 personnes.
+Indication : le Watt-heure (Wh) est une unité physique qui correspond à l’énergie
+consommée ou délivrée par un système d’une puissance de 1 Watt pendant une
+durée d’une heure.
+6- Calculer la surface totale occupée par l’ensemble des dispositifs.
+Conclure sur la possibilité d’utilisation des dispositifs de photosynthèse artificielle
+pour alimenter quotidiennement un foyer en électricité.
+
+Partie 3 – L’intérêt de la photosynthèse artificielle
+
+Document 2 – Les besoins d’énergie dans le futur
+La population mondiale estimée à 7,7 milliards d’habitants en 2019 ne cessera de
+croître pour atteindre 9,8 milliards d’habitants en 2050. En poursuivant le rythme
+actuel de consommation d’énergie, celle-ci passerait d’environ 17 térawatts en
+2019 à 30 térawatts en 2050. (Note : 1 térawatt = 1012 watts)
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 3 – Proportion de l’utilisation des différentes sources d’énergie
+sur la planète
+2&3'4%($*+
+H5+01
+!"#$%&'()&*+
+H-./+01
+
+67*$8(*9+$*7:&;*'%<'*9+
+H=.>+01
+
+67*$8(*9+?:99('*9
+H/-.@+01
+
+Source : d’après M.Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+7- À l’aide des documents 2 et 3 ainsi que des connaissances, discuter de l’intérêt
+de la photosynthèse artificielle en lien avec les défis auxquels l’humanité est
+confrontée.

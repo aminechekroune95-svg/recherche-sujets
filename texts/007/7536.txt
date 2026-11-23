@@ -1,0 +1,88 @@
+{"pages": 3, "method": "pdftotext", "bytes": 462347, "at": "2026-11-23T09:34:10+00:00"}
+Exercice 1
+HISTOIRE D’EAU
+Deux méthodes historiques permettant d’estimer l’âge de la Terre
+Deux approches ont permis d’estimer l’âge de la Terre au cours du XIX e siècle. La
+première utilise la mesure de la salinité de l’eau des océans tandis que la seconde
+se base sur l’étude des phénomènes de sédimentation et d’érosion.
+Partie 1. Estimation de l’âge de la Terre à l’aide de la salinité des eaux de mer
+À la toute fin du XIXe siècle, le physicien irlandais John Joly proposa une méthode
+d'estimation de l'âge de la Terre basée sur le taux de sel dans les océans, la salinité.
+Les eaux de pluie ruissèlent à la surface de la Terre et se chargent en sel contenu
+dans les roches de la croûte terrestre pour ensuite alimenter les rivières qui à leur
+tour se déversent dans les océans. La quantité de sel dissous dans les océans
+résulterait donc du déversement du sel contenu dans les rivières.
+La première question porte sur le calcul de la masse de sel contenue dans les
+océans.
+1-a Calculer le volume total des océans en km3, modélisés sous la forme d'un
+parallélépipède rectangle (cf. schéma ci-dessous)
+SURFACE
+
+HAUTEUR
+
+Données utilisées par John Joly :
+• Superficie totale des océans : 360  106 km2
+• Profondeur moyenne des océans : 3,797 km
+• Masse volumique moyenne des océans : 1,03  109 tonnes par km3
+• L'eau des océans contient environ 1,07 % en masse de sel dissous.
+• Déversement des rivières dans les océans : 2,72  104 km3 par an
+• Concentration moyenne du sel dissous dans les rivières : 5 250 tonnes par km3
+1-b Calculer la masse totale des océans en tonnes.
+1-c En déduire que la masse de sel contenue dans les océans est d’environ :
+1,5  1016 tonnes. On fera apparaître le calcul.
+2- Calculer la masse de sel apportée chaque année par les rivières à l'océan.
+3- En déduire comme l’a fait John Joly que l'âge de la Terre calculé par cette
+méthode est d’environ 100 millions d'années.
+4- En réalité, une partie du sel dissous subit une sédimentation dans certaines
+régions littorales et peut également être échangé avec du calcium lors de l'altération
+sous-marine du basalte, commenter la validité de la méthode de calcul proposée par
+John Joly.
+
+Partie 2. Érosion et sédimentation
+Document 1 - Un exemple de destruction due à l’érosion.
+Le “Grind of the Navir” correspond à une ouverture faite par la mer dans une falaise des
+îles Shetland. Cette ouverture est élargie d’hiver en hiver par la houle qui s’y engouffre.
+
+Extrait de la sixième édition de Principles of geology (1833) par Charles Lyell.
+
+Document 2 - L’argument des temps de sédimentation et d’érosion par Charles Darwin,
+extrait de L’Origine des espèces (1859).
+“Ainsi que Lyell l’a très justement fait remarquer, l’étendue et l’épaisseur de nos couches
+de sédiments sont le résultat et donnent la mesure de la dénudation1 que la croûte terrestre
+a éprouvée ailleurs. Il faut donc examiner par soi-même ces énormes entassements de
+couches superposées, étudier les petits ruisseaux charriant de la boue, contempler les
+vagues rongeant les antiques falaises, pour se faire quelque notion de la durée des périodes
+écoulées [...]. Il faut surtout errer le long des côtes formées de roches modérément dures, et
+constater les progrès de leur désagrégation. [...] Rien ne peut mieux nous faire concevoir ce
+qu’est l’immense durée du temps, selon les idées que nous nous faisons du temps, que la
+vue des résultats si considérables produits par des agents atmosphériques2 qui nous
+paraissent avoir si peu de puissance et agir si lentement. Après s’être ainsi convaincu de la
+lenteur avec laquelle les agents atmosphériques et l’action des vagues sur les côtes rongent
+la surface terrestre, il faut ensuite, pour apprécier la durée des temps passés, considérer,
+d’une part, le volume immense des rochers qui ont été enlevés sur des étendues
+considérables, et, de l’autre, examiner l’épaisseur de nos formations sédimentaires. [...]
+J’ai vu, dans les Cordillères [une chaîne de montagnes], une masse de conglomérat 3 dont
+j’ai estimé l’épaisseur à environ 10 000 pieds [3km] ; et, bien que les conglomérats aient
+dû probablement s’accumuler plus vite que des couches de sédiments plus fins, ils ne sont
+cependant composés que de cailloux roulés et arrondis qui, portant chacun l’empreinte du
+temps, prouvent avec quelle lenteur des masses aussi considérables ont dû s’entasser. [...]
+M. Croll démontre, relativement à la dénudation produite par les agents atmosphériques, en
+calculant le rapport de la quantité connue de matériaux sédimentaires que charrient
+annuellement certaines rivières, relativement à l'étendue des surfaces drainées, qu'il
+faudrait six millions d'années pour désagréger et pour enlever au niveau moyen de l'aire
+totale qu'on considère une épaisseur de 1 000 pieds [305 mètres] de roches. Un tel résultat
+peut paraitre étonnant, et le serait encore si, d'après quelques considérations qui peuvent
+faire supposer qu'il est exagéré, on le réduisait à la moitié ou au quart. Bien peu de
+personnes, d'ailleurs, se rendent un compte exact de ce que signifie réellement un million”.
+Extrait “Du laps de temps écoulé, déduit de l’appréciation de la rapidité des dépôts et de l’étendue
+des dénudations”, L'Origine des espèces, Charles Darwin, (p. 393 - 398).
+1 - La dénudation correspond à l’effacement des reliefs par érosion.
+2 - Les agents atmosphériques désignent les agents responsables de l’érosion comme la pluie, le gel,
+le vent.
+3 - Un conglomérat est une roche issue de la dégradation mécanique d'autres roches et composée de
+sédiments liés par un ciment naturel.
+
+5- Expliquer la démarche utilisée par C. Darwin permettant d’estimer un âge minimal
+pour la Terre. La réponse ne doit pas excéder une demi-page.
+6- Commenter les résultats obtenus par ces deux méthodes au regard de l’âge de la
+Terre estimé aujourd’hui.

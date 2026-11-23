@@ -1,0 +1,384 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1655573, "at": "2026-11-23T09:29:09+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Le Gabon : un pays riche en ressources
+Sur 10 points
+Le Gabon bénéficie de nombreux atouts naturels favorables au développement de sa
+population. Pourtant il est considéré comme un pays sous-peuplé. Cela résulte d’une
+natalité et d’une fécondité relativement basses conjuguées à une mortalité assez
+élevée. Nous allons chercher à modéliser l’évolution démographique de ce pays et à
+comprendre certains des mécanismes qui freinent le développement agricole de ce
+pays.
+Partie 1 – Étude de l’évolution démographique du Gabon
+D’après le site Banque mondiale, le Gabon comptait 1,27 million d’habitants en 2000.
+Le graphique ci-dessous représente l’évolution de la population entre 2000 et 2024.
+Document 1 – Population du Gabon (en millions) en fonction de l’année
+
+Source : Banque mondiale
+
+Nous allons tester un choix de modèle exponentiel, puis un choix de modèle linéaire
+de l’évolution de la population au Gabon entre 2000 et 2025.
+Choix d’un modèle exponentiel
+On suppose tout d’abord que la population du Gabon augmente en moyenne de
+3,2% par an depuis l’année 2000.
+1- Justifier par un calcul que, selon ce modèle, la population du Gabon était
+d’environ 1,31 million d’habitants en 2001.
+2- Estimer par un calcul la population du Gabon en 2023 selon ce modèle.
+Choix d’un modèle linéaire
+On suppose désormais que la population augmente de 50 000 habitants par an
+depuis l’année 2000.
+Par ailleurs, d’après le site Banque mondiale, en 2015 la population du Gabon était
+d’environ 2,04 millions d’habitants.
+3- Justifier que, d’après ce modèle linéaire, la population du Gabon en 2016 était
+d’environ 2,09 millions d’habitants.
+4- Estimer la population du Gabon en 2023 selon ce modèle.
+Choix le plus adapté
+5- Justifier que, des deux choix proposés, le modèle linéaire est le plus cohérent
+avec les données du document 1.
+6- Indiquer si un choix de modèle linéaire est souvent utilisé pour représenter
+l’évolution d’une population humaine et s’il traduit une croissance
+démographique lente ou rapide.
+7- En supposant que le modèle linéaire choisi reste adapté les années suivantes,
+estimer en quelle année la population du Gabon dépasserait les 3 millions
+d’habitants.
+On souhaite utiliser une feuille de calcul automatisée pour prévoir l’évolution de la
+population du Gabon dans les années futures.
+
+8- Parmi les formules suivantes, recopier sur
+votre copie celle à entrer dans cellule B4
+pour obtenir par recopie vers le bas une
+estimation de l’évolution de la population du
+Gabon selon le modèle linéaire choisi
+précédemment. Une seule réponse est
+possible.
+Formule A : = 2,04+0,05*A4
+Formule B : = B3+0,05
+Formule C : = 2,09
+Partie 2 – Étude des ressources alimentaires du pays
+Répondre aux questions suivantes à l’aide des documents 2 et 3 placés à leur suite.
+9- Expliquer en quoi le Gabon dispose d'atouts naturels suffisants pour nourrir sa
+population.
+10- Dans le secteur agricole, identifier trois freins qui empêchent ce pays de profiter
+pleinement de ses atouts. Pour chaque frein, indiquer une remédiation possible.
+Pour répondre à cette question, recopier et compléter le tableau suivant sur
+la copie.
+DÉVELOPPEMENT DU SECTEUR AGRICOLE
+FREINS
+
+REMÉDIATION POSSIBLE
+
+Document 2 – Le secteur agricole au Gabon
+Avec une réserve importante de terres cultivables (5,2 millions d’hectares,
+dont seulement 8 % sont exploités) et un climat propice à l’activité
+agricole (pluviométrie annuelle de 1450 à 4 000 mm), le Gabon présente
+d’importants atouts naturels pour le développement de la production
+agricole.
+Cependant, celle-ci ne contribue que marginalement à la croissance (3,8 % du
+PIB). Dans les faits, la contribution de l’agriculture à la formation du PIB gabonais
+a progressivement décliné au cours des dernières décennies, suite à la découverte
+et l’exploitation des ressources pétrolières. La dépendance du Gabon vis-à-vis de
+l’extérieur en denrées alimentaires est aujourd’hui une préoccupation majeure.
+De plus, les choix politiques et les programmes mis en œuvre par l’État ont
+privilégié, le développement de l’agro-industrie à base de matières premières
+importées au détriment de l’agriculture paysanne.
+Les importations fournissent aujourd’hui environ 60 % des biens alimentaires
+consommés au Gabon, la demande du marché étant grandissante.
+Le secteur agricole (hors exploitation forestière) et le secteur de la pêche
+restent ainsi peu développés au Gabon, bien que le pays dispose d’atouts
+importants : un large plateau continental (40 000 km2) et une façade maritime
+étendue (800 km de littoral).
+Le développement du secteur de la pêche a été fortement ralenti par manque de
+financements et d’infrastructures. La pêche est artisanale et essentiellement
+côtière et on ne dénombre que de rares armateurs, d’origine étrangère. Mais le
+potentiel est important et les ressources halieutiques (pêche en mer) variées. Sa
+contribution au PIB est inférieure à 1,5 %.
+Source : https://www.tresor.economie.gouv.fr/Pays/GA/le-secteur-agricole-au-gabon
+
+Document 3 – État des lieux et plans nationaux d’investissement agricole du
+Gabon
+Productivité globale
+
+Pour la banane plantain, les rendements moyens stagnent depuis les
+années 60.
+
+Pour le manioc, les rendements moyens sont très faibles.
+
+Pertes après récolte
+Les producteurs n’ont pas un accès aisé aux techniques de conservation
+appropriées.
+
+Manioc : en moyenne, un minimum de 25 % de pertes, dû aux pourritures et
+aux pertes à la transformation.
+
+Banane plantain : en moyenne, 30 à 40 % de pertes en poids.
+
+Difficultés actuelles
+
+Difficultés d’accès au financement (difficultés pour obtenir des prêts,
+processus d’acquisition de terres long et complexe).
+
+Manque d’infrastructures couvrant toute la chaîne de valeur (installations
+vieillissantes et faiblement automatisées).
+
+Main d’œuvre limitée et faiblement qualifiée (manque de formation et de
+savoir-faire).
+
+Difficultés d’accès à des semences de qualité adaptées au sol gabonais
+dues au faible développement des filières semencières (coûts élevés des
+semences sur les marchés internationaux).
+
+Efforts et investissements au Gabon
+
+Une politique nationale de sécurité alimentaire et nutritionnelle (PNSAN) a
+été élaborée par le Gabon, qui ambitionne, à l’horizon 2025, d’éliminer
+l’insécurité alimentaire et la malnutrition.
+
+Améliorer l’accès à la terre et aux financements.
+
+Développer durablement les filières du végétal (développement des
+semences, horticulture, maraîchage, création d’un pôle scientifique pour
+accompagner le développement agricole).
+
+Développer les capacités institutionnelles et les ressources humaines
+(formation), et promouvoir les femmes et les jeunes.
+Source : « Compact Gabon pour l’alimentation et l’agriculture » 20 février 2023
+
+Partie 3 – Conclusion
+11- En une ou deux phrase(s), proposer une hypothèse concernant un éventuel lien
+de causalité entre les difficultés du Gabon dans le secteur agricole et la faible
+croissance démographique de ce pays.
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+Le protoxyde d’azote et le réchauffement climatique
+Sur 10 points
+À l’aube de nouvelles mesures prises pour la circulation des véhicules dans plusieurs
+grandes villes françaises, visant à limiter les émissions de gaz à effet de serre, nous
+allons nous interroger sur l’impact de différents gaz sur le réchauffement climatique.
+Le dioxyde de carbone et le méthane ont toujours été considérés comme les
+principaux responsables mais l’impact d’un autre gaz, le protoxyde d’azote, n’a-t-il
+pas été sous-estimé ?
+« Troisième gaz à effet de serre au monde, le N2O (protoxyde d'azote) joue un rôle
+important dans le réchauffement du climat, à quantités égales, il contribue environ
+300 fois plus au réchauffement de l’atmosphère par effet de serre que le dioxyde de
+carbone. » (Météo France, société scientifique nationale, 2020). À l’échelle mondiale,
+une part de sa production est d’origine naturelle (majoritairement issue des sols et
+dans une moindre mesure de l’océan) et l’autre part est d’origine anthropique.
+On cherche à étudier l’implication du protoxyde d’azote N2O comme gaz à effet de
+serre et à caractériser la part des activités humaines dans ces émissions.
+Partie 1 – Implication du protoxyde d’azote comme gaz à effet de serre
+D’après le site de Météo France, cité en introduction, le protoxyde d’azote est le
+troisième gaz à effet de serre.
+1- Citer les deux premiers gaz à effet de serre.
+2- Utiliser vos connaissances pour choisir la (ou les) proposition(s) correcte(s) dans
+chacune des séries a), b) et c). Indiquer sur votre copie le (ou les) numéro(s)
+correspondant(s).
+a) Le sol terrestre émet un maximum de rayonnement dans le domaine du
+spectre :
+1. visible ;
+2. infrarouge ;
+3. ultraviolet.
+
+b) Un gaz à effet de serre se caractérise par le fait qu’il :
+1. absorbe une partie du rayonnement visible ;
+2. réfléchit une partie du rayonnement visible ;
+3. absorbe une partie du rayonnement infrarouge ;
+4. réfléchit une partie du rayonnement infrarouge.
+c) Depuis un siècle, l’ordre de grandeur d’augmentation de la température
+moyenne du globe est de :
+1. 0,1 °C ;
+2. 1 °C ;
+3. 10 °C.
+Document 1 – Spectre d’absorption du protoxyde d’azote (N2O) dans le
+domaine des infrarouges
+
+Longueur d’onde (en µm)
+Source : d’après la base de données du National Institute of Standard and Technologie
+(USA)
+
+Le sol émet principalement un rayonnement sur une plage de longueurs d’onde
+comprises entre 7 et 15 µm.
+3- Montrer que le protoxyde d’azote est un gaz à effet de serre en vous appuyant
+sur le document 1.
+
+Document 2 – Impact des différents gaz sur le forçage radiatif et
+conséquences sur le réchauffement climatique
+L’effet des différents gaz sur le réchauffement climatique dépend :
+
+de leur concentration dans l’atmosphère ;
+
+de leur « pouvoir de réchauffement global » (PRG), qui correspond à la
+puissance radiative qu’une masse d’un kilogramme de gaz à effet de serre
+renvoie vers le sol sur une durée de 100 ans. On attribue la valeur 1 au
+PRG du dioxyde de carbone.
+
+Concentration
+atmosphérique
+en 2022
+(en 2005 entre
+parenthèses)
+PRG
+(cumulé sur 100
+ans)
+
+Origine des
+émissions
+anthropiques
+
+CO2
+Dioxyde de
+carbone
+
+CH4
+Méthane
+
+N2O
+Protoxyde
+d’azote
+
+HFC
+Hydrofluorocarbures
+
+PFC
+Perfluorocarbures
+
+412 ppm
+
+1 912 ppb
+
+336 ppb
+
+255 ppt
+
+92,8 ppt
+
+(379 ppm)
+
+(1 774 ppb)
+
+(319 ppb)
+
+(> 49 ppt)
+
+(> 4,1 ppt)
+
+[1,4 ; 14 800]
+selon les gaz
+
+[6 630 ; 11 100]
+selon les gaz
+
+Combustion
+d’énergie
+fossile,
+industriels et
+déforestation
+tropicale
+
+Décharges,
+agriculture,
+élevage et
+industriels
+
+Agriculture,
+industriels,
+utilisation
+d’engrais
+
+Sprays, réfrigération, procédés industriels
+
+Note : ppm = partie par million ; ppb = partie par milliard ; ppt = partie par millier de milliard.
+
+Sources :
+GIEC (Groupe d’experts intergouvernemental avec comité scientifique de relecture) 2014,
+AGAGE (organisme sous tutelle de la NASA, USA) 2021,
+NOAA (National Oceanic and Atmospheric Administration, Agence gouvernementale
+américaine, USA) 2023
+
+Dans la citation de l’introduction, Météo France indiquait que le protoxyde d’azote
+contribue environ 300 fois plus au réchauffement de l’atmosphère par effet de serre
+que le dioxyde de carbone.
+4- Indiquer si le document 2 permet de confirmer cette affirmation.
+Météo France est l’agence nationale française de météorologie et participe à ce titre
+à la recherche au sein de laboratoires mixtes avec des universités et avec le CNRS.
+
+5- Expliquer avec deux arguments différents pourquoi Météo France et les
+différentes sources citées dans le document 2 sont des sources fiables pour
+répondre à un questionnement sur le climat.
+Partie 2 – Évolution des concentrations en protoxyde d’azote et origines
+Document 3 – Émissions mondiales de protoxyde d’azote en 2005
+En 2005, la production mondiale de protoxyde d’azote, toutes origines confondues
+(anthropiques et naturelles), était estimée à 14,5 millions de tonnes.
+Le graphique ci-dessous présente les différentes contributions anthropiques (dues
+à l’activité humaine) aux émissions totales de N2O en 2005 :
+
+anthropiques
+
+avec 1 TgN = 1 million de tonnes d’azote
+Source : d’après les comptes rendus de l'Académie nationale des sciences américaine
+[www.pnas.org]
+
+Les émissions de N2O d’origine agricole proviennent essentiellement de la
+transformation des produits azotés tels que les engrais dans les sols, les
+déjections des animaux d’élevage (lisier, fumier) ou les résidus de récolte.
+
+6- Utiliser les informations du document 3 pour :
+a) exprimer les émissions totales de N2O anthropiques en tonnes d’azote pour
+l’année 2005 ;
+b) calculer le pourcentage des émissions de N2O anthropiques par rapport aux
+émissions totales pour 2005 ;
+c) calculer le pourcentage des émissions de N2O liées aux activités agricoles par
+rapport aux émissions totales anthropiques pour 2005.
+Les émissions de N₂O d'origine anthropique ont augmenté de 30 % au cours des
+trois dernières décennies. Les croissances les plus importantes se produisent dans
+les économies émergentes, en particulier du Brésil, de la Chine et de l'Inde.
+Au cours des dernières décennies, la production végétale et le nombre de têtes de
+bétail ont également augmenté rapidement (Source CEA).
+
+Production mondiale de viande
+(en millions de tonnes
+
+Document 4 – Évolution de la production mondiale de viande de 1961 à 2009
+
+Année
+
+Source : FAOSTAT
+
+La croissance des émissions de protoxyde d’azote et celle de la production de
+viande sont donc concomitantes, c’est-à-dire qu’elles se sont produites en même
+temps.
+7- Justifier s’il est rigoureux scientifiquement de conclure qu’il existe une relation
+entre deux phénomènes à partir de leur concomitance. Vous pourrez vous
+appuyer sur les caractéristiques de la démarche permettant d’établir un fait
+scientifique.
+
+8- Développer deux arguments permettant ici d’établir un potentiel lien de causalité
+entre l’évolution montrée dans le document 4 et l’augmentation de la production
+de protoxyde d’azote anthropique.

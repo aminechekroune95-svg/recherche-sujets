@@ -1,0 +1,225 @@
+{"pages": 8, "method": "pdftotext", "bytes": 485885, "at": "2026-11-23T09:22:37+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Étude d’une centrale hydroélectrique (10 points)
+La France et l’Europe se sont engagées à développer, d’ici l’année 2020, la part des énergies
+renouvelables. Le plan d’action national fixe un objectif global de 23 % d’énergies
+renouvelables dans la consommation finale d’énergie à l’horizon 2020.
+Source : d’après www.ademe.fr
+On s’intéresse ici à la centrale hydroélectrique de Luzières sur la rivière Agout, dans le Tarn,
+qui est une rivière de moyenne montagne à l’est de Toulouse. Elle est ponctuée d’une
+succession de barrages dont certains sont associés à des usines de production d’électricité.
+
+Source : d’après la carte d'ensemble du bassin Tarn-Agout https://www.edf.fr/
+
+Schéma simplifié en coupe de l’ensemble barrage-centrale sans souci d’échelle
+z
+(en m)
+136,4 m
+
+124,0 m
+
+16,0 m
+
+0,0 m
+
+La retenue, où est stockée l’eau à turbiner, est le barrage de Record ①, hameau situé à
+quelques kilomètres en amont. L’eau est acheminée par une conduite d’amenée ②, et passe
+brièvement dans une chambre d’équilibre de forme cylindrique ③ et est envoyée sur deux
+turbines identiques ⑤ par une conduite forcée ④.
+Le niveau des turbines est pris comme référence des altitudes.
+Description du système :
+Cette centrale hydroélectrique est une centrale gravitaire de moyenne chute avec deux
+turbines délivrant une puissance électrique globale Pél = 20 MW.
+La chambre d’équilibre est une zone tampon utilisée lors des démarrages et des arrêts de la
+centrale hydroélectrique.
+Le barrage de Record peut contenir un volume d’eau V = 1,0 million de m3.
+1. Étude de l’action de l’eau
+- intensité de la pesanteur : g = 9,81 N.kg-1 ;
+- pression atmosphérique : Patm = 1,01 × 10 5 Pa ;
+- masse volumique de l’eau :  = 1,00 × 10 3 kg.m-3 ;
+- Loi fondamentale de la statique des fluides : PA-PB =  · g · (zB - zA)
+• PA et PB : pressions en un point A et en un point B ;
+•  : masse volumique du fluide considéré ;
+• g : intensité de la pesanteur ;
+• zA et zB : altitudes en un point A et en un point B.
+
+1.1. Sachant que la profondeur de l’eau au niveau du barrage est de AB = zB - zA = 12,4 m,
+montrer que la pression à l’altitude A, PA, est égale à 2,2×10 5 Pa.
+1.2. La pression moyenne exercée sur l’ensemble du barrage peut être assimilée à la pression
+à mi-hauteur (point G du schéma n°1). Calculer la valeur de la pression moyenne Pmoyenne.
+1.3. En déduire la valeur de la force exercée par l’eau sur la totalité du barrage de forme
+rectangulaire de surface S dont la largeur moyenne vaut ℓ = 70 m.
+1.4. Reproduire le schéma n°1 simplifié suivant sur la copie et représenter la force exercée par
+l’eau sur le barrage au point G avec pour échelle : 1 cm pour 4,0×10 7 N.
+
++ G AB
+
+AB
+
+ℓ
+Schéma n°1 : barrage vu en coupe
+
+Schéma n°2
+
+2. Étude mécanique
+On s’intéresse dans cette partie à une masse d’eau m = 20 tonnes qui sort du barrage
+pendant une durée t = 1,0 s. L’énergie potentielle de pesanteur est choisie nulle au niveau
+des turbines.
+2.1. Donner l’expression littérale de l’énergie potentielle de pesanteur EPPB de cette masse
+d’eau stockée au point B du barrage de Record. Montrer que la valeur de cette énergie
+potentielle est EPPB = 2,7 × 10 7 J.
+2.2. La valeur de la vitesse de cette masse d’eau vB au point B est supposée nulle, en déduire
+la valeur de l’énergie mécanique EmB de cette masse d’eau au point B.
+2.3. En supposant que l’énergie mécanique se conserve, déterminer la valeur vC de la vitesse
+de l’eau au point C à l’entrée des turbines.
+2.4. La puissance cinétique de l’eau Pceau à l’entrée des turbines est l’énergie cinétique par
+unité de temps associée à l’eau qui rentre dans les turbines. Calculer la valeur de Pceau et
+commenter le résultat obtenu.
+
+3. Étude électrique
+Consommation électrique des foyers français.
+De la cafetière à la machine à laver en passant par le sèche-cheveux, la télévision et la
+lumière, l’électricité donne vie à la maison et se retrouve dans toutes les pièces. […].
+L’électricité constitue donc un poste de dépenses d’énergie majeur. D’après l’analyse de
+marché de détail de l’électricité produite par la Commission de Régulation de l’Énergie au
+quatrième semestre 2016, plus de 32 millions de sites résidentiels avaient accès à l’électricité,
+pour une consommation annuelle totale de 158,6 TW.h. En 2017, la consommation électrique
+française atteint environ 4 710 kW.h par foyer (le foyer est le lieu où habite une famille).
+Source : d’après https://particuliers.engie.fr
+- 1 TW.h = 1×10 12 W.h ;
+- 1 kW.h = 3,6×106 J.
+3.1. Sans recopier la chaîne énergétique ci-dessous, donner la forme d’énergie à faire
+apparaître dans chaque cadre numéroté de 1 à 3. Pour cela, indiquer sur la copie le numéro
+du cadre et lui associer une forme d’énergie.
+
+Cadre 1
+
+Centrale hydroélectrique
+
+Cadre 2
+
+Cadre 3
+
+3.2. Étant une source de production d’électricité d’appoint, la centrale fonctionne pendant une
+durée d’environ t’ = 3 500 h par an. Déterminer l’énergie électrique Eél, en kW.h produite
+annuellement par cette centrale.
+3.3. Déterminer le nombre de foyers que cette centrale peut approvisionner annuellement.
+Commenter.
+
+PARTIE B
+Teneur en fer d’un produit phytosanitaire (10 points)
+Les feuilles de certaines plantes comme celles des vignes, des rosiers, des pêchers peuvent
+parfois jaunir tout en gardant des nervures bien vertes. C’est le signe que ces plantes
+souffrent de chlorose ferrique. Le fer, comme le magnésium, le manganèse ou le zinc sont
+essentiels à la synthèse de la chlorophylle, et les plantes les puisent dans le sol. Lorsque ces
+éléments manquent, la chlorophylle n’est plus synthétisée et les feuilles perdent leur couleur
+verte.
+Il est possible de lutter contre la chlorose ferrique grâce à des moyens biologiques ; l’utilisation
+d’un purin d’ortie peut y contribuer par exemple.
+Il est aussi possible d’utiliser des produits phytosanitaires commerciaux. La teneur en fer d’un
+produit phytosanitaire anti-chlorose est indiquée sur son emballage : 6,0 % en masse.
+L’objectif de cet exercice est d’envisager un titrage par spectrophotométrie adapté au contrôle
+de qualité de ce produit.
+Masse molaire atomique du fer : MFe = 56,0 g.mol-1
+Couples oxydant/réducteur : MnO4-/Mn2+ (incolore) ; S2O82-/SO42-(incolore) ;
+Fe3+(orange pâle)/Fe2+(vert pâle)
+Spectre d’absorption d’une solution de permanganate de potassium de concentration 2,5×10-4
+mol.L-1.
+
+Spectre d’absorption d’une solution de peroxodisulfate de potassium de concentration 2,5×104 mol.L-1
+
+1,4
+
+Abosorbance
+
+1,2
+0,8
+0,6
+0,4
+0,2
+
+•
+
+500 550 600 650 700
+Longueur d'onde en nm
+
+Cercle chromatique
+
+•
+
+Tests caractéristiques des ions Fe2+ et Fe3+ avec une solution aqueuse d’hydroxyde de
+sodium
+Ajout de quelques gouttes de solution
+ions
+couleur
+d’hydroxyde de sodium
+2+
+Fe
+Vert à peine perceptible
+Précipité vert d’hydroxyde de fer II
+Fe3+ Rouille à peine perceptible Précipité rouille d’hydroxyde de fer III
+
+1. Choix du réactif titrant.
+Pour réaliser le titrage des ions ferreux, Fe2+, contenus dans un produit phytosanitaire destiné
+à lutter contre la chlorose ferrique, on dispose de deux solutions titrantes possibles :
+• Une solution de peroxodisulfate de potassium acidifiée (K+(aq)+S2O82-(aq)) de
+concentration 0,10 mol.L-1
+• Une solution de permanganate de potassium acidifiée (K+(aq)+MnO4-(aq)) de
+concentration molaire 0,10 mol.L-1.
+Les ions peroxodisulfate comme les ions permanganate réagissent en solution aqueuse avec
+les ions Fe2+. Un test avec une solution aqueuse d’hydroxyde de sodium, après réaction entre
+les ions Fe2+ et les ions S2O82- ou MnO4-, conduit au même précipité rouille d’hydroxyde de fer
+III.
+
+1.1. Préciser la nature de la transformation chimique qui se produit quand on mélange des
+ions Fe2+ et des ions peroxodisulfate S2O82- d’une part ou permanganate MnO4- d’autre
+part, que le test avec une solution aqueuse d’hydroxyde de sodium met en évidence.
+1.2. Écrire les équations des réactions modélisant les transformations chimiques mettant en
+jeu :
+• les ions Fe2+ et les ions S2O82- d’une part,
+• les ions Fe2+ et les ions MnO4- d’autre part.
+1.3. Montrer, en vous référant à la couleur de chaque solution titrante, qu’il est plus judicieux
+de choisir la solution de permanganate de potassium pour réaliser le titrage des ions
+ferreux contenus dans le produit phytosanitaire, la coloration due aux ions ferreux (Fe2+)
+ou ferrique (Fe3+) en solution aqueuse étant très peu perceptible.
+1.4. Définir l’équivalence d’un titrage.
+2. Mise en œuvre du titrage
+
+2.1. La solution de permanganate de potassium étant trop concentrée, il est nécessaire de la
+diluer 5 fois avant de l’utiliser pour le titrage. Choisir, dans la liste de matériel proposé
+(photographie ci-dessus), la verrerie adaptée à cette dilution. Justifier.
+2.2. Expliquer pourquoi certaines verreries sont associées à des capacités notées 100 mL, 50
+mL, 10 mL, et d’autres à des capacités de 100,0 mL, 50,0 mL, 10,0 mL.
+2.3. Le produit phytosanitaire se présente sous la forme d’une poudre. Afin de réaliser le
+titrage, on dissout 100,0 g de produit dans de l’eau et on complète avec de l’eau de
+façon à obtenir 1,0 L de solution.
+2.3.1. On prélève 10,0 mL de cette solution qu’on introduit dans un erlenmeyer.
+Dans la liste de matériel proposée ci-dessus, choisir la verrerie utilisée pour
+prélever ces 10,0 mL.
+
+2.3.2. Schématiser et légender le montage utilisé afin de réaliser le titrage.
+3. Exploitation du résultat du titrage
+3.1. Le titrage est réalisé plusieurs fois. On note VE, le volume de solution de permanganate
+de potassium versé pour atteindre l’équivalence pour chaque titrage réalisé. Les résultats
+sont rassemblés dans le tableau suivant :
+Mesure
+VE en mL
+11,0 10,6 10,4 10,6 10,8 10,5 10,7 10,9 11,2 11,0
+3.1.1. L’incertitude-type u(VE), de type A, sur cette série de mesures est égale à
+0,080 mL. Écrire le résultat de la mesure pour VE.
+3.1.2. Une autre méthode de détermination de l’incertitude-type sur le volume
+équivalent aurait pu être prise en compte. Préciser sa nature.
+3.1.3. Déterminer la teneur en masse d’ions ferreux présente dans l’échantillon de
+10,0 mL de solution titrée prélevé.
+3.2. Un titrage par spectrophotométrie peut-il être adapté au contrôle de la teneur en fer du
+produit phytosanitaire indiquée sur l’emballage ?

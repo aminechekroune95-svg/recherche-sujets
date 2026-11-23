@@ -1,0 +1,413 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1851453, "at": "2026-11-23T09:27:31+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- À l’aide du document 2, déterminer comment varie la puissance dissipée par
+effet Joule si l’intensité du courant électrique est divisée par deux. Écrire sur
+votre copie le numéro de la proposition correcte.
+P1 : elle ne varie pas
+
+P2 : elle est divisée
+par 2
+
+P3 : elle est divisée
+par 4
+
+P4 : elle est multipliée
+par 4
+
+6- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne
+à haute tension.
+7- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+8- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+9- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+10- Repérer l’intervalle où la fréquence dépasse 50 Hz. Conclure sur l’équilibre entre
+production et consommation électrique durant ces heures.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 2 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Partie 1 – Marquage radioactif du glucose
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+2- Un nombre initial de 10 000 noyaux de 14C est présent dans un échantillon de
+glucose marqué au 14C. Calculer, en expliquant le raisonnement, le nombre de
+noyaux de 14C restants au bout de quatre demi-vies.
+3- À partir du document 2, déterminer la durée nécessaire pour obtenir un nombre
+de noyaux de 14C égal à 40 % du nombre initial. Expliquer la démarche retenue.
+
+Partie 2 – Utilisation du glucose radioactif et compréhension du mode d’action
+de la cytochalasine B
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane plasmique.
+
+Légendes :
+CW = Paroi ; Mb =
+Membrane plasmique ; N
+= Noyau ; V = vacuole ;
+M = Mitochondries ; Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+4- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des structures spécifiques qui seront nommées.
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+5- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).
+
+Exercice 3 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Atténuer la chaleur dans les villes
+Avec le réchauffement climatique la température dans les villes pendant l’été devient
+un danger pour l’être humain, notamment pendant les épisodes caniculaires de plus
+en plus fréquents. Les politiques publiques cherchent à réduire les températures
+urbaines, en atténuant de différentes manières le bilan radiatif des différentes
+surfaces dans les villes.
+1- Compléter le schéma en annexe sur le document réponse en indiquant les
+éléments suivants : puissance réfléchie, puissance reçue et puissance absorbée.
+2- À partir de vos connaissances et du schéma complété sur l’annexe définir le
+terme « albédo ».
+3- En laissant de côté le cas du gazon, établir, à partir du document 1 fourni dans la
+suite, un lien entre l’albédo et la température de surface du revêtement de la
+chaussée. Justifier la réponse.
+4- À l’exception du gazon, proposer le revêtement de surface qui vous parait être
+adapté pour abaisser les températures ambiantes dans la ville de Paris, qu’il
+s’agisse de chaussée ou de trottoir.
+5- Identifier, avec le document 2 fourni dans la suite, où sont situés les îlots de
+fraicheur dans l’agglomération parisienne.
+En réalité, la température mesurée sous le couvert végétal est encore moins élevée
+que la température attendue.
+6- D’après le document 2, déterminer quel mécanisme contribue à la diminution de
+la température ambiante et expliquer l’emplacement des ilots de fraicheur à
+Paris. Justifier la réponse.
+
+Document 1 – Albédo et évolution de la température de surface de cinq
+revêtements parisiens
+Une série de mesures ont été menées en laboratoire sur différents revêtements de
+sol typiques rencontrés à Paris.
+Échantillon
+Albédo
+
+Chaussée Trottoir
+Trottoir
+Stabilisé
+Classique asphalte
+granite
+0,098
+
+0,155
+
+0,369
+
+0,313
+
+Gazon
+0,25 – 0,30
+
+Figure A – Tableau de mesure d’albédo de quelques surfaces
+
+La chaussée classique est constituée en surface de Béton bitumineux de couleur
+gris foncé.
+Le trottoir asphalte est un matériau de couleur noir, étanche et facile à poser.
+Le stabilisé est un béton clair.
+Le trottoir granite est constitué de dalles de granite, roche de couleur gris clair.
+
+Figure B – Graphique de mesure de
+températures de surface selon les surfaces
+Source : https://www.apur.org (influence climatique des revêtements de sol à Paris)
+
+Document 2 – Rôle des arbres dans la température de l’air ambiant
+Les îlots de fraîcheur
+sont des endroits où la
+température de l’air
+ambiant est moins
+importante en période
+de chaleur comparée à
+l’environnement
+proche.
+Les îlots de fraîcheur
+apparaissent en gris
+foncé sur cette carte
+de Paris.
+
+Figure C – Plan de localisation des ilots de fraicheur
+dans Paris
+Source : https://opendata.paris.fr/.../dataset/ilots-defraicheur-espaces-verts-frais
+
+Une part de l’énergie
+solaire est captée par
+le végétal dans le
+processus de la
+photosynthèse. L’eau
+contenue dans le sol
+est alors consommée
+et transpirée par la
+plante sous forme de
+vapeur d’eau dans
+l’atmosphère : c’est
+l’évapotranspiration.
+
+Figure D – Photosynthèse et évapotranspiration
+
+Source : https://www.apur.org (influence climatique des revêtements de sol à Paris)
+
+Dans les rues étroites de certaines villes il n’est pas
+toujours possible de planter des arbres. D’autres
+moyens sont alors mis en place : des parapluies
+multicolores ont été réinstallés pour les trois mois
+d’été dans les vieilles rues du centre piétonnier
+d’Aurillac, une commune du Cantal (voir photo cicontre).
+Source : La Montagne
+
+Document 3 – Tableau indiquant l’albédo des parapluies en fonction de la
+couleur
+Couleur
+des toiles
+des
+parapluies
+
+Bleu
+
+Rouge
+
+Vert
+
+Jaune
+
+Violet
+
+Albédo
+
+0,19
+
+0,22
+
+0,28
+
+0,33
+
+0,15
+Source : Auteur
+
+7- D’un point de vue énergie, expliquer l’intérêt en dehors de l’aspect décoratif, de
+ce type d’installation dans les rues piétonnes pendant l’été.
+8- Indiquer les couleurs de toile à privilégier. Justifier la réponse.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 1
+Annexe : le schéma suivant représente le bilan radiatif d’une surface éclairée
+
+surface
+
+.

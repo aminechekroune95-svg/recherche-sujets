@@ -1,0 +1,466 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1328521, "at": "2026-11-23T09:40:06+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+Question A 2
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+Question A 3
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+Question A 4
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+2 −1
+2 −1
+Question A 5
+En base 2, l'entier 2019 s'écrit :
+
+111 1110 0011
+7E3
+110 0011 1111
+3E7
+
+Question A 6
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+
+Thème B : types construits
+Question B 1
+On considère deux entiers strictement positifs L et C. On note n = L*C leur produit et on écrit la fonction
+suivante, qui construit un tableau de L lignes et C colonnes, contenant les entiers consécutifs de 0 à n-1 :
+def construitTable(L,C):
+t = []
+for i in range(L):
+ligne = []
+for j in range(C):
+......
+t.append(ligne)
+return t
+Par exemple, l'appel construitTable(2,3) doit renvoyer la table :
+[ [0, 1, 2],
+[3, 4, 5]
+
+Que faut-il écrire à la place des points de suspension pour obtenir ce résultat ?
+ligne.append(i + C*j)
+ligne.append(L*i + j)
+ligne.append(i + L*j)
+ligne.append(C*i + j)
+Question B 2
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 3
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B 4
+Soit le code ci-dessous :
+tableau = [5,8,6,9]
+a = tableau[2]
+
+Après son exécution, quelle valeur contient la variable a ?
+[5, 8]
+Question B 5
+Un programme Python présente la ligne suivante :
+x = ["x1", "x2", "x3"]
+Elle définit :
+une liste de trois éléments
+un tuple de trois éléments
+une fonction acceptant trois paramètres
+un dictionnaire associant la valeur x2 à la clé x1 d'indice x3
+Question B 6
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le code suivant :
+table = [
+
+['lovelace', 'ada', 1815, 1852],
+['von neumann','john', 1903, 1957],
+['turing', 'alan', 1912, 1954],
+['mccarthy', 'john', 1927, 2011],
+['floyd', 'robert', 1936, 2001]
+
+L = []
+for index in range(len(table)):
+if table[index][3] > 1954:
+L.append(index)
+Quelle est la valeur de la liste L à la suite de cette exécution ?
+['von neumann','mccarthy','floyd']
+[1957,2011,2001]
+[1,3,4]
+['lovelace','turing']
+Question C 2
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C 3
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 4
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 5
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 6
+Quelle est la valeur de x après exécution du programme ci-dessous ?
+t = [[3,4,5,1],[33,6,1,2]]
+x = t[0][0]
+for i in range(len(t)):
+for j in range(len(t[i])):
+if x < t[i][j]:
+x = t[i][j]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 2
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D 3
+On considère l’extrait suivant d'une page web d'un site de vente en ligne.
+<form id="fmCreerCommande" name="fmCreerCommande" action="gestion.php" method="post">
+<input type="HIDDEN" name="reference" value="F1245">
+<label for="quantite" class="dropdown">Quantité :</label>
+<select name="quantite" autocomplete="off" id="quantite" class="dropdown">
+<option value="1" selected>1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+</select>
+<div id="btnMulti" class="clValidBtn">
+<input type="button" value="Ajouter" class="btn" onclick="ajouterProduit()">
+</div>
+</form>
+Quelle est la méthode utilisée pour transmettre les informations saisies dans ce formulaire ?
+La méthode HIDDEN
+
+La méthode GET
+La méthode POST
+La méthode SELECT
+
+Question D 4
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 5
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D 6
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Lequel de ces systèmes d'exploitation est sous licence propriétaire ?
+Android
+Linux
+Windows
+Ubuntu
+Question E 2
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+adresse Ipv4 : 172.16.100.202
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+Question E 3
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+Question E 4
+Quel est le rôle de l’unité arithmétique et logique dans un processeur ?
+réaliser les branchements
+définir la base des opérations arithmétiques : binaire, octale ou hexadécimale
+effectuer les calculs
+gérer le contrôle interne du processeur
+Question E 5
+
+Quelle est la racine du système de fichiers de Linux ?
+/
+root
+sudo
+home
+Question E 6
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+
+Thème F : langages et programmation
+Question F 1
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 2
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+Question F 3
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F 4
+
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Question F 5
+Karine écrit une bibliothèque Python, nommée GeomPlan, de géométrie plane dont voici un extrait :
+import math
+def aireDisque(R):
+return math.pi * R**2
+Gilles utilise cette bibliothèque pour calculer l'aire d'un disque de rayon 8.
+Laquelle des instructions suivantes renvoie un message d'erreur ?
+import GeomPlan
+GeomPlan.aireDisque(8)
+
+import GeomPlan
+
+from GeomPlan import *
+
+from GeomPlan import aireDisque
+
+Question F 6
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Thème G : algorithmique
+Question G 1
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus
+grande valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite
+valeur afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.
+Question G 2
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+Question G 3
+On dispose d'une fonction moyenne qui calcule la moyenne d'une liste de nombres et on écrit la fonction
+suivante :
+def centrage(L, a):
+for i in range(0,len(L)):
+L[i] = L[i] - a
+return L
+Pour la liste L1 = [5, 3, 1], quelle est la valeur de centrage(L1, moyenne(L1)) ?
+[5.0, 3.0, 1.0]
+[3.0, 3.0, 3.0]
+[2.0, 0.0, -2.0]
+[2.0, 1.0, -0.3333333]
+Question G 4
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+2.2
+Question G 5
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 6
+On considère la fonction suivante, où T est une liste d'entiers et i un indice de la liste :
+def indiceMinimum(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+On exécute indiceMinimum(T,i) pour une liste T de longueur n.
+Combien de fois l'inégalité T[k] < m est-elle évaluée ?
+𝑛−𝑖
+𝑛−𝑖+1
+𝑛−𝑖−1
+𝑛−1

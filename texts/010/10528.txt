@@ -1,0 +1,253 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1645379, "at": "2026-11-23T09:23:04+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Une onde un peu particulière, « l’onde cobra » (10 points)
+Le cobra est un serpent qui a la capacité
+de se redresser. C’est en référence à
+cette position que le jeu étudié ici a été
+nommé « onde cobra ». Il ressemble à ce
+jeu dans lequel on aligne des milliers de
+dominos pour ensuite les faire tomber en
+cascade.
+Il s’agit ici d’entremêler en une
+succession de losanges des bâtonnets
+de bois, par exemple des bâtonnets de
+glace, pour constituer un long
+http://www.random-goodcroisillon horizontal puis d’en lâcher
+stuff.com/2016/12/17/stick-bombs-notune extrémité.
+stink-bombs/
+L’assemblage se soulève alors, se
+redresse telle une tête de cobra, en
+éjectant un à un les bâtonnets et en détruisant donc le croisillon (figure 1 ci-dessous).
+
+à l’instant t1
+à l’instant t2
+
+Sens de propagation
+Bâtonnet à l’instant t1 décrit dans la question 2.
+Figure 1 : Forme du croisillon de bâtonnets à deux instants différents t1 et t2 (t2>t1)
+Pour constituer le croisillon (figure 2 ci-dessous), les bâtonnets se déforment avec des
+fléchissements qui sont de l’ordre de leur épaisseur (figure 3 ci-dessous), mais qui retrouvent
+leur forme initiale une fois libérés. Initialement, ils stockent ainsi non pas de l’énergie
+potentielle de pesanteur mais de l’énergie potentielle élastique. Des chercheurs ont montré
+que l’onde cobra résultait d’une propulsion par réaction, dans laquelle le « carburant » est
+cette énergie potentielle élastique stockée dans les déformations des bâtonnets et la
+propagation est assurée par leur éjection.
+L’objectif de cet exercice est de déterminer la célérité de l’onde cobra, d’étudier l’influence de
+la forme du croisillon sur la célérité ainsi que de mener une analyse énergétique pour
+interpréter l’onde cobra et prévoir la hauteur maximale des bâtonnets lors de la propagation.
+Sources : journal Le Monde (21 août 2017), journal Pour la Science (n°490, août 2018).
+
+Figure 2 : Croisillon vu de dessus : le croisillon est caractérisé par le pas noté p, distance entre
+deux sommets consécutifs sur un des bords du croisillon
+
+Figure 3 : Schéma de profil d’un bâtonnet déformé dans le croisillon et photo correspondante
+Analyse ondulatoire
+1. Indiquer la nature périodique ou non périodique de « l’onde cobra ».
+2. On souhaite décrire l’évolution de la hauteur du centre de masse d’un bâtonnet au cours
+du temps (la hauteur est nulle lorsque le bâtonnet est au sol). Le bâtonnet décrit est figuré
+
+en noir à l’instant t1 sur la figure 1, lorsqu’il est encore au sol, et on peut considérer que
+son mouvement ultérieur est approximativement vertical. Quatre représentations
+graphiques sont proposées ci-dessous.
+2.1. Parmi les représentations graphiques proposées, éliminer la (ou les)
+représentation(s) qui ne rend(ent) pas compte de la position du bâtonnet à l’instant
+t1.
+2.2. Parmi les représentations restantes, choisir la représentation graphique qui paraît la
+plus adaptée. On justifiera clairement le choix.
+
+a
+
+b
+
+c
+
+d
+
+Des chercheurs ont réalisé des photographies successives de la structure se soulevant au
+cours du temps. Quatre photographies successives sont fournies sur la figure 4 ci-dessous. Le
+croisillon a été réalisé avec des bâtonnets de longueur 11,4 cm et un pas voisin de 5 cm (ce
+qui correspond à des bâtonnets disposés perpendiculairement les uns par rapport aux autres
+comme sur la figure 2). L’échelle verticale et l’échelle horizontale ne sont pas les mêmes.
+
+Figure 4 : Photographies successives de la structure.
+D’après : Jérémy Sautel, Andréane Bourges, Aude Caussarieu, Nicolas Plihon, and
+Nicolas Taberlet The physics of a popsicle stick bomb American Journal of Physics 85,
+783 (2017)
+3. À l’aide de la figure 4, justifier sans calcul que la célérité de l’onde cobra semble
+approximativement constante.
+4. Déterminer la valeur de la célérité de l’onde cobra. On explicitera clairement la méthode.
+L’évolution de la célérité de l’onde et de la hauteur maximale atteinte par chaque bâtonnet en
+fonction du pas sont reproduites ci-dessous (pour des bâtonnets de longueur 11,4 cm). Les
+barres indiquent l’incertitude-type pour chaque mesure.
+
+Figure 5 : célérité en fonction du pas
+
+5.
+6.
+
+Figure 6 : hauteur maximale en fonction du pas
+Indiquer comment on a intérêt à déformer le croisillon afin d’augmenter la vitesse par
+rapport à la situation étudiée aux questions 3 et 4. On pourra faire un schéma.
+Indiquer en argumentant avec précision si la forme du croisillon a une influence sur la
+hauteur atteinte par les bâtonnets.
+
+Analyse énergétique
+On souhaite estimer l’énergie nécessaire à la déformation d’un bâtonnet dont les
+caractéristiques figurent dans les données ci-dessous. Pour ceci, on étudie la situation
+suivante où on pose deux masselottes identiques à chaque extrémité d’un bâtonnet fixé en
+son centre. Celui-ci se courbe et stocke de l’énergie potentielle élastique. On note M la masse
+de chacune des masselottes pour que les extrémités du bâtonnet descendent d’une hauteur
+égale à son épaisseur. Pour déformer à ses deux extrémités le bâtonnet décrit dans les
+données, on observe expérimentalement qu’il faudrait que les masselottes aient chacune une
+masse M environ égale à 100 g.
+
+Données :
+- dimensions d’un bâtonnet :
+longueur : L = 15,0 cm ;
+largeur : ℓ = 2,8 cm ;
+épaisseur : e = 1,6 mm ;
+- masse d’un bâtonnet : m = 2,5 g ;
+- intensité du champ de pesanteur : g = 9,8 m·s-2.
+7.
+
+Exprimer le travail du poids d’une masselotte durant sa descente. Calculer sa valeur.
+
+On suppose que l’énergie transférée par travail mécanique est entièrement stockée par le
+bâtonnet sous forme d’énergie potentielle élastique.
+8.
+En déduire la valeur de l’énergie potentielle élastique d’un bâtonnet qui serait déformé de
+cette façon par les deux masselottes avec un fléchissement égal à son épaisseur à
+chaque extrémité.
+En pratique, puisque chaque bâtonnet est déformé en quatre points, l’énergie potentielle
+stockée par bâtonnet est bien plus grande et vaut approximativement 50 mJ.
+L’énergie mécanique d’un bâtonnet est la somme de son énergie cinétique, de son énergie
+potentielle de pesanteur (considérée nulle lorsque le bâtonnet est au sol) et de son énergie
+potentielle élastique (nulle lorsque le bâtonnet n’est pas déformé). Lors de la propagation de
+l’onde, chaque bâtonnet est propulsé vers le haut et n’est plus déformé. Lorsqu’il atteint sa
+hauteur maximale, on peut considérer sa vitesse comme nulle.
+9.
+En exploitant la conservation de l’énergie mécanique pour un bâtonnet donné, exprimer
+puis calculer la valeur de la hauteur maximale théorique atteinte par chaque bâtonnet.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie, même si elle
+n’a pas abouti. La démarche est évaluée et nécessite d’être correctement présentée.
+
+Lors de la propagation observée expérimentalement, la hauteur atteinte par chaque bâtonnet
+est comprise entre 25 et 35 cm.
+10. Proposer une interprétation de la différence avec la valeur calculée précédemment.
+PARTIE B
+Le bleu de méthylène en médecine et en biologie (10 points)
+Le bleu de méthylène est une espèce chimique organique de formule brute C16H18N3SCl. A l'état
+pur, le bleu de méthylène se présente sous la forme d'une poudre soluble dans l’eau. Il peut
+être utilisé, à la fois comme colorant ou comme médicament. Son action repose sur ses
+propriétés oxydo-réductrices : sa forme oxydée est bleue et sa forme réduite est incolore.
+Certaines propriétés du bleu de méthylène sont utilisées pour des expériences en biochimie.
+Par exemple, en présence de glucose le bleu de méthylène est réduit et ce dernier se transforme
+en une espèce non colorée.
+D’autres propriétés sont utilisées en médecine. Le bleu de méthylène peut servir à colorer des
+bactéries pour les visualiser au microscope. Quand il entre dans le cytoplasme d'une cellule
+vivante, le bleu de méthylène est réduit car c'est un environnement réducteur : les cellules
+vivantes paraissent incolores. En revanche, des cellules mortes sont colorées en bleu car le
+bleu de méthylène y reste sous sa forme oxydé.
+D’après www.futura-sciences.com
+L’objectif de cet exercice est d’étudier une propriété du bleu de méthylène puis d’effectuer un
+contrôle de qualité, par dosage spectrophotométrique, d’une préparation microscopique
+utilisée dans le domaine de la santé.
+Partie 1 : Propriétés oxydantes du bleu de méthylène
+Un extrait de protocole est donné ci-dessous :
+« Dans un erlenmeyer contenant une solution aqueuse de glucose, on ajoute une solution de
+bleu de méthylène BM+(aq). Le mélange, initialement bleu, devient progressivement incolore ».
+
+Couples oxydant-réducteur mis en jeu :
+BM+(aq) / BMH(aq)
+RCOOH(aq) / RCHO(aq)
+le glucose est noté RCHO(aq).
+la forme oxydée du bleu de méthylène, noté BM +, est la seule espèce colorée en solution
+aqueuse.
+1.1. Donner la définition d’un oxydant.
+1.2. Donner la définition d’une réduction.
+
+1.3.
+
+Écrire les demi-équations électroniques relatives aux couples du bleu de méthylène
+BM+(aq) / BMH(aq) et du glucose RCOOH(aq) / RCHO(aq)
+1.4. En déduire l’équation de la réaction modélisant la transformation décrite dans l’extrait du
+protocole.
+Partie 2 : Dosage d’une solution de bleu de méthylène
+Le bleu de méthylène est un colorant pour préparation microscopique utilisé essentiellement
+pour colorer les noyaux des cellules afin d’apprécier le nombre de cellules mortes.
+Un technicien de laboratoire souhaite déterminer avec précision la concentration du colorant
+dans une solution S dont l'étiquette porte l'indication suivante :
+« Bleu de méthylène 3,2mmol.L-1 »
+On note CS la concentration en bleu de méthylène de la solution S. Cette concentration est
+déterminée par une méthode spectrophotométrie.
+On mesure l’évolution de l'absorbance A d'une solution de bleu de méthylène pour différentes
+longueurs d'onde λ.
+Données :
+- Cercle chromatique
+
+Extrait du tableau périodique des éléments
+
+Spectre d’absorbance du bleu de méthylène
+
+2.1. Commenter l’allure spectre d’absorption du bleu de méthylène et justifier la couleur de la
+solution de ce colorant.
+Pour déterminer la concentration CS en bleu de méthylène de la solution S, on prépare une
+gamme de solutions notées S1 à S4, de volume 25,0 mL chacune, à partir d’une solution mère
+de concentration en masse égale à 5,0 mg.L-1.
+L’absorbance des solutions a été mesurée à l’aide d’un spectrophotomètre préalablement réglé
+sur la valeur λmax du spectre d’absorption. Les résultats sont reproduits dans le tableau cidessous :
+Solution
+Concentration en masse Ci
+(en mg.L-1)
+Absorbance A
+
+S0
+
+S1
+
+S2
+
+S3
+
+S4
+
+5,0
+
+4,0
+
+3,0
+
+2,0
+
+1,0
+
+0,610
+
+0,480
+
+0,374
+
+0,243
+
+0,126
+
+2.2. Ecrire le protocole détaillé de la préparation de la solution S3 à partir de la solution mère S0,
+en précisant la verrerie nécessaire.
+2.3. La loi de Beer Lambert est-elle vérifiée ? Justifier le par le calcul, sans réaliser de graphique.
+2.4. En déduire une relation entre A l’absorbance de la solution et C la concentration en masse
+du bleu de méthylène, en précisant les unités des grandeurs.
+2.5. Une solution SD de bleu de méthylène a été obtenue en diluant 400 fois la solution S. La
+mesure de l’absorbance de la solution SD vaut AD = 0,328.
+2.5.1. Déterminer la concentration CD de la solution SD.
+2.5.2. En considérant une incertitude-type de mesure u(CS) égale à 0,2 mmol.L-1, la valeur CS
+obtenue expérimentalement est-elle en accord avec l’étiquetage de la solution S ? Justifier.

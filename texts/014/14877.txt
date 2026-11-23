@@ -1,0 +1,419 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1380742, "at": "2026-11-23T09:41:05+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A 2
+Quelle est la représentation hexadécimale de l'entier qui s'écrit 0111 1100 en base 2 ?
+7C
+F4
+C7
+Question A 3
+On souhaite coder un entier relatif sur deux octets.
+Quels sont le plus petit et le plus grand entier que l'on peut coder de la sorte ?
+–32 768 et 32 767
+0 et 65 535
+–8 et 7
+–256 et 255
+Question A 4
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+Question A 5
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A 6
+
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+
+Thème B : types construits
+Question B 1
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+Question B 2
+Dans le cadre d'un travail sur la représentation binaire d'un entier positif, on construit un dictionnaire par le
+code suivant :
+correspondance = {}
+for d0 in (0,1):
+# bit de poids faible
+for d1 in (0,1):
+for d2 in (0,1):
+# bit de poids fort
+m = str(d2)+str(d1)+str(d0) # écriture binaire
+n = d0 + 2*d1 + 4*d2
+correspondance[m] = v
+Quel dictionnaire correspondance obtient-on ?
+{ '000': 0, '001': 4, '010': 2, '011': 6, '100': 1, '101': 5, '110': 3, '111': 7 }
+{ 0: '000', 4: '001', 2: '010', 6: '011', 1: '100', 5: '101', 3: '110', 7: '111' }
+{ '000': 0, '001': 1, '010': 2, '011': 3, '100': 4, '101': 5, '110': 6, '111': 7 }
+{ 0: '000', 1: '001', 2: '010', 3:'011', 4: '100', 5: '101', 6: '110', 7: '111' }
+Question B 3
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B 4
+On définit :
+L = [ ["lundi",10,0.87], ["mardi",11,0.82], ["mercredi",12,0.91] ]
+Quel est le type de la variable a définie par a = L[1][2] ?
+nombre entier
+liste
+nombre flottant
+chaîne de caractères
+
+Question B 5
+On définit :
+notes = [('Toto', 20), ('John', 12), ('Johnny', 2), ('Superman', 16)]
+Quelle est l'expression donnant la note de Superman ?
+notes[4][2]
+notes[3][1]
+notes[Superman]
+notes['Superman']
+Question B 6
+On définit le dictionnaire d = {'a': 1, 'b': 2, 'c': 3, 'z': 26}. Quelle expression permet de récupérer
+la valeur de la clé 'z' ?
+d[4]
+d[26]
+d[z]
+d['z']
+
+Thème C : traitement de données en tables
+Question C 1
+Que réalise l'instruction suivante :
+mon_fichier = open("exemple.txt", "r")
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Question C 2
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 3
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 4
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 5
+
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C 6
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D 2
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D 3
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+Question D 4
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D 5
+Parmi les éléments suivants, lequel est un protocole ?
+GET
+POST
+HTTP
+HTML
+
+Question D 6
+Qu'affiche cet extrait de code HTML en supposant que le fichier photo-lycee.jpg se trouve bien dans le dossier
+images ?
+<a href=’photo.html’><img src=’images/photo-lycee.jpg’ alt=’Photo du Lycée’/></a>
+seulement l'image contenue dans le fichier photo-lycee.jpg
+seulement le texte Photo du Lycée
+l'image contenue dans le fichier photo-lycee.jpg avec le texte Photo du Lycée en légende
+la page Web photo.html
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+On réalise une petite station météo.
+Quel composant est un capteur ?
+l'afficheur LCD
+l'écran de l'ordinateur
+la LED
+le thermomètre
+Question E 2
+Lorsque, en ligne de commande, on saisit la commande
+chmod u+rw a.txt
+ceci a pour effet :
+de permettre au propriétaire du fichier de modifier le contenu de ce fichier
+d'interdire au propriétaire de modifier le contenu de ce fichier
+d'interdire à tous les autres utilisateurs de lire le fichier
+d'effacer le fichier
+Question E 3
+Parmi les éléments suivants, lequel n'est pas un capteur ?
+un haut-parleur
+une caméra
+un écran tactile
+un microphone
+Question E 4
+La mémoire RAM :
+ne fonctionne qu'en mode lecture
+ne fonctionne qu'en mode écriture
+conserve les données en cas de coupure de l'alimentation
+perd les données en cas de coupure de l'alimentation
+Question E 5
+
+Parmi les systèmes d’exploitation suivants, lequel est libre ?
+Mac OS
+iOS
+Microsoft Windows
+GNU/Linux
+Question E 6
+Dans un terminal sous Linux, quelle commande permet d'afficher la liste des fichiers du répertoire courant ?
+ls
+cd
+mv
+rm
+
+Thème F : langages et programmation
+Question F 1
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+Question F 2
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur 0
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+Question F 3
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 4
+
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 5
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+Question F 6
+On considère le code incomplet suivant, où la fonction maximum renvoie le plus grand élément d’une liste de
+nombres :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+..............
+..............
+return m
+Que faut-il écrire à la place des lignes pointillées ?
+if m < L[i]:
+L[i] = m
+
+if L[i-1] < L[i]:
+m = L[i]
+
+if L[i] < L[0]:
+L[i],L[0] = L[0],L[i]
+
+if L[i] > m:
+
+m = L[i]
+
+Thème G : algorithmique
+Question G 1
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+Question G 2
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+Question G 3
+On dispose d’un distributeur de boissons qui rend la monnaie uniquement en pièces de 1 centime, 10
+centimes, 50 centimes et 1 euro. On veut que le distributeur rende le moins de pièces possibles pour une
+somme donnée.
+On commence par rendre le plus de pièces possibles de 1 euro (sans dépasser la somme à rendre), puis le plus
+possible de pièces de 50 centimes, etc.
+Par exemple, s’il faut rendre 3 euros et 25 centimes, on doit rendre 3 pièces de 1 euro (il reste alors 25
+centimes à rendre), puis 2 pièces de 10 centimes et enfin 5 pièces de 1 centime.Comment s’appelle le type
+d’algorithme décrit pour rendre la monnaie ?
+Un algorithme de type « diviser pour régner »
+Un algorithme de tri
+Un algorithme de type « glouton »
+Un algorithme probabiliste
+
+Question G 4
+On exécute le script suivant :
+compt = 0
+resultat = 1
+while compt !=7 :
+resultat = resultat * compt
+compt = compt + 1
+Laquelle de ces affirmations est vraie ?
+Le script ne s'arrête pas
+Le script entre 7 fois dans la boucle et à la fin de son exécution, resultat vaut 0
+Le script entre 7 fois dans la boucle et à la fin de son exécution, resultat vaut 720
+Le script entre 6 fois dans la boucle et à la fin de son exécution, resultat vaut 0
+Question G 5
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 6
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k

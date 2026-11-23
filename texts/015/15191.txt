@@ -1,0 +1,277 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1369342, "at": "2026-11-23T09:30:22+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Production de calculatrices
+Sur 8 points
+
+Les deux parties sont indépendantes.
+
+L’entreprise CALCULMAT, spécialisée dans la fabrication de calculatrices, souhaite
+ouvrir une nouvelle chaine de production afin de commercialiser un nouveau produit.
+Partie A
+L’entreprise possède actuellement deux chaines de production, l’une pour des
+calculatrices de niveau collège, l’autre pour des calculatrices de niveau lycée. Il
+arrive que les batteries des calculatrices fabriquées aient un défaut. Dans ce cas, on
+dira que les calculatrices sont défectueuses.
+On prélève 500 calculatrices sur la production actuelle de l’entreprise et on obtient
+les résultats suivants :
+
+300 calculatrices sont de niveau collège ;
+parmi les calculatrices de niveau collège, 6 sont défectueuses ;
+parmi les calculatrices de niveau lycée, 192 ne présentent aucun défaut.
+
+1- Recopier et compléter le tableau croisé des effectifs suivant :
+niveau collège
+sans défaut
+défectueuses
+Total
+
+niveau lycée
+
+Total
+
+2- Une calculatrice est choisie au hasard parmi les 500 calculatrices prélevées.
+On considère les événements suivants :
+
+𝐶 : « la calculatrice prélevée est une calculatrice de niveau collège » ;
+
+𝐷 : « la calculatrice est défectueuse ».
+
+Les résultats de cette question 2- seront donnés sous forme de fractions.
+À l’aide du tableau croisé des effectifs, répondre aux questions suivantes :
+2-a- Calculer la probabilité qu’une calculatrice prise au hasard soit de niveau collège
+et soit défectueuse.
+2-b- Calculer la probabilité qu’une calculatrice prise au hasard soit défectueuse.
+2-c- Sachant que la calculatrice prise au hasard est défectueuse, calculer la
+probabilité que ce soit une calculatrice de niveau lycée.
+3- En 2019, l’usine de production de l’entreprise CALCULMAT a fabriqué au total
+112 000 calculatrices de niveaux collège et lycée. La production a augmenté de 23 %
+entre 2019 et 2020, puis elle a baissé de 5 % entre 2020 et 2021.
+3-a- Calculer le nombre de calculatrices fabriquées en 2020 et puis, en 2021.
+3-b- Est-il vrai que le taux moyen d’évolution de la production de calculatrices entre
+2019 et 2021 est de 18 % ? Justifier la réponse.
+Partie B
+En 2023, pour la première année, la nouvelle chaine de production va fabriquer
+5 000 nouveaux produits. Il est ensuite prévu que la production augmente de
+2 % tous les ans. On admet que la situation peut être modélisée par une suite (𝑎𝑛 )
+dont le terme général 𝑎𝑛 , donne, pour tout entier naturel 𝑛, la quantité de produits
+fabriqués pendant l’année 2023 + 𝑛 arrondie à l’entier. On a ainsi 𝑎0 = 5 000.
+4- Justifier que 𝑎1 = 510.
+5- Montrer que pour tout entier naturel 𝑛, 𝑎𝑛 = 5 000 × 1,02𝑛 .
+6- Selon ce modèle, calculer le nombre de produits qui seront fabriqués en 2030.
+7- Ce modèle est-il réaliste pour estimer l’année où la production dépassera pour la
+première fois 9 000 produits ? Justifier la réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+Sur 12 points
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+
+6- En 1983, la définition du mètre a été redéfinie en se basant sur la vitesse de la
+lumière dans le vide. Cette nouvelle définition a été établie lors de la 17e
+Conférence générale des poids et mesures (CGPM), et elle stipule que le mètre
+est la distance parcourue par la lumière dans le vide en 1/299 792 458ème de
+seconde. En déduire la vitesse de propagation de la lumière dans le vide.
+7- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres et
+en toises.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+L’oreille et l’audition
+Sur 12 points
+L’audition joue un rôle primordial dans les interactions sociales. L’oreille est l’organe
+sensoriel de l’audition, dont on étudiera tout d’abord le fonctionnement avant
+d’envisager la prévention d’un traumatisme acoustique.
+Partie 1 – L’oreille et son fonctionnement
+Document 1 – L’oreille humaine
+
+Figure A – Schéma anatomique de l’oreille humaine et détail de l’organisation de la
+cochée déduite d’une coupe transversale effectuée au niveau de la double flèche noire
+Sources : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition
+et https://fr.wikipedia.org/wiki/Organe_de_Corti
+
+1- À l’aide de vos connaissances et du document 1, expliquer par un texte comment
+les différentes parties de l’oreille interviennent depuis la réception de la vibration
+sonore jusqu’à la naissance d’un message nerveux auditif.
+
+Partie 2 – La prévention d’un traumatisme acoustique
+Pour prévenir le risque lié aux sur-stimulations sonores, il existe des protections
+auditives de nature différente selon leur type d’utilisation.
+On peut distinguer, par exemple, deux catégories de bouchons d'oreilles qui
+permettent de s’isoler du bruit :
+–
+
+les bouchons en mousse, généralement jetables ;
+
+–
+
+les bouchons moulés en silicone, fabriqués sur mesure et nécessitant la prise
+d'empreinte du conduit auditif. Ils sont lavables à l'eau et se conservent
+plusieurs années.
+
+L’atténuation des sons par un bouchon est égale à la diminution du niveau d’intensité
+sonore perçu par l’oreille en présence du bouchon. Un fabricant fournit les courbes
+d'atténuation en fonction de la fréquence du son pour les deux types de bouchons
+(document 2).
+Document 2 – Courbes d’atténuation du son correspondant aux deux types
+de bouchons
+
+Figure B – Niveau sonore (en dBA) dû à un bouchon en fonction de la fréquence de
+l’onde (Hz) qui le traverse
+Source : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition.
+
+Un musicien qui pratique régulièrement un instrument tel que la batterie ou la guitare
+électrique a besoin d’une atténuation du niveau sonore. Cependant, cette atténuation
+ne doit pas dépasser 25 dB afin qu’il entende suffisamment.
+2- À l’aide du document 2, indiquer pour chaque bouchon si cette condition est
+respectée. Justifier.
+3- En utilisant le document 2, indiquer si un bouchon en mousse atténue davantage
+les sons aigus ou les sons graves. Justifier en s’appuyant sur des valeurs.
+Afin de comparer la qualité acoustique des deux types de bouchons, on a enregistré
+le son émis par une guitare, ainsi que les sons obtenus après passage à travers les
+deux types de bouchons. Le document 3 présente les résultats obtenus.
+
+Document 3 – Spectres du son émis par une guitare et des sons restitués
+après passage à travers les deux types de bouchons
+L’amplitude relative est le rapport entre
+une amplitude et une amplitude de
+référence, ici celle de la fréquence
+fondamentale.
+
+Figure B – Spectre correspondant au mi4
+joué par la guitare
+
+Figure C – Spectre du mi4 restitué après passage par un bouchon en mousse
+(gauche) ou moulé en silicone (droite)
+Source : Auteur
+
+4- À partir de la figure 1 du document 3, indiquer, en justifiant, si le son émis par la
+guitare est un son pur ou un son composé.
+5- À partir du document 3, indiquer en justifiant le raisonnement, lequel des deux
+types de bouchons, en mousse ou en silicone, modifie le moins le timbre du son
+perçu.
+Une exposition prolongée à un niveau d’intensité sonore de 85 dB est nocive pour
+l'oreille humaine. Durant un concert de rock, un guitariste est situé à 10,0 mètres d’une
+enceinte délivrant une puissance sonore de 10,0 watts.
+Par souci de simplification, on suppose que l’onde sonore produite par l’enceinte se
+propage de manière équivalente dans toutes les directions autour d’elle. La puissance
+sonore est alors répartie sur des surfaces de forme sphérique.
+6- À l’aide du document 4 page suivante, calculer l’intensité sonore à l’endroit où se
+trouve le guitariste.
+Donnée :
+Surface 𝑆 d’une sphère de rayon 𝑑, 𝑆 = 4 × 𝜋 × 𝑑2 .
+
+7- À l’aide du document 4, montrer que le niveau sonore reçu par ce guitariste est
+proche de 100 dB.
+Document 4 – Puissance, intensité et niveau sonore
+L’intensité sonore 𝐼 est la puissance 𝑃 de la vibration sonore reçue par unité de
+surface 𝑆 :
+
+𝐼=
+
+𝑃
+𝑆
+
+Avec : 𝑃 en watt (W) ; 𝑆 en m2 ; 𝐼 en W. m−2
+
+Pour une intensité sonore 𝐼 donnée, le niveau sonore 𝐿 exprimé en décibels (dB)
+est déterminé par la formule :
+𝐼
+
+𝐿 = 10 × log(𝐼 )
+
+Avec : 𝐿 en décibels (dB) ; 𝐼 en W. m−2
+
+𝐼0 est l’intensité correspondant au seuil d’audibilité : 𝐼0 = 10−12 W. m−2.
+
+Ce guitariste désire préserver son audition tout en préservant une bonne qualité
+sonore.
+8- À partir de l’étude des documents 2 et 3, indiquer quel type de bouchons choisir
+et argumenter ce choix.

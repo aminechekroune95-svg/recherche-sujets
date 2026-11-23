@@ -1,0 +1,547 @@
+{"pages": 20, "method": "pdftotext", "bytes": 2712111, "at": "2026-11-23T09:27:56+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Intérêts composés
+Sur 4 points
+Marie place le 1er janvier 2023 un capital initial de 2 700 € à un taux annuel de 3 %, à
+intérêts composés.
+On rappelle qu’un capital produit des intérêts composés si, à la fin de chaque année,
+les intérêts générés sont ajoutés au capital pour produire de nouveaux intérêts.
+On modélise cette situation par une suite (𝐶! ) où, pour tout entier naturel 𝑛, 𝐶!
+désigne le capital, exprimé en euros, de Marie après 𝑛 années de placement. Ainsi,
+𝐶" = 2 700.
+On admet que (𝐶! ) est une suite géométrique.
+1- Calculer le capital de Marie après une année de placement.
+2- Montrer que la suite (𝐶! ) est une suite géométrique. Déterminer sa raison.
+3- Exprimer, pour tout entier naturel 𝑛, 𝐶! en fonction de 𝑛.
+4- Marie souhaite utiliser ce capital pour s’acheter une moto qui coûte 3 000 € en
+2028. Aura-t-elle un capital suffisant ?
+5- Marie décide finalement de ne pas acheter une moto. Au bout de combien
+d’années le capital de Marie aura-t-il doublé ? Justifier la réponse.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La végétalisation des milieux urbains : un enjeu climatique
+L’été 2022 a été classé comme l’un des plus chauds jamais enregistrés par les
+services météorologiques. Afin de lutter contre l’îlot de chaleur urbain, les
+municipalités mettent progressivement en place des projets de végétalisation et de
+suppression du bitume. À plus grande échelle, ces projets sont aussi envisagés pour
+lutter contre le réchauffement climatique.
+Partie 1 – La végétalisation un enjeu pour le climat
+Document 1 – Albédo de différentes surfaces terrestres
+On appelle « albédo » le rapport entre la puissance lumineuse réfléchie par une
+surface et la puissance lumineuse incidente qu’elle reçoit.
+L’albédo est donc une grandeur sans dimension qui varie entre 0 (surface sombre
+totalement absorbante) et 1 (surface claire totalement réfléchissante). Par
+exemple, pour une surface ayant un albédo d’une valeur de 0,20, cela correspond
+à 20 % de puissance lumineuse réfléchie par rapport à la totalité de la puissance
+lumineuse reçue.
+Nature de la surface
+Albédo α
+
+Béton
+
+Pelouse
+
+0,17-0,27 0,25-0,30
+Source : document de l’auteur
+
+1- Réaliser un schéma légendé et titré représentant les flux énergétiques pour une
+surface ayant un albédo d’une valeur 0,30, c’est-à-dire la valeur de l’albédo
+terrestre moyen.
+2- Grâce aux informations des documents 1 précédent et du document 2 suivant,
+justifiez l’intérêt de la végétalisation pour réduire les ilots de chaleur urbains.
+
+Document 2 – Évolution de la température de surfaces
+Le graphique ci-dessous montre l’évolution de la température d’une surface au
+cours du temps en fonction de son albédo
+
+Source : d’après https://temperature.home.blog
+
+Le modèle du corps noir est un modèle permettant de décrire l’émission de
+rayonnement électromagnétique d’un objet en fonction de sa température. Dans ce
+modèle, on établit que :
+a- la puissance par unité de surface émise par le corps noir dépend et de sa
+température suivant la loi de Stefan-Boltzmann : P = σ×T4
+P : la puissance par unité de surface émise par le corps noir en watts
+T : la température du corps noir en kelvins
+σ : la constante de Stefan-Boltzmann avec σ =5,67×10-8 W·m-2·K-4
+b- la longueur d’onde du maximum d’émission dépend de la température du corps
+noir suivant la loi de Wien :
+λmax × T = 2,898.10-3 m·K
+
+La longueur d’onde du maximum d’émission, λmax, est exprimée en mètre.
+
+T(K) = θ(°C) + 273,15.
+
+Document 3 – Photographie de la façade d’un immeuble et imagerie thermique
+
+Photographie
+
+Image thermique
+
+Les longueurs d’onde d’émission maximale mesurées sont de :
+9559 nm sur la zone 2 (au point A) et 9852 nm sur la zone 1 (au point B).
+Source : d’après https://www.20minutes.fr/planete/4030218-20230403-climatologie-urbainevient-pouvoir-rafraichissant-arbres-ville
+
+3- En vous appuyant sur les propriétés du corps noir énoncées précédemment,
+déterminer la valeur de la température du corps noir dont le maximum d’émission
+serait à la longueur d’onde mesurée par la zone A (document 3). En déduire la
+puissance par unité de surface qu'émettrait ce corps noir. Réaliser les mêmes
+calculs pour la zone B. Expliciter les calculs effectués puis reproduire et
+compléter sur la copie le tableau ci-dessous :
+
+Les zones de la façade
+
+Modélisation par un corps noir
+Puissance par unité de
+Température (en K)
+surface émise (en W·m-2)
+
+Zone A
+Zone B
+Un ilot de chaleur urbain est caractérisé par une température de l’air qui reste élevée
+même la nuit, c’est-à-dire même lorsqu’elle ne reçoit plus d’énergie lumineuse en
+provenance du Soleil.
+
+4- En vous appuyant sur les résultats obtenus à la question précédente, expliquer à
+l’aide d’un paragraphe argumenté l’intérêt de planter un arbre à proximité d’une
+façade d’immeuble pour lutter contre l’effet d’ilot de chaleur urbain la nuit.
+
+Partie 2 – La végétalisation, un enjeu plus global sur le climat
+Document 4 – Effet d’un arbre sur son environnement : représentation
+schématique du mécanisme de la photosynthèse
+
+Source : d’après http ://svt.ac-dijon.fr/schemassvt/
+
+La photosynthèse permet à une plante chlorophyllienne de produire sa propre
+matière organique.
+La photosynthèse est associée à un phénomène de transpiration : une partie de l’eau
+liquide absorbée par la plante est perdue à l’état gazeux majoritairement au niveau
+des feuilles. Le changement d’état de l’eau liquide en eau à l’état gazeux s’appelle la
+vaporisation.
+
+5- Identifier en justifiant lequel des deux systèmes, l’eau de la plante ou bien le
+milieu extérieur, perd de l’énergie lors de la transpiration.
+6- Pour la proposition suivante, indiquer la bonne réponse et justifier ce choix.
+La transpiration végétale :
+
+diminue la température de l’air ambiant.
+
+augmente la température de l’air ambiant.
+
+n’a aucun effet sur la température de l’air ambiant.
+
+En 2021, les émissions de CO2 pour le transport aérien en France se sont élevées à
+12,4 millions de tonnes (source du Ministère de la transition écologique).
+Des études scientifiques ont été menées afin de déterminer les compensations de
+CO2 par les arbres. Le taux annuel de compensation de CO2 est estimé à environ
+26,6 kg de CO2/arbre. Selon l’IGN (institut national de l’information géographique et
+forestière), la forêt française héberge en 2021 environ 11 milliards d’arbres
+7- Calculer le nombre d’arbres nécessaires pour compenser ces émissions de CO2
+liées au transport aérien en France et comparer avec les données de l’IGN.
+8- À l’aide de l’ensemble des informations, discuter de l’intérêt de la végétalisation
+dans la lutte contre le réchauffement climatique mondial
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Le protoxyde d’azote et le réchauffement climatique
+À l’aube de nouvelles mesures prises pour la circulation des véhicules dans plusieurs
+grandes villes françaises, visant à limiter les émissions de gaz à effet de serre, nous
+allons nous interroger sur l’impact de différents gaz sur le réchauffement climatique.
+Le dioxyde de carbone et le méthane ont toujours été considérés comme les
+principaux responsables mais l’impact d’un autre gaz, le protoxyde d’azote, n’a-t-il
+pas été sous-estimé ?
+« Troisième gaz à effet de serre au monde, le N2O (protoxyde d'azote) joue un rôle
+important dans le réchauffement du climat, à quantités égales, il contribue environ
+300 fois plus au réchauffement de l’atmosphère par effet de serre que le dioxyde de
+carbone. » (Météo France, société scientifique nationale, 2020). À l’échelle mondiale,
+une part de sa production est d’origine naturelle (majoritairement issue des sols et
+dans une moindre mesure de l’océan) et l’autre part est d’origine anthropique.
+On cherche à étudier l’implication du protoxyde d’azote N2O comme gaz à effet de
+serre et à caractériser la part des activités humaines dans ces émissions.
+Partie 1 – Implication du protoxyde d’azote comme gaz à effet de serre
+D’après le site de Météo France, cité en introduction, le protoxyde d’azote est le
+troisième gaz à effet de serre.
+1- Citer les deux premiers gaz à effet de serre.
+2- Utiliser vos connaissances pour choisir la (ou les) proposition(s) correcte(s) dans
+chacune des séries a), b) et c). Indiquer sur votre copie le (ou les) numéro(s)
+correspondant(s).
+a) Le sol terrestre émet un maximum de rayonnement dans le domaine du
+spectre :
+1. visible ;
+2. infrarouge ;
+3. ultraviolet.
+
+b) Un gaz à effet de serre se caractérise par le fait qu’il :
+1. absorbe une partie du rayonnement visible ;
+2. réfléchit une partie du rayonnement visible ;
+3. absorbe une partie du rayonnement infrarouge ;
+4. réfléchit une partie du rayonnement infrarouge.
+c) Depuis un siècle, l’ordre de grandeur d’augmentation de la température
+moyenne du globe est de :
+1. 0,1 °C ;
+2. 1 °C ;
+3. 10 °C.
+Document 1 – Spectre d’absorption du protoxyde d’azote (N2O) dans le
+domaine des infrarouges
+
+Longueur d’onde (en µm)
+Source : d’après la base de données du National Institute of Standard and Technologie
+(USA)
+
+Le sol émet principalement un rayonnement sur une plage de longueurs d’onde
+comprises entre 7 et 15 µm.
+3- Montrer que le protoxyde d’azote est un gaz à effet de serre en vous appuyant
+sur le document 1.
+
+Document 2 – Impact des différents gaz sur le forçage radiatif et
+conséquences sur le réchauffement climatique
+L’effet des différents gaz sur le réchauffement climatique dépend :
+
+de leur concentration dans l’atmosphère ;
+
+de leur « pouvoir de réchauffement global » (PRG), qui correspond à la
+puissance radiative qu’une masse d’un kilogramme de gaz à effet de serre
+renvoie vers le sol sur une durée de 100 ans. On attribue la valeur 1 au
+PRG du dioxyde de carbone.
+
+Concentration
+atmosphérique
+en 2022
+(en 2005 entre
+parenthèses)
+PRG
+(cumulé sur 100
+ans)
+Origine des
+émissions
+anthropiques
+
+CO2
+Dioxyde de
+carbone
+
+CH4
+Méthane
+
+N2O
+Protoxyde
+d’azote
+
+HFC
+Hydrofluorocarbures
+
+PFC
+Perfluorocarbures
+
+412 ppm
+
+1 912 ppb
+
+336 ppb
+
+255 ppt
+
+92,8 ppt
+
+(379 ppm)
+
+(1 774 ppb)
+
+(319 ppb)
+
+(> 49 ppt)
+
+(> 4,1 ppt)
+
+[1,4 ;14 800]
+selon les gaz
+
+[6 630 ; 11 100]
+selon les gaz
+
+Combustion
+d’énergie
+fossile,
+industriels et
+déforestation
+tropicale
+
+Décharges,
+agriculture,
+élevage et
+industriels
+
+Agriculture,
+industriels,
+utilisation
+d’engrais
+
+Sprays, réfrigération, procédés industriels
+
+Note : ppm = partie par million ; ppb = partie par milliard ; ppt = partie par millier de milliard.
+
+Sources :
+GIEC (Groupe d’experts intergouvernemental avec comité scientifique de relecture) 2014,
+AGAGE (organisme sous tutelle de la NASA, USA) 2021,
+NOAA (National Oceanic and Atmospheric Administration, Agence gouvernementale
+américaine, USA) 2023
+
+Dans la citation de l’introduction, Météo France indiquait que le protoxyde d’azote
+contribue environ 300 fois plus au réchauffement de l’atmosphère par effet de serre
+que le dioxyde de carbone.
+4- Indiquer si le document 2 permet de confirmer cette affirmation.
+Météo France est l’agence nationale française de météorologie, et participe à ce titre
+à la recherche au sein de laboratoires mixtes avec des universités et avec le CNRS.
+
+5- Expliquer avec deux arguments différents pourquoi Météo France et les
+différentes sources citées dans le document 2 sont des sources fiables pour
+répondre à un questionnement sur le climat.
+Partie 2 – Évolution des concentrations en protoxyde d’azote et origines
+Document 3 – Émissions mondiales de protoxyde d’azote en 2005
+En 2005, la production mondiale de protoxyde d’azote, toutes origines confondues
+(anthropiques et naturelles), était estimée à 14,5 millions de tonnes.
+Le graphique ci-dessous présente les différentes contributions anthropiques (dues
+à l’activité humaine) aux émissions totales de N2O en 2005 :
+
+anthropiques
+
+avec 1 TgN = 1 million de tonnes d’azote
+Source : d’après les comptes rendus de l'Académie nationale des sciences américaine
+[www.pnas.org]
+
+Les émissions de N2O d’origine agricole proviennent essentiellement de la
+transformation des produits azotés tels que les engrais dans les sols, les
+déjections des animaux d’élevage (lisier, fumier) ou les résidus de récolte.
+
+6- Utiliser les informations du document 3 pour calculer le pourcentage des
+émissions de N2O liées aux activités agricoles par rapport aux émissions totales
+anthropiques pour 2005.
+Les émissions de N₂O d'origine anthropique ont augmenté de 30 % au cours des
+trois dernières décennies. Les croissances les plus importantes se produisent dans
+les économies émergentes, en particulier du Brésil, de la Chine et de l'Inde.
+Au cours des dernières décennies, la production végétale et le nombre de têtes de
+bétail ont également augmenté rapidement (Source CEA).
+
+Production mondiale de viande
+(en millions de tonnes
+
+Document 4 – Évolution de la production mondiale de viande de 1961 à 2009
+
+Année
+
+Source : FAOSTAT
+
+La croissance des émissions de protoxyde d’azote et celle de la production de
+viande sont donc concomitantes, c’est-à-dire qu’elles se sont produites en même
+temps.
+7- Justifier s’il est rigoureux scientifiquement de conclure qu’il existe une relation
+entre deux phénomènes à partir de leur concomitance. Vous pourrez vous
+appuyer sur les caractéristiques de la démarche permettant d’établir un fait
+scientifique.
+8- Développer deux arguments permettant ici d’établir un potentiel lien de causalité
+entre l’évolution montrée dans le document 4 et l’augmentation de la production
+de protoxyde d’azote anthropique.
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+La météorite Allende
+La météorite Allende est tombée le 8 février 1969, au nord du Mexique, près du
+village de Pueblito d'Allende dans la province de Chihuahua. C’est une météorite
+primitive dont les matériaux constitutifs se sont formés peu de temps après la
+formation du système solaire.
+À l’aide de la datation de certains éléments constitutifs de la météorite Allende, on
+cherche à estimer l’âge de la formation du système solaire.
+Document 1 - Les étapes de la formation du système solaire
+La formation du système solaire suit un scénario très largement accepté par la
+communauté scientifique :
+
+tout commence par la contraction d'un nuage constitué de poussières et de
+gaz hydrogène et hélium, appelé nébuleuse protosolaire. Cette contraction
+provoque une élévation de température engendrant des transformations
+chimiques de cette matière originelle dans le disque protoplanétaire
+(aujourd’hui, le plan de l'écliptique) ;
+
+les grains de matière ainsi obtenus, se réunissent pour former des éléments
+plus lourds puis des planétésimaux, de petits corps solides qui grossissent
+par accrétion ;
+
+les collisions des planétésimaux forment des planètes ;
+
+enfin, les planètes formées se différencient : les matériaux constitutifs des
+planètes se séparent en couches et enveloppes chimiques de compositions
+différentes (étape de différenciation).
+
+Pour la Terre, la majeure partie de la différenciation s'est produite, il y a 4,45 Ga
+environ (Ga = giga-années (milliards d’années) ; formation du noyau et formation
+de l'atmosphère entre 4,46 Ga et 4,43 Ga).
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+1- À l’aide du document 1, présenter sous la forme d’une frise chronologique
+simplifiée (sans date) les principales étapes de la formation du système solaire.
+
+Document 2 - Principe de la datation à l’aide de la méthode Plomb-Plomb
+Pour dater des inclusions réfractaires CAI, nous allons utiliser la méthode PlombPlomb. Cette méthode de datation isotopique repose sur la détermination de la
+composition en deux isotopes du plomb, le 206Pb et le 207Pb provenant
+respectivement de la désintégration naturelle de deux isotopes radioactifs de
+l'uranium, 235U et 238U.
+$%&
+$"'
+" (
+*
+#$𝑈 → &$𝑃𝑏 + 6 ()𝑒 + 8 $𝐻𝑒
+$%+
+$",
+" (
+*
+#$U → &$Pb + 4 ()e + 7 $He
+
+On mesure alors les rapports du nombre d’atomes entre ces isotopes et l’isotope
+Pb, autre isotope stable du Plomb, dans différentes inclusions réfractaires CAI
+prélevées dans la météorite. Ces rapports sont appelés rapports isotopiques et
+sont notés (206Pb/204Pb) et (207Pb/204Pb). Lorsque ces échantillons se sont bien
+formés à la même époque, à partir d'un même matériau source, la représentation
+graphique de (207Pb/204Pb) en fonction de (206Pb/204Pb) est une droite appelée
+droite isochrone.
+Il est possible de montrer que la pente (ou coefficient directeur) de cette droite
+permet de déterminer l’âge commun T des échantillons.
+Sources : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+2- D'après le document 2, identifier les deux isotopes radioactifs de l'uranium
+utilisés dans la méthode Plomb-Plomb.
+3- Expliquer comment se sont formés les isotopes 207Pb et 206Pb mis en jeu dans
+cette méthode.
+4- À l’aide des documents 2 et 3 (page suivante), expliquer en quoi les inclusions
+CAI permettent de dater la météorite Allende.
+
+Document 3 - Les matériaux constitutifs de la météorite Allende
+La météorite Allende est une météorite non différenciée de type chondrite. Les
+chondrites sont constituées de chondres, un mélange de silicates et de métal, et
+des inclusions CAI (Calcium Aluminium Inclusions), le tout englobé dans une
+matrice qui "cimente" l'ensemble. Les inclusions réfractaires CAI sont riches en
+uranium. Formées à très hautes températures, elles sont considérées comme les
+plus vieux objets du système solaire.
+Observation à l’œil nu
+
+Observation au microscope polarisant
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+Document 4 - Isochrone des inclusions réfractaires CAI
+
+Document 5 - Correspondance entre la pente de la droite isochrone et l’âge
+(en milliards d’années ou Ga) de l’échantillon obtenue après
+calibrage numérique
+
+Source : http://acces.ens-lyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-de-la-formation-du-systeme-solaire
+
+5- L’équation de la droite isochrone présentée dans le document 4 est
+𝑦 = 0,6245𝑥 + 4,3495 .
+Utiliser le document 5 pour en déduire l'âge de la météorite d'Allende.
+6- Expliquer en quoi le résultat précédent permet d’estimer l’âge du système
+solaire.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Empreinte carbone d’un(e) français(e)
+L’empreinte carbone d’une activité ou d’une personne est la masse de gaz à effet de
+serre produit directement ou indirectement par sa consommation d’énergie et/ou de
+matières premières.
+Pour quantifier l’empreinte carbone d’une personne ou d’une activité on exprime la
+masse de dioxyde de carbone (CO2) émise par celle-ci sur une année. L’empreinte
+carbone moyenne s’exprime en « kg CO2 équivalent par an et par habitant »
+Dans cet exercice, on s’intéressera plus spécifiquement aux secteurs de
+l’alimentation et du transport.
+1- Expliquer en quelques phrases l’impact principal des émissions anthropiques de
+dioxyde de carbone sur l’environnement. Pour cela, vous pourrez notamment
+mobiliser vos connaissances concernant l’effet de serre.
+Document 1 – Empreinte carbone moyenne d’un(e) français(e) en 2021
+
+Source : site Carbone4, https://www.carbone4.com/analyse-myco2-empreinte-carbone-moyenne-2021
+
+2- Donner l’empreinte carbone totale du secteur alimentation en kg CO2 équivalent
+par an et par personne. Calculer, en pourcentage, la part du secteur alimentation
+dans l’empreinte carbone totale d’un(e) français(e).
+Document 2 – Transcription d’un extrait de l’émission « Vrai ou Fake ? » sur France Info
+Selon l'ADEME (Agence de l'Environnement et de la Maîtrise de l'Énergie), une tonne de
+tomates cultivées sous une serre chauffée émet 2 360 kg de CO2. Une tonne de tomates
+cultivées sous un simple abri non chauffé émet 160 kg de CO2, soit 2 200 kg de CO2 en
+moins. Et 2 200 kg de CO2, c'est en effet ce qu'émettrait un camion de transport reliant l'Afrique
+du Sud à la France en passant par l'Asie centrale, soit environ 26 000 km.
+Théoriquement, une tonne de tomates cultivées sous une serre chauffée en France émet donc
+autant de CO2 qu'une tonne de tomates de saison transportées en camion depuis l'Afrique du
+Sud.
+Source : d’après https://www.francetvinfo.fr/vrai-ou-fake/vrai-ou-fake-le-bilan-carbone-d-une-tomatesous-serre-francaise-similaire-a-celui-d-une-tomate-importee-d-afrique-du-sud_5608193.html
+
+Document 3 – Empreinte carbone associée à la production de 100 g d’aliments source
+de protéines
+
+Source : site « Bonpote », https://bonpote.com/infographies
+
+3- D’après les documents 2 et 3, proposer deux pistes concrètes qui peuvent être
+mises en place à l’échelle individuelle pour réduire l’empreinte carbone dans le
+secteur de l’alimentation. Préciser une limite pour chacune de ces propositions.
+Document 4 – À propos des véhicules électriques
+Sur l'ensemble de sa durée de vie, une voiture électrique roulant en France, a un impact
+carbone 2 à 3 fois inférieur à celui d'un modèle similaire thermique, à condition que sa batterie
+soit de capacité raisonnable (< 60 kWh).
+Au cours de son utilisation, l’impact carbone d’un véhicule électrique augmente quasiment
+proportionnellement à son poids, lui-même fortement impacté par la capacité de stockage de
+sa batterie, qui dimensionne l’autonomie du véhicule selon sa consommation.
+L’augmentation de la capacité et de la performance des usines de recyclage des batteries en
+Europe est un enjeu clé pour la prochaine décennie. En effet, le coût écologique de la
+fabrication des batteries est très élevé, notamment parce qu’elles nécessitent l’extraction de
+métaux tels que le lithium, le cobalt, le nickel ou le graphite.
+Source : d’après avis ADEME publié sur le site Éduscol
+
+Document 5 – Émissions de carbone cumulées pour différents types de véhicules
+
+Source : d’après avis ADEME publié sur le site Éduscol
+
+4- Pour un conducteur qui parcourt 15 000 km par an, déterminer le nombre
+d’années au bout duquel l’utilisation d’un véhicule compact électrique devient
+plus avantageux en termes d’émissions de CO2. Détailler les différentes étapes
+de votre raisonnement.
+5- En vous appuyant sur les documents 4 et 5, expliquer pourquoi il est important
+de considérer l'ensemble du cycle de vie d'un véhicule pour évaluer son impact
+environnemental. Votre réponse n’excédera pas une demi page.

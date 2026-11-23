@@ -1,0 +1,455 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1367729, "at": "2026-11-23T09:47:24+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est la représentation hexadécimale de l'entier dont la représentation binaire s'écrit :
+0100 1001 1101 0011 ?
+18899
+3D94
+49D3
+93A3
+Question A.2
+Olivier visite son site préféré pour relire le programme de NSI.
+Il devrait lire le texte ci-dessous :
+L’enseignement de spécialité de numérique et sciences informatiques du cycle terminal de la voie
+générale vise l’appropriation des fondements de l’informatique pour préparer les élèves à une
+poursuite d’études dans l’enseignement supérieur, en les formant à la pratique d’une démarche
+scientifique et en développant leur appétence pour des activités de recherche.
+Le paramétrage de son navigateur lui donne l’affichage ci-dessous :
+Lâ€™enseignement de spÃ©cialitÃ© de numÃ©rique et sciences informatiques du cycle terminal
+de la voie gÃ©nÃ©rale vise lâ€™appropriation des fondements de lâ€™informatique pour
+prÃ©parer les Ã©lÃ¨ves Ã une poursuite dâ€™Ã©tudes dans lâ€™enseignement supÃ©rieur, en
+les formant Ã la pratique dâ€™une dÃ©marche scientifique et en dÃ©veloppant leur appÃ©tence
+pour des activitÃ©s de recherche.
+Quel type d’encodage Olivier doit-il choisir dans les paramètres de son navigateur pour afficher correctement le
+texte ?
+ANSI
+LATIN-1
+UTF-8
+ASCII
+Question A.3
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+
+Question A.4
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+c = True
+if a > b+10:
+c = True
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A.5
+Quel est le nombre minimum de bits qui permet de représenter les 26 lettres majuscules de l'alphabet ?
+Question A.6
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+
+Thème B : types construits
+Question B.1
+On exécute le code suivant :
+t = [1,2,3,4,5,6,7,8,9]
+v = [c for c in t if c%3 == 0]
+Quelle est la valeur de la variable v à la fin de cette exécution ?
+
+[1,4,7]
+[3,6,9]
+[1,2,3,4,5,6,7,8,9]
+Question B.2
+On définit :
+notes = [('Toto', 20), ('John', 12), ('Johnny', 2), ('Superman', 16)]
+Quelle est l'expression donnant la note de Superman ?
+notes[4][2]
+notes[3][1]
+notes[Superman]
+notes['Superman']
+Question B.3
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036 }
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+Question B.4
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+
+Question B.5
+Quel est le type de l'expression f(4) si la fonction f est définie par :
+def f(x):
+return (x, x**2)
+un entier
+un flottant
+une liste
+un tuple
+Question B.6
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+
+Thème C : traitement de données en tables
+Question C.1
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C.2
+On écrit la fonction suivante :
+def extreme(t, test):
+m = t[0]
+for x in t:
+if test(x,m):
+m=x
+return m
+On dispose d'une liste L dont les éléments sont des couples (nom, note).
+Par exemple :
+L = [ ('Alice', 17), ('Barnabé', 18),
+('Casimir', 17), ('Doriane', 20),
+('Emilien', 15), ('Fabienne', 16) ]
+
+On aimerait que l'appel de fonction extreme(L, test) renvoie un couple présentant la note maximale.
+Quelle définition de la fonction test peut-on utiliser ?
+return a[0] < b[0]
+
+return a[0] > b[0]
+
+return a[1] < b[1]
+
+return a[1] > b[1]
+
+Question C.3
+On considère la table suivants :
+t=[
+
+{'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+
+Quelle expression permet d'obtenir la quantié de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C.4
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C.5
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C.6
+On déifnit la fonction suivante qui prend en argument un tableau non vide d'entiers.
+
+def f(T):
+s=0
+for k in T:
+if k == 8:
+s = s+1
+if s > 1:
+return True
+else:
+return False
+Dans quel cas cette fonction renvoie-t-elle la valeur True ?
+dans le cas où 8 est présent au moins une fois dans le tableau T
+dans le cas où 8 est présent au moins deux fois dans le tableau T
+dans le cas où 8 est présent exactement une fois dans le tableau T
+dans le cas où 8 est présent exactement deux fois dans le tableau T
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D.2
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D.3
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D.4
+Voici un extrait d'un document HTML.
+<body>
+.........
+Clic !
+</button>
+<h1><span id="valeur">2000</span></h1>
+</body>
+<html>
+Quelle doit être la ligne qui remplace les pointillés pour obtenir un bouton dont l'appui déclenche la fonction
+javascript actionBouton() ?
+<button click = "actionBouton();">
+<button onclick = "actionBouton();">
+<button onclick => "actionBouton();"
+<button> onclick = "actionBouton();"
+
+Question D.5
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D.6
+Le site internet d'un quotidien d'information permet aux visiteurs de laisser des commentaires textuels.
+Ces commentaires doivent être visibles par les autres visiteurs.
+Laquelle des affirmations suivantes est correcte ?
+Il suffit que la page HTML contienne des champs de la forme <textarea >
+Il suffit que la page HTML contienne des champs de la forme <textarea > et d'utiliser JavaScript pour
+enregistrer les commentaires
+Il faut un programme en PHP ou un script Python sur le serveur pour traiter les données
+Non, ce n'est pas possible avec la technologie actuelle
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Parmi les adresses suivantes, laquelle est une adresse IP non valide ?
+1.2.3.4
+192.168.23.242
+127.3.87.256
+10.1.64.42
+Question E.2
+Sous Unix, que fait la commande suivante :
+ls –a /home/pi >> toto.txt
+elle liste uniquement les répertoires cachés du répertoire /home/pi
+elle liste tous les fichiers du répertoire /home/pi et enregistre le résultat dans un fichier toto.txt
+elle liste tous les fichiers des répertoires de /home/pi et de toto.txt
+elle liste tous les fichiers du répertoire courant et enregistre le résultat dans un fichier /home/pi/toto.txt
+Question E.3
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+
+Question E.4
+Parmi ces propositions, laquelle désigne un système d'exploitation libre ?
+LibreOffice
+Windows
+MacOS
+GNU-Linux
+Question E.5
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E.6
+Quel est l'élément qui ne fait pas partie de l'architecture du modèle de Von Neumann ?
+l'unité d'entrée
+l'unité arithmétique et logique
+la mémoire centrale
+l'unité d'affichage
+
+Thème F : langages et programmation
+Question F.1
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+
+Question F.2
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p=x
+for i in range (y - 1):
+p=p*x
+return p
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F.3
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n=1
+for i in range(4):
+n=n+2
+Question F.4
+On définit la fonction suivante :
+def rey(n):
+i=0
+while i <= n:
+i = 2*i
+Quelle valeur renvoie l'appel rey(100) ?
+Question F.5
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for in in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F.6
+On souhaite échanger les contenus de deux variables entières a et b sans utiliser de variable auxiliaire en écrivant
+le code suivant :
+a=a-b
+b=a+b
+a = ......
+Que peut-on écrire à la place des pointillés pour réaliser cet échange ?
+a-b
+a+b
+b-a
+-a-b
+
+Thème G : algorithmique
+Question G.1
+Au cours d’un tri de tableau, on observe les étapes suivantes :
+
+Quel est l’algorithme de tri qui a été utilisé ?
+tri par sélection
+tri à bulles
+tri par insertion
+tri rapide
+
+Question G.2
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+return None
+Quel est le coût de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G.3
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] + 1 != t[i+1]:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G.4
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p=1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+
+Question G.5
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i=0
+for j in phrase:
+if j == lettre:
+i = i+1
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G.6
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:

@@ -1,0 +1,436 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1232710, "at": "2026-11-23T09:39:46+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Combien de valeurs entières positives ou nulles un octet peut-il représenter ?
+Question A 2
+Combien de bits sont nécessaires pour écrire le nombre entier 16 en base 2 ?
+Question A 3
+Quelle est la représentation binaire sur un octet (c'est-à-dire sur 8 bits) de l'entier −26 ?
+-001 1010
+1110 0100
+1110 0101
+1110 0110
+Question A 4
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+Question A 5
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+
+Question A 6
+Qu'est-ce qui permet de traduire un nom d'hôte en adresse IP ?
+un serveur DNS
+un serveur DHCP
+un pare-feu
+un hub
+
+Thème B : types construits
+Question B 1
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n
+{ n*n
+[ n*n
+[ n*n
+
+for n in range(1,7) }
+for n in range(6) }
+for n in range(1,7) ]
+for n in range(6) ]
+
+Question B 2
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B 3
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+Question B 4
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]]] ?
+Question B 5
+
+Dans le cadre d'un travail sur la représentation binaire d'un entier positif, on construit un dictionnaire par le
+code suivant :
+correspondance = {}
+for d0 in (0,1):
+# bit de poids faible
+for d1 in (0,1):
+for d2 in (0,1):
+# bit de poids fort
+m = str(d2)+str(d1)+str(d0) # écriture binaire
+n = d0 + 2*d1 + 4*d2
+correspondance[m] = v
+Quel dictionnaire correspondance obtient-on ?
+{ '000': 0, '001': 4, '010': 2, '011': 6, '100': 1, '101': 5, '110': 3, '111': 7 }
+{ 0: '000', 4: '001', 2: '010', 6: '011', 1: '100', 5: '101', 3: '110', 7: '111' }
+{ '000': 0, '001': 1, '010': 2, '011': 3, '100': 4, '101': 5, '110': 6, '111': 7 }
+{ 0: '000', 1: '001', 2: '010', 3:'011', 4: '100', 5: '101', 6: '110', 7: '111' }
+Question B 6
+Quelle est la valeur de l'expression [[n,n+2] for n in range(3)] ?
+[0,2,1,3,2,4]
+[1,3,2,4,3,5]
+[[0,2],[1,3],[2,4]]
+[[1,3],[2,4],[3,5]]
+
+Thème C : traitement de données en tables
+Question C 1
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 2
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 3
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 4
+On considère une table de données <films> qui est une liste de dictionnaires "Titre", "Réalisateur","Date".
+Un enregistrement de la table contient un titre de film, le nom de son réalisateur et l'année de sortie du film.
+films = [{"Titre": "ET", "Réalisateur": "Spielberg", "Date": 1982},
+{"Titre": "Ready Player One", "Réalisateur": "Spielberg", "Date": 2018},
+{"Titre": "The Artist", "Réalisateur": "Hazanavicius", "Date": 2011},
+...]
+
+On souhaite obtenir la liste des films réalisés par "Spielberg" ou par "Hazanavicius" depuis l'année 2000.
+Quelle doit être la condition utilisée pour sélectionner les enregistrements correspondants, lors du parcours de
+la table ?
+(film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius")
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius"
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius"
+or film["Date"] >= 2000
+
+(film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius")
+or film["Date"] >= 2000
+
+Question C 5
+Que réalise l'instruction suivante :
+mon_fichier = open("exemple.txt", "r")
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Question C 6
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D 2
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 3
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 4
+On considère le formulaire HTML suivant :
+<form action="action.php" method="get" name="prenom">
+Prénom :
+<input type="text" id="champ1" name="p"/>
+<br/>
+<input type="hidden" name="util" value="1549"/>
+<input value="Envoi du prénom" type="submit"/>
+</form>
+
+Le prénom entré par l'utilisateur est contenu dans :
+l’élément dont l’attribut id est champ1
+l’élément nommé prénom
+l’élément dont l’attribut value est Envoi du prénom
+l’élément dont l’attribut type est hidden
+Question D 5
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D 6
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 2
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E 3
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+Question E 4
+Quel est l'élément qui ne fait pas partie de l'architecture du modèle de Von Neumann ?
+l'unité d'entrée
+l'unité arithmétique et logique
+la mémoire centrale
+l'unité d'affichage
+Question E 5
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+
+Question E 6
+Le répertoire personnel de l'utilisateur contient deux répertoires tempo et sauve.
+On souhaite déplacer le fichier bac.txt du répertoire tempo vers le répertoire sauve.
+Quelle commande permet de réaliser ce déplacement ?
+mkdir ~/tempo/bac.txt ~/sauve
+mkdir ~/sauve ~/tempo/bac.txt
+mv ~/tempo/bac.txt ~/sauve
+mv ~/sauve ~/tempo/bac.txt
+
+Thème F : langages et programmation
+Question F 1
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 2
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F 3
+On exécute le code suivant
+def calculPourcentage (prix,reduction):
+assert reduction >= 0, 'la réduction doit être un nombre positif'
+assert reduction < 100, 'la réduction doit être inférieure à 100'
+assert prix > 0, 'le prix doit être un nombre strictement positif'
+remise = (reduction*prix)/100
+prix_remise = prix - remise
+return prix_remise
+Quelle est la valeur renvoyée par l'appel calcul(30,100) ?
+AssertionError: la réduction doit être un nombre positif
+AssertionError: la réduction doit être inférieure à 100
+AssertionError: le prix doit être un nombre strictement positif
+Question F 4
+
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+Question F 5
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément.
+Combien de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand
+élément n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+Question F 6
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+
+Thème G : algorithmique
+Question G 1
+On décide d'effectuer une recherche dans un tableau trié contenant 42000 valeurs. On procède par
+dichotomie. Le nombre maximal d'itérations de l'algorithme sera :
+21000 car une recherche dichotomique divise le nombre de tests maximal par deux.
+42000 car la valeur recherchée pourrait très bien être la dernière du tableau.
+41999 car si on n'a pas trouvé l'élément recherché à l'avant-dernière position du tableau, il n'est plus utile
+d'effectuer de test pour la dernière position.
+16 car à chaque itération, le nombre d'éléments à examiner est divisé par deux et que 2 ⩽ 42000 ⩽
+2 .
+Question G 2
+Combien d’échanges effectue la fonction Python suivante pour trier un tableau de 10 éléments au pire des
+cas ?
+def tri (tab):
+for i in range (1, len(tab)):
+for j in range (len(tab) - i):
+if tab[j]>tab[j+1]:
+tab[j],tab[j+1] = tab[j+1], tab[j]
+Question G 3
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(1, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]
+Question G 4
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 5
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G 6
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+return i
+return None
+Quel est le coût dans le pire des cas de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique

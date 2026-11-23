@@ -1,0 +1,195 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1257526, "at": "2026-11-23T09:25:32+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE :  Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L'INGENIEUR
+DURÉE DE L’ÉPREUVE : 2 heures
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages :10
+
+BACCALAURÉAT GÉNÉRAL
+ÉVALUATION
+SCIENCES DE L'INGÉNIEUR
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+- l'usage de calculatrice avec mode examen actif est autorisé ;
+- l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-31-1
+
+Constitution du sujet
+• Présentation du distributeur de savon ....................... Pages 3 à 4
+• Étude d'une performance du produit .......................... Pages 5 à 6
+• Modification du comportement du produit ................ Pages 7 à 8
+• Documents réponses ................................................... Pages 9 à 10
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés
+en durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les connaissances
+associées pour qualifier et/ou quantifier cette performance, à partir de
+l'analyse, de la modélisation de tout ou partie du produit ou de relevés
+expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit
+ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies au
+candidat qu'il devra exploiter, compléter ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par
+les textes en vigueur.
+
+PRÉSENTATION DU DISTRIBUTEUR DE SAVON
+Dans un souci de santé publique, on veut limiter la transmission des bactéries
+lors du lavage des mains. Le problème vient du fait qu'avec les distributeurs de
+savon manuels, le contact des mains favorise la transmission des bactéries.
+Le système étudié permet la distribution sans contact d'une dose suffisante de
+savon liquide pour un usage domestique
+Ce distributeur est un nouveau modèle plus compact pour le fabricant. Le cahier
+des charges spécifie qu'il doit utiliser les mêmes recharges que ceux du modèle
+précédent.
+
+Exercice 1 - ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Ce nouveau modèle peut-il distribuer sans contact la dose
+recommandée de savon ?
+Question I-1 Compléter le diagramme d'exigence du document réponse DR1 à l’aide
+des propositions suivantes :
+DR 1
+- utiliser des recharges spécifiques ;
+- le distributeur doit résister aux éclaboussures (contact avec l'eau) ;
+- alimenter en énergie ;
+- capter, sans contact, la présence d'une main sous l'orifice de distribution.
+Question I-2
+Figure 3
+
+On souhaite limiter la transmission de bactéries. Quelle est la solution
+technique retenue et en quoi elle répond au besoin.
+
+La solution mécanique retenue pour distribuer une dose de savon est un système
+excentrique/coulisse/piston.
+
+Question I-3
+
+Définir la liaison (nom, axe et mobilité(s)) entre le piston et le corps.
+
+Figure 4
+DR1
+
+Compléter le schéma cinématique de la pompe de dosage sur le
+document réponse DR1, en représentant la liaison précédente.
+
+L’OMS précise que la dose de savon, pour être efficace dans la destruction des bactéries,
+doit être de 1 à 3 ml.
+Rappels :
+- Volume d'un cylindre = π . R2. C
+- 1 ml = 1 cm3
+Question I-4
+
+(R : rayon, C : longueur)
+
+Calculer le volume de savon (dose) délivré pour un tour d’excentrique.
+Conclure quant aux recommandations de l’OMS.
+
+Des tests ont permis d’évaluer la puissance nécessaire au niveau du piston pour la
+distribution d’une dose de savon. Cette puissance est : Ppiston = 0,13 W.
+
+Question I-5
+
+- Calculer le rendement global de la chaine de puissance
+
+Figure 5
+
+La puissance du moteur est : Pmoteur = 0,232 W.
+Question I-6
+
+- Vérifier de la capacité du moteur à fournir une dose de savon
+
+Exercice 2 - MODIFICATION DU COMPORTEMENT DU PRODUIT
+Le fonctionnement du distributeur est géré par un microprocesseur qui se trouve sur
+la carte électronique (voir figure 3)
+Afin d’éviter le gaspillage, on impose une temporisation de 2 secondes, à partir de la
+détection d’une main par le capteur, avant de délivrer la dose de savon.
+Question II-1
+DR2
+
+Question II-2
+DR2
+
+Établir les correspondances, entre l’algorigramme décrivant ce fonctionnement
+et les propositions, dans le tableau du document réponse DR2.
+Compléter sur DR2, la description de ce fonctionnement en notation
+algorithmique.
+
+La durée d’exécution d’une instruction (blocs de l’algorigramme) est en moyenne de
+2 µs pour les opérations internes et de 6 µs pour les échanges avec la périphérie.
+Question II-3
+
+Évaluer la durée séparant la détection d’une main à l’émission de la dose
+de savon. Conclure sur l’utilité de la temporisation de 2 s.
+
+Le capteur utilisé est de type barrage (figure 6), le récepteur est susceptible de
+recevoir du savon ou de l’eau, ce qui provoque par moment une non-détection de la
+main.
+Le constructeur décide de remplacer le capteur de type barrage par un capteur de
+type proximité (figure 6).
+
+Extrait du cahier des charges :
+
+La tension d’alimentation fournit par les 2 piles est de 3V
+La distance de détection est 10cm au maximum
+Le cône de détection doit être de 20° au maximum
+La consommation doit être la plus faible possible
+Figure 7 : Document technique du capteur SCHARP GP2Y0D810Z0F
+Figure 8 : Document technique du détecteur IT15IR
+Figure 9 : Document technique du capteur VL6180X
+
+Question II-4
+Figure 7
+Figure 8
+Figure 9
+DR3
+
+Compléter le tableau comparatif sur DR3 en vous aidant des documents
+techniques figures 7, 8 et 9.
+
+Question II-5 Choisir et justifier le nouveau capteur de détection de la main en
+respectant le cahier des charges.
+Figure 7
+Figure 8
+Figure 9
+DR3
+
+DOCUMENT RÉPONSE
+
+DR1 :
+Question I-1
+
+Question I-3
+Liaison entre le piston 3 et le corps 1 :
+Nom : .....................................
+axe : .......................................
+mobilité(s) : ...........................
+
+DOCUMENT RÉPONSE
+DR2 :
+Question II-1 : Compléter le tableau avec les propositions suivantes :
+Temporisation – Présence_Main ? – Emission_Dose – Début_Boucle - Lire_Capteur
+– Fin_Boucle – Présence_Main ? – Lire_Capteur

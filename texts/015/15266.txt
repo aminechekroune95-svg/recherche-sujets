@@ -1,0 +1,407 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1230306, "at": "2026-11-23T09:40:31+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 2
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A 3
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+Question A 4
+Combien de bits doit-on utiliser au minimum pour représenter en base 2 le nombre entier 72 ?
+Question A 5
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+2 − 1 = 32767
+2 = 32768
+2 − 1 = 65535
+2 = 65536
+Question A 6
+On veut définir une fonction xor qui renvoie le résultat d’un « ou exclusif » sur ses arguments.
+Laquelle de ces définitions est-elle correcte ?
+
+return (not(a) and b) or (a and b)
+return (a or b) and not(a)
+return (a and not(b)) or (b and not(a))
+return (a or not(b)) and (b or not(a))
+
+Thème B : types construits
+Question B 1
+On exécute le script suivant :
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+Question B 2
+On définit la fonction suivante :
+def f(x, y):
+if x > y:
+return y, x
+else:
+return x, y
+Quelle est la valeur renvoyée par l'appel f(42,21) ?
+(21, 42)
+(21, 21)
+(42, 21)
+(42, 42)
+Question B 3
+Si la variable note est définie par note = ["do","ré","mi","fa","sol","la","si"] alors :
+l'index de "sol" est 5
+l'index de note est 0
+l'index de "si" est 7
+l'index de "mi" est 2
+Question B 4
+Quelle est la valeur de la variable r à la fin de l'exécution du script suivant ?
+t = (10,6,1,12,15)
+r = t[3] - t[1]
+
+-9
+
+Question B 5
+On définit : matrice = [[1,2,3], [4,5,6], [7,8,9], [10,11,12]].
+Quelle est la valeur de matrice[1][2] ?
+Question B 6
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+
+Thème C : traitement de données en tables
+Question C 1
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+a = 'matière
+b = 'moyenne'
+a = 0
+b = 1
+a = 1
+b = 0
+Question C 2
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 3
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+
+Question C 4
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 5
+On considère la liste de p-uplets suivante :
+table = [
+
+('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912)
+]
+
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une
+femme) et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+Question C 6
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 2
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D 3
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D 4
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 5
+Parmi les éléments suivants, lequel est un protocole ?
+GET
+POST
+HTTP
+Question D 6
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+Question E 2
+En informatique, que signifie l'acronyme ROM ?
+Rewrite Only Memory
+Reset Only Memory
+Read Only Memory
+Recall Only Memory
+Question E 3
+Dans un terminal sous Linux, quelle commande permet d'afficher la liste des fichiers du répertoire courant ?
+ls
+cd
+mv
+rm
+Question E 4
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 5
+Parmi les affirmations suivantes, laquelle est vraie ?
+la mémoire RAM est une mémoire accessible en lecture seulement
+la mémoire RAM est une mémoire accessible en écriture seulement
+la mémoire RAM est une mémoire accessible en lecture et en écriture
+la mémoire RAM permet de stocker des données après extinction de la machine
+Question E 6
+Quelle est la racine du système de fichiers de Linux ?
+/
+root
+
+sudo
+home
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant.
+n = 6
+s = 0
+while n >= 0:
+s = s + n
+n = n -1
+Que contient la variable s à la fin de cette exécution ?
+Question F 2
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+JavaScript
+PHP
+Python
+Question F 3
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+CSS
+C++
+WEB
+Question F 4
+Quelle est la valeur de la variable x à la fin de l'exécution du script suivant :
+def f(x):
+x = x + 1
+return x + 1
+x = 0
+f(x+1)
+Question F 5
+
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F 6
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+
+Thème G : algorithmique
+Question G 1
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G 2
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 3
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+Question G 4
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G 5
+
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = m
+q = a
+while n > 0:
+if n%2 == 0:
+q = q * q
+#
+n = n // 2
+else:
+p = q * p
+n = n - 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+𝑝×𝑞
+=𝑎
+𝑝×𝑞 =𝑎
+𝑝×𝑞 =𝑎
+𝑝×𝑞 / =𝑎
+Question G 6
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)

@@ -1,0 +1,242 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1474836, "at": "2026-11-23T09:22:58+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Réalisation d’une végétation métallique (10 points)
+En chimie, une végétation métallique est un type de dendrites produites par certaines
+transformations chimiques. La découverte de ces « feuillages métalliques » est attribuée à
+des alchimistes au Moyen-Age, qui croyaient y voir un phénomène magique. L’alchimie,
+malgré son statut de pseudoscience (c’est à dire de « fausse » science), a eu un rôle
+important dans le développement, au cours du XVIIIe siècle, de la chimie en tant que
+discipline scientifique s’appuyant sur des faits expérimentaux.
+
+Figure 1. Un des premières publications d'une végétation chimique par Athanase Kircher,
+dans Mundus subterraneus en 1660 (d’après : wikipedia.org/Athanasius-Kircher-Mundussubterraneus.jpg)
+
+On s’intéresse dans cet exercice à la modélisation du phénomène de « végétations
+métalliques » à l’aide des outils de la chimie moderne, en s’interrogeant notamment sur la
+nature de ce métal qui se dépose comme les feuilles d’un arbre.
+- Couples oxydant/réducteur
+- couple ion argent/argent : Ag+/Ag ;
+- couple ion cuivre/cuivre : Cu2+/Cu.
+- Couleurs des solutions aqueuses :
+- les ions cuivre Cu2+(aq) donnent une couleur bleue aux solutions aqueuses ;
+- les ions argent Ag+(aq) et les ions nitrate NO3-(aq) sont incolores en solution
+aqueuse.
+- Masses molaires atomiques :
+M(Cu) = 63,5 g/mol, M(O) = 16,0 g/mol, M(Ag) = 107,9 g/mol, M(N) = 14,0 g/mol.
+- Électronégativités selon l’échelle de Pauling : O : 3,2 , C : 2,6 , H : 2,2.
+Les alchimistes décrivent l’arbre de Diane comme une végétation d’argent se déposant sur
+un tronc fait en cuivre.
+On souhaite fabriquer un arbre de Diane au laboratoire. Pour ce faire, on place un fil de
+cuivre, de masse initiale m’ = 5,6 g dans un bécher contenant V = 220 mL d’une solution
+de nitrate d’argent à la concentration en quantité de matière égale à c = 0,10 mol.L-1.
+1. Préparation de la solution métallique pour réaliser l’arbre de Diane
+Pour les chimistes, l’eau est un solvant très utilisé. Ses propriétés sont utilisées dans la
+réalisation de la végétation métallique car l’eau est capable de dissoudre le nitrate
+d’argent AgNO3 (s) et les autres ions intervenant dans le phénomène.
+1.1. Donner le schéma de Lewis d’une molécule d’eau, justifier sa forme coudée et
+indiquer ses propriétés en lien avec les électronégativités des atomes qui la
+constituent.
+1.2. Écrire l’équation de la réaction modélisant la dissolution du nitrate d’argent dans
+l’eau. Préciser l’état physique des différentes espèces chimiques.
+1.3. On note c la concentration en quantité de matière apportée en nitrate d’argent dans
+une solution. Exprimer, en fonction de c, la concentration en ions argent dissous
+[Ag+], si la dissolution est totale.
+1.4. En déduire la quantité de matière n d’ions argent Ag+ contenue dans 250 mL de la
+solution de nitrate d’argent de concentration c = 0,10 mol.L-1 et indiquer la masse
+m de nitrate d’argent nécessaire pour préparer cette solution.
+1.5. Proposer un protocole pour préparer cette solution avec le matériel et les éléments
+de verrerie usuels au laboratoire, dont on précisera le nom et le volume si
+nécessaire.
+2. Modélisation de la transformation chimique intervenant dans l’arbre de Diane
+
+On réalise l’expérience, et on prend en photos le système chimique dans son état initial et
+dans son état final. Dans l’état initial, la solution est incolore (photographie de gauche ciaprès). Après plusieurs heures, la solution se colore progressivement en bleu, et le fil de
+cuivre se recouvre d’un solide brillant déposé sous forme de « feuillage métallique », qui
+porte le nom d’«arbre de Diane» (photographie de droite ci-après).
+
+État initial
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+
+État final (après plusieurs heures)
+
+Justifier qu’une transformation chimique a bien eu lieu.
+Identifier les couples mis en jeu lors de la formation d’un arbre de Diane et écrire
+les deux demi-équations correspondantes.
+En déduire que l’équation de la réaction modélisant la formation de l’arbre de Diane
+s’écrit : 2Ag+ (aq) + Cu (s) → 2Ag (s) + Cu2+ (aq)
+Avec la méthode de votre choix, montrer que le cuivre est en excès. La quantité
+initiale n d’ions argent sera prise égale à 2,2x10-2 mol.
+Avec la méthode de votre choix, déterminer la masse d’argent qui se forme sur le fil
+de cuivre si l’avancement maximal est atteint.
+
+3. Prévision de l’état final à l’aide d’un script en Python
+Le programme suivant, écrit en langage Python, permet de calculer la masse d’argent
+déposée sur le fil de cuivre.
+
+Ce programme permet aussi de s’assurer que le cuivre est bien introduit en excès : dans
+le cas contraire, le fil, qui joue aussi le rôle de support, risquerait de casser et l’on perdrait
+la végétation métallique qui met plusieurs heures à se former.
+On exécute le programme. Tout d’abord on indique les conditions expérimentales initiales
+de l’expérience décrites précédemment. On obtient l’écran suivant :
+
+Écrire la ligne qui apparaîtrait dans la console d’exécution à la suite de la saisie des
+données initiales ci-dessus. Justifier.
+PARTIE B
+Le littoral sous surveillance (10 points)
+Le littoral, zone de transition entre terre et mer, est un milieu fragile soumis à de fortes
+pressions naturelles et anthropiques*, et aux interactions entre celles-ci. Le littoral n’est
+pas une limite fixe et pérenne, mais au contraire, il s’agit d’une zone d’interface
+extrêmement sensible aux contraintes qu’elle subit. Cela conduit à des évolutions
+contrastées du trait de côte, qu’il est nécessaire de prévoir, en particulier dans un contexte
+
+de changement climatique avec une élévation attendue du niveau de la mer qui aura à
+terme des répercussions locales sur les sociétés littorales.
+* anthropique : relatif à l'activité humaine
+
+www.brgm.fr
+
+Le tableau ci-dessous présente les principales techniques utilisées pour réaliser des
+mesures topographiques (pour représenter sur un plan des formes du terrain) et
+bathymétriques (mesures de la profondeur du fond sous-marin) :
+Sondeur acoustique monofaisceau
+Bathymétrie
+Sondeur acoustique multifaisceaux
+Lidar aéroporté
+Bathymétrie et topographie
+Lidar
+Scanner laser terrestre (TLS)
+Topographie
+Le sonar utilise un signal acoustique (en général ultrasonore).
+Le lidar (light detection and ranging) utilise un signal électromagnétique obtenu par
+technologie laser.
+Cet exercice se propose d’étudier quelques aspects de ces techniques.
+Sonar
+
+Partie 1 : le sondeur acoustique bathymétrique monofaisceau
+Le sondeur émet, sous forme d’impulsions, une onde ultrasonore de fréquence réglable.
+Cette onde se propage vers le bas, à la verticale du bateau. Après réflexion sur le fond
+marin, elle est captée par le sondeur qui mesure la durée mise par le signal pour effectuer
+l’aller-retour (schéma a). Connaissant la célérité des ultrasons dans l’eau, il est possible
+d’en déduire la profondeur du fond sous-marin. Le déplacement du sondeur en surface
+permet d’obtenir une succession de mesures (schéma b).
+
+Schéma a
+Schéma b
+Principe de la mesure bathymétrique monofaisceau
+d’après https://escadrone.com/drones-marins/bathymetrie-drone/.
+Le technicien qui utilise le sondeur peut modifier la fréquence des ultrasons en fonction de
+la profondeur du fond sous-marin qu’il désire étudier.
+
+Plein océan
+10 kHz
+
+Grands fonds
+40 kHz
+
+Plateaux continentaux
+200 kHz
+
+Petits fonds
+400 kHz
+
+La célérité des ultrasons dépend de la salinité et de la température de l’eau de mer :
+
+Célérité du son (en m/s) en fonction de la température (en °C) et de la salinité (en
+g/L). Welcome to SIMRAD Training Course Basic Acoustic By Kjell Eger Kongsberg
+Maritime AS, Simrad
+1.1. Les ondes ultrasonores sont des ondes mécaniques. Rappeler la définition d’une
+onde mécanique progressive. Parmi les deux schémas a et b proposés ci-dessous,
+lequel modélise le mieux la propagation des ultrasons ? Justifier.
+(a) Propagation le long d’une corde
+(b) Propagation le long d’un ressort
+1.2. Le signal simulé ci-dessous possède les mêmes caractéristiques temporelles que
+celles du signal émis par le sondeur acoustique prévu pour effectuer des mesures
+près du littoral. Les réglages effectués sont-ils cohérents avec l’utilisation prévue ?
+
+Simulation du signal émis par le sondeur acoustique
+
+1.3.
+
+Les valeurs moyennes de température et de salinité de la mer à Toulon au
+mois de mai sont les suivantes : température 16 °C, salinité 35 g.L – 1.
+1.3.1. Grâce au document Célérité du son (en m/s) en fonction de la température (en
+°C) et de la salinité (en g/L), déterminer, dans ces conditions, la valeur de la
+célérité des ultrasons dans l’eau de mer.
+1.3.2. Lors de la mesure, le retard Δt entre l’émission et la réception du signal vaut Δt
+= 50,9 ms. La mesure correspond-elle à une mesure effectuée au-dessus d’une
+profondeur correspondant à la zone A ou à la zone B, repérées sur la carte cidessous ? Justifier la réponse par un calcul.
+
+1.4.
+
+Carte littorale de l’anse des Sablettes (Var) – Géoportail.gouv
+On s’intéresse dans cette question aux mesures faites pour la zone de 42 mètres
+de profondeur. Cette zone se trouvant à moins de 300 mètres du littoral, la
+règlementation maritime exige que la vitesse d’un navire doive rester inférieure à
+3 nœuds.
+Dans les zones de fonds inférieurs à 100 mètres où la hauteur d’eau sous quille
+est peu critique, l’incertitude horizontale totale acceptée est : IHT = 5 mètres +
+5 % de la profondeur.
+Le fabriquant présente dans sa documentation un fonctionnement du sondeur à
+10 impulsions par seconde : ce fonctionnement vous paraît-il adapté aux mesures
+pour la zone de 42 mètres de profondeur ?
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie
+même si elle n’a pas abouti. La démarche suivie est évaluée et nécessite donc
+d’être correctement présentée.
+
+- 1 nœud = 1 mile nautique par heure ; 1 mile nautique = 1,852 km.
+Partie 2 : le LIDAR
+
+Le principe de télémétrie du lidar est similaire à celui du sonar : l’onde électromagnétique
+émise se réfléchit sur une surface (le sol ou le fond marin) ; la mesure de la durée mise
+par le signal pour effectuer l’aller-retour permet de calculer la hauteur ou la profondeur,
+connaissant la vitesse de propagation de l’onde dans le milieu considéré (air ou eau).
+Un lidar topographique utilise une seule longueur d’onde (en général λ = 1064 nm) alors
+qu’un lidar bathymétrique émet deux longueurs d’onde différentes : λ = 1064 nm (qui se
+réfléchit à la surface de l’eau) et λ = 534 nm (qui pénètre dans l’eau et se réfléchit sur le
+fond marin)
+Cette partie s’intéresse au rayonnement issu d’un laser de type YAG dopé au néodyme
+(laser Nd-YAG) dont un extrait de la notice se trouve ci-dessous :
+Caractéristiques d’un laser Nd-YAG
+Mode de fonctionnement : continu ou impulsionnel
+Durée de l’impulsion : 1 à 20 millisecondes
+Énergie maximale par impulsion : 150 joules
+Puissance de crête maximale : 30 kilowatts
+Amplificateur laser : grenat d’aluminium et d’yttrium dopé au néodyme
+Longueur d’onde : 1064 nanomètres
+Poids d’un laser de puissance : plusieurs centaines de kilos
+D’après www.cea.fr
+- 1 eV = 1,60  10 – 19 J ;
+- la célérité c des ondes électromagnétiques dans le vide (et dans l’air) est
+supposée connue de l’élève ;
+- constante de Planck h = 6,63  10-34 m2.kg.s-1 ;
+- domaine des ondes électromagnétiques :
+
+À quel domaine de longueurs d’ondes appartient le rayonnement émis par le laser
+Nd-YAG ? Justifier.
+2.2. Calculer la valeur de l’énergie d’un photon émis par le laser Nd-YAG.
+2.3. Un diagramme énergétique simplifié de la partie émission du laser Nd-YAG est
+fourni en annexe à rendre avec la copie.
+2.3.1. Vérifier, par un calcul, que les niveaux d’énergie mis en jeu lors de l’émission
+du faisceau laser sont les niveaux E2 et E4.
+2.3.2. Représenter cette transition par une flèche sur le diagramme en annexe à
+rendre avec la copie.
+2.4. Déterminer l’ordre de grandeur du nombre maximal de photons émis pendant une
+impulsion.
+2.1.
+
+ANNEXE À RENDRE AVEC LA COPIE
+Partie 2 : diagramme de niveaux d’énergie du laser Nd YAG

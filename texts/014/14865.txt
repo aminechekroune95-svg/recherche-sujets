@@ -1,0 +1,485 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1240977, "at": "2026-11-23T09:41:12+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A 2
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+Question A 3
+Quelle est la représentation en binaire de l'entier 64 sur un octet ?
+0101 0000
+1100 0100
+0100 0000
+0000 1100
+Question A 4
+Quelle est la représentation binaire de l'entier positif 51 sur 8 bits ?
+0010 0001
+0010 1001
+0011 0001
+0011 0011
+Question A 5
+La somme des nombres 10011 et 10110 écrits en base 2 est :
+20121
+01001
+101001
+100101
+Question A 6
+
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+
+Thème B : types construits
+Question B 1
+Laquelle des quatre expressions suivantes a-t-elle pour valeur la liste [1, 2, 5, 10] ?
+[i for i in range(4) if i<2]
+[i for i in range(4)]
+[i*i + 1 for i in range(4)]
+[i*i - 2*i + 2 for i in range(4)]
+Question B 2
+Quelle est la valeur de L à la fin de l'exécution du script suivant ?
+def f(L):
+temp = L[0]
+for i in range(len(L)-1):
+L[i] = L[i+1]
+L[-1] = temp
+L = [1, 2,
+f(L)
+
+3, 4, 5]
+
+[2, 3, 4, 5, 1]
+[5, 1, 2, 3, 4]
+[5, 4, 3, 2, 1]
+[3, 4, 5, 1, 2]
+Question B 3
+On construit une matrice par compréhension :
+M = [ [i*j for j in range(4)] for i in range(4) ]
+Laquelle des conditions suivantes est-elle vérifiée ?
+M[4][4] == 16
+M[0][1] == 1
+M[2][3] == 6
+M[1][2] == 3
+Question B 4
+On considère le code suivant :
+def s(tuple1, tuple2):
+(x1,y1) = tuple1
+(x2,y2) = tuple2
+return (x1+x2, y1+y2)
+Que renvoie l'appel s((1,3), (2,4)) ?
+
+le tuple (3,7)
+le tuple (4,6)
+un entier
+une erreur
+Question B 5
+Quelle est la valeur de l'expression [(i,i+1) for i in range(2)] ?
+[0,1,1,2]
+[(1,2),(2,3)]
+[(0,1),(1,2)]
+[[0,1],[1,2]]
+Question B 6
+On considère le code suivant :
+t = [1, 6, 8, 3, 21]
+u = [x for x in t if x > 3]
+Que vaut u à la fin de son exécution ?
+[1, 6, 8, 21]
+[6, 8, 3, 21]
+[6, 8, 21]
+[1, 3, 6, 21]
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le code suivant :
+def maxi(t):
+m = t[0]
+for x in t:
+if x[1] >= m[1]:
+m = x
+return m
+L = [
+
+('Alice', 17), ('Barnabé', 17),
+('Casimir', 17), ('Doriane', 17),
+('Emilien', 14), ('Fabienne', 16) ]
+
+Quelle est alors la valeur de maxi(L) ?
+('Alice',17)
+('Doriane',17)
+('Fabienne',17)
+('Emilien',14)
+Question C 2
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 3
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 4
+
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 5
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 6
+On définit la fonction suivante qui prend en argument un tableau non vide d'entiers.
+def f(T):
+s = 0
+for k in T:
+if k == 8:
+s = s+1
+if s > 1:
+return True
+else:
+return False
+Dans quel cas cette fonction renvoie-t-elle la valeur True ?
+dans le cas où 8 est présent au moins une fois dans le tableau T
+dans le cas où 8 est présent au moins deux fois dans le tableau T
+dans le cas où 8 est présent exactement une fois dans le tableau T
+dans le cas où 8 est présent exactement deux fois dans le tableau T
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Lors de la consultation d’une page HTML, contenant un bouton dans lequel on ajoute l’attribut suivant, que se
+passe-t-il quand on clique sur ce bouton ?
+<button onclick="this.style.color='red'">
+le pointeur de souris devient rouge lorsqu'il arrive sur le bouton
+le texte du bouton devient rouge
+le texte du bouton est remplacé par le mot "red"
+le texte de la page passe en rouge
+Question D 2
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 3
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui affiche une
+erreur 404.
+Quel cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion Internet
+un changement de titre du forum qu'il veut consulter
+Question D 4
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 5
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 6
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E 2
+Lequel de ces objets n'est pas un périphérique ?
+le clavier
+une clé USB
+la carte graphique
+la carte mère
+Question E 3
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+cp /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question E 4
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E 5
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+
+Question E 6
+Dans un terminal, on exécute la suite de commandes système suivante :
+cd ~
+cd seances/tp
+mv exercice.txt
+
+./../../exercice.txt
+
+Où se trouve finalement placé le fichier exercice.txt ?
+dans le répertoire ~/seance/tp
+dans le répertoire ~/seance
+dans le répertoire ~
+dans le répertoire /home
+
+Thème F : langages et programmation
+Question F 1
+La fonction maxi ci-dessous a pour but de renvoyer la valeur maximale présente dans la liste qui lui est passée
+en argument.
+def maxi(L):
+dernier_indice = len(L) - 1
+valeur_max = L[0]
+for i in range(1,dernier_indice):
+if L[i] > valeur_max:
+valeur_max = L[i]
+return valeur_max
+Cette fonction a été mal programmée. On souhaite réaliser un test pour le démontrer.
+Parmi les propositions suivantes, laquelle mettra la fonction maxi en défaut ?
+maxi([1, 2, 3, 4])
+maxi([4, 3, 2, 1])
+maxi([1, 3, 3, 2])
+maxi([1, 1, 1, 1])
+Question F 2
+Karine écrit une bibliothèque Python, nommée GeomPlan, de géométrie plane dont voici un extrait :
+import math
+def aireDisque(R):
+return math.pi * R**2
+Gilles utilise cette bibliothèque pour calculer l'aire d'un disque de rayon 8.
+Laquelle des instructions suivantes renvoie un message d'erreur ?
+import GeomPlan
+GeomPlan.aireDisque(8)
+
+import GeomPlan
+
+from GeomPlan import *
+
+from GeomPlan import aireDisque
+
+Question F 3
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F 4
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 5
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+Question F 6
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 3
+b = 6
+if a > 5 or b != 3:
+b = 4
+else:
+b = 2
+
+Thème G : algorithmique
+Question G 1
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+p = p * a
+#
+n = n + 1
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+Question G 2
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(1, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]
+Question G 3
+On exécute le script suivant :
+liste = [17, 12, 5, 18, 2, 7, 9, 15, 14, 20]
+somme = 0
+i = 0
+while i < len(liste):
+somme = somme + liste[i]
+resultat = somme / len(liste)
+Quelle affirmation est fausse parmi les suivantes ?
+
+le corps de la boucle a été exécuté 10 fois
+à la fin de l'exécution la valeur de i est 9
+resultat contient la moyenne des éléments de liste
+len est une fonction
+
+Question G 4
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 5
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+i = K-1
+i = i - 1
+i = K-1
+
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 6
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt

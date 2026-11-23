@@ -1,0 +1,347 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1742413, "at": "2026-11-23T09:30:26+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’une production
+Sur 8 points
+Une entreprise produit et vend du savon. Le savon est présenté sous deux formes :
+sous forme de bloc de savon ou sous forme de savon liquide.
+Les deux parties de l’exercice peuvent être traitées de manière indépendante.
+Partie A
+
+Achat par correspondance de blocs de savon
+
+Pour un achat par correspondance, le client paie le prix des savons proportionnel au
+nombre de savons contenus dans le lot auquel s’ajoute les frais de port fixes c’est-àdire indépendant du nombre de savons.
+Ainsi l’achat par correspondance d’un lot de dix savons coute 31 euros tout compris
+et celui d’un lot de trente savons 81 euros tout compris.
+1- Le prix tout compris est-il proportionnel au nombre de savons ? Pourquoi ?
+2-a- Vérifier que le prix d’un savon contenu dans le lot est 2,50 €.
+2-b- Quel est le coût total d’un lot de cinquante savons achetés par
+correspondance ?
+2-c- Proposer une formule pour calculer le coût total, noté 𝑐(𝑛), d’un lot de 𝑛 savons,
+frais de port inclus, où 𝑛 est un entier naturel.
+3- Les clients par correspondance les plus fidèles bénéficient d’une réduction
+permanente de 10 % sur le prix des savons et de 50 % sur les frais de port.
+3-a- Quel est le coût total d’une commande par correspondance de trente savons
+pour un client fidèle ?
+3-b- Quel est alors le taux de la remise globale obtenue par un client fidèle pour une
+commande de trente savons ? On arrondira le résultat à 0,1 %.
+
+Partie B
+
+Optimisation de la production de savon liquide
+
+La capacité de production journalière de l’entreprise est de 15 hectolitres de savon
+liquide. On rappelle qu’un hectolitre est égal à cent litres.
+On modélise le coût total, en euro, de fabrication journalière de 𝑥 hectolitres de
+savon liquide par une fonction 𝐶 telle que :
+𝐶(𝑥) = 𝑥 3 − 15𝑥 2 + 75𝑥 + 100 où 𝑥 ∈ [0; 15].
+4- Le responsable de la fabrication estime que les coûts fixes journaliers liés à la
+production de savon liquide s’élèvent à cent euros. A-t-il raison ?
+5- On admet que 𝐶 est dérivable sur [0 ; 15] et on note 𝐶′ la fonction dérivée de la
+fonction 𝐶.
+5-a- Calculer 𝐶′(𝑥) pour tout réel 𝑥 appartenant à [0 ; 15].
+5-b- Justifier que 𝐶′(𝑥) peut s’écrire sous la forme 3(𝑥 − 5)2.
+5-c- En déduire le sens de variation de la fonction 𝐶 sur [0 ; 15].
+6- On donne sur la page suivante quatre courbes dont l’une est la représentation
+graphique de la fonction 𝐶 sur [0 ; 15].
+6-a- De quelle courbe s’agit-il ? Justifier la réponse donnée.
+6-b- Pour des raisons comptables, l’entreprise ne peut engager des coûts de
+fabrication de plus de 600 euros par jour. Estimer graphiquement, aussi
+précisément que possible, la capacité de production journalière de savon liquide
+autorisée, en expliquant la méthode employée.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Exposition au bruit
+Sur 12 points
+Le bruit fait partie de la vie. D’ailleurs, l’absence totale de bruit est unanimement
+reconnue comme très difficilement supportable pour l’homme. Pourtant, certaines
+situations d’exposition au bruit, dans la vie de tous les jours ou au travail, peuvent
+être néfastes pour la santé. Aujourd’hui, en France, plus de trois millions de salariés
+sont exposés sur leur lieu de travail, de manière prolongée, à des niveaux de bruit
+potentiellement nocifs. En outre, le bruit est reconnu comme cause de maladies
+professionnelles depuis 1963.
+L’exposition au bruit sur le lieu de travail est susceptible d’affecter la santé des
+travailleurs. La perte auditive (surdité) en est l’effet le plus connu, mais le risque
+accru d’accidents et l’exacerbation du stress comptent aussi parmi les conséquences
+possibles du bruit au travail.
+Ministère du travail – « Bruit en milieu de travail »
+
+Dans cet exercice, nous allons nous intéresser à l’exposition au bruit. Dans un
+premier temps, nous discuterons comme comprendre l’outil de diagnostic utilisé par
+les médecins pour évaluer les pertes d’audition, puis nous verrons comment nous en
+préserver en fonction des situations.
+Partie 1 – Diagnostic d’une perte d’audition
+Pour diagnostiquer la santé auditive d’un patient, un médecin peut réaliser un test
+d’audiométrie tonale. Ce test consiste à faire écouter au patient des sons de
+fréquence bien déterminée à des niveaux d’intensité croissants. Lorsque le patient
+entend le son, il le signifie. Le niveau d’intensité sonore le plus faible que perçoit un
+patient pour une fréquence 𝑓 est son seuil d’audition. Nous le noterons 𝐿seuil (𝑓).
+En comparant le seuil d’audition du patient au seuil d’audition de référence (noté
+𝐿ref (𝑓)) établi pour des personnes ayant une santé auditive dans la norme, on définit
+la perte auditive 𝑃(𝑓) du patient :
+𝑃(𝑓) = 𝐿seuil (𝑓) − 𝐿ref (𝑓)
+Une valeur positive de la perte auditive correspond à un patient entendant moins
+bien que la normale. A l’inverse, une valeur négative de 𝑃(𝑓) indique que le patient
+entend mieux que la normale.
+
+En mesurant la perte auditive du patient pour différentes fréquences du domaine
+audible (20 Hz − 20 kHz), on obtient un audiogramme tel que ceux représentés sur le
+document 1.
+Sur ce diagramme, on porte :
+
+La fréquence en abscisse ;
+
+La perte auditive en ordonnée suivant un axe inversé (la perte augmente
+lorsque l’on descend).
+
+1- Préciser les unités des grandeurs sur chacun de ces axes.
+2- Justifier que l’audiogramme ne couvre pas tout le domaine des fréquences
+audibles. Proposer une explication à ce constat.
+
+Document 1 – Audiogramme d’un patient (pour chaque oreille)
+
+Le patient se plaint de demander de plus en plus souvent à ses interlocuteurs de
+répéter leurs propos.
+On se donne quelques repères :
+
+La gamme de fréquence d’une voix plutôt grave va de 80 Hz à 400 Hz et celle
+d’une voix plutôt aigüe va de 300 Hz à 1500 Hz.
+
+Une conversation normale entre adultes se situe à un niveau sonore de l’ordre
+de 60 dB.
+
+Une conversation chuchotée se situe à un niveau sonore de l’ordre de 40 dB.
+
+Une conversation dans un environnement bruyant se situe à un niveau sonore
+de l’ordre de 80 dB.
+
+3- Rédiger un court texte argumenté expliquant pourquoi le patient rencontre des
+difficultés à comprendre une conversation normale.
+Pour mieux caractériser la gêne que peut représenter la perte auditive de ce patient,
+nous allons considérer le cas de la perception de l’arrivée d’une moto dans la rue.
+Lorsqu’une moto en marche se situe à une distance d’un mètre derrière le patient
+(distance 𝑑0 = 1 m), elle émet un bruit dont le niveau d’intensité sonore au niveau
+des oreilles du patient est 𝐿0 = 90 dB.
+Lorsque la moto en marche se situe à une distance 𝑑 derrière le patient, le bruit
+qu’elle émet atteint les oreilles du patient avec un niveau d’intensité sonore 𝐿(𝑑) dont
+la valeur est donnée par la formule :
+𝑑
+𝐿(𝑑) = 𝐿0 − 20 × log ( )
+𝑑0
+Par ailleurs, une moto émet des sons dans une gamme de fréquence autour de
+4 kHz.
+Enfin, on considère que dans un environnement urbain calme, une personne sans
+perte auditive commence à percevoir la moto lorsque l’intensité sonore 𝐿 atteint
+50 dB, ce qui correspond à une distance de 100 m d’après la formule ci-dessus.
+4- Déterminer la distance à partir de laquelle le patient commence à percevoir la
+présence de la moto.
+5- Commenter cette valeur et en déduire un exemple de l’impact de cette perte
+auditive sur sa vie quotidienne.
+Partie 2 – Se protéger du bruit
+Pour se prémunir des problèmes de santé induit par le bruit, il est important d’utiliser
+des dispositifs de protection. Toutefois, ceux-ci doivent être adaptés au contexte.
+Par exemple, dans un environnement de travail bruyant, il faut pouvoir se prémunir
+des bruits les plus agressifs pour l’oreille (situés principalement dans une bande de
+fréquence autour de 4 000 Hz) tout en restant disponible pour des échanges
+conversationnels (bande de fréquence de 80 Hz à 1 500 Hz).
+
+En revanche, pour bien dormir dans un environnement nocturne bruyant, il est
+préférable de réduire l’ensemble des bruits.
+Le graphique du document 2 présente la réduction de bruit en fonction de la
+fréquence pour trois bouchons d’oreille en mousse réalisés dans des matériaux
+différents.
+6- Rédiger un court paragraphe argumenté expliquant quel type de bouchons
+d’oreille (A, B ou C) est le plus adapté pour se prémunir du bruit dans chacun
+des deux contextes précédents :
+
+Un environnement de travail bruyant.
+
+Une nuit de sommeil dans un environnement nocturne bruyant.
+
+Document 2 – Réduction du bruit par trois types de bouchons d’oreille
+
+Source : D’après l’article « Les meilleurs bouchons d’oreilles pour mieux dormir » paru sur
+le site lemonde.fr
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Sur 12 points
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquage radioactif, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Partie 1 – Marquage radioactif du glucose
+1- Rappeler la définition de la demi-vie d’un noyau radioactif, grandeur
+caractéristique de ce dernier.
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+2- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+3- Un nombre initial de 10 000 noyaux de 14C est présent dans un échantillon de
+glucose marqué au 14C. Calculer, en expliquant le raisonnement, le nombre de
+noyaux de 14C restants au bout de quatre demi-vies.
+4- À partir du document 2, déterminer la durée nécessaire pour obtenir un nombre
+de noyaux de 14C égal à 40 % du nombre initial. Expliquer la démarche retenue.
+Document 3 – expérience historique d’utilisation du marquage radioactif
+Ernest Lawrence (1901-1958), physicien américain et titulaire du prix Nobel de
+physique en 1939, inventa et développa un dispositif permettant de produire des
+isotopes radioactifs tels que le carbone 11, l’azote 13 et l’oxygène 15. En 1937,
+Lawrence demanda à son collègue chimiste Martin Kamen (1913-1985) d’assister le
+physiologiste Israel Chaikoff (1902-1966) dans les travaux portaient sur le
+métabolisme des sucres chez les Rats. Pour réaliser ces études, du glucose
+radioactif marqué au 11C (11C – glucose) fut photosynthétisé par des algues d’eau
+douce à partir du 11CO2. Les mesures expérimentales permettant sa détection
+échouèrent en raison du faible nombre de noyaux restants à la fin du processus de
+détection. En 1940, Kamen trouva une alternative au 11C en utilisant du carbone 14
+(14C).
+Source : d’après https://www.universalis.fr/encyclopedie/carbone-14-et-les-traceursradioactifs
+
+5- À partir du document 3 et des résultats trouvés à la question 2, justifier
+l’utilisation préférentielle du carbone 14 en biochimie.
+Partie 2 – Utilisation du glucose radioactif et compréhension du mode d’action
+de la cytochalasine B
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 4).
+Document 4 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane plasmique.
+
+Légendes :
+CW = Paroi ; Mb = Membrane
+plasmique ; N = Noyau ; V =
+vacuole ; M = Mitochondries ;
+Cp = Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+6- Citer la technique qui a permis d’obtenir la photographie présentée dans le
+document 4.
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 5.
+
+Document 5 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+7- Montrer, à partir des documents 4 et 5, que la Levure est en interaction avec son
+milieu grâce à des structures spécifiques qui seront nommées.
+
+Document 6 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée, en un temps donné, par la cellule est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+8- À partir des informations tirées du document 6 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).

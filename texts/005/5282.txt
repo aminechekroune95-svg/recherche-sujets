@@ -1,0 +1,429 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1378579, "at": "2026-11-23T09:26:42+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 15
+
+SUJET SI-E3C-06-04
+
+Constitution du sujet :
+
+Étude d'une performance du produit ........................ Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 8 à 12
+
+Documents réponses ................................................. Pages 13 à 15
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation d’Effibot
+Effibot (figure 1) est un robot de manutention intelligent,
+capable de fonctionner avec deux modes collaboratifs avec
+un opérateur (Follow-me et Precede-me) et en mode
+totalement autonome. Équipé de deux pupitres, le robot est
+entièrement réversible.
+Effibot est en permanence
+protégé par un système
+anticollision, fonctionnant à
+360° autour du véhicule, qui
+lui permet d’éviter et de
+contourner automatiquement
+tout obstacle qu’il aura
+détecté dans son
+environnement.
+Mission du robot et
+diagramme de définition
+de blocs :
+
+Figure 1 : : robot de manutention
+Effibot
+
+Figure 2 : Mission du système
+
+Figure 3 : diagramme de
+définition de blocs
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique :
+Lors d’un virage serré, le robot Effibot peut-il perdre la vision du piéton qu’il doit
+suivre en mode collaboratif « follow-me » ?
+Lors de l’activation du mode « follow-me », le robot Effibot suit l’opérateur se tenant
+devant le véhicule (Effibot) à l’aide du télémètre laser.
+Question I-1
+
+Compléter le document DR 1 en indiquant les grandeurs physiques avec
+leurs unités caractérisant la puissance échangée entre les différents
+blocs.
+Les grandeurs d’effort seront notées en bleu et celles de flux en rouge.
+Définir la fonction du bloc « Réducteur » dans la chaîne de puissance du
+robot Effibot.
+Contrôle de la trajectoire du robot en virage
+Figure 3
+DR 1
+
+La figure 4 présente le
+paramétrage associé à l’étude
+cinématique du robot Effibot.
+⃗ ,y
+⃗ ,z
+⃗ ) est un repère fixe
+R0 (O,x
+lié au sol.
+⃗⃗⃗e ,y
+⃗⃗⃗e ,z
+⃗⃗⃗e ) est un repère
+R1 (Ge,x
+Figure 4 : schéma du robot Effibot (1)
+
+lié au robot Effibot.
+L’étude porte sur un demi-tour du
+robot Effibot à sa vitesse maximale.
+Afin de conserver la vision du
+piéton, le robot doit prendre le
+virage sans déraper, la roue
+droite (2) et la roue gauche (3)
+doivent tourner à des vitesses
+différentes.
+On se propose de déterminer la
+relation entre ces fréquences de
+rotation afin d’alimenter l’algorithme
+de la gestion des moteurs de roues.
+
+Figure 5 : trajectoire et
+mouvement du robot Effibot (1)
+
+Données et paramètres :
+– Ge, centre de masse du robot Effibot (1) ;
+– R, rayon de courbure ou rayon du virage (Rminimal = 1 200 mm) ;
+– θ̇ 10 , vitesse angulaire du robot Effibot (1) par rapport à R0 ;
+– A et B : points de contact entre le sol et les roues droite (2) et gauche (3) au
+virage ;
+– e = AB, largeur de voie ou empattement (e = AB = 660 mm) ;
+Question I-2
+
+Pour les trois phases, définir le mouvement du robot Effibot (1) dans le
+repère R0 ainsi que la trajectoire du point Ge dans le repère R0.
+En utilisant les données de type « Values » du document DR1 et dans
+l’hypothèse où les roues ne patinent pas, calculer la vitesse maximale du
+robot Effibot (1) pour la phase n°1.
+⃗⃗ G ϵ1/R ‖ =
+Pour la suite, on prendra comme valeur maximale de la vitesse ‖V
+Figure 3 et 5
+DR 1
+
+e
+
+-1
+
+VG e = 6 km∙h
+Le robot Effibot (1) s’engage dans le virage à vitesse constante (phase n°2).
+Question I-3
+Figure 5
+
+À partir des données, exprimer littéralement le rayon du virage de la roue
+droite (2) noté RA et le rayon du virage de la roue gauche (3) noté RB en
+fonction de R et de e puis donner la relation littérale des vitesses
+⃗⃗ Aϵ1/R ‖ et ‖V
+⃗⃗ Bϵ1/R ‖ en fonction de θ̇ 10 , de R et de e.
+
+On s’intéresse au contact de la roue droite (2) avec le sol.
+Données et paramètres :
+On donne θ̇ 21 =
+
+Figure 6 : : contact de la roue droite (2) avec le sol (0)
+
+⃗ Aϵ2/1 ‖
+
+Avec,
+– D, diamètre de la roue
+droite (2) ;
+– θ̇ 21 , vitesse angulaire de la
+roue droite (2) par rapport au
+robot Effibot (1).
+– ⃗⃗VAϵ2/1 , vitesse du point A
+appartenant à la roue droite (2)
+par rapport au robot Effibot (1).
+⃗⃗VAϵ1/R =V
+⃗⃗ Aϵ1/2 +V
+⃗⃗ Aϵ2/R
+
+Question I-4
+Figure 6
+
+Pour le contact entre la roue et le sol, établir l’hypothèse permettant
+d’écrire pour la roue droite (2)
+⃗⃗ Aϵ1/𝑅 ‖
+̇θ21 =
+En utilisant les résultats de la question I-3, montrer alors que
+θ̇ 10 ∙(2∙R + e)
+θ̇ 21 =
+
+Les diamètres de la roue droite (2) et de la roue gauche (3) sont égaux.
+Une étude similaire peut être menée pour la roue gauche (3) ce qui permet d’établir
+le rapport, noté k, entre la vitesse angulaire de la roue gauche (3) et celle de la roue
+droite (2) en fonction du rayon de courbure du virage R ainsi que de l’empattement e.
+e
+θ̇ 31 R - 2
+Relation 1
+k=
+=
+θ̇ 21 R + e
+À partir des données réelles des codeurs du robot Effibot, a été extrait l’évolution de
+θ̇ 21 et θ̇ 31 en fonction du rayon de courbure :
+
+Figure 7 : vitesse de rotation des roues en fonction du rayon de courbure
+
+Question I-5
+Figure 7
+Relation 1
+
+Question I-6
+Figure 7
+
+Vérifier, pour un rayon de courbure de 1 200 mm, que les valeurs
+mesurées sont cohérentes avec l’expression de k donnée dans la
+relation 1.
+Justifier, au regard de la problématique, la nécessité de connaître la
+valeur du rapport k en fonction du rayon de courbure du virage.
+À l’aide de la figure 7, vérifier la possibilité pour le robot de s’engager à
+6 km∙h-1 dans un virage avec un rayon de courbure de 1 200 mm.
+
+COMMANDE DUFONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique :
+Comment informer l'utilisateur du robot Effibot(1) de l'état de charge de la batterie ?
+Le synoptique (figure 8) présente une modélisation d’une partie de la chaine
+d’énergie assurant la gestion de la charge de la batterie.
+
+Figure 8 : modélisation d'une partie de la chaîne d’information.
+
+Un premier programme de calcul (non étudié dans le sujet) implanté dans un
+microcontrôleur du robot Effibot(1), ayant pour paramètre d'entrée, la température, la
+tension batterie et le courant moyen débité, permet de déterminer le niveau de
+charge de la batterie (ou sa capacité restante) entre 100 % et 0 %.
+Le code fourni en sortie du CAN (convertisseur analogique numérique) est sous
+forme binaire codé sur 8 bits. Ce code binaire est compris entre (00000000) 2 et
+(01100100)2 (soit entre 0 et 100 en décimal).
+
+Figure 9 : fonctionnement en fonction de la capacité de la batterie
+
+Un deuxième programme, "Etat batterie", permet d'avertir l'utilisateur du robot
+Effibot de l'état de charge de la batterie. La batterie étudiée a une capacité de 100 %
+égale à 17 A∙h.
+Question II-1
+Figure 9
+
+Exprimer les pourcentages de la capacité restante du seuil de Niveau
+bas, Niveau critique et Seuil d'arrêt en mesurant les pourcentages sur la
+figure 9 et caractériser, en watt-heure, l’énergie utilisable par le robot
+jusqu’au seuil d’arrêt.
+Remarque: Le seuil d'arrêt exprime une capacité insuffisante pour
+mouvoir le robot.
+
+Le programme implanté dans le microcontrôleur permettant de signaler les différents
+niveaux de batterie implique les grandeurs d’entrée et de sortie données ci-dessous.
+Grandeur d'entrée :
+– Taux : chaîne de 8 caractères
+#code binaire représentatif du niveau de taux de charge de 0 à 100
+Grandeurs de sortie :
+– Bip : booléen
+# Bip = 1 indique que le bip sonore est activé
+– voyant_Rouge : booléen
+# voyant_Rouge = 1 indique que le voyant rouge est allumé (le niveau de batterie est
+inférieur au seuil critique)
+Le programme "Etat batterie" utilise 3 fonctions (ou sous-programmes) :
+– Tempo(N) est une fonction de temporisation avec pour argument N, de type
+entier représentant la durée en milliseconde de la fonction Tempo. ;
+– 3_Bips(T) est fonction qui génère 3 bips sonores espacés de 1 seconde avec
+pour argument T.
+T est une chaîne de 8 caractères (#code binaire représentatif du niveau de taux de
+charge).
+M est une chaîne de 8 caractères (#représente la valeur du taux lors du dernier
+appel de la fonction 3_Bips() c'est un code binaire représentatif du niveau de taux de
+charge).
+– 1_Bip() est la fonction qui génère 1 bip sonore.
+Question II-2
+DR 2 et DR 3
+
+Compléter l'algorithme du programme "Etat batterie" (DR 2) et
+l'algorithme de la fonction "3Bips(T)" (DR 3), en accord avec les
+descriptifs ci-dessus.
+
+Question II-3
+Figure 8
+DR 4
+
+Caractériser les échanges d'informations « type d’information n°1, n°2,
+n°3 et n°4 » de la chaîne d'information présente de la figure 8 et DR 4.
+Les types d’informations peuvent être : "Numérique", "Analogique" ou
+"Logique".
+
+Pour effectuer le traitement informatique du niveau de la batterie afin d’indiquer à
+l’utilisateur la bonne information, il est nécessaire d’acquérir et de traiter celle-ci.
+Les courbes de la figure 10 indiquent la valeur de la tension de la batterie en fonction
+de la profondeur de décharge.
+
+Figure 10 : courbe de décharge - Lithium-Ion vs Plombs Acide
+
+La profondeur de décharge exprime la capacité consommée par le robot.
+La tension batterie est relevée puis divisée par un coefficient de 11,6 afin de ramener
+celle-ci entre 0 V et 5 V, puis convertie en un code binaire sur 10 bits. Ce code est
+traité via un programme de calcul qui transmet la variable Taux au programme "Etat
+batterie".
+Question II-4
+Figures 3 et 10
+
+Déterminer, à l'aide du diagramme de définition de blocs (figure 3) et de
+la figure 10, les niveaux de tension batterie correspondant aux seuils
+suivant :
+– 100 % ;
+– Niveau bas ;
+– Niveau critique ;
+– Seuil d'arrêt.
+
+Construire un tableau mettant en relation les valeurs des tensions en
+entrée du CAN, les codes binaires et hexadécimaux représentant ces
+tensions, pour les seuils :
+– Niveau bas" ;
+– Niveau critique ;
+– Seuil d'arrêt.
+La durée de vie d'une batterie dépend de plusieurs critères, dont le nombre de cycles
+de charge effectué. Afin d'optimiser l'utilisation de celle-ci, les cycles de charge sont
+détectés par identification de la batterie (Code_Batterie) puis mémorisés afin de
+connaître à tout moment le nombre de cycles effectué (Batterie_En_Service()).
+Une fonction Mesure_Cycle_Charge permet de tenir à jour le nombre de cycle de
+charge effectué par une batterie suivant les critères suivants :
+– si le nombre de cycles est supérieur à 300 un message affiche " la batterie a
+atteint 50% de sa durée de vie" et la fonction retourne au programme principal
+'Batterie OK' ;
+– si le nombre de cycles est supérieur à 600, un message affiche "la batterie
+doit être recyclée" et la fonction retourne au programme principal 'Batterie
+HS' ;
+– si le nombre de cycles est inférieur à 300, la fonction retourne au programme
+principal 'Batterie OK'.
+La fonction implantée dans le microcontrôleur permettant de détecter le nombre de
+cycles implique les grandeurs d’entrée et de sortie données ci-dessous.
+Argument d'entrée de la fonction "Mesure_Cycle_Charge":
+– Code_Batterie : chaîne de caractères
+#représente le code de la batterie
+Fonction du programme principal utilisé par la fonction "Mesure_Cycle_Charge"
+– Batterie_En_Service() est une fonction qui prend comme paramètre d’entrée
+une chaîne de caractères qui représente le code de la batterie (exemple
+'2017_SP23') et qui renvoie pour valeur un entier qui représente le nombre de
+cycles qu'a subi la batterie (exemple : 500).
+Question II-5
+DR 5
+
+Compléter le programme de la fonction "mesure_Cycle_Charge" afin que
+celui-ci corresponde au descriptif ci-dessus
+
+Une tension de 55 V est mesurée aux bornes de la batterie et
+Batterie_En_Service(2017_SP23) = 601
+
+Question II-6
+DR 5
+
+Indiquer quel message retournera la fonction "mesure_Cycle_Charge".
+Indiquer en quoi l'utilisateur du robot Effibot(1) sera correctement informé
+de l'état de charge de la batterie.
+
+DOCUMENTS RÉPONSES
+
+Courant [A]
+
+Grandeur de flux :
+
+Tension [V]
+
+Grandeur d’effort :
+
+Q I – 1 DR 1 : Diagramme des blocs internes [Motorisation]
+
+Q II-2 DR 2
+
+Q II-2 DR 3
+
+Initialisation
+Bip = 0
+Voyant_Rouge = .......
+M = 01100100
+répéter
+lire Taux
+si Taux =< 00011110 et Taux >
+............. alors
+3_Bips(Taux)
+fin si
+sinon si Taux=<...............
+et Taux >...............
+alors
+......................
+......................
+fin si
+sinon
+.................... =1
+
+si M ....T:
+.................
+M=T
+.......................
+
+Q II-3 DR 4
+
+Q II – 5 DR 5
+fonction: Mesure_Cycle_Charge(Code_Batterie):
+Batterie_En_Service[Code_Batterie]=Batterie_En_Service[.......................]+......
+Si Batterie_En_Service[Code_Batterie]> ................................. Alors
+Afficher ("la batterie a atteint 50% de sa durée de vie")
+Retourner 'batterie OK'
+Sinon Batterie_En_Service[Code_Batterie]>.............:
+Afficher ("la batterie doit être recyclée")
+Retourner '............................'
+.................
+Retourner '..............................'

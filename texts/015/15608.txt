@@ -1,0 +1,180 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1219032, "at": "2026-11-23T09:29:06+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Prolifération et détection des punaises de lit
+Sur 10 points
+Les punaises de lit sont des insectes qui se nourrissent du sang de mammifère à
+sang chaud. Elles vivent au côté de l’Homme depuis des milliers d’années. Depuis
+les années 1990, on observe une recrudescence à l’échelle mondiale. La France
+n’est pas épargnée par ce fléau. La première partie concerne la résistance des
+punaises de lit aux insecticides tandis que la seconde partie s’intéressera à un
+moyen de détecter des punaises de lit à l’aide de l’intelligence artificielle.
+Partie 1 – Résistance des punaises de lit aux insecticides
+Document 1 – Graphique présentant la mortalité des populations, issues de
+deux souches de punaises de lit, soumises chacune à une
+quantité croissante de pesticides
+
+La courbe en pointillé correspond à une souche de punaises de lit prélevée sur le
+terrain tandis que la courbe en trait plein correspond à une souche de laboratoire.
+La souche de laboratoire n’est pas préalablement soumise aux pesticides.
+Source : https://doi.org/10.1111/eva.13550
+
+1- Justifier que la souche de punaise de lit de terrain est plus résistante que celle de
+laboratoire.
+Document 2 – Coupe transversale de pattes de punaise de lit récupérées en
+laboratoire ou sur le terrain, observées au microscope
+électronique à balayage
+Punaise de lit de la souche de laboratoire
+
+Punaise de lit de la souche de terrain
+
+C
+C
+
+La cuticule (notée C sur les clichés) est une couche protectrice et imperméable
+limitant le passage de molécules.
+La double flèche
+
+représente l’épaisseur de la cuticule.
+Source : https://doi.org/10.1093/gbe/evae158
+
+2- À partir des photographies de coupes transversales de pattes de punaise de lit
+présentées dans le document 2, estimer l’épaisseur de la cuticule pour chaque
+souche. Le raisonnement s’appuiera sur une mesure effectuée au niveau des
+doubles flèches notée C.
+3- Indiquer comment on peut déterminer, de manière précise et rigoureuse,
+l’épaisseur de la cuticule de chaque souche.
+4-
+
+Déduire de ces résultats l’origine de la résistance aux pesticides des punaises
+de lit.
+
+5- Construire un raisonnement argumenté qui permet d’affirmer que la sélection
+naturelle est un mécanisme conduisant à la résistance des punaises de lit aux
+insecticides.
+Partie 2 – L’intelligence artificielle (IA) pour détecter les punaises de lit
+Document 3 – Une société innove avec l’intelligence artificielle pour aider les
+hôtels dans la lutte contre les punaises de lit
+Un fondateur d’une entreprise de détection des punaises de lit a communiqué dans
+la presse que « le nombre d’infestations double en France tous les cinq ans ».
+Pour faire face à ce fléau, un hôtel parisien a récemment utilisé un appareil dernier
+cri pour détecter la présence de punaises de lit dans l’établissement.
+Un boîtier, posé à proximité du lit d’une chambre, diffuse des phéromones pour
+attirer les punaises. Lorsque l’une d’entre elles pénètre la boîte, une photo est
+prise par une caméra embarquée couplée à une intelligence artificielle (IA). Si
+l’insecte s’avère être une punaise de lit, une alerte est envoyée par mail à
+l’hôtelier.
+Source : d’après un article de BFM TV
+
+Document 4 – Courbe de modèles
+Modèle 1
+
+Modèle 2
+
+6- Parmi les deux modèles du document 4 qui représentent l’évolution du nombre
+d’infestations en France durant les dernières années, indiquer en justifiant celui
+qui traduit le mieux les propos du fondateur de l’entreprise de détection de
+punaises de lit présentés dans le document 3.
+7- Parmi les trois propositions ci-dessous, indiquer l’extension qui pourrait
+correspondre au type de fichier généré par la camera et traité par l’intelligence
+artificielle parmi les 3 suivantes : .exe,.jpg,.txt.
+8- Sachant qu’une photo prise par la caméra comporte 8 millions de pixels et que
+chaque pixel est codé sur 3 octets, calculer le nombre maximal de photos prises
+par la caméra que peut contenir un espace de stockage de 32 Go.
+Donnée : 1 Go = 109 octets
+9- En utilisant vos connaissances, expliquer pourquoi ce système basé sur
+l’intelligence artificielle devient de plus en plus performant.
+
+Exercice 2 – Niveau terminale
+Thème « Le futur des énergies »
+
+Capteur photovoltaïque
+Sur 10 points
+Les capteurs photovoltaïques à base de semiconducteurs équipent de plus en plus de
+logements en France, ce qui témoigne d’une
+prise de conscience par la population des
+problématiques environnementales.
+Nous allons chercher à identifier si l’utilisation actuelle de l’énergie issue de
+panneaux photovoltaïques peut répondre aux besoins électriques.
+Partie 1 – Fonctionnement d’un capteur photovoltaïque
+On s’intéresse dans un premier temps aux caractéristiques des capteurs
+photovoltaïques et à leur empreinte carbone.
+
+Figure 1 – Spectre d’émission du Soleil et spectres d’absorption de trois semi-conducteurs
+
+1- Indiquer, en justifiant votre choix, le numéro du semi-conducteur (1, 2 ou 3 de la
+figure 1) le plus adapté pour équiper un capteur photovoltaïque.
+
+Figure 2 – Chaîne énergétique lors du fonctionnement du capteur photovoltaïque
+
+2- Recopier et compléter le diagramme de la figure 2.
+3- En déduire que le fonctionnement d’un panneau photovoltaïque ne produit pas
+de dioxyde de carbone.
+L’empreinte carbone liée à l’utilisation d’un capteur photovoltaïque n’est cependant
+pas nulle.
+4- Proposer une explication possible de ce fait.
+Partie 2 – Utilisation de l’énergie obtenue par un panneau photovoltaïque
+5- Déterminer la puissance maximale délivrée par le panneau solaire étudié sur la
+figure 3 page suivante, pour les deux dates considérées.
+On souhaite utiliser le panneau solaire pour charger une voiture. Le pic de puissance
+n’est alors pas le paramètre pertinent. En effet, pour pouvoir la charger, il faut qu’elle
+reçoive au minimum une puissance de 100 W.
+6- Déterminer la plage horaire et la durée de charge possibles pour chacune des
+deux dates.
+Une voiture électrique a une batterie qui peut stocker 52 kWh.
+7- Montrer que, pour charger une batterie de voiture en février à la puissance de
+100 W, il faudrait une surface minimale de panneaux solaires d’environ 130 m 2.
+
+Figure 3 - Puissance délivrée à deux époques de l’année par un panneau de 1 m2
+Source : d’après P.O. Logerais et al. Étude par simulation de l’influence du vieillissement et
+des conditions climatiques sur la production électrique d’un module photovoltaïque
+Conférence JITH 2013
+
+Partie 3 – Alimentation électrique d’une région : la Provence
+8- En utilisant le document 1 page suivante, montrer qu’il existe des décalages
+importants entre les besoins en électricité de la Provence et la production
+photovoltaïque.
+9- À partir de l’ensemble de vos réponses et de vos connaissances, identifier un
+avantage et un frein à l’utilisation des panneaux photovoltaïques pour répondre
+aux besoins énergétiques d’une région.
+
+Document 1 – Évolution annuelle de la consommation en énergie électrique et
+de la production électrique en Provence
+En Provence-Alpes-Côte d’Azur, la consommation (corrigée des aléas
+météorologiques et calendaires) de l’année 2023 s’élève à 39 TWh.
+En 2023, la production solaire s’est établie à 3,1 TWh.
+Source : RTE France (https://www.rte-france.com)
+
+pourcentage
+
+On représente ci-dessous la consommation électrique et la production
+photovoltaïque d’un module photovoltaïque, en pourcentages de la consommation
+maximale et de la production maximale.
+
+Sources : d’après provence-energie-citoyenne.fr et apresdemain28.wixsite.com

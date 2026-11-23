@@ -1,0 +1,268 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1095672, "at": "2026-11-23T09:26:46+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 3 à 4
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 5 à 7
+
+1 Document réponse ................................................... Page 9
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en
+difficulté, qui s'appuient sur un produit unique. Un premier exercice s'intéresse à l'étude
+d'une performance du produit. Tandis que le second exercice porte sur la commande du
+fonctionnement du produit ou la modification de son comportement.
+
+PRÉSENTATION DE LA MONTURE DU TÉLESCOPE
+L'astronomie amateur est une activité de loisirs qui consiste en l'observation d'objets du ciel
+diurne et nocturne situés au-delà du globe terrestre.
+La pratique de l’astronomie requiert l’utilisation de matériel optique : le télescope qui est
+installé sur son pied, appelé aussi monture. La monture soutient le télescope, et permet le
+déplacement en rotation suivant 3 axes :
+- un déplacement manuel qui incline l’ensemble pour tenir compte de la position de
+l’observateur : angle égal à la latitude du lieu
+- deux déplacements motorisés pour se déplacer dans le ciel (voir figure n°1).
+Une séance d’astronomie, généralement nocturne, consiste à observer plusieurs objets
+célestes dans le ciel pendant quelques temps. La monture doit alors pouvoir suivre un objet
+malgré la rotation de la terre, puis proposer des déplacements plus rapides pour ‘passer’
+sur un autre objet céleste. La commande est manuelle par l’intermédiaire de la raquette
+(boîtier de commande), automatique grâce à des positions d’objets pré-enregistrées dans
+la raquette.
+L’étude porte sur la motorisation de l’axe d’ascension sur la monture Sky-Watcher NEQ6.
+La motorisation admet une large gamme de vitesse de rotation, allant de 1 fois jusqu’à
+800 fois la vitesse de rotation de la terre.
+
+Télescope
+
+Motorisation
+de l’axe de
+déclinaison
+
+Oculaire
+
+Raquette
+
+Trépied
+Figure n°1
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Lors de la recherche d’un objet céleste, l’astronome utilise le déplacement rapide
+(correspondant à 800 fois la vitesse de rotation de la terre). Dès qu’il voit la première partie
+de l’astre qu’il souhaite observer à travers l’oculaire, il relâche le bouton de commande sur
+la raquette.
+Premier aperçu
+et identification
+de l’astre
+
+L’astre est
+passé trop
+loin
+
+Temps d’arrêt
+
+La mesure de la vitesse
+lors de l’arrêt est donnée
+sur le graphe des vitesses
+ci-contre.
+
+ωmax = 0,0604 rad·s-1
+
+ω
+ω
+
+Ph
+as
+
+Le temps de réaction de la
+part de l’opérateur pour
+relâcher la commande est
+de 0,22 seconde.
+L’inertie de l’ensemble
+étant
+importante,
+la
+décélération
+est
+programmée suivant une
+pente constante.
+
+Ph
+as
+
+t1 = 0,22s
+
+Temps de
+réaction de
+l’opérateur
+
+t2 = 0,57s
+
+Arrêt progressif du
+mouvement dû à l’inertie
+
+Temps total d’arrêt
+
+t
+
+L’astronome a-t-il perdu de vue l’astre à cause de la rotation du télescope due à
+l’arrêt de l’ensemble lors de l’utilisation de la vitesse rapide ?
+Question I.1
+
+Déterminer la vitesse de rotation de la terre (sur la base de 1 tour en
+24 heures), puis calculer l’écart entre la vitesse théorique rapide de
+rotation du télescope (800 fois la vitesse de rotation de la terre) et la
+vitesse mesurée ωmax = 0,0604 rad·s-1, en pourcentage de la vitesse
+théorique.
+
+Question I.2
+
+Caractériser les deux phases décrites sur le graphe des vitesses.
+
+Question I.3
+
+Calculer pour chaque phase le déplacement angulaire (respectivement
+1 et 2), puis en déduire le déplacement angulaire total  correspondant
+à l’arrêt de la rotation du télescope.
+
+Question I.4
+
+Comparer la valeur précédente ( total) avec un angle maxi de 1° audelà duquel l’astre n’est plus visible car sorti du champ visuel.
+
+La chaîne cinématique de la motorisation est donnée ci-après :
+
+Moteur
+pas à pas
+
+ωm
+
+Réducteur par roues et
+vis sans fin
+Réduction : r = 1/909
+
+ωt
+
+Télescope
+
+Rendement :  = 0,46
+
+Le moteur de référence NEMA M-1713₁,5 S est un moteur pas à pas dont la vitesse de
+rotation est limitée à 560 tr·min-1 maximum.
+Question I.5
+
+Le télescope tournant à ωmax = 0,0604 rad·s-1, calculer la vitesse de
+rotation du moteur et conclure quant à sa compatibilité.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION
+DE SON COMPORTEMENT
+Problématique : L’ensemble raquette et monture est-il capable d’offrir une nuit
+d’observation suivant toutes les déclinaisons δ et ascensions α ?
+
+Il est possible de stocker 42200 objets célestes. Chacun de ces objets utilise 12 caractères
+Question II.1 À partir de la présentation de la monture et du bdd, expliquer le rôle des
+différents blocs qui participent au réglage de la déclinaison.
+
+(12 chars, un octet chacun) pour être nommé, un nombre à virgule flottante (float, 32bits)
+pour la déclinaison et un autre pour l’ascension.
+
+Question II.2
+
+Calculer le nombre d’octets nécessaire afin de stocker ces informations.
+La capacité mémoire de la raquette est de 1 Go. Indiquer le rôle de
+l’espace mémoire qui reste de disponible vis-à-vis de l’automatisation de
+la monture.
+
+Voici un extrait de la documentation de la raquette qui permet de régler l’affichage et le
+clavier de cette dernière.
+
+Accédez au menu Setup\Handset Setting et
+appuyez sur ENTER.
+sélectionner LCD Contrast puis utilisez les flèches
+Gauche et Droite pour régler le contraste de
+l’écran.
+sélectionner LED Backlight puis utilisez les flèches
+Gauche et Droite pour régler l’intensité du
+rétroéclairage du clavier de la raquette.
+sélectionner LCD Backlight puis utilisez les flèches
+Gauche et Droite pour régler l’intensité du
+rétroéclairage de l’écran.
+Appuyez sur ESC pour quitter le menu des
+réglages.
+
+Pour aider l’utilisateur, on se propose de traduire
+cette documentation sous forme d’algorigramme.
+
+Question II.3
+
+Compléter l’algorigramme correspondant au réglage du clavier et de
+l’écran de la raquette sur le document réponse DR1.
+
+Lors d’une nuit d’observation, l’astronome amateur observe une vingtaine d’objets « à
+raison d’environ 15 minutes par objet » et reste dessus environ 15 minutes par objet. Par
+conséquent cela occasionne 20 déplacements à grande vitesse (800x) pour passer d’un
+objet à l’autre et 20 déplacements à vitesse sidérale pour l’observation.
+
+Question II.4
+
+D’après les informations données par le constructeur la monture
+consommerait 2A. A partir des informations données dans le bdd donner
+la capacité de la batterie. Dans ce cas, déterminer si la capacité de la
+batterie est correcte pour observer 3 nuits sans recharger cette dernière.
+Chacune des nuits correspond à une utilisation de 6 heures.
+
+La valeur de l’intensité consommée par la monture nous semble sur évaluée. Pour vérifier
+cette valeur nous avons procédé à un essai correspondant aux conditions d’utilisation
+explicitées précédemment.
+Lors d’une nuit d’observation, l’astronome amateur observe une vingtaine d’objets et reste
+dessus environ 15 minutes par objet. Par conséquent cela occasionne 20 déplacements de
+3,5 minutes à grande vitesse (800x) pour passer d’un objet à l’autre (Courant dans le
+moteur : Imoyen = 638mA) et 20 déplacements de 15 minutes à vitesse sidérale pour
+l’observation (Courant dans le moteur : Imoyen = 212mA).
+
+Extrait de la consommation en courant
+
+Courant en mA
+
+3,5 min
+
+15 min
+
+Temps en minutes
+
+Question II.5
+
+À partir des mesures réalisées calculer le courant moyen consommé par
+la monture et justifier le choix de la batterie.
+
+Question II.6
+
+Conclure sur la capacité d’offrir des nuits d’observations suivant toutes
+les déclinaisons δ et ascensions α ?
+
+DOCUMENT RÉPONSE – DR1
+
+Question II.3 :

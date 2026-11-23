@@ -1,0 +1,148 @@
+{"pages": 7, "method": "pdftotext", "bytes": 958256, "at": "2026-11-23T09:34:02+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+NUMERISATION ET COMPRESSION D’UN SIGNAL SONORE
+À l’aide d’un microphone, on a enregistré le signal sonore produit par un diapason.
+Le début du signal analogique obtenu est représenté sur la Figure 1.
+Figure 1
+Le diapason
+
+1- Préciser si ce signal représente un son pur ou un son composé. Justifier.
+2- À l’aide d’un logiciel, on procède à la numérisation de ce signal.
+Le logiciel procède en deux étapes : l’échantillonnage du signal puis sa
+quantification.
+À l’issue de ces deux opérations, on obtient le signal ci-dessous (La Figure 2b
+représente le même signal que celui de la Figure 2a mais enregistré sur une durée
+plus courte).
+Figure 2a
+
+Figure 2b
+
+2-a- Rappeler en quoi consiste l’échantillonnage d’un signal sonore analogique.
+2-b- Déterminer, parmi les valeurs du tableau ci-dessous, la fréquence d’échantillonnage
+utilisée pour cet enregistrement. On justifiera en s’appuyant sur la figure 2-b.
+8 000 Hz
+16 000 Hz
+24 000 Hz
+32 000 Hz
+
+3- Le signal échantillonné a été quantifié sur 16 bits.
+3-a- Préciser le nombre de valeurs différentes que l’on peut coder avec une
+quantification sur 16 bits.
+3-b- Si la quantification était réalisée sur 8 bits au lieu de 16 bits, indiquer les
+différences à prévoir sur la qualité sonore et sur la taille du fichier de
+stockage.
+À l’aide d’un logiciel, on enregistre plusieurs morceaux de musique en qualité CD
+(« Compact Disc » en anglais ou disque compact), ce qui correspond à un
+enregistrement sur deux voix (stéréo) avec une fréquence d’échantillonnage de 44 100
+Hz et une quantification sur 16 bits
+4- Déterminer l’espace nécessaire, en Mégaoctet (Mo), pour stocker le fichier obtenu
+lors de l’enregistrement en qualité CD d’un morceau de musique d’une durée de 3
+minutes.
+5- Le format mp3 correspond à une compression avec perte d’informations. Préciser
+ce que cela signifie.
+
+6- L’enregistrement d’un second morceau de musique a généré un fichier numérique
+de 90,25 Mo de données. On l’enregistre au format mp3 pour le compresser.
+Le fichier mp3 ainsi obtenu a une taille de 7,22 Mo.
+Calculer le taux de compression, défini comme étant le quotient de la taille du
+fichier compressé par la taille du fichier initial.
+
+EXERCICE 2
+LA FORME DE LA TERRE SOUS L’ANTIQUITÉ
+Dès l’Antiquité, les Grecs savaient que la Terre était sphérique. Ils ont même mesuré
+sa circonférence. Cet exercice étudie deux approches historiques liées à la
+connaissance de la forme de la Terre.
+Partie A. La Terre est ronde
+Voici un texte d'après Aristote, philosophe et savant grec (384-322 avant JC), dont la
+pensée a longtemps influencé les sciences.
+Document 1.
+« Dans les éclipses de Lune, la ligne qui limite l'ombre
+est toujours une ligne incurvée. Puisque l'éclipse est
+due à l'interposition de la Terre entre la Lune et le
+Soleil, c'est la forme de la surface de la Terre,
+sphérique, qui produit cette ligne courbe. De plus, la
+manière dont les astres nous apparaissent ne prouve
+pas seulement que la Terre est ronde, mais aussi que
+son étendue est assez petite.
+En effectuant un déplacement minime vers le Sud ou
+vers le Nord, nous voyons se modifier le cercle
+d'horizon; les astres au-dessus de nous changent
+considérablement et ce ne sont pas les mêmes qui
+brillent dans le ciel quand on va vers le Nord et quand
+on va vers le Sud. Certains astres visibles en Égypte
+ou vers Chypre sont invisibles dans les régions
+septentrionales. Par ailleurs les astres qui, dans les
+régions septentrionales, sont visibles à tout instant,
+connaissent un coucher dans les pays cités plus haut.
+Tout cela ne montre pas seulement que la Terre est
+ronde, mais encore qu'elle a la forme d'une sphère de
+modeste dimension ; autrement, on n'apercevrait pas
+si vite les effets d'un déplacement si court. »
+
+Le dessin ci-dessus, qui illustre la
+démonstration d'Aristote, est
+extrait de la Cosmographie de
+Petrus Apianus (1581).
+
+Du Ciel, Il, 14, Éd. des Belles Lettres, 1965
+1- Extraire du texte deux observations qui permettent à Aristote d’affirmer que la
+Terre est ronde.
+2- Donner un autre argument qui permet aujourd’hui de dire que la Terre n’est pas
+plate.
+3- Citer un objet, autre que la sphère, susceptible de projeter une ombre circulaire.
+
+Partie B. Mesure de la circonférence de la Terre
+Document 2.
+Ératosthène (276 - 194 av JC) est célèbre pour sa méthode de mesure de la
+circonférence de la Terre. Il était connu qu'à Syène (Assouan aujourd’hui), le 21 juin
+à midi, on pouvait voir l'image du Soleil se refléter au fond d'un puits. Cela signifie
+que le Soleil est exactement à la verticale du puits le jour du solstice d’été, c’est-àdire que Syène est sur le tropique du Cancer. Mais le même jour, à la même heure,
+dans la ville d'Alexandrie située plus au Nord on constate que les rayons du soleil
+n'atteignent pas le fond des puits. On mesure que les rayons du Soleil font, avec la
+verticale, un angle d’un cinquantième de tour (soit 7,2°) comme noté dans le schéma
+ci-dessous.
+
+Pour mener son calcul, Ératosthène s’appuie sur plusieurs hypothèses :
+- la Terre est sphérique,
+- Syène est sur le tropique du Cancer,
+- Syène et Alexandrie sont sur le même méridien,
+- il faut 50 jours à une caravane de chameaux (qui parcourait une distance
+quotidienne de 100 stades) pour relier Syène et Alexandrie.
+- les rayons du Soleil arrivant sur la Terre sont parallèles entre eux.
+Indication : le stade utilisé par Ératosthène est une ancienne unité de longueur valant
+environ 157 m.
+
+̂ au centre
+4- En tenant compte de ces hypothèses, déterminer la mesure de l’angle 𝑈
+de la Terre. Justifier.
+55-a- Déterminer la distance en kilomètres entre Syène et Alexandrie.
+5-b- En refaisant les calculs d’Ératosthène, vérifier que son estimation de la
+circonférence de la Terre est proche de la véritable circonférence de 40 000 km.
+Document 3. Carte actuelle de l’Égypte.
+
+6- À l’aide de la carte du document 3, quelles hypothèses d’Ératosthène peuvent être
+remises en question ?

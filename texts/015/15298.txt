@@ -1,0 +1,434 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1336386, "at": "2026-11-23T09:40:11+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Le codage d’une couleur se fait à l'aide de trois nombres compris chacun, en écriture décimale, entre 0 et 255
+(code RVB).
+La couleur « vert impérial » est codée, en écriture décimale, par (0, 86, 27).
+Le codage hexadécimal correspondant est :
+(0, 134, 39)
+(0, 134, 1B)
+(0, 56, 1B)
+(0, 56, 39)
+Question A 2
+Combien de bits doit-on utiliser au minimum pour représenter en base 2 le nombre entier 72 ?
+Question A 3
+Quelle est la représentation binaire sur un octet (c'est-à-dire sur 8 bits) de l'entier −4 ?
+0000 0100
+1111 1010
+1111 1011
+1111 1100
+Question A 4
+Le résultat de la multiplication en binaire 1011 * 101 est égal au nombre binaire :
+102111
+101110
+110111
+110011
+Question A 5
+Un entier positif est représenté sur 8 bits par 0001 0110.
+En utilisant le complément à 2, quelle est la représentation sur 8 bits de son opposé ?
+1001 0110
+1110 1001
+1110 1010
+1001 0111
+
+Question A 6
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+
+Thème B : types construits
+Question B 1
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 2
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+Question B 3
+On construit le dictionnaire suivant du nombre d’heures de classe par jour de la semaine :
+heures = {"lundi": 6, "mardi": 8, "mercredi": 3, "jeudi": 7, "vendredi": 6}
+On a initialisé somme à 0, quelles instructions permettront-elles obtenir le nombre total d’heures de classe ?
+for i in range(5):
+somme = somme + heures[i]
+for jour in items(heures):
+somme = somme + heures[jour]
+for jour in heures:
+somme = somme + jour
+for jour in heures:
+somme = somme + heures[jour]
+Question B 4
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 5
+On considère le code suivant :
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B 6
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Une erreur s'est glissée dans le tableau, car le symbole du Fluor est F et non Fl. Quelle instruction permet de
+rectifier ce tableau ?
+mendeleiev.append('F')
+mendeleiev[1][6] = 'F'
+mendeleiev[6][1] = 'F'
+mendeleiev[-1][-1] = 'F'
+Question C 2
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 3
+On considère le code suivant :
+def clearfield(f):
+for i in range(len(f)):
+f[i]['code'] = None
+return f
+fiche = [
+
+{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}
+
+]
+
+Que renvoie clearfield(fiche) ?
+[{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}]
+
+[{"nom": "pierre", "note": None, "code": 125},
+{"nom": "pol", "note": None, "code": 82},
+{"nom": "jack", "note": None, "code": 135}]
+
+[{"nom": "pierre", "note": 5.99, "None": 125},
+{"nom": "pol", "note": 2.99, "None": 82},
+{"nom": "jack", "note": 7.99, "None": 135}]
+
+[{"nom": "pierre", "note": 5.99, "code": None},
+{"nom": "pol", "note": 2.99, "code": None},
+{"nom": "jack", "note": 7.99, "code": None}]
+
+Question C 4
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i], table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+Question C 5
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 6
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D 2
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D 3
+Un élément form (un formulaire) d'une page HTML contient un élément button de type submit. Un clic sur ce
+bouton :
+envoie les données du formulaire vers la page définie par l'attribut action de l'élément form
+efface les données entrées par l'utilisateur dans le formulaire
+envoie les données du formulaire vers la page définie par l'attribut method de l'élément form
+ne fait rien du tout si un script Javascript n'est pas associé au bouton
+Question D 4
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 5
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 6
+
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+Question E 2
+Quel matériel permet d'interconnecter des ordinateurs entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+Question E 3
+Quel est le principe de l'encapsulation des données dans un réseau informatique ?
+Cacher les données afin que l'on ne puisse pas les lire
+Mettre les données les unes à la suite des autres
+Chiffrer les données afin que l'on ne puisse pas les lire
+Inclure les données d'un protocole dans un autre protocole
+Question E 4
+Parmi les systèmes d’exploitation suivants, lequel est libre ?
+Mac OS
+iOS
+Microsoft Windows
+GNU/Linux
+Question E 5
+Parmi les éléments suivants, lequel est un capteur ?
+une diode électroluminescente
+un moteur
+un accéléromètre
+un afficheur à cristaux liquides
+Question E 6
+On a exécuté la commande ls -l et obtenu l’affichage suivant :
+total 0
+-rw-rw-rw- 1 etudiant etudiant 15 Jul 2 13:29 exercice
+
+drwxrwxrwx 1 etudiant etudiant 512 Jul 2 13:37 seances
+Que permettent d’affirmer les informations obtenues ?
+exercice et seances sont deux fichiers « ordinaires »
+exercice est un fichier « ordinaire » et seances est un répertoire
+exercice et seances sont deux répertoires
+exercice est un répertoire et seances est un fichier « ordinaire »
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F 2
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 3
+Combien de fois l'instruction x = x+2 va-t-elle être exécutée dans le script suivant ?
+x = 2
+while x < 10:
+x = x + 2
+1 fois
+4 fois
+5 fois
+6 fois
+Question F 4
+
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+i = i + 1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 5
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F 6
+Un programme Python commence par la ligne :
+import os
+À quoi sert cette ligne ?
+c'est le début du squelette de tout programme Python
+c'est la déclaration du système d'exploitation (operating system)
+Python 3.6 exige cette ligne au début de tout programme
+c'est la déclaration d'une bibliothèque (ou module) que le programme compte utiliser
+
+Thème G : algorithmique
+Question G 1
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n = 0
+for item in L:
+if item == x:
+n = n + 1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste
+deux fois plus grande ?
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x
+Question G 2
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G 3
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1
+Question G 4
+
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 5
+Un algorithme de recherche dichotomique sur un tableau trié de mille entiers s'exécute en 50 millisecondes.
+Quelle est la durée approximative de son exécution sur un tabelau trié d'un million d'entiers ?
+la même durée : environ 50 millisecondes
+une durée environ deux fois plus longue : environ 100 millisecondes
+une durée environ mille fois plus longue : environ 50 secondes
+une durée qui dépasserait l'année, car la complexité de l'algorithme est exponentielle
+Question G 6
+On exécute le script suivant :
+liste=[48, 17, 25 , 9, 34, 12, -5, 89, 54, 12, 78, 8, 155, -85]
+def recherche(liste):
+valeur_1 = liste[0]
+valeur_2 = liste[0]
+for item in liste:
+if item < valeur_1:
+valeur_1 = item
+elif item > valeur_2:
+valeur_2 = item
+return(valeur_1, valeur_2)
+Que va renvoyer l'appel recherche(liste) ?
+(-85,155)
+[-85,155]
+(155,-85)
+[155,-85]

@@ -1,0 +1,192 @@
+{"pages": 7, "method": "pdftotext", "bytes": 940095, "at": "2026-11-23T09:33:57+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+LA TERRE ET VÉNUS : DES PLANÈTES QUI SE RESSEMBLENT
+Le Soleil est l'étoile la plus proche de la Terre, l'énergie qu'il rayonne permet le
+développement de la vie.
+Document 1. Profil spectral du soleil, dans le domaine visible
+La courbe irrégulière représente les données expérimentales. La courbe régulière est
+une modélisation du spectre d’émission solaire par un spectre de corps noir.
+
+Document 2. Loi de Wien
+La loi de Wien permet de déterminer la température de surface d’une étoile à partir
+de la longueur d’onde 𝜆𝑚𝑎𝑥 pour laquelle l’intensité d’émission est maximale selon la
+relation :
+𝜆𝑚𝑎𝑥 × 𝑇 = 2,9 × 10−3 m ∙ K
+
+où
+
+- 𝜆𝑚𝑎𝑥 désigne la longueur d’onde, exprimée en mètre (m), pour laquelle l’intensité
+d’émission est maximale.
+- T est la température de surface de l’étoile, exprimée en kelvin (K).
+
+Document 3. Caractéristiques de Vénus et de la Terre
+Constante
+solaire
+Température
+Composition de
+Planète
+de surface
+Albédo
+Cplanète
+l’atmosphère
+moyenne (K)
+(W.m-2)
+
+Distance
+au soleil
+(U.A.)
+
+Rayon
+de la
+planète
+(km)
+
+Diazote (78 %)
+Terre
+
+1368
+
+0,3
+
+Dioxygène (21 %) 1,0
+
+6371
+
+Autres gaz (1%)
+Diazote (3,5 %)
+Vénus
+
+2639
+
+0,78
+
+Dioxyde de
+carbone (96,5 %)
+
+0,72
+
+6050
+
+Autres gaz
+(traces)
+
+La notion de « constante solaire » est précisée dans le texte, en question 6.
+La présence de dioxyde de carbone dans l’atmosphère participe à l’effet de serre
+atmosphérique.
+1-a Déterminer graphiquement la longueur d’onde 𝜆𝑚𝑎𝑥 pour laquelle l’intensité
+d’émission du soleil, considéré comme un corps noir, est maximale.
+1-b- En déduire à l’aide du document 2 la valeur de la température de surface du
+Soleil que l’on peut déduire du document 1.
+1-c- La température de la surface du Soleil vaut en réalité 5778 K. Proposer une
+explication de l’écart entre cette valeur et le résultat précédent.
+2- Recopier sur la copie la proposition correcte parmi les suivantes :
+La valeur de l’albédo donne une mesure :
+- du pouvoir absorbant d’une surface donnée ;
+- de la puissance solaire parvenant sur une surface donnée ;
+- de la proportion de puissance lumineuse réfléchie ou diffusée par une
+surface éclairée ;
+- de la quantité de gaz à effet de serre dans l’atmosphère.
+
+3- Sur le document 4 sont représentées deux courbes, étiquetées (a) et (b). L’une
+représente un modèle de la puissance radiative émise par la Terre en fonction de
+la température de la Terre, l’autre représente un modèle de la puissance solaire
+absorbée par la Terre, en tenant compte de l’albédo terrestre, mais sans tenir
+compte de l’effet de serre.
+Document 4 : puissances absorbée et émise en fonction de la température
+
+5E+17
+4,5E+17
+4E+17
+3,5E+17
+3E+17
+2,5E+17
+2E+17
+1,5E+17
+1E+17
+5E+16
+
+(b)
+(a)
+
+TEMPÉRATURE (K)
+
+Note : sur l’axe des ordonnées les valeurs indiquées (en Watt) sont à
+comprendre ainsi : 5E+17=5×1017
+
+3-a- Préciser, en justifiant la réponse, ce que représentent les courbes (a) et (b).
+3-b- Déterminer graphiquement la température d’équilibre de la Terre prédite par
+cette modélisation, en expliquant la méthode employée.
+Commenter le résultat, sachant que l’on observe une température moyenne de
+l’ordre de 288 K (15 °C) à la surface de la Terre.
+
+EXERCICE 2
+NUMERISATION ET COMPRESSION D’UN SIGNAL SONORE
+À l’aide d’un microphone, on a enregistré le signal sonore produit par un diapason.
+Le début du signal analogique obtenu est représenté sur la Figure 1.
+Figure 1
+Le diapason
+
+1- Préciser si ce signal représente un son pur ou un son composé. Justifier.
+2- À l’aide d’un logiciel, on procède à la numérisation de ce signal.
+Le logiciel procède en deux étapes : l’échantillonnage du signal puis sa
+quantification.
+À l’issue de ces deux opérations, on obtient le signal ci-dessous (La Figure 2b
+représente le même signal que celui de la Figure 2a mais enregistré sur une durée
+plus courte).
+Figure 2a
+
+Figure 2b
+
+2-a- Rappeler en quoi consiste l’échantillonnage d’un signal sonore analogique.
+2-b- Déterminer, parmi les valeurs du tableau ci-dessous, la fréquence d’échantillonnage
+utilisée pour cet enregistrement. On justifiera en s’appuyant sur la figure 2-b.
+8 000 Hz
+16 000 Hz
+24 000 Hz
+32 000 Hz
+
+3- Le signal échantillonné a été quantifié sur 16 bits.
+3-a- Préciser le nombre de valeurs différentes que l’on peut coder avec une
+quantification sur 16 bits.
+3-b- Si la quantification était réalisée sur 8 bits au lieu de 16 bits, indiquer les
+différences à prévoir sur la qualité sonore et sur la taille du fichier de
+stockage.
+À l’aide d’un logiciel, on enregistre plusieurs morceaux de musique en qualité CD
+(« Compact Disc » en anglais ou disque compact), ce qui correspond à un
+enregistrement sur deux voix (stéréo) avec une fréquence d’échantillonnage de 44 100
+Hz et une quantification sur 16 bits
+4- Déterminer l’espace nécessaire, en Mégaoctet (Mo), pour stocker le fichier obtenu
+lors de l’enregistrement en qualité CD d’un morceau de musique d’une durée de 3
+minutes.
+
+5- Le format mp3 correspond à une compression avec perte d’informations. Préciser
+ce que cela signifie.
+6- L’enregistrement d’un second morceau de musique a généré un fichier numérique
+de 90,25 Mo de données. On l’enregistre au format mp3 pour le compresser.
+Le fichier mp3 ainsi obtenu a une taille de 7,22 Mo.
+Calculer le taux de compression, défini comme étant le quotient de la taille du
+fichier compressé par la taille du fichier initial.

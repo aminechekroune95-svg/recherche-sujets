@@ -1,0 +1,405 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1311258, "at": "2026-11-23T09:26:36+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 11
+
+PRÉSENTATION DU STEPPER
+Au sens de l’OMS, la santé est un état de bien-être physique, mental et social. Le
+sport contribue à maintenir ce bon état de santé. L’accès à une pratique sportive
+pour tous est un enjeu primordial
+uc [Modèle ] [ UC STEPPER cas géné ral ]
+pour notre société.
+STEPPER
+
+Le sujet porte sur l’étude d’un
+stepper qui se pratique en salle ou à
+domicile.
+L’entrainement efficace réalisé par le
+stepper est une pratique reconnue
+pour l’amélioration de l’état de santé.
+
+Dépenser de
+l'énergie physique en
+effectuant un effort se
+rapprochant d'une
+montée d'escalier
+
+Utilisateur
+Durée de l"effort
+Nombre de marches
+montées
+Estimation des calories
+dépensées
+
+Etre informé des
+paramètres liés à son
+effort physique
+
+Le stepper est un appareil qui reproduit à l’infini le mouvement effectué quand on
+monte des marches sans les à-coups habituels. Idéal pour se muscler jambes et
+fessiers et se maintenir en bonne condition physique.
+packa ge [
+
+]
+«Finalité»
+
+«problem»
+
+Amé liore r l'é tat de santé e n
+pratiqu ant une activ ité
+{Id = "0" ,
+Text = "Le produit doit
+reproduire la montée des
+marches d'escalier sans à
+coups habituels"}
+
+Le sport est reconnu pour
+améliorer l'état de santé et
+procurer un bien-être
+physique, mental et social.
+La pratique du stepper
+permet de reproduire la
+montée de marches
+d'escalier sans choc.
+
+«de riveReqt»
+
+«Mission»
+
+«system»
+
+Ste pp e r
+
+«satisfy»
+
+Pe rme ttre à l'utilisate ur, de
+re produ ire la mont é e
+d'e scal ie r
+{Id = "1" ,
+Text = "Le produit doit
+permettre à un pratiquant de
+reproduire, le plus fidèle ment
+possible, les mouvements et
+les efforts acco mplis lors d'une
+montée d'escalier."}
+
+Figure 1 : mission et cas d’utilisation du stepper
+
+EXERCICE 1 - ÉTUDE D'UNE PERFORMANCE DU STEPPER
+Problématique : pour reproduire une hauteur de marche franchie plus importante, le
+constructeur du stepper envisage d’augmenter le débattement angulaire des pédales
+tout en conservant les vérins amortisseurs actuellement utilisés. Cette modification
+est-elle possible ?
+Le stepper est constitué de deux ensembles {pédale 3 + vérin amortisseur 1,2}
+identiques implantés symétriquement sur un châssis 0. La réponse à la
+problématique nécessite l’étude d’un seul de ces deux ensembles comme l’illustre la
+figure 2.
+
+Figure 2 : principaux éléments du stepper
+
+Figure 3 : diagramme des exigences
+
+Modélisation cinématique et paramétrage du système :
+⃗⃗⃗0 , y
+⃗⃗⃗0 , z⃗⃗⃗0 ) au châssis 0, le repère R1 =(A, x
+⃗⃗⃗1 , y
+⃗⃗⃗1 , z⃗⃗⃗1 )
+On associe le repère fixe R0 =(O, x
+⃗⃗⃗3 , y
+⃗⃗⃗3 , z⃗⃗⃗3 ) à la pédale 3.
+au corps 1 et le repère R3 =(O, x
+1(t) : paramètre de position du corps 1 par rapport au châssis 0.
+3(t) : paramètre de position de la pédale 3 par rapport au châssis 0.
+(t) : paramètre de position de la tige 2 par rapport au corps 1.
+On donne les caractéristiques géométriques suivantes :
+⃗⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗
+⃗⃗⃗3 + yBy
+⃗⃗⃗3
+⃗⃗⃗1
+OB = xBx
+AB = (t)x
+OA = xAx⃗⃗⃗0 + yAy⃗⃗⃗0
+
+Figure 4 : schéma cinématique du stepper
+Question 1-1 Citer l’exigence du cahier des charges concernant l’angle de rotation de
+la pédale par rapport au châssis.
+Figure 3
+Question 1-2 Compléter le tableau du document réponse DR1 en spécifiant le nom
+ainsi que la caractéristique géométrique de chacune des liaisons
+figurant sur le schéma cinématique.
+DR1
+
+La structure cinématique du stepper correspond à une chaîne fermée de solides pour
+laquelle il est possible de déterminer la loi d’entrée sortie géométrique par une
+technique dite de « fermeture géométrique ».
+Question 1-3 En s’appuyant sur la problématique énoncée et sur la modélisation
+cinématique proposée, identifier le paramètre d’entrée et le paramètre
+de sortie du système, puis exprimer la relation vectorielle traduisant la
+fermeture géométrique de la chaîne de solides passant par les points O,
+A et B.
+Question 1-4 En exploitant les projections sur les axes x⃗⃗⃗0 et y
+⃗⃗⃗0 de la relation
+vectorielle exprimée à la question 1.3, retrouver la loi d’entrée-sortie λ(t)
+en fonction de α3(t) et des paramètres géométriques constants xA, yA, xB
+et yB :
+λ(t) = √(xBcos3 - yBsin3 - xA)2 + (xBsin3 + yBcos3 - yA)2
+L’exigence de débattement angulaire de la pédale 3 par rapport au châssis 0 issue
+du cahier des charges de la version modifiée du stepper impose : -10° < 3 < +20°
+L’application numérique de la loi d’entrée-sortie a été réalisée. La courbe obtenue est
+tracée sur la figure 5.
+La course maximale du vérin amortisseur utilisé sur le stepper est de 80 mm.
+Question 1-5 Déterminer la course du vérin amortisseur nécessaire pour respecter
+l’exigence du cahier des charges puis conclure sur la possibilité de
+Figure 5
+réalisation de cette modification constructive au regard du critère
+exploité.
+
+ = f(3)
+
+ (mm)
+
+-10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+3 (°)
+Figure 5 : loi d’entrée-sortie du stepper
+
+EXERCICE 2 - MODIFICATION DU COMPORTEMENT DU STEPPER
+Problématique : on veut faire évoluer le stepper classique en un stepper connecté.
+Le stepper connecté en plus de son afficheur LCD standard permettra de transmettre
+sans fils sur un téléphone mobile les informations relatives à l’activité physique avec
+beaucoup plus de détails, et un suivi des exercices au fil des séances. Cet ajout de
+fonctionnalité permettra-t-il encore l’utilisation de deux piles type AAA comme source
+d’alimentation ?
+Diagramme de définition des blocs de la chaine d'information :
+bdd [Modè le] [BDD STEPPE R]
+
+Capteur depression
+
+micro contrôleur
+
+micro contrôleur
+
+afficheur LCD
+
+Microcontrôleur
+
+transmissionsérie
+
+Capteur deposition ILS micro contrôleur
+
+Afficheur LCD
+
+Application sur téléphone
+
+Transmission série
+transmetteur Bluetooth
+
+Bouton poussoir
+
+Transmetteur Bluetooth
+pile
+«system»
+
+Stepper
+
+Pile
+
+application sur téléphone
+
+references
+
+Domyos
+
+Figure 1 : chaine d'information
+Capter le nombre de marches (Step)
+Le système fonctionne avec deux piles en série de type AAA, de tension nominale de
+1,5V et d'une capacité de 1,25 A·h. Le fonctionnement sur pile nécessite de limiter
+au maximum les dépenses d'énergie pour obtenir une durée de vie d'environ un an.
+Le principe d'acquisition d'une marche (1 step) est le suivant :
+À chaque action sur la pédale du stepper, le piston du vérin change de position. Le
+piston est magnétique. Sur le corps du vérin amortisseur est placé un interrupteur à
+lames souples (ILS). Cet interrupteur se ferme en présence d'un champ magnétique,
+et s'ouvre en l’absence de champ magnétique.
+
+La structure d'acquisition est la suivante :
+Position
+sortie
+
+Vp
+3V
+
+RT
+
+Iem
+
+Piston
+
+1 MW
+
+Micro contrôleur
+
+Position
+entrée
+
+Rz
+
+Entrée D0
+
+Sud
+Nord
+
+ILS
+
+10 MW
+
+Vem
+Vérin amortisseur
+
+Figure 2 : Schéma électrique du capteur
+Question 2-1 Indiquer l'état de l'interrupteur ILS pour la position entrée et la position
+Figure 2
+sortie du piston du vérin. Calculer l'intensité du courant "Iem" et la
+différence de potentiel "Vem" pour les deux positions du vérin.
+Fonction « Compter les marches » :
+L'entrée "marche" correspond à l'entrée du capteur de la partie précédente.
+L'entrée "Remise à zéro" permet de mettre à zéro le comptage des marches.
+Marche (step)
+
+Entrée i0
+
+Sortie O0
+
+Traitement
+Remise à zéro
+
+Entrée i1
+
+Sortie O1
+
+La sortie O0, est une sortie numérique de type entier non signé format 16 bits
+représentant le nombre de "marches" (maximum 65536).
+La sortie O1 pilote l'alimentation de l'afficheur LCD et de la transmission sans fils :
+Si la sortie O1 est à 0, alors le microcontrôleur est en veille, l'afficheur LCD et
+l'émetteur Bluetooth ne sont pas alimentés.
+La sortie O1 passe à 0 si les entrées i0 ou i1 sont inactives durant plus de 10
+minutes.
+La sortie O1 passe à 1 si l'entrée i0 ou i1 change d'état.
+
+On donne le graphe d'états gérant le comptage et l'alimentation :
+
+Figure 3 : graphe d'états
+Question 2-2
+Figure 3
+DR2
+
+Compléter les parties du graphe d'états en pointillé sur le document
+réponse 1.
+
+Fonction « Communiquer » :
+Le stepper va communiquer avec une application sur téléphone mobile au travers
+des modules de communication Bluetooth.
+L'information transmise sera essentiellement le nombre de "marches" (voir figure 1)
+L'application déduit du nombre de "marches" :
+
+le nombre total de "marches" ;
+le rythme de "marches" ;
+la durée de l'exercice ;
+le nombre de calories brulées.
+
+Protocole de transmission :
+La liaison utilisée entre le traitement et le module Bluetooth est une liaison série :
+la vitesse de transmission, en Bauds (bits par seconde) de 9600 Bd ;
+le début de transmission commence par un « bit start » (toujours à « 0 ») ;
+le nombre de bits transmis est de 8 bits ;
+pas de bit de parité ;
+la fin de la transmission 1 « bit Stop » (toujours à « 1 ») ;
+l’ordre de transmission : on commence par le bit de poids faible jusqu'au bit de
+poids fort;
+le niveau de tension TTL niveau haut 3 V, niveau bas 0 V.
+
+Structure de la trame de communication :
+Durant l'exercice physique, à chaque "marche", le stepper envoie une trame au
+module Bluetooth qui sera reçu par le téléphone mobile et interprété par l'application
+du téléphone.
+La trame est structurée comme indiqué sur la figure 4 :
+Nombre de marche 16 bits
+Identifiant du
+stepper ici 45
+
+LF (Line Feed) 10
+
+ID
+
+NbmH
+
+NbmL
+
+cloture
+
+t
+
+Figure 4 : structure de la trame
+Question 2-3 Convertir l'identifiant 45 (en base décimale) en binaire format 8 bits.
+Compléter le chronogramme sur le document réponse 2 représentant le
+DR2
+début de la trame de transmission série.
+Consommation énergétique :
+On considère que le stepper sera utilisé en moyenne 15 minutes par jour tout au long
+de l'année.
+Du fait de l’ajout des fonctions acquisition, comptage et transmission Bluetooth, la
+consommation du stepper est de :
+
+10 µA en phase de veille ;
+9 mA en phase de d’activité.
+
+Le cahier des charges (voir problématique) prévoit que les deux piles AAA (LR3)
+doivent permettre une autonomie d'environ une année.
+On rappelle, 1 𝐶 (1 𝑐𝑜𝑢𝑙𝑜𝑚𝑏) = 1 𝐴 ∙ 𝑠
+
+Question 2-4 Calculer la quantité d'électricité (en coulomb) consommée durant une
+année. Conclure sur le respect du cahier des charges concernant
+l'autonomie énergétique du stepper.
+
+DOCUMENTS RÉPONSES
+DR1 :
+Question 1-2
+
+Liaisons entre
+
+Nom et caractéristique de la liaison
+
+L01 : Corps 1 / Châssis 0
+
+L12 : Tige 2 / Corps 1
+
+L23 : Pédale 3 / Tige 2
+
+L03 : Pédale 3 / Châssis 0
+
+DR 2
+Question 2-2
+
+Question 2-3
+𝑁10 = 45 ⟹ 𝑁2 = … … … … … … … …
+
+Tension (V)
+3V
+
+0V
+
+t
+Identifiant du stepper 45

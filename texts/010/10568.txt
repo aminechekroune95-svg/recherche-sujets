@@ -1,0 +1,309 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1683435, "at": "2026-11-23T09:22:44+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+La détection du tabagisme passif (10 points)
+La fumée de cigarette est l'un des polluants atmosphériques les plus répandus dans
+l'environnement intérieur. Allumer une cigarette initie une série de processus chimiques
+impliquant la transformation ou la formation de plus de 4 000 espèces chimiques : des
+goudrons, des gaz toxiques, des composés irritants, etc. Les formules de quelques espèces
+chimiques présentes dans la fumée de cigarette sont représentées ou citées ci-dessous.
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/149/?sequence=7
+
+Le tabagisme passif est défini comme l'inhalation involontaire de la fumée de tabac présente
+dans l'air. Dans cette partie on cherche à déterminer si une femme enceinte est victime d’un
+tabagisme passif.
+Données :
+- Numéros atomiques : H (Z = 1) ; C (Z = 6) ; N (Z = 7)
+- Masse molaire de l’ion thiocyanate SCN− : 58 g·mol-1
+- Cercle chromatique :
+
+1. Après avoir recopié la formule semi-développée de chacune des quatre molécules
+représentées ci-dessus, identifier le groupe caractéristique présent et l’associer à une
+famille de composés.
+2. Justifier le nom donné à la propanone.
+3. Établir le schéma de Lewis de la molécule de cyanure d’hydrogène de formule HCN et
+proposer une géométrie pour cette molécule.
+Le cyanure d’hydrogène est absorbé par le corps, puis en partie dégradé en ions thiocyanate
+SCN− que l’on retrouve ensuite dans la salive ou dans l’urine. Dans la salive, par exemple, les
+concentrations en masse en ions thiocyanate sont en moyenne de 112 mg·L-1 chez les nonfumeurs et de 349 mg·L-1 chez les fumeurs. Les ions thiocyanate peuvent donc être
+considérés comme des marqueurs biologiques du tabagisme car leur concentration renseigne
+sur l’exposition d’une personne à la fumée du tabac.
+Principe du dosage
+Un échantillon noté S de 250 µL de salive d’une femme enceinte est prélevé. Les ions
+thiocyanate présents dans l’échantillon étant incolores et n’absorbant pas dans le proche
+ultraviolet, on les fait réagir avec une solution d’ions fer III, 𝐹𝑒 3+ (aq). On obtient 10,0 mL d’une
+solution S’ dans laquelle s’est formée l’espèce ionique de formule 𝐹𝑒(𝑆𝐶𝑁)2+ , soluble dans
+l’eau. La transformation chimique est modélisée par la réaction d’équation suivante :
+−
+3+
+𝑆𝐶𝑁(𝑎𝑞)
++ 𝐹𝑒(𝑎𝑞)
+→ 𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+La courbe ci-dessous représente l'absorbance d'une solution aqueuse contenant l’espèce
+ionique 𝐹𝑒(𝑆𝐶𝑁)2+ en fonction de la longueur d'onde.
+
+A
+0,78
+0,68
+0,58
+0,48
+0,38
+0,28
+
+λ/nm
+
+4. Expliquer pourquoi les ions thiocyanate ne peuvent pas être dosés directement par
+spectrophotométrie UV-visible. Indiquer l’intérêt de les faire réagir avec les ions 𝐹𝑒 3+
+Préparation de la gamme de solution étalon et tracé de la droite d’étalonnage
+On cherche à doser l’espèce chimique 𝐹𝑒(𝑆𝐶𝑁)2+ présente dans la solution S’.
+À partir d’une solution S0 de concentration C0 = 2,0×10−4 mol.L-1 en ions 𝐹𝑒(𝑆𝐶𝑁)2+ , on
+prépare la gamme d’étalonnage composée des solutions S0, S1, S2, S3 et S4 dont les
+concentrations sont données dans le tableau ci-dessous.
+Solution
+S0
+S1
+S2
+S3
+S4
+[Fe(SCN)2+]
+en mol·L-1
+
+2,0×10-4
+
+1,6×10-4
+
+1,0×10-4
+
+0,80×10-4
+
+0,40×10-4
+
+5. Indiquer la verrerie nécessaire pour préparer 50,0 mL de solution S2 à partir de la solution
+S0 en justifiant votre raisonnement.
+On mesure l’absorbance de chacune des solutions et on trace le graphique ci-dessous
+donnant l’évolution de l’absorbance en fonction de la concentration en ions Fe(SCN)2+.
+
+6. Après avoir rappelé l’expression de la loi de Beer-Lambert en indiquant les unités des
+grandeurs, déterminer si les résultats expérimentaux obtenus sont en accord avec cette
+loi.
+Détermination de la concentration en ions thiocyanate dans la salive
+Dans la solution S’ tous les ions thiocyanate contenus dans la salive de la femme enceinte ont
+réagi avec les ions Fe3+ présents en large excès. L'absorbance de la solution S’ a pour valeur
+A = 0,65.
+7. Déterminer la concentration en quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ dans la solution S’.
+En déduire leur quantité de matière dans la solution de volume V = 10,0 mL.
+8. Recopier et compléter le tableau d’avancement ci-dessous. En déduire la relation entre la
+quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ à la fin de la transformation et la quantité de
+matière en ions 𝑆𝐶𝑁 − initialement présente dans la solution.
+−
+𝑆𝐶𝑁(𝑎𝑞)
+
++
+
+3+
+𝐹𝑒(𝑎𝑞)
+
+État du système
+
+Avancement
+(en mol)
+
+État initial
+
+x=0
+
+excès
+
+État final
+
+xmax
+
+excès
+
+n (𝑆𝐶𝑁 − )
+
+n (𝐹𝑒 3+ )
+
+→
+
+𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+n (𝐹𝑒(𝑆𝐶𝑁)2+ )
+
+9. Déterminer la valeur de la concentration en masse des ions thiocyanate SCN− dans
+l’échantillon de salive de la femme enceinte et conclure sur le potentiel tabagisme passif
+de cette femme.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie, même si elle
+n’a pas abouti.
+PARTIE B
+Aspects énergétiques des phénomènes électriques (10 points)
+Autour du petit électroménager
+À la maison, l’électricité́ est facile d’accès, semble inépuisable et nombre de ses utilisations ne
+peuvent pas être remplacées par une autre source d’énergie. Ces usages spécifiques
+représentent plus de la moitié de la consommation d’électricité́ des ménages, chaque foyer
+possédant en moyenne près d’une centaine d’appareils électriques ou électroniques.
+L’efficacité́ énergétique de nos équipements électriques s’améliore régulièrement. Pourtant,
+notre consommation d’électricité́ ne cesse d’augmenter : la consommation d’électricité́ pour
+les petits appareils électroménagers a doublé en vingt ans.
+
+Maitriser sa consommation d’électricité́ , c’est possible : il suffit souvent de bien choisir ses
+équipements, de bien les utiliser et de bien les entretenir.
+En France, le prix du kWh électrique est de l’ordre de 15 centimes d’euros en 2019.
+Sources : guide pratique « réduire sa facture d’électricité » de l’ademe.fr et edf.fr
+Une famille profite de la foire de Paris pour acheter du nouveau petit électroménager.
+Dans les stands, ils repèrent un grille-pain, une machine à café et une bouilloire.
+La famille compte utiliser le grille-pain 5 minutes par jour tous les jours lors du petit-déjeuner.
+Les deux parents prennent chacun un café par jour.
+Consommations moyennes des appareils électriques d’une famille dans la cuisine.
+
+Données :
+- l’énergie thermique 𝐸 reçue par une masse m d’eau lors de la variation de sa température
+est proportionnelle à cette variation :
+𝐸 = 𝑚. 𝑐. (𝑇2 − 𝑇1 )
+avec m la masse d’eau en kg, c la capacité́ thermique massique de l’eau : c = 4185 J.kg–
+1.K–1 et T -T : l’élévation de température en °C ou en K ;
+2 1
+- 1 kWh = 3,6.106 J ;
+- masse volumique de l’eau : 𝜌 = 1,0 kg. L−1.
+Extrait des fiches techniques des appareils
+fiche technique
+fiche technique de la bouilloire
+du grille-pain
+Puissance* : 1500 W
+Puissance* : 2200 W
+Arrêt automatique
+Capacité : 1,6 L
+Prix : 29,99 euros
+Prix : 19,99 euros
+* puissance moyenne reçue par l’appareil en fonctionnement.
+
+fiche technique
+de la machine à café
+30 secondes pour faire un
+expresso
+Prix : 99 euros
+
+Partie 1 : consommation énergétique des appareils électroménagers
+1.1.
+
+1.2.
+1.3.
+
+En utilisant vos connaissances, choisir un ordre de grandeur pour la puissance de la
+machine à café parmi les trois propositions suivantes :
+a : 10 W ; b : 1 kW ; c : 100 kW.
+Nommer le phénomène physique commun mis en jeu pour griller les tartines dans le
+grille-pain ou pour chauffer l’eau de la machine à café ou de la bouilloire.
+Calculer la consommation supplémentaire d’énergie qu’apporterait l'usage de la
+machine à café et du grille-pain sur une année. En déduire la dépense engendrée en
+euros sur une année.
+
+Partie 2 : rendement de la bouilloire
+2.1.
+2.2.
+2.3.
+
+Pourquoi peut-on qualifier le grille-pain ou la bouilloire de convertisseurs d’énergies ?
+Définir le rendement d’un convertisseur. Expliquer sans calcul pourquoi le rendement
+de ces deux appareils électriques n’est pas de 100 %.
+La bouilloire contient un volume V = 0,60 L d’eau initialement à la température
+T1 = 20 °C et la chauffe à la température T2 = 90 °C en 1 min 30 s. Calculer le
+rendement énergétique de cette bouilloire. Établir un bilan énergétique relatif à la
+bouilloire sous la forme d’un schéma énergétique. Commenter.
+
+Partie 3 : modélisation d’une résistance chauffante au laboratoire
+La résistance chauffante d’une bouilloire peut être assimilée à un conducteur ohmique.
+Au laboratoire, on dispose d’un conducteur ohmique immergeable de résistance R que l’on
+place dans un calorimètre (récipient fermé et isolé thermiquement ; les échanges d’énergie
+thermique avec l‘extérieur sont ainsi très faibles). On réalise le montage représenté cidessous.
+
+La résistance est en série avec un générateur de tension, de force électromotrice E, ainsi
+qu’un rhéostat de résistance variable R’ = 33 Ω.
+
+Le calorimètre est rempli d’un volume V d’eau.
+Un voltmètre indique la valeur de la tension aux bornes de la résistance immergeable :
+U = 12,18 V.
+L’ampèremètre indique que la valeur de l’intensité dans le circuit est I = 2,26 A.
+On mesure également la valeur de la température de l’eau à l’aide d’un thermomètre
+électronique.
+Initialement la température de l’eau est T1 = 28,1 °C.
+On déclenche le chronomètre au moment où allume le générateur.
+Les résultats sont consignés dans le tableau ci-dessous.
+t (s)
+température T de 29,1
+29,8
+30,5
+31,8
+l’eau (en °C)
+Le schéma du montage est représenté ci-dessous :
+
+A
+
+32,5
+
+33,4
+
+34,3
+
+35,0
+
+35,9
+
+Résistance
+immergeable
+R
+
+V
+
+R’
+
+résistance R
+Calculer la valeur de la
+immergeable.
+3.2. Compléter le programme écrit en langage Python et proposé en annexe à rendre avec
+la copie aux lignes 2, 3 et 4 afin que celui-ci réalise le tracé de l’écart de température
+T-T1 en fonction du temps exprimé en secondes.
+Le graphe représentant T-T1 en fonction du temps est donné ci-après.
+3.1.
+
+3.3.
+
+On montre que :
+
+𝑅. 𝐼 2
+.𝑡
+𝑚𝑐
+avec m la masse d’eau introduite, c la capacité thermique massique de l’eau. Déterminer la
+valeur du volume d’eau V introduit dans le calorimètre à l’aide du graphe. On prendra
+R = 5,4 Ω.
+(𝑇 − 𝑇1 ) =
+
+Annexe à rendre avec la copie
+Question 3.2.
+Programme permettant de tracer T-T1 en fonction du temps.
+1 import matplotlib.pyplot as plt
+2 temps=
+#liste des valeurs de temps en secondes
+3 ecart_T=
+#liste des valeurs des écarts de températures en °C
+4 plt.plot(
+,
+,'ro',marker='+')
+5 #tracé de ecart_T en fonction du temps
+6 plt.grid(True) #affiche une grille sur le graphe
+7 plt.xlabel("t en s") #nom de l'abcisse
+8 plt.ylabel("ecart temperature en degres") #nom de l'ordonnée
+9 plt.title("ecart temperature en fonction du temps")
+10 plt.savefig('graphe2.png')
+11 plt.show()

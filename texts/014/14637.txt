@@ -1,0 +1,284 @@
+{"pages": 13, "method": "pdftotext", "bytes": 614532, "at": "2026-11-23T09:31:02+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique avec enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude d’une production
+Sur 8 points
+Une entreprise produit et vend du savon. Le savon est présenté sous deux formes :
+sous forme de bloc de savon ou sous forme de savon liquide.
+Les deux parties de l’exercice peuvent être traitées de manière indépendante.
+Partie A
+
+Achat par correspondance de blocs de savon
+
+Pour un achat par correspondance, le client paie le prix des savons proportionnel au
+nombre de savons contenus dans le lot auquel s’ajoute les frais de port fixes c’est-àdire indépendant du nombre de savons.
+Ainsi l’achat par correspondance d’un lot de dix savons coute 31 euros tout compris et
+celui d’un lot de trente savons 81 euros tout compris.
+1- Le prix tout compris est-il proportionnel au nombre de savons ? Pourquoi ?
+2-a- Vérifier que le prix d’un savon contenu dans le lot est 2,50 €.
+2-b- Quel est le coût total d’un lot de cinquante savons achetés par correspondance ?
+2-c- Proposer une formule pour calculer le coût total, noté 𝑐(𝑛), d’un lot de 𝑛 savons,
+frais de port inclus, où 𝑛 est un entier naturel.
+3- Les clients par correspondance les plus fidèles bénéficient d’une réduction
+permanente de 10 % sur le prix des savons et de 50 % sur les frais de port.
+3-a- Quel est le coût total d’une commande par correspondance de trente savons pour
+un client fidèle ?
+3-b- Quel est alors le taux de la remise globale obtenue par un client fidèle pour une
+commande de trente savons ? On arrondira le résultat à 0,1 %.
+
+Partie B
+
+Optimisation de la production de savon liquide
+
+La capacité de production journalière de l’entreprise est de 15 hectolitres de savon
+liquide. On rappelle qu’un hectolitre est égal à cent litres.
+On modélise le coût total, en euro, de fabrication journalière de 𝑥 hectolitres de savon
+liquide par une fonction 𝐶 telle que :
+𝐶(𝑥) = 𝑥 3 − 15𝑥 2 + 75𝑥 + 100 où 𝑥 ∈ [0; 15].
+4- Le responsable de la fabrication estime que les coûts fixes journaliers liés à la
+production de savon liquide s’élèvent à cent euros. A-t-il raison ?
+5- On admet que 𝐶 est dérivable sur [0 ; 15] et on note 𝐶′ la fonction dérivée de la
+fonction 𝐶.
+5-a- Calculer 𝐶′(𝑥) pour tout réel 𝑥 appartenant à [0 ; 15].
+5-b- Justifier que 𝐶′(𝑥) peut s’écrire sous la forme 3(𝑥 − 5)2.
+5-c- En déduire le sens de variation de la fonction 𝐶 sur [0 ; 15].
+6- On donne sur la page suivante quatre courbes dont l’une est la représentation
+graphique de la fonction 𝐶 sur [0 ; 15].
+6-a- De quelle courbe s’agit-il ? Justifier la réponse donnée.
+6-b- Pour des raisons comptables, l’entreprise ne peut engager des coûts de
+fabrication de plus de 600 euros par jour. Estimer graphiquement, aussi précisément
+que possible, la capacité de production journalière de savon liquide autorisée, en
+expliquant la méthode employée.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Histoire d’eau : deux méthodes historiques permettant d’estimer
+l’âge de la Terre
+Sur 12 points
+Deux approches ont permis d’estimer l’âge de la Terre au cours du XIXe siècle. La
+première utilise la mesure de la salinité de l’eau des océans tandis que la seconde se
+base sur l’étude des phénomènes de sédimentation et d’érosion.
+Partie 1. Estimation de l’âge de la Terre à l’aide de la salinité des eaux de mer
+À la toute fin du XIXe siècle, le physicien irlandais John Joly proposa une méthode
+d'estimation de l'âge de la Terre basée sur le taux de sel dans les océans : la salinité.
+Les eaux de pluie ruissellent à la surface de la Terre et se chargent en sel contenu
+dans les roches de la croûte terrestre pour ensuite alimenter les rivières qui, à leur
+tour, se déversent dans les océans. La quantité de sel dissous dans les océans
+résulterait donc du déversement du sel contenu dans les rivières.
+La première question porte sur le calcul de la masse de sel contenue dans les océans.
+1-a Calculer, en km3, le volume total des
+océans modélisés sous la forme d'un
+parallélépipède rectangle (cf. schéma cicontre).
+
+SURFACE
+
+Données utilisées par John Joly :
+
+HAUTEUR
+
+• Superficie totale des océans : 360  106 km2
+• Profondeur moyenne des océans : 3,797 km
+• Masse volumique moyenne des océans : 1,03  109 tonnes par km3
+• L'eau des océans contient environ 1,07 % en masse de sel dissous
+• Déversement des rivières dans les océans : 2,72  104 km3 par an
+• Concentration moyenne du sel dissous dans les rivières : 5 250 tonnes par km3
+1-b Calculer la masse totale des océans en tonnes.
+1-c En déduire que la masse de sel contenue dans les océans est de 1,5  1016 tonnes
+environ. On fera apparaître le calcul.
+
+2- Calculer la masse de sel apportée chaque année par les rivières à l'océan.
+3- En déduire, comme l’a fait John Joly, que l'âge de la Terre calculé par cette méthode
+est d’environ 100 millions d'années.
+4- En réalité, une partie du sel dissous subit une sédimentation dans certaines régions
+littorales et peut également être échangé avec du calcium lors de l'altération sousmarine du basalte. Commenter la validité de la méthode de calcul proposée par John
+Joly.
+Partie 2. Érosion et sédimentation
+Document 1 : un exemple de destruction due à l’érosion
+Le “Grind of the Navir” correspond à une ouverture faite par la mer dans une falaise
+des îles Shetland. Cette ouverture est élargie d’hiver en hiver par la houle qui s’y
+engouffre.
+
+Extrait de la sixième édition de Principles of geology (1833) par Charles Lyell
+
+Document 2 : l’argument des temps de sédimentation et d’érosion par Charles
+Darwin
+« Ainsi que Lyell l’a très justement fait remarquer, l’étendue et l’épaisseur de nos
+couches de sédiments sont le résultat et donnent la mesure de la dénudation1 que la
+croûte terrestre a éprouvée ailleurs. Il faut donc examiner par soi-même ces énormes
+entassements de couches superposées, étudier les petits ruisseaux charriant de la
+boue, contempler les vagues rongeant les antiques falaises, pour se faire quelque
+notion de la durée des périodes écoulées [...]. Il faut surtout errer le long des côtes
+formées de roches modérément dures, et constater les progrès de leur désagrégation.
+[...] Rien ne peut mieux nous faire concevoir ce qu’est l’immense durée du temps, selon
+les idées que nous nous faisons du temps, que la vue des résultats si considérables
+produits par des agents atmosphériques2 qui nous paraissent avoir si peu de puissance
+et agir si lentement. Après s’être ainsi convaincu de la lenteur avec laquelle les agents
+atmosphériques et l’action des vagues sur les côtes rongent la surface terrestre, il faut
+ensuite, pour apprécier la durée des temps passés, considérer, d’une part, le volume
+immense des rochers qui ont été enlevés sur des étendues considérables, et, de l’autre,
+examiner l’épaisseur de nos formations sédimentaires. [...]
+J’ai vu, dans les Cordillères [une chaîne de montagnes], une masse de conglomérats 3
+dont j’ai estimé l’épaisseur à environ 10 000 pieds [3 km] ; et, bien que les conglomérats
+aient dû probablement s’accumuler plus vite que des couches de sédiments plus fins,
+ils ne sont cependant composés que de cailloux roulés et arrondis qui, portant chacun
+l’empreinte du temps, prouvent avec quelle lenteur des masses aussi considérables ont
+dû s’entasser. [...] M. Croll démontre, relativement à la dénudation produite par les
+agents atmosphériques, en calculant le rapport de la quantité connue de matériaux
+sédimentaires que charrient annuellement certaines rivières, relativement à l'étendue
+des surfaces drainées, qu'il faudrait six millions d'années pour désagréger et pour
+enlever au niveau moyen de l'aire totale qu'on considère une épaisseur de 1 000 pieds
+[305 mètres] de roches. Un tel résultat peut paraitre étonnant, et le serait encore si,
+d'après quelques considérations qui peuvent faire supposer qu'il est exagéré, on le
+réduisait à la moitié ou au quart. Bien peu de personnes, d'ailleurs, se rendent un
+compte exact de ce que signifie réellement un million ».
+Extrait “Du laps de temps écoulé, déduit de l’appréciation de la rapidité des dépôts et de
+l’étendue des dénudations”, L'origine des espèces, Charles Darwin, p. 393-398 (1859).
+1 - La dénudation correspond à l’effacement des reliefs par érosion.
+2 - Les agents atmosphériques désignent les agents responsables de l’érosion comme la pluie, le
+gel, le vent.
+3 - Un conglomérat est une roche issue de la dégradation mécanique d'autres roches et composée
+de sédiments liés par un ciment naturel.
+
+5- Expliquer la démarche utilisée par C. Darwin permettant d’estimer un âge minimal
+pour la Terre. La réponse ne doit pas excéder une demi-page.
+6- Commenter les résultats obtenus par ces deux méthodes au regard de l’âge de la
+Terre estimé aujourd’hui.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+De la radiumthérapie à la curiethérapie
+Sur 12 points
+En décembre 1898, Marie et Pierre Curie découvrent un nouvel élément chimique
+qu’ils appellent « radium ». Pierre Curie et Henri Becquerel publient en 1901 un article
+relatant les effets physiologiques du rayonnement du radium.
+Dans les années 1910, Marie Curie, qui dirige alors l’Institut du Radium développe,
+avec le Dr. Regaud qui dirige l’Institut Pasteur, la « curiethérapie ». C’est une méthode
+qui consistait à irradier localement une tumeur cancéreuse en introduisant de fines
+aiguilles contenant du radium.
+L’objectif de l’exercice est de comprendre le principe d’une radiothérapie, la
+curiethérapie.
+Document 1. Les débuts de la curiethérapie
+Les médecins avaient très vite compris que les rayonnements ionisants tuaient plus
+facilement les cellules cancéreuses que les cellules saines, bien qu'ils n'aient pas
+su pourquoi. Mais il y eut un long chemin à parcourir avant qu'ils ne parviennent à
+optimiser les doses de ces rayonnements tout en minimisant les risques pour les
+patients et les opérateurs. À l'âge héroïque, il n'était pas possible de calculer la dose
+de rayonnement émise et les médecins recouraient le plus souvent à une irradiation
+massive aux rayons X d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur. Pour les tumeurs traitées par
+radioactivité, on employait des sels de radium, d'abord contenus dans des tubes en
+verre puis dans des aiguilles en platine, placés contre les tumeurs (ou à l'intérieur)
+ce qui limitait leur usage aux cancers accessibles de l'extérieur et de petite taille
+(cancers du sein, de la peau, du col de l'utérus).
+Source : d’après www.futura-sciences.com, dossier radioactivité : les pionniers
+
+Aiguilles contenant les sels de radium
+utilisées en curiethérapie dans les années 1910
+Source : http://www.jeanboudou.fr/blog/la-grande-decouverte-des-curie
+
+Le radium est un élément radioactif. On estime aujourd’hui sa demi-vie à 1622 ans.
+1. À partir de vos connaissances, expliquer ce qu’est un élément radioactif.
+2. Donner la définition de la demi-vie d’un élément radioactif.
+3. À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre copie :
+La curiethérapie a été utilisée dès le début du XX ème siècle pour soigner des cancers,
+car :
+3a. Les rayonnements produits empêchent les récidives de la tumeur.
+3b. Les rayonnements produits détruisent les cellules des tumeurs.
+3c. Les rayonnements produits pouvaient être facilement dosés et localisés
+avec précision sur la tumeur.
+3d. Les rayonnements produits provoquent uniquement une nécrose des
+cellules cancéreuses.
+
+Document 2. La méthode actuelle de curiethérapie de la prostate
+La curiethérapie de la prostate consiste à installer directement dans l’organe des
+implants radioactifs constitués d'une source radioactive enrobée dans une capsule
+de titane. Un radioélément utilisé est l'iode-125. De 40 à 130 implants sont installés
+dans la prostate, le nombre étant déterminé par le volume de la prostate à traiter.
+Ces implants restent à demeure.
+
+Implants contenant de l’iode125 utilisés en curiethérapie de
+Radiographie du bassin d’un patient traité par
+la prostate
+curiethérapie. Les implants apparaissent sous
+forme de bâtonnets blancs.
+Évolution de la radioactivité des implants en fonction du temps
+Pourcentage
+de radioactivité
+restante (%)
+
+Temps
+(semaines)
+
+Source : d’après http://www.laradioactivite.com/site/pages/Projet_Curietherapie.htm
+
+Document 3. Radioprotection après la pose des implants radioactifs lors d’une
+curiethérapie de la prostate
+La plupart des rayonnements émis par l'iode-125 ont beau être essentiellement
+absorbés dans l’organe à traiter, une fraction touche néanmoins des structures
+proches, comme le rectum ou la vessie par exemple. À cette inquiétude légitime
+pour le patient, s'ajoute un risque pour l'entourage tant que la radioactivité n'a pas
+décru suffisamment : le patient est lui-même radioactif. Quelques précautions
+permettent de réduire le risque. Voici les conseils donnés par l’Institut National du
+Cancer :
+« En cas de curiethérapie par implants permanents (iode-125), la radioactivité des
+sources implantées diminue progressivement dans le temps. Les risques pour
+l’entourage sont jugés inexistants, les rayonnements émis étant très peu pénétrants
+et donc arrêtés presque totalement par le corps lui-même.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 6 mois qui suivent l’implantation. En pratique,
+vous devez notamment éviter les contacts directs et prolongés avec les jeunes
+enfants (par exemple, les prendre sur vos genoux) et les femmes enceintes. »
+Source : d’après https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie/Quel-deroulement
+
+4. À partir de l’exploitation des documents 2 et 3 et de vos connaissances :
+4a. Réaliser sur le document en annexe la courbe de décroissance radioactive de
+l’iode-125 représentant le pourcentage de l’activité restante en fonction du temps.
+4b. Déterminer le temps de demi-vie de l’iode-125.
+4c. L’activité des implants utilisés en curiethérapie est considérée comme faible
+lorsque l’activité restante est inférieure à 15 % de l’activité initiale. Déterminer au bout
+de combien de temps les implants auront une activité faible.
+4d. Justifier la durée des précautions à prendre par le patient concernant son
+entourage.
+5. À l’aide de l’ensemble des documents, donner un intérêt d’utiliser l’iode-125 plutôt
+que le radium pour la curiethérapie. Une réponse argumentée est attendue.
+
+Document réponse à rendre avec la copie
+Exercice 3
+De la radiumthérapie à la curiethérapie
+
+Question 4a)
+
+% de radioactivité restante
+
+Temps (en semaine)

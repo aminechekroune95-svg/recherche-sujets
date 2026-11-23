@@ -1,0 +1,386 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1539937, "at": "2026-11-23T09:31:01+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique avec enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude de l’accidentologie
+Sur 8 points
+Dans cet exercice, on étudie l’accidentologie (circulation en véhicules automobiles) en
+France.
+Partie A
+On considère le tableau et le graphique suivants qui représentent le nombre
+d’accidents corporels en France en fonction des années :
+Année
+
+Nombre
+de tués
+
+2004
+
+5 593
+
+2005
+
+5 318
+
+5 000
+
+2006
+
+4 709
+
+4 000
+
+2007
+
+4 620
+
+2008
+
+4 275
+
+2009
+
+4 273
+
+2 000
+
+2010
+
+3 992
+
+1 000
+
+2011
+
+3 963
+
+2012
+
+3 653
+
+2013
+
+3 268
+
+6 000
+
+3 000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Source : https://www.onisr.securite-routiere.gouv.fr
+1-a- Déterminer la variation absolue du nombre de tués sur les routes entre 2004 et
+2013.
+1-b- Déterminer la diminution moyenne par an du nombre de tués entre 2004 et 2013.
+2- En 2013, on a décidé de fixer comme objectif à l'horizon 2025 une poursuite de la
+baisse de la mortalité dans les mêmes conditions. On choisit de modéliser le nombre
+de tués sur les routes par la fonction affine 𝑓 définie sur [0 ; +∞[, par :
+𝑓(𝑥) = −231,5𝑥 + 469 316 où 𝑥 représente l'année.
+
+2-a- Tracer la représentation graphique de la fonction 𝑓 sur le graphique du document
+réponse fourni en annexe.
+2-b- À l'aide de ce modèle et du graphique tracé sur le document réponse en annexe,
+estimer, avec la précision permise par le graphique, le nombre de tués en 2025.
+3- En réalité, entre 2014 et 2021, le nombre de tués est donné par le tableau suivant :
+Année
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Nombre de
+tués
+
+3 384
+
+3 461
+
+3 477
+
+3 448
+
+3 248
+
+3 244
+
+2 541
+
+2 944
+
+Que peut-on penser du modèle choisi dans la question 2- ?
+Partie B
+On s’intéresse au lien éventuel entre l’âge d’un véhicule impliqué dans un accident et
+le type de gravité de celui-ci (on ne s'intéresse ici qu'aux véhicules de tourisme).
+Le tableau suivant présente le nombre de véhicules impliqués dans un accident de la
+circulation en 2021 en France, en fonction de son âge et de la gravité de l’accident
+(léger, grave non mortel ou mortel) :
+Âge 𝑥 du
+véhicule
+en années
+
+Accident
+léger
+
+Accident grave
+non mortel
+
+Accident mortel
+
+Total
+
+𝑥<5
+
+10 407
+
+3 422
+
+14 403
+
+5 ≤ 𝑥 < 10
+
+8 588
+
+3 185
+
+12 262
+
+10 ≤ 𝑥 < 20
+
+15 993
+
+6 369
+
+1 180
+
+23 542
+
+𝑥 ≥ 20
+
+2 606
+
+1 416
+
+4 339
+
+Total
+
+37 594
+
+14 392
+
+2 560
+
+54 546
+
+Nombre de véhicules de tourisme impliqués
+dans un accident de la circulation en 2021
+Source : https://www.data.gouv.fr
+
+On arrondira les résultats au millième si nécessaire.
+4-a- Calculer la fréquence de véhicules âgés de plus de 20 ans parmi les véhicules
+impliqués dans un accident.
+4-b- Calculer la fréquence des véhicules impliqués dans un accident léger parmi les
+véhicules de plus de 20 ans.
+On choisit au hasard un véhicule impliqué dans un accident (on suppose que tous les
+véhicules impliqués dans un accident ont la même probabilité d’être choisis).
+On appelle 𝐶 l’événement « le véhicule choisi a moins de cinq ans » et 𝐿 l’événement
+« le véhicule choisi est impliqué dans un accident léger ».
+5- Calculer la probabilité de l’événement 𝐶 et la probabilité de l’événement L.
+6- Décrire par une phrase l’événement 𝐶̅ puis calculer sa probabilité.
+7- Décrire par une phrase l’événement 𝐶 ∩ 𝐿 puis calculer sa probabilité.
+8-a- On choisit un véhicule âgé de moins de cinq ans impliqué dans un accident.
+Quelle est la probabilité qu’il soit impliqué dans un accident léger ?
+8-b- Pour un véhicule impliqué dans un accident, le fait d'être impliqué dans un
+accident léger est-il indépendant du fait d'être âgé de moins de cinq ans ? Justifier la
+réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Approche historique de l’âge de la Terre
+Sur 12 points
+Depuis l’Antiquité, la question de l’âge de la Terre a soulevé de nombreuses
+controverses. On se propose d’étudier différentes méthodes ayant permis d’estimer
+l’âge de la Terre au cours de l’histoire des sciences.
+Partie A. Les précurseurs : Buffon et Kelvin
+• La démarche de Buffon
+Georges Louis Leclerc, comte de Buffon, est le premier à réaliser une expérience pour
+déterminer l’âge de la Terre. Partant de l’hypothèse que la Terre a d’abord été une
+sphère de matière en fusion qui a refroidi, il chauffe au rouge 10 boulets de fer forgé
+de tailles différentes et inférieures à 5 pouces (1 pouce = 2,54 cm). Buffon mesure la
+durée de leur refroidissement et extrapole ensuite ses résultats au globe terrestre, dont
+le diamètre connu à l’époque est proche de 13 000 km. Pendant plusieurs années et
+avec des métaux différents, il effectuera plus de 60 expériences, chacune répétée trois
+fois.
+Document 1. Temps de refroidissement des boulets de canon selon leur rayon
+Temps en min
+
+Rayon
+en cm
+
+Buffon écrit :
+« Maintenant, si l’on voulait chercher […] combien il faudrait de temps à un globe gros
+comme la Terre pour se refroidir, on trouverait, d’après les expériences précédentes,
+[…] quatre-vingt-seize-mille six cent soixante-dix ans et cent trente-deux jours pour la
+refroidir à la température actuelle » (extrait de L’Histoire Naturelle, générale et
+particulière, Buffon, 1774).
+• La démarche de Kelvin
+Presque un siècle plus tard, le Britannique Lord Kelvin utilise la théorie de la
+conduction de la chaleur établie par Fourier et modélisée par « l’équation de la
+chaleur ». En considérant que l’intérieur de la Terre est homogène et rigide, il estime
+l’âge de la Terre entre 20 et 400 millions d’années en utilisant l’équation de transfert
+de chaleur.
+Lord Kelvin écrit :
+« Le fait que la température de la Terre augmente avec la profondeur sous la surface
+implique une perte continue de chaleur de l’intérieur par conduction vers l’extérieur, à
+travers ou dans la croûte supérieure. Puisque la croûte supérieure ne devient pas plus
+chaude d’année en année, il doit donc y avoir une perte de chaleur séculaire de la
+Terre entière… Mais il est certain que la Terre devient de plus en plus froide d’âge en
+âge… » (d’après On the Secular Cooling of the Earth, Lord Kelvin, 1862).
+En s’appuyant sur le document 1, les informations précédentes et sur les
+connaissances personnelles, répondre aux questions suivantes.
+1- Expliciter la démarche mise en œuvre par Buffon, ses points forts et ses limites.
+2- Expliciter la démarche mise en œuvre par Lord Kelvin, ses points forts et ses limites.
+3- Commenter les âges de la Terre proposés par Buffon et Kelvin. On attend une
+comparaison des valeurs, de leur précision et de leur ordre de grandeur.
+
+Partie B. Les positions des géologues et de Charles Darwin
+Au XIXe siècle, des géologues à l’instar de Charles Lyell, affirment que l’explication du
+passé de la Terre réside dans l’étude des phénomènes géologiques actuels. Ils
+utilisent la vitesse de sédimentation pour évaluer l’âge de la Terre.
+En considérant que les sédiments se déposent à un rythme compris entre 1 mm et
+1 cm par an, ils estiment l’âge de la Terre a environ 3 milliards d’années.
+Quant à Charles Darwin, il s’oppose à Kelvin dans son ouvrage « De l’origine des
+espèces » paru en 1859. Selon lui, la théorie de l’évolution permet d’expliquer la
+diversité du vivant, mais elle nécessite des temps très longs, de l’ordre du milliard
+d’années.
+
+Document 2. Coupe géologique d’un affleurement géologique à Wöllstein (Allemagne)
+
+L
+
+Argile
+
+Socle (roche magmatique)
+L
+
+L’épaisseur de chaque couche est en mètres.
+D’après Gustave-F. Dollfus, Bulletin de la société géologique de France, 1911
+
+4- En considérant que la vitesse de sédimentation est de 0,1 mm par an et que les
+sédiments formant ces différentes strates (couches 1 à 5) se sont déposés de manière
+uniforme, estimer la durée de formation de l’ensemble des strates de Wöllstein
+surmontant le socle.
+5- Comparer cet âge à celui estimé par Darwin. Proposer une hypothèse pour laquelle
+cette estimation de l’âge de la Terre à partir de cette coupe géologique est très
+différente.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Les structures microscopiques de la silice et du silicium
+Sur 12 points
+La silice est la forme naturelle du dioxyde de silicium (SiO 2) qui entre dans la
+composition de nombreux minéraux (quartz, etc.). La silice représente 60,6 % de la
+masse de la croûte terrestre continentale. De nombreuses roches sont constituées de
+silice (sable, grès, granite, etc.) et l'étude des différentes structures possibles permet
+d'en savoir plus sur les conditions de formation des roches.
+Le verre utilisé dans l’industrie est un solide non cristallin (amorphe), dur, fragile
+(cassant) et transparent. Sa composition chimique contient une part importante de
+silice.
+Partie A. La silice : une structure amorphe ou cristalline
+Document 1. Deux structures en coupe de la silice
+
+Source : d'après CHAGUETMI, Salem (2010), Élaboration et caractérisation de nouveaux verres de
+fluorohafnates de strontium et de phosphosulfates. Thèse, Université Mohamed Khider Biskra
+http://thesis.univ-biskra.dz/1006/3/Chapitre%201.pdf
+
+1- La figure du document 1 montre deux structures possibles de la silice. L’une d’elles
+est dite cristalline, l’autre amorphe (verre). Parmi les représentations a et b, laquelle
+correspond à une structure cristalline ? Justifier votre choix.
+À partir de deux échantillons identiques de silice liquide, on peut obtenir soit un verre,
+soit un cristal selon la vitesse de refroidissement.
+Document 2. Évolution du volume d’un échantillon de silice lors d’un changement d'état
+
+2- Comparer qualitativement les volumes des deux échantillons obtenus (verre ou
+cristal) à la température de 1400 K.
+3- Proposer une explication à cette différence de volume en s’appuyant sur le
+document 1.
+Partie B. Étude de la maille cristalline du silicium
+On s’intéresse dans cette partie au silicium pur. On fait l'hypothèse que la structure
+cristalline du silicium est cubique à faces centrées, avec les caractéristiques
+suivantes :
+Rayon d'un atome de silicium : 𝑟 = 118 × 10−12 m
+Masse d'un atome de silicium : 𝑚 = 4,66 × 10−26 kg
+
+4- Le but de cette partie est de déterminer la masse volumique du silicium afin de
+valider ou d’invalider l’hypothèse formulée sur sa structure (cubique à faces centrées).
+
+Document 3. Coupe d’une maille selon le modèle cubique à faces centrées
+
+La mesure 𝑎 correspond au paramètre de la maille et on suppose que les atomes de
+silicium sont sphériques et tangents. Le rayon d’un atome de silicium est noté 𝑟.
+
+4-a- À l’aide de la figure du document 3, démontrer que : 𝑎 = 2√2 𝑟 et calculer sa
+valeur.
+4-b- Représenter en perspective cavalière la maille cubique à faces centrées.
+4-c- On rappelle que, dans la structure cubique à faces centrées, une maille contient
+l’équivalent de 4 atomes de silicium. Calculer la masse volumique d’un cristal de
+silicium dans cette hypothèse.
+4-d- En réalité, la masse volumique du cristal de silicium est 2,33 g.cm -3. L’hypothèse
+de la structure cristalline cubique à faces centrées peut-elle être validée ?
+
+Document réponse à rendre avec la copie
+Exercice 1
+Étude de l’accidentologie

@@ -1,0 +1,306 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1415637, "at": "2026-11-23T09:23:45+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+L’expédition GOMBESSA 5 : planète Méditerranée (10 points)
+Le projet GOMBESSA 5 mené par Laurent Ballesta et son équipe du
+1er au 28 juillet 2019 consiste à pouvoir sillonner les grandes
+profondeurs sans se soucier de la remontée, à pouvoir explorer les
+trésors de la Méditerranée et à pouvoir collecter un maximum
+d’informations sur la biodiversité.
+Source : d’après http://www.leparisien.fr/environnement/dans-lesabysses-de-la-mediterranee-l-incroyable-expedition-de-laurent-ballesta-13-06-20198092164.php
+Partie 1 : comprendre les particularités de la plongée de Laurent Ballesta
+Le dispositif Gombessa 5
+Chaque jour, une tourelle descend les plongeurs depuis la station
+flottante jusqu’à une profondeur de 120 mètres. Ils remontent à la
+surface pour manger et se reposer, mais toujours enfermés dans
+un module de vie et soumis à une pression 13 fois supérieure à
+celle de l’atmosphère. C’est une plongée à saturation.
+Les sorties sous-marines durent de 6 à 8 h.
+
+Source : d’après http://inpp.org
+Profil recommandé pour une plongée à 120 m de profondeur sans dispositif Gombessa 5
+Un plongeur démarre sa plongée depuis la surface et est initialement soumis à la pression
+atmosphérique. Le profil donne la durée de chaque étape de la plongée.
+
+Source : d’après JM Belin –Choix des mélanges pour des plongées profondes
+En plongée les gaz sont comprimés à la descente et détendus à la remontée. Il importe
+donc que ceux-ci puissent circuler librement dans l’organisme du plongeur. Si ce n’est pas
+le cas, les parois des cavités peuvent être lésées. Ces accidents sont appelés
+« barotraumatismes ». Le plus grave est la « surpression pulmonaire » qui touche le plus
+souvent les plongeurs débutants.
+La remontée doit se faire en respectant scrupuleusement des paliers de décompression
+pour éviter toute embolie gazeuse (présence de bulles dans la circulation sanguine).
+Source : d’après http://culturesciences.chimie.ens.fr
+Données :
+ intensité du champ de pesanteur g = 9,81 Nkg–1 ;
+ masse volumique de l’eau de mer à 18 °C mer = 1028 kgm–3 ;
+
+loi fondamentale de la statique des fluides pour un fluide incompressible entre deux
+points A et B d’altitude respective zA et zB (repérée sur un axe vertical orienté vers
+le haut) :
+PA - PB = ·g·(zB - zA) ;
+pression atmosphérique en Méditerranée (juillet 2019) : Patm = 1020 hPa ;
+1 bar = 1×10 5 Pa.
+
+1.1. À l’aide des informations données, déterminer la durée d’observation du fond marin à
+une profondeur h = 120 m pour un plongeur qui n’utilise pas le dispositif Gombessa 5.
+1.2. Déterminer la valeur de la pression en pascal (Pa) à laquelle est soumise un plongeur
+à une profondeur h = 120 m. Comparer avec l’indication donnée dans le
+document décrivant le dispositif Gombessa 5.
+1.3. Justifier l’intérêt du dispositif Gombessa 5 et des plongées à saturation réalisées par
+l’équipe de Laurent Ballesta pour faire ses observations à 120 m de profondeur. Au moins
+deux éléments de réponses sont attendus.
+Partie 2 : mais quelle est donc cette drôle de voix ?
+« Dans notre caisson nous respirons un air pauvre en oxygène. Normalement la
+proportion d'oxygène dans l'atmosphère est de 21 % et de 79 % d'azote. Là c’est
+essentiellement de l'hélium (90 %) et seulement 3 à 4 % d'oxygène […]. Mais il transforme
+les voix en voix de canard et pour se comprendre nous portons un casque micro qui
+corrige cette déformation ».
+Laurent Ballesta D’après http://inpp.org
+La parole humaine : un phénomène très complexe
+La hauteur du son émis dépend de plusieurs facteurs
+comme les dimensions du larynx, la tension des cordes
+vocales et la vitesse de propagation du son dans l’air.
+Le gaz qui sert à la production de la voix est le gaz expiré
+mais quelle que soit la célérité du son produit, la longueur
+d’onde  du son émis est toujours la même.
+D’après http://phymain.unisciel.fr/de-lhelium-pour-parlercomme-mickey/
+
+On souhaite en laboratoire reproduire la modification de la voix de Laurent Ballesta. On
+enregistre à l’aide d’une interface d’acquisition et d’un microphone un son émis dans l’air à
+la température de 20 °C (figure 1).
+
+Figure 1 : évolution de la tension au bornes du microphone en fonction du temps
+Tension uE 3
+en V
+-1 0
+
+-2
+-3
+
+Temps t en ms
+Données à la température de 20 °C :
+ célérité du son dans l’air : vair = 3,43 × 10 2 ms–1 ;
+ célérité du son dans l’hélium : vhélium = 1,02 × 10 3 ms–1.
+2.1. Déterminer le plus précisément possible la valeur de la période T du signal enregistré
+(figure1). Une rédaction détaillée est attendue.
+2.2. En déduire la valeur de la fréquence f du son émis.
+2.3. On souhaite déterminer la longueur d’onde  du son émis. On dispose de deux micros
+placés côte à côte. Les signaux captés par les deux micros sont en phase. On déplace un
+des deux micros jusqu’à ce que les deux signaux reviennent pour la première fois en
+phase. La distance qui sépare les micros est alors d = 76,9 cm.
+2.3.1. Donner la définition de la longueur d’onde  d’un signal sinusoïdal.
+2.3.2. Déterminer la valeur de la longueur d’onde du son émis. Expliquer comment
+améliorer la précision de la mesure.
+2.4. À partir des mesures effectuées déterminer la valeur célérité du son dans l’air.
+Commenter.
+2.5. On souhaite reproduire l’effet « voix de canard » observé par les plongeurs.
+Déterminer la valeur de la fréquence avec laquelle on doit régler le générateur pour imiter
+la modification d’un son émis cette fois dans l’hélium, sachant que la longueur d’onde du
+son émis est conservée mais que la célérité du son dans l’hélium est différente de celle
+dans l’air. Commenter.
+Partie 3 : retrouver la tourelle à la fin de la plongée : se localiser sous l’eau
+Le système de positionnement mondial (GPS) pour se localiser sur Terre utilise les ondes
+électromagnétiques issues d’au moins quatre satellites. Mais sous l’eau, il est impossible
+de les utiliser car elles ne pénètrent quasiment pas l’eau. La technologie qui est
+actuellement mise au point consiste donc à utiliser des ondes acoustiques.
+
+Présentation du système GPS sous-marin
+Le bateau émet un signal ultrasonore qui est capté et renvoyé par la balise que porte à
+son poignet le plongeur. L’ordinateur de bord du bateau enregistre les deux signaux et
+détermine la distance entre le plongeur et le bateau.
+Célérité des ondes ultrasonores dans l’eau en fonction de la température pour une salinité (teneur en
+sel) de 38 ‰
+célérité c
+m.s-1
+
+1560
+1540
+1520
+1500
+1480
+1460
+1440
+
+Température °C
+
+Amplitude des signaux enregistrés
+par l’ordinateur situé sur le bateau au cours du temps
+T
+e
+s
+i
+o
+e
+V
+
+À partir des documents ci-dessus, déterminer à quelle distance du bateau est situé le
+plongeur. La température moyenne de l’eau est de 18 °C.
+Expliquer si cette seule mesure est suffisante pour déterminer la position exacte du
+plongeur. La réponse doit être argumentée et peut prendre éventuellement appui sur un
+schéma.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie, même si
+elle n’a pas abouti. La démarche est évaluée et nécessite d’être correctement présentée.
+
+PARTIE B
+Dihydrogène et ballons dirigeables (10 points)
+Paracelse, Cavendish, Lavoisier sont quelques-uns des scientifiques rattachés à l’histoire
+du dihydrogène, gaz inodore et incolore, découvert depuis plus de trois siècles. On le
+produisait à l’époque en faisant réagir de l’acide sulfurique ou de l’acide chlorhydrique sur
+différents métaux comme le fer, le zinc ou encore l’étain.
+Les frères Montgolfier, Jacques Charles et Nicolas Robert
+qui avaient construit le premier ballon à air chaud, mirent
+au point le premier ballon à gaz, rempli de dihydrogène. Le
+27 août 1783, ce ballon s’éleva dans les airs depuis le
+Champ-de-Mars à Paris. Plus tard, d’autres ballons ont été
+construits et équipés de moteurs, ouvrant au début du
+20ème siècle, une nouvelle technique de navigation
+aérienne avec les dirigeables, comme ceux construit par la
+société allemande Zeppelin.
+
+Gravure extraite de l’Album de la
+Science
+
+Cet exercice a pour objectif, l’étude d’une transformation chimique permettant de produire
+du dihydrogène, puis l’interprétation de l’accident survenu en 1937 à l’Hindenburg, un
+ballon dirigeable gonflé au dihydrogène.
+1. Étude d’une transformation chimique permettant de produire du dihydrogène
+Pour observer cette transformation, on
+réalise le montage représenté ci-contre.
+On introduit dans un erlenmeyer un
+morceau de ruban de magnésium Mg(s), de
+masse m= 40 mg, et un volume Va = 100
+mL d’acide chlorhydrique (H+(aq) + Cl– (aq)),
+solution aqueuse Sa de concentration en
+ions H+(aq) égale à Ca = 5,0x10-1 mol.L-1.
+En réalisant l’expérience à 20 °C, on recueille, par déplacement d’eau, un gaz que l’on
+peut identifier à du dihydrogène dont on relève à intervalle de temps réguliers le volume
+dégagé et l’on obtient le graphique représenté ci-après.
+L’équation de la réaction modélisant la transformation chimique s’écrit :
+Mg(s) + 2 H+(aq) → Mg2+(aq) + H2(g)
+
+Données
+- Volume molaire des gaz dans les conditions de l’expérience :Vm = 24,0 L.mol-1.
+- Couples oxydant-réducteur : Mg2+(aq) /Mg(s) et H+(aq)/H2 (g)
+- Masse molaire atomique du magnésium : M(Mg) = 24,3 g.mol–1
+- Pictogrammes de sécurité :
+Magnésium en ruban
+Acide chlorhydrique
+Dihydrogène
+
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+
+Quelle(s) précaution(s) faut-il prendre pour manipuler de l’acide chlorhydrique ?
+Proposer un test pour montrer que le gaz formé au cours de cette transformation
+chimique est bien du dihydrogène.
+Identifier parmi les réactifs, celui qui joue le rôle d’oxydant et celui qui joue le rôle de
+le réducteur.
+Déterminer les quantités de matière initiales des réactifs.
+Compléter le tableau d’avancement en annexe à rendre avec la copie et identifier
+le réactif limitant de cette transformation chimique.
+Montrer qu’en fin de transformation une quantité 𝑛𝐻2 = 1,6.10-3 mol de dihydrogène
+pourrait être formé si la transformation est totale.
+A partir des mesures expérimentales effectuées :
+déterminer quand la transformation peut être considérée comme terminée ;
+relever la valeur du volume Vexp H2 de dihydrogène obtenu à la fin de l’expérience.
+Peut-on considérer que la transformation étudiée est une transformation totale ?
+Justifier.
+
+2. Un accident de dirigeable gonflé au dihydrogène qui a marqué
+l’histoire
+L’Hindenburg a été le 129ème dirigeable construit par la société
+allemande Zeppelin entre 1935 et 1936. Dirigeable le plus
+grand et le plus luxueux jamais construit, avec ses dimensions
+hors normes de plus de 240 m de long, il pouvait accueillir 124
+personnes et comportait une salle à manger, un salon de
+lecture, un fumoir, des cuisines et plusieurs cabines.
+Disposant d’un volume de dihydrogène de près de 200 000 m3
+et de 4 moteurs il affichait une vitesse de croisière de plus de
+120 km.h-1. Le 6 mai 1937, lors de son 63ème voyage et après
+77 heures de vol, il s’est écrasé à l’atterrissage à Lakehurst
+dans le New Jersey.
+
+www.portail-aviation.com
+
+On explique aujourd’hui cet accident de la façon suivante : après trois jours de vol, le
+dirigeable chargé d’électricité statique et après avoir rencontré un orage aurait connu une
+défaillance technique engendrant une fuite de dihydrogène. Une décharge d’électricité
+statique créée lorsqu’une des amarres du dirigeable a touché le sol aurait amorcé la
+combustion du dihydrogène, réaction du dihydrogène avec le dioxygène de l’air.
+Données
+- Équation de la réaction modélisant la combustion du dihydrogène :
+H2 (g) + 2 O2 (g) → H2O (l)
+- Numéros atomiques : H (Z = 1) ; O (Z = 8)
+- Énergies de liaison
+Liaison
+H –H
+O=O
+O–H
+Énergie de liaison
+DH – H = 436
+DO=O= 496
+DO – H = 463
+(en kJ.mol-1)
+- Volume molaire des gaz à 20°C : Vm = 24,0 L.mol-1
+- Le TNT (trinitrotoluène) est un explosif. On compare souvent les énergies
+produites lors des explosions en équivalent TNT, l’explosion d’un gramme
+de TNT libérant une énergie de 4184 J.
+2.1. Établir les schémas de Lewis des molécules H2, O2 et H2O.
+2.2. Identifier la nature et le nombre de liaisons rompues et formées au cours de
+la combustion du dihydrogène.
+2.3. Combien de tonnes de TNT produiraient une énergie équivalente lors de son
+explosion à celle produite par l’explosion du dihydrogène contenu dans
+l’Hindenburg ?
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie
+même si elle n’a pas abouti.
+
+ANNEXE A RENDRE AVEC LA COPIE
+
+Question 1.5 :
+
+Équation de la réaction
+Avancement
+État du système
+(mol)
+État initial
+
+État en cours de
+transformation
+
+𝒙
+
+État final
+
+Mg(s)
+n(Mg)
+
++
+
+2 H+(aq) →
+n(H+)
+
+Mg2+(aq) +
+
+n(Mg2+)
+
+𝒙𝒎𝒂𝒙
+
+H2(g)
+n(H2)

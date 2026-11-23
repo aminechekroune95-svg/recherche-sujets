@@ -1,0 +1,271 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1119579, "at": "2026-11-23T09:26:22+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par un diagramme d'états-transitions
+Modéliser sous une forme graphique une structure, un mécanisme, un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Identifier les erreurs de mesure
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PRESENTATION DU PRODUIT
+Le produit étudié est un portail automatisé
+coulissant permettant de contrôler l’accès à un
+espace privé. Ce portail est doté d’un panneau
+photovoltaïque et d’une batterie pour permettre
+soit une installation sur un site isolé soit une
+réduction de la consommation énergétique en
+cas de liaison avec le réseau électrique
+domestique.
+L’ouverture du portail peut être complète pour permettre l’accès à une voiture ou
+partielle pour un piéton ou un cycliste. Pendant la phase d’ouverture, si un obstacle
+est détecté le portail s’immobilise pour garantir la sécurité des personnes et des
+biens. L’ouverture du portail est déclenché à distance à l’aide de commandes
+pouvant prendre différentes formes (smartphone, clavier à code, visiophone ou
+télécommande).
+
+Figure 1 : diagramme des exigences du portail motorisé
+
+Tension d’alimentation
+Type de moteur
+Puissance du moteur
+Puissance maxi consommée (avec éclairage)
+Consommation en veille
+Fréquence moyenne de manœuvres par jour
+
+230 V~ / Solaire
+24 Vdc
+150 W
+600 W
+4,5 W
+20 cyclesjour-1
+16 s hors zone de
+Temps d’ouverture pour un portail de 3 m
+ralentissement
+Accélération phase 1
+187,5 mms-2
+Accélération phase 3
+- 72 mms-2
+Poids maxi. du portail (P)
+600 kg (8 m)
+Largeur maxi. du portail (L)
+8m
+Hauteur maxi. du portail (H)
+2m
+Figure 2 : performances et caractéristiques du portail motorisé
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : La vitesse de fermeture et d’ouverture mesurée du portail valide-telle le cahier des charges du constructeur?
+Étude de la vitesse de fermeture et d’ouverture de la motorisation
+Fonctionnement en mode séquentiel (Extrait de la notice)
+Ouverture totale du portail par un appui sur la
+touche 1
+Arrêt du portail en cours de mouvement par un
+nouvel appui sur la touche 1.
+Fermeture du portail par un nouvel appui sur la
+touche1.
+Ouverture partielle du portail (environ 1 m) par un
+appui sur la touche 2.
+Ouverture totale du portail par un appui sur la
+touche 1.
+Fermeture du portail par un nouvel appui sur la
+touche 2.
+Figure 3 : fonctionnement en mode séquentiel (extrait notice).
+Lorsque le moteur fonctionne sur
+l’alimentation photovoltaïque :
+- seuls les télécommandes et points de
+commande radio permettent de commander
+le portail (les commandes filaires sont
+désactivées),
+- les accessoires de sécurité filaires
+(cellules photoélectriques, feu
+orange) restent activés.
+Figure 4 : alimentation photovoltaïque (extrait notice).
+Question I.1
+
+En prenant en compte les différents fonctionnements possibles du
+portail compléter le diagramme des cas d’utilisations sur le
+document réponse DR1.
+
+On souhaite étudier les
+mouvements du portail. La
+graphique ci-contre illustre
+la variation de la vitesse du
+portail lors d’une phase
+d’ouverture selon le cahier
+des charges.
+On s’intéresse dans un premier
+temps à l’ouverture d’un portail
+standard de 3 m.
+Question I.2
+
+Préciser le type de mouvement correspondant à chacune des
+phases de l’ouverture du portail.
+
+Le cahier des charges du portail fixe les accélérations des différentes phases du
+mouvement permettant d’atteindre les objectifs de vitesses tout en garantissant la
+sécurité des utilisateurs lors des ouvertures ou fermetures.
+Question I.3
+
+Question I.4
+
+Identifier sur la figure 2 l’accélération du portail lors de la phase 1. En
+déduire la vitesse maximale du portail lors du déplacement de la
+phase 1 en considérant que celle-ci dure 1 s.
+A l’aide des données fournies sur la figure 2, calculer les temps de
+fin des phases 2 et 3 du mouvement puis compléter le document
+réponse DR1.
+
+On rappelle que la distance d(t) parcourue par un objet dans le cadre d’un
+mouvement rectiligne uniformément accéléré se détermine à l’aide de la formule :
+
+𝑑(𝑡) = 𝑥(𝑡) − 𝑥0 = 2 𝑎 × (𝑡 − 𝑡0 )2 + 𝑣0 × (𝑡 − 𝑡0 ) où
+
+-
+
+𝑎 est l’accélération constante
+𝑡0 est l’instant initial du mouvement
+𝑣0 est la vitesse à l’instant initial du mouvement
+𝑥(𝑡) est la position de l’objet à l’instant t
+𝑥0 est la position de l’objet à l’instant initial du mouvement
+
+Question I.5
+
+Compléter le document réponse DR1 en indiquant la distance
+parcourue par le portail à l’issu de chacune des phases du
+mouvement. En déduire le temps de fin de la phase 4 du
+mouvement.
+
+Pour rationaliser sa gamme le constructeur du portail a développé un seul modèle de
+motorisation qui peut être utilisé pour tous les portails de 3 à 8 m. Le tableau suivant
+détaille les résultats des mesures sur le temps d’ouverture de portails de 8 m :
+
+Temps mesuré
+depuis le début du
+cycle (moyenne)
+
+1,1 s
+
+40,8 s
+
+42,9 s
+
+49,6 s
+
+Le constructeur annonce des temps d’ouverture et de fermeture proportionnels à ceux
+du portail de 3 m. Pour des raisons de sécurité, la vitesse maximale de mouvement
+d’un portail reste fixée à 188 mms-1 quelle que soit la longueur de celui-ci.
+Question I.6
+
+Quantifier l’écart entre le temps réel et le temps théorique
+d’ouverture d’un portail de 8m. Analyser les causes probables de
+cet écart.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : comment contrôler l’ouverture et la fermeture du portail sans utiliser
+ni capteur de position ni capteurs de fin de course?
+Description de la séquence préliminaire d’apprentissage
+Une fois le mode apprentissage lancé, l’installateur déclenche l’ouverture du portail
+par un appui sur le bouton de la télécommande. Cette ouverture s’effectue à vitesse
+constante. Une fois le portail totalement ouvert, un second appui sur le bouton de la
+télécommande déclenche la fermeture de celui-ci. L’électronique de commande de la
+motorisation du portail mémorise automatiquement :
+- Le couple moteur nécessaire à la commande du portail en fonctionnement
+normal. Cette mémorisation permet par la suite de détecter tout effort anormal
+sur la motorisation,
+- Les courses nécessaires pour l’ouverture et la fermeture totale du portail.
+Question II.1
+
+A l’aide du diagramme des exigences fourni en figure 1, identifier les
+grandeurs physiques mesurées par le portail pendant sa séquence
+préliminaire d’apprentissage et qui permettent une commande de
+celui-ci sans capteurs.
+
+Question II.2
+
+Compléter le diagramme états-transitions fourni dans le document
+réponse DR2 afin qu’il corresponde à la séquence préliminaire
+d’apprentissage.
+
+DR2
+
+La mesure de la vitesse du portail étudié pendant la phase d’ouverture de la
+séquence d’apprentissage a permis d’effectuer le relevé fourni en figure 5.
+
+Figure 5 : courbe définit la vitesse du portail en fonction du temps.
+
+Question II.3
+
+A partir du relevé fourni en figure 5, préciser les deux paramètres
+permettant de déterminer la course du portail et calculer sa valeur.
+
+Dans la suite de l’exercice on considère que la course du portail est de 3,90 m.
+La séquence préliminaire d’apprentissage se déroule à une vitesse limitée pour
+permettre une mesure précise des paramètres de commande. Afin de réduire le
+temps d’ouverture et de fermeture le portail se déplace, dans son mode de
+fonctionnement normal, d’abord à une vitesse rapide de 188 mms-1 puis à une
+vitesse lente de 43 mms-1 lorsque la position du portail est à moins de 20 cm des
+butées. Dans la suite de l’étude, on néglige les phases d’accélération et de
+décélération du portail.
+Question II.4
+
+Déterminer la distance parcourue par le portail lors de la phase
+d’ouverture à vitesse rapide. En déduire la durée de cette phase.
+
+Le diagramme états-transitions fourni sur le document réponse DR2 correspond au
+fonctionnement normal du portail. Ce diagramme ne prend pas en compte la
+détection d’obstacle pendant les phases d’ouverture et de fermeture du portail.
+Question II.5
+DR2
+
+Question II.6
+
+Compléter le diagramme états-transitions sur le document réponse
+DR2 pour qu’il corresponde au fonctionnement normal du portail.
+
+Conclure quant à la possibilité de commander le portail sans capteur.
+Préciser les conséquences de ce choix sur les constituants utilisés et
+sur l’algorithme de contrôle.
+
+DOCUMENTS RÉPONSES
+DR1, Question I.1 : Diagramme des cas d’utilisations
+
+DR1, Question I.2, I.3, I.4 : Vitesse d’ouverture théorique en fonction du temps
+
+DOCUMENTS RÉPONSES
+DR2, Question II.2 :
+
+DR2, Question II.5 :

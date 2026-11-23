@@ -1,0 +1,332 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1260667, "at": "2026-11-23T09:22:53+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Étude d’une centrale hydroélectrique (10 points)
+La France et l’Europe se sont engagées à développer, d’ici l’année 2020, la part des énergies
+renouvelables. Le plan d’action national fixe un objectif global de 23 % d’énergies
+renouvelables dans la consommation finale d’énergie à l’horizon 2020.
+Source : d’après www.ademe.fr
+On s’intéresse ici à la centrale hydroélectrique de Luzières sur la rivière Agout, dans le Tarn,
+qui est une rivière de moyenne montagne à l’est de Toulouse. Elle est ponctuée d’une
+succession de barrages dont certains sont associés à des usines de production d’électricité.
+
+Source : d’après la carte d'ensemble du bassin Tarn-Agout https://www.edf.fr/
+
+Schéma simplifié en coupe de l’ensemble barrage-centrale sans souci d’échelle
+z
+(en m)
+136,4 m
+
+124,0 m
+
+16,0 m
+
+0,0 m
+
+La retenue, où est stockée l’eau à turbiner, est le barrage de Record ①, hameau situé à
+quelques kilomètres en amont. L’eau est acheminée par une conduite d’amenée ②, et passe
+brièvement dans une chambre d’équilibre de forme cylindrique ③ et est envoyée sur deux
+turbines identiques ⑤ par une conduite forcée ④.
+Le niveau des turbines est pris comme référence des altitudes.
+Description du système :
+Cette centrale hydroélectrique est une centrale gravitaire de moyenne chute avec deux
+turbines délivrant une puissance électrique globale Pél = 20 MW.
+La chambre d’équilibre est une zone tampon utilisée lors des démarrages et des arrêts de la
+centrale hydroélectrique.
+Le barrage de Record peut contenir un volume d’eau V = 1,0 million de m3.
+1. Étude de l’action de l’eau
+Données :
+- intensité de la pesanteur : g = 9,81 N.kg-1 ;
+- pression atmosphérique : Patm = 1,01 × 10 5 Pa ;
+- masse volumique de l’eau :  = 1,00 × 10 3 kg.m-3 ;
+- Loi fondamentale de la statique des fluides : PA-PB =  · g · (zB - zA)
+ PA et PB : pressions en un point A et en un point B ;
+  : masse volumique du fluide considéré ;
+ g : intensité de la pesanteur ;
+ zA et zB : altitudes en un point A et en un point B.
+
+1.1. Sachant que la profondeur de l’eau au niveau du barrage est de AB = zB - zA = 12,4 m,
+montrer que la pression à l’altitude A, PA, est égale à 2,2×10 5 Pa.
+1.2. La pression moyenne exercée sur l’ensemble du barrage peut être assimilée à la pression
+à mi-hauteur (point G du schéma n°1). Calculer la valeur de la pression moyenne Pmoyenne.
+1.3. En déduire la valeur de la force exercée par l’eau sur la totalité du barrage de forme
+rectangulaire de surface S dont la largeur moyenne vaut ℓ = 70 m.
+1.4. Reproduire le schéma n°1 simplifié suivant sur la copie et représenter la force exercée par
+l’eau sur le barrage au point G avec pour échelle : 1 cm pour 4,0×10 7 N.
+
++ G AB
+
+AB
+
+ℓ
+Schéma n°1 : barrage vu en coupe
+
+Schéma n°2
+
+2. Étude mécanique
+On s’intéresse dans cette partie à une masse d’eau m = 20 tonnes qui sort du barrage
+pendant une durée t = 1,0 s. L’énergie potentielle de pesanteur est choisie nulle au niveau
+des turbines.
+2.1. Donner l’expression littérale de l’énergie potentielle de pesanteur EPPB de cette masse
+d’eau stockée au point B du barrage de Record. Montrer que la valeur de cette énergie
+potentielle est EPPB = 2,7 × 10 7 J.
+2.2. La valeur de la vitesse de cette masse d’eau vB au point B est supposée nulle, en déduire
+la valeur de l’énergie mécanique EmB de cette masse d’eau au point B.
+2.3. En supposant que l’énergie mécanique se conserve, déterminer la valeur vC de la vitesse
+de l’eau au point C à l’entrée des turbines.
+2.4. La puissance cinétique de l’eau Pceau à l’entrée des turbines est l’énergie cinétique par
+unité de temps associée à l’eau qui rentre dans les turbines. Calculer la valeur de Pceau et
+commenter le résultat obtenu.
+3. Étude électrique
+Consommation électrique des foyers français.
+De la cafetière à la machine à laver en passant par le sèche-cheveux, la télévision et la
+lumière, l’électricité donne vie à la maison et se retrouve dans toutes les pièces. […].
+L’électricité constitue donc un poste de dépenses d’énergie majeur. D’après l’analyse de
+
+marché de détail de l’électricité produite par la Commission de Régulation de l’Énergie au
+quatrième semestre 2016, plus de 32 millions de sites résidentiels avaient accès à l’électricité,
+pour une consommation annuelle totale de 158,6 TW.h. En 2017, la consommation électrique
+française atteint environ 4 710 kW.h par foyer (le foyer est le lieu où habite une famille).
+Source : d’après https://particuliers.engie.fr
+Données :
+- 1 TW.h = 1×10 12 W.h ;
+- 1 kW.h = 3,6×106 J.
+3.1. Sans recopier la chaîne énergétique ci-dessous, donner la forme d’énergie à faire
+apparaître dans chaque cadre numéroté de 1 à 3. Pour cela, indiquer sur la copie le numéro
+du cadre et lui associer une forme d’énergie.
+Cadre 1
+
+Centrale hydroélectrique
+
+Cadre 2
+
+Cadre 3
+3.2. Étant une source de production d’électricité d’appoint, la centrale fonctionne pendant une
+durée d’environ t’ = 3 500 h par an. Déterminer l’énergie électrique Eél, en kW.h produite
+annuellement par cette centrale.
+3.3. Déterminer le nombre de foyers que cette centrale peut approvisionner annuellement.
+Commenter.
+PARTIE B
+Engager la transition vers une mobilité plus propre (10 points)
+Au début du mois de juin 2019, le projet de loi « mobilités » a été présenté et discuté à
+l’Assemblée nationale. Son ambition est d’améliorer concrètement les déplacements au
+quotidien pour tous les citoyens français et dans tous les territoires.
+Sachant que les transports représentent 30 % des émissions de gaz à effet de serre, ils
+constituent le premier secteur émetteur et leur impact environnemental est donc majeur. Pour
+répondre aux enjeux, l’un des trois piliers de ce projet de loi s’intitule « Engager la transition
+vers une mobilité plus propre ».
+d’après https://www.ecologique-solidaire.gouv.fr/
+
+L’objectif de cet exercice est d’étudier deux solutions mises en œuvre aujourd’hui pour limiter
+l’impact écologique du transport routier.
+Données
+Élément
+Numéro
+atomique
+Masse molaire
+atomique
+(en g.mol-1)
+Configuration
+électronique
+Électronégativité
+(échelle de
+Pauling)
+
+1,0
+
+16,0
+
+12,0
+
+14,0
+
+(1s)2(2s)2(2p)4
+
+(1s)2(2s)2(2p)2
+
+(1s)2(2s)2(2p)3
+
+3,4
+
+2,5
+
+3,0
+
+(1s)1
+2,2
+
+Masse volumique de l’éthanol : (éthanol) = 789 g.L-1
+Énergie molaire de liaison en phase gazeuse (en kJ.mol-1) :
+E(H – H)
+
+E(C – H)
+
+E(C – C)
+
+E(C – O)
+
+E(O – H)
+
+E(O = O)
+
+E(C = O)
+(dans CO2)
+
+1. L’évolution du parc automobile français
+Le projet de « loi mobilités » fixe la fin des moteurs à combustion en 2040. Cet objectif sans
+précédent annonce de profonds changements pour les constructeurs automobiles. Le
+document suivant retrace l’évolution de la répartition des immatriculations des véhicules légers
+vendus en France entre l’année 2015 et le milieu de l’année 2019.
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+(janvier à juin)
+58,82 %
+34,26 %
+
+Essence
+38,56 % 43,82 % 47,58 % 54,67 %
+Diesel
+57,22 % 52,12 % 47,29 % 38,87 %
+Hybride (électrique
+3,21 %
+2,90 %
+3,86 %
+4,89 %
+4,96 %
++ essence/diesel)
+Électrique
+0,90 %
+1,08 %
+1,18 %
+1,43 %
+1,80 %
+Autre
+0,11 %
+0,08 %
+0,09 %
+0,14 %
+0,16 %
+d’après https://ccfa.fr/ Comité des Constructeurs Français d’Automobiles
+1.1. Définir une réaction de combustion.
+
+1.2. En exploitant les données du tableau précédent, expliquer pourquoi les constructeurs
+automobiles sont encore aujourd’hui dans l’obligation de développer des moyens pour limiter
+les polluants rejetés par les véhicules fonctionnant à partir d’une réaction de combustion.
+2. Cas des moteurs fonctionnant à l’essence : le bioéthanol.
+Face à la hausse des coûts des produits pétroliers et pour limiter l’impact écologique, l’usage
+de carburants obtenus à partir de végétaux cultivés ou de résidus de cultures vivrières(1) se
+développe. Ces carburants sont appelés « biocarburants » ou encore « agrocarburants ».
+Pour les véhicules à essence, il est possible d’ajouter de l’éthanol (« bioéthanol ») à
+l’essence usuelle ; depuis l’année 2010, les véhicules neufs peuvent rouler avec un carburant
+contenant jusqu’à 10 % d’éthanol et nommé 95-E10.
+(1) cultures vivrières : se dit des cultures dont les produits sont destinés à l'alimentation
+humaine
+2.1. Obtention du « bioéthanol »
+
+(2) ETBE : additif pour carburant
+d’après https://uved.univ-perp.fr/
+Les végétaux contiennent des sucres (comme le saccharose). L’hydrolyse du saccharose
+C12H22O11, réaction du saccharose avec de l’eau, donne du glucose et du fructose, composés
+chimiques de même formule brute C6H12O6. Ensuite, la fermentation du glucose permet
+d’obtenir de l’éthanol et du dioxyde de carbone.
+2.1.1. Écrire l’équation de la réaction modélisant l’hydrolyse du saccharose et celle
+modélisant la fermentation du glucose.
+2.1.2. Pour extraire l’éthanol du moût de fermentation, une distillation est nécessaire.
+Parmi les deux montages proposés en annexe à rendre avec la copie, identifier le
+montage à utiliser puis annoter-le.
+2.2. Énergie molaire de la réaction de combustion de l’éthanol
+La combustion de l’éthanol est modélisée par la réaction d’équation suivante :
+
++
+
+3 O
+
+2 O
+
++
+
+(g)
+
+2.2.1. Compléter le tableau fourni en annexe à rendre avec la copie en dénombrant les
+liaisons rompues et formées au cours de la réaction de combustion de l’éthanol.
+2.2.2. Exprimer, puis calculer l’énergie molaire de la réaction de combustion de l’éthanol
+en fonction des énergies molaires de liaison. Interpréter le signe de cette valeur.
+2.2.3. Un litre d’essence ne contenant pas de bioéthanol libère une énergie équivalente
+à 35,5 MJ. Indiquer si l’ajout d’éthanol modifie le pouvoir calorifique du carburant.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie, même
+si elle n’a pas abouti. La démarche est évaluée et nécessite d’être correctement
+présentée.
+3. Cas des moteurs fonctionnant au diesel : les technologies DOC et SCR
+En 2014, la norme Euro 6 (norme européenne) est entrée en vigueur. Sixième du nom, elle
+fixe d'une façon très précise le niveau de rejet de quatre polluants présents dans les gaz
+d’échappement des véhicules immatriculés dans les pays d'Europe de l'Ouest :
+- NOx : les oxydes d’azote NO2 et NO ;
+- HC : les hydrocarbures n’ayant pas été consommés dans la chambre de combustion ;
+- CO : le monoxyde de carbone ;
+- PM : les particules fines.
+Pour répondre aux dernières exigences européennes, les constructeurs doivent équiper leurs
+véhicules de dispositifs pour traiter ces polluants avant qu’ils ne s’échappent dans
+l’atmosphère. Dans la suite du sujet, on s’intéressera à deux d’entre eux : le DOC (Diesel
+Oxydation Catalyst) et le SCR (Selective Catalyst Reduction).
+Descriptif de traitement des gaz d’échappement :
+
+d’après www.renault-trucks.com
+3.1. Le dispositif DOC
+
+Les gaz d’échappement traversent une surface imprégnée de métaux précieux favorisant leur
+réaction à haute température avec le dioxygène de l’air.
+D’après le document constructeur décrivant le traitement des gaz d’échappement, donner le
+polluant sur lequel le DOC est inactif.
+3.2. Le dispositif SCR
+Le principe de ce dispositif repose sur l’usage d’un additif de type Adblue®. L’additif est une
+solution incolore et biodégradable contenant 32,5 % d’urée, de formule brute CON2H4, et
+67,5 % d’eau.
+Le schéma de Lewis de la molécule d’urée est représenté ci-dessous:
+
+3.2.1. Dénombrer le nombre d’électrons de valence des atomes de carbone, d’oxygène,
+d’azote et d’hydrogène et justifier succinctement le schéma de Lewis de la molécule
+d’urée.
+3.2.3. Choisir parmi les formes géométriques suivantes -pyramidale, tétraédrique ou
+triangulaire- celle formée par les trois atomes autour de l’atome de carbone central.
+Justifier.
+
+Annexe à rendre avec la copie
+Question 2.1.2.
+
+MONTAGE A
+
+MONTAGE B
+
+Question 2.2.1.
+Liaisons
+
+C–H
+
+C–O
+
+O–H
+
+C–C
+
+O=O
+
+C=O
+
+Rompues
+Formées

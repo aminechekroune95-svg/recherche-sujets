@@ -1,0 +1,351 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1243903, "at": "2026-11-23T09:26:22+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+SUJET SI-E3C-22-04
+
+Constitution du sujet
+ Étude d'une performance du produit........................................... Pages 3 à 7
+ Commande du fonctionnement du produit ou modification de son
+comportement .............................................................................. Pages 8 à 10
+ Documents réponses .................................................................... Page. 11
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT ETUDIÉ
+L'Organisation Mondiale de la Santé (OMS) via "la classification internationale du
+fonctionnement, du handicap et de la santé" a défini plusieurs objectifs à atteindre
+afin de favoriser l'autonomie des personnes en situation de
+handicap (boire et se nourrir, prise de médicaments, sécurité
+personnelle, …).
+Un robot d'assistance permet d'atteindre ces objectifs et ainsi
+d'améliorer leur qualité de vie.
+Le sujet porte sur l'étude d'un bras robotisé d'assistance aux
+personnes en situation de handicap lourd (dystrophie
+musculaire, tétraplégie, ...).
+
+Figure 1 : mission et cas d'utilisation du bras robotisé d'assistance
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : Quelle est la capacité de la batterie nécessaire au fonctionnement
+du bras robotisé ?
+Le bras robotisé d’assistance (figure 1-1) utilisé est un bras
+poly-articulé 7 axes. Une main artificielle, que l’on
+dénommera pince, est fixée à son extrémité afin de
+manipuler les objets.
+L’objectif de l’étude est de vérifier l’autonomie de la batterie.
+
+Figure 1-1 : bras
+robotisé d'assistance
+
+Une étude des efforts dans la situation la plus contraignante
+sera réalisée. L’énergie nécessaire pour un cycle de
+fonctionnement sera ensuite estimée. Pour terminer, une
+validation de la capacité de la batterie sera faite.
+
+Une étude statique de la situation la plus contraignante pour l’actionneur 2 de
+l’articulation de l’épaule (figure 1-2 et 1-3).
+
+Figure 1-2 : composants principaux du bras robotisé
+
+Le bilan des actions mécaniques extérieures agissant sur le système étudié est
+le suivant :
+-
+
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑃𝑏𝑟𝑎𝑠 : poids du bras robotisé appliqué en son centre de gravité G bras ;
+𝑃
+𝑐ℎ𝑎𝑟𝑔𝑒 : poids de la charge à l’extrémité du bras robotisé (point P) ;
+
+-
+
+𝐶𝑚𝑜𝑡 2 : couple moteur de l’actionneur 2 autour de l’axe (O ; 𝑧).
+
+𝑦
+𝐶𝑚𝑜𝑡 2
+
+Gbras
+
+P
+
+G
+
+O
+𝑥
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑃𝑏𝑟𝑎𝑠
+
+𝑃
+𝑐ℎ𝑎𝑟𝑔𝑒
+
+Figure 1-3 : étude statique bras robotisé en position horizontale
+La configuration étudiée est celle où le bras est en position horizontale (figure 1-3)
+avec la charge maximale à son extrémité.
+Théorème du moment en statique en O :
+∑ ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝐹𝑒𝑥𝑡 ) = ⃗0
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗) = ⃗0
+𝐶𝑚𝑜𝑡 2 + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑀𝑂 (𝑃𝑏𝑟𝑎𝑠 ) + 𝑀𝑂 (𝑃⃗
+𝑐ℎ𝑎𝑟𝑔𝑒
+𝐶𝑚𝑜𝑡 2 + ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝑂𝐺𝑏𝑟𝑎𝑠 ∧ 𝑃⃗𝑏𝑟𝑎𝑠 + ⃗⃗⃗⃗⃗
+𝑂𝑃 ∧ 𝑃⃗𝑐ℎ𝑎𝑟𝑔𝑒 = ⃗0
+⃗⃗⃗⃗⃗
+⃗
+⃗
+Dans notre cas, ‖𝐶
+𝑚𝑜𝑡 2 ‖ = ‖𝑂𝐺𝑏𝑟𝑎𝑠 ‖ . ‖𝑃𝑏𝑟𝑎𝑠 ‖ + ‖𝑂𝑃‖ . ‖𝑃𝑐ℎ𝑎𝑟𝑔𝑒 ‖
+où ‖𝑃⃗𝑖 ‖ est la norme du poids de i avec‖𝑃⃗𝑖 ‖ = 𝑚𝑖 . 𝑔 où 𝑚𝑖 est la masse de i et g
+l’accélération de la pesanteur de valeur 9,81 ms-2.
+⃗⃗⃗⃗⃗
+Données : ‖𝑂𝐺
+𝑏𝑟𝑎𝑠 ‖ = 491 mm, ‖𝑂𝑃‖ = 902,5 mm , 𝑚𝑏𝑟𝑎𝑠 = 5,12 kg
+et 𝑚𝑐ℎ𝑎𝑟𝑔𝑒 = 4 kg
+Question I-1 En utilisant les relations précédentes, déterminer le couple
+Figure 1-3
+nécessaire à l’actionneur 2 noté ‖𝐶
+𝑚𝑜𝑡 2 ‖ permettant de maintenir le
+bras dans la position étudiée.
+Une loi de mouvement en trapèze de vitesse (position initiale : bras horizontal) a été
+imposée en entrée du modèle simulé du système mécanique. Cette étude a permis
+d’obtenir la courbe de variation du couple de l’actionneur 2 (figure 1-4).
+
+Figure 1-4 : loi de mouvement en trapèze de vitesse et couple de l’actionneur 2
+
+Question I-2
+Figure 1-3
+Figure 1-4
+
+Relever sur la figure 1-4 le couple 𝐶𝑟𝑒𝑝𝑜𝑠 correspondant à la situation
+décrite par la figure 1-3 et le couple maximum 𝐶𝑚𝑎𝑥𝑖 lorsque
+l’accélération angulaire est maximale. En déduire la puissance
+maximale 𝑃𝑎𝑐𝑡𝑖𝑜𝑛𝑛𝑒𝑢𝑟 𝑚𝑎𝑥 en sortie de l’actionneur 2 pour effectuer ce
+mouvement à charge maximale.
+
+𝑈𝑏𝑎𝑡𝑡 ∗
+= 24 𝑉
+
+𝜂ℎ𝑎𝑐ℎ = 0,95
+
+𝜂𝑚𝑜𝑡 = 0,9
+
+𝑈𝑏𝑎𝑡𝑡 ∗ : tension batterie
+Figure 1-5 : diagramme de blocs Internes
+nominale
+La puissance maximale en sortie du moteur à courant continu 𝑃𝑀𝐶𝐶 est fixée à
+100 W.
+
+Question I-3
+Figure 1-5
+
+À partir des éléments figurant sur la figure 1-5, déterminer la
+puissance électrique 𝑃𝑏𝑎𝑡 que doit délivrer la batterie pour fournir la
+puissance maximale en sortie du moteur.
+
+P repos
+
+P max
+P utile
+
+Figure 1-6 : Puissance délivrée par la batterie lors d’un cycle de fonctionnement
+caractéristique
+Une analyse de l’utilisation du bras robotisé a permis de déterminer le cycle de
+fonctionnement caractéristique de l’utilisation du bras pendant 8 heures par jour (voir
+figure 1-6).
+Question I-4
+Figure 1-6
+
+Question I-5
+Figure 1-5
+
+Question I-6
+
+Déterminer l’énergie nécessaire avec le cycle de fonctionnement
+caractéristique (figure 1-6) en Joule puis en Wh pour une journée
+d’utilisation.
+Déterminer la capacité de la batterie en Ah nécessaire si l’on
+souhaite effectuer une seule recharge par semaine du système.
+Conclure sur l’utilisation d’une batterie au Lithium-Ion de 24 V 100
+Ah et quantifier l’écart entre la capacité nécessaire et celle de la
+batterie choisie.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : Comment indiquer l’état de charge de la batterie par une DEL
+RVB ?
+Le bras robotisé d'assistance est équipé d'une batterie de type Lithium-Ion (tension
+nominale 24 V - 100 Ah). Le niveau de décharge de la batterie est actuellement signalé
+par une simple diode électroluminescente (DEL ou LED en anglais) rouge qui informe
+d'une décharge importante et donc d'une coupure imminente de l'alimentation du
+système. Lors d'un usage journalier important, la personne à assister peut alors ne
+plus pouvoir disposer du bras robotisé sans en avoir été prévenue auparavant. La
+modification consiste à remplacer la DEL rouge par une DEL RVB (Rouge Vert Bleu
+ou RGB en anglais) afin de prévenir l'utilisateur d'un état de charge faible avant la
+coupure imminente.
+La DEL RVB sera commandée comme suit :
+- Vert = charge > 60 % ;
+- Jaune = 30% < charge ≤ 60 % ;
+- Magenta = 10 % < charge ≤ 30 % (état de charge faible) ;
+- Rouge = charge ≤ 10 % (forte décharge - coupure imminente).
+La tension de la batterie varie en fonction de l'état de charge. L'acquisition de l'état de
+charge de la batterie se fait par lecture de la tension aux bornes de celle-ci via une
+adaptation à un niveau permettant son traitement par le convertisseur analogique
+numérique (CAN) intégré au microcontrôleur (Umax = 5 V). Les tensions de la batterie
+correspondantes aux seuils à contrôler sont données à la première ligne du tableau
+sur le document réponse DR1.
+Cette adaptation est effectuée
+par un pont diviseur de tension
+(voir schéma figure 2-1).
+L'impédance
+d'entrée
+du
+microcontrôleur étant très
+élevée, le courant I2 est
+négligeable par rapport au
+courant I1.
+La valeur des résistances est :
+R1 = 47 kΩ et R2 = 10 kΩ
+
+Figure 2-1 : pont diviseur de tension
+
+Question II-1
+Figure 2-1
+
+Exprimer Umicro en fonction de R1, R2 et Ubat. Sachant que la valeur
+de Umicro ne doit pas dépasser 5 V, valider le choix des valeurs des
+résistances sachant que la valeur maximale de la tension Ubat est
+Ubat_max = 25,7 V.
+
+Figure 2-2 : chaîne d'information de l'acquisition de la tension de la batterie
+Le CAN (5 V / 12 bits), intégré au microcontrôleur, permet de numériser l'information
+analogique. Il convertit l'information d'entrée (tension variant de 0 à 5 V) en un signal
+numérique codé sur 12 bits.
+Question II-2
+Figure 2-2
+
+Question II-3
+
+Question II-4
+
+Après analyse de la chaîne d'information de l'acquisition de la tension de la
+batterie, préciser la nature du flux d'information correspondant à Ubat, Umicro
+et N, puis indiquer la fonction de chaque bloc de la chaîne d'information en
+choisissant parmi les fonctions suivantes : acquérir ; convertir ; traiter.
+Calculer la résolution du CAN (appelé Quantum). Compléter le tableau du
+document réponse DR1 en déterminant pour chaque seuil la valeur de la
+tension en entrée du CAN (en utilisant votre réponse à la question II-2) et
+la valeur numérique N.
+À partir des résultats de la question précédente, compléter l'algorithme
+suivant en le recopiant sur votre feuille de copie.
+
+SI 𝑁 > . . . . . . . . . . . . . .
+ALORS DEL_RVB = Vert
+SINON SI . . . . . . . . . . . . . .
+ALORS DEL_RVB = Jaune
+SINON SI . . . . . . . . . . . . . .
+ALORS DEL_RVB = Magenta
+SINON
+ALORS DEL_RVB = . . . . . . .
+
+Une DEL RVB est composée de 3
+DEL, une rouge, une verte et une
+bleue, intégrées dans le même
+boîtier.
+En commandant simultanément ou
+non ces 3 DEL, on peut obtenir
+différentes couleurs sur le cercle
+chromatique (Figure 2-3).
+Par
+exemple,
+la
+commande
+simultanée des 3 DEL donne la
+couleur blanche.
+
+Figure 2-3 : cercle chromatique d'une DEL RVB
+Question II-5
+Figure 2-3
+
+Question II-6
+
+Compléter le diagramme état-transition de commande de la DEL RVB sur
+le DR, pour les états ; JAUNE, MAGENTA, ROUGE, et les transitions entre
+ces 3 états.
+Sachant que la puissance moyenne du bras robotisé au repos est de 25
+W, que la puissance de la DEL RVB est de l'ordre de 1 W, analyser le
+mode veille du diagramme état-transition de commande de la couleur de la
+DEL RVB (voir document réponse DR1) et conclure sur la pertinence de
+la solution programmée proposée.
+
+DOCUMENT RÉPONSE DR1
+Question II-3 :
+Niveau de charge
+Ubat (V)
+Umicro (V)
+
+100 %
+25,7
+
+60 %
+25,3
+
+40 %
+24,9
+
+10 %
+24,1
+
+N
+
+Question II-5 : diagramme état-transition de commande couleur de la DEL RVB
+Lexique : DEL_COULEUR = 1, rend la DEL_COULEUR active.
+Charge = état de charge de la batterie (charge = 1 si batterie chargée à 100 %).
+Joystick = Mouvement du Joystick de commande du bras robotisé.
+~Joystick = Aucun mouvement du Joystick de commande du bras robotisé.
+during = les actions sont exécutées tant que l'état est actif.

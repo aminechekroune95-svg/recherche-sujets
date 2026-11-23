@@ -1,0 +1,403 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1757619, "at": "2026-11-23T09:26:04+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulée
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+SUJET SI-E3C-06-02
+
+Constitution du sujet :
+
+Étude d'une performance du produit ........................ Pages 3 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 8 à 12
+
+Documents réponses ................................................. Pages 13 à 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier
+et/ou quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou
+partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation d’Effibot
+Effibot (figure 1) est un robot de manutention intelligent,
+capable de fonctionner avec deux modes collaboratifs avec
+un opérateur (Follow-me et Precede-me) et en mode
+totalement autonome. Équipé de deux pupitres, le robot est
+entièrement réversible.
+Effibot est en permanence
+protégé par un système
+anticollision, fonctionnant à
+360° autour du véhicule, qui
+lui permet d’éviter et de
+contourner automatiquement
+tout obstacle qu’il aura
+détecté dans son
+environnement.
+Mission du robot et
+diagramme de définition
+de blocs :
+
+Figure 1 : : robot de manutention Effibot
+
+Figure 2 : Mission du système
+
+Figure 3 : diagramme de
+définition de blocs
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique :
+Lors d’un virage serré, le robot Effibot peut-il perdre la vision du piéton qu’il doit
+suivre en mode collaboratif « follow-me » ?
+Lors de l’activation du mode « follow-me », le robot Effibot suit l’opérateur se tenant
+devant le véhicule (Effibot) à l’aide du télémètre laser.
+Question I-1
+
+Compléter le document DR 1 en indiquant les grandeurs physiques avec
+leurs unités caractérisant la puissance échangée entre les différents
+blocs.
+Les grandeurs d’effort seront notées en bleu et celles de flux en rouge.
+Définir la fonction du bloc « Réducteur » dans la chaîne de puissance du
+robot Effibot.
+Contrôle de la trajectoire du robot en virage
+Figure 3
+DR 1
+
+La figure 4 présente le
+paramétrage associé à l’étude
+cinématique du robot Effibot.
+
+Figure 4 : schéma du robot Effibot (1)
+
+⃗ ,y
+⃗ ,z
+⃗ ) est un repère fixe
+R0 (O,x
+lié au sol.
+⃗⃗⃗e ,y⃗⃗⃗e ,z
+⃗⃗⃗e ) est un repère
+R1 (Ge,x
+lié au robot Effibot.
+
+L’étude porte sur un demi-tour du
+robot Effibot à sa vitesse maximale.
+Afin de conserver la vision du
+piéton, le robot doit prendre le
+virage sans déraper, la roue
+droite (2) et la roue gauche (3)
+doivent tourner à des vitesses
+différentes.
+On se propose de déterminer la
+relation entre ces fréquences de
+rotation afin d’alimenter l’algorithme
+de la gestion des moteurs de roues.
+Figure 5 : trajectoire et
+mouvement du robot Effibot (1)
+
+Données et paramètres :
+Ge, centre de masse du robot
+
+Effibot (1) ;
+R, rayon de courbure ou rayon du virage (Rminimal = 1 200 mm) ;
+θ̇ 10 , vitesse angulaire du robot Effibot (1) par rapport à R0 ;
+A et B : points de contact entre le sol et les roues droite (2) et gauche (3) au
+virage ;
+e = AB, largeur de voie ou empattement (e = AB = 660 mm) ;
+
+Question I-2
+
+Pour les trois phases, définir le mouvement du robot Effibot (1) dans le
+repère R0 ainsi que la trajectoire du point Ge dans le repère R0.
+En utilisant les données de type « Values » du document DR1 et dans
+l’hypothèse où les roues ne patinent pas, calculer la vitesse maximale du
+robot Effibot (1) pour la phase n°1.
+⃗⃗ G ϵ1/R ‖ =
+Pour la suite, on prendra comme valeur maximale de la vitesse ‖V
+Figure 3 et 5
+DR 1
+
+e
+
+-1
+
+VG e = 6 km∙h
+Le robot Effibot (1) s’engage dans le virage à vitesse constante (phase n°2).
+Question I-3
+Figure 5
+
+À partir des données, exprimer littéralement le rayon du virage de la roue
+droite (2) noté RA et le rayon du virage de la roue gauche (3) noté RB en
+fonction de R et de e puis donner la relation littérale des vitesses
+⃗⃗ Aϵ1/R ‖ et ‖V
+⃗⃗ Bϵ1/R ‖ en fonction de θ̇ 10 , de R et de e.
+
+On s’intéresse au contact de la roue droite (2) avec le sol.
+Données et paramètres :
+On donne θ̇ 21 =
+
+Figure 6 : : contact de la roue droite (2) avec le sol (0)
+
+⃗ Aϵ2/1 ‖
+
+Avec,
+– D, diamètre de la roue
+droite (2) ;
+– θ̇ 21 , vitesse angulaire de la roue
+droite (2) par rapport au robot
+Effibot (1).
+– ⃗⃗VAϵ2/1 , vitesse du point A
+appartenant à la roue droite (2)
+par rapport au robot Effibot (1).
+⃗⃗VAϵ1/R =V
+⃗⃗ Aϵ1/2 +V
+⃗⃗ Aϵ2/R
+
+Question I-4
+Figure 6
+
+Pour le contact entre la roue et le sol, établir l’hypothèse permettant
+d’écrire pour la roue droite (2)
+⃗⃗ Aϵ1/𝑅 ‖
+En utilisant les résultats de la question I-3, montrer alors que
+θ̇ 10 ∙(2∙R + e)
+
+Les diamètres de la roue droite (2) et de la roue gauche (3) sont égaux.
+Une étude similaire peut être menée pour la roue gauche (3) ce qui permet d’établir
+le rapport, noté k, entre la vitesse angulaire de la roue gauche (3) et celle de la roue
+droite (2) en fonction du rayon de courbure du virage R ainsi que de l’empattement e.
+e
+θ̇ 31 R - 2
+Relation 1
+k=
+=
+θ̇ 21 R + e
+À partir des données réelles des codeurs du robot Effibot, a été extrait l’évolution de
+θ̇ 21 et θ̇ 31 en fonction du rayon de courbure :
+
+Figure 7 : vitesse de rotation des roues en fonction du rayon de courbure
+
+Question I-5
+Figure 7
+Relation 1
+
+Question I-6
+Figure 7
+
+Vérifier, pour un rayon de courbure de 1 200 mm, que les valeurs
+mesurées sont cohérentes avec l’expression de k donnée dans la
+relation 1.
+
+Justifier, au regard de la problématique, la nécessité de connaître la
+valeur du rapport k en fonction du rayon de courbure du virage.
+À l’aide de la figure 7, vérifier la possibilité pour le robot de s’engager à
+6 km∙h-1 dans un virage avec un rayon de courbure de 1 200 mm.
+
+COMMANDE DUFONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique :
+Comment s’assurer que le robot Effibot (1) en mode « follow me » ne dérape pas et
+perde de son champ de détection l’opérateur qu’il doit suivre ?
+
+Les arbres de transmission des
+roues avant droite (2) et avant
+gauche (3) du robot Effibot (1)
+sont équipés chacun d’une
+roue dentée de 250 dents.
+
+Figure 8 : positionnement du capteur inductif
+
+Un capteur inductif, placé
+perpendiculairement à la roue
+dentée, fournit un signal
+rectangulaire au passage de
+chaque dent.
+
+La mise en mouvement du système de direction du Robot Effibot est assurée par un
+servomoteur entraînant le pignon de direction en liaison avec la crémaillère.
+L'équation liant la vitesse de rotation de la roue droite (2) à la vitesse du véhicule lors
+d'un virage à droite est définie par (condition de roulement sans glissement
+respectée) :
+θ̇ 10 ∙(2∙R + e)
+L'équation liant la vitesse de rotation de la roue gauche (3) à la vitesse du véhicule
+lors d'un virage à droite est définie par (condition de roulement sans glissement
+respectée) :
+θ̇ 10 ∙(2∙R - e)
+θ̇ 31 =
+
+Figure 9 : paramétrage du problème
+
+Avec :
+– R, rayon de courbure du virage (rayon de courbure minimal égal à 1 200 mm)
+– e = AB, largeur de voie ou empattement (e = AB = 660 mm) ;
+– θ̇ 10 , vitesse angulaire du robot Effibot (1) par rapport à R0 (R0 est lié au sol) ;
+– θ̇ 21 , vitesse angulaire de la roue droite (2) par rapport au robot Effibot (1) ;
+– θ̇ 31 , vitesse angulaire de la roue gauche (3) par rapport au robot Effibot (1).
+
+Figure 10 : relevé des signaux des capteurs inductifs de la roue droite et gauche
+
+Le chronogramme de la figure 10 représente un relevé des signaux issus des deux
+capteurs inductifs à une vitesse constante du robot.
+Question II-1
+
+Figure 10
+
+Mesurer les périodes des signaux issus des capteurs inductifs de la roue
+droite et de la roue gauche. En déduire les nombres d’impulsions issues
+des capteurs de la roue gauche (3) (Ng) et de la roue droite (2) (Nd) sur
+une fenêtre de temps de 2 secondes.
+
+Question II-2
+
+Déterminer et argumenter le contexte de déplacement (ligne droite,
+virage à droite, virage à gauche) du robot à l’aide du relevé de la
+figure 10.
+.
+
+Figure 10
+
+En sortie d'un capteur inductif, il est nécessaire
+d’adapter la tension délivrée pour être conforme
+aux caractéristiques des entrées numériques du
+microcontrôleur.
+La structure figure 11 permet d'adapter (diviser)
+la tension issue du capteur en une tension
+comprise entre 0 V et 5 V. Le courant dévié sur
+l'entrée du microcontrôleur est considéré
+comme nul.
+Figure 11 : adaptation de la tension captée
+
+Question II-3
+Figure 10 et 11
+
+Déterminer l'amplitude du signal en sortie du capteur, puis calculer la
+valeur de la résistance R2 afin que l'amplitude du signal à l'entrée du
+microcontrôleur soit comprise entre 0 V et 5 V.
+
+Un programme de gestion de la direction comporte trois fonctions :
+– la fonction « Angle_Rot (Angle) » génère la commande au servomoteur en
+fonction de l'angle demandé qui est défini par la variable Angle. Angle est une
+variable décimal « type float » (unité : radian) ;
+
+la fonction « Mesure_Vit_Rg_Rd(Cons_Vit, Sens_Rot, Ray_Courb) »
+détermine la vitesse théorique de la roue droite (2) (Rd) et de la roue
+gauche (3) (Rg) en fonction de 3 variables.
+
+Ces variables sont une consigne vitesse (Cons_Vit) de type décimal « type float »
+(unité : ms-1), le sens de rotation (Sens_Rot) est de type chaine de caractères « type
+string » ("D" ou "G") et le rayon de courbure demandé (Ray_Courb) de type décimal
+« type float » (unité : m) ;
+
+la fonction « Verif_Rapp_Reel(Nd,Ng) » détermine la vitesse réelle de la roue
+droite (2) (Rd) et de la roue gauche (3) (Rg) en fonction de 2 variables .
+
+Ces variables sont le nombre d'impulsions issu des capteurs de la roue droite (2)
+(Nd) et de la roue gauche (3) (Ng).
+Ces grandeurs sont mesurées toutes les 2 secondes. Nd et Ng sont de type entier.
+Cette fonction retourne la variable Rapp_Vit_Reel(Nd,Ng) qui représente le rapport
+de vitesse réelle entre la roue droite et la roue gauche. Rapp_Vit_Reel est de type
+décimal « type float »
+Nd et Ng sont déterminés à partir des capteurs inductifs de la roue droite (2) et de la
+roue gauche (3) (voir figure 8, figure 9) et d'un programme de calcul détermine le
+nombre d'impulsions (un relevé du nombre d’impulsions est réalisé toutes les 2
+secondes).
+Question II-4
+DR 2 et DR 3
+
+Compléter l'extrait de programme de la fonction
+Verif_Rapp_Reel(Nd,Ng) et celui de la fonction Mesure_Vit_Rg_Rd.
+Remarque: en python π s'écrit pi
+
+La fonction « Detect_gliss (Rapp_Vit_Th, Rapp_Vit_Reel) » compare les rapports de
+vitesse théorique et réelle puis retourne la variable Etat_Gliss (chaîne de caractères).
+Cette variable indique "pas de patinage" si l'écart entre les deux rapports est
+inférieur à +/- 5 % sinon "Attention, risque de patinage".
+Question II-5
+DR 4
+
+Question II-6
+
+Compléter l'algorithme de la fonction Detect_gliss (Rapp_Vit_Th,
+Rapp_Vit_Reel).
+Avec Rapp_Vit_Th = 1,055 et Rapp_Vit_Reel = 1,078, déterminer quel
+message retourne la fonction Detect_gliss.
+Rappel : écart = (valeur théorique - valeur mesurée) / valeur théorique
+Conclure quant à la capacité de la gestion informatique de capter et de
+traiter les informations pour éviter le patinage et la possibilité de mettre
+en place une boucle de retroaction.
+
+Courant [A]
+
+Grandeur de flux :
+
+Tension [V]
+
+Grandeur d’effort :
+
+DOCUMENTS RÉPONSES
+Q I -1 DR 1 : Diagramme des blocs internes [Motorisation]
+
+Q II-4 DR 2 :
+Fonction Verif_Rapp_Reel(Nd,Ng):
+Vit_rd = ...........................
+Vit_rg =..............................
+Rapp_Vit_Reel= ........................
+Retourner (Rapp_Vit_Reel)
+
+________________________________
+Q II-4 DR 3
+Fonction Mesure_Vit_Rg_Rd(Cons_Vit,Sens_Rot,Ray_courb):
+Si Sens_Rot est égal à...........: Alors
+Rapp_Vit_Th= .................................................
+Sinon :
+..........................................................................
+Retourner Rapp_Vit_Th
+________________________________
+Q II-5 DR 4
+Algorithme fonction Detect_gliss (Rapp_Vit_Th, Rapp_Vit_Reel).
+SI ..............................................................................................
+Etat_Gliss="Attention, risque de patinage"
+......................................
+Etat_Gliss="pas de patinage"
+.......................................

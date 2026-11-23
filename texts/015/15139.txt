@@ -1,0 +1,211 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1310933, "at": "2026-11-23T09:30:49+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Musique et perception du son
+L’oreille humaine est un organe complexe capable de percevoir une large gamme de
+fréquences sonores, variant de 20 Hz à 20 kHz. La qualité de la perception auditive
+dépend de la santé de l’oreille, de l’âge de l’auditeur et de la sensibilité individuelle
+aux différentes fréquences. Certains paramètres extérieurs tels que la performance
+du support utilisé pour réaliser l’enregistrement et celui utilisé pour écouter le son
+(systèmes de lecture, haut-parleurs, casques et amplificateurs) influencent cette
+perception. Depuis le 19ème siècle, la technologie a joué un rôle essentiel dans la
+manière dont nous écoutons la musique.
+Document 1 – L’oreille et les sons
+Les vibrations sonores parviennent au tympan, une membrane vibrante qui
+transmet son mouvement aux plus petits os du corps, les osselets : marteau,
+l’enclume puis étrier. C’est la base de l’étrier qui transmet les vibrations amplifiées
+jusqu’au liquide de l’oreille interne.
+
+Source : spécimen Enseignement Scientifique 1re Calameo, p.215
+
+Document 2 – Taille d’une séquence sonore et compression avec ou sans
+perte de données
+
+Tableau comparatif de 4 formats de fichiers sonores
+
+On peut calculer la taille d'une séquence sonore non compressée en utilisant la
+formule suivante :
+Taille (bits) = Fréquence d'échantillonnage (hertz) × Quantification (bits)
+× Durée (secondes) × Nombre de voies
+Source : Lib Manuel, p.229
+
+Document 3 – Extrait des propriétés de deux fichiers d’enregistrement d’un
+même son sous deux formats différents
+
+D’après les données du logiciel Audacity
+
+À partir des données extraites de fichiers d’un même enregistrement, il est
+possible de déterminer le taux de compression. En effet, le taux de compression
+noté Tcom d’un fichier son est égal au rapport de la taille du fichier compressé notée
+TC par la taille du fichier non compressé notée TNC, les deux devant être exprimés
+dans la même unité. Ce taux s’exprime généralement en pourcentage.
+
+1- À l’aide des connaissances et du document 1, dire quels sont les rôles du conduit
+auditif et du pavillon dans la captation des sons et leur perception. Justifier.
+2- Indiquer ce qu’entraîne le mouvement du liquide de l’oreille interne provoqué par
+les vibrations transmises par l’étrier. Préciser les récepteurs impliqués et les
+effets de leur activation.
+On s’intéresse maintenant au stockage du son sur différents supports qui vont
+permettre des échanges entre êtres humains. La taille des fichiers audio est une
+contrainte majeure qui dépend de la manière dont le son a été numérisé.
+3- Répondre sur votre copie par vrai ou faux aux affirmations suivantes, et justifier :
+a) La taille d’une séquence sonore augmente quand la fréquence
+d’échantillonnage augmente.
+b) La taille d’une séquence sonore augmente quand le nombre de voies
+d’enregistrement diminue.
+c) La taille d’une séquence sonore augmente quand la quantification diminue.
+4- Estimer la taille d’un fichier audio d’une minute qui a été numérisé sans
+compression avec les paramètres suivants : 44 100 Hz, 16 bits, stéréo (2 voies).
+5- La taille du fichier audio étant considérée comme trop importante, une
+compression est envisagée. À partir du document 2, établir une comparaison des
+avantages et inconvénients des formats de compression MP3 et FLAC en
+justifiant leur contexte d’utilisation (CD et streaming).
+6- À l’aide des informations du document 3, établir la formule mathématique
+permettant de calculer le taux de compression d’un fichier.
+7- En déduire, en pourcentage, le taux de compression du fichier « ESSAI1 MP3 »,
+le fichier « ESSAI1 WAV » étant le fichier non compressé. Apporter un regard
+critique sur le terme « Taux de compression » employé dans le document 2 par
+rapport à la définition donnée dans le document 3.
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+6- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Températures de surface de la Terre et du Soleil
+Partie 1 – Origine de l’énergie solaire
+La Terre reçoit l’essentiel de son énergie du soleil. Cette énergie conditionne sa
+température de surface.
+1- Préciser le phénomène physique à l’origine de l’énergie dégagée par le soleil.
+2- A partir de la relation d’Einstein : 𝐸 = ∆𝑚 × 𝑐 2 , calculer la masse solaire
+transformée chaque seconde en énergie, sachant que l’énergie émise chaque
+seconde par le soleil a pour valeur 3,9×1026 J.
+Donnée : vitesse de la lumière dans le vide c = 3,0×108 m·s–1
+Partie 2 – Température de surface du Soleil
+L’étude du spectre du rayonnement émis par le Soleil, que l’on peut modéliser
+comme un spectre de corps noir, permet de déterminer la température de la surface
+du Soleil.
+À l’aide du document 1 fourni sur la page ci-après, répondre aux questions 3 à 5 :
+3- Déterminer les longueurs d’ondes correspondant au maximum d’émission pour
+les températures de 4000 K, 5000 K et 6000 K. Décrire qualitativement
+l’évolution de la longueur d’onde au maximum d'émission en fonction de la
+température du corps.
+4- Justifier à partir de la valeur de la longueur d’onde d’émission maximale du
+spectre solaire que la température du Soleil est comprise entre 5500 K et
+6000 K.
+
+Document 1 – Spectres d’émission
+
+Figure 1a : spectres d’émission du corps noir à différentes températures
+
+Figure 1b : modèle du spectre d’émission du soleil.
+
+La température de surface du Soleil peut être déterminée plus précisément à partir
+de la loi de Wien. Cette loi permet de déterminer la température d’un corps noir à
+partir de la longueur d’onde λmax de son maximum d’émission par la relation :
+𝜆 𝑚𝑎𝑥 =
+
+𝑘
+𝑇
+
+avec :
+T : température du corps noir, en kelvins (K)
+k : constante égale à 2,898×10-3 m·K
+5- En considérant que le Soleil se comporte comme un corps noir, déterminer sa
+température de surface T à partir de la loi de Wien.
+Partie 3 – Énergie solaire et albedo
+L’albedo est un paramètre influençant la température de surface de la Terre
+6- Sachant que l’albedo terrestre est en moyenne égal à 0,30 et que la puissance
+surfacique transportée par la lumière solaire vers la surface de la Terre est en
+moyenne de 342 W·m-2, calculer la puissance surfacique solaire moyenne
+absorbée par le sol terrestre.
+7- Actuellement l’albedo moyen terrestre tend à diminuer. Préciser, en justifiant
+votre réponse, si cette diminution conduit à une augmentation ou une diminution
+de la température moyenne à la surface de la Terre.

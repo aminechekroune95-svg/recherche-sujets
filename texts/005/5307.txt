@@ -1,0 +1,282 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1449943, "at": "2026-11-23T09:26:30+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+DESCRIPTION DU PRODUIT ÉTUDIÉ
+Le système Handibike permet à une
+personne
+atteinte
+de
+dystrophies
+musculaires à un bras, de pratiquer du
+vélo tout terrain en toute sécurité (figure
+1). Handibike centralise le changement de
+vitesse via le dérailleur ainsi que le
+freinage sur la roue avant et arrière par la
+seule action de la main valide du vététiste.
+Le
+sujet
+porte
+sur
+l’étude
+de
+l’automatisation du freinage agissant sur
+les deux roues simultanément.
+Problématique générale
+Comment permettre à un vététiste atteint
+de dystrophie musculaire d’actionner le
+frein arrière et avant à partir d’une seule
+commande?
+
+Figure 1 : mission du système Handibike
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : Comment permettre qu’un effort de 60N du vététiste déclenche un freinage
+de la roue avant en moins de 100ms ?
+
+L’objectif de cette partie est de vérifier deux exigences du cahier des charges fonctionnel.
+
+exigence 1 : transformer l’effort de freinage du vététiste (compris entre 0 N et 60
+N) en un signal adapté à la carte électronique (compris entre 0 V et 4,5 V),
+exigence 2 : actionner le frein avant dans un temps inférieur à 100 ms.
+
+Lorsque le cycliste agit sur le levier de la commande du frein arrière, le frein avant est
+actionné proportionnellement à cette action.
+L’information de freinage est prélevée par un capteur d’effort (figure 2) placé sur le levier
+de commande du frein arrière. Cette information est transmise à la carte de traitement
+afin de déclencher l’action du servomoteur (figure 3). Ce dernier provoque la rotation du
+levier de frein avant par l’intermédiaire de la biellette permettant ainsi le freinage de la
+roue avant.
+
+Position du capteur sur le
+levier de commande de frein
+arrière.
+
+Capteur d’effort
+(illustration agrandie).
+
+Figure 2 : capteur d’effort sur le levier de commande du frein arrière
+Levier de frein avant
+Biellette
+Servomoteur
+Palonnier du
+servomoteur
+Calculateur
+Figure 3 : système de commande du frein avant
+
+Lorsque le cycliste appuie sur le levier de commande du frein arrière, le capteur d’effort
+mesure l’effort exercé par l’index du vététiste et le retranscrit par une variation de
+résistance comme indiqué sur le graphique figure 4.
+
+Figure 4 : évolution de la résistance du capteur d’effort en fonction de l’effort exercé par
+le vététiste
+La mesure de l’effort exercé par l’index du vététiste évolue de 0 N à 60 N (valeur
+maximale dans le cas d’un freinage d’urgence).
+Ces 2 valeurs extrêmes, 0 N et 60 N, doivent respectivement correspondre à deux valeurs
+de tensions 0 V et 4,5 V exploitables par la carte électronique.
+Question I.1
+
+À l’aide du graphe de la figure 4, déterminer la valeur de la résistance du
+capteur pour 60 N
+
+Le capteur d’effort est inséré dans un montage potentiométrique. Celui-ci élabore la
+tension Ut qui est appliquée sur une entrée de la carte électronique, cette tension ne doit
+pas excéder 5 V pour éviter la destruction de cette carte.
+
+Capteur d’effort
+Ut
+
+Ualim = 5 V
+
+Figure 5 : montage potentiométrique
+
+La tension Ut doit atteindre la valeur de 4,5 V lorsque le cycliste exerce l’effort maximal
+sur le levier de commande du frein arrière.
+Question I.2 Calculer la valeur de la résistance R permettant de satisfaire à cette
+condition.
+Le modèle multiphysique (figure 6) du système de freinage a permis d’extraire les deux
+courbes simulées (figure 7) lors d’un appui progressif sur le levier de frein:
+
+la force en N exercée sur le levier en fonction du temps en s ;
+la tension Ut en V en fonction du temps en s.
+
+Figure 6 : modèle multiphysique du système de freinage
+
+Figure 7a : courbes de la force
+exercée sur le levier de frein
+en fonction du temps
+
+Figure 7b : courbes de la
+tension correspondante en
+fonction du temps
+
+Question I.3 À partir des deux courbes obtenues par simulation, déterminer la plage
+de tension Ut en fonction des deux valeurs extrêmes de l’effort de freinage.
+Conclure quant au respect de l’exigence 1.
+En cas d’urgence, le système de freinage avant doit répondre rapidement. Cette exigence
+impose au système d’avoir un débattement angulaire de 15° du levier de frein avant en
+un temps inférieur à 100 ms.
+Pour des raisons d’encombrement la position finale du palonnier du servomoteur doit être
+horizontale lorsque le levier du frein avant est en position freinée (figure 8).
+
+Figure 8 : palonnier en position freinée
+
+déplacement angulaire du
+palonnier du servomoteur
+(degrés)
+
+Le levier du frein avant est en liaison pivot d’axe (𝑂1 ,⃗⃗⃗𝑥) avec le bâti. Le servomoteur
+fixé sur le bâti est en liaison pivot d’axe (𝑂2 ,⃗⃗⃗𝑥) avec le palonnier. La biellette est en
+liaison pivot d’axe (𝐵,⃗⃗⃗𝑥) avec le palonnier et d’axe (𝐴,⃗⃗⃗𝑥) avec le levier.Figure 9 :
+90,0
+80,0
+70,0
+60,0
+50,0
+40,0
+30,0
+20,0
+10,0
+0,0
+0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 9,0 10,0 11,0 12,0 13,0 14,0 15,0 16,0 17,0 18,0 19,0
+
+Déplacement angulaire du levier de frein avant ( degrés)
+
+Courbe de figure 9 : déplacement angulaire de la biellette du servomoteur en fonction
+du déplacement angulaire du levier de frein.
+
+La fiche technique du servomoteur indique une vitesse angulaire de 50° en 0,07 s.
+Question I.4 Déterminer la durée en seconde d’un freinage d’urgence. Conclure quant
+au respect des exigences liées à la problématique.
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : Comment commander le frein avant tout en garantissant la sécurité de
+l’utilisateur ?
+L’objectif de cette étude est d’élaborer le programme qui permet la commande du frein
+avant tout en évitant le blocage de la roue avant.
+Le levier de frein avant est actionné par l’intermédiaire du servomoteur dont le pilotage
+est assuré par un algorithme. La structure du système est décrite à la figure 10.
+
+Figure 10 : IBD du système de commande du frein.
+L'algorithme de gestion du frein avant est le suivant :
+TantQue 1=1
+MesurerEffort
+
+# Traduit en un nombre codé sur 10 bits l'effort du #vététiste
+(variable ValEffort)
+
+CalculerAngle
+
+# Transformer la valeur de l'effort en un angle
+# ( variable Angle) que doit former le palonnier du
+#servomoteur. Un effort inférieur à 5 N doit maintenir le
+#palonnier du servomoteur à un angle de 55°.
+
+# Un effort de 25 N doit se traduire par un angle de 0°
+# Limiter cet angle à 0° afin d'éviter un blocage total de la
+# roue avant si le vététiste exerce un effort supérieur à
+# 25 N.
+ImpulsionServo
+
+# Générer une durée d'impulsion ( variable Th) sur le #signal
+de commande du servomoteur
+
+Temporiser
+
+# Attendre afin de respecter les contraintes du
+servomoteur
+
+#
+
+Fin TantQue
+La figure 11 représente l’évolution de force en N et de la tension en V en fonction du
+temps du capteur d’effort. Ces courbes ont été obtenues à l’aide du modèle multiphysique
+du système de freinage.
+
+Figure 11 : Evolution de la force (N) et de la tension (V) du capteur d’effort en fonction
+du temps
+Le dispositif met en œuvre un convertisseur analogique - numérique qui traduit la tension
+en un nombre proportionnel codé sur 10 bits. Sa tension pleine échelle est de 5 V. Si la
+tension est de 0 V, le nombre est 0. Si la tension est de 5 V, la valeur numérique est
+1023.
+
+Question II.1 À l’aide de la figure 10, expliquer cette valeur de 1023. A l’aide
+de la figure 11, démontrer que la valeur numérique (ValEffort)
+est 818 lorsque l'effort sur le frein est de 25 N.
+
+La variable "ValEffort" contient la valeur numérique élaborée précédemment et
+correspondant à la traduction de l'effort de freinage. La variable "Angle" contient l’angle
+en degré à donner au servomoteur.
+L'algorithme de la fonction "CalculerAngle" est le suivant :
+Angle = 219 - (ValEffort / 3,73)
+Si Angle > 55 alors Angle = 55
+Si Angle < 0 alors Angle = 0
+
+Question II.2 Déterminer les valeurs produites par la fonction CalculerAngle
+dans les trois cas de figures d’effort sur le frein (frein relâché, efforts
+de 5 N et de 25 N). Conclure quant au bon fonctionnement de la
+fonction CalculerAngle.
+Le servomoteur doit recevoir des impulsions en fonction de l’ordre de freinage.
+La position angulaire du servomoteur est liée à la durée de l'impulsion qu'il reçoit
+régulièrement (environ toutes les 20 ms).
+
+Figure 12 : chronogramme du signal impulsion servo
+Pour éviter un blocage de la roue avant en cas de freinage excessif, le
+servomoteur ne dépasse jamais l’horizontale.
+
+Lorsque Th = 2500 µs, le palonnier forme un angle avec l'horizontale de 55°, il n’y
+a alors aucun freinage.
+Lorsque Th = 1800 µs, le palonnier forme un angle de 0° avec l'horizontale et le
+freinage est maximal.
+
+Th=1800 µs
+
+Th=2500 µs
+
+Question II. 3 Déterminer l’équation permettant de calculer le temps Th en
+fonction de la valeur de l’angle souhaité.
+
+Question II.4 Compléter l'algorithme de la fonction "ImpulsionServo" en le
+recopiant intégralement sur copie.
+Algorithme :
+Th = …
+Servo = …
+Attendre Th µs
+Servo = …
+Question II.5 Conclure sur la prise en compte de la sécurité du vététiste dans
+l’algorithme de commande du frein avant.

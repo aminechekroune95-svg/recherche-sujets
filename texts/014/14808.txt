@@ -1,0 +1,423 @@
+{"pages": 18, "method": "pdftotext", "bytes": 463599, "at": "2026-11-23T09:41:40+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture hexadécimale
+7B692 + 4C81E?
+C8EB0
+C5EB0
+C7EC0
+C7EB0
+Question A 2
+Le résultat de l'addition en binaire 101001 + 101 est égal au nombre binaire :
+101102
+010101
+101110
+110000
+Question A 3
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A 4
+Quel est le nombre qui s'écrit 2020 en base 3 ?
+Question A 5
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)10 sur un octet ?
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+Question A 6
+
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?
+False
+True
+None
+
+Thème B : types construits
+Question B 1
+On définit L = [4,25,10,9,7,13]. Quelle est la valeur de L[2] ?
+Question B 2
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Comment accéder à la chaîne de caractères "Alan" ?
+P[0]
+P[1]
+P[0]["prénom"]
+P[1]["prénom"]
+Question B 3
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n
+{ n*n
+[ n*n
+[ n*n
+
+for n in range(1,7) }
+for n in range(6) }
+for n in range(1,7) ]
+for n in range(6) ]
+
+Question B 4
+Comment peut-on accéder à la valeur associée à une clé dans un dictionnaire ?
+il faut parcourir le dictionnaire avec une boucle à la recherche de la clé
+on peut y accéder directement à partir de la clé
+on ne peut pas accéder à une valeur contenue dans un dictionnaire à partir d’une clé
+il faut d’abord déchiffrer la clé pour accéder à un dictionnaire
+Question B 5
+On considère la fonction suivante :
+def h(L,m,n):
+for i in range(m, (m+n)//2 + 1):
+L[i], L[m+n-i] = L[m+n-i],L[i]
+On exécute les instructions suivantes :
+L = [ 2, 3, 4, 5, 7, 8 ]
+h(L,0,2)
+h(L,3,5)
+
+h(L,0,5)
+Quelle est la valeur de L à la fin de cette exécution ?
+[8, 7, 5, 4, 3, 2]
+[2, 3, 4, 5, 7, 8]
+[4, 3, 2, 8, 7, 5]
+[5, 7, 8, 2, 3, 4]
+Question B 6
+On a défini un dictionnaire :
+contacts = {'Paul': '0601010182', 'Jacques': '0602413824', 'Claire': '0632451153'}
+Quelle instruction écrire pour ajouter à ce dictionnaire un nouveau contact nommé Juliette avec le numéro
+de téléphone 0603040506 ?
+'Juliette': '0603040506'
+contacts.append('Juliette': '0603040506')
+contacts['Juliette'] = '0603040506'
+contacts.append('Juliette', '0603040506')
+
+Thème C : traitement de données en tables
+Question C 1
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 2
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C 3
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ...... :
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 4
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+
+pdf
+xls
+png
+exe
+Question C 5
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+Question C 6
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i], table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D 2
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 3
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 4
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 5
+
+Qu'affiche cet extrait de code HTML en supposant que le fichier photo-lycee.jpg se trouve bien dans le dossier
+images ?
+<a href=’photo.html’><img src=’images/photo-lycee.jpg’ alt=’Photo du Lycée’/></a>
+seulement l'image contenue dans le fichier photo-lycee.jpg
+seulement le texte Photo du Lycée
+l'image contenue dans le fichier photo-lycee.jpg avec le texte Photo du Lycée en légende
+la page Web photo.html
+Question D 6
+Dans une page HTML, que permet la balise <form action="http://mon_site.fr" method="POST"> ?
+d'envoyer des données à l'URL http://mon_site.fr sans les ajouter au corps de la requête HTTP
+d'envoyer des données à l'URL http://mon_site.fr et de les ajouter au corps de la requête HTTP mais
+pas à l'URL
+de télécharger un formulaire depuis l'URL http://mon_site.fr
+de récupérer des données depuis l'URL http://mon_site.fr
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Sur un ordinateur, où est stocké de manière permanente le système d'exploitation ?
+dans la mémoire RAM
+sur le bus de donnée
+sur le disque dur ou le disque SSD
+dans le Cloud
+Question E 2
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+Question E 3
+Dans une mémoire vive RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+
+Question E 4
+Dans une machine sous Linux, dans le répertoire Documents se trouvent un répertoire Final ainsi qu'un
+répertoire Initial contenant deux fichiers fichier1.txt et fichier2.txt.
+En étant dans le répertoire Initial, quel est l’effet de la commande cp * ../Final ?
+se placer dans le répertoire Final
+déplacer dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Initial les fichiers du répertoire Final
+copier dans le répertoire Final les fichiers du répertoire Initial
+Question E 5
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E 6
+Sous Linux, dans quel but utilise-t-on la commande cat readme.txt ?
+pour supprimer le fichier readme.txt
+pour copier le fichier readme.txt
+pour afficher le contenu du fichier readme.txt
+pour renommer le fichier readme.txt
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+resultat = [1 * 7]
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+Question F 2
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+Question F 3
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F 4
+On construit une liste L de la façon suivante :
+L = []
+for i in range(1, 11, 2):
+L.append(5*i)
+et on obtient ainsi la liste [5, 15, 25, 35, 45].
+
+On pourrait aussi procéder de la façon suivante :
+L = []
+......... # ligne 1
+while i < 11:
+L.append(5*i)
+......... # ligne 2
+Que faudrait-il écrire en ligne 1 et en ligne 2 pour obtenir le même résultat ?
+i = 0 en ligne 1, et i = i + 1 en ligne 2
+i = 0 en ligne 1, et i = i + 2 en ligne 2
+i = 1 en ligne 1, et i = i + 1 en ligne 2
+i = 1 en ligne 1, et i = i + 2 en ligne 2
+
+Question F 5
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F 6
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+
+Thème G : algorithmique
+Question G 1
+Un algorithme est dit glouton si :
+Il consomme énormément de mémoire
+Il contient de nombreuses lignes de code
+Il s’inspire de la méthode de John Elwood Glouton
+Il fait à chaque étape le choix localement optimum
+
+Question G 2
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 3
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G 4
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+
+Question G 5
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G 6
+La fonction ci-dessous renvoie le maximum d'une liste.
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+#
+if L[i] > m:
+m = L[i]
+return m
+Au passage dans la ligne marquée d'un #, quelle propriété reste toujours vérifiée ?
+m est le maximum des éléments L[k] pour i <= k < len(L)
+m est le maximum des éléments L[k] pour i < k < len(L)
+m est le maximum des éléments L[k] pour 0 <= k < i)
+m est le maximum des éléments L[k] pour 0 <= k <= i

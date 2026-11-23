@@ -1,0 +1,350 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1872761, "at": "2026-11-23T09:29:31+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vente de livres
+Sur 4 points
+Le premier roman d’un humoriste français est paru fin juillet 2023.
+La première semaine après sa parution, 5 000 exemplaires ont été vendus. Durant
+les semaines suivantes, environ 3 000 exemplaires ont été vendus chaque semaine.
+Partie 1 – Étude des ventes au cours des premières semaines
+Au vu des premières ventes sur les quatre premières semaines, l’éditeur décide de
+modéliser cette situation à l’aide d’une suite (𝑢! ).
+Pour tout entier naturel non nul 𝑛, on note 𝑢! le nombre d’exemplaires vendus au
+bout de 𝑛 semaines. Ainsi 𝑢" = 5 000.
+1- Justifier pourquoi la modélisation peut être réalisée par une suite
+arithmétique. Préciser alors la raison de cette suite.
+2- Calculer 𝑢# .
+3- L’éditeur souhaite savoir quand 100 000 exemplaires seront vendus.
+Au bout de combien de semaines cet objectif serait-il atteint ?
+Partie 2 – Étude de l’évolution des ventes
+L’évolution des ventes après plus de deux mois laisse penser que le nombre
+d’exemplaires vendus pourrait être modélisé à l’aide d’une suite géométrique (𝑣! ) de
+raison 𝑞. Pour tout entier naturel non nul 𝑛, 𝑣! représente ainsi le nombre
+d’exemplaires vendus au bout de 𝑛 semaines après la parution.
+Ainsi 𝑣" = 5 000 et 𝑣"$ = 103 305.
+1- Justifier que 𝑞 ≈ 1,4 (valeur arrondie au centième). Pour la suite de l’exercice
+on prend cette valeur 1,4 comme raison de la suite.
+2- Calculer le nombre d’exemplaires qui seraient alors vendus au bout de quinze
+semaines.
+
+3- L’auteur pense que son roman se vendra à plus de 3 000 000 d’exemplaires.
+Compléter la fonction ci-dessous, écrite en Python, afin qu’elle renvoie le
+nombre minimal de semaines nécessaires pour atteindre cet objectif.
+def exemplaire():
+n=1
+v = 5000
+while v … 3000000:
+v=…
+n=n+1
+return n
+Au bout de combien de semaines son objectif sera-t-il atteint ?
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Le cristal d’argent et la photographie
+Partie 1 – Étude des cristaux d’argent et de chlorure d’argent
+L’argent est connu depuis des millénaires. Son utilisation dans l’industrie s’est
+fortement développée au XXe siècle notamment avec l’invention de la photographie.
+L’objectif de cet exercice est de comprendre comment ses propriétés lui confère un
+rôle central dans la photographie.
+Données :
+Masse d’un atome d’argent : 𝑚%& = 1,79 × 10'() kg.
+L’angström (Å) est une unité de longueur : 1 Å = 10-10 m.
+
+Document 1 – Description de la maille élémentaire du cristal d’argent
+L'argent est l'élément chimique de numéro atomique Z = 47
+et de symbole Ag. À l’état métallique, il est blanc, très brillant,
+malléable et ductile (c’est-à-dire qu’il peut être étiré sans se
+rompre).
+À l’état microscopique, l’argent métallique solide est organisé
+selon un réseau cubique à faces centrées.
+Une maille cubique à face centrées est représentée par :
+
+Photographie de
+cristaux d’argent
+
+un atome sur chaque sommet de la maille ;
+un atome au centre de chacune des faces de la maille.
+Une maille cubique à faces centrées contient l’équivalent de 4 atomes d’argent.
+
+Document 2 – Le cristal de chlorure d’argent AgCl
+Le chlorure d'argent, AgCl,
+présente une structure similaire
+au chlorure de sodium. NaCl. Le
+cristal de chlorure d'argent est
+un composé chimique blanc
+solide largement utilisé en
+photographie.
+
+Ag+ : ion argent
+Cl- : ion chlorure
+
+Représentation d’une maille élémentaire de
+chlorure d’argent AgCl(s)
+
+1- Justifier l’utilisation du terme de « cristal » pour caractériser les structures de
+l’argent et du chlorure d’argent à l’état solide.
+2- Nommer une autre organisation de la matière solide au niveau microscopique que
+l’organisation cristalline. En donner un exemple.
+3- En utilisant le document 1, choisir, parmi les trois propositions suivantes, celle qui
+permet de décrire correctement la maille élémentaire associée au cristal d’argent.
+
+Proposition a
+
+Proposition b
+
+Proposition c
+
+4- Calculer la masse volumique du cristal d’argent en kg. m'* . On rappelle que la
+masse volumique d’un cristal est égale au rapport de la masse totale des atomes
+d’argent contenus dans une maille par le volume de cette maille.
+Donnée : volume de la maille cubique d’argent : Vmaille = 6,89 × 10'(+ m3
+5- Placer sur un axe horizontal, par ordre croissant de taille, les entités suivantes :
+maille, atome, organisme, cellule, molécule, roche, minéral.
+Partie 2 – Photographie et sciences
+Introduction
+Nicéphore Niépce est un ingénieur français qui a contribué à l’invention de la
+photographie au XIXe siècle.
+Jusqu’alors, les chambres obscures n’étaient utilisées que comme instrument à
+dessiner. Elles étaient constituées de boîtes percées d’un trou muni d’une lentille
+projetant sur le fond, l’image renversée de la vue extérieure. Niépce se lance alors
+dans des recherches sur la fixation des images projetées au fond des chambres
+obscures.
+Pour ses premières expériences, Nicéphore Niépce dispose au fond d’une chambre
+obscure des feuilles de papier enduites de sels d’argent, connus pour noircir sous
+l’action de la lumière. Il obtient alors en mai 1816, la première reproduction d’une
+image de la nature : une vue depuis sa fenêtre. Il s’agit d’un négatif et l’image ne
+reste pas fixée car, en pleine lumière, le papier continue de se noircir complètement.
+Il appelle ces images des « rétines ».
+
+Reconstitution d’une « rétine » de chlorure
+d’argent (négatif)
+
+Photographie réalisée à partir d’une réplique de
+l’appareil de Niépce
+
+Source : https://photo-museum.org/fr/anciens-procedes-maison-nicephore-niepce/
+
+Document 3 – Principe de fonctionnement de la photographie argentique
+
+La photographie argentique
+repose sur le principe de
+l'utilisation d'un film photosensible.
+Ce film est généralement
+composé d'une couche de
+chlorure d'argent obtenu grâce à
+une réaction chimique entre le
+chlorure de sodium NaCl et le
+nitrate d’argent AgNO3.
+
+Schéma d’une expérience mettant en évidence le
+caractère photosensible du chlorure d’argent
+
+Lorsque le chlorure d’argent est exposé à la lumière, l'énergie lumineuse permet
+d'arracher les électrons des ions chlorure et ceux-ci sont transférés aux ions argent
+qui se transforment alors en atomes d'argent et donnent des nuances de brun
+(précipité noir).
+Source : https://tpeimageanimee2016.wordpress.com/2016/01/02/la-photographieargentique/
+
+6- Sur les premières « rétines » prises par Niépce (voir introduction), préciser si les
+zones qui ont été les plus éclairées apparaissent plus sombres ou plus claires que
+les autres. Justifier votre réponse.
+Au cours de leurs activités de production du savoir, les scientifiques mettent en
+œuvre un certain nombre de pratiques. L’observation est une des pratiques de la
+démarche scientifique.
+7- À l’aide des documents et de vos connaissances, expliquer en quoi la
+photographie est une technique qui peut être utile à la mise en œuvre d’une
+démarche scientifique.
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+Confinement et atmosphère
+L’activité humaine a des conséquences sur la composition de l’atmosphère,
+notamment parce qu’elle conditionne les émissions de CO2.
+Nous nous proposons ici d’étudier une évolution récente de l’atmosphère durant les
+premiers mois de la crise sanitaire de la Covid 19 et les mesures qui l’ont
+accompagnées.
+Document 1 : émissions globales de CO2 en mégatonnes par jour d’origine
+fossile
+Le document présente l’évolution du total des émissions journalières dues à
+l’utilisation de combustibles fossiles, à l’échelle de la Terre, au cours du temps. Les
+parties grisées représentent la marge d’erreur.
+
+8. En s’appuyant sur l’analyse du document 1, préciser comment ont évolué les
+émissions de CO2 de 2000 à 2020, à l’échelle globale de la Terre et proposer une
+hypothèse quant aux causes des variations constatées pendant les premiers mois de
+l’année 2020.
+
+Document 2 : cycle et flux de carbone (en Gt / an)
+
+9. À l’aide de connaissances et en s’appuyant sur le document 2, identifier les deux
+réservoirs de carbone les plus importants et préciser les flux de carbone entre ces
+deux réservoirs.
+10. En effectuant un bilan à partir de données du document 2, montrer que la
+quantité de carbone augmente avec le temps dans l’atmosphère.
+11. Sachant qu’une mole d’essence produit huit moles de CO2, prouver par le calcul
+qu’un kilogramme d’essence produit une masse de CO2 d’environ 3,1 kg, en utilisant
+les données suivantes.
+En première approche, l’équation de la réaction de combustion de l’essence peut
+être assimilée à celle de la combustion de l’octane (C8H18) :
+2 C8H18 (ℓ) + 25 O2 (g)
+
+16 CO2 (g) + 18 H2O (g)
+
+Données : Une mole d’octane C8H18 a une masse de 114,0 g. Une mole de CO2 a
+une masse de 44,0 g.
+12. En déduire la masse de CO2 produite pour une quantité de 2,8.109 kg d’essence
+correspondant à la consommation mondiale journalière sans crise sanitaire.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse pour recharger nos batteries
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible mais cela pourrait à terme
+transformer les rizières en unités de production électrique.
+On cherche ici à déterminer si cette technologie peut réellement constituer une
+solution d’avenir.
+Document 1. La photosynthèse et ses caractéristiques
+On cherche à identifier les conditions de la synthèse d’amidon par les feuilles.
+◄ Expérience :
+Sur un pied de géranium panaché*,
+une partie de quelques feuilles est
+masquée par du papier noir et est
+vivement éclairée pendant un certain
+temps.
+Après plusieurs heures, l’une des
+feuilles est débarrassée de son cache
+puis décolorée par de l’éthanol
+bouillant.
+La feuille est ensuite plongée dans une
+boîte de pétri contenant de l’eau iodée.
+
+L’eau iodée est un indicateur de couleur jaune qui est utilisé pour mettre en évidence
+la présence d’un glucide, l’amidon, au contact duquel elle devient bleu foncé
+* Une feuille panachée n’est pas totalement chlorophyllienne ; l’extrémité de la feuille
+est blanche.
+Source : D’après http://svt.ac-dijon.fr/schemassvt/spip.php?article356
+
+Le schéma ci-contre
+montre le montage
+expérimental au
+niveau d’une feuille
+de géranium
+panaché :
+
+1- En utilisant vos connaissances, indiquer les résultats attendus dans chacune des
+quatre zones de la feuille.
+
+Document 2 – Le principe de fonctionnement de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. Autour
+des racines vivent de très nombreux microorganismes qui se nourrissent de la
+matière organique issue du végétal. La réaction chimique correspondante peut être
+exploitée au sein d’une pile comportant deux électrodes dont l’une est positionnée
+près de la racine de la plante et l’autre en est plus éloignée.
+Cette pile peut délivrer un courant électrique qui transporte de l’énergie. On admet
+que la puissance électrique fournie par une « pile végétale » de cette sorte est
+proportionnelle à la surface que les plantes, exposées au soleil et qui se trouvent
+au voisinage des électrodes, occupent sur le sol.
+On peut estimer qu’une « pile végétale » fournit une puissance de 2,5 W par m² de
+surface de plantes. 1 m² de « pile végétale » suffit pour recharger un smartphone
+en 4 h !
+Source : d’après https://www.futura-sciences.com/planete/actualites/developpementdurable-pile-microbienne-plantes-electricite-demain-42980/#une-pile-microbiennealimentee-par-des-plantes
+
+Données :
+•
+
+La charge d’un smartphone nécessite une énergie de l’ordre de 10 Wh.
+
+•
+
+Un Watt-heure (Wh) est l’énergie produite par un système qui fournit une
+puissance de 1 Watt pendant 1 heure.
+
+2- Montrer que « pile végétale » de surface 1 m² peut fournir une énergie de 30 Wh
+pour 12 h d’éclairement de la surface végétale.
+L’énergie consommée par un foyer moyen est de l’ordre de 10 kWh pour une journée
+de 12 h d’éclairement.
+3- Déterminer la surface végétale nécessaire pour répondre aux besoins
+énergétiques journaliers d’un foyer moyen.
+4- En vous appuyant sur vos connaissances et sur l’ensemble de l’exercice, rédiger
+un paragraphe argumenté indiquant les intérêts et les limites de l’utilisation de la
+« pile végétale » comme source d’énergie électrique.
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+L’île de Samsø
+L’ile de Samsø est une petite île danoise située à l’est du Jutland, dans le détroit de
+Kattegat. En 1997, cette île est devenue la première île à énergie durable du
+Danemark et a atteint l’autosuffisance énergétique en dix ans.
+Document 1 : Samsø, une île laboratoire
+« Les premières mesures ont été d’assurer une production électrique par
+11 éoliennes terrestres réparties en trois parcs puis 10 grandes éoliennes off-shore
+à 3 km des côtes. Un relais électrique collecte la production de chaque parc et la
+dispache à la fois vers les habitations de l’île, jusqu’à satisfaction des besoins, et
+vers le réseau national danois. La balance est très nettement en faveur des
+exportations : trois quarts des 105 000 MWh annuels vont approvisionner le réseau
+national. »
+Extrait d’un article de Planètes Énergies, 21 février 2018
+
+Document 2 : Caractéristiques d’une éolienne
+Le physicien allemand Albert Betz affirme que 60 %
+seulement de l’énergie cinétique du vent est
+transformée en énergie mécanique au niveau des
+pâles de l’éolienne.
+Énergie cinétique du vent : 17 630 MWh
+
+Diamètre du rotor : 110 m
+Hauteur totale : 150 m
+Énergie moyenne produite par an : 4 200 MWh
+
+5- Schématiser la chaîne énergétique d’une éolienne.
+6- À l’aide des informations du document 2, montrer que l’énergie reçue par une
+éolienne est de 10 578 MWh.
+7- Montrer que les onze éoliennes terrestres présentes sont suffisantes pour
+satisfaire les besoins en énergie électrique de l’île de Samsø.
+8- L’île de Samsø exporte son énergie électrique sur le territoire. Citer un avantage
+et un inconvénient de cette exportation. Une justification est attendue pour chacune
+des réponses apportées.

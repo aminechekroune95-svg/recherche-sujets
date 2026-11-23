@@ -1,0 +1,482 @@
+{"pages": 16, "method": "pdftotext", "bytes": 2301221, "at": "2026-11-23T09:30:45+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+La guitare ne sonne pas comme d’habitude…
+Un guitariste amateur se plaint de son oreille droite depuis quelques mois. Il souffre
+d’une gêne auditive et d’une distorsion du son perçu lorsqu’il joue de sa guitare, en
+particulier pour les sons aigus. Pour comprendre l’origine de cette sensation auditive,
+dans un premier temps le guitariste décide d’étudier le son émis par sa guitare. Dans
+un second temps, il consulte un médecin ORL pour un bilan auditif.
+Partie 1 – Du côté du son émis par la guitare
+Afin de vérifier que sa guitare n’a pas d’anomalie, le guitariste mesure les fréquences
+de sons joués par sa guitare à l’aide d’une application dédiée et souhaite les
+comparer à une loi modélisant les vibrations d’une corde.
+Il réalise en premier lieu l’expérience sur la corde la plus fine (document 1).
+Document 1 – Spectre du son joué par la corde la plus fine
+Le guitariste pince la corde la plus fine.
+À l’aide de son smartphone et d’une
+application dédiée, il enregistre le son joué
+et en obtient le spectre (figure ci-dessous).
+Le guitariste en déduit que le son joué a
+une fréquence de 328 Hz ce qui
+correspond à un Mi3.
+
+Source : Document de l’auteur
+
+Le guitariste reprend cette expérience en déplaçant son doigt sur différentes
+touches (voir figure ci-dessous) sur la même corde, la plus fine.
+Pour chaque son joué, il mesure la longueur de la partie de la corde libre de vibrer
+(figure ci-dessous). Il réalise plusieurs graphiques pour analyser les résultats de
+ses mesures (document 2).
+
+Document 2 – Exploitation graphique des données
+L représente la longueur vibrante de la corde (en cm) et f la fréquence du son joué
+(en Hz).
+
+1- L’application indique, sur le document 1, la fréquence du premier pic :
+« fréquence du pic 328,12 Hz ». Justifier que cette fréquence est celle du son
+émis.
+2- Expliquer la présence des autres pics observés sur le spectre ainsi que les
+valeurs de fréquences attendues pour les trois premiers d'entre eux.
+3- En s’appuyant sur les graphiques du document 2, justifier que l’on peut
+considérer que la fréquence est inversement proportionnelle à la longueur vibrante
+de la corde.
+
+Document 3 – Une loi modélisant les vibrations de la corde
+Le père Marin Mersenne, savant et philosophe français, fut l’un des premiers à
+utiliser un laboratoire et à y faire des expériences. […] Il a été le premier à
+proposer une relation entre les différents paramètres de la corde vibrante :
+𝑓=
+
+1 T
+√
+2𝐿 𝜇
+
+𝑓 : la fréquence du son émis par la corde (en Hz) ;
+𝐿 : la longueur vibrante de la corde (en m) ;
+𝑇 : la tension de la corde (en N) ;
+𝜇 : sa masse linéique (masse d’un mètre de corde) (en kg·m-1).
+
+Il fallut attendre le XVIIIe siècle avant d’avoir une démonstration mathématique de
+la formule de Mersenne.
+Source : D'après http://accromath.uqam.ca/2007/02/la-construction-des-gammesmusicales
+
+4- Discuter de la compatibilité des résultats expérimentaux obtenus et de la loi
+proposée dans le document 3. Une argumentation sur le choix du guitariste de
+mener toutes les mesures sur une seule et même corde est attendue.
+Les résultats obtenus amènent le guitariste à conclure que la corde aigue semble se
+comporter normalement et l’incitent à consulter un médecin.
+
+Partie 2 – Du côté du bilan auditif de l’oreille droite ?
+Le médecin ORL constate à l’auscultation que l’aspect du conduit auditif des deux
+oreilles du guitariste est normal. Pour identifier une éventuelle perte d’audition, il
+pratique un bilan complet d’audition.
+Document 4 – Modalités d’un bilan d’audition
+L’audiogramme représente la courbe spécifiant le niveau d’audition d’un sujet par
+rapport à des valeurs normales établies sur une large population d’adultes jeunes
+considérés comme ayant une audition normale. Le praticien fait varier l'intensité et
+la fréquence du stimulus acoustique afin de déterminer l'intensité minimum perçue
+par le patient. Deux types de conduction du son au niveau de chaque oreille sont
+testées :
+
+
+La conduction par voie aérienne : le praticien teste ainsi la conduction du
+son de l’oreille externe à l’oreille interne en passant par le tympan et les
+osselets.
+
+
+
+La conduction par voie osseuse : le praticien teste la conduction du son à
+travers les os du crâne grâce à un vibrateur placé à l’arrière de l’oreille.
+
+Sources : D’après https://microbiologiemedicale.fr/anatomie-et-physiologie-de-loreille
+et https://www.cochlea.eu/exploration-fonctionnelle
+
+Document 5 – Comparaison des résultats de tests auditifs chez 3 patients
+dont le guitariste
+Seuls les résultats de l’oreille droite sont présentés ci-dessous. Le guitariste et les
+deux autres patients sont tous âgés d’une vingtaine d’années.
+
+Examen mesurant les seuils
+d’audition en conduction
+osseuse.
+Examen mesurant les seuils
+d’audition en conduction
+aérienne.
+
+Source : D’après http://www.orpac-grasse.com
+
+Tableau de référence des paliers de pertes auditives pour chaque bande de fréquences :
+
+0 à 20 dB
+
+Audition normale
+
+56 à 70 dB
+
+Perte
+moyennement
+sévère
+
+21 à 40 dB
+
+Perte légère
+
+71 à 90 dB
+
+Perte sévère
+
+41 à 55 dB
+
+Perte moyenne
+
+Plus de 91 dB
+
+Perte profonde
+
+Source : D’après https://www.fondationpourlaudition.org/bilan-auditif
+
+5- Proposer une hypothèse pour expliquer que la comparaison des résultats des
+tests auditifs soit faite entre patients du même âge.
+6- Identifier pour chaque patient (document 5) un des diagnostics ci-dessous qui
+pourrait lui correspondre. Justifier vos réponses.
+Diagnostic 1 :
+
+Le tympan, la chaine des osselets et la cochlée ne présentent
+pas d’anomalie. Le patient ne présente pas de surdité.
+
+Diagnostic 2 :
+
+Le tympan et les osselets sont probablement lésés mais ; la
+cochlée n’est pas atteinte. Il s’agit d’une surdité de
+transmission qui affecte l’oreille externe et/ou moyenne.
+
+Diagnostic 3 :
+
+La cochlée est atteinte mais la chaîne des osselets et le
+tympan ne présentent probablement pas d’anomalies. C’est
+d’une surdité de perception affectant l’oreille interne.
+
+Diagnostic 4 :
+
+La cochlée, le tympan et la chaîne des osselets sont
+probablement atteints. Il s’agit une surdité mixte avec
+surdité de transmission et surdité de perception.
+
+7- Le guitariste est le patient 2 (document 5). Il explique au médecin : « Pour une
+note aigue, j'entends un timbre différent depuis quelques mois. Ma guitare ne
+sonne pas comme avant ». En s’appuyant sur l’audiogramme du guitariste et sur
+le spectre d’une note aigue (document 1), proposer une explication à la
+distorsion de sa perception. Une démarche sur les harmoniques est attendue.
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Autour de l’uranium
+Des techniques de datation sur des objets géologiques ont permis de construire un
+modèle de l’évolution de la composition de l’atmosphère depuis la formation de la
+Terre. En étudiant quelques données sur l’uranium, on cherche à vérifier la validité
+d’une partie de ce modèle.
+Document 1 – Fabriqué dans les étoiles
+Il n’existe aucun noyau stable dont le numéro atomique serait supérieur à celui du
+bismuth (numéro atomique : 83). Pourtant, on trouve sur Terre des éléments plus
+lourds encore : le thorium et l’uranium. Ils sont radioactifs et ils ont été formés, au
+sein des étoiles, il y a plusieurs milliards d’années. …
+Dans une supernova, c’est-à-dire une étoile super massive qui s’effondre sur ellemême en quelques millisecondes, la densité de matière extrême permet à un
+noyau de capturer plusieurs neutrons en une seule fois. Le noyau subit ensuite
+plusieurs transformations radioactives successives qui génèrent des éléments
+beaucoup plus lourds, dont l’uranium. Puis, dans un rebond explosif, la supernova
+explose et expulse ces noyaux dans le milieu interstellaire. Ils peuvent ensuite se
+rassembler autour d’une nouvelle étoile et s’agréger pour se retrouver dans les
+planètes comme notre Terre.
+Source : https://www.cea.fr/comprendre/Pages/radioactivite/essentiel-sur-uranium.aspx
+
+1- À l’aide du document 1 et de vos connaissances, déterminer le type de
+transformation nucléaire auquel appartient la formation de l’uranium au cœur des
+étoiles. Justifier votre réponse.
+2- En utilisant le document 2 page suivante, définir le terme « isotope » puis donner
+la composition du noyau d’uranium le plus représenté à l’état naturel.
+
+Document 2 – L’élément uranium
+Le numéro atomique de l’élément
+uranium est Z = 92.
+L’uranium naturel se compose de
+trois isotopes radioactifs : l’uranium
+238 de symbole 238U, l’uranium 235
+de symbole 235U et l’uranium 234 de
+symbole 234U. Les proportions de ces
+trois isotopes sur Terre sont données
+dans le tableau ci-contre.
+
+Isotopes
+
+Proportions des
+isotopes sur Terre
+
+Uranium 238U
+
+99,27 %
+
+Uranium 235U
+
+0,72 %
+
+Uranium 234U
+
+0,01 %
+Source : d’après l’auteur
+
+Document 3 – Évolution du pourcentage de noyaux d’uranium 238 radioactifs
+dans un échantillon au cours du temps
+
+Source : d’après l’auteur
+
+3- Définir le terme « demi-vie » d’un noyau radioactif.
+4- Déterminer graphiquement la valeur de la demi-vie de l’uranium 238 à l’aide du
+document 3.
+5- Proposer une hypothèse expliquant pourquoi nous trouvons encore aujourd’hui
+de l’uranium 238 sur Terre.
+Document 4 – L’uraninite, une archive géologique
+L’uraninite (photographie
+ci-contre), de formule UO2
+est insoluble dans l’eau.
+L’uranium dans cette roche
+est sous une forme réduite.
+Quand l’uranium est sous
+forme oxydée UO3, il est
+soluble dans l’eau.
+La présence d'uraninite
+dans un milieu indique
+donc l'absence de
+dioxygène dans le milieu
+en question.
+Source de l’image : https://planet-terre.enslyon.fr/planetterre/objets/Images/uraninite/uraninite-fig01.jpg
+
+6- À partir du document 4, préciser une des conditions pour former l’uraninite que
+l’on retrouve actuellement.
+7- Sachant que l’on ne trouve plus de gisements d’uranium sédimentaire, formés
+d’uraninite (UO2), âgés de moins de 2 milliards d’années, préciser l’information
+apportée par la datation des gisements.
+
+Document 5 – Modèle de l’évolution de la pression partielle de certains gaz
+atmosphériques au cours du temps
+
+Source : Enseignement scientifique Terminale, lelivrescolaire.fr
+
+8- Expliquer en quoi les résultats de l’étude des gisements d’uranium sédimentaires
+sont compatibles avec l’évolution de la pression partielle en dioxygène dans
+l’atmosphère du modèle proposé dans le document 5.
+9- Parmi les propositions suivantes, choisir la démarche qui permet de renforcer la
+validité du modèle proposé dans le document 5 et justifier votre réponse.
+Recopier la lettre correspondante.
+a- Répliquer des études sur le même échantillon.
+b- Obtenir des résultats convergents à partir d’études sur des roches de
+natures différentes.
+c- Rédiger un article scientifique proposé à ses pairs.
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Zone d’habitabilité
+On définit la zone d'habitabilité comme étant la région des orbites des planètes ou
+des exoplanètes pouvant présenter de l'eau à l’état liquide. Cette définition a été
+revue avec la découverte par la sonde Galileo de sérieux indices de l'existence
+d'océans à l’intérieur de certains satellites naturels de Jupiter, notamment Europe.
+Partie 1 – La zone d’habitabilité du système solaire
+Document 1 – Quelques caractéristiques des planètes du système solaire
+Mercure
+Distance au Soleil (en
+millions de km)
+théorique (°C)
+réelle moyenne (°C)
+Température minimale à
+Température maximale
+(°C)
+
+Venus
+
+Mars
+
++168
+
++22,9
+
+-18,5
+
+-69
+
++167
+
++464
+
++15
+
+-67
+
+-180 à +430
+
++446 à +490
+
+-50 à +50
+
+-143 à +20
+
+La température moyenne de surface théorique correspond à la température,
+calculée par les astrophysiciens, qui régnerait à la surface d'une planète si celle-ci
+était totalement dépourvue d'atmosphère.
+1- À l’aide du document 1, en se basant uniquement sur la température de surface
+théorique et en considérant que la pression atmosphérique est semblable à celle de
+la Terre, citer la ou les planètes qui pourraient posséder de l’eau liquide en surface.
+Justifier.
+2- Calculer l’écart entre la température de surface réelle moyenne et la température
+de surface théorique, en valeur absolue, pour les 4 planètes du tableau.
+
+Document 2 – Quelques caractéristiques des planètes du système solaire
+Mercure
+Pression atmosphérique
+de surface (bar ou mbar)
+Épaisseur de
+l'atmosphère (km)
+Composition de
+l'atmosphère (Les gaz
+en gras sont des gaz à
+effet de serre)
+
+Venus
+
+Mars
+
+0,1 mbar
+
+93 bar
+
+1 bar
+
+6 mbar
+
+quasi nulle
+
+He (traces)
+
+CO2 (96%),
+N2 (3,5%),
+O2 (0,13%)
+H2O
+(0,002%)
+
+N2 (78%),
+O2 (20,9%),
+CO2 (0,04%),
+H2O (faible,
+variable)
+
+CO2 (95%),
+N2 (2,7%),
+O2 (0,13%)
+H2O (0,03%)
+
+3- À l’aide du document 2 et de vos connaissances, nommer et expliquer le
+phénomène à l’origine de la différence entre température réelle et température
+théorique sur la Terre et sur Vénus.
+4- Expliquer pourquoi le phénomène nommé à la question 3 est actuellement
+négligeable sur Mercure et sur Mars.
+Partie 2 – Europe, un satellite naturel habitable au sein du système solaire ?
+Document 3 – Extrait d’un communiqué du CNRS
+Pour un grand nombre de scientifiques, dans le système solaire, c’est sur Europe
+que la probabilité de trouver de la vie est la plus élevée. Sur les images fournies
+par les sondes spatiales Galileo (2014) et Juno (2022), on aperçoit sur la surface
+glacée, un réseau de fissures qui sont vraisemblablement des résurgences d’eau,
+comme on en trouve en Arctique. Des geysers jaillissent de temps à temps. […] Ne
+peut-on espérer trouver, sous la surface, des écosystèmes comme ceux des
+sources hydrothermales de nos océans, qui s’avèrent grouiller de vie malgré des
+conditions inhospitalières ?
+Source : d’après https://www.insu.cnrs.fr/fr/cnrsinfo/trouver-la-vie-sur-les-lunes-de-jupiter
+
+Document 4 – Quelques caractéristiques physico-chimiques d’Europe
+comparée à la Terre
+Europe
+
+-150°C
+
++15°C
+
+Pression
+atmosphérique (Bar)
+
+Composition
+atmosphère
+
+O2 (produit par
+dissociation des
+molécules d'eau).
+
+-11
+
+79% N2,
+20% O2,
+Ar, CO2, ...
+
+Source : 5 janvier 2023, https://www.insu.cnrs.fr/fr/cnrsinfo/trouver-la-vie-sur-les-lunes-dejupiter
+
+Document 5 – Un modèle de la structure interne d’Europe, satellite de Jupiter
+Les échelles ne sont pas respectées pour la représentation schématique suivante :
+
+Document 6 – Diagramme de phase de l’eau
+
+Source : d’après Wikipedia, Eau liquide dans l'Univers
+
+5- En prenant appui sur les documents 3, 4 et 6 indiquer deux arguments qui
+permettent de supposer que l’eau est présente sous forme solide à la surface
+d’Europe comme indiquée dans le document 5.
+6- Relever dans les documents 4 et 5, un argument en faveur de l’existence d’un
+océan d’eau liquide sous la banquise d’Europe.
+
+Partie 3 – La recherche d’exoplanètes habitables
+Une exoplanète est une planète gravitant autour d’une autre étoile que le Soleil.
+7- En utilisant les réponses apportées dans les parties 1 et 2 ou avec vos
+connaissances, expliquer en quoi la distance d’une exoplanète à son étoile ne
+suffit pas à affirmer la présence d’eau liquide à sa surface.
+Document 7 – Extrait d’un communiqué du CNRS du 6 septembre 2022
+James Webb : Premières images d'une exoplanète dans l'infrarouge moyen
+Lancé le 25 décembre 2021, [le télescope] James Webb a terminé sa phase de
+tests en Juillet 2022. Les programmes scientifiques ont depuis débuté et
+produisent déjà leurs premiers résultats, dont la première image d’une exoplanète
+obtenue dans l’infrarouge moyen […]. Les instruments du James Webb rendent
+désormais possible son observation directe dans l’infrarouge. […] Entre autres, les
+coronographes de MIRI, […] fonctionnent à des longueurs d’ondes choisies
+spécialement pour sonder l’atmosphère des exoplanètes, identifier des molécules
+comme l’ammoniac ou le dioxyde de carbone et déterminer la température de
+surface réelle des exoplanètes.
+Source : https://www.insu.cnrs.fr/fr/cnrsinfo/james-webb-premieres-images-duneexoplanete-dans-linfrarouge-moyen
+
+8- À l’aide du document 7, expliquer en quoi le télescope James Webb pourrait
+permettre de mieux identifier les exoplanètes susceptibles d’abriter de l’eau
+liquide.

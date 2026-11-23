@@ -1,0 +1,237 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1297758, "at": "2026-11-23T09:25:41+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par un diagramme d'états-transitions
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+PRESENTATION DU PRODUIT
+Le produit étudié est un portail automatisé
+coulissant permettant de contrôler l’accès à un
+espace privé. Ce portail est doté d’un panneau
+photovoltaïque et d’une batterie pour permettre
+soit une installation sur un site isolé soit une
+réduction de la consommation énergétique en
+cas de liaison avec le réseau électrique
+domestique.
+L’ouverture du portail peut être complète pour permettre l’accès à une voiture ou
+partielle pour un piéton ou un cycliste. Pendant la phase d’ouverture, si un obstacle
+est détecté le portail s’immobilise pour garantir la sécurité des personnes et des
+biens. L’ouverture du portail est déclenché à distance à l’aide de commandes
+pouvant prendre différentes formes (smartphone, clavier à code, visiophone ou
+télécommande).
+
+Figure 1 : diagramme des exigences du portail motorisé
+
+Tension d’alimentation
+Type de moteur
+Puissance du moteur
+Puissance maxi consommée (avec éclairage)
+Consommation en veille
+Fréquence moyenne de manœuvres par jour
+
+230 V~ / Solaire
+24 Vdc
+150 W
+600 W
+4,5 W
+20 cyclesjour-1
+16 s hors zone de
+Temps d’ouverture pour un portail de 3 m
+ralentissement
+Accélération phase 1
+187,5 mms-2
+Accélération phase 3
+- 72 mms-2
+Poids maxi. du portail (P)
+600 kg (8 m)
+Largeur maxi. du portail (L)
+8m
+Hauteur maxi. du portail (H)
+2m
+Figure 2 : performances et caractéristiques du portail motorisé
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+
+Problématique : dans le cadre d’une installation en site isolé, le dimensionnement
+du produit permet-il une continuité d’utilisation dans le cas le plus défavorable ?
+Dans le cadre d’une installation en site isolé le portail est alimenté uniquement par la
+batterie, cette dernière étant rechargée par l’intermédiaire du panneau
+photovoltaïque qui convertit l’énergie rayonnante du soleil en énergie électrique. La
+carte de commande du portail gère la distribution de l’énergie stockée dans la
+batterie vers le moteur électrique. La transmission du mouvement en sortie du
+moteur vers la partie mobile du portail est assurée par un système roue/vis associé à
+un système pignon/crémaillère.
+
+Question I.1
+DR1
+
+Question I.2
+
+Compléter le diagramme de la chaîne de puissance sur le document
+réponse DR1, en précisant les grandeurs de flux et d’efforts
+manquantes ainsi que leurs unités.
+Indiquer les grandeurs physiques de la chaîne de puissance qui
+conditionnent la consommation électrique du moteur du portail.
+
+Une modélisation multi-physique de la chaîne de puissance a permis de déterminer
+la puissance électrique absorbée par le moteur en fonction du temps lors de
+l’ouverture du portail (figure 3). On suppose que l’énergie consommée par le portail
+pendant la phase d’ouverture et pendant la phase de fermeture sont égales.
+
+Figure 3 : Courbe de puissance en fonction du temps pendant une phase d'ouverture.
+L’énergie consommée par le portail pendant la phase d’ouverture peut être
+déterminée en calculant l’aire se trouvant entre la courbe de puissance et l’axe des
+abscisses sur la durée totale du mouvement.
+Question I.3
+
+Proposer une simplification de la courbe de puissance issue de la
+simulation pour faciliter le calcul de l’énergie consommée. À partir de
+cette simpification, déterminer l’énergie sur un cycle de
+fonctionnement (ouverture et fermeture).
+
+Une estimation de l’énergie consommée a permis d’obtenir une énergie électrique
+absorbée par le moteur de 1 340 J sur un cycle de fonctionnement. On suppose que la
+consommation des autres constituants électriques est négligeable devant la
+consommation électrique du moteur. Le cas le plus défavorable correspond à une
+utilisation du portail sans apport d’énergie solaire pendant 45 jours consécutifs à
+raison de deux cycles quotidiens. Dans l’étude du cas le plus défavorable on suppose
+que la batterie est pleinement chargée avant la période de 45 jours sans énergie
+solaire. Les caractéristiques de la batterie utilisée sont fournies sur la figure 4.
+TECHNOLOGIE
+
+AGM Lead acid
+
+TENSION NOMINALE
+
+24 V
+
+CAPACITE NOMINALE 12 Ah (20 h)
+CAPACITE
+
+12,0 Ah / 0,60 A
+(20 h ;1,80 Vcell-1; 25 °C (77 °F))
+Figure 4 : fiche technique de la batterie
+
+Question I.4 Calculer l’énergie consommée par le portail dans le cas le plus
+défavorable. Conclure quant à la capacité de la batterie à assurer la
+continuité de fonctionnement dans le cas le plus défavorable.
+La capacité de stockage de la batterie s’altère avec le nombre de cycles d’utilisation.
+Cette altération dépend du nombre de cycles mais également de la profondeur de
+décharge que ces cycles imposent à la batterie. La figure 5 présente l’altération de la
+capacité de stockage de la batterie en fonction du nombre de cycles d’utilisation et
+de la profondeur de décharge (notée DOD) sollicitée.
+
+cycles
+Figure 5 : Courbe indiquant la dégradation de la capacité de la batterie en fonction
+de la profondeur de décharge (DOD) et du nombre de cycles.
+
+Question I.5 Déterminer la profondeur de décharge de la batterie dans le cas
+d’utilisation le plus défavorable. Conclure quant à la durée de vie de
+la batterie dans l’éventualité où cette situation se répète
+régulièrement.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : comment contrôler l’ouverture et la fermeture du portail sans utiliser
+ni capteur de position ni capteurs de fin de course?
+Description de la séquence préliminaire d’apprentissage
+Une fois le mode apprentissage lancé, l’installateur déclenche l’ouverture du portail
+par un appui sur le bouton de la télécommande. Cette ouverture s’effectue à vitesse
+constante. Une fois le portail totalement ouvert, un second appui sur le bouton de la
+télécommande déclenche la fermeture de celui-ci. L’électronique de commande de la
+motorisation du portail mémorise automatiquement :
+- Le couple moteur nécessaire à la commande du portail en fonctionnement
+normal. Cette mémorisation permet par la suite de détecter tout effort anormal
+sur la motorisation,
+- Les courses nécessaires pour l’ouverture et la fermeture totale du portail.
+Question II.1
+
+A l’aide du diagramme des exigences fourni en figure 1, identifier
+les grandeurs physiques mesurées par le portail pendant sa
+séquence préliminaire d’apprentissage et qui permettent une
+commande de celui-ci sans capteurs.
+
+Question II.2
+
+Compléter le diagramme états-transitions fourni dans le document
+réponse DR2 afin qu’il corresponde à la séquence préliminaire
+d’apprentissage.
+
+DR2
+
+La mesure de la vitesse du portail étudié pendant la phase d’ouverture de la séquence
+d’apprentissage a permis d’effectuer le relevé fourni en figure 5.
+
+Figure 6 : courbe définit la vitesse du portail en fonction du temps.
+
+Question II.3
+
+A partir du relevé fourni en figure 5, préciser les deux paramètres
+permettant de déterminer la course du portail et calculer sa valeur.
+
+Dans la suite de l’exercice on considère que la course du portail est de 3,90 m.
+La séquence préliminaire d’apprentissage se déroule à une vitesse limitée pour
+permettre une mesure précise des paramètres de commande. Afin de réduire le
+temps d’ouverture et de fermeture le portail se déplace, dans son mode de
+fonctionnement normal, d’abord à une vitesse rapide de 188 mms-1 puis à une
+vitesse lente de 43 mms-1 lorsque la position du portail est à moins de 20 cm des
+butées. Dans la suite de l’étude, on néglige les phases d’accélération et de
+décélération du portail.
+Question II.4
+
+Déterminer la distance parcourue par le portail lors de la phase
+d’ouverture à vitesse rapide. En déduire la durée de cette phase.
+
+Le diagramme états-transitions fourni sur le document réponse DR2 correspond au
+fonctionnement normal du portail. Ce diagramme ne prend pas en compte la
+détection d’obstacle pendant les phases d’ouverture et de fermeture du portail.
+Question II.5
+DR2
+
+Question II.6
+
+Compléter le diagramme états-transitions sur le document réponse
+DR2 pour qu’il corresponde au fonctionnement normal du portail.
+
+Conclure quant à la possibilité de commander le portail sans
+capteur. Préciser les conséquences de ce choix sur les
+constituants utilisés et sur l’algorithme de contrôle.
+
+DOCUMENTS RÉPONSES
+DR1, Question I.1 :
+
+DR2, Question II.2 :
+
+DR2, Question II.5 :

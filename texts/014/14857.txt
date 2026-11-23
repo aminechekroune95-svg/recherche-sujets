@@ -1,0 +1,404 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1305599, "at": "2026-11-23T09:41:16+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+Question A 2
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A 3
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+Question A 4
+Comment s'écrit le nombre −42 en binaire, sur 8 bits, en complément à 2 ?
+-0010 1010
+1010 1011
+1101 0101
+1101 0110
+Question A 5
+
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?
+Question A 6
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+
+Thème B : types construits
+Question B 1
+On exécute le script suivant :
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+Question B 2
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+Question B 3
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+Question B 4
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+]
+
+Quelle expression permet d'accéder au poste d'Éric ?
+
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+Question B 5
+On définit : T = [[1,2,3], [4,5,6], [7,8,9]]
+Laquelle des expressions suivantes a pour valeur 7 ?
+T[3,1]
+T[3][1]
+T[2,0]
+T[2][0]
+Question B 6
+t = [1,2,3,4,5,6,7,8,9]
+v = [c for c in t if c%3 == 0]
+Quelle est la valeur de la variable v à la fin de cette exécution ?
+[1,4,7]
+[3,6,9]
+[1,2,3,4,5,6,7,8,9]
+
+Thème C : traitement de données en tables
+Question C 1
+On considère la table suivante :
+t = [ {'type': 'marteau', 'prix': 17, 'quantité': 32},
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantité de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C 2
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 3
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C 4
+Quelle est la valeur de x après exécution du programme ci-dessous ?
+
+t = [[3,4,5,1],[33,6,1,2]]
+x = t[0][0]
+for i in range(len(t)):
+for j in range(len(t[i])):
+if x < t[i][j]:
+x = t[i][j]
+Question C 5
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 6
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D 2
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+Question D 3
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+Question D 4
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+HTTPS
+Question D 5
+Comment s'appelle la méthode permettant de transmettre les variables en les faisant apparaître dans la barre
+d’adresse du navigateur ?
+
+URL
+HEAD
+Question D 6
+Dans une page HTML se trouve le formulaire suivant :
+<form method="........." action="traitement.html">
+<p>Nom : <input type="text" name="nom"></p>
+<p>Mot de passe : <input type="password" name="mdp"></p>
+<p><input type="submit" name="envoi" value="Envoyer"></p>
+</form>
+Par quoi faut-il remplacer les pointillés pour que les données du formulaire n'apparaissent pas dans l'URL au
+moment où l'utilisateur soumet le formulaire au serveur ?
+SECRET
+HIDDEN
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 2
+On cherche à connaître l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E 3
+Sachant que le répertoire courant contient les fichiers fich.txt, mafich.txt et programme.py, quel est le
+résultat de la commande ls fich* dans un shell Linux ?
+fich.txt mafich.txt
+mafich.txt
+fich.txt
+programme.py
+Question E 4
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E 5
+Dans une mémoire vive RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+
+Question E 6
+Sous Unix, quelle commande permet de créer un nouveau répertoire ?
+
+mkdir
+echo
+ls
+rm
+
+Thème F : langages et programmation
+Question F 1
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 2
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for i in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F 3
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+Question F 4
+
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 5
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F 6
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+
+Thème G : algorithmique
+Question G 1
+L'algorithme suivant permet de calculer la somme des N premiers entiers, où N est un nombre entier donné :
+i =0
+somme =0
+while i < N :
+i = i +1
+somme = somme + i
+Un invariant de boucle de cet algorithme est le suivant :
+somme = 0 + 1 + 2 + ... + i et i < N
+somme = 0 + 1 + 2 + ... + N et i < N
+somme = 0 + 1 + 2 + ... + i et i < N+1
+somme = 0 + 1 + 2 + ... + N et i < N+1
+Question G 2
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛
+(𝑛 + 1)
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G 3
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+for x in L:
+
+for i in range(n//2):
+for j in range(n//2):
+
+Question G 4
+
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 5
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇
+Question G 6
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage

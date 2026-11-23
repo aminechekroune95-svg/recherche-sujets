@@ -1,0 +1,463 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1270692, "at": "2026-11-23T09:40:20+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est la représentation en binaire signé en complément à 2 de l’entier (−1)
+
+sur un octet ?
+
+1000 0000
+1000 0001
+1111 1110
+1111 1111
+Question A 2
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de
+0 en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+Question A 3
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture
+hexadécimale CD8FA + 9FF81?
+6E87B
+6D88B
+16D88B
+16E87B
+Question A 4
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+Question A 5
+
+Quelle est l'écriture binaire de 199 ?
+1111 1001
+1100 0111
+1100 1110
+0111 0111
+Question A 6
+On exécute le code suivant :
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+
+Thème B : types construits
+Question B 1
+On a défini : T = [[1,2,3], [4,5,6], [7,8,9]].
+Quelle expression parmi les suivantes a pour valeur le nombre 8 ?
+T[1,2]
+T[1][2]
+T[2,1]
+T[2][1]
+Question B 2
+Quelle affectation permet de donner à L la valeur [1,9,25,49,81] ?
+L = [i*2 for i in range(9) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 1]
+L = [i**2 for i in range(10) if i//2 == 1]
+Question B 3
+On considère le script suivant :
+t = [2, 8, 9, 2]
+t[2] = t[2] + 5
+Quelle est la valeur de t à la fin de son exécution ?
+[2, 13, 9, 2]
+[2, 8, 14, 2]
+[7, 13, 14, 7]
+[7, 13, 9, 2]
+Question B 4
+On définit ainsi le tableau t = [[1,5,7], [8,4,2], [3,9,6]]
+Quel jeu d'indices permet d'obtenir l'élément "9" de ce tableau ?
+t[3][2]
+t[2][3]
+t[1][2]
+t[2][1]
+Question B 5
+On définit en Python la fonction suivante :
+def f(L):
+S = []
+for i in range(len(L)-1):
+
+S.append(L[i] + L[i+1])
+return S
+Quelle est la liste renvoyée par f([1, 2, 3, 4, 5, 6]) ?
+[3, 5, 7, 9, 11, 13]
+[1, 3, 5, 7, 9, 11]
+[3, 5, 7, 9, 11]
+cet appel de fonction déclenche un message d'erreur
+Question B 6
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+
+Thème C : traitement de données en tables
+Question C 1
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 2
+On considère la liste de p-uplets suivante :
+table = [
+
+('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912)
+]
+
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une
+femme) et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+Question C 3
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 4
+
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 5
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+Question C 6
+On considère une table de données <films> qui est une liste de dictionnaires "Titre", "Réalisateur","Date".
+Un enregistrement de la table contient un titre de film, le nom de son réalisateur et l'année de sortie du film.
+films = [{"Titre": "ET", "Réalisateur": "Spielberg", "Date": 1982},
+{"Titre": "Ready Player One", "Réalisateur": "Spielberg", "Date": 2018},
+{"Titre": "The Artist", "Réalisateur": "Hazanavicius", "Date": 2011},
+...]
+On souhaite obtenir la liste des films réalisés par "Spielberg" ou par "Hazanavicius" depuis l'année 2000.
+Quelle doit être la condition utilisée pour sélectionner les enregistrements correspondants, lors du parcours de
+la table ?
+(film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius")
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius"
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius"
+or film["Date"] >= 2000
+
+(film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius")
+or film["Date"] >= 2000
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D 2
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+}
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 3
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 4
+
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 5
+Lors de la consultation d’une page HTML, contenant un bouton dans lequel on ajoute l’attribut suivant, que se
+passe-t-il quand on clique sur ce bouton ?
+<button onclick="this.style.color='red'">
+le pointeur de souris devient rouge lorsqu'il arrive sur le bouton
+le texte du bouton devient rouge
+le texte du bouton est remplacé par le mot "red"
+le texte de la page passe en rouge
+Question D 6
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Que peut-on dire du système de fichier, suite à l’exécution des commandes suivantes ?
+% cd
+% ls
+Documents Images Videos
+% mv *.txt Documents
+
+help.txt
+
+tutorial.txt
+
+script.py
+
+L'utilisateur Documents a pris possession des fichiers help.txt et tutorial.txt
+Le répertoire /Documents contient maintenant les fichiers help.txt et tutorial.txt
+Le répertoire Documents du répertoire de l'utilisateur contient maintenant les fichiers help.txt et
+tutorial.txt
+script.py a été exécuté et a déplacé les fichiers textes
+Question E 2
+Lequel de ces objets n'est pas un périphérique ?
+le clavier
+une clé USB
+la carte graphique
+la carte mère
+Question E 3
+La commande suivante vient d'être exécutée en ligne de commande sous Linux :
+cp /users/luc/interro.txt ./
+Que réalise cette commande ?
+copie du fichier users vers le répertoire luc
+copie du fichier interro.txt vers le répertoire luc
+copie du fichier interro.txt vers le répertoire courant
+copie du fichier interro.txt vers le répertoire users
+Question E 4
+Sous Linux, dans quel but utilise-t-on la commande ls ?
+pour afficher le chemin vers le répertoire courant
+pour afficher les noms de fichiers et répertoires du répertoire courant
+pour effacer un fichier
+pour copier un fichier
+Question E 5
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+
+Question E 6
+Parmi les commandes suivantes, laquelle permet à n’importe quel utilisateur d’exécuter le fichier appelé jeu ?
+chmod u+x jeu
+chmod u+rwx jeu
+chmod a+x jeu
+chmod a-x jeu
+
+Thème F : langages et programmation
+Question F 1
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F 2
+def f(x,y,z):
+if x+y == z:
+return True
+else:
+return False
+Quel type de paramètres est-il déconseillé d'utiliser avec cette fonction ?
+les entiers
+les chaînes de caractères
+les flottants
+les tableaux
+Question F 3
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F 4
+def f(x,y):
+x = x + y
+
+y = x - y
+x = x - y
+return (x,y)
+Quel est la valeur renvoyée par l'appel f(2019,2020) ?
+(2019,2019)
+(2019,2020)
+(2020,2019)
+(2020,2020)
+Question F 5
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 3
+b = 6
+if a > 5 or b != 3:
+b = 4
+else:
+b = 2
+Question F 6
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+
+Thème G : algorithmique
+Question G 1
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 2
+Un algorithme de tri d’une liste d’entiers est implémenté de la façon suivante :
+def trier(L) :
+for i in range(len(L)):
+indice_min = i
+for j in range(i+1, len(L)):
+if L[j] < L[indice_min] :
+indice_min = j
+L[i], L[indice_min] = L[indice_min], L[i]
+# ligne de commentaire où une des 4 propositions est vraie
+return L
+Parmi les propositions suivantes, laquelle reste vraie à chaque itération de la boucle, à l'endroit indiqué cidessus en commentaire?
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre croissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre croissant
+Question G 3
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+
+Question G 4
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G 5
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 6
+Un algorithme est dit glouton si :
+Il consomme énormément de mémoire
+Il contient de nombreuses lignes de code
+Il s’inspire de la méthode de John Elwood Glouton
+Il fait à chaque étape le choix localement optimum

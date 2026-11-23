@@ -1,0 +1,442 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1371110, "at": "2026-11-23T09:46:30+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture hexadécimale
+7B692 + 4C81E?
+C8EB0
+C5EB0
+C7EC0
+C7EB0
+Question A.2
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x=1
+for i in range(10):
+x=x*2
+1024
+2048
+20000000000
+Question A.3
+Quelle est la représentation binaire en complément à deux sur huit bits du nombre –3 ?
+1000 0011
+1111 1100
+1111 1101
+1 0000 0011
+Question A.4
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de 0
+en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+
+Question A.5
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+Question A.6
+Quelle est la représentation binaire du nombre entier 173 ?
+1010 1101
+1011 0101
+1011 0100
+1011 1101
+
+Thème B : types construits
+Question B.1
+Quel est le résultat de l'évaluation de l'expression Python suivante ?
+[ n * n for n in range(10) ]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+Question B.2
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+
+Question B.3
+Quelle est la valeur de l'expression [[i,2*i] for i in range(3)] ?
+[0,0,1,2,2,4]
+[[0,0],[1,2],[2,4]]
+[1,2,2,4,3,6]
+[[1,2],[2,4],[3,6]]
+Question B.4
+Quelle est l'expression qui a pour valeur la liste [1,4,9,16,25,36] ?
+{ n*n for n in range(1,7) }
+{ n*n for n in range(6) }
+[ n*n for n in range(1,7) ]
+[ n*n for n in range(6) ]
+Question B.5
+On dispose dans le tableau annee2019 les températures mensuelles moyennes d'une région française.
+annee2019 = [('janvier',6), ('février',6), ('mars',12),
+('avril',20), ('mai',23), ('juin',25),
+('juillet',29), ('août',25), ('septembre',22),
+('octobre',15), ('novembre',11), ('décembre',7)]
+m = annee2019[0][1]
+for mois in annee2019:
+if (m > mois[1]):
+m = mois[1]
+Que contient la variable m à la fin de cette exécution ?
+le mois le plus froid
+le mois le plus chaud
+la température moyenne la plus basse
+la température moyenne la plus haute
+Question B.6
+Quelle expression Python a pour valeur la liste [1,3,5,7,9,11] ?
+[2*i - 1 for i in range(6)]
+[2*i + 1 for i in range(6)]
+[2*i + 1 for i in range(5)]
+[2*i - 1 for i in range(7)]
+
+Thème C : traitement de données en tables
+Question C.1
+On définit :
+contacts = { 'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C.2
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C.3
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C.4
+Soit la table de données suivante :
+nom
+prenom
+date_naissance
+Dupont Pierre
+17/05/1987
+Dupond Catherine 18/07/1981
+Haddock Archibald 23/04/1998
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+
+Question C.5
+Un centre de loisirs propose deux activités payantes : la piscine et le golf.
+Le tableau P fournit la liste des entrées à la piscine pour chaque mois, le tableau G fournit la liste correspondant
+au golf.
+P = [ [‘janv’,3416], [‘fev’,4025], [‘mars’,4306], [‘avr’,5507],
+[‘mai’,6100], [‘juin’,1425], [‘juil’,2335], [‘aout’,2864],
+[‘sept’,1236], [‘oct’,5015], [‘nov’,2230], [‘dec’,1776] ]
+G = [ [‘janv’,1429], [‘fev’,2189], [‘mars’,2065], [‘avr’,2512],
+[‘mai’,3219], [‘juin’,730], [‘juil’,1144], [‘aout’,1429],
+[‘sept’,638], [‘oct’,2515], [‘nov’,1126], [‘dec’,899]]
+On souhaite construire une table T qui fournit une liste analogue où figure le total des entrées à la piscine et au
+golf. Par quoi faut-il remplacer la ligne en pointillés du code suivant ?
+T = []
+for i in range(11):
+.......
+T.append([P[i][0], P[i][1] + G[i][1]])
+T.append([P[i][1], P[i][2] + G[i][2]])
+T.append([P[i][0], P[i][0] + G[i][0]])
+T.append([P[i][1], P[i][1] + G[i][1]])
+Question C.6
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle expression vaut-elle 'RIO' parmi les suivantes ?
+t[4]['sejour']
+t[5]['sejour']
+t('id'=5)
+t.['id'=5].['sejour']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.2
+Dans une page HTML se trouve le formulaire suivant :
+<form method="........." action="traitement.html">
+<p>Nom : <input type="text" name="nom"></p>
+<p>Mot de passe : <input type="password" name="mdp"></p>
+<p><input type="submit" name="envoi" value="Envoyer"></p>
+</form>
+Par quoi faut-il remplacer les pointillés pour que les données du formulaire n'apparaissent pas dans l'URL au
+moment où l'utilisateur soumet le formulaire au serveur ?
+GET
+POST
+SECRET
+HIDDEN
+Question D.3
+Parmi les langages suivants, lequel est exécuté sur le serveur lors de la consultation d’une page Web ?
+JavaScript
+HTML
+CSS
+PHP
+
+Question D.4
+Voici un extrait d'un document HTML.
+<body>
+.........
+Clic !
+</button>
+<h1><span id="valeur">2000</span></h1>
+</body>
+<html>
+Quelle doit être la ligne qui remplace les pointillés pour obtenir un bouton dont l'appui déclenche la fonction
+javascript actionBouton() ?
+<button click = "actionBouton();">
+<button onclick = "actionBouton();">
+<button onclick => "actionBouton();"
+<button> onclick = "actionBouton();"
+Question D.5
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D.6
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Identifier parmi les éléments suivants celui qui est uniquement un périphérique de sortie.
+clavier
+souris
+écran
+microphone
+Question E.2
+La commande chmod a-r monfichier
+permet à tous (all en anglais) la lecture de monfichier
+interdit à tous (all en anglais) la lecture de monfichier
+permet à tous (all en anglais) l'écriture dans monfichier
+interdit à tous (all en anglais) l'écriture dans monfichier
+Question E.3
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+Question E.4
+Vous soupçonnez que des paquets se perdent entre votre ordinateur et leur destination.
+Quelle commande utiliseriez-vous pour trouver la source du problème efficacement ?
+ping
+ipconfig
+traceroute
+nslookup
+Question E.5
+Laquelle de ces écritures ne désigne pas une adresse IP ?
+127.0.0.1
+207.142.131.245
+192.168.229.48
+296.141.2.4
+Question E.6
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt²
+
+Thème F : langages et programmation
+Question F.1
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F.2
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F.3
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+
+Question F.4
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+Question F.5
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre n et
+p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........): # ligne à modifier
+somme = somme + i
+return somme
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F.6
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Thème G : algorithmique
+Question G.1
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M=0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G.2
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+if x < a:
+a=x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+Question G.3
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+
+Question G.4
+On décide d'effectuer une recherche dans un tableau trié contenant 42000 valeurs. On procède par dichotomie.
+Le nombre maximal d'itérations de l'algorithme sera :
+21000 car une recherche dichotomique divise le nombre de tests maximal par deux.
+42000 car la valeur recherchée pourrait très bien être la dernière du tableau.
+41999 car si on n'a pas trouvé l'élément recherché à l'avant-dernière position du tableau, il n'est plus utile
+d'effectuer de test pour la dernière position.
+16 car à chaque itération, le nombre d'éléments à examiner est divisé par deux et que 215 ⩽ 42000 ⩽ 216 .
+Question G.5
+L'algorithme suivant permet de calculer la somme des N premiers entiers, où N est un nombre entier donné :
+i =0
+somme =0
+while i < N :
+i = i +1
+somme = somme + i
+Un invariant de boucle de cet algorithme est le suivant :
+somme = 0 + 1 + 2 + ... + i et i < N
+somme = 0 + 1 + 2 + ... + N et i < N
+somme = 0 + 1 + 2 + ... + i et i < N+1
+somme = 0 + 1 + 2 + ... + N et i < N+1
+Question G.6
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+
+for i in range(n//2):
+for j in range(n//2):

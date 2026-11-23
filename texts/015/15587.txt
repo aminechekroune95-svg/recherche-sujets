@@ -1,0 +1,297 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1193300, "at": "2026-11-23T09:29:16+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Santé humaine et santé des écosystèmes : exemple de la maladie
+de Lyme
+Sur 10 points
+La maladie de Lyme est transmise lors d’une piqûre de tique infectée par une
+bactérie du genre Borrelia. L’infection est souvent sans symptôme mais peut dans
+certains cas entrainer une maladie invalidante. La maladie de Lyme n’est pas
+contagieuse. Aux États-Unis, on assiste à une augmentation importante du nombre
+de cas. On cherche à en comprendre l’origine.
+Partie 1 – Les souris à pattes blanches, réservoir de la maladie de Lyme
+Les souris à pattes blanches constituent une espèce réservoir de la maladie de
+Lyme : elles hébergent la bactérie Borrelia qu’elles transmettent à la tique, un
+Acarien responsable de l’infection chez l’être humain. Aussi, les chercheurs
+s’intéressent à la croissance des populations de souris, et ce, dans deux
+contextes environnementaux : en présence des prédateurs des souris, et en
+l’absence des prédateurs des souris (voir le document 1 page suivante).
+1- Indiquer, avec justification, laquelle des suites du document 1 traduit une
+croissance linéaire.
+2- Par lecture graphique, déterminer 𝑢12 et 𝑣12 .
+3- À l’aide du graphique, montrer que la suite (𝑢𝑛 ) s’exprime pour tout entier
+naturel 𝑛 par : 𝑢𝑛 = 2 + 0,5n.
+4- Calculer 𝑢30 et interpréter le résultat dans le contexte de l’exercice.
+La suite (𝑣𝑛 ) est une suite géométrique de premier terme 𝑢0 = 2 et de raison 1,23.
+On peut écrire 𝑣𝑛 = 2 × 1,23𝑛 .
+5- Démontrer que le taux d’évolution de la population est d’environ 33 %.
+6- Déterminer 𝑣30 et interpréter le résultat dans le contexte de l’exercice.
+
+Document 1 – La croissance des populations de souris à pattes blanches
+À partir d’études statistiques, des chercheurs ont modélisé la croissance de
+populations de souris par deux suites (𝑢𝑛 ) et (𝑣𝑛 ) :
+
+𝒖𝒏 représente le nombre de souris à pattes blanches pour l’année
+(2020 + 𝑛) en présence de prédateurs des souris ;
+
+𝒗𝒏 représente le nombre de souris à pattes blanches pour l’année
+(2020 + 𝑛) en l’absence de prédateurs des souris.
+
+Les représentations graphiques des premiers termes de ces suites sont données
+ci-après.
+Taille de la population de souris, en nombre d’individus
+
+En présence de prédateurs des
+souris : 𝒖𝒏
+
+Rang de l’année
+En absence de prédateurs des
+souris : 𝒗𝒏
+
+10 12 14 16
+
+Rang de l’année
+Source : d’après Vessey, S.H.,& Vessey, K.B. (2007). Integrative Zoology
+
+7- À partir de vos connaissances, indiquer si le modèle mathématique
+correspondant à la suite (𝑣𝑛 ) permet de réaliser des prédictions fiables de
+l’évolution de la population de souris en l’absence de prédateur, sur des temps
+longs.
+Partie 2 – Les causes de la croissance des populations de souris à pattes
+blanches
+Document 2 – La fragmentation des habitats et ses effets
+La fragmentation des habitats est la division des écosystèmes en parcelles isolées
+par des infrastructures comme des villes ou encore des terres agricoles. Elle est
+principalement liée à l’activité humaine et a des conséquences sur le
+fonctionnement des écosystèmes. Par exemple, aux États-Unis, la fragmentation
+des forêts y limite la présence de grands carnivores qui régulent normalement les
+populations d’animaux réservoirs de pathogènes, comme les souris à patte
+blanche.
+Source : d’après Allan, B.F. et al. (2003). Conservation Biology
+
+8- À partir des documents 1 et 2, argumenter le concept « une seule santé » qui
+établit un lien entre la santé de l’être humain et celle des écosystèmes.
+
+Exercice 2 – Niveau terminale
+Thème « Science, climat et société »
+
+L’histoire de l’atmosphère terrestre
+Sur 10 points
+La Terre s’est formée il y a plus de 4 milliards d’années par agglomération (on parle
+aussi d’accrétion) de météorites appelées « chondrites ». L’atmosphère primitive de
+la Terre, est issue d’un dégazage des roches au cours de son refroidissement. Elle
+avait une composition très différente de l’atmosphère actuelle. La transformation de
+l’atmosphère au cours du temps est marquée en particulier par un fort
+enrichissement en dioxygène, ce qui lui a conféré un caractère oxydant.
+L’objectif de cet exercice est de rechercher des arguments expliquant
+l’enrichissement de l’atmosphère en dioxygène, il y a 2,4 milliards d’années et de
+comprendre comment les chercheurs ont pu reconstituer l’histoire de l’atmosphère.
+Document 1 – Métabolisme des cyanobactéries actuelles
+Une culture de cyanobactéries est placée dans une enceinte hermétique. Les
+teneurs en dioxygène et en dioxyde de carbone sont relevées sous différentes
+conditions d’éclairement. Les résultats sont présentés sur le graphique cidessous.
+Évolution des teneurs en dioxygène et dioxyde de carbone
+de la culture de cyanobactéries
+
+Données :
+Il existe différents types de métabolismes, notamment :
+
+la respiration : O2 + Sucre → H2 O + CO2
+
+la photosynthèse : CO2 + H2 O →
+
+la fermentation alcoolique : Sucre → CO2 + Ethanol
+
+en présence de lumière
+
+Sucre + O2
+
+Les équations des réactions ne sont pas ajustées, elles indiquent seulement la
+nature des réactifs et des produits. Les sucres, appelés aussi hydrates de carbone,
+sont composés de carbone (C), d’hydrogène (H) et d’oxygène (O).
+1- À l’aide du document 1, donner, en justifiant, le nom du métabolisme utilisé par
+les cyanobactéries dans l’expérience entre 0 et 5 minutes, puis entre 5 et
+10 minutes.
+2- Les stromatolithes sont des constructions carbonatées d’origine biologique
+formées par des micro-organismes, semblables à des cyanobactéries. Les plus
+anciens ont été datés à environ 3,5 milliards d’années. À partir du document 1 et
+de vos connaissances, justifier d’une origine probable de la production de
+dioxygène à partir de 3,5 milliards d’années.
+Document 2 – Les formations sédimentaires d’oxydes de fer
+La grande majorité des minerais de fer du monde est constituée de ce qu'on
+appelle des fers rubanés (Banded Iron Formation ou BIF, en anglais). Ces BIF
+existent sous plusieurs formes, plus ou moins riches en fer, et contiennent un
+oxyde de fer composé de deux atomes de fer et de trois atomes d’oxygène.
+Le tableau ci-dessous présente différents oxydes de fer :
+Oxyde de fer
+
+Formule
+brute
+
+Wustite
+
+FeO
+
+Hématite
+
+Fe2O3
+
+Magnétite
+
+Fe3O4
+
+Description
+
+Équation chimique de
+formation de l’oxyde de
+fer, non ajustée
+
+Poudre grise
+
+Fe + O2 → FeO
+
+Minéral de couleur
+rouille
+Minéral de couleur
+noire
+
+Fe + O2 → Fe2O3
+Fe + O2 → Fe3O4
+
+3- Nommer l’oxyde de fer majoritaire présent dans les BIF et ajuster l’équation
+chimique modélisant sa formation après l’avoir recopiée sur la copie.
+Document 3 – Évolution de la formation des paléosols rouges et des fers
+rubanés au cours du temps
+
+Source : d’après C. Klein, Nature, 1997
+
+L’axe des abscisses correspond à l’âge des roches en milliard d’années avant le
+présent. L’axe des ordonnées correspond à la quantité relative des roches
+formées.
+Les paléosols, ou sols fossiles, se sont formés par altération de roches
+continentales au contact de l’atmosphère. La couleur rouge de certains de ces sols
+provient de la forte teneur en hématite. Les fers rubanés sont toujours des
+formations sédimentaires marines.
+Le volcanisme continental et marin relâchent une quantité importante de fer sous
+forme d’ions Fe2+ oxydés en Fe3+ par le dioxygène.
+4- À l’aide du document 3, proposer une chronologie d’évènements ayant conduit à
+la mise en place d’une atmosphère riche en dioxygène.
+
+La Terre s’est formée il y a plus de 4 milliards d’années par accrétion de chondrites.
+Très rapidement, elle a subi un processus de différenciation au cours de laquelle les
+éléments volatiles se seraient vaporisés, séparés de la roche et accumulés en
+surface, formant une atmosphère primitive par dégazage. Ainsi, l’analyse de la
+composition chimique des chondrites a permis d’estimer la composition chimique de
+cette atmosphère primitive.
+5- À l’aide de vos connaissances et des documents 4 et 5 suivants, argumenter sur
+la nécessité, pour les scientifiques, d’employer différentes méthodes pour
+reconstituer la longue histoire de la composition de l’atmosphère terrestre.
+Document 4 – Comparaison de la composition chimique de la Terre des
+chondrites (météorites à l’origine de la Terre)
+
+Éléments
+
+Composition chimique
+moyenne des chondrites
+
+Composition chimique
+moyenne de la Terre
+globale
+
+O
+
+31%
+
+32.4%
+
+Fe
+
+27.4%
+
+28.2%
+
+Si
+
+18.5%
+
+17.2%
+
+Mg
+
+14%
+
+15.9%
+
+Ca
+
+3.5%
+
+1.6%
+
+Al
+
+2%
+
+1.5%
+
+Na
+
+0.6%
+
+1.25%
+
+K
+
+0.4%
+
+0.02%
+
+Autres éléments
+
+2.6%
+
+2.9%
+
+Source : https://planet-terre.ens-lyon.fr/ressource/meteorites-origine-systeme-solaire.xml
+
+Document 5 – En 1980 des glaciologues de l’IGE (Institut des géosciences de
+l’environnement) ont découvert comment reconstituer la
+teneur en CO2 de notre atmosphère
+Lors de leur formation, au moment de la compaction de la neige à la surface, les
+calottes de glaces polaires piègent continuellement des petites bulles d’air. La
+glace a donc cette étonnante propriété : elle peut fournir une archive naturelle de la
+composition de l’air ancien, jusqu’à plusieurs centaines de milliers d’années ! Mais
+le challenge n’est pas simple et il a fallu plus de 20 ans d’efforts aux glaciologues
+de l’époque pour arriver à extraire ces informations. La solution fut trouvée, il y a
+40 ans par Robert Delmas et ses collègues, qui développèrent une technique
+fiable pour extraire de la glace l’air qui y était contenu et en mesurer la composition
+en CO2. Ce travail pionnier ouvrait la voie aux mesures modernes des archives
+glaciaires montrant que les niveaux de CO2 dans l’atmosphère ont affectés la
+température de la Terre durant des centaines de milliers d’années.
+Source : extrait du site de l’observatoire des sciences de l’univers (OSUG) de Grenoble

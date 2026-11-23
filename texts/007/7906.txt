@@ -1,0 +1,422 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1362531, "at": "2026-11-23T09:46:40+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a) OR NOT(b)
+Question A.2
+Dans le bloc <head> d'un fichier HTML, afin d'encoder les caractères avec le standard Unicode/UTF-8 on insère
+la ligne :
+<meta http-equiv="Content -Type" content="text/html; charset=UTF-8">
+Pourquoi cela ?
+UTF-8 est l'encodage Linux
+ASCII est une vieille norme, il est temps d'en changer
+UTF-8 est une norme conçue pour permettre un affichage correct des caractères spéciaux sur tout système
+d'exploitation
+UTF-8 est un encodage qui protège mieux contre le piratage informatique
+Question A.3
+Parmi les caractères ci-dessous, lequel ne fait pas partie du code ASCII ?
+a
+@
+é
+Question A.4
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+215 − 1 = 32767
+215 = 32768
+216 − 1 = 65535
+216 = 65536
+Question A.5
+Soient 𝑃 et 𝑄 deux formules logiques telles que 𝑃 est vraie et 𝑄 est fausse.
+Quelle est la valeur de l'expression (𝑃 𝐸𝑇 𝑄) 𝑂𝑈 (𝑁𝑂𝑁(𝑃) 𝑂𝑈 𝑄) ?
+vraie
+fausse
+ni vraie, ni fausse
+vraie et fausse en même temps
+
+Question A.6
+Quelle est l'écriture décimale de l'entier 𝑛 dont l'écriture hexadécimale est 7A ?
+
+Thème B : types construits
+Question B.1
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+Question B.2
+On dispose du dictionnaire suivant :
+D = {0: 7, 1: 4, 25: 8, 16: 16, 4: 32}
+On crée une liste L après les lignes suivantes ?
+L = [ 2, 3, 4, 5, 7, 8 ]
+h(L,0,2)
+h(L,3,5)
+h(L,0,5)
+[8, 7, 5, 4, 3, 2]
+[2, 3, 4, 5, 7, 8]
+[4, 3, 2, 8, 7, 5]
+[5, 7, 8, 2, 3, 4]
+Question B.3
+Considérons le tableau suivant :
+tableau = [[1,2],[3,4],[5,6]]
+Quelle est la valeur de l'expression tableau[2][1] ?
+[3,4],[1,2]
+[5,6],[2,4]
+Question B.4
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+
+Quelle est la valeur de D[D[D[2]] ?
+Question B.5
+Si on tape dans la console d'éxécution la commande :
+[1,4,3] + [2,4,5]
+qu'obtient-on ?
+[3, 8, 8]
+[19]
+[1, 4, 3, 2, 4, 5]
+un message d'erreur car l'addition n'est pas compatible avec les listes
+Question B.6
+Quel est le résultat de l'évaluation de l'expression Python suivante ?
+[ n * n for n in range(10) ]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512]
+[0, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024]
+
+Thème C : traitement de données en tables
+Question C.1
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+
+Question C.2
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C.3
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i],table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+Question C.4
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+
+Question C.5
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C.6
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D.2
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations cryptées
+une transmission facturée proportionnellement à la taille du message
+
+Question D.3
+Une page HTML contient la ligne suivante dans laquelle un mot a été remplacé par des points de supsension :
+<p ...... ="alert('hello')"> Survolez-moi </p>
+Au survol de la souris, le message hello apparait dans une boite de dialogue.
+Par quel mot faut-il remplacer les points de suspension ?
+onmouseout
+onmouseover
+onmouseleave
+onclick
+Question D.4
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D.5
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D.6
+Parmi GET et POST, quelle méthode d'envoi de formulaire crypte les informations envoyées au serveur ?
+les deux : GET et POST
+GET seulement
+POST seulement
+aucune des deux
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Identifier parmi les éléments suivants celui qui est uniquement un périphérique de sortie.
+clavier
+souris
+écran
+microphone
+
+Question E.2
+Sachant que hibou est un fichier présent dans le répertoire courant, quel est l’effet de la commande suivante :
+mv hibou chouette
+déplacer le fichier hibou dans le répertoire chouette
+ajouter le contenu du fichier hibou à la fin du fichier chouette
+renommer le fichier hibou en chouette
+créer le fichier chouette, copie du fichier hibou
+Question E.3
+Lequel de ces systèmes d'exploitation est sous licence propriétaire ?
+Android
+Linux
+Windows
+Ubuntu
+Question E.4
+Lequel de ces systèmes d'exploitation est libre ?
+Linux
+Windows
+MacOS
+iOS
+Question E.5
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+Question E.6
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+
+Thème F : langages et programmation
+Question F.1
+On définit la fonction :
+def fib(n):
+t = [0] * n
+t[1] = 1
+for in in range(2,n):
+t[i] = t[i-1] + t[i-2]
+return t
+Quelle est la valeur renvoyée par l'appel fib(6) ?
+[0, 1, 1, 2, 3]
+[0, 1, 1, 2, 3, 5]
+[0, 1, 1, 2, 3, 5, 8]
+[0, 1, 2, 3, 5, 8]
+Question F.2
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a=3
+b=6
+if a > 5 or b != 3:
+b=4
+b=2
+Question F.3
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+
+Question F.4
+La fonction maxi ci-dessous a pour but de renvoyer la valeur maximale présente dans la liste qui lui est passée
+en argument.
+def maxi(L):
+dernier_indice = len(L) - 1
+valeur_max = L[0]
+for i in range(1,dernier_indice):
+if L[i] > valeur_max:
+valeur_max = liste[i]
+return valeur_max
+Cette fonction a été mal programmée. On souhaite réaliser un test pour le démontrer.
+Parmi les propositions suivantes, laquelle mettra la fonction maxi en défaut ?
+maxi([1, 2, 3, 4])
+maxi([4, 3, 2, 1])
+maxi([1, 3, 3, 2])
+maxi([1, 1, 1, 1])
+Question F.5
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F.6
+def comparaison(a,b):
+if a < b:
+return a
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Thème G : algorithmique
+Question G.1
+La fonction maximum doit renvoyer la valeur maximale d'un tableau de nombres. Par quoi doit-on remplacer les
+pointillés pour qu'elle donne le résultat attendu ?
+def maximum(T):
+maxi = T[0]
+for i in range(len(T)):
+.... T[i] > maxi:
+......
+return maxi
+if puis, sur la ligne suivante, maxi = T[i]
+while puis, sur la ligne suivante, maxi = T[i]
+if puis, sur la ligne suivante, maxi = maxi + 1
+while puis, sur la ligne suivante, maxi = maxi + 1
+Question G.2
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+
+Question G.3
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i]== lettre:
+indexResultat=i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"
+Question G.4
+def f(x,L):
+i=0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j=k
+i=k+1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+
+Question G.5
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G.6
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X=0
+m=0
+for k in L:
+X=X+k
+m=m+1
+2.2

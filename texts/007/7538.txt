@@ -1,0 +1,127 @@
+{"pages": 3, "method": "pdftotext", "bytes": 611960, "at": "2026-11-23T09:34:08+00:00"}
+Exercice 1
+BEETHOVEN ET LA MUSIQUE
+Beethoven est un compositeur allemand qui a composé la neuvième symphonie en 1823.
+L’hymne européen, un arrangement de l'Ode à la joie, est le dernier mouvement de cette
+symphonie.
+
+Document 1 : la neuvième symphonie
+Figure 1a : Extrait de la partition de la neuvième symphonie et fréquences des
+notes jouées
+
+Notes jouées :
+la3 si3
+Fréquences :
+(en Hz)
+
+si3 si3
+
+do4 ré4
+
+ré4
+
+do4 si3
+
+la3
+
+sol3 sol3
+
+Source : http://www.nelpallone.net/partition-piano-ode-à-la-joie-beethoven.html
+
+Figure 1b : spectre et signal du son d’une note jouée au piano pendant la 9 e
+symphonie
+
+Source : http://www.sciences.univ-nantes.fr/sites/genevieve_tulloue/Ondes/general/synthese.html
+
+1- On s’intéresse à une note jouée au piano, dont le spectre et le signal sont donnés
+en figure 1b.
+1-a- Ce son est-il pur ou composé ? Justifier.
+1-b- Montrer que la note jouée correspond au do4.
+2- Le spectre de la figure 1b présente quatre pics notés A, B, C et D.
+2-a- Quelle est la valeur de la fréquence associée au pic A ? Justifier.
+
+2-b- Quelle est la valeur de la fréquence associée au pic C ? Justifier.
+3- L’extrait de la neuvième symphonie (figure 1a) est joué sur les octaves 3 et 4.
+Ainsi, la note do4 indique que la note jouée est le do de la quatrième octave.
+La succession des notes des octaves 3 et 4 de la gamme à tempérament égal
+(également appelée gamme tempérée) est donnée dans un tableau dans le
+document réponse de l’annexe.
+Deux notes successives sont séparées d’un demi-ton, ce qui correspond à un
+intervalle de fréquence de racine douzième de 2, notée √2 ou 2 1/12.
+Compléter le tableau en calculant les fréquences manquantes arrondies à l’unité
+dans l’annexe à rendre avec la copie.
+4- Une grande partie de la neuvième symphonie est chantée. Un baryton ne peut
+chanter que des notes dont les fréquences sont comprises entre 130 Hz et 400 Hz.
+On souhaite transposer l’extrait de la partition (document 1, figure 1a) afin que ce
+baryton puisse la chanter.
+On rappelle que la transposition musicale consiste à décaler les fréquences de
+toutes les notes vers l’aigu ou le grave en les multipliant ou les divisant par un
+nombre fixé de demi-tons.
+4-a- Justifier que le baryton ne peut pas chanter la note la plus aiguë de la partition
+donnée.
+4-b- L’algorithme ci-contre permet de déterminer le
+Algorithme :
+nombre N de demi-tons (2 ) de l’intervalle minimal
+pour réaliser cette transposition.
+En arrondissant les valeurs des fréquences F à
+F ← 587
+l’unité, compléter le tableau du document
+N← 0
+réponse à rendre avec la copie en écrivant les Tant que F > 400 faire :
+F
+valeurs des différentes variables au fur et à
+F← 1
+mesure de l’algorithme.
+2 12
+
+4-c- Conclure en donnant le nombre de demi-tons
+correspondant à cette transposition.
+
+N← N+1
+
+Fin Tant que
+
+Annexe à rendre avec la copie
+Exercice 1
+Question 3Tableau à compléter :
+Note
+
+ré3
+
+ré3#
+
+mi3
+
+fa3
+
+fa3#
+
+sol3
+
+sol3#
+
+la3
+
+la3#
+
+si3
+
+do4
+
+do4#
+
+ré4
+
+Fréquence
+(en Hz)
+
+Question 4-b
+Tableau à compléter :
+F
+
+N
+
+Condition
+F > 400
+
+VRAI

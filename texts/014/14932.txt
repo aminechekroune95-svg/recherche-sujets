@@ -1,0 +1,231 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1455892, "at": "2026-11-23T09:21:59+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 9
+PARTIE A
+Étude de différents carburants (10 points)
+Lorsque l’on s’intéresse à l’impact sur l’environnement d’une voiture, on peut se poser deux
+types de questions :
+- Quel carburant utilise cette voiture ? Ce carburant impacte-t-il les ressources fossiles ?
+- Combien de gaz à effet de serre (CO2 par exemple) cette voiture émet-elle ? Aura-t-elle un
+malus écologique (taxe sur les véhicules fortement émetteurs de CO2) ?
+Nous allons étudier deux carburants différents :
+ Le E85 est un carburant qui correspond à un mélange de 85 % en volume d’éthanol
+d’origine agricole, bioéthanol, et de 15 % en volume d’essence SP95.Le bioéthanol est
+produit à partir des sucres présents dans la betterave ou dans les céréales. Ces sucres
+proviennent de la photosynthèse utilisant le dioxyde de carbone de l’air. L’utilisation du
+bioéthanol d’origine agricole permet donc de limiter l’impact de la consommation de
+carburant sur le bilan carbone de la planète sans puiser dans les ressources d’énergie
+fossiles.
+ Le E0 est un carburant qui correspond à de l’essence SP95 contenant 0 % d’éthanol,
+donc du SP95 pur.
+
+Données :
+Masse volumique de l’éthanol à 25 °C : 0,789 kg·L-1
+Masses molaires atomiques (en g·mol-1) : M(H) = 1,0 ; M(C) = 12,0 ; M(O) = 16,0.
+La combustion des carburants
+-
+
+La combustion de l’essence SP95
+
+1. Écrire l’équation de la réaction modélisant la combustion complète de l’essence SP95, qu’on
+assimile à de l’octane C8H18(l), dans le dioxygène O2(g) de l’air.
+-
+
+La combustion de l’éthanol
+
+L’équation de la réaction modélisant la combustion complète de l’éthanol dans le dioxygène
+de l’air est :
+C2H6O(l) + 3 O2(g)  2 CO2(g) + 3 H2O(g)
+(Équation A)
+Comme toute réaction de combustion, elle peut être assimilée à une réaction d’oxydoréduction
+mettant en jeu deux couples oxydant / réducteur :
+- le couple : CO2(g) / C2H6O(l) ;
+- le couple : O2(g) / H2O(g), associé à la demi-équation électronique :
+O2(g) + 4 H+(aq) + 4 e– = 2 H2O(g).
+2. Écrire la demi-équation électronique associée au couple : CO2(g) / C2H6O(l).
+3. Retrouver l’équation de la réaction modélisant la combustion de l’éthanol dans le dioxygène
+de l’air (Équation A), à l’aide des demi-équations électroniques.
+4. Définir ce qu’est un oxydant puis déterminer le caractère oxydant ou réducteur de l’éthanol.
+Dans la suite de l’exercice, nous allons étudier un véhicule dont les caractéristiques techniques
+sont les suivantes :
+ consommation du carburant E0 (Essence SP95 pur sans éthanol) : 8,28 L pour 100 km ;
+ consommation du carburant E85 : 11,6 L pour 100 km.
+L’objectif de cet exercice est d’étudier si le choix du conducteur de consommer du carburant
+E85 lui permet de ne pas être soumis au malus écologique.
+L’émission de CO2 par le véhicule étudié
+L’éthanol est un carburant qui produit moins d’énergie que l’essence SP95. Son introduction
+dans la composition du carburant nécessite de consommer davantage pour obtenir une même
+quantité d’énergie : on parle de surconsommation occasionnée par l’utilisation d’éthanol.
+
+Le graphique ci-dessous représente la surconsommation en fonction du pourcentage
+volumique d’éthanol introduit dans le carburant utilisé.
+
+Le E0 correspond à du SP95 contenant 0 % d’éthanol, donc du SP95 pur. On voit que sa
+surconsommation est naturellement de 0 %.
+D’après http://turbo-moteurs.cnam.fr/enseignement/conferences/
+Consulté le 7/9/20
+
+5. Justifier que les consommations données en carburants E0 (8,28 L pour 100 km) et E85
+(11,6 L pour 100 km) sont cohérentes avec la surconsommation obtenue grâce au graphique.
+Émission de CO2 liée à l’essence SP95 contenue dans le carburant E85
+6. Déterminer le volume d’essence SP95 contenu dans le volume nécessaire de carburant E85
+pour que le véhicule étudié parcourt 100 km.
+7. Déterminer la masse de dioxyde de carbone (CO2) émis par la combustion de l’essence
+SP95 contenu dans le carburant E85, pendant que le véhicule étudié parcourt 100 km, sachant
+que la combustion de 1 L d’essence SP95 émet 2,09 kg de CO2.
+Émission de CO2 liée à l’éthanol contenu dans le carburant E85
+8. Calculer le volume d’éthanol consommé lorsque le véhicule étudié parcourt 100 km avec le
+carburant E85.
+
+9. Vérifier que la quantité de matière en éthanol nécessaire pour parcourir ces 100 km est
+net = 169 mol.
+10. Déterminer la quantité de matière de CO2 émis par la combustion de l’éthanol lorsque le
+véhicule étudié parcourt 100 km. En déduire la masse de CO2 émis.
+11. Vérifier que la masse totale de CO2 émis par la combustion du carburant E85 pour 1 km
+est de 185 g.
+Calcul du malus écologique
+Le malus écologique est une taxe sur les véhicules fortement émetteurs de CO 2 : son objectif
+est d’orienter la consommation vers l'achat de véhicules moins polluants.
+La taxe sur un véhicule est calculée en fonction du nombre de grammes de dioxyde de carbone
+(CO2) émis par kilomètre (g/km).
+
+D’après https://www.legifrance.gouv.fr/
+(Consulté le 7/9/20)
+
+Un véhicule équipé pour fonctionner au carburant E85 bénéficie d’un abattement de 40 % sur
+les taux d’émission de CO2. Cet abattement ne s’applique pas aux véhicules dont les émissions
+de CO2 dépassent 250 g/km.
+Exemple :
+Un véhicule neuf roulant au carburant E85 émet 180 g de CO2 par km. Un abattement de 40
+% s’applique sur son taux de CO2, soit 180 x 40 % = 72 g/km. Le taux retenu pour calculer le
+malus vaut : 180 – 72 = 108 g/km. Ce véhicule n’est donc pas soumis au malus.
+D’après service-public.fr/particuliers/vosdroits
+(Consulté le 7/9/20)
+
+12. Déterminer le malus écologique à appliquer à un véhicule consommant de l’essence SP95
+et émettant 173 g de CO2 émis par km.
+13. Démontrer que le véhicule étudié, consommant du carburant E85, n’est pas soumis au
+malus écologique.
+14. Commenter l’abattement sur les émissions de dioxyde de carbone pour les véhicules
+roulant au carburant E85, constitué de 85 % de bioéthanol.
+PARTIE B
+La Joconde rajeunit… (10 points)
+Dans l’expertise d’une œuvre d’art en vue de sa restauration plusieurs moyens simples et non
+destructeurs peuvent être utilisés. Ainsi, la loupe permet d’observer une multitude de détails
+insoupçonnés à l’œil nu et révèle l’état de la toile en soulignant les craquelures du vernis mais
+aussi les repeints légers. La réflectographie infrarouge met au jour sous la couche de peinture
+des signatures cachées, des dessins sous-jacents, des inscriptions partiellement effacées
+avec le temps ou volontairement dissimulées et aide même à identifier l’artiste en révélant ses
+hésitations ou « repentirs ». Quant à la caméra multispectrale, son utilisation sur la Joconde a
+permis de proposer une restauration virtuelle (voir photographie ci-dessous).
+
+D’après https://www.nytimes.com/2006/09/27/arts/design/27mona.html
+
+1. La loupe
+Une loupe est constituée d’une seule lentille mince convergente. L’image d'un objet est formée
+en avant de la lentille et l’œil l’observe à travers la lentille. Pour cela, la distance entre la lentille
+et l’objet doit être inférieure à la distance focale de la lentille.
+On considère une loupe dont la vergence est 20 δ.
+Rappel : La vergence est définie par la relation : 𝐶 =
+
+𝑂𝐹′
+
+= 𝑓′ . Elle caractérise la capacité de
+
+la lentille, de centre O et de foyer image F’, à faire converger des rayons lumineux en un point.
+Elle s’exprime en dioptrie (). La distance focale 𝑓′ s’exprime alors en mètre (m).
+1.1 Calculer la distance focale de la lentille convergente.
+On prendra soin par la suite de respecter les échelles suivantes :
+- échelle horizontale : 1,0 cm sur la figure représente 2,0 cm en réalité ;
+- échelle verticale : 1,0 cm sur la figure représente 1,0 mm en réalité.
+1.2 Positionner les foyers objet F et image F’ sur le schéma de l’ANNEXE À RENDRE
+AVEC LA COPIE.
+1.3 À l’aide d’au minimum deux rayons lumineux particuliers, construire sur l’ANNEXE
+̅̅̅̅ = 1,0 mm)
+À RENDRE AVEC LA COPIE l’image A’B’ d’un objet AB de taille 1,0 mm (𝐴𝐵
+et dont la position sur l’axe optique est telle que 𝑂𝐴 = - 4,0 cm.
+1.4 Indiquer sur le schéma de l’ANNEXE À RENDRE AVEC LA COPIE où placer l’œil (on
+pourra schématiser un œil).
+1.5 Qualifier l’image à l’aide de trois adjectifs appropriés.
+𝑂𝐴′
+
+𝐴′ 𝐵′
+
+Rappel : Le grandissement 𝛾 (gamma) est défini par la relation : 𝛾 = 𝑂𝐴 = 𝐴𝐵 . C’est une
+grandeur sans unité. Les grandeurs algébriques 𝑂𝐴′, 𝑂𝐴, 𝐴′𝐵′ et 𝐴𝐵 doivent être exprimées
+dans la même unité.
+1.6 Mesurer sur la construction la position ̅̅̅̅̅
+𝑂𝐴′ et la taille ̅̅̅̅̅̅
+𝐴′𝐵′ de l’image A’B’. En déduire la
+valeur du grandissement . Conclure.
+
+1.7 Dans quel sens faut-il déplacer la loupe pour observer une image plus grande ? Justifier
+la réponse en vous aidant de la construction.
+2. La réflectographie infrarouge
+Les rayonnements infrarouges (IR) ont la capacité de traverser les vernis et les couches
+picturales pour atteindre les tracés sous-jacents. Les esquisses du peintre se trouvant sous
+les pigments, peuvent ainsi être révélées, car le support (toile peinte en blanc) réfléchit
+pratiquement la totalité de la lumière infrarouge incidente, alors que les esquisses (tracés au
+fusain ou au crayon) l’absorbent. On voit par exemple sur les détails de la main (cf. document
+ci-après), que Léonard de Vinci a modifié la position des doigts de la Joconde, entre le début
+et la fin de l’exécution du tableau.
+
+a
+
+b
+
+D’après L. Beck : X, UV
+et particules au service
+du Patrimoine Culture,
+Centre de recherche et
+de restauration des
+musées de France UMR 171 CNRS /
+MCC,
+Palais
+du
+Louvre.
+
+Détails des doigts de la main de la Joconde : éclairage en lumière blanche (a) et
+en lumière infrarouge (b)
+2.1 Compléter le schéma légendé de l’ANNEXE À RENDRE AVEC LA COPIE en traçant
+les rayons lumineux infrarouges réfléchis afin de modéliser le principe de la
+réflectographie infrarouge.
+
+2.2 Rappeler la valeur, en nanomètre, de la longueur d’onde à partir de laquelle débute le
+domaine des infrarouges.
+2.3 Les longueurs d’ondes des radiations utilisées en réflectographie, sont comprises entre
+1 m et 2 m. Convertir ces deux longueurs d’onde en nanomètres.
+2.4 À partir de l’analyse des profils spectraux des lumières émises par deux sources
+lumineuses A et B (document ci-dessous), indiquer, en justifiant la réponse, laquelle des
+deux sources pourrait être utilisée en réflectographie infrarouge.
+
+Profils spectraux des lampes A et B
+
+ANNEXE À RENDRE AVEC LA COPIE
+Questions 1.2, 1.3 et 1.4 de la partie B
+
+O
+
+↑+ +
+→ Partie 2 : question 2.1
+
+Question 2.1 de la partie B
+Vernis
+
+Couche
+picturale
+Support
+
+Rayonnement incident
+infrarouge
+
+Tracés au fusain
+ou au crayon

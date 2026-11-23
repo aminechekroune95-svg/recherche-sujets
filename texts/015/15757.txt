@@ -1,0 +1,456 @@
+{"pages": 18, "method": "pdftotext", "bytes": 2336676, "at": "2026-11-23T09:27:59+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vente de livres
+Sur 4 points
+Le premier roman d’un humoriste français est paru fin juillet 2023.
+La première semaine après sa parution, 5 000 exemplaires ont été vendus. Durant
+les semaines suivantes, environ 3 000 exemplaires ont été vendus chaque semaine.
+Partie 1 – Étude des ventes au cours des premières semaines
+Au vu des premières ventes sur les quatre premières semaines, l’éditeur décide de
+modéliser cette situation à l’aide d’une suite (𝑢! ).
+Pour tout entier naturel non nul 𝑛, on note 𝑢! le nombre d’exemplaires vendus au
+bout de 𝑛 semaines. Ainsi 𝑢" = 5 000.
+1- Justifier pourquoi la modélisation peut être réalisée par une suite
+arithmétique. Préciser alors la raison de cette suite.
+2- Calculer 𝑢# .
+3- L’éditeur souhaite savoir quand 100 000 exemplaires seront vendus.
+Au bout de combien de semaines cet objectif serait-il atteint ?
+Partie 2 – Étude de l’évolution des ventes
+L’évolution des ventes après plus de deux mois laisse penser que le nombre
+d’exemplaires vendus pourrait être modélisé à l’aide d’une suite géométrique (𝑣! ) de
+raison 𝑞. Pour tout entier naturel non nul 𝑛, 𝑣! représente ainsi le nombre
+d’exemplaires vendus au bout de 𝑛 semaines après la parution.
+Ainsi 𝑣" = 5 000 et 𝑣"$ = 103 305.
+1- Justifier que 𝑞 ≈ 1,4 (valeur arrondie au centième). Pour la suite de l’exercice
+on prend cette valeur 1,4 comme raison de la suite.
+2- Calculer le nombre d’exemplaires qui seraient alors vendus au bout de quinze
+semaines.
+
+3- L’auteur pense que son roman se vendra à plus de 3 000 000 d’exemplaires.
+Compléter la fonction ci-dessous, écrite en Python, afin qu’elle renvoie le
+nombre minimal de semaines nécessaires pour atteindre cet objectif.
+def exemplaire():
+n=1
+v = 5000
+while v … 3000000:
+v=…
+n=n+1
+return n
+Au bout de combien de semaines son objectif sera-t-il atteint ?
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( I ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Sachant qu’un spectateur situé à 5 m de la piste est soumis à un niveau
+d’intensité sonore L = 120 dB, indiquer, parmi les propositions suivantes, à
+quelle distance doit se trouver le spectateur pour n’être soumis qu’à une
+intensité sonore L’= 105 dB. Justifier (on n’attend aucun calcul).
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+2- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes et de porter des bouchons d’oreilles bien insérés.
+Justifier ces conseils.
+Partie 2 – Restaurer l’audition
+3- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Exploiter les documents pour identifier la (ou les) partie(s) de l’oreille
+concernée(s) par l’implant cochléaire
+4- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Empreinte carbone et plantation d’arbres
+Le secteur du numérique contribue significativement aux émissions de gaz à effet de
+serre (GES), notamment à travers la consommation d'énergie des serveurs, des
+centres de données, des appareils utilisateurs ainsi que des réseaux. Selon
+certaines estimations, le numérique représenterait près de 4 % des émissions
+mondiales de GES.
+Document 1 – Outils numériques et émission de CO2
+Un adolescent utilise quotidiennement les outils numériques suivants :
+
+3 heures par jour de streaming video en haute définition ;
+
+10 emails par jour ;
+
+2 heures de visioconférence par jour.
+
+Le tableau ci-dessous montre la quantité de CO2 produite par ces utilisations.
+Utilisation
+
+Quantité de CO2 produite
+
+Streaming vidéo en haute définition (HD)
+
+30 g par heure
+
+Email
+
+1,1 g par jour
+
+Visioconférence
+
+60 g par heure
+Source : d’après https://impactco2.fr/outils/usagenumerique
+
+1- Calculer la quantité de CO₂ émise quotidiennement par cet adolescent.
+2- Calculer l’empreinte carbone annuelle des activités numériques de cet
+adolescent en kg de CO2
+
+Document 2 – Capacité des forêts françaises à stocker du carbone
+Les diverses études sur le sujet montrent qu’un arbre absorbe 10 à 40 kg de CO2
+par an.
+« L’arbre va absorber du carbone pour sa croissance, mais c’est insuffisant, car si
+on le laisse grandir et mourir, le carbone va être relâché dans l’atmosphère quand
+il va pourrir. L’intérêt est de transformer l’arbre en produits de bois qui vont
+séquestrer longtemps le carbone, comme des planches de bardage, des lames de
+parquets, des fenêtres ou du mobilier. » (Dominique Cacot, ingénieure Centre
+National de la Propriété Forestière Nouvelle Aquitaine).
+Le reboisement à grande échelle pose d'autres problèmes : les projets peuvent
+entrer en concurrence avec des cultures alimentaires ou des forêts naturelles, et
+les arbres plantés peuvent être inadaptés à leur environnement. « Ce sont souvent
+des essences à croissance rapide comme les eucalyptus, les pins, mais cela peut
+finir par poser des problèmes de biodiversité, d'assèchement des sols » (Alain
+Karsenty, chercheur au Centre international pour la recherche agronomique et le
+développement - Cirad).
+Source : d’après https://ecotree.green/combien-de-co2-absorbe-un-arbre
+
+3- Pour compenser uniquement son empreinte carbone numérique annuelle,
+calculer, en arrondissant à l’entier, le nombre d’arbres que cet adolescent devrait
+planter.
+On traitera les questions 4 et 5 après lecture du document 3, page suivante.
+4- Déterminer les circonférences du pin et du chêne 75 ans après leur plantation.
+Planter un arbre est souvent présenté comme une solution pour compenser
+l'empreinte carbone d’une activité humaine productrice de CO2, mais cette approche
+présente plusieurs limites.
+5- Rédiger un paragraphe argumenté expliquant ces limites, en utilisant les
+documents et vos connaissances.
+
+Document 3 – Capacité de stockage de carbone et âge des arbres
+
+CO2 stocké (en t/ha)
+
+Circonférence moyenne des arbres (en cm)
+
+Source : d’après Siriki Fané et al. Département du Génie Rural et des Eaux et Forêts
+
+Le graphique ci-dessous représente la circonférence de pins et de chênes au cours
+du temps (après leur plantation en 1925).
+
+Circonférence (en cm)
+
+Pin
+
+Chêne
+
+1920
+
+1930
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+Années
+Circonférence (en cm) pin
+
+Circonférence (en cm) chêne
+
+Source : d’après thèse Thomas Perot
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+La forme de la Terre à l’Antiquité
+Dès l’Antiquité, les Grecs savaient que la Terre était sphérique. Ils ont même mesuré
+sa circonférence. Cet exercice étudie deux approches historiques liées à la
+connaissance de la forme de la Terre.
+Les documents utiles se trouvent sur les trois pages suivantes.
+Partie A – La Terre est ronde
+Le document 1 présente un texte d'après Aristote, philosophe et savant grec (384322 av. J.-C.), dont la pensée a longtemps influencé les sciences.
+1- Extraire du texte (document 1) deux observations qui permettent à Aristote
+d’affirmer que la Terre est ronde.
+2- Donner un autre argument qui permet aujourd’hui de dire que la Terre n’est pas
+plate.
+Partie B – Mesure de la circonférence de la Terre
+3- Déterminer la distance, en kilomètres, entre Syène et Alexandrie (document 2).
+4- Refaire les calculs d’Ératosthène afin de déterminer la circonférence de la Terre.
+5- Comparer et commenter la valeur obtenue à la question 4 avec la valeur actuelle
+de la circonférence de 40 007 km pour un méridien.
+6- À l’aide de la carte du document 3, citer deux hypothèses d’Ératosthène qui
+peuvent être remises en question. Justifier.
+
+Document 1 – La forme de la Terre
+« Dans les éclipses de Lune, la ligne qui limite
+l'ombre est toujours une ligne incurvée. Puisque
+l'éclipse est due à l'interposition de la Terre entre
+la Lune et le Soleil, c'est la forme de la surface de
+la Terre, sphérique, qui produit cette ligne courbe.
+De plus, la manière dont les astres nous
+apparaissent ne prouve pas seulement que la
+Terre est ronde, mais aussi que son étendue est
+assez petite.
+En effectuant un déplacement minime vers le Sud
+ou vers le Nord, nous voyons se modifier le cercle
+d'horizon; les astres au-dessus de nous changent
+considérablement et ce ne sont pas les mêmes
+qui brillent dans le ciel quand on va vers le Nord
+et quand on va vers le Sud. Certains astres
+visibles en Égypte ou vers Chypre sont invisibles
+dans les régions septentrionales. Par ailleurs les
+astres qui, dans les régions septentrionales, sont
+visibles à tout instant, connaissent un coucher
+dans les pays cités plus haut. Tout cela ne montre
+pas seulement que la Terre est ronde, mais
+encore qu'elle a la forme d'une sphère de
+modeste dimension ; autrement, on n'apercevrait
+pas si vite les effets d'un déplacement si court. »
+
+Le dessin ci-dessus, qui illustre
+la démonstration d'Aristote, est
+extrait de la Cosmographie de
+Petrus Apianus (1581)
+
+Source : Du Ciel, Il, 14, Éd. des Belles Lettres, 1965
+
+Document 2 – La méthode d’Ératosthène
+Ératosthène (276 à 194 av JC) est célèbre pour sa méthode de mesure de la
+circonférence de la Terre. Il était connu qu'à Syène (Assouan aujourd’hui), le 21
+juin à midi, on pouvait voir l'image du Soleil se refléter au fond d'un puits. Cela
+signifie que le Soleil est exactement à la verticale du puits le jour du solstice d’été,
+c’est-à-dire que Syène est sur le tropique du Cancer. Mais le même jour, à la
+même heure, dans la ville d'Alexandrie située plus au Nord on constate que les
+rayons du soleil n'atteignent pas le fond des puits. On mesure que les rayons du
+Soleil font, avec la verticale, un angle de 7,2°. Eratosthène en déduit que l’écart
+angulaire entre Syène et Alexandrie est lui aussi de 7,2° (comme noté dans le
+schéma ci-dessous).
+
+La démarche d’Ératosthène s’appuie sur plusieurs hypothèses :
+- la Terre est sphérique,
+- Syène est sur le tropique du Cancer,
+- Syène et Alexandrie sont sur le même méridien,
+- les rayons du Soleil arrivant sur la Terre sont parallèles entre eux.
+Pour calculer la circonférence de la terre, Eratosthène utilise les données
+suivantes :
+- il faut 50 jours à une caravane de chameaux pour relier Syène et Alexandrie.
+- Chaque jour, cette caravane parcourt une distance de 100 stades.
+- Le stade est une ancienne unité de longueur valant environ 157 m.
+- Un angle de 7,2° correspond à un cinquantième de tour.
+
+Document 3 – Carte actuelle de l’Égypte
+
+Niveau terminale
+Thème « Science, climat et société »
+
+Forçage radiatif et conséquences sur l’environnement
+L'ADEME, Agence De l'Environnement et de la Maîtrise de l'Énergie, participe à la
+mise en œuvre des politiques publiques dans les domaines de la transition
+écologique. Elle a publié en octobre 2020 une prévision des impacts climatiques à
+venir d’ici 2050 en France. Ces derniers concernent principalement l’augmentation
+des températures et les risques d’inondation qui en découlent.
+L’objectif de cet exercice est de chercher à comprendre les risques liés à
+l’augmentation du forçage radiatif terrestre.
+
+Document 1 – Évolution de la température moyenne annuelle mondiale
+L’anomalie de la température de la Terre est l'écart, positif ou négatif, entre la
+température annuelle moyenne mesurée en degrés Celsius et la température
+moyenne annuelle normale (observée dans les années 1850).
+Les données proviennent de trois sources : NASA ; NOAA ; Hardley Center.
+
+Source : D’après le Ministère de la transition écologique
+
+Document 2 – Composantes du forçage radiatif terrestre
+
+Anthropique : « d’origine humaine ».
+Source : d’après https://www.climat-en-questions.fr
+
+1- Rappeler la définition du « forçage radiatif ».
+2- Expliquer pourquoi la température moyenne de la Terre augmente avec
+l’augmentation du forçage radiatif.
+Comme indiqué dans le document 2, l’un des paramètres influençant le forçage
+radiatif est l’albédo terrestre moyen. On rappelle que l’albédo quantifie la fraction de
+la puissance émise par le Soleil et atteignant la Terre qui est diffusée par la Terre
+vers l’espace.
+
+Document 3 – Valeurs d’albédo de différentes surfaces
+Type de Surface
+
+Albédo (0 à 1)
+
+Surface d’un lac
+
+0,02 à 0,04
+
+Surface de la mer
+
+0,05 à 0,15
+
+Sol sombre
+
+0,05 à 0,15
+
+Glace
+
+0,60 environ
+
+Neige tassée
+
+0,40 à 0,70
+
+Si l'albédo vaut 0, tout le rayonnement reçu est absorbé et s'il vaut 1, tout le
+rayonnement reçu est réfléchi.
+Source : D’après Wikipédia
+
+3- À l’aide du document 3, justifier que la fusion des glaces continentales (glaciers)
+et des mers (banquises) se traduit par une augmentation du forçage radiatif.
+4- Représenter sur un schéma l'effet de rétroaction positive de l'albédo sur
+l'augmentation de la température terrestre.
+Document 4 – Évolution de la température moyenne terrestre en fonction des
+scénarios SSP
+
+Source : D’après le rapport du GIEC
+
+5- En exploitant ses connaissances personnelles et des documents de cet exercice,
+montrer que les activités humaines entraîneront à long terme des conséquences
+sur l’écosystème et les êtres vivants.

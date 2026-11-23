@@ -1,0 +1,311 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1359982, "at": "2026-11-23T09:22:00+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 9
+PARTIE A
+Le mythique waterslide revient le 21 avril à la Clusaz ! (10 points)
+
+Document 1 : Le défi Foly
+
+« Le Défi Foly c’est simple : il suffit de parcourir
+à skis, monoski, snowboard ou tout engin
+glissant similaire, la plus grande distance sur le
+LAC DES CONFINS.
+Après une prise d’élan sur une pente raide et
+enneigée, tentez de battre le record de
+155 m ».
+Source https://canarddulac.fr/
+
+Document 2 : La piste du défi et les hypothèses de l’étude
+La pente enneigée sur laquelle se situe la piste d’élan est inclinée d’un angle θ = 20,0° par
+rapport à la surface du lac.
+
+Un skieur part sans vitesse initiale du point
+A situé sur la piste d'élan, arrive sur l’eau au
+point B puis glisse sur l’eau jusqu’au point
+C où il s’arrête, on note AB = d = 60,0 m et
+BC = D.
+
+A
+
+Piste
+d’éla
+
+20°
+
+Lac
+B
+
+C
+
+Le système {skieur et son équipement} est modélisé par un point matériel et son mouvement
+est étudié dans le référentiel terrestre supposé galiléen. La masse de ce système est m = 110
+kg. On néglige toutes les forces de frottement qui s’exercent sur le système entre A et B et on
+suppose qu’une force de frottement constante de norme 𝑓 = 200 N s’exerce sur le système
+entre B et C.
+La surface du lac constitue par ailleurs le niveau de référence pour l’énergie potentielle de
+pesanteur du skieur.
+Document 3 : Disposition des spectateurs et du commentateur de la compétition
+Les spectateurs et photographes sont placés de part et d’autre de la piste d’élan mais
+également sur la rive opposée du lac à une distance L = 300 m du point A. Au niveau du départ
+de la piste d’élan, au point A , se trouve le commentateur de l’épreuve et son dispositif de
+sonorisation qui permet à tous les spectateurs de suivre la
+compétition et en particulier d’entendre le top départ.
+
+Document 4 : Caractéristiques de l’appareil photo d’un
+spectateur
+Distance focale de l’objectif : f’ = 100 mm
+Capteur “Full Frame” : l’image sur le capteur a pour
+dimensions 24 mm x 36 mm
+Taille de l’écran de visualisation externe : 4,8 cm x 7,2 cm
+- Une image de hauteur h sur le capteur “Full Frame” sera vue sur l’écran de visualisation
+avec une hauteur h’ = 20 x h
+Source: https://fr.wikipedia.org/wiki/Appareil_photographique_reflex_num%C3%A9rique
+
+Document 5 : Schématisation, relations de conjugaison et de grandissement pour une
+lentille mince convergente
+
+Source : https://fr.wikipedia.org/wiki/Fichier:ThinLens.png
+1. Mouvement d’un skieur relevant le défi Foly
+1.a. Le graphique suivant représente une
+simulation de l’allure des variations des énergies
+du système (en ordonnée) en fonction du temps
+(en abscisse) lors de la descente de la piste d’élan.
+
+courbe (2)
+
+courbe (1)
+
+Identifier en justifiant votre choix :
+
+cinétique ;
+potentielle de pesanteur ;
+mécanique.
+
+courbe (3)
+
+1.b. En utilisant le document 2, calculer la valeur de la hauteur du point A par rapport au lac.
+1.c. Déterminer au point A les valeurs de :
+- l’énergie cinétique ;
+- l’énergie potentielle de pesanteur ;
+- l’énergie mécanique.
+Donnée : intensité de la pesanteur g = 9,80 m.s-2
+1.d. On suppose pour la suite que l’énergie mécanique du système au point A vaut
+EmA = 22,1 kJ. En considérant qu’il y a conservation de l’énergie mécanique, vérifier que la
+vitesse atteinte par le skieur en bas de la pente enneigée, c’est-à-dire au point B, est égale à
+20,0 m.s-1.
+
+1.e. En appliquant au système le théorème de l’énergie cinétique entre B et C, montrer que
+l’on obtient l’équation suivante : 2 𝑚𝑉𝐶2 − 2 𝑚𝑉𝐵2 = −𝑓𝐷 où 𝑉𝐶 et 𝑉𝐵 désignent respectivement
+la norme des vitesses en C et B.
+1.f. En déduire que la distance D parcourue par ce skieur sur le lac est égale à 110 m.
+1.g. Le résultat vous semble-t-il en cohérence avec les informations données dans le
+document 1 ?
+2. Photo du départ ratée ou réussie ?
+2.a. Un spectateur est situé sur la rive opposée du lac à une distance L = 300 m du point A. Il
+souhaite prendre une photo avec un cadrage en gros plan d’un participant à l’instant où il
+s'élance du point A. Il appuie donc sur le déclencheur de son appareil photo au moment où il
+entend le top départ donné par le commentateur situé près de la ligne de départ au point A.
+Après visionnage de la photo sur son écran, il s’exclame : « J’ai raté le départ ! ».
+Calculer les durées nécessaires au son et à la lumière pour parcourir la distance entre le point
+A et le spectateur. Expliquer la réaction du photographe amateur.
+Données : célérité des ondes sonores dans l’air cson = 341 m.s-1 ;
+célérité des ondes lumineuses dans l’air clum = 3,00 x 108 m.s-1.
+2.b. Ce même spectateur est également déçu de sa photo pour une autre raison.
+2.b.1 Déterminer la taille h1 de l’image du skieur qui se forme sur le capteur “Full Frame” de
+l’appareil photo sachant que le skieur mesure h = 1,80 m.
+2.b.2 À l’aide du document 4, en déduire la taille h1’ de l’image du skieur sur l’écran de
+visualisation de l’appareil photo et expliquer la déception du spectateur à la vue de la photo
+qu’il a prise.
+PARTIE B
+Synthèse d’un composé chimique photochrome (10 points)
+Le photochromisme est la transformation d'une espèce chimique d’une forme A vers une forme
+B (ou inversement) provoquée par l'absorption d'un rayonnement électromagnétique. Chacune
+des deux formes, A et B, possède un spectre d'absorption différent. Le passage d’une forme
+à l’autre est accompagnée par un changement des propriétés physiques de l'espèce chimique,
+telles que l'indice de réfraction, la solubilité, la viscosité.
+La plupart des composés photochrome passe d'une forme incolore ou légèrement colorée
+(jaune pâle) à une forme plus colorée (bleu, rouge...). Les applications de ce type de composé
+
+sont nombreuses : verre photochromique (qui s’assombrit à la lumière du soleil), capteurs UV,
+revêtements intelligents, stockage d'information, encre de sécurité.
+https://fr.wikipedia.org/wiki/Photochromisme
+Nous nous intéressons à la synthèse d’un composé photochrome le N-(3,5-di-tertbutylsalicylidène)-4-iodobenzène, que nous noterons DTSIB.
+L’équation de la réaction modélisant la synthèse du DTSIB à partir du 3,5-di-tert-butyl-2hydroxybenzaldéhyde (1) et du 4-iodoaniline (2) est la suivante :
+
+Synthèse et étude d’un composé photochrome de la famille des salicylidène-anilines par
+Jonathan Piard et Rémi MÉTIVIER, Le Bup n° 955-956
+Données
+
+Electronégativité de certains atomes : hydrogène χ(H) = 2,2 ; carbone χ(C) = 2,5 ;
+oxygène χ(O) = 3,44.
+
+Informations concernant certaines molécules :
+Molécule
+
+Propriétés
+
+3,5-di-tert-butyl
+2-hydroxybenzaldéhyde
+(ou pourra la noter DTBHB) 
+
+Etat solide à
+température ambiante
+Soluble dans le
+méthanol et l’éthanol
+234,33 g·mol-1
+
+Dangers
+
+Peut
+irriter
+les
+voies
+respiratoires
+
+4-iodoaniline
+
+N-(3,5-di-tert
+butylsalicylidène)-4iodobenzène (on pourra le
+noter DTSIB)
+
+Dichlorométhane
+
+Etat solide à
+température ambiante
+Légèrement soluble
+dans l’eau. Soluble
+dans le chloroforme, le
+méthanol et l’éthanol
+219,02 g·mol-1
+
+Peu soluble dans le
+méthanol
+Soluble dans le
+dichlorométhane
+435,34 g·mol-1
+
+84,93 g·mol-1
+
+Méthanol
+
+32 g·mol-1
+
+46 g·mol-1
+
+78 g·mol-1
+
+CH3 - OH
+Ethanol
+CH3 – CH2 – OH
+Cyclohexane
+
+Nocif par contact cutané
+Nocif par inhalation
+Nocif en cas d'ingestion
+Peut
+irriter
+les
+voies
+respiratoires
+
+Nocif par contact cutané
+Nocif par inhalation
+Nocif en cas d'ingestion
+Cancérogénicité
+
+
+
+Table de données pour la spectroscopie infrarouge :
+Liaison
+OH
+NH amine
+OH acide
+carboxylique
+NH amine ou
+amide
+C = N imine
+
+
+
+Nombre d’onde
+(cm-1)
+2900-3200
+31003500
+25003200
+
+Intensité
+moyenne
+forte à moyenne, large
+
+15601640
+1615-1700
+
+Cercle chromatique :
+
+Étude du protocole expérimental
+Le protocole expérimental de la synthèse du DTSIB est le suivant :
+Dans un erlenmeyer, introduire 400 mg de 3,5-di-tert-butyl-2-hydroxybenzaldéhyde
+et 400 mg de 4-iodoaniline dissous dans 15 mL d’éthanol. Le 4-iodoaniline est donc ajouté en
+léger excès.
+Ajouter une pointe de spatule d’acide para-toluènesulfonique. Agiter vigoureusement la
+solution à température ambiante. Au bout de vingt minutes d’agitation environ, vérifier
+l’apparition d’un précipité jaune persistant. Après quarante-cinq minutes d’agitation, le mélange
+réactionnel est filtré sur Büchner, lavé avec 15 mL d’éthanol par petites fractions, essoré cinq
+minutes sous vide puis séché sur papier filtre.
+Synthèse et étude d’un composé photochromede la famille des salicylidène-anilines par Jonathan Piard
+et Rémi MÉTIVIER, Le Bup n° 955-956
+
+1. Indiquer les précautions à prendre lors de l’utilisation du 3,5 di-tert-butyl-2hydroxybenzaldéhyde et du 4-iodoaniline.
+2. Justifier par un calcul la phrase suivante : « Le 4-iodoaniline est donc ajouté en léger
+excès. »
+
+3. Indiquer le rôle joué par l’éthanol lors de cette synthèse.
+4. Déterminer le caractère polaire ou apolaire des molécules d’éthanol et de
+cyclohexane.
+5. Indiquer si on peut utiliser le cyclohexane à la place de l’éthanol lors de cette
+synthèse.
+6. Indiquer le nom de la technique de séparation utilisée à la fin de la synthèse.
+Schématiser le matériel utilisé et légender le schéma.
+A la fin de la synthèse, on recueille 392 mg de DTSIB brut.
+7. Déterminer le rendement de cette synthèse. Commenter le résultat obtenu.
+Identification et propriétés du produit obtenu
+Une analyse du produit de synthèse obtenu par chromatographie sur couche mince
+donne les résultats suivants :
+(1) 3,5- di-tert-butyl-2 hydroxybenzaldéhyde
+(2) 4-iodoaniline
+(3) DTSIB pur
+(4) Produit de synthèse brut
+
+8. Interpréter le chromatogramme obtenu.
+9. Indiquer si les résultats de la CCM paraissent en accord avec les conditions
+expérimentales choisies.
+Afin de purifier le produit brut obtenu, on peut procéder à une recristallisation en utilisant du
+méthanol comme solvant de recristallisation.
+10. Justifier l’utilisation du méthanol comme solvant permettant d’éliminer les
+éventuelles traces de 3,5-di-tert-butyl-2-hydroxybenzaldéhyde et de 4-iodoaniline
+présentes dans le produit final.
+11. Nommer la famille associée au groupe caractéristique entouré sur la molécule
+DTSIB représentée ci-dessous :
+
+Les groupes caractéristiques présents dans cette molécule peuvent être identifiées grâce aux
+spectres infrarouge (I.R.). Celui de cette molécule DTSIB est proposé ci-dessous :
+
+Spectre infrarouge du DTSIB sous sa forme énol
+Synthèse et étude d’un composé photochromede la famille des salicylidène-anilines par Jonathan Piard et Rémi
+MÉTIVIER, Le Bup n° 955-956
+
+12. Analyser le spectre infrarouge ci-dessus et justifier qu’il peut correspondre à celui
+de la molécule de DTSIB.
+Le DTSIB existe sous deux formes : une forme énol de couleur jaune et une forme cétone de
+couleur rouge. Il est possible d’analyser le passage de la forme cétone à la forme énol grâce
+à la spectrophotométrie.
+13. Indiquer dans quel intervalle de longueur d’onde régler le spectrophotomètre afin de
+suivre la disparition de la forme cétone.

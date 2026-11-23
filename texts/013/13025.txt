@@ -1,0 +1,180 @@
+{"pages": 8, "method": "pdftotext", "bytes": 879404, "at": "2026-11-23T09:32:51+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+Transporter de l’énergie coûte de l’énergie !
+Sur 10 points
+Lors du transport de l’énergie électrique, la préoccupation première est de maximiser
+la quantité d’énergie transportée en minimisant les pertes.
+L’exercice comporte deux parties indépendantes
+l’optimisation du transport de l’énergie électrique.
+
+qui
+
+s’intéressent
+
+à
+
+Document 1 Électricité : à combien s’élèvent les pertes en ligne en France ?
+L’énergie électrique ne peut être acheminée jusqu’au consommateur final sans
+pertes. L’essentiel de ces pertes est lié à la circulation du courant électrique dans les
+matériaux conducteurs qui lui opposent une résistance : cela provoque une perte
+d’énergie qui se traduit par un dégagement de chaleur.
+À puissance délivrée égale, plus la tension est élevée et l’intensité réduite, plus les
+pertes en lignes sont faibles. Le courant circule donc sur les lignes électriques à haute
+et très haute tension sur le réseau de transport d’électricité français (63 000 à 400 000
+volts). Sur les réseaux de distribution, la tension est réduite et les pertes sont donc
+plus importantes. Sur ces différents réseaux, le courant alternatif est utilisé en partie
+pour cette raison : il permet d’élever les tensions, de réduire les intensités donc de
+limiter les pertes.
+Sur le réseau de transport d’électricité, le gestionnaire RTE déclare un taux de pertes
+compris entre 2 % et 2,2 % depuis 2007. Sur les réseaux de distribution, le
+gestionnaire ERDF annonce que les pertes s’élèvent au total à près de 6 % de
+l’énergie acheminée (20 TWh/an).
+En incluant l’autoconsommation des postes de transformation et les pertes dites
+« non techniques » (fraudes, erreurs humaines, etc.), les pertes d’électricité en
+France entre le lieu de production et de consommation avoisinent 10 % en moyenne.
+Source : d’après https://www.connaissancedesenergies.org
+
+Document 2 Modélisation simple d’un réseau de distribution électrique par un
+graphe orienté
+
+Document 3
+Représentation graphique de la courbe d’équation y = 2 x² – 370 x + 60 450
+
+PARTIE A : Transport de l’énergie électrique
+1. Indiquer le nom du phénomène correspondant à la dissipation d’énergie par
+dégagement de chaleur dans un conducteur ohmique.
+La puissance P perdue par ce phénomène dans un conducteur ohmique de
+résistance R parcouru par un courant d’intensité I est donnée par la relation :
+𝑃 = 𝑅 × 𝐼².
+La résistance R d’un fil conducteur est donnée par la formule :
+𝐿
+𝑅 =𝜌× .
+𝑆
+avec ρ la résistivité du conducteur en Ω∙m, L la longueur du fil en m et S sa section
+en m².
+2. Plus la longueur du câble est grande, plus sa résistance est importante. En vous
+appuyant sur l’expression de la résistance, proposer deux façons de diminuer la
+résistance des lignes qui transportent l’énergie électrique.
+Diminuer la résistance n’est pas la seule réponse à apporter pour diminuer les pertes.
+On peut également agir sur l’intensité.
+3. Indiquer par combien sont divisées les pertes si on divise l’intensité par deux.
+4. Expliquer l’intérêt des lignes à haute tension.
+5. À l’aide du document 1, citer les deux réseaux transportant de l’énergie électrique
+en France.
+6. Expliquer pourquoi ces deux réseaux n’ont pas les mêmes pourcentages d’énergie
+perdue.
+PARTIE B : Modélisation d’un réseau
+Considérons un réseau simple représenté de façon symbolique dans le document 2.
+Deux sources S1 et S2 produisent du courant, que l'on supposera continu, d’intensités
+respectives I1 et I2. Le courant doit être acheminé vers deux cibles C 1 et C2 qui
+attendent des intensités fixées valant respectivement I3 et I4. On note R1, R2, R3 et R4
+les résistances respectives des câbles de transport des lignes 1 à 4.
+Le réseau présente un unique nœud.
+
+7. Donner l’expression de la puissance PJT totale dissipée par effet Joule en fonction
+des intensités et résistances.
+8. En utilisant la loi des nœuds, supposée valable, montrer que, si les intensités sont
+exprimées en ampères, on a I2 = 185 – I1.
+9. On admet que les valeurs des résistances des câbles de transport sont toutes
+identiques et égales à R. Montrer que l’expression de la puissance PJT (en W) en
+fonction de I1 (en A) est :
+𝑃𝐽𝑇 = 𝑅(2𝐼12 – 370𝐼1 + 60450).
+10. Par lecture graphique, estimer la valeur de l'intensité I1 qui permet de minimiser
+l'énergie dissipée lors de l’acheminement de l’énergie.
+11. En déduire I2.
+
+Exercice 2 – Niveau terminale
+Thème « Une histoire du vivant »
+
+Invasion de sangliers à Fontainebleau
+Sur 10 points
+Le 14 mars 2016, nous pouvions lire dans un article du journal Le Figaro :
+« Tous les soirs à Fontainebleau (Seine-et-Marne), des sangliers se baladent dans les
+rues du centre-ville, à la recherche de nourriture. Une situation en passe de devenir
+incontrôlable puisque, très nombreux, les sangliers saccagent tout sur leur passage. ».
+Le but de cet exercice est de caractériser et d’expliquer l’évolution démographique de
+la population de sangliers à Fontainebleau.
+Document 1 : résultats de deux campagnes de capture-marquage-recapture
+pour étudier la population de sangliers dans la forêt de Fontainebleau
+capturés et marqués
+en début de
+protocole
+
+capturés à la fin du
+protocole
+
+marqués recapturés
+
+1980
+
+2020
+
+1- Expliquer le principe de la méthode Capture-Marquage-Recapture.
+2- En calculant une estimation des effectifs en 1980 et 2020, montrer que l’abondance
+de la population de sangliers a été multipliée par environ 4,5.
+3- À l'aide des documents 2 et 3 suivants, rédiger un paragraphe argumenté expliquant
+l'une des causes de l’augmentation de la population de sangliers.
+
+Document 2 : effet de la température hivernale sur la densité de sangliers
+Document 2a : le cycle de reproduction d'une laie adulte
+La laie est la femelle du sanglier.
+Le rut correspond à la période de
+chaleur, la gestation au fait de
+porter le petit et la mise bas à
+l'accouchement.
+Un hiver rigoureux peut être à
+l'origine d'une mortalité plus
+importante des individus.
+D'après les populations de sangliers en Europe, publication
+du Dr. Jurgen Tack (2018).
+
+Document 2b : densité de sangliers en fonction de la température du mois de
+janvier
+
+La densité de sangliers (nombre de sangliers/km2) dépend de l'efficacité de leur
+reproduction.
+D'après biogeographical variation in the population density
+of wild boar in western Eurasia, Melis et al (2006).
+
+Document 3 : évolution de la température moyenne du mois de janvier à Paris
+(à proximité de Fontainebleau) entre 1980 et 2008
+En pointillé : la droite de tendance qui approche au mieux un nuage de points.
+
+Température moyenne en janvier
+
+T (°C)
+
+1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008
+-1
+-2
+
+Année
+D’après Rousseau, D. (2009). La Météorologie, 8(67)

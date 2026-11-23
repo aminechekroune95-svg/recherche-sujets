@@ -1,0 +1,265 @@
+{"pages": 8, "method": "pdftotext", "bytes": 872174, "at": "2026-11-23T09:25:11+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Valorisation de la biomasse (10 points)
+Les « biocarburants » sont des carburants obtenus à partir de la biomasse (matière première
+d’origine végétale, animale ou issue de déchets). Mélangés avec les carburants traditionnels,
+leur utilisation dans le secteur des transports a pour but de répondre à cinq enjeux essentiels :
+ réduire les émissions de gaz à effet de serre,
+ anticiper l’épuisement des réserves mondiales de pétrole,
+ réduire la dépendance énergétique pétrolière,
+ offrir un débouché supplémentaire aux filières agricoles,
+ créer une filière de valorisation des déchets.
+Il existe actuellement deux filières principales :
+ La filière éthanol, pour les véhicules essence,
+ La filière huile et dérivés pour les véhicules diesel.
+D’après https://www.ecologique-solidaire.gouv.fr/biocarburants
+Ce sujet s’intéresse à la valorisation de la biomasse sous la forme de biocarburant en étudiant
+une des filières de valorisation des déchets générés par la synthèse de biodiésel et en
+comparant la combustion d’une essence classique et de bioéthanol.
+Données :
+- Masses molaires moléculaires :
+Glycérol M = 92,09 g.mol–1
+1,2,3-triméthoxypropane M = 134,2 g.mol–1
+
+- Table de données spectroscopiques Infrarouge
+famille
+liaison
+nombres d’onde (cm–1)
+cétone
+1705 - 1725
+Ctri – H
+2700 -2900
+aldéhyde
+1720 - 1740
+acide
+O–H
+2500 - 3200
+carboxylique
+1740 - 1800
+ester
+1730 - 1750
+O – H lié
+3200 – 3450
+alcool
+O – H libre
+3600- 3700
+1. Valorisation du glycérol
+Les biodiesels sont obtenus à partir d’huile végétale ou animale subissant une transformation
+chimique appelée transestérification, modélisée par une réaction, dont l’équation figure cidessous, entre les triglycérides contenus dans les matières grasses et le méthanol. Les
+groupes alkyles comportant de longues chaînes carbonées sont notés R.
+
+D’après https://www.irsst.qc.ca/media/documents/PubIRSST/B-079.pdf
+
+1.1 Justifier le nom de l’alcool réagissant avec les triglycérides.
+1.2 La transestérification étant une transformation totale, quelle doit être la relation entre
+les quantités de matière de triglycérides et de méthanol introduits pour que les
+triglycérides soient entièrement transformés en biodiesel ?
+Les normes européennes imposent une utilisation croissante de biocarburants dans le
+secteur des transports. Des voies pour la valorisation du glycérol, produit secondaire de la
+réaction, sont donc activement recherchées par les chimistes. Celui-ci est déjà utilisé dans
+de nombreux domaines industriels : médicaments, cosmétiques ou alimentation, par
+exemple. Parmi les voies de valorisation du glycérol, la conversion en acroléine et surtout
+en acide acrylique sont particulièrement prometteuses.
+
+1.3. Reproduire les formules semi-développées de l’acroléine et de l’acide acrylique sur
+votre copie et entourer les groupes caractéristiques. Nommer la famille de composés
+associée à chaque groupe.
+1.4. Montrer que la transformation du glycérol en acroléine peut être modélisée par une
+réaction de déshydratation.
+1.5. Montrer que lors de la transformation de l’acroléine en acide acrylique, l’acroléine subit
+une oxydation. Une demi-équation électronique est attendue.
+2. Étude de la combustion d’un biocarburant
+Depuis 2010, la quasi-totalité des stations essences aux États-Unis proposent une essence
+sans plomb contenant 10% de bioéthanol ; c’est aussi le cas en Europe avec le SP95-E10 Un
+carburant encore plus riche en éthanol, le E85, contenant 65 à 85% d’éthanol issu de la
+culture de la canne à sucre, de la betterave ou du maïs par exemple, déjà largement utilisé au
+Brésil, commence à se répandre aussi en Europe et aux États-Unis. Cependant, le moteur,
+pour accepter ce type de carburant, nécessite un réglage de l’avance à l’allumage et du débit
+des injecteurs car le volume de carburant à injecter est supérieur à celui d’un carburant
+classique pour une même quantité d’air.
+D’après Markov, Sergei. (2012). Biofuels and Synthetic Fuels.
+https://fr.wikipedia.org/wiki/E85_(carburant)
+
+L’essence sans plomb 95 est modélisée par du 2,2,4-triméthylpentane pur de masse molaire
+M1 = 114 g.mol-1 et de masse volumique 𝜌1 = 690𝑔. 𝐿−1 et le E85 par de l’éthanol pur de
+masse molaire M2 = 46 g.mol-1 et de masse volumique 𝜌2 = 789𝑔. 𝐿−1 .
+
+La combustion du 2,2,4-triméthylpentane dans le dioxygène est modélisée par la réaction
+d’équation écrite ci-dessous. C’est une transformation totale.
+
+Le programme python reproduit ci-dessous permet de calculer et d’afficher l’état final du
+système et l’avancement final de la réaction de combustion de 2,0 moles de 2,2,4triméthylpentane avec 5,0 moles de dioxygène.
+
+especes = ["2,2,4-trimethylpentane","O2","CO2","H2O"]
+coefficients = [-1, -25/2, 8, 9]
+qi = [2., 5., 0., 0.]
+# Quantités de matières initiales en moles
+qf = qi[:]
+# Quantités de matière à l'instant t = 0
+# identiques aux quantités initiales
+pas = 0.00001
+# Pas de la simulation en moles
+x=0
+# Avancement initial en moles
+while qf[0] > 0 and qf[1] > 0:
+# Tant que la condition est vraie
+x = x + pas
+# L'avancement augmente de la valeur du pas
+for i in range(4):
+# Pour chacune des 4 espèces
+qf[i] = qi[i] + coefficients[i] * x # Calcul des nouvelles quantités de matière
+print("====== Etat Final ======")
+for i in range(4):
+print("{} : {:.3f}".format(especes[i], qf[i]))
+
+# Pour chacune des 4 espèces
+# On affiche la quantité de
+# matière à l'état final avec 3
+# chiffres après la virgule
+
+print("Avancement final : xf = {:.3f} mol".format(x))
+
+# On affiche l'avancement final
+# avec 3 chiffres
+# après la virgule
+
+Sortie :
+
+2.1. Lors de la combustion du 2,2,4-triméthylpentane, décrire qualitativement l’évolution des
+quantités de matière des différentes espèces chimiques au cours de la transformation.
+Comment le programme python prend-t-il en compte cette différence de comportement
+entre les réactifs et les produits ?
+2.2. A partir de l’état final affiché par le programme, déterminer, sans calcul, le réactif
+limitant dans les conditions de la simulation. A quelle ligne du programme python
+détermine-t-on que la transformation est achevée ?
+2.3. Écrire et ajuster la réaction de combustion de l’éthanol dans le dioxygène.
+2.4. Indiquer, puis réécrire les lignes à modifier dans le programme python pour calculer
+l’état final de la réaction de combustion de 5,0 moles d’éthanol avec 10,0 moles de
+dioxygène.
+On donne les sorties du programme pour la réaction de combustion d’1 mole de carburant
+dans 1 mole de dioxygène pour les deux modèles de carburants considérés.
+
+2.5 . D’après les sorties des programmes et vos calculs, la phrase en italique de
+l’introduction de la partie 2 vous paraît-elle justifiée ? Vous porterez un regard critique sur
+les résultats obtenus.
+Toute démarche de résolution sera valorisée même si elle n’a pas abouti.
+PARTIE B
+Ballon-sonde (10 points)
+Le 17 mars 1898, le premier ballon-sonde météorologique
+français était lancé depuis l'observatoire de Trappes, en
+région parisienne. Il emportait, dans un panier d'osier, un
+« météorographe », destiné à enregistrer la pression et la
+température en altitude. Aujourd'hui, les ballons -sondes
+sont toujours utilisés (figure 1). Ces radiosondages
+fournissent des informations sur l'état des premières
+couches de l'atmosphère (troposphère et stratosphère).
+D’après : meteofrance.com 16/03/2018
+
+Figure 1 : lâcher de ballon automatique
+© Météo-France, Pascal Taburet
+
+Dans le cadre d’un atelier scientifique, des lycéens ont conçu un ballon -sonde
+constitué :
+ d’une enveloppe fermée remplie d’hélium ;
+ d’une nacelle contenant des appareils de mesure et un parachute.
+Lors du lâcher, le ballon-sonde communique avec une station au sol. Des mesures de
+pression, température, position sont récoltées au cours de l’ascension.
+L’objectif de cet exercice est de justifier le choix de valeur de la fréquence de
+télécommunication et de confronter certaines mesures réalisées à des modèles
+physiques.
+Données :
+- la valeur de la célérité c des ondes électromagnétiques dans le vide ou dans
+l’air est supposée connue des candidats
+- masse(enveloppe) = 3,2 x 10 2 g ;
+- masse(nacelle) = 3,6 kg ;
+- masse(hélium) = 7,0 x 10 2 g ;
+- intensité du champ de pesanteur : g = 9,81 m.s -2 ;
+- pression atmosphérique au niveau du sol : P 0 = 1,0 x 10 3 hPa ;
+- volume initial du ballon : V 0 = 4,0 m³ ;
+- volume du ballon juste avant éclatement : V max = 51 m³.
+1. Choix technique pour la télécommunication
+Pour éviter les interférences avec d’autres systèmes, les lycéens doivent respecter
+les normes en vigueur. Leur ballon-sonde doit émettre des ondes électromagnétiques
+dans le domaine radioélectrique UHF (Ultra Hautes Fréquences), que l’union
+internationale des télécommunications a attribué au service de la météorologie.
+Les lycéens ont choisi de régler la valeur de la fréquence d’émission de leur ballon sonde à f = 403,2 MHz.
+
+Figure 2 : différents domaines du spectre des ondes électromagnétiques
+1.1.
+Citer un autre type d’ondes que les ondes électromagnétiques. En donner un
+exemple.
+1.2.
+Exprimer la relation entre célérité c, longueur d’onde  et fréquence f.
+1.3.
+Déterminer la valeur de la longueur d’onde des ondes émises par le ballon -sonde.
+Commenter le choix effectué par les lycéens par rapport aux normes de
+télécommunication.
+
+2. Décollage du ballon-sonde
+On considère le ballon juste après le décollage, étudié dans le référentiel terrestre
+supposé galiléen. On néglige les frottements exercés par l’air.
+Le système {ballon + nacelle + hélium} est soumis à deux forces :
+ son poids, noté ⃗𝑃 ;
+ la poussée d’Archimède, notée 𝐹 , verticale, dirigée vers le haut telle que sa
+norme F = 50 N.
+2.1.
+Calculer la valeur de la masse m totale du système étudié.
+2.2.
+Calculer la valeur du poids du système {ballon + nacelle + hélium}.
+2.3.
+Représenter les forces exercées sur le système {ballon + nacelle + hélium}
+modélisé par un point matériel noté S (échelle : 10 N ↔ 1 cm).
+2.4.
+En déduire le vecteur représentant la somme des forces appliquées sur le
+système et donner les caractéristiques de ce vecteur (direction, sens, norme).
+Le ballon possède une trajectoire verticale ascendante. Les lycéens ont calculé la
+vitesse du ballon-sonde à partir des mesures de positions. La vitesse est
+V 1 = 1,1 m.s -1 à t 1 = 1,0 s et V 3 = 3,2 m.s -1 à t 3 = 3,0 s.
+2.5.
+Calculer la variation de la valeur de la vitesse entre les instants t 1 et t 3 .
+2.6.
+Montrer que cette variation est cohérente avec les caractéristiques de la somme
+des forces appliquées sur le système.
+3. Éclatement
+Dans cette partie, on considère
+que l’enveloppe du ballonsonde est parfaitement souple
+extensible de sorte que la
+pression de l’hélium à l’intérieur
+constamment égale à la
+pression atmosphérique.
+
+et
+est
+
+Figure 3 : Relevé de pression
+dans la troposphère et la
+stratosphère pour différentes
+altitudes h. (D’après : Concours
+Centrale-Supélec, TSI, 2008.)
+
+Figure 4 : Relevé de température dans la troposphère et la stratosphère pour
+différentes altitudes h. (D’après : Concours Centrale-Supélec, TSI, 2008.)
+3.1.
+À l’aide de la figure 3, expliquer comment varie la pression dans le ballon sonde
+lorsque l’altitude augmente.
+3.2.
+Énoncer la loi de Mariotte relative au produit de la pression P par le volume V
+d’un gaz pour une quantité de matière donnée et une température constante.
+3.3.
+À l’aide de la loi de Mariotte, indiquer comment varie qualitativement le volume
+du ballon au cours de son ascension. Déterminer ensuite l’altitude maximale atteinte
+par le ballon au moment de l’éclatement.
+3.4.
+En réalité le ballon a atteint une altitude de 31 km, elle est supérieure à celle
+prévue dans la question précédente. Proposer une explication.

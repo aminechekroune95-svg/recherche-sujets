@@ -1,0 +1,312 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1016769, "at": "2026-11-23T09:24:43+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 10
+
+PARTIE A
+Une onde un peu particulière, « l’onde cobra » (10 points)
+Le cobra est un serpent qui a la
+capacité de se redresser. C’est en
+référence à cette position que le jeu
+étudié ici a été nommé « onde
+cobra ». Il ressemble à ce jeu dans
+lequel on aligne des milliers de
+dominos pour ensuite les faire
+tomber en cascade.
+Il s’agit ici d’entremêler en une
+succession de losanges des
+bâtonnets de bois, par exemple des
+bâtonnets de glace, pour constituer
+http://www.random-good-stuff.com/2016/12/17/stickun long croisillon horizontal puis d’en bombs-not-stink-bombs/
+lâcher une extrémité. L’assemblage
+se soulève alors, se redresse telle
+une tête de cobra, en éjectant un à un les bâtonnets et en détruisant donc le croisillon
+(figure 1 ci-dessous).
+
+à l’instant t1
+à l’instant t2
+
+Sens de propagation
+Bâtonnet à l’instant t1 décrit dans la question 2.
+Figure 1 : Forme du croisillon de bâtonnets à deux instants différents t 1 et t2 (t2>t1)
+Pour constituer le croisillon (figure 2 ci-dessous), les bâtonnets se déforment avec des
+fléchissements qui sont de l’ordre de leur épaisseur (figure 3 ci-dessous), mais qui
+retrouvent leur forme initiale une fois libérés. Initialement, ils stockent ainsi non pas de
+l’énergie potentielle de pesanteur mais de l’énergie potentielle élastique. Des chercheurs
+ont montré que l’onde cobra résultait d’une propulsion par réaction, dans laquelle le
+« carburant » est cette énergie potentielle élastique stockée dans les déformations des
+bâtonnets et la propagation est assurée par leur éjection.
+L’objectif de cet exercice est de déterminer la célérité de l’onde cobra, d’étudier l’influence
+de la forme du croisillon sur la célérité ainsi que de mener une analyse énergétique pour
+interpréter l’onde cobra et prévoir la hauteur maximale des bâtonnets lors de la propagation.
+Sources : journal Le Monde (21 août 2017), journal Pour la Science (n°490, août 2018).
+p
+a
+s
+
+Figure 2 : Croisillon vu de dessus : le croisillon est caractérisé par le pas noté p, distance
+entre deux sommets consécutifs sur un des bords du croisillon
+
+Figure 3 : Schéma de profil d’un bâtonnet déformé dans le croisillon et photo
+correspondante
+Analyse ondulatoire
+1. Indiquer la nature périodique ou non périodique de « l’onde cobra ».
+2. On souhaite décrire l’évolution de la hauteur du centre de masse d’un bâtonnet au
+
+cours du temps (la hauteur est nulle lorsque le bâtonnet est au sol). Le bâtonnet décrit
+est figuré en noir à l’instant t1 sur la figure 1, lorsqu’il est encore au sol, et on peut
+considérer que son mouvement ultérieur est approximativement vertical. Quatre
+représentations graphiques sont proposées ci-dessous.
+2.1. Parmi les représentations graphiques proposées, éliminer la (ou les)
+représentation(s) qui ne rend(ent) pas compte de la position du bâtonnet à
+l’instant t1.
+2.2. Parmi les représentations restantes, choisir la représentation graphique qui
+paraît la plus adaptée. On justifiera clairement le choix.
+
+a
+
+b
+
+c
+
+d
+
+Des chercheurs ont réalisé des photographies successives de la structure se soulevant au
+cours du temps. Quatre photographies successives sont fournies sur la figure 4 ci-dessous.
+Le croisillon a été réalisé avec des bâtonnets de longueur 11,4 cm et un pas voisin de 5 cm
+(ce qui correspond à des bâtonnets disposés perpendiculairement les uns par rapport aux
+autres comme sur la figure 2). L’échelle verticale et l’échelle horizontale ne sont pas les
+mêmes.
+
+Figure 4 : Photographies successives de la structure.
+D’après : Jérémy Sautel, Andréane Bourges, Aude Caussarieu, Nicolas Plihon, and
+Nicolas Taberlet The physics of a popsicle stick bomb American Journal of Physics
+85, 783 (2017)
+3. À l’aide de la figure 4, justifier sans calcul que la célérité de l’onde cobra semble
+approximativement constante.
+
+4. Déterminer la valeur de la célérité de l’onde cobra. On explicitera clairement la
+méthode.
+L’évolution de la célérité de l’onde et de la hauteur maximale atteinte par chaque bâtonnet
+en fonction du pas sont reproduites ci-dessous (pour des bâtonnets de longueur 11,4 cm).
+Les barres indiquent l’incertitude-type pour chaque mesure.
+
+Figure 5 : célérité en fonction du pas
+
+Figure 6 : hauteur maximale en fonction du pas
+
+5.
+6.
+
+Indiquer comment on a intérêt à déformer le croisillon afin d’augmenter la vitesse par
+rapport à la situation étudiée aux questions 3 et 4. On pourra faire un schéma.
+Indiquer en argumentant avec précision si la forme du croisillon a une influence sur la
+hauteur atteinte par les bâtonnets.
+
+Analyse énergétique
+On souhaite estimer l’énergie nécessaire à la déformation d’un bâtonnet dont les
+caractéristiques figurent dans les données ci-dessous. Pour ceci, on étudie la situation
+suivante où on pose deux masselottes identiques à chaque extrémité d’un bâtonnet fixé en
+son centre. Celui-ci se courbe et stocke de l’énergie potentielle élastique. On note M la
+masse de chacune des masselottes pour que les extrémités du bâtonnet descendent d’une
+hauteur égale à son épaisseur. Pour déformer à ses deux extrémités le bâtonnet décrit
+dans les données, on observe expérimentalement qu’il faudrait que les masselottes aient
+chacune une masse M environ égale à 100 g.
+
+Données :
+- dimensions d’un bâtonnet :
+longueur : L = 15,0 cm ;
+largeur : ℓ = 2,8 cm ;
+épaisseur : e = 1,6 mm ;
+- masse d’un bâtonnet : m = 2,5 g ;
+- intensité du champ de pesanteur : g = 9,8 m·s-2.
+7.
+
+Exprimer le travail du poids d’une masselotte durant sa descente. Calculer sa valeur.
+
+On suppose que l’énergie transférée par travail mécanique est entièrement stockée par le
+bâtonnet sous forme d’énergie potentielle élastique.
+8.
+En déduire la valeur de l’énergie potentielle élastique d’un bâtonnet qui serait déformé
+de cette façon par les deux masselottes avec un fléchissement égal à son épaisseur à
+chaque extrémité.
+En pratique, puisque chaque bâtonnet est déformé en quatre points, l’énergie potentielle
+stockée par bâtonnet est bien plus grande et vaut approximativement 50 mJ.
+L’énergie mécanique d’un bâtonnet est la somme de son énergie cinétique, de son énergie
+potentielle de pesanteur (considérée nulle lorsque le bâtonnet est au sol) et de son énergie
+potentielle élastique (nulle lorsque le bâtonnet n’est pas déformé). Lors de la propagation
+de l’onde, chaque bâtonnet est propulsé vers le haut et n’est plus déformé. Lorsqu’il atteint
+sa hauteur maximale, on peut considérer sa vitesse comme nulle.
+
+9.
+
+En exploitant la conservation de l’énergie mécanique pour un bâtonnet donné,
+exprimer puis calculer la valeur de la hauteur maximale théorique atteinte par chaque
+bâtonnet.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie, même si
+elle n’a pas abouti. La démarche est évaluée et nécessite d’être correctement
+présentée.
+
+Lors de la propagation observée expérimentalement, la hauteur atteinte par chaque
+bâtonnet est comprise entre 25 et 35 cm.
+10. Proposer une interprétation de la différence avec la valeur calculée précédemment.
+PARTIE B
+Des esters qui flattent nos cellules olfactives (10 points)
+Les esters sont des espèces chimiques qui ont souvent une odeur agréable (rose, jasmin,
+lavande…). Ils sont parfois à l’origine d’arômes naturels fruités et sont très fréquemment
+synthétisés pour être utilisés comme arômes alimentaires.
+L’un des enjeux est désormais de produire les espèces chimiques en respectant les critères
+de la chimie verte, notamment en utilisant moins de solvants, des réactifs et solvants peu
+toxiques, en produisant moins de déchets et en économisant l’énergie.
+Les synthèses réalisées sous micro-ondes répondent aux critères de la chimie verte et sont
+de plus en plus utilisées à l’échelle du laboratoire, mais également à l’échelle industrielle.
+Cet exercice propose d’étudier quelques esters présents dans les arômes alimentaires et
+de comparer les rendements d’une estérification effectuée selon deux protocoles, l’un
+effectué avec un chauffage usuel et l’autre sous micro-ondes.
+Esters présents dans des arômes alimentaires.
+
+H3C HC
+
+CH2 CH3
+
+A : arôme de fraise
+
+B : arômes agrumes
+
+CH2 O
+
+CH2 HC
+
+C : arôme de banane
+
+D : arôme d'ananas
+
+1. L’arôme de fraise
+L’acide méthylpropanoïque est l’un des réactifs utilisés pour la synthèse de l’ester A, il est
+présent parmi les trois composés oxygénés E, F et G dont les formules semi-développées
+sont données ci-dessous.
+
+1.2.
+
+H
+
+E
+
+1.1.
+
+G
+
+F
+
+Recopier les formules des molécules de ces trois composés, puis entourer et
+nommer les familles de composés associées.
+Identifier l’acide méthylpropanoïque parmi les trois composés E, F et G.
+Justifier son nom.
+
+2. L’arôme d’agrumes
+Le composé H, dont une formule est représentée ci-après, est un des réactifs utilisés pour
+synthétiser l’ester B à l’arôme d’agrumes.
+
+H
+
+H2C
+
+H 3C
+
+H 2C
+
+I
+
+2.1.
+2.2.
+2.3.
+
+J
+
+Les composés H, I et J sont-ils des isomères ? Justifier.
+Le composé H est appelé décan-1-ol. Justifier son nom.
+Représenter, sur votre copie, la formule topologique du composé I, puis
+entourer sa chaîne carbonée la plus longue et nommer le(s) groupe(s)
+substitués(s) sur cette chaine et caractéristique(s) éventuel(s).
+
+3. Synthèse d’un ester à l’arôme d’ananas : comparaison des rendements
+obtenus par deux protocoles différents
+L’équation de la réaction modélisant la synthèse de l’ester D de formule brute C6H12O2
+présent dans l’arôme d’ananas est :
+C4 H8 O2(l) + C2 H6 O(l)  C6 H12 O2(l) + H2 O(l)
+Données
+Caractéristiques physiques de quelques composés
+Éthanol Acide butanoïque Ester D
+Solubilité dans l’eau
+
+forte
+
+forte
+
+faible
+
+Température d’ébullition (°C)
+
+Masse volumique (g.cm-3)
+
+0,79
+
+0,96
+
+0,88
+
+Masse molaire (g.mol-1)
+
+Il est possible de réaliser la synthèse de l’ester D selon deux protocoles.
+Protocole n°1 : synthèse par chauffage à reflux
+Ce protocole permet d’obtenir un rendement maximal de 67% si les deux réactifs sont
+introduits en quantités de matière égales. Pour l’augmenter, il est possible entre autres,
+d’introduire l’un des réactifs en excès. C’est le choix fait dans le protocole qui suit.
+ Introduire dans un ballon, 40,0 mL d’éthanol,
+40,0 mL d’acide butanoïque et 1,0 mL d’acide
+sulfurique concentré.
+ Chauffer à reflux pendant 30 min
+ Refroidir jusqu’à température ambiante puis
+verser le contenu du ballon dans un bécher
+contenant 100 mL d’eau salée.
+ Transvaser le mélange dans une ampoule à
+décanter.
+ Isoler et laver la phase organique. On obtient
+une masse de 35,7 g d’ester.
+
+Protocole n°2 : synthèse sous micro-ondes
+Pour ce protocole, on choisit délibérément de mélanger les deux réactifs en quantités de
+matière égales.
+ Introduire dans un bécher, 25,4 mL d’éthanol (soit 4,36 x 10-1 mol), 40 mL d’acide
+butanoïque (soit 4,36 x 10-1 mol) et 1 mL d’acide sulfurique concentré.
+ Placer le bécher dans le four à micro-ondes et irradier la solution par de courtes
+périodes à 1000 W.
+ Transvaser le mélange dans une ampoule à décanter.
+ Isoler et laver la phase organique. On obtient une masse de 47,5 g d’ester.
+3.1.
+
+Étude du protocole n°1
+3.1.1. Légender le schéma du dispositif de chauffage à reflux en attribuant à
+chaque chiffre (1, 2, 3, 4, 5), l’indication la plus pertinente. Et décrire le
+rôle de chacun de ces éléments
+3.1.2. Expliquer l’intérêt de verser, après les 30 min de chauffage, le mélange
+réactionnel refroidi dans de l’eau salée.
+
+3.2.
+
+Détermination du rendement obtenu en suivant le protocole n°1
+3.2.1. Déterminer le réactif limitant lors de la mise en œuvre du protocole n°1.
+3.2.2. En déduire le rendement de la synthèse. Commenter.
+
+3.3.
+
+Calculer le rendement de la synthèse obtenu à partir du protocole n°2.
+Proposer, en quelques lignes, une analyse comparative critique des deux
+protocoles.

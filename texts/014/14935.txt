@@ -1,0 +1,186 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1368491, "at": "2026-11-23T09:21:57+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+LE SAUT PENDULAIRE (10 points)
+Document 1 : Le saut pendulaire
+Dix secondes de chute libre depuis une falaise qui offre plus de 400 mètres de vide, ça vous
+dit quelque chose ?
+C’est le temps et le nouveau record de France réalisé en rope jump, dernier né des sports
+extrêmes qui s’inspire à la fois du base jump et du saut à l’élastique. Sauf que dans cette
+discipline (le saut pendulaire en bon français), les athlètes ne sont pas attachés par un
+élastique mais par de simples cordes d’alpinisme… Et la longueur de chute libre atteint 80 %
+de la hauteur quand le saut à l’élastique limite la chute proprement dite à 40 %.
+D'après le dauphiné libéré
+https://www.ledauphine.com/isere-sud/2019/09/15/
+
+Document 2 : Les différentes phases du saut
+
+Le saut pendulaire peut se décomposer en
+trois phases :
+
+la première, entre A et B est une phase de
+chute libre où la corde n'est pas tendue ;
+la deuxième, entre B et C, la corde
+commence à se tendre et la trajectoire du
+sauteur est déviée sous son action ;
+la dernière, entre C et D, la corde est
+tendue et la trajectoire du sauteur est
+circulaire.
+
+Pour repérer l'altitude du sauteur, on utilise un
+axe des y vertical dont l'origine est au sol.
+
+Document 3
+
+Le but de cet exercice est de vérifier que la hauteur de chute libre lors d'un saut pendulaire
+correspond à 80 % de la hauteur du saut, c'est à dire la longueur de la corde.
+Pour cela, on étudie l'enregistrement vidéo d'un saut réalisé par un sauteur de masse
+m = 80,0 kg (avec son équipement). Un pointage vidéo a été réalisé, il a permis d'obtenir les
+coordonnées (x,y) du sauteur au cours du temps.
+Le sautoir se situe à une altitude yA = 30 m par rapport au sol.
+Donnée : intensité du champ de pesanteur : g = 9,81 m.s-2.
+1. Étude de la première phase du saut entre A et B
+1.1 Étude du saut en négligeant les frottements
+Dans un premier temps, on formule l'hypothèse que les forces de frottement de l'air sont
+négligeables.
+1.1.1. Effectuer l'inventaire des forces extérieures appliquées au système.
+1.1.2. Donner l'expression du travail du poids 𝑊𝐴𝐵 (𝑃⃗) entre les points A et B en
+fonction de m, g, yA et yB, altitude du point B. Ce travail est-il moteur ou résistant ?
+1.1.3. On considère que la vitesse initiale du sauteur au point A est nulle. En
+utilisant le théorème de l'énergie cinétique entre les points A et B, montrer que 𝑉𝐵 la vitesse au
+point B est reliée à la hauteur de chute libre h = (yA – yB) par la relation : 𝑉𝐵 = √2𝑔ℎ.
+1.1.4. Sur l'enregistrement réalisé, le sauteur commence à s'écarter de sa
+trajectoire verticale pour une hauteur h = 16 m (fin de la chute libre). Calculer la valeur de la
+vitesse au point B en utilisant l'expression établie à la question précédente.
+1.2 Confrontation avec le saut réalisé
+Voici une partie du code Python permettant de calculer la vitesse à partir des listes x et y,
+respectivement la liste des abscisses des points repérant le sauteur sur la vidéo et la liste des
+ordonnées de ces mêmes points. Les vitesses sont calculées avec la convention suivante :
+- la vitesse en abscisses vx est définie comme l’abscisse du point suivant moins celle
+du point actuel, le tout divisé par la durée entre ces deux points notée dt. ;
+- même convention pour l'axe des ordonnées.
+
+1.2.1. Compléter les morceaux du code manquants entre les crochets lignes 56
+et 57.
+1.2.2. Expliquer ce que calcule la partie soulignée de la ligne 58, sachant que
+math.sqrt permet de calculer une racine carrée.
+1.2.3. L'exploitation des résultats conduit à une vitesse au point B de 58 km.h–1
+au cours du saut réalisé. Comparer cette valeur à celle déterminée à la question 1.1.4,
+proposer une explication à cet écart.
+2. Étude de la phase du saut entre C et D
+2.1. Donner l'expression de l'énergie cinétique du sauteur Ec en fonction de sa masse
+m et de sa vitesse v.
+2.2. Donner l'expression de l'énergie potentielle de pesanteur du sauteur Epp en
+fonction de sa masse m, de g et de son altitude y par rapport au sol.
+2.3. Donner l'expression de son énergie mécanique Em.
+2.4. Identifier les courbes Ec, Epp et Em données dans le document 3. Justifier.
+2.5. L'hypothèse d'une chute libre sans frottements est-elle ici justifiée ? Pourquoi ?
+2.6. D'après la courbe du document 3, pour quelle date t, le sauteur passe par sa
+position d'équilibre : la verticale ?
+2.7. En exploitant les courbes du document 3 et le passage par la position verticale,
+déterminer la longueur de la corde et vérifier l'affirmation du document 1 : pour un saut
+pendulaire, la longueur de chute libre atteint 80 % de sa hauteur, c'est à dire la longueur de la
+corde.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même si elle
+n’a pas abouti.
+Partie B
+Acide oxalique et rouille ne font pas bon ménage (10 points)
+L’acide oxalique, de formule brute H2 C2 O4 , est couramment utilisé pour le traitement de
+surface des métaux.
+En traitement antirouille, les solutions d’acide oxalique sont utilisées à une concentration de
+3,3 x 10-1 mol·L-1.
+Dans un laboratoire, une technicienne dispose d’une solution d’acide oxalique de
+concentration inconnue et elle cherche à déterminer si celle-ci peut convenir pour un traitement
+anti rouille.
+Pour le savoir, elle veut déterminer, à l’aide d’un titrage, la concentration en quantité de matière
+d’acide oxalique. Celui-ci peut être réalisé à l’aide d’une solution aqueuse colorée de
+
+permanganate de potassium de formule (K+(aq) + MnO4-(aq)) de concentration en quantité de
+matière connue en ions MnO4-(aq).
+À noter que la solution de permanganate de potassium utilisée doit être acidifiée. On utilise
+une solution d’acide sulfurique à cette fin.
+Concentration en quantité de matière de la solution titrante.
+La concentration en quantité de matière en ions permanganate de la solution disponible peut
+être obtenue par spectrophotométrie. Pour cela, quatre solutions étalons de concentration
+connue en ions permanganate sont choisies et leur absorbance respective mesurée. Les
+résultats expérimentaux obtenus sont consignés dans le tableau suivant :
+Solution
+
+S1
+
+S2
+
+S3
+
+S4
+
+Concentration c (mmol·L-1) 2,50 5,00 7,50 10,00
+Absorbance A
+
+0,45 0,92 1,35 1,85
+
+Données :
+
+
+
+Cercle chromatique
+
+
+
+Spectre d’absorption UV-Visible d’une solution de permanganate de potassium.
+
+1. Prévoir la couleur de la solution de permanganate de potassium.
+2. Proposer le protocole permettant de préparer 100 mL de la solution S 2, à partir d’une
+solution de concentration égale à 100 mmol·L-1.
+3. Déterminer, en vous appuyant sur les résultats expérimentaux consignés dans le tableau
+précédent et en expliquant avec soin votre démarche, la concentration en quantité de
+matière en ions permanganate de la solution titrante, sachant que son absorbance mesurée
+dans les mêmes conditions que celles utilisées pour S1, S2, S3 et S4, est égale à 1,50.
+4. Écrire, avec un nombre adapté de chiffres significatifs, le résultat de la mesure de la
+concentration en quantité de matière de la solution titrante, sachant que l’incertitude-type
+associée à ce dosage est : uC = 0,04 mmol·L-1.
+Réaction d’oxydo-réduction entre les ions permanganate et l’acide oxalique.
+La réaction d’oxydo-réduction entre les ions permanganate et l’acide oxalique peut être
+modélisée par un transfert d’électrons entre les deux couples oxydant-réducteur associés aux
+deux demi-équations électroniques suivantes :
+MnO4 (aq)+ 8 H+ (aq)+ 5 e- = Mn2+ (aq)+ 4 H2 O(l)
+2 CO2 (aq) + 2 H+ (aq) + 2 e- = H2 C2 O4 (l)
+5. Établir l’équation de la réaction modélisant la transformation chimique se produisant entre
+les ions permanganate et l’acide oxalique.
+6. Préciser quelle espèce chimique est l’oxydant et laquelle est le réducteur.
+Titrage de la solution d’acide oxalique diluée et conclusion.
+Avant de réaliser le titrage, la technicienne réalise une expérience préalable pour visualiser les
+changements de couleur. Quand elle verse quelques gouttes de solution colorée de
+permanganate de potassium dans un bécher contenant de l’acide oxalique incolore sur environ
+1 cm de hauteur, elle observe après quelques instants, une décoloration de la solution de
+permanganate de potassium.
+Ensuite, elle dilue au centième la solution d’acide oxalique disponible au laboratoire.
+Enfin, la technicienne doit verser un volume VE = 12,5 mL dans un volume V1 = 100 mL de la
+solution d’acide oxalique disponible au laboratoire, préalablement dilué au centième, pour
+atteindre l’équivalence. La concentration en quantité de matière de la solution de
+permanganate de potassium utilisée par la technicienne est : c = 8,2 mmol·L-1.
+On rappelle que les ions H+(aq) sont en excès et qu’il ne faut pas en tenir compte.
+7. Faire un schéma légendé du dispositif de titrage.
+8. Indiquer le changement de couleur observé à l’équivalence.
+
+9. Montrer que la relation entre les quantités de matière de réactifs introduites pour atteindre
+l’équivalence correspond à l’expression suivante :
+n(H2 C2 O4 )
+n(MnO4 )vE étant la quantité de matière en ions permanganate qu’il faut ajouter pour
+obtenir l’équivalence.
+
+n(MnO4 )vE =
+
+10. Déterminer si la solution d’acide oxalique de concentration inconnue disponible au
+laboratoire, peut ou ne peut pas convenir pour un traitement anti rouille. Conclure en faisant
+preuve d’esprit critique.

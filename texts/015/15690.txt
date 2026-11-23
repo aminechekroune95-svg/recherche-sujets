@@ -1,0 +1,302 @@
+{"pages": 15, "method": "pdftotext", "bytes": 2207660, "at": "2026-11-23T09:28:25+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Commercialisation d’un produit
+Sur 8 points
+Les deux parties peuvent être traitées séparément.
+Une petite entreprise fabrique des objets de décoration.
+Elle les vend dans deux magasins A et B.
+Partie A
+Le coût de fabrication annuel des objets de décoration, en euros, peut être modélisé
+par une fonction 𝐶 définie sur [0 ; 250] par 𝐶(𝑥) = 𝑥 2 + 100𝑥 + 50 où 𝑥
+représente le nombre d’objets fabriqués pendant l’année.
+1- Quel est le coût annuel, en euros, pour la fabrication de 100 objets de
+décoration ?
+Chaque objet de décoration est vendu 300 €. On note 𝐵 la fonction définie sur
+[0 ; 250] modélisant le bénéfice annuel.
+2- Montrer que 𝐵(𝑥) = −𝑥 2 + 200𝑥 − 50 où 𝑥 représente le nombre d’objets
+fabriqués pendant l’année.
+3- On admet que la fonction 𝐵 est dérivable sur [0 ; 250].
+3-a- Déterminer 𝐵′(𝑥) pour 𝑥 ∈ [0 ; 250].
+3-b- Dresser le tableau des variations de la fonction 𝐵 sur [0 ; 250].
+3-c- En déduire le nombre d’objets de décoration à fabriquer et à vendre pendant
+l’année afin que le bénéfice annuel soit maximal et donner le montant de ce
+bénéfice.
+
+Partie B
+En 2020, l’entreprise dépose 50 objets de décoration dans le magasin A et 50 objets
+de décoration dans le magasin B. Pensant pouvoir améliorer son coût de production,
+elle s’engage à déposer, tous les ans, 5 objets de plus dans le magasin A et 8%
+d’objets en plus dans le magasin B.
+On représente par 𝑎𝑛 et par 𝑏𝑛 le nombre d’objets déposés respectivement dans les
+magasins A et B l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel.
+4-a- Pour tout entier naturel 𝑛, exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+4-b- Quelle est la nature de la suite de terme général 𝑎𝑛 ?
+4-c- Selon ce modèle, combien d’objets seront déposés dans le magasin A en
+2025 ?
+5-a- Quelle est la nature de la suite (𝑏𝑛 ) ? En préciser les éléments caractéristiques.
+5-b- Selon ce modèle, combien d’objets seront déposés dans le magasin B en
+2025 ?
+6-a- Pour tout entier naturel 𝑛 compris entre 0 et 9, construire dans un même repère
+les points de coordonnées (𝑛, 𝑎𝑛 ) et (𝑛, 𝑏𝑛 ). On prendra 1 cm pour 1 sur l’axe des
+abscisses et 1 cm pour 5 sur l’axe des ordonnées en commençant à 50.
+6-b- En utilisant la représentation graphique précédente et en expliquant la
+démarche, donner l’année à partir de laquelle le nombre d’objets déposés dans le
+magasin B sera supérieur au nombre d’objets déposés dans le magasin A ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+De l’or pour lutter contre les bactéries
+Sur 12 points
+Les antibiotiques sont des substances chimiques capables de tuer les bactéries ou
+d’empêcher leur reproduction.
+La surutilisation des antibiotiques depuis la maîtrise de leur extraction et de leur
+synthèse a conduit à l'apparition de souches bactériennes résistantes aux
+antibiotiques connus. La lutte contre la résistance aux antibiotiques est devenue un
+enjeu majeur de santé publique ces dernières années. Dans ce contexte, les nanoantibiotiques, composés de nanoparticules d'or à la surface desquelles sont greffés
+des antibiotiques, présentent souvent des propriétés exceptionnelles, allant même
+jusqu'à contourner les mécanismes de résistance bactérienne.
+
+Illustration d'un nano-antibiotique
+
+Source : d’après https://theses.hal.science
+
+Dans cet exercice, on cherche à étudier la structure des nanoparticules d’or et leur
+utilisation dans la lutte contre les bactéries.
+On rappelle que l'or est l'élément chimique de symbole Au. C’est un métal précieux
+de couleur jaune et présentant un fort éclat.
+
+Document 1 : Un nano-objet constitué d’or
+
+Image au microscope
+électronique du nano-objet
+
+Modèle atomique simplifié du nanoobjet (chaque sphère correspond à un atome
+d’or)
+Source : d’après https://rtflash.fr
+
+Une nanoparticule est un nano-objet dont la dimension caractéristique est
+inférieure à 100 nm.
+Source : d’après https://biologiedelapeau.fr
+
+Graphique  donnant le nombre d’atomes d’or Nor dans une nanoparticule
+en fonction de son rayon r en nm : Nor = f (r)
+
+Graphique  donnant le rayon r de la nanoparticule en nm en fonction du nombre
+maximum Nmax d’atomes d’or utiles en surface : r = f (Nmax)
+
+Un atome utile en surface est un atome sur lequel on peut greffer un antibiotique.
+Source : d’après synthese-de-nanoparticule-dor-et-leur-caracterisation-pargranulometrie-laser.pdf (univ-tlemcen.dz)
+
+Document 2 : Organisation microscopique d’une nanoparticule d’or
+À l’état microscopique, les nanoparticules d’or sont organisées selon un réseau
+dont les mailles élémentaires sont dites « cubiques faces centrées ». Une maille
+élémentaire de ce type est représentée ci-dessous de deux manières en
+perspective cavalière.
+
+Outil pour dénombrer les entités dans une maille :
+
+Source : d’après https://www.lelivrescolaire.fr/page/5737687
+
+Données :
+
+Masse d’un atome d’or : 3,27×10-25 kg
+
+1 g = 10-3 kg
+
+1 cm = 10-2 m
+
+1 nm = 10-9 m
+
+1 pm = 10-12 m
+
+Volume d’un cube d’arête a : V = a3
+
+Document 3 : Action de nanoparticules Ampicilline-Or sur quelques souches
+bactériennes
+L’ampicilline est un antibiotique qui peut être greffé sur des nanoparticules d’or.
+Efficacité de l’ampicilline sur différentes souches bactériennes
+Souche bactérienne
+
+CMI Ampicilline (μg·mL-1)
+
+CMI Ampicilline greffée sur
+nanoparticule d’or (μg·mL-1)
+
+Escherichia coli (souche 1)
+Escherichia coli (souche 2)
+Staphylococcus aureus
+Bacillus subtilis
+Flavobacterium devorans
+
+15,6
+62,5
+7,8
+7,8
+
+CMI : Concentration Minimale Inhibitrice c’est-à-dire la plus petite concentration en
+antibiotique nécessaire pour bloquer la croissance d’une souche bactérienne.
+Source : d’après Nanotechnology, Volume 31, Issue 21
+
+1- Vérifier que le nano-objet photographié au document 1, sur lequel les atomes
+sont clairement visibles, est bien une nanoparticule et que celle-ci relève de l’état
+cristallin.
+2- Justifier l’appellation « cubique faces centrées » de la maille élémentaire
+représentée au document 2.
+3- Montrer que cette maille élémentaire contient 4 atomes d’or et calculer leur
+masse totale.
+4- Calculer le volume de cette maille élémentaire.
+5- Déduire des questions 3- et 4- que la masse volumique d’une maille élémentaire
+de nanoparticule d’or est égale à celle de l’or métallique à savoir 19,3 g·cm -3.
+6- Une nanoparticule d’or, sur laquelle des antibiotiques peuvent être greffés, a un
+rayon moyen de 40 nm. Le graphique  du document 1 nous indique qu’une
+telle nanoparticule est constituée de 15×106 atomes d’or. À l’aide du
+graphique , préciser dans ce cas le nombre d’atomes d’or utiles en surface.
+
+7- Calculer le pourcentage d’atomes d’or utiles en surface d’une nanoparticule de
+40 nm de diamètre.
+8- Louis Pasteur, pionnier de la microbiologie, a affirmé : « Dans la nature, le rôle
+de l'infiniment petit est infiniment grand ». Commenter cette affirmation en
+analysant le cas des nanoparticules d’or greffées d’ampicilline, illustré par les
+documents de l’exercice.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Datation de l’âge d’une roche
+Sur 12 points
+La datation de la Terre a été au cœur de multiples controverses au sein de la
+communauté scientifique.
+Comme de nombreux scientifiques au XXe siècle, on cherche dans cet exercice à
+dater un granite. Les granites sont des roches magmatiques issues du
+refroidissement lent d’un magma. Ils n’apparaissent en surface qu’après érosion de
+tout ce qui les recouvrait.
+
+Document 1 – Estimation de l’âge de la Terre par différents scientifiques
+
+Source : https://www.digischool.fr/cours/l-histoire-de-l-age-de-la-terre
+Par exemple, Buffon donne un âge de la Terre situé entre environ 75 000 ans et 10 Ma.
+
+Document 2 – Théories de Kelvin et Rutherford
+En 1863, Kelvin fait l’hypothèse que la Terre se refroidit de manière homogène
+depuis sa formation. Ainsi la Terre se refroidit et perd de la chaleur uniquement par
+conduction thermique.
+En 1904, Rutherford découvre que la désintégration de certains noyaux d’atomes
+radioactifs s’accompagne d’un dégagement de chaleur. Cette découverte
+ébranlera les conclusions de Kelvin. Effectivement, la Terre possède une source
+de chaleur que n’avait pas envisagée Kelvin dans son modèle de refroidissement.
+Document 3 – Présentation de trois géochronomètres
+Les géochronomètres sont des couples d’éléments, initialement présents dans les
+échantillons à dater dont la quantité varie au cours du temps. On considère qu’un
+géochronomètre peut être utilisé pour dater un échantillon vieux d’au maximum dix
+fois la demi-vie du noyau père du géochronomètre.
+Géochronomètre
+
+Demi-vie en années
+du noyau père
+
+Conditions
+d’utilisation
+
+14C/14N
+
+5 730
+
+S’utilise sur des fossiles
+
+40K/40Ar
+
+1,25×109
+
+Difficile à utiliser sur les
+roches magmatiques
+
+87Rb/86Sr
+
+48,8×109
+
+S’utilise sur des roches
+magmatiques
+
+Document 4 – Mesures des rapports 87Rb/86Sr et 87Sr/86Sr
+Échantillon
+
+87Sr/86Sr
+
+87Rb/86Sr
+
+0,73
+0,74
+0,77
+0,85
+0,90
+
+1,0
+1,6
+2,6
+5,7
+7,9
+
+Source : d’après “Comprendre et enseigner la planète Terre” OPHRYS Edition
+
+Document 5 – Datation d’un granite
+L’âge de la roche à dater dépend du coefficient directeur a de la droite isochrone
+obtenue en représentant 87Sr/86Sr en fonction de 87Rb/86Sr, comme l’illustre le
+graphique ci-dessous.
+
+1- Recopier sur votre feuille la réponse exacte :
+a) D’après Kelvin, la Terre a 100 Ma
+b) D’après Kelvin, la Terre a 1860 ans
+c) D’après Kelvin, la Terre a entre 40 Ma et 200 Ma.
+2- Nommer le phénomène physique sur lequel repose le raisonnement de Kelvin.
+3- D’après le document 1, préciser quelles évolutions de l’estimation de l’âge de la
+Terre on peut noter entre l’estimation de Kelvin et celle actuelle.
+4- Proposer une explication en s’appuyant sur le document 2 qui montre les limites
+du raisonnement de Kelvin.
+5- D’après le document 3, trouver deux arguments pour justifier que le couple
+87Rb/86Sr peut être utilisé pour dater l’âge de la Terre.
+
+On se propose maintenant de dater un morceau de granite trouvé à la surface de la
+Terre avec le couple 87Rb/86Sr.
+6- Placer les points correspondants au document 4 sur le graphique, proposé en
+annexe, puis tracer une droite appelée droite isochrone, passant au plus près de
+tous les points.
+7- Montrer que le coefficient directeur de la droite tracée est environ égal à 0,025.
+8- À l’aide du document 5, estimer l’âge de ce granite.
+9- Préciser si ce granite s’est formé au même moment que la Terre. Justifier.
+10- Discuter de la possibilité de dater l’âge de la Terre avec des échantillons de
+roches terrestres.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 6

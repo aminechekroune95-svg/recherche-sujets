@@ -1,0 +1,463 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1915103, "at": "2026-11-23T09:44:44+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 - 101 1000 ?
+101 0101
+110 0001
+100 1111
+1 1000 0111
+Question A.2
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x=1
+for i in range(10):
+x=x*2
+1024
+2048
+20000000000
+Question A.3
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A.4
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A.5
+Combien de bits sont nécessaires pour représenter 15 en binaire ?
+
+Question A.6
+Quelle est la représentation en binaire de l'entier 64 sur un octet ?
+0101 0000
+1100 0100
+0100 0000
+0000 1100
+
+Thème B : types construits
+Question B.1
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B.2
+On considère le code suivant :
+def feed(t):
+for i in range(len(t)):
+t[i] = 0
+return t
+Que renvoie feed([12, 24, 32]) ?
+[120, 240, 320]
+[0, 0, 0]
+[]
+[0]
+
+Question B.3
+L'opérateur % calcule le reste de la division euclidienne de l'opérande de gauche par l'opérande de droite. Par
+exemple : 7 % 3 vaut 1, 15 % 5 vaut 0 et 18 % 4 vaut 2.
+On crée la liste suivante :
+t = [ x for x in range(2,12) if x % 2 == 1 ]
+Que vaut t :
+[ 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ]
+[ 1, 2, 3, 4, 5 ]
+[ 3, 5, 7, 9, 11 ]
+[ 0, 1, 0, 1, 0, 1, 0, 1, 0, 1 ]
+Question B.4
+t1 est un tableau à n lignes et n colonnes. On souhaite remplir un tableau t2 de mêmes dimensions que t1 avec
+les contraintes suivantes : les lignes de t2 sont les colonnes de t1 et les colonnes de t2 sont les lignes de t1.
+Par quelle instruction faut-il remplacer la ligne en pointillées du code suivant ?
+for i in range(n):
+for j in range(n):
+......
+t1[i][j] = t2[j][i]
+t2[j][i] = t1[j][i]
+t1[j][i] = t2[i][j]
+t2[i][j] = t1[j][i]
+Question B.5
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Que fait alors l'instruction P[1]["âge"] = 25 ?
+elle modifie la valeur de la clé âge du deuxième élément de la liste P
+elle modifie la valeur de la clé âge du premier élément de la liste P
+elle donne la longueur de la liste P
+elle donne la longueur du premier élément de la liste P
+
+Question B.6
+On considère la fonction suivante :
+def somme(tab):
+s=0
+for i in range(len(tab)):
+......
+return s
+Par quelle instruction faut-il remplacer les points de suspension pour que l'appel somme([10,11,12,13,14])
+renvoie 60 ?
+s = tab[i]
+s = s + tab[i]
+tab[i] = tab[i] + s
+s=s+i
+
+Thème C : traitement de données en tables
+Question C.1
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C.2
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+a = 'matière
+b = 'moyenne'
+a=0
+b=1
+a=1
+b=0
+
+Question C.3
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à un
+tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C.4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C.5
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C.6
+On considère la liste de p-uplets suivante :
+table = [ ('Grace', 'Hopper', 'F', 1906),
+('Tim', 'Berners-Lee', 'H', 1955),
+('Ada', 'Lovelace', 'F', 1815),
+('Alan', 'Turing', 'H', 1912) ]
+où chaque p-uplet représente un informaticien ou une informaticienne célèbre ; le premier élément est son
+prénom, le deuxième élément son nom, le troisième élément son sexe (‘H’ pour un homme, ‘F’ pour une femme)
+et le quatrième élément son année de naissance (un nombre entier entre 1000 et 2000).
+On définit une fonction :
+def fonctionMystere(table):
+mystere = []
+for ligne in table:
+if ligne[2] == 'F':
+mystere.append(ligne[1])
+return mystere
+Que vaut fonctionMystere(table)?
+[‘Grace’, ‘Ada’]
+[('Grace', 'Hopper', 'F', 1906), ('Ada', 'Lovelace', 'F', 1815)]
+[‘Hopper’, ’Lovelace’]
+[]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+Question D.2
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D.3
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D.4
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D.5
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Question D.6
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E.2
+Dans le protocole de communication IP :
+Les données sont envoyées en une seule partie.
+Les données sont envoyées en plusieurs parties qui suivent le même itinéraire au sein du réseau.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination en respectant l’ordre de leur envoi.
+Les données sont envoyées en plusieurs parties qui suivent des itinéraires différents au sein du réseau et
+arrivent à destination dans un ordre quelconque.
+Question E.3
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E.4
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des répertoires et dossiers contenus
+dans le répertoire courant ?
+man pwd
+cd pwd
+ls -l
+man ls -l
+
+Question E.5
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens existants.
+Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+Question E.6
+Quel protocole permet d’attribuer dynamiquement une adresse IP ?
+UDP
+HTTP
+DHCP
+DNS
+
+Thème F : langages et programmation
+Question F.1
+On considère le code incomplet suivant, où la fonction maximum renvoie le plus grand élément d’une liste de
+nombres :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+..............
+..............
+Que faut-il écrire à la place des lignes pointillées ?
+if m < L[i]:
+L[i] = m
+
+if L[i-1] < L[i]:
+
+if L[i] < L[0]:
+L[i],L[0] = L[0],L[i]
+
+if L[i] > m:
+
+Question F.2
+On considère la fonction suivante :
+def comparaison(a,b):
+if a < b:
+return a
+else:
+return b
+Quel est le type de la valeur renvoyée par l'appel comparaison(6,5) ?
+un booléen (vrai/faux)
+un nombre entier
+un nombre flottant
+une chaîne de caractères
+
+Question F.3
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit 1 × 2 ×
+3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillée ci-dessous pour ce faire ?
+def factorielle(n):
+f=1
+.........
+f=f*i
+return f
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F.4
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i>m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F.5
+On définit la fonction suivante :
+def f(x,y):
+x=x+y
+y=x-y
+x=x-y
+return (x,y)
+Quel est la valeur renvoyée par l'appel f(2019,2020) ?
+(2019,2019)
+(2019,2020)
+(2020,2019)
+(2020,2020)
+
+Question F.6
+On considère le code suivant
+def moyenne(notes):
+somme = 0
+for cpt in range(len(notes)):
+....
+m = somme/len(notes)
+Par quoi remplacer la ligne en pointillée pour que cette fonction calcule la moyenne d'une liste de nombres ?
+somme = somme + notes[cpt]
+somme = notes[cpt]
+somme = cpt
+somme = somme + cpt
+
+Thème G : algorithmique
+Question G.1
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G.2
+Pour rendre la monnaie, il est possible d'utiliser un algorithme glouton.
+Une seule des affirmations suivantes est vraie :
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce ayant la plus grande
+valeur possible et en procédant ensuite par valeurs décroissantes.
+Avec un algorithme glouton, on rend la monnaie en commençant toujours par la pièce de plus petite valeur
+afin de maximiser le nombre de pièces rendues.
+Quel que soit le type de pièces dans un pays donné, un algorithme glouton donne toujours la monnaie de
+manière optimale.
+Un algorithme glouton procède en testant toutes les combinaisons possibles de pièces afin de trouver le
+rendu optimal.
+
+Question G.3
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+25002
+22500
+Question G.4
+On a représenté sur un quadrillage les éléments de quatre classes (chaque classe est représentée par un carré,
+un triangle, un losange ou un disque) ainsi qu’un nouvel élément X.
+
+X
+
+En appliquant l'algorithme des k plus proches voisins pour la distance usuelle dans le plan, avec k=5, à quelle
+classe est affecté le nouvel élément X ?
+la classe des carrés
+la classe des triangles
+la classe des losanges
+la classe des disques
+Question G.5
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+
+Question G.6
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L

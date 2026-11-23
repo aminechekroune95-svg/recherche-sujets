@@ -1,0 +1,477 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1911538, "at": "2026-11-23T09:43:01+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+On considère l'extrait de code suivant :
+while (a < 20) or (b > 50):
+......
+......
+Quelles conditions permettent de mettre fin à cette boucle ?
+la boucle prend fin lorsque a < 20 ou b > 50
+la boucle prend fin lorsque a < 20 et b > 50
+la boucle prend fin lorsque a >= 20 ou b <= 50
+la boucle prend fin lorsque a >= 20 et b <= 50
+Question A.2
+Quelle est l'écriture binaire, en complément à deux sur 8 bits, de l'entier négatif –7 ?
+- 0000 0111
+1000 0111
+1111 1000
+1111 1001
+Question A.3
+Sur une page web qui s’affiche sur notre navigateur on peut lire : « En consÃ©quence, l'AssemblÃ©e Nationale
+reconnaÃ®t et dÃ©clare, en prÃ©sence [...] »
+Quelle peut être la cause des affichages étranges de cette page ?
+l'encodage des caractères n'est pas celui attendu par le navigateur
+le texte original est en japonais
+la taille des caractères n'est pas celui attendu par le navigateur
+la connexion à Internet présente des coupures
+Question A.4
+Parmi les noms suivants, lequel n'est pas celui d'une méthode d'encodage des caractères ?
+UTF-16
+ASCII
+Arial
+Unicode
+
+Question A.5
+Comment s'écrit le nombre −42 en binaire, sur 8 bits, en complément à 2 ?
+-0010 1010
+1010 1011
+1101 0101
+1101 0110
+Question A.6
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de 0
+en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+
+Thème B : types construits
+Question B.1
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+]
+
+Quelle expression permet d'accéder au poste d'Éric ?
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+Question B.2
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B.3
+Quelle est la valeur de la variable r à la fin de l'exécution du script suivant ?
+t = (10,6,1,12,15)
+r = t[3] - t[1]
+-9
+
+Question B.4
+On définit la fonction suivante :
+def f(x,y):
+if x > y:
+return y,x
+return x,y
+Quelle est la valeur renvoyée par l'appel f(42,21) ?
+(21, 42)
+(21, 21)
+(42, 21)
+(42, 42)
+Question B.5
+On dispose du dictionnaire suivant :
+D = {0: 7, 1: 4, 25: 8, 16: 16, 4: 32}
+On crée une liste L après les lignes suivantes ?
+L = [ 2, 3, 4, 5, 7, 8 ]
+h(L,0,2)
+h(L,3,5)
+h(L,0,5)
+[8, 7, 5, 4, 3, 2]
+[2, 3, 4, 5, 7, 8]
+[4, 3, 2, 8, 7, 5]
+[5, 7, 8, 2, 3, 4]
+Question B.6
+On définit ainsi le tableau t = [[1,5,7], [8,4,2], [3,9,6]]
+Quel jeu d'indices permet d'obtenir l'élément "9" de ce tableau ?
+t[3][2]
+t[2][3]
+t[1][2]
+t[2][1]
+
+Thème C : traitement de données en tables
+Question C.1
+Soit la table de données suivante :
+nom
+prenom
+date_naissance
+Dupont Pierre
+17/05/1987
+Dupond Catherine 18/07/1981
+Haddock Archibald 23/04/1998
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C.2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C.3
+asso = []
+L = [ ['marc','marie'],
+['marie','jean'],
+['marie','marie'],
+['marc','anne']
+]
+for c in L :
+if c[1]==’marie’:
+asso.append(c[0])
+
+['paul','marie'],
+
+Que vaut asso à la fin de l'exécution ?
+['marc', 'jean', 'paul']
+[['marc','marie'], ['paul','marie'], ['marie','marie']]
+['marc', 'paul', 'marie']
+['marie', 'anne']
+Question C.4
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+
+Question C.5
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.6
+a
+b
+c = a + b
+
+[1,
+[4,
+
+2,
+5,
+
+3]
+6]
+
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Voici un formulaire contenu dans une page HTML :
+<form action="traitement.php" method="get">
+<label for="nom">Classe:</label>
+<input type="text" id="nom" name="leNom" />
+<label for="effectif">Effectif:</label>
+<input type="number" id="effectif" name="n" />
+<button type="submit">Go!</button>
+</form>
+Un utilisateur remplit le formulaire comme suit :
+
+Quelle est l'adresse de la page obtenue lorsque l'utilisateur clique sur le bouton Go! ?
+traitement.php?leNom=Seconde B&n=35
+traitement.php?leNom=Seconde+B&n=35
+traitement.php?nom=Seconde+B&effectif=35
+traitement.php
+Question D.2
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un formulaire
+en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+
+Question D.3
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+Question D.4
+Comment doit-on procéder pour insérer des instructions en javascript dans un fichier html ?
+Il suffit de mettre les instructions entre les balises <javascript> et </javascript>
+Il faut utiliser une balise <script>
+Il faut les insérer dans le fichier CSS
+Il est inutile de mettre des balises spéciales
+Question D.5
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D.6
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser tout type de données
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+Question E.2
+Parmi ces propositions, laquelle désigne un système d'exploitation libre ?
+LibreOffice
+Windows
+MacOS
+GNU-Linux
+Question E.3
+À partir du répertoire ~/Perso/Doc quelle commande permet de rejoindre le répertoire ~/Public ?
+cd ./Public
+cd ../Public
+cd ././Public
+cd ../../Public
+Question E.4
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+Question E.5
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+
+Question E.6
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, trois répertoires nommés :
+JAVA, PYTHON et PHP ?
+mkdir JAVA, PYTHON, PHP
+mk -dir JAVA PYTHON PHP
+mkdir JAVA PYTHON PHP
+mk dir JAVA PYTHON PHP
+
+Thème F : langages et programmation
+Question F.1
+Remplacer les pointillés par l'expression correcte pour que la fonction suivante renvoie le plus petit écart entre
+deux éléments d'une liste de 10 entiers :
+def plusPetitEcart(L):
+m = abs(L[1] - L[0])
+for i in range(0, 9):
+for j in ...... :
+ecart = abs(L[j] - L[i])
+if ecart < m:
+m = ecart
+return m
+range(0,10)
+range(0,i)
+range(i,10)
+range(i+1,10)
+Question F.2
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+
+Question F.3
+On considère le code suivant :
+if x < 4:
+x = x + 3
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+
+Question F.4
+La documentation de la bibliothèque random de Python précise :
+random.randint(a,
+Renvoie un entier aléatoire N tel que a <= N <= b.
+
+b)
+
+Quelle est l’expression Python permettant de simuler le tirage d’un dé à 6 faces après avoir exécuté import
+random ?
+random.randint(6)
+random.randint(1,6)
+random.randint(1,7)
+random.randint(0,6)
+Question F.5
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a = 1
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+
+Question F.6
+On exécute le script Python suivant :
+def cube(a):
+a = a*a*a
+return a
+a = 2
+b = cube(a)
+Que vaut le couple (a,b) à la fin de l'exécution ?
+(8, 8)
+(8, 2)
+(2, 2)
+(2, 8)
+
+Thème G : algorithmique
+Question G.1
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G.2
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+Question G.3
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+
+Question G.4
+La fonction suivante doit déterminer la valeur maximale d'un tableau de nombres passé en argument. Avec
+quelles expressions faut-il remplacer les pointillés du script suivant pour que la fonction soit correcte ?
+def maximum(T):
+maxi = T[0]
+n = len(T)
+for i in range(i, .....):
+if T[i] > maxi:
+maxi = ......
+return maxi
+n puis T[i]
+n puis T[i-1]
+n-1 puis T[i]
+n-1 puis T[i-1]
+Question G.5
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G.6
+On considère la fonction suivante :
+def
+indexResultat
+for
+i
+if
+indexResultat=i
+return indexResultat
+
+in
+phrase[i]==
+
+trouverLettre(phrase,lettre):
+range(len(phrase)):
+lettre:
+
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+"e"

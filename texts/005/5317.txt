@@ -1,0 +1,429 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1756002, "at": "2026-11-23T09:26:25+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Modéliser les mouvements
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice
+avec mode examen devront l’activer le jour des épreuves et les calculatrices
+dépourvues de mémoire seront autorisées. Ainsi tous les candidats
+composeront sans aucun accès à des données personnelles pendant les
+épreuves.
+SUJET SI-E3C-20-02
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 2 à 5
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 6 à 8
+
+Documents réponses ................................................... Pages 9 à 10
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés
+en durée et en difficulté, qui s'appuient sur un produit unique.
+
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation de la trottinette électrique M365
+
+Figure 1 : cas d’utilisation
+
+Figure 2 : IBD de la trottinette m365
+
+Figure 3 : Exigences de la trottinette m365
+Le sujet porte sur l’étude des capacités de mobilité de la trottinette électrique M365.
+
+EXERCICE 1 : ÉTUDE D'UNE PERFORMANCE DE LA TROTTINETTE
+Problématique : L’utilisation de la trottinette sur un parcours réel vérifie-t-elle les
+exigences d’autonomie du constructeur ?
+La trottinette M365 est dotée d’un système de récupération d’énergie cinétique (KERS)
+qui s’enclenche automatiquement lorsque l’accélérateur est relâché. Le moteur est
+utilisé, dans ce cas, en générateur d’énergie et sert de frein magnétique. Cela a pour
+conséquence de ralentir la trottinette et de produire de l’électricité afin de recharger la
+batterie.
+Afin de tester l’autonomie de la trottinette sur un parcours réel, un protocole
+expérimental a cherché à mettre en évidence la récupération d’énergie dans les
+phases de ralentissement.
+
+Description de la boucle réalisée par un usager de 75 kg avec sa trottinette est décrite
+sur le DR1 et sur la figure 4.
+
+D
+
+A
+
+C
+
+B
+
+Figure 4 : plan de la boucle
+Vitesse en m·s-1
+
+600 700 800
+Distance en m
+
+1000 1100 1200 1300 1400
+
+Figure 5 : Vitesse, altitude et distance parcourue
+
+Altitude en m
+
+86; 94
+
+180; 94
+
+Altitude en m
+
+Altitude réelle
+
+Modele altitude
+
+3; 70
+
+250; 70
+
+Temps en s
+
+Figure 6 : Altitude réelle et simplifiée.
+Étude des conséquences de l’utilisation de la trottinette sur sa consommation.
+Question I.1 Compléter le tableau 1 du document réponse 1 avec les profils du
+parcours (plat, montée ou descente) et qualifier la valeur de la
+Figures
+vitesse moyenne (élevée ou faible) sur la distance comprise entre 0
+5 et 6
+et 312 m et la cause justifiant la valeur de vitesse moyenne sur cet
+intervalle [0, 312].
+
+Intensité en A
+
+Modele intensité
+
+-2
+-4
+-6
+
+Intensité réelle
+222s; 15A
+
+I1
+
+I4
+86s; 9,5A
+
+I2
+
+I3
+158s; -3A
+
+Phase:
+
+Temps en s
+
+233s; -3A
+
+Figure 7 : Courant consommé (modélisé et réel) pendant les phases 1 à 5.
+À l’approche du carrefour D, un freinage est nécessaire afin de ralentir et d’aborder
+ce carrefour en toute sécurité. À la sortie du carrefour D (t = 222 s), une accélération
+est effectuée, cela induit une « demande » d’intensité électrique pour alimenter le
+moteur (phase 4) afin d’atteindre une vitesse convenable.
+Question I.2 Pour les phases 1 à 3, reporter les valeurs des intensités modélisées
+dans le tableau 2 du DR1. De manière qualitative, justifier que la
+Figures 6 et 7
+consommation de courant est plus élevée en montée que sur du plat et
+que la consommation de courant peut être négative lors de la
+descente.
+La quantité d’électricité consommée (Qconso) par le moteur correspond à la somme
+des produits, phase par phase, de l’intensité par le temps de chaque phase
+consommatrice de courant. Ainsi on obtient Qconso =2225 C.
+Question I.3
+Figure7
+
+Calculer en Coulomb, la quantité d’électricité produite (Qproduite) par le
+frein magnétique pendant les phases génératrices de courant qui
+recharge la batterie ainsi que le bilan de la quantité totale d’électricité
+effectivement nécessaire (Qtotale) pour effectuer le parcours complet.
+Quantifier le rapport Qproduite sur Qconso en pourcentage sur le parcours
+complet.
+
+Étude de l’autonomie de la trottinette sur un parcours réel.
+Pour la suite de l’étude, on prendra Qtotale = 1982 C. On rappelle que 1 A·h = 3600 C.
+Question I.4
+Figure 3 et 5
+
+A partir de la charge complète de la batterie (voir les caractéristiques de la
+batterie figure 3), déterminer le nombre de parcours test que pourrait
+parcourir la trottinette. A partir de la distance parcourue lors du test
+(figure 5), déterminer la distance totale (en parcours test) pouvant être
+couverte par la trottinette avec une batterie complètement chargée.
+
+Question I.5 Comparer cette distance à celle annoncée dans le cahier des charges et
+conclure sur l’intérêt pour l’autonomie de la trottinette du système de
+récupération d’énergie cinétique (KERS) sur un parcours test représentatif
+du réel.
+
+COMMANDE
+DU
+FONCTIONNEMENT
+MODIFICATION DE SON COMPORTEMENT
+
+DU
+
+PRODUIT
+
+OU
+
+Des accidents récents mettant en cause les trottinettes électriques ont
+nécessité une évolution de la loi sur leur utilisation.
+L’article 3 du décret n° 2019-1082 du 23 octobre 2019 relatif à la réglementation
+des engins de déplacement personnel (E.D.P.) motorisé (non thermique)
+impose une vitesse maximale de 25 kmh-1.
+La trottinette Xiaomi M365 ne dispose pas d’éléments structurels d’acquisition de
+vitesse linéaire.
+
+Problématique : Comment faire pour mesurer et limiter la vitesse conformément à la
+nouvelle réglementation ?
+Une solution économique envisagée serait de placer une détection à base d’I.L.S
+(Interrupteur à Lamelle Souple) dans la roue arrière.
+L’I.L.S. se présente sous la forme de 2 lamelles magnétiques sous verre qui en
+présence d'un aimant ouvre ou ferme un contact.
+
+Pour chaque tour de roue, une impulsion est générée lors du passage de l’I.L.S.
+devant l’aimant.
+
+t (ms)
+
+Question II.1
+Figure 8
+
+D’après le chronogramme issu d’une mesure en sortie du capteur
+I.L.S. de la figure 8, relever les durées th, tb et T.
+En déduire la vitesse de rotation Nroue de la roue de la trottinette en
+tr·s-1.
+
+Pour rappel :
+– ω = 2 × π × Nroue avec Nroue = 16,7 tr·s-1 ( prendre cette valeur quelque soit la
+valeur calculée au II.1.).
+– Les roues ont un diamètre de 8,5 pouces soit 216 mm.
+
+Question II.2
+
+Déterminer par le calcul, la vitesse linéaire V de la trottinette en
+km·h-1.
+Sous-programme de mesure de la vitesse
+
+Lire
+capteur
+
+Compteur = 0
+
+capteur ILS
+=1?
+
+Tant que
+capteur ILS = 1
+
+Compteur= Compteur + 1
+
+Tant que capteur ILS = 0
+Compteur= Compteur + 1
+
+Figure 9
+
+L’algorigramme figure 9 permet de mesurer la vitesse en déterminant la période sur le
+capteur ILS. La première instruction « tant que » permet de calculer le temps à l’état
+
+haut th et la deuxième instruction « tant que » permet de calculer le temps à l’état bas
+tb.
+Question II.3
+Figure
+Figure
+
+À partir du chronogramme figure 8 et de l’algorigramme figure
+9, déterminer la valeur de compteur à la fin d’exécution du
+sous-programme « mesure de la vitesse ».
+-3
+
+Sachant que T = compteur × 0,1× 10 , calculer la période T
+du signal fourni par l’ILS en seconde.
+
+Une étude cinématique a permis d’affirmer que pour une vitesse de la trottinette de
+25 km·h-1 (vitesse maximum imposée par la réglementation), la vitesse de rotation de
+roue est Nroue= 10 tr·s-1.
+Question II.4
+DR2
+
+Calculer la période du signal fourni par l’ILS pour la vitesse linéaire de la trottinette
+de 25 km·h-1. En déduire le valeur du compteur (document réponse 2) pour la
+vitesse maximum imposée par la réglementation de 25 km·h-1
+
+La commande pour la variation du moteur est effectuée grâce à la variable var_mot.
+
+Question II.5
+Figure 10
+
+Question II.6
+DR 2
+
+À partir de la courbe figure 10, déterminer l'équation de Nroue en
+fonction de var_mot et calculer la valeur exacte de var_mot pour
+Nroue=10 tr·s-1 .
+
+Sur le document réponse DR2, compléter les éléments (a) et (b) dans
+le nouveau sous programme mesure de vitesse afin de répondre à la
+problématique et ne pas dépasser 25 km·h-1. Conclure sur la
+possibilité du contrôle de la vitesse maximum par une implantation
+d’une nouvelle programmation.
+
+DOCUMENTS RÉPONSES
+DR1 :
+Tableau 1 :
+
+Déroulé du parcours test à la vitesse moyenne de 16 km·h-1
+Phase
+
+Profil
+Position Temps en s Accélérateur Freinage
+départ A
+312 m
+carrefour B
+moyen
+406 m
+inactif
+865 m
+carrefour C
+1000 m
+1194 m
+nul
+carrefour D
+actif
+1300 m
+inactif
+1392 m
+nul
+arrivé A
+actif
+
+Vitesse
+
+Causes
+
+……………
+
+approche du
+carrefour B
+
+Plat
+
+carrefour C
+
+Descente
+
+approche du
+carrefour D en
+descente
+
+Descente
+
+Tableau 2 :
+Relevé des intensités par phase et quantités d’électricité.
+
+Intensité
+modélisée Durée en
+Phase en Ampère seconde
+
+-3
+
+Quantité d'électricté en Coulomb
+consommée par le
+moteur
+
+Qconso=2225 C
+
+produite par le frein
+magnétique
+
+Qproduite à déterminer
+
+totale effectivement
+necessaire
+
+Qtotale à déterminer
+
+DR2 : nouveau sous programme mesure de vitesse
+Compteur = 0
+Tant que
+capteur ILS = 1
+
+Compteur= Compteur +1
+
+Tant que capteur
+ILS =0
+Lire capteur ILS
+Compteur= Compteur +1
+
+Compteur <….. (a)?
+
+Ecrire ….....(b) ?
+var_mot
+
+Sous programme
+calcul de var_mot
+en fonction de
+compteur

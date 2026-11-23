@@ -1,0 +1,192 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1093129, "at": "2026-11-23T09:33:58+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+LA NUMÉRISATION ET LE STOCKAGE D’UN SON
+Cet exercice s’intéresse à différents aspects de la numérisation d’un son et du
+stockage du fichier obtenu.
+Partie A. Échantillonnage et quantification.
+1- Une plateforme de service de musique en ligne propose de la musique en qualité
+« 16-Bit/44.1 kHz ». Expliquer ce que cela signifie.
+2- Pour chacune des propositions suivantes, recopier sur la copie la réponse qui
+convient :
+2-a- Pour échantillonner à 20 000 Hz un signal audio analogique, quelle est la durée
+de l’intervalle de temps entre deux mesures de la tension du signal audio ?
+5 × 10−5 s
+
+5 × 10−4 s
+
+5 × 10−3 s
+
+2 × 10−4 s
+
+2-b- Lorsqu’on quantifie un échantillon sur 24 bits, combien de niveaux de tension
+différents a-t-on la possibilité de coder ?
+2 × 24 = 48
+
+242 = 576
+
+224 = 16 777 216
+
+2-c- Dans cette question, on s’appuie sur le document 1 fourni en annexe.
+Parmi les choix ci-dessous, quelle est la fréquence d’échantillonnage choisie pour le
+signal audio représenté ?
+2 000 Hz
+
+12 500 Hz
+
+26 000 Hz
+
+44 100 Hz
+
+3- Cette question s’appuie également sur le document 1 fourni en annexe.
+On procède à la quantification, par codage sur 3 bits, des valeurs de la tension
+obtenues après l’échantillonnage du signal audio. Après quantification, la tension
+(exprimée en volt), peut prendre pour valeurs les 8 nombres entiers relatifs compris
+entre – 4 et +3, la valeur quantifiée d’une tension étant l’entier le plus proche de cette
+tension.
+Sur le document 1 de l’annexe, à rendre avec la copie, représenter la courbe des
+tensions après échantillonnage et quantification
+
+Partie B. Taille de fichier
+La taille T(en bit) d’un fichier audio numérique s’exprime en fonction de la fréquence
+d’échantillonnage 𝑓𝑒 (en Hertz), du nombre 𝑛 de bits utilisés pour la quantification, de
+la durée Δ𝑡 de l’enregistrement et du nombre 𝑘 de voies d’enregistrement (une en
+mono, deux en stéréo) selon la relation :
+𝑇 = 𝑓𝑒 × 𝑛 × Δ𝑡 × 𝑘
+Dans un studio d’enregistrement, on enregistre un morceau de musique en stéréo en
+choisissant un encodage sur 24 bits et une fréquence d’échantillonnage de 192 kHz.
+4- Vérifier que l’espace de stockage nécessaire pour enregistrer une seconde de
+musique avec cette qualité est de 1,152 Mo.
+5- Avec 200 Mo de stockage, dispose-t-on de suffisamment d’espace pour
+enregistrer un fichier contenant un morceau de musique de cinq minutes dans cette
+qualité ?
+6- Le dispositif d’encodage et de compression FLAC (Free Lossless Audio Codec)
+permet de compresser le fichier obtenu à la question précédente avec un taux de
+compression de 45 %. Avec 200 Mo de stockage, dispose-t-on de suffisamment
+d’espace pour enregistrer ce fichier compressé ?
+On rappelle que le taux de compression est le quotient de la taille du fichier
+compressé par la taille du fichier initial.
+EXERCICE 2
+LES ANTIBIOTIQUES ET LEUR ABSORPTION PAR LA PAROI INTESTINALE
+L’ampicilline est un antibiotique qui détruit une grande variété de bactéries. Ingéré
+par voie buccale, ce médicament doit traverser la paroi intestinale pour agir dans
+l’organisme. L’ampicilline présente une capacité moyenne d’absorption par les
+cellules intestinales (de l’ordre de 40 %) alors que la pivampicilline, un de ses
+dérivés, est absorbée à 98 %, ce qui la rend plus efficace.
+On cherche à comprendre la différence d’absorption entre ces deux antibiotiques,
+par les cellules intestinales.
+Partie A. Étude de la structure de la paroi intestinale
+Les avancées techniques, comme l’invention du microscope électronique, ont permis
+une meilleure compréhension de l’organisation du vivant, notamment de la structure
+cellulaire. En effet, cet outil présente un pouvoir de résolution pouvant aller
+jusqu’à 0,5 nm.
+
+Document 1. Jonction entre deux entérocytes (en micrographie électronique)
+Microvillosités Voir doc 2.
+
+La paroi intestinale est constituée de
+cellules (appelées entérocytes) qui
+sont jointives et bordées par replis
+appelés microvillosités qui assurent
+l’absorption intestinale.
+Les jonctions rendent étanche
+l’espace entre deux cellules et
+empêche le passage des
+antibiotiques entre les cellules.
+
+D’après « Différenciations morphologiques
+de la membrane »
+(Dr A. Dekkar).
+
+Document 2. Détail de la bordure d’un entérocyte (cellule de la paroi intestinale)
+Du côté de la lumière de l’intestin (cavité dans laquelle se déroule la digestion), la
+membrane plasmique de l’entérocyte forme des replis appelés microvillosités. Les
+microvillosités sont de même diamètre (0,1 µm), de même longueur, et sont
+disposées parallèlement de façon très ordonnée. Cette augmentation de la surface
+d’échange avec l’intérieur du tube digestif favorise une meilleure absorption des
+nutriments.
+Lumière
+de l’intestin
+
+Microvillosités
+
+Source : bio.m2osw.com/gcartable/enterocyte.html
+
+La forme d’une microvillosité correspond à un cylindre dont la surface S peut se
+calculer selon la formule suivante :
+S= 2πRL
+L : Longueur totale de la microvillosité.
+R : Rayon du cercle à l’intérieur de la microvillosité.
+1- Calculer la surface d’une microvillosité
+2- Sachant qu’il existe, en moyenne, 60 microvillosités par µm² de surface de paroi
+intestinale, calculer la surface de l’ensemble des microvillosités pour un µm².
+3- Justifier l’utilisation du microscope électronique pour comprendre l’organisation
+des entérocytes.
+Partie B. Intérêt de la transformation de l’ampicilline en pivampicilline
+Afin de comprendre comment les antibiotiques peuvent être absorbés au niveau du
+tube digestif et traverser la cellule intestinale, nous allons nous intéresser à la
+membrane plasmique de l’entérocyte.
+
+Document 3. Propriétés des phospholipides présents au niveau de la membrane
+plasmique de l’entérocyte
+
+Les molécules qui constituent la
+membrane plasmique sont des
+phospholipides. Ils possèdent
+des propriétés particulières du
+fait de leur structure en deux
+parties.
+La partie lipophile est
+responsable de l’imperméabilité
+relative de la membrane aux
+molécules hydrophiles.
+
+Partie hydrophile
+
+Partie lipophile
+
+Exemple de phospholipide membranaire (D’après
+Wikipédia).
+
+4- Schématiser la membrane plasmique.
+Document 4. Présentation des deux antibiotiques
+L’ampicilline possède un groupe hydrophile alors que la pivampicilline possède un
+groupe lipophile.
+Structure simplifiée de l’ampicilline :
+
+Structure simplifiée de la pivampicilline :
+
+5- À partir des documents 3 et 4 et de vos connaissances sur la membrane
+plasmique, proposer une explication possible aux différences d’absorption et
+d’efficacité entre ces deux antibiotiques.
+
+Annexe à rendre avec la copie
+EXERCICE : Numérisation et stockage d’un son
+
+Question 3
+Tension (en volt) d’un signal audio analogique en fonction du temps (en seconde).
+Les mesures d’échantillonnage sont réalisées aux instants repérés par les lignes
+verticales rouges.

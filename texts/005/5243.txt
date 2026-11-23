@@ -1,0 +1,289 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1075879, "at": "2026-11-23T09:23:32+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Qui peut griller une tranche de pain en pédalant ? (10 points)
+Un court-métrage de l’Académie des arts de Suède a attiré l’attention de plus de 1 million
+d’internautes. Il présente un défi soumis à Robert Förstemann, un coureur cycliste
+allemand de presque 100 kg, spécialiste de la piste. Le défi qui lui était proposé consistait
+à faire griller une tranche de pain avec la seule énergie qu’il produisait en pédalant avec
+ses impressionnantes cuisses de 74 centimètres de circonférence.
+L’énergie musculaire du cycliste est transformée en électricité grâce à une dynamo
+actionnée par la rotation du pédalier. L’ensemble alimente un grille-pain. Pour que
+l’appareil fonctionne, il faut que le champion produise une puissance de 700 W. Au départ,
+Robert semble sûr de lui. Au fil du test, le rythme cardiaque de l’athlète augmente, son
+souffle s’accélère et son visage se creuse sous l’intensité de l’effort qu’il produit. Deux
+minutes plus tard, le cycliste a fourni au grille-pain 0,021 kWh (76 kJ) suffisant pour sortir
+une tranche légèrement brunie. Le cycliste s’effondre, incapable de continuer, et s’allonge
+sur le sol pour récupérer de l’intense effort qu’il vient de produire.
+D’après Le Monde (Roland Lehoucq - 14/07/15)
+L’objectif de cet exercice est d’étudier la
+performance physique de Robert Förstemann en la
+comparant avec la consommation énergétique d’un
+grille-pain. Enfin, on cherche à évaluer la quantité de
+sucre à ingérer pour compenser l’énergie fournie lors
+de cet effort.
+http://cycling.today/
+
+1. Performance de Robert Förstemann
+1.1. Schématiser la chaîne énergétique de la dynamo du vélo utilisé par Robert
+Förstemann. On suppose que le rendement de cette dynamo n’est pas de 100 %.
+1.2. Le grille-pain est conçu pour fonctionner normalement sous une tension de 230 V et
+pour fournir une puissance de 700 W. Montrer que la valeur de l’intensité du courant qui
+traverse le grille-pain en fonctionnement normal est d’environ 3 A.
+1.3. Nommer l’effet responsable de l’élévation de température dans le grille-pain.
+Déduire de la question précédente la valeur de la résistance R du circuit électrique de
+cet appareil.
+Une simulation de la caractéristique du circuit électrique du grille-pain est donnée cidessous. Elle relie la tension U appliquée à l’intensité du courant électrique I qui traverse
+le circuit électrique du grille-pain.
+30,0
+
+tension U (V)
+
+25,0
+20,0
+15,0
+10,0
+5,0
+0,0
+
+intensité du courant I (mA)
+
+1.4. Indiquer la loi qui modélise la caractéristique du circuit électrique du grille-pain,
+retrouver la valeur de la résistance du circuit électrique du grille-pain et comparer le
+résultat à celui de la question précédente.
+1.5. À partir des données contenues dans l’article du Monde, déterminer la valeur de la
+puissance moyenne fournie par Robert Forstemann. Estimer, en prenant R = 76 Ω, la
+valeur moyenne de la tension et de celle de l’intensité du courant de fonctionnement du
+grille-pain durant la performance. Commenter.
+1.6. Estimer, en effectuant un bilan énergétique, la valeur de la vitesse maximale que
+pourrait atteindre le cycliste à vélo initialement immobile en 5 secondes sur un terrain
+plat en développant une puissance de 630 W. Commenter.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie, même si
+elle n’a pas abouti. La démarche est évaluée et nécessite d’être correctement présentée.
+
+2. Récupérer après l’effort
+Après un effort intense, tel que celui fourni par Robert Förstemann, l'organisme a besoin
+de glucides simples tels que le saccharose, appelés sucres rapides, disponibles
+rapidement pour reconstituer les ressources en énergie de l'organisme. Dans cette partie,
+nous cherchons à déterminer la quantité nécessaire de sucre (saccharose) à ingérer pour
+récupérer après l’effort fourni par Robert Förstemann.
+Le saccharose, sucre de table habituel, est un composé organique de formule brute
+C12H22O11. Son assimilation par l’organisme s’effectue après son hydrolyse (réaction avec
+l’eau du saccharose) qui forme du glucose et du fructose, deux sucres de même formule
+brute.
+La molécule de glucose peut adopter une configuration à chaîne ouverte ou cyclique,
+comme l’illustre les deux représentations du glucose suivantes :
+
+D’après http://www.societechimiquedefrance.fr/saccharose.html
+Données :
+1 cal = 4,18 J ;
+masses molaires atomiques (en g.mol-1) : M(O) = 16 ; M(C) = 12 ; M(H) = 1 ;
+une boîte de sucre de masse nette m = 1,0 kg contient 168 morceaux ;
+l’énergie molaire fournie par la combustion (oxydation complète) du saccharose est
+5,8×106 J·mol-1 ;
+bandes d’absorption IR de quelques liaisons chimiques :
+famille
+
+liaison
+
+nombres d’onde (cm1)
+
+cétone
+
+1705 - 1725
+
+aldéhyde
+
+Ctri – H
+
+2700 -2900
+
+1720 - 1740
+
+acide
+carboxylique
+
+O–H
+
+2500 - 3200
+
+1740 - 1800
+
+ester
+
+1730 - 1750
+
+O – Hlié
+
+3200 - 3450
+
+O – Hlibre
+
+3600 - 3700
+
+alcool
+
+2.1. Le spectre infrarouge obtenu par analyse d’un échantillon de glucose est fourni cidessous. Déduire de ce spectre la configuration majoritaire du glucose dans
+l’échantillon étudié. Justifier.
+
+Transmita
+nce %
+
+%
+
+4000
+
+3000
+
+2000
+
+1500
+
+Nombre
+d’onde cm-1
+1000
+
+D’après Nationnal Institute of Advanced Industrial Science and technology –
+htpp://sdbs.aist.go.jp
+2.2. Écrire l’équation de la réaction modélisant l’hydrolyse du saccharose.
+2.3. Vérifier que l’oxydation complète d’un morceau de sucre libère une énergie
+d’environ 24 kcal.
+2.4. En déduire la quantité de sucre que Robert Förstemann doit ingérer pour
+compenser l’effort réalisé en supposant que l’énergie musculaire a été intégralement
+transférée au grille-pain. Commenter.
+
+PARTIE B
+Synthèse d’un ester et convoyage de médicaments (10 points)
+I. Synthèse de l’éthanoate de benzyle au laboratoire
+Le jasmin est un arbuste originaire d’Inde, très cultivé dans les régions chaudes. L’odeur de
+fleur de jasmin correspond à la combinaison de plusieurs espèces chimiques et entre dans la
+composition de nombreux parfums. L’une des espèces responsables de la senteur du jasmin
+est l’éthanoate de benzyle. Cet ester est préparé par action de l'acide éthanoïque sur l'alcool
+benzylique ; cette transformation est non totale, lente et un catalyseur, l’acide sulfurique, est
+ajouté pour la rendre plus rapide.
+Données :
+- Propriétés physico-chimiques des espèces mises en jeu :
+Espèces
+Alcool
+Acide
+Éthanoate
+chimiques
+benzylique
+éthanoïque
+de benzyle
+Formule brute
+C7H8O
+C2H4O2
+C9H10O2
+Masse molaire
+108,0
+60,0
+150,0
+-1
+(g.mol )
+Masse volumique 1,05
+1,05
+1,06
+-1
+(g.mL )
+Solubilité dans
+Faible
+très grande
+très faible
+l’eau
+Solubilité dans
+plus faible
+très grande
+insoluble
+l’eau salée
+que dans
+l’eau
+
+Eau salée
+saturée
+
+1,20
+
+Protocole de synthèse mis en œuvre :
+a. Sous la hotte, muni de gants et de lunettes, introduire 15 mL d'acide éthanoïque,
+12 mL d'alcool benzylique, quelques gouttes d'acide sulfurique concentré et quelques
+grains de pierre ponce dans un ballon. Chauffer à reflux ce mélange pendant
+30 minutes. Laisser refroidir.
+b. Introduire dans l’ampoule à décanter le mélange réactionnel et 50 mL d’une solution
+saturée de chlorure de sodium. Agiter puis laisser décanter. Récupérer la phase qui
+contient l’éthanoate de benzyle (phase organique).
+c. Sécher la phase organique en y ajoutant quelques cristaux de sulfate de magnésium
+anhydre.
+d. Vérifier la pureté du produit obtenu par spectroscopie infrarouge.
+1. Nommer chacune des 4 étapes du protocole notées de a à d.
+2. Quel est l’intérêt du montage à reflux?
+3. Schématiser et légender l’ampoule à décanter après décantation, en précisant la
+composition de chaque phase. Justifier la position relative des phases.
+
+4. Écrire l’équation de la réaction modélisant la synthèse de l’éthanoate de benzyle sachant
+qu’il se forme également de l’eau.
+5. On obtient 6,0 g d’éthanoate de benzyle analysé comme pur. Déterminer la valeur du
+rendement de la synthèse. Commenter cette valeur.
+
+II. Système de convoyage pour les médicaments
+Dans une pharmacie, afin d’optimiser la durée de délivrance des médicaments, un
+toboggan est installé entre le premier étage et le rez-de-chaussée. Un robot combiné à un
+automate dispose le médicament sur un tapis roulant, en fonction des commandes. Le
+pharmacien réceptionne le produit à l’étage inférieur pour le donner au client. Le schéma
+du dispositif est représenté ci-dessous.
+
+A
+
+B
+
+C
+
+D
+
+On considère une boîte de médicament de masse 300 g placée sur un tapis. Elle est
+modélisée par un point matériel de centre d’inertie G. Le trajet parcouru par la boîte est
+divisé en 3 parties :
+- une surface horizontale AB. Il s’agit d’un tapis roulant permettant de faire avancer la
+boîte de médicament à une vitesse constante v0 = 0,3m.s-1 ;
+- Un plan incliné BC de longueur 1,58 m et formant un angle 𝜶 = 55°avec l’horizontale.
+La valeur de la force F modélisant les frottements exercés sur la boîte de médicaments
+sur cette portion est F = 0,30N ;
+- Une portion de C à D où la boîte est en chute libre, dans un panier au point D.
+On néglige l’action exercée par l’air. L’intensité du champ de pesanteur terrestre vaut
+g = 9,81 N.kg-1.
+6. Effectuer le bilan des actions modélisées par des forces s’exerçant sur la boîte de
+médicaments sur les différents trajets entre A et D.
+
+7. Que peut-on dire des forces s’exerçant sur la boîte entre les points A et B ?
+8. Sur le trajet BC.
+8.1. Schématiser, sur l’annexe à rendre avec la copie, les forces qui s’exercent sur
+la boîte de médicament, sans souci d’échelle.
+8.2. Donner l’expression littérale du travail de chaque force.
+8.3. En utilisant le théorème de l’énergie cinétique, donner l’expression littérale de la
+vitesse vC de la boîte de médicaments lorsqu’il arrive en C puis calculer sa
+valeur.
+9. La boîte est réceptionnée dans un panier situé à un hauteur h sous le point C.
+Indiquer, sans faire de calculs, les paramètres sur lesquels on peut jouer pour que la boîte
+de médicament ne soit pas déformée à la réception.
+
+Annexe à rendre avec la copie
+Question 8.1
+
+A
+
+B
+
+𝜶
+C
+
+D

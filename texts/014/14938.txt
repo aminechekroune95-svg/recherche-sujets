@@ -1,0 +1,172 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1176313, "at": "2026-11-23T09:21:55+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 8
+PARTIE A
+Frottements fluides (10 points)
+Le frottement de l’air sur une voiture ou de l’eau sur une coque de bateau sont deux situations
+parmi d’autres qui illustrent les frottements fluides. De façon générale, lorsqu’un objet se déplace
+dans un fluide, il subit de la part de celui-ci une force de frottement dont les caractéristiques
+dépendent de la vitesse de l’objet par rapport au fluide, de sa forme et des propriétés du fluide.
+Cette force de frottement fluide s’oppose au mouvement.
+Pour étudier cette force de frottement au laboratoire, on relève toutes les 0,12 s la position du
+centre M d’un ballon de baudruche lâché sans vitesse initiale. La chronophotographie obtenue
+est représentée ci-après.
+
+O
+
+z
+
+Données :
+ intensité du champ de pesanteur terrestre : g = 9,81 m.s-2 ;
+ tout corps immergé dans un fluide subit de la part de celui-ci une action modélisée par une
+⃗⃗⃗⃗A appelée poussée d’Archimède verticale, dirigée de bas en haut ;
+force F
+
+la force de frottement f exercée par l’air sur le ballon de baudruche est opposée au
+mouvement de celui-ci ;
+dans cet exercice, on étudie le mouvement du centre de masse M du ballon de baudruche
+de masse m = 6,05 g ;
+valeur de la poussée d’Archimède subie par le ballon : FA = 1,2  10-2 N.
+
+Le référentiel d’étude est le référentiel terrestre supposé galiléen.
+1. Mouvement du ballon de baudruche
+1.1. À partir de la chronophotographie représentée ci-avant, montrer que le mouvement du
+point M est constitué de deux phases que l’on décrira avec les termes scientifiques
+appropriés.
+1.2. Montrer que, lors de la seconde phase du mouvement, la valeur v de la vitesse du point
+M est égale à 0,61 m.s-1.
+2. Forces exercées sur le ballon de baudruche
+2.1. Représenter sans souci d’échelle les forces exercées sur le ballon de baudruche lors de
+son mouvement.
+2.2. Calculer la valeur du poids du ballon de baudruche.
+2.3. Les données du pointage peuvent être traitées à partir d’un programme en langage
+Python. Un extrait de ce programme est reproduit ci-après :
+
+DVz=[ ]
+for i in range(len(Vz)-2):
+DVz=DVz+[(Vz[i+1]-Vz[i])]
+produit = [ ]
+for i in range(len(DVz)):
+produit = produit+[0.05*DVz[i]]
+for i in range(len(t)-3):
+print(‘Au point’,i+1,’m*delta v / delta t vaut’, round(produit,2),\’ kg.m/s2’)
+∆v
+
+2.3.1. Repérer la ligne permettant le calcul de l’expression m  ∆t . Quel est l’intérêt de ce
+calcul pour déterminer la valeur de la force f ?
+2.3.2. Retrouver la valeur numérique « 0.05 » qui intervient à la ligne 33.
+2.4. On s’intéresse au mouvement du point M entre les positions n°6 et n°9.
+2.4.1. Que peut-on dire de la somme des forces s’exerçant sur le ballon de baudruche
+entre ces deux positions ? Justifier.
+2.4.2. Montrer que la valeur de la norme f de la force de frottements exercée par l’air sur
+le ballon de baudruche entre les positions n°6 et n°9 est égale à
+4,710-2 N.
+
+PARTIE B
+Les comprimés de permanganate de potassium sont-ils périmés ? (10 points)
+Un technicien trouve dans les réserves du laboratoire de chimie de son lycée des tubes de
+comprimés dont l’étiquette est reproduite ci-dessous
+
+https://www.doctissimo.fr/ , guide des médicaments, permanganate potassium Lafran
+
+Le technicien veut s'assurer qu'ils sont toujours conformes à la formulation donnée sur
+l’étiquette. Il réalise alors le titrage d’une solution obtenue en dissolvant un comprimé de
+permanganate dans de l’eau et en utilisant, comme solution titrante une solution de chlorure
+de fer II.
+Données utiles pour tout l’exercice :
+
+
+Masses molaires atomiques
+potassium K : 39,1 g·mol−1 ; manganèse Mn : 54,9 g·mol−1 ; oxygène O : 16,0 g·mol−1
+ Masses molaires moléculaires
+chlorure de fer FeCl2 : 127 g·mol-1 ;
+permanganate de potassium KMnO4 : 158 g·mol−1.
+ Couples oxydant-réducteur : MnO4-(aq)/Mn2+(aq) ; MnO2(s)/Mn2+(aq)
+ Couleurs de certaines espèces chimiques :
+L’ion permanganate MnO4-(aq) est violet, le dioxyde de manganèse MnO2(s) est marron, l’ion
+Fe2+(aq) est vert pâle, pratiquement incolore. Les ions potassium K+(aq) et chlorure Cl-(aq) sont
+incolores.
+Questions préalables
+Sous forme de cristaux de couleur violette, soluble dans l’eau, le permanganate de potassium est
+un solide de formule KMnO4 composé de cations K+(aq) et d’anions MnO4–(aq). […] En solution
+diluée le permanganate de potassium est utilisé pour le traitement de l’eau, notamment pour
+oxyder le fer et le manganèse dans les eaux souterraines.
+
+D’après : http://www.societechimiquedefrance.fr/permanganate-de-potassium
+1. Vérifier par un calcul la valeur de la masse molaire moléculaire du permanganate de potassium
+de 158 g·mol−1.
+2. Vérifier par un calcul qu'une masse m = 0,25 g de permanganate de potassium pur contient
+une quantité de matière n = 1,6 mmol de permanganate de potassium.
+Réaction support du titrage
+L’équation de la réaction support du titrage des ions permanganate par les ions ferreux Fe2+
+s’écrit :
+MnO4-(aq) + 5 Fe2+(aq) + 8 H+(aq)  Mn2+(aq) + 5 Fe3+(aq) + 4 H2O(l)
+3. Justifier que pour procéder au titrage, le milieu doit être acidifié.
+4. Écrire les couples oxydant-réducteur mis en jeux dans la réaction support du titrage.
+5. Écrire les demi-équations électroniques associées à chacun de ces couples.
+Montage expérimental
+Le technicien s’interroge sur la place des solutions dans le montage expérimental. Bien que la
+solution de permanganate de potassium soit l’espèce titrée, il décide, après documentation, de
+la placer dans la partie haute du montage (voir figure ci-dessous) et de placer la solution titrante
+d’ions ferreux S1 dans la partie basse. Ce choix est fait, car cela permet d’éviter le contact
+prolongé entre les ions permanganate MnO4-(aq) et les ions manganèse Mn2+(aq) formés, qui
+engendrerait une réaction parasite et le « noircissement » du milieu réactionnel.
+
+Solution de
+permanganate de
+potassium
+Solution S1 d’ions ferreux
+Fe2+(aq)
+
+6. Nommer les éléments de verrerie contenant respectivement la solution de permanganate de
+potassium et la solution d’ions ferreux.
+
+Choix de la concentration de la solution titrante d’ions ferreux
+Le technicien s’interroge ensuite sur la concentration de la solution titrante S 1 d’ions ferreux
+placée dans le bécher. Il choisit de travailler avec un volume V1 = 20,0 mL de cette solution S1
+d’ions ferreux.
+Son objectif est que, dans le cas d’un comprimé de permanganate de potassium non périmé,
+cette concentration de la solution titrante S1 d’ions ferreux soit telle que l’équivalence du titrage
+se produise pour un volume de permanganate versé situé approximativement au milieu de la
+burette soit 12,5 mL environ.
+Il décide de rédiger un programme en langage Python lui permettant de déterminer la
+concentration de la solution titrante S1 d’ions ferreux à utiliser, et de suivre l’évolution de la
+quantité de matière en ions Fe2+ dans le bécher en fonction du volume de solution de
+permanganate de potassium versé.
+
+L’exécution du programme en langage Python permet d’obtenir la courbe suivante :
+
+7. Définir l’équivalence d’un titrage.
+Le technicien prépare la solution S0 de permanganate de potassium à titrer en dissolvant un
+comprimé de permanganate de potassium dans un volume V0 = 0,50 L d’eau distillée.
+8. Vérifier par un calcul que, dans le cas d’un comprimé non périmé, la concentration C0 en ions
+MnO4-(aq) dans cette solution correspond à celle mentionnée en ligne 4 du programme.
+La ligne 7 du programme en langage Python code la formule littérale permettant le calcul de la
+concentration en ions ferreux de la solution S1 à préparer.
+9. Vérifier la formule littérale utilisée en s’aidant de l’équation de la réaction support du titrage.
+10. Vérifier que la valeur de la concentration en ions ferreux Fe2+ de la solution S1 à préparer est
+C1 = 1,0.10-2 mol·L-1.
+11. Ecrire une ligne de code (en ligne 8 par exemple) pour que la valeur de la concentration de
+la solution S1 à préparer apparaisse à l’écran lors de l’exécution de son programme.
+12. Commenter l’allure de la courbe obtenue à l’issue de l’exécution du programme.
+Réalisation du titrage des ions permanganate par les ions ferreux
+Le technicien réalise maintenant le titrage d’un comprimé de permanganate de potassium. Il
+prépare donc un volume V0 = 0,50 L d’une solution aqueuse S0 en dissolvant un comprimé de
+permanganate de potassium et il l’acidifie avec quelques gouttes d’acide sulfurique concentré. Il
+
+prépare son montage puis il verse progressivement cette solution dans un volume V1 = 20,0 mL
+de solution S1 d’ions ferreux de concentration en ions ferreux C1 = 1,0.10-2 mol·L-1.
+13. Expliquer comment le technicien saura qu’il a atteint l’équivalence.
+Il juge que l’équivalence est atteinte lorsqu’il a versé un volume Veq = 12,8 mL de solution de
+permanganate de potassium.
+14. Déterminer la masse de permanganate de potassium dans le comprimé utilisé et l’écrire avec
+le nombre adapté de chiffres significatifs sachant que l’incertitude-type de la mesure de la masse
+u(m) = 0,003 g. Comparer qualitativement ce résultat à la valeur de référence de l’étiquette.

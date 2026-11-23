@@ -1,0 +1,258 @@
+{"pages": 10, "method": "pdftotext", "bytes": 839975, "at": "2026-11-23T09:27:25+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 3 à 5
+
+Commande du fonctionnement du produit ou modification de son
+comportement ............................................................. Pages 5 à 8
+
+2 Documents réponses ............................................... Pages 9 à 10
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en
+difficulté, qui s'appuient sur un produit unique. Un premier exercice s'intéresse à l'étude
+d'une performance du produit. Tandis que le second exercice porte sur la commande du
+fonctionnement du produit ou la modification de son comportement.
+
+PRÉSENTATION DE LA MONTURE DU TÉLESCOPE
+L'astronomie amateur est une activité de loisirs qui consiste en l'observation d'objets du ciel
+diurne et nocturne situés au-delà du globe terrestre.
+La pratique de l’astronomie requiert l’utilisation de matériel optique : le télescope qui est
+installé sur son pied, appelé aussi monture. La monture soutient le télescope, et permet le
+déplacement en rotation suivant 3 axes :
+- un déplacement manuel qui incline l’ensemble pour tenir compte de la position de
+l’observateur : angle égal à la latitude du lieu
+- deux déplacements motorisés pour se déplacer dans le ciel (voir figure n°1).
+Une séance d’astronomie, généralement nocturne, consiste à observer plusieurs objets
+célestes dans le ciel pendant quelques temps. La monture doit alors pouvoir suivre un objet
+malgré la rotation de la terre, puis proposer des déplacements plus rapides pour ‘passer’
+sur un autre objet céleste. La commande est manuelle par l’intermédiaire de la raquette
+(boîtier de commande), automatique grâce à des positions d’objets pré-enregistrées dans
+la raquette.
+L’étude porte sur la motorisation de l’axe d’ascension sur la monture Sky-Watcher NEQ6.
+La motorisation admet une large gamme de vitesse de rotation, allant de 1 fois jusqu’à
+800 fois la vitesse de rotation de la terre.
+
+Télescope
+
+Motorisation
+de l’axe de
+déclinaison
+
+Oculaire
+
+Raquette
+
+Trépied
+Figure n°1
+
+ÉTUDE D'UNE PERFORMANCE DE LA MONTURE
+Le moteur de référence NEMA M-1713₁,5 S est un moteur pas à pas dont la vitesse de
+rotation est limitée à 560 tr·min-1. Ce moteur actionne l’axe d’ascension droite pour
+« suivre » la rotation de la terre, et génère aussi des déplacements à vitesse beaucoup plus
+rapide : 800 fois la vitesse de rotation de la terre. On veut vérifier que ce moteur est
+compatible avec le déplacement. La vitesse rapide (800 fois) de rotation du télescope est
+mesurée à ωt = 0,0604 rad·s-1.
+
+Question I.1
+
+Déterminer la vitesse de rotation de la terre (sur la base de 1 tour en
+24 heures), puis calculer l’écart entre la vitesse théorique rapide de
+rotation du télescope (800 fois la vitesse de rotation de la terre) et la
+vitesse mesurée ωt , en pourcentage de la vitesse théorique.
+
+La chaîne cinématique de la motorisation est donnée ci-après :
+Moteur
+pas à pas
+
+ωm
+
+ωRéducteur par roues
+met vis sans fin
+
+ωt
+
+ωTélescope
+t
+
+Le schéma cinématique décrit le fonctionnement du réducteur :
+A
+
+C
+
+B
+
+Question I.2
+
+Identifier la liaison entre la roue 2 et le châssis 0 : nom, point et axe de la
+liaison. Identifier de la même manière la liaison entre la roue dentée 5 et
+le châssis 0.
+
+Question I.3
+
+Déterminer le rapport de réduction r du réducteur et en déduire la
+fréquence de rotation Nm du moteur, si le télescope, lié à la roue 5, tourne
+à la vitesse ωt = 0,0604 rad/s.
+
+Question I.4
+
+Conclure quant à la compatibilité du moteur.
+
+La précision des déplacements requiert une grande stabilité du télescope et de sa monture
+(notamment le pied). La photo du document réponse DR1 fait apparaître les centres de
+masse :
+
+GT : télescope seul,
+GE : ensemble monture et pied,
+GM : masses du contrepoids.
+
+On veut étudier l’équilibre du système.
+
+Question I.5
+
+Tracer en rouge directement sur l’image du télescope représentée sur le
+document réponse DR1 tous les vecteurs-forces s’appliquant à
+l’ensemble {télescope, monture, pied, contrepoids}, sans tenir compte
+des intensités : la direction, le sens et une appellation doivent apparaître
+clairement.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION
+DE SON COMPORTEMENT
+Problématique : L’ensemble raquette plus monture est-il capable d’atteindre cette vitesse ?
+Pour atteindre la vitesse 800x (800 fois la vitesse sidérale) le moteur pas à pas ne peut pas
+passer de 0 pas par seconde à 1684 pas par seconde instantanément. La vitesse sidérale
+est la vitesse de rotation de la terre, 1 tour en 24h pour simplifier.
+À de nombreuses occasions, l’astronome amateur est amené à tourner simplement les
+axes de la monture, à différentes vitesses, en utilisant les flèches de la raquette. La
+procédure est la suivante :
+Les flèches gauche et droite sont utilisées pour les
+déplacements en Ascension Droite.
+Les flèches haut et bas sont utilisées pour les
+déplacements en Déclinaison.
+Une pression sur la touche Rate / 2 permet de choisir
+la vitesse de déplacement :
+L’écran affiche Set Speed, suivi de la vitesse actuelle
+Rate = *x ou x est la vitesse de rotation de la terre, 1
+tour en 24h pour simplifier
+Pour sélectionner une autre vitesse, appuyez sur une
+touche entre 1 et 9.
+Pour valider et revenir à l’écran précédent, appuyez sur
+la touche ENTER.
+Tant que vous ne validez par votre choix par ENTER,
+vous gardez la possibilité de sélectionner une autre
+vitesse.
+Si aucune touche n’est pressée pendant 5 secondes, la dernière valeur de vitesse saisie
+est conservée et la raquette revient à l’écran précédent.
+Touche
+
+Vitesse
+
+x
+
+8x
+
+16x
+
+32x
+
+64x
+
+128x
+
+400x
+
+600x
+
+800x
+
+Question II.1
+
+À partir de ces explications compléter les zones grisées de
+l’algorigramme de la configuration de la vitesse qui est dans le
+document réponse DR2.
+
+Question II.2
+
+Dans un premier temps, calculer la vitesse sidérale x en tr/s (la
+vitesse sidérale correspond à la rotation de la terre en 24h pour
+simplifier). Puis donner la vitesse en tr/s quand l’utilisateur programme
+le passage d’un objet céleste à un autre à la vitesse de 800x.
+
+Question II.3
+
+La monture est équipée de moteurs pas à pas de 200 pas par tour.
+Avant réduction, l’axe de rotation du moteur pas à pas tourne à 8,42 tr/s
+pour une vitesse de suivi de 800x. Déterminer le nombre de pas par
+seconde nécessaire pour cette vitesse. L’interface de puissance utilisée
+peut fonctionner jusqu’à 40kHz. Indiquer si cette interface est adaptée.
+
+Lors d’une nuit d’observation l’astronome amateur observe une vingtaine d’objets et passe
+environ 15 minutes par objet. Par conséquent cela occasionne 20 déplacements à grande
+vitesse (800x) pour passer d’un objet à l’autre et 20 déplacements à vitesse sidérale pour
+l’observation.
+
+Question II.4
+
+Le passage de la vitesse sidérale avec une commande à 2 Hz à la
+vitesse 800x avec une vitesse de commande de 1684 Hz n’est pas
+instantané et vice-versa.
+
+Aussi pour passer d’un signal de commande de 2Hz à 1684Hz, une des fonctions réalisées
+« rampe_acc » est la suivante :
+Def rampe_acc ( )
+S=2
+while S < 1684
+S=S+2
+return
+Proposer une autre fonction nommée « rampe_dec » pour le passage de 1684 Hz à
+2 Hz.
+
+Question
+II.5
+
+Chacune des instructions dure 2 micro secondes, calculer la
+durée de la fonction « rampe_acc » ? Comparer la durée
+obtenue à celle de la durée de la rampe ?
+
+Question
+II.6
+
+Conclure sur la capacité du moteur pas à pas et la rapidité à
+traiter l’information. Proposer une solution pour obtenir une
+rampe qui dure 0,86s
+
+DOCUMENT RÉPONSE - DR1
+Question I.5 :
+
+GT
+
+GE
+
+GM
+
+DOCUMENT RÉPONSE – DR2
+Question II.1 :

@@ -1,0 +1,211 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1405030, "at": "2026-11-23T09:24:13+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Étude d’une montagne russe (10 points)
+Le Blue Fire Megacoaster est une attraction de type
+montagnes russes située dans un parc d’attraction.
+Elle détient le record du plus haut looping d’Europe
+sur des montagnes russes lancées.
+Dans cette attraction le train est lancé, c’est-à-dire
+qu’un moteur linéaire lui procure l’énergie cinétique
+nécessaire pour parcourir l’ensemble de l’attraction
+avant la première bosse.
+Source : d’après https://www.europapark.de/fr
+L’objectif de cet exercice est de vérifier la cohérence de certaines informations fournies par le
+constructeur de l’attraction et notamment d’apporter un regard critique sur la précision des
+données fournies.
+Quelques informations :
+La trajectoire que parcourt le train jusqu’au sommet de la première montée est la suivante :
+Le schéma est représenté sans souci d’échelle.
+
+O
+Le train est initialement immobilisé
+au point A avec la vitesse initiale v0 = 0 m.s – 1. Grâce à un
+moteur linéaire électrique il est accéléré, sur une piste horizontale, par une force constante
+entre les points A et B pendant une durée t = 2,5 s pour atteindre sa vitesse maximale vmax
+au point B. À partir du point C, il parcourt la première montée pour atteindre son sommet au
+point D à une hauteur h = 38 m au-dessus de la piste de lancement.
+On considère, en première approximation, que les frottements sont négligeables.
+ Quelques caractéristiques de l’attraction :
+m = 10 t
+Masse du train
+P = 1,5 MW
+Puissance du moteur linéaire
+Durée de lancement
+t = 2,5 s
+vmax = 100 km.h – 1
+Vitesse maximale
+Hauteur maximale de l’attraction
+hmax = 38 m
+(par rapport à la piste de lancement)
+Sources : d’après https://www.europapark.de/fr/attractions/blue-fire-megacoaster-poweredgazprom
+http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.europapark.de%2Flangfr%2Fc51%2Fm242%2Fd459%2Fdefault.html
+Données :
+ intensité du champ de pesanteur terrestre : g = 9,81 ms – 2 ;
+ le niveau de référence de l’énergie potentielle de pesanteur est choisi pour l’altitude
+y = 0 : Epp(A) = 0 J.
+1. Étude de la chaine énergétique
+1.1. La chaîne énergétique suivante permet de schématiser la conversion d’énergie lors du
+lancement du train :
+
+Sans recopier la chaîne énergétique ci-dessus, donner la forme d’énergie à faire apparaître
+dans chaque cadre numéroté de 1 à 3.
+Pour cela, indiquer sur la copie le numéro du cadre et lui associer une forme d’énergie.
+1.2. Montrer que l’énergie cinétique du train Etrain à la fin de la phase de lancement vaut
+Etrain = 3,9 MJ.
+E train
+1.3. Le rendement du moteur linéaire étant donné par la relation  =
+où Eélectrique est
+E électrique
+l’énergie électrique fournie au moteur linéaire, déterminer la valeur du rendement .
+Commenter la valeur obtenue en apportant un regard critique sur les données fournies par le
+constructeur.
+2. Simulation de la propulsion du train
+Afin d’illustrer la phase de lancement, le programme suivant écrit en langage Python permet
+de simuler la trajectoire du train ainsi que de tracer les vecteurs variation de vitesse v en
+quelques points de cette trajectoire sur une durée Δt. Le modèle utilisé formule l’hypothèse
+d’un mouvement à accélération constante.
+
+La fenêtre suivante présente le résultat obtenu :
+
+2.1. Compléter la ligne 24 du programme de simulation en modifiant la partie entre les
+crochets […] afin de calculer les coordonnées vx [k] des vecteurs vitesses aux différents points
+de la trajectoire.
+2.2. Déterminer graphiquement les valeurs v2 et v4 des normes des vecteurs v aux points
+M2 et M4.
+2.3. Expliquer comment semble évoluer le vecteur v au cours de la phase de lancement du
+train.
+2.4. Donner la relation approchée entre le vecteur variation de vitesse v du train et la
+somme des forces extérieures  Fext qui s’appliquent sur celui-ci.
+2.5. En déduire les caractéristiques du vecteur  Fext .
+3. Étude du train lors de la première ascension
+Une modélisation simplifiée de la trajectoire du train, considéré comme un point matériel M,
+entre les points A et D peut être donnée par le schéma suivant, représenté sans souci
+d’échelle.
+
+On considère la première montée CD comme rectiligne et faisant un angle  = 45° avec
+l’horizontale.
+Le poids est une force conservative.
+3.1. Exprimer le travail W CD ( P ) du poids sur le trajet CD en fonction de ⃗⃗⃗⃗⃗⃗
+CD et de ⃗⃗P puis
+montrer que W CD ( P ) = m·g·(yC – yD).
+3.2. Donner la valeur du travail W CD ( R ) de la force de réaction des rails lors de la première
+montée. Justifier.
+3.3. Établir l’expression de l’altitude maximale hmax que pourrait atteindre le train en l’absence
+de frottements puis calculer sa valeur. Commenter.
+PARTIE B
+Le bleu de méthylène en médecine et en biologie (10 points)
+Le bleu de méthylène est une espèce chimique organique de formule brute C16H18N3SCl. A
+l'état pur, le bleu de méthylène se présente sous la forme d'une poudre soluble dans l’eau. Il
+peut être utilisé, à la fois comme colorant ou comme médicament. Son action repose sur ses
+propriétés oxydo-réductrices : sa forme oxydée est bleue et sa forme réduite est incolore.
+Certaines propriétés du bleu de méthylène sont utilisées pour des expériences en biochimie.
+Par exemple, en présence de glucose le bleu de méthylène est réduit et ce dernier se
+transforme en une espèce non colorée.
+D’autres propriétés sont utilisées en médecine. Le bleu de méthylène peut servir à colorer des
+bactéries pour les visualiser au microscope. Quand il entre dans le cytoplasme d'une cellule
+vivante, le bleu de méthylène est réduit car c'est un environnement réducteur : les cellules
+vivantes paraissent incolores. En revanche, des cellules mortes sont colorées en bleu car le
+bleu de méthylène y reste sous sa forme oxydé.
+D’après www.futura-sciences.com
+L’objectif de cet exercice est d’étudier une propriété du bleu de méthylène puis d’effectuer un
+contrôle de qualité, par dosage spectrophotométrique, d’une préparation microscopique
+utilisée dans le domaine de la santé.
+
+Partie 1 : Propriétés oxydantes du bleu de méthylène
+Un extrait de protocole est donné ci-dessous :
+« Dans un erlenmeyer contenant une solution aqueuse de glucose, on ajoute une solution de
+bleu de méthylène BM+(aq). Le mélange, initialement bleu, devient progressivement incolore ».
+Couples oxydant-réducteur mis en jeu :
+BM+(aq) / BMH(aq)
+RCOOH(aq) / RCHO(aq)
+le glucose est noté RCHO(aq).
+la forme oxydée du bleu de méthylène, noté BM +, est la seule espèce colorée en solution
+aqueuse.
+1.1. Donner la définition d’un oxydant.
+1.2. Donner la définition d’une réduction.
+1.3. Écrire les demi-équations électroniques relatives aux couples du bleu de méthylène
+BM+(aq) / BMH(aq) et du glucose RCOOH(aq) / RCHO(aq)
+1.4. En déduire l’équation de la réaction modélisant la transformation décrite dans l’extrait
+du protocole.
+Partie 2 : Dosage d’une solution de bleu de méthylène
+Le bleu de méthylène est un colorant pour préparation microscopique utilisé essentiellement
+pour colorer les noyaux des cellules afin d’apprécier le nombre de cellules mortes.
+Un technicien de laboratoire souhaite déterminer avec précision la concentration du colorant
+dans une solution S dont l'étiquette porte l'indication suivante :
+« Bleu de méthylène 3,2mmol.L-1 »
+On note CS la concentration en bleu de méthylène de la solution S. Cette concentration est
+déterminée par une méthode spectrophotométrie.
+On mesure l’évolution de l'absorbance A d'une solution de bleu de méthylène pour différentes
+longueurs d'onde λ.
+Données :
+- Cercle chromatique
+
+Extrait du tableau périodique des éléments
+
+Spectre d’absorbance du bleu de méthylène
+
+2.1. Commenter l’allure spectre d’absorption du bleu de méthylène et justifier la couleur de la
+solution de ce colorant.
+Pour déterminer la concentration CS en bleu de méthylène de la solution S, on prépare une
+gamme de solutions notées S1 à S4, de volume 25,0 mL chacune, à partir d’une solution mère
+de concentration en masse égale à 5,0 mg.L-1.
+L’absorbance des solutions a été mesurée à l’aide d’un spectrophotomètre préalablement
+réglé sur la valeur λmax du spectre d’absorption. Les résultats sont reproduits dans le tableau
+ci-dessous :
+Solution
+Concentration en masse Ci
+(en mg.L-1)
+Absorbance A
+
+S0
+
+S1
+
+S2
+
+S3
+
+S4
+
+5,0
+
+4,0
+
+3,0
+
+2,0
+
+1,0
+
+0,610
+
+0,480
+
+0,374
+
+0,243
+
+0,126
+
+2.2. Ecrire le protocole détaillé de la préparation de la solution S 3 à partir de la solution mère
+S0, en précisant la verrerie nécessaire.
+2.3. La loi de Beer Lambert est-elle vérifiée ? Justifier le par le calcul, sans réaliser de
+graphique.
+2.4. En déduire une relation entre A l’absorbance de la solution et C la concentration en
+masse du bleu de méthylène, en précisant les unités des grandeurs.
+2.5. Une solution SD de bleu de méthylène a été obtenue en diluant 400 fois la solution S. La
+mesure de l’absorbance de la solution SD vaut AD = 0,328.
+2.5.1. Déterminer la concentration CD de la solution SD.
+2.5.2. En considérant une incertitude-type de mesure u(CS) égale à 0,2 mmol.L-1, la valeur CS
+obtenue expérimentalement est-elle en accord avec l’étiquetage de la solution S ? Justifier.

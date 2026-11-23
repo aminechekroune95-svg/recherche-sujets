@@ -1,0 +1,334 @@
+{"pages": 10, "method": "pdftotext", "bytes": 2246875, "at": "2026-11-23T09:27:29+00:00"}
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+
+Aucun document autorisé – Calculatrice autorisée
+
+Constitution du sujet :
+
+Présentation du produit ................................................................. Pages 2
+
+Exercice n°1 : étude d'une performance du rameur ......................Pages 3 à 5
+
+Exercice n°2 : commande du fonctionnement du produit
+ou modification de son comportement ................. Pages 6 à 10
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en
+difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier et/ou
+quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou partie du
+produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter, compléter
+ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par les textes en
+vigueur.
+
+PRÉSENTATION DU RAMEUR
+Au sens de l’OMS, la santé est un état de bien-être physique, mental et social. Le sport
+contribue à maintenir ce bon état de santé. L’accès à une pratique sportive pour tous est
+un enjeu primordial pour notre société.
+Le sujet porte sur l’étude de la pratique de l’aviron, dans un premier temps sur l’eau, dans
+un second temps sur un rameur qui se pratique en salle que l’on appelle « aviron
+adapté ». L’aviron adapté est une pratique reconnue pour l’amélioration de l’état de santé.
+
+Rameur
+
+Rameur
+
+Figure 1 : mission et cas d’utilisation du rameur
+
+Problématique : la pratique de l’aviron adapté sur un rameur en salle peut-elle procurer
+les mêmes effets physiques que la pratique de l’aviron sur l’eau ?
+
+EXERCICE 1 - ÉTUDE D'UNE PERFORMANCE DU RAMEUR
+Étude la puissance instantanée développée par le rameur (l’utilisateur) lors de la
+pratique de l’aviron sur l’eau.
+Lors de la pratique de l’aviron sur
+l’eau, la rame passe par différentes
+phases qui sont illustrées par
+l’image chronophotographique de la
+figure 2.
+La rame est considérée comme
+⃗ ) par
+étant en liaison pivot d’axe (B,y
+rapport à la coque.
+Des relevés montrent que la vitesse
+angulaire de la rame par rapport à
+la coque est constante pendant la
+phase propulsion.
+Figure 2 : engagement de la rame dans l’eau
+
+L’ensemble de l’étude s’effectue à la date t = 0,35 s.
+Question I-1
+Figure 3
+
+⃗⃗⃗⃗⃗ ‖.
+⃗⃗ A∈rame/coque ‖, |θ̇ rame/coque |et ‖AB
+Donner la relation littérale liant ‖V
+⃗⃗ A∈rame/coque ‖ la norme de la vitesse instantanée du point A
+Calculer ‖V
+appartenant à la rame par rapport à la coque.
+
+⃗ , ⃗x), les actions mécaniques
+En effectuant l’hypothèse d’une étude dans un plan (O,z
+extérieures appliquées à la rame, pour un bras de l’utilisateur, sont représentées figure 3.
+
+Figure 3 : actions mécaniques sur la rame
+Une mesure expérimentale donne l’action mécanique extérieure de l’eau sur la rame. Elle
+est modélisée par :
+⃗F
+= 150 ⃗x
+{τ(eau→rame)}= { (eau→rame)
+}
+⃗
+C
+Avec la relation :
+⃗⃗⃗⃗⃗⃗ ‖ ∙‖F
+⃗ (eau→rame) ‖-‖AB
+⃗⃗⃗⃗⃗ ‖∙‖F
+⃗ (utilisateur→rame) ‖ = 0
+‖BC
+Question I-2
+Figure 2
+Figure 3
+
+⃗ (utilisateur→rame) ‖.
+Déterminer ‖F
+Déterminer la puissance instantanée développée par un bras puis par
+les deux bras de l’utilisateur.
+
+Pour la suite du sujet, la puissance instantanée développée par les deux bras de
+l’utilisateur sera prise égale à 720 W.
+Étude la puissance instantanée développée par l’utilisateur en salle avec le rameur.
+Le schéma cinématique figure 4 présente la structure du système aérodynamique de
+dissipation d’énergie mécanique du rameur.
+Le fonctionnement normal du rameur est le suivant :
+– le pratiquant met en mouvement la barre solidaire de la sangle ;
+– la sangle en se déroulant provoque la rotation du tambour ;
+– la poulie 1, lié cinématiquement au tambour, entraîne la poulie 2 par l’intermédiaire
+de la courroie. Le glissement poulies/courroie est considéré comme négligeable ;
+– la roue aérodynamique, solidaire de la poulie 2, génère un flux d’air.
+La variation du flux d’air provoque un moment (couple) résistant opposé à la
+rotation de la roue (moment aérodynamique). Le moment aérodynamique est
+⃗ (utilisateur→rame) .
+transmis à l’utilisateur sous forme d’un effort recopiant l’effort F
+– la roue libre permet une rotation libre de la roue aérodynamique lors du retour de la
+barre.
+
+Figure 4 : schéma cinématique du système aérodynamique de dissipation d’énergie mécanique
+À l’instant considéré,
+⃗⃗ I∈sangle/bâti ‖ = 1 m∙s-1 .
+‖V
+Question I-3
+Figure 4
+
+la
+
+vitesse
+
+de
+
+la
+
+sangle
+
+par
+
+rapport
+
+au
+
+bâti
+
+vaut
+
+θ̇
+
+Déterminer le rapport de transmission r = θ̇ poulie 1 / bâti à partir des
+données du schéma cinématique figure 4.
+
+poulie 2 / bâti
+
+Déterminer la vitesse angulaire θ̇ poulie 1 / bâti à partir de la valeur de la
+vitesse de la sangle par rapport au bâti et de son rayon d’enroulement.
+⃗⃗⃗ D (air→roue)‖ que crée l’air
+Dans les conditions d’utilisation, le moment aérodynamique ‖M
+sur la roue est donné par la relation :
+⃗⃗⃗ D (air→roue)‖ =
+‖M
+
+∙ Rmoyen-roue ∙ (θ̇ roue⁄ ∙ Rmoyen-roue ) ∙ Cx ∙ Sailette ∙ρair ∙ N ∙ K
+bâti
+
+θ̇roue / bâti = 110 rads-1 (vitesse angulaire de la roue aérodynamique)
+Rmoyen-roue = 0,09 m (rayon moyen de la roue aérodynamique)
+Cx = 1,1 (coefficient aérodynamique d’une ailette)
+S ailette= aire de l’ailette en m²
+𝜌𝑎𝑖𝑟 = 1,225 kgm-3 (masse volumique de l’air)
+N = nombre d’ailettes
+K = 50 (coefficient de pondération)
+Question I-4
+
+⃗⃗⃗ D (air→roue)‖.
+Calculer le moment aérodynamique ‖M
+Déterminer Paéro la puissance dissipée par la roue aérodynamique.
+
+Conclusion sur la correspondance des puissances dissipées par l’utilisateur avec le
+rameur en salle et lors de la pratique de l’aviron sur l’eau.
+Question I-5
+Figure 5
+
+Comparer la puissance instantanée développée, par le rameur
+(l’utilisateur) lors de la pratique de l’aviron sur l’eau et par l’utilisateur,
+en salle avec le rameur.
+Déduire de la lecture de la figure 5 l’élément permettant de reproduire
+la puissance instantanée développée, par le rameur (l’utilisateur) lors
+de la pratique de l’aviron sur l’eau et par l’utilisateur, en salle avec le
+rameur.
+
+RAMEUR
+
+Figure 5 : IBD du rameur
+
+EXERCICE 2 - MODIFICATION DU COMPORTEMENT DU RAMEUR
+Dans le cadre d’une rééducation fonctionnelle, les pratiquants n’ont pas tous la même
+condition physique. Il est nécessaire d’adapter la rééducation au profil du pratiquant.
+L’interface IHM du rameur permet de régler le niveau de difficulté et de programmer
+des profils d’entrainement pour chaque pratiquant.
+L’affichage du rameur (figure 6) donne les indications suivantes :
+– LEVEL (niveau de difficulté) de 0 à 16 ;
+– WATT (puissance moyenne sur un mouvement en
+Watt) ;
+– CALORIES (CAL, dissipées par l’utilisateur) ;
+– METER (distance parcourue) ;
+– STOKES (coups de rames) ;
+– TIME ;
+Figure 6 : afficheur du rameur
+– PULSE (pulsation cardiaque).
+Problématique : en choisissant un niveau de résistance et en programmant un profil, le
+rameur permet-il un contrôle de l’intensité des efforts selon les capacités de l’utilisateur
+ainsi qu’une fluidité de mouvement ?
+Le constructeur a décidé de compléter le système de dissipation aérodynamique par un
+frein électrique. Ce frein fonctionne selon un principe électromagnétique pour créer un
+effort résistant. Un volant d’inertie métallique est en rotation au voisinage d’aimants.
+Lorsqu’on approche les aimants de la périphérie du volant d’inertie, le champ magnétique
+génère une force de Laplace qui s’oppose au mouvement du volant. (figures 7 et 8).
+Le couple de freinage augmente lorsque
+l’entrefer « e » diminue et inversement.
+La position représentée figure 8-1 représente
+le freinage le moins fort, la position
+représentée figure 8-3 représente le freinage le
+plus fort
+
+Position de la mâchoire
+
+Figure 7 : schéma du frein magnétique
+
+Figure 8-1
+Figure 8-2
+Figure 8-3
+Figure 8 : représentations de la « position de la mâchoire aimantée »
+
+Le pratiquant paramètre la grandeur LEVEL de 0 à 16 (0 étant facile et 16 étant difficile). La
+figure 8-2 représente LEVEL 4.
+Question II-1
+Figure 8
+
+Définir, parmi les figures 8-1, 8-2, 8-3, lesquelles sont associées au
+LEVEL 1 et au LEVEL 16. Justifier votre réponse.
+
+Un servomoteur (voir schéma cinématique figure 9) permet de faire varier l’entrefer « e ».
+Le servomoteur entraîne un train d’engrenages qui provoque la rotation du treuil et par
+conséquent le mouvement du câble qui déplace la mâchoire.
+Le pratiquant paramètre la grandeur LEVEL de 0 à 16, pour chaque incrémentation du
+niveau de résistance (LEVEL), le treuil a une rotation de 12° et le codeur S1 fournit
+2 impulsions.
+Le système est en position initiale. Le pratiquant programme LEVEL 3. Le câble se
+déroule, l’entrefer diminue.
+
+Figure 9 : schéma cinématique du système de réglage de l’entrefer
+Question II-2
+Figure 9
+
+À l’aide de la figure 9, déterminer les sens de rotation du treuil, des roues
+intermédiaires (sens trigonométrique ou anti trigonométrique) sachant que
+le moteur tourne dans le sens trigonométrique. Déterminer le nombre
+d’impulsions du codeur S1 pour passer du LEVEL 1 au LEVEL 3.
+
+L’utilisateur, lors de ses séances de rééducation doit programmer un profil d’entrainement
+(le LEVEL) afin de travailler la puissance qu’il souhaite dissiper.
+Une partie du plan de rééducation est décrite ci-dessous :
+
+1 min de phase d’attente à LEVEL 0 ;
+4 min à LEVEL 6, effort soutenu ;
+2,5 min à LEVEL 4, effort modéré ;
+1 min de récupération à LEVEL 0.
+
+L’algorigramme (figure 10) décrit la commande du servomoteur en fonction du LEVEL.
+L’étude portera uniquement sur la partie du plan de rééducation présentée.
+
+Figure 10 : algorigramme de fonctionnement du système de régalage de l’entrefer
+Question II-3
+Figure 10
+DR1
+
+Compléter, à l’aide de l’algorigramme (figure 10), sur le chronogramme
+(DR1), le compteur d’impulsions (Imp) et l’angle de rotation du moteur
+pour les phases 2 et 3.
+
+Afin d’améliorer la précision du réglage de l’effort résistant dû au frein magnétique, le
+servomoteur et le codeur incrémental sont remplacés par un motoréducteur associé à un
+capteur analogique.
+La plage d’utilisation de celui-ci est 0 - 5V, il est monté directement sur le treuil et peut
+mesurer un angle allant de 0° à 240°. Le signal est numérisé par un convertisseur
+analogique numérique sur 10 bits.
+Ce capteur permet, à la chaîne d’information, d’acquérir une image de la position
+angulaire du treuil.
+
+Figure 2 : schéma de description fonctionnelle de la mesure de l’angle
+
+LEVEL
+
+Position angulaire
+du treuil 
+12°
+184°
+240°
+
+N exprimé décimal
+
+Tension U
+
+5V
+
+Tableau 1 : relation entre la grandeur acquise et son image transmise
+Question II-4
+
+Indiquer si le capteur est utilisé sur l’intégralité de sa capacité de mesure.
+Donner la résolution de mesure, en degré, induite par la numérisation du
+signal.
+
+Question II-5
+
+Donner les tensions issues du capteur caractéristiques pour les LEVEL 1
+et 16. Exprimer la relation liant la position angulaire  du treuil et les
+valeurs numériques images de l’angle (exprimées en décimal).
+
+Question II-6
+
+Conclure quant à la qualité du contrôle de l’intensité des efforts pour un
+capteur analogique monté directement sur le treuil. Proposer, en utilisant
+le capteur analogique, une solution augmentant la résolution.
+
+Tableau 1
+
+DOCUMENTS RÉPONSES
+DR1, question II-3

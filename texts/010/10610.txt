@@ -1,0 +1,235 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1063293, "at": "2026-11-23T09:22:18+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+La fosse de plongée Nemo 33 (10 points)
+Le Nemo 33 est un centre de plongée à Uccle, en Belgique.
+Il possédait la fosse de plongée la plus profonde du monde
+jusqu'en février 2014 atteignant une profondeur de près de
+35 mètres.
+Une fosse de plongée sert à pratiquer la plongée sousmarine ou la plongée en apnée (sans bouteille). La
+profondeur est le principal critère qui distingue une fosse
+d'une simple piscine. La qualité de l’eau est un autre
+élément fondamental, autant pour les maîtres-nageurs que
+pour les usagers.
+Dans cet exercice, nous étudierons des propriétés
+chimiques d’une eau de fosse de plongée puis l’effet de la
+pression sur les poumons lors d’une plongée dans une
+fosse.
+Apnéistes dans une fosse de plongée
+https://communaute.ucpa.com
+
+1. Titrage des ions hypochlorite ClO- présents dans l’eau d’une fosse de plongée
+Afin de maintenir la qualité sanitaire de l’eau d’une fosse de plongée on y ajoute des ions
+hypochlorite ClO-, il s’agit d’un oxydant puissant qui peut réagir avec des composés
+organiques et des micro-organismes afin de les détruire. La réglementation impose une
+concentration en « chlore actif » pour les piscines en France correspondant à une
+concentration d’ions hypochlorite comprise entre 0,4 mg.L-1 et 1,4 mg.L-1.
+Pour étudier les propriétés chimiques de l’eau d’une fosse de plongée et déterminer sa
+concentration en ions hypochlorite, on effectue un prélèvement. À l’aide d’une pipette
+jaugée, on prélève V1 = 20,0 mL d’eau d’une fosse de plongée que l’on place dans un
+bécher de 50 mL, on ajoute 1,0 mL d’une solution contenant des ions iodure en excès et
+1,0 mL une solution d’acide sulfurique puis on agite. Le mélange obtenu, qui prend alors
+une teinte orange-brun, est appelé solution S.
+Les couples mis en jeu sont ClO-(aq)/Cl-(aq) et I2(aq)/I-(aq). Le diiode a une coloration
+orange-brun en solution aqueuse, c’est la seule espèce colorée dans la solution S.
+ Masses molaires de l’oxygène et du chlore : M(O) = 16,0 g.mol-1 et M(Cl) = 35,5 g.mol-1.
+1.1. Justifier à l’aide des observations expérimentales le caractère oxydant de l’eau de la
+fosse de plongée.
+1.2. Écrire la demi-équation électronique associée au couple de l’hypochlorite et justifier le
+rôle d’oxydant de cet ion.
+1.3. Donner l’équation de la réaction modélisant la transformation intervenant entre les
+ions hypochlorite et les ions iodure.
+1.4. Établir le tableau d’avancement de la réaction. Les ions iodure, I-(aq), et oxoniums
+H+(aq), sont en excès, l’eau est le solvant.
+On considère dans la suite que tout le diiode dans la solution S provient de la réaction
+entre les ions hypochlorite et iodure et que la transformation est totale. Afin de déterminer
+l’avancement final xf de cette réaction, on effectue un dosage par étalonnage du diiode
+dans la solution S. On réalise une série de mesure d’absorbance de solutions de
+concentrations connues en diode, les résultats sont donnés dans le tableau ci-dessous :
+concentration en diiode (mol.L-1)
+absorbance A (à 475 nm)
+
+2,0×10-5
+0,016
+
+5,0×10-5
+0,041
+
+1,0×10-4
+0,10
+
+2,5×10-4
+0,22
+
+On effectue une mesure d’absorbance pour la solution S, on obtient AS = 0,017.
+
+1.5. Déterminer la valeur de la concentration en diiode de la solution S. En déduire la
+valeur de la quantité de diiode, formée lors de la réaction entre les ions hypochlorite et
+iodure, et que la valeur de l’avancement final xf est voisine de 4,6×10-7 mol.
+1.6. En déduire la valeur de la concentration en moles en ions hypochlorites ClO - dans
+l’eau de la fosse de plongée. Indiquer si cette eau est conforme la législation française.
+2. La pratique de l’apnée au NEMO 33
+Lors de la pratique de l’apnée, le plongeur inspire au maximum de sa capacité pulmonaire
+lorsqu’il se trouve à la surface puis bloque sa respiration. Au cours de la descente, la
+pression augmente et le volume pulmonaire diminue jusqu’à ce que la rigidité du thorax ne
+permette plus de réduire son volume : le volume pulmonaire est alors égal au volume
+résiduel. Au-delà de cette profondeur, du sang est aspiré puis retenu dans la circulation
+pulmonaire, remplissant ainsi les poumons. Ce phénomène, appelé « blood shift », permet
+aux poumons de résister à la compression, mais il peut aussi entraîner des troubles du
+rythme cardiaque.
+La capacité maximale des poumons est d’environ 6 L. Le volume résiduel, c’est-à-dire le
+volume d’air contenu dans les poumons à la fin d’une expiration forcée, est d’environ
+1,5 L.
+Données :
+ pression atmosphérique : Pa = 1,0 × 105 Pa ;
+ masse volumique de l’eau : ρe = 1,0 × 103 kg.m-3 ;
+ valeur du champ de pesanteur : g = 9,8 N.kg-1 ;
+ profondeur de NEMO 33 : h = 35 m ;
+ la loi fondamentale de la statique des fluides reliant la différence de pression pA - pB
+entre deux points A et B d’un fluide incompressible à ρe, g, et zA - zB ; zA et zB étant
+les ordonnées des points A et B sur un axe des z orienté suivant la verticale
+ascendante s’écrit : pA - pB = ρe g (zB - zA).
+2.1. Décrire qualitativement comment évolue la pression lorsque le plongeur descend
+dans la fosse de plongée. Expliquer en quoi la loi fondamentale de la statique des fluides
+rend compte de cette évolution.
+2.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un
+gaz pour une quantité de matière donnée et une température constante.
+2.3. À l’aide des données, déterminer si le phénomène de « blood shift » risque
+d’apparaître lorsqu’un apnéiste, qui n’a pas expiré d’air au cours de sa plongée, atteint le
+fond de NEMO 33.
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche
+de résolution.Toute prise d’initiative et toute tentative de résolution, même partielle sera
+valorisée.
+
+PARTIE B
+Synthèse d’un ester et convoyage de médicaments (10 points)
+I. Synthèse de l’éthanoate de benzyle au laboratoire
+Le jasmin est un arbuste originaire d’Inde, très cultivé dans les régions chaudes. L’odeur de
+fleur de jasmin correspond à la combinaison de plusieurs espèces chimiques et entre dans la
+composition de nombreux parfums. L’une des espèces responsables de la senteur du jasmin
+est l’éthanoate de benzyle. Cet ester est préparé par action de l'acide éthanoïque sur l'alcool
+benzylique ; cette transformation est non totale, lente et un catalyseur, l’acide sulfurique, est
+ajouté pour la rendre plus rapide.
+Données :
+- Propriétés physico-chimiques des espèces mises en jeu :
+Espèces
+Alcool
+Acide
+Éthanoate
+chimiques
+benzylique
+éthanoïque
+de benzyle
+Formule brute
+C7H8O
+C2H4O2
+C9H10O2
+Masse molaire
+108,0
+60,0
+150,0
+-1
+(g.mol )
+Masse volumique 1,05
+1,05
+1,06
+-1
+(g.mL )
+Solubilité dans
+Faible
+très grande
+très faible
+l’eau
+Solubilité dans
+plus faible
+très grande
+insoluble
+l’eau salée
+que dans
+l’eau
+
+Eau salée
+saturée
+
+1,20
+
+Protocole de synthèse mis en œuvre :
+a. Sous la hotte, muni de gants et de lunettes, introduire 15 mL d'acide éthanoïque,
+12 mL d'alcool benzylique, quelques gouttes d'acide sulfurique concentré et quelques
+grains de pierre ponce dans un ballon. Chauffer à reflux ce mélange pendant
+30 minutes. Laisser refroidir.
+b. Introduire dans l’ampoule à décanter le mélange réactionnel et 50 mL d’une solution
+saturée de chlorure de sodium. Agiter puis laisser décanter. Récupérer la phase qui
+contient l’éthanoate de benzyle (phase organique).
+c. Sécher la phase organique en y ajoutant quelques cristaux de sulfate de magnésium
+anhydre.
+d. Vérifier la pureté du produit obtenu par spectroscopie infrarouge.
+
+1. Nommer chacune des 4 étapes du protocole notées de a à d.
+2. Quel est l’intérêt du montage à reflux?
+3. Schématiser et légender l’ampoule à décanter après décantation, en précisant la
+composition de chaque phase. Justifier la position relative des phases.
+4. Écrire l’équation de la réaction modélisant la synthèse de l’éthanoate de benzyle sachant
+qu’il se forme également de l’eau.
+5. On obtient 6,0 g d’éthanoate de benzyle analysé comme pur. Déterminer la valeur du
+rendement de la synthèse. Commenter cette valeur.
+II. Système de convoyage pour les médicaments
+Dans une pharmacie, afin d’optimiser la durée de délivrance des médicaments, un
+toboggan est installé entre le premier étage et le rez-de-chaussée. Un robot combiné à un
+automate dispose le médicament sur un tapis roulant, en fonction des commandes. Le
+pharmacien réceptionne le produit à l’étage inférieur pour le donner au client. Le schéma
+du dispositif est représenté ci-dessous.
+
+A
+
+B
+
+C
+
+D
+
+On considère une boîte de médicament de masse 300 g placée sur un tapis. Elle est
+modélisée par un point matériel de centre d’inertie G. Le trajet parcouru par la boîte est
+divisé en 3 parties :
+- une surface horizontale AB. Il s’agit d’un tapis roulant permettant de faire avancer la
+boîte de médicament à une vitesse constante v0 = 0,3m.s-1 ;
+- Un plan incliné BC de longueur 1,58 m et formant un angle 𝜶 = 55°avec l’horizontale.
+La valeur de la force F modélisant les frottements exercés sur la boîte de médicaments
+sur cette portion est F = 0,30N ;
+- Une portion de C à D où la boîte est en chute libre, dans un panier au point D.
+On néglige l’action exercée par l’air. L’intensité du champ de pesanteur terrestre vaut
+g = 9,81 N.kg-1.
+
+6. Effectuer le bilan des actions modélisées par des forces s’exerçant sur la boîte de
+médicaments sur les différents trajets entre A et D.
+7. Que peut-on dire des forces s’exerçant sur la boîte entre les points A et B ?
+8. Sur le trajet BC.
+8.1 Schématiser, sur l’annexe à rendre avec la copie, les forces qui s’exercent sur la
+boîte de médicament, sans souci d’échelle.
+8.2 Donner l’expression littérale du travail de chaque force.
+8.3 En utilisant le théorème de l’énergie cinétique, donner l’expression littérale de la
+vitesse vC de la boîte de médicaments lorsqu’il arrive en C puis calculer sa valeur.
+9. La boîte est réceptionnée dans un panier situé à un hauteur h sous le point C.
+Indiquer, sans faire de calculs, les paramètres sur lesquels on peut jouer pour que la boîte
+de médicament ne soit pas déformée à la réception.
+
+Annexe à rendre avec la copie
+Question 8.1
+
+A
+
+B
+
+𝜶
+C
+
+D

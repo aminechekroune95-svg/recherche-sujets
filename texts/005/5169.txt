@@ -1,0 +1,270 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1397743, "at": "2026-11-23T09:24:11+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Photographie à l’aide d’une lentille boule (10 points)
+À bord de la station spatiale internationale (I.S.S.) les passagers se sont amusés à réaliser la
+photographie 1 ci-dessous où l’on peut observer l’image du visage d’un astronaute à travers
+une bulle d’eau.
+
+Photographie 1 : le japonais Koichi Wakata observe une goutte d’eau en lévitation à bord de
+l’ISS.
+D’après : http://www.esa.int/spaceinimages/Images/2009/06/Japan_Aerospace_Exploration_A
+gency_JAXA_astronaut_Koichi_Wakata (2009)
+On souhaite reproduire au laboratoire cette photographie insolite en remplaçant la bulle d’eau
+par une lentille mince convergente (L) et en utilisant un personnage en bois.
+
+Afin de réaliser cette reproduction au laboratoire, on se propose de :
+- modéliser la situation photographiée à bord de la station spatiale ;
+- déterminer certains paramètres de la situation réalisée au laboratoire.
+Données :
+- relation de conjugaison pour une lentille mince :
+−
+=
+𝑓′
+𝑂𝐴′ ̅̅̅̅
+- relation de grandissement γ pour une lentille mince :
+̅̅̅̅̅̅
+𝐴′𝐵′ ̅̅̅̅̅
+𝑂𝐴′
+𝛾=
+=
+𝐴𝐵
+où f’ est la distance focale de la lentille, O le centre optique de la lentille, AB l’objet et A’B’
+l’image de AB à travers la lentille ;
+- indice de réfraction de l’eau : neau = 1,33.
+Détermination de la distance focale de la bulle d’eau
+Pour reproduire cette expérience, il faut évaluer la valeur de la distance focale d’une bulle
+d’eau qui constitue une lentille boule de distance focale f’ = OF’ (en m) qui se comporte en
+première approximation comme une lentille mince. Cette distance focale donnée par la
+relation :
+𝑛 ×𝑅
+𝑓 ′ = 𝑂𝐹 ′ =
+2 × (𝑛 − 1)
+où n est l’indice de réfraction du matériau constituant la lentille boule, R est son rayon, O le
+centre de la lentille boule et F’ le foyer image de celle-ci.
+1. En considérant que la bulle d’eau possède un diamètre de l’ordre de 5 cm, déterminer la
+valeur de sa distance focale.
+Modélisation de la situation photographiée dans la station spatiale
+On considère qu’une bulle d’eau se comporte comme une lentille mince convergente. La
+proposition de la modélisation de la situation à bord de la station spatiale est donnée ci-après.
+AB représente une petite partie du visage de l’astronaute et A’B’ est l’image de AB à travers la
+lentille. Le schéma présente les éléments principaux de la situation, sans respecter d’échelle.
+
+2. Pour le schéma ci-dessus, qualifier l’image représentée avec deux des termes suivants :
+image réelle, image virtuelle, image droite, image renversée.
+
+3. Sans calcul, monter que le schéma ci-dessus modélise correctement la situation
+photographiée à bord de la station spatiale.
+Choix d’une lentille mince pour modéliser la bulle d’eau
+Pour reproduire la situation de la station spatiale, un groupe d’élèves décide d’utiliser une
+lentille mince convergente de grand diamètre afin de remplacer la bulle d’eau de la station
+spatiale. On dispose au laboratoire d’une telle lentille (L) mais sa distance focale f’ est
+inconnue.
+Pour déterminer la valeur de la distance focale de cette lentille, les élèves effectuent une série
+de mesures : pour différentes positions de la lentille par rapport à l’objet, ils déplacent l’écran
+̅̅̅̅̅et ̅̅̅̅̅
+pour former une image nette sur celui-ci, puis ils mesurent les valeurs algébriques 𝑂𝐴
+𝑂𝐴’.
+Tableau de mesures
+Point de
+mesure n°
+− 0,150
+− 0,200
+− 0,300
+− 0,400
+− 0,500
+− 0,600
+OA en m
+0,762
+0,307
+0,218
+0,178
+0,161
+0,158
+OA′ en m
+Point de
+mesure n°
+− 0,700
+− 0,800
+− 0,900
+− 1,000
+− 5,0
+OA en m
+0,153
+0,147
+0,146
+0,143
+0,126
+OA′ en m
+Les élèves placent alors, après calculs, les points de mesure sur un graphe et tracent en
+effectuant une régression linéaire la courbe de tendance (en pointillés) dont l’équation y = f(x)
+s’affiche ci-après.
+(en m−1 )
+OA′
+
+Graphe
+
+9,00
+
+y = 1,00x + 8,04
+R² = 1,00
+
+7,00
+
+5,00
+
+3,00
+
+1,00
+-7,00
+
+-6,00
+
+-5,00
+
+-4,00
+
+-3,00
+
+-2,00
+
+-1,00
+
+0,00 -1,00
+
+(en m−1 )
+OA
+
+Graphe avec y = ̅̅̅̅̅
+en ordonnée (en m-1) et x = ̅̅̅̅
+en abscisse (en m-1)
+𝑂𝐴′
+4. Les résultats expérimentaux obtenus sont-ils en accord avec la relation de conjugaison
+d’une lentille mince, fournie dans les données ? Justifier.
+5. Déterminer la valeur de la distance focale f’ de la lentille (L).
+6. Conclure sur le fait que cette lentille puisse être utilisée ou non pour remplacer la bulle
+d’eau étudiée à la question 1.
+7. Justifier, en choisissant deux propositions parmi celles ci-dessous, que le point de mesure
+n° 11 permet d’estimer sans calcul la valeur de la distance focale de la lentille mince (L).
+Préciser cette valeur.
+(a) L’image est à
+(b) L’objet est à
+(c) L’objet est dans (d) L’image est
+l’infini par rapport à l’infini par rapport à le plan focal objet
+dans le plan focal
+la lentille
+la lentille
+de la lentille
+image de la lentille
+Reproduction de la situation au laboratoire
+Le groupe d’élèves a ainsi reproduit au laboratoire la situation de la station spatiale en
+remplaçant la bulle d’eau par une lentille mince convergente (L) de grand diamètre (10,0 cm)
+et de distance focale f’ dont la valeur sera assimilée à celle de la question 7 soit f’ = 0,126 m.
+L’astronaute est remplacé par un personnage en bois de hauteur 44,0 cm dont le visage
+mesure 8,5 cm de haut. Un premier essai figure sur la photographie 2.
+Lors de la prise de vue, la distance entre la lentille (L) et le personnage est de 33,0 cm.
+
+Photographie 2 : première expérience réalisée au laboratoire
+8. À l’aide des informations sur les conditions dans lesquelles la photographie 2 a été
+réalisée, déterminer par le calcul la valeur de la position et la taille de l’image du
+personnage à travers la lentille.
+
+PARTIE B
+Recyclage d’une solution de bouillie bordelaise (10 points)
+La bouillie bordelaise peut être utilisée par les jardiniers pour traiter le
+potager ou les arbres fruitiers contre certaines maladies. Dans le commerce,
+elle est vendue sous la forme d'une poudre à dissoudre dans de l’eau.
+Cette poudre est constituée de sulfate de cuivre hydraté CuSO 4,5H2O(s) et
+d’hydroxyde de calcium Ca(OH)2(s).
+On obtient, par dissolution de cette poudre dans l’eau, une solution contenant
+des ions cuivre Cu2+ à pulvériser sur les végétaux.
+Comme tout produit de traitement, cette solution doit être utilisée en
+respectant des concentrations précises. En effet au-delà d’un certain seuil, le
+cuivre est toxique pour l’Homme et l’environnement.
+Le but de l’exercice est de déterminer si la solution de bouillie bordelaise notée S, fabriquée
+en trop grande quantité par un jardinier amateur, peut être jetée à l’évier ou doit être traitée ou
+recyclée
+Données :
+- Concentration en masse limite d’ions Cu2+ pour les rejets dans les eaux usées : Cm = 0,5
+mg par litre d’eau déversée
+- Masse molaire atomique du cuivre : M(Cu) = 63,5 g·mol−1
+- Masse molaire de l’hydroxyde de sodium : M(NaOH) = 40,0 g·mol−1
+- Cercle chromatique :
+
+- Spectre d’absorbance d’une solution aqueuse de sulfate de cuivre
+(Cu2+ (aq) + SO42-(aq)) :
+
+- L’espèce ionique Cu2+ (aq) est responsable de la couleur de la solution aqueuse.
+1. Déterminer la couleur de l’espèce ionique Cu2+(aq) en solution aqueuse. Justifier.
+On souhaite déterminer la concentration en quantité de matière d’ions cuivre Cu 2+(aq) de la
+solution de bouillie bordelaise S, par un dosage spectrophotométrique. On réalise pour cela
+une gamme étalon et des mesures d’absorbance à la longueur d’onde 810 nm.
+2. Expliquer en quelques lignes le principe de cette méthode de dosage.
+On dispose d’une solution mère de sulfate de cuivre S0 de concentration en quantité de
+matière d’ions cuivre Cu 2+(aq) égale à C0 = 0,040 mol·L-1. À partir de cette solution S0 on
+prépare différentes solutions Si. Le volume de chaque solution fille obtenue est égal à VF
+=10,0 mL.
+3. Recopier et compléter le tableau ci-dessous en explicitant le calcul pour la solution S2.
+Solution fille Si
+S1
+S2
+S3
+S4
+S5
+Concentration en quantité
+0,020
+0,016
+0,012
+0,008
+0,004
+de matière Ci (mol.L-1)
+Volume V0 de solution S0 à
+prélever (mL)
+On mesure l’absorbance A des différentes solutions préparées et on trace le graphique
+suivant :
+
+4. Après avoir rappelé l’expression de la loi de Beer-Lambert en indiquant le nom des
+grandeurs et les unités associées, déterminer si les résultats expérimentaux obtenus sont
+en accord avec cette loi.
+Afin de déterminer la concentration de la bouillie bordelaise préparée par le jardinier, on dilue
+20 fois la solution S avant de l’analyser avec le spectrophotomètre. On mesure une
+absorbance A’ = 0,120 pour la solution diluée S’.
+
+5. Détailler le protocole expérimental de préparation des 100 mL de la solution S’. La verrerie
+mise à disposition est :
+− fiole jaugée : 100 mL et 200 mL
+− éprouvettes graduées : 10 mL, 50 mL et
+100 mL
+− pipettes jaugées : 5 mL, 10 mL, 50 mL
+et 100 mL
+− pissette d’eau distillée
+− béchers : 50 mL et 100 mL
+− pipette en plastique souple
+6. Déterminer si le jardinier peut rejeter son excédent de solution S à l’évier ou s’il doit le
+faire recycler.
+La toxicité de la bouillie bordelaise est liée à la présence des ions cuivre Cu2+. Un traitement
+pour éliminer ces ions consiste à ajouter des pastilles d’hydroxyde de sodium NaOH(s. La
+transformation est modélisée par la réaction des ions cuivre Cu 2+ présents dans la bouillie
+bordelaise et des ions hydroxyde OH– apportés par les pastilles d’hydroxyde de sodium) pour
+former un précipité d’hydroxyde de cuivre Cu(OH)2(s) qui est récupéré par filtration puis traité.
+L’équation de la réaction chimique est la suivante :
+Cu2+(aq) + 2 OH - (aq)
+→
+Cu(OH)2(s)
+On souhaite traiter 500 mL d’une solution dont la concentration en quantité de matière d’ions
+Cu2+ est égale à CT = 0,22 mol.L-1.
+7. Déterminer la masse m d’hydroxyde de sodium NaOH(s) à ajouter à cette solution pour
+éliminer totalement les ions cuivre sans pour autant que les ions hydroxyde ne soient en
+excès.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même si elle
+n’a pas abouti.

@@ -1,0 +1,292 @@
+{"pages": 8, "method": "pdftotext", "bytes": 939080, "at": "2026-11-23T09:24:50+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Cloche de plongée (10 points)
+À partir du 16e siècle, les hommes commencent à
+s’intéresser à la récupération d’épaves et notamment aux
+trésors qu’elles renferment. Ils imaginent de nouvelles
+techniques pour respirer sous l’eau tout en résistant à la
+pression. Parmi les engins inventés : la cloche de plongée.
+Il s’agit d’un simple tonneau ouvert vers le bas et
+lourdement lesté, pouvant contenir plusieurs plongeurs. Elle
+est descendue à la verticale et posée sur ou près du fond.
+En 1690, le physicien anglais Edmund HALLEY, qui a
+également découvert la célèbre comète de Halley, améliore
+le principe de la cloche de plongée.
+Elle est actuellement encore utilisée pour véhiculer du
+matériel et du personnel entre la surface et des zones de
+travail subaquatiques.
+
+Schéma de la cloche
+de Halley
+
+On modélise une cloche de plongée par un cylindre sans plancher dont la surface de la
+base S est égale à 1,0 m² et la hauteur H à 2,4 m.
+Avant d'être immergée dans l'eau, la cloche est entièrement remplie d'air à la pression
+atmosphérique patm = 1,013×105 Pa. On considère que la quantité d’air, ainsi que la
+température, restent constantes au cours de l'immersion de la cloche.
+
+Données :
+• masse volumique de l’eau de mer dans laquelle la cloche est immergée :
+ρ = 1,02×103 kg.m-3 ;
+• intensité de la pesanteur : g = 9,81 m.s-2.
+1. Étude expérimentale de la loi de Mariotte
+Pour modéliser le comportement de l’air dans la
+cloche, on utilise le matériel photographié ci-contre.
+La pression P de l’air emprisonné dans la seringue
+est relevée pour différentes valeurs du volume V du
+corps de la seringue. On suppose que la température
+de l’air reste constante.
+Les résultats obtenus sont rassemblés dans le tableau ci-dessous :
+P (hPa)
+
+V (cm )
+
+1011
+
+1127
+
+1261
+
+1419
+
+1633
+
+1932
+
+1.1. Quelle précaution doit-on prendre pour s’assurer que la température de l’air reste la
+même lors de chaque mesure ?
+1.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un
+gaz pour une quantité de matière donnée et une température constante.
+1.3. On utilise un programme écrit en langage Python pour tracer la courbe donnant la
+pression P en fonction de l’inverse du volume V. Un extrait de ce programme est
+donné ci-après.
+pression = [1011,1127,1261,1419,1633,1932]
+volume = [25,30,35,40,45,50]
+invVolume = [ ]
+pyplot.axis([0,0.05,0,2000])
+pyplot.xlabel(‘’ 1/V (mL-1)’’)
+pyplot.ylabel(‘’p (hPa) »)
+pyplot.title(‘’Etude de la loi de Mariotte »)
+for i in range (0,6) :
+invVolume.append(1/volume[i])
+pyplot.scatter (invVolume,pression,color=’black’,marker=‘’+”)
+pyplot.show ( )
+
+Le tracé obtenu suite à l’exécution du programme est reproduit ci-après :
+
+1.3.1. La courbe obtenue est-elle cohérente avec la loi de Mariotte ? Justifier.
+1.3.2. Identifier l’erreur commise dans le programme.
+1.4. Exploiter, par une méthode au choix, les résultats expérimentaux obtenus afin de
+tester la loi de Mariotte.
+2. Fonctionnement de la cloche de plongée
+2.1. Force pressante exercée par l’eau de mer sur la surface horizontale supérieure de
+la cloche immergée à 18 m de profondeur.
+2.1.1. La loi fondamentale de la statique des fluides reliant la différence de pression
+pA - pB entre deux points A et B d’un fluide incompressible à ρ, g, et zB – zA ,
+s’écrit pA - pB = ρ.g.(zB – zA) ; zA et zB étant les ordonnées des points A et B
+sur un axe des z orienté suivant la verticale ascendant. Décrire, en le
+justifiant, l’évolution de la pression en fonction de la profondeur.
+2.1.2. Montrer que la pression p18 de l'eau de mer à 18 m de profondeur est égale à
+2,8×105 Pa.
+2.1.3. En déduire la valeur de la force pressante F qui modélise l’action exercée par
+l’eau de mer sur la surface horizontale supérieure d’aire S de la cloche
+immergée à 18 m de profondeur.
+2.1.4. Montrer que la valeur de cette force pressante est égale à celle du poids
+d'une masse environ égale à 29 t. Commenter.
+Extérieur de la cloche
+Eau
+
+Paroi de la cloche
+
+Intérieur de la cloche
+Air
+
+2.2. En comparant qualitativement la pression de l’air dans la cloche immergée et la
+pression atmosphérique, expliquer pourquoi le niveau de l’eau à l’intérieur de la
+cloche augmente lorsque celle-ci est immergée.
+On considère que la quantité d’air, ainsi que la température, restent constantes au
+cours de l'immersion de la cloche.
+2.3. On néglige la variation de la pression de l’eau sur la hauteur de la cloche.
+2.3.1. Déterminer la valeur du volume d’air V0 contenu initialement dans la cloche
+cylindrique de section S et de hauteur H.
+2.3.2. Déterminer, en utilisant la loi de Mariotte, le volume V18 d’air contenu dans la
+cloche à 18 m de profondeur.
+2.3.3. En déduire de quelle hauteur h18 est montée l'eau dans la cloche.
+PARTIE B
+Le vert malachite (10 points)
+Le vert malachite est une espèce chimique organique artificielle. Son
+nom évoque la malachite, qui est une roche dont la couleur bleu-vert
+est proche de celle de cette espèce chimique. Le vert malachite est
+utilisé comme indicateur coloré mais aussi dans le traitement
+d’infections bactériennes des poissons en pisciculture et en
+aquariophilie.
+Cet exercice a pour objectif d’étudier :
+- la synthèse du vert malachite ;
+- certaines précautions d’utilisation du vert malachite en aquariophilie.
+Données
+Caractéristiques du vert malachite :
+- formule brute : C23H25N2Cl ; masse molaire M = 364,0 g·mol–1
+Table simplifiée en spectroscopie infrarouge :
+Liaison
+
+Nombre d’onde (cm-1)
+
+Intensité
+
+O-H libre
+
+3650 - 3580
+
+Bande forte et fine
+
+O-H liée (pont hydrogène)
+
+3100 -3500
+
+Bande forte et large
+
+O-H (acide carboxylique)
+
+2500 - 3300
+
+Bande forte et large
+
+Ctri-H (Ctri : carbone trivalent)
+Ctet-H (Ctet : carbone
+tétravalent)
+
+3000 - 3100
+
+Bande moyenne
+
+2800 - 3000
+
+C-H de CHO (aldéhyde)
+
+2650 - 2900
+
+C=O (aldéhyde, cétone)
+C=O (acide carboxylique)
+C=C
+Ctet-H
+Liaison carbone-carbone
+d’un cycle benzénique :
+
+1650 -1730
+1690 - 1760
+1625 - 1685
+1415 - 1470
+
+Bande moyenne,
+parfois 2 bandes
+Bande moyenne
+
+1450-1600
+
+Variable, 3 à 4 bandes
+
+1. Synthèse du vert malachite
+La première étape de la synthèse du vert malachite au laboratoire consiste à chauffer à
+reflux pendant 10 minutes, le mélange suivant : 4,0 mL de benzaldéhyde, 4,0 mL de
+diméthylaniline, 3 g de chlorure de zinc et quelques grains de pierre ponce.
+1.1. Choisir, parmi les montages suivants, celui qui permet de réaliser un chauffage à
+reflux.
+
+B
+C
+1.2. Légender le schéma du montage choisi à la question précédente, en reportant sur
+votre copie les numéros du schéma.
+Un des réactifs de la synthèse est le benzaldéhyde. Le benzaldéhyde est susceptible de
+s’oxyder à l’air en acide benzoïque lorsque le flacon est ouvert ; la transformation est
+représentée ci-dessous. Il convient donc de vérifier la pureté du benzaldéhyde avant de
+l’utiliser comme réactif.
+
+HO
+CH O
+CH C
+
+C
+
+Oxydation
+
+O
+
+CH C
+
+Benzaldéhyde
+
+Acide benzoïque
+
+1.3. Reproduire sur votre copie les formules du benzaldéhyde et de l’acide benzoïque,
+puis pour chacune entourer le groupe caractéristique et l’associer à une famille de
+composés.
+1.4. Après avoir défini une oxydation, justifier que le passage du benzaldéhyde à l’acide
+benzoïque est une oxydation.
+1.5. Associer à chacune des deux molécules (benzaldéhyde et acide benzoïque) l’un des
+spectres infrarouge reproduits ci-après en expliquant la démarche suivie.
+Pour vérifier la pureté du benzaldéhyde dans le flacon entamé, il est possible de mettre en
+œuvre une chromatographie sur couche mince (CCM).
+1.6. Indiquer les dépôts qui pourraient être effectués sur la plaque de chromatographie
+pour effectuer cette analyse et l’allure du chromatogramme obtenu si le benzaldéhyde
+est pur ou s’il est partiellement oxydé.
+
+Spectre 1 (d'après le logiciel de simulation Specamp)
+
+Spectre 2 (d'après le logiciel de simulation Specamp)
+2. Utilisation du vert malachite en aquariophilie
+Le vert malachite peut être utilisé comme traitement contre la maladie des « points blancs »
+contractée par les poissons dans les bassins d’eau douce, mais il est nécessaire d’éliminer
+le surplus de vert malachite à la fin du traitement en utilisant du charbon actif. Pour cela,
+une analyse de l’eau du bassin est réalisée pour déterminer la concentration restante en
+vert de malachite. Un extrait du cahier de laboratoire du technicien responsable du bassin
+est fourni ci-après.
+2.1. Déterminer la valeur de la concentration en quantité de matière apportée de vert
+malachite, de la solution aqueuse fabriquée par le technicien dans l’étape 1.
+2.2. Déterminer si la modélisation effectuée à l’étape 3 est en accord avec la loi de BeerLambert dont l’énoncé est attendu, ainsi que le nom des grandeurs et des unités.
+Le volume du bassin est Vbassin = 1,2 × 104 L. On considère ici que 1,0 g de charbon actif
+peut piéger au maximum 10 mg de vert de malachite.
+2.3. Déterminer le nombre de sacs de charbon actif de 500 g que doit utiliser le technicien
+pour éliminer le vert de malachite restant dans l’eau du bassin.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie même
+si elle n’a pas abouti.
+
+Extrait du cahier de laboratoire du technicien
+Étape 1 : J’ai préparé un volume V = 500 mL d’une solution aqueuse à partir
+d’une masse m = 1,8 mg de vert malachite solide. C’est la solution mère.
+Étape 2 : J’ai réalisé le spectre de la solution mère pour pouvoir déterminer la
+longueur d’onde à choisir pour les mesures suivantes. J’ai obtenu :
+0,8
+0,6
+0,4
+0,2
+
+λ (nm)
+
+Je choisis la longueur d’onde de travail pour la suite : 625 nm.
+Étape 3 : Par dilution de la solution mère j’ai préparé une gamme étalon de
+quatre solutions dont j’ai mesuré l’absorbance A. J’obtiens le graphe suivant :
+
+0,8
+0,6
+
+A = 8,2.104 C
+R² = 0,99
+
+0,4
+0,2
+0,00E+002,00E-064,00E-066,00E-068,00E-061,00E-051,20E-05
+
+C (mol.L-1)
+Étape 4 : J’ai mesuré l’absorbance de l’eau du bassin à la même longueur
+d’onde que les mesures précédentes. J’ai trouvé Aeau-bassin = 0,67

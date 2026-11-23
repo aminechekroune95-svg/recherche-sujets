@@ -1,0 +1,508 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1197464, "at": "2026-11-23T09:27:59+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vente de livres
+Sur 4 points
+Le premier roman d’un humoriste français est paru fin juillet 2023.
+La première semaine après sa parution, 5 000 exemplaires ont été vendus. Durant
+les semaines suivantes, environ 3 000 exemplaires ont été vendus chaque semaine.
+Partie 1 – Étude des ventes au cours des premières semaines
+Au vu des premières ventes sur les quatre premières semaines, l’éditeur décide de
+modéliser cette situation à l’aide d’une suite (𝑢! ).
+Pour tout entier naturel non nul 𝑛, on note 𝑢! le nombre d’exemplaires vendus au
+bout de 𝑛 semaines. Ainsi 𝑢" = 5 000.
+1- Justifier pourquoi la modélisation peut être réalisée par une suite
+arithmétique. Préciser alors la raison de cette suite.
+2- Calculer 𝑢# .
+3- L’éditeur souhaite savoir quand 100 000 exemplaires seront vendus.
+Au bout de combien de semaines cet objectif serait-il atteint ?
+Partie 2 – Étude de l’évolution des ventes
+L’évolution des ventes après plus de deux mois laisse penser que le nombre
+d’exemplaires vendus pourrait être modélisé à l’aide d’une suite géométrique (𝑣! ) de
+raison 𝑞. Pour tout entier naturel non nul 𝑛, 𝑣! représente ainsi le nombre
+d’exemplaires vendus au bout de 𝑛 semaines après la parution.
+Ainsi 𝑣" = 5 000 et 𝑣"$ = 103 305.
+1- Justifier que 𝑞 ≈ 1,4 (valeur arrondie au centième). Pour la suite de l’exercice
+on prend cette valeur 1,4 comme raison de la suite.
+2- Calculer le nombre d’exemplaires qui seraient alors vendus au bout de quinze
+semaines.
+
+3- L’auteur pense que son roman se vendra à plus de 3 000 000 d’exemplaires.
+Compléter la fonction ci-dessous, écrite en Python, afin qu’elle renvoie le
+nombre minimal de semaines nécessaires pour atteindre cet objectif.
+def exemplaire():
+n=1
+v = 5000
+while v … 3000000:
+v=…
+n=n+1
+return n
+Au bout de combien de semaines son objectif sera-t-il atteint ?
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+AVC et appareils auditifs
+Partie 1 – Étude des symptômes de la patiente #361
+La patiente #361 se rend à l’hôpital pour réaliser des examens car son audition se
+dégrade. La patiente est soumise à un bilan auditif qui consiste à déterminer le seuil
+de niveau sonore audible pour différents sons purs.
+Le document 1 établit l’histogramme de la perte auditive de la patiente #361 en
+fonction de la fréquence ainsi que celle d’un groupe témoin constitué de personnes
+du même âge que la patiente (65 ans) :
+
+le niveau 0 dB correspond à une absence de perte auditive ;
+
+jusqu’à 20 dB de perte auditive, le patient ne perçoit aucun symptôme de
+perte d’audition ;
+
+à partir de 20 dB de perte auditive, le patient a une perte légère d’audition.
+
+Document 1 – Histogramme présentant les pertes auditives de la patiente
+#361 et du groupe témoin en fonction de la fréquence sonore
+
+Perte auditive (dB)
+
+Patiente #361
+
+Témoin
+
+1000
+
+2000
+
+Fréquence (Hz)
+
+4000
+
+8000
+
+Source : T. Fujioka et al. Central auditory processing in adults with chronic stroke without
+hearing loss a magnetoencephalography study - 2020
+
+1- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition chez les personnes du groupe témoin.
+2- À partir du document 1 et des données qui le précèdent, proposer une
+explication à la perte d’audition chez les personnes du groupe témoin.
+3- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition anormale de la patiente #361 par rapport au groupe témoin.
+Les oreilles externes, moyennes et internes de la patiente #361 sont normales. Elle
+réalise ensuite un examen d’imagerie à résonance magnétique (IRM). Les médecins
+ont détecté un Accident Vasculaire Cérébral (AVC) sur l’IRM. Les zones touchées
+par les AVC sont altérées et fonctionnent moins bien voire plus du tout en fonction
+des caractéristiques de l’AVC (localisation, durée, …).
+Document 2 – IRM de la patiente #361
+
+Document 3 – IRM d’un individu témoin
+
+L’AVC est localisé par une tâche grise
+sombre sur l’IRM.
+
+L’IRM fonctionnelle montre les zones du
+cerveau activées (zones entourées) chez
+un individu témoin écoutant de la musique.
+
+Source : T. Fujioka et al. Central auditory
+processing in adults with chronic stroke
+without hearing loss a
+magnetoencephalography study – 2020
+
+Source : Images issues du logiciel ÉduAnat2.
+Coupe axiale.
+
+4- En vous appuyant sur les documents 2 et 3, expliquer l’origine de la perte
+auditive anormale chez la patiente #361.
+
+Partie 2 – Traitement de la patiente #361
+Il existe différents dispositifs médicaux pour limiter la surdité.
+Document 4 – Tableau présentant le fonctionnement de différents appareils
+auditifs
+Type d’appareil
+
+Mode de fonctionnement
+
+Implant
+cochléaire
+
+Transforme, grâce à des microélectrodes, les signaux
+sonores captés par un microphone en signaux numériques
+stimulant directement le nerf auditif sans passer par l’oreille
+interne.
+
+Prothèse
+auditive
+
+Amplifie certaines fréquences sonores de façon
+préférentielle par voie aérienne.
+
+Prothèse
+ossiculaire
+
+Remplace un ou plusieurs osselets de l’oreille moyenne
+(différents matériaux et diverses formes sont disponibles)
+
+Source : Incursion dans le monde des prothèses auditives numériques – Gada Kalil et
+Sam V. Daniel
+
+5- Certains des appareils auditifs du document 4 utilisent un convertisseur
+analogique-numérique (CAN). À partir de vos connaissances, donner le nom des
+deux opérations de numérisation permettant de transformer un signal analogique en
+signal numérique.
+6- Choisir l’appareil auditif pertinent pour la patiente #361 parmi ceux proposés dans
+le document 4. Justifier ce choix.
+7- L’appareil auditif a permis d’augmenter les performances auditives de la patiente
+#361 de 10 dB pour un son de fréquence 250 Hz. À partir du document 5 page
+suivante, indiquer le facteur de multiplication de l’intensité sonore associé à cette
+augmentation de 10 dB. Justifier votre réponse.
+
+Document 5 – Tableau de correspondance entre le niveau d’intensité sonore
+et l’intensité sonore avec les sensations associées
+
+Intensité
+sonore
+(W.m-2)
+
+10-12
+
+10-8
+
+10-6
+
+10-4
+
+10-3
+
+Niveau
+d’intensité
+sonore
+(dB)
+
+Limite
+d’audibilité
+
+fond
+calme
+
+gênant
+
+très
+gênant
+
+Seuil
+danger
+
+Seuil
+douleur
+
+Sensation
+
+Niveau terminale
+Thème « Science, climat et société »
+
+L’histoire de l’atmosphère terrestre
+La Terre s’est formée il y a plus de 4 milliards d’années par agglomération (on parle
+aussi d’accrétion) de météorites appelées « chondrites ». L’atmosphère primitive de
+la Terre, est issue d’un dégazage des roches au cours de son refroidissement. Elle
+avait une composition très différente de l’atmosphère actuelle. La transformation de
+l’atmosphère au cours du temps est marquée en particulier par un fort
+enrichissement en dioxygène, ce qui lui a conféré un caractère oxydant.
+L’objectif de cet exercice est de rechercher des arguments expliquant
+l’enrichissement de l’atmosphère en dioxygène, il y a 2,4 milliards d’années et de
+comprendre comment les chercheurs ont pu reconstituer l’histoire de l’atmosphère.
+Document 1 – Métabolisme des cyanobactéries actuelles
+Une culture de cyanobactéries est placée dans une enceinte hermétique. Les
+teneurs en dioxygène et en dioxyde de carbone sont relevées sous différentes
+conditions d’éclairement. Les résultats sont présentés sur le graphique cidessous.
+Évolution des teneurs en dioxygène et dioxyde de carbone
+de la culture de cyanobactéries
+
+Données :
+Il existe différents types de métabolismes, notamment :
+
+la respiration : O% + Sucre → H% O + CO%
+
+la photosynthèse : CO% + H% O ;⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯= Sucre + O%
+
+la fermentation alcoolique : Sucre → CO% + Ethanol
+
+'( )*é,'(-' .' /012è*'
+
+Les équations des réactions ne sont pas ajustées, elles indiquent seulement la
+nature des réactifs et des produits. Les sucres, appelés aussi hydrates de carbone,
+sont composés de carbone (C), d’hydrogène (H) et d’oxygène (O).
+1- À l’aide du document 1, donner, en justifiant, le nom du métabolisme utilisé par
+les cyanobactéries dans l’expérience entre 0 et 5 minutes, puis entre 5 et
+10 minutes.
+2- Les stromatolithes sont des constructions carbonatées d’origine biologique
+formées par des micro-organismes, semblables à des cyanobactéries. Les plus
+anciens ont été datés à environ 3,5 milliards d’années. À partir du document 1 et
+de vos connaissances, justifier d’une origine probable de la production de
+dioxygène à partir de 3,5 milliards d’années.
+Document 2 – Les formations sédimentaires d’oxydes de fer
+La grande majorité des minerais de fer du monde est constituée de ce qu'on
+appelle des fers rubanés (Banded Iron Formation ou BIF, en anglais). Ces BIF
+existent sous plusieurs formes, plus ou moins riches en fer, et contiennent un
+oxyde de fer composé de deux atomes de fer et de trois atomes d’oxygène.
+Le tableau ci-dessous présente différents oxydes de fer :
+Oxyde de fer
+
+Formule
+brute
+
+Wustite
+
+FeO
+
+Hématite
+
+Fe2O3
+
+Magnétite
+
+Fe3O4
+
+Description
+Poudre grise
+Minéral de couleur
+rouille
+Minéral de couleur
+noire
+
+Équation chimique de
+formation de l’oxyde de
+fer, non ajustée
+Fe + O2 → FeO
+Fe + O2 → Fe2O3
+Fe + O2 → Fe3O4
+
+3- Nommer l’oxyde de fer majoritaire présent dans les BIF et ajuster l’équation
+chimique modélisant sa formation après l’avoir recopiée sur la copie.
+Document 3 – Évolution de la formation des paléosols rouges et des fers
+rubanés au cours du temps
+
+Source : d’après C. Klein, Nature, 1997
+
+L’axe des abscisses correspond à l’âge des roches en milliard d’années avant le
+présent. L’axe des ordonnées correspond à la quantité relative des roches
+formées.
+Les paléosols, ou sols fossiles, se sont formés par altération de roches
+continentales au contact de l’atmosphère. La couleur rouge de certains de ces sols
+provient de la forte teneur en hématite. Les fers rubanés sont toujours des
+formations sédimentaires marines.
+Le volcanisme continental et marin relâchent une quantité importante de fer sous
+forme d’ions Fe2+ oxydés en Fe3+ par le dioxygène.
+4- À l’aide du document 3, proposer une chronologie d’évènements ayant conduit à
+la mise en place d’une atmosphère riche en dioxygène.
+
+Exercice3 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+2- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé au Nord de l’Europe dans les régions éloignées des côtes.
+Exploiter le document 2 suivant, à l’aide de vos connaissances, pour expliquer
+que la maladie ait été plus fréquente au Nord de l’Europe et dans les régions
+éloignées des bords marins et océaniques.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers qui contribuent respectivement
+à 19 % et 25 % des apports chez les adultes et à 12 % et 40 % des apports en
+vitamine D chez les enfants de 11 à 17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+3- À l’aide de vos connaissances, expliquer l’origine des variations de la puissance
+solaire reçue au sol, observées dans le document 3.
+4- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.
+
+Niveau terminale
+Thème « Une histoire du vivant »
+
+Évolution du VIH
+La pandémie de SIDA est liée à la propagation du VIH, virus de l'immunodéficience
+humaine. Ce virus a été découvert en 1983. Depuis, les connaissances sur la
+génétique et l’évolution de ce virus n’ont cessé de progresser, permettant de mieux
+lutter contre ce pathogène
+Partie A – Évolution du VIH
+Document 1 – Structure simplifiée du virus VIH
+
+Le matériel génétique du virus VIH est composé de 9181 unités appelées
+nucléotides. À chaque fois qu’un virus se reproduit, il y a une mutation tous les
+1000 nucléotides, c’est-à-dire qu’il y a une erreur de copie d’un nucléotide tous les
+1000 nucléotides : c’est ce que l’on nomme la fréquence de mutation. Les
+mutations entrainent l’apparition de nouvelles caractéristiques moléculaires du
+virus VIH, notamment au niveau des protéines de l’enveloppe.
+1- Montrer qu’il se produit environ 9 mutations dans le matériel génétique du VIH à
+chaque fois que le virus se reproduit.
+
+Les cellules humaines ont une fréquence de mutation 100 000 fois inférieure à celle
+du virus VIH.
+2- Au regard de ces informations et de celles issues du document 1, montrer que ce
+virus évolue rapidement.
+Les laboratoires pharmaceutiques élaborent un vaccin en fonction des
+caractéristiques moléculaires des protéines de l’enveloppe du virus contre lequel il doit
+protéger. Un vaccin est donc efficace sur un seul type de virus : on dit qu’il est
+spécifique du virus.
+3- Au regard de ces informations, de vos réponses aux questions précédentes, et
+de vos connaissances, expliquer pourquoi il est difficile d’élaborer un vaccin
+contre le virus VIH.
+Partie B – Lutte contre la propagation du virus VIH
+Afin de lutter contre la propagation du VIH, des autotests de dépistage de ce virus
+sont en vente libre dans les pharmacies de France depuis 2015. Ces autotests
+s’utilisent par prélèvement d’une goutte de sang, à la maison et sans prescription
+médicale.
+Document 2 – Performances de l’autotest VIH
+La sensibilité d’un test représente la probabilité que le test soit positif si la maladie
+est présente. Elle est évaluée à 100 %.
+La spécificité d’un test représente la probabilité que le test soit négatif si la maladie
+est absente. Elle est évaluée à 99,8 %.
+Source : Notice d’utilisation autotest VIH ®
+
+La prévalence d’une maladie est la proportion du nombre de cas positifs sur l’effectif
+total d’une population. On rappelle que la valeur prédictive positive d’un test dans
+une population donnée est la probabilité qu’un individu de cette population qui réagit
+positivement au test soit effectivement malade. Les valeurs prédictives positives
+(VPP) et négatives (VPN) dépendent de la prévalence. Par exemple, pour un test de
+dont la sensibilité est de 0,99 et la spécificité est de 0,98, la VPP varie de 33 % à
+95 % quand la prévalence varie de 1 % à 30 %.
+
+Le tableau de contingence, ci-dessous, donne les effectifs liés à une étude portant
+sur une population de 10 000 personnes :
+
+Test positif
+
+Test négatif
+
+Total
+
+Patients contaminés
+par le VIH
+
+Patients non
+contaminés par le
+VIH
+
+9 979
+
+Total
+
+2 000
+
+4- À l’aide des informations du document 2, recopier et compléter le tableau de
+contingence. Les résultats des calculs seront arrondis à l’entier.
+5- Montrer que parmi tous les tests positifs, 9,5 % des patients sont réellement
+infectés par le VIH (« vrais positifs »), alors que 90,5% des patients ne sont pas
+infectés par le VIH (« faux positifs »).
+6- Au regard des réponses aux questions de la partie B, discuter de la pertinence
+de l’autotest étudié.
+Partie C – Traitements proposés aux personnes contaminées par le VIH
+Différents traitements ont été progressivement mis au point depuis la découverte du
+virus VIH, et permettent désormais aux personnes contaminées de vivre en bonne
+santé.
+7- En mettant en relation les informations du document 3 page suivante et vos
+connaissances sur la sélection naturelle, expliquer les causes possibles de
+l’augmentation de la résistance aux antiviraux anti-VIH.
+
+Document 3 – La résistance du VIH aux médicaments antiviraux (données
+collectées entre 2014 et 2017)
+Il n’existe actuellement pas de traitement permettant d’éliminer le virus VIH d’un
+organisme contaminé. Cependant, des médicaments appelés antiviraux permettent
+de contrôler la prolifération du virus VIH en inhibant sa reproduction. Une personne
+est dite résistante aux antiviraux lorsque le médicament n’est plus efficace.
+Proportion de personnes résistantes aux
+antiviraux anti-VIH
+Pays
+
+Avant traitement aux
+antiviraux
+
+Après traitement aux
+antiviraux
+
+Namibie
+
+Argentine
+
+Vietnam
+
+Source : HIV drug resistance report, OMS, 2019.

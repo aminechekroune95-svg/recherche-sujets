@@ -1,0 +1,420 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1336327, "at": "2026-11-23T09:40:08+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 2
+Quelle est l'écriture binaire du nombre entier 183 ?
+0100 1000
+1110 1101
+1011 0111
+1001 0101
+Question A 3
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x = 1
+for i in range(10):
+x = x * 2
+1024
+2048
+20000000000
+Question A 4
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A 5
+Quelle est l'écriture binaire, en complément à deux sur 8 bits, de l'entier négatif –7 ?
+- 0000 0111
+1000 0111
+1111 1000
+1111 1001
+
+Question A 6
+Le résultat de la soustraction en binaire 101001 - 101 est égal au nombre binaire :
+100900
+101110
+100100
+100110
+
+Thème B : types construits
+Question B 1
+On définit : L = [10,9,8,7,6,5,4,3,2,1].
+Quelle est la valeur de L[L[3]] ?
+Question B 2
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+Question B 3
+Laquelle des quatre expressions suivantes a-t-elle pour valeur la liste [1, 2, 5, 10] ?
+[i for i in range(4) if i<2]
+[i for i in range(4)]
+[i*i + 1 for i in range(4)]
+[i*i - 2*i + 2 for i in range(4)]
+Question B 4
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 5
+On dispose d'une liste définie par L = [[1,2,3],[4,5,6],[7,8,9]].
+Quelle est la valeur de L[1][2] ?
+
+Question B 6
+Quelle est la valeur de l'expression [(i,i+1) for i in range(2)] ?
+[0,1,1,2]
+[(1,2),(2,3)]
+[(0,1),(1,2)]
+[[0,1],[1,2]]
+
+Thème C : traitement de données en tables
+Question C 1
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 2
+On exécute le code suivant :
+dict = { "alexandre" : 17, "mehdi" : 18, "jeanne" : 16,
+"charlotte" : 19, "celina" : 18, "noé" : 19 }
+def f(dic):
+for cle, valeur in dic.items() :
+if valeur > 18:
+return cle
+Que renvoie l'appel f(dict) ?
+19,19
+"charlotte"
+"charlotte","noé"
+Question C 3
+On exécute le script suivant :
+asso = []
+L = [ ['marc','marie'], ['marie','jean'], ['paul','marie'], ['marie','marie'],
+['marc','anne']
+]
+for c in L :
+if c[1]==’marie’:
+asso.append(c[0])
+Que vaut asso à la fin de l'exécution ?
+['marc', 'jean', 'paul']
+[['marc','marie'], ['paul','marie'], ['marie','marie']]
+['marc', 'paul', 'marie']
+['marie', 'anne']
+
+Question C 4
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 5
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+Question D 2
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D 3
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 4
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations difficiles à décrypter
+une transmission facturée proportionnellement à la taille du message
+Question D 5
+Quelle est la balise HTML utilisée pour indiquer un titre de niveau d'importance maximal ?
+la balise <h0>
+la balise <h1>
+la balise <head>
+la balise <header>
+Question D 6
+
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Identifier parmi les éléments suivants celui qui n'est pas un capteur.
+haut-parleur
+caméra
+accéléromètre
+microphone
+Question E 2
+Sous Linux, dans quel but utilise-t-on la commande ls ?
+pour afficher le chemin vers le répertoire courant
+pour afficher les noms de fichiers et répertoires du répertoire courant
+pour effacer un fichier
+pour copier un fichier
+Question E 3
+Quel est le rôle de la commande shell ls ?
+basculer en mode administrateur
+lister le contenu du répertoire courant
+donner un accès complet à un fichier
+effacer le contenu du répertoire courant
+Question E 4
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E 5
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+
+Question E 6
+Dans une mémoire vive RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+
+Thème F : langages et programmation
+Question F 1
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+Question F 2
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+Question F 3
+On définit la fonction f suivante qui prend en argument une liste t d'entiers :
+def f(t):
+n = len(t)
+for i in range(n-1):
+for j in range(i+1,n):
+if t[i] == t[j]:
+return True
+return False
+Pour quelle valeur de t, f(t) vaut-elle True ?
+[[2,3], [3,4], [4,5], [2,3]]
+[[2,2], [3,4], [4,5], [2,3]]
+[[2,3], [3,2], [4,5], [5,4]]
+[[3,3], [4,4], [5,5], [6,6]]
+Question F 4
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+
+p = 15
+if c <= 40:
+p = 19
+else:
+p = 20
+return p
+Que renvoie maFonction(18) ?
+Question F 5
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 6
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+
+Thème G : algorithmique
+Question G 1
+On dispose en quantité illimité de pièces de 1 euro, 2 euros et 5 euros. On veut totaliser une somme de
+18 euros. Quelle est la solution donnée par l’algorithme glouton ?
+[5, 5, 5, 2, 1]
+[5, 5, 5, 2, 2, 1]
+[5, 5, 2, 2, 2, 1, 1]
+[5, 2, 2, 2, 2, 1, 1, 1, 1, 1]
+Question G 2
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+2500
+Question G 3
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G 4
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+elle renvoie le maximum de la liste
+
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+
+Question G 5
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 6
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇

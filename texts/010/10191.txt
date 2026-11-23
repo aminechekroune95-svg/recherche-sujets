@@ -1,0 +1,485 @@
+{"pages": 21, "method": "pdftotext", "bytes": 2020990, "at": "2026-11-23T09:45:00+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 21
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Le résultat de la soustraction en binaire 101001 - 101 est égal au nombre binaire :
+100900
+101110
+100100
+100110
+Question A.2
+Quelle est l'écriture décimale de l'entier positif dont l'écriture hexadécimale (en base 16) est 3F ?
+Question A.3
+Quel est l'entier relatif codé en complément à 2 sur un octet par le code 1111 1111 ?
+– 128
+– 127
+–1
+Question A.4
+Quelle est, en écriture décimale, la somme d'entiers dont l'écriture en base 16 (hexadécimale) est 2A + 2 ?
+Question A.5
+Si a vaut False et b vaut True, que vaut l’expression booléenne NOT(a AND b) ?
+False
+True
+None
+
+Question A.6
+Laquelle de ces affirmations concernant le codage UTF-8 des caractères est vraie ?
+le codage UTF-8 est sur 7 bits
+le codage UTF-8 est sur 8 bits
+le codage UTF-8 est sur 1 à 4 octets
+le codage UTF-8 est sur 8 octets
+
+Thème B : types construits
+Question B.1
+On exécute le script suivant.
+m = []
+for i in range(5):
+n = []
+for j in range(3):
+n.append(i*j)
+m.append(n)
+Quelle est la valeur de m à la fin de son exécution ?
+[ [0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8] ]
+[ [0, 0, 0], [0, 1, 2], [0, 2, 4], [0, 3, 6], [0, 4, 8] ]
+[ [1, 1, 1], [2, 4, 6], [3, 6, 9], [4, 8, 12], [5, 10, 15] ]
+[ [1, 1, 1, 1, 1], [2, 4, 6, 8, 10], [3, 6, 9, 12, 15], [4, 8, 12, 16, 20], [5, 10, 15, 20, 25] ]
+Question B.2
+A = [ [1,2,3], [4,5,6], [7,8,9] ]
+B = [ [0,0,0], [0,0,0], [0,0,0] ]
+for i in range(3):
+for j in range(3):
+B[i][j] = A[j][i]
+Que vaut B à la fin de l'exécution ?
+rien du tout, le programme déclenche une erreur d'exécution
+[ [3,2,1], [6,5,4], [9,8,7] ]
+[ [1,4,7], [2,5,8], [3,6,9] ]
+[ [7,8,9], [4,5,6], [1,2,3] ]
+Question B.3
+On dispose d’une table patients de personnes décrits par 4 colonnes « Nom », « Prénom », « Age », « Numéro de
+sécurité sociale » et d’une table affections contenant « Nom », « Prénom », « Numéro de sécurité sociale »,
+« Maladie », « Date d’entrée à l’hôpital ».
+On souhaite fusionner ces deux tables pour faciliter la gestion des patients et leur distribution entre les services
+pédiatriques, gérontologiques et autres. Quelle donnée doit-on utiliser pour unifier ces tables :
+Le nom du patient
+Le prénom du patient
+Le numéro de sécurité sociale du patient
+La maladie du patient
+
+Question B.4
+Après l'affectation suivante :
+alphabet = [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B.5
+On considère le code suivant :
+def feed(t):
+for i in range(len(t)):
+t[i] = 0
+return t
+Que renvoie feed([12, 24, 32]) ?
+[120, 240, 320]
+[0, 0, 0]
+[]
+[0]
+Question B.6
+Après avoir défini :
+d = { 'tigre': 'félin', 'tortue': 'reptile', 'renard': 'canidé' }
+laquelle des quatre expressions suivantes est correcte ?
+d['tortue']
+d['reptile']
+d['tortue': 'reptile']
+d[1]
+
+Thème C : traitement de données en tables
+Question C.1
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C.2
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C.3
+On a défini :
+mendeleiev = [
+
+['H','.', '.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar'],
+...... ]
+
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C.4
+On considère la table suivants :
+t=[
+
+{'type': 'marteau', 'prix': 17, 'quantité': 32},
+
+{'type': 'scie', 'prix': 24, 'quantité': 3},
+{'type': 'tournevis', 'prix': 8, 'quantité': 45} ]
+Quelle expression permet d'obtenir la quantié de scies ?
+t[2]['quantité']
+t[1]['quantité']
+t['quantité'][1]
+t['scies']['quantité']
+Question C.5
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+Question C.6
+On définit ainsi une liste t :
+t
+
+=
+[
+{'id':2,
+{'id':3,
+{'id':4,
+{'id':5,
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+
+{'id':1,
+'age':27,
+'age':53,
+'age':41,
+'age':62,
+
+'age':23,
+
+'sejour':'PEKIN'},
+'sejour':'ISTANBUL'},
+'sejour':'LONDRES'},
+'sejour':'ISTANBUL'},
+'sejour':'RIO'},
+
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.2
+Dans une page HTML, que permet la balise <form action="http://mon_site.fr" method="POST"> ?
+d'envoyer des données à l'URL http://mon_site.fr sans les ajouter au corps de la requête HTTP
+d'envoyer des données à l'URL http://mon_site.fr et de les ajouter au corps de la requête HTTP mais pas à
+l'URL
+de télécharger un formulaire depuis l'URL http://mon_site.fr
+de récupérer des données depuis l'URL http://mon_site.fr
+Question D.3
+Quel est le nom de l’événement généré lorsque l’utilisateur clique sur un bouton de type button dans une page
+HTML ?
+action
+mouse
+submit
+click
+Question D.4
+Dans le contexte du Web, qu’est-ce qu’une transmission chiffrée ?
+une transmission optimisée pour les grands nombres
+une transmission sous forme binaire
+une transmission d’informations cryptées
+une transmission facturée proportionnellement à la taille du message
+
+Question D.5
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function
+this.style.color
+}
+
+action(event)
+=
+
+{
+"blue"
+
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D.6
+Saisir l'URL http://monsite.com/monprogramme.py?id=25 dans la barre d'adresse d'un navigateur ne peut jamais
+permettre :
+d'obtenir une image
+d'envoyer une requête GET
+d'envoyer une requête POST
+d'exécuter un programme Python sur le serveur
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+Question E.2
+À quoi sert la RAM dans le fonctionnement d'un ordinateur ?
+à stocker des données lors de l'exécution de programmes
+à stocker des fichiers
+à relier les périphériques
+à accélérer la connexion à Internet
+Question E.3
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E.4
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens existants.
+Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+
+Question E.5
+La mémoire RAM :
+ne fonctionne qu'en mode lecture
+ne fonctionne qu'en mode écriture
+conserve les données en cas de coupure de l'alimentation
+perd les données en cas de coupure de l'alimentation
+Question E.6
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+
+Thème F : langages et programmation
+Question F.1
+La fonction suivante calcule la racine carrée du double d’un nombre flottant.
+from math import sqrt
+def
+return sqrt(2*x)
+
+racine_du_double(x):
+
+Quelle est la précondition sur l'argument de cette fonction ?
+x<0
+x >= 0
+2*x>0
+sqrt(x) >= 0
+Question F.2
+On exécute le script suivant :
+def calcul(a,b):
+a=a+2
+b=b+5
+c=a+b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+
+Question F.3
+def essai():
+a=2
+b=3
+c=4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+
+Question F.4
+On définit la fonction suivante :
+def f(x,y,z):
+if x+y == z:
+return True
+else:
+return False
+Quel type de paramètres est-il déconseillé d'utiliser avec cette fonction ?
+les entiers
+les chaînes de caractères
+les flottants
+les tableaux
+Question F.5
+def f(t):
+n = len(t)
+tmp = t[0]
+for i in range(1,n-1):
+t[i] = t[i+1]
+t[n-1] = tmp
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[2, 1, 3, 4, 5]
+[3, 4, 5, 2, 1]
+[2, 5, 4, 3, 1]
+Question F.6
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+
+Thème G : algorithmique
+Question G.1
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+
+Question G.2
+On exécute le script suivant :
+liste = [17, 12, 5, 18, 2, 7, 9, 15, 14, 20]
+somme = 0
+i=0
+while i < len(liste):
+somme = somme + liste[i]
+i=i+1
+resultat = somme / len(liste)
+Quelle affirmation est fausse parmi les suivantes ?
+le corps de la boucle a été exécuté 10 fois
+à la fin de l'exécution la valeur de i est 9
+resultat contient la moyenne des éléments de liste
+len est une fonction
+
+Question G.3
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a=1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1
+
+Question G.4
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G.5
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p=1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G.6
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6

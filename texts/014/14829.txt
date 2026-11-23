@@ -1,0 +1,432 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1335926, "at": "2026-11-23T09:41:30+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est l’écriture décimale de l’entier dont la représentation en binaire non signé est 0001 0101 ?
+Question A 2
+Dans le bloc <head> d'un fichier HTML, afin d'encoder les caractères avec le standard Unicode/UTF-8 on insère
+la ligne :
+<meta http-equiv="Content -Type" content="text/html; charset=UTF-8">
+Pourquoi cela ?
+UTF-8 est l'encodage Linux
+ASCII est une vieille norme, il est temps d'en changer
+UTF-8 est une norme conçue pour permettre un affichage correct des caractères spéciaux sur tout
+système d'exploitation
+UTF-8 est un encodage qui protège mieux contre le piratage informatique
+Question A 3
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A 4
+Combien de bits faut-il au minimum pour coder le nombre décimal 4085 ?
+2042
+2043
+Question A 5
+
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a)
+Question A 6
+Quelle est la plage des valeurs entières (positifs ou négatifs) que l'on peut coder sur un octet (8 bits) en
+complément à 2 ?
+-127 à 128
+-128 à 127
+-255 à 128
+-256 à 127
+
+Thème B : types construits
+Question B 1
+La variable sequence contient une liste de lettres, éventuellement répétées, choisies parmi 'A', 'B', 'C', 'D'.
+On veut créer un dictionnaire effectifs associant à chaque lettre le nombre de fois qu'elle apparaît dans la
+liste sequence.
+Par exemple si sequence contient ['A', 'B', 'B', 'D', 'B', 'A'],
+effectifs doit contenir {'A':2, 'B':3, 'C':0, 'D':1}.
+Parmi les scripts suivants, lequel réalise cet objectif ?
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {}
+for lettre in sequence:
+effectifs[lettre] = effectifs[lettre] + 1
+effectifs = {'A':0, 'B':0, 'C':0, 'D':0}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+effectifs = {}
+for lettre in effectifs.keys():
+effectifs[lettre] = len([lettre in effectifs])
+Question B 2
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+Question B 3
+Quel est le type de l'expression f(4) si la fonction f est définie par :
+def f(x):
+return (x, x**2)
+un entier
+un flottant
+une liste
+un tuple
+
+Question B 4
+On considère la fonction suivante :
+def somme(tab):
+s = 0
+for i in range(len(tab)):
+......
+return s
+Par quelle instruction faut-il remplacer les points de suspension pour que l'appel somme([10,11,12,13,14])
+renvoie 60 ?
+s = tab[i]
+s = s + tab[i]
+tab[i] = tab[i] + s
+s = s + i
+Question B 5
+On dispose d'une table tab constituée d'une liste de trois sous-listes contenant chacune quatre caractères.
+tab = [ ['A', 'B', 'C', 'D'],
+['E', 'F', 'G', 'H'],
+['I', 'J', 'K', 'L'] ]
+Parmi les propositions suivantes, laquelle permet de convertir cette table en une liste L contenant dans l'ordre,
+ligne par ligne, les 12 caractères de tab ?
+# à la fin, on doit passer l’assertion :
+assert L == [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L' ]
+for i in range(3):
+for j in range(4):
+L.append(tab[i][j])
+
+for i in range(4):
+for j in range(3):
+L.append(tab[i][j])
+
+for i in range(3):
+L.append(tab[i])
+
+for i in range(4):
+L.append(tab[i])
+
+Question B 6
+La fonction ci-dessous prend en argument deux nombres entiers.
+
+def f(n1,n2):
+etendue = max(n1,n2)-min(n1,n2)
+moyenne = (n1+n2)/2
+return etendue,moyenne
+Quel est le type de la valeur renvoyée par un appel à cette fonction ?
+un entier
+un réel (ou flottant)
+un tuple
+une liste
+
+Thème C : traitement de données en tables
+Question C 1
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C 2
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 3
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 4
+On définit :
+stock = [
+
+{'nom': 'flageolets', 'quantité': 50, 'prix': 5.68},
+{'nom': 'caviar', 'quantité': 0, 'prix': 99.99},
+.........
+.........
+{'nom': 'biscuits', 'quantité': 100, 'prix': 7.71} ]
+
+Quelle expression permet d'obtenir la liste des noms des produits effectivement présents dans le stock (c'est-àdire ceux dont la quantité n'est pas nulle) ?
+['nom' for p in stock if 'quantité' != 0]
+[p for p in stock if p['quantité'] != 0]
+[p['nom'] for p in stock if 'quantité' != 0]
+[p['nom'] for p in stock if p['quantité'] != 0]
+Question C 5
+
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C 6
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "blue"
+}
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D 2
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 3
+Un internaute clique sur le lien suivant qui envoie une requête HTTP à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Que demande cette requête au serveur ?
+de renvoyer le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'exécuter le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'indiquer si Jon Snow a bien pris son traitement
+de renvoyer le fichier traitement.php en affichant prénom et nom : Jon Snow
+Question D 4
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+Question D 5
+
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D 6
+On considère le formulaire HTML suivant :
+<form action="action.php" method="get" name="prenom">
+Prénom :
+<input type="text" id="champ1" name="p"/>
+<br/>
+<input type="hidden" name="util" value="1549"/>
+<input value="Envoi du prénom" type="submit"/>
+</form>
+Le prénom entré par l'utilisateur est contenu dans :
+l’élément dont l’attribut id est champ1
+l’élément nommé prénom
+l’élément dont l’attribut value est Envoi du prénom
+l’élément dont l’attribut type est hidden
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 2
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+Question E 3
+Sachant que le répertoire courant contient les fichiers fich.txt, mafich.txt et programme.py, quel est le
+résultat de la commande ls fich* dans un shell Linux ?
+fich.txt mafich.txt
+mafich.txt
+fich.txt
+programme.py
+Question E 4
+Parmi les adresses suivantes, laquelle est une adresse Ethernet non valide ?
+8D:A9:D5:67:E6:F3
+8d:a9:d5:67:e6:f3
+8H:A9:D5:67:E6:F3
+FF:A9:D5:67:E6:F3
+Question E 5
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E 6
+Dans l'architecture client-serveur :
+
+Le client initie la connexion et expédie des requêtes.
+Le serveur initie la connexion et expédie des requêtes.
+Le routeur initie la connexion et expédie des requêtes.
+Le commutateur initie la connexion et expédie des requêtes.
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a = 1
+else:
+a = 0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+Question F 2
+On exécute le code suivant :
+def ma_fonction(liste : list) -> int:
+valeur = liste[0]
+for i in range (1, len(liste)):
+if liste[i] < valeur :
+valeur = liste[i]
+return valeur
+table = [5, 43, 2, 22, 7]
+resultat = ma_fonction(table)
+Quelle est la valeur de resultat après l’exécution de ce code ?
+Question F 3
+On considère l'instruction suivante :
+resultat = [0] * 7
+
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 4
+On considère la fonction ci-dessous :
+def maFonction(c):
+if c <= 10:
+p = 12
+if c <= 18:
+p = 15
+if c <= 40:
+p = 19
+else:
+p = 20
+return p
+Que renvoie maFonction(18) ?
+Question F 5
+Voici un programme en Python :
+tableau = [8, 1, 6, 6, 9, 6, 9, 3, 8, 6, 3, 4, 9, 6, 7, 1]
+m = -1
+rang = -1
+for i in range(len(tableau)):
+if m <= tableau[i]:
+m = tableau[i]
+rang = i
+Quelle est la valeur du couple (m,rang) à la fin de l'exécution du programme ?
+(1,1)
+(1,15)
+(9,4)
+(9,12)
+Question F 6
+
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+
+Thème G : algorithmique
+Question G 1
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛
+(𝑛 + 1)
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G 2
+La recherche dichotomique est un algorithme rapide qui permet de trouver ou non la présence d’un élément
+dans un tableau. Mais, pour l’utiliser, une contrainte est indispensable, laquelle ?
+le tableau ne contient que des nombres positifs
+la longueur du tableau est une puissance de 2
+le tableau est trié en ordre croissant
+le tableau ne contient pas la valeur 0
+Question G 3
+Quel est l’ordre de grandeur du coût du tri par insertion (dans le pire des cas) ?
+l'ordre de grandeur du coût dépend de l'ordinateur utilisé
+linéaire en la taille du tableau à trier
+quadratique en la taille du tableau à trier
+indépendant de la taille du tableau à trier
+Question G 4
+
+𝑎 et 𝑚 étant deux entiers supérieurs à 1, la fonction suivante renvoie 𝑎 .
+def puissance(a,m):
+p = 1
+n = 0
+while n < m:
+p = p * a
+#
+n = n + 1
+return p
+Quelle est l'égalité qui est vérifiée à chaque passage par la ligne marquée # ?
+Question G 5
+Pour trier par sélection une liste de 2500 entiers, le nombre de comparaisons nécessaires à l’algorithme est de
+l’ordre de :
+√2500
+2500
+2500
+Question G 6
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.

@@ -1,0 +1,454 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1181067, "at": "2026-11-23T09:46:29+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x=1
+for i in range(10):
+x=x*2
+1024
+2048
+20000000000
+Question A.2
+Quelle est l'écriture hexadécimale de l'entier 𝑛 dont l'écriture binaire est 101010 ?
+2A
+A2
+Question A.3
+Quel est le nombre entier positif dont la représentation binaire est 0010 0011 ?
+Question A.4
+Quel est le nombre minimum de bits qui permet de représenter les 26 lettres majuscules de l'alphabet ?
+Question A.5
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+
+Question A.6
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+
+Thème B : types construits
+Question B.1
+On définit ainsi une liste P :
+P = [ {"nom":"Turing","prénom":"Alan","âge":28},
+{"nom":"Lovelace","prénom":"Ada","âge":27} ]
+Que fait alors l'instruction P[1]["âge"] = 25 ?
+elle modifie la valeur de la clé âge du deuxième élément de la liste P
+elle modifie la valeur de la clé âge du premier élément de la liste P
+elle donne la longueur de la liste P
+elle donne la longueur du premier élément de la liste P
+Question B.2
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+
+Question B.3
+Que vaut la variable L après l'exécution de ce code :
+L = [i for i in range(12) if i%3 == 0]
+[0,3,6,9,12]
+[0,3,6,9]
+[1,2,3,4,5,7,8,10,11]
+[0,9,36,81,144]
+Question B.4
+Soit le code ci-dessous :
+tableau = [5,8,6,9]
+a = tableau[2]
+Après son exécution, quelle valeur contient la variable a ?
+[5, 8]
+Question B.5
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+
+Quelle expression permet d'accéder au poste d'Éric ?
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+Question B.6
+L est une liste d'entiers.
+On définit la fonction suivante :
+def f(L):
+m = L[0]
+for x in L:
+if x > m:
+m=x
+return m
+Que calcule cette fonction ?
+le maximum de la liste L passée en argument
+le minimum de la liste L passée en argument
+le premier terme de la liste L passée en argument
+le dernier terme de la liste L passée en argument
+
+Thème C : traitement de données en tables
+Question C.1
+On considère le code suivant :
+def clearfield(f):
+for i in range(len(f)):
+fiche[i]['code'] = None
+return f
+fiche = [ {"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}
+
+Que renvoie clearfield(fiche) ?
+[{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}]
+
+[{"nom": "pierre", "note": None, "code": 125},
+{"nom": "pol", "note": None, "code": 82},
+{"nom": "jack", "note": None, "code": 135}]
+
+[{"nom": "pierre", "note": 5.99, "None": 125},
+{"nom": "pol", "note": 2.99, "None": 82},
+{"nom": "jack", "note": 7.99, "None": 135}]
+
+[{"nom": "pierre", "note": 5.99, "code": None},
+{"nom": "pol", "note": 2.99, "code": None},
+{"nom": "jack", "note": 7.99, "code": None}]
+
+Question C.2
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+
+Question C.3
+On considère une table de données <films> qui est une liste de dictionnaires "Titre", "Réalisateur","Date".
+Un enregistrement de la table contient un titre de film, le nom de son réalisateur et l'année de sortie du film.
+films = [{"Titre": "ET", "Réalisateur": "Spielberg", "Date": 1982},
+{"Titre": "Ready Player One", "Réalisateur": "Spielberg", "Date": 2018},
+{"Titre": "The Artist", "Réalisateur": "Hazanavicius", "Date": 2011},
+...]
+On souhaite obtenir la liste des films réalisés par "Spielberg" ou par "Hazanavicius" depuis l'année 2000.
+Quelle doit être la condition utilisée pour sélectionner les enregistrements correspondants, lors du parcours de
+la table ?
+(film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius")
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius"
+and film["Date"] >= 2000
+
+film["Réalisateur"] == "Spielberg" or film["Réalisateur"] == "Hazanavicius"
+or film["Date"] >= 2000
+
+(film["Réalisateur"] == "Spielberg" and film["Réalisateur"] == "Hazanavicius")
+or film["Date"] >= 2000
+
+Question C.4
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.5
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+
+Question C.6
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+Quelle expression a-t-elle pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D.2
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Question D.3
+Lorsque la méthode POST est associée à un formulaire au sein d’une page HTML, comment les réponses du
+formulaire sont-elles envoyées au serveur ?
+Elles sont visibles dans l’URL
+Elles sont cachées de l’URL
+Elles sont transmises via un service postal spécifique
+Elles sont découpées en plusieurs petites URL limitées à 4 mots
+
+Question D.4
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+Javascript
+PHP
+Question D.5
+Un navigateur affiche la page HTML suivante :
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Un bouton</title>
+</head>
+<body>
+<button onclick="maFonction()">Cliquer ici</button>
+</body>
+<script src="script.js"></script>
+</html>
+Lorsque l'on clique sur le bouton, l'action déclenchée maFonction() est définie :
+dans le fichier HTML seul
+dans le fichier style.css
+dans une bibliothèque prédéfinie du navigateur
+dans le fichier script.js
+Question D.6
+En HTML, un formulaire commence par quelle balise ?
+<form>
+</form>
+<input type="form">
+<!--form-->
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Dans un terminal sous Linux, quelle commande faut-il écrire pour donner à tout le monde le droit d'écriture sur
+un fichier information.py ?
+chmod o+w information.py
+chmod a+w information.py
+chmod o+x information.py
+chmod a+x information.py
+Question E.2
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+la suppression du fichier file.txt
+Question E.3
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+Question E.4
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E.5
+L'adresse IP du site www.education.gouv.fr est 185.75.143.24.
+Quel dispositif permet d'associer l'adresse IP et l'URL www.education.gouv.fr ?
+un routeur
+un serveur DNS
+un serveur de temps
+un serveur Web
+
+Question E.6
+Un ordinateur possède les caractéristiques matérielles suivantes :
+— mémoire DDR SDRAM : 8 Go
+— antémémoire (mémoire cache) : 1 Mo
+— disque dur SSD : 1 To
+Parmi les classements ci-dessous lequel est celui de l’accès mémoire le plus rapide au moins rapide ?
+Antémémoire puis SDRAM puis SSD
+SSD puis Antémémoire puis SDRAM
+SSD puis SDRAM puis Antémémoire
+SDRAM puis SSD puis Antémémoire
+
+Thème F : langages et programmation
+Question F.1
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à chaque
+passage dans la boucle while ?
+i=0
+while (i < 10) {
+alert(i)
+i=i+1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F.2
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+CSS
+C++
+WEB
+Question F.3
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+JavaScript
+PHP
+Python
+
+Question F.4
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément. Combien
+de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand élément
+n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+Question F.5
+a=4
+b=4
+c=4
+while a < 5:
+a=a-1
+b=b+1
+c=c*b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F.6
+On exécute le code suivant :
+def f(t):
+n = len(t)
+tmp = t[0]
+for i in range(1,n-1):
+t[i] = t[i+1]
+t[n-1] = tmp
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[2, 1, 3, 4, 5]
+[3, 4, 5, 2, 1]
+[2, 5, 4, 3, 1]
+
+Thème G : algorithmique
+Question G.1
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G.2
+La recherche dichotomique est un algorithme rapide qui permet de trouver ou non la présence d’un élément
+dans un tableau. Mais, pour l’utiliser, une contrainte est indispensable, laquelle ?
+le tableau ne contient que des nombres positifs
+la longueur du tableau est une puissance de 2
+le tableau est trié en ordre croissant
+le tableau ne contient pas la valeur 0
+Question G.3
+La fonction suivante doit calculer la moyenne d’un tableau de nombres, passé en paramètre. Avec quelles
+expressions faut-il remplacer les points de suspension pour que la fonction soit correcte ?
+def moyenne(tableau):
+total = ...
+for valeur in tableau:
+total = total + valeur
+return total / ...
+1 et (len(tableau) + 1)
+1 et len(tableau)
+0 et (len(tableau) + 1)
+0 et len(tableau)
+Question G.4
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+
+Question G.5
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n=0
+for item in L:
+if item == x:
+n=n+1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste deux
+fois plus grande ?
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x
+Question G.6
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛

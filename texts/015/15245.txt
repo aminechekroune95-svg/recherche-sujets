@@ -1,0 +1,465 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1241845, "at": "2026-11-23T09:40:41+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quel est le nombre minimum de bits qui permet de représenter les 26 lettres majuscules de l'alphabet ?
+Question A 2
+Quel est l'entier positif dont la représentation binaire est 0100 1001 ?
+Question A 3
+La couleur « bleu roi » a pour code RGB (65,105,225), sa représentation en hexadécimal est :
+#2852C2
+#4169E1
+#33A5C61
+#C3T622
+Question A 4
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?
+Question A 5
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+Question A 6
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+
+2 −1
+2 × 32
+
+Thème B : types construits
+Question B 1
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+Question B 2
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 3
+Après avoir défini :
+d = { 'tigre': 'félin', 'tortue': 'reptile', 'renard': 'canidé' }
+laquelle des quatre expressions suivantes est correcte ?
+d['tortue']
+d['reptile']
+d['tortue': 'reptile']
+d[1]
+
+Question B 4
+On dispose dans le tableau annee2019 les températures mensuelles moyennes d'une région française.
+On exécute le script suivant :
+annee2019
+
+= [('janvier',6), ('février',6), ('mars',12),
+('avril',20), ('mai',23), ('juin',25),
+('juillet',29), ('août',25), ('septembre',22),
+('octobre',15), ('novembre',11), ('décembre',7)]
+
+m = annee2019[0][1]
+for mois in annee2019:
+if (m > mois[1]):
+m = mois[1]
+
+Que contient la variable m à la fin de cette exécution ?
+le mois le plus froid
+le mois le plus chaud
+la température mensuelle moyenne la plus basse
+la température mensuelle moyenne la plus haute
+Question B 5
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B 6
+Considérons le dictionnaire suivant :
+resultats = {'Paul':5 , 'Amina':1 , 'Léon' : 9 , 'Benoit':3}
+Quelle affirmation est correcte ?
+resultats['Amina'] vaut 1
+resultats[1] vaut 'Amina'
+'Paul' est une valeur de ce dictionnaire
+9 est une clé de ce dictionnaire
+
+Thème C : traitement de données en tables
+Question C 1
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 2
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C 3
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+Question C 4
+On a récupéré le contenu d'un fichier CSV contenant le nom, le prénom et l'âge de personnes dans une table
+implémentée par la liste de dictionnaires suivante :
+table = [{"nom": "dupont","prenom": "jean","age": 16},
+{"nom": "durant","prenom": "pierre","age": 15},
+.....
+
+....
+{"nom": "doe","prenom": "jane","age": 16}]
+Quelle expression représente-t-elle la liste des noms des personnes dont l'âge a pour valeur 16 ?
+[personne[nom] for personne in table if personne[age]==16]
+[personne["nom"] for personne in table if personne["age"]==16]
+[personne["nom"] for personne in table if personne["age"]=16]
+[nom if age==16 for nom,age in table ]
+Question C 5
+Soit la table de données suivante :
+nom
+Dupont
+Dupond
+Haddock
+
+prenom
+Pierre
+Catherine
+Archibald
+
+date_naissance
+17/05/1987
+18/07/1981
+23/04/1998
+
+Quels sont les descripteurs de ce tableau ?
+nom, prenom et date_naissance
+Dupont, Pierre et 17/05/1987
+Dupont, Dupond et Haddock
+il n'y en a pas
+Question C 6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 2
+Compléter le script ci-dessous :
+<!DOCTYPE html>
+<html>
+<head>
+<………>Ma page HTML</…………>
+</head>
+<html>
+href
+title
+html
+aucune des propositions précédentes
+Question D 3
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+Question D 4
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 5
+
+Quelle méthode d’envoi des paramètres est-il préférable d’utiliser, pour un formulaire d’une page web, destiné
+à demander à l’utilisateur un mot de passe pour se connecter (le protocole utilisé est HTTPS) ?
+la méthode PASSWORD
+la méthode CRYPT
+la méthode GET
+la méthode POST
+Question D 6
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans un terminal sous Linux, quelle commande faut-il écrire pour donner à tout le monde le droit d'écriture sur
+un fichier information.py ?
+chmod o+w information.py
+chmod a+w information.py
+chmod o+x information.py
+chmod a+x information.py
+Question E 2
+Dans un système Linux, on dispose d'un répertoire racine contenant deux répertoires documents et
+sauvegardes. On se trouve dans le répertoire documents où figure un fichier NSI.txt.
+Quelle commande permet de créer une copie nommée NSI2.txt de ce fichier dans le répertoire
+sauvegardes ?
+cp NSI.txt NSI2.txt
+cp NSI.txt sauvegardes/NSI2.txt
+cp NSI.txt ../NSI2.txt
+cp NSI.txt ../sauvegardes/NSI2.txt
+Question E 3
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 4
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E 5
+Sous Linux, les droits d'accès à un fichier dont le propriétaire est Joseph sont les suivants : -rwxr-xr--.
+Laquelle des affirmations suivantes est fausse ?
+Joseph a l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de lire ce fichier
+
+tous les utilisateurs ont l'autorisation de lire ce fichier
+les membres du groupe de Joseph ont l'autorisation de modifier ce fichier
+
+Question E 6
+Quelle est la commande qui permet d’afficher le répertoire courant dans le shell GNU/Linux ?
+mkdir
+pwd
+cd
+ls -l
+
+Thème F : langages et programmation
+Question F 1
+T est un tableau de nombres entiers non vide. Que représente la valeur de s renvoyée par cette fonction ?
+def mystere(T):
+s = 0
+for k in T:
+if k % 2 == 0:
+s = s+k
+return s
+la somme des valeurs du tableau T
+la somme des valeurs positives du tableau T
+la somme des valeurs impaires du tableau T
+la somme des valeurs paires du tableau T
+Question F 2
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+i = i + 1
+}
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 3
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+
+# à compléter
+
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F 4
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 3
+b = 6
+if a > 5 or b != 3:
+b = 4
+else:
+b = 2
+Question F 5
+En voulant programmer une fonction qui calcule la valeur minimale d'une liste d'entiers, on a écrit :
+def minimum(L):
+mini = 0
+for e in L:
+if e < mini:
+mini = e
+return mini
+Cette fonction a été mal programmée. Pour quelle liste ne donnera-t-elle pas le résultat attendu, c'est-à-dire
+son minimum ?
+[-1,-8,12,2,23]
+[0,18,12,2,3]
+[-1,-1,12,12,23]
+[1,8,12,2,23]
+Question F 6
+On exécute le script suivant.
+a = 11
+for i in range(3):
+a = a * 2
+a = a - 10
+Que contient la variable a à la fin de cette exécution ?
+
+Thème G : algorithmique
+Question G 1
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+Question G 2
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+else:
+i = k + 1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+Question G 3
+La fonction ci-dessous renvoie le maximum d'une liste.
+
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+#
+if L[i] > m:
+m = L[i]
+return m
+Au passage dans la ligne marquée d'un #, quelle propriété reste toujours vérifiée ?
+m est le maximum des éléments L[k] pour i <= k < len(L)
+m est le maximum des éléments L[k] pour i < k < len(L)
+m est le maximum des éléments L[k] pour 0 <= k < i)
+m est le maximum des éléments L[k] pour 0 <= k <= i
+Question G 4
+Qu'affiche le programme suivant :
+a = 3
+b = 4
+if a > b and a == 3:
+print('vert')
+if a > b and b == 4:
+print('rouge')
+if a == 4 or b > a:
+print('bleu')
+if a == 3 or a < b:
+print('jaune')
+vert
+rouge
+
+bleu
+jaune
+
+bleu
+
+vert
+Jaune
+
+Question G 5
+On exécute le script suivant :
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛
+(𝑛 + 1)
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+
+Question G 6
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇

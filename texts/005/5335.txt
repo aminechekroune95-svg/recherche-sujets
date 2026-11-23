@@ -1,0 +1,351 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1298413, "at": "2026-11-23T09:26:16+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser les principaux protocoles pour un réseau de communication
+Analyser les principaux les supports matériels (pour les réseaux)
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Traduire le comportement attendu ou observé d’un objet par un diagramme d'états-transitions
+Modéliser sous une forme graphique une structure, un mécanisme, un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+SUJET SI-E3C-25-05
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 6 à 8
+
+Documents réponses ........................................................................ Pages 9 à 10
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION DU PRODUIT
+La région Île-de-France représente 40 % du trafic ferroviaire assuré sur 10 % du
+réseau ferré national. On y observe une grande diversité de services et de matériels
+qui cohabitent : entre autres Transilien, TER, TGV, Intercités, trains spéciaux, trains
+de fret.
+Le réseau d’Ile de France est composé de lignes ferroviaires urbaines (métros,
+tramways), et de lignes ferroviaires suburbaines (RER, lignes Transilien). Les zones
+dites denses et très denses se situent dans une zone de 20 km de rayon autour du
+centre de Paris. Le défi de l’exploitation suburbaine en zone dense porte sur le débit,
+le temps de parcours et la qualité de service, et notamment la gestion des aléas.
+Afin de décharger la ligne A du RER, un prolongement d'Eole (ligne E du RER) à
+l'ouest d'Haussmann Saint-Lazare à Mantes-La-Jolie en passant par La Défense
+sera opérationnel à partir de 2024 (Figure 1).
+
+Figure 1 : Carte du prolongement du RER E
+
+Cette solution doit être capable d'assurer la contrainte de 28 trains par heure avec un
+intervalle de temps de 108 secondes entre deux trains. La SNCF va mettre en place
+le système NExTEO sur la section centrale Nanterre - Rosa Parks (Figure 2).
+
+Le système NExTEO permet de
+contrôler 3 tâches :
+- le contrôle de la vitesse ;
+- la réalisation des phases
+d’accélération et de freinage ;
+Figure 2 : Les sections du RER 2024
+
+- et une aide à la gestion des temps de stationnement de gare.
+Les objectifs de la technologie NExTEO ont pour but :
+- l’amélioration de la fréquence, de la vitesse et de la régularité ;
+- l'optimisation d’énergie ;
+- et l’optimisation des infrastructures.
+Le système NExTEO passe d'un espacement de sécurité fixe entre deux trains
+(canton fixe) à un espacement mobile qui s’adapte en temps réel aux conditions de
+circulation et à la vitesse des trains (canton mobile). (Figure 3).
+
+Figure 3 : La gestion des cantons
+
+Au cœur de NExTEO, le nouveau système CBTC (Communication Based Train
+Control) établit une communication continue entre les trains et l’intelligence centrale
+chargée de gérer automatiquement le trafic. L’intelligence centrale actualise en
+temps réel tous les outils d’information des voyageurs. (Figure 4).
+
+Figure 4 : Le système CBTC
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Problématique : Dans l’optique de gérer finement les flux de train entre eux
+(position, vitesse) avec fiabilité, il s’avère que l’usure des roues du train peut avoir
+une incidence sur les performances ciblées. Comment tenir compte de cette usure
+pour anticiper les écarts de performance dans la gestion du flux de ces trains ?
+La performance étudiée est la vitesse d’un train équipé de roues neuves ou usées.
+L’objectif est d’analyser et de valider (ou non) la nécessité d’agir sur la consigne de
+pilotage du moteur pour obtenir la vitesse souhaitée suite à l'usure des roues.
+Un odomètre SKF Axletronic permet de mesurer la distance parcourue et la vitesse
+de la roue d’un train. L’odomètre est directement fixé sur l’axe de la roue 𝑧⃗.
+𝑦⃗
+𝑥⃗
+
+𝑧⃗
+A
+Figure I-1 : Synoptique de la chaine d'information
+
+Figure I-2 : Implantation des
+capteurs odométriques
+
+Question I-1
+
+Représenter, sur le document réponse DR1 I-1, la liaison pivot d’axe
+(A, 𝑧⃗) entre le Bogie et la roue.
+Modéliser le torseur cinématique associé de cette liaison pivot d’axe
+(A, 𝑧⃗) dans le repère (A, 𝑥⃗, 𝑦⃗, 𝑧⃗).
+
+Question I-2
+
+Représenter, sur le document réponse DR1 I-2, sous forme graphique
+l’action mécanique de contact ponctuel entre le rail et la roue, notée
+⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝐵
+2/1 .
+
+Ce point de contact ⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝐵2/1 sera considérer comme non glissant entre la roue et le rail.
+Nous considérerons un roulement sans glissement entre la roue et le rail.
+L’odomètre permet de traduire une vitesse angulaire en impulsion électrique.
+L’odomètre possède 80 encoches par tour.
+
+Figure I-3 : Signaux issues de l'odomètre
+Question I-3
+
+Caractériser, sur le document réponse DR2, les grandeurs physiques
+d’entrée et de sortie de l’odomètre et préciser la nature de l’information
+de sortie (analogique, logique et numérique).
+Détection d’une encoche de
+l’odomètre par le capteur A
+
+Détection d’une encoche de
+l’odomètre par le capteur B
+
+Figure I-4 : Signaux issue de l’odométre
+
+X
+
+-
+
+Question I-4
+
+A l’aide la figure I-4, déterminer le nombre d’état détectable par
+l’odomètre grâce à l’association des 2 capteurs.
+Déterminer la précision de l’odomètre en mm d’une roue neuve (Le
+diamètre de roue neuve est 900 mm).
+
+La roue s’use, la précision de l’odométre est de 8,5 mm.
+Question I-5
+
+A l’aide la figure I-4, Prévoir l’ordre de grandeur de la vitesse mesurée
+par l’odométre.
+
+La consigne de vitesse est de 120 km.h-1. L’odomètre indique une mesure de 112
+km.h-1.
+Question I-6
+
+Quantifier l’écart de performance entre la vitesse attendue et la
+vitesse mesurée.
+Valider (ou non) la nécessité de mettre en place un asservissement
+pour corriger l’écart de vitesse.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Problématique : Comment adapter une intelligence centrale afin d’ajuster au mieux
+la régulation du flux des trains sur leurs parcours ?
+L’objectif est de compléter une partie d’algorithme de fonctionnement de l'intelligence
+centrale pour contrôler la vitesse du train ainsi que la gestion du temps de
+stationnement en gare.
+Le nouveau système CBTC établit une communication continue entre les trains,
+l’intelligence centrale, les outils des voyageurs et l'ensemble des équipements du
+réseau. L’intelligence centrale est chargée de gérer automatiquement le trafic des
+trains en leur communiquant une consigne de vitesse et une consigne d'attente en
+gare.
+Le standard de communication utilisé pour communiquer entre l’intelligence centrale
+et les trains est le standard GSM-R.
+
+Figure II-1 : Attribution des fréquences GSM en France
+
+Question II-1
+
+Analyser le moyen de communication utilisé pour communiquer entre
+l'intelligence centrale et les trains en donnant le sens de la
+communication : unidirectionnelle ou bidirectionnelle et le type : filaire
+ou non-filaire. Justifier le choix de bandes de fréquences différentes
+de celle utilisées par les opérateurs publics.
+
+Le cantonnement est le moyen employé pour assurer l'espacement des trains
+circulant dans le même sens sur une même voie. Pour assurer la sécurité contre les
+colisions, la présence d'un seul train dans un canton donné est autorisé. Le principe
+NExTEO est d'utiliser un cantonnement mobile ou découpage virtuel qui permet
+d’ajuster au plus près et en sécurité l’espacement des trains en fonction de leur
+vitesse (Figure II-2).
+Courbe de la vitesse du train suiveur
+
+Z
+o
+n
+Distance e
+minimale
+de sécurité
+d
+
+M
+a
+r
+g
+
+Figure II-2 : Les cantons mobiles
+d
+Par rapport à la gestion à cantons fixes, ce systèmef permete deux principaux
+r
+s
+avantages : d’une part le point visé par le train suiveur
+(TRAIN
+2) est situé au plus
+é
+i
+c
+n
+près de la queue du train meneur (TRAIN 1), et d’autre
+partu l’espacement est ajusté
+a
+g
+aux performances dynamiques (vitesse, décélération,
+état ride la voie, état du train...)
+t
+de chaque train.
+é
+
+Figure II-3 : L'intervalle entre deux trains
+La distance de freinage, en mètres, entre les deux trains correspond à la distance
+que met le train 2 à réduire sa vitesse pour atteindre la vitesse du train 1. Cette
+distance est modélisée par la courbe (figure II-4) représentant la distance de freinage
+en fonction de l'écart de vitesse entre les deux trains en m.s-1.
+
+Figure II-4 : Courbe de la distance de freinage par rapport à la différence
+de vitesse des trains
+
+Question II-2
+
+Pour les 3 cas de vitesses des trains 1 et 2 du tableau du document
+réponse DR2 II-3, calculer et reporter les résultats dans la colonne
+« distance minimale de sécurité » entre les deux trains sachant que la
+marge de sécurité à ajouter est de 50 m.
+
+Question II-3
+
+Indiquer dans la colonne « comportement attendu du train 2 » dans le cas
+où l'écart réel entre les deux trains est de 150 m (Ralentir, Maintenir la
+vitesse, Accélérer).
+
+Question II-4
+
+Compléter l'algorithme sur le document réponse DR2 II-5 en ajoutant la
+condition permettant d'adapter la vitesse du train en fonction de la position
+x1, de la position x2 et dsécu la distance minimale de sécurité.
+
+Afin de respecter la fréquence de 28 trains par heure il faut optimiser le temps de
+stationnement en gare. Le temps de stationnement peut être réduit si le train arrive
+en retard ou augmenté si le train arrive en avance. Dans tous les cas, le temps de
+stationnement ne peut pas être inférieur à 20 secondes. Nous appelons cette
+stratégie : régulation individuelle des temps de stationnement.
+Il est également possible de modifier l'accélération des trains pour essayer de
+rattraper leurs retards ou de combler leurs avances. Si un train arrive en avance,
+c'est à dire moins de 108 secondes après le train précédent, nous choisissons une
+accélération plus lente. Inversement si un train part en retard, on choisit une
+accélération plus rapide. Nous appelons cette stratégie : régulation individuelle des
+marches.
+Question II-5 La variable temps_ecart contient le temps qui s'est écoulé entre deux trains
+arrivés sur le quai. Compléter les trois transitions du diagramme d'étatstransitions sur le document réponse DR2 II-6.
+
+DOCUMENTS RÉPONSES
+
+DR1, questions I-1 et I-2 : Schéma cinématique simplifié du Bogie et de la roue
+et effort rail(2)/roue(1)
+Sens de
+rotation
+de la roue
+
+𝑦⃗
+Roue (1)
+A
+
+Bogie (0)
+
+𝑥⃗
+
+B
+Rail (2)
+Schéma cinématique simplifié
+
+DR1 : question I-3 Échanges d'information de l'odomètre
+Odomètre SKFAxletronic
+
+Odomètre
+
+DOCUMENTS RÉPONSES
+DR2 QII-3 : Programme de contrôle de la vitesse
+
+Vtrain 1
+
+Vtrain 2
+
+140 km.h-1
+
+100 km.h-1
+
+Distance minimale
+de sécurité
+
+Comportement attendu du
+train 2
+
+DR2 QII-5 : Programme de contrôle de la vitesse
+Début
+Si ______________________
+Alors ralentir le train 2
+Fin Si
+Fin
+
+Note : Abs() est une fonction
+qui calcule une valeur
+absolue d’un nombre ou
+d’une opération.
+
+DR2 QII-6 : Diagramme états-transitions de la gestion du temps de stationnement

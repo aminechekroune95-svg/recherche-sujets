@@ -1,0 +1,300 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1228102, "at": "2026-11-23T09:27:00+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Proposer et justifier des hypothèses ou simplification en vue d’une modélisation
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+PRÉSENTATION DU PRODUIT
+Le déplacement individuel des personnes est un secteur très porteur dans notre
+société ces 5 dernières années.
+Que cela soit dans un but de loisirs, de sport ou de solutions alternatives à un autre
+mode de déplacement, il existe à ce jour de très nombreux produits proposés à la
+vente, certains électriques, d’autres non (trottinette, skateboard, vélo …)
+Le support d’étude de cette épreuve est un skateboard électrique permettant à son
+utilisateur, grâce à une télécommande, de se déplacer dans un milieu urbain.
+
+Figure 1 : Diagramme de cas d’utilisation du skateboard
+
+ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Sous l’effet d’une pression brutale sur la gâchette de la télécommande, le skateboard
+risque de démarrer trop brusquement et de provoquer la chute de son utilisateur.
+Problématique : dans le cas d’une accélération maximale du skateboard, la roue
+avant de celui-ci se soulève-t-elle, entraînant ainsi la chute de son utilisateur?
+La figure 2 issue du modèle multiphysique du skateboard présente l’architecture
+matérielle du skateboard.
+
+Figure 2 : Architecture matérielle du skateboard
+
+Question I.1 Compléter sur le document réponse DR1 le diagramme des blocs internes
+du skateboard en y indiquant les constituants manquants et les fonctions
+DR1
+qu’ils remplissent.
+Le modèle multiphysique présenté précédemment va permettre de déterminer la
+valeur de l’accélération maximale du skateboard. Afin de consolider le modèle une
+campagne de mesures est menée sur le skateboard pour déterminer les valeurs des
+paramètres à renseigner.
+Paramétrage du moteur à courant continu
+La figure 3 représente le modèle électrique retenu pour le moteur à courant continu à
+aimants permanents du skateboard.
+
+La mesure ayant été faite en régime stabilisé, on
+néglige l’influence de l’inductance L du moteur.
+La valeur de la force contre électromotrice E est
+liée à la vitesse de rotation en sortie du moteur.
+
+Figure 3 : Modèle électrique simplifié du moteur à courant continu
+Afin de déterminer les valeurs des paramètres du modèle du moteur les deux essais
+suivants ont été réalisés :
+Pour pouvoir évaluer la constante de force électromotrice K (V/rad·s-1) du
+moteur, on a fait tourner le rotor du moteur (non alimenté) à différentes
+vitesses ω (rad·s-1) en mesurant à ses bornes, à l’aide d’un voltmètre, la
+force contre électromotrice E. Les résultats obtenus donnent le graphique
+suivant :
+Essai 1
+
+Essai 2
+
+Après avoir alimenté le moteur à vide sous une tension U = 36 V, on a
+mesuré à l’aide d’un ampèremètre le courant I consommé par le moteur
+ainsi que sa vitesse de rotation ω (rad·s-1) à l’aide d’un tachymètre.
+Les mesures effectuées donnent I = 0,5 A et ω = 334 rad·s-1.
+
+Question I.2
+
+À l’aide de l’essai 1, calculer la valeur de la constante de force
+électromotrice K en Vrad·s-1 du moteur du skateboard. À l’aide de
+l’essai 2, calculer la valeur de la résistance du modèle du moteur.
+
+Paramétrage du système poulies / courroie
+La figure 4 présente les caractéristiques du système poulies / courroie présent dans
+le skateboard.
+
+Figure 4 : Caractéristiques du système poulies / courroie
+
+Question I.3
+
+Calculer la valeur du rapport de transmission rp/c du système
+poulies / courroie. Proposer une modélisation de ce constituant pour
+le modèle multiphysique.
+
+Une fois le modèle multiphysique paramétré la simulation donne une accélération
+maximale au démarrage du skateboard de modèle = 3,6 m·s-2. Pour déterminer si le
+skateboard provoque le basculement de l’utilisateur au démarrage, il faut calculer
+l’accélération théorique minimale provoquant le soulèvement de la roue avant. La
+figure 5 présente le schéma du skateboard avec les points d’application des
+différentes actions mécaniques et la numérotation associée.
+
+Données :
+- a = b = 0,4 m ;
+-H=1m;
+- g = 9,81 m·s-2.
+
+Figure 5 : Schéma du skateboard
+Pour la suite de l’étude le système isolé est l’ensemble {1 ; 2 ; 3 ; 4} regroupant
+l’utilisateur, la planche ainsi que les deux roues. On notera m la masse de l’ensemble
+isolé et g l’accélération de la pesanteur. Dans la suite du sujet le repère (𝑋⃗ ; ⃗𝑌⃗ ; 𝑍⃗)
+sera noté R.
+Hypothèses et données
+⃗⃗). L’action mécanique de pesanteur
+Le problème est supposé plan dans le plan (𝑋⃗ ; 𝑌
+sur l’ensemble {1 ; 2 ; 3 ; 4} sera modélisée par le torseur :
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗ = −(𝑚 ∙ 𝑔) ∙ ⃗𝑌⃗
+𝑃
+}
+𝜏𝑔 = { {1;2;3;4}
+⃗0⃗
+𝐺,𝑅
+La liaison en B entre le sol 0 et la roue arrière motrice 2 est une liaison ponctuelle
+avec prise en compte de l’adhérence, l’action mécanique transmissible sera
+modélisée par le torseur :
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+⃗⃗
+𝐵
+= 𝑋0→2 ∙ 𝑋⃗ + 𝑌0→2 ∙ 𝑌
+}
+𝜏𝑅2 = { 0→2
+⃗0⃗
+𝐵,𝑅
+La liaison en A entre le sol 0 et la roue avant 1 est une liaison ponctuelle de normale
+(𝐴 ; ⃗⃗⃗⃗⃗
+𝑌) supposée parfaite.
+⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+Question I.4 Modéliser l’action mécanique 𝐴
+0→1 du sol 0 sur la roue avant 1 en A
+en suivant le formalisme utilisé pour l’action mécanique ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝐵0→2 .
+Déterminer l’expression du moment
+l’action mécanique ⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗
+𝐴0→1.
+
+créé au point G par
+
+La poursuite de l’étude des actions mécaniques permet d’aboutir à l’équation
+suivante :
+où est l’accélération du
+skateboard au démarrage
+Question I.5 Indiquer la valeur de 𝑌0→1 correspondant au soulèvement de la roue
+avant du sol. À l’aide de l’équation fournie calculer la valeur minimale
+de l’accélération  provoquant le cabrage du skateboard.
+Question I.6 Comparer la valeur de l’accélération fournie par le modèle
+multiphysique et le résultat obtenu précédemment. Conclure quant au
+soulèvement potentiel de la roue avant du skateboard.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Le nombre croissant de moyens de locomotion électriques individuels dans le flux de
+circulation urbain multiplie le risque d’accident. Ce risque peut notamment avoir lieu
+lors d’un freinage brutal du skateboard. Dans sa version actuelle, aucune solution
+n’est mise en place afin d’avertir les autres personnes de l’environnement de cette
+décélération.
+Problématique : Comment prévenir un autre usager de la décélération du
+skateboard?
+La structure retenue pour répondre à la problématique est illustrée par la figure 6. Le
+comportement souhaité consiste à allumer le feu arrière en cas de freinage.
+L’importance de l’éclairage dépendra de l’intensité du freinage afin d’informer les
+autres usagers de l’urgence (ou non) de la situation.
+
+Figure 6 : Structure et notation des grandeurs de sortie des blocs fonctionnels
+Les seuils intermédiaires fixant les différents degrés d’éclairage sont déterminés
+proportionnellement à la décélération maximale. Un essai est donc réalisé sur le
+skateboard pour déterminer celle-ci. Durant cet essai le skateboard est lancé à sa
+vitesse maximale puis l’utilisateur active le freinage à son niveau maximum. Les
+mesures effectuées pendant cet essai donne :
+
+vitesse initiale avant freinage : 7 m·s-1 ;
+le skateboard met 1,5 s pour s’arrêter ;
+le mouvement est considéré comme uniformément décéléré.
+
+Question II.1
+
+Déterminer à partir des résultats du modèle multiphysique ci-dessus
+la valeur maximale de la décélération du skateboard Max en m·s-2.
+
+L’accéléromètre permet de mesurer la
+valeur Freinage de la décélération du
+skateboard et fournit à sa sortie une
+tension Uacc image de cette
+décélération. La caractéristique entréesortie de ce capteur est illustrée par la
+figure 7.
+
+Figure 7 : Caractéristique Uacc = f (Freinage) de l’accéléromètre
+
+Question II.2
+
+Déterminer l’équation de la caractéristique Uacc = f (Freinage).
+Compléter le document réponse DR2 en indiquant les valeurs de la
+tension Uacc pour les valeurs d’accélération 0 m·s-2, -1 m·s-2
+
+La variation de tension en sortie de
+l’accéléromètre étant faible, un amplificateur est
+inséré dans la chaîne d’information afin
+d’améliorer la précision de la mesure
+d’accélération. La relation entrée-sortie de
+l’amplificateur est définie par l’équation :
+𝑈𝑎𝑚𝑝 = (𝑈𝑎𝑐𝑐 − 1,3) × 15 .
+
+Question II.3
+
+Compléter le document réponse DR2 en indiquant les valeurs de la
+tension Uamp pour les valeurs d’accélération 0 m·s-2, -1 m·s-2
+
+Le Convertisseur Analogique Numérique (CAN)
+transforme la sortie analogique Uamp de
+l’amplificateur en un mot numérique N codé sur
+10 bits interprétable par le programme du
+microcontrôleur. La tension en entrée du CAN
+varie de 0 V à 5 V.
+
+On rappelle que le quantum q (également appelé résolution) du CAN se calcule à
+𝑈
+l’aide de la formule 𝑞 = 2𝑅𝐸𝐹
+𝑛 où UREF est la tension de référence (ici 5 V) et n le
+nombre de bits sur lequel le mot numérique en sortie.
+
+Question II.4
+
+Calculer le quantum q du CAN. Compléter le document réponse
+DR2 en indiquant les valeurs du nombre N en décimal (ne conserver
+que la partie entière) image des accélérations 0 m·s-2, -1 m·s-2
+
+Le feu arrière est composé de trois secteurs lumineux indépendants permettant ainsi
+de s’allumer progressivement dès qu’un seuil de décélération est dépassé. Pour
+contrôler l’allumage des différents secteurs le programme du microcontrôleur utilise
+une variable FEU codée sur 8 bits. Les 3 bits de poids les plus faibles de cette
+variable permettent de contrôler indépendamment chacun des 3 secteurs du feu :
+Le bit B0 (bit de poids le plus faible) de la variable FEU
+correspond à la zone intérieure du feu. Si ce bit est au
+« 1 » logique la zone intérieure s’allume.
+Le bit B1 de la variable FEU correspond à la zone centrale
+du feu. Si ce bit est au « 1 » logique la zone centrale
+s’allume.
+Le bit B2 de la variable FEU correspond à la zone
+extérieure du feu. Si ce bit est au « 1 » logique la zone
+extérieure s’allume.
+
+Le comportement souhaité pour le feu est le suivant :
+
+Si le skateboard ne décélère pas, le feu est totalement éteint ;
+
+Si la décélération est comprise en -1 m·s-2 ≤ freinage < 0 m·s-2, seule la zone
+intérieure est allumée ;
+
+Si la décélération est comprise en -2 m·s-2 ≤ freinage < -1 m·s-2, les zones
+centrale et intérieure sont allumées ;
+Au-delà de -2 m·s-2, les trois zones sont allumées.
+
+Question II.5
+
+Question II.6
+
+Calculer la valeur en binaire puis en décimale de la variable FEU
+dans les 4 cas de figure décrit dans le comportement souhaité du feu
+arrière. Reporter les valeurs décimales dans le tableau du document
+réponse DR2.
+Compléter l’algorigramme de contrôle du feu arrière du document
+réponse DR2 afin d’obtenir le comportement souhaité.
+
+DOCUMENTS RÉPONSES
+DR1, Question I.1
+
+DR2, Question II.2, II.3 et II.4
+
+DR2, Question II.5
+
+DR2, Question II.6

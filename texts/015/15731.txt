@@ -1,0 +1,460 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1857696, "at": "2026-11-23T09:28:12+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 20
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Un lieu de baignade
+Sur 4 points
+Partie 1
+Durant l’été 2023 la plage surveillée d’un lac a accueilli 75 600 baigneurs.
+On a collecté les informations suivantes :
+- parmi ces baigneurs 40 % sont des adultes,
+- deux baigneurs sur trois sont de bons nageurs, 5 040 baigneurs ne savent pas
+nager, les autres sont qualifiés de « nageurs moyens »,
+- parmi les baigneurs qui sont de bons nageurs il y a autant d’adultes que d’enfants,
+- les trois quarts des baigneurs qui ne savent pas nager sont des enfants.
+1. Reproduire sur la copie et compléter le tableau suivant.
+« bons
+nageurs »
+Enfants
+Adultes
+
+« non
+nageurs »
+
+« nageurs
+moyens »
+
+3 780
+25 200
+
+30 240
+75 600
+
+Durant l’été 2023, on interroge au hasard un baigneur de ce lac.
+2. Quelle est la probabilité que ce soit un enfant non nageur ?
+3. La personne choisie est un adulte. Quelle est la probabilité que ce soit un bon
+nageur ?
+
+Partie 2 – Étude de fonction
+En eau douce, les risques sanitaires liés à la baignade peuvent être dus à la
+présence de toxines libérées par les algues de la famille des cyanobactéries
+(souvent appelées algues bleues).
+Les autorités sanitaires considèrent que ces toxines deviennent dangereuses pour la
+santé lorsque leur concentration dépasse 40 microgrammes par litre dans les eaux,
+la baignade n’est alors plus autorisée.
+L’eau du lac de baignade est surveillée en permanence.
+Suite aux mesures effectuées sur trois jours consécutifs l’évolution de la
+concentration de toxines dans l’eau de ce lac en microgrammes par litre a été
+modélisée par la fonction 𝐶 définie sur l’intervalle [0; 72] par :
+𝐶(𝑡) = −0,05𝑡 ! + 3,75𝑡 + 7,5
+où 𝑡 désigne le temps écoulé depuis le début de l’étude, exprimé en heures.
+On admet que la fonction 𝐶 est dérivable sur l’intervalle [0; 72] et on note 𝐶′ sa
+fonction dérivée.
+1. Montrer que 𝐶 " (𝑡) = −0,1𝑡 + 3,75.
+2. En déduire les variations de la fonction 𝐶 sur l’intervalle [0; 72]. Interpréter ces
+variations dans le contexte de l’exercice.
+3. Calculer 𝐶(10) et 𝐶(65).
+4. A-t-il été nécessaire d’interdire la baignade lors de cette période ? Justifier la
+réponse.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Son, musique et audition »
+
+La guitare ne sonne pas comme d’habitude…
+Un guitariste amateur se plaint de son oreille droite depuis quelques mois. Il souffre
+d’une gêne auditive et d’une distorsion du son perçu lorsqu’il joue de sa guitare, en
+particulier pour les sons aigus. Pour comprendre l’origine de cette sensation auditive,
+dans un premier temps le guitariste décide d’étudier le son émis par sa guitare. Dans
+un second temps, il consulte un médecin ORL pour un bilan auditif.
+Partie 1 – Du côté du son émis par la guitare
+Afin de vérifier que sa guitare n’a pas d’anomalie, le guitariste mesure les fréquences
+de sons joués par sa guitare à l’aide d’une application dédiée et souhaite les
+comparer à une loi modélisant les vibrations d’une corde.
+Il réalise en premier lieu l’expérience sur la corde la plus fine (document 1).
+Document 1 – Spectre du son joué par la corde la plus fine
+Le guitariste pince la corde la plus fine.
+À l’aide de son smartphone et d’une
+application dédiée, il enregistre le son joué
+et en obtient le spectre (figure ci-dessous).
+Le guitariste en déduit que le son joué a
+une fréquence de 328 Hz ce qui
+correspond à un Mi3.
+
+Source : Document de l’auteur
+
+Le guitariste reprend cette expérience en déplaçant son doigt sur différentes
+touches (voir figure ci-dessous) sur la même corde, la plus fine.
+Pour chaque son joué, il mesure la longueur de la partie de la corde libre de vibrer
+(figure ci-dessous). Il réalise plusieurs graphiques pour analyser les résultats de
+ses mesures (document 2).
+
+Document 2 – Exploitation graphique des données
+L représente la longueur vibrante de la corde (en cm) et f la fréquence du son joué
+(en Hz).
+
+1- L’application indique, sur le document 1, la fréquence du premier pic :
+« fréquence du pic 328,12 Hz ». Justifier que cette fréquence est celle du son
+émis.
+2- Justifier que le son joué est un son composé.
+
+3- En s’appuyant sur les graphiques du document 2, justifier que l’on peut
+considérer que la fréquence est inversement proportionnelle à la longueur vibrante
+de la corde.
+Document 3 – Une loi modélisant les vibrations de la corde
+Le père Marin Mersenne, savant et philosophe français, fut l’un des premiers à
+utiliser un laboratoire et à y faire des expériences. […] Il a été le premier à
+proposer une relation entre les différents paramètres de la corde vibrante :
+𝑓=
+
+1 T
+:
+2𝐿 𝜇
+
+𝑓 : la fréquence du son émis par la corde (en Hz) ;
+𝐿 : la longueur vibrante de la corde (en m) ;
+𝑇 : la tension de la corde (en N) ;
+𝜇 : sa masse linéique (masse d’un mètre de corde) (en kg·m-1).
+
+Il fallut attendre le XVIIIe siècle avant d’avoir une démonstration mathématique de
+la formule de Mersenne.
+Source : D'après http://accromath.uqam.ca/2007/02/la-construction-des-gammesmusicales
+
+4- Discuter de la compatibilité des résultats expérimentaux obtenus et de la loi
+proposée dans le document 3. Une argumentation sur le choix du guitariste de
+mener toutes les mesures sur une seule et même corde est attendue.
+Partie 2 – Du côté du bilan auditif de l’oreille droite ?
+Le médecin ORL constate à l’auscultation que l’aspect du conduit auditif des deux
+oreilles du guitariste est normal. Pour identifier une éventuelle perte d’audition, il
+pratique un bilan complet d’audition.
+Document 4 – Modalités d’un bilan d’audition
+L’audiogramme représente la courbe spécifiant le niveau d’audition d’un sujet par
+rapport à des valeurs normales établies sur une large population d’adultes jeunes
+considérés comme ayant une audition normale. Le praticien fait varier l'intensité et
+la fréquence du stimulus acoustique afin de déterminer l'intensité minimum perçue
+par le patient. Deux types de conduction du son au niveau de chaque oreille sont
+testées :
+
+•
+
+La conduction par voie aérienne : le praticien teste ainsi la conduction du
+son de l’oreille externe à l’oreille interne en passant par le tympan et les
+osselets.
+
+•
+
+La conduction par voie osseuse : le praticien teste la conduction du son à
+travers les os du crâne grâce à un vibrateur placé à l’arrière de l’oreille.
+
+Source : D’après https://microbiologiemedicale.fr/anatomie-et-physiologie-de-loreille
+et https://www.cochlea.eu/exploration-fonctionnelle
+
+Document 5 – Comparaison des résultats de tests auditifs chez 3 patients
+dont le guitariste
+Seuls les résultats de l’oreille droite sont présentés ci-dessous. Le guitariste et les
+deux autres patients sont tous âgés d’une vingtaine d’années.
+
+Examen mesurant les seuils
+d’audition en conduction
+osseuse.
+Examen mesurant les seuils
+d’audition en conduction
+aérienne.
+
+Source : D’après http://www.orpac-grasse.com
+
+5- Identifier pour le patient 1 et le patient 2 (document 5) un des diagnostics cidessous qui pourrait lui correspondre. Justifier vos réponses.
+Diagnostic 1 :
+
+Le tympan, la chaine des osselets et la cochlée ne présentent
+pas d’anomalie. Le patient ne présente pas de surdité.
+
+Diagnostic 2 :
+
+Le tympan et les osselets sont probablement lésés mais ; la
+cochlée n’est pas atteinte. Il s’agit d’une surdité de
+transmission qui affecte l’oreille externe et/ou moyenne.
+
+Diagnostic 3 :
+
+La cochlée est atteinte mais la chaîne des osselets et le
+tympan ne présentent probablement pas d’anomalies. C’est
+d’une surdité de perception affectant l’oreille interne.
+
+Diagnostic 4 :
+
+La cochlée, le tympan et la chaîne des osselets sont
+probablement atteints. Il s’agit une surdité mixte avec
+surdité de transmission et surdité de perception.
+
+6- Le guitariste est le patient 2 (document 5). Il explique au médecin : « Pour une
+note aigue, j'entends un timbre différent depuis quelques mois. Ma guitare ne
+sonne pas comme avant ». En s’appuyant sur l’audiogramme du guitariste et sur
+le spectre d’une note aigue (document 1), proposer une explication à la
+distorsion de sa perception. Une démarche sur les harmoniques est attendue.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+Capteur photovoltaïque
+Les capteurs photovoltaïques à base de semiconducteurs équipent de plus en plus de
+logements en France, ce qui témoigne d’une
+prise de conscience par la population des
+problématiques environnementales.
+Nous allons chercher à identifier si l’utilisation actuelle de l’énergie issue de
+panneaux photovoltaïques peut répondre aux besoins électriques.
+Partie 1 – Fonctionnement d’un capteur photovoltaïque
+On s’intéresse dans un premier temps aux caractéristiques des capteurs
+photovoltaïques et à leur empreinte carbone.
+
+Figure 1 – Spectre d’émission du Soleil et spectres d’absorption de trois semi-conducteurs
+
+1- Indiquer, en justifiant votre choix, le numéro du semi-conducteur (1, 2 ou 3 de la
+figure 1) le plus adapté pour équiper un capteur photovoltaïque.
+
+Figure 2 – Chaîne énergétique lors du fonctionnement du capteur photovoltaïque
+
+2- Recopier et compléter le diagramme de la figure 2.
+Le fonctionnement d’un panneau photovoltaïque ne produit donc pas de dioxyde de
+carbone. L’empreinte carbone liée à son utilisation n’est cependant pas nulle.
+3- Proposer une explication possible de ce fait.
+Partie 2 – Utilisation de l’énergie obtenue par un panneau photovoltaïque
+La puissance maximale délivrée par le panneau solaire étudié pour les deux dates
+est de 160 W en octobre et 140 W en février (cf. figure 3 page suivante).
+On souhaite utiliser le panneau solaire pour charger une voiture. Le pic de puissance
+n’est alors pas le paramètre pertinent. En effet, pour pouvoir la charger, il faut qu’elle
+reçoive au minimum une puissance de 100 W.
+4- Déterminer la plage horaire et la durée de charge possibles pour chacune des
+deux dates.
+Une voiture électrique a une batterie qui peut stocker 52 kWh.
+5- Montrer que, pour charger une batterie de voiture en février à la puissance de
+100 W, il faudrait une surface minimale de panneaux solaires d’environ 130 m2.
+
+Figure 3 - Puissance délivrée à deux époques de l’année par un panneau de 1 m2
+Source : d’après P.O. Logerais et al. Étude par simulation de l’influence du vieillissement et
+des conditions climatiques sur la production électrique d’un module photovoltaïque
+Conférence JITH 2013
+
+Partie 3 – Alimentation électrique d’une région : la Provence
+6- En utilisant le document 1 page suivante, montrer qu’il existe des décalages
+importants entre les besoins en électricité de la Provence et la production
+photovoltaïque.
+7- À partir de l’ensemble de vos réponses et de vos connaissances, identifier un
+avantage et un frein à l’utilisation des panneaux photovoltaïques pour répondre
+aux besoins énergétiques d’une région.
+
+Document 1 – Évolution annuelle de la consommation en énergie électrique et
+de la production électrique en Provence
+En Provence-Alpes-Côte d’Azur, la consommation (corrigée des aléas
+météorologiques et calendaires) de l’année 2023 s’élève à 39 TWh.
+En 2023, la production solaire s’est établie à 3,1 TWh.
+Source : RTE France (https://www.rte-france.com)
+
+pourcentage
+
+On représente ci-dessous la consommation électrique et la production
+photovoltaïque d’un module photovoltaïque, en pourcentages de la consommation
+maximale et de la production maximale.
+
+Sources : d’après provence-energie-citoyenne.fr et apresdemain28.wixsite.com
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+
+Niveau terminale
+Thème « Une histoire du vivant »
+
+Évolution du VIH
+La pandémie de SIDA est liée à la propagation du VIH, virus de l'immunodéficience
+humaine. Ce virus a été découvert en 1983. Depuis, les connaissances sur la
+génétique et l’évolution de ce virus n’ont cessé de progresser, permettant de mieux
+lutter contre ce pathogène
+Partie A – Évolution du VIH
+Document 1 – Structure simplifiée du virus VIH
+
+Le matériel génétique du virus VIH est composé de 9181 unités appelées
+nucléotides. À chaque fois qu’un virus se reproduit, il y a une mutation tous les
+1000 nucléotides, c’est-à-dire qu’il y a une erreur de copie d’un nucléotide tous les
+1000 nucléotides : c’est ce que l’on nomme la fréquence de mutation. Les
+mutations entrainent l’apparition de nouvelles caractéristiques moléculaires du
+virus VIH, notamment au niveau des protéines de l’enveloppe.
+1- Montrer qu’il se produit environ 9 mutations dans le matériel génétique du VIH à
+chaque fois que le virus se reproduit.
+
+Les cellules humaines ont une fréquence de mutation 100 000 fois inférieure à celle
+du virus VIH.
+2- Au regard de ces informations et de celles issues du document 1, montrer que ce
+virus évolue rapidement.
+Les laboratoires pharmaceutiques élaborent un vaccin en fonction des
+caractéristiques moléculaires des protéines de l’enveloppe du virus contre lequel il doit
+protéger. Un vaccin est donc efficace sur un seul type de virus : on dit qu’il est
+spécifique du virus.
+3- Au regard de ces informations, de vos réponses aux questions précédentes, et
+de vos connaissances, expliquer pourquoi il est difficile d’élaborer un vaccin
+contre le virus VIH.
+Partie B – Lutte contre la propagation du virus VIH
+Afin de lutter contre la propagation du VIH, des autotests de dépistage de ce virus
+sont en vente libre dans les pharmacies de France depuis 2015. Ces autotests
+s’utilisent par prélèvement d’une goutte de sang, à la maison et sans prescription
+médicale.
+Document 2 – Performances de l’autotest VIH
+La sensibilité d’un test représente la probabilité que le test soit positif si la maladie
+est présente. Elle est évaluée à 100 %.
+La spécificité d’un test représente la probabilité que le test soit négatif si la maladie
+est absente. Elle est évaluée à 99,8 %.
+Source : Notice d’utilisation autotest VIH ®
+
+La prévalence d’une maladie est la proportion du nombre de cas positifs sur l’effectif
+total d’une population. On rappelle que la valeur prédictive positive d’un test dans
+une population donnée est la probabilité qu’un individu de cette population qui réagit
+positivement au test soit effectivement malade. Les valeurs prédictives positives
+(VPP) et négatives (VPN) dépendent de la prévalence. Par exemple, pour un test de
+dont la sensibilité est de 0,99 et la spécificité est de 0,98, la VPP varie de 33 % à
+95 % quand la prévalence varie de 1 % à 30 %.
+
+Le tableau de contingence, ci-dessous, donne les effectifs liés à une étude portant
+sur une population de 10 000 personnes :
+
+Test positif
+
+Test négatif
+
+Patients contaminés
+par le VIH
+
+Patients non
+contaminés par le
+VIH
+
+9 979
+
+11 000
+
+4- À l’aide des informations du document 2, recopier et compléter le tableau de
+contingence. Les résultats des calculs seront arrondis à l’entier.
+5- Montrer que parmi tous les tests positifs, 9,5 % des patients sont réellement
+infectés par le VIH (« vrais positifs »), alors que 90,5% des patients ne sont pas
+infectés par le VIH (« faux positifs »).
+6- Au regard des réponses aux questions de la partie B, discuter de la pertinence
+de l’autotest étudié.
+Partie C – Traitements proposés aux personnes contaminées par le VIH
+Différents traitements ont été progressivement mis au point depuis la découverte du
+virus VIH, et permettent désormais aux personnes contaminées de vivre en bonne
+santé.
+7- En mettant en relation les informations du document 3 page suivante et vos
+connaissances sur la sélection naturelle, expliquer les causes possibles de
+l’augmentation de la résistance aux antiviraux anti-VIH.
+
+Document 3 – La résistance du VIH aux médicaments antiviraux (données
+collectées entre 2014 et 2017)
+Il n’existe actuellement pas de traitement permettant d’éliminer le virus VIH d’un
+organisme contaminé. Cependant, des médicaments appelés antiviraux permettent
+de contrôler la prolifération du virus VIH en inhibant sa reproduction. Une personne
+est dite résistante aux antiviraux lorsque le médicament n’est plus efficace.
+Proportion de personnes résistantes aux
+antiviraux anti-VIH
+Pays
+
+Avant traitement aux
+antiviraux
+
+Après traitement aux
+antiviraux
+
+Namibie
+
+Argentine
+
+Vietnam
+
+Source : HIV drug resistance report, OMS, 2019.

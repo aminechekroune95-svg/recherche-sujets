@@ -1,0 +1,403 @@
+{"pages": 14, "method": "pdftotext", "bytes": 820174, "at": "2026-11-23T09:27:14+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé
+L’usage des calculatrices est autorisé dans les conditions suivantes :
+-
+
+l'usage de calculatrice avec mode examen actif est autorisé ;
+l'usage de calculatrice sans mémoire, « type collège » est autorisé.
+
+Information aux candidats : les candidats qui disposent d’une calculatrice avec mode
+examen devront l’activer le jour des épreuves et les calculatrices dépourvues de
+mémoire seront autorisées. Ainsi tous les candidats composeront sans aucun accès à
+des données personnelles pendant les épreuves.
+SUJET SI-E3C-14-09
+
+Constitution du sujet
+
+Étude d'une performance du produit ........................... Pages 5 à 8
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................ Pages 9 à 12
+
+Documents réponses ..................................................... Pages 13 et 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées
+
+pour qualifier et/ou quantifier cette performance, à partir de l'analyse, de la
+modélisation de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRESENTATION DU PRODUIT ETUDIE
+Le distributeur de nourriture pour chat possède
+une trappe qui ne s'ouvre que lorsque la puce
+électronique (tag RFID) du chat est scannée et
+reconnue. Si un animal non enregistré passe à
+côté du distributeur, le couvercle ne s'ouvre pas
+ou se referme. Le distributeur Surefeed garantit
+ainsi que la nourriture est consommée par le
+« bon animal » domestique. Quand l'animal a
+mangé et s’éloigne du distributeur, le couvercle
+se referme automatiquement.
+-
+
+Dimensions : L 32 cm x l 23 cm x H 20 cm
+Capacité : bol simple : 400 mL - bol double : 2 x 200 mL
+Type de nourriture : sèche et humide
+Alimentation : fonctionne avec 8 piles R14 (longévité des piles jusqu'à 6 mois)
+Le couvercle
+s’ouvre
+
+Le lecteur de puce
+électronique scanne la
+puce électronique (tag
+RFID) de votre chat
+
+Une fois que l’animal
+s’est éloigné du
+distributeur de nourriture,
+le couvercle se referme
+
+Capteurs utilisés pour
+reconnaître votre animal
+lorsqu’il s’approche du
+distributeur de nourriture
+
+Description du mécanisme d’ouverture de la trappe d’accès à la nourriture :
+Chaine de puissance :
+Un moteur permet d’entrainer un réducteur, l’arbre de sortie du réducteur est lié à l’axe
+de rotation de la trappe d’accès à la nourriture par un accouplement. La trappe est
+constituée de deux demi-trappes afin de limiter l’encombrement lors de l’ouverture,
+mais aussi dans le but de limiter le couple utile d’ouverture. Le moteur est un moteur
+à courant continu.
+Chaine d’information :
+L’axe du moteur dispose de deux capteurs fin de course à action mécanique,
+l’approche du chat équipé du tag RFID est détectée par le lecteur de tag RFID.
+
+Exercice 1 - ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : vérifier les performances suivantes :
+
+temps d’ouverture : 6 secondes + ou – 10% ;
+le motoréducteur est adapté en couple et en vitesse pour ouvrir la trappe.
+
+Cette partie de l’étude porte sur l’analyse des mouvements, la cinématique du
+mécanisme, le modèle du distributeur et la validation du motoréducteur.
+Un modèle simplifié du mécanisme d’ouverture de la trappe a permis de faire des
+simulations.
+
+Z
+
+Question I.1
+
+Analyse des mouvements
+
+Caractériser les mouvements suivants (Nature et axe) :
+- Mouvement de 1 par rapport à 0
+- Mouvement de 2 par rapport à 1
+- Mouvement de 2 par rapport à 0
+Caractériser les trajectoires suivantes :
+- Trajectoire du point B appartenant à 2 par rapport à 0 (bâti) : TB 2/1
+- Trajectoire du point C appartenant à 1 par rapport à 0 (bâti) : TC1/0
+
+Question I.2
+
+Analyse de la chaine de puissance
+
+DR1
+
+Compléter la chaîne de puissance en plaçant les grandeurs (effort et flux)
+entre les différents blocs sur le document réponse DR1.
+En déduire les formules littérales des différentes puissances :
+Puissance électrique : Pe
+Puissance moteur : Pm
+Puissance récepteur : Pr
+
+Question I.3
+
+Analyse de la chaine cinématique
+
+DR1
+
+Sur le document réponse DR1 :
+- compléter le graphe des liaisons du modèle d’ouverture simplifié.
+- compléter le schéma cinématique du mécanisme en indiquant le
+système d’ouverture de trappe pendant la phase d’ouverture, et en
+précisant le nom des liaisons, axe, centre et direction.
+Cette partie de l’étude porte sur les performances du motoréducteur et plus
+particulièrement sur des simulations menées sur le moteur électrique à courant
+continu qui entraine la trappe.
+Une première étude mécanique a permis d’établir la courbe de variation du couple
+nécessaire à l’entrainement de la trappe en fonction du temps pour une ouverture
+complète de la trappe.
+Caractéristiques du
+motoréducteur :
+Moteur : RE385LN
+Alimentation: 4,5 à 15 Vcc
+Consommation à vide: 0,15 A à 12
+Vcc
+Consommation en charge: 0,84 A à
+12 Vcc
+Réduction: 3000:1
+Vitesse: 2,5 tr.min-1 (À la sortie du
+réducteur) à 12 Vcc
+Couple: 0,6 N.m (à la sortie du
+réducteur)
+Dimensions: Ø 37 mm x 102 mm
+Masse: 249 g
+
+Le temps d’ouverture est de 6 secondes pour effectuer 90 degrés.
+Le schéma cinématique du réducteur :
+La Vis sans fin 1 est liée à l’arbre moteur, l’axe de la roue 8 est lié à l’axe Trappe 1.
+L’ensemble 1 et 2 est un système roue et vis sans fin (la vis se comporte comme un
+pignon à une dent).
+Repère de roue
+
+Nombre
+de dents
+Z
+
+Vis sans fin 1
+
+Roue creuse 2
+
+Question I.4
+Vérifier le rapport de réduction donné par le constructeur. D’après les valeurs
+théoriques du couple résistant et des caractéristiques du moteur, justifier que
+le motoréducteur choisi convient (couple et vitesse).
+Cette partie de l’étude porte sur l’analyse des écarts
+Les calculs théoriques du couple nécessaire à entrainer la trappe en rotation ont été
+complétés par une seconde simulation sur modeleur 3D et par des essais
+expérimentaux.
+Dans le modeleur 3D, les liaisons sont supposées parfaites (sans frottement, sans
+jeu).
+Les efforts connus sont les poids des pièces qui s’opposent à l’ouverture de la
+trappe.
+Le logiciel détermine le couple nécessaire au niveau de l’axe de la liaison au point A.
+L’expérimentation a été réalisée sur une maquette réelle instrumentée, permettant de
+mesurer le couple au niveau de la liaison au point B.
+
+Les deux courbes suivantes sont issues de la simulation et de l’expérimentation :
+Couple en N.m
+0.6
+0.5
+0.4
+courbe experimentale
+
+0.3
+
+Simulation
+0.2
+0.1
+
+Question I.5
+
+Temps en s
+
+Analyse des écarts de couple
+
+Pour le couple maximal correspondant à la position la plus défavorable de la
+trappe, calculer l’écart absolu et relatif (en pourcentage) entre les courbes
+expérimentale et de simulation.
+Analyser ce qui pourrait expliquer l’écart entre l’expérimentation et la
+simulation.
+Question I.6
+
+Conclusion générale
+
+Conclure sur les performances du produit au regard des performances
+attendues (temps d’ouverture, choix du motoréducteur en couple et en
+vitesse).
+
+Exercice 2 - COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : Comment permettre au seul chat autorisé de se nourrir ?.
+Il existe 4 modes de fonctionnement :
+- Mode de fonctionnement normal :
+Le distributeur de nourriture Surefeed identifie le chat
+quand il passe sa tête dans le portique et, si le chat est
+autorisé, le distributeur ouvre la trappe d’alimentation pour
+permettre au chat de s’alimenter.
+Si le chat quitte la zone de détection, la trappe est refermée
+au bout d’un temps réglable.
+- Mode enregistrement du chat :
+Ce mode permet d’enregistrer un chat pucé ou ayant un
+autre tag que celui fourni par défaut. L’appui sur le bouton
+E permet l’enregistrement du chat.
+- Mode Réapprovisionnement en nourriture :
+Figure 1
+L’appui sur le bouton R ouvre la trappe, l’appui suivant la
+ferme.
+- Mode apprentissage :
+Boutons à l’arrière
+L’appui sur le bouton A ouvre la trappe. Elle ne se refermera pas
+après le départ du chat.
+Le système Surefeed est vendu avec un tag RFID qui permet l’identification du chat et
+qui se porte sur un collier. Ce tag possède dans sa mémoire un code d’identification
+UID (User IDentifier) sur 5 octets. Il vaut ici en base 16 :
+code_UID= $01 $12 $C0 $04 $8C
+Une application RFID (Radio Frequency IDentification) se compose d'un lecteur qui
+transmet l’énergie par un signal selon une
+fréquence déterminée vers une ou plusieurs
+étiquettes radio (aussi appelé tags rfid)
+situées dans son champ de lecture. Celles-ci
+transmettent en retour une information.
+Il existe deux technologies :
+- Passive : le tag reçoit une source d’énergie
+lorsqu’il se trouve dans le champ radio du
+lecteur et peut donc répondre en envoyant
+ses données préprogrammées.
+- Active : le lecteur et le tag sont tous les deux
+Figure 3 : configuration RFID du
+alimentés et émettent leur propre champ
+Surefeed (Source: Draetta, Delanoe 2009
+radio.
+
+Question II.1
+Indiquer la technologie du tag (passive ou active) ainsi que les types de
+support retenus par le Surefeed. Justifier votre réponse.
+En mode normal, lorsque le chat passe la tête dans le portique du distributeur, le
+lecteur RFID détecte le badge et lit son code (code_UID), compare celui-ci à un code
+préenregistré (code_Ref) et si les 2 sont identiques, la trappe s’ouvre puis la led
+témoin s’allume pendant 5s. Sinon la led clignote 3 fois à la fréquence de 1Hz.
+Question II.2
+
+Compléter l’algorigramme sur le document réponse DR2 pour réaliser ce
+fonctionnement partiel du Surefeed en mode normal.
+
+L’utilisateur a la possibilité grâce à un interrupteur à glissière
+SW1, ayant 3 positions, de régler la consigne de durée de
+maintien en ouverture de la trappe durant laquelle elle reste
+ouverte lorsque le chat quitte la zone de détection.
+Le circuit électronique génère une tension Ucons_tempo qui
+représente la position de la glissière parmi les 3 possibles. Cette
+tension est convertie par le programme du microcontrôleur,
+grâce à un convertisseur analogique numérique 8 bits, en un
+nombre Ncons_tempo.
+
+Figure 4 : sélection du
+temps d’ouverture
+
+Vcc=+5V est la tension pleine échelle du CAN (Convertisseur
+Analogique Numérique).
+
+Question II.3
+
+Calculer les valeurs Ucons_tempo et Ncons_tempo manquantes à
+reporter dans le tableau du document réponse DR2 pour les trois
+positions possibles de l’interrupteur à glissière SW1.
+Justifier vos résultats en détaillant vos calculs.
+
+Question II.4
+
+Calculer la valeur de Ucons_tempo dans la position représentée sur
+le schéma. Justifier si cette valeur est conforme auxattentes.
+
+Ci-après les 2 schémas des blocs internes suivants :
+
+Figure 7 : schéma des blocs internes du Surefeed
+
+Figure 8 : schéma des blocs internes de la trappe motorisée
+
+Le schéma des blocs internes (à compléter) du module électronique est donné sur le
+document réponse DR2
+Nota : Le signal sens O/F détermine si la trappe s’ouvre ou se ferme. Le signal vitesse
+règle la vitesse.
+La nature des liens entre blocs peut être de 3 types :
+E (énergie), M (matière) I (information).
+Pour les liens de type I, ils peuvent être de 3 sortes :
+L (logique), # (numérique), Ո (analogique)
+
+Question II.5
+
+Question II.6
+
+Compléter le schéma des blocs internes du module électronique sur
+le document DR2 en indiquant, s’ils ne sont pas donnés, le nom et la
+nature de chaque lien représenté en utilisant les symboles proposés.
+Exemple donné sur le schéma : nom : ordres, nature : I->#
+
+Conclure en indiquant si le Surefeed répond bien à la problématique
+de permettre au seul chat autorisé de se nourrir.
+
+DOCUMENT RÉPONSE DR1
+Question I.2 Flux d’énergie :
+
+Alimentation
+Électrique
+
+Pe
+
+Pm
+
+Moteur
+
+Réducteur
+
+Pr
+
+Question I.3 Graphe des liaisons
+
+Question I.3
+Schéma cinématique à compléter
+Zone à compléter sur les schémas
+Position fermée
+
+Nom de La liaison :
+
+Position entre-ouverte
+
+DOCUMENT RÉPONSE DR2
+Question II.2 :
+Question II.3 :
+Position
+
+Ucons_tempo en V
+1,25
+
+Ncons_tempo
+
+3,75
+
+Question II.5 :
+Schéma des blocs internes du module
+électronique :
+
+Remarque : dans un tableau tab[], tab[i] permet d’accéder à la case d’indice i.
+Exemple : tab[]={1,5,46,2} , tab[0] contient la valeur 1, tab[1] contient 5, …tab[3]
+contient 2

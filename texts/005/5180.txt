@@ -1,0 +1,372 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1290481, "at": "2026-11-23T09:24:05+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Plongée en eau douce (10 points)
+La plongée en eau douce peut se pratiquer dans les lacs, les étangs, les anciennes carrières,
+les rivières et même les piscines. Ce sport permet de découvrir une faune et une flore
+aquatiques typiques de ces milieux.
+1. Pression et profondeur
+Un plongeur débutant ressent souvent une douleur intense au niveau des tympans lors des
+plongées. Le tympan est une membrane qui sépare l’oreille moyenne du milieu extérieur. Il est
+assimilable à un disque de surface 𝑆 = 6,0 × 10−5 m².
+Une légère différence entre la pression extérieure et celle de l’air dans l’oreille moyenne suffit
+à provoquer des douleurs qui peuvent aller jusqu’à l’inflammation du tympan : c’est le
+barotraumatisme auriculaire. Celui-ci peut se déclarer dès lors que la différence entre la force
+pressante exercée par un fluide extérieur et celle exercée par l'air intérieur sur le tympan
+excède une valeur de l’ordre de 2 N. Pour l’éviter, il est possible d’effectuer la manœuvre de
+Valsalva : elle consiste à expirer tout en se pinçant les narines afin de rééquilibrer les
+pressions de part et d’autre du tympan.
+Un plongeur souhaite vérifier au laboratoire l'influence de la profondeur sur la pression lors
+d'une séance de travaux pratiques. Pour cela, il utilise un manomètre associé à un tuyau en
+plastique pour mesurer la valeur de la pression, un mètre ruban pour mesurer celle de la
+profondeur et un long tube de plexiglas.
+Il remplit le tube de plexiglas avec de l'eau et y plonge le tuyau en plastique. Il relève la
+pression P en fonction de la profondeur d'immersion h de l'extrémité du tuyau.
+
+Le plongeur obtient les résultats suivants :
+h(cm)
+P(hPa)
+
+1012
+
+1023
+
+1032
+
+1042
+
+1052
+
+1062
+
+1072
+
+1082
+
+1091
+
+Données :
+- la loi fondamentale de la statique des fluides est donnée par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+où 𝐴 et 𝐵 sont deux points d'un fluide au repos, d'altitudes respectives 𝑧𝐴 et 𝑧𝐵 (en
+mètre), où règnent les pressions respectives 𝑃𝐴 et 𝑃𝐵 (en pascal) ;
+- masse volumique de l'eau : ρ = 1000 kg. m−3 ;
+- intensité de la pesanteur : 𝑔 = 10 N. kg −1 .
+1.1.
+
+Expliquer qualitativement le lien entre la pression et le comportement microscopique
+des entités qui constituent le fluide.
+
+1.2.
+
+En utilisant une étude graphique, tester la loi fondamentale de la statique des fluides à
+partir des mesures consignées dans le tableau ci-dessus.
+
+1.3.
+
+On considère que la loi fondamentale de la statique des fluides est vérifiée à 10 mètres
+de profondeur.
+
+Estimer la valeur de la force pressante exercée par l'eau sur la surface du tympan d’un
+plongeur à cette profondeur.
+On considère que le plongeur effectue la descente de la surface de l’eau jusqu’à 10 m de
+profondeur sans réaliser la manœuvre de Valsalva. Risque-t-il un barotraumatisme
+auriculaire ? Une réponse détaillée est attendue.
+2. Le sens électrique chez les poissons
+Les poissons électriques
+On appelle poisson électrique les poissons capables d'utiliser un courant électrique pour
+s'orienter, pour se protéger ou pour communiquer. La majorité de ces poissons vivent dans les
+eaux turbides ou ont une activité nocturne. Ils génèrent un champ électrostatique autour de
+leur corps. Un objet placé à proximité modifie la valeur de l'intensité locale du champ
+électrostatique. Par la suite, des récepteurs électriques situés dans la peau détectent le
+champ électrostatique et les modifications subies, ce qui permet au poisson de percevoir les
+caractéristiques de son environnement, détecter des proies et communiquer avec des
+congénères. Quelques espèces sont capables de produire des décharges électriques de forte
+
+intensité, comme les anguilles électriques, les torpilles ou les silures électriques. Elles s'en
+servent pour se protéger contre des prédateurs, ou pour assommer des proies avant de les
+consommer.
+Source : article « Poisson électrique » de Wikipédia en français.
+(http://fr.wikipedia.org/wiki/Poisson_%C3%A9lectrique).
+Force et champ électrostatiques
+Un objet possédant une charge électrique 𝑞𝐵 placée dans un champ électrostatique ⃗𝐸 ,
+engendré par une charge électrique 𝑞𝐴 , subit une action mécanique modélisée par une force
+électrostatique :
+𝐹 = 𝑞𝐵 𝐸⃗ .
+La force électrostatique est donnée par la loi de Coulomb :
+𝐹=
+
+𝑞𝐴 𝑞𝐵
+×
+⃗𝑢
+4𝜋𝜀𝑅 𝜀0
+𝑟2
+
+avec ⃗𝑢, vecteur unitaire de même direction que la droite reliant les deux charges et orienté de
+A vers B, 𝜀𝑅 et 𝜀0 deux constantes appelées permittivités diélectriques, 𝑞𝐴 et 𝑞𝐵 les charges, 𝑟
+la distance entre les deux charges.
+Valeurs des permittivités diélectriques :
+ permittivité diélectrique du vide : 𝜀0 = 8,85  10−12 F. m−1 ;
+ permittivité diélectrique relative de l'air par rapport au vide : 𝜀𝑅 = 1,00 ;
+ permittivité diélectrique relative de l'eau par rapport au vide : 𝜀𝑅 = 78,5.
+Effets des champs électrostatiques sur la santé
+Les champs électrostatiques peuvent provoquer des réactions cutanées. En effet, ils
+induisent au niveau de la peau des personnes exposées une modification de la répartition des
+charges électriques. Cette modification est perceptible surtout au niveau des poils et des
+cheveux (seuil de perception : 10 kV.m-1, seuil de sensations désagréables : 25 kV.m-1).
+Source : http://www.inrs.fr/risques/champs-electromagnetiques/effets-sante.html
+Un plongeur se trouve à 2,0 m d'une anguille électrique. En première approximation, on
+modélise une partie de l'anguille par un point placé en A et de charge unique 𝑞𝐴 = 4,4×10-12
+C.
+2.1.
+
+Montrer que l’expression du champ électrostatique⃗⃗⃗𝐸 créé au point B par une charge 𝑞𝐴
+est donnée par la relation :
+𝑞𝐴
+𝐸⃗ =
+× 2 ⃗𝑢
+4𝜋𝜀𝑅 𝜀0 𝑟
+
+2.2.
+
+L’intensité du champ électrostatique décroît très vite avec la distance. En outre, les
+valeurs des champs électrostatiques créées par les poissons sont souvent faibles car
+l’eau, par rapport à l’air, divise par environ 80 l’amplitude du champ électrostatique.
+Justifier ces deux affirmations.
+
+2.3.
+
+Dans le cadre de cette modélisation, calculer la valeur du champ électrostatique
+ressenti par le plongeur. Ce champ est-il perceptible par le plongeur ? Justifier.
+
+2.4.
+
+Le champ électrostatique créé par un poisson électrique peut être assimilé à celui d’un
+ensemble composé de deux charges électriques de signes opposés.
+
+Figure 3.a.
+Figure 3.b.
+Lignes de champ électrostatique créé par un ensemble de deux charges électriques placées aux points
+M et N.
+
+Pour chaque figure, donner le signe des charges placées aux points M et N.
+Parmi les deux figures proposées, laquelle correspond au modèle du poisson électrique ?
+PARTIE B
+Synthèse du camphre au service du sportif (10 points)
+Le baume du tigre® est un onguent issu de la pharmacopée chinoise dont la
+commercialisation remonte à la fin du XIXème siècle. En particulier, le baume du tigre rouge®
+est très utilisé pour soulager les douleurs musculo-squelettiques ; il est donc particulièrement
+apprécié des sportifs.
+
+Le baume du tigre
+Le camphre constitue le principal composant du baume du tigre®. Historiquement, le camphre
+était d’origine naturelle : le plus anciennement connu semble avoir été le camphre de Bornéo,
+fourni par un grand arbre de l’île de Sumatra en Indonésie. Actuellement, la majorité du
+camphre produit en France est obtenue par une synthèse multi-étapes à partir de l’-pinène
+extrait de la résine de pin. Cette synthèse est présentée ci-dessous.
+
+Cet exercice s’intéresse à la dernière étape qui permet de produire le camphre par oxydation
+du bornéol. avec comme oxydant l’acide chromique (réactif de Jones) ;
+La transformation chimique peut être modélisée par la réaction chimique d’équation :
+
++ 6 H
+
+2 H2CrO 4 + 3
+
++
+
+3+
+O + 2 Cr
++ 8 H2O
+
+OH
+
+bornéol
+
+camphre
+
+Le protocole de cette étape ainsi que les données spécifiques à ce dernier, sont fournis ciaprès.
+
+Protocole de synthèse du camphre à partir du bornéol
+Étape 1 Dans un ballon bicol de 250 mL, placé dans un bain de glace, muni d’une
+agitation magnétique, d’un réfrigérant à eau et d’une ampoule de coulée,
+dissoudre 5,0 g de bornéol commercial dans 15 mL de propanone. Ajouter
+goutte à goutte 11,0 mL de solution d’acide chromique de concentration
+C = 2,0 mol·L-1. Enlever le bain de glace et attendre que la température du
+mélange atteigne la température ambiante.
+Étape 2 Introduire le mélange dans une ampoule à décanter de 250 mL contenant
+120 mL d’eau et ajouter 25 mL d'éther diéthylique. Agiter, décanter et séparer
+la phase organique. Traiter deux fois la phase aqueuse avec chaque fois
+25 mL d'éther diéthylique.
+Étape 3 Regrouper et laver les phases organiques avec successivement 25 mL d'une
+solution saturée de chlorure de sodium (Na+(aq) + Cl-(aq)), 25 mL d'une solution
+saturée d'hydrogénocarbonate de sodium (Na+(aq) + HCO3−(aq)) et 25 mL d'une
+solution saturée de chlorure de sodium. Recueillir la phase organique dans
+un erlenmeyer. Sécher sur sulfate de magnésium anhydre. Éliminer le solvant
+grâce à un montage de distillation simple. Verser le résidu du ballon dans
+bécher taré, refroidir et recueillir les cristaux obtenus, les sécher.
+Étape 4 Déterminer la masse puis réaliser le spectre infrarouge du solide obtenu.
+
+Données
+Données physico-chimiques relatives aux espèces chimiques mises en jeu dans ce
+protocole
+Nom
+Données physico-chimiques et pictogrammes
+Solution
+Acide
+aqueuse
+chromique
+d’acide
+H2CrO4
+chromique
+ Température d’ébullition : 56 °C sous
+1,013 hPa
+ Densité : d = 0,79
+Propanone
+ Solvant organique miscible à l’eau et à l’éther
+C3H6O
+diéthylique
+
+Éther
+diéthylique
+C4H10O
+
+ Température d’ébullition : 34 °C sous
+1,013 hPa
+ Densité : d = 0,71
+ Solvant organique très peu miscible à l’eau
+
+Bornéol
+C10H18O
+
+ Masse molaire M = 154,2 g·mol-1
+ Température de fusion : 208 °C
+ Solubilité : presque insoluble dans l'eau ; très soluble dans l'éthanol ;
+soluble dans l'éther de pétrole, dans la propanone et l'éther diéthylique
+
+Camphre
+C10H16O
+
+ Masse molaire M = 152,2 g·mol-1
+ Température de fusion : 175 - 177 °C
+ Solubilité : peu soluble dans l’eau ; très soluble dans l’éthanol ; soluble
+dans l’éther diéthylique
+
+Données de spectroscopie infrarouge :
+Liaison
+
+Nombre d’onde
+(cm-1)
+
+O-H libre
+
+3580 - 3650
+
+O-H liée (pont hydrogène)
+
+3100 - 3500
+
+O-H (acide carboxylique)
+
+2500 - 3300
+
+Ctri-H (Ctri : carbone
+trivalent)
+Ctet-H (Ctet : carbone
+tétravalent)
+C-H de CHO (aldéhyde)
+
+1.
+2.
+3.
+
+Bande
+d’absorption
+fine
+large
+large
+
+3000 - 3100
+
+2800 - 3000
+
+2650 - 2800
+
+C=O (aldéhyde, cétone)
+
+1650 - 1730
+
+C=O (acide carboxylique)
+
+1690 - 1760
+
+C=C
+
+1625 - 1685
+
+Ctet-H
+
+1415 - 1470
+
+C-O
+
+1050 - 1450
+
+Indiquer, en justifiant, les précautions à prendre lors de cette étape de la synthèse.
+Caractériser chacune des étapes du protocole en utilisant les termes suivants : analyse
+du produit synthétisé ; transformation des réactifs ; isolement du produit synthétisé.
+Justifier l’utilisation de l’éther diéthylique dans l’étape 2 du protocole.
+
+Le schéma du montage de distillation simple est donné ci-dessous.
+
+4.
+
+5.
+6.
+7.
+
+Sans reproduire le schéma, indiquer sur votre copie chaque nombre de la légende ainsi
+que le terme associé. Préciser quelle(s) espèce(s) chimique(s) est(sont) présente(s)
+dans le distillat (10).
+À l’aide des couples d’oxydo-réduction : H2CrO4 / Cr3+ et camphre / bornéol, retrouver
+l’équation de la réaction de synthèse et justifier que le bornéol subit bien une oxydation.
+Montrer que l’acide chromique et le bornéol ont été introduits dans les propositions
+stœchiométriques.
+Montrer que la masse maximale de camphre que l’on peut former à l’issue de la
+synthèse vaut mthéorique = 5,0 g.
+
+Une synthèse réalisée au laboratoire en suivant ce protocole a permis d’obtenir 2,2 g de
+solide.
+8.
+En supposant que le solide obtenu est du camphre pur, déterminer le rendement de cette
+synthèse.
+Lors de la synthèse au laboratoire, le technicien a réalisé une
+chromatographie sur couche mince. Il a noté sur son cahier de laboratoire :
+Rf(camphre) = 0,52 attendu dans les conditions de la CCM et il a reproduit
+ci-contre le chromatogramme obtenu après élution et révélation.
+1. Prélèvement au début de la transformation
+2. Prélèvement en cours de transformation
+3. Prélèvement en fin de transformation
+
+9.
+
+Analyser l’allure du chromatogramme obtenu et indiquer les informations qu’il fournit sur
+la synthèse.
+
+Le spectre IR du bornéol commercial est fourni ci-dessous. Il représente la transmittance (en
+%) en fonction du nombre d’onde (wavenumbers en anglais) exprimé en cm -1.
+
+Donald L. Pavia, George S. Kriz, Gary M. Lampman, Randall G. Engel. A Small Scale
+Approach to Organic Laboratory Techniques, p. 256.
+10. Donner les principales modifications attendues sur le spectre IR du solide obtenu par
+rapport celui du bornéol si le solide est du camphre pur.

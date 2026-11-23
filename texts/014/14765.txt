@@ -1,0 +1,440 @@
+{"pages": 19, "method": "pdftotext", "bytes": 456244, "at": "2026-11-23T09:42:02+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les propositions suivantes, laquelle est la représentation binaire de 761 ?
+11 1100 1101
+11 1110 0101
+10 0111 1001
+10 1111 1001
+Question A 2
+Parmi les caractères ci-dessous, lequel ne fait pas partie du code ASCII ?
+a
+@
+é
+Question A 3
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 4
+Quelle est l'écriture binaire, en complément à deux sur 8 bits, de l'entier négatif –7 ?
+- 0000 0111
+1000 0111
+1111 1000
+1111 1001
+Question A 5
+Le résultat de la multiplication en binaire 1011 * 101 est égal au nombre binaire :
+102111
+101110
+110111
+110011
+Question A 6
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x = 1
+
+for i in range(10):
+x = x * 2
+1024
+2048
+20000000000
+
+Thème B : types construits
+Question B 1
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 2
+On définit tableau = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]. Quelle est la valeur de tableau[2][1] ?
+
+Question B 3
+Laquelle des expressions suivantes a-t-elle pour valeur la liste des carrés des premiers entiers qui ne sont pas
+multiples de 5 ?
+[x*x for x in range (11) if x//5 != 0]
+[x*x if x%5 != 0 for x in range (11)]
+[x*x if x//5 != 0 for x in range (11)]
+[x*x for x in range (11) if x%5 != 0]
+Question B 4
+Quelle est la liste obtenue par l'exécution de l’instruction [2**i for i in range(5)] ?
+[0,1,4,9,16]
+[1,4,9,16,25]
+[0,2,4,6,8]
+[1,2,4,8,16]
+Question B 5
+Quelle affectation permet de donner à L la valeur [1,9,25,49,81] ?
+L = [i*2 for i in range(9) if i%2 == 0]
+
+L = [i**2 for i in range(10) if i%2 == 0]
+L = [i**2 for i in range(10) if i%2 == 1]
+L = [i**2 for i in range(10) if i//2 == 1]
+
+Question B 6
+On considère le code suivant :
+def feed(t):
+for i in range(len(t)):
+t[i] = 0
+return t
+Que renvoie feed([12, 24, 32]) ?
+[120, 240, 320]
+[0, 0, 0]
+[ ]
+[0]
+
+Thème C : traitement de données en tables
+Question C 1
+On définit :
+contacts = {
+
+'Toto': 'toto@nsi.fr', 'Chloé': 'chloe@nsi.com',
+'Paul': 'paul@nsi.net', 'Clémence': 'clemence@nsi.org' }
+
+Parmi les propositions suivantes, laquelle est exacte ?
+'Chloé' est une valeur de la variable contacts
+'Chloé' est une clé de la variable contacts
+'Chloé' est un attribut de la variable contacts
+'Chloé' est un champ de la variable contacts
+Question C 2
+Par quoi faut-il remplacer les pointillés dans le script suivant :
+relevé = [ {'matière':'EPS','moyenne':11}, {'matière':'Sciences','moyenne':6},
+{'matière':'LV1','moyenne':14}, {'matière':'Histoire','moyenne':9},
+{'matière':'LV2','moyenne':15} ]
+a = ......
+b = ......
+for i in relevé :
+if i[a] > 10:
+print(i[b])
+pour qu'il affiche
+EPS
+LV1
+LV2
+a = 'moyenne'
+b = 'matière'
+a = 'matière
+b = 'moyenne'
+a = 0
+b = 1
+a = 1
+b = 0
+Question C 3
+On exécute le code suivant :
+dict = { "alexandre" : 17, "mehdi" : 18, "jeanne" : 16,
+"charlotte" : 19, "celina" : 18, "noé" : 19 }
+def f(dic):
+for cle, valeur in dic.items() :
+if valeur > 18:
+return cle
+
+Que renvoie l'appel f(dict) ?
+19,19
+"charlotte"
+"charlotte","noé"
+Question C 4
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C 5
+Quel type de fichier est le plus adapté au traitement des données parmi les formats suivant ?
+PNG
+DOC
+CSV
+PDF
+Question C 6
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 2
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 3
+Lequel des termes suivants ne désigne pas un protocole de transmission par un réseau :
+HTTP
+WWW
+TCP
+IP
+Question D 4
+Dans quel langage les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+Question D 5
+
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 6
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 2
+Quel est le rôle de l’unité arithmétique et logique dans un processeur ?
+réaliser les branchements
+définir la base des opérations arithmétiques : binaire, octale ou hexadécimale
+effectuer les calculs
+gérer le contrôle interne du processeur
+Question E 3
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 4
+Lequel de ces périphériques n'est pas un périphérique d'entrée ?
+le moniteur
+le clavier
+la souris
+le scanner
+Question E 5
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+
+Question E 6
+Que permet d’effectuer la commande mkdir dans le shell d'Unix (interpréteur de commandes) ?
+créer un répertoire vide
+créer un fichier vide
+supprimer un répertoire cible
+supprimer un fichier cible
+
+Thème F : langages et programmation
+Question F 1
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 2
+Ce programme ne renvoie pas toujours ses trois arguments dans l’ordre croissant. Parmi les tests suivants,
+lequel va permettre de détecter l’erreur ?
+def ranger(a, b, c):
+if a > b :
+a, b = b, a
+if b > c:
+b, c = c, b
+return a, b, c
+ranger(1,2,3)
+ranger(3,4,1)
+ranger(1,3,2)
+ranger(4,2,3)
+Question F 3
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+
+Question F 4
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F 5
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for i in range(n-1):
+if t[i] > t[i+1]:
+t[i],t[i+1] = t[i+1],t[i]
+L = [4, 8, -7, 0, 1]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[4, -7, 8, 0, 1]
+[-7, 0, 1, 4, 8]
+[4, 8, -7, 0, 1]
+[4, -7, 0, 1, 8]
+Question F 6
+La fonction Python suivante ne calcule pas toujours correctement le résultat de 𝑥 𝑦 pour des arguments entiers.
+Parmi les tests suivants, lequel va permettre de détecter l’erreur ?
+def puissance (x,y):
+p = x
+for i in range (y - 1):
+p = p * x
+return p
+
+puissance(2,0)
+puissance(2,1)
+puissance(2,2)
+puissance(2,10)
+
+Thème G : algorithmique
+Question G 1
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 2
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+i = i + 1
+i = K-1
+i = i - 1
+i = K-1
+i = i + 1
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 3
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1
+
+Question G 4
+Un algorithme de recherche dichotomique sur un tableau trié de mille entiers s'exécute en 50 millisecondes.
+Quelle est la durée approximative de son exécution sur un tabelau trié d'un million d'entiers ?
+la même durée : environ 50 millisecondes
+une durée environ deux fois plus longue : environ 100 millisecondes
+une durée environ mille fois plus longue : environ 50 secondes
+une durée qui dépasserait l'année, car la complexité de l'algorithme est exponentielle
+Question G 5
+On considère le code suivant de recherche d'une valeur dans une liste :
+def search(x, y):
+# x est la valeur à chercher
+# y est une liste de valeurs
+for i in range(len(y)):
+if x == y[i]:
+return i
+return None
+Quel est le coût dans le pire des cas de cet algorithme ?
+constant
+logarithmique
+linéaire
+quadratique
+
+Question G 6
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques

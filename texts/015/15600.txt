@@ -1,0 +1,331 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1207581, "at": "2026-11-23T09:29:10+00:00"}
+ÉVALUATION
+CLASSE : Terminale
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+Le candidat traite les deux exercices
+qui sont proposés dans ce sujet.
+
+Exercice 1 – Niveau terminale
+Thème « Le futur des énergies »
+
+L’électricité en histoire et en question
+Sur 10 points
+Partie A – La bataille des courants (1884-96)
+Document 1 – Alternatif et continu, deux courant ennemis
+New York est une ville pionnière en matière d’électrification. Le premier réseau
+urbain d’alimentation électrique en courant continu y est installé en 1882 par
+Thomas Edison, le père de l’ampoule à incandescence. Cependant ce réseau subit
+de nombreuses pannes en raison de la forte intensité du courant qui circule dans
+ses câbles électriques[…], ce qui requiert des câbles volumineux qui surchauffent
+ou tombent sous l’effet de leur propre poids.
+En 1884, Edison embauche un jeune ingénieur Serbe, Nikola Tesla, pour résoudre
+ce problème. Ce dernier propose rapidement le recours à l’alternatif, un courant
+électrique qui varie à intervalles réguliers car d’autres ingénieurs viennent
+d’inventer un transformateur qui fonctionne avec ce type de courant et qui permet
+d’élever la tension électrique, du coup en gardant un courant de faible intensité
+dans les réseaux de distribution.
+Edison fait la sourde oreille. Six mois plus tard, Tesla claque la porte et rencontre
+l’industriel Georges Westinghouse, concurrent d’Edison, avec lequel il met au point
+la première distribution commerciale de courant alternatif en mars 1886.
+De cette époque va naître une guerre commerciale entre Edison et Tesla pour
+imposer un mode de distribution électrique que l’on appellera la guerre des
+courants. […]
+Cette controverse technologique se terminera finalement par la victoire du courant
+alternatif suite à l’obtention du contrat d’électrification de la ville de Buffalo, à 40
+km des chutes du Niagara, en 1896 par la compagnie de Tesla et de
+Westinghouse.
+Source : D’après Marie-Christine de La Souchère, La Recherche, 2018.
+
+1- Expliquer ce que l’on entend par la guerre des courants et identifier les
+principaux protagonistes de cet affrontement.
+
+2- Décrire les problèmes techniques que rencontrait le réseau électrique en courant
+continu installé par Edison à New York en 1882.
+3- Présenter la solution proposée par Nikola Tesla pour résoudre les problèmes liés
+au courant continu.
+Partie B – Le réseau de transport de l’électricité
+Une entreprise de distribution d’électricité transporte de l’électricité depuis une
+centrale électrique située à 150 km d’une grande ville. Le transport d'énergie sous
+forme électrique emprunte un réseau de lignes aériennes que l'on peut comparer au
+réseau routier. Pour minimiser les pertes d’énergie, ce transport s’effectue via une
+ligne à haute tension.
+Document 2 – Données sur le transport de l’énergie électrique
+
+Puissance électrique produite par la centrale et transportée vers les
+consommateurs : P0 = 600 MW
+Tension électrique appliquée à la ligne à haute tension : U = 250 kV
+Résistance de la ligne à haute tension : R = 30 Ω
+Puissance dissipée par effet Joule le long de la ligne : PJ = R × I2 où I est l’intensité
+du courant électrique circulant dans la ligne électrique
+Rappel : 1 MW = 106 W
+1 kV = 103 V
+Source : d’après contribution à l’étude des systèmes PV/Stockage distribués : impact de leur
+intégration à un réseau fragile, Xuan Linh Dang,2014
+(https://api.semanticscholar.org/CorpusID:170339454)
+
+4- En utilisant les données du document 2 et la formule littérale reliant la puissance
+à l’intensité et à la tension électrique : P = U × I, montrer que la valeur de
+l’intensité I du courant électrique circulant le long de la ligne à haute tension est
+de 2 400 A.
+
+5- À l’aide du document 2, déterminer comment varie la puissance dissipée par
+effet Joule si l’intensité du courant électrique est divisée par deux. Écrire sur
+votre copie le numéro de la proposition correcte.
+P1 : elle ne varie pas
+
+P2 : elle est divisée
+par 2
+
+P3 : elle est divisée
+par 4
+
+P4 : elle est multipliée
+par 4
+
+6- Calculer la valeur de la puissance dissipée par effet Joule PJ le long de la ligne
+à haute tension.
+7- À puissance transportée fixée, expliquer pourquoi l’utilisation de la haute tension
+dans les lignes électriques limite les pertes par effet Joule.
+Partie C – La régulation du réseau du transport d’électricité en Europe
+8- Justifier en une phrase la cohérence entre le document 4 page suivante et la
+première phrase du document 3 suivant : « Le réseau électrique européen est
+alimenté par du courant alternatif dont la fréquence est d'environ 50 Hz ».
+9- Indiquer à quelle heure on observe la fréquence la plus basse. Proposer une
+explication à cette observation.
+10- Repérer l’intervalle où la fréquence dépasse 50 Hz. Conclure sur l’équilibre entre
+production et consommation électrique durant ces heures.
+Document 3 – Le réseau électrique européen
+Le réseau électrique européen est alimenté par du courant alternatif dont la
+fréquence est d'environ 50 Hz. La fréquence du réseau électrique est un indicateur
+clé de l'équilibre entre la production et la consommation d'électricité. En France, RTE
+(Réseau de Transport d'Électricité) s'efforce de maintenir cette fréquence à 50 Hz.
+À chaque instant, la puissance produite par les centrales électriques doit être égale
+à la puissance prélevée sur le réseau par les consommateurs.
+Si la demande d'électricité augmente au-delà de la puissance fournie par les
+générateurs, le déficit de puissance est alors pris sur l'énergie de rotation des
+générateurs. Ils ralentissent donc, ce qui signifie que la fréquence du réseau
+diminue.
+Source : d’après https://www.mainsfrequency.com
+
+Document 4 – Variation de la fréquence du réseau sur une période de
+24 heures
+
+Exercice 2 – Niveau terminale
+Thème « Une histoire du vivant »
+
+La biodiversité de Guyane
+Sur 10 points
+Représentant seulement 0,05 % de la surface des terres émergées terrestres, la
+Guyane est le plus vaste territoire d’outre-mer français et le seul non insulaire.
+Présentant une biodiversité inégalée, ce territoire, d’une superficie de 83 534 km2,
+représente environ 15 % de la surface du territoire national (cette dernière est
+estimée à 549 134 km2).
+La Guyane est en majorité recouverte de forêts tropicales humides, excepté sur la
+bande côtière où se trouve une mosaïque d’habitats plus ou moins ouverts : plages,
+mangroves, savanes, forêts marécageuses et marais.
+Partie 1 – Une biodiversité riche, mais à quel point ?
+Document 1 – Comparaison de la diversité spécifique (nombre total
+d’espèces) à différentes échelles pour trois taxons
+
+Taxons
+
+décrite en Guyane décrite en France
+hexagonale
+
+décrite
+mondialement
+
+Métazoaires
+(animaux)
+
+21 969
+
+50 632
+
+1 124 516
+
+Eumycètes
+(champignons)
+
+1 560
+
+24 995
+
+44 368
+
+Angiospermes
+(plantes à fleurs)
+
+5 110
+
+9 331
+
+224 244
+
+Sources : Mora C. et al. (Plos Biology, 2011) et INPN
+
+1- Calculer la richesse spécifique de chaque taxon (rapport du nombre total
+d'espèces par la superficie totale du territoire) en Guyane et en France
+hexagonale.
+2- Commenter l’affirmation suivante : « La Guyane présente une biodiversité
+inégalée ».
+Partie 2 – Le jaguar, grand félin de Guyane
+Le jaguar est le plus grand félin d’Amérique. Agile,
+puissant, excellent nageur et grimpeur virtuose, cet
+animal fascinant est essentiel à l’équilibre de son
+écosystème. Le jaguar est une espèce spécialiste
+dite « parapluie » : en tant que principal prédateur,
+il joue un rôle régulateur, en contrôlant la
+population des mammifères herbivores.
+
+Un jaguar nageant dans le Rio
+Cuiaba, Mato Grosso, Brésil
+
+En Amérique du Sud, la population des jaguars a
+Source : Wikipedia
+chuté de 80 % ces quinze dernières années.
+Aujourd’hui, il ne reste plus que quelques dizaines de milliers d’individus à l’état
+sauvage, principalement au Mexique et dans la forêt amazonienne, dont la Guyane
+et le Brésil.
+De plus, les zoos observent une diminution de la diversité génétique de leurs
+jaguars. Ce phénomène est problématique pour leur conservation et leur
+réintroduction. En effet, la diversité génétique est bénéfique sur le long terme pour
+permettre aux populations de s’adapter à des environnements changeants.
+Les documents 2 à 4 évoqués dans les questions suivantes sont proposés à la suite
+de celles-ci.
+3- Expliquer, à partir du document 2, pourquoi la population de jaguar de la forêt
+Atlantique du Haut-Paraná au Brésil ne suit pas l'équilibre théorique de HardyWeinberg.
+4- Expliquer, à partir du document 3, comment évolue la diversité spécifique des
+habitats d’un écosystème suite à sa fragmentation.
+5- Rédiger un paragraphe argumenté de 6 à 8 lignes, à l’aide des documents 2 à 4
+et de vos connaissances, expliquant les conséquences de la fragmentation des
+habitats engendrée par les activités humaines dans l’appauvrissement génétique
+des populations de jaguar et la préservation de l’espèce. On s’appuiera sur des
+données chiffrées.
+
+Document 2 – Évolution de la richesse allélique chez le jaguar au cours d’un
+processus de fragmentation d’habitat (Forêt Atlantique du HautParaná, Brésil).
+La dérive génétique est une variation aléatoire des fréquences alléliques au cours des
+générations. Ce phénomène peut entraîner la disparition de certains allèles. Elle est
+plus importante pour les petites populations.
+Population initiale (échantillon : N = 59)
+Gène A → 14 allèles
+Gène B → 6 allèles
+Gène C → 5 allèles
+Gène D → 5 allèles
+
+Population 1 (Corridor Vert *)
+
+Population 2 (Porto Primavera *)
+
+Échantillon N = 18
+
+Échantillon : N = 23
+
+Gène A → 8 allèles
+
+Gène A → 10 allèles
+
+Gène B → 5 allèles
+
+Gène B → 6 allèles
+
+Gène C → 5 allèles
+
+Gène C → 4 allèles
+
+Gène D → 4 allèles
+
+Gène D → 4 allèles
+
+*Corridor Vert et Porto Primavera correspondent à deux localités d’études des populations de jaguars
+(Forêt Atlantique du Haut-Paraná, Brésil).
+
+Source : T. Haag, et al., 2010
+
+Document 3 – La fragmentation des écosystèmes
+
+Les infrastructures humaines (routes, grillages, espaces bâtis, etc.) séparent un
+écosystème en plusieurs petits habitats. Les espèces vivant dans l'écosystème
+sont alors scindées en plusieurs petites populations, souvent isolées. Les espèces
+dites spécialistes occupent les habitats intérieurs et les espèces généralistes
+occupent plutôt les habitats de lisière.
+Toutes les espèces ne sont pas affectées de la même façon par la fragmentation
+de l'écosystème. La fragmentation de l’habitat entraine une diminution drastique
+des habitats intérieurs et menace les espèces spécialistes qui s’y réfugient.
+Source : Landscape fragmentation in Europe. Joint EEA-FOEN report (2011)
+
+Évolution des surfaces exploitées par l’homme au Brésil
+entre 1985 et 2022 en fonction du secteur agricole
+
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+
+Surface dédiée par secteur (Mha)
+
+Document 4 – Emprise de l’activité humaine sur les surfaces naturelles au
+Brésil en l’espace d’une quarantaine d’années
+
+ANNEES
+Sylviculture
+
+Pâturage
+
+Agriculture
+
+Source : Mapbiomas

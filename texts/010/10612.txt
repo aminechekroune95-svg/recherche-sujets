@@ -1,0 +1,339 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1418678, "at": "2026-11-23T09:22:16+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+La fosse de plongée Nemo 33 (10 points)
+Le Nemo 33 est un centre de plongée à Uccle, en Belgique.
+Il possédait la fosse de plongée la plus profonde du monde
+jusqu'en février 2014 atteignant une profondeur de près de
+35 mètres.
+Une fosse de plongée sert à pratiquer la plongée sousmarine ou la plongée en apnée (sans bouteille). La
+profondeur est le principal critère qui distingue une fosse
+d'une simple piscine. La qualité de l’eau est un autre
+élément fondamental, autant pour les maîtres-nageurs que
+pour les usagers.
+Dans cet exercice, nous étudierons des propriétés
+chimiques d’une eau de fosse de plongée puis l’effet de la
+pression sur les poumons lors d’une plongée dans une
+fosse.
+Apnéistes dans une fosse de plongée
+https://communaute.ucpa.com
+
+1. Titrage des ions hypochlorite ClO- présents dans l’eau d’une fosse de plongée
+Afin de maintenir la qualité sanitaire de l’eau d’une fosse de plongée on y ajoute des ions
+hypochlorite ClO-, il s’agit d’un oxydant puissant qui peut réagir avec des composés
+organiques et des micro-organismes afin de les détruire. La réglementation impose une
+concentration en « chlore actif » pour les piscines en France correspondant à une
+concentration d’ions hypochlorite comprise entre 0,4 mg.L-1 et 1,4 mg.L-1.
+Pour étudier les propriétés chimiques de l’eau d’une fosse de plongée et déterminer sa
+concentration en ions hypochlorite, on effectue un prélèvement. À l’aide d’une pipette
+jaugée, on prélève V1 = 20,0 mL d’eau d’une fosse de plongée que l’on place dans un
+bécher de 50 mL, on ajoute 1,0 mL d’une solution contenant des ions iodure en excès et
+1,0 mL une solution d’acide sulfurique puis on agite. Le mélange obtenu, qui prend alors
+une teinte orange-brun, est appelé solution S.
+Les couples mis en jeu sont ClO-(aq)/Cl-(aq) et I2(aq)/I-(aq). Le diiode a une coloration
+orange-brun en solution aqueuse, c’est la seule espèce colorée dans la solution S.
+ Masses molaires de l’oxygène et du chlore : M(O) = 16,0 g.mol-1 et M(Cl) = 35,5 g.mol-1.
+1.1. Justifier à l’aide des observations expérimentales le caractère oxydant de l’eau de la
+fosse de plongée.
+1.2. Écrire la demi-équation électronique associée au couple de l’hypochlorite et justifier le
+rôle d’oxydant de cet ion.
+1.3. Donner l’équation de la réaction modélisant la transformation intervenant entre les
+ions hypochlorite et les ions iodure.
+1.4. Établir le tableau d’avancement de la réaction. Les ions iodure, I-(aq), et oxoniums
+H+(aq), sont en excès, l’eau est le solvant.
+On considère dans la suite que tout le diiode dans la solution S provient de la réaction
+entre les ions hypochlorite et iodure et que la transformation est totale. Afin de déterminer
+l’avancement final xf de cette réaction, on effectue un dosage par étalonnage du diiode
+dans la solution S. On réalise une série de mesure d’absorbance de solutions de
+concentrations connues en diode, les résultats sont donnés dans le tableau ci-dessous :
+concentration en diiode (mol.L-1)
+absorbance A (à 475 nm)
+
+2,0×10-5
+0,016
+
+5,0×10-5
+0,041
+
+1,0×10-4
+0,10
+
+2,5×10-4
+0,22
+
+On effectue une mesure d’absorbance pour la solution S, on obtient AS = 0,017.
+
+1.5. Déterminer la valeur de la concentration en diiode de la solution S. En déduire la
+valeur de la quantité de diiode, formée lors de la réaction entre les ions hypochlorite et
+iodure, et que la valeur de l’avancement final xf est voisine de 4,6×10-7 mol.
+1.6. En déduire la valeur de la concentration en moles en ions hypochlorites ClO - dans
+l’eau de la fosse de plongée. Indiquer si cette eau est conforme la législation française.
+2. La pratique de l’apnée au NEMO 33
+Lors de la pratique de l’apnée, le plongeur inspire au maximum de sa capacité pulmonaire
+lorsqu’il se trouve à la surface puis bloque sa respiration. Au cours de la descente, la
+pression augmente et le volume pulmonaire diminue jusqu’à ce que la rigidité du thorax ne
+permette plus de réduire son volume : le volume pulmonaire est alors égal au volume
+résiduel. Au-delà de cette profondeur, du sang est aspiré puis retenu dans la circulation
+pulmonaire, remplissant ainsi les poumons. Ce phénomène, appelé « blood shift », permet
+aux poumons de résister à la compression, mais il peut aussi entraîner des troubles du
+rythme cardiaque.
+La capacité maximale des poumons est d’environ 6 L. Le volume résiduel, c’est-à-dire le
+volume d’air contenu dans les poumons à la fin d’une expiration forcée, est d’environ
+1,5 L.
+Données :
+ pression atmosphérique : Pa = 1,0 × 105 Pa ;
+ masse volumique de l’eau : ρe = 1,0 × 103 kg.m-3 ;
+ valeur du champ de pesanteur : g = 9,8 N.kg-1 ;
+ profondeur de NEMO 33 : h = 35 m ;
+ la loi fondamentale de la statique des fluides reliant la différence de pression pA - pB
+entre deux points A et B d’un fluide incompressible à ρe, g, et zA - zB ; zA et zB étant
+les ordonnées des points A et B sur un axe des z orienté suivant la verticale
+ascendante s’écrit : pA - pB = ρe g (zB - zA).
+2.1. Décrire qualitativement comment évolue la pression lorsque le plongeur descend
+dans la fosse de plongée. Expliquer en quoi la loi fondamentale de la statique des fluides
+rend compte de cette évolution.
+2.2. Énoncer la loi de Mariotte relative au produit de la pression P par le volume V d’un
+gaz pour une quantité de matière donnée et une température constante.
+2.3. À l’aide des données, déterminer si le phénomène de « blood shift » risque
+d’apparaître lorsqu’un apnéiste, qui n’a pas expiré d’air au cours de sa plongée, atteint le
+fond de NEMO 33.
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche
+de résolution.Toute prise d’initiative et toute tentative de résolution, même partielle sera
+valorisée.
+
+PARTIE B
+Vélo à assistance électrique (10 points)
+Afin d’alimenter le moteur de l'assistance d’un vélo électrique, un spécialiste propose
+plusieurs batteries lithium–ion. Elles délivrent toutes une tension nominale de 36 V. En
+revanche leurs capacités varient de 8,7 A.h à 17,4 A.h en fonction du modèle choisi.
+Cette partie aborde trois thèmes :
+- le fonctionnement d'une batterie lithium-ion ;
+- le bilan énergétique pour une batterie de 14,5 A.h ;
+- la transformation du glucose dans le muscle ;
+Données :
+- Caractéristique de quelques batteries lithium-ion de tension nominale 36 V :
+Batteries 36 V LIFT-MTB
+Capacités Prix
+Masse Dimensions
+TTC
+(en
+euros)
+
+8,7 A.h
+
+1,6 kg
+
+14,5 A.h
+
+2,5 kg
+
+17,4 A.h
+
+2,9 kg
+
+6×20×8 cm
+
+Type de
+cellules
+
+Autonomie
+estimée
+(dénivelé
+positif D+
+en m)
+
+Temps de
+charge
+estimé
+avec un
+chargeur
+de 2,0 A
+4 h 24 min
+
+PANASSONIC
+10×20×8 cm PANASSONIC
+1450
+7 h 12 min
+12×20×8 cm PANASSONIC
+1740
+9 h 12 min
+https://www.lift-mtb.com/shop/batteries-et-chargeurs/
+
+- Table de données pour la spectroscopie IR :
+Liaison
+
+nombres d’onde
+(cm-1)
+
+Intensité
+
+C=O
+aldéhyde et
+1650 – 1730
+Forte
+cétone
+C = O acide
+1680 – 1710
+Forte
+carboxylique
+Ctri – H
+2800 -3100
+Plusieurs bandes
+O – Hlié
+3200 – 3400
+Bande large
+O – Hlibre
+3580 – 3650
+Bande fine
+O–H acide
+2500 – 3200
+Bande large
+carboxylique
+- Masse du système "cycliste + vélo" : 90 kg ;
+- 1 cal = 4,18 J ;
+- Volume molaire dans les conditions de l'expérience (T =20°C et P = 101 325 Pa): Vm =
+24,0 L.mol-1 ;
+- Masse molaire du glucose : M = 180,0 g.mol-1 ;
+- Intensité du champ de pesanteur : g = 9,8 m.s-2
+I. Fonctionnement d’une batterie lithium-ion.
+Le courant électrique à l’extérieur de la batterie lithium-ion est engendré par la circulation
+d'électrons entre les deux électrodes de la batterie :
+- une électrode négative qui est le siège de la réaction électrochimique suivante :
+Li → Li++ e- une électrode positive qui est le siège de la réaction électrochimique suivante:
+CoO2 + Li++ e- → LiCoO2
+Li symbolise l'élément lithium et Co l'élément cobalt.
+Lors du fonctionnement de la batterie, les ions Li+ traversent le séparateur suivant le sens
+des flèches représenté dans le schéma ci-dessous.
+
+https://eduscol.education.fr/sti/sites/eduscol.education.fr.sti/files/ressources/pedagogique
+s/6107/6107-annexe-principe-de-fonctionnement-et-constituants-dune-batterie-ens.pdf ENS Cachan
+1. Quel est le couple oxydant-réducteur mis en jeu à l’électrode négative ?
+2. La réaction électrochimique à cette électrode est-elle une oxydation ou une réduction
+? Justifier.
+II. Bilan énergétique pour une batterie de 14,5 A.h.
+
+3. Déterminer la valeur de l'énergie potentielle de pesanteur emmagasinée par le
+système "vélo électrique + cycliste" lorsque le cycliste effectue le dénivelé
+ascensionnel positif maximal correspondant à l’autonomie de la batterie.
+4. D’après les données constructeur, ce type de batterie délivre au maximum une
+énergie maximale Emax = 1,88.106 J.
+4.1.
+En théorie, Emax permet-elle d'effectuer le dénivelé ascensionnel indiqué?
+4.2.
+Dans les conditions réelles, un cycliste en forme moyenne doit fournir en
+pédalant 50% de l'énergie nécessaire à l'ascension. Pourquoi faut-il apporter une
+énergie supérieure à l'énergie potentielle de pesanteur pour réaliser l'ascension ?
+5. Compléter la chaîne énergétique en annexe à rendre avec la copie à l'aide des
+mots suivants : transfert thermique ; transfert mécanique ; transfert électrique ;
+énergie chimique ; énergie mécanique ; énergie thermique.
+III. Transformation du glucose dans le muscle : comment le muscle du cycliste
+
+produit-il de l’énergie ?
+Au cours de l’effort sportif, le glucose est dégradé par l’organisme en acide
+pyruvique. Selon les conditions d’oxygénation du cycliste, l’acide pyruvique sera
+dégradé à son tour soit en dioxyde de carbone et en eau (en milieu aérobie), soit en
+acide lactique (en milieu anaérobie).
+
+Glucose
+
+Acide pyruvique
+
+Acide lactique
+
+Transmittance (%)
+
+6. Quel est le nom des familles de fonctions correspondant aux deux groupes
+caractéristiques de l’acide pyruvique ?
+7. Parmi les spectres IR (IR1 et IR2) proposés ci-dessous, choisir, en justifiant, celui
+correspondant à l’acide pyruvique.
+
+IR1
+
+Transmittance
+(%)
+
+Nombre d’onde (cm-1)
+
+IR2
+
+Nombre d’onde (cm-1)
+
+En milieu aérobie (présence de dioxygène), la transformation chimique du glucose dans
+un muscle peut être modélisée par la réaction d’équation :
+C6H12O6(aq) + 6 O2(g)  6 CO2(g) + 6 H2O(l)
+L’énergie libérée par cette réaction est de 673 kcal pour une mole de glucose consommée
+par le muscle.
+8. Calculer la valeur de la quantité de matière de glucose consommée par les muscles
+du cycliste afin de libérer une énergie Emusc = 640 kJ pour effectuer l’ascension
+maximale.
+9. On suppose que la transformation chimique est totale. Compléter le tableau
+d’avancement en annexe à rendre avec la copie et calculer les valeurs de la masse
+de glucose et du volume de dioxygène consommés pour effectuer l’ascension.
+
+Annexe à rendre avec la copie
+
+Question 5 : Compléter la chaîne énergétique avec les mots suivants : transfert thermique
+; transfert mécanique ; transfert électrique ; énergie chimique ; énergie mécanique ;
+énergie thermique.
+
+.................
+
+Cycliste
+
+VAE + cycliste
+
+.................
+
+Énergie chimique
+
+Vélo à assistance
+électrique (VAE)
+
+…................
+
+Batterie
+
+Environnement
+
+…................
+
+Question 9 : Compléter le tableau d’avancement et calculer les valeurs de la masse de
+glucose et du volume de dioxygène consommés pour effectuer l’ascension.
+
+
+C6H12O6(aq) +
+
+6 O2(g)
+
+6 CO2(g)
+
++
+
+6 H2O(l)
+
+État initial (mol)
+
+0,228
+
+excès
+
+solvant
+
+État final (mol)
+
+........
+
+excès
+
+........
+
+solvant

@@ -1,0 +1,256 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1178444, "at": "2026-11-23T09:22:56+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+L’exploit d’Alan Eustace (10 points)
+
+Alan Eustace
+41 148 m
+
+Le 24 octobre 2014, l’ingénieur et pilote américain
+Alan Eustace a battu le record mondial d'altitude
+en saut en parachute détenu par l’Autrichien Félix
+Baumgartner depuis 2012.
+Relié à un ballon rempli d'hélium qui l'a porté
+pendant plus de deux heures, il a atteint l'altitude
+cible de 41 148 m.
+Après 50 s de chute, l’américain a atteint une
+vitesse maximale de 1 322 km/h. L’ouverture du
+parachute s’est effectuée au bout de 4 min 27 s.
+
+Descente après 50 s
+
+Saut en parachute
+
+D’après http://www.koreaherald.com
+
+Données :
+ masse du système {Alan Eustace et son équipement} : m = 120 kg ;
+ intensité de la pesanteur à la surface de la Terre : g = 9,8 N/kg ;
+ on considère que le champ de pesanteur est uniforme entre 30 km et 42 km d’altitude, de
+norme : gA = 9,7 N/kg.
+L’étude du saut d’Alan Eustace est conduite dans le référentiel terrestre. Alan
+Eustace et son équipement sont modélisés par un point matériel de masse
+m. La position d’Alan Eustace est repérée par son altitude z sur un axe
+vertical orienté vers le haut, l’origine étant au sol.
+Alan Eustace s’est laissé tomber à une date choisie comme origine des
+temps (t = 0 s) à partir d’un point A d’altitude zA = 41 148 m par rapport au
+sol.
+1. Énergie potentielle de pesanteur du système
+
+z
+
+O
+
+sol
+
+1.1. Champ de pesanteur au cours de la chute.
+1.1.1. Quelle est l’origine de la variation observée entre les valeurs de g et gA ?
+𝑔−𝑔𝐴
+1.1.2. Calculer l’écart relatif donné par
+et exprimé en %. Conclure.
+𝑔
+
+1.2. Travail du poids au cours du saut.
+1.2.1. En considérant que le poids du système {Alan Eustace et son équipement} est
+constant, établir l’expression du travail du poids du système lors du
+déplacement d’Alan Eustace de A jusqu’au sol en fonction de m, g, et zA.
+1.2.2. Calculer la valeur de ce travail.
+1.3. Énergie potentielle de pesanteur.
+1.3.1. « Le poids est une force conservative » ; expliquer cette expression.
+1.3.2. Définir l’énergie potentielle de pesanteur Ep du système et montrer que son
+expression est Ep = mgz si on choisit une altitude de référence à préciser.
+2. Modélisation de la première phase du mouvement par une chute libre
+Alan Eustace atteint un point B, d’altitude zB, après 50 s de chute.
+Durant cette phase du mouvement, l’hypothèse est faite que la seule force s’exerçant sur le
+système {Alan Eustace et son équipement} est le poids.
+Dans ce cas, on peut montrer que la chute est verticale. Un logiciel de simulation permet
+d’obtenir la courbe donnant la valeur de la vitesse v d’Alan Eustace en fonction du temps t.
+
+2.1. Montrer que ce modèle n’est pas compatible avec la donnée du texte introductif
+relative à la vitesse maximale atteinte.
+2.2. Proposer une hypothèse expliquant l’écart entre valeur calculée et valeur
+expérimentale.
+3. Étude énergétique de la première phase du mouvement
+On considère que la chute d’Alan Eustace durant les cinquante premières secondes est
+verticale.
+L’action mécanique exercée par l’air sur Alan Eustace et son équipement est modélisée par
+une force de frottement fluide f⃗ supposée constante.
+L’altitude zB d’Alan Eustace après 50 s de chute est égale à 30 375 m.
+3.1. Calcul de la valeur de la force de frottement fluide f dans le cadre de ce modèle.
+3.1.1. Énoncer le théorème de l’énergie cinétique. Calculer la valeur de l’énergie
+cinétique à la fin de cette première phase.
+3.1.2. Exploiter ce théorème et montrer que la valeur de la force de frottement est de
+l’ordre de 4.102 N.
+3.1.3. Comparer la valeur obtenue au poids du système et conclure quant à la
+pertinence du modèle de la chute libre.
+3.1.4. Discuter également de la pertinence de la modélisation de l’action de l’air par
+une force de frottement constante. On pourra s’interroger sur le lien entre la
+valeur de cette force et celle de la valeur de la vitesse d’Alan Eustace.
+3.2. L’extrait de programme donné ci-dessous et rédigé en langage Python, permet de
+visualiser les énergies cinétique, potentielle et mécanique du système {Alan Eustace +
+son équipement} durant la première phase du mouvement.
+
+05. to, dt, tmax = 0, 1, 50
+06. vo = 0
+07. zo = 0
+# ordonnée à t = 0 s, axe vertical orienté vers le haut
+08.
+09. z=zo
+10. t=to
+11. Eco=0
+#énergie cinétique à to
+12. Eppo=0 #énergie potentielle de pesanteur à to
+13. Emo=0 #énergie mécanique à to
+14.
+15. g=9,7
+#intensité de pesanteur en N/kg
+16. m=120 #masse en kg
+17.
+18. ########## Création des listes ###########
+19. tps=[0]
+20. zlist= [z]
+21. v=[0]
+22. Eclist=[Eco]
+23. Epplist=[Eppo]
+24. Emlist=[Emo]
+25.
+26. while t<tmax :
+27.
+t = t + dt
+28.
+tps.append(t)
+29.
+30.
+v1 = vo + (-0.000044*vo*vo+9,7)*dt
+31.
+vo=v1
+32.
+33. ########## Calculs de ###########
+34.
+z=z-vo*dt
+#ordonnée à la date t
+35.
+Ec=0.5*m*vo**2 #énergie cinétique à la date t
+36.
+Epp=mgz
+#énergie potentielle de pesanteur à la date t
+37.
+#Epp = 0 à t = 0 s
+38.
+Em=Ec+Epp
+#énergie mécanique à la date t
+3.2.1. À quelle ligne peut-on lire le choix de l’origine de l’axe vertical ici utilisée ?
+À quelle position d’Alan Eustace correspond cette origine ?
+3.2.2. En déduire que l’ordonnée d’Alan Eustace au cours du saut est négative pour
+ce choix d’origine.
+
+3.2.3. Montrer que l’expression donnée à la ligne 36 est cohérente avec le
+commentaire de la ligne 37. Comment varie l’énergie potentielle de pesanteur
+au cours du saut ? Quel est son signe ?
+PARTIE B
+Synthèse et propriétés lavantes d’un savon (10 points)
+Des élèves d’une classe de première réalisent la synthèse d’un savon.
+Cet exercice a pour objectif d’étudier quelques caractéristiques des espèces chimiques
+mises en jeu lors de cette synthèse d’une part et d’analyser les différentes étapes du
+protocole d’autre part. Il s’intéresse enfin aux propriétés lavantes du savon.
+Protocole de la synthèse d’un savon : l’oléate de sodium
+Étape 1 : verser dans un ballon :
+- 13,6 g d’huile d’olive (on considère que l’huile d’olive est de l’oléine pure) ;
+- 20 mL d’éthanol ;
+- 20,0 mL de soude à 10 mol∙L-1 (en excès) ;
+- quelques grains de pierre ponce.
+Étape 2 : chauffer à reflux le mélange réactionnel pendant 20 minutes environ.
+Étape 3 : laisser refroidir le mélange quelques minutes puis le verser dans un bécher
+contenant 200 mL d’une solution aqueuse concentrée de chlorure de sodium.
+Étape 4 : le précipité obtenu, l’oléate de sodium, est le savon. Il est filtré, rincé à l’eau salée,
+séché, puis pesé.
+Équation de la réaction modélisant la synthèse de l’oléate de sodium
+
+Dans les représentations semi-développées ci-dessus, les chaînes carbonées sont
+représentées par le symbole « R » ; R est un groupe qui contient 17 atomes de carbone reliés
+entre eux.
+Données :
+- numéro atomique Z de quelques éléments : H : 1 ; O : 8 ; Na : 11 ;
+- électronégativité χ de quelques éléments selon l’échelle de Pauling : H : 2,2 ; O : 3,5 ;
+Na : 0,9 ;
+- masses molaires en g∙mol–1 : M(oléine) = 884 ; M(hydroxyde de sodium) = 40 ; M(oléate
+de sodium) = 304 ;
+- L’huile est peu soluble dans les solvants polaires alors que les espèces ioniques y sont
+
+généralement très solubles :
+Oléine
+Solubilité dans l'eau
+Solubilité dans l'éthanol
+Solubilité dans l'eau salée
+
+insoluble
+insoluble
+
+Hydroxyde
+de sodium (soude)
+
+Oléate de sodium
+(Savon)
+peu soluble
+
+1. Espèces chimiques mises en jeu dans la synthèse du savon
+1.1 L'eau
+1.1.1 Établir le schéma de Lewis de la molécule d'eau en déterminant au préalable le nombre
+total d’électrons de valence.
+1.1.2 Interpréter la géométrie coudée de cette molécule.
+1.1.3 En déduire le caractère polaire ou apolaire de la molécule d'eau en justifiant votre
+réponse.
+1.1.4 Justifier que l’huile ne soit pas soluble dans l’eau.
+1.2 La soude
+La soude est une solution aqueuse d'hydroxyde de sodium. Elle est obtenue dans le cas de
+cette synthèse par dissolution dans l'eau d'un échantillon d'hydroxyde de sodium NaOH solide
+de masse m = 400 g pour obtenir un volume V = 1,0 L de solution.
+1.2.1 Exprimer, puis calculer la concentration en quantité de matière en soluté apporté de la
+solution de soude.
+1.2.2 Écrire l'équation de la réaction qui modélise la dissolution de l'hydroxyde de sodium
+solide NaOH(s) dans l'eau.
+1.2.3 Exprimer puis calculer les concentrations en quantités de matière effectives des ions
+présents dans la solution de soude.
+2. Analyse du protocole de synthèse du savon
+2.1. Étude qualitative à partir des données fournies
+2.1.1 Préciser le rôle de l’éthanol dans l’étape 1 en justifiant votre réponse.
+2.1.2 Après le chauffage, on réalise les deux étapes suivantes décrites sur la figure 3 ciétape 3
+étape 2
+dessous :
+
+eau salée
+
+Figure 3. Étapes 3 et 4 du protocole de synthèse d’un savon
+Justifier l’utilisation d’eau salée dans l’étape 3 et indiquer le nom du dispositif utilisé à l’étape
+4 et son intérêt.
+2.2 Étude quantitative
+
+On cherche à déterminer le rendement de la synthèse du savon. La masse du savon obtenu
+est égale à mexp = 10,5 g.
+2.2.1 Vérifier que la soude est le réactif introduit en excès.
+2.2.2 Déterminer le rendement de cette synthèse. Commenter.
+3. Propriétés lavantes d'un savon
+On s’intéresse désormais aux propriétés lavantes d’un savon.
+On peut représenter schématiquement l’ion oléate, l’ion actif du savon de la façon suivante :
+
+Figure 4. Représentations schématiques de l’ion oléate
+3.1 Caractériser les parties 1 et 2 des schémas de l’ion de la figure 4 à l'aide du vocabulaire
+suivant : hydrophile, hydrophobe, lipophile, lipophobe.
+3.2 En déduire, parmi les schémas 5.a et 5.b de la figure 5, celui qui peut expliquer le mode
+d'action d'un savon. Décrire en un schéma et/ou une ou deux phrases l’étape suivante
+menant à l’élimination de la tache de graisse lors du lavage par du savon.
+
+Schéma 5.a.
+
+Figure 5
+
+Schéma 5.b.

@@ -1,0 +1,335 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1572650, "at": "2026-11-23T09:30:27+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Commercialisation d’un produit
+Sur 8 points
+Les deux parties peuvent être traitées séparément.
+Une petite entreprise fabrique des objets de décoration.
+Elle les vend dans deux magasins A et B.
+Partie A
+Le coût de fabrication annuel des objets de décoration, en euros, peut être modélisé
+par une fonction 𝐶 définie sur [0 ; 250] par 𝐶(𝑥) = 𝑥 2 + 100𝑥 + 50 où 𝑥
+représente le nombre d’objets fabriqués pendant l’année.
+1- Quel est le coût annuel, en euros, pour la fabrication de 100 objets de
+décoration ?
+Chaque objet de décoration est vendu 300 €. On note 𝐵 la fonction définie sur
+[0 ; 250] modélisant le bénéfice annuel.
+2- Montrer que 𝐵(𝑥) = −𝑥 2 + 200𝑥 − 50 où 𝑥 représente le nombre d’objets
+fabriqués pendant l’année.
+3- On admet que la fonction 𝐵 est dérivable sur [0 ; 250].
+3-a- Déterminer 𝐵′(𝑥) pour 𝑥 ∈ [0 ; 250].
+3-b- Dresser le tableau des variations de la fonction 𝐵 sur [0 ; 250].
+3-c- En déduire le nombre d’objets de décoration à fabriquer et à vendre pendant
+l’année afin que le bénéfice annuel soit maximal et donner le montant de ce
+bénéfice.
+
+Partie B
+En 2020, l’entreprise dépose 50 objets de décoration dans le magasin A et 50 objets
+de décoration dans le magasin B. Pensant pouvoir améliorer son coût de production,
+elle s’engage à déposer, tous les ans, 5 objets de plus dans le magasin A et 8%
+d’objets en plus dans le magasin B.
+On représente par 𝑎𝑛 et par 𝑏𝑛 le nombre d’objets déposés respectivement dans les
+magasins A et B l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel.
+4-a- Pour tout entier naturel 𝑛, exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+4-b- Quelle est la nature de la suite de terme général 𝑎𝑛 ?
+4-c- Selon ce modèle, combien d’objets seront déposés dans le magasin A en
+2025 ?
+5-a- Quelle est la nature de la suite (𝑏𝑛 ) ? En préciser les éléments caractéristiques.
+5-b- Selon ce modèle, combien d’objets seront déposés dans le magasin B en
+2025 ?
+6-a- Pour tout entier naturel 𝑛 compris entre 0 et 9, construire dans un même repère
+les points de coordonnées (𝑛, 𝑎𝑛 ) et (𝑛, 𝑏𝑛 ). On prendra 1 cm pour 1 sur l’axe des
+abscisses et 1 cm pour 5 sur l’axe des ordonnées en commençant à 50.
+6-b- En utilisant la représentation graphique précédente et en expliquant la
+démarche, donner l’année à partir de laquelle le nombre d’objets déposés dans le
+magasin B sera supérieur au nombre d’objets déposés dans le magasin A ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Sur 12 points
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- D’après vos connaissances, expliquer en quoi choisir un régime alimentaire
+constitué uniquement de céréales va causer à plus ou moins long terme des
+problèmes de santé.
+2- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+3- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé en milieu urbain au Nord de l’Europe loin des côtes à l’époque
+industrielle.
+Exploiter le document 2 suivant, à l’aide de vos connaissances, pour expliquer
+que la maladie, à l’époque industrielle, ait été plus fréquente en milieu urbain,
+dans les régions du Nord de l’Europe, situées loin des côtes.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers (yaourts, fromage blanc,
+fromage, lait) qui contribuent respectivement à 19 % et 25 % des apports chez les
+adultes et à 12 % et 40 % des apports en vitamine D chez les enfants de 11 à
+17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+4- À l’aide de vos connaissances, expliquer par un texte accompagné d’un schéma,
+l’origine des variations de la puissance solaire reçue au sol, observées dans le
+document 3.
+5- Expliquer la recommandation générale des campagnes de prévention des
+cancers de la peau : « éviter l’exposition au soleil entre 12 h et 16 h ».
+6- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Zone d’habitabilité
+Sur 12 points
+On définit la zone d'habitabilité comme étant la région des orbites des planètes ou
+des exoplanètes pouvant présenter de l'eau à l’état liquide. Cette définition a été
+revue avec la découverte par la sonde Galileo de sérieux indices de l'existence
+d'océans à l’intérieur de certains satellites naturels de Jupiter, notamment Europe.
+Partie 1 – La zone d’habitabilité du système solaire
+Document 1 – Quelques caractéristiques des planètes du système solaire
+
+Distance au Soleil (en
+millions de km)
+théorique (°C)
+réelle moyenne (°C)
+Température minimale à
+Température maximale
+(°C)
+
+Mercure
+
+Venus
+
+Mars
+
++168
+
++22,9
+
+-18,5
+
+-69
+
++167
+
++464
+
++15
+
+-67
+
+-180 à +430
+
++446 à +490
+
+-50 à +50
+
+-143 à +20
+
+La température moyenne de surface théorique correspond à la température,
+calculée par les astrophysiciens, qui régnerait à la surface d'une planète si celle-ci
+était totalement dépourvue d'atmosphère.
+1- À l’aide du document 1 en se basant uniquement sur la température de surface
+théorique et en considérant que la pression atmosphérique est semblable à celle de
+la Terre, citer la ou les planètes qui pourraient posséder de l’eau liquide en surface.
+Justifier.
+2- Calculer l’écart entre la température de surface réelle moyenne et la température
+de surface théorique, en valeur absolue, pour les 4 planètes du tableau.
+
+Document 2 – Quelques caractéristiques des planètes du système solaire
+Mercure
+Pression atmosphérique
+de surface (bar ou mbar)
+Épaisseur de
+l'atmosphère (km)
+Composition de
+l'atmosphère (Les gaz
+en gras sont des gaz à
+effet de serre)
+
+Venus
+
+Mars
+
+0,1 mbar
+
+93 bar
+
+1 bar
+
+6 mbar
+
+quasi nulle
+
+He (traces)
+
+CO2 (96%),
+N2 (3,5%),
+O2 (0,13%)
+H2O
+(0,002%)
+
+N2 (78%),
+O2 (20,9%),
+CO2 (0,04%),
+H2O (faible,
+variable)
+
+CO2 (95%),
+N2 (2,7%),
+O2 (0,13%)
+H2O (0,03%)
+
+Document 3 – Diagramme de phase de l’eau
+
+Source : d’après Wikipedia, Eau liquide dans l'Univers
+
+3- À l’aide du document 2 et de vos connaissances, nommer et expliquer le
+phénomène à l’origine de la différence entre température réelle et température
+théorique sur la Terre et sur Vénus.
+4- Expliquer pourquoi le phénomène nommé à la question 3 est actuellement
+négligeable sur Mercure et sur Mars.
+5- À partir des données de température du document 1 et des informations du
+document 3, déterminer en justifiant sous quel(s) état(s) physique(s) se trouve l’eau
+à la surface de Mars. En déduire si Mars se situe dans la zone d’habitabilité du
+système solaire.
+Partie 2 – Europe, un satellite naturel habitable au sein du système solaire ?
+Document 4 – Extrait d’un communiqué du CNRS
+Pour un grand nombre de scientifiques, dans le système solaire, c’est sur Europe
+que la probabilité de trouver de la vie est la plus élevée. Sur les images fournies
+par les sondes spatiales Galileo (2014) et Juno (2022), on aperçoit sur la surface
+glacée, un réseau de fissures qui sont vraisemblablement des résurgences d’eau,
+comme on en trouve en Arctique. Des geysers jaillissent de temps à temps. […] Ne
+peut-on espérer trouver, sous la surface, des écosystèmes comme ceux des
+sources hydrothermales de nos océans, qui s’avèrent grouiller de vie malgré des
+conditions inhospitalières ?
+Source : d’après https://www.insu.cnrs.fr/fr/cnrsinfo/trouver-la-vie-sur-les-lunes-de-jupiter
+
+Document 5 – Quelques caractéristiques physico-chimiques d’Europe
+comparée à la Terre.
+Europe
+
+-150°C
+
++15°C
+
+Pression
+atmosphérique (Bar)
+
+Composition
+atmosphère
+
+O2 (produit par
+dissociation des
+molécules d'eau).
+
+-11
+
+79% N2,
+20% O2,
+Ar, CO2, ...
+
+Source : 5 janvier 2023, https://www.insu.cnrs.fr/fr/cnrsinfo/trouver-la-vie-sur-les-lunes-dejupiter
+
+Document 6 – Un modèle de la structure interne d’Europe, satellite de Jupiter
+Les échelles ne sont pas respectées pour la représentation schématique suivante :
+
+6- En prenant appui sur les documents 3, 4 et 5 indiquer deux arguments qui
+permettent de supposer que l’eau est présente sous forme solide à la surface
+d’Europe comme indiquée dans le document 6.
+7- Relever dans les documents 4 et 6, un argument en faveur de l’existence d’un
+océan d’eau liquide sous la banquise d’Europe.
+Partie 3 – La recherche d’exoplanètes habitables
+Une exoplanète est une planète gravitant autour d’une autre étoile que le Soleil.
+8- En utilisant les réponses apportées dans les parties 1 et 2 ou avec vos
+connaissances, expliquer en quoi la distance d’une exoplanète à son étoile ne
+suffit pas à affirmer la présence d’eau liquide à sa surface.
+
+Document 7 – Extrait d’un communiqué du CNRS du 6 septembre 2022
+James Webb : Premières images d'une exoplanète dans l'infrarouge moyen
+Lancé le 25 décembre 2021, [le télescope] James Webb a terminé sa phase de
+tests en Juillet 2022. Les programmes scientifiques ont depuis débuté et
+produisent déjà leurs premiers résultats, dont la première image d’une exoplanète
+obtenue dans l’infrarouge moyen […]. Les instruments du James Webb rendent
+désormais possible son observation directe dans l’infrarouge. […] Entre autres, les
+coronographes de MIRI, […] fonctionnent à des longueurs d’ondes choisies
+spécialement pour sonder l’atmosphère des exoplanètes, identifier des molécules
+comme l’ammoniac ou le dioxyde de carbone et déterminer la température de
+surface réelle des exoplanètes.
+Source : https://www.insu.cnrs.fr/fr/cnrsinfo/james-webb-premieres-images-duneexoplanete-dans-linfrarouge-moyen
+
+9- À l’aide du document 7, expliquer en quoi le télescope James Webb pourrait
+permettre de mieux identifier les exoplanètes susceptibles d’abriter de l’eau
+liquide.

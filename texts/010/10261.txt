@@ -1,0 +1,436 @@
+{"pages": 16, "method": "pdftotext", "bytes": 1728455, "at": "2026-11-23T09:44:23+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quel est le plus grand entier positif que l'on peut coder sur un mot de 16 bits ?
+215 − 1 = 32767
+215 = 32768
+216 − 1 = 65535
+216 = 65536
+Question A.2
+Quelle est la représentation binaire de l'entier positif 51 sur 8 bits ?
+0010 0001
+0010 1001
+0011 0001
+0011 0011
+Question A.3
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A.4
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+if a==b:
+c = True
+elif a > b+10:
+c = True
+c = False
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+
+Question A.5
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a) OR NOT(b)
+Question A.6
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+
+Thème B : types construits
+Question B.1
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+Question B.2
+Quelle expression a pour valeur la liste [7,14,21,28,35,42,49,56,63] ?
+[7*k for k in range(9)]
+[7*k for k in range(1,10)]
+[7*k for k in range(10)]
+[[7*k for k in range(1,9)]
+Question B.3
+On dispose du dictionnaire suivant :
+D = {0: 7, 1: 4, 25: 8, 16: 16, 4: 32}
+On crée une liste L après les lignes suivantes ?
+L = [ 2, 3, 4, 5, 7, 8 ]
+h(L,0,2)
+h(L,3,5)
+h(L,0,5)
+
+[8, 7, 5, 4, 3, 2]
+[2, 3, 4, 5, 7, 8]
+[4, 3, 2, 8, 7, 5]
+[5, 7, 8, 2, 3, 4]
+Question B.4
+On a défini
+dico = { 'a': (1,2,3), 'b': (4,5,6) }
+Quelle est la valeur de l'expression dico['a'][1]?
+(1,2,3)
+cette expression est incorrecte, l'évaluer déclenche une erreur
+Question B.5
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B.6
+On définit L = [2,3,5,7,-4].
+En demandant la valeur de L[5], qu'obtient-on ?
+-4
+une erreur
+
+Thème C : traitement de données en tables
+Question C.1
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle expression vaut-elle 'RIO' parmi les suivantes ?
+t[4]['sejour']
+t[5]['sejour']
+t('id'=5)
+t.['id'=5].['sejour']
+Question C.2
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C.3
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C.4
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+
+Question C.5
+Qu'est-ce que le format de fichier CSV ?
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C.6
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+onmouseover est une méthode qui permet de traiter un événement de quel type ?
+l'appui d'une touche du clavier
+un clic sur un bouton de souris
+un mouvement de la souris
+le survol par la souris d'un élément de la page
+Question D.2
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+
+Question D.3
+Une page Web contient un formulaire dont le code HTML est le suivant :
+<form action="/action_page.php" method="post">
+First name : <input type="text" name = "fname"><br>
+Last name : <input type="text" name = "lname"><br>
+<input type="submit" value="Submit">
+</form>
+Que peut-on dire des informations transmises dans ce formulaire ?
+elles seront enregistrées dans l’historique du navigateur
+elles seront enregistrées dans le cache du navigateur
+elles ne devront pas dépasser une limite en nombre de caractères transmis
+elles ne seront pas visibles dans la barre du navigateur
+Question D.4
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en langage
+JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D.5
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D.6
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Sachant que le répertoire courant contient les fichiers fich.txt, mafich.txt et programme.py, quel est le résultat
+de la commande ls fich* dans un shell Linux ?
+fich.txt mafich.txt
+mafich.txt
+fich.txt
+programme.py
+Question E.2
+Dans un shell sous Linux, Alice utilise la commande pwd.
+Cette commande :
+liste les fichiers du répertoire courant
+liste les répertoires du répertoire courant
+affiche le chemin du répertoire courant
+affiche les permissions relatives au répertoire courant
+Question E.3
+Parmi les adresses suivantes, laquelle est une adresse IP non valide ?
+1.2.3.4
+192.168.23.242
+127.3.87.256
+10.1.64.42
+Question E.4
+Un ordinateur possède les caractéristiques matérielles suivantes :
+— mémoire DDR SDRAM : 8 Go
+— antémémoire (mémoire cache) : 1 Mo
+— disque dur SSD : 1 To
+Parmi les classements ci-dessous lequel est celui de l’accès mémoire le plus rapide au moins rapide ?
+Antémémoire puis SDRAM puis SSD
+SSD puis Antémémoire puis SDRAM
+SSD puis SDRAM puis Antémémoire
+SDRAM puis SSD puis Antémémoire
+Question E.5
+Quel est le principal rôle d’une carte mère dans un ordinateur ?
+stocker les informations en mémoire vive
+exécuter les instructions en langage machine
+reproduire le processeur en plusieurs exemplaires
+connecter les différents composants de l'ordinateur
+
+Question E.6
+Sous Linux, dans quel but utilise-t-on la commande ls ?
+pour afficher le chemin vers le répertoire courant
+pour afficher les noms de fichiers et répertoires du répertoire courant
+pour effacer un fichier
+pour copier un fichier
+
+Thème F : langages et programmation
+Question F.1
+On définit :
+def f(a,m):
+i=1
+n=0
+while n <= m:
+i=i*a
+n=n+1
+return i
+Quelle est la valeur renvoyée par l'appel f(2,4) ?
+Question F.2
+On a défini une liste L de nombres entiers.
+Quelle est la valeur de la variable m à la fin de l'exécution du script suivant ?
+m = L[0]
+for j in range(len(L)):
+if m < L[j]:
+m = L[j]
+la moyenne de la liste L
+le minimum de la liste L
+le maximum de la liste L
+la longueur de la liste L
+
+Question F.3
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i>m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F.4
+On exécute le script suivant :
+a = 10
+if a < 5:
+a = 20
+elif a < 100:
+a = 500
+elif a < 1000:
+a=1
+a=0
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+Question F.5
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément. Combien
+de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand élément
+n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+
+Question F.6
+On exécute le script suivant :
+a=4
+b=4
+c=4
+while a < 5:
+a=a-1
+b=b+1
+c=c*b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+
+Thème G : algorithmique
+Question G.1
+On conçoit un algorithme permettant de déterminer la valeur maximale parmi une liste quelconque de valeurs
+comparables.
+Pour une liste de 100 valeurs, le nombre minimal de comparaisons que doit effectuer cet algorithme est :
+10000
+Question G.2
+On considère la fonction suivante, où T est une liste d'entiers et i un indice de la liste :
+def indiceMinimum(T,i):
+indice = i
+m = T[i]
+for k in range(i+1, len(T)):
+if T[k] < m:
+indice = k
+m = T[k]
+return indice
+On exécute indiceMinimum(T,i) pour une liste T de longueur n.
+Combien de fois l'inégalité T[k] < m est-elle évaluée ?
+𝑛−𝑖
+𝑛−𝑖+1
+𝑛−𝑖−1
+𝑛−1
+
+Question G.3
+La fonction ci-dessous permet d’effectuer une recherche par dichotomie de l’index m de l’élément x dans un
+tableau L de valeurs distinctes et triées.
+def dicho(x,L):
+g=0
+d = len(L)-1
+while g <= d:
+m = (g+d)//2
+if L[m] == x:
+return m
+elif L[m] < x:
+g = m+1
+d = m-1
+return None
+Combien de fois la cinquième ligne du code de la fonction (m = (g+d)//2) sera-t-elle exécutée dans l'appel
+dicho(32, [4, 5, 7, 25, 32, 50, 51, 60] ?
+1 fois
+2 fois
+3 fois
+4 fois
+Question G.4
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G.5
+On considère le code incomplet suivant qui recherche le maximum dans une liste.
+liste = [5,12,15,3,15,17,29,1]
+iMax = 0
+for i in range(1,len(liste)):
+............
+iMax = i
+print (liste[iMax])
+Par quoi faut-il remplacer la ligne pointillée ?
+if i > iMax:
+if liste[i] > liste[iMax]:
+if liste[i] > iMax:
+if i > liste[iMax]:
+
+Question G.6
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a=x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4

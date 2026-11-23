@@ -1,0 +1,470 @@
+{"pages": 20, "method": "pdftotext", "bytes": 1330610, "at": "2026-11-23T09:41:19+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Qu'est-ce qui permet de traduire un nom d'hôte en adresse IP ?
+un serveur DNS
+un serveur DHCP
+un pare-feu
+un hub
+Question A 2
+Si A et B sont des variables booléennes, laquelle de ces expressions booléennes est équivalente
+à (not A) or B ?
+(A and B) or (not A and B)
+(A and B) or (not A and B) or (not A and not B)
+(not A and B) or (not A and not B)
+(A and B) or (not A and not B)
+Question A 3
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture
+hexadécimale CD8FA + 9FF81?
+6E87B
+6D88B
+16D88B
+16E87B
+Question A 4
+Deux entiers positifs ont pour écriture en base 16 : A7 et 84.
+Quelle est l'écriture en base 16 de leur somme ?
+1811
+12B
+13A
+A784
+Question A 5
+Quelle est l'écriture binaire du nombre entier 183 ?
+0100 1000
+1110 1101
+1011 0111
+1001 0101
+
+Question A 6
+Parmi les quatre expressions suivantes, laquelle s'évalue en True ?
+False and (True and False)
+False or (True and False)
+True and (True and False)
+True or (True and False)
+
+Thème B : types construits
+Question B 1
+On a défini
+repertoire = [
+
+{'nom': 'Francette', 'poste': 412},
+{'nom': 'Jeanne', 'poste': 222},
+{'nom': 'Éric', 'poste': 231}
+]
+
+Quelle expression permet d'accéder au poste d'Éric ?
+repertoire[2]['poste']
+repertoire['poste'][2]
+repertoire['Éric']['poste']
+repertoire['Éric']
+Question B 2
+Quelle est la valeur de l'expression suivante : [[i, i+1] for i in range(2)] ?
+[[0,1],[1,2]]
+[[1,2],[2,3]]
+[0,1,1,2]
+[1,2,2,3]
+Question B 3
+De quelle expression la liste suivante est-elle la valeur ?
+[[0,0,0,0], [1,1,1,1], [2,2,2,2]]
+[[i] * 4 for i in range(4)]
+[[i] * 3 for i in range(4)]
+[[i] * 4 for i in range(3)]
+[[i] * 3 for i in range(3)]
+Question B 4
+On considère le code suivant :
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B 5
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+Question B 6
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+
+Thème C : traitement de données en tables
+Question C 1
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+Question C 2
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 3
+On définit ainsi une liste t puis une liste r :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+r = [ c for c in t if c['age']>30 and c['sejour']=='ISTANBUL' ]
+Combien la liste r contient-elle d'éléments ?
+Question C 4
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+
+Question C 5
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+Question C 6
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Pour créer un lien vers la page d'accueil de Wikipédia, que devra-t-on écrire dans une page Web ?
+<a target="http://fr.wikipedia.org">Wikipédia</a>
+<a href="http://fr.wikipedia.org" />
+<a href="http://fr.wikipedia.org">Wikipédia</a>
+<link src="http://fr.wikipedia.org">Wikipédia</link>
+Question D 2
+On souhaite qu’un menu apparaisse à chaque fois que l’utilisateur passe sa souris sur l’image de bannière du
+site. L’attribut de la balise img dans lequel on doit mettre un code Javascript à cet effet est :
+onclick
+src
+alt
+onmouseover
+Question D 3
+On considère le formulaire ci-dessous :
+Quel est votre langage préféré ?
+Python □ Java □ Php □
+Quelle balise parmi les quatre suivantes a été utilisée pour les cases à cocher ?
+<input type="radio">
+<input type="circle">
+<input type="checkbox">
+<input type="square">
+Question D 4
+Une page Web contient un formulaire dont le code HTML est le suivant :
+<form action="/action_page.php" method="post">
+First name : <input type="text" name = "fname"><br>
+Last name : <input type="text" name = "lname"><br>
+<input type="submit" value="Submit">
+</form>
+Que peut-on dire des informations transmises dans ce formulaire ?
+elles seront enregistrées dans l’historique du navigateur
+elles seront enregistrées dans le cache du navigateur
+elles ne devront pas dépasser une limite en nombre de caractères transmis
+elles ne seront pas visibles dans la barre du navigateur
+Question D 5
+
+Si un utilisateur doit saisir des données sensibles (mot de passe, numéro de carte bancaire…) dans le formulaire
+d’une page HTML, quel est l’entête de formulaire le plus approprié parmi les quatre propositions suivantes ?
+<form method="formulaire.php" action="submit">
+<form method="secure" action=onclick()>
+<form method="get" action="arret.php">
+<form method="post" action="arret.php">
+Question D 6
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 2
+À partir du répertoire ~/Perso/Doc quelle commande permet de rejoindre le répertoire ~/Public ?
+cd ./Public
+cd ../Public
+cd ././Public
+cd ../../Public
+Question E 3
+On réalise une petite station météo.
+Quel composant est un capteur ?
+l'afficheur LCD
+l'écran de l'ordinateur
+la LED
+le thermomètre
+Question E 4
+Dans la console Linux, étant positionné dans le répertoire /home/marcelH/travail, quelle commande faut-il
+exécuter pour remonter dans l'arborescence vers le répertoire /home/marcelH ?
+cd .
+cd ..
+cd ...
+cd /../.
+Question E 5
+Nous disposons des commandes suivantes en langage machine :
+Instructions
+
+Effet
+
+LD X
+
+Lit le contenu de la cellule X (ACC ← #X)
+
+STO X
+
+Enregistre dans la cellule X (#X ← ACC)
+
+ADD X
+
+Ajoute le contenu de la cellule X (ACC ← ACC + #X)
+
+SUB X
+
+Soustrait le contenu de la cellule X (ACC ← ACC - #X)
+
+END
+
+Arrêt du programme
+
+Que fait le programme suivant :
+Adresse Contenu
+
+…
+
+…
+
+LD 0
+
+SUB 1
+
+STO 2
+
+END
+
+25 + 14
+14 - 25
+25 - 14
+25 . 14
+Question E 6
+Dans un shell sous Linux, Alice utilise la commande pwd.
+Cette commande :
+liste les fichiers du répertoire courant
+liste les répertoires du répertoire courant
+affiche le chemin du répertoire courant
+affiche les permissions relatives au répertoire courant
+
+Thème F : langages et programmation
+Question F 1
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 2
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 3
+
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F 4
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for i in range(n-1):
+if t[i] > t[i+1]:
+t[i],t[i+1] = t[i+1],t[i]
+L = [4, 8, -7, 0, 1]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[4, -7, 8, 0, 1]
+[-7, 0, 1, 4, 8]
+[4, 8, -7, 0, 1]
+[4, -7, 0, 1, 8]
+Question F 5
+La fonction suivante calcule la racine carrée du double d’un nombre flottant.
+from math import sqrt
+def racine_du_double(x):
+return sqrt(2*x)
+Quelle est la précondition sur l'argument de cette fonction ?
+x < 0
+x >= 0
+2 * x > 0
+sqrt(x) >= 0
+Question F 6
+
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Thème G : algorithmique
+Question G 1
+Un algorithme de tri d’une liste d’entiers est implémenté de la façon suivante :
+def trier(L) :
+for i in range(len(L)):
+indice_min = i
+for j in range(i+1, len(L)):
+if L[j] < L[indice_min] :
+indice_min = j
+L[i], L[indice_min] = L[indice_min], L[i]
+return L
+Quelle est l'affirmation exacte ?
+cet algorithme est celui du tri par sélection et sa complexité est O(n)
+cet algorithme est celui du tri par insertion et sa complexité est O(n*log(n))
+cet algorithme est celui du tri par sélection et sa complexité est O(n2)
+cet algorithme est celui du tri par insertion et sa complexité est O(1)
+Question G 2
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 3
+
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+for x in L:
+
+for i in range(n//2):
+for j in range(n//2):
+
+Question G 4
+Quelle précondition suppose l'algorithme de recherche dichotomique dans un tableau ?
+que le tableau soit à éléments positifs
+que le tableau soit trié
+que l'élément cherché dans le tableau soit positif
+que l'élément cherché figure effectivement dans le tableau
+Question G 5
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇
+Question G 6
+On considère la fonction suivante :
+def trouverLettre(phrase,lettre):
+indexResultat = 0
+for i in range(len(phrase)):
+if phrase[i] == lettre:
+indexResultat = i
+return indexResultat
+Que renvoie l'appel trouverLettre("Vive l’informatique","e") ?
+
+"e"

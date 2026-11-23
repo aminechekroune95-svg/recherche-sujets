@@ -1,0 +1,210 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1490974, "at": "2026-11-23T09:23:12+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Solar Impulse 2, l’avion solaire (10 points)
+L'avion solaire Solar Impulse 2 restera dans l’histoire de l’aéronautique comme le premier
+avion à avoir bouclé avec succès un tour du monde (43 041 km parcourus en 17 étapes) sans
+une goutte de carburant et avec le Soleil comme unique source d’énergie. Au cours de ce tour
+du monde, cet avion piloté alternativement par les pilotes suisses Bertrand Picard et André
+Borschberg aura notamment :
+- effectué sa première traversée de l’Atlantique entre New York et Séville ;
+- établi le plus long vol de l’histoire sans escale et sans pilote automatique
+(117 heures 52 minutes entre Nagoya et Hawaï).
+Ce tour du monde aura été rendu possible grâce à des choix technologiques innovants et un
+profil de vol raisonné.
+
+Partie 1 : le solaire photovoltaïque
+Solar Impulse 2 est presque entièrement recouvert de panneaux solaires photovoltaïques. Les
+matériaux semi-conducteurs utilisés pour constituer les cellules photovoltaïques sont le
+résultat de nombreuses recherches.
+On s’intéresse dans cette partie à la production d’électricité par l’effet photovoltaïque.
+ L’effet photovoltaïque
+Dans un semi-conducteur exposé à la lumière, un photon d’énergie suffisante extrait un
+électron qui participe à la conduction de l’électricité.
+La valeur minimale d’énergie apportée par le photon doit être Emin = 1,12 eV.
+Données :
+- électronvolt : 1 eV = 1,60 x 10-19 J ;
+- constante de Planck : h = 6,62 x 10-34 J.s ;
+- la valeur de la célérité c de la lumière dans le vide est supposée connue.
+ Absorption atmosphérique du rayonnement solaire pour des radiations lumineuses
+de longueurs d’onde comprises entre 1 nm et 10 mm
+
+ Les ondes électromagnétiques
+
+1.1 Montrer qu’un photon d’énergie 1,12 eV est associé à un rayonnement de longueur d’onde
+λ voisine de 1 μm.
+1.2 À quel domaine des ondes électromagnétiques ces ondes appartiennent-elles ?
+1.3 Expliquer pourquoi les matériaux semi-conducteurs présentent un intérêt dans le
+fonctionnement des cellules photovoltaïques.
+
+Partie 2 : les performances des panneaux solaires de Solar Impulse 2
+On se propose d’étudier en laboratoire une cellule photovoltaïque « classique » afin de
+comparer son rendement à l’une des 17 000 cellules qui équipent l’avion Solar Impulse 2.
+ Diagramme de puissance d’une cellule photovoltaïque
+
+ Puissance lumineuse reçue
+La puissance lumineuse Plum reçue par la cellule photovoltaïque, exprimée en W, est égale au
+produit de l’éclairement Elum, exprimé en W.m-2, par la surface utile S de la cellule exprimée en
+m2 : 𝑷𝒍𝒖𝒎 = 𝑬𝒍𝒖𝒎 ∗ 𝑺.
+ Étude d’une cellule photovoltaïque « classique » en laboratoire
+Matériel à disposition :
+Symbole normalisé
+- une lampe halogène ;
+- un solarimètre ;
+d’une cellule
+- une cellule photovoltaïque de surface utile S = 26,1 x 10-4
+photovoltaïque :
+m2 ;
+- une résistance variable ;
+- un ampèremètre ;
+- un voltmètre ;
+- des fils de connexion.
+Protocole expérimental :
+ brancher en série la cellule photovoltaïque et la résistance variable ;
+ éclairer la cellule photovoltaïque à l’aide de la lampe halogène placée à 10 cm, et
+mesurer l’éclairement Elum au niveau de la cellule photovoltaïque en utilisant le solarimètre
+(la distance lampe/cellule sera maintenue fixe tout au long de l’étude) ;
+ pour différentes valeurs de la résistance R, relever les valeurs de la tension U aux
+bornes de la cellule et de l’intensité I du courant dans le circuit à l’aide des appareils de
+mesure correctement connectés ;
+ tracer à l’aide d’un tableur grapheur la caractéristique I = f(U) de la cellule
+photovoltaïque.
+
+La caractéristique ci-dessous a été obtenue pour un éclairement Elum = 300 W.m-2 (mesure
+effectuée avec le solarimètre).
+
+ Rendement de différents types de convertisseurs d’énergie
+Convertisseur d’énergie
+Cellule photovoltaïque « classique »
+Éolienne domestique
+Alternateur
+Batterie automobile
+
+Rendement moyen
+15 %
+(conditions normalisées : Esoleil = 1000 W.m-2)
+20 %
+90 %
+70 %
+
+2.1 Schématiser le montage électrique associé au protocole (le solarimètre ne sera pas
+représenté sur votre schéma).
+2.2 Dans quelle zone (1, 2 ou 3) la puissance électrique délivrée par cette cellule est-elle la
+plus grande ? Justifier la réponse en déterminant la puissance électrique délivrée par la
+cellule aux points A, B et C.
+On considère que la puissance électrique maximale délivrée par la cellule photovoltaïque
+étudiée est Pelec_max = 0,041 W.
+2.3 Montrer, en justifiant par un calcul, que le rendement maximal de la cellule photovoltaïque
+étudiée au laboratoire est ηmax = 5,2 %.
+2.4 Pourquoi le rendement déterminé ne correspond-il pas à celui du tableau, alors que la
+cellule étudiée peut être considérée comme une cellule photovoltaïque « classique » ?
+
+2.5 Les cellules photovoltaïques de Solar Impulse 2 ont un rendement de 23 %. Vous
+paraissent-elles performantes ? Justifier la réponse.
+PARTIE B
+Synthèse et propriétés lavantes d’un savon (10 points)
+Des élèves d’une classe de première réalisent la synthèse d’un savon.
+Cet exercice a pour objectif d’étudier quelques caractéristiques des espèces chimiques
+mises en jeu lors de cette synthèse d’une part et d’analyser les différentes étapes du
+protocole d’autre part. Il s’intéresse enfin aux propriétés lavantes du savon.
+Protocole de la synthèse d’un savon : l’oléate de sodium
+Étape 1 : verser dans un ballon :
+- 13,6 g d’huile d’olive (on considère que l’huile d’olive est de l’oléine pure) ;
+- 20 mL d’éthanol ;
+- 20,0 mL de soude à 10 mol∙L-1 (en excès) ;
+- quelques grains de pierre ponce.
+Étape 2 : chauffer à reflux le mélange réactionnel pendant 20 minutes environ.
+Étape 3 : laisser refroidir le mélange quelques minutes puis le verser dans un bécher
+contenant 200 mL d’une solution aqueuse concentrée de chlorure de sodium.
+Étape 4 : le précipité obtenu, l’oléate de sodium, est le savon. Il est filtré, rincé à l’eau salée,
+séché, puis pesé.
+Équation de la réaction modélisant la synthèse de l’oléate de sodium
+
+Dans les représentations semi-développées ci-dessus, les chaînes carbonées sont
+représentées par le symbole « R » ; R est un groupe qui contient 17 atomes de carbone reliés
+entre eux.
+Données :
+- numéro atomique Z de quelques éléments : H : 1 ; O : 8 ; Na : 11 ;
+- électronégativité χ de quelques éléments selon l’échelle de Pauling : H : 2,2 ; O : 3,5 ;
+Na : 0,9 ;
+- masses molaires en g∙mol–1 : M(oléine) = 884 ; M(hydroxyde de sodium) = 40 ; M(oléate
+de sodium) = 304 ;
+
+- L’huile est peu soluble dans les solvants polaires alors que les espèces ioniques y sont
+généralement très solubles :
+Oléine
+Solubilité dans l'eau
+Solubilité dans l'éthanol
+Solubilité dans l'eau salée
+
+insoluble
+insoluble
+
+Hydroxyde
+de sodium (soude)
+
+Oléate de sodium
+(Savon)
+peu soluble
+
+1. Espèces chimiques mises en jeu dans la synthèse du savon
+1.1 L'eau
+1.1.1 Établir le schéma de Lewis de la molécule d'eau en déterminant au préalable le nombre
+total d’électrons de valence.
+1.1.2 Interpréter la géométrie coudée de cette molécule.
+1.1.3 En déduire le caractère polaire ou apolaire de la molécule d'eau en justifiant votre
+réponse.
+1.1.4 Justifier que l’huile ne soit pas soluble dans l’eau.
+1.2 La soude
+La soude est une solution aqueuse d'hydroxyde de sodium. Elle est obtenue dans le cas de
+cette synthèse par dissolution dans l'eau d'un échantillon d'hydroxyde de sodium NaOH solide
+de masse m = 400 g pour obtenir un volume V = 1,0 L de solution.
+1.2.1 Exprimer, puis calculer la concentration en quantité de matière en soluté apporté de la
+solution de soude.
+1.2.2 Écrire l'équation de la réaction qui modélise la dissolution de l'hydroxyde de sodium
+solide NaOH(s) dans l'eau.
+1.2.3 Exprimer puis calculer les concentrations en quantités de matière effectives des ions
+présents dans la solution de soude.
+2. Analyse du protocole de synthèse du savon
+2.1. Étude qualitative à partir des données fournies
+2.1.1 Préciser le rôle de l’éthanol dans l’étape 1 en justifiant votre réponse.
+2.1.2 Après le chauffage, on réalise les deux étapes suivantes décrites sur la figure 3 cidessous :
+
+étape 2
+
+étape 3
+
+eau salée
+
+Figure 3. Étapes 3 et 4 du protocole de synthèse d’un savon
+Justifier l’utilisation d’eau salée dans l’étape 3 et indiquer le nom du dispositif utilisé à l’étape
+4 et son intérêt.
+2.2 Étude quantitative
+On cherche à déterminer le rendement de la synthèse du savon. La masse du savon obtenu
+est égale à mexp = 10,5 g.
+2.2.1 Vérifier que la soude est le réactif introduit en excès.
+2.2.2 Déterminer le rendement de cette synthèse. Commenter.
+3. Propriétés lavantes d'un savon
+On s’intéresse désormais aux propriétés lavantes d’un savon.
+On peut représenter schématiquement l’ion oléate, l’ion actif du savon de la façon suivante :
+
+Figure 4. Représentations schématiques de l’ion oléate
+3.1 Caractériser les parties 1 et 2 des schémas de l’ion de la figure 4 à l'aide du vocabulaire
+suivant : hydrophile, hydrophobe, lipophile, lipophobe.
+3.2 En déduire, parmi les schémas 5.a et 5.b de la figure 5, celui qui peut expliquer le mode
+d'action d'un savon. Décrire en un schéma et/ou une ou deux phrases l’étape suivante
+menant à l’élimination de la tache de graisse lors du lavage par du savon.
+
+Schéma 5.a.
+
+Schéma 5.b.
+Figure 5

@@ -1,0 +1,337 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1544095, "at": "2026-11-23T09:30:48+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le paradoxe du Soleil pâle
+Le système solaire s’est formé il y a 4,57 milliards d’années. Le paradoxe du jeune
+Soleil pâle désigne la contradiction apparente, entre la présence d'eau liquide sur
+Terre à cette époque et le fait que le Soleil ne brillait qu'à 70 % de son intensité
+actuelle. La température sur Terre devait être inférieure à 0 °C et donc l’eau aurait dû
+être présente à l’état solide uniquement.
+L’objectif de cet exercice est d’étudier ce paradoxe.
+Partie 1 – Caractérisation du Soleil jeune
+Actuellement, la puissance surfacique moyenne du rayonnement solaire arrivant à la
+surface de l’atmosphère terrestre est de 340 W · m−2 .
+1- Montrer que la puissance surfacique moyenne solaire qui atteignait la surface de
+l’atmosphère terrestre il y a 4 milliards d’années était d’environ 240 W. m−2 .
+Document 1 – Loi de Stefan
+La puissance émise par unité de surface (𝑃 exprimée en W · m−2 ) est
+proportionnelle à la puissance quatrième de la température (𝑇 exprimée en Kelvin).
+𝑃 = 𝜎 × 𝑇4
+avec 𝜎, constante de Stefan-Boltzmann valant 5,67 × 10−8 W · m−2 · K −4.
+Relation entre la température 𝜽(°𝐂) et la température 𝑻(𝐊) :
+𝑇 = 𝜃 + 273
+2- À l’aide du document 1, montrer qu’en première approximation, la température
+de la Terre aurait dû être d’environ −18 °C il y a 4 milliards d’années.
+
+Document 2 – Lien entre luminosité et température de surface d’une étoile
+En astrophysique, le diagramme Hertzprung Russel permet d’établir une relation
+entre la température d’une étoile et sa luminosité et conduit aux correspondances
+précisées dans le tableau suivant :
+Par exemple, si une étoile brille deux fois plus intensément que le Soleil actuel, ce
+rapport vaut 2.
+Rapport de la luminosité d’une étoile
+sur la luminosité actuelle du Soleil
+
+Température de l’étoile en kelvins (K)
+
+1,7
+0,7
+0,07
+
+6000
+5800
+5500
+4000
+
+Document 3 – Loi de Wien
+La longueur d’onde d’intensité maximale (𝜆𝑚𝑎𝑥 exprimée en mètres) relevée sur un
+spectre d’émission est inversement proportionnelle à la température (T exprimée
+en kelvins) du corps émetteur :
+𝜆𝑚𝑎𝑥 =
+
+𝑘
+𝑇
+
+avec 𝑘, constante de la loi de Wien valant 2,99 × 10−3 K · m.
+
+3- À l’aide des documents 2 et 3, déterminer en nanomètres la longueur d’onde
+d’intensité maximale du Soleil il y a 4 milliards d’années.
+
+Partie 2 – Première proposition d’explication du paradoxe
+Document 4 – Tableau de la pression partielle atmosphérique en 𝐂𝐎𝟐
+Une température de −15 °C est incompatible avec la présence d’eau liquide. Des
+études ont permis de montrer qu’il y a 4 milliards d’années, un volcanisme très
+intense rejetait de grandes quantités de dioxyde de carbone dans l’atmosphère
+terrestre.
+Période
+
+−4 Milliards d’années
+
+Actuelle
+
+Pression partielle en 𝐂𝐎𝟐
+
+Entre 0,3 et 0,6 bar
+
+3 × 10−4 bar
+
+Source : d’après https://planet-terre.ens-lyon.fr
+
+Document 5 – Bilan radiatif terrestre
+
+4- À partir des documents 4 et 5 et de vos connaissances, proposer une explication
+au paradoxe du Soleil pâle, c’est à dire à la présence d’eau liquide il y a
+4 milliards d’années malgré une température terrestre inférieure à 0°𝐶 due à la
+plus faible puissance reçue du Soleil.
+
+Partie 3 – Seconde proposition d’explication du paradoxe
+D’autres chercheurs ont proposé d’expliquer le paradoxe du Soleil jeune pâle par un
+albédo moyen très faible.
+5- Définir l’albédo.
+Document 6 – Quelques valeurs d’albédo
+Surface
+
+Océan
+
+Forêt
+
+Nuages
+
+Sable
+
+Neige
+
+Albédo
+
+0,05 – 0,10
+
+0,05 – 0,10
+
+0,2 – 0,3
+
+0,2 – 0,3
+
+0,8 – 0,9
+
+Albédo moyen terrestre actuel : α = 0,3
+Albédo moyen terrestre estimé à l’époque du Soleil jeune (4 milliards d’années) :
+α =0,05
+
+6- Expliquer pourquoi la valeur de l’albédo à l’époque du jeune Soleil pâle
+permettrait d’expliquer la présence d’eau liquide sur Terre alors que la puissance
+surfacique solaire incidente était plus faible qu’actuellement.
+7- Expliquer en quoi l’étude de paradoxes scientifiques est une composante
+essentielle de la démarche scientifique. Vous argumenterez en vous appuyant
+sur l’exemple étudié dans cet exercice et sur vos connaissances personnelles.
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Le radium : découvertes, applications et protections
+À la fin du XIXe siècle, le physicien français Henri Becquerel découvre la radioactivité
+en étudiant des sels d’uranium extraits d’un minerai de pechblende (1896). C’est
+également dans la pechblende que Marie et Pierre Curie isolent par la suite le
+polonium (juillet 1898) puis le radium (août 1898).
+Ces découvertes ont ouvert la voie à de nombreuses applications médicales,
+militaires ou encore commerciales.
+
+Document 1 – Décroissance radioactive du radium
+
+Source personnelle
+
+1- Définir la demi-vie d’un noyau radioactif.
+2- Déterminer, à l’aide du graphique du document 1, la demi-vie du radium.
+Comparer cette valeur à l’espérance de vie moyenne d’un être humain en
+France.
+
+Document 2 – Capacités de pénétration des rayonnements
+Les noyaux des atomes de radium (Ra), élément radioactif, subissent des
+désintégrations en chaînes, chacune émettant un rayonnement :
+∗
+88𝑅𝑎 → 86𝑅𝑛 + 𝛼
+∗
+86𝑅𝑛 → 86𝑅𝑛 + 𝛾
+
+Dans le corps humain :
+Rayonnement
+
+Pénétration dans le corps
+
+Risque pour la santé
+
+Alpha α
+
+non
+
+très faible
+
+Bêta β
+
+superficiellement
+
+faible
+
+Gamma γ
+
+oui
+
+élevé
+
+Dans différents matériaux :
+
+Source personnelle
+
+3- Expliquer pourquoi l’Agence nationale pour la gestion des déchets radioactifs est
+chargée de collecter et de stocker à long terme les objets contenant du radium.
+4- Justifier l’emploi du plomb comme matériel de protection pour les objets ayant
+été manipulés par Marie Curie dans son laboratoire.
+
+Document 3 – Applications médicales et commerciales du radium
+Après sa découverte, Pierre Curie fournit du
+radium à un dermatologue qui l’utilisera pour
+traiter le lupus (maladie chronique caractérisée
+par une éruption cutanée).
+Dès 1905, l’action bénéfique des rayons du
+radium pour le traitement des tumeurs
+cancéreuses de la peau et du col de l’utérus est
+reconnue. Dès lors, la radiumthérapie, ancêtre
+de la radiothérapie* connaîtra des
+développements significatifs.
+
+Anciens produits commerciaux
+à base de radium
+Sources : Travus, Wikimedia,
+
+Parallèlement à cela, des cosmétiques contenant
+Collections du Musée Curie
+en quantité infime du radium (marque Tho-radia),
+se développent : des crèmes de beauté, puis des poudres, savons, dentifrices
+mais également des peintures et des réveils, principalement pour leurs propriétés
+luminescentes. Le succès commercial est immense.
+Ce n’est qu’en 1937, à la suite de nombreux décès dus au cancer dans les
+industries et instituts travaillant sur le radium, que celui-ci sera interdit dans les
+produits non pharmaceutiques.
+*Radiothérapie : traitement locorégional des cancers qui consiste à utiliser des
+rayonnements pour détruire les cellules cancéreuses en bloquant leur capacité à
+se multiplier.
+Sources : d’après le site internet du Musée Curie https://musee.curie.fr
+
+5- Identifier, d’après le document 3, les utilisations variées des propriétés
+radioactives du radium.
+Le savoir scientifique autour de la radioactivité s’est construit tout au long du XXe
+siècle.
+6- Expliquer l’influence que ce savoir (la découverte du radium puis de ses
+propriétés radioactives), a pu (ou peut) avoir sur les sociétés modernes et
+comment désormais ces dernières se protègent des risques radioactifs grâce
+aux connaissances scientifiques.
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Activités humaines et stress hydrique
+L’hydrosphère désigne les zones du globe terrestre occupées par de l’eau ou de la
+glace, comme les glaciers, les nappes souterraines, les océans, les mers, les cours
+d’eau, etc. Dans cet exercice, il s’agit d’étudier l’impact de l’humain sur l’équilibre
+fragile qui existe entre l’hydrosphère, l’atmosphère et la biosphère.
+Partie 1 – Le stress hydrique des végétaux
+Document 1 – Le phénomène de stress hydrique
+Si une plante évacue plus d'eau qu'elle n'en absorbe, elle se retrouve en situation
+de stress hydrique.
+Deux phénomènes peuvent contribuer au stress hydrique des végétaux :
+
+
+le processus de photosynthèse, qui consomme de l’eau. Cette
+transformation chimique peut être modélisée par une réaction dont
+l’équation est :
+lumière
+
+6 CO2 + 6 H2 O →
+
+
+C6 H12 O6 + 6 O2
+
+la transpiration, qui correspond au volume d’eau évaporé des sols et
+transpiré par les plantes.
+
+Lorsqu’une plante est en situation de stress hydrique, sa croissance ralentit, sa
+germination diminue et ses feuilles deviennent vert sombre, entre autres
+conséquences.
+Source : d’après Wikipedia
+
+1- À l’aide de l’équation de la photosynthèse et de vos connaissances en lien avec
+les transformations chimiques, justifier la phrase soulignée dans le document 1.
+2- À partir des informations données dans le document 1, expliquer en quoi le
+réchauffement climatique peut être un facteur de stress hydrique pour les
+végétaux.
+
+Partie 2 – Le stress hydrique écologique
+Après avoir étudié quelques aspects du stress hydrique chez les végétaux et dans
+les cultures, nous allons maintenant nous intéresser au stress hydrique écologique.
+La notion de stress hydrique peut décrire une situation de pénurie d’eau, dans
+laquelle la demande en eau douce dépasse la quantité de ressources disponibles.
+L’Organisation Mondiale de la Santé (OMS) considère qu’il y a stress hydrique, si un
+être humain dispose de moins de 1700 mètres cubes d’eau douce par an.
+Document 2 – Répartition de l’eau sur Terre
+L’eau (douce et salée) recouvre 72 % de la surface du globe pour un volume total
+estimé à 1400 millions de mètres cubes.
+
+Source : d’après Wikipedia
+
+3-a- En vous appuyant sur le document 2, nommer le plus grand réservoir d’eau sur
+Terre.
+3-b- En vous appuyant sur le document 2, nommer les deux réservoirs d’eau douce
+liquide utilisables par l’être humain.
+3-c- En vous appuyant sur le document 2, montrer que le volume d’eau douce
+utilisable par l’être humain est d’environ 11 millions de mètres cubes.
+
+Document 3 – Le dessalement de l’eau
+La répartition de l’eau douce sur la Terre est très inégale, tout comme sa
+consommation. Si la moyenne mondiale de consommation d’eau est de 137 litres
+par habitant et par jour, cette valeur s’élève à 15 litres environ en Afrique
+subsaharienne contre 600 litres en Amérique du Nord ou au Japon. Depuis les
+cent dernières années, l’utilisation mondiale de l’eau a été multipliée par six. Elle
+continue d’augmenter rapidement, de près de 1% par an.
+Pour faciliter l’accès à l’eau douce, il est possible de transformer l’eau salée des
+mers et des océans. Les deux techniques de dessalement de l’eau de mer
+principalement utilisées sont présentées dans le tableau suivant :
+
+4- Expliquer la phrase soulignée dans le document 3, en vous appuyant sur des
+exemples de votre connaissance.
+5- Montrer que la distillation est plus coûteuse énergétiquement que l’osmose
+inverse. Donnée : 1 kWh = 3,6 × 106 J.
+6- Citer des intérêts et des limites au dessalement de l’eau. Argumenter en utilisant
+les données des documents et vos propres connaissances.
+
+Partie 3 – Activités humaines et stress hydrique
+7- En vous appuyant sur vos connaissances et vos réponses, expliquez-en quoi les
+activités humaines contribuent à augmenter le stress hydrique des végétaux et le
+stress hydrique écologique (argumenter la réponse par un texte comptant entre 5
+et 10 lignes).

@@ -1,0 +1,431 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1307032, "at": "2026-11-23T09:40:18+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quel est l'entier codé sur 4 bits en complément à 2 par 1101 ?
+-6
+-3
+Question A 2
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 −1
+2 × 32
+Question A 3
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+Question A 4
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+Question A 5
+La représentation en complément à deux sur 8 bits de l’entier –42 est :
+– 00101010
+10101010
+11010101
+11010110
+
+Question A 6
+Un nombre entier signé est codé en complément à deux sur 8 bits par : 0111 0101.
+Que peut-on dire ?
+c'est un nombre positif
+c'est un nombre négatif
+c'est un nombre pair
+7 bits auraient suffi à représenter cet entier signé en complément à deux
+
+Thème B : types construits
+Question B 1
+On définit L = [[1,2,3,4,5],[6,7,8,9,10],[11,12,13,14,15]].Quelle est la valeur de L[0][2] ?
+Question B 2
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+{ 'ftp': 21 }
+Key not found
+Question B 3
+On définit : L = [10,9,8,7,6,5,4,3,2,1].
+Quelle est la valeur de L[L[3]] ?
+Question B 4
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+Question B 5
+On considère le code suivant :
+
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B 6
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+
+Thème C : traitement de données en tables
+Question C 1
+Soit le tableau défini de la manière suivante : tableau = [[1,3,4],[2,7,8],[9,10,6],[12,11,5]]
+On souhaite accéder à la valeur 12, on écrit pour cela :
+tableau[4][1]
+tableau[1][4]
+tableau[3][0]
+tableau[0][3]
+Question C 2
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 3
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 4
+Que réalise l'instruction suivante :
+mon_fichier = open("exemple.txt", "r")
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode lecture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture si le fichier est dans le même dossier que le
+fichier du programme Python comportant cette instruction.
+Elle permet d’ouvrir le fichier "exemple.txt" en mode écriture même si le fichier n’est pas dans le même
+dossier que le fichier du programme Python comportant cette instruction.
+Question C 5
+
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 6
+Quelle est la valeur de la variable table après exécution du programme Python suivant ?
+table = [12, 43, 6, 22, 37]
+for i in range(len(table) - 1):
+if table[i] > table[i+1]:
+table[i], table[i+1] = table[i+1], table[i]
+[6, 12, 22, 37, 43]
+[12, 6, 22, 37, 43]
+[43, 12, 22, 37, 6]
+[43, 37, 22, 12, 6]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Dans un formulaire sur un page web, pour transmettre des données sécurisées comme un mot de passe ou un
+numéro de carte bancaire, il vaut mieux utiliser la méthode :
+HEAD
+GET
+HTTPS
+POST
+Question D 2
+Les pages HTML sont affichées par …
+le compilateur
+le serveur
+l'interpréteur
+le navigateur Web
+Question D 3
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D 4
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser des données de façon plus sécurisées
+Question D 5
+Que peut-on comprendre en lisant l'URL : https://www.myfalselink.com/results?search_query=NSI ?
+Le protocole utilisé pour naviguer est sécurisé
+Une recherche sur le mot NSI a été faite mais il n'y a pas de réponse
+Ce site est situé dans un pays anglophone
+Le lien ne fonctionnera pas car le caractère ‘?’ n’est pas autorisé dans une URL
+Question D 6
+
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+On a exécuté la commande ls -l et obtenu l’affichage suivant :
+total 0
+-rw-rw-rw- 1 etudiant etudiant 15 Jul 2 13:29 exercice
+drwxrwxrwx 1 etudiant etudiant 512 Jul 2 13:37 seances
+Que permettent d’affirmer les informations obtenues ?
+exercice et seances sont deux fichiers « ordinaires »
+exercice est un fichier « ordinaire » et seances est un répertoire
+exercice et seances sont deux répertoires
+exercice est un répertoire et seances est un fichier « ordinaire »
+Question E 2
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+Question E 3
+Parmi les adresses suivantes, laquelle est une adresse IP non valide ?
+1.2.3.4
+192.168.23.242
+127.3.87.256
+10.1.64.42
+Question E 4
+À partir du dossier ~/Doc/QCM, quelle commande permet de rejoindre le dossier ~/Hack/Reponses ?
+cd Hack/Reponses
+cd /Hack/Reponses
+cd /~/Hack/Reponses
+cd ../../Hack/Reponses
+Question E 5
+Lorsque, en ligne de commande, on saisit la commande
+rm *
+
+ceci a pour effet :
+d’activer une télécommande
+d’accéder au répertoire parent du répertoire courant
+d’effacer tous les fichiers du répertoire courant et ses sous-répertoires
+d’effacer tous les fichiers du répertoire courant
+Question E 6
+Nous disposons des commandes suivantes en langage machine :
+Instructions
+
+Effet
+
+LD X
+
+Lit le contenu de la cellule X (ACC ← #X)
+
+STO X
+
+Enregistre dans la cellule X (#X ← ACC)
+
+ADD X
+
+Ajoute le contenu de la cellule X (ACC ← ACC + #X)
+
+SUB X
+
+Soustrait le contenu de la cellule X (ACC ← ACC - #X)
+
+END
+
+Arrêt du programme
+
+Que fait le programme suivant :
+Adresse Contenu
+
+…
+
+…
+
+LD 0
+
+SUB 1
+
+STO 2
+
+END
+
+25 + 14
+14 - 25
+25 - 14
+25 . 14
+
+Thème F : langages et programmation
+Question F 1
+On exécute le code suivant :
+def f(t):
+n = len(t)
+tmp = t[0]
+for i in range(1,n-1):
+t[i] = t[i+1]
+t[n-1] = tmp
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 4, 5, 2, 1]
+[2, 1, 3, 4, 5]
+[3, 4, 5, 2, 1]
+[2, 5, 4, 3, 1]
+Question F 2
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 3
+On exécute le script suivant.
+a,b = 10,3
+if a < 10:
+a,b = a+2,b+a
+Quelle est la valeur de b à la fin de son exécution ?
+Question F 4
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 3
+b = 6
+if a > 5 or b != 3:
+b = 4
+else:
+
+b = 2
+Question F 5
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+Question F 6
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+
+Thème G : algorithmique
+Question G 1
+Pour pouvoir utiliser un algorithme de recherche par dichotomie dans une liste, quelle précondition doit être
+vraie ?
+la liste doit être triée
+la liste ne doit pas comporter de doublons
+la liste doit comporter uniquement des entiers positifs
+la liste doit être de longueur inférieure à 1024
+Question G 2
+La fonction suivante doit calculer le produit de tous les éléments de la liste passée en paramètre. Avec quelles
+expressions doit-on la compléter pour que cette fonction soit correcte ?
+def produit (L):
+p = ...
+for elt in L:
+.......
+return p
+1 puis p = p * elt
+0 puis p = p * elt
+1 puis p = elt
+0 puis p = elt
+Question G 3
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+i = i + 1
+i = K-1
+i = i - 1
+i = K-1
+i = i + 1
+i = K+1
+while i >= K:
+i = i - 1
+
+Question G 4
+Un algorithme de tri d’une liste d’entiers est implémenté de la façon suivante :
+def trier(L) :
+for i in range(len(L)):
+indice_min = i
+for j in range(i+1, len(L)):
+if L[j] < L[indice_min] :
+indice_min = j
+L[i], L[indice_min] = L[indice_min], L[i]
+# ligne de commentaire où une des 4 propositions est vraie
+return L
+Parmi les propositions suivantes, laquelle reste vraie à chaque itération de la boucle, à l'endroit indiqué cidessus en commentaire?
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus grandes valeurs de L triées par ordre croissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre décroissant
+la sous-liste L[0:i+1] contient les i plus petites valeurs de L triées par ordre croissant
+Question G 5
+Quelle est la complexité du tri par sélection ?
+inconnue
+linéaire
+quadratique
+exponentielle
+Question G 6
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇

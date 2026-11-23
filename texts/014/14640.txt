@@ -1,0 +1,445 @@
+{"pages": 15, "method": "pdftotext", "bytes": 682355, "at": "2026-11-23T09:31:02+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique avec enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Étude de l’accidentologie
+Sur 8 points
+Dans cet exercice, on étudie l’accidentologie (circulation en véhicules automobiles) en
+France.
+Partie A
+On considère le tableau et le graphique suivants qui représentent le nombre
+d’accidents corporels en France en fonction des années :
+Année
+
+Nombre
+de tués
+
+2004
+
+5 593
+
+2005
+
+5 318
+
+5 000
+
+2006
+
+4 709
+
+4 000
+
+2007
+
+4 620
+
+2008
+
+4 275
+
+2009
+
+4 273
+
+2 000
+
+2010
+
+3 992
+
+1 000
+
+2011
+
+3 963
+
+2012
+
+3 653
+
+2013
+
+3 268
+
+6 000
+
+3 000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+Source : https://www.onisr.securite-routiere.gouv.fr
+1-a- Déterminer la variation absolue du nombre de tués sur les routes entre 2004 et
+2013.
+1-b- Déterminer la diminution moyenne par an du nombre de tués entre 2004 et 2013.
+2- En 2013, on a décidé de fixer comme objectif à l'horizon 2025 une poursuite de la
+baisse de la mortalité dans les mêmes conditions. On choisit de modéliser le nombre
+de tués sur les routes par la fonction affine 𝑓 définie sur [0 ; +∞[, par :
+𝑓(𝑥) = −231,5𝑥 + 469 316 où 𝑥 représente l'année.
+
+2-a- Tracer la représentation graphique de la fonction 𝑓 sur le graphique du document
+réponse fourni en annexe.
+2-b- À l'aide de ce modèle et du graphique tracé sur le document réponse en annexe,
+estimer, avec la précision permise par le graphique, le nombre de tués en 2025.
+3- En réalité, entre 2014 et 2021, le nombre de tués est donné par le tableau suivant :
+Année
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Nombre de
+tués
+
+3 384
+
+3 461
+
+3 477
+
+3 448
+
+3 248
+
+3 244
+
+2 541
+
+2 944
+
+Que peut-on penser du modèle choisi dans la question 2- ?
+Partie B
+On s’intéresse au lien éventuel entre l’âge d’un véhicule impliqué dans un accident et
+le type de gravité de celui-ci (on ne s'intéresse ici qu'aux véhicules de tourisme).
+Le tableau suivant présente le nombre de véhicules impliqués dans un accident de la
+circulation en 2021 en France, en fonction de son âge et de la gravité de l’accident
+(léger, grave non mortel ou mortel) :
+Âge 𝑥 du
+véhicule
+en années
+
+Accident
+léger
+
+Accident grave
+non mortel
+
+Accident mortel
+
+Total
+
+𝑥<5
+5 ≤ 𝑥 < 10
+
+10 407
+
+3 422
+
+14 403
+
+8 588
+
+3 185
+
+12 262
+
+10 ≤ 𝑥 < 20
+
+15 993
+
+6 369
+
+1 180
+
+23 542
+
+𝑥 ≥ 20
+
+2 606
+
+1 416
+
+4 339
+
+Total
+
+37 594
+
+14 392
+
+2 560
+
+54 546
+
+Nombre de véhicules de tourisme impliqués
+dans un accident de la circulation en 2021
+Source : https://www.data.gouv.fr
+
+On arrondira les résultats au millième si nécessaire.
+4-a- Calculer la fréquence de véhicules âgés de plus de 20 ans parmi les véhicules
+impliqués dans un accident.
+4-b- Calculer la fréquence des véhicules impliqués dans un accident léger parmi les
+véhicules de plus de 20 ans.
+On choisit au hasard un véhicule impliqué dans un accident (on suppose que tous les
+véhicules impliqués dans un accident ont la même probabilité d’être choisis).
+On appelle 𝐶 l’événement « le véhicule choisi a moins de cinq ans » et 𝐿 l’événement
+« le véhicule choisi est impliqué dans un accident léger ».
+5- Calculer la probabilité de l’événement 𝐶 et la probabilité de l’événement L.
+6- Décrire par une phrase l’événement 𝐶̅ puis calculer sa probabilité.
+7- Décrire par une phrase l’événement 𝐶 ∩ 𝐿 puis calculer sa probabilité.
+8-a- On choisit un véhicule âgé de moins de cinq ans impliqué dans un accident.
+Quelle est la probabilité qu’il soit impliqué dans un accident léger ?
+8-b- Pour un véhicule impliqué dans un accident, le fait d'être impliqué dans un
+accident léger est-il indépendant du fait d'être âgé de moins de cinq ans ? Justifier la
+réponse.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le Soleil, source de vie sur Terre ?
+Sur 12 points
+Le Soleil émet un rayonnement électromagnétique dans toutes les directions ; une
+partie de ce rayonnement est reçue par la Terre et constitue une source d’énergie
+essentielle à la vie. De même, l’atmosphère terrestre contribue à créer des conditions
+propices à la vie sur Terre.
+Partie 1. Le rayonnement solaire
+Document 1 : spectre du rayonnement émis par le Soleil en fonction de la longueur
+d’onde
+
+D’après
+
+https://www.ilephysique.net/img/forum_img/0258/forum_258713_1.jpg
+
+La relation entre la température en degrés Celsius θ (°C) et la température absolue T
+en kelvins (K) est : T(K) = 273 + θ(°C).
+Le Soleil peut être modélisé par un corps noir, qui émet un rayonnement thermique
+correspondant à une température d’environ 5800 K.
+La loi de Wien est la relation entre la température de surface T d’un corps et la longueur
+d’onde λmax au maximum d’émission :
+λmax × T = 2,90 ×10-3 m.K
+
+avec T en kelvins et λmax en mètres.
+
+1- Déterminer approximativement, à partir du document 1, la valeur de la longueur
+d’onde correspondant au maximum d’intensité du rayonnement solaire hors
+atmosphère ?
+2- Justifier par un calcul que dans l’hypothèse où le soleil est modélisé par un corps
+noir, sa température de surface est voisine de 5800 K.
+Document 2 : schéma du bilan énergétique terrestre
+
+Le schéma précédent présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère. L’albédo terrestre moyen est de 30 %.
+Les flèches pleines correspondent à des transferts radiatifs. Les flèches hachurées
+correspondent à des transferts mixtes- radiatifs et non radiatifs.
+Sont précisés : les puissances par unité de surface associées à chaque transfert et
+le pourcentage qu’elles représentent relativement à la puissance solaire incidente
+(342 W∙m-2).
+Document créé par l’auteur
+
+3- Définir l’albédo terrestre à l’aide de vos connaissances.
+4- À partir des valeurs indiquées dans le document 2, montrer que le bilan énergétique
+à la surface de la Terre est équilibré, autrement dit que la puissance que la Terre reçoit
+est égale à celle qu’elle fournit à l’extérieur. Montrer que cela est également le cas
+pour le système global Terre-atmosphère.
+
+Partie 2. La conversion de l’énergie solaire
+
+Document 3 : spectre des chlorophylles
+Les organismes chlorophylliens renferment
+de nombreux pigments
+photosynthétiques comme les chlorophylles a et b, et les caroténoïdes. En faisant
+traverser par de la lumière blanche (spectre 1), des solutions contenant chacune un
+seul de de ces pigments, on obtient les spectres suivants : chlorophylle a (spectre 2),
+chlorophylle b (spectre 3) et caroténoïdes (spectre 4).
+
+D’après http://www.snv.jussieu.fr/bmedia/Photosynthese/exp233.html
+
+5- Pour chacune des propositions suivantes (5.1 à 5.3), indiquer la bonne réponse.
+5-1- Ces différents spectres nous permettent alors :
+a- de déterminer la température de la plante.
+b- d’en déduire la composition chimique des pigments.
+c- d’en déduire les longueurs d’ondes absorbées par chaque pigment
+photosynthétique.
+d- d’en déduire la quantité de chaque pigment.
+
+5-2- Dans la cellule, l’énergie solaire captée par les pigments photosynthétiques :
+a- permet la synthèse de la matière minérale.
+b- permet la synthèse de la matière organique.
+c- permet la consommation de matière organique.
+d- permet la consommation de dioxygène.
+5-3- L’être humain est dépendant de l’énergie solaire utilisée par les plantes pour son
+fonctionnement car, en présence de lumière et lors de la photosynthèse, les
+plantes produisent :
+a- matière organique et O2 .
+b- matière organique et CO2 .
+c- matière minérale et O2 .
+d- matière minérale et CO2.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Un décret qui fait grand bruit
+Sur 12 points
+« À partir d'aujourd'hui, les salles de spectacles, mais aussi les cinémas et les festivals
+vont devoir limiter le maximum de leur volume sonore, en le baissant de 105 décibels
+(c'était jusqu'ici la norme) à 102. C'est donc 3 décibels en moins. Cela n'a l'air de rien
+comme ça, mais cela revient tout de même à diviser par deux l’intensité sonore. 102
+décibels, cela reste toutefois encore beaucoup. Beaucoup trop disent certains, des
+médecins notamment, qui rappellent par exemple qu'un marteau piqueur équivaut à
+100 décibels. »
+D’après un article de https://www.rtl.fr publié le 01/10/2018
+
+1- À partir du document 1 et de vos connaissances, expliquer pourquoi il est nécessaire
+de baisser le niveau sonore dans les salles de spectacles. Une réponse argumentée
+et structurée est attendue.
+Document 1. Vues de surface d'une cochlée de chat avant et après des traumatismes
+auditifs
+La cochlée représente la partie auditive de l'oreille interne. On observe une cochlée
+de chat au microscope électronique à balayage dans différentes conditions.
+Partie de cochlée
+normale
+
+On observe une
+rangée de cellules
+ciliées internes (CCI)
+et 3 rangées de
+cellules ciliées
+externes (CCE).
+
+CCI
+
+CCE
+
+Les cellules ciliées
+sont toutes visibles.
+Cils vibratiles des cellules de la CCE
+
+Partie de cochlée
+après une exposition à
+un son pur de 8 kHz à
+120 dB pendant 20
+minutes
+
+CCI
+
+Les cils vibratiles des
+cellules ciliées internes
+sont absents ainsi que
+certains des cellules
+ciliées externes
+
+CCE
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/4361/MS_1991_4_357.pdf?sequence=1
+
+2- À partir de vos connaissances et des documents 2, 3 et 4, expliquer les précautions
+à adopter afin de réduire les risques d’un traumatisme sonore au niveau de l’oreille
+interne. Une réponse argumentée et structurée est attendue.
+Document 2. Effet d’un bouchon d’oreille sur le niveau sonore d’un son au sein de
+l’oreille interne en fonction de sa fréquence
+
+Son sans
+protection
+(dB)
+
+Niveau sonore (dB)
+
+Son avec
+bouchon
+mousse (dB)
+
+Son avec
+bouchon
+silicone (dB)
+
+-10
+
+1000
+
+10000
+
+Fréquence (Hz)
+
+D’après https://www.lesnumeriques.com/accessoire-audio/risques-auditifs-quelle-protectionauditive-choisir-a3795.html
+
+Document 3. Durées admissibles d’exposition quotidienne au bruit
+
+Ce document indique la durée admissible
+d’exposition quotidienne au bruit à différents
+niveaux d’intensité en décibels (dB). Au-dessous
+de 80 dB, il n’y a pas de risque de dégradation
+brutale de l’audition.
+D’après https://www.journee-audition.org/pdf/guidejeunes.pdf
+
+Document 4. Évolution du niveau sonore en fonction de la distance à la scène du
+concert
+
+Niveau sonore (dB)
+
+Distance (m)
+
+3- Louise écoute son groupe de rock préféré et ne veut rien rater du concert dont elle
+ne connait pas la durée exacte.
+Pour cela, elle se met au plus près de la scène à une distance d’environ 1,0 m.
+Les mesures effectuées par les techniciens de la salle montrent que le groupe respecte
+la nouvelle législation en vigueur : le niveau sonore à l’endroit où est Louise est de
+101 dB. Pourtant au bout de quelques minutes, Louise ressent une gêne et décide de
+s’éloigner un peu de la scène.
+À partir des documents 3 et 4, déterminer graphiquement à quelle distance de la scène
+Louise doit se placer pour être sûre de ne subir aucun risque de dégradation brutale
+de son audition.
+
+Document réponse à rendre avec la copie
+Exercice 1
+Étude de l’accidentologie

@@ -1,0 +1,390 @@
+{"pages": 13, "method": "pdftotext", "bytes": 623436, "at": "2026-11-23T09:27:09+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme : Analyser, Modéliser et résoudre
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 13
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 7 à 10
+
+Documents réponses ................................................... Pages 11 à 13
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+PRÉSENTATION
+Une des attractions touristiques les plus célèbres
+de la ville de Nantes est le grand éléphant des
+Machines de l’île (figure 1).
+D’une longueur de 21 m, d’une hauteur de 12 m
+et d’une largeur de 8 m, cet éléphant pèse 49
+tonnes et est capable de transporter 50
+passagers pour leur faire visiter le quartier autour
+des Nefs, anciennes halles industrielles
+restaurées constituant un espace public couvert
+et ouvert à chaque extrémité (figure 2).
+
+Figure 1 : photo de l’éléphant
+
+L’éléphant est un véhicule hybride fonctionnant avec de l’énergie thermique ou
+électrique. Il possède quatre roues et un châssis sur lequel est montée une structure
+représentant un éléphant. Ses différents mouvements sont assurés par une
+machinerie composée, entre autres, de 62 vérins (hydrauliques et pneumatiques) et
+de 12 moteurs (électriques et hydrauliques).
+Il effectue toujours le même circuit sur une esplanade située sur l’ancien site des
+chantiers navals et passe à chaque tour sous les Nefs, où il s’arrête la nuit. Un extrait
+du circuit est présenté sur la figure 2.
+
+Figure 2 : extrait du
+circuit de l’éléphant à
+proximité des Nefs
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Lors de son passage sous les nefs, l’éléphant utilise l’énergie électrique stockée
+dans ses batteries. Le mouvement d’avance est alors assuré par des moteurs
+électriques asynchrones, qui entrainent les deux roues arrière par l’intermédiaire de
+réducteurs de rapport de réduction r (r = 1/115).
+Problématique : vérifier que la commande des moteurs électriques permet à
+l’éléphant d’effectuer son déplacement sur le circuit, aux vitesses souhaitées.
+Question I-1
+
+Indiquer deux critères justifiant le choix de l’utilisation de l’énergie
+électrique lors du déplacement de l’éléphant sous les Nefs.
+
+Question I-2
+
+Sur le schéma du document réponse DR1, indiquer, sur chaque lien
+de puissance, les deux grandeurs effort et flux, avec leur unité.
+
+DR1
+
+Afin d’assurer la sécurité des touristes, aucune des parties de l’éléphant ne doit se
+déplacer à une vitesse supérieure à 3 km·h-1.
+Les deux roues arrière motrices et les deux roues avant considérées comme
+« folles » (rotation libre autour de leur axe horizontal) sont représentées sur la figure
+4.
+La distance entre les deux roues arrière est de 6 m. Les deux roues arrière ont un
+diamètre de 1,4 m.
+
+Figure 4 : schéma du châssis et des
+quatre roues
+
+Figure 5 : schéma de la roue arrière
+droite sur le sol
+
+Le vecteur vitesse 𝑉
+(𝐶,1/0) représente la vitesse du point C (figure 5) appartenant au
+châssis 1 par rapport au sol 0. La vitesse périphérique de la roue arrière droite est
+notée ‖𝑉
+(𝐼,2/1) ‖.
+
+On admet que ‖𝑉
+(𝐶,1/0) ‖ = ‖𝑉(𝐼,2/1) ‖ quand l’éléphant avance en ligne droite sous les
+Nefs à la vitesse de 3 km·h-1. Les contacts roues/sol sont supposés sans glissement.
+Question I-3
+
+Indiquer si les deux roues arrière tournent à la même vitesse lors
+d’un déplacement en ligne droite et calculer :
+- la vitesse périphérique de la roue arrière droite ‖𝑉
+(𝐼,2/1) ‖ ;
+⃗⃗⃗⃗⃗⃗⃗⃗
+- la vitesse angulaire de la roue arrière droite ‖Ω
+2/1 ‖ ;
+- la vitesse de rotation Nd du moteur asynchrone entrainant
+cette roue, en tr·min-1.
+
+Lorsque l’éléphant rentre sous les
+nefs, il effectue un virage. La
+trajectoire du point A du châssis 1
+par rapport au sol 0 est alors un
+arc de cercle de centre O et de
+rayon 20 m (voir schéma sur le
+document réponse DR2).
+La roue arrière droite tourne à la
+même vitesse qu’à la question Q13, ainsi le point C, centre de la
+roue arrière droite se déplace
+encore à la vitesse de 3 km·h-1 par
+rapport au sol 0.
+
+Figure 6 : schéma de la roue arrière
+gauche sur le sol
+
+Le
+vecteur
+vitesse
+𝑉(𝐶,1/0)
+représentant la vitesse du point C
+appartenant au châssis 1 par
+rapport au sol 0, est tracé sur le
+document réponse DR2 à l’échelle
+5 cm pour 1 km·h-1.
+Question I-4
+DR2
+
+Indiquer si, dans le virage, les deux roues arrière tournent à la
+même vitesse et tracer sur le document réponse DR2 la trajectoire
+du point B appartenant au châssis 1 par rapport au sol 0 (figure 6).
+
+Question I-5
+DR2
+
+Déterminer graphiquement ou par le calcul le vecteur vitesse du
+point B appartenant au châssis 1 par rapport au sol 0 et calculer :
+- la vitesse périphérique de la roue arrière gauche ‖𝑉
+(𝐽,3/1) ‖ ;
+⃗⃗⃗⃗⃗⃗⃗⃗
+- la vitesse angulaire de la roue arrière gauche ‖Ω
+3/1 ‖ ;
+- la vitesse de rotation Ng du moteur asynchrone de cette roue
+en tr·min-1.
+
+Les moteurs asynchrones sont alimentés par des variateurs. Ces derniers permettent
+de faire varier la fréquence de la tension d’alimentation des moteurs pour obtenir les
+vitesses de rotation souhaitées.
+La fréquence des variateurs est réglée pour assurer les vitesses de rotation des
+moteurs arrières droit et gauche.
+La plage de réglage des fréquences sur le variateur est comprise entre 0 et 100 Hz.
+- fg : fréquence commande du variateur gauche.
+- fd : fréquence commande du variateur droit.
+- Ng : vitesse rotation moteur gauche.
+- Nd : vitesse rotation moteur droit.
+Des mesures ont été effectuées sur les variateurs et sont présentées figure 7.
+
+Figure 7 : caractéristique des variateurs
+
+Question I-6
+DR3
+
+Compléter le tableau sur le document réponse DR3 en indiquant les
+valeurs de fréquence à programmer dans les variateurs, permettant à
+l’éléphant de réaliser les déplacements en ligne droite et en virage
+avec une vitesse de 3 km·h-1 pour la roue arrière droite.
+Indiquer si ce variateur permet à l’éléphant de réaliser les
+déplacements en ligne droite et en virage aux vitesses souhaitées
+pour les roues droite et gauche.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+La nuit l’éléphant est stationné sous la Nef et ses yeux sont fermés. Quand il est
+remis en fonctionnement le matin « au réveil », il est souhaité que les mouvements
+de ses yeux permettent de simuler une expression de méfiance et de crainte.
+Problématique : analyser les mouvements de l’iris de l’œil et de la paupière en vue
+d’élaborer l’algorithme de commande de l’iris.
+La figure 8 présente les angles de rotation des paupières et de l’iris en fonction du
+temps.
+
+Figure 8 : relevés de la position angulaire de la paupière gauche et de la
+position angulaire de l’iris gauche « au réveil de l’éléphant » en fonction du
+temps
+
+Question II-1
+
+Expliquer comment les mouvements de la paupière et de l’iris
+permettent de simuler l’expression de l’éléphant au réveil.
+Déterminer, à partir de la figure 8 :
+- les durées que met la paupière pour s’ouvrir puis se fermer ;
+- la durée pendant laquelle la paupière reste ouverte et celle
+pendant laquelle elle est fermée ;
+- les valeurs extrêmes des angles de rotation de la paupière et de
+l’iris.
+
+L’iris est posé sur un œil sphérique entrainé en rotation autour de son axe vertical au
+moyen d’un moteur pas à pas, en raison de son faible coût et de sa facilité de mise
+en œuvre.
+Le nombre de pas par tour du moteur pas à pas est de 200.
+Pour passer d’une position latérale extrême à l’autre, l’angle de rotation de l’iris varie
+de -72° à +72° en 2 secondes.
+
+Question II-2
+
+Déterminer, la résolution angulaire du moteur, c’est-à-dire l’angle de
+rotation du moteur à chaque pas.
+
+Question II-3
+
+Calculer le nombre de pas à programmer pour déplacer l’iris :
+- de la position médiane à la position extrême gauche ;
+- de la position extrême gauche à la position extrême droite.
+Calculer en combien de temps le moteur doit effectuer un pas.
+
+On s’intéresse maintenant à l’algorithme qui permet de commander la rotation de
+l’iris.
+Les variables à utiliser dans l’algorithme sont définies dans le tableau de la figure 9.
+
+Variable
+t
+
+Initialisation
+
+# durée d’un
+
+Fonction de rotation du moteur pas
+avec la durée du pas t en paramètre
+rotationHoraire(t) #rotation sens horaire
+d’un pas de durée t
+
+pas en ms
+
+Compteur
+
+NbMin
+
+# nombre de
+pas à programmer pour
+un déplacement à la
+position extrême gauche
+
+- 40
+
+NbMax
+
+# nombre de
+pas à programmer pour
+un déplacement à la
+position extrême droite
+
+rotationAntiHoraire(t) #rotation sens
+antihoraire d’un pas de durée t
+
+Figure 9 : définition des variables de l’algorithme
+
+Question II-4
+DR4
+
+Compléter, sur le document réponse DR4, les trois parties de
+l’algorithme de commande du mouvement de l’iris. On commence la
+commande 5 s après « son réveil » jusqu’à son arrêt en position
+médiane.
+
+Une analyse vidéo du mouvement de l’iris gauche de l’éléphant a permis de relever
+son déplacement latéral programmé en fonction du temps (figure 10).
+
+trait plein : déplacement latéral de l'iris souhaité
+pointillé : déplacement latéral relevé expérimentalement
+
+Angle de rotation en degré
+
+2000
+-20
+
+2500
+
+3000
+
+3500
+
+4000
+
+4500
+
+5000
+
+5500
+
+6000
+
+6500
+
+7000
+
+7500
+
+8000
+
+8500
+
+9000
+
+9500 10000
+
+-40
+-60
+-80
+
+Question II-5
+
+Temps en ms
+Temps
+en ms
+Figure 10 : déplacement latéral de l’iris
+
+Quantifier les écarts de performances (amplitude et durée des
+déplacements) entre le déplacement attendu (trait plein du graphe) et
+le déplacement mesuré (trait pointillé du graphe) pour le mouvement
+latéral de l’iris.
+Proposer, si besoin, une modification de l’algorithme pour réduire
+ces écarts.
+
+DOCUMENTS RÉPONSES
+
+DR1- QI-2
+
+DR2 - QI-4 et QI-5
+
+Ligne droite
+
+DR3 - QI-6
+
+droite
+
+Virage
+
+gauche
+
+droite
+
+Vitesse de rotation
+du moteur
+Fréquence du
+variateur
+
+DR4 - QII-4
+Début
+# initialisation – mise en position médiane (regard de face) de l’iris
+Compteur  0
+partie 1 à
+# rotation de l’iris vers son extrémité gauche
+Pour (compteur de 0 à NbMin)
+|
+rotationAntiHoraire(t)
+FinPour
+# rotation de l’iris de la gauche vers la droite (au maximum)
+…......
+partie 2 à
+# rotation de l’iris de la gauche au milieu
+
+partie 3 à
+
+gauche

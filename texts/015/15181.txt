@@ -1,0 +1,273 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1479026, "at": "2026-11-23T09:30:27+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Commercialisation d’un produit
+Sur 8 points
+Les deux parties peuvent être traitées séparément.
+Une petite entreprise fabrique des objets de décoration.
+Elle les vend dans deux magasins A et B.
+Partie A
+Le coût de fabrication annuel des objets de décoration, en euros, peut être modélisé
+par une fonction 𝐶 définie sur [0 ; 250] par 𝐶(𝑥) = 𝑥 2 + 100𝑥 + 50 où 𝑥
+représente le nombre d’objets fabriqués pendant l’année.
+1- Quel est le coût annuel, en euros, pour la fabrication de 100 objets de
+décoration ?
+Chaque objet de décoration est vendu 300 €. On note 𝐵 la fonction définie sur
+[0 ; 250] modélisant le bénéfice annuel.
+2- Montrer que 𝐵(𝑥) = −𝑥 2 + 200𝑥 − 50 où 𝑥 représente le nombre d’objets
+fabriqués pendant l’année.
+3- On admet que la fonction 𝐵 est dérivable sur [0 ; 250].
+3-a- Déterminer 𝐵′(𝑥) pour 𝑥 ∈ [0 ; 250].
+3-b- Dresser le tableau des variations de la fonction 𝐵 sur [0 ; 250].
+3-c- En déduire le nombre d’objets de décoration à fabriquer et à vendre pendant
+l’année afin que le bénéfice annuel soit maximal et donner le montant de ce
+bénéfice.
+
+Partie B
+En 2020, l’entreprise dépose 50 objets de décoration dans le magasin A et 50 objets
+de décoration dans le magasin B. Pensant pouvoir améliorer son coût de production,
+elle s’engage à déposer, tous les ans, 5 objets de plus dans le magasin A et 8%
+d’objets en plus dans le magasin B.
+On représente par 𝑎𝑛 et par 𝑏𝑛 le nombre d’objets déposés respectivement dans les
+magasins A et B l’année (2020 + 𝑛) où 𝑛 désigne un entier naturel.
+4-a- Pour tout entier naturel 𝑛, exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+4-b- Quelle est la nature de la suite de terme général 𝑎𝑛 ?
+4-c- Selon ce modèle, combien d’objets seront déposés dans le magasin A en
+2025 ?
+5-a- Quelle est la nature de la suite (𝑏𝑛 ) ? En préciser les éléments caractéristiques.
+5-b- Selon ce modèle, combien d’objets seront déposés dans le magasin B en
+2025 ?
+6-a- Pour tout entier naturel 𝑛 compris entre 0 et 9, construire dans un même repère
+les points de coordonnées (𝑛, 𝑎𝑛 ) et (𝑛, 𝑏𝑛 ). On prendra 1 cm pour 1 sur l’axe des
+abscisses et 1 cm pour 5 sur l’axe des ordonnées en commençant à 50.
+6-b- En utilisant la représentation graphique précédente et en expliquant la
+démarche, donner l’année à partir de laquelle le nombre d’objets déposés dans le
+magasin B sera supérieur au nombre d’objets déposés dans le magasin A ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le Soleil, source de vie sur Terre ?
+Sur 12 points
+Le Soleil émet un rayonnement électromagnétique dans toutes les directions ; une
+partie de ce rayonnement est reçue par la Terre et constitue une source d’énergie
+essentielle à la vie. De même, l’atmosphère terrestre contribue à créer des
+conditions propices à la vie sur Terre.
+Partie 1 – Le rayonnement solaire
+Document 1 – Spectre du rayonnement émis par le Soleil en fonction de la
+longueur d’onde
+
+Source : D’après https://www.ilephysique.net/img/forum_img/0258/forum_258713_1.jpg
+
+La relation entre la température en degrés Celsius θ (°C) et la température absolue T
+en kelvins (K) est : T(K) = 273 + θ(°C).
+Le Soleil peut être modélisé par un corps noir, qui émet un rayonnement thermique
+correspondant à une température d’environ 5800 K.
+La loi de Wien est la relation entre la température de surface T d’un corps et la
+longueur d’onde λmax au maximum d’émission :
+λmax × T = 2,90 ×10-3 m.K
+
+avec T en kelvins et λmax en mètres.
+
+1- Déterminer approximativement, à partir du document 1, la valeur de la longueur
+d’onde correspondant au maximum d’intensité du rayonnement solaire hors
+atmosphère.
+2- Justifier par un calcul que dans l’hypothèse où le soleil est modélisé par un corps
+noir, sa température de surface est voisine de 5800 K.
+La loi de Stefan relie la puissance 𝑃 de rayonnement d’un corps noir à sa
+température de surface 𝑇 selon la relation suivante :
+𝑃 = 𝜎 × 𝑇4
+
+avec 𝜎 la constante de Stefan égale à 5,67×10-8 W.m-2.K-4.
+
+3- En utilisant la loi de Stefan, calculer la puissance de rayonnement du Soleil.
+4- Définir l’albédo terrestre évoqué dans le document 2 page suivante à l’aide de
+vos connaissances.
+5- À partir des valeurs indiquées dans le document 2, montrer que le bilan
+énergétique à la surface de la Terre est équilibré, autrement dit que la puissance
+que la Terre reçoit est égale à celle qu’elle fournit à l’extérieur. Montrer que cela
+est également le cas pour le système global Terre-atmosphère.
+
+Document 2 – Schéma du bilan énergétique terrestre
+
+Le schéma précédent présente les flux énergétiques émis, diffusés et réfléchis par
+les différentes parties de l’atmosphère. L’albédo terrestre moyen est de 30 %.
+Les flèches pleines correspondent à des transferts radiatifs. Les flèches hachurées
+correspondent à des transferts mixtes- radiatifs et non radiatifs.
+Sont précisés : les puissances par unité de surface associées à chaque transfert et
+le pourcentage qu’elles représentent relativement à la puissance solaire incidente
+(342 W∙m-2).
+Source : Document créé par l’auteur
+
+Partie 2 – La conversion de l’énergie solaire
+
+Document 3 – Spectre des chlorophylles
+Les organismes chlorophylliens renferment de nombreux pigments
+photosynthétiques comme les chlorophylles a et b, et les caroténoïdes. En faisant
+traverser par de la lumière blanche (spectre 1), des solutions contenant chacune
+un seul de de ces pigments, on obtient les spectres suivants : chlorophylle a
+(spectre 2), chlorophylle b (spectre 3) et caroténoïdes (spectre 4).
+
+Source : D’après http://www.snv.jussieu.fr/bmedia/Photosynthese/exp233.html
+
+6- Pour chacune des propositions suivantes (6-1 à 6-3), indiquer la bonne réponse.
+6-1- Ces différents spectres nous permettent alors :
+a- de déterminer la température de la plante.
+b- d’en déduire la composition chimique des pigments.
+c- d’en déduire les longueurs d’ondes absorbées par chaque pigment
+photosynthétique.
+d- d’en déduire la quantité de chaque pigment.
+
+6-2- Dans la cellule, l’énergie solaire captée par les pigments photosynthétiques :
+a- permet la synthèse de la matière minérale.
+b- permet la synthèse de la matière organique.
+c- permet la consommation de matière organique.
+d- permet la consommation de dioxygène.
+6-3- L’être humain est dépendant de l’énergie solaire utilisée par les plantes pour
+son fonctionnement car, en présence de lumière et lors de la photosynthèse,
+les plantes produisent :
+a- matière organique et O2.
+b- matière organique et CO2.
+c- matière minérale et O2.
+d- matière minérale et CO2.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Peut-on retrouver des témoins des conditions nécessaires au
+développement de la vie sur la planète Mars ?
+Sur 12 points
+Depuis février 2021, le robot Perseverance est chargé d’une mission d’envergure sur
+la planète Mars : collecter des dizaines d’échantillon de roches.
+Perseverance a récemment découvert des preuves géologiques de l’existence d’une
+grande rivière à fort débit qui dévalait jadis le terrain martien.
+Source : Site internet Sciencepost Juillet 2023
+
+Dans cet exercice nous nous intéresserons dans un premier temps à la présence de
+l’eau sur Mars. Puis nous étudierons plus en détail la structure de la glace.
+Quelle eau sur la planète Mars ?
+Document 1 – Quelques caractéristiques des planètes Mars et Terre
+Planète
+
+Mars
+
+Terre
+
+Distance au Soleil (en km)
+
+2,3 × 108
+
+1,5 × 108
+
+Masse de la planète (en kg)
+
+6,4 × 1023
+
+6,0 × 1024
+
+Épaisseur de l’atmosphère
+(en km)
+
+≈ 100
+
+Principaux gaz de l’atmosphère
+(en % du volume)
+
+CO2 (95,3 %) ;
+N2 (3,5 %) ; traces de
+H2O et O2
+
+N2 (78,1 %) ;
+O2 (21,0 %) ; H2O (1 %) ;
+traces de CO2
+
+Température minimale (°C)
+
+-126
+
+-88
+
+Température maximale (°C)
+
+Pression atmosphérique de
+surface (en Pa)
+
+6 × 102
+
+1 × 105
+
+Source : D’après SVT 2de, programme 2010, édition Nathan.
+
+Document 2 – De l’eau sur Mars
+Mars est entourée d’une atmosphère contenant, entre autres, de la vapeur d’eau.
+La température sur Mars oscille entre 20 °C et -120 °C environ pour une valeur
+moyenne voisine de -50 °C.
+Des observations ont montré la présence d’une calotte de glace au pôle Nord de
+Mars constituée pour 15 % d’eau.
+Source : D’après SVT 2de, programme 2010, édition Nathan.
+
+Document 3 – Diagramme de phases de l’eau
+
+1 atm = 1 x 10-5 Pa
+Source : D’après lelivrescolaire.fr
+
+Document 4 – La recette pour la vie
+Pour qu’apparaisse la vie telle qu’on la connaît sur Terre il faut :
+
+Des atomes de carbone, d’hydrogène, d’oxygène, d’azote, de phosphore et
+de soufre. On les trouve en abondance dans l’Univers rassemblés au sein
+de molécules comme l’eau (H2O).
+
+De l’eau sous forme liquide, indispensable pour former des plus grosses
+molécules.
+
+De l’énergie qui peut provenir de différentes sources : énergie
+géothermique, énergie solaire…
+Source : D’après SVJ n°335 août 2017
+
+1- a) Comparer les pressions atmosphériques des planètes Mars et Terre et donner
+un ordre de grandeur comparatif.
+b) Sachant que 1 atm = 1 x 10-5 Pa, convertir les pressions atmosphériques des
+planètes Mars et Terre en atm, en donnant le résultat sous forme décimale.
+2- À l’aide des documents 1 à 3, préciser si on peut trouver actuellement de l’eau
+liquide sur Mars. Vous compléterez le graphique du document réponse donné en
+annexe pour argumenter votre réponse.
+3- À partir des documents proposés, préciser si les conditions nécessaires au
+développement de la vie sur la planète Mars sont actuellement réunies. Justifier.
+4- Interpréter les observations effectuées par Persévérance datées de juillet 2023.
+5- Déterminer le facteur limitant à l’existence de la vie sur mars aujourd’hui.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 2
+
+Graphique pour argumenter la réponse.

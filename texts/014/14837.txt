@@ -1,0 +1,400 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1268531, "at": "2026-11-23T09:41:26+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de la soustraction en écriture binaire
+1010 1101 + 101 1000 ?
+1101
+1000 0101
+1 0000 0101
+Question A 2
+Quelle est la représentation binaire en complément à deux sur huit bits du nombre –3 ?
+1000 0011
+1111 1100
+1111 1101
+1 0000 0011
+Question A 3
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+Question A 4
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+2 × 32
+Question A 5
+
+Quelle est l'écriture décimale de l'entier qui s'écrit 1010 en binaire ?
+Question A 6
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+c = False
+if a==b:
+c = True
+if a > b+10:
+c = True
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+
+Thème B : types construits
+Question B 1
+Après l'affectation suivante :
+alphabet = [
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
+'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' ]
+
+Quelle est l'expression qui permet d'accéder à la lettre E ?
+alphabet.E
+alphabet['E']
+alphabet[4]
+alphabet[5]
+Question B 2
+On définit une liste : L = [1, 1, 2, 9, 3, 4, 5, 6, 7].
+Quelle expression a-t-elle pour valeur la liste [4, 16, 36] ?
+[(x * x) % 2 == 0 for x in liste]
+[x for x in liste if x % 2 == 0]
+[x * x for x in liste]
+[x * x for x in liste if x % 2 == 0]
+Question B 3
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+Question B 4
+On considère le dictionnaire
+D = {1: 3, 2: 4, 3: 5, 4: 2, 5: 1}
+Quelle est la valeur de D[D[D[2]]] ?
+Question B 5
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 6
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+
+Thème C : traitement de données en tables
+Question C 1
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+Question C 2
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+Question C 3
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C 4
+On définit la fonction suivante qui prend en argument un tableau non vide d'entiers.
+def f(T):
+s = 0
+for k in T:
+if k == 8:
+s = s+1
+if s > 1:
+return True
+else:
+return False
+Dans quel cas cette fonction renvoie-t-elle la valeur True ?
+
+dans le cas où 8 est présent au moins une fois dans le tableau T
+dans le cas où 8 est présent au moins deux fois dans le tableau T
+dans le cas où 8 est présent exactement une fois dans le tableau T
+dans le cas où 8 est présent exactement deux fois dans le tableau T
+Question C 5
+On exécute le script suivant :
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 6
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+Question D 2
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "blue"
+}
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D 3
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 4
+Parmi les réponses suivantes, que permet d’effectuer la méthode POST du protocole HTTP ?
+Définir le style d’une page web
+Pirater des données bancaire
+Envoyer une page web vers le client
+Envoyer les données saisies dans un formulaire HTML vers un serveur
+
+Question D 5
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 6
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Laquelle de ces écritures ne désigne pas une adresse IP ?
+127.0.0.1
+207.142.131.245
+192.168.229.48
+296.141.2.4
+Question E 2
+Dans un terminal sous Linux, quelle commande permet d'afficher la liste des fichiers du répertoire courant ?
+ls
+cd
+mv
+rm
+Question E 3
+Vous soupçonnez que des paquets se perdent entre votre ordinateur et leur destination.
+Quelle commande utiliseriez-vous pour trouver la source du problème efficacement ?
+ping
+ipconfig
+traceroute
+nslookup
+Question E 4
+Parmi les commandes suivantes, laquelle permet à n’importe quel utilisateur d’exécuter le fichier appelé jeu ?
+chmod u+x jeu
+chmod u+rwx jeu
+chmod a+x jeu
+chmod a-x jeu
+Question E 5
+Quelles sont les quatre parties distinctes de l’architecture de Von Neumann ?
+L’unité logique, l’unité de contrôle, la mémoire et les dispositifs d’entrée-sortie
+L’écran, le clavier, le disque dur et le micro-processeur
+Le disque dur, le micro-processeur, la carte-mère et la carte graphique
+La mémoire des programmes, la mémoire des données, les entrées-sorties et l’unité logique
+
+Question E 6
+
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+
+Thème F : langages et programmation
+Question F 1
+On a écrit une fonction qui prend en paramètre une liste non vide et qui renvoie son plus grand élément.
+Combien de tests faudrait-il écrire pour garantir que la fonction donne un résultat correct pour toute liste ?
+deux tests : pour une liste à un élément et pour une liste à deux éléments ou plus
+deux tests : pour le cas où le plus grand élément est en début de liste, et pour le cas où le plus grand
+élément n’est pas en début de liste
+trois tests : pour une liste vide, pour une liste à un élément, et pour une liste à deux éléments ou plus
+il faudrait écrire une infinité de tests : on ne peut pas prouver que cette fonction est correcte, simplement
+en la testant
+Question F 2
+On exécute le script suivant :
+resultat = [1 * 7]
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+Question F 3
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 4
+On considère le code suivant
+def moyenne(notes):
+somme = 0
+for cpt in range(len(notes)):
+....
+m = somme/len(notes)
+return m
+Par quoi remplacer la ligne en pointillée pour que cette fonction calcule la moyenne d'une liste de nombres ?
+somme = somme + notes[cpt]
+somme = notes[cpt]
+
+somme = cpt
+somme = somme + cpt
+
+Question F 5
+Lequel des langages suivants n'est pas un langage de programmation :
+PHP
+Javascript
+HTML
+Python
+Question F 6
+Karine écrit une bibliothèque Python, nommée GeomPlan, de géométrie plane dont voici un extrait :
+import math
+def aireDisque(R):
+return math.pi * R**2
+Gilles utilise cette bibliothèque pour calculer l'aire d'un disque de rayon 8.
+Laquelle des instructions suivantes renvoie un message d'erreur ?
+import GeomPlan
+GeomPlan.aireDisque(8)
+
+import GeomPlan
+
+from GeomPlan import *
+
+from GeomPlan import aireDisque
+
+Thème G : algorithmique
+Question G 1
+Que fait la fonction suivante :
+def trouver(L):
+i = 0
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+Question G 2
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+Question G 3
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+Un algorithme glouton permet de :
+
+trier des données
+trouver des solutions localement optimales
+parcourir un tableau
+faire un apprentissage automatique
+Question G 5
+À quelle catégorie appartient l’algorithme des k plus proches voisins ?
+algorithmes de tri
+algorithmes gloutons
+algorithmes de recherche de chemins
+algorithmes de classification et d’apprentissage
+Question G 6
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'

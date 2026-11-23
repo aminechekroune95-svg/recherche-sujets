@@ -1,0 +1,244 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1539552, "at": "2026-11-23T09:25:38+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme, un circuit
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+SUJET SI-E3C-25-01
+
+Constitution du sujet
+
+Étude d'une performance du produit ............................................... Pages 4 à 6
+
+Commande du fonctionnement du produit ou modification de son
+comportement ................................................................................... Pages 7 à 9
+
+Documents réponses ........................................................................ Pages 10 à 11
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en
+durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les
+candidats doivent mobiliser leurs compétences et les connaissances associées pour
+qualifier et/ou quantifier cette performance, à partir de l'analyse, de la modélisation
+de tout ou partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+Présentation du Produit
+Stéphane Rachmulh et Antoine d'Acremont, deux entrepreneurs français férus de
+bicyclette, ont trouvé la solution pour transformer n'importe quel vélo en vélo à
+assistance électrique (VAE). Leur concept : Rool'in.
+Le Rool’in est une roue électrique amovible que vous pouvez installer sur votre
+vélo. Elle remplace la roue avant de votre bicyclette.
+
+Le système Rool’in se compose d’une roue avant dont le moyeu contient un moteur
+électrique, des batteries et un capteur de vitesse, d’un détecteur de pédalage, d’un
+détecteur de freinage et d’une console électronique. Dès qu’un mouvement de
+pédalage est détecté, la console électronique transmet, par WiFi, l’ordre au moteur
+électrique de se mettre à tourner.
+Le moteur fournit ainsi une assistance électrique tant que la vitesse, surveillée par le
+capteur intégré dans la roue, ne dépasse pas 25 kmh-1, la limite légale autorisée en
+Europe.
+
+Étude d'une performance du produit
+Problématique : la batterie du Rool’in permet-elle de satisfaire les attentes des
+usagers en matière d’autonomie ?
+La roue Rool’in, comme tous les vélos à assistance électrique, fait l’objet d’une
+certification afin d’être classée dans la catégorie cycle et non cyclomoteur (catégorie
+nécessitant le port d’un casque et la prise d’une assurance particulière).
+Cette certification impose trois contraintes :
+ arrêt du moteur dès que le cycliste arrête de pédaler ou freine,
+ arrêt du moteur lorsque la vitesse atteint ou dépasse 25 kmh-1,
+ puissance de la motorisation inférieure ou égale à 250 W.
+De façon à pouvoir comparer les performances de différents vélos à assistance
+électrique, les essais sont réalisés sur circuits standardisés représentatifs de
+différentes configurations d’utilisation des vélos.
+Le circuit utilisé pour réaliser les essais ci-dessous est le suivant :
+ sol en revêtement bitume,
+ sol sec,
+ pas de pente,
+ pas de vent.
+Les graphiques ci-dessous montrent l’évolution de la vitesse du V.A.E et du courant
+moteur au cours du temps lors d’un cycle sur le circuit décrit ci-dessus. La durée du
+cycle est 90 secondes. Le cycle commence à la date t=10 s. Le niveau d’assistance
+demandé est maximal.
+Courant (A) en fonction du temps (s)
+
+TEMPS (S)
+
+Figure 1-1 : évolution du courant moteur en fonction du temps
+
+Vitesse (km/h) en fonction du temps (s)
+
+TEMPS (S)
+
+Figure 1-2 : évolution de la vitesse du VAE en fonction du
+temps
+
+A partir du graphique de la vitesse du vélo au cours du temps,
+lors d’un cycle, compléter, sur le document réponse DR1 QI-1, le tableau par
+des croix pour indiquer le type de mouvement et l’état de l’assistance. Calculer
+la distance parcourue par le vélo.
+La batterie du Rool’in est composée d’accumulateurs Lithium-ion. La capacité de la
+batterie est de 17 Ah et la tension à ses bornes est de 30 V.
+Rappel : Energie (Wh) = Capacité (Ah) x Tension (V)
+Calculer la quantité d’énergie stockée dans la batterie. Pour
+éviter une décharge profonde de la batterie, on limitera le taux de décharge à
+80%. Calculer l’énergie exploitable dans la batterie.
+Le constructeur indique que l’autonomie de la roue est comprise entre 40 et 60 km
+en fonction du niveau d’assistance choisie.
+A partir du graphique du courant en fonction du temps et sachant
+que la tension aux bornes de la batterie est de 30 V, calculer l’énergie
+nécessaire à la réalisation de ce cycle ainsi que l’autonomie du vélo en
+heure, puis en kilomètres s’il ne parcourt que des cycles identiques à celui
+présenté. Comparer vos résultats avec les performances attendues.
+En 2017, la start-up Rool’in a commercialisé une roue électrique
+motorisée équipée de cellules photovoltaïques pour étendre son
+autonomie. Se rechargeant automatiquement aussi bien à l’arrêt qu’en
+mouvement, ses créateurs assurent pouvoir vous faire gagner jusqu’à
+20 km d’autonomie quotidienne en fonction de l’exposition.
+Pour mettre en évidence les transferts d’énergie et d’information entre les
+constituants du la roue Rool’in, un diagramme de flux a été tracé sur le DR1 QI-4.
+
+Sur DR1 QI-4, associer les noms des composants aux numéros
+correspondants sur le tableau proposé. Compléter les cases vides sous les liens
+de puissance avec la nature de ce lien avec les mentions suivantes :
+Mécanique (M) ou Electrique (E).
+Le diagramme ci-dessous représente les caractéristiques courant-tension d’une des
+24 cellules utilisées sur la roue Rool’in :
+
+Figure 1-3 : Caractéristique courant/tension d’une cellule
+
+A partir du diagramme ci-dessous, relever le courant I et la tension
+U au point de puissance maximum. Sachant que la roue dispose, sur chaque
+face de 12 cellules photovoltaïques, comment doit-on les brancher (série ou
+parallèle) pour que chaque face puisse générer une différence de potentiel
+environ égale à 6 V ?
+L’énergie supplémentaire stockée issue des cellules photovoltaïques à Copenhague
+est 140 Wh ce qui garantit une autonomie kilométrique de 20 km supplémentaires
+pour la période de mars à octobre. Vous considérerez qu’une seule face est exposée
+au soleil et toutes les cellules fournissent un courant IMPP lu sur la caractéristique
+courant-tension.
+Calculer le temps d’exposition solaire en heure permettant
+d’atteindre 140 Wh. Conclure sur l’intérêt des panneaux pour augmenter
+l’autonomie.
+
+Commande du fonctionnement du produit ou
+modification de son comportement
+Problématique : Valider la stratégie de limitation d’assistance en cas de
+dépassement de la vitesse maximale autorisée.
+Pour que l’utilisation de la roue soit agréable, l’assistance n’est pas brutalement
+coupée lorsque le vélo dépasse la vitesse de 25 kmh-1 mais décroit
+progressivement. Pour les mêmes raisons de confort d’utilisation, lorsque la vitesse
+du vélo passe en dessous des 25 kmh-1, l’intensité de l’assistance augmente
+progressivement. Pour mettre en évidence ce fonctionnement, l’étude portera
+lorsque la vitesse du vélo est située autour de 25 kmh-1.
+Pour comprendre la stratégie de limitation d’assistance en cas de dépassement de la
+vitesse autorisée (25 kmh-1), on réalise un essai sur un banc instrumenté ce qui
+permet d’obtenir les chronogrammes de la figure 2-1. La zone sombre sur la
+figure 2-1 partie gauche correspond aux fluctuations du couple moteur. La partie
+droite de la figure 2-1 représente le détail de la zone entourée sur la partie gauche
+autour de l’instant t = 4 012 s. Pour recréer les conditions d’obtention d’un
+dépassement de la vitesse maximale autorisée (25 kmh-1), l’assistance choisie est le
+niveau d’assistance maximal.
+
+Figure 2-1 : Essai sur banc instrumenté
+
+On appelle Cmusc le couple musculaire ramené sur la roue arrière. Ce couple est
+supposé constant (Cmusc = 7,25 N∙m). Le niveau d’assistance choisi est le niveau
+d’assistance maximal. Il est caractérisé par un coefficient Na = 2.5, tel que :
+Pmot=Na∙Pmusc. Sachant que Pmot=Na∙Pmusc et que le diamètre des deux roues est
+
+identique, on peut en déduire que le couple moteur est donné par la relation :
+Cmot=Na∙Cmusc si la vitesse du cycliste par rapport au sol ne dépasse pas 25 kmh-1.
+S’il y a dépassement établie de cette valeur, le couple moteur sera réduit
+linéairement jusqu’à éventuellement s’annuler.
+Question II-1
+D’après la figure 2-1, Indiquer la condition sur la vitesse qui
+entraîne la croissance ou décroissance du couple.
+Question II-2
+A partir des valeurs maximale (C_mot_max) et minimale
+(Cmot_min) du couple moteur relevées sur les courbes précédentes à préciser,
+𝐶_𝑚𝑜𝑡_𝑚𝑎𝑥
+justifier la valeur du rapport 𝐶𝑚𝑜𝑡_𝑚𝑖𝑛 .
+La roue avant motorisée est équipée de 16 aimants sur la partie tournante, et d’un
+capteur à effet Hall (Capt_H) sur la partie fixe. Le passage d’un aimant devant le
+capteur déclenche en sortie une impulsion à l’état haut (figure 2-2). On donne le
+diamètre de la roue :
+Dr =0,7 m.
+
+Figure 2-2 : Chronogramme de Capt_H
+
+Question II-3
+A partir du chronogramme de la figure 2-2, déterminer le
+nombre Nimp d’impulsions (ou périodes) par seconde issues du capteur
+Capt_H (arrondi au nombre entier le plus proche) et en déduire la vitesse du
+cycliste Vcycl/sol par rapport au sol correspondante en ms-1 et kmh-1.
+
+Pour la suite, on appelle Nmax= 50, le nombre d’impulsions par seconde lié à la
+vitesse maximale du cycliste par rapport au sol. Le programme en charge de la
+limitation de couple est composé de deux tâches logicielles distinctes :
+un sous-programme d’interruption qui se déclenche à chaque front
+montant de Capt_H, gère l’incrémentation d’un compteur N ;
+une tâche de fond, qui se déclenche toutes les 100 ms, contrôle le
+courant i délivré par la batterie et réinitialise la variable N. En cas de
+survitesse, i décroît linéairement jusqu’à s’annuler éventuellement de façon à
+réduire le couple moteur. En cas de sous-vitesse, i peut recroître sans
+dépasser la valeur de consigne icons correspondant au niveau d’assistance
+demandé.
+
+Question II-4
+Compléter, dans les cases repérées en trait fort sur le document
+réponse DR2 QII-4, le sous-programme d’interruption et la tâche de fond en
+fonction des indications précédentes.
+Question II-5
+Expliquer, en 5 lignes au maximum, pourquoi le dispositif de
+contrôle de la vitesse utilisé par le V.A.E. n’est pas un asservissement de
+vitesse. On pourra envisager le comportement du vélo en descente.
+
+Documents Réponse DR1
+QI-1
+
+QI-4
+
+Document Réponse DR2
+QII-4 :
+
+N>Nmax/10

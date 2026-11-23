@@ -1,0 +1,276 @@
+{"pages": 8, "method": "pdftotext", "bytes": 954034, "at": "2026-11-23T09:23:24+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Dosage spectrophotométrique d’un additif alimentaire : le bleu patenté V (10 points)
+Partie1. Se désaltérer sans altérer sa santé
+Pour se désaltérer, il est coutume de consommer du sirop de menthe ; ce dernier contient
+plusieurs colorants dont le bleu patenté V (E131) de couleur bleue.
+
+Bleu patenté V
+Étiquette de sirop de menthe
+DJA du bleu patenté V
+Les colorants alimentaires font l’objet de contrôles sanitaires par l’Union Européenne (UE).
+Un de ces contrôles, réalisé par l’EFSA (autorité européenne de sécurité des aliments),
+consiste à déterminer la dose journalière admissible (DJA) qui est la quantité d’une substance
+qu’une personne peut ingérer quotidiennement tout au long de sa vie sans risque appréciable
+pour sa santé.
+
+La DJA du bleu patenté est de 2,5 mg de produit absorbable par kg de masse corporelle et par
+jour.
+Source : d’après le site : http://www.efsa.europa.eu/
+
+Le but de cette première partie est de déterminer le nombre de verres de sirop de menthe que
+l’on peut boire sans dépasser la dose journalière admissible en bleu patenté V.
+Données :
+ masse molaire du bleu patenté : 560,7 g.mol -1 ;
+ spectre d’absorption d’une solution aqueuse de bleu patenté V et cercle chromatique :
+
+Source : d’après le site : http://sciences-physiques-et-chimiques-de-laboratoire.org/
+
+1.1. Nommer le groupe caractéristique – OH présent dans le bleu patenté.
+1.2. Décrire et commenter le spectre d’absorption du bleu patenté.
+1.3. On se propose de déterminer la valeur de la concentration en quantité de matière de bleu
+patenté dans un sirop de menthe à partir d’un dosage par étalonnage utilisant des mesures
+d’absorbance de solutions de concentrations connues.
+On réalise à partir d’une solution aqueuse mère de bleu patenté V (notée S 0) une échelle de
+teintes constituée de cinq solutions diluées S1, S2, S3, S4 et S5 versées dans des cuves
+identiques.
+Par ailleurs, on dilue dix fois le sirop de menthe et on note S la solution aqueuse obtenue à
+l’issue de cette dilution. Les résultats sont consignés dans le tableau ci-dessous :
+Solution Si
+Concentration en
+quantité de matière C
+(en µmol.L-1)
+Absorbance A
+
+S0
+
+S1
+
+S2
+
+S3
+
+S4
+
+S5
+
+S
+
+5,0
+
+2,5
+
+2,0
+
+1,5
+
+1,0
+
+……
+
+1,6
+
+0,80
+
+0,39
+
+0,32
+
+0,24
+
+0,16
+
+0,75
+
+Les mesures sont reportées sur le graphe ci-dessous représentant l’évolution de
+l’absorbance A de la solution aqueuse de bleu patenté en fonction de la concentration C en
+quantité de matière de bleu patenté.
+
+1.3.1. Rédiger le protocole de dilution mis en œuvre pour préparer 100,0 mL de
+solution S2 à partir de la solution S0.
+1.3.2. Déterminer le nombre de verres de sirop de menthe que peut boire au maximum
+une personne adulte sans dépasser la dose journalière admissible (DJA) en bleu
+patenté V. Commenter.
+Le candidat est invité à prendre des initiatives, à estimer notamment la valeur du volume d’un
+verre de sirop de menthe et de celle de la masse d’une personne adulte, et à présenter la
+démarche suivie, même si elle n’a pas abouti.
+Partie 2. Utilisation d’un microcontrôleur pour réaliser un spectrophotomètre
+Le but de cette deuxième partie est de réaliser un spectrophotomètre à l’aide d’un
+microcontrôleur en l’associant à une diode électroluminescente (DEL) et à un détecteur de
+lumière afin de calculer l’absorbance de la solution de sirop de menthe diluée (solution S)
+étudiée dans la partie 1.
+Le dispositif constituant le spectrophotomètre est composé d’une diode émettrice considérée
+comme monochromatique (DEL), d’un capteur de lumière et d’un microcontrôleur. Ce dernier
+mesure l’éclairement lumineux Er en lux (lx) après passage du faisceau lumineux à travers la
+cuve et la solution.
+En traversant une solution colorée, un rayonnement monochromatique perd une partie de son
+intensité lumineuse. Ce phénomène est quantifié par la grandeur absorbance.
+
+Schéma de principe :
+Éclairement
+initial Ei
+
+Circuit
+alimentant
+la diode
+
+Montage :
+
+Éclairement
+reçu Er
+
+La mesure de l’éclairement
+lumineux (Er) est transmise au
+microcontrôleur
+
+Diode
+émettrice
+Capteur de
+lumière
+
+76543210
+
+Er
+)
+Ei
+Afin de négliger l'absorption de l'eau dans le domaine spectral d'étude, on considère que
+l’éclairement reçu dans le cas de la cuve témoin contenant uniquement de l’eau est égal à
+l’éclairement initial Ei et vaut 63,8 lx.
+L’absorbance peut être définie par la relation : A = - log (
+
+Données :
+ La valeur de la célérité c de la lumière dans le vide est supposée connue ;
+ constante de Planck : h = 6,63×10 – 34 J.s ;
+ électron-volt : 1 eV = 1,60×10–19 J.
+On dispose des diodes électroluminescentes monochromatiques suivantes :
+ une DEL bleue émettant une radiation de longueur d'onde égale à 466 nm ;
+ une DEL verte émettant une radiation de longueur d'onde égale à 525 nm ;
+ une DEL jaune émettant une radiation de longueur d'onde égale à 589 nm ;
+ une DEL orange émettant une radiation de longueur d'onde égale à 630 nm.
+
+2.1. Indiquer la diode à choisir pour mesurer l'absorbance d'une solution aqueuse de bleu
+patenté V. Justifier en se référant aux données de la partie 1.
+2.2. On donne un extrait du diagramme énergétique de l’atome d’oxygène :
+
+Énergie (en eV)
+- 9,43
+
+- 11,63
+
+2.2.1. Calculer, en eV, la valeur de la variation d’énergie ∆E
+correspondant à l’absorption par un atome d’oxygène d’une
+radiation
+monochromatique émise par une DEL orange.
+Commenter.
+2.2.2. Reproduire le diagramme énergétique de l’atome d’oxygène
+sur la copie et représenter la transition énergétique correspondante.
+
+-13,60
+2.3. Le programme ci-dessous permet d'obtenir la mesure de l’éclairement reçu Er par le
+capteur de lumière :
+
+2.3.1. D’après le montage réalisé, dire si la LED a été déclarée sur la broche à
+laquelle elle est connectée. Si non, réécrire la ligne de code en la corrigeant.
+2.3.2. Rédiger le commentaire à ajouter pour expliquer la ligne de code
+« delay(300) ; ».
+2.4. L’éclairement reçu mesuré par le capteur de lumière est de 11,3 lx.
+Comparer la valeur de l’absorbance mesurée à l’aide de ce dispositif à celle mesurée dans la
+partie 1.
+PARTIE B
+Comparaison de deux appareils à fondue (10 points)
+Des élèves souhaitent comparer deux appareils à fondue, l’un traditionnel utilisant comme
+source de chaleur un petit réchaud à alcool et l’autre fonctionnant à l’électricité.
+Les données qui suivent représentent les résultats de leurs expériences et le fruit de quelques
+recherches documentaires.
+Énergie thermique reçue par un système
+L’énergie thermique E reçue par un système lorsque sa température passe d’une valeur
+initiale θinitiale à une température finale θfinale dépend de :
+- sa masse m (kg) ;
+- sa capacité thermique massique c (kJ.kg-1.K-1) ;
+- sa variation de température θfinale - θinitiale (°C ou K).
+Elle s’écrit E = m . c . (θfinale – θinitiale).
+La capacité thermique massique de l’eau vaut : ceau = 4,18 kJ.kg-1.K-1.
+Partie 1. Étude de l’appareil à fondue utilisant le réchaud à alcool.
+Le montage présenté ci-dessous est réalisé par le professeur. L’eau contenue dans le
+récipient, appelé caquelon, est chauffée à l’aide du réchaud dans lequel de l’éthanol a été
+enflammé à l’aide d’une allumette. Un thermomètre immergé dans l’eau permet de suivre
+l’évolution de la température de l’eau au cours du temps. À l’issue de l’expérience l’alcool a
+été entièrement brûlé.
+
+Matériel et produits :
+- eau, éthanol ;
+- béchers de 50 et 100 mL ;
+- éprouvette graduée de 200,0 mL ;
+- caquelon (casserole en terre cuite ou en fonte), réchaud.
+Cahier d’expérience
+Le cahier d’expérience regroupe les résultats des mesures effectuées.
+Grandeurs mesurées :
+- masse du réchaud vide : mréchaud vide = 73,61 g ;
+- masse du réchaud avec l’éthanol : mréchaud rempli = 78,96 g ;
+- masse du récipient vide : Mrécipient vide = 1,735 kg ;
+- masse du récipient rempli avec de l’eau : Mrécipient rempli = 2,049 kg.
+Courbe représentant l’évolution de la température de l’eau au cours du temps
+
+Masses molaires atomiques
+Élément
+
+H
+
+C
+
+O
+
+M (g.mol-1)
+
+Réaction de combustion
+Une réaction de combustion totale modélise une transformation chimique faisant intervenir un
+combustible (alcane ou alcool) et un comburant (dioxygène) et produisant du dioxyde de
+carbone et de la vapeur d’eau.
+Formule brute de l’éthanol : C2H5OH
+1. À l’aide des données expérimentales, calculer la valeur de l’énergie thermique Eeau reçue
+par l’eau lors de la combustion de l’éthanol.
+2. Écrire l’équation de la réaction de combustion de l’éthanol. On rappelle que les produits
+formés lors de cette transformation chimique sont l’eau et le dioxyde de carbone.
+
+3. Déterminer la valeur de la quantité de matière néthanol d’éthanol utilisée dans l’expérience.
+4. On admet que la valeur de l’énergie molaire de la réaction de combustion de l’éthanol est
+Ecombustion = - 1,02.103 kJ.mol-1. En déduire que la valeur de l’énergie thermique produite
+lors de la combustion de la totalité de l’éthanol est de 1,18.102 kJ.
+5. Reproduire et compléter le diagramme énergétique suivant en indiquant les transferts
+d’énergie :
+Appareil
+Réactifs
+
+à
+
+Eau
+
+fondue
+
+Caquelon +
+environnement
+
+6. Définir le rendement énergétique de cet appareil à fondue.
+7. Montrer que ce rendement énergétique est proche de 30 %.
+Partie 2. Étude de l’appareil à fondue fonctionnant à l’électricité.
+Caractéristiques de l’appareil à fondue :
+- tension 230 V ~ 50 Hz / 60Hz ;
+- puissance électrique consommée 900 W.
+Cahier d’expérience
+On chauffe 0,50 kg d’eau à l’aide d’un appareil à fondue électrique.
+Pour élever la température de l’eau de 40 °C , il faut 1 min 55 s.
+La capacité thermique massique de l’eau vaut : ceau = 4,18 kJ.kg-1.K-1.
+8. Montrer que le rendement énergétique de l’appareil à fondue électrique est d’environ 80 %.
+9. Proposer une hypothèse permettant d’expliquer les différences de rendement énergétique
+entre les deux appareils.

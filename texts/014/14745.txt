@@ -1,0 +1,475 @@
+{"pages": 20, "method": "pdftotext", "bytes": 485695, "at": "2026-11-23T09:42:12+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 20
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Qu'est-ce qui permet de traduire un nom d'hôte en adresse IP ?
+un serveur DNS
+un serveur DHCP
+un pare-feu
+un hub
+Question A 2
+Quelle est l'écriture en base 2, sur 8 bits et en complément à 2 du nombre (−113)10 ?
+0111 0001
+1000 1110
+1000 1111
+1011 0011
+Question A 3
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+Question A 4
+Le code ASCII permet de représenter en binaire les caractères alphanumériques. Quel est son principal
+inconvénient ?
+Il utilise beaucoup de bits.
+Il ne différencie pas les majuscules des minuscules.
+Il ne représente pas les caractères accentués.
+Il n'est pas compatible avec la plupart des systèmes informatiques.
+Question A 5
+Combien d'entiers positifs ou nuls (entiers non signés) peut-on représenter en machine sur 32 bits ?
+232 − 1
+2 × 32
+
+Question A 6
+Pour quelles valeurs booléennes des variables a, b et c l'expression (a or b) and (not c) a-t-elle pour
+valeur True ?
+a = True b = False c = True
+a = True b = False c = False
+a = False b = False c = True
+a = False b = True
+c = True
+
+Thème B : types construits
+Question B 1
+On considère la liste de listes suivante :
+tictactoe = [ ['X', 'O', 'O'],
+['O', 'O', 'O'],
+['O', 'O', 'X'] ]
+Quelle instruction permet d'obtenir une diagonale de 'X' ?
+tictactoe[3] = 'X'
+tictactoe[4] = 'X'
+tictactoe[1][1] = 'X'
+tictactoe[2][2] = 'X'
+Question B 2
+On définit : matrice = [[1,2,3], [4,5,6], [7,8,9], [10,11,12]].
+Quelle est la valeur de matrice[1][2] ?
+Question B 3
+placard = { 'chemise': 3, 'pantalon': 6, 'tee shirt': 7 }
+placard['chaussette'] = 4
+placard['chemise'] = 5
+L = list(placard.values())
+Quelle est la valeur de la variable L à l'issue de cette exécution ?
+[ 3, 6, 7 ]
+[ 3, 6, 7, 4 ]
+[ 5, 6, 7 ]
+[ 5, 6, 7, 4 ]
+
+Question B 4
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+Question B 5
+A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+B = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+for i in range(3):
+for j in range(3):
+B[i][j] = A[j][i]
+Que vaut B à la fin de l'exécution ?
+rien du tout, le programme déclenche une erreur d'exécution
+[[3, 2, 1], [6, 5, 4], [9, 8, 7]]
+[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+[[7, 8, 9], [4, 5, 6], [1, 2, 3]]
+Question B 6
+Quelle est la valeur de l'expression [[i for i in range(5)] for j in range(3)] ?
+[[0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2], [0, 1, 2]]
+[[0, 1, 2, 3, 4], [0, 1, 2, 3, 4], [0, 1, 2, 3, 4]]
+[[0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3], [0, 1, 2, 3]]
+[[0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5], [0, 1, 2, 3, 4, 5]]
+
+Thème C : traitement de données en tables
+Question C 1
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+
+Question C 2
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C 3
+On a défini :
+mendeleiev = [ ['H','.','.','.','.','.','.','He'],
+['Li','Be','B','C','N','O','Fl','Ne'],
+['Na','Mg','Al','Si','P','S','Cl','Ar']]
+Comment construire la liste des gaz rares, c'est-à-dire la liste des éléments de la dernière colonne ?
+gaz_rares = [ periode[7] for periode in mendeleiev]
+gaz_rares = [ periode for periode in mendeleiev[7]]
+gaz_rares = [ periode for periode[7] in mendeleiev]
+gaz_rares = [ periode[8] for periode in mendeleiev]
+Question C 4
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+
+Question C 5
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 6
+Les informations relatives aux élèves d'une classe de 1re sont renseignées dans une table comportant les
+colonnes id, nom et prenom.
+Cette table est stockée en Python sous la forme d'une liste classe de dictionnaires, avec un dictionnaire par
+ligne. Les clés des dictionnaires désignent les noms des colonnes de la table :
+classe = [ {"id": 37, "nom": "Bouman", "prenom": "Katie"},
+{"id": 12, "nom": "Lovelace", "prenom": "Ada"},
+...]
+Quel code faut-il écrire pour afficher les prénoms des élèves dont le nom commence par la lettre B ?
+for dict in classe:
+if dict["nom"][0] == "B":
+print(dict["prenom"])
+
+for i in range(len(classe)):
+if classe["nom"][0] == "B":
+print(classe["prenom"])
+
+while classe["nom"][0] == "B":
+print(classe["prenom"])
+
+for dict in classe:
+if dict["nom"] begin with "B":
+print(dict["prenom"])
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quelle est la machine qui exécute un programme JavaScript inclus dans une page HTML ?
+le serveur WEB qui contient la page HTML
+la machine de l'utilisateur qui consulte la page HTML
+un serveur du réseau
+un routeur du réseau
+
+Question D 2
+Charles veut accéder à son forum favori. Il saisit son adresse (URL) sur son navigateur Web, qui lui affiche une
+erreur 404.
+Quel cas de figure n'explique pas sa situation ?
+une mise à jour du serveur qui héberge le forum
+une erreur de saisie de sa part
+une panne de sa connexion Internet
+un changement de titre du forum qu'il veut consulter
+Question D 3
+Quelle méthode doit utiliser la requête envoyée au serveur lorsque vous entrez votre identifiant et votre mot
+de passe dans un formulaire sécurisé ?
+GET
+POST
+FORM
+SUBMIT
+Question D 4
+Dans une page HTML, que permet la balise <form action="http://mon_site.fr" method="POST"> ?
+d'envoyer des données à l'URL http://mon_site.fr sans les ajouter au corps de la requête HTTP
+d'envoyer des données à l'URL http://mon_site.fr et de les ajouter au corps de la requête HTTP mais
+pas à l'URL
+de télécharger un formulaire depuis l'URL http://mon_site.fr
+de récupérer des données depuis l'URL http://mon_site.fr
+Question D 5
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez un fournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question D 6
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "blue"
+}
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Dans la console Linux, quelle commande faut-il exécuter pour obtenir la liste des fichiers du répertoire courant
+dont l'extension est jpg ?
+ls -l *.jpg
+man pwd **jpg
+cd jpg
+man jpg
+Question E 2
+Que peut-on dire du système de fichier, suite à l’exécution des commandes suivantes ?
+% cd
+% ls
+Documents Images Videos
+% mv *.txt Documents
+
+help.txt
+
+tutorial.txt
+
+script.py
+
+L'utilisateur Documents a pris possession des fichiers help.txt et tutorial.txt
+Le répertoire /Documents contient maintenant les fichiers help.txt et tutorial.txt
+Le répertoire Documents du répertoire de l'utilisateur contient maintenant les fichiers help.txt et
+tutorial.txt
+script.py a été exécuté et a déplacé les fichiers textes
+Question E 3
+Parmi les affirmations suivantes, laquelle est vraie ?
+la mémoire RAM est une mémoire accessible en lecture seulement
+la mémoire RAM est une mémoire accessible en écriture seulement
+la mémoire RAM est une mémoire accessible en lecture et en écriture
+la mémoire RAM permet de stocker des données après extinction de la machine
+Question E 4
+On a exécuté la commande ls -l et obtenu l’affichage suivant :
+total 0
+-rw-rw-rw- 1 etudiant etudiant 15 Jul 2 13:29 exercice
+drwxrwxrwx 1 etudiant etudiant 512 Jul 2 13:37 seances
+Que permettent d’affirmer les informations obtenues ?
+exercice et seances sont deux fichiers « ordinaires »
+exercice est un fichier « ordinaire » et seances est un répertoire
+exercice et seances sont deux répertoires
+exercice est un répertoire et seances est un fichier « ordinaire »
+Question E 5
+
+Quel est le principe de l'encapsulation des données dans un réseau informatique ?
+Cacher les données afin que l'on ne puisse pas les lire
+Mettre les données les unes à la suite des autres
+Chiffrer les données afin que l'on ne puisse pas les lire
+Inclure les données d'un protocole dans un autre protocole
+Question E 6
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+
+Thème F : langages et programmation
+Question F 1
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F 2
+On exécute le script suivant :
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 3
+
+Soit 𝑛 un entier naturel. Sa factorielle est le produit des nombres entiers strictement positifs qui sont plus
+petits ou égaux à 𝑛. Par exemple la factorielle de 4 vaut 1 × 2 × 3 × 4 = 24.
+Quelle est la fonction correcte parmi les suivantes ?
+while i <= n:
+
+i = 1
+while i < n:
+
+while i < n:
+
+while i <= n:
+
+Question F 4
+La fonction ajoute(n,p) codée ci-dessous en Python doit calculer la somme de tous les entiers compris entre
+n et p (n et p compris).
+Par exemple, ajoute(2,4) doit renvoyer 2+3+4 = 9.
+def ajoute(n,p):
+somme = 0
+for i in range(.........):
+somme = somme + i
+return somme
+
+# ligne à modifier
+
+Quelle est la bonne écriture de la ligne marquée à modifier ?
+for i in range(n,1,p):
+for i in range(n,p):
+for i in range(n,p+1):
+for i in range(n-1,p):
+Question F 5
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 6
+On définit une fonction f de la façon suivante :
+def f(L, m):
+R = []
+for i in range(len(L)):
+if L[i] > m:
+R.append(L[i])
+return R
+On définit L = [1, 7, 3, 4, 8, 2, 0, 3, 5].
+Que vaut f(L, 4) ?
+[0, 7, 0, 0, 8, 0, 0, 0, 5]
+[0, 0, 0, 5]
+[7, 8, 5]
+[]
+
+Thème G : algorithmique
+Question G 1
+Une seule des affirmations suivantes est vraie :
+L'algorithme des k plus proches voisins a pour but de déterminer les k plus proches voisins d'une
+observation dans un ensemble de données.
+L'algorithme des k plus proches voisins a pour but de déterminer la classe d'une observation à partir des
+classes de ses k plus proches voisins.
+L'algorithme des k plus proches voisins a pour but de déterminer dans un ensemble de données le sousensemble à k éléments qui sont les plus proches les uns des autres.
+L'algorithme des k plus proches voisins a pour but de déterminer les éléments d'un ensemble de données
+appartenant à une même classe.
+
+Question G 2
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a = x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+Question G 3
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 4
+On dispose d’une table de données de villes européennes. On utilise ensuite l’algorithme des k-plus proches
+voisins pour compléter automatiquement cette base avec de nouvelles villes.
+Ci-dessous, on a extrait les 7 villes connues de la base de données les plus proches de Davos.
+Ville
+Pays
+Distance jusqu’à Davos
+Berne
+180 km
+Innsbruck Autriche
+130 km
+
+Milan
+150 km
+Munich
+Allemagne 200 km
+Stuttgart
+Allemagne 225 km
+Turin
+250 km
+Zurich
+115 km
+En appliquant l’algorithme des 4 plus proches voisins, quel sera le pays prédit pour la ville de Davos ?
+Allemagne
+Autriche
+Question G 5
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G 6
+On suppose qu'au début de l'exécution la variable K contient un entier positif non nul.
+Lequel des scripts suivants va boucler indéfiniment ?
+i = K+1
+i = K-1
+i = i - 1
+i = K-1
+i = K+1
+while i >= K:
+
+i = i - 1

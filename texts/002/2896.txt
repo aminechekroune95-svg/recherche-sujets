@@ -1,0 +1,377 @@
+{"pages": 9, "method": "pdftotext", "bytes": 806888, "at": "2026-11-23T09:24:24+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Exposition au soleil et protection (10 points)
+Le Soleil est la principale source du rayonnement électromagnétique reçu par la Terre.
+Une partie de ce rayonnement est constituée de radiations ultraviolettes (UV). Une
+exposition prolongée aux rayons ultraviolets peut provoquer des dommages au niveau des
+yeux ou de la peau, tels que brûlures, vieillissement prématuré ou cancers. Il est donc
+nécessaire de prendre certaines précautions pour s’en protéger.
+1. Les différents types de rayons ultraviolets
+Il existe trois catégories de rayonnements ultraviolets, classés par domaines de longueur
+d’onde selon leurs effets biologiques et leur pouvoir de pénétration dans la peau :
+- les UV-A : 320 nm < λ < 400 nm ;
+- les UV-B : 280 nm < λ < 320 nm ;
+- les UV-C : 100 nm < λ < 280 nm ;
+Plus l’énergie d’un rayonnement UV est élevée, plus celui-ci sera dangereux pour la peau.
+ constante de Planck : h = 6,63×10-34 J.s ;
+ la valeur de la célérité de la lumière c dans le vide est supposée connue du candidat ;
+ 1 eV = 1,60×10-19 J.
+1.1. Calculer, en eV, la valeur de l’énergie E d’un photon de longueur d’onde
+λ = 280 nm dans le vide.
+1.2. Classer, en justifiant, les différents types d’UV par nocivité croissante.
+
+2. L’ozone, l’écran solaire de la Terre
+Avant d’atteindre la surface de la Terre, le rayonnement solaire subit des phénomènes
+d’absorption et de diffusion dans les couches de l’atmosphère, notamment en raison de la
+présence de dioxygène et d’ozone (O3).
+L’ozone est particulièrement présent dans la stratosphère, couche située entre dix et
+cinquante kilomètres d’altitude.
+La couche d’ozone atmosphérique absorbe totalement les rayonnements ultraviolets de
+fréquence comprise entre 11×1014 Hz et 30×1014 Hz.
+2.1. Déterminer quelle catégorie d’ultraviolets ne parvient pas jusqu’à la surface
+terrestre.
+Lorsque le rayonnement UV traverse la stratosphère, certains photons incidents
+possèdent une énergie suffisante pour être absorbés par l’ozone. La transformation
+(dissociation) qui en résulte est modélisée par la réaction (1) :
+O3 + photon → O2 + O*
+(1)
+La notation O* signifie que l’atome d’oxygène formé est dans un état excité.
+2.2. Le diagramme énergétique simplifié ci-dessous présente les niveaux d’énergie mis
+en jeu avant et après dissociation de l’ozone modélisée par la réaction (1).
+Énergie
+E
+
+Edissociation
+
+E
+
+2.2.1. Recopier ce diagramme sur la copie et représenter par une flèche la
+transition correspondant au phénomène d’absorption des photons incidents
+par l’ozone.
+2.2.2. L’énergie de dissociation de l’ozone Edissociation est égale à 4,97 eV. Montrer
+que cette valeur est en accord avec la réponse donnée à la question 2.1.
+3. Le Soleil… sans coup de soleil
+Pour limiter les effets des rayonnements UV sur la peau, il est recommandé par les
+dermatologues de porter des vêtements et accessoires protecteurs, et d’utiliser une crème
+solaire. Il existe deux grandes catégories de protection solaire offerte par les cosmétiques
+selon la nature des filtres et leur mode d’action ; tous doivent être expressément autorisés
+par la réglementation :
+- les filtres organiques qui agissent par absorption des rayonnements UV ;
+- les filtres minéraux, à savoir le dioxyde de titane (TiO2) et l’oxyde de zinc (ZnO), qui
+agissent par réflexion des rayons UV : ceux-ci ne pénètrent pas dans l’épiderme.
+Ces différents filtres, chimiques ou minéraux […] peuvent être combinés entre eux par les
+fabricants […].
+D’après https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fichespratiques/Protection-solaire
+
+ Spectre d’absorption de deux filtres minéraux, TiO2 et ZnO :
+absorbance
+
+390 longueur d'onde (nm)
+
+D’après http://www.chimix.com/an19/bts/chim180.html
+
+ L’avobenzone est un filtre organique dont la masse molaire M est égale à 310,4 g.mol-1.
+ Spectre d’absorption de l’avobenzone :
+absorbance
+
+longueur d’onde (nm)
+
+3.1. Expliquer l’intérêt pour un fabricant de crème solaire de combiner un filtre organique
+tel que l’avobenzone avec un filtre minéral tel que TiO2.
+
+Une crème solaire, dont le seul principe actif est l’avobenzone, est étudiée au laboratoire afin de
+vérifier son efficacité dans le temps.
+
+Sa formulation est à 3 %, ce qui signifie que le pourcentage en masse de principe actif est
+de 3,0 g d’avobenzone pour 100 g de crème.
+On considère que la crème solaire reste efficace et peut être
+conservée tant que le pourcentage en masse du principe actif est
+supérieur à 2,5 %.
+La période de conservation maximale après ouverture d’un produit Exemple de logo
+figurant sur un produit
+cosmétique est indiquée par un symbole représentant un pot
+cosmétique
+ouvert sur lequel la durée est précisée : 6 M pour 6 mois, 12 M
+pour 12 mois, 24 M pour 24 mois, etc.
+
+Pour vérifier l’efficacité dans le temps de la crème solaire, on réalise la mesure de
+l’absorbance A, pour un rayonnement de longueur d’onde égale à 360 nm, de différentes
+solutions de concentration en quantité de matière c connue d’avobenzone dans du
+méthanol. Les résultats obtenus permettent le tracé de la courbe ci-après.
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+
+AA
+
+-1
+
+-1 ) )
+(µmol.L
+Cc (µmol.L
+
+0 0
+Tous les trois mois, on prépare une solution en introduisant 200 mg de crème solaire
+issue du même tube
+dans du méthanol pour obtenir un litre de solution dont on mesure
+
+l’absorbance.
+Les résultats
+obtenus sont rassemblés dans le tableau suivant :
+
+Nombre de mois écoulés
+depuis 0
+l’ouverture du tube
+Absorbance
+
+0,52 0,52 0,51 0,43 0,35 0,25
+
+On considère que l’absorption des UV par des espèces chimiques autres que
+l’avobenzone est0négligeable.
+
+3.2. Justifier le choix de la longueur d’onde de travail.
+0 la crème solaire.
+3.3. Formulation de
+3.3.1. Déterminer la concentration en quantité de matière c0 de la solution réalisée à
+l’ouverture du tube de crème solaire.
+3.3.2. La formulation de la crème solaire est-elle bien celle attendue ?
+3.4. Évolution de la formulation de la crème solaire au cours du temps.
+3.4.1. Indiquer, en justifiant, comment évolue la concentration en avobenzone au
+cours du temps.
+3.4.2. La mention «12 M » peut-elle être inscrite sur le logo figurant sur le tube de
+crème solaire ?
+Le candidat est évalué sur ses capacités à concevoir et à mettre en œuvre une démarche
+de résolution, ainsi que sur la qualité de sa rédaction.
+Toutes les prises d’initiative et toutes les tentatives de résolution, même partielles, seront
+valorisées.
+
+PARTIE B
+Vélo à assistance électrique (10 points)
+Afin d’alimenter le moteur de l'assistance d’un vélo électrique, un spécialiste propose
+plusieurs batteries lithium–ion. Elles délivrent toutes une tension nominale de 36 V. En
+revanche leurs capacités varient de 8,7 A.h à 17,4 A.h en fonction du modèle choisi.
+Cette partie aborde trois thèmes :
+- le fonctionnement d'une batterie lithium-ion ;
+- le bilan énergétique pour une batterie de 14,5 A.h ;
+- la transformation du glucose dans le muscle.
+- Caractéristique de quelques batteries lithium-ion de tension nominale 36 V :
+Batteries 36 V LIFT-MTB
+Capacités Prix
+Masse Dimensions
+TTC
+(en
+euros)
+8,7 A.h
+
+1,6 kg
+
+Type de
+cellules
+
+Autonomie
+estimée
+(dénivelé
+positif D+
+en m)
+
+6×20×8 cm
+
+Temps de
+charge
+estimé
+avec un
+chargeur
+de 2,0 A
+4 h 24 min
+
+PANASSONIC
+14,5 A.h
+2,5 kg 10×20×8 cm PANASSONIC
+1450
+7 h 12 min
+17,4 A.h
+2,9 kg 12×20×8 cm PANASSONIC
+1740
+9 h 12 min
+https://www.lift-mtb.com/shop/batteries-et-chargeurs/
+- Table de données pour la spectroscopie IR :
+nombres d’onde
+Liaison
+Intensité
+(cm-1)
+C = O aldéhyde
+1650 – 1730
+Forte
+et cétone
+C = O acide
+1680 – 1710
+Forte
+carboxylique
+Ctri – H
+2800 -3100
+Plusieurs bandes
+O – Hlié
+3200 – 3400
+Bande large
+O – Hlibre
+3580 – 3650
+Bande fine
+O–H acide
+2500 – 3200
+Bande large
+carboxylique
+
+- Masse du système "cycliste + vélo" : 90 kg ;
+- 1 cal = 4,18 J ;
+- Volume molaire dans les conditions de l'expérience (T =20°C et P = 101 325 Pa): Vm =
+24,0 L.mol-1 ;
+- Masse molaire du glucose : M = 180,0 g.mol-1 ;
+- Intensité du champ de pesanteur : g = 9,8 m.s-2
+I. Fonctionnement d’une batterie lithium-ion.
+Le courant électrique à l’extérieur de la batterie lithium-ion est engendré par la circulation
+d'électrons entre les deux électrodes de la batterie :
+- une électrode négative qui est le siège de la réaction électrochimique suivante :
+Li → Li++ e- une électrode positive qui est le siège de la réaction électrochimique suivante:
+CoO2 + Li++ e- → LiCoO2
+Li symbolise l'élément lithium et Co l'élément cobalt.
+Lors du fonctionnement de la batterie, les ions Li+ traversent le séparateur suivant le sens
+des flèches représenté dans le schéma ci-dessous.
+
+https://eduscol.education.fr/sti/sites/
+eduscol.education.fr.sti/files/ressourc
+es/pedagogiques/6107/6107-annexeprincipe-de-fonctionnement-etconstituants-dune-batterie-ens.pdf ENS Cachan
+1. Quel est le couple oxydant-réducteur mis en jeu à l’électrode négative ?
+2. La réaction électrochimique à cette électrode est-elle une oxydation ou une réduction
+? Justifier.
+II. Bilan énergétique pour une batterie de 14,5 A.h.
+
+3. Déterminer la valeur de l'énergie potentielle de pesanteur emmagasinée par le
+système "vélo électrique + cycliste" lorsque le cycliste effectue le dénivelé
+ascensionnel positif maximal correspondant à l’autonomie de la batterie.
+4. D’après les données constructeur, ce type de batterie délivre au maximum une
+énergie maximale Emax = 1,88.106 J.
+4.1.
+En théorie, Emax permet-elle d'effectuer le dénivelé ascensionnel indiqué?
+
+4.2.
+Dans les conditions réelles, un cycliste en forme moyenne doit fournir en
+pédalant 50% de l'énergie nécessaire à l'ascension. Pourquoi faut-il apporter une
+énergie supérieure à l'énergie potentielle de pesanteur pour réaliser l'ascension ?
+5. Compléter la chaîne énergétique en annexe à rendre avec la copie à l'aide des
+mots suivants : transfert thermique ; transfert mécanique ; transfert électrique ;
+énergie chimique ; énergie mécanique ; énergie thermique.
+III. Transformation du glucose dans le muscle : comment le muscle du cycliste
+
+produit-il de l’énergie ?
+Au cours de l’effort sportif, le glucose est dégradé par l’organisme en acide
+pyruvique. Selon les conditions d’oxygénation du cycliste, l’acide pyruvique sera
+dégradé à son tour soit en dioxyde de carbone et en eau (en milieu aérobie), soit en
+acide lactique (en milieu anaérobie).
+
+Glucose
+
+Acide pyruvique
+
+Acide lactique
+
+6. Quel est le nom des familles de fonctions correspondant aux deux groupes
+caractéristiques de l’acide pyruvique ?
+7. Parmi les spectres IR (IR1 et IR2) proposés ci-dessous, choisir, en justifiant, celui
+correspondant à l’acide pyruvique.
+
+Transmittance (%)
+
+IR1
+
+Transmittance
+(%)
+
+Nombre d’onde (cm-1)
+
+IR2
+
+Nombre d’onde (cm-1)
+En milieu aérobie (présence de dioxygène), la transformation chimique du glucose dans
+un muscle peut être modélisée par la réaction d’équation :
+C6H12O6(aq) + 6 O2(g)  6 CO2(g) + 6 H2O(l)
+L’énergie libérée par cette réaction est de 673 kcal pour une mole de glucose consommée
+par le muscle.
+8. Calculer la valeur de la quantité de matière de glucose consommée par les muscles
+du cycliste afin de libérer une énergie Emusc = 640 kJ pour effectuer l’ascension
+maximale.
+9. On suppose que la transformation chimique est totale. Compléter le tableau
+d’avancement en annexe à rendre avec la copie et calculer les valeurs de la masse
+de glucose et du volume de dioxygène consommés pour effectuer l’ascension.
+
+Annexe à rendre avec la copie
+
+Question 5 : Compléter la chaîne énergétique avec les mots suivants : transfert thermique
+; transfert mécanique ; transfert électrique ; énergie chimique ; énergie mécanique ;
+énergie thermique.
+
+.................
+
+Cycliste
+
+VAE + cycliste
+
+.................
+
+Énergie chimique
+
+Vélo à assistance
+électrique (VAE)
+Batterie
+
+…................
+Environnement
+
+…................
+
+Question 9 : Compléter le tableau d’avancement et calculer les valeurs de la masse de
+glucose et du volume de dioxygène consommés pour effectuer l’ascension.
+
+
+C6H12O6(aq) +
+
+6 O2(g)
+
+6 CO2(g)
+
++
+
+6 H2O(l)
+
+État initial (mol)
+
+0,228
+
+excès
+
+solvant
+
+État final (mol)
+
+........
+
+excès
+
+........
+
+solvant

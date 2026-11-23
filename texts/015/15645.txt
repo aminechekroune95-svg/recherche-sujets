@@ -1,0 +1,231 @@
+{"pages": 15, "method": "pdftotext", "bytes": 2099794, "at": "2026-11-23T09:28:47+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Concert celtique
+Un concert de musique rock celtique se déroule dans une salle des fêtes.
+Partie 1 – Analyse du son
+Lors de ce concert, trois musiciens jouent ensemble sur scène : un guitariste, un
+bassiste et un violoniste.
+Le son de chaque instrument a été enregistré séparément. Les courbes des signaux
+en tension correspondantes sont données dans le document 1.
+Document 1 – Enregistrements des sons des différents instruments
+Courbe 1 : guitare électrique
+
+Courbe 2 : basse
+
+Courbe 3 : violon
+
+1- À l’aide des enregistrements précédents, indiquer en argumentant si les trois
+musiciens jouent la même note ou non.
+
+Partie 2 – Enregistrement du concert
+Un des spectateurs décide de réaliser un enregistrement audio d’une partie du
+concert avec son smartphone. Le stockage interne est quasiment saturé : il lui reste
+120 Mo de libres sur sa carte SD de 16 Go.
+Document 2 – Numérisation du son
+Courbe de superposition des trois sons et quantification en 4 bits
+avec Te = 0,02 ms, soit Fe = 50 000 Hz
+
+Données : 1 octet = 8 bits ; 1 Mo = 106 octets ; 1 Go = 109 octets.
+2- Justifier avec le document 2 que le smartphone encode à 200 000 bit.s-1.
+3- Calculer la durée d’enregistrement du concert possible sur le smartphone de ce
+spectateur.
+
+On souhaite diviser par quatre la taille prise par cet enregistrement par compression.
+4- Déterminer le taux de compression nécessaire pour que l’enregistrement ne
+prenne que la place souhaitée.
+5- Expliquer pourquoi un fichier audio obtenu avec une technique de compression
+dite « avec perte d’information » est de nature à permettre une écoute
+satisfaisante du concert enregistré.
+Partie 3 – Risque sur l’audition
+On s’interroge sur les risques encourus en étant souvent exposé à des niveaux
+sonores élevés.
+Lors du concert, l’application sonomètre du smartphone affiche une valeur de 102 dB
+à proximité des enceintes.
+On utilisera les documents 3 et 4 qui suivent pour répondre aux questions de cette
+partie.
+6- Indiquer s’il existe un risque de perte d’audition en assistant à ce concert.
+Argumenter votre réponse.
+7- Préciser les précautions qu’auraient pu prendre les spectateurs pour davantage
+préserver leur audition.
+
+Document 3 – Échelle de niveau sonore et risques associés
+
+Source : lelivrescolaire.fr
+
+Document 4 – Conséquences d’un traumatisme sonore sur l’oreille
+
+Photographies de cellules ciliées de rats, soumises à différents niveaux sonores
+prolongés, observées au Microscope Électronique à Balayage.
+
+Évolution du pourcentage de destruction des cils des cellules ciliées en fonction du
+niveau sonore chez le rat.
+
+Des rats ont été exposés à des bruits semblables à des explosions de niveaux
+sonores croissants. Leurs cellules ciliées ont ensuite été observées au
+microscope. Chez l’être humain lorsque les cellules ciliées sont endommagées,
+elles ne peuvent ni être réparées, ni remplacées. Ces dégâts irréversibles peuvent
+causer une surdité.
+Source : d’après https://irem-limoges.canoprof.fr
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+La mesure du méridien par triangulation au XVIIIe siècle
+
+Dans cet exercice, on cherche à calculer la longueur d’un méridien terrestre en
+utilisant la méthode de triangulation du XVIIIe siècle.
+
+Document 1 – L’aventure de Delambre et Méchain
+Jean-Baptiste Delambre, Pierre Méchain et leurs collaborateurs devaient définir la
+longueur du mètre, fixée selon les scientifiques de l'Académie des sciences à « la
+dix millionième partie du quart du méridien terrestre. Ils se lancent pour cela dans
+la mesure du méridien de Paris : une ligne née dans l'imagination des
+cartographes, qui traverse la France de part en part (de Dunkerque à Barcelone) et
+fait le tour de la Terre en passant par les deux pôles. Les deux tiers supérieurs, de
+Dunkerque à Rodez, incombent à Jean-Baptiste Delambre, et le parcours RodezBarcelone à Pierre Méchain. Aucun monument ne commémore les efforts
+déployés pour mener à bien cette mission, en pleine Terreur (au moment de la
+Révolution française) ...
+Les chercheurs utilisent une méthode mathématique appelée « α triangulation ».
+Elle consiste à diviser le terrain en triangles pour le mesurer. On trace d'abord le
+long du méridien des triangles jointifs, ayant chacun un côté en commun avec le
+suivant. Il suffit ensuite de mesurer les angles des triangles par visée, depuis un
+endroit situé en hauteur (clocher, château, tour) et de disposer de la longueur
+d'une seule base (celle de Melun-Lieussaint pour la partie nord) pour pouvoir en
+déduire tous les côtés des triangles dont la somme était précisément la portion de
+méridien.
+Source : D'après Azar Khalatbari, « Le mètre et le méridien », wwwliberation.fr, 2006
+
+Document 2 – La mesure de la distance Dunkerque-Barcelone par Delambre
+et Méchain
+On peut effectuer une triangulation à partir de la connaissance de la longueur
+d'une première base de 6075,90 toises1 entre Melun et Lieussaint, deux villes
+situées en Seine-et-Marne (77). Ainsi, à partir des extrémités de cette base, JeanBaptiste Delambre vise Malvoisine. De la mesure des angles, il déduit la distance
+Lieussaint-Malvoisine et celle-ci constitue la base d'un nouveau triangle dont le
+sommet sera Montlhéry. Une chaîne de triangles successifs juxtaposés est ainsi
+formée le long de la méridienne. L'arc de méridien Dunkerque-Barcelone a pour
+longueur un quarantième de méridien terrestre.
+1 : Toise : unité de longueur ancienne, correspondant à six pieds : 1 toise = 1,949 m
+Source : D'après « Un voyage... de Dunkerque à Barcelone », www.clea-astro.eu
+
+Source : Ken Alder 2005 et IGN
+
+Document 3 – Loi des sinus
+La méthode de triangulation est fondée sur la loi des sinus, formule de
+trigonométrie dans un triangle quelconque, qui s’énonce de la façon suivante pour
+un triangle ABC :
+
+1- Montrer que l’angle alpha, qui se réfère à l'angle entre la base Melun-Lieussaint
+et la ligne de visée vers Malvoisine, du document 2, est égal à 75,19°.
+2- En écrivant la loi des sinus du document appliquée au triangle représenté dans
+document 3, déterminer la distance Melun-Malvoisine en kilomètre. Arrondir le
+résultat à 10-1 près.
+3- Aujourd’hui on sait que la distance entre ces deux villes est égale à d = 18,2 km.
+L’incertitude sur la mesure admise est égale à 1,0 km, conclure sur la précision
+de la mesure de l'époque.
+4- En appliquant la méthode de triangulation, Jean-Baptiste Delambre a obtenu une
+longueur de 1 000 km pour l’arc méridien Dunkerque Barcelone. En déduire à
+partir document 2 la longueur L du méridien terrestre (circonférence de la Terre).
+5- Indiquer si le résultat est cohérent avec la définition du mètre du document 1.
+6- À partir de la longueur L du méridien, estimer le rayon de la Terre en mètres.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire en 3 ou 4 lignes le mécanisme qui est à l’origine de l’énergie
+rayonnée par une étoile.
+À partir de vos connaissances et des informations apportées par les documents
+fournis dans la suite, répondre aux questions suivantes.
+2- Sans calcul, indiquer si la température de surface de l’étoile Véga est supérieure
+ou inférieure à celle du Soleil. Justifier votre réponse.
+3- Calculer la température de surface de l’étoile Véga en utilisant le document 2.
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des
+informations extraites des documents 3 et 4, ainsi que de vos connaissances. La
+réponse ne doit pas excéder 8 lignes.
+
+Document 1 – Profil spectral de la lumière émise par Véga
+
+Figure A – Profil spectral de Véga
+Source : ci2mrduthoit.weebly.com
+
+Document 2 – La loi de Wien
+Pour des objets incandescents idéaux appelés « corps noirs », le spectre
+d’émission ne dépend que de la température de l’objet. Plus l’objet est chaud, plus
+la longueur d’onde correspondant au maximum d’émission est faible.
+La loi de Wien permet de traduire cette observation :
+𝜆max =
+
+2,89. 10−3
+𝑇
+
+avec 𝜆max en mètres et 𝑇 en kelvins.
+Relation entre température 𝛩 en degrés Celsius (°C) et température 𝑇 en
+kelvins (K) : 𝛩 = 𝑇 − 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+Document 3 – Photosynthèse, respiration et fonctionnement d’une plante
+La photosynthèse
+est un
+métabolisme qui
+se déroule dans
+les cellules
+chlorophylliennes.
+La respiration
+cellulaire est un
+métabolisme se
+déroulant dans
+toutes les cellules
+et qui produit un
+type de molécule
+permettant des
+transferts
+d’énergie donc le
+fonctionnement
+cellulaire. Cette
+molécule est l’ATP
+(adénosine triphosphate).
+
+Figure B – Conversions d’énergie
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 4 – Transfert de l’énergie solaire dans un écosystème
+
+Figure B – Transferts d’énergie dans une prairie
+
+Les valeurs indiquent l’énergie en kcal/an pour 1 m 2 de prairie.
+MO signifie « matière organique ».
+Source : manuel scolaire Lelivrescolaire, édition 2023, p. 118.

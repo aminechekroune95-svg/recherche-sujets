@@ -1,0 +1,447 @@
+{"pages": 17, "method": "pdftotext", "bytes": 2284636, "at": "2026-11-23T09:30:19+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Élimination d’une substance dans le sang
+Sur 8 points
+
+Les parties A, B et D de cet exercice peuvent être traitées de façon indépendante.
+Dans la partie C, on attend du candidat qu’il compare la pertinence des modèles
+étudiés dans les parties A et B.
+
+Partie A
+On injecte une dose de 1 gramme d'un médicament dans le sang d'un patient. On
+souhaite étudier la quantité de médicament présente dans le sang en fonction du
+temps. On sait que le médicament est progressivement éliminé par l’organisme de
+sorte que, chaque heure, la quantité de médicament présente dans le sang diminue
+de 30 %.
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de
+médicament (exprimée en grammes) qui est présente dans le sang du patient après
+𝑛 heures écoulées depuis l’injection. Sous ces conditions, on a 𝑢0 = 1.
+1- Justifier que, selon cette modélisation, 𝑢1 = 0,7 et 𝑢2 = 0,49 .
+On admet alors que la suite (𝑢𝑛 ) est une suite géométrique de raison 0,7.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3- On sait que le médicament n’est plus actif lorsque la quantité présente dans le
+sang est strictement inférieure à 0,2 g. D’après cette modélisation, pendant quelle
+durée le médicament est-il actif ? Expliquer brièvement la démarche.
+
+Partie B
+Dans cette partie on suppose que la quantité de médicament présente dans le sang
+du patient (exprimée en grammes) peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par 𝑓(𝑡) = 0,7𝑡 où 𝑡 représente le temps écoulé depuis l’injection
+(exprimé en heures).
+Ci-après, on donne la courbe représentative 𝐶𝑓 de la fonction 𝑓 dans un repère
+orthogonal du plan.
+On a tracé en pointillés la droite tangente à 𝐶𝑓 au point A d’abscisse 3.
+
+4- Avec la précision permise par le graphique, répondre aux deux questions
+suivantes :
+4-a- Quelle est la quantité de médicament présente dans le sang trois heures après
+l’injection ?
+4-b- Quelle est la valeur de 𝑓’(3)? Comment interpréter cette valeur dans le contexte
+de l’exercice ?
+
+5-a- Recopier et compléter le tableau de valeurs ci-dessous à l'aide d’une
+calculatrice (on arrondira à 0,01).
+𝑡
+
+𝑓(𝑡)
+
+0,24
+
+4,1
+
+4,2
+
+4,3
+
+4,4
+
+4,5
+
+4,6
+
+4,7
+
+4,8
+
+4,9
+
+5-b- On rappelle que le médicament n’est plus actif lorsque la quantité présente dans
+le sang est strictement inférieure à 0,2 g.
+Donner une valeur approchée à 0,1 du temps au bout duquel le médicament cesse
+d’être actif.
+
+Partie C
+On souhaite donner une indication précise sur la durée du principe actif du
+médicament.
+6- D’après vous quel est le modèle le plus pertinent ? Justifier brièvement la réponse.
+
+Partie D
+Le médicament a pour but de faire baisser le taux de glycémie chez des patients
+ayant un taux de glycémie anormalement élevé. Afin de tester l’efficacité de ce
+médicament sur un groupe de patients (que l’on appellera « groupe-test » par la
+suite), on procède comme ceci : 60 % des patients de ce groupe reçoivent le
+médicament et les autres patients reçoivent un placebo.
+À l’issue du traitement, on mesure leur taux de glycémie et les résultats sont les
+suivants :
+-
+
+chez les patients ayant reçu le médicament, on observe une baisse du taux de
+glycémie dans 15 % des cas ;
+
+-
+
+chez les patients ayant reçu le placebo, on n’observe aucune baisse du taux
+de glycémie dans 90 % des cas.
+
+On choisit au hasard un patient du groupe-test et on note :
+𝑀 l’événement « le patient a reçu le médicament »
+̅ l’événement « le patient a reçu le placebo»
+𝑀
+𝐵 l’événement « on observe chez le patient une baisse du taux de glycémie »
+7- D’après les données ci-dessus, quelle est la valeur de 𝑃𝑀̅ ( 𝐵) ?
+̅ ∩ 𝐵) et interpréter ce résultat.
+8- Calculer la probabilité 𝑃( 𝑀
+9- On admet que 𝑃(𝐵) = 0,13. On choisit au hasard un patient du groupe-test et on
+constate que son taux de glycémie a baissé. Quelle est la probabilité qu’il ait pris le
+placebo (on arrondira au centième) ?
+10- À votre avis, peut-on considérer que ce test a prouvé l’efficacité du
+médicament ? Justifier.
+
+Exercice 2 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+Activités humaines et stress hydrique
+Sur 12 points
+L’hydrosphère désigne les zones du globe terrestre occupées par de l’eau ou de la
+glace, comme les glaciers, les nappes souterraines, les océans, les mers, les cours
+d’eau, etc. Dans cet exercice, il s’agit d’étudier l’impact de l’humain sur l’équilibre
+fragile qui existe entre l’hydrosphère, l’atmosphère et la biosphère.
+Partie 1 – Le stress hydrique des végétaux
+Document 1 – Le phénomène de stress hydrique
+Si une plante évacue plus d'eau qu'elle n'en absorbe, elle se retrouve en situation
+de stress hydrique.
+Deux phénomènes peuvent contribuer au stress hydrique des végétaux :
+
+le processus de photosynthèse, qui consomme de l’eau. Cette
+transformation chimique peut être modélisée par une réaction dont
+l’équation est :
+lumière
+
+6 CO2 + 6 H2 O →
+
+C6 H12 O6 + 6 O2
+
+la transpiration, qui correspond au volume d’eau évaporé des sols et
+transpiré par les plantes.
+
+Lorsqu’une plante est en situation de stress hydrique, sa croissance ralentit, sa
+germination diminue et ses feuilles deviennent vert sombre, entre autres
+conséquences.
+Source : d’après Wikipedia
+
+1- À l’aide de l’équation de la photosynthèse et de vos connaissances en lien avec
+les transformations chimiques, justifier la phrase soulignée dans le document 1.
+2- À partir des informations données dans le document 1, expliquer en quoi le
+réchauffement climatique peut être un facteur de stress hydrique pour les
+végétaux.
+
+Document 2 – L’observation du stress hydrique des végétaux depuis
+l’espace
+On rappelle que les feuilles d’un végétal
+en stress hydrique deviennent vert
+sombre.
+Les observations satellitaires permettent
+de suivre en temps réel l’état hydrique
+des sols et des végétaux, notamment
+celui des cultures. Pour cela, des
+capteurs appelés radiomètre mesurent
+la réflectance (quantité de lumière reçue
+par les satellites dans des plages de
+longueurs d’ondes différentes) et la
+combinaison des différentes données
+permet de définir la “signature spectrale”
+d’un objet. La signature spectrale dans le visible est liée à la couleur de l’objet.
+Figure 1 – Principe de
+fonctionnement
+d’un radiomètre embarqué sur un
+satellite
+Source : d’après l’auteur
+
+Document 3 – Réflectance mesurée par le radiomètre embarqué sur le
+satellite en fonction de la longueur d’onde pour une même
+culture végétale dans deux situations hydriques différentes
+
+Source : https://www.researchgate.net/figure/Signature-spectrale-dune-plante-en-fonctionde-son-etat-physiologique-source_fig17_263481408
+
+3- À l’aide des documents 2 et 3, associer chacune des deux signatures spectrales
+à chacune des situations suivantes en justifiant votre réponse :
+
+Cultures végétales en situation de stress hydrique
+
+Cultures végétales saines
+
+4- Citer un intérêt de l’utilisation des satellites pour la gestion des réserves
+hydriques en agriculture.
+Partie 2 – Le stress hydrique écologique
+Après avoir étudié quelques aspects du stress hydrique chez les végétaux et dans
+les cultures, nous allons maintenant nous intéresser au stress hydrique écologique.
+La notion de stress hydrique peut décrire une situation de pénurie d’eau, dans
+laquelle la demande en eau douce dépasse la quantité de ressources disponibles.
+L’Organisation Mondiale de la Santé (OMS) considère qu’il y a stress hydrique, si un
+être humain dispose de moins de 1700 mètres cubes d’eau douce par an.
+Document 4 – Répartition de l’eau sur Terre
+L’eau (douce et salée) recouvre 72 % de la surface du globe pour un volume total
+estimé à 1400 millions de mètres cubes.
+
+Source : d’après Wikipedia
+
+5-a- En vous appuyant sur le document 4, nommer le plus grand réservoir d’eau sur
+Terre.
+5-b- En vous appuyant sur le document 4, nommer les deux réservoirs d’eau douce
+liquide utilisables par l’être humain.
+5-c- En vous appuyant sur le document 4, montrer que le volume d’eau douce
+utilisable par l’être humain est d’environ 11 millions de mètres cubes.
+Document 5 – Le dessalement de l’eau
+La répartition de l’eau douce sur la Terre est très inégale, tout comme sa
+consommation. Si la moyenne mondiale de consommation d’eau est de 137 litres
+par habitant et par jour, cette valeur s’élève à 15 litres environ en Afrique
+subsaharienne contre 600 litres en Amérique du Nord ou au Japon. Depuis les
+cent dernières années, l’utilisation mondiale de l’eau a été multipliée par six. Elle
+continue d’augmenter rapidement, de près de 1 % par an.
+Pour faciliter l’accès à l’eau douce, il est possible de transformer l’eau salée des
+mers et des océans. Les deux techniques de dessalement de l’eau de mer
+principalement utilisées sont présentées dans le tableau suivant :
+
+Source : d’après l’auteur
+
+6- Expliquer la phrase soulignée dans le document 5, en vous appuyant sur des
+exemples de votre connaissance.
+7- Montrer que la distillation est plus coûteuse énergétiquement que l’osmose
+inverse. Donnée : 1 kWh = 3,6 × 106 J.
+8- Citer des intérêts et des limites au dessalement de l’eau. Argumenter en utilisant
+les données des documents et vos propres connaissances.
+
+Partie 3 – Activités humaines et stress hydrique
+9- En vous appuyant sur vos connaissances et vos réponses, expliquez-en quoi les
+activités humaines contribuent à augmenter le stress hydrique des végétaux et le
+stress hydrique écologique (argumenter la réponse par un texte comptant entre 5
+et 10 lignes).
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or et son extraction
+Sur 12 points
+L’or est un métal qui fascine l’homme depuis toujours : après avoir servi pendant des
+siècles à l’apparat, facilement travaillé grâce à sa ductilité*, ses propriétés pour la
+conduction de l’électricité en font actuellement un matériau de choix dans
+l’électronique.
+* Ductilité : capacité d’un matériau à se déformer sans se rompre.
+Partie 1 – Origine de l’or
+Document 1 – Pyramide de la complexité
+
+Source : document de l’auteur
+
+1- Estimer la date à laquelle les premiers atomes d’or (Au) se sont formés et
+l’évènement associé.
+
+L’un des mécanismes de formation des noyaux d’or est une succession de réactions
+nucléaires à partir de noyaux de fer.
+2- Associer à chacune des réactions suivantes l’un des termes parmi : fusion
+nucléaire, fission nucléaire, bilan de la formation des noyaux d'or.
+a.
+
+26Fe + 141 0n
+
+0 −
+→ 197
+79Au + 53 −1e
+
+b.
+
+14Si + 14Si → 28Ni
+
+c.
+
+79Au → 77Ir + 2He
+
+La connaissance de la structure du noyau atomique de l’or ne suffit cependant pas
+pour expliquer les propriétés du matériau. Il faut alors étudier sa structure cristalline.
+Partie 2 – Le cristal d’or
+Document 2 – Représentations en trois dimensions de plusieurs mailles
+d’un cristal d’or
+Chaque sphère ci-dessous représente un atome d’or (Z = 79). Une maille est mise
+en évidence sur la représentation 2.
+
+Représentation 1
+
+Représentation 2
+Source : logiciel MinUSc
+
+3- En vous appuyant sur vos connaissances, justifier que l’échantillon d’or soit
+qualifié de cristal.
+
+Document 3 – Différents types de structures cristallines
+Cubique simple
+
+Cubique centré
+
+Cubique à faces centrées
+
+4- Déterminer le type de structure cristalline de l’échantillon considéré. Justifier
+votre réponse.
+
+Document 4 – Dureté d’un matériau
+La dureté est une grandeur macroscopique qui caractérise la résistance qu’un
+matériau oppose à une contrainte, exprimée entre 1 et 10 dans l’échelle de Mohs.
+Elle est liée à la structure microscopique du matériau considéré.
+Elément
+
+Numéro atomique
+
+Dureté (Mohs)
+
+Or
+
+2,5
+
+Titane
+
+Chrome
+
+7,5
+
+Cuivre
+
+Argent
+
+2,5
+
+Tantale
+
+6,5
+
+Iridium
+
+6,5
+
+Plomb
+
+1,5
+
+Uranium
+
+6,0
+Source : Document de l’auteur
+
+5- À partir des données proposées, déterminer, en justifiant votre réponse, quels
+métaux pourraient présenter la même structure cristalline que l’or selon ce critère
+de dureté.
+La découverte d’or est devenue synonyme de richesse facile et les épisodes de
+ruées vers l’or du 19e siècle en sont témoins. L’extraction minière de l’or se fait alors
+souvent au détriment de l’environnement et de la santé des populations vivant sur
+place.
+Partie 3 – L’extraction de l’or et son impact sur l’environnement
+La cyanuration est une technique d'extraction de l'or grâce à une solution de sels de
+cyanure (cyanure de potassium KCN, cyanure de sodium NaCN ou cyanure de
+calcium Ca(CN)2) et de dioxygène dissout.
+Document 5 – Un déversement accidentel de fluides cyanurés en 2000 en
+Australie
+Le Département des Ressources Naturelles, des Mines et de l’Énergie du
+Queensland a fait état d’un accident dans une usine de traitement de l’or, lié à la
+défaillance d’une cuve d’extraction de l’or par cyanuration de 200 m 3.
+Un débordement d’environ 50 m3 d’une solution comptant 70 μg/L de cyanures
+libres s’est produit.
+La CL50 ou « concentration létale à 50 % » désigne la concentration d’un produit
+chimique dans l’air ou dans l’eau qui cause la mort de 50 % des animaux, lors
+d’une durée d’exposition de 4 heures. Le tableau suivant présente la CL50 de
+plusieurs types de dérivés cyanurés pour les poissons et leur toxicité.
+Catégorie
+
+Dérivés cyanurés
+
+Toxicité
+
+CL50 en mg/L
+
+CN-
+
+≈ 0,1
+
+HCN
+
+de 0,05 à 0,18
+
+KCN(s), Ca(CN)2(s)
+
+de 0,03 à 0,70
+
+NaCN.2H2O(s)
+
+de 0,40 à 0,70
+
+Cyanures libres
+
+Sources : d’après Australian Government, 2010
+et Note d’Analyse Association SystExt, Avril 2021
+
+6- Comparer la concentration en cyanures du déversement australien avec les
+CL50 de référence pour déterminer la gravité de cet accident sur la faune
+aquatique.
+Pour comprendre l’effet du cyanure sur les organismes aquatiques, on étudie sa
+toxicité sur la respiration cellulaire. On utilise pour cela la levure, organisme
+unicellulaire réalisant la respiration et facile à cultiver en milieu aquatique.
+Document 6 – Dispositif expérimental pour étudier la respiration des levures
+La respiration cellulaire permet aux levures de produire l’énergie dont elles ont
+besoin pour vivre, à partir du glucose et du dioxygène prélevé dans leur
+environnement.
+L’équation de la respiration cellulaire est :
+C6 H12 O6 (glucose) + 6 O2 → 6 CO2 + 6 H2 O
+Il est possible de mesurer au cours du temps les concentrations en dioxygène et
+en dioxyde de carbone dans un milieu de culture contenant des levures et de
+l’eau. L’injection d’une solution choisie par l’expérimentateur peut être réalisée
+dans le milieu de culture.
+Le graphique suivant montre la concentration en dioxygène en fonction du temps
+dans une suspension de levures.
+
+Source : document de l’auteur
+
+7- Expliquer pourquoi le protocole ci-dessous ne permettrait pas de mettre en
+évidence l’effet du cyanure sur la respiration cellulaire des levures. Justifier votre
+réponse.
+Protocole :
+On réalise un enregistrement avec uniquement une injection de cyanure au bout
+de 300 secondes.
+8- Exploiter les résultats du document 6 pour conclure sur la toxicité du cyanure sur
+les êtres vivants aquatiques.

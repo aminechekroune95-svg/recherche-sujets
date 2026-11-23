@@ -1,0 +1,416 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1487574, "at": "2026-11-23T09:30:37+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge de la Terre
+L’estimation de l’âge de la Terre a été le sujet de controverses et a évolué au cours
+des siècles au fur et à mesure des connaissances et des progrès techniques.
+1- À partir de vos connaissances, indiquer deux arguments (ou méthodes)
+scientifiques autres que la radiochronologie qui ont été utilisés au cours du
+temps pour estimer l’âge de la Terre.
+En 1969, une météorite du type chondrite carbonée est tombée au nord du Mexique.
+Les scientifiques l’ont nommée météorite "Allende". Ce type de météorite s’est formé
+en même temps que le système solaire.
+Document 1 – Caractéristiques de la météorite Allende
+La météorite Allende contient des
+structures en formes de petites
+sphères de minéraux appelées
+chondres dont la composition est
+proche de la composition moyenne
+de la Terre.
+Ces chondres appartenant à la
+même météorite ont tous le même
+âge et contiennent du rubidium 87
+(87Rb) qui avec le temps se
+désintègre en strontium 87 (87Sr),
+un des isotopes stables du
+strontium.
+Des mesures de rapports
+isotopiques ont été réalisées sur
+ces chondres.
+
+Figure – La météorite Allende
+Source : acces.enslyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-dela-formation-du-systeme-solaire
+
+Document 2 – La radiochronologie, une méthode de datation
+La radiochronologie consiste à mesurer dans plusieurs échantillons d’une même
+roche la quantité de noyaux pères rubidium 87 (87Rb), de noyaux fils strontium 87
+(87Sr) et de noyaux stables strontium 86 (86Sr). On déduit des rapports isotopiques
+(rapports des quantités mesurées) 87Sr/86Sr et 87Rb/86Sr.
+En traçant la courbe représentant le rapport isotopique 87Sr/86Sr en fonction du
+rapport isotopique 87Rb/86Sr, une droite est obtenue.
+Cette droite, appelée droite isochrone (iso : identique et chronos : temps), peut être
+modélisée par la fonction 𝑦 = 𝑎𝑥 + 𝑏. Le coefficient directeur de 𝑎 de la droite
+donne, après un calcul, l’âge de l’ensemble des échantillons de la roche.
+
+Document 3 – Tableau des demi-vies de quelques noyaux radioactifs utilisés
+dans des méthodes de datation en géosciences
+Méthode de datation utilisée
+en géosciences
+
+Couple isotopique
+utilisé
+
+Demi-vie du noyau père
+
+Rubidium 87 - Strontium 87
+
+87Rb/87Sr
+
+47 × 109 années
+
+Uranium 234 - Thorium 230
+
+234U/230Th
+
+245 500 années
+
+Source : à partir des données issues de https://fr.wikipedia.org, article période radioactive
+
+2- Parmi les noyaux 87
+37Rb, 38Sr et 38Sr, indiquer en justifiant quel est le noyau
+radioactif.
+
+3- Donner la définition de la demi-vie d’un noyau radioactif.
+4- À l’aide du document 3, justifier l’utilisation du couple Rubidium/Strontium pour la
+datation de la météorite Allende, plutôt que la datation avec le couple
+Uranium/Thorium.
+
+Document 4 – Droite isochrone des rapports isotopiques des chondres pour
+le couple Rb/Sr de la météorite Allende
+(avec les coordonnées x ; y associées à certains points)
+0,7025
+0,05213 ; 0,70214
+
+0,702
+
+87Sr/86Sr
+
+0,7015
+0,701
+0,7005
+0,7
+
+0,0066 ; 0,69925
+
+0,6995
+0,00853 ; 0,69933
+
+0,699
+
+0,00017 ; 0,69877
+
+0,6985
+
+0,01
+
+0,02
+
+0,03
+
+0,04
+
+0,05
+
+0,06
+
+87Rb/86Sr
+Source : construite à partir de données issues de
+https://www.sciencedirect.com/science/article/abs/pii/0016703776901083
+
+5- Montrer à l’aide du document 4 que le coefficient directeur de la droite isochrone
+correspond approximativement à une valeur de 0,065.
+
+Document 5 – Tableau de correspondance entre valeur du coefficient
+directeur d’une droite isochrone et âge de l’échantillon étudié
+pour le couple Rb/Sr
+Coefficient directeur
+
+Âge (années)
+
+0,000028
+
+2x106
+
+0,000063
+
+4,5x106
+
+0,028
+
+2x109
+
+0,065
+
+4,5x109
+
+0,88
+
+4,5x1010
+
+15,38
+
+2x1011
+
+6- En vous appuyant sur le document 5, montrer comment la datation d’une
+météorite comme celle d’Allende apporte un argument en faveur d’un âge de la
+Terre d’environ 4,57 Ga.
+
+Exercice 2 – Niveau première
+Thème « Son, musique et audition »
+
+AVC et appareils auditifs
+Partie 1 – Étude des symptômes de la patiente #361
+La patiente #361 se rend à l’hôpital pour réaliser des examens car son audition se
+dégrade. La patiente est soumise à un bilan auditif qui consiste à déterminer le seuil
+de niveau sonore audible pour différents sons purs.
+Le document 1 établit l’histogramme de la perte auditive de la patiente #361 en
+fonction de la fréquence ainsi que celle d’un groupe témoin constitué de personnes
+du même âge que la patiente (65 ans) :
+
+le niveau 0 dB correspond à une absence de perte auditive ;
+
+jusqu’à 20 dB de perte auditive, le patient ne perçoit aucun symptôme de
+perte d’audition ;
+
+à partir de 20 dB de perte auditive, le patient a une perte légère d’audition.
+
+Document 1 – Histogramme présentant les pertes auditives de la patiente
+#361 et du groupe témoin en fonction de la fréquence sonore
+
+Perte auditive (dB)
+
+Patiente #361
+
+Témoin
+
+1000
+
+2000
+
+4000
+
+8000
+
+Fréquence (Hz)
+
+Source : T. Fujioka et al. Central auditory processing in adults with chronic stroke without
+hearing loss a magnetoencephalography study - 2020
+
+1- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition chez les personnes du groupe témoin.
+2- À partir du document 1 et des données qui le précèdent, proposer une
+explication à la perte d’audition chez les personnes du groupe témoin.
+3- À partir du document 1, identifier les fréquences pour lesquelles il y a une perte
+d’audition anormale de la patiente #361 par rapport au groupe témoin.
+Les oreilles externes, moyennes et internes de la patiente #361 sont normales. Elle
+réalise ensuite un examen d’imagerie à résonance magnétique (IRM). Les médecins
+ont détecté un Accident Vasculaire Cérébral (AVC) sur l’IRM. Les zones touchées
+par les AVC sont altérées et fonctionnent moins bien voire plus du tout en fonction
+des caractéristiques de l’AVC (localisation, durée, …).
+Document 2 – IRM de la patiente #361
+
+Document 3 – IRM d’un individu témoin
+
+L’AVC est localisé par une tâche grise
+sombre sur l’IRM.
+
+L’IRM fonctionnelle montre les zones du
+cerveau activées (zones entourées) chez
+un individu témoin écoutant de la musique.
+
+Source : T. Fujioka et al. Central auditory
+processing in adults with chronic stroke
+without hearing loss a
+magnetoencephalography study – 2020
+
+Source : Images issues du logiciel ÉduAnat2.
+Coupe axiale.
+
+4- En vous appuyant sur les documents 2 et 3, expliquer l’origine de la perte
+auditive anormale chez la patiente #361.
+
+Partie 2 – Traitement de la patiente #361
+Il existe différents dispositifs médicaux pour limiter la surdité.
+Document 4 – Tableau présentant le fonctionnement de différents appareils
+auditifs
+Type d’appareil
+
+Mode de fonctionnement
+
+Implant
+cochléaire
+
+Transforme, grâce à des microélectrodes, les signaux
+sonores captés par un microphone en signaux numériques
+stimulant directement le nerf auditif sans passer par l’oreille
+interne.
+
+Prothèse
+auditive
+
+Amplifie certaines fréquences sonores de façon
+préférentielle par voie aérienne.
+
+Prothèse
+ossiculaire
+
+Remplace un ou plusieurs osselets de l’oreille moyenne
+(différents matériaux et diverses formes sont disponibles)
+
+Source : Incursion dans le monde des prothèses auditives numériques – Gada Kalil et
+Sam V. Daniel
+
+5- Certains des appareils auditifs du document 4 utilisent un convertisseur
+analogique-numérique (CAN). À partir de vos connaissances, donner le nom des
+deux opérations de numérisation permettant de transformer un signal analogique
+en signal numérique.
+6- Choisir l’appareil auditif pertinent pour la patiente #361 parmi ceux proposés
+dans le document 4. Justifier ce choix.
+L’audioprothésiste établit les réglages de l’appareil auditif de la patiente pour
+différentes fréquences : 250 Hz, 500 Hz, 1000 Hz, 2000 Hz, 4000 Hz et 8000 Hz.
+Le document 5 suivant correspond à l’enregistrement d’un des signaux sonores
+utilisés.
+
+Document 5 – Enregistrement d’un signal sonore
+
+7- Justifier que le son associé au signal sonore représenté dans le document 5 est
+un son pur.
+8- Donner la relation mathématique qui lie deux fréquences successives utilisées
+par l’audioprothésiste.
+9- À partir de vos connaissances, nommer l’intervalle séparant deux fréquences
+successives utilisées par l’audioprothésiste.
+10- L’appareil auditif a permis d’augmenter les performances auditives de la patiente
+#361 de 10 dB pour un son de fréquence 250 Hz. À partir du document 6 page
+suivante, indiquer le facteur de multiplication de l’intensité sonore associé à cette
+augmentation de 10 dB. Justifier votre réponse.
+
+Document 6 – Tableau de correspondance entre le niveau d’intensité sonore
+et l’intensité sonore avec les sensations associées
+
+Intensité
+sonore
+(W.m-2)
+
+10-12
+
+10-8
+
+10-6
+
+10-4
+
+10-3
+
+Niveau
+d’intensité
+sonore
+(dB)
+
+Limite
+d’audibilité
+
+fond
+calme
+
+gênant
+
+très
+gênant
+
+Seuil
+danger
+
+Seuil
+douleur
+
+Sensation
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La pile végétale
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible.
+On cherche ici à déterminer si cette technologie peut constituer
+une solution d’avenir.
+Les deux parties peuvent être traitées indépendamment.
+Partie 1 – La photosynthèse et ses caractéristiques
+Document 1 - Étude expérimentale des échanges gazeux d’une plante
+chlorophyllienne
+On mesure les variations au
+cours du temps de trois
+paramètres environnementaux
+au sein d’une enceinte fermée
+hermétiquement et contenant un
+végétal chlorophyllien :
+
+teneur en dioxygène
+(O2) ;
+
+teneur en dioxyde de
+carbone (CO2) ;
+
+luminosité reçue par
+l’enceinte.
+
+Source : d’après https://www.pedagogie.ac-nantes.fr
+
+1- D’après le document 1, décrire l’effet de la luminosité sur les échanges gazeux
+entre la plante chlorophyllienne et son environnement.
+Justifier à l’aide de données chiffrées.
+Partie 2 – Énergie de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. La réaction
+chimique correspondante peut être exploitée au sein d’une pile comportant deux
+électrodes dont l’une est positionnées près de la racine de la plante et l’autre en est
+plus éloignée. Cette pile peut délivrer un courant électrique qui transporte de
+l’énergie. On admet que la puissance électrique fournie par une « pile végétale » de
+cette sorte est proportionnelle à la surface que les plantes, exposées au soleil et qui
+se trouvent au voisinage des électrodes, occupent sur le sol.
+2- À partir de vos connaissances, expliquer ce qu'est une source d'énergie
+renouvelable. Justifier que la pile végétale est considérée comme une source
+d'énergie électrique renouvelable.
+
+On peut estimer qu’une « pile végétale » de 1 m 2 de surface globale (en feuilles et en
+racines) fournit une puissance de 3 W et que l’énergie moyenne nécessaire à la
+recharge d’un smartphone est de 10 Wh.
+3- Calculer la durée de recharge d’un smartphone avec 1 m2 de surface de « pile
+végétale ».
+4- L’énergie moyenne consommée par une famille pendant une année est 3000
+kWh. Calculer la surface nécessaire en m2 de surface de « pile végétale » pour
+fournir l’énergie annuelle à une famille.
+Indication : le Watt-heure (Wh) une unité physique qui correspond à l'énergie
+consommée ou délivrée par un système d'une puissance de 1 Watt fonctionnant
+pendant une heure.
+5- À partir des arguments issus de l’étude des deux parties de l’exercice et de vos
+connaissances notamment sur le fait que la « pile végétale » peut être considérée
+comme de la biomasse, indiquer un intérêt et une limite de ce dispositif.

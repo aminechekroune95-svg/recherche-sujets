@@ -1,0 +1,293 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1236295, "at": "2026-11-23T09:33:15+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Le son : de l’analogique au numérique
+L’industrie de la musique a connu au cours des dernières décennies de nombreuses
+évolutions (disque vinyle, CD, MP3, plateformes de musique en ligne). Ces évolutions
+sont dues au développement de la numérisation du son qui permet un stockage, une
+transmission et un accès plus aisés.
+L’objectif de l’exercice est de comprendre l’influence de certains paramètres sur la
+qualité du son numérisé.
+Les documents mentionnés dans l’exercice sont placés en fin d’énoncé de cet
+exercice.
+1- À partir de l’exploitation des graphiques du document 1, recopier la ou les bonnes
+réponses pour chaque situation ci-dessous.
+ La fréquence d’échantillonnage est plus élevée dans le cas du graphique (a)
+que dans le cas du graphique (b).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (b) que dans celle correspondant au graphique (a).
+ Le fichier numérique correspondant à la situation du graphique (c) a une plus
+petite taille que le cas du graphique (d).
+ Le son numérisé est plus fidèle au signal analogique dans la situation
+correspondant au graphique (c) que dans celle correspondant au graphique (d).
+2- À partir de vos connaissances, indiquer la condition que doit vérifier la fréquence
+d’échantillonnage si on veut numériser fidèlement un son analogique sinusoïdal de
+fréquence 𝑓.
+3- Justifier à partir des informations du document 2 que le choix de la fréquence
+d’échantillonnage permet une numérisation fidèle des sons sur un CD audio.
+3- Justifier à partir des informations du document 2 que le choix de la fréquence
+d’échantillonnage permet une numérisation fidèle des sons sur un CD audio.
+
+4- À partir de vos connaissances, donner l’intervalle des fréquences des sons audibles
+par les humains. Indiquer, en justifiant, si tous les sons correspondant à ces
+fréquences sont transmis lors d’une audioconférence numérisée.
+5- Un morceau de musique de 4 minutes 27 secondes est enregistré en stéréo sur un
+CD audio. Justifier par un calcul que la taille du fichier enregistré est de 47 Mo.
+6- Le format MP3 est un format de compression audio avec perte d’informations.
+Si on admet que le taux de compression du format CD au format MP3 à 128 kbits/s
+est égal à 9%, calculer la taille du fichier MP3 à 128 kbits/s correspondant à
+l’enregistrement précédent.
+7- Comparer, en termes d’avantages et d’inconvénients, les formats CD audio et MP3.
+Document 1. Discrétisation du signal analogique d’un même son
+Pour numériser un son, on procède à la discrétisation du signal analogique sonore
+(échantillonnage et quantification), comme l’illustrent les graphiques ci-après.
+Les échelles de tension et de temps sont les mêmes pour tous les graphiques.
+On note Te , la période d’échantillonnage.
+
+Document 2. Caractéristiques de numérisation de signaux audio suivant
+l’application
+Plage des
+fréquences
+transmises
+
+Fréquence
+d’échantillonnage
+
+Nombre de
+bits pour la
+quantification
+
+Applications
+
+Qualité
+téléphonie
+
+300-3400 Hz
+
+8 kHz
+
+Téléphonie
+
+Qualité bande
+élargie
+
+50-7000 Hz
+
+16 kHz
+
+Audioconférence
+
+Haute
+qualité
+
+50-15000 Hz
+
+32 kHz
+
+Radiodiffusion
+
+Qualité
+« Hi-Fi »
+
+20-20000 Hz
+
+44,1 kHz
+
+CD audio
+
+D’après Des données à l’information de Florent Chavand (ISTE éditions)
+
+Document 3. Taille d’un fichier numérique et taux de compression
+La taille T d’un fichier audio numérique (en bit) peut être calculée à partir de la
+fréquence d’échantillonnage fe (en Hertz), du nombre n de bits utilisés pour la
+quantification, de la durée t (en secondes) de l’enregistrement et du nombre k de
+voies ou canaux utilisés (1 en mono, 2 en stéréo…), à l’aide de la formule suivante :
+T = fe × n × t × k
+Le taux de compression est ici défini comme le rapport de la taille du fichier
+compressé sur la taille du fichier original.
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Mesure du méridien terrestre
+Eratosthène de Cyrène est un astronome, géographe, philosophe et mathématicien
+grec du IIIe siècle av. J.-C. (né à Cyrène, v. -276 et mort à Alexandrie, Egypte, v. -194).
+Eratosthène fut nommé́ à la tête de la bibliothèque d’Alexandrie vers -245 à la
+demande de Ptolémée III, pharaon d’Egypte, et fut précepteur de son fils Ptolémée IV.
+Il est célèbre pour avoir établi la première méthode connue de mesure de la
+circonférence de la Terre.
+
+Document 1 : données
+
+Le 21 juin, à midi, à Syène (Assouan), on voit le fond des puits.
+
+Le 21 juin, à midi, à Alexandrie, on mesure la longueur de l’ombre d’un gnomon*
+de 1 mètre. Celle-ci vaut 0,126 mètre.
+
+La distance entre Alexandrie et Syène est estimée à 5000 stades.
+
+Un stade est une unité de longueur correspondant à la longueur du stade
+d'Olympie, soit environ 157,5 mètres.
+Alexandrie et Syène sont supposées être sur un même méridien.
+
+Le soleil étant lointain, on suppose que les rayons qu’il émet sont parallèles.
+(*un gnomon est un instrument astronomique qui visualise par son ombre les déplacements
+du Soleil. Sa forme la plus simple est un bâton planté verticalement dans le sol.)
+
+Document 2 : Calcul de la circonférence de la Terre par la méthode dite
+d’Ératosthène
+
+1- Proposer un schéma représentant le gnomon, son ombre et les rayons du soleil
+avec les longueurs données dans le document 1 (il n’est pas demandé que le schéma
+soit à l’échelle).
+2- Calculer la tangente de l’angle 𝑎 formé par le gnomon et le rayon de soleil, et
+démontrer que cet angle mesure environ 7,2 °. On rappelle que, dans un triangle
+rectangle, la tangente d’un angle est égale au rapport du côté opposé sur le côté
+adjacent.
+3- À l’aide d’un scaphé (instrument de mesure ancien, sorte de cadran solaire),
+Ératosthène a trouvé que l’angle 𝑎 correspondait à un cinquantième de tour. Comparer
+avec le résultat de la question précédente.
+4- Préciser la distance qui mesure 5000 stades sur la représentation de la Terre du
+document 2.
+5- Justifier que les angles 𝑎 et 𝑏 du document 2 ont la même mesure.
+En déduire la circonférence de la Terre d’abord en stade, puis en kilomètre.
+6- Grâce à des mesures par satellites, on estime aujourd’hui la circonférence de la
+Terre à 40 075 km. Proposer au moins une source d’erreur possible pour la valeur
+estimée par Eratosthène.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+De la radiumthérapie à la curiethérapie
+En décembre 1898, Marie et Pierre Curie découvrent un nouvel élément chimique
+qu’ils appellent « radium ». Pierre Curie et Henri Becquerel publient en 1901 un article
+relatant les effets physiologiques du rayonnement du radium.
+Dans les années 1910, Marie Curie, qui dirige alors l’Institut du Radium développe,
+avec le Dr. Regaud qui dirige l’Institut Pasteur, la « curiethérapie ». C’est une méthode
+qui consistait à irradier localement une tumeur cancéreuse en introduisant de fines
+aiguilles contenant du radium.
+L’objectif de l’exercice est de comprendre le principe d’une radiothérapie, la
+curiethérapie.
+Document 1. Les débuts de la curiethérapie
+Les médecins avaient très vite compris que les rayonnements ionisants tuaient plus
+facilement les cellules cancéreuses que les cellules saines, bien qu'ils n'aient pas
+su pourquoi. Mais il y eut un long chemin à parcourir avant qu'ils ne parviennent à
+optimiser les doses de ces rayonnements tout en minimisant les risques pour les
+patients et les opérateurs. À l'âge héroïque, il n'était pas possible de calculer la dose
+de rayonnement émise et les médecins recouraient le plus souvent à une irradiation
+massive aux rayons X d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur. Pour les tumeurs traitées par
+radioactivité, on employait des sels de radium, d'abord contenus dans des tubes en
+verre puis dans des aiguilles en platine, placés contre les tumeurs (ou à l'intérieur)
+ce qui limitait leur usage aux cancers accessibles de l'extérieur et de petite taille
+(cancers du sein, de la peau, du col de l'utérus).
+Source : d’après www.futura-sciences.com, dossier radioactivité : les pionniers
+
+Aiguilles contenant les sels de radium
+utilisées en curiethérapie dans les années 1910
+Source : http://www.jeanboudou.fr/blog/la-grande-decouverte-des-curie
+
+Le radium est un élément radioactif. On estime aujourd’hui sa demi-vie à 1622 ans.
+1. À partir de vos connaissances, expliquer ce qu’est un élément radioactif.
+2. Donner la définition de la demi-vie d’un élément radioactif.
+3. À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre copie :
+La curiethérapie a été utilisée dès le début du XXème siècle pour soigner des cancers,
+car :
+3a. Les rayonnements produits empêchent les récidives de la tumeur.
+3b. Les rayonnements produits détruisent les cellules des tumeurs.
+3c. Les rayonnements produits pouvaient être facilement dosés et localisés
+avec précision sur la tumeur.
+3d. Les rayonnements produits provoquent uniquement une nécrose des
+cellules cancéreuses.
+
+Document 2. La méthode actuelle de curiethérapie de la prostate
+La curiethérapie de la prostate consiste à installer directement dans l’organe des
+implants radioactifs constitués d'une source radioactive enrobée dans une capsule
+de titane. Un radioélément utilisé est l'iode-125. De 40 à 130 implants sont installés
+dans la prostate, le nombre étant déterminé par le volume de la prostate à traiter.
+Ces implants restent à demeure.
+
+Implants contenant de l’iode125 utilisés en curiethérapie de
+Radiographie du bassin d’un patient traité par
+la prostate
+curiethérapie. Les implants apparaissent sous
+forme de bâtonnets blancs.
+Évolution de la radioactivité des implants en fonction du temps
+Pourcentage
+de radioactivité
+restante (%)
+
+Temps
+(semaines)
+
+Source : d’après http://www.laradioactivite.com/site/pages/Projet_Curietherapie.htm
+
+Document 3. Radioprotection après la pose des implants radioactifs lors d’une
+curiethérapie de la prostate
+La plupart des rayonnements émis par l'iode-125 ont beau être essentiellement
+absorbés dans l’organe à traiter, une fraction touche néanmoins des structures
+proches, comme le rectum ou la vessie par exemple. À cette inquiétude légitime
+pour le patient, s'ajoute un risque pour l'entourage tant que la radioactivité n'a pas
+décru suffisamment : le patient est lui-même radioactif. Quelques précautions
+permettent de réduire le risque. Voici les conseils donnés par l’Institut National du
+Cancer :
+« En cas de curiethérapie par implants permanents (iode-125), la radioactivité des
+sources implantées diminue progressivement dans le temps. Les risques pour
+l’entourage sont jugés inexistants, les rayonnements émis étant très peu pénétrants
+et donc arrêtés presque totalement par le corps lui-même.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 6 mois qui suivent l’implantation. En pratique,
+vous devez notamment éviter les contacts directs et prolongés avec les jeunes
+enfants (par exemple, les prendre sur vos genoux) et les femmes enceintes. »
+Source : d’après https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie/Quel-deroulement
+
+4. À partir de l’exploitation des documents 2 et 3 et de vos connaissances :
+4a. Réaliser sur le document en annexe la courbe de décroissance radioactive de
+l’iode-125 représentant le pourcentage de l’activité restante en fonction du temps.
+4b. Déterminer le temps de demi-vie de l’iode-125.
+4c. L’activité des implants utilisés en curiethérapie est considérée comme faible
+lorsque l’activité restante est inférieure à 15 % de l’activité initiale. Déterminer au bout
+de combien de temps les implants auront une activité faible.
+4d. Justifier la durée des précautions à prendre par le patient concernant son
+entourage.
+5. À l’aide de l’ensemble des documents, donner un intérêt d’utiliser l’iode-125 plutôt
+que le radium pour la curiethérapie. Une réponse argumentée est attendue.
+
+Document réponse à rendre avec la copie
+Exercice 3
+De la radiumthérapie à la curiethérapie
+
+Question 4a)
+
+% de radioactivité restante
+
+Temps (en semaine)

@@ -1,0 +1,331 @@
+{"pages": 7, "method": "pdftotext", "bytes": 714284, "at": "2026-11-23T09:35:15+00:00"}
+ENSEIGNEMENT SCIENTIFIQUE
+SUJET ZÉRO n°2
+L’usage d’une calculatrice est autorisé.
+Exercice 1 : Des instruments, des notes et des gammes (10 points sur 20)
+Les instruments de musique produisent des sons auxquels l’oreille humaine associe certaines
+caractéristiques : hauteur, timbre et intensité. La répartition des notes dans une gamme a été retenue
+pour qu’elles sonnent de manière harmonieuse les unes par rapport aux autres. La recherche de
+cette harmonie a conduit à différents types de gammes, des gammes dites de Pythagore aux gammes
+tempérées.
+Le sujet est composé de deux parties largement indépendantes
+Partie 1 : des instruments et des notes
+Les cordes d’un piano vibrent lorsqu’elles sont frappées par de petits marteaux actionnés par les
+touches du clavier. Les sons produits par le piano résultent de ces vibrations.
+Document 1 : notes associées aux touches d’un piano pour l’octave Do3 - Do4 et fréquences
+associées en hertz (Hz)
+
+1- Calculer la fréquence associée au La4 située une octave au-dessus du La3.
+2- On s’intéresse aux sons produits par ce piano. Un système d'acquisition informatisé permet
+l'enregistrement et la visualisation des signaux associés à ces sons.
+Document 2 : signaux enregistrés correspondant à des notes de musique jouées par un piano
+
+Figure 1
+Signal sonore en fonction du temps. Une
+graduation horizontale correspond à 1,0 ms.
+
+Figure 2
+Signal sonore en fonction du temps. Une
+graduation horizontale correspond à 1,0 ms.
+
+2-a- Justifier que les figures 1 et 2 correspondent à deux notes différentes.
+2-b- Identifier les notes correspondantes aux figures 1 et 2.
+
+Partie 2 : des notes et des gammes
+La théorie musicale étant fondée sur des rapports de fréquences, on décide de simplifier les calculs
+en attribuant la valeur 1 (sans unité) à une fréquence choisie comme référence. Celle-ci correspond
+à une note de référence (par exemple 262 Hz pour le Do 3). On retrouve ensuite les fréquences
+réelles en multipliant les valeurs calculées par la fréquence de la note de référence.
+La construction des gammes dites de Pythagore est basée sur le cycle des quintes : on part de la
+fréquence de valeur 𝑓" = 1. On construit une nouvelle fréquence, la quinte, en multipliant 𝑓" par ( .On
+réitère ce processus pour obtenir la quinte de la quinte, et ainsi de suite. À certaines étapes, le fait
+de multiplier par une fréquence 𝑓 comprise entre 1 et 2 peut donner une fréquence supérieure ou
+égale à 2. On se propose de démontrer que, si on divise par 2 la valeur obtenue, on la ramène dans
+l’octave.
+3- On suppose que 1 ≤ 𝑓 < 2 et on raisonne par disjonction de cas :
+,
+
+premier cas : 1 ≤ 𝑓 < . Montrer que 1 ≤ × 𝑓 < 2
+
+deuxième cas : ' ≤ 𝑓 < 2. Montrer que 2 ≤ ( × 𝑓 et 1 ≤ ( × ( 𝑓 < 2
+
+,
+
+.
+
+4- L’algorithme suivant permet de calculer les fréquences des notes successivement obtenues par
+ce processus jusqu’à ce qu’on retombe sur la fréquence initiale.
+𝑓←1
+
+f ¬ ×𝑓
+n¬ 1
+Tant que f ¹ 1 faire
+
+n¬ n +1
+f¬ f ´
+
+Si f ³ 2 alors f ¬ f ´
+
+Fin Si
+Fin Tant que
+
+Recopier et compléter le tableau ci-dessous en donnant les valeurs des 12 premières quintes
+obtenues par cet algorithme. Les résultats seront donnés d’abord sous forme exacte comme quotients
+d’une puissance de 2 par une puissance de 3, puis par leurs valeurs décimales approchées au
+centième obtenues à l’aide de la calculatrice.
+Numéro de la note
+
+Fréquence
+(fraction
+irréductible)
+Fréquence (valeur
+approchée à 10-2
+près)
+
+2..
+
+1,5
+
+1,9
+
+1,42 1,07
+
+2.,
+
+3."
+2.1
+
+3..
+2.2
+
+3.(
+2.4
+
+1,20 1,80 1,35 1,01
+
+5- L’algorithme termine-t-il pour une valeur de n inférieure ou égale à 12 ?
+6- Chacune des fréquences calculées est obtenue à partir de 1 par multiplications successives par
+'5
+
+.
+
+et parfois par . Elles peuvent donc toutes s’écrire sous la forme 6 où 𝑚et 𝑛 sont des entiers naturels
+non nuls.
+'5
+
+6-a- Démontrer que l’égalité (6 = 1 est impossible.
+6-b- Que peut-on en déduire pour l’algorithme proposé ci-dessus ?
+7- D’après ce qui précède, le cycle des quintes ne « reboucle » jamais exactement sur la note de
+départ. En s’appuyant sur le tableau de la question 4, justifier le choix de 12 notes dans une gamme
+construite selon ce principe.
+8- Si on choisit comme fréquence de référence celle du Do3, les fréquences réelles des autres notes
+sont obtenues en multipliant par 262 les fréquences calculées dans le tableau de la question 4. En
+les rangeant dans l’ordre croissant et en arrondissant à l’unité, on obtient les fréquences des notes
+de la gamme de Pythagore à 12 notes :
+Do
+
+Do#
+
+Ré
+
+Ré#
+
+Mi
+
+Fa
+
+Fa#
+
+Sol
+
+Sol#
+
+La
+
+La#
+
+Si
+
+8-a- Comparer ces fréquences à celles inscrites sur les touches du piano de la partie 1
+8-b- Calculer au centième près les rapports entre la fréquence du Do# et celle du Do puis entre la
+fréquence du Ré et celle du Do# dans cette gamme. Que constate-t-on ?
+9-a- Calculer au centième près les rapports entre la fréquence du Do# et celle du Do, puis entre la
+fréquence du Ré et celle du Do# dans la gamme figurant sur le piano représenté dans la partie 1.
+Que constate-t-on ?
+9-b- Comment nomme-t-on la gamme figurant sur le piano ? En quoi diffère-t-elle de la gamme de
+Pythagore à 12 notes ?
+
+Exercice 2 : Différentes méthodes de datation au service de la géologie (10 points sur 20)
+La datation est une belle illustration de la coopération entre plusieurs champs disciplinaires : la
+paléontologie, la biologie, les sciences physiques notamment à travers les connaissances sur la
+désintégration radioactive et l’archéologie qui utilise ces savoirs scientifiques et ces techniques pour
+étudier le mode de vie passé des êtres humains préhistoriques.
+
+Partie 1 : L’histoire de la détermination de l’âge de la Terre
+Document 1 : l’âge de la Terre
+« L’estimation de l’âge de la Terre a beaucoup évolué au fur et à mesure des connaissances et
+des progrès technologiques.
+Au Moyen Age et à la Renaissance, les déterminations de l'âge de la Terre se basent
+essentiellement sur la Bible qui énumère les générations depuis Adam, les érudits y ajoutant des
+considérations astronomiques et des données historiques écrites, un âge de la Terre de 6 000 ans
+est ainsi proposé.
+En 1778, Buffon calcule l’âge de la Terre à partir du temps de refroidissement de globes de
+différentes matières chauffées au rouge. En admettant que la Terre se refroidit d’une façon
+analogue à ces globes, il propose que la Terre s’est formée 93 291 ans auparavant et qu’elle sera
+encore habitable pendant les 38 849 ans qui suivent.
+D’autres méthodes seront nécessaires pour dater plus précisément la Terre. Au XXe siècle, grâce
+à la découverte de la radioactivité, la datation absolue permit à Clair Patterson d’annoncer que la
+Terre était âgée de 4,57 milliards d’années. »
+Source : D’après Dossier Pour La Science n°42 janvier Mars 2000-Pascal Richet
+
+1- En plus des méthodes présentées dans le texte du document 1, citez, à partir de vos
+connaissances, un autre argument géologique ou biologique qui permette d’invalider l’estimation de
+l’âge de la Terre proposée par Buffon.
+
+2- Selon Buffon, la Terre devrait cesser d’être habitable après un certain temps. À partir du document
+1, expliquer ce qui, dans ses hypothèses, a pu l’amener à cette conclusion.
+
+Actuellement, la datation par désintégration radioactive de différents noyaux est une méthode
+courante. Elle a notamment permis d’estimer l’âge des peintures réalisées par les êtres humains
+préhistoriques.
+
+Partie 2 : La datation des peintures rupestres de la grotte Chauvet par le carbone 14 (14C)
+Découverte en Ardèche, en 1994, la grotte Chauvet est célèbre pour ses peintures rupestres réalisées
+par des êtres humains préhistoriques. Ces peintures comptent parmi les plus anciennes connues.
+Leur âge a été estimé par la méthode de datation au carbone 14.
+
+L'isotope 14C de l'élément carbone se désintègre en azote 14N et se régénère régulièrement en haute
+atmosphère à partir de l'azote de l'air : il se retrouve donc en proportion constante dans tous les
+milieux et tous les êtres vivants. Lorsqu'un être vivant meurt, son métabolisme s’interrompt et son
+carbone n'est plus renouvelé. En raison de la désintégration radioactive, pour un échantillon donné,
+le rapport P/ P0 du nombre d'atomes 14C résiduel (P) sur le nombre d’atomes présents moment de la
+mort (P0) décroît au cours du temps.
+
+Document 2 : Deux rhinocéros qui s’affrontent représentés sur le panneau des chevaux
+dans la salle Saint-Hilaire de la grotte Chauvet
+
+Un mouchage est un frottement de la torche sur la paroi de la grotte pour retirer la partie carbonisée
+qui asphyxie la flamme.
+Les analyses des pigments ont révélé que les peintures ont été réalisées avec des fragments de
+charbon de bois (traits noirs) et des minéraux :
+
+Le rouge est constitué d’oxydes de fer (Fe2O3)
+Le noir de dioxyde de manganèse (MnO2)
+Sources : Dossier Pour La Science n°42 janvier Mars 2004
+Hélène Valladas, Jean Cottes et Jean-Michel Geneste
+
+Document
+:
+constituants du bois
+
+Les
+
+Les parois cellulaires très
+épaisses donnent au bois ses
+propriétés. Ces parois sont
+formées de deux constituants
+principaux, la cellulose et la
+lignine.
+La
+cellulose est
+une
+macromolécule
+composée
+d’un
+enchainement
+de
+plusieurs glucoses de formule
+C6H12O6, comme le montre le
+schéma ci-contre.
+Source :http://p7.storage.canalblog.com/70/91/309207/14102700_p.jpg
+
+À partir de vos connaissances et des informations apportées par les documents 2 et 3, répondre aux
+questions suivantes.
+
+3- Justifier que les oxydes minéraux ne peuvent pas être datés par la méthode du carbone 14, alors
+que la datation est possible pour le charbon de bois.
+
+4- Nommer le mécanisme biologique à l’origine de la synthèse du glucose par les plantes terrestres
+et donner l’équation de réaction de cette synthèse de matière végétale (on veillera à ajuster les
+nombres stœchiométriques de l’équation). Préciser les organes impliqués dans les échanges entre
+la plante et son milieu.
+
+5 - Cocher la proposition exacte pour chaque question du questionnaire à choix multiple donné dans
+l’annexe À RENDRE AVEC LA COPIE.
+Deux ensembles de mesures ont été réalisés pour la grotte Chauvet.
+- le premier, réalisé sur des fragments de charbon de bois prélevés sur les peintures, fournit des
+valeurs P/P0 comprises entre 1,5 % et 2,5 %.
+- le second ensemble de mesures, réalisé à partir des prélèvements sur les mouchages de torche,
+fournit des valeurs comprises entre 3,5 % et 4,5 %.
+Un graphique représentant le rapport P/P0 du nombre d’atomes 14C résiduel sur le nombre d’atomes
+C présent au moment de la mort en fonction du nombre d’années écoulées depuis la mort est donné
+sur la figure 1 de l’annexe À RENDRE AVEC LA COPIE.
+
+6 - En exploitant le graphique de la figure 1 (et le zoom inséré) de l’annexe À RENDRE AVEC LA
+COPIE, estimer, après l’avoir définie, la demi-vie du carbone 14.
+
+7- Estimer par un encadrement l’ancienneté des traces de l’habitation de la grotte Chauvet par les
+êtres humains préhistoriques en datant les mouchages de torche et les traits réalisés à l’aide de
+charbons de bois.
+
+ANNEXE À RENDRE AVEC LA COPIE
+Questionnaire à choix multiple
+Cocher la proposition exacte pour chacune des deux affirmations QCM1 et QCM2 ci-dessous
+
+QCM1 : La date de désintégration d’un noyau individuel de14C dont on connaît la date de
+création (prise comme origine) est :
+c aléatoire.
+c égale à 5730 ans.
+
+c prévisible.
+c comprise avec certitude entre 100 et
+10000 ans.
+
+QCM2 : La durée nécessaire à la désintégration radioactive de la moitié des noyaux radioactifs
+d’un échantillon dépend :
+c du nombre initial de noyaux.
+c de la nature chimique des noyaux.
+P/P0 (en %)
+
+c du volume de l’échantillon.
+c de la température.
+
+P/P0 ( en %)
+
+20 000
+
+25 000
+
+30 000
+
+Durée en années
+
+35 000
+
+40 000
+
+2 000
+
+4 000
+
+6 000
+
+8 000
+
+10 000
+
+12 000
+
+14 000
+
+16 000
+
+18 000
+
+20 000
+
+Durée en années
+
+Figure 1 : Rapport P/P0 du nombre d’atomes 14C résiduel sur le nombre d’atomes 14C présent
+au moment de la mort en fonction du temps. L’encart permet de mieux visualiser la période
+entre 20 000 et 40 000 ans

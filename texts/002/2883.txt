@@ -1,0 +1,328 @@
+{"pages": 11, "method": "pdftotext", "bytes": 936848, "at": "2026-11-23T09:24:31+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 11
+
+PARTIE A
+Qui peut griller une tranche de pain en pédalant ? (10 points)
+Un court-métrage de l’Académie des arts de Suède a attiré l’attention de plus de 1 million
+d’internautes. Il présente un défi soumis à Robert Förstemann, un coureur cycliste
+allemand de presque 100 kg, spécialiste de la piste. Le défi qui lui était proposé consistait
+à faire griller une tranche de pain avec la seule énergie qu’il produisait en pédalant avec
+ses impressionnantes cuisses de 74 centimètres de circonférence.
+L’énergie musculaire du cycliste est transformée en électricité grâce à une dynamo
+actionnée par la rotation du pédalier. L’ensemble alimente un grille-pain. Pour que
+l’appareil fonctionne, il faut que le champion produise une puissance de 700 W. Au départ,
+Robert semble sûr de lui. Au fil du test, le rythme cardiaque de l’athlète augmente, son
+souffle s’accélère et son visage se creuse sous l’intensité de l’effort qu’il produit. Deux
+minutes plus tard, le cycliste a fourni au grille-pain 0,021 kWh (76 kJ) suffisant pour sortir
+une tranche légèrement brunie. Le cycliste s’effondre, incapable de continuer, et s’allonge
+sur le sol pour récupérer de l’intense effort qu’il vient de produire.
+D’après Le Monde (Roland Lehoucq - 14/07/15)
+L’objectif de cet exercice est d’étudier la
+performance physique de Robert Förstemann en la
+comparant avec la consommation énergétique d’un
+grille-pain. Enfin, on cherche à évaluer la quantité de
+sucre à ingérer pour compenser l’énergie fournie lors
+de cet effort.
+http://cycling.today/
+
+1. Performance de Robert Förstemann
+1.1. Schématiser la chaîne énergétique de la dynamo du vélo utilisé par Robert
+Förstemann. On suppose que le rendement de cette dynamo n’est pas de 100 %.
+1.2. Le grille-pain est conçu pour fonctionner normalement sous une tension de 230 V et
+pour fournir une puissance de 700 W. Montrer que la valeur de l’intensité du courant qui
+traverse le grille-pain en fonctionnement normal est d’environ 3 A.
+1.3. Nommer l’effet responsable de l’élévation de température dans le grille-pain.
+Déduire de la question précédente la valeur de la résistance R du circuit électrique de
+cet appareil.
+Une simulation de la caractéristique du circuit électrique du grille-pain est donnée cidessous. Elle relie la tension U appliquée à l’intensité du courant électrique I qui traverse
+le circuit électrique du grille-pain.
+30,0
+
+tension U (V)
+
+25,0
+20,0
+15,0
+10,0
+5,0
+0,0
+
+intensité du courant I (mA)
+
+1.4. Indiquer la loi qui modélise la caractéristique du circuit électrique du grille-pain,
+retrouver la valeur de la résistance du circuit électrique du grille-pain et comparer le
+résultat à celui de la question précédente.
+1.5. À partir des données contenues dans l’article du Monde, déterminer la valeur de la
+puissance moyenne fournie par Robert Forstemann. Estimer, en prenant R = 76 Ω, la
+valeur moyenne de la tension et de celle de l’intensité du courant de fonctionnement du
+grille-pain durant la performance. Commenter.
+1.6. Estimer, en effectuant un bilan énergétique, la valeur de la vitesse maximale que
+pourrait atteindre le cycliste à vélo initialement immobile en 5 secondes sur un terrain
+plat en développant une puissance de 630 W. Commenter.
+Le candidat est invité à prendre des initiatives et à présenter la démarche suivie, même si
+elle n’a pas abouti. La démarche est évaluée et nécessite d’être correctement présentée.
+
+2. Récupérer après l’effort
+Après un effort intense, tel que celui fourni par Robert Förstemann, l'organisme a besoin
+de glucides simples tels que le saccharose, appelés sucres rapides, disponibles
+rapidement pour reconstituer les ressources en énergie de l'organisme. Dans cette partie,
+nous cherchons à déterminer la quantité nécessaire de sucre (saccharose) à ingérer pour
+récupérer après l’effort fourni par Robert Förstemann.
+Le saccharose, sucre de table habituel, est un composé organique de formule brute
+C12H22O11. Son assimilation par l’organisme s’effectue après son hydrolyse (réaction avec
+l’eau du saccharose) qui forme du glucose et du fructose, deux sucres de même formule
+brute.
+La molécule de glucose peut adopter une configuration à chaîne ouverte ou cyclique,
+comme l’illustre les deux représentations du glucose suivantes :
+
+D’après http://www.societechimiquedefrance.fr/saccharose.html
+1 cal = 4,18 J ;
+masses molaires atomiques (en g.mol-1) : M(O) = 16 ; M(C) = 12 ; M(H) = 1 ;
+une boîte de sucre de masse nette m = 1,0 kg contient 168 morceaux ;
+l’énergie molaire fournie par la combustion (oxydation complète) du saccharose est
+5,8×106 J·mol-1 ;
+bandes d’absorption IR de quelques liaisons chimiques :
+famille
+
+liaison
+
+nombres d’onde (cm1
+)
+
+cétone
+
+1705 - 1725
+
+aldéhyde
+
+Ctri – H
+
+2700 -2900
+
+1720 - 1740
+
+acide
+carboxylique
+
+O–H
+
+2500 - 3200
+
+1740 - 1800
+
+ester
+
+1730 - 1750
+
+O – Hlié
+
+3200 - 3450
+
+O – Hlibre
+
+3600 - 3700
+
+alcool
+
+2.1. Le spectre infrarouge obtenu par analyse d’un échantillon de glucose est fourni cidessous. Déduire de ce spectre la configuration majoritaire du glucose dans
+l’échantillon étudié. Justifier.
+
+Transmita
+nce %
+
+Nombre
+4000
+
+3000
+
+2000
+
+1500
+
+1000
+
+D’après Nationnal Institute of Advanced Industrial Science and technology –
+htpp://sdbs.aist.go.jp
+2.2. Écrire l’équation de la réaction modélisant l’hydrolyse du saccharose.
+2.3. Vérifier que l’oxydation complète d’un morceau de sucre libère une énergie
+d’environ 24 kcal.
+2.4. En déduire la quantité de sucre que Robert Förstemann doit ingérer pour
+compenser l’effort réalisé en supposant que l’énergie musculaire a été intégralement
+transférée au grille-pain. Commenter.
+
+PARTIE B
+La fluorescence au service du diagnostic médical (10 points)
+L’angiographie est une analyse médicale qui consiste à photographier les artères et les
+veines afin de déceler éventuellement des anomalies circulatoires telles que des lésions,
+des anévrismes, etc. Dans le cas particulier de l’angiographie rétinienne on injecte un
+colorant fluorescent tel que la fluorescéine au patient. Ce colorant est transporté dans tout
+le réseau artériel et veineux de la rétine. Des clichés sont pris au cours du temps et leur
+analyse permet d’établir le diagnostic. L’image ci-dessous est l’image obtenue suite à une
+angiographie rétinienne d’un patient diabétique. Elle révèle une rétinopathie qui se
+caractérise par l’existence d’une tâche blanche sur la rétine.
+
+www.creteilophtalmo.fr/autres-pathologies/retinopathie-diabetique/
+Les objectifs de cet exercice sont les suivants :
+- comprendre l’origine physique du phénomène de fluorescence en étudiant l’expérience
+de Stokes ;
+- l’étude du principe de photographie réalisée lors de l’angiographie ;
+- l’analyse d’une solution de fluorescéine.
+I. Origine physique du phénomène de fluorescence
+Les travaux de nombreux scientifiques ont contribué à la compréhension de l’origine de la
+fluorescence ainsi qu’à son utilisation au quotidien dans la détection, les analyses et les
+diagnostics. Parmi ces scientifiques nous pouvons citer Sir Gabriel Stokes (1819-1903)
+dont l’expérience est décrite ci-dessous.
+En 1852, Sir Georges Gabriel Stokes, professeur de mathématiques et de physique à
+l’université de Cambridge étudia les propriétés d’une solution de sulfate de quinine dont la
+surface est de couleur bleue lorsqu’elle est éclairée en lumière blanche
+L’expérience qu’il réalise consiste, dans un premier temps, à décomposer la lumière du
+Soleil par un prisme afin d’obtenir un spectre d’émission. Puis il éclaire la solution de
+sulfate de quinine avec les différentes parties du spectre obtenu en allant du rouge au
+violet. Il observe que la solution est traversée par la quasi-totalité de la lumière qu’elle
+reçoit, sans perturbation particulière, lorsque les radiations se situent entre le rouge et
+bleu du spectre. Par contre lorsque la solution est éclairée avec les rayonnements violets
+
+du spectre visible et au-delà c’est-à-dire dans l’ultraviolet, la solution émet une lumière de
+couleur bleue.
+Cette dernière observation permet à Sir Stokes de prouver que l’émission bleutée
+observée provient d’une absorption de la lumière dans l’ultraviolet. Il aboutit à la
+conclusion selon laquelle : « la longueur d’onde d’une lumière émise par une solution
+colorée sera supérieure à celle du rayonnement incident à l’origine de cette
+émission » : c’est la loi de Stokes.
+Texte Inspiré de « Lumière et Phosphorescence » de Bernard Valeur
+- Constante de Planck : h = 6,63×10–34 J.s ;
+- 1 eV = 1,602×10–19 J ;
+- la relation de Planck Einstein reliant ∆ , ℎ,
+est supposée connue.
+- Diagramme simplifié de Perrin-Jablonski
+Le diagramme ci-contre est une représentation
+simplifiée de la voie de désexcitation d’une
+molécule fluorescente après absorption d’un
+photon du niveau fondamental au deuxième
+niveau d’énergie électronique.
+La désexcitation comporte deux phases :
+- la première qui porte le nom de processus
+de conversion interne permet à la
+molécule de passer d’un niveau excité
+supérieur à un niveau excité intermédiaire
+inférieur. Au cours de cette étape il n’y a pas
+d’émission de photons mais il peut y avoir
+des transferts thermiques.
+- la deuxième phase, la fluorescence, est le
+retour à l’état fondamental avec émission
+d’un photon.
+1. D’après les conclusions de Sir Gabriel Stokes, quelle est l’origine de la couleur bleue
+fluorescente de la solution de quinine ?
+2. À partir des mots soulignés dans le document présentant le diagramme simplifié de
+Perrin-Jablonski, compléter l’annexe à rendre avec la copie.
+3. Proposer une explication, s’appuyant sur des calculs, permettant de justifier que les
+transitions représentées dans le diagramme simplifié de Perrin-Jablonski sont en accord
+avec la « loi de Stokes ».
+II. Principes de la photographie réalisée lors de l’angiographie rétinienne
+L’appareil photographique utilisé pour l’angiographie peut être modélisé par :
+- une lentille convergente de centre O, correspondant à l’objectif. Sa distance focale
+’ = f’ = 60 mm ;
+image est égale à
+
+- un écran correspondant au capteur numérique de l’appareil photographique.
+On suppose par la suite que l’objectif de l’appareil photographique est proche de
+l’œil au cours de cette analyse médicale comme le montre le schéma ci-dessous.
+Schéma représentant l’expérience réalisé, sans souci d’échelle.
+
+écran
+
+Œil
+rétine R
+
+Axe optique
+
+D
+4. La tâche blanche présente sur la rétine est représentée par le segment AB. Son image
+sur l’écran est notée A’B’. Sachant que le grandissement de l’objectif de l’appareil
+-1, donner les
+photographique utilisé lors de cette analyse est =
+caractéristiques de l’image de la tâche blanche formée sur le capteur numérique dans
+l’hypothèse où
+> 0.
+5. Exprimer, en fonction de f ‘ et , la distance
+pour laquelle l’image de la tâche
+blanche est nette sur le capteur de l’appareil photographique. Donner la valeur de la
+distance D et commenter la valeur obtenue.
+III. Analyse de la solution de fluorescéine utilisée pour l’angiographie
+La solution de fluorescéine utilisée lors de l’angiographie rétinienne doit avoir les
+caractéristiques suivantes :
+fluorescéine sodique : 10,00 g pour 100 mL de solution injectable ;
+une ampoule de 5 mL contient 0,5 g de fluorescéine sodique.
+http://agence-prd.ansm.sante.fr/php/ecodex/rcp/R0287916.htm
+On souhaite vérifier la concentration en fluorescéine d’une solution commercialeafin de
+s’assurer qu’elle puisse être utilisée lors d’une angiographie rétinienne.
+- Formule brute de la fluorescéine : C20H1205 ;
+- Masses molaires atomiques :
+M(C) = 12,0 g.mol-1 ; M(H) = 1,0 g.mol-1 ; M(O) = 16,0 g.mol-1
+- Spectres d’absorption et de fluorescence de la fluorescéine :
+
+Pour simplifier leurs exploitations, ces spectres sont ramenés au même maximum.
+6. Les spectres d’absorption et de fluorescence de la fluorescéine sont- ils en accords
+avec la loi de Stokes ? Justifier votre réponse.
+Pour déterminer la concentration en quantité de matière en fluorescéine de la solution
+commerciale, l’absorbance de plusieurs solutions de fluorescéine de concentrations en
+quantité de matière connues a été mesurée.
+Les mesures ont permis d’obtenir les résultats suivants :
+1,5
+3,0
+4,5
+6,0
+Concentration C
+de la solution
+
+7,5
+
+9,0
+
+0,80
+
+0,96
+
+en µmol. L-1
+Absorbance A
+de la solution
+
+0,10
+
+0,21
+
+0,31
+
+0,64
+
+La courbe d’étalonnage représentant l’évolution de l’absorbance en fonction de la
+concentration en quantité de matière en fluorescéine est reproduite ci-dessous.
+
+Courbe d'étalonnage
+A
+
+Résultat de la modélisation : A = 0,0693 x C
+
+Concentration C en µmol.L-1
+
+7. À quelle longueur d’onde doit-on se placer afin de réaliser les mesures décrites ?
+Justifier votre réponse.
+Afin d’analyser la solution commerciale, il faut la diluer. On prépare ainsi une solution S1
+en diluant 30 000 fois la solution commerciale.
+8. La valeur de l’absorbance de la solution S1 mesurée étant de 0,67, déterminer la
+concentration en quantité de matière C de fluorescéine, contenue dans la solution
+commerciale.
+9. L’incertitude-type sur la valeur de C est estimée à ∆C = 0,02 mol.L-1 dans les conditions
+de l’expérience. Comparer la valeur expérimentale obtenue à la valeur retenue pour les
+angiographies rétiniennes. Conclure.
+
+Annexe à rendre avec la copie

@@ -1,0 +1,361 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1191064, "at": "2026-11-23T09:31:22+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique sans enseignement de mathématiques
+spécifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Perte auditive après un concert
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les
+semaines qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre
+les questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les trois documents suivants :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité sonore
+minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les fréquences
+sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+-10
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte_auditive_moyenne(Pmd,Pmg):
+if -15 <= Pmg - Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg - Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+Perte auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20 dB
+
+Vous n'éprouvez aucune difficulté particulière, en milieu
+calme ou bruyant.
+
+de 20 à 40 dB
+
+Vous avez des difficultés à percevoir les voix faibles ou
+lointaines et les conversations, surtout lorsque vous êtes
+en milieu bruyant.
+
+de 40 à 70 dB
+
+La perception des paroles devient difficile, il faut que cellesci soient fortes pour que vous puissiez les comprendre
+aisément. Vous avez tendance à augmenter le volume de
+la télévision, radio, mp3... Suivre une conversation en
+groupe devient très compliqué et fatiguant.
+
+de 70 à 90 dB
+
+Vous n'entendez pas les paroles, à moins que celles-ci
+soient fortes ou proche de vous. Il est très difficile pour vous
+de suivre une conversation, voire impossible si vous n'êtes
+pas équipé d'aides auditives. Certains sons forts restent
+audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel que
+soit l'environnement d'écoute. Vous n'arrivez pas à
+communiquer, suivre une conversation est impossible sans
+appareil auditif, certains sons extrêmement forts restent
+toutefois audibles.
+
+Surdité
+totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+légère
+
+moyenne
+
+sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perte-daudition.html
+
+Exercice 2 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La Terre et Vénus : des planètes qui se ressemblent
+Le Soleil est l'étoile la plus proche de la Terre, l'énergie qu'il rayonne permet le
+développement de la vie.
+La présence de dioxyde de carbone dans l’atmosphère participe à l’effet de serre
+atmosphérique.
+Document 1. Caractéristiques de Vénus et de la Terre
+
+Planète
+
+Constante
+solaire*
+Cplanète
+(W.m-2)
+
+Température
+de surface
+moyenne (K)
+
+Albédo
+
+Composition de
+l’atmosphère
+
+Distance
+au soleil
+(U.A.)
+
+Rayon
+de la
+planète
+(km)
+
+1,0
+
+6371
+
+0,72
+
+6050
+
+Diazote (78 %)
+Terre
+
+1368
+
+0,3
+
+Dioxygène (21 %)
+Autres gaz (1%)
+Diazote (3,5 %)
+
+Vénus
+
+2639
+
+0,78
+
+Dioxyde de
+carbone (96,5 %)
+Autres gaz (traces)
+
+* La notion de « constante solaire » est précisée dans le texte, en question 3.
+1- Recopier sur la copie la proposition correcte.
+La valeur de l’albédo donne une mesure :
+
+du pouvoir absorbant d’une surface donnée ;
+
+de la puissance solaire parvenant sur une surface donnée ;
+
+de la proportion de puissance lumineuse réfléchie ou diffusée par une surface
+éclairée ;
+
+de la quantité de gaz à effet de serre dans l’atmosphère.
+
+2- Sur le document 2 (visible en fin d’exercice), sont représentées deux courbes,
+étiquetées (a) et (b). L’une d’elles représente un modèle de la puissance radiative
+émise par la Terre en fonction de la température de la Terre ; l’autre représente un
+modèle de la puissance solaire absorbée par la Terre, en tenant compte de l’albédo
+terrestre mais sans tenir compte de l’effet de serre.
+2-a- Préciser, en justifiant la réponse, ce que représentent les courbes (a) et (b).
+2-b- Déterminer graphiquement la température d’équilibre de la Terre prédite par cette
+modélisation, en expliquant la méthode employée. Commenter le résultat, sachant que
+l’on observe une température moyenne de l’ordre de 288 K (15 °C) à la surface de la
+Terre.
+3- La constante solaire d’une planète est la puissance solaire parvenant sur une unité
+de surface de la planète en incidence normale.
+3-a- Expliquer pourquoi la constante solaire de Vénus est plus grande que celle de la
+Terre.
+3-b- En prenant en compte l’albédo, calculer la puissance solaire PS,Terre effectivement
+absorbée par unité de surface Terrestre en incidence normale. Calculer de même la
+puissance solaire PS,Vénus effectivement absorbée par unité de surface de Vénus en
+incidence normale.
+3-c- Proposer une explication au fait que, malgré le résultat précédent, la température
+moyenne de Vénus est très supérieure à la température de la Terre.
+
+Document 2. Puissances absorbées et émises par la Terre en fonction de la
+température
+
+5E+17
+4,5E+17
+4E+17
+
+PUISSANCE (W)
+
+3,5E+17
+3E+17
+
+(b)
+
+2,5E+17
+
+(a)
+
+2E+17
+
+1,5E+17
+1E+17
+5E+16
+
+TEMPÉRATURE (K)
+
+Note - Sur l’axe des ordonnées les valeurs indiquées sont à comprendre ainsi :
+5E+17 = 5×1017
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Un poison radioactif
+Un écrivain vous contacte pour achever un roman d’espionnage… Suspense !
+Document 1 : lettre de l’écrivain à votre attention
+Bonjour, je suis Jules Servadac, écrivain de roman policier. Je vous sollicite afin de
+valider quelques aspects scientifiques de mon roman.
+Voici mes premières lignes :
+« Pierre et Marie Curie ont découvert le polonium, juste avant le radium qui les rendit
+célèbres. Le polonium-210 (210Po) est mille fois plus toxique que le plutonium, et un
+million de fois plus encore que le cyanure. Sachez que dix microgrammes (µg) sont
+nécessaires pour empoisonner un homme de poids moyen en quelques semaines et
+que cette dose mortelle est invisible à l’œil nu ».
+Dans mon roman, Tiago, agent secret de Folivie, souhaite s’en servir pour éliminer
+un agent infiltré. Celui-ci dîne tous les soirs dans le même restaurant : l’agent secret
+compte en profiter pour « poivrer » à sa façon son dîner.
+Pour cela, Tiago doit se procurer du polonium-210. Pour des raisons logistiques, il ne
+peut récupérer le polonium que 100 jours avant le dîner programmé dans un autre
+pays. Or le polonium perd la moitié de sa radioactivité tous les 138 jours.
+J’ai deux problèmes à vous soumettre concernant la quantité de polonium que Tiago
+doit transporter :
+
+Restera-t-il suffisamment de Polonium-210 radioactif à la fin de son voyage ?
+
+La dose sera-t-elle invisible à l’œil nu ?
+
+Document 2 : données relatives au polonium
+Le polonium est l’un des rares éléments à cristalliser dans le réseau cubique simple.
+Paramètre de maille : a = 3,359 x 10-10 m.
+Masse molaire du polonium : M(Po) = 209,98 g∙mol-1.
+Donnée complémentaire : nombre d’Avogadro NA = 6,022 x 1023 mol-1.
+Il est rappelé que la masse molaire d’un élément est la masse d’une mole de quantité
+de matière de cet élément.
+
+Partie 1 : la radioactivité du polonium
+L’objectif est ici de vérifier qu’en partant avec 20 µg de polonium-210, il restera
+suffisamment de polonium radioactif à l’issue du voyage.
+Document 3 : courbe de décroissance radioactive du polonium
+
+Nombre d'atomes restants (×1016)
+
+Courbe de décroissance d'un échantillon de
+polonium 210
+
+durée en jour
+
+1- Déterminer en µg la masse initiale de Polonium présente dans l’échantillon utilisé
+pour réaliser le graphique du document 3.
+2- Jules Servadac écrit dans son roman : « Le polonium perd la moitié de sa
+radioactivité tous les 138 jours ».
+2-a- Définir scientifiquement la grandeur physique sur laquelle il appuie cette
+affirmation, en donnant son nom.
+2-b- La faire figurer sur le graphique du document réponse à rendre avec la copie en
+laissant apparents les traits de construction.
+3- Justifier par la méthode de votre choix que, pour l’échantillon considéré, la quantité
+de polonium restant après le voyage sera suffisante pour accomplir la mission.
+
+Partie 2 : la structure du polonium
+L’objectif est ici de vérifier que les 10 µg de polonium dont Tiago a besoin pour
+empoisonner l’agent infiltré sont bien invisibles à l’œil nu.
+4- À partir de vos connaissances et des informations apportées par le document 3,
+répondre aux questions suivantes :
+4-a- Représenter la structure cubique simple du polonium en perspective cavalière.
+4-b- Dénombrer, en indiquant les calculs effectués, les atomes par maille.
+5- Montrer que la masse volumique du polonium est de 9,20 x 106 g.m-3.
+6- Comparaison avec la taille d’un grain de poivre.
+6-a- Calculer le volume occupé par la masse de polonium utilisée par Tiago (10 µg).
+6-b- Sachant qu’un grain de poivre broyé occupe un volume d’environ 10 -10 m3 et est
+difficilement visible à l’œil nu, justifier que l’échantillon est invisible.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Un poison radioactif
+
+Courbe de décroissance
+d'un échantillon de polonium 210
+
+Nombre d'atomes restants (×1016)
+
+durée en jours

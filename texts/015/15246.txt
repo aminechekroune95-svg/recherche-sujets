@@ -1,0 +1,403 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1367430, "at": "2026-11-23T09:40:41+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A 2
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+Quelle est la séquence de bit qui représente –25 en complément à 2 sur 8 bits ?
+0001 1001
+0001 1010
+1110 0110
+1110 0111
+Question A 5
+𝑛 est un entier dont la représentation en base 2 est : 100 1011.
+Laquelle de ces affirmations est vraie ?
+𝑛 est un entier pair plus grand que 128
+𝑛 est un entier impair plus grand que 128
+𝑛 est un entier pair plus petit que 128
+𝑛 est un entier impair plus petit que 128
+
+Question A 6
+Parmi les caractères ci-dessous, lequel ne fait pas partie du code ASCII ?
+a
+@
+é
+
+Thème B : types construits
+Question B 1
+Un programme Python présente la ligne suivante :
+x = ["x1", "x2", "x3"]
+Elle définit :
+une liste de trois éléments
+un tuple de trois éléments
+une fonction acceptant trois paramètres
+un dictionnaire associant la valeur x2 à la clé x1 d'indice x3
+Question B 2
+Si la variable note est définie par note = ["do","ré","mi","fa","sol","la","si"] alors :
+l'index de "sol" est 5
+l'index de note est 0
+l'index de "si" est 7
+l'index de "mi" est 2
+Question B 3
+Les points A, B et C sont de coordonnées A(1,5), B(3,4) et C(-2,1). On veut créer un dictionnaire triangle dont
+les clés sont les noms des points et les valeurs leur couple de coordonnées.
+Comment procéder ?
+triangle = ('A': (1,5), 'B': (3,4), 'C': (-2,1))
+triangle = ['A': (1,5), 'B': (3,4), 'C': (-2,1)]
+triangle = {'A': (1,5), 'B': (3,4), 'C': (-2,1)}
+triangle = {['A',(1,5)], ['B',(3,4)], ['C',(-2,1)]}
+Question B 4
+On définit : t = [2, 8, 9, 2]
+Quelle est la valeur de l'expression [ x*x for x in t ] ?
+une erreur
+[[2, 8, 9, 2], [2, 8, 9, 2]]
+[2, 8, 8, 9, 9, 9, 2, 2, 2, 2]
+[4, 64, 81, 4]
+Question B 5
+
+On définit le dictionnaire dico par les instructions suivantes :
+def f(x):
+return x*x
+def g(x):
+return x + x
+def h(x):
+return 3*x
+dico = { 'F': f, 'G': g(6), 'H': h }
+Une seule des affirmations suivantes est incorrecte. Laquelle ?
+dico['F'] est une fonction
+dico['F'](5) est un entier
+dico['G'] est une fonction
+dico['G'] est un entier
+Question B 6
+On crée la liste suivante :
+t = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]]
+Que vaut t[1][2] :
+on obtient un message d'erreur "indexError: list index out of range"
+
+Thème C : traitement de données en tables
+Question C 1
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution
+affiche le numéro de Dupond ?
+repertoire = [ {'nom': 'Dupont', 'tel': '5234'},
+{'nom': 'Tournesol', 'tel': '5248'}, {'nom': 'Dupond', 'tel': '3452'}]
+for i in range(len(repertoire)):
+if ......
+:
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C 2
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = a + b
+Que contient la variable c à la fin de cette exécution ?
+[5,7,9]
+[1,4,2,5,3,6]
+[1,2,3,4,5,6]
+[1,2,3,5,7,9]
+Question C 3
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 4
+On utilise habituellement un fichier d'extension csv pour quel type de données ?
+des données structurées graphiquement
+des données sonores
+des données compressées
+des données structurées en tableau
+
+Question C 5
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C 6
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quel est le protocole utilisé pour accéder à la page dont l’URL est ci-dessous ?
+https://www.domaine.gouv.fr/qcm.php?nom=Martin
+HTTPS
+HTTP
+WWW
+FTP
+Question D 2
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function action(event) {
+this.style.color = "blue"
+}
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D 3
+Parmi les balises HTML ci-dessous quelle est celle qui permet à l’utilisateur de saisir son nom dans un
+formulaire en respectant la norme HTML ?
+<select />
+<form />
+<input type="text" />
+<input type="name" />
+Question D 4
+Quelle URL parmi les suivantes témoigne que l'échange entre le navigateur et le serveur est chiffré ?
+http://www.mabanque.com/
+http://www.mabanque.fr/
+https://www.mabanque.fr/
+http://secure.mabanque.fr/
+Question D 5
+Quel langage est interprété ou exécuté côté serveur ?
+JavaScript
+PHP
+HTML
+CSS
+
+Question D 6
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+On cherche à connaître l’itinéraire vers une destination sur un réseau. On utilisera la commande :
+ping
+traceroute
+ipconfig
+arp
+Question E 2
+Dans un terminal sous Linux, à quoi sert la commande traceroute ?
+à afficher un itinéraire routier entre deux villes
+c'est un synonyme pour la commande ping
+à afficher le chemin suivi par des paquets à travers un protocole IP
+à suivre pas à pas l'exécution d'un programme
+Question E 3
+Quelle commande du shell Linux permet de renommer un fichier ?
+cp
+rm
+mv
+touch
+Question E 4
+Parmi les adresses suivantes, laquelle est une adresse Ethernet non valide ?
+8D:A9:D5:67:E6:F3
+8d:a9:d5:67:e6:f3
+8H:A9:D5:67:E6:F3
+FF:A9:D5:67:E6:F3
+Question E 5
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+Question E 6
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+adresse Ipv4 : 172.16.100.202
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+
+Thème F : langages et programmation
+Question F 1
+resultat = [1 * 7]
+Que contient la variable resultat après son exécution ?
+[1]
+[7]
+[7, 7, 7, 7, 7, 7, 7]
+Question F 2
+On considère l'instruction suivante :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F 3
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+while n != 20:
+n = n + 2
+le programme ne termine pas, la boucle tourne indéfiniment
+Question F 4
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Question F 5
+def calcul(a,b):
+a = a + 2
+b = b + 5
+c = a + b
+return c
+a,b = 3,5
+calcul(a,b)
+À la fin de cette exécution :
+a vaut 3, b vaut 5 et c vaut 15
+a vaut 3, b vaut 5 et c n'est pas défini
+a vaut 5, b vaut 10 et c vaut 15
+a vaut 5, b vaut 10 et c n'est pas défini
+Question F 6
+Quelle est la valeur de la variable x à la fin de l'exécution du script suivant :
+def f(x):
+x = x + 1
+return x + 1
+x = 0
+f(x+1)
+
+Thème G : algorithmique
+Question G 1
+On considère le code suivant, où n désigne un entier au moins égal à 2.
+p = 1
+while p < n:
+p = 2*p
+Quel argument permet d'affirmer que son exécution termine à coup sûr ?
+p est une puissance de 2
+toute boucle while termine
+les valeurs successives de p constituent une suite d'entiers positifs strictement croissante
+les valeurs successives de n – p constituent une suite d'entiers positifs strictement décroissante
+Question G 2
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+Question G 3
+Quel code parmi les quatre proposés ci-dessous s'exécute-t-il en un temps linéaire en 𝑛 (c'est-à-dire avec un
+temps d'exécution majoré par 𝐴 × 𝑛 + 𝐵 où 𝐴 et 𝐵 sont deux constantes) ?
+for i in range(n//2):
+for j in range(i+1,n):
+
+for i in range(n):
+
+L = [ i+j for i in range(n) for j in range(n) ]
+for x in L:
+
+for i in range(n//2):
+for j in range(n//2):
+
+Question G 4
+Algorithme des k plus proches voisins. Nous disposons de 3 espèces de plantes (A, B, C) et
+d'un échantillon de plantes. Nous disposons de la distance entre notre échantillon et les
+spécimens de chaque espèce.
+Voici le début du tableau trié par ordre croissant de distance :
+Espèce
+Distance
+
+0,3
+
+0,7
+
+0,8
+
+1,0
+
+1,1
+
+…
+...
+Dans le cas ou k = 3, l'échantillon appartient à l’espèce :
+Impossible à déterminer
+Question G 5
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+Question G 6
+On exécute le code suivant :
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6

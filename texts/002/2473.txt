@@ -1,0 +1,217 @@
+{"pages": 6, "method": "pdftotext", "bytes": 2321656, "at": "2026-11-23T09:35:15+00:00"}
+ENSEIGNEMENT SCIENTIFIQUE
+SUJET ZÉRO n°3
+L’usage d’une calculatrice est autorisé.
+Exercice 1 : Des instruments, des notes et des gammes (10 points sur 20)
+Les instruments de musique produisent des sons auxquels l’oreille humaine associe certaines
+caractéristiques : hauteur, timbre et intensité. La répartition des notes dans une gamme a été retenue
+pour qu’elles sonnent de manière harmonieuse les unes par rapport aux autres. La recherche de
+cette harmonie a conduit à différents types de gammes, des gammes dites de Pythagore aux gammes
+tempérées.
+Le sujet est composé de deux parties largement indépendantes
+Partie 1 : des instruments et des notes
+Les cordes d’un piano vibrent lorsqu’elles sont frappées par de petits marteaux actionnés par les
+touches du clavier. Les sons produits par le piano résultent de ces vibrations.
+Document 1 : notes associées aux touches d’un piano pour l’octave Do3 - Do4 et fréquences
+associées en hertz (Hz)
+
+1- Calculer la fréquence associée au La4 située une octave au dessus du La3.
+2- On s’intéresse aux sons produits par ce piano. Un système d'acquisition informatisé permet
+l'enregistrement et la visualisation des signaux associés à ces sons.
+Document 2 : signaux enregistrés correspondant à des notes de musique jouées par un piano
+
+Figure 1
+Signal sonore en fonction du temps. Une
+graduation horizontale correspond à 1,0 ms.
+
+Figure 2
+Signal sonore en fonction du temps. Une
+graduation horizontale correspond à 1,0 ms.
+
+2-a- Justifier que les figures 1 et 2 correspondent à deux notes différentes.
+2-b- Identifier les notes correspondantes aux figures 1 et 2.
+3- L’analyse spectrale permet, après une acquisition informatisée et un traitement numérique, de révéler
+la « signature acoustique » d'un son en faisant apparaître l’amplitude de ses différentes composantes
+en fréquence.
+Document 3 : Spectres de sons produits par deux instruments de musique
+(fréquence de chaque composante indiquée en hertz)
+
+3-a- Ces deux sons ont-ils la même hauteur ? L’oreille humaine peut-elle les différencier ?
+3-b- Le spectre a correspond à l’un des sons produit par un piano étudiés dans la question 2. Associer
+ce spectre à l’un des deux signaux du document 2.
+
+Partie 2 : des notes et des gammes
+La théorie musicale étant fondée sur des rapports de fréquences, on décide de simplifier les calculs
+en attribuant la valeur 1 (sans unité) à une fréquence choisie comme référence. Celle-ci correspond
+à une note de référence (par exemple 262 Hz pour le Do 3). On retrouve ensuite les fréquences
+réelles en multipliant les valeurs calculées par la fréquence de la note de référence.
+La construction des gammes dites de Pythagore est basée sur le cycle des quintes : on part de la
+fréquence de valeur 𝑓" = 1. On construit une nouvelle fréquence, la quinte, en multipliant 𝑓" par ( .On
+réitère ce processus pour obtenir la quinte de la quinte, et ainsi de suite. À certaines étapes, le fait
+de multiplier par ( une fréquence 𝑓 comprise entre 1 et 2 peut donner une fréquence supérieure ou
+égale à 2. On se propose de démontrer que, si on divise par 2 la valeur obtenue, on la ramène dans
+l’octave.
+
+4- On suppose que 1 ≤ 𝑓 < 2 et on raisonne par disjonction de cas :
+,
+
+-
+
+premier cas : 1 ≤ 𝑓 < '. Montrer que 1 ≤ ( × 𝑓 < 2
+
+-
+
+deuxième cas : ' ≤ 𝑓 < 2. Montrer que 2 ≤ ( × 𝑓 et 1 ≤ ( × ( 𝑓 < 2
+
+,
+
+.
+
+5- L’algorithme suivant permet de calculer les fréquences des notes successivement obtenues par
+ce processus jusqu’à ce qu’on retombe sur la fréquence initiale.
+𝑓←1
+
+f ¬ ×𝑓
+n¬ 1
+Tant que f ¹ 1 faire
+
+n¬ n +1
+f¬ f ´
+
+Si f ³ 2 alors f ¬ f ´
+
+Fin Si
+Fin Tant que
+
+Recopier et compléter le tableau ci-dessous en donnant les valeurs des 12 premières quintes
+obtenues par cet algorithme. Les résultats seront donnés d’abord sous forme exacte comme quotients
+d’une puissance de 2 par une puissance de 3, puis par leurs valeurs décimales approchées au
+centième obtenues à l’aide de la calculatrice.
+Numéro de la note
+
+Fréquence
+(fraction
+irréductible)
+Fréquence (valeur
+approchée à 10-2
+près)
+
+2..
+
+1,5
+
+1,9
+
+1,42 1,07
+
+2.,
+
+3."
+2.1
+
+3..
+2.2
+
+3.(
+2.4
+
+1,20 1,80 1,35 1,01
+
+6- L’algorithme termine-t-il pour une valeur de 𝑛 inférieure ou égale à 12 ?
+7- Chacune des fréquences calculées est obtenue à partir de 1 par des multiplications successives
+.
+'6
+par ( et éventuellement par (. Elles peuvent donc toutes s’écrire sous la forme (7 où 𝑚 et 𝑛 sont des
+entiers non nuls.
+'6
+
+7-a- Démontrer que l’égalité (7 = 1 est impossible.
+7-b- Que peut-on en déduire pour l’algorithme proposé ci-dessus ?
+8- D’après ce qui précède, le cycle des quintes ne « reboucle » jamais exactement sur la note de
+départ. En s’appuyant sur le tableau de la question 5, justifier le choix de 12 notes dans une gamme
+construite selon ce principe.
+
+Exercice 2 : La sphéricité de la Terre (10 points sur 20)
+Les Grecs de l’Antiquité attribuaient déjà à la Terre une forme sphérique et Ératosthène (276-194 av
+JC) fut le premier à en calculer la circonférence. Dans tout ce qui suit, la Terre est assimilée à une
+sphère de rayon 6371 km.
+Partie 1. Repérage sur la sphère terrestre
+Afin de se repérer à la surface de la sphère terrestre, on utilise des coordonnées géographiques
+(longitude, latitude).
+Ville
+Libreville
+Quito
+Toronto
+Toulouse
+
+Pays
+Gabon
+Équateur
+Canada
+France
+
+Longitude
+9° Est
+79° Ouest
+79° Ouest
+1° Est
+
+Latitude
+0°
+0°
+44° Nord
+44° Nord
+
+Questions :
+1- Calculer la longueur d’un méridien terrestre.
+2- À partir des informations du tableau ci-dessus
+2-a- Indiquer les villes qui sont situées sur un même méridien.
+2-b- Indiquer les villes qui sont situées sur un même parallèle.
+3- On note O le centre de la Terre et T, Q et T’ les villes Toronto, Quito et Toulouse. On note I le
+centre du parallèle passant par Toronto et Toulouse. Sur le schéma ci-dessous (figure 1a)
+représentant la sphère terrestre, on a placé les points O, I, Q, T et T’.
+Document 1 : Représentations graphiques permettant un repérage spatial sur la sphère
+Figure 1a. Sphère terrestre
+
+Figure 1b. Plan contenant l’axe des pôles et le
+point T
+
+3-a- Donner la mesure, en degré, des angles QOT et TIT’.
+3-b- Calculer la longueur de la portion de méridien reliant Quito à Toronto.
+4- À l’aide de la figure 1b :
+4-a- Préciser la longueur OT puis calculer la longueur IT.
+
+4-b- En déduire la longueur du parallèle passant par Toulouse et Toronto.
+4-c- Justifier, par un calcul, que la longueur de la portion de parallèle reliant Toulouse à Toronto est
+environ égale à 6399 km.
+5- Un système d’information géographique (SIG) donne les informations suivantes :
+• Distance Quito - Toronto : 4891 km
+• Distance Toulouse - Toronto : 6230 km.
+• Pour un système d’information géographique, la distance entre deux points du globe est le
+plus court chemin qui les relie à la surface de la Terre.
+Expliquer pourquoi les longueurs données par le SIG et celles calculées dans les questions 3 et 4
+sont, dans un cas, très proches alors que, dans l’autre, elles ne le sont pas.
+Partie 2 : les différents climats de la Terre
+Document de référence : Les zones climatiques à la surface de la Terre
+
+Source : http://planete-terre.tripod.com/zontherm.htm
+
+Sur cette carte, on constate que Quito et Libreville, qui sont à la même latitude, sont dans une zone
+chaude intertropicale. Pour Toronto, situé à la même longitude que Quito, la température moyenne
+annuelle est plus froide.
+Afin d’expliquer ces différences climatiques, un élève a proposé comme hypothèse :
+« Il fait plus chaud à l’équateur qu’aux pôles parce que La Terre est plus proche du Soleil à l’équateur
+qu’aux pôles ».
+6- À partir des connaissances acquises et des informations issues des documents 3 et 4, rédiger un
+paragraphe argumenté permettant à la fois d’expliquer qu’il fait plus chaud à l’équateur qu’aux pôles
+et d’invalider l’hypothèse émise par cet élève.
+La justification des arguments pourra s’appuyer sur des schémas explicatifs.
+
+Document 3 : Puissance solaire reçue en fonction de la distance au Soleil (en unités
+astronomiques u.a. 1u.a. = 1,5×108 km)
+
+Source : http://planet-terre.ens-lyon.fr/article/explication-temperature.xml
+
+Document 4 : Puissance solaire reçue par unité de surface en fonction de la latitude
+
+Source : D’après http://www.ac-grenoble.fr/armorin.crest/

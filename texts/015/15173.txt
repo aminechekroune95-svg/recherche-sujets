@@ -1,0 +1,254 @@
+{"pages": 16, "method": "pdftotext", "bytes": 2365229, "at": "2026-11-23T09:30:32+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Concert celtique
+Un concert de musique rock celtique se déroule dans une salle des fêtes.
+Partie 1 – Analyse du son
+Lors de ce concert, trois musiciens jouent ensemble sur scène : un guitariste, un
+bassiste et un violoniste.
+Le son de chaque instrument a été enregistré séparément. Les courbes des signaux
+en tension correspondantes sont données dans le document 1.
+Document 1 – Enregistrements des sons des différents instruments
+Courbe 1 : guitare électrique
+
+Courbe 2 : basse
+
+Courbe 3 : violon
+
+1- À l’aide des enregistrements précédents, indiquer en argumentant si les trois
+musiciens jouent la même note ou non.
+
+Partie 2 – Enregistrement du concert
+Un des spectateurs décide de réaliser un enregistrement audio d’une partie du
+concert avec son smartphone. Le stockage interne est quasiment saturé : il lui reste
+120 Mo de libres sur sa carte SD de 16 Go.
+Document 2 – Numérisation du son
+Courbe de superposition des trois sons et quantification en 4 bits
+avec Te = 0,02 ms, soit Fe = 50 000 Hz
+
+Données : 1 octet = 8 bits ; 1 Mo = 106 octets ; 1 Go = 109 octets.
+2- Justifier avec le document 2 que le smartphone encode à 200 000 bit.s-1.
+3- Calculer la durée d’enregistrement du concert possible sur le smartphone de ce
+spectateur.
+
+On souhaite diviser par quatre la taille prise par cet enregistrement par compression.
+4- Déterminer le taux de compression nécessaire pour que l’enregistrement ne
+prenne que la place souhaitée.
+5- Expliquer pourquoi un fichier audio obtenu avec une technique de compression
+dite « avec perte d’information » est de nature à permettre une écoute
+satisfaisante du concert enregistré.
+Partie 3 – Risque sur l’audition
+On s’interroge sur les risques encourus en étant souvent exposé à des niveaux
+sonores élevés.
+Lors du concert, l’application sonomètre du smartphone affiche une valeur de 102 dB
+à proximité des enceintes.
+On utilisera les documents 3 et 4 qui suivent pour répondre aux questions de cette
+partie.
+6- Indiquer s’il existe un risque de perte d’audition en assistant à ce concert.
+Argumenter votre réponse.
+7- Préciser les précautions qu’auraient pu prendre les spectateurs pour davantage
+préserver leur audition.
+
+Document 3 – Échelle de niveau sonore et risques associés
+
+Source : lelivrescolaire.fr
+
+Document 4 – Conséquences d’un traumatisme sonore sur l’oreille
+
+Photographies de cellules ciliées de rats, soumises à différents niveaux sonores
+prolongés, observées au Microscope Électronique à Balayage.
+
+Évolution du pourcentage de destruction des cils des cellules ciliées en fonction du
+niveau sonore chez le rat.
+
+Des rats ont été exposés à des bruits semblables à des explosions de niveaux
+sonores croissants. Leurs cellules ciliées ont ensuite été observées au
+microscope. Chez l’être humain lorsque les cellules ciliées sont endommagées,
+elles ne peuvent ni être réparées, ni remplacées. Ces dégâts irréversibles peuvent
+causer une surdité.
+Source : d’après https://irem-limoges.canoprof.fr
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Datation de l’âge d’une roche
+La datation de la Terre a été au cœur de multiples controverses au sein de la
+communauté scientifique.
+Comme de nombreux scientifiques au XXe siècle, on cherche dans cet exercice à
+dater un granite. Les granites sont des roches magmatiques issues du
+refroidissement lent d’un magma. Ils n’apparaissent en surface qu’après érosion de
+tout ce qui les recouvrait.
+
+Document 1 – Estimation de l’âge de la Terre par différents scientifiques
+
+Source : https://www.digischool.fr/cours/l-histoire-de-l-age-de-la-terre
+Par exemple, Buffon donne un âge de la Terre situé entre environ 75 000 ans et 10 Ma.
+
+Document 2 – Théories de Kelvin et Rutherford
+En 1863, Kelvin fait l’hypothèse que la Terre se refroidit de manière homogène
+depuis sa formation. Ainsi la Terre se refroidit et perd de la chaleur uniquement par
+conduction thermique.
+En 1904, Rutherford découvre que la désintégration de certains noyaux d’atomes
+radioactifs s’accompagne d’un dégagement de chaleur. Cette découverte
+ébranlera les conclusions de Kelvin. Effectivement, la Terre possède une source
+de chaleur que n’avait pas envisagée Kelvin dans son modèle de refroidissement.
+Document 3 – Présentation de trois géochronomètres
+Les géochronomètres sont des couples d’éléments, initialement présents dans les
+échantillons à dater dont la quantité varie au cours du temps. On considère qu’un
+géochronomètre peut être utilisé pour dater un échantillon vieux d’au maximum dix
+fois la demi-vie du noyau père du géochronomètre.
+Demi-vie en années du
+noyau père
+
+Conditions d’utilisation
+
+C/14N
+
+5 730
+
+S’utilise sur des fossiles
+
+K/40Ar
+
+1,25×109
+
+Difficile à utiliser sur les
+roches magmatiques
+
+Rb/86Sr
+
+48,8×109
+
+S’utilise sur des roches
+magmatiques
+
+Géochronomètre
+
+Document 4 – Droite isochrone par mesure des rapports 87Rb/86Sr et 87Sr/86Sr
+
+Document 5 – Datation d’un granite
+L’âge de la roche à dater dépend du coefficient directeur a de la droite isochrone
+obtenue en représentant 87Sr/86Sr en fonction de 87Rb/86Sr, comme l’illustre le
+graphique ci-dessous.
+
+1- Recopier sur votre feuille la réponse exacte :
+a) D’après Kelvin, la Terre a 100 Ma.
+b) D’après Kelvin, la Terre a 1860 ans.
+c) D’après Kelvin, la Terre a entre 40 Ma et 200 Ma.
+2- Nommer le phénomène physique sur lequel repose le raisonnement de Kelvin.
+3- D’après le document 1, préciser quelles évolutions de l’estimation de l’âge de la
+Terre on peut noter entre l’estimation de Kelvin et celle actuelle.
+4- Proposer une explication en s’appuyant sur le document 2 qui montre les limites
+du raisonnement de Kelvin.
+5- D’après le document 3, trouver deux arguments pour justifier que le couple
+87Rb/86Sr peut être utilisé pour dater l’âge de la Terre.
+
+On se propose maintenant de dater un morceau de granite trouvé à la surface de la
+Terre avec le couple 87Rb/86Sr.
+6- Montrer que le coefficient directeur de la droite du document 4 est environ égal à
+0,025.
+7- À l’aide du document 5, estimer l’âge de ce granite.
+8- Préciser si ce granite s’est formé au même moment que la Terre. Justifier.
+9- Discuter de la possibilité de dater l’âge de la Terre avec des échantillons de
+roches terrestres.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire en 3 ou 4 lignes le mécanisme qui est à l’origine de l’énergie
+rayonnée par une étoile.
+À partir de vos connaissances et des informations apportées par les documents
+fournis dans la suite, répondre aux questions suivantes.
+2- Sans calcul, indiquer si la température de surface de l’étoile Véga est supérieure
+ou inférieure à celle du Soleil. Justifier votre réponse.
+3- Calculer la température de surface de l’étoile Véga en utilisant le document 2.
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des
+informations extraites des documents 3 et 4, ainsi que de vos connaissances. La
+réponse ne doit pas excéder 8 lignes.
+
+Document 1 – Profil spectral de la lumière émise par Véga
+
+Figure A – Profil spectral de Véga
+Source : ci2mrduthoit.weebly.com
+
+Document 2 – La loi de Wien
+Pour des objets incandescents idéaux appelés « corps noirs », le spectre
+d’émission ne dépend que de la température de l’objet. Plus l’objet est chaud, plus
+la longueur d’onde correspondant au maximum d’émission est faible.
+La loi de Wien permet de traduire cette observation :
+𝜆max =
+
+2,89. 10−3
+𝑇
+
+avec 𝜆max en mètres et 𝑇 en kelvins.
+Relation entre température 𝛩 en degrés Celsius (°C) et température 𝑇 en
+kelvins (K) : 𝛩 = 𝑇 − 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+Document 3 – Photosynthèse, respiration et fonctionnement d’une plante
+La photosynthèse
+est un
+métabolisme qui
+se déroule dans
+les cellules
+chlorophylliennes.
+La respiration
+cellulaire est un
+métabolisme se
+déroulant dans
+toutes les cellules
+et qui produit un
+type de molécule
+permettant des
+transferts
+d’énergie donc le
+fonctionnement
+cellulaire. Cette
+molécule est l’ATP
+(adénosine triphosphate).
+
+Figure B – Conversions d’énergie
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 4 – Transfert de l’énergie solaire dans un écosystème
+
+Figure B – Transferts d’énergie dans une prairie
+
+Les valeurs indiquent l’énergie en kcal/an pour 1 m 2 de prairie.
+MO signifie « matière organique ».
+Source : manuel scolaire Lelivrescolaire, édition 2023, p. 118.

@@ -1,0 +1,429 @@
+{"pages": 16, "method": "pdftotext", "bytes": 2086782, "at": "2026-11-23T09:28:03+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Vergers d’arbres fruitiers
+Sur 4 points
+Anthony et Élisabeth sont deux jeunes agriculteurs.
+Partie A – L’exploitation d’Anthony
+Lors de son installation, Anthony a choisi de planter des clémentiniers. En 2022, il a
+récolté 80 tonnes de clémentines et il estime que chaque année, à partir de 2022, sa
+production augmentera de 6 %.
+On modélise la production de clémentines par une suite (𝑝! ) où 𝑝! désigne, pour
+tout entier naturel 𝑛, le nombre de tonnes de clémentines qu’Anthony récoltera pour
+l’année 2022 + 𝑛.
+Ainsi 𝑝" = 80.
+1- Calculer 𝑝# .
+2- Exprimer, pour tout entier naturel 𝑛, 𝑝!$# en fonction de 𝑝! et en déduire la
+nature de la suite (𝑝! ). Préciser sa raison.
+3- Donner, pour tout entier naturel 𝑛, une expression de 𝑝! en fonction de 𝑛.
+Partie B – L’exploitation d’Élisabeth
+Lors de son installation en 2022, Élisabeth a choisi de planter 680 pommiers. Elle
+estime qu’à cause des maladies, trois pommiers vont mourir tous les ans.
+On modélise le nombre de pommiers que possède Élisabeth par une suite (𝑎! ).
+Pour tout entier naturel 𝑛, 𝑎! désigne le nombre de pommiers que possède
+Élisabeth pour l’année 2022 + 𝑛. Ainsi, 𝑎" = 680.
+1- Quelle est la nature de la suite (𝑎! ) ? Préciser sa raison.
+2- Donner, pour tout 𝑛 ∈ ℕ, une expression de 𝑎! en fonction de 𝑛.
+3- Calculer le nombre de pommiers présents dans le verger d’Élisabeth en 2035.
+
+Partie C – Comparaison de rendements
+Sachant qu’en moyenne un pommier produit 200 kg de pommes par an, comparer
+les masses de fruits récoltés par Anthony et Élisabeth en 2035.
+
+Exercice 2 (au choix)
+Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer le mécanisme qui est à l’origine de l’énergie rayonnée par une étoile.
+À partir de vos connaissances et des informations apportées par les documents
+fournis dans la suite, répondre aux questions suivantes.
+2- Sans calcul, Indiquer si la température de surface de l’étoile Véga est supérieure
+ou inférieure à celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la ou les propositions les plus justes parmi les suivantes.
+La température de surface de l’étoile Véga vaut environ :
+
+720 K
+
+7 200 K
+
+6 900 °C
+
+69 000 °C
+
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des
+informations extraites des documents 3 et 4, ainsi que de vos connaissances. La
+réponse ne doit pas excéder 8 lignes.
+
+Document 1 – Profil spectral de la lumière émise par Véga
+
+Figure A – Profil spectral de Véga
+Source : ci2mrduthoit.weebly.com
+
+Document 2 – La loi de Wien
+Pour des objets incandescents idéaux appelés « corps noirs », le spectre
+d’émission ne dépend que de la température de l’objet. Plus l’objet est chaud, plus
+la longueur d’onde correspondant au maximum d’émission est faible.
+La loi de Wien permet de traduire cette observation :
+𝜆%&' =
+
+2,89. 10()
+𝑇
+
+avec 𝜆%&' en mètres et 𝑇 en kelvins.
+Relation entre température 𝛩 en degrés Celsius (°C) et température 𝑇 en
+kelvins (K) : 𝛩 = 𝑇 − 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+Document 3 – Photosynthèse, respiration et fonctionnement d’une plante
+La photosynthèse
+est un
+métabolisme qui
+se déroule dans
+les cellules
+chlorophylliennes.
+La respiration
+cellulaire est un
+métabolisme se
+déroulant dans
+toutes les cellules
+et qui produit un
+type de molécule
+permettant des
+transferts
+d’énergie donc le
+fonctionnement
+cellulaire. Cette
+molécule est l’ATP
+(adénosine triphosphate).
+
+Figure B – Conversions d’énergie
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 4 – Transfert de l’énergie solaire dans un écosystème
+
+Figure B – Transferts d’énergie dans une prairie
+
+Les valeurs indiquent l’énergie en kcal/an pour 1 m2 de prairie.
+MO signifie « matière organique ».
+Source : manuel scolaire Lelivrescolaire, édition 2023, p. 118.
+
+Niveau terminale
+Thème « Le futur des énergies »
+
+L’agrivoltaïsme
+L’agrivoltaïsme est un système qui permet de combiner sur une même surface, une
+production agricole et une production d’électricité d’origine photovoltaïque. La
+première centrale agrivoltaïque en France a été implantée en 2018 à Tresserre,
+commune située à une vingtaine de kilomètres de Perpignan. Elle est constituée de
+panneaux, recyclables à 90 %, situés à environ 4,50 m de hauteur afin de pouvoir
+laisser passer tous les engins agricoles. Les panneaux sont mobiles, pilotés à
+distance grâce à un algorithme complexe, au gré des besoins : à plat pour protéger
+la production d’une pluie battante, d’un soleil brûlant, du gel ou de la grêle, ou à la
+verticale pour laisser passer un maximum de lumière et de pluie.
+Document 1 – Caractéristiques de la centrale agrivoltaïque à Tresserre
+Surface agricole
+
+4,5 hectares*
+
+Nombre de panneaux 7 800
+Surface couverte par
+les panneaux
+
+40 %
+
+Coût du projet
+
+20 millions
+d’euros
+
+Puissance électrique
+produite
+
+2,2 MW**
+
+* 1 hectare (ha) = 10 000 m²
+** 1 mégawatt (MW) = 1 000 000 W
+Source : https://sunagri.fr
+
+1- Décrire la chaîne de transformation énergétique représentant la conversion
+d’énergie qui a lieu au niveau des panneaux solaires.
+2- À partir du document 1, calculer la surface totale des panneaux photovoltaïques
+de la centrale photovoltaïque de Tresserre.
+
+3- Montrer que la puissance moyenne produite par un mètre carré de panneau
+photovoltaïque est de 122 W dans les conditions de fonctionnement de la
+centrale photovoltaïque.
+4- Donner l’expression littérale du rendement global noté η d’un système de
+conversion d’énergie.
+5- Sachant que la puissance surfacique solaire moyenne de 800 W/m², calculer la
+valeur du rendement global de l’installation photovoltaïque de Tresserre.
+Document 3 – Le travail forcé, ce vilain secret qui se cache au cœur du
+développement de l’énergie solaire
+Rappelons tout d’abord que le silicium polycristallin, comme les terres rares,
+abonde en Chine et plus particulièrement dans le nord-ouest du pays, le Xinjiang.
+Son utilisation est nécessaire à la fabrication des panneaux solaires. La production
+de silicium polycristallin est donc utile. Cependant, l’on sait aussi que dans le cycle
+de vie d’un panneau solaire, la partie la plus énergivore est l’extraction et la
+purification du silicium. Si cette opération est menée à base de charbon, le bilan
+est forcément mauvais en termes de pollution. En outre, les poussières de silice
+cristalline peuvent induire une irritation des yeux et des voies respiratoires, des
+bronchites chroniques et une fibrose pulmonaire irréversible nommée silicose.
+Cette atteinte pulmonaire grave et invalidante n’apparaît en général qu’après
+plusieurs années d’exposition et son évolution se poursuit même après cessation
+de l’exposition. Vous comprenez pourquoi les Ouïghours sont sollicités par les
+autorités chinoises pour ces tâches à la fois ingrates et dangereuses.
+Source : d’après une interview de Emmanuel Lincot - Atlantico https://www.iris-france.org
+
+6- Présenter de façon argumentée les avantages et les inconvénients de
+l’agrivoltaïsme.
+7- En quoi le texte du document 3 manque-t-il de rigueur sur le plan scientifique ?
+
+Exercice 3 (au choix)
+Niveau première
+Thème « La Terre, un astre singulier »
+
+Histoire de l’âge de la Terre
+On se propose de comprendre de quelle manière on peut connaître l’âge de la Terre.
+Partie 1 – La radioactivité des roches, un outil de datation
+Document 1 – Principe de la datation absolue
+
+Nombre d’ atomes père
+
+Pour dater de manière absolue les roches, on utilise le principe de décroissance
+radioactive : au cours du temps, des éléments pères radioactifs se désintègrent en
+éléments fils, comme représenté ci-dessous
+Éléments pères
+Éléments fils
+Temps (en
+millions d’années)
+
+T1/2
+2xT1/2
+3xT1/2 4xT1/2
+T2
+Décroissance des atomes pères en fonction du temps
+
+Source : d’après le Livre scolaire
+1-
+
+Le temps de demi-vie (ou période radioactive T1/2) correspond à la durée
+écoulée lorsqu’une certaine quantité d'éléments pères est désintégrée. À partir
+du graphique du document 1, dire quelle est la proportion d’éléments pères
+désintégrée à T1/2.
+
+2-
+
+Calculer le pourcentage d’éléments pères encore présents à t = 4xT1/2. Vous
+détaillerez votre calcul.
+
+3-
+
+À partir des données du document 1, dire si le taux de désintégration des
+éléments pères (nombre de noyaux pères disparaissant par unité de temps)
+est constant avec le temps.
+
+Partie 2 – Donner un âge à la Terre : datation sur les météorites et sur les
+roches terrestres
+Pour donner un âge à la Terre, C. Patterson s’appuie sur le « modèle de formation
+par accrétion » qui admet que les météorites se sont formées en même temps que
+les planètes du système solaire. En 1955, C. Patterson, met au point une méthode
+de datation basée sur la mesure des rapports isotopiques du Plomb (Pb). Les deux
+éléments 207Pb et 206Pb sont issus de la désintégration de l’Uranium (U). L’isotope
+204 du plomb est stable et va servir de référence.
+Les rapports isotopiques mesurés sur des météorites permettent de tracer une droite
+nommée “isochrone”.
+Document 2 – La méthode de Clair Patterson
+La droite isochrone obtenue par C. Patterson est représentée ci-dessous. Les
+points correspondent aux rapports isotopiques mesurés sur des météorites. Ces
+points sont alignés sur un même droite car ils représentent des échantillons de
+même âge. Le coefficient directeur “m” de cette droite est directement lié à l'âge
+des météorites.
+2a – La droite isoschrone de C. Patterson
+
+Le coefficient directeur
+“m” est donné par la
+relation:
+
+Droite isochrone
+
+avec A (xA;yA) et B (xB;yB)
+deux points appartenant
+à la droite.
+
+10 15 20 25 30 35 40 45 50
+
+Droite isochrone obtenue par Patterson sur des échantillons de météorites.
+2b – Graphique représentant un géochronomètre
+En utilisant le géochronomètre ci-dessous, il est possible de déterminer
+graphiquement l’âge d’une roche ou d’un ensemble de roches de même âge grâce
+à la valeur du coefficient directeur « m » de la droite isochrone.
+
+4,2
+
+4,4
+
+4,6
+
+4,8
+
+Âge de la roche (en
+milliards d’années)
+Source : D’après http://acces.ens-lyon.fr/
+
+1-
+
+À partir du document 2, déterminer l’âge des météorites en appliquant la
+méthode de Patterson. Faire apparaître tous les calculs et les étapes du
+raisonnement.
+
+Partie 3 – Histoire de l’âge de la Terre
+Document 3 – âge estimé de la Terre en fonction des années
+Le graphique ci-dessous représente les âges donnés à la Terre par quelques
+auteurs au cours de notre Histoire.
+
+Source : Le livre scolaire
+
+2- En utilisant les données du document 3 et vos connaissances, commentez
+brièvement la proposition suivante : « les théories scientifiques ne sont que des
+théories, elles peuvent toujours changer ». Préciser en particulier comment la
+communauté scientifique procède pour valider une théorie.
+
+Niveau terminale
+Thème « Science, climat et société »
+
+L’été 2024
+« La science est formelle : les activités humaines sont bien la cause du changement
+climatique observé depuis les 150 dernières années. Ces activités sont génératrices
+de fortes émissions de gaz à effet de serre, ce qui perturbe le climat. »
+Ministère de la transition écologique et de la cohésion des territoires – 20 juin 2023
+
+1- Expliquer dans un paragraphe de 10 lignes maximum comment fonctionne l’effet
+de serre.
+2- Donner le nom et la formule chimique d’un gaz à effet de serre autre que la
+vapeur d’eau H2O (g) ou le dioxyde de carbone CO2 (g).
+
+17,8
+
+12,2
+
+13,1
+
+19,3
+
+19,8
+
+20,9
+
+19,3
+
+14,3
+
+se
+pt
+em
+br
+e
+
+ao
+ut
+
+ju
+ille
+t
+
+ju
+in
+
+m
+ai
+
+av
+ril
+
+m
+ar
+s
+
+fé
+vr
+
+ie
+r
+
+ja
+nv
+ie
+r
+
+Température maximale (moyenne
+au cours de chaque mois) en °C
+
+Document 1 – Relevés de températures maximales à Brest, en Bretagne les
+9 premiers mois de 2024
+
+Mois
+Source : MétéoFrance
+
+Document 2 – Évolution de l’anomalie de température*
+* anomalie de température = écart de température entre la température moyenne
+et la température moyenne au cours de la période pré-industrielle (1850-1900)
+
+GISS-NASA : Institut Goddard d’études spatiales de la NASA - Laboratoire de recherche américain
+spécialisé dans l’étude de l’atmosphère de la Terre et des exoplanètes ; NOAA : Agence américaine
+d’observation océanique et atmosphérique ; Hadley Center : centre de recherche climatique de
+Royaume-Uni.
+
+Source : données issues du ministère de la transition écologique
+
+On considère qu’en 1980 l’anomalie de température était de 0,3 °C et que, depuis, la
+hausse est de +0,2 °C tous les 10 ans en restant sur la même tendance.
+3- Indiquer en quelle année nous aurons atteint une anomalie de température de
++1,5°C (objectif fixé par les accords de Paris lors de la COP21 en 2015). Faire
+apparaitre la démarche suivie.
+
+Document 3 – Tendances mondiales des émissions de CO2 attribuables aux
+combustibles fossiles
+
+Source : Carbon Dioxide Information Analysis Center
+
+4- Développer un argumentaire expliquant la corrélation entre les données des
+graphiques des documents 2 et 3.

@@ -1,0 +1,150 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1070432, "at": "2026-11-23T09:34:07+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+L’ÉNERGIE LUMINEUSE ET SON UTILISATION PAR LES ALGUES
+
+Les algues sont des organismes chlorophylliens photosynthétiques. Les documents
+proposés permettent de comprendre les caractéristiques du rayonnement solaire et
+son utilisation par les différentes algues de zones côtières.
+Les 2 parties peuvent être traitées de façon indépendante.
+
+Partie 1. Les caractéristiques du rayonnement solaire extraterrestre et terrestre
+Document 1. Le spectre solaire
+Le spectre solaire représente les variations de l’intensité lumineuse de la lumière
+solaire (par unité de longueur d’onde) en fonction de la longueur d’onde. Il peut
+être obtenu en dehors de l’atmosphère terrestre (courbe « rayonnement hors
+atmosphère ») ou à la surface de la Terre (courbe « rayonnement solaire
+terrestre »).
+
+La loi de Wien caractérise le lien entre la température de surface d’un corps noir et la
+longueur d’onde d’émission maximale de ce corps par la relation :
+max x T = 2,898.10-3 (avec max en m et T en K).
+
+On rappelle que l'échelle des températures Celsius est, par définition, la température
+absolue décalée en origine de 273 K : T = θ+ 273 avec T la température en kelvin et
+θ la température en degré Celsius.
+
+1- Estimer graphiquement la longueur d’onde au maximum d’émission du
+rayonnement solaire hors atmosphère.
+
+2- On considère le Soleil comme un corps noir dont la température de surface est
+estimée à 5620 °C. Calculer la longueur d’onde d’émission maximale du solaire.
+
+3- Expliquer la différence d’intensité observée entre les courbes « rayonnement
+solaire hors atmosphère » et « rayonnement solaire terrestre » du document 1.
+
+Partie 2. L’utilisation du rayonnement solaire par les algues dans les zones côtières
+Dans les zones côtières, les grands groupes d’algues ont une répartition
+préférentielle selon la profondeur. On se propose d’expliquer cette répartition des
+algues en lien avec leur utilisation de l’énergie solaire.
+
+4- À partir de l’exploitation des documents 2 et 3 et de vos connaissances, expliquer
+la capacité des algues rouges à vivre à une plus grande profondeur.
+Votre réponse structurée ne dépassera pas une page.
+
+Document 2. Répartition des différentes algues et devenir du spectre solaire dans
+l’eau en fonction de la profondeur.
+
+Document 3. Pigments photosynthétiques des algues vertes et des algues rouges
+et spectres d’absorption correspondants
+Il existe chez les végétaux différents pigments photosynthétiques.
+- Les algues vertes possèdent dans leurs cellules de la chlorophylle a et de la
+chlorophylle b.
+- Les algues rouges possèdent de la chlorophylle a et beaucoup de pigments
+rouges appelés phycoérythrine.
+Le graphique suivant présente les spectres d’absorption des différents pigments
+photosynthétiques, à savoir le pourcentage de lumière absorbée en fonction de la
+longueur d’onde.
+
+D’après http://svt.ac-dijon.fr/schemassvt/
+
+EXERCICE 2
+ENREGISTREMENT DE FICHIERS SONORES
+On s’interroge sur la pertinence d’utiliser un smartphone pour télécharger et stocker
+de la musique. Pour cela, on étudie le lien entre la qualité de la numérisation d’un
+signal audio et la taille des fichiers numériques correspondants.
+
+Partie A : échantillonnage et quantification d’un signal audio
+Le document 1 donné en annexe et à rendre avec la copie représente une portion de
+signal enregistré et l’échantillonnage effectué avant la conversion en signal
+numérique.
+
+1- Préciser la fréquence d’échantillonnage, choisie parmi les valeurs proposées cidessous :
+2000 Hz ;
+
+12 500 Hz ;
+
+26 000 Hz ;
+
+44 100 Hz
+
+2- Après l’échantillonnage du signal audio, on procède à sa quantification. On admet
+que la tension quantifiée ne prend que des valeurs entières ; la valeur quantifiée
+d’une tension est l’entier le plus proche de cette tension.
+Sur le document 1 en annexe, à rendre avec la copie, représenter la courbe des
+tensions après quantification.
+
+3- Une plateforme de service de musique en ligne propose de la musique en qualité
+« 16-Bits / 44.1 kHz ».
+Expliquer ce que représentent ces deux valeurs.
+
+4- Combien de niveaux de quantification différents peut-on obtenir lorsque le codage
+s’effectue sur 16 bits ? Choisir la bonne réponse parmi les propositions suivantes :
+
+2 × 16 = 32
+
+162 = 256
+
+216 = 65 536
+
+Partie B : taille d’un fichier en haute définition
+Dans un studio d’enregistrement, on enregistre un morceau de musique en stéréo
+haute définition en choisissant un encodage sur 24 bits et une fréquence
+d’échantillonnage de 192 kHz.
+
+5- La taille T(en bit) d’un fichier audio numérique s’exprime en fonction de la
+fréquence d’échantillonnage 𝑓𝑒 (en Hertz), du nombre 𝑛 de bits utilisés pour la
+quantification, de la durée Δ𝑡 de l’enregistrement et du nombre 𝑘 de voies
+d’enregistrement (une en mono, deux en stéréo) selon la relation :
+𝑇 = 𝑓𝑒 × 𝑛 × Δ𝑡 × 𝑘
+Vérifier que l’espace de stockage nécessaire pour enregistrer en stéréo haute
+définition une seconde de musique est de 1,152 Mo. On rappelle qu’un octet est égal
+à 8 bits.
+
+6- Avec 200 Mo de stockage, dispose-t-on de suffisamment d’espace pour
+enregistrer cinq minutes de musique en stéréo haute définition ?
+
+7- Le dispositif d’encodage et de compression FLAC (Free Lossless Audio Codec)
+permet, par compression sans perte, de réduire de 55 % la taille des fichiers.
+Son taux de compression, défini comme le rapport de la taille du fichier compressé
+sur la taille du fichier initial, est donc de 45 %.
+Avec 200 Mo de stockage, dispose-t-on de suffisamment d’espace pour enregistrer
+cinq minutes de musique en stéréo haute définition compressées par FLAC ?
+
+ANNEXE A RENDRE
+Exercice 2- Question 2
+Représentation de la tension d’un signal audio analogique en fonction du temps et
+mesures après échantillonnage.

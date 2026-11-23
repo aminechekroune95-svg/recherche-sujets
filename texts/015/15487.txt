@@ -1,0 +1,368 @@
+{"pages": 13, "method": "pdftotext", "bytes": 1426066, "at": "2026-11-23T09:29:40+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 13
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Étude démographique de la population d’Afrique du Sud
+Cet exercice a pour objet l’étude démographique d’une population.
+
+Document 1 : effectifs de la population en Afrique du Sud depuis 1950
+
+41,4
+
+36,8
+32,7
+
+population ( en millions)
+
+28,6
+
+25,2
+
+22,1
+19,3
+
+13,6
+
+15,2
+
+17,1
+
+1940
+
+1950
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+2010
+
+année
+Source : d’après World population prospects
+
+Document 2 : données démographiques d’Afrique du Sud
+
+Année
+
+Taux de natalité
+(pour mille)
+
+Taux de mortalité
+(pour mille)
+
+Taux d'accroissement
+annuel moyen
+(pour cent)
+
+1950
+
+43,3
+
+20,3
+
+2,3
+
+1960
+
+41,6
+
+16,7
+
+2,5
+
+1970
+
+37,1
+
+13,1
+
+2,4
+
+1980
+
+33,9
+
+10,2
+
+2,4
+
+1990
+
+28,3
+
+8,1
+
+2000
+
+22,6
+
+16,9
+
+0,6
+Source : d’après World population prospects
+
+Document 3 : la démographie dans différents pays d’Afrique sub-saharienne
+Depuis 1990, l’Afrique sub-saharienne, globalement, est entrée dans une phase de
+ralentissement démographique, passant de 2,9 % de croissance par an vers 1985 à
+2,3 % en 2000.
+Mais ce ralentissement se fait à des rythmes variables, et même divergents entre les
+pays.
+À un extrême, on trouve une petite vingtaine de pays, de différentes sous-régions,
+dont les croissances n’ont pas changé ou même ont légèrement augmenté depuis
+1985 (le Niger, le Mali, le Mozambique, la Somalie, etc.) ; à l’autre extrême, les cinq
+pays d’Afrique australe, le Zimbabwe et la Zambie dont les taux de croissance
+s’effondrent littéralement à partir de 1995 avec la surmortalité due au SIDA[…] :
+l’Afrique du Sud et le Botswana par exemple passent respectivement d’une
+croissance de 2,0 % et 2,8 % en 1990-1994 à 0,6 % et 0,9 % dix ans plus tard. C’est
+un exemple unique dans l’histoire.
+Source : d’après Tabutin-Schoumaker, « la démographie de l’Afrique au sud du Sahara des années 1950 aux
+années 2000 », Population, 2004, www.cairn-int.info/revue-population-2004-3-page-521.htm
+
+En 1950, l’Afrique du Sud est peuplée de 13,6 millions d’habitants. Entre 1950 et
+1990, on a constaté que la population sud-africaine a augmenté en moyenne, d’une
+année sur l’autre, de 2,5 %.
+On modélise la population sud-africaine à l’aide d’une suite u. On note u(0) le
+nombre d’habitants en Afrique du Sud en 1950 et u(n) la population d’Afrique du Sud
+n années après 1950. Ainsi, u(1) est le nombre d’habitants en 1951.
+1- Justifier que l’on a la relation u(n+1) = 1,025 × u(n) pour n entier naturel.
+2- Vérifier qu’à l’aide de ce modèle, la population sud-africaine en 1951 est estimée à
+environ 13,9 millions d’habitants.
+3- À l’aide de ce modèle, estimer le nombre d’habitants en 1995 et comparer avec la
+valeur donnée sur le document 1. Indiquer si la modélisation de la variation de la
+population sud-africaine semble satisfaisante et justifier la réponse.
+4- Selon ce modèle, indiquer à partir de quelle année la population d’Afrique du sud
+dépassera 50 millions d’habitants.
+5- La population d’Afrique du Sud comptait respectivement 44 millions d’habitants en
+2000 et 45,3 millions en 2005. Compléter avec ces données le graphique fourni en
+annexe (à rendre avec la copie). Indiquer si ces données sont conformes au
+modèle proposé. Justifier la réponse.
+6- En utilisant le document 2, justifier que le taux d’accroissement annuel moyen en
+1970 est de 2,4 %.
+7- Au regard du document 2, on émet l’hypothèse qu’à partir de 1950, le taux de
+mortalité de la population diminue de 3 points sur mille tous les 10 ans. Calculer les
+taux de mortalité attendus en 1990 et 2000. Les comparer aux valeurs réelles.
+8- À partir de 1995, la population sud-africaine n’a plus suivi la variation prévue par
+ce dernier modèle. À l’aide des documents 2 et 3, donner des arguments permettant
+d’expliquer ce phénomène.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Un décret qui fait grand bruit
+« À partir d'aujourd'hui, les salles de spectacles, mais aussi les cinémas et les festivals
+vont devoir limiter le maximum de leur volume sonore, en le baissant de 105 décibels
+(c'était jusqu'ici la norme) à 102. C'est donc 3 décibels en moins. Cela n'a l'air de rien
+comme ça, mais cela revient tout de même à diviser par deux l’intensité sonore. 102
+décibels, cela reste toutefois encore beaucoup. Beaucoup trop disent certains, des
+médecins notamment, qui rappellent par exemple qu'un marteau piqueur équivaut à
+100 décibels. »
+D’après un article de https://www.rtl.fr publié le 01/10/2018
+
+1- À partir du document 1 et de vos connaissances, expliquer pourquoi il est
+nécessaire de baisser le niveau sonore dans les salles de spectacles. Une réponse
+argumentée et structurée est attendue.
+Document 1. Vues de surface d'une cochlée de chat avant et après des traumatismes
+auditifs
+La cochlée représente la partie auditive de l'oreille interne. On observe une cochlée
+de chat au microscope électronique à balayage dans différentes conditions.
+Partie de cochlée
+normale
+
+On observe une
+rangée de cellules
+ciliées internes (CCI)
+et 3 rangées de
+cellules ciliées
+externes (CCE).
+
+CCI
+
+CCE
+
+Les cellules ciliées
+sont toutes visibles.
+Cils vibratiles des cellules de la CCE
+
+Partie de cochlée
+après une exposition à
+un son pur de 8 kHz à
+120 dB pendant 20
+minutes
+
+CCI
+
+Les cils vibratiles des
+cellules ciliées internes
+sont absents ainsi que
+certains des cellules
+ciliées externes
+
+CCE
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/4361/MS_1991_4_357.pdf?sequence=1
+
+2- À partir de vos connaissances et des documents 2, 3 et 4, expliquer les
+précautions à adopter afin de réduire les risques d’un traumatisme sonore au niveau
+de l’oreille interne. Une réponse argumentée et structurée est attendue.
+Document 2. Effet d’un bouchon d’oreille sur le niveau sonore d’un son au sein de
+l’oreille interne en fonction de sa fréquence
+
+Son sans
+protection
+(dB)
+
+Niveau sonore (dB)
+
+Son avec
+bouchon
+mousse (dB)
+
+Son avec
+bouchon
+silicone (dB)
+
+-10
+
+1000
+
+10000
+
+Fréquence (Hz)
+
+D’après https://www.lesnumeriques.com/accessoire-audio/risques-auditifs-quelle-protectionauditive-choisir-a3795.html
+
+Document 3. Durées admissibles d’exposition quotidienne au bruit
+
+Ce document indique la durée admissible
+d’exposition quotidienne au bruit à différents
+niveaux d’intensité en décibels (dB). Au-dessous
+de 80 dB, il n’y a pas de risque de dégradation
+brutale de l’audition.
+D’après https://www.journee-audition.org/pdf/guidejeunes.pdf
+
+Document 4. Évolution du niveau sonore en fonction de la distance à la scène du
+concert
+
+Niveau sonore (dB)
+
+Distance (m)
+
+3- Louise écoute son groupe de rock préféré et ne veut rien rater du concert dont elle
+ne connait pas la durée exacte.
+Pour cela, elle se met au plus près de la scène à une distance d’environ 1,0 m.
+Les mesures effectuées par les techniciens de la salle montrent que le groupe
+respecte la nouvelle législation en vigueur : le niveau sonore à l’endroit où est Louise
+est de 101 dB. Pourtant au bout de quelques minutes, Louise ressent une gêne et
+décide de s’éloigner un peu de la scène.
+À partir des documents 3 et 4, déterminer graphiquement à quelle distance de la
+scène Louise doit se placer pour être sûre de ne subir aucun risque de dégradation
+brutale de son audition.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+L’énergie rayonnée par les étoiles et utilisation biologique du
+rayonnement solaire
+Les étoiles, comme notre Soleil ou Véga de la constellation de la Lyre, sont des
+sources d’énergie.
+1- Nommer et décrire le mécanisme qui est à l’origine de l’énergie rayonnée par une
+étoile.
+Document 1. Informations sur la lumière émise par Véga et sur l’influence de la
+température de surface
+
+Source : ci2mrduthoit.weebly.com
+
+Rappel sur la loi de Wien : la longueur d’onde correspondant à l’intensité lumineuse
+maximale λmax est donnée par
+
+avec λmax en mètres et T en kelvins.
+Relation entre température Θ en degrés Celsius (°C) et température T en
+kelvins (K) : Θ = T - 273,15.
+La longueur d’onde correspondante à l’intensité lumineuse maximale pour le Soleil
+est λmax = 500 nm.
+
+À partir de vos connaissances et des informations apportées par les documents,
+répondre aux questions suivantes.
+2- Indiquer si la température de surface de l’étoile Véga est supérieure ou inférieure
+à celle du Soleil. Justifier votre réponse.
+3- Recopier sur votre copie la proposition la plus juste parmi les suivantes et justifier
+votre réponse.
+La température de surface de l’étoile Véga vaut environ :
+
+750 K
+
+7500 K
+
+7200 °C
+
+72000 °C
+
+4- L’énergie nécessaire à la production de biomasse par les animaux provient
+indirectement du Soleil. Justifier cette affirmation en s’appuyant sur des informations
+extraites des documents 2 et 3 suivants, ainsi que de vos connaissances.
+La réponse ne doit pas excéder une page.
+
+Document 2. Photosynthèse, respiration et fonctionnement d’une plante
+
+La photosynthèse est un métabolisme qui se déroule dans les cellules chlorophylliennes. La
+respiration cellulaire est un métabolisme se déroulant dans toutes les cellules et qui produit
+un type de molécule permettant des transferts d’énergie donc le fonctionnement cellulaire :
+l’ATP (adénosine tri-phosphate).
+Source : d’après Biologie, Reece, Urry et al ; 4ème édition
+
+Document 3. Représentation schématique des flux d’énergie et de matière
+organique (biomasse) dans un écosystème
+
+Figure 1 : une pyramide énergétique dans un écosystème terrestre
+Les différents maillons d’un réseau trophique sont positionnés verticalement en fonction de
+leur place fonctionnelle (des producteurs primaires à la base aux consommateurs tertiaires
+en haut). Dans cet exemple d’écosystème, environ 10 % de l’énergie disponible à chaque
+niveau trophique sont convertis en nouvelle biomasse au niveau suivant, ce qui représente
+une efficacité trophique de 10 %.
+
+Figure 2 : la répartition de l’énergie dans un niveau de chaîne trophique
+Moins de 17 % de la nourriture d’une chenille sert réellement à la production de biomasse
+(croissance).
+D’après Biologie, Reece, Urry et al ; 4ème édition.
+
+Document réponse à rendre avec la copie
+Exercice 1
+
+Réponse à la question 5

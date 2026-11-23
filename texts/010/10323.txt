@@ -1,0 +1,422 @@
+{"pages": 18, "method": "pdftotext", "bytes": 2038281, "at": "2026-11-23T09:43:52+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est l'écriture décimale de l'entier 𝑛 dont l'écriture hexadécimale est 7A ?
+Question A.2
+Quelle est l'écriture en base 10 du nombre qui s'écrit F1 en base 16 ?
+Question A.3
+Parmi les quatre propositions, quelle est celle qui correspond au résultat de l'addition en écriture binaire
+1101 1001 + 11 0110 ?
+1000 1111
+10 0000 1111
+1 0000 1111
+1 1000 0111
+Question A.4
+Quel est le résultat de l'addition binaire 0010 0110 + 1000 1110 ?
+1010 1110
+0000 0110
+1011 0100
+0101 0001
+Question A.5
+Soient a et b deux booléens. L’expression booléenne NOT(a AND b) OR a est équivalente à :
+False
+True
+NOT(b)
+NOT(a) OR NOT(b)
+
+Question A.6
+Quelle est la valeur de x à la fin de l'exécution du script Python suivant ?
+x = 1
+for i in range(10):
+x = x * 2
+1024
+2048
+20000000000
+
+Thème B : types construits
+Question B.1
+On considère le code suivant :
+D = { 'a': '1', '2': 'a', 'b': 'a', 'c': '3'}
+Que vaut D['a'] à la fin de son exécution ?
+'1'
+[ '2', 'b' ]
+[ '1', '3' ]
+Question B.2
+Quelle est la valeur de l'expression [2**i for i in range(5)] ?
+[0,1,4,9,16]
+[1,4,9,16,25]
+[0,2,4,6,8]
+[1,2,4,8,16]
+Question B.3
+On dispose d'une liste définie par L = [[1,2,3],[4,5,6],[7,8,9]].
+Quelle est la valeur de L[1][2] ?
+Question B.4
+Comment peut-on accéder à la valeur associée à une clé dans un dictionnaire ?
+il faut parcourir le dictionnaire avec une boucle à la recherche de la clé
+on peut y accéder directement à partir de la clé
+on ne peut pas accéder à une valeur contenue dans un dictionnaire à partir d’une clé
+il faut d’abord déchiffrer la clé pour accéder à un dictionnaire
+
+Question B.5
+On exécute le script suivant.
+m = []
+for i in range(5):
+n = []
+for j in range(3):
+n.append(i*j)
+m.append(n)
+Quelle est la valeur de m à la fin de son exécution ?
+[ [0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8] ]
+[ [0, 0, 0], [0, 1, 2], [0, 2, 4], [0, 3, 6], [0, 4, 8] ]
+[ [1, 1, 1], [2, 4, 6], [3, 6, 9], [4, 8, 12], [5, 10, 15] ]
+[ [1, 1, 1, 1, 1], [2, 4, 6, 8, 10], [3, 6, 9, 12, 15], [4, 8, 12, 16,
+20], [5, 10, 15, 20, 25] ]
+Question B.6
+La fonction ci-dessous prend en argument deux nombres entiers.
+def f(n1,n2):
+etendue = max(n1,n2)-min(n1,n2)
+moyenne = (n1+n2)/2
+return etendue,moyenne
+Quel est le type de la valeur renvoyée par un appel à cette fonction ?
+un entier
+un réel (ou flottant)
+un tuple
+une liste
+
+Thème C : traitement de données en tables
+Question C.1
+Dans une course de chevaux, chaque participant est représenté par un numéro de dossard unique , son nom et
+sa ville sous la forme d'un couple formé d'un entier et d'une liste : (dossard, [nom, ville]).
+Les données de quelques participants sont réunies au sein de la liste course ci-dessous :
+course = [ (5,['Mistral','Lille']), (3,['Zéphir','Paris']),
+(7,['Ouragan','Bordeaux']), ......, ....... ]
+Quelle expression permet d'obtenir la ville du cheval nommé Zéphir ?
+course[1][1][1]
+course[1][1][2]
+course[1][2][1]
+course[2][1][1]
+Question C.2
+On exécute le code suivant :
+collection = [('Renault', '4L', 1974, 30),
+('Peugeot', '504', 1970, 82),
+('Citroën', 'Traction', 1950, 77)]
+Que vaut collection[1][2] ?
+1970
+'4L'
+('Peugeot', '504', 1970, 82)
+('Renault', '4L', 1974, 30)
+Question C.3
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+
+Question C.4
+On définit ainsi une liste t :
+t = [ {'id':1, 'age':23, 'sejour':'PEKIN'},
+{'id':2, 'age':27, 'sejour':'ISTANBUL'},
+{'id':3, 'age':53, 'sejour':'LONDRES'},
+{'id':4, 'age':41, 'sejour':'ISTANBUL'},
+{'id':5, 'age':62, 'sejour':'RIO'},
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+Quelle affirmation est correcte ?
+t est une liste de listes
+t est une liste de dictionnaires
+t est un dictionnaire de listes
+t est une liste de tuples
+Question C.5
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C.6
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a ensuite
+été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-dehaute-provence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quelle utilisation faut-il avoir pour garantir qu'une transmission entre un client et un serveur sera-t-elle chiffrée ?
+Lorsqu'on utilise le navigateur web Firefox
+Lorsqu’on utilise la méthode POST
+Lorsqu’on utilise le protocole HTTPS
+Lorsqu’on utilise HTML et CSS
+Question D.2
+Comment s'appelle la méthode permettant de transmettre les variables en les faisant apparaître dans la barre
+d’adresse du navigateur ?
+URL
+HEAD
+POST
+GET
+Question D.3
+Parmi les éléments suivants, lequel est un protocole ?
+GET
+POST
+HTTP
+HTML
+Question D.4
+Parmi les couples de balises suivants, lequel permet de créer un formulaire ?
+<body>
+</body>
+<html>
+</html>
+<div>
+</div>
+<form>
+</form>
+Question D.5
+Un élément form (un formulaire) d'une page HTML contient un élément button de type submit. Un clic sur
+ce bouton :
+envoie les données du formulaire vers la page définie par l'attribut action de l'élément form
+efface les données entrées par l'utilisateur dans le formulaire
+envoie les données du formulaire vers la page définie par l'attribut method de l'élément form
+ne fait rien du tout si un script javascript n'est pas associé au bouton
+
+Question D.6
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Parmi les systèmes d’exploitation suivants, lequel est libre ?
+Mac OS
+iOS
+Microsoft Windows
+GNU/Linux
+Question E.2
+Lequel de ces objets n'est pas un périphérique ?
+le clavier
+une clé USB
+la carte graphique
+la carte mère
+Question E.3
+Pour analyser les réponses saisies par l'utilisateur dans un formulaire d’une page Web personnelle, hébergée
+chez unfournisseur d'accès à internet, on dispose du code suivant :
+<?php if ($_POST['choix']=='choix4')
+{echo 'Bravo,';}
+else
+{echo "Non, vous vous trompez !";}
+?>
+Où s’exécutera ce code ?
+dans le premier routeur permettant d'accéder au serveur
+dans le dernier routeur permettant d'accéder au serveur
+dans le serveur qui héberge la page personnelle
+dans la machine de l'utilisateur qui consulte la page personnelle
+Question E.4
+Sous Linux, on se place dans un répertoire appelé documents. Dans quel répertoire se trouve-t-on après avoir
+exécuté la commande cd ../images ?
+dans un répertoire images, qui est un sous-répertoire du répertoire documents
+dans un répertoire images, qui est à la racine du système de fichiers
+dans un répertoire images, qui est dans l'arborescence de fichiers à la même hauteur que le répertoire
+documents
+dans un répertoire images, qui est sur le CD-ROM du lecteur de l'ordinateur
+
+Question E.5
+Quel composant électronique, inventé vers le milieu du 20e siècle, a permis le développement des ordinateurs
+actuels ?
+le condensateur
+la résistance
+le transistor
+la diode
+Question E.6
+Dans un ordinateur, que permet de faire la mémoire vive ?
+Stocker les données de façon permanente
+Afficher les informations sur l’écran
+Réaliser les calculs
+Stocker les données de façon temporaire
+
+Thème F : langages et programmation
+Question F.1
+On considère le code suivant :
+def puiss(y,x):
+res = y
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+Question F.2
+On exécute le script suivant :
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F.3
+On exécute le script suivant :
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+
+Question F.4
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for k in range(1,n):
+t[k] = t[k] + t[k-1]
+L = [1, 3, 4, 5, 2]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[1, 3, 4, 5, 2]
+[1, 4, 7, 9, 7]
+[1, 4, 8, 13, 15]
+[3, 6, 10, 15, 17]
+Question F.5
+On a défini une fonction somme qui doit calculer la somme des éléments de la liste passée en argument de la
+façon suivante :
+def somme(L):
+s = L[0]
+for i in range(len(L)):
+s = s + L[i]
+return s
+Cette fonction a été mal programmée. Quel appel parmi les suivants permet de mettre en évidence son
+incorrection ?
+somme([0,0,0,0])
+somme([0,1,2,3])
+somme([0,3,2,1])
+somme([3,2,1,0])
+Question F.6
+On définit la fonction :
+def f(a,b):
+assert b!=0,'le deuxième argument est nul'
+result = a/b
+return result
+Qu'obtient-on en exécutant la commande r = f(4,0) ?
+une erreur ZeroDivisionError: division by zero et l'arrêt de l'exécution
+une erreur NameError: name 'b' is not defined et l'arrêt de l'exécution
+une erreur AssertionError: le deuxième argument est nul et la variable r prend la valeur
+une erreur AssertionError: le deuxième argument est nul et l'arrêt de l'exécution
+
+Thème G : algorithmique
+Question G.1
+Quel est le coût d'un algorithme de recherche du maximum d'un tableau de nombres ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G.2
+On définit une fonction de calcul de la moyenne d'une liste de nombres :
+def moyenne(L):
+s = 0
+n = len(L)
+for x in L:
+s = s + x
+return s/n
+Combien cette fonction utilise-t-elle d'additions et de divisions pour calculer la moyenne d'une liste de 7 nombres
+?
+Question G.3
+On définit la fonction f comme suit :
+def f(L):
+a = L[0]
+for x in L:
+if x < a:
+a = x
+return a
+Quelle est la valeur renvoyée par l'appel f([7, 10.3, -4, 12 ,7 ,2, 0.7, -5, 14, 1.4]) ?
+-5
+1.4
+
+Question G.4
+En utilisant une recherche dichotomique, combien faut-il de comparaisons pour trouver une valeur dans un
+tableau trié de 1000 nombres ?
+1000
+1024
+Question G.5
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G.6
+La fonction ci-dessous compte le nombre d'occurrences d'un élément x dans une liste L :
+def compteur(L,x):
+n = 0
+for item in L:
+if item == x:
+n = n + 1
+return n
+Comment évolue le temps d'exécution d'un appel de cette fonction si on prend comme argument une liste deux
+fois plus grande ?
+c'est le même temps d'exécution
+le temps d'exécution est à peu près doublé
+le temps d'exécution est à peu près quadruplé
+impossible de le prévoir, cela dépend aussi de l'argument x

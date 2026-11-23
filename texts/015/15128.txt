@@ -1,0 +1,479 @@
+{"pages": 19, "method": "pdftotext", "bytes": 2253275, "at": "2026-11-23T09:30:54+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+La symphonie des Mille
+En septembre 1910, la Symphonie n°8 de Gustav Mahler fut jouée pour la première
+fois. Elle est aussi appelée la « Symphonie des Mille » car ce sont 1029 personnes,
+musiciens ou chanteurs, qui y participent.
+Partie 1 – Accorder les instruments
+Dès son entrée sur scène, un violoniste, appelé premier violon solo, a pour rôle
+d’accorder les instruments à cordes composant l’orchestre. Pour cela, il demande au
+hautbois de jouer un 𝑙𝑎3 dont la fréquence fondamentale est 440 Hz. Il peut ainsi
+accorder sa propre corde du 𝑙𝑎, puis c’est lui qui donne le 𝑙𝑎 aux autres instruments
+à cordes. Lorsque tout l’orchestre est accordé, le chef d’orchestre apparaît.
+Document 1 – Signal du son émis par la corde du 𝒍𝒂 d’un violon
+
+1- Justifier que le son obtenu est un son composé.
+
+Document 2 – Spectres de Fourier de deux sons correspondants à des 𝒍𝒂𝟑
+Spectre 1 :
+
+Spectre 2 :
+
+2- Indiquer quel spectre de Fourier du document 2 correspond au 𝑙𝑎3 du premier
+violon solo. Justifier la réponse.
+Un autre violoniste de l’orchestre n’ayant pas encore accordé son instrument joue la
+corde du 𝑙𝑎3 et trouve le son plus grave que celui émis par le premier violon solo.
+Document 3 – Fréquence du son émis par une corde
+La fréquence fondamentale 𝑓 (en Hz) de la note jouée par une corde dépend de la
+longueur 𝐿 (en m) de la corde, de la force de tension 𝐹 (en N) et de la masse
+linéique 𝜇 (en kg. m−3 ) de la corde. Elle se calcule avec la relation suivante :
+𝑓=
+
+1 𝐹
+√
+2𝐿 µ
+
+Plus la fréquence est élevée, plus le son est aigu.
+
+Document 4 – Accorder un violon
+
+Pour accorder un violon, le violoniste
+tourne les chevilles qui tendent ou
+détendent les cordes.
+
+Source : Concours général des Lycées,
+session 2020, Physique-chimie classe de
+terminale générale
+
+3- D’après les documents 3 et 4, expliquer comment doit procéder le violoniste pour
+accorder la corde en question. Justifier la réponse.
+Document 5 – Intensité sonore et niveau d’intensité sonore
+L’intensité sonore I (en W. m−2 ) correspond à la puissance sonore par unité de
+surface.
+On caractérise plus souvent un son par son niveau d’intensité sonore 𝐿 (en dB) :
+𝐼
+𝐿 = 10 × log⁡( )
+𝐼0
+avec 𝐼0 ⁡ = ⁡ 10−12 ⁡W. m−2 l’intensité sonore de référence à partir de laquelle un son
+est audible pour l’oreille humaine.
+Un spectateur est placé à une certaine distance de l’orchestre. Lors du final de la
+symphonie de Mahler, la quasi-totalité des instrumentistes et chanteurs sont en
+action pendant quelques minutes. On fera l’approximation que l’intensité sonore des
+différents instruments et chanteurs est la même au niveau où est situé le spectateur
+et vaut 𝐼1 ⁡ = ⁡1,0 × 10−6 ⁡W. m−2 .
+
+4- Déterminer l’intensité sonore 𝐼1000 du son émis par les 1000 musiciens lors du
+final. On rappelle que les intensités sonores s’ajoutent.
+Document 6 – Échelles d’intensité sonore I et de niveau d’intensité sonore L
+
+5- Déterminer le niveau d’intensité sonore 𝐿1000 pour le spectateur.
+Partie 2 – Santé auditive
+Une dosimétrie du bruit a été effectuée lors d’un concert de Mahler. Elle révèle que
+certaines places dans l’orchestre sont particulièrement bruyantes, dépassant
+fréquemment les 110⁡dB. Parmi ces places, devant les grosses caisses se trouvent
+des joueurs de trombone (les trombonistes) dont un qui déclare une perte d’audition.
+Un dépistage auditif lui est proposé par un médecin.
+Document 7 – La réalisation des audiogrammes du tromboniste
+Pour caractériser le niveau de surdité du musicien, on réalise un audiogramme
+indépendamment sur chaque oreille : le médecin fait écouter au patient certains
+sons via un casque. Les différents sons sont d’abord joués à très faible volume
+(faibles décibels), puis augmentés au fur et à mesure. On réalise différentes
+mesures pour des sons graves (faible fréquence) et des sons aigus (haute
+fréquence).
+Le médecin repère précisément la fréquence et l’intensité du son le plus bas que le
+patient peut percevoir, ce qui lui permet de tracer les courbes ci-dessous, en
+comparant avec un patient sain.
+Les deux graphiques suivants représentent les pertes auditives des oreilles du
+joueur de trombone (dB) en fonction de la fréquence du son (Hz).
+
+Source : d’après la clinique du son
+
+Document 8 – Les différents niveaux de surdité
+La surdité est calculée en décibels (dB) de perte auditive.
+Perte auditive
+(en dB)
+
+Niveau d’audition
+
+Conséquences sur la vie de la
+personne
+
+De 0 à 20 dB
+
+Audition normale
+
+Aucune conséquence
+
+De 20 à 39 dB
+
+Surdité légère
+
+La personne fait répéter son
+interlocuteur, sur les sons aigus
+
+De 40 à 69 dB
+
+Surdité moyenne
+
+La personne ne comprend que si
+l’interlocuteur élève la voix
+
+De 70 à 89 dB
+
+Surdité sévère
+
+La personne ne comprend que si
+l’interlocuteur élève la voix à proximité
+de son oreille
+
+Plus de 90 dB
+
+Surdité profonde
+
+La personne n’entend plus du tout la
+parole
+
+Source : https://www.ameli.fr/rhone/assure/sante/themes/perte-acuite-auditive/definitioncauses
+
+6- À l’aide des informations des documents 7 et 8, caractériser le niveau de surdité
+des oreilles du tromboniste. Une réponse argumentée est attendue.
+Document 9 – Schéma de l’anatomie de l’oreille humaine
+
+L’audition fait intervenir différents organes. L’exposition à un bruit important, qu’il soit
+prolongé ou bref, peut conduire à différentes pathologies : une perforation du
+tympan, une fracture des osselets, une détérioration des cellules ciliées, une
+connexion entre les cellules nerveuses défectueuse, ...
+7- Nommer les éléments 2, 3, 4 et 6 du document 9 qui interviennent
+successivement dans la transmission des vibrations sonores au niveau de
+l’oreille en les classant par ordre d’intervention successif.
+8- Utiliser les informations des documents 10 et 11 suivants pour expliquer l’origine
+de la baisse d’audition du musicien et déterminer son type de surdité.
+
+Document 10 – Données anatomiques sur les pathologies de l’audition
+État normal
+
+État pathologique
+
+Joueur de trombone
+
+Tympan
+
+Tympan perforé
+(1) https://orlpoitiers.fr/wp-content/uploads/2013/03/tympan.png
+(2) https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/
+TM_RIGHT_NORMAL.jpg/1200px-TM_RIGHT_NORMAL.jpg
+
+Osselets
+(IRM)
+
+indiqués
+par des
+flèches.
+
+Osselets fracturés
+(1) https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs13244011-0126-z/MediaObjects/13244_2011_126_Fig21_HTML.gif
+(2) radiopaedia.org
+(3) foodmedicaleponyms.com
+
+Cellules
+ciliées
+(Microscopie
+électronique)
+(1) https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcSqgH6oONbjQr_7aw8SBUAKtxTpf8pn1UPEr6al5pjDjExx0gxG-SlswWfHjymty0iRBM&usqp=CAU
+(2) https://www.coopacou.com/fichiers/ACOUPHENE/pertes-auditives-CCI-CCE.png
+
+Document 11 – Les différents types de surdité
+Surdité de
+transmission
+
+Liée à un problème de transmission du signal sonore dans
+l'oreille externe (pavillon et conduit auditif externe) ou moyenne
+(fonctionnement du tympan ou mobilité des osselets)
+
+Surdité de
+perception
+
+Liée à la dégradation des cellules ciliées de la cochlée l’oreille
+interne ou du nerf auditif (responsable de la transmission des
+sons au cerveau).
+
+Surdité mixte
+
+Combine les deux surdités (de transmission et de perception)
+
+Source : https://www.ameli.fr/assure/sante/themes/perte-acuite-auditive/definition-causes
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Partie 1 – Marquage radioactif du glucose
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+2- Un nombre initial de 10 000 noyaux de 14C est présent dans un échantillon de
+glucose marqué au 14C. Calculer, en expliquant le raisonnement, le nombre de
+noyaux de 14C restants au bout de quatre demi-vies.
+3- À partir du document 2, déterminer la durée nécessaire pour obtenir un nombre
+de noyaux de 14C égal à 40 % du nombre initial. Expliquer la démarche retenue.
+
+Partie 2 – Utilisation du glucose radioactif et compréhension du mode d’action
+de la cytochalasine B
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane plasmique.
+
+Légendes :
+CW = Paroi ; Mb =
+Membrane plasmique ; N
+= Noyau ; V = vacuole ;
+M = Mitochondries ; Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+4- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des structures spécifiques qui seront nommées.
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+5- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Comment optimiser la croissance et la floraison d’une plante ?
+Les plantes ont un besoin vital en lumière afin de réaliser leur processus de
+photosynthèse. Ce processus permet la transformation du dioxyde de carbone
+atmosphérique et de l’eau en hydrates de carbone (sucres).
+La culture sous éclairage artificiel permet d’améliorer la productivité et la qualité des
+produits de la filière horticole. C’est un remède à la raréfaction des sols et un moyen
+de lutter contre la pollution. L’arrivée des LED offre de nouvelles possibilités
+d’adaptation de l’éclairage aux besoins de la plante tout en offrant une meilleure
+efficacité énergétique.
+
+Illustration - Lampe LED horticole automatique
+
+On cherche à optimiser l’éclairage LED pour améliorer la croissance et la floraison
+d’une plante. Trois paramètres sont étudiés.
+Partie 1 – Premier paramètre étudié
+On peut mesurer l’activité photosynthétique (intensité de la photosynthèse) en
+fonction du type de lumière utilisé pour éclairer la plante (document 1 page suivante).
+En situation naturelle, la photosynthèse est réalisée grâce à la lumière du Soleil. La
+température de surface du Soleil est de 5 800 Kelvin (K) et son profil spectral est
+présenté dans le document 2 (page suivante).
+
+Document 1- Activité photosynthétique en fonction de la longueur d’onde
+
+Document 2- Spectre d’émission du Soleil
+
+On rappelle les données suivantes :
+Constante de Wien : 2,90 x 10-3 m.K
+1 nm = 10-9 m
+1- À partir de vos connaissances, définir la photosynthèse en quelques lignes.
+2- Déterminer graphiquement la longueur d’onde pour laquelle l’intensité lumineuse
+du Soleil est maximale.
+3- Retrouver le résultat précédent par le calcul.
+4- En vous appuyant sur les documents 1 et 2 ci-dessus, expliquer pourquoi la
+lumière du Soleil permet la photosynthèse.
+Partie 2 – Deuxième paramètre étudié
+Les plantes ont besoin d’énergie lumineuse pour réaliser la photosynthèse et sont
+capables de réagir à l’éclairement ambiant.
+Document 3- Orientation d’une plante en fonction de la position du soleil
+
+Pour essayer de comprendre cette réaction, on éclaire une surface avec une lampe
+d’une puissance de 1000W, lampe positionnée de trois façons A, B et C, de sorte
+que l’inclinaison du faisceau, correspondant à l’angle entre le faisceau et la table,
+diffère.
+On peut faire les observations du document 4.
+
+Document 4- Surfaces éclairées selon la position de la source de lumière
+
+5- D’après le document 4, dans quelle position A, B, ou C, la surface éclairée estelle maximale ? Justifier votre réponse.
+6- En conséquence, dans quel cas l’énergie lumineuse est-elle la plus dispersée ?
+Justifier votre réponse.
+7- Expliquer en quelques lignes la réaction de la plante observée dans le
+document 3.
+Partie 3 –Troisième paramètre étudié
+Pour réaliser la photosynthèse, 1 cm² de plante a besoin, chaque minute, de 0,72 J
+d’énergie apportée par une lumière bleue et 0,48 J d’énergie apportée par une
+lumière rouge.
+On met en culture une plante sur une surface de 2500 cm² et on choisit d’éclairer par
+2 lampes, une bleue et une rouge.
+8- Calculer la puissance lumineuse de la lampe bleue utilisée par les plantes sur
+toute la surface.
+9- Sachant que seulement 65 % de la puissance émise sera absorbée par la plante,
+montrer que la puissance lumineuse de la lampe bleue, nécessaire pour
+permettre la photosynthèse est de 47 W.
+
+Partie 4 – Synthèse
+Différentes solutions d’optimisation de la photosynthèse par une plante vous sont
+proposées :
+Tableau – Solutions d’optimisation proposées
+Solutions
+
+E
+
+F
+
+G
+
+H
+
+Nombre de lampes
+
+deux
+
+Types de lampe
+
+LED bleue
+
+Puissance lampe
+
+100 W
+
+30 W
+
+100 W
+
+Inclinaison du
+faisceau
+
+30°
+
+30°
+
+90°
+
+LED rouge
+PBleue = 47 W
+PRouge = 30 W
+90°
+
+On rappelle que l’inclinaison du faisceau correspond à l’angle entre le faisceau et la
+table.
+10- Parmi les situations E, F, G et H, choisir la situation optimale sans justifier.

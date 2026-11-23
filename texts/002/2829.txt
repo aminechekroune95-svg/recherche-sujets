@@ -1,0 +1,296 @@
+{"pages": 7, "method": "pdftotext", "bytes": 685889, "at": "2026-11-23T09:24:59+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+La détection du tabagisme passif (10 points)
+La fumée de cigarette est l'un des polluants atmosphériques les plus répandus dans
+l'environnement intérieur. Allumer une cigarette initie une série de processus chimiques
+impliquant la transformation ou la formation de plus de 4 000 espèces chimiques : des
+goudrons, des gaz toxiques, des composés irritants, etc. Les formules de quelques espèces
+chimiques présentes dans la fumée de cigarette sont représentées ou citées ci-dessous.
+
+D’après http://www.ipubli.inserm.fr/bitstream/handle/10608/149/?sequence=7
+
+Le tabagisme passif est défini comme l'inhalation involontaire de la fumée de tabac présente
+dans l'air. Dans cette partie on cherche à déterminer si une femme enceinte est victime d’un
+tabagisme passif.
+Données :
+- Numéros atomiques : H (Z = 1) ; C (Z = 6) ; N (Z = 7)
+- Masse molaire de l’ion thiocyanate SCN− : 58 g·mol-1
+- Cercle chromatique :
+
+1. Après avoir recopié la formule semi-développée de chacune des quatre molécules
+représentées ci-dessus, identifier le groupe caractéristique présent et l’associer à une
+famille de composés.
+2. Justifier le nom donné à la propanone.
+3. Établir le schéma de Lewis de la molécule de cyanure d’hydrogène de formule HCN et
+proposer une géométrie pour cette molécule.
+Le cyanure d’hydrogène est absorbé par le corps, puis en partie dégradé en ions thiocyanate
+SCN− que l’on retrouve ensuite dans la salive ou dans l’urine. Dans la salive, par exemple, les
+concentrations en masse en ions thiocyanate sont en moyenne de 112 mg·L-1 chez les nonfumeurs et de 349 mg·L-1 chez les fumeurs. Les ions thiocyanate peuvent donc être
+considérés comme des marqueurs biologiques du tabagisme car leur concentration renseigne
+sur l’exposition d’une personne à la fumée du tabac.
+Principe du dosage
+Un échantillon noté S de 250 µL de salive d’une femme enceinte est prélevé. Les ions
+thiocyanate présents dans l’échantillon étant incolores et n’absorbant pas dans le proche
+ultraviolet, on les fait réagir avec une solution d’ions fer III, 𝐹𝑒 3+ (aq). On obtient 10,0 mL d’une
+solution S’ dans laquelle s’est formée l’espèce ionique de formule 𝐹𝑒(𝑆𝐶𝑁)2+ , soluble dans
+l’eau. La transformation chimique est modélisée par la réaction d’équation suivante :
+−
+3+
+𝑆𝐶𝑁(𝑎𝑞)
++ 𝐹𝑒(𝑎𝑞)
+→ 𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+La courbe ci-dessous représente l'absorbance d'une solution aqueuse contenant l’espèce
+ionique 𝐹𝑒(𝑆𝐶𝑁)2+ en fonction de la longueur d'onde.
+
+A
+0,78
+0,68
+0,58
+0,48
+0,38
+0,28
+
+λ/nm
+
+4. Expliquer pourquoi les ions thiocyanate ne peuvent pas être dosés directement par
+spectrophotométrie UV-visible. Indiquer l’intérêt de les faire réagir avec les ions 𝐹𝑒 3+
+Préparation de la gamme de solution étalon et tracé de la droite d’étalonnage
+On cherche à doser l’espèce chimique 𝐹𝑒(𝑆𝐶𝑁)2+ présente dans la solution S’.
+À partir d’une solution S0 de concentration C0 = 2,0×10−4 mol.L-1 en ions 𝐹𝑒(𝑆𝐶𝑁)2+ , on
+prépare la gamme d’étalonnage composée des solutions S0, S1, S2, S3 et S4 dont les
+concentrations sont données dans le tableau ci-dessous.
+Solution
+S0
+S1
+S2
+S3
+S4
+[Fe(SCN)2+]
+en mol·L-1
+
+2,0×10-4
+
+1,6×10-4
+
+1,0×10-4
+
+0,80×10-4
+
+0,40×10-4
+
+5. Indiquer la verrerie nécessaire pour préparer 50,0 mL de solution S2 à partir de la solution
+S0 en justifiant votre raisonnement.
+On mesure l’absorbance de chacune des solutions et on trace le graphique ci-dessous
+donnant l’évolution de l’absorbance en fonction de la concentration en ions Fe(SCN)2+.
+
+6. Après avoir rappelé l’expression de la loi de Beer-Lambert en indiquant les unités des
+grandeurs, déterminer si les résultats expérimentaux obtenus sont en accord avec cette
+loi.
+Détermination de la concentration en ions thiocyanate dans la salive
+Dans la solution S’ tous les ions thiocyanate contenus dans la salive de la femme enceinte ont
+réagi avec les ions Fe3+ présents en large excès. L'absorbance de la solution S’ a pour valeur
+A = 0,65.
+7. Déterminer la concentration en quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ dans la solution S’.
+En déduire leur quantité de matière dans la solution de volume V = 10,0 mL.
+8. Recopier et compléter le tableau d’avancement ci-dessous. En déduire la relation entre la
+quantité de matière des ions 𝐹𝑒(𝑆𝐶𝑁)2+ à la fin de la transformation et la quantité de
+matière en ions 𝑆𝐶𝑁 − initialement présente dans la solution.
+−
+𝑆𝐶𝑁(𝑎𝑞)
+
++
+
+3+
+𝐹𝑒(𝑎𝑞)
+
+État du système
+
+Avancement
+(en mol)
+
+État initial
+
+x=0
+
+excès
+
+État final
+
+xmax
+
+excès
+
+n (𝑆𝐶𝑁 − )
+
+n (𝐹𝑒 3+ )
+
+→
+
+𝐹𝑒(𝑆𝐶𝑁)2+
+(𝑎𝑞)
+n (𝐹𝑒(𝑆𝐶𝑁)2+ )
+
+9. Déterminer la valeur de la concentration en masse des ions thiocyanate SCN− dans
+l’échantillon de salive de la femme enceinte et conclure sur le potentiel tabagisme passif
+de cette femme.
+L’élève est invité à prendre des initiatives et à présenter la démarche suivie, même si elle
+n’a pas abouti.
+PARTIE B
+Plongée en eau douce (10 points)
+La plongée en eau douce peut se pratiquer dans les lacs, les étangs, les anciennes carrières,
+les rivières et même les piscines. Ce sport permet de découvrir une faune et une flore
+aquatiques typiques de ces milieux.
+1. Pression et profondeur
+Un plongeur débutant ressent souvent une douleur intense au niveau des tympans lors des
+plongées. Le tympan est une membrane qui sépare l’oreille moyenne du milieu extérieur. Il est
+assimilable à un disque de surface 𝑆 = 6,0 × 10−5 m².
+
+Une légère différence entre la pression extérieure et celle de l’air dans l’oreille moyenne suffit
+à provoquer des douleurs qui peuvent aller jusqu’à l’inflammation du tympan : c’est le
+barotraumatisme auriculaire. Celui-ci peut se déclarer dès lors que la différence entre la force
+pressante exercée par un fluide extérieur et celle exercée par l'air intérieur sur le tympan
+excède une valeur de l’ordre de 2 N. Pour l’éviter, il est possible d’effectuer la manœuvre de
+Valsalva : elle consiste à expirer tout en se pinçant les narines afin de rééquilibrer les
+pressions de part et d’autre du tympan.
+Un plongeur souhaite vérifier au laboratoire l'influence de la profondeur sur la pression lors
+d'une séance de travaux pratiques. Pour cela, il utilise un manomètre associé à un tuyau en
+plastique pour mesurer la valeur de la pression, un mètre ruban pour mesurer celle de la
+profondeur et un long tube de plexiglas.
+Il remplit le tube de plexiglas avec de l'eau et y plonge le tuyau en plastique. Il relève la
+pression P en fonction de la profondeur d'immersion h de l'extrémité du tuyau.
+Le plongeur obtient les résultats suivants :
+h(cm)
+P(hPa)
+
+1012
+
+1023
+
+1032
+
+1042
+
+1052
+
+1062
+
+1072
+
+1082
+
+1091
+
+Données :
+- la loi fondamentale de la statique des fluides est donnée par la relation :
+𝑃𝐵 − 𝑃𝐴 = 𝜌 × 𝑔 × (𝑧𝐴 − 𝑧𝐵 )
+où 𝐴 et 𝐵 sont deux points d'un fluide au repos, d'altitudes respectives 𝑧𝐴 et 𝑧𝐵 (en
+mètre), où règnent les pressions respectives 𝑃𝐴 et 𝑃𝐵 (en pascal) ;
+- masse volumique de l'eau : ρ = 1000 kg. m−3 ;
+- intensité de la pesanteur : 𝑔 = 10 N. kg −1 .
+1.1.
+
+Expliquer qualitativement le lien entre la pression et le comportement microscopique
+des entités qui constituent le fluide.
+
+1.2.
+
+En utilisant une étude graphique, tester la loi fondamentale de la statique des fluides à
+partir des mesures consignées dans le tableau ci-dessus.
+
+1.3.
+
+On considère que la loi fondamentale de la statique des fluides est vérifiée à 10 mètres
+de profondeur.
+
+Estimer la valeur de la force pressante exercée par l'eau sur la surface du tympan d’un
+plongeur à cette profondeur.
+On considère que le plongeur effectue la descente de la surface de l’eau jusqu’à 10 m de
+profondeur sans réaliser la manœuvre de Valsalva. Risque-t-il un barotraumatisme
+auriculaire ? Une réponse détaillée est attendue.
+
+2. Le sens électrique chez les poissons
+Les poissons électriques
+On appelle poisson électrique les poissons capables d'utiliser un courant électrique pour
+s'orienter, pour se protéger ou pour communiquer. La majorité de ces poissons vivent dans les
+eaux turbides ou ont une activité nocturne. Ils génèrent un champ électrostatique autour de
+leur corps. Un objet placé à proximité modifie la valeur de l'intensité locale du champ
+électrostatique. Par la suite, des récepteurs électriques situés dans la peau détectent le
+champ électrostatique et les modifications subies, ce qui permet au poisson de percevoir les
+caractéristiques de son environnement, détecter des proies et communiquer avec des
+congénères. Quelques espèces sont capables de produire des décharges électriques de forte
+intensité, comme les anguilles électriques, les torpilles ou les silures électriques. Elles s'en
+servent pour se protéger contre des prédateurs, ou pour assommer des proies avant de les
+consommer.
+Source : article « Poisson électrique » de Wikipédia en français.
+(http://fr.wikipedia.org/wiki/Poisson_%C3%A9lectrique).
+Force et champ électrostatiques
+Un objet possédant une charge électrique 𝑞𝐵 placée dans un champ électrostatique ⃗𝐸 ,
+engendré par une charge électrique 𝑞𝐴 , subit une action mécanique modélisée par une force
+électrostatique :
+𝐹 = 𝑞𝐵 𝐸⃗ .
+La force électrostatique est donnée par la loi de Coulomb :
+𝐹=
+
+𝑞𝐴 𝑞𝐵
+×
+⃗𝑢
+4𝜋𝜀𝑅 𝜀0
+𝑟2
+
+avec ⃗𝑢, vecteur unitaire de même direction que la droite reliant les deux charges et orienté de
+A vers B, 𝜀𝑅 et 𝜀0 deux constantes appelées permittivités diélectriques, 𝑞𝐴 et 𝑞𝐵 les charges, 𝑟
+la distance entre les deux charges.
+Valeurs des permittivités diélectriques :
+ permittivité diélectrique du vide : 𝜀0 = 8,85  10−12 F. m−1 ;
+ permittivité diélectrique relative de l'air par rapport au vide : 𝜀𝑅 = 1,00 ;
+ permittivité diélectrique relative de l'eau par rapport au vide : 𝜀𝑅 = 78,5.
+Effets des champs électrostatiques sur la santé
+Les champs électrostatiques peuvent provoquer des réactions cutanées. En effet, ils
+induisent au niveau de la peau des personnes exposées une modification de la répartition des
+
+charges électriques. Cette modification est perceptible surtout au niveau des poils et des
+cheveux (seuil de perception : 10 kV.m-1, seuil de sensations désagréables : 25 kV.m-1).
+Source : http://www.inrs.fr/risques/champs-electromagnetiques/effets-sante.html
+Un plongeur se trouve à 2,0 m d'une anguille électrique. En première approximation, on
+modélise une partie de l'anguille par un point placé en A et de charge unique 𝑞𝐴 = 4,4×10-12
+C.
+2.1.
+
+2.2.
+
+2.3.
+2.4.
+
+Montrer que l’expression du champ électrostatique⃗⃗⃗𝐸 créé au point B par une charge 𝑞𝐴
+est donnée par la relation :
+𝑞𝐴
+⃗𝐸 =
+× 2 ⃗𝑢
+4𝜋𝜀𝑅 𝜀0 𝑟
+L’intensité du champ électrostatique décroît très vite avec la distance. En outre, les
+valeurs des champs électrostatiques créées par les poissons sont souvent faibles car
+l’eau, par rapport à l’air, divise par environ 80 l’amplitude du champ électrostatique.
+Justifier ces deux affirmations.
+Dans le cadre de cette modélisation, calculer la valeur du champ électrostatique
+ressenti par le plongeur. Ce champ est-il perceptible par le plongeur ? Justifier.
+Le champ électrostatique créé par un poisson électrique peut être assimilé à celui d’un
+ensemble composé de deux charges électriques de signes opposés.
+
+Figure 3.a.
+Figure 3.b.
+Lignes de champ électrostatique créé par un ensemble de deux charges électriques placées
+aux points M et N.
+Pour chaque figure, donner le signe des charges placées aux points M et N.
+Parmi les deux figures proposées, laquelle correspond au modèle du poisson électrique ?

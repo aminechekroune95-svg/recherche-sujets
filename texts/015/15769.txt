@@ -1,0 +1,401 @@
+{"pages": 17, "method": "pdftotext", "bytes": 1975122, "at": "2026-11-23T09:27:53+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 17
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+L’inférence bayésienne au service de la médecine
+Dans le domaine médical, il est possible d’estimer la probabilité qu’une personne soit
+atteinte d’une maladie à partir d’un test fondé sur les symptômes de cette maladie
+(effets de la maladie). Cette estimation se fonde sur le principe de l’inférence
+bayésienne, qui permet de calculer la probabilité qu'un événement se produise à
+condition qu’un autre événement se soit réalisé.
+Dans cet exercice, nous allons étudier la pertinence d’un test sanguin permettant de
+détecter la pathologie d’une embolie pulmonaire.
+Document 1 – L’embolie pulmonaire, une pathologie cardio-vasculaire
+L'embolie pulmonaire est l'obstruction partielle ou totale, en général, par un caillot
+de sang, d'une artère pulmonaire ou de l'une de ses branches. Le sang ne peut
+donc plus circuler. Elle provoque un essoufflement, l’augmentation du rythme
+cardiaque, des douleurs thoraciques, et dans les cas les plus graves, une chute de
+tension voire une mort subite.
+Le diagnostic nécessite différents examens coûteux comme l’imagerie médicale
+des poumons, du thorax et un électrocardiogramme parfois difficile à interpréter.
+
+Figure 1 – Schéma d’une artère avec embolie pulmonaire
+Source : https://www.santemagazine.fr/sante/maladies/maladies-appareilcirculatoire/quest-ce-quun-trhombus-comment-prevenir-ce-caillot-sanguin-1041812
+
+Document 2 – Test sanguin et résultats
+Par une prise de sang, il est possible de doser la
+quantité d’une molécule appelée D-dimère, présente
+dans le sang lorsque l’organisme arrive à se
+débarrasser d’un caillot sanguin. Plus la concentration
+est importante, plus il y a de caillots qui peuvent
+potentiellement entraîner une embolie.
+Ce test est rapide et moins invasif que d’autres examens plus complexes à mettre
+en place.
+Le test a été réalisé sur un échantillon de 2898 patients qui seraient susceptibles
+de contracter cette pathologie. 1154 sont diagnostiqués comme malades.
+Source : https://www.portailvasculaire.fr/le-seuil-des-d-dimeres-ajuste-lage-pour-eliminerlembolie-pulmonaire-letude-adjust-pe
+
+Ci-dessous les résultats des analyses :
+Concentration en D-dimères
+(en ng.mL-1)
+
+Nombre de patients
+malades
+
+Nombre de patients
+non malades
+
+6-249
+
+250-499
+
+500-999
+
+1000-1999
+
+2000-3999
+
+4000-10600
+
+Partie 1 – Traitement des résultats
+Afin d’analyser les résultats obtenus, on fixera la valeur seuil de la concentration en
+D-dimères à partir de laquelle on peut considérer le patient comme malade à
+500 ng.L-1.
+1- Justifier l’intérêt de mettre en place un test sanguin pour faire le diagnostic de
+l’embolie pulmonaire.
+
+2- Recopier sur la copie les termes proposés dans le tableau ci-dessous et les
+associer aux bonnes définitions.
+Termes
+Vrais positifs (VP)
+Faux positifs (FP)
+Faux négatifs (FN)
+Vrais négatifs (VN)
+
+Définitions à associer au bon terme
+Malade avec test positif
+Malade avec test négatif
+Non malade avec test positif
+Non malade avec test négatif
+
+3- Indiquer les conséquences, pour le patient, que peuvent entraîner soit l’obtention
+d’un faux positif soit un faux négatif.
+4- Reproduire et compléter le tableau de contingence suivant, qui représente
+simultanément les résultats au test et les diagnostics à partir des données
+fournies dans le document 2.
+
+Test (valeur seuil
+de 500 ng.L-1)
+
+Diagnostic
+
+Malade
+
+Non malade
+
+Vrai positif (VP)
+
+Faux positifs (FP)
+
+Total
+
+Positif
+
+2077
+
+Faux négatifs (FN)
+
+Vrai négatifs (VN)
+
+Négatif
+
+Total
+
+2898
+
+5- Connaissant le nombre de tests positifs, calculer la probabilité d’obtenir un vrai
+positif notée p(VP).
+6- Rappeler le sens de cette probabilité et interpréter la valeur obtenue. En déduire
+si cette information est suffisante pour justifier l’emploi du test sanguin dans le
+cadre de la détection d’embolie pulmonaire.
+7- La probabilité précédente est aussi appelée « valeur prédictive du test ».
+Expliquer en quoi cette probabilité se fonde sur le principe de l’inférence
+bayésienne.
+
+Partie 2 – Caractéristiques du test
+Document 3 – Évaluation de l’efficacité du test
+Afin d’évaluer l’efficacité d’un test, on peut s’appuyer sur deux autres variables :
+
+La sensibilité notée Se : il s’agit de connaître la probabilité que le test soit
+positif lorsqu’il est censé l’être pour les malades atteints de la pathologie.
+𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝑉𝑃
+
+Sensibilité = 𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝑉𝑃+𝑛𝑜𝑚𝑏𝑟𝑒 𝑑𝑒 𝐹𝑁
+
+Le pourcentage de tests donnant un faux positif (%FP) parmi les personnes
+non-malades.
+
+Document 4 – Courbe ROC du dosage sanguin
+Dans un deuxième temps, les résultats sont analysés avec des valeurs seuil
+différentes. On construit alors la courbe « ROC » appelée également caractéristique de
+performance d’un test. Elle montre les progrès réalisés dans le traitement des résultats
+du test lorsque les valeurs seuil varient.
+
+8- Par une lecture graphique, déterminer la sensibilité et le pourcentage de tests
+faux positifs, noté %FP, pour la valeur seuil 500 ng.L-1. Indiquer si le pourcentage
+de faux positifs est cohérent avec les indications portées dans le tableau de
+contingence en justifiant votre réponse.
+9- À partir du document 4, choisir puis recopier la proposition qui permet de choisir
+la valeur seuil la plus pertinente possible.
+
+Sensibilité faible et %FP faible.
+
+Sensibilité forte et %FP faible.
+
+Sensibilité faible et %FP forte.
+
+Sensibilité forte et %FP forte.
+
+10- Discuter de la pertinence du test sanguin mis en œuvre au regard de la valeur
+seuil, de la taille de l’échantillon, du traitement des résultats et des pourcentages
+précédemment calculés.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- D’après vos connaissances, expliquer en quoi choisir un régime alimentaire
+constitué uniquement de céréales va causer à plus ou moins long terme des
+problèmes de santé.
+2- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+3- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé en milieu urbain au Nord de l’Europe loin des côtes à l’époque
+industrielle.
+Exploiter le document 2, à l’aide de vos connaissances, pour expliquer que la
+maladie, à l’époque industrielle, ait été plus fréquente en milieu urbain, dans les
+régions du Nord de l’Europe, éloignées des bords marins et océaniques.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers (yaourts, fromage blanc,
+fromage, lait) qui contribuent respectivement à 19 % et 25 % des apports chez les
+adultes et à 12 % et 40 % des apports en vitamine D chez les enfants de 11 à
+17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+4- À l’aide de vos connaissances, expliquer l’origine des variations de la puissance
+solaire reçue au sol, observées dans le document 3.
+5- Expliquer la recommandation générale des campagnes de prévention des
+cancers de la peau : « éviter l’exposition au soleil entre 12 h et 16 h ».
+6- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.
+
+Exercice 3 (au choix) – Niveau première
+Thème « La Terre, un astre singulier »
+
+La vie sur Terre, et ailleurs dans l’Univers
+Les scientifiques sont à la recherche de vie sur d’autres astres, dans et hors du
+système solaire. Afin de cibler les astres potentiellement habités, ils recherchent
+ceux dont les conditions sont similaires à celles de la Terre.
+Partie 1 – Les facteurs conditionnant la présence d’eau liquide sur les planètes
+Les scientifiques pensent que l’une des conditions indispensables à l’émergence du
+vivant est la présence d’eau liquide à la surface de l’astre.
+Document 1 – Comparaison de quelques paramètres des planètes telluriques
+Mercure
+
+Vénus
+
+Terre
+
+Mars
+
+Distance au soleil
+(en km)
+
+5,8 x 107
+
+1,08 x 108
+
+1,5 x 108
+
+2,28 x 108
+
+Température moyenne
+(en °C)
+
++167
+
++477
+
++15
+
+-63
+
+-100
+
++420
+
+-93
+
+-140
+
++430
+
++446
+
++56
+
+-20
+
+0 (<10-12)
+
+90 x 105
+
+1 x 105
+
+8 x 102
+
+Gamme de
+températures
+(en °C)
+Pression atmosphérique
+(en Pa) à la surface
+
+Source : d’après https://planet-terre.ens-lyon.fr/ressource/planetes-telluriques.xml
+
+1- Montrer à partir des données du document 1 que la température moyenne (en °C)
+d’une planète dépend de la distance (en km) à l’étoile. Vous direz si cette
+dépendance est linéaire.
+
+Document 2 – Les différents états de l’eau en fonction de la pression et de la
+température
+
+Remarque : la vapeur d’eau se forme continuellement par évaporation dès que l’eau
+liquide est surmontée d’une couche de gaz, sans que la température n’ait besoin
+d’atteindre la température d’ébullition.
+Source : d’après https://planet-terre.ens-lyon.fr/ressource/diagramme-lineaire-log.xml
+
+2- En utilisant le document de l’annexe à votre disposition, positionner chaque
+planète du document 1 sur le document fourni en traçant des segments
+correspondant à leur gamme de températures en fonction de la pression
+atmosphérique.
+
+3- À partir des résultats obtenus à la question 2 et de vos connaissances,
+argumenter que seule la terre puisse abriter la vie dans le système solaire.
+
+Partie 2 – À la recherche de la vie dans l’Univers
+
+Document 3 – Modèle de positionnement de la zone habitable
+Autour de toute étoile, on peut définir une zone d’habitabilité (en gris sur le
+graphique ci-dessous) correspondant aux limites de températures compatibles
+avec la vie.
+*UA : unité astronomique (unité qui prend la distance Terre-Soleil comme
+référence).
+
+Source : https://www.cambridge.org/core/books/abs/atmospheric-evolution-on-inhabitedand-lifeless-worlds/exoplanets-habitability-and-characterization/
+
+Document 4 – Relation entre la luminosité et la masse des étoiles
+Plus une étoile est lumineuse, plus sa température de surface est élevée.
+
+Luminosité de l’étoile par rapport au Soleil
+
+1000000
+
+10000
+
+0,01
+
+Masse de l’étoile, par rapport au Soleil
+Source : D’après https://media4.obspm.fr/
+
+4- On cherche à comprendre les raisons pour lesquelles plus une étoile est petite,
+plus la zone potentiellement habitable est proche d’elle (document 3). Formuler
+une hypothèse pour expliquer ce constat à partir de vos connaissances et de
+l’analyse du document 4.
+5- À partir du document 3, dire à quelle distance (en UA) se situe la zone habitable
+dans le système de Kepler.
+
+Document 5 – Nombre d’exoplanètes découvertes en fonction des
+années et des techniques utilisées
+
+Techniques utilisées pour
+découvrir les exoplanètes
+
+6- À partir de l’analyse du document 5, formuler une hypothèse pour expliquer
+l’augmentation du nombre d’exoplanètes découvertes avec le temps.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 2

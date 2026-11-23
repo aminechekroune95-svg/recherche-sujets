@@ -1,0 +1,185 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1317466, "at": "2026-11-23T09:34:12+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+EXERCICE 1
+PRODUCTION D’UN SON
+PARTIE 1 : SPECTRES SONORES ET INSTRUMENTS DE MUSIQUE
+On a enregistré trois sons. Chacun a été produit par l’un des trois instruments suivants : un
+diapason, une flûte traversière, une guitare.
+1- Le son (La 3) produit par le diapason est un son pur. Les autres sons sont des sons
+composés.
+Identifier parmi les trois enregistrements représentés dans l’annexe celui qui correspond au
+son produit par le diapason.
+2- On suppose que, dans les enregistrements étudiés, le son produit par la guitare est plus
+aigu que celui produit par la flûte traversière.
+2-a- Un son plus aigu correspond-il à une fréquence plus élevée ou plus basse ? Aucune
+justification n’est attendue.
+2-b- Identifier, parmi les trois enregistrements représentés dans l’annexe celui qui correspond
+à au son produit par la flûte traversière et celui qui correspond à celui de la guitare.
+L’annexe, à rendre avec la copie, fera apparaître les éléments de lecture permettant de
+répondre à la question.
+2-c-Le tableau suivant donne les fréquences des notes de l’octave 3.
+
+Note
+
+Octave 3
+
+Do
+
+Ré
+
+Mi
+
+Fa
+
+Sol
+
+La
+
+Si
+
+Identifier la note produite par la guitare et la note produite par la flûte traversière.
+
+3- Pour jouer une note plus aigüe avec la guitare, le musicien devra-t-il raccourcir ou allonger
+la portion de corde qu’il fait vibrer ?
+PARTIE II – STOCKAGE ET COMPRESSION D’UN SIGNAL NUMERIQUE.
+Le tableau ci-dessous donne les caractéristiques de deux formats de stockage du son :
+format CD audio et mp3 à 16kHz.
+CD
+
+mp3
+
+Fréquence d’échantillonnage
+
+44,1 kHz
+
+16 kHz
+
+Nombre de bits pour le
+codage
+
+Nombre de voies
+
+2 (son stéréo)
+
+1 (son mono)
+
+La taille d’un fichier, en octet, est donnée par la formule suivante :
+𝑄
+𝑁 = 𝑓 × × 𝛥𝑡 × 𝑛
+avec :
+𝑁 : taille du fichier (en octet)
+𝑓 : fréquence d’échantillonnage (en Hz)
+𝑄 : nombre de bits de codage
+𝛥𝑡 : durée de l’enregistrement (en s)
+𝑛 : nombre de voies
+4- Calculer la taille d’un fichier correspondant au stockage sur un CD audio d’un morceau de
+musique d’une durée de trente minutes.
+5- Calculer le taux de la compression du format CD au format mp3 à 16kHz, défini comme le
+rapport de la taille du fichier compressé par celle du fichier initial. Le résultat sera exprimé
+en pourcentage.
+6- Expliquer pourquoi on dit que le format mp3 est un format de compression « avec pertes ».
+On précisera notamment ce qui est perdu pour un auditeur.
+
+EXERCICE 2
+LES MINERAIS D’ARGENT ET LEUR EXPLOITATION
+L’argent est connu depuis des millénaires et son utilisation pour des applications
+industrielles s’est fortement développée au XXème siècle.
+L'argent est l'élément chimique de numéro atomique Z = 47 et de symbole Ag. À
+l’état métallique, il est blanc, très brillant, malléable ainsi que très ductile (c’est-à-dire
+qu’il peut être étiré sans se rompre).
+
+Données :
+Nombre d’entités par mole : N = 6,022×1023 mol-1 ;
+Rayon moyen d’un atome d’argent : r = 1,45 Å. L’angström (Å) est une unité de
+longueur utilisée en cristallographie (valant 10-10 m).
+Document 1. Maille élémentaire du cristal d’argent
+À l’état microscopique, l’argent métallique solide est organisé selon un réseau
+cubique à faces centrées.
+Figure 1a : représentation en
+perspective cavalière
+
+Figure 1b : vue de l’une des faces du
+cube
+
+Document 2. Les minerais d’argent
+L'argent est rarement présent dans le sous-sol à l'état natif (pépite ou filon).
+Cependant dans les minerais, on le trouve souvent associé à d’autres éléments
+chimiques : par exemple, dans la chlorargyrite de formule AgCl, il est associé à
+l’élément chlore Cl ; dans l’acanthite de formule Ag2S, il est associé à l’élément
+soufre S.
+Figure 2a : maille élémentaire de la chlorargyrite
+
+Ag+ : ion
+argent
+Cl- : ion
+chlorure
+
+Figure 2b : maille élémentaire de l’acanthite
+
+Ag+ : ion
+argent
+S2- : ion
+sulfure
+
+Document 3. Analyse d’un échantillon du gisement minier d’Ain-Kerma
+Le gisement minier d’Ain-Kerma est situé en Algérie à 15 km au Nord-Ouest de
+la ville de Constantine. Il a été activement exploité de 1913 à 1951 pour son
+minerai contenant 40 % d’antimoine de symbole chimique Sb.
+Figure 3 : Echantillon de minerai observé microscopie électroniqueMEB)
+
+Stibine (Sb2S3)
+Quartz (Q)
+Acanthite (Ag2S)
+
+D’après :https://www.researchgate.net/publication/279533102_Testing_of_Silver_Sul
+phide_in_Antimony_Mineralization_Hydrothermal_Karst_Formations_Ain-Kerma
+1- En utilisant la figure 1a, montrer en explicitant la démarche que le nombre
+d’atomes contenus dans une maille élémentaire du cristal d’argent est égal à 4.
+2- En utilisant la figure 1b et en notant 𝑎 le paramètre de maille du cristal d’argent
+(égal à la longueur de l’arête du cube), démontrer que √2 𝑎 = 4𝑟. En déduire que
+𝑎 = 4,10 Å.
+3- Calculer la compacité du cristal d’argent et en déduire que 26 % de la maille
+élémentaire est vide. On rappelle que la compacité d’un cristal est égale au rapport
+du volume des atomes contenus dans une maille élémentaire par le volume de cette
+maille.
+
+4- La masse volumique de l’argent sous forme cristalline vaut approximativement
+10,5×103 kg∙m-3. Calculer la masse d’un atome d’argent après avoir déterminé le
+volume d’une maille du cristal.
+5- La chlorargyrite et l’acanthite sont des cristaux. Préciser le sens du mot cristal et
+donner un exemple d’un autre mode d’organisation de la matière solide à l’échelle
+microscopique.
+6- Expliquer pourquoi le minerai d’Ain-Kerma peut être qualifié de roche et pourquoi
+cette roche peut être qualifiée d’argentifère.
+
+ANNEXE A RENDRE AVEC LA COPIE
+Exercice : Production d’un son
+Questions 1 et 2b
+Graphique A (Variation d’un signal sonore en fonction du temps)
+
+Graphique B (Spectre d’un son)
+
+Graphique C (Variation d’un signal sonore en fonction du temps)

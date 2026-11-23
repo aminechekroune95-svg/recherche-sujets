@@ -1,0 +1,435 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1459817, "at": "2026-11-23T09:45:04+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Comment s'écrit en base 16 (en hexadécimal) le nombre dont l'écriture binaire est 0010 1100 ?
+1D
+2C
+3C
+3E
+Question A.2
+Combien de bits sont nécessaires pour représenter 15 en binaire ?
+Question A.3
+On considère les codes ASCII en écriture hexadécimale (en base 16).
+Le code ASCII de la lettre A est 0x41, celui de la lettre B est 0x42, celui de la lettre C est 0x43, etc.
+Quel est le code ASCII, en hexadécimal, de la lettre X (c'est la 24e lettre de l'alphabet usuel).
+0x58
+0x64
+0x7A
+0x88
+Question A.4
+Combien de bits doit-on utiliser au minimum pour représenter en base 2 le nombre entier 72 ?
+
+Question A.5
+Quelle est la représentation en binaire de l'entier 64 sur un octet ?
+0101 0000
+1100 0100
+0100 0000
+0000 1100
+Question A.6
+On souhaite coder un entier relatif sur deux octets.
+Quels sont le plus petit et le plus grand entier que l'on peut coder de la sorte ?
+–32 768 et 32 767
+0 et 65 535
+–8 et 7
+–256 et 255
+
+Thème B : types construits
+Question B.1
+Quelle est la valeur de l'expression [(a,b) for a in range(3) for b in range(3) if a > b]
+?
+[(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b),(a,b)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(2,0),(2,1),(2,2)]
+[(1,0),(2,0),(2,1)]
+[(0,0),(0,1),(0,2),(1,0),(1,1),(1,2),(1,0),(1,1),(1,2)]
+Question B.2
+On définit :
+resultat = [ i*2 for i in range(10) ]
+Quelle est la valeur de resultat ?
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+[0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
+[2, 4, 6, 8, 10, 12, 14, 16, 18]
+Question B.3
+On exécute le code suivant :
+A = [ [1,2,3], [4,5,6], [7,8,9] ]
+B = [ [0,0,0], [0,0,0], [0,0,0] ]
+for i in range(3):
+for j in range(3):
+B[i][j] = A[j][i]
+Que vaut B à la fin de l'exécution ?
+rien du tout, le programme déclenche une erreur d'exécution
+[ [3,2,1], [6,5,4], [9,8,7] ]
+[ [1,4,7], [2,5,8], [3,6,9] ]
+[ [7,8,9], [4,5,6], [1,2,3] ]
+Question B.4
+On définit un dictionnaire : d = { 'couleur': 'vert', 'taille': 42, 'marque': 'le coq
+sportif' }
+Quelle est la valeur de l'expression d.keys() ?
+['couleur', 'taille', 'marque']
+[('couleur', 'vert'), ('taille', 42), ('marque', 'le coq sportif')]
+['vert', 42, 'le coq sportif']
+['couleur': 'vert', 'taille': 42, 'marque': 'le coq sportif']
+
+Question B.5
+On définit la fonction suivante :
+def f(x,y):
+if x > y:
+return y,x
+else:
+return x,y
+Quelle est la valeur renvoyée par l'appel f(42,21) ?
+(21, 42)
+(21, 21)
+(42, 21)
+(42, 42)
+Question B.6
+Si la variable note est définie par note = ["do","ré","mi","fa","sol","la","si"] alors :
+l'index de "sol" est 5
+l'index de note est 0
+l'index de "si" est 7
+l'index de "mi" est 2
+
+Thème C : traitement de données en tables
+Question C.1
+Un fichier CSV …
+ne peut être lu que par un tableur
+est l'unique format utilisé pour construire une base de données
+est un fichier texte
+est un format propriétaire
+Question C.2
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C.3
+On définit ainsi une liste t :
+t
+
+=
+[
+{'id':1,
+'age':23,
+{'id':2,
+'age':27,
+{'id':3,
+'age':53,
+{'id':4,
+'age':41,
+{'id':5,
+'age':62,
+{'id':6, 'age':28, 'sejour':'ALGER'}]
+
+'sejour':'PEKIN'},
+'sejour':'ISTANBUL'},
+'sejour':'LONDRES'},
+'sejour':'ISTANBUL'},
+'sejour':'RIO'},
+
+Quelle expression vaut-elle 'RIO' parmi les suivantes ?
+t[4]['sejour']
+t[5]['sejour']
+t('id'=5)
+t.['id'=5].['sejour']
+Question C.4
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+
+Question C.5
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à un
+tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C.6
+On souhaite construire une table de 4 lignes de 3 éléments que l’on va remplir de 0. Quelle syntaxe Python
+utilisera-t-on ?
+[ [ 0 ] * 3 for i in range (4) ]
+for i in range (4) [ 0 ] * 3
+[ 0 ] * 3 for i in range (4)
+[ for i in range (4) [ 0 ] * 3 ]
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Parmi les éléments suivants, lequel est un protocole ?
+GET
+POST
+HTTP
+HTML
+Question D.2
+Lors de la consultation d’une page HTML contenant un bouton auquel est associée la fonction suivante, que se
+passe-t-il quand on clique sur ce bouton ?
+function
+this.style.color
+}
+
+action(event)
+=
+
+{
+"blue"
+
+le texte de la page passe en bleu
+le texte du bouton passe en bleu
+le texte du bouton est changé et affiche maintenant le mot "bleu"
+le pointeur de la souris devient bleu quand il arrive sur le bouton
+Question D.3
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D.4
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser tout type de données
+
+Question D.5
+Quelle balise HTML permet de créer des liens entre pages ?
+<r>
+<l>
+<link>
+<a>
+Question D.6
+Dans quels langages les balises <img> et <form> sont-elles utilisées ?
+Python
+HTML
+Javascript
+PHP
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quelle est la commande qui permet d’afficher le répertoire courant dans le shell GNU/Linux ?
+mkdir
+pwd
+cd
+ls -l
+Question E.2
+Dans une mémoire RAM, que peut-on faire ?
+uniquement lire des données
+uniquement écrire des données
+lire et écrire des données
+lire des données même en cas de coupure de courant
+Question E.3
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+cp /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question E.4
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+
+Question E.5
+Le shell Linux renvoie ce résultat à la commande ls -al :
+lrwxr--r-drwxr-xr-x
+-rw-r-xr-x
+-rwxr-xr-x
+
+807 juin 26 14:06 eclipse
+4096 juin 26 15:00 Doc_1
+4096 juin 26 14:06 QCM
+4096 juin 26 14:06 Doc_Travail
+
+Quel est le nom du fichier du répertoire courant, de taille 4096 octets, exécutable par son propriétaire ?
+eclipse
+Doc_1
+QCM
+Doc_Travail
+Question E.6
+Dans l’architecture générale de Von Neumann, la partie qui a pour rôle d’effectuer les opérations de base est :
+l'unité de contrôle
+la mémoire
+l'unité arithmétique et logique
+les dispositifs d'entrée-sortie
+
+Thème F : langages et programmation
+Question F.1
+La
+documentation
+de
+la
+bibliothèque
+random
+de
+Python
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+
+précise
+
+que
+
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F.2
+Quelles sont les valeurs des variables x et y à la fin de l'exécution du script suivant :
+x = 4
+while x > 0:
+y = 1
+while y < x:
+y = y + 1
+x = x - 1
+l'exécution ne termine pas !
+la valeur de x est 0, celle de y est 0
+la valeur de x est 0, celle de y est 1
+la valeur de x est -1, celle de y est 0
+Question F.3
+On considère le code suivant :
+def puiss(y,x):
+res = y
+for i in range(x):
+res = res*y
+return res
+Quelles sont les préconditions sur les arguments ?
+les arguments doivent être obligatoirement de type entier
+les arguments peuvent être de type entier ou flottant
+le type des arguments n’a pas d’importance
+il n’y a pas de préconditions dans ce cas
+
+Question F.4
+resultat = [0] * 7
+Que contient la variable resultat après son exécution ?
+[0]
+[[0], [0], [0], [0], [0], [0], [0]]
+[0, 0, 0, 0, 0, 0, 0]
+Question F.5
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F.6
+On exécute le code suivant :
+def f(t):
+n = len(t)
+for i in range(n-1):
+if t[i] > t[i+1]:
+t[i],t[i+1] = t[i+1],t[i]
+L = [4, 8, -7, 0, 1]
+f(L)
+Quelle est la valeur de L après l'exécution de ce code ?
+[4, -7, 8, 0, 1]
+[-7, 0, 1, 4, 8]
+[4, 8, -7, 0, 1]
+[4, -7, 0, 1, 8]
+
+Thème G : algorithmique
+Question G.1
+for i in range(n):
+for j in range(i):
+print('NSI')
+Combien de fois le mot NSI est-il affiché ?
+𝑛2
+(𝑛 + 1)2
+1 + 2 + ⋯ + (𝑛 − 1)
+1 + 2 + ⋯ + (𝑛 − 1) + 𝑛
+Question G.2
+def f(L,x):
+r = 0
+for e in L:
+if e >= x:
+r = r + 1
+return r
+Quelle est la valeur renvoyée par l'appel f([1,2,2,8,3,5,6,0,10],5) ?
+Question G.3
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables
+
+Question G.4
+La fonction suivante prend en arguments deux entiers positifs et renvoie leur produit.
+def produit(a,b):
+c = 0
+i = 0
+while i < b:
+#
+i = i + 1
+c = c + a
+return c
+Quelle propriété reste vraie à chaque passage par la ligne marquée d'un # ?
+𝑐 = 𝑎 × (𝑖 + 1)
+𝑐 = 𝑎 × (𝑖 − 1)
+𝑐 =𝑎×𝑖
+𝑐 =𝑎×𝑏
+Question G.5
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6
+
+Question G.6
+À la fin de l'exécution du code suivant, quelle sera la valeur de la variable cpt ?
+a = 1
+cpt = 20
+while cpt > 8:
+a = 2*a
+cpt = cpt - 1

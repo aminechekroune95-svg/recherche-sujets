@@ -1,0 +1,268 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1186571, "at": "2026-11-23T09:33:34+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Implant cochléaire
+L’implant cochléaire est un dispositif auditif destiné aux personnes atteintes d’une
+surdité sévère ou profonde. Il transforme les sons en signaux électriques envoyés
+directement au nerf auditif grâce à des électrodes posées chirurgicalement.
+Document 1. Fonctionnement d’un implant cochléaire
+
+osselets
+
+cochlée
+
+Modifié d’après : https://idataresearch.com/cascination-and-med-el-collaborate-on-state-of-the-art-cochlearimplantation-method
+
+Le microphone
+L’audio-processeur
+
+capte les sons en provenance de l’extérieur.
+numérise les sons.
+
+L’antenne
+
+transmet les signaux numériques à l’implant situé sous la peau.
+
+L’implant
+
+envoie des signaux électriques dans les électrodes
+
+situées dans
+
+la cochlée (comprenant les cellules sensorielles ciliées) ⑧.
+Les fibres du nerf auditif captent les signaux électriques et les transmettent au
+cerveau.
+
+1- Indiquer les légendes des structures numérotées 6, 9, 10, 11 et 12.
+2- Certaines personnes subissent une surdité consécutive à un dommage des cellules
+ciliées de l’oreille interne. Elles peuvent alors être appareillées avec un implant
+cochléaire.
+Expliquer le rôle des cellules ciliées de l’oreille interne dans le cas d’une audition
+normale et comment l’implant cochléaire permet de corriger la surdité.
+3- Le microphone d’un implant cochléaire capte un son périodique en provenance de
+l’extérieur. Un motif élémentaire de période T de ce son est représenté sur le
+document 2 de la page suivante.
+Déterminer la valeur de la fréquence f du son capté par le microphone.
+4- Déterminer graphiquement la valeur de la période d’échantillonnage Te utilisée pour
+cette numérisation puis justifier que la valeur de la fréquence d’échantillonnage fe est
+égale à 10 000 Hz.
+
+Document 2. Son capté par le microphone et numérisation par l’audio-processeur
+
+Source : http://www.ostralo.net/3_animations/js/CAN/index_v2nmoins1.htm
+
+5-a- Sachant qu’une quantification sur n bits permet 2n paliers numériques, indiquer,
+en le justifiant, pourquoi ici n=3.
+5-b- La taille L en octet d’un fichier audio est donnée par la formule :
+n
+L = fe × × ∆t
+avec fe la fréquence d’échantillonnage (en hertz), n la quantification (en bits) et ∆t la
+durée (en secondes).
+Pendant une journée, l’audio-processeur numérise en moyenne 10 heures de sons
+différents. Calculer la taille L d’un fichier audio équivalent à une journée de
+fonctionnement de l’implant cochléaire.
+
+Exercice 2 – Niveau première
+Thème « La Terre, un astre singulier »
+
+Histoire d’eau : deux méthodes historiques permettant d’estimer
+l’âge de la Terre
+Deux approches ont permis d’estimer l’âge de la Terre au cours du XIXe siècle. La
+première utilise la mesure de la salinité de l’eau des océans tandis que la seconde se
+base sur l’étude des phénomènes de sédimentation et d’érosion.
+Partie 1. Estimation de l’âge de la Terre à l’aide de la salinité des eaux de mer
+À la toute fin du XIXe siècle, le physicien irlandais John Joly proposa une méthode
+d'estimation de l'âge de la Terre basée sur le taux de sel dans les océans : la salinité.
+Les eaux de pluie ruissellent à la surface de la Terre et se chargent en sel contenu
+dans les roches de la croûte terrestre pour ensuite alimenter les rivières qui, à leur
+tour, se déversent dans les océans. La quantité de sel dissous dans les océans
+résulterait donc du déversement du sel contenu dans les rivières.
+La première question porte sur le calcul de la masse de sel contenue dans les océans.
+1-a Calculer, en km3, le volume total des
+océans modélisés sous la forme d'un
+parallélépipède rectangle (cf. schéma cicontre).
+
+SURFACE
+
+Données utilisées par John Joly :
+• Superficie totale des océans : 360  106 km2
+• Profondeur moyenne des océans : 3,797 km
+
+HAUTEUR
+
+• Masse volumique moyenne des océans : 1,03  109 tonnes par km3
+• L'eau des océans contient environ 1,07 % en masse de sel dissous
+• Déversement des rivières dans les océans : 2,72  104 km3 par an
+• Concentration moyenne du sel dissous dans les rivières : 5 250 tonnes par km3
+1-b Calculer la masse totale des océans en tonnes.
+1-c En déduire que la masse de sel contenue dans les océans est de 1,5  1016 tonnes
+environ. On fera apparaître le calcul.
+
+2- Calculer la masse de sel apportée chaque année par les rivières à l'océan.
+3- En déduire, comme l’a fait John Joly, que l'âge de la Terre calculé par cette méthode
+est d’environ 100 millions d'années.
+4- En réalité, une partie du sel dissous subit une sédimentation dans certaines régions
+littorales et peut également être échangé avec du calcium lors de l'altération sousmarine du basalte. Commenter la validité de la méthode de calcul proposée par John
+Joly.
+Partie 2. Érosion et sédimentation
+Document 1 : un exemple de destruction due à l’érosion
+Le “Grind of the Navir” correspond à une ouverture faite par la mer dans une falaise
+des îles Shetland. Cette ouverture est élargie d’hiver en hiver par la houle qui s’y
+engouffre.
+
+Extrait de la sixième édition de Principles of geology (1833) par Charles Lyell
+
+Document 2 : l’argument des temps de sédimentation et d’érosion par Charles
+Darwin
+« Ainsi que Lyell l’a très justement fait remarquer, l’étendue et l’épaisseur de nos
+couches de sédiments sont le résultat et donnent la mesure de la dénudation 1 que la
+croûte terrestre a éprouvée ailleurs. Il faut donc examiner par soi-même ces énormes
+entassements de couches superposées, étudier les petits ruisseaux charriant de la
+boue, contempler les vagues rongeant les antiques falaises, pour se faire quelque
+notion de la durée des périodes écoulées [...]. Il faut surtout errer le long des côtes
+formées de roches modérément dures, et constater les progrès de leur désagrégation.
+[...] Rien ne peut mieux nous faire concevoir ce qu’est l’immense durée du temps, selon
+les idées que nous nous faisons du temps, que la vue des résultats si considérables
+produits par des agents atmosphériques2 qui nous paraissent avoir si peu de puissance
+et agir si lentement. Après s’être ainsi convaincu de la lenteur avec laquelle les agents
+atmosphériques et l’action des vagues sur les côtes rongent la surface terrestre, il faut
+ensuite, pour apprécier la durée des temps passés, considérer, d’une part, le volume
+immense des rochers qui ont été enlevés sur des étendues considérables, et, de l’autre,
+examiner l’épaisseur de nos formations sédimentaires. [...]
+J’ai vu, dans les Cordillères [une chaîne de montagnes], une masse de conglomérats3
+dont j’ai estimé l’épaisseur à environ 10 000 pieds [3 km] ; et, bien que les conglomérats
+aient dû probablement s’accumuler plus vite que des couches de sédiments plus fins,
+ils ne sont cependant composés que de cailloux roulés et arrondis qui, portant chacun
+l’empreinte du temps, prouvent avec quelle lenteur des masses aussi considérables ont
+dû s’entasser. [...] M. Croll démontre, relativement à la dénudation produite par les
+agents atmosphériques, en calculant le rapport de la quantité connue de matériaux
+sédimentaires que charrient annuellement certaines rivières, relativement à l'étendue
+des surfaces drainées, qu'il faudrait six millions d'années pour désagréger et pour
+enlever au niveau moyen de l'aire totale qu'on considère une épaisseur de 1 000 pieds
+[305 mètres] de roches. Un tel résultat peut paraitre étonnant, et le serait encore si,
+d'après quelques considérations qui peuvent faire supposer qu'il est exagéré, on le
+réduisait à la moitié ou au quart. Bien peu de personnes, d'ailleurs, se rendent un
+compte exact de ce que signifie réellement un million ».
+Extrait “Du laps de temps écoulé, déduit de l’appréciation de la rapidité des dépôts et de
+l’étendue des dénudations”, L'origine des espèces, Charles Darwin, p. 393-398 (1859).
+1 - La dénudation correspond à l’effacement des reliefs par érosion.
+2 - Les agents atmosphériques désignent les agents responsables de l’érosion comme la pluie, le
+gel, le vent.
+3 - Un conglomérat est une roche issue de la dégradation mécanique d'autres roches et composée
+de sédiments liés par un ciment naturel.
+
+5- Expliquer la démarche utilisée par C. Darwin permettant d’estimer un âge minimal
+pour la Terre. La réponse ne doit pas excéder une demi-page.
+6- Commenter les résultats obtenus par ces deux méthodes au regard de l’âge de la
+Terre estimé aujourd’hui.
+
+Exercice 3 – Niveau première
+Thème « Une longue histoire de la matière »
+
+Les avancées conceptuelles et technologiques qui ont contribué au
+développement de la théorie cellulaire
+''Dans le monde vivant comme ailleurs, il s'agit toujours « d'expliquer du visible
+compliqué par de l'invisible simple », selon les mots de Jean Perrin. Mais dans les
+êtres vivants comme dans les choses, c'est un invisible à tiroirs. Il n'y a pas une
+organisation du vivant, mais une série d'organisations emboîtées les unes dans les
+autres comme des poupées russes. Derrière chacune s'en cache une autre. Au-delà
+de chaque structure accessible à l'analyse finit par se révéler une nouvelle structure,
+d'ordre supérieur, qui intègre la première et lui confère ses propriétés. [...] À chaque
+niveau d'organisation ainsi mis en évidence répond une manière nouvelle d'envisager
+la formation des êtres vivants'' (Jacob, F. (1970) La logique du vivant, p. 28- 29).
+On s’intéresse à la construction du concept de cellule au cours de l’histoire des
+sciences.
+Document 1 - Les observations faites par Robert Hooke
+Robert Hooke (1635 - 1703), scientifique anglais, publie en 1665 l’ouvrage Micrographie. Il
+y décrit notamment les observations faites avec un microscope constitué de trois lentilles
+fabriquées par Christopher Cock, à Londres, peu de temps avant 1665.
+
+Document 1-a - Microscope utilisé par Document 1-b - Dessin d'observation au
+R. Hooke.
+
+microscope d’un échantillon de liège (le
+liège est un matériau qui compose l’écorce
+de certains arbres).
+
+Grossissement X 30
+
+Document 1-c
+”Notre microscope nous apprend que la substance du liège est complètement
+remplie d’air, et que cet air est parfaitement enfermé dans de petites boîtes ou
+cellules distinctes l'une de l'autre. [...] J'ai compté plusieurs lignes de ces pores, et
+trouvé qu'il y avait habituellement environ soixante de ces petites cellules placées
+longitudinalement dans la dix-huitième partie d'un pouce de longueur, d'où je conclus
+qu'il doit y avoir 1100 d'entre elles, ou un peu plus d’un millier, dans la longueur d'un
+pouce, et donc plus d'un million, soit 1 166 400, dans un pouce carré ; et plus de
+douze cents millions, soit 1 259 712 000, dans un pouce cubique, une chose presque
+incroyable, si notre microscope ne nous en assurait par une démonstration oculaire.”
+Hooke R. (1665), Micrographia, p. 112-120
+
+1- D’après le document 1, expliquer comment Hooke définit la cellule.
+
+Document 2 - La structure élémentaire des êtres vivants selon Buffon.
+Dans la seconde moitié du XVIIIe siècle, plusieurs théories sur la structure
+élémentaire des êtres vivants sont proposées.
+Georges-Louis Leclerc, comte de Buffon (1707-1788), propose l’idée d’une structure
+élémentaire : “Les animaux et les plantes qui peuvent se multiplier et se reproduire
+par toutes leurs parties sont des corps organisés composés d'autres corps
+organiques semblables, dont les parties primitives et constituantes sont aussi
+organiques et semblables, et dont nous discernons à l'œil la quantité accumulée,
+mais dont nous ne pouvons apercevoir les parties primitives que par le
+raisonnement”.
+Buffon G.-L. (1749 - 1789), Histoire Naturelle
+
+2- Extraire du document 2 les arguments de Buffon et les replacer dans la construction
+du concept général de cellule.
+
+Document 3 - Photographie d’une observation au microscope électronique à
+transmission d’une cellule de feuille d’Arabidopsis (plante à fleurs).
+Le microscope électronique, inventé dans les années 1930 et perfectionné par la
+suite, est un type de microscope qui utilise un faisceau d’électrons.
+
+Légende :
+V = Vacuole
+CPL = Chloroplaste
+N = Noyau
+
+5000 nm
+
+Extrait de
+www.unige.ch/sciences/biologie/biov
+eg/crevecoeur/microscopes/met/
+
+3- À partir de l’image du document 3, indiquer un ordre de grandeur de la dimension
+d’une cellule, exprimée en µm.
+4- Expliquer de quoi est composée la membrane plasmique et quelles sont ses
+propriétés. Vous pouvez vous appuyer sur un schéma.
+5- À partir des documents et de vos connaissances, montrer que les connaissances
+sur la cellule ont changé au cours du temps grâce à des avancées conceptuelles et
+technologiques. Proposer alors une définition du concept actuel de cellule.

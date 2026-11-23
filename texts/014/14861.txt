@@ -1,0 +1,433 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1280027, "at": "2026-11-23T09:41:14+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+À quelle affectation sont équivalentes les instructions suivantes, où a, b sont des variables entières et c une
+variable booléenne ?
+if a==b:
+c = True
+elif a > b+10:
+c = True
+else:
+c = False
+c = (a==b) or (a > b+10)
+c = (a==b) and (a > b+10)
+c = not(a==b)
+c = not(a > b+10)
+Question A 2
+Parmi les noms suivants, lequel n'est pas celui d'une méthode d'encodage des caractères ?
+UTF-16
+ASCII
+Arial
+Unicode
+Question A 3
+Quel est le plus grand entier positif (non signé) représentable en binaire sur 2 octets (c'est-à-dire 16 bits) ?
+2 −1
+2 −1
+Question A 4
+Quel est le nombre minimum de bits qui permet de représenter les 7 couleurs de l'arc-en-ciel ?
+Question A 5
+Dans quel système de numération 3F5 représente-t-il un nombre entier ?
+
+binaire (base 2)
+octal (base 8)
+décimal (base 10)
+hexadécimal (base 16)
+Question A 6
+Quelle est l'écriture en hexadécimal (base 16) du nombre entier positif qui s'écrit 1110 1101 en base 2 ?
+DE
+ED
+EDF
+FEFD
+
+Thème B : types construits
+Question B 1
+Quelle est la valeur de l'expression [ 2*k + 1 for k in range(4) ] ?
+[1,3,5,7]
+[0,1,2,3]
+[3,5,7,9]
+[1,2,3,4]
+Question B 2
+De quelle expression la liste suivante est-elle la valeur ?
+[[0,0,0,0], [1,1,1,1], [2,2,2,2]]
+[[i] * 4 for i in range(4)]
+[[i] * 3 for i in range(4)]
+[[i] * 4 for i in range(3)]
+[[i] * 3 for i in range(3)]
+Question B 3
+inventaire = {'pommes': 430, 'bananes': 312,
+'oranges' : 274, 'poires' : 137}
+stock = 0
+for fruit in inventaire.keys():
+if fruit != 'bananes':
+stock = stock + inventaire[fruit]
+Que contient la variable stock à la fin de cette exécution ?
+{430, 274, 137}
+{ 'pommes', 'oranges', 'poires' }
+Question B 4
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+
+Question B 5
+Quelle est la valeur de l'expression [(i,i+1) for i in range(2)] ?
+[0,1,1,2]
+[(1,2),(2,3)]
+[(0,1),(1,2)]
+[[0,1],[1,2]]
+Question B 6
+On définit la variable suivante : citation = "Les nombres gouvernent le monde".
+Quelle est la valeur de l'expression citation[5]+citation[6] ?
+"om"
+"ombres"
+"no"
+citation[11]
+
+Thème C : traitement de données en tables
+Question C 1
+Qu'est-ce qu'un fichier CSV ?
+une librairie Python permettant l'affichage des images
+un utilitaire de traitement d'image
+un format d'image
+un format de données
+Question C 2
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 3
+notes = {"Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18}
+t = list(notes.keys())
+Quelle est la valeur de t à la fin de cette exécution ?
+Paul
+["Paul", '"Jean", "Clara", "'Aïssa']
+[12, 16, 14, 18]
+[ "Paul": 12, "Jean": 16, "Clara": 14, "Aïssa": 18 ]
+Question C 4
+On a défini deux tables de données :
+data1 = [(‘Bruce’, ’Wayne’), (‘Chuck’, ‘Norris’), (‘Bruce’, ‘Lee’), (‘Clark’, ‘Kent’)]
+data2 = [(‘Diana’, ’Prince’), (‘Chuck’, ‘Norris’), (‘Peter’, ‘Parker’)]
+Quelle instruction permet de construire une table data regroupant l'ensemble des informations de data1 et
+data2 ?
+data = data1 + data2
+data == data1 + data2
+data = [element for element in data1 or data2]
+data = [data1] + [data2]
+Question C 5
+Qu'est-ce que le format de fichier CSV ?
+
+un format de fichier mis au point par Microsoft pour Excel
+un format de fichier pour décrire une base de données
+un format de fichier où les données sont séparées par un caractère tel qu'une virgule
+un format de fichier décrivant une page Web
+Question C 6
+On a extrait les deux premières lignes de différents fichiers.
+Déterminer celui qui est un authentique fichier CSV :
+Nom,Pays,Temps
+Camille Muffat,France,241.45
+Nom Pays Temps
+Camille Muffat France 241.45
+[
+{ "Nom": "Camille Muffat", "Pays": "France", "Temps": 241.45},
+[
+{ Nom: "Camille Muffat", Pays: "France", Temps: 241.45},
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Parmi les propriétés suivantes d’une balise <button /> dans une page HTML, laquelle doit être rédigée en
+langage JavaScript ?
+la propriété name
+la propriété type
+la propriété onclick
+la propriété id
+Question D 2
+Par quoi commence l’URL d’une page Web sécurisée ?
+http
+https
+ftp
+smtp
+Question D 3
+Dans quelle situation peut-on garantir qu'une transmission entre un client et un serveur sera chiffrée ?
+Lorsqu'on utilise le protocole HTTP
+Lorsqu’on utilise la méthode POST
+Lorsqu’on utilise le protocole HTTPS
+Lorsqu’on utilise HTML et CSS
+Question D 4
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 5
+On considère l’extrait d’un fichier « html » ci-dessous qui génère le champ de saisie d’une application web
+destiné à recueillir la réponse à une question.
+<form action="gestion_reponse.php" id="form_reponse" method="get">
+<input type="text" name="saisie" />
+<input type="submit" value = "Soumettre" />
+</form>
+Lorsque l’utilisateur clique sur le bouton de ce formulaire, que se passe-t-il ?
+
+Le contenu du champ de saisie est transmis au serveur web en étant visible dans l’URL de la page cible.
+Le contenu du champ de saisie est transmis au serveur web sans être visible dans l’URL de la page cible.
+Sans communiquer avec le serveur web, le contenu du champ de saisie est passé en argument à une
+fonction qui s’exécute sur le client puis le contenu du champ de saisie est rendu visible dans l’URL.
+Sans communiquer avec le serveur web, le contenu du champ de saisie est passé en argument à une
+fonction qui s’exécute sur le client sans que le contenu du champ de saisie ne soit visible dans l’URL.
+Question D 6
+Dans une page web, on souhaite créer un bouton permettant l’appel de la fonction javascript traitement().
+Quelle ligne d’instructions permettra de le faire ?
+<button onclick = "traitement()">Cliquez ici</button>
+<a href = traitement()>Cliquez ici</a>
+<button>Cliquez ici</button = traitement()>
+<button>Cliquez ici = traitement()</button>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Sous Unix, que fait la commande suivante :
+ls –a /home/pi >> toto.txt
+elle liste uniquement les répertoires cachés du répertoire /home/pi
+elle liste tous les fichiers du répertoire /home/pi et enregistre le résultat dans un fichier toto.txt
+elle liste tous les fichiers des répertoires de /home/pi et de toto.txt
+elle liste tous les fichiers du répertoire courant et enregistre le résultat dans un fichier
+/home/pi/toto.txt
+Question E 2
+Dans l'architecture client-serveur :
+Le client initie la connexion et expédie des requêtes.
+Le serveur initie la connexion et expédie des requêtes.
+Le routeur initie la connexion et expédie des requêtes.
+Le commutateur initie la connexion et expédie des requêtes.
+Question E 3
+Depuis le répertoire /home/ubuntu/ on exécute la commande
+mkdir ./Documents/Holidays
+Quel est son effet ?
+supprimer le dossier Holidays situé dans Documents
+changer de répertoire pour se retrouver dans le répertoire /home/Documents/Holidays
+créer un dossier Holidays dans le répertoire /home/ubuntu/Documents
+lister le contenu du répertoire Holidays de Documents
+Question E 4
+Parmi ces composants électroniques, lequel est d'échelle microscopique dans un ordinateur ?
+le bus
+le radiateur
+le transistor
+le disque dur
+Question E 5
+Sur la configuration IP d’une machine nommée MACH01 on peut lire :
+adresse Ipv4 : 172.16.100.201
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Sur la configuration IP d’une machine nommée MACH02 on peut lire :
+
+adresse Ipv4 : 172.16.100.202
+Masque de sous-réseau : 255.255.0.0
+Passerelle : 172.16.0.254
+Depuis la machine MACH02, à l'aide de quelle commande peut-on tester le dialogue entre ces deux machines ?
+ping 172.16.100.201
+ping 172.16.100.202
+ping 172.16.100.254
+ping 255.255.0.0
+Question E 6
+Quelle commande permet de changer les droits d'accès d'un fichier ou d'un répertoire ?
+lsmod
+chmod
+chown
+pwd
+
+Thème F : langages et programmation
+Question F 1
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+Question F 2
+a = 4
+b = 4
+c = 4
+while a < 5:
+a = a - 1
+b = b + 1
+c = c * b
+Que peut-on dire ?
+ce programme ne termine pas
+à la fin de l'exécution, la variable a vaut 5
+à la fin de l'exécution, la variable b vaut 34
+à la fin de l'exécution, la variable c vaut 42
+Question F 3
+On souhaite écrire une fonction qui renvoie le maximum d'une liste d'entiers :
+def maximum(L):
+m = L[0]
+for i in range(1,len(L)):
+if .........:
+m = L[i]
+return m
+Par quoi faut-il remplacer les pointillés pour que cette fonction produise bien le résultat attendu ?
+
+i > m
+L[i] > m
+L[i] > L[i-1]
+L[i] > L[i+1]
+Question F 4
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+Question F 5
+La fonction suivante calcule la racine carrée du double d’un nombre flottant.
+from math import sqrt
+def racine_du_double(x):
+return sqrt(2*x)
+Quelle est la précondition sur l'argument de cette fonction ?
+x < 0
+x >= 0
+2 * x > 0
+sqrt(x) >= 0
+Question F 6
+La fonction maxi ci-dessous a pour but de renvoyer la valeur maximale présente dans la liste qui lui est passée
+en argument.
+def maxi(L):
+dernier_indice = len(L) - 1
+valeur_max = L[0]
+for i in range(1,dernier_indice):
+if L[i] > valeur_max:
+valeur_max = L[i]
+return valeur_max
+Cette fonction a été mal programmée. On souhaite réaliser un test pour le démontrer.
+Parmi les propositions suivantes, laquelle mettra la fonction maxi en défaut ?
+maxi([1, 2, 3, 4])
+maxi([4, 3, 2, 1])
+maxi([1, 3, 3, 2])
+maxi([1, 1, 1, 1])
+
+Thème G : algorithmique
+Question G 1
+Quelle est la valeur de c à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+c = 0
+for k in L:
+if k == L[1]:
+c = c+1
+Question G 2
+Que renvoie la fonction suivante quand on l'appelle avec un nombre entier et une liste d'entiers ?
+def mystere(n,L):
+for x in L:
+if n == x:
+return True
+return False
+une valeur booléenne indiquant si le nombre n est présent au moins une fois dans la liste L
+une valeur booléenne indiquant si le nombre n est présent plusieurs fois dans la liste L
+une valeur booléenne indiquant si le nombre n est le plus grand de la liste L
+une valeur booléenne indiquant si le nombre n est le plus petit de la liste L
+Question G 3
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] != t[i+1] - 1:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+Question G 4
+liste=[48, 17, 25 , 9, 34, 12, -5, 89, 54, 12, 78, 8, 155, -85]
+
+def recherche(liste):
+valeur_1 = liste[0]
+valeur_2 = liste[0]
+for item in liste:
+if item < valeur_1:
+valeur_1 = item
+elif item > valeur_2:
+valeur_2 = item
+return(valeur_1, valeur_2)
+Que va renvoyer l'appel recherche(liste) ?
+(-85,155)
+[-85,155]
+(155,-85)
+[155,-85]
+Question G 5
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 6
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+else:
+i = k + 1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin

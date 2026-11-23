@@ -1,0 +1,243 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1708446, "at": "2026-11-23T09:22:20+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué
+et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 8
+
+PARTIE A
+Centrale électrique de l’Ouest Guyanais (CEOG) (10 points)
+En Guyane, le fonds Meridiam et HDF Energy vont financer et construire la plus grande
+centrale électrique non polluante au monde
+HDF Energy s’inscrit comme le premier producteur mondial d’électricité́ stable à partir
+d’énergies intermittentes, en associant un parc photovoltaïque de puissance 55 MW avec le
+plus gros stockage de ressource d’énergie renouvelable au monde à base d’hydrogène. Cette
+combinaison permet ainsi de produire, dans la durée, une électricité́ stable avec une énergie
+100 % propre.
+La centrale électrique de L'Ouest Guyanais (CEOG) sera raccordée au réseau EDF, elle
+produira quotidiennement, sur une durée de 20 ans, une puissance électrique fixe de 10 MW
+la journée jusqu’au soir, et de 3,0 MW la nuit. La production électrique étant stable et garantie,
+le service rendu par CEOG sera équivalent aux centrales fonctionnant au diesel ou au gaz,
+mais sans pollution, ni logistique d’approvisionnement en carburant ou combustible. Le prix de
+l’électricité de CEOG sera inférieur à l’actuel coût de production dans l’Ouest guyanais, et ce,
+sans subvention.
+La mise en service de CEOG est prévue à l’automne 2020.
+Sources : d’après communiqué de presse HDF Energy et https://la1ere.francetvinfo.fr/guyane-fondsmeridiam-hdf-energy-vont-financer-construire-plus-grande-centrale-electrique-non-polluante-aumonde-626880.html
+
+Le projet consiste à associer une centrale photovoltaïque à une centrale à dihydrogène.
+L’énergie électrique non consommée produite par la centrale photovoltaïque en journée, est
+utilisée pour réaliser l’électrolyse de l’eau pour produire du dihydrogène. Ce dihydrogène est
+alors stocké sur place pour pouvoir être utilisé la nuit dans une pile à combustible.
+
+La première partie de l’exercice est consacrée à la production et au stockage du dihydrogène.
+La deuxième partie est consacrée au fonctionnement électrique d’un électrolyseur.
+Partie 1. Production et stockage du dihydrogène
+On cherche dans un premier temps à dimensionner les différents réservoirs à utiliser pour
+stocker le dihydrogène produit par la centrale à dihydrogène.
+Données :
+- masses molaires atomiques : MH = 1,00 g.mol-1 ; MO = 16,0 g.mol-1 ;
+- masse volumique de l’eau : eau = 1000 kg.m – 3 ;
+- volume molaire : le volume molaire du dihydrogène gazeux à température ambiante de
+25 °C et à la pression de 1,0×10 5 Pa est de Vm = 24 L.mol -1.
+Les couples d’oxydo-réduction mis en jeu pour l’obtention de dihydrogène lors de l’électrolyse
+de l’eau sont les suivants :
+O2 (g) / H2O(l)
+- H+(aq) / H2 (g)
+1.1. Définir un oxydant et un réducteur.
+1.2.1. Écrire les demi-équations électroniques associées aux deux couples mis en jeu.
+1.2.2. L’électrolyse de l’eau est modélisée par la réaction d’équation :
+2 H2 O(l) → 2 H2 (g) + O2 (g)
+L’électrolyseur devra permettre de produire une masse de 50 kg de dihydrogène en journée.
+Déterminer la valeur de la quantité de matière de dihydrogène à produire n(H2) en journée.
+1.2.3. Calculer la masse d’eau m(H2O) nécessaire pour produire les 50 kg de dihydrogène à
+stocker durant la journée.
+1.2.4. Déterminer le volume minimum du réservoir d’eau V(H2O).
+1.3.1. Le stockage du dihydrogène s’effectue quant à lui généralement avec des bouteilles ou
+assemblages de bouteilles cylindriques, en acier, portées à une pression Pstock de 5,0×10 6 Pa.
+En utilisant la loi de Mariotte, déterminer le volume nécessaire Vstock des bouteilles pour
+stocker le dihydrogène.
+1.3.2. Commenter les résultats sachant que le parc photovoltaïque s’étend sur une surface de
+700 000 m ².
+Partie 2. Étude du fonctionnement électrique d’un électrolyseur
+On cherche maintenant à caractériser le fonctionnement électrique d’un électrolyseur pouvant
+servir à produire du dihydrogène.
+L’électrolyse de l’eau est réalisée au laboratoire à l’aide du montage électrique suivant :
+Générateur
+I
+
+A
+
+En faisant varier la tension U aux bornes de l’électrolyseur, on mesure pour chaque valeur de
+la tension U, l’intensité du courant I dans le circuit de l’électrolyseur. On obtient le tableau de
+résultats suivant :
+U (en V) 0,0 1,0 2,0 3,0 4,0 5,0
+6,0
+7,0
+8,0
+9,0 10,0 11,0 12,0
+I (en
+0,0 0,0 0,0 0,1 3,4 9,7 16,2 21,9 27,9 34,8 40,5 47,2 53,5
+mA)
+La caractéristique représentant l’évolution de la tension U aux bornes de l’électrolyseur en
+fonction de l’intensité du courant I, est représentée ci-dessous.
+Une partie de la courbe obtenue est modélisable par l’équation U = E’ + r’.I où :
+ E’ est la force contre-électromotrice de l’électrolyseur exprimée en volt (V) ;
+ r’ est la résistance interne de l’électrolyseur exprimée en ohm ().
+Caractéristique U en fonction de I :
+
+U (V)
+
+I(mA)
+
+Équation de la droite déterminée à l’aide d’un logiciel de calcul : U = 3,46 + 160 × I où U
+exprimée en V et I en A.
+2.1. Sans recopier la chaîne énergétique ci-dessous, donner la forme d’énergie à faire
+apparaître dans chaque cadre numéroté de 1 à 3.
+
+Pour cela, indiquer sur la copie le numéro du cadre et lui associer une expression choisie
+parmi les suivantes : énergie chimique ; énergie électrique ; énergie lumineuse ; énergie
+mécanique ; énergie thermique.
+Cadre 1
+
+Cadre 2
+
+Cadre 3
+
+2.2. Déterminer, en utilisant la modélisation effectuée par le logiciel de calcul, les valeurs des
+grandeurs physiques E’ et r’ pour cet électrolyseur.
+2.3.1. Donner l’expression littérale de l’énergie totale reçue Ereçue par l’électrolyseur s’il
+fonctionne pendant une durée t en fonction de U, I et t.
+2.3.2. Donner l’expression littérale de l’énergie totale dissipée Edissipée par l’électrolyseur sous
+forme d’effet Joule s’il fonctionne pendant une durée t.
+E'
+2.3.3. En déduire que l’expression littérale du rendement de l’électrolyseur est   .
+U
+2.3.4. Calculer le rendement de cet électrolyseur pour un courant d’intensité I = 50 mA.
+2.4. En s’appuyant sur les données de l’énoncé et les réponses aux questions précédentes,
+expliquer en quoi le projet semble être une bonne alternative aux énergies fossiles.
+PARTIE B
+Ressources d’énergie renouvelables (10 points)
+Les ressources d’énergie renouvelables (solaire, éolien, etc…) présentent un problème
+d’intermittence car elles sont dépendantes des phénomènes météorologiques. Pour résoudre
+ce problème une stratégie consiste à stocker l’énergie produite dans les périodes favorables
+afin de pouvoir la réutiliser quand les conditions météorologiques ne permettent pas une
+production suffisante.
+On propose dans cette partie d’étudier deux stratégies de stockage :
+- un stockage chimique par transformation du dioxyde de carbone de l’atmosphère en
+méthane ;
+- un stockage physique à l’aide du remplissage d’un bassin de rétention d’eau.
+I. Étude du stockage chimique de l’énergie
+
+Le Professeur K. Hashimoto (Université de Sendai, Japon) a développé un procédé qui
+transforme le dioxyde de carbone en méthane en utilisant un électrolyseur à eau de mer et des
+catalyseurs. Les électrolyseurs sont alimentés par l’énergie solaire.
+Le méthane produit peut ensuite servir de carburant afin de faire fonctionner un générateur
+électrique. Ce dernier fonctionne sur le principe suivant : l’énergie thermique libérée par la
+combustion du méthane permet de produire de la vapeur d’eau qui actionne une turbine. Un
+alternateur permet alors de produire de l’électricité. Un schéma de principe du dispositif est
+représenté ci-dessous.
+
+Il se produit dans les différentes étapes les transformations chimiques modélisées par les
+réactions chimiques d’équation :
+étape 2 : CO2 (g)  4 H2 (g)  CH4 (g)  2 H2O (g) ;
+
+-
+
+étape 1 : H2O ( )  H2 (g)  O2 (g) ;
+
+-
+
+étape 3 : combustion complète du méthane.
+
+Problématique 1 : en quoi le procédé de transformation du dioxyde de carbone en
+méthane peut-il permettre de répondre aux difficultés liées au caractère intermittent des
+énergies renouvelables ?
+1. Justifier pour chacune des étapes 2 et 3 du procédé si elle est endothermique ou
+exothermique.
+2. Écrire l’équation de la réaction de combustion complète du méthane de formule brute CH 4.
+
+On cherche à estimer le pouvoir calorifique massique du méthane. Pour cela on mesure la
+masse de méthane nécessaire pour porter à l’ébullition une masse d’eau meau = 1,00 kg
+dont la température initiale est Ti = 20,2 °C. La manipulation est réalisée 6 fois avec le
+même dispositif.
+On rappelle que le pouvoir calorifique massique du méthane est défini par la relation :
+
+PC =
+
+Elibérée
+mméthane consommée
+
+avec Elibérée l’énergie libérée lors de la combustion d’une masse de
+
+méthane mméthane consommée .
+Les résultats sont reportés dans le tableau ci-dessous.
+Essais
+N°1 N°2 N°3 N°4 N°5 N°6
+Masse de méthane consommée 12,1 10,9 11,6 11,0 11,8 10,9
+(en g)
+L’énergie libérée par la combustion peut être déterminée par la relation :
+
+El ibérée  meau  ceau  (Tf  Ti )
+avec :
+- ceau la capacité thermique massique de l’eau liquide : ceau = 4,18 kJ·kg-1·K-1.
+- Tf la température finale de l’eau, c’est-à-dire la température d’ébullition de l’eau dans
+les conditions de l’expérience Tf = 100,0 °C.
+Pour effectuer le calcul du pouvoir calorifique massique à partir des résultats expérimentaux, il
+est nécessaire de déterminer une masse expérimentale de méthane consommée. Pour cela,
+on fait la moyenne sur toutes les valeurs de masse (valeurs n°1 à n°6).
+3. Montrer, en détaillant les calculs, que la valeur expérimentale obtenue pour le pouvoir
+calorifique massique PC du méthane est de l’ordre de 29 MJ·kg-1.
+La valeur de référence du pouvoir calorifique massique du méthane est 50 MJ·kg -1.
+4. Proposer une explication pour interpréter l’écart entre la valeur expérimentale du pouvoir
+calorifique massique du méthane et sa valeur de référence.
+On considère que :
+- la production d’un kilogramme de méthane par les étapes 1 et 2 du procédé nécessite
+117 MJ d’énergie intermittente ;
+- seuls 25 % de l’énergie thermique libérée par la combustion du méthane est transformée
+en électricité.
+5. Répondre à la problématique 1 en déterminant la proportion d’énergie intermittente pouvant
+être considérée comme ayant été stockée par ce procédé. On utilisera la valeur de référence
+du pouvoir calorifique massique du méthane.
+
+II. El Hierro : île pionnière de l’énergie renouvelable
+Le pompage-turbinage est une technique de stockage de l’énergie électrique permettant de
+palier l’intermittence des ressources d’énergie renouvelables. Lorsque les conditions
+météorologiques sont favorables, l’excédent d’énergie produit par les éoliennes est utilisé pour
+faire fonctionner des pompes permettant de remplir des retenues d’eau situées en altitude.
+Lorsque la production d’électricité devient insuffisante, les retenues d’eau sont ouvertes. Après
+une chute de 650 m à travers une conduite forcée, l’eau actionne des turbines
+hydroélectriques qui entrainent un alternateur afin de produire de l’électricité.
+
+Source : Futura-Sciences https://www.futura-sciences.com/planete/actualites/developpement-durableile-el-hierro-bientot-totalement-autonome-energie-44372/
+
+Problématique 2 : en quoi les infrastructures de l’île de El Hierro lui permettent-elle de
+s’affranchir des énergies fossiles ?
+On s’intéresse à l’eau contenue dans le réservoir supérieur qui chute à travers la conduite
+forcée pour remplir le bassin inférieur. Le volume d’eau utile considéré est donc égal au
+volume du réservoir inférieur Vinf et la masse de ce volume d’eau utile, notée M, chute via la
+conduite du point A au point B (voir schéma ci-dessous).
+
+Données :
+- altitude du bassin supérieur : zsup = 700 m
+- volume du bassin inférieur : Vinf = 150 000 m3
+- altitude du bassin inférieur : zinf = 50,0 m
+- accélération de la pesanteur : g = 9,81 m.s-2
+- masse volumique de l’eau : ρeau = 1000 kg.m-3
+- consommation annuelle sur l’île d’El Hierro en 2018 : E = 42,0 GWh
+- 1,000 Wh = 3600 J
+On se place dans le référentiel terrestre, supposé galiléen, muni d’un axe Oz orienté vers le
+haut. L’énergie potentielle de pesanteur est prise nulle à l’altitude z = 0.
+6. Exprimer la variation de l’énergie potentielle de pesanteur ΔEpp de cette masse M d’eau lors
+de sa chute à travers la conduite forcée, en fonction de ρeau, Vinf, g, zsup et zinf. Montrer que
+la valeur de ΔEpp est de l’ordre de − 950 GJ.
+7. En considérant que l’eau est immobile dans le réservoir supérieur et que la chute à travers
+la conduite s’effectue sans frottement, déterminer la valeur de l’énergie cinétique de cette
+masse M d’eau lorsqu’elle actionne les turbines.
+8. Sachant que le rendement de la phase de turbinage est de 90 %, calculer la valeur de
+l’énergie électrique que peut fournir la centrale hydro-électrique.
+9. Répondre à la problématique 2 en déterminant le nombre de jours d’autonomie sans vent
+que représente la réserve d’eau des bassins.

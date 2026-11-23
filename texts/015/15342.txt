@@ -1,0 +1,404 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1346927, "at": "2026-11-23T09:39:49+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Quelle est la représentation binaire, en complément à 2 sur 8 bits, de l'entier négatif –25 ?
+0001 1001
+1001 1001
+1110 0110
+1110 0111
+Question A 2
+On considère les nombres dont l'écriture en base 16 (en hexadécimal) sont de la forme suivante : un 1 suivi de
+0 en nombre quelconque, comme 1, 10, 100, 1000 etc.
+Tous ces nombres sont exactement :
+les puissances de 2
+les puissances de 8
+les puissances de 10
+les puissances de 16
+Question A 3
+En ajoutant trois chiffres 0 à droite de l'écriture binaire d'un entier 𝑁 strictement positif, on obtient l'écriture
+binaire de :
+6×𝑁
+8×𝑁
+1000 × 𝑁
+aucune des réponses précédentes
+Question A 4
+Quel est le nombre minimal de bits nécessaire pour représenter l'entier positif 79 en binaire ?
+Question A 5
+
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A 6
+Le résultat de la multiplication en binaire 1011 * 101 est égal au nombre binaire :
+102111
+101110
+110111
+110011
+
+Thème B : types construits
+Question B 1
+On considère le code suivant :
+def s(tuple1, tuple2):
+(x1,y1) = tuple1
+(x2,y2) = tuple2
+return (x1+x2, y1+y2)
+Que renvoie l'appel s((1,3), (2,4)) ?
+le tuple (3,7)
+le tuple (4,6)
+un entier
+une erreur
+Question B 2
+Quelle est la valeur de l'expression [[0] * 3 for i in range(2)] ?
+[[0,0], [0,0], [0,0]]
+[[0,0,0], [0,0,0]]
+[[0.000], [0.000]]
+[[0.00], [0.00], [0.00]]
+Question B 3
+On s'intéresse à la valeur 14 présente dans la liste suivante:
+T = [[1,2,3,4,5], [6,7,8,9,10], [11,12,13,14,15], [16,17,18,19,20]].
+Quelle expression vaut 14 parmi les suivantes ?
+T[2][3]
+T[3][4]
+T[3][2]
+T[4][3]
+Question B 4
+Quelle est la valeur affichée à l'exécution du programme Python suivant ?
+ports = { 'http': 80, 'imap': 142, 'smtp': 25 }
+ports['ftp'] = 21
+print(ports['ftp'])
+{ 'ftp': 21 }
+Key not found
+
+Question B 5
+On définit : L = [1,2,3,4,5,6]
+Quelle est la valeur de L[3] ?
+[1,2,3]
+[4,5,6]
+Question B 6
+Que vaut l'expression [ 2*k for k in range(5) ] ?
+[0,2,4,6,8]
+[2,4,6,8,10]
+[1,2,4,8,16]
+[2,4,8,16,32]
+
+Thème C : traitement de données en tables
+Question C 1
+L'entier positif dont l'écriture binaire est 0011 1011 se représente en hexadécimal (base 16) par :
+3B
+B3
+Question C 2
+On définit une table d'élèves et une liste finale de la façon suivante :
+table_eleves = [ {"prenom": "Ada", "nom" : "Lovelace", "age" : 17},
+{"prenom": "Charles", "nom" : "Babbage", "age" : 18},
+......
+{"prenom": "John", "nom" : "Von Neumann", "age" : 16} ]
+liste_finale = [ eleve for eleve in table_eleves if eleve["age"] >= 18 ]
+Que contient cette liste finale ?
+La liste des prénoms des élèves majeurs de la table.
+La liste des âges des élèves majeurs de la table.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par un dictionnaire.
+La liste des élèves majeurs de la table, chaque élément de la liste étant représenté par une liste.
+Question C 3
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C 4
+
+def maxi(t):
+m = t[0]
+for x in t:
+if x[1] >= m[1]:
+m = x
+return m
+L = [
+
+('Alice', 17), ('Barnabé', 17),
+('Casimir', 17), ('Doriane', 17),
+('Emilien', 14), ('Fabienne', 16) ]
+
+Quelle est alors la valeur de maxi(L) ?
+('Alice',17)
+('Doriane',17)
+('Fabienne',17)
+('Emilien',14)
+Question C 5
+Quelle est la valeur de la variable table à la fin de l'exécution du script suivant :
+table = [[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+table [1][2] = 5
+[[1, 5, 3], [1, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [5, 2, 3], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 5], [1, 2, 3], [1, 2, 3]]
+[[1, 2, 3], [1, 2, 3], [1, 2, 3], [1, 5, 3]]
+Question C 6
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quelle balise HTML permet de créer des liens hypertextes entre pages ?
+<r>
+<l>
+<link>
+<a>
+Question D 2
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D 3
+Un internaute clique sur le lien suivant qui envoie une requête HTTP à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Que demande cette requête au serveur ?
+de renvoyer le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'exécuter le fichier traitement.php en identifiant nom et prénom à Snow et Jon
+d'indiquer si Jon Snow a bien pris son traitement
+de renvoyer le fichier traitement.php en affichant prénom et nom : Jon Snow
+Question D 4
+Voici un extrait d'un document HTML.
+<body>
+.........
+Clic !
+</button>
+<h1><span id="valeur">2000</span></h1>
+</body>
+<html>
+Quelle doit être la ligne qui remplace les pointillés pour obtenir un bouton dont l'appui déclenche la fonction
+javascript actionBouton() ?
+<button click = "actionBouton();">
+<button onclick = "actionBouton();">
+<button onclick => "actionBouton();"
+<button> onclick = "actionBouton();"
+
+Question D 5
+Quelle est la machine qui va exécuter un programme JavaScript inclus dans une page HTML ?
+la machine de l’utilisateur sur laquelle s’exécute le navigateur Web
+le serveur Web sur lequel est stockée la page HTML
+la machine de l’utilisateur ou du serveur, selon celle qui est la plus disponible
+la machine de l’utilisateur ou du serveur, suivant la confidentialité des données manipulées
+Question D 6
+Un site internet utilise une requête HTTP avec la méthode POST pour transmettre les données d'un formulaire.
+Laquelle des affirmations suivantes est incorrecte ?
+les données envoyées ne sont pas visibles
+il est possible de transmettre des données de type binaire
+les données transmises sont cryptées
+il n'y a pas de restriction de longueur pour les données transmises
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Quel est l’effet de la commande shell suivante ?
+cp NSI_ex1_Franck.txt NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est copié sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Franck.txt est renommé sous le nom NSI_ex1_Marie.txt
+Le fichier NSI_ex1_Marie.txt est copié sous le nom NSI_ex1_Franck.txt
+Le fichier NSI_ex1_Marie.txt est renommé sous le nom NSI_ex1_Franck.txt
+Question E 2
+Lequel de ces systèmes d'exploitation est libre ?
+Linux
+Windows
+MacOS
+iOS
+Question E 3
+Vivien télécharge un logiciel à partir d’un site commercial. Le transfert par Internet du logiciel a débuté entre le
+serveur (machine S) et son domicile (machine V). On a représenté des routeurs A, B, C, D et E et les liens
+existants. Les paquets IP suivent le chemin passant par les routeurs A, B, C et E.
+
+E
+
+S
+
+V
+
+Durant un orage, la foudre frappe et détruit le serveur C par lequel transitent les paquets correspondant au
+fichier que télécharge Vivien. Que se passe-t-il ?
+la liaison étant coupée, le serveur ne sera plus accessible
+le téléchargement n’est pas interrompu car les paquets peuvent transiter par le routeur D
+le téléchargement est interrompu, Vivien doit redémarrer une nouvelle connexion à partir de
+zéro
+le téléchargement se poursuit mais des données seront perdues
+Question E 4
+Sous UNIX, que va réaliser la ligne de commande cat file.txt ?
+rien du tout
+l'affichage du contenu du fichier file.txt dans la console
+la création d'un fichier file.txt
+
+la suppression du fichier file.txt
+Question E 5
+Un protocole est un ensemble de …
+matériels connectés entre eux
+serveurs et de clients connectés entre eux
+règles qui régissent les échanges entre équipements informatiques
+règles qui régissent les échanges entre un système d’exploitation et les applications
+Question E 6
+Parmi les adresses suivantes, laquelle est une adresse IP non valide ?
+1.2.3.4
+192.168.23.242
+127.3.87.256
+10.1.64.42
+
+Thème F : langages et programmation
+Question F 1
+Parmi ces langages, lequel n'est pas un langage de programmation ?
+HTML
+JavaScript
+PHP
+Python
+Question F 2
+On exécute le script Python suivant :
+def cube(L):
+for i in range(len(L)):
+L[i] = L[i] * L[i] * L[i]
+return L
+L = [2, 5]
+b = cube(L)
+Que vaut le couple (L,b) à la fin de l'exécution ?
+([2,5], [8,125])
+([8,125], [8,125])
+([8,125], [2,5])
+([2,5], [2,5])
+Question F 3
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 4
+
+En Python, quelle est l’instruction permettant de charger la fonction sqrt du module math ?
+using math.sqrt
+#include math.sqrt
+from math include sqrt
+from math import sqrt
+
+Question F 5
+La documentation de la fonction floor de la bibliothèque math est :
+floor(x)
+Return the floor of x as an Integral. This is the largest integer <= x.
+Que vaut floor(-2.2) ?
+–2
+–3
+on obtient une erreur, car –2.2 n'est pas un entier
+2.2
+
+Question F 6
+
+Soit 𝑛 un entier naturel. Sa factorielle est le produit des nombres entiers strictement positifs qui sont plus
+petits ou égaux à 𝑛. Par exemple la factorielle de 4 vaut 1 × 2 × 3 × 4 = 24.
+Quelle est la fonction correcte parmi les suivantes ?
+while i <= n:
+
+i = 1
+while i < n:
+
+while i < n:
+
+while i <= n:
+
+Thème G : algorithmique
+Question G 1
+Que fait la fonction suivante :
+def trouver(L):
+for j in range(1, len(L)):
+if L[j] >= L[i]:
+i = j
+return i
+elle renvoie le maximum de la liste
+elle renvoie le minimum de la liste
+elle renvoie l’indice de la première occurrence du maximum de la liste
+elle renvoie l’indice de la dernière occurrence du maximum de la liste
+Question G 2
+Qu'effectue-t-on en lançant la commande suivante dans un terminal Linux :
+mv /etc/professeur/fichier.conf /home/nsi/fichier.conf
+un déplacement de fichier
+une copie de fichier
+un renommage de fichier
+un changement de répertoire
+Question G 3
+Quel est le coût d'un algorithme de tri par insertion ?
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+Combien d’échanges effectue la fonction Python suivante pour trier un tableau de 10 éléments au pire des
+cas ?
+def tri (tab):
+for i in range (1, len(tab)):
+for j in range (len(tab) - i):
+if tab[j]>tab[j+1]:
+tab[j],tab[j+1] = tab[j+1], tab[j]
+
+Question G 5
+tab = [1, 4, 3, 8, 2]
+S = 0
+for i in range(len(tab)):
+S = S + tab[i]
+Que vaut la variable S à la fin de l'exécution ?
+3.6
+Question G 6
+On dispose de sacs de jetons portant les nombres 10, 5, 3 et 1.
+On veut obtenir un total de 21 en utilisant ces jetons.
+Si on utilise le principe de l'algorithme glouton, quelle addition va-t-on réaliser pour obtenir ce total de 21 ?
+5 + 5 + 5 + 5 + 1
+10 + 5 + 3 + 3
+10 + 5 + 5 + 1
+10 + 10 + 1

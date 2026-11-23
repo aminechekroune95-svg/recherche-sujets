@@ -1,0 +1,695 @@
+{"pages": 14, "method": "pdftotext", "bytes": 2203739, "at": "2026-11-23T09:26:01+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGENIEUR
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme : Analyser l’organisation fonctionnelle et matérielle d’un produit, repérer les
+échanges d’énergies, analyser un protocole de communication, quantifier les écarts de
+performance. Modéliser et résoudre.
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Le robot tondeuse BOSCH est munie de 2 roues motrices à
+l'arrière, de deux roues folles à l'avant et d'un rotor de coupe.
+
+Il est associé à une station de charge et
+d'accueil, il est communiquant avec un
+smartphone grâce à l'application "Bosch
+Smart Gardening" et une communication via
+le réseau GSM.
+
+Figure 1.1
+Le robot tondeuse BOSCH a besoin d'un
+câble périmétrique pour repérer les limites de la
+surface à tondre. Il est intelligent grâce à son
+système de navigation "Logicut" qui
+cartographie le jardin puis effectue une tonte
+en bandes parallèles pour plus d'efficacité.
+Lors de la première tonte le robot tondeuse
+BOSCH va débuter la cartographie de la
+surface de tonte, qui demande deux cycles
+complets. Il enregistre la position des
+obstacles délimités par le câble périmétrique,
+afin de définir plusieurs portions à tondre; Ce
+système évite à la tondeuse de passer deux
+fois au même endroit et d'oublier des zones. Il
+est possible de programmer le robot tondeuse
+BOSCH pour qu'il fonctionne à différents
+horaires et jours de la semaine. En ce qui
+concerne la gestion des obstacles, le robot
+tondeuse BOSCH possède un capteur de
+contact. Il dispose d'une station de charge sur
+laquelle il se rend de façon autonome pour se recharger quand le
+taux de charge de la batterie est inférieur à 10 %.
+
+Diagramme des cas d’utilisations :
+
+Figure 1.3 : Diagramme des exigences :
+
+Figure 1.4 : Diagramme des définitions de blocs
+
+Vérification du temps de tonte annoncé
+par Le robot tondeuse BOSCH. A la fin de
+la cartographie initiale, le robot tondeuse
+BOSCH annonce à l'utilisateur, sur son écran
+de contrôle, la surface de tonte estimée ainsi
+que la durée de tonte nécessaire pour la
+parcelle.
+
+ETUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : L’autonomie du robot dans des conditions extrêmes, est-elle celle
+annoncée par le constructeur ?
+En effectuant l’hypothèse d’une étude dans un plan (𝑂, 𝑥⃗, 𝑦⃗) les actions mécaniques
+extérieures appliquées au robot-tondeuse dans une pente, sont représentées
+Figure1.6.
+
+Figure 1.6 : schéma
+des actions
+mécaniques s’exerçant
+sur le robot
+.
+
+Question I.1 Déduire de la Figure 1.3, la pente maximum que peut grimper le robotFigure 1.3
+tondeuse selon le cahier des charges. A partir de la Figure 1.6, calculer
+Figure 1.6
+l’angle de cette pente en degrés.
+Pour la suite du problème, prendre comme valeur : 𝛼 = 15°
+Remarque : Par symétrie, il faut prendre en compte dans la suite de l’étude que la
+moitié de la masse du robot. Soit G le centre de gravité du robot.
+Question I.2 A partir des figures1.4 et 1.6, exprimer l’action mécanique du poids
+𝑃⃗⃗ sous forme d’un torseur écrit au point G dans le repère (𝑂, 𝑥⃗, 𝑦⃗, 𝑧⃗) de
+Figure 1.6
+façon littérale, puis numérique. Sur le document réponse DR1, compléter
+DR1
+les bulles en indiquant la nature des flux échangés entre chaque bloc.
+
+Figure 1.7 : Modélisation multiphysique du robot-tondeuse sur un parcours vallonné
+Dans les conditions d’utilisation en négligeant les forces aérodynamiques, le
+théorème de la résultante statique appliqué au robot-tondeuse en projection sur 𝑥⃗
+donne la relation :
+𝛼 : angle de la pente
+𝐾𝑟𝑟 : coefficient de résistance au
+roulement
+𝑃 : Poids du robot-tondeuse (N)
+𝐶𝑚𝑜𝑡𝑒𝑢𝑟 : couple moteur (N∙m)
+𝐶𝑟𝑜𝑢𝑒 : couple sur la roue (N∙m)
+𝐾 : rapport de réduction du
+réducteur
+𝜂𝑟é𝑑𝑢𝑐𝑡𝑒𝑢𝑟
+: rendement
+Figure 1.8 : Schéma bloc de la chaîne de puissance du robot
+tondeuse
+BOSCH du
+réducteur
+𝑅𝑟𝑜𝑢𝑒 : rayon de la roue (m)
+Question I.3
+Figure 1.8
+
+A partir des relations précédentes, exprimer le couple 𝐶𝑚𝑜𝑡𝑒𝑢𝑟 en fonction
+des autres paramètres. Calculer 𝐶𝑚𝑜𝑡𝑒𝑢𝑟 à partir des données des
+Figures 1.4 et 1.7. Prendre g=9,81 m∙s-2.
+
+Pour la suite du problème, prendre comme valeur : 𝐶𝑚𝑜𝑡𝑒𝑢𝑟 = 0,015 𝑁 ∙ 𝑚
+Dans un moteur à courant continu, le couple délivré par le moteur est proportionnel
+au courant consommé. On a donc la relation 𝐶𝑚𝑜𝑡𝑒𝑢𝑟 = 𝐾𝑖 × 𝐼𝑚𝑜𝑡𝑒𝑢𝑟 où 𝐾𝑖 est la
+constante de couple (exprimée en Nm∙A-1) et Imoteur l’intensité électrique du courant
+absorbé par le moteur (exprimé en A).
+Le robot-tondeuse est constitué de deux moteurs pour l’avance et d’un moteur de
+coupe pour entrainer les lames en rotation. Les trois moteurs fonctionnent en même
+temps.
+Question I.4 A partir de la relation précédente, et des figures 1.4 et 1.7 calculer le
+courant théorique (𝐼𝑡ℎé𝑜𝑟𝑖𝑞𝑢𝑒 ) consommé par le robot lors de la montée
+d’une pente de 27%. En déduire l’autonomie théorique en minutes dans
+ces conditions extrêmes.
+On donne la courbe du 𝐼𝑚𝑜𝑡𝑒𝑢𝑟 (pour un
+seul moteur) obtenu à partir du modèle
+multiphysique.
+
+Figure 1.9 : Courbe de l’intensité d’un
+moteur du robot tondeuse obtenue sur un
+parcours vallonné.
+
+Question I.5
+Figure 1.9
+
+Question I.6
+Figure 1.3
+
+A partir de la figure 1.9 relever le courant moyen simulé (𝐼𝑠𝑖𝑚𝑢𝑙é )
+consommé par le moteur d’avance. Calculer l’autonomie en minutes
+dans les conditions de simulation.
+
+A partir de l’autonomie annoncée par le constructeur, de celle
+obtenue à partir d’un calcul théorique, et de celle issue d’un modèle
+multiphysique, donner sous forme de tableau les raisons possibles
+des écarts entre ces différentes valeurs.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Pour réaliser la tonte d'une surface en toute autonomie, le robot tondeuse BOSCH
+utilise l'énergie électrique stockée dans sa batterie. Tout au long de son parcours il
+surveille le taux de charge de sa batterie, en informe l'utilisateur sur l'interface
+Homme-Machine (écran LCD) et retourne à sa base quand le taux de charge devient
+inférieur à 10%. Sur sa base, il attendra que sa charge soit complète pour repartir si
+nécessaire.
+Problématique : comment mesurer le taux de charge de la batterie et en informer
+l'utilisateur ?
+Pour obtenir les caractéristiques de la batterie du robot tondeuse, il est nécessaire
+d'associer plusieurs cellules lithium-ion.
+Voici les caractéristiques des cellules lithium-ion utilisées :
+UCmax = 4,1 V tension pour une cellule complétement chargée
+UCN = 3,6 V tension nominale de fonctionnement
+UCmin = 3 V tension en dessous de laquelle la cellule risque une destruction
+QC = 2,5 A ∙ h capacité d'une cellule
+Question II.1
+DR1
+
+A l'aide du modèle multiphysique, indiquer les caractéristiques nominales
+de la batterie du robot. Compléter le schéma électrique du document
+réponse DR1 en associant des cellules lithium-ion pour obtenir les
+caractéristiques de la batterie du robot.
+
+Pour la suite, toutes les cellules lithium-ion se déchargent (ou se chargent) de la
+même façon et ont donc, à chaque instant, les mêmes caractéristiques de tension,
+courant et capacité.
+Pour connaître le taux de charge d'une batterie ou d'une cellule, on mesure la
+tension à ses bornes (Figure 2.1)
+Tension
+
+4,0 V
+
+Figure 2.1
+3,6 V
+3,4 V
+
+100%
+
+75%
+
+50%
+
+25%
+
+Charge restante
+
+Le fabriquant du robot tondeuse BOSCH a choisi de prévenir l'utilisateur sur le taux
+de charge de la batterie en donnant uniquement les niveaux suivants : 100, 75, 50,
+25 et 0 %.
+Pour un seuil de 25% du taux de charge, on prendra une tension cellule de 3,45 V et
+donc une tension batterie de 17,25 V.
+Pour réaliser cette mesure, le robot utilise une carte électronique à base de
+microcontrôleur qui n'accepte que des tensions inférieures ou égales à 3,3 V. Il est
+donc nécessaire de prévoir un montage d'adaptation.
+
+Question II.2
+Figure 2.1
+Figure 2.2
+
+Déterminer l'expression
+littérale de U2 en fonction de
+Ubat, R1 et R2 (Figure 2.2). Pour
+un taux de charge à 25%
+(Figure 2.1), réaliser
+l'application numérique.
+Figure 2.2 : schéma structurel partiel
+du montage d'adaptation
+
+La tension U2 est envoyée sur une entrée analogique du microcontrôleur de la carte
+électronique et une conversion analogique-numérique est réalisée.
+
+Ubat
+
+Carte à
+microcontrôleur
+Tx
+Rx
+
+R1
+#
+R2
+
+U2
+
+Inteface
+Homme/Machine
+Rx
+Tx
+
+Boutons
+Afficheur LCD
+
+Caractéristiques du
+convertisseur A/N :
+
+#
+
+Convertisseur 12 bits : n = 12
+Tension de référence de la
+conversion : Uréf = 3,3 V
+
+0V
+
+Figure 2.3 : schéma de câblage partiel entre
+les éléments de l'étude
+
+Question II.3
+
+Déterminer l'expression littérale de la valeur numérique convertie N en
+fonction de U2 et des caractéristiques du convertisseur A/N. Toujours pour
+un taux de charge à 25%, réaliser l'application numérique.
+
+L'algorigramme de mesure et de lecture du taux de charge de batterie est présenté
+dans le document réponse DR2
+Question II.4
+DR2
+
+Compléter l'algorithme du document réponse en utilisant l'algorigramme
+fourni. Attention à respecter l'indentation.
+
+Le microcontrôleur communique avec l'interface Homme-Machine sur une liaison
+série UART (Figure 2.3). Seule la transmission de l'information "taux de charge" sera
+étudiée par la suite.
+Rappel sur la liaison série UART :
+L'émetteur envoie sur son fil Tx une trame et le récepteur la reçoit sur son fil Rx.
+Une trame est constituée de plusieurs bits (0 ou 1) qui sont envoyés les uns à la
+suite des autres à un rythme régulier.
+Caractéristiques et paramètres d'une liaisons série UART :
+D0 D1 D2 D3 D4 D5 D6 D7
+Repos
+Repos
+
+bit de
+start
+
+...
+bits de
+donnée
+
+bit de
+parité
+
+1, 1.5 ou
+2 bits de
+stop
+
+Paramètres de la communication série UART du robot :
+ la donnée est constituée de 8 bits ;
+ le bit de stop est réalisé par 1 bit ;
+ 1 bit de parité est utilisé et c'est une parité impaire qui a été retenue ;
+ la vitesse de transmission est de 19200 bauds (bits∙s-1).
+Principe du bit de parité :
+Ce bit permet de garantir (partiellement) la justesse de l'information transmise. Le
+principe consiste à compter le nombre de bits à 1 du champ de données. On rajoute
+dans le bit de parité, un 1 ou 0 pour obtenir la parité souhaitée.
+Pour un taux de charge batterie de 25%, la carte électronique à microcontrôleur
+envoie la donnée "25" vers l'interface Homme/Machine (figure 2.3). Cette donnée
+n'est pas directement la valeur "25" mais les valeurs ASCII du "2" puis du "5". Le
+code ASCII est une norme de codage de caractères.
+
+Voici un tableau du code ASCII :
+
+Poids fort en hexadécimal
+2 3
+S
+NUL
+DLE
+@
+P
+SOH DC1
+! 1
+STX
+DC2
+" 2
+ETX
+DC3
+# 3
+EOT
+DC4
+$ 4
+ENQ NAK
+% 5
+ACK
+SYN
+& 6
+BEL
+ETB
+' 7
+G
+BS
+CAN ( 8
+H
+HT
+EM
+) 9
+I
+LF
+SUB
+* :
+J
+VT
+ESC
++ ;
+K
+FF
+FC
+, <
+L
+CR
+GS
+- =
+M
+SO
+RS
+. >
+N
+
+SI
+
+hexadécimal
+
+Poids faible en
+
+Question II.5
+DR2
+DR3
+
+US
+
+/
+
+?
+
+O
+
+P
+
+̀̀̀̀`
+
+p
+
+€
+
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+
+_
+
+o
+
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+DE
+L
+
+‚
+″
+…
+†
+‡
+^
+‰
+Š
+‹
+Œ
+Ž
+
+°
+
+À
+
+Ð
+
+à
+
+ð
+
+ž
+
+¡
+¢
+£
+¤
+¥
+¦
+§
+¨
+©
+ª
+«
+¬
+¡
+®
+
+±
+²
+³
+´
+µ
+¶
+·
+¸
+¹
+º
+»
+¼
+½
+¾
+
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+Ý
+Þ
+
+á
+â
+ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+
+ñ
+ò
+ó
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ý
+þ
+
+Ÿ
+
+¯
+
+¿
+
+Ï
+
+ß
+
+ï
+
+ÿ
+
+‘
+’
+“
+”
+•
+–
+―
+~
+š
+›
+œ
+
+Indiquer la valeur hexadécimale puis binaire (1 octet) du code ASCII du
+caractère "5". Compléter sur le DR3 la trame transmise lors de cet envoi
+(uniquement pour le caractère "5").
+
+Les trames sont transmises à l'interface Homme/Machine qui les interprète et affiche
+le taux de charge de la batterie pour l'utilisateur.
+Question II.6
+
+Expliquer en quelques lignes comment le robot tondeuse BOSCH répond
+à la problématique de départ : comment mesurer le taux de charge de la
+batterie et en informer l'utilisateur ?
+
+DOCUMENTS RÉPONSES
+DR1 : Réponse à la question I.2
+Uniquement la partie avance » du robot est représentée
+
+Réponse à la question II.1
+Symbole d'une cellule :
+UC
+
++
+-
+
+Compléter le schéma électrique en associant
+des cellules pour obtenir les caractéristiques
+de la batterie du robot-tondeuse à l'intérieur
+de ce rectangle.
+
+Célulle
+
+UC
+
++
+-
+
+Célulle
+
+DR2 :
+Réponse à la question II.4
+Explications sur les variables :
+ N est une variables de type Entier qui contient la valeur de la conversion
+Analogique/Numérique,
+ vTauxCh est une variables de type Entier qui contient la valeur du taux de charge de la batterie,
+ N75 contient une constante représentant la valeur numérique pour un taux de charge de 75%,
+ Il en est de même pour N50, N25 …
+Algorithme à compléter
+
+Algorigramme
+Début
+
+N  convertir la tension U2
+
+Si N > N75
+vTauxCh = 100
+
+Si N > N50
+vTauxCh = 75
+
+Si N > N25
+
+ALGORITHME Taux_de_charge
+// déclarations des constantes
+CONSTANTES
+N75 = 3450
+N50 = 3350
+N25 = 3250
+N0 = 2850
+// déclarations des variables
+VARIABLES
+ENTIER : N, vTauxCh
+
+Début
+N  convertir la tension U2
+SI N > N75 ALORS
+vTauxCh = 100
+SINON
+
+vTauxCh = 50
+
+Si N > N0
+
+vTauxCh = 25
+vTauxCh = 0
+
+Envoyer vTauxCh
+
+Fin
+
+FIN_SI
+Envoyer(vTauxCh)
+Fin
+
+DR3 :
+Réponse à la question II.5
+
+Trame à compléter :
+
+Bit de start

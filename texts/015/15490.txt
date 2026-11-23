@@ -1,0 +1,306 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1358716, "at": "2026-11-23T09:29:38+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Population de la France métropolitaine de 1946 à 2050
+Le tableau ci-dessous donne l’évolution de la population en France métropolitaine de
+1946 à 2013.
+Année
+
+1946
+
+1954
+
+1962
+
+1968
+
+1975
+
+1982
+
+1990
+
+1999
+
+2006
+
+2013
+
+Rang xi
+
+Population en
+millions yi
+
+40,5
+
+42,8
+
+46,5
+
+49,8
+
+52,7
+
+54,3
+
+56 ,6
+
+58,2
+
+61,4
+
+63,7
+
+Source INED, ined.fr
+
+Afin de faire des prévisions, cette évolution est représentée par un nuage de points
+dans le but d’en faire un ajustement affine.
+Une équation de la droite d’ajustement du nuage est : y = 0,341x + 41,21.
+1- Parmi les trois graphiques ci-dessous, quel est selon vous celui qui correspond à
+la droite d’ajustement trouvée ? Justifier.
+
+Graphique 1
+
+Graphique 2
+
+Graphique 3
+
+2- Après avoir déterminé le rang correspondant à l’année 2020, montrer, à l’aide de
+l’équation de la droite, que le modèle prévoit une population française de 66,4
+millions d’habitants à cette date.
+
+Le recensement effectué au cours de l’année 2020 montre que la population en
+France métropolitaine est de 64,9 millions d’habitants.
+3- Au-delà d’un écart supérieur à un million, ce modèle n’est pas valide. Conclure sur
+la validité du modèle en 2020. Justifier la réponse.
+Afin d’affiner les prévisions, il est envisagé de modifier le modèle précédent. Les
+relevés annuels de la population en France Métropolitaine de 2013 à 2020 sont
+donnés ci-dessous :
+Année
+
+2013 2014 2015 2016 2017 2018 2019 2020
+
+Rang xi
+
+Population en millions yi
+
+63,7
+
+64,3
+
+64,5
+
+64,6
+
+64,7
+
+64,8
+
+64,9
+
+Source INED, ined.fr
+
+Une droite d’équation y = 0,163x + 63,87 correspond au nouveau modèle choisi pour
+les 30 années à venir.
+Nous souhaitons savoir à partir de quelle année la population en France
+métropolitaine dépassera, d’après le nouveau modèle, les 65,5 millions d’habitants.
+Afin d’automatiser les calculs, nous avons
+programmé la fonction seuil_pop en langage
+Python ci-contre.
+
+4- Recopier parmi les quatre propositions suivantes celle qui correspond à la donnée
+manquante du programme :
+Proposition a : pop = 0.163*n+0
+Proposition b : pop = 0.163*n+63.87
+Proposition c : pop = pop+1
+Proposition d : pop = 0.163*pop+63.87
+5- À partir de quelle année la population en France métropolitaine dépassera-t-elle
+les 65,5 millions d’habitants ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son et musique, porteurs d’information »
+
+Gamme tempérée et gamme de Pythagore
+Il y a eu dans l’histoire de nombreuses constructions de gammes pour ordonner les
+notes à l’intérieur d’une octave. Cet exercice étudie deux types de gammes à douze
+notes : la gamme tempérée et la gamme de Pythagore.
+L’octave peut être divisée en douze intervalles en formant douze notes de base (Do,
+Do#, Ré, Mib, Mi, Fa, Fa#, Sol, Sol#, La, Sib, Si). La gamme fréquemment utilisée de
+nos jours est la gamme tempérée, dans laquelle le rapport de fréquences entre deux
+notes consécutives est constant.
+1- Préciser la valeur du rapport des fréquences de deux notes séparées d’une
+octave.
+2- Expliquer pourquoi la valeur exacte du rapport des fréquences entre deux notes
+consécutives de la gamme tempérée est 12 2 .
+3- La fréquence du La3 est égale à 440 Hz. Calculer la valeur, arrondie au dixième,
+de la fréquence de la note suivante (Si3b) dans la gamme tempérée.
+4- Jusqu’au XVIIe siècle, la gamme la plus utilisée était la gamme de Pythagore,
+obtenue à partir des quintes successives d’une note initiale. Le tableau ci-dessous
+donne les fréquences des différentes notes de la gamme de Pythagore en partant de
+440 Hz.
+Note
+
+Mi3
+
+Fa3
+
+Fa3#
+
+Sol3
+
+Sol3#
+
+La3
+
+Si3b
+
+Si3
+
+Do4
+
+Do4#
+
+Ré4
+
+Ré4#
+
+Fréquence
+(Hz)
+
+352,4
+
+371,3
+
+396,4
+
+417,7
+
+469,9
+
+528,6
+
+556,9
+
+594,7
+
+626,5
+
+4-a- Calculer le rapport des fréquences des notes Si3 et Mi3 et donner le nom d’un tel
+intervalle.
+
+4-b- On considère la fonction Python freq_suivante ci-dessous qui permet de
+construire la gamme de Pythagore.
+def freq_suivante(f):
+f = 3/2*f
+if f >= 660 :
+f = f/2
+return(f)
+Donner les nombres renvoyés après l’exécution de freq_suivante(330) et de
+freq_suivante(440).
+Préciser les notes correspondantes.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+Diamant et kimberlite
+La kimberlite est une roche qui peut contenir des cristaux de diamant. Elle est issue
+du refroidissement d’une lave et doit son nom à la ville de Kimberley en Afrique du
+sud, où elle fut découverte pour la première fois.
+Observation de la kimberlite
+La kimberlite est présentée à différentes échelles sur le document réponse en
+annexe.
+1- Identifier les structures observées en inscrivant, parmi les propositions suivantes,
+les réponses dans les cadres prévus : « cellule », « roche », « organite »,
+« minéral », « modélisation à l’échelle de l’atome ».
+2- Cocher la proposition juste dans le QCM du document réponse à rendre avec la
+copie.
+Structure cristalline du diamant
+Des diamants sont souvent présents dans la kimberlite sous forme d’inclusions. Le
+diamant est un minéral transparent composé de cristaux de carbone pur. Cette
+« pierre précieuse » est connue pour être le minéral le plus dur qui soit.
+On cherche à savoir si, dans le cas du diamant, le carbone cristallise sous une forme
+cubique à face centrée.
+Données :
+• Rayon d’un atome de carbone : 𝑟 = 70 pm.
+• Masse d’un atome de carbone : 𝑚 = 2,0 × 10−26 kg.
+3- Étude d’un réseau cubique à faces centrées.
+3-a Compléter le schéma de maille d’un réseau cubique à faces centrées présenté
+dans le document réponse en indiquant la position des atomes.
+3-b Déterminer, en le justifiant, le nombre d’atomes présents à l’intérieur d’une
+maille.
+
+Document 1 – Vue d’une face du cube (réseau cubique à faces centrées)
+
+Illustration de l’auteur
+
+3-c Le paramètre de maille, noté a, est la longueur d’une arête du cube.
+Démontrer que a = 2√2𝑟.
+3-d Montrer que la masse volumique 𝜌 qu’aurait le diamant, s’il possédait une
+structure cubique à faces centrées, vérifierait approximativement la formule
+𝑚
+𝜌 = 0,18 × 𝑟 3 (avec 𝑚 la masse d’un atome de carbone et 𝑟 le rayon d’un atome
+de carbone modélisé par une sphère).
+4- La masse volumique du diamant est 3,51 x 103 kg.m-3. Indiquer si le diamant
+possède une structure cubique à faces centrées.
+Recherche de la profondeur de formation du diamant
+Le carbone pur est présent dans la nature sous deux formes principales : le diamant,
+qui est transparent, et le graphite, qui est gris et opaque. En laboratoire, il est
+possible de fabriquer artificiellement du diamant à partir du graphite en modifiant les
+paramètres de pression et de température : le diamant peut être produit si la
+pression est comprise entre 5 et 12 GPa (sachant que 1 GPa = 1 x 109 Pa).
+
+Document 2 – Pression en fonction de la profondeur sous la surface terrestre
+
+D’après un modèle simplifié de la structure de la Terre
+
+5- À l’aide du document 2, estimer la profondeur minimale à partir de laquelle les
+diamants peuvent se former.
+
+Document réponse à rendre avec la copie
+Exercice 3
+Observation d’une kimberlite à différentes échelles
+
+Question 2 (QCM)
+Cocher la proposition exacte ci-dessous.
+Lorsque les minéraux sont présents dans une pâte amorphe. Cela indique :
+Un refroidissement rapide
+Une forte pression
+Un refroidissement lent
+Une oxydation
+
+Question 3a. Position des atomes dans la maille d’un réseau cubique à faces
+centrées
+Compléter le schéma en indiquant la position des atomes de carbone dans la maille
+d’un réseau cubique à faces centrées.

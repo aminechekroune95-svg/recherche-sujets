@@ -1,0 +1,264 @@
+{"pages": 9, "method": "pdftotext", "bytes": 977014, "at": "2026-11-23T09:23:28+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et doit
+être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 9
+
+PARTIE A
+Chauffage et eau chaude de la maison (10 points)
+Les principales dépenses d'énergie au sein d'une maison
+française se répartissent entre quatre grands postes dont le
+plus important est le chauffage. La production d'eau chaude
+sanitaire est aussi un poste important.
+Le but de l'exercice est d'étudier les dépenses énergétiques
+liées à ces deux postes (chauffage et production d’eau
+chaude sanitaire) dans une maison comportant deux
+étages.
+
+Principales dépenses d'énergie au sein d'une maison
+française
+Source https://travaux.edf.fr/
+
+1. Chauffage de la maison
+La maison est équipée d'un chauffage central à partir d'une chaudière fonctionnant
+au gaz naturel. Afin de réaliser des économies d'énergie, le choix a été fait d'installer
+une chaudière à condensation. Le principe de fonctionnement d'une chaudière à
+condensation est illustré sur ci-dessous.
+
+Dans le brûleur (1), la combustion du gaz naturel permet de transférer de l'énergie à
+l'eau du circuit de chauffage (2). Cette eau, après avoir alimenté les radiateurs (3),
+circule dans un serpentin (4) mis en contact avec les produits de la combustion du
+gaz naturel (5). Ces produits se condensent au contact de l'eau froide et les
+condensats produits dans la chaudière (6) sont ensuite rejetés à l'égout. La
+condensation étant un phénomène exothermique, de l'énergie thermique est ainsi
+fournie à l'eau du circuit de chauffage.
+
+Produits de la
+combustion sous
+forme vapeur (5)
+
+Eau du circuit de
+chauffage (2)
+
+Serpentin (4)
+
+Radiateur (3)
+
+Produits de la
+combustion sous
+forme liquide (6)
+(condensats).
+
+Bruleur (1)
+
+Principe de fonctionnement d'une chaudière à condensation.
+D'après https://ma-maison-eco-confort.atlantic.fr/
+ le « gaz naturel » est principalement constitué de méthane ;
+ énergies molaires des liaisons en kJ·mol-1
+liaison
+C-H
+C=O (dans CO2)
+O=O
+énergie de liaison
+(kJ·mol-1)
+
+O-H
+
+ masses molaires atomiques en g·mol-1 : H : 1,0 g·mol-1 ; C : 12,0 g·mol-1 ; O :
+16,0 g·mol-1
+ numéros atomiques :
+H:1
+C:6
+O:8;
+ la valeur de l'énergie libérée par la condensation d'un gramme d'eau est : 2,3
+kJ ;
+ masse volumique de l'eau liquide : ρ = 1,0 kg·L-1.
+
+1.1. Écrire l'équation de la réaction modélisant la combustion du gaz naturel dans le
+dioxygène. La formule du méthane est CH4 et les produits de combustion sont le
+dioxyde de carbone et l’eau.
+1.2. Établir le schéma de Lewis des molécules de dioxyde de carbone et d’eau.
+1.3. À partir du tableau donnant les valeurs des énergies de liaison, calculer celle de
+l’énergie molaire de réaction de la combustion du gaz naturel dans le dioxygène et
+justifier du caractère exothermique de la transformation. En déduire que le pouvoir
+calorifique du méthane est d’environ 50 kJ·g-1.
+1.4. Calculer l’énergie thermique libérée au cours de la combustion de 100 g de
+méthane. Montrer qu’au cours de cette combustion il se forme 225 g de vapeur
+d’eau.
+1.5. On fait l'hypothèse que toute la vapeur d'eau formée lors de la combustion se
+condense et que seule l'énergie libérée lors de la condensation de l'eau est
+récupérée. Calculer la valeur de l’énergie associée à la condensation de la vapeur
+d’eau formée pour 100 g de méthane puis montrer que l’utilisation de cette énergie
+permet de réaliser un gain maximal d’environ 10 % en énergie.
+2. Eau chaude sanitaire
+Dans ce logement l'eau chaude sanitaire est fournie par chauffe-eau qui fonctionne à
+l'électricité. Le principe est simple : une résistance électrique placée dans le cumulus
+chauffe l'eau jusqu'à une température définie appelée température de consigne.
+Les caractéristiques techniques du chauffe-eau indiquées par le constructeur sont en
+partie reproduites :
+Capacité
+Tension de
+Puissance Temps de chauffe(1)
+fonctionnement
+150 L
+230 V
+1800 W
+5 h 15
+(1) Le temps de chauffe est indiqué pour une eau dont la température initiale est de
+15 °C et la température finale de 65 °C.
+ L’énergie thermique E nécessaire pour élever la température d'une masse m
+d'eau liquide de ΔT est donnée par la relation E = m·ceau·ΔT où ceau est la
+capacité thermique massique de l'eau (ceau = 4,18×103J·kg-1·K-1) ;
+ masse volumique de l'eau ρ = 1,00 kg·L-1 ;
+ ϴ(°C) = T(K) – 273 ; 1,0 J = 3,6 kWh ; 1 bar = 105 Pa.
+2.1. Nommer le phénomène physique qui permet le chauffage de l'eau dans le
+cumulus. Déterminer la valeur de la résistance chauffante du cumulus.
+2.2. À l’aide des caractéristiques techniques du constructeur et des données,
+calculer la valeur de l’énergie thermique nécessaire à l’élévation de la température
+de la totalité de l’eau du cumulus.
+
+2.3. Utiliser la puissance du chauffe-eau pour en déduire la durée nécessaire à cette
+élévation de température. Comparer à la valeur indiquée par le constructeur et
+proposer une explication à une éventuelle différence.
+
+Le cumulus est installé au rez-dechaussée d’une maison de deux
+étages (schéma ci-contre). Le
+graphe ci-dessous indique la
+pression minimale de l’eau en sortie
+du cumulus en fonction de l’altitude
+z du point de distribution de l’eau
+chaude. Pour un fonctionnement
+correct l’eau doit arriver au point de
+distribution avec une pression
+minimale de 2,50 bar.
+
+2ème
+étage
+1er étage
+Canalisation
+Rez-de-chaussée
+
+Prez-de-chaussée
+(bar)
+
+Pression de l’eau en sortie de cumulus en fonction de l’altitude de la distribution
+2.4. Commenter l’allure du graphe puis l’utiliser pour estimer la pression minimale de
+l’eau en sortie du cumulus nécessaire à la distribution d’eau chaude dans une
+maison de deux étages.
+PARTIE B
+Photographie argentique noir et blanc (10 points)
+La photographie ci-dessous représente la statue de la Liberté, l'un des monuments
+les plus célèbres des États-Unis. Cette statue est située à New York sur l'île Liberty
+Island. Le monument, mesurant 93,0 mètres du sol jusqu’à la pointe de la torche, fut
+
+z
+
+construit en France et offert par le peuple français, en signe d'amitié entre les deux
+nations, pour célébrer le centenaire de la Déclaration d'indépendance américaine.
+
+D’après http://images.4ever.eu/batiments/statue-de-la-liberte-170506
+Partie 1 : distance de prise de vue et taille de l’image
+L’appareil photographique qui a réalisé le cliché ci-dessus est constitué d’une
+pellicule photosensible dont la zone exposée à la lumière a pour dimensions
+(24,0 mm × 36,0 mm) et d’un objectif équivalent à une lentille convergente de
+distance focale image f’ = 5,00 cm. Le photographe se situe à 250 m de la statue de
+la Liberté. On peut modéliser la prise de vue à l’aide du schéma de situation
+présenté en annexe (page 4). On précise que ce schéma n’est pas à l’échelle.
+1.1 Identifier sur ce schéma en annexe (page 4) À RENDRE AVEC LA COPIE,
+le foyer image F’, le foyer objet F et le centre optique O.
+1.2 Compléter ce schéma en construisant l’image A’B’ de la statue de la Liberté
+modélisée par AB, à l’aide d’au minimum deux rayons lumineux particuliers.
+1.3 Citer deux adjectifs appropriés qui qualifient l’image.
+1.4 Montrer, qu’en réalité, l’image de la statue de la Liberté se forme au voisinage
+immédiat du foyer image de la lentille.
+1.5 Vérifier, par le calcul, que le grandissement vaut – 2,00×10−4.
+1.6 Expliquer si la statue de la Liberté peut apparaître en entier sur la pellicule.
+Le candidat est invité à présenter son raisonnement de manière claire et
+ordonnée. Toute tentative de réponse, même incomplète, sera valorisée.
+ relation de conjugaison pour une lentille mince
+𝑂𝐴′
+
+𝑂𝐴′
+
+− 𝑂𝐴 =
+
+𝑂𝐹′
+
+= 𝑓′ ;
+
+𝐴′ 𝐵′
+
+ grandissement 𝛾 = 𝑂𝐴 = 𝐴𝐵
+
+Partie 2 : révélation de la pellicule photosensible
+La pellicule photographique utilisée pour ce cliché contient quelques milligrammes de
+microcristaux de bromure d'argent AgBr(s), constitués d’ions Ag+ et Br−. Lors d'une
+
+prise de vue, sous l’effet de la lumière, des ions bromure Br− cèdent des électrons à
+des ions argent Ag+, ce qui conduit la formation de quelques atomes d'argent Ag et
+contribuent à un noircissement localisé de la pellicule constituant ainsi l’image
+latente. Cette dernière reste invisible, même au microscope, car le nombre d’atomes
+d’argent formés est trop faible.
+La révélation consiste à multiplier de façon le nombre d'atomes d'argent pour donner
+naissance au négatif en noir et blanc. L’un des révélateurs les plus utilisés est une
+solution aqueuse d’hydroquinone. Lors de la révélation, l’hydroquinone dissoute
+C6H6O2(aq) est transformé en benzoquinone C6H4O2(aq).
+Ensuite, la pellicule ainsi traitée est plongée dans un bain d'arrêt qui a pour but de
+stopper la révélation, puis dans un fixateur qui stabilise l’image en la rendant
+insensible à la lumière par l'élimination du bromure d'argent qui n'a pas réagi.
+
+hydroquinone
+
+benzoquinone
+
+Négatif obtenu après révélation de la pellicule exposée à la lumière
+2.1 À l’aide d’un raisonnement qualitatif faisant intervenir notamment les ions
+argent, expliquer la raison pour laquelle les nuances de gris sont
+inversées entre le négatif noir et blanc et le paysage d’origine ?
+On modélise la révélation par une réaction chimique.
+2.2 Écrire la demi-équation électronique qui traduit la transformation de
+l’hydroquinone en benzoquinone.
+2.3 Préciser, en justifiant la réponse, s’il s’agit d’une oxydation ou bien d’une
+réduction de l’hydroquinone.
+2.4 . Vérifier que l’équation de la réaction d’oxydoréduction modélisant la
+révélation s’écrit : C6H6O2(aq) + 2 Ag+(aq) → C6H4O2(aq) + 2Ag(s)+ 2H+(aq).
+
+On s’intéresse à la révélation de la pellicule de dimensions 24,0 mm × 36,0 mm qui a
+permis d’obtenir la photographie de la statue de la liberté. On estime que la pellicule
+comporte initialement 2,00 mg d’ions argent par cm2. Une fois la prise de vue
+réalisée, on fait tremper la pellicule dans un volume V = 50,0 mL de bain révélateur.
+L’observation du négatif noir et blanc permet d’estimer que 40% de la surface de la
+pellicule a noirci pendant la révélation. On considère que les atomes d’argent qui
+constituent l’image latente sont négligeables par rapport à la quantité d’ions argent
+contenus dans la pellicule.
+2.5 Montrer que la quantité de matière d’ions argent n(Ag+) qui réagissent pendant
+la révélation pour obtenir le négatif vaut de l’ordre de 6×10-5 mol.
+2.6 Quelle doit être la concentration minimale C en hydroquinone dans le
+révélateur pour atteindre cet objectif ?
+Le candidat est amené à prendre des initiatives. Tout raisonnement même
+incomplet sera pris en compte.
+Donnée : masse molaire atomique de l’argent : M = 107,9 g·mol-1 ;
+
+ANNEXE À RENDRE AVEC LA COPIE
+Partie 1 : questions 1.1 et 1.2
+
+Pellicule
+photographique
+
+Objectif
+B
+
+A
+Statue de la Liberté
+repérée du sol jusqu’à la
+pointe de la torche
+
+↑
+
+→

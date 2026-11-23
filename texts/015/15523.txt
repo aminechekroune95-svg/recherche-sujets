@@ -1,0 +1,429 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1115370, "at": "2026-11-23T09:29:21+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Un lieu de baignade
+Sur 4 points
+Partie 1
+Durant l’été 2023 la plage surveillée d’un lac a accueilli 75 600 baigneurs.
+On a collecté les informations suivantes :
+- parmi ces baigneurs 40 % sont des adultes,
+- deux baigneurs sur trois sont de bons nageurs, 5 040 baigneurs ne savent pas
+nager, les autres sont qualifiés de « nageurs moyens »,
+- parmi les baigneurs qui sont de bons nageurs il y a autant d’adultes que d’enfants,
+- les trois quarts des baigneurs qui ne savent pas nager sont des enfants.
+1. Reproduire sur la copie et compléter le tableau suivant.
+« bons
+nageurs »
+Enfants
+Adultes
+
+« non
+nageurs »
+
+« nageurs
+moyens »
+
+Total
+
+3 780
+25 200
+
+Total
+
+30 240
+75 600
+
+Durant l’été 2023, on interroge au hasard un baigneur de ce lac.
+2. Quelle est la probabilité que ce soit un enfant non nageur ?
+3. La personne choisie est un adulte. Quelle est la probabilité que ce soit un bon
+nageur ?
+
+Partie 2 – Étude de fonction
+En eau douce, les risques sanitaires liés à la baignade peuvent être dus à la
+présence de toxines libérées par les algues de la famille des cyanobactéries
+(souvent appelées algues bleues).
+Les autorités sanitaires considèrent que ces toxines deviennent dangereuses pour la
+santé lorsque leur concentration dépasse 40 microgrammes par litre dans les eaux,
+la baignade n’est alors plus autorisée.
+L’eau du lac de baignade est surveillée en permanence.
+Suite aux mesures effectuées sur trois jours consécutifs l’évolution de la
+concentration de toxines dans l’eau de ce lac en microgrammes par litre a été
+modélisée par la fonction 𝐶 définie sur l’intervalle [0; 72] par :
+𝐶(𝑡) = −0,05𝑡 ! + 3,75𝑡 + 7,5
+où 𝑡 désigne le temps écoulé depuis le début de l’étude, exprimé en heures.
+On admet que la fonction 𝐶 est dérivable sur l’intervalle [0; 72] et on note 𝐶′ sa
+fonction dérivée.
+1. Montrer que 𝐶 " (𝑡) = −0,1𝑡 + 3,75.
+2. En déduire les variations de la fonction 𝐶 sur l’intervalle [0; 72]. Interpréter ces
+variations dans le contexte de l’exercice.
+3. Calculer 𝐶(10) et 𝐶(65).
+4. A-t-il été nécessaire d’interdire la baignade lors de cette période ? Justifier la
+réponse.
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Curiethérapie : du Radium à l’Iode
+En 1920, dans la continuité de sa découverte du Radium et des rayonnements qu’il
+émet, Marie Curie a la volonté de développer l’usage thérapeutique du Radium. De
+sa collaboration avec le docteur Claudius Regaud va naître la Curiethérapie, le
+traitement des cellules cancéreuses par radiothérapie de contact.
+Partie 1 – La naissance de la Curiethérapie au Radium
+Document 1 – Les débuts de la Curiethérapie
+Au début du 20ème siècle, les médecins avaient très vite compris que les
+rayonnements ionisants tuaient plus facilement les cellules cancéreuses que les
+cellules saines, bien qu'ils n'aient pas su pourquoi. Mais il y eut un long chemin à
+parcourir avant qu'ils ne parviennent à optimiser les doses de ces rayonnements
+tout en minimisant les risques pour les patients et les opérateurs. A cette époque, il
+n'était pas possible de calculer la dose de rayonnement émise par la source
+radioactive utilisée. Les médecins recouraient donc le plus souvent à une
+irradiation massive d'une grande partie du corps pour détruire la tumeur d'un seul
+coup. Cela entraînait fréquemment la nécrose des tissus sains environnants sans
+garantir l'absence de récidive de la tumeur
+Pour les tumeurs traitées par curiethérapie,
+on employait des sels de radium, d'abord
+contenus dans des aiguilles en platine,
+placés en contact des tumeurs ce qui limitait
+leur usage aux cancers accessibles de
+l'extérieur et de petite taille (cancers du sein,
+de la peau, du col de l'utérus).
+
+Aiguilles de Curiethérapie (1920)
+
+L’usage médical du Radium a été définitivement interdit en 1976 pour des raisons
+de radioprotection des individus et des sites. Sans dépollution les premiers sites
+d’usage restent contaminés à ce jour car la demi-vie du Radium est de plus de
+1600 ans.
+Sources : d’après www.futura-sciences.com, dossier radioactivité : les pionniers (2008)
+
+et https://musee.curie.fr/decouvrir/exposition-permanente/visite-virtuelle/d8-lacurietherapie-de-contact
+
+1- À partir de l’exploitation du document 1, indiquer la bonne réponse sur votre
+copie, parmi celles qui sont proposées :
+La curiethérapie a été utilisée dès le début du 20ème siècle pour soigner des cancers,
+car :
+
+Réponse A : les rayonnements produits empêchent les récidives de la tumeur.
+
+Réponse B : les rayonnements produits détruisent préférentiellement les
+cellules des tumeurs.
+
+Réponse C : les rayonnements produits pouvaient être facilement dosés et
+localisés avec précision sur la tumeur.
+
+Réponse D : les rayonnements produits provoquent uniquement une nécrose
+des cellules cancéreuses.
+
+2- En vous appuyant sur votre connaissance du phénomène lié à l’émission de
+rayonnement par des noyaux radioactifs, proposer deux arguments expliquant la
+phrase du document 1 : « à cette époque [1920], il n'était pas possible de
+calculer la dose de rayonnement émise ».
+Partie 2 – La Curiethérapie actuelle : l’exemple de l’iode 125
+Document 2 – La méthode actuelle de curiethérapie de la prostate et
+radioprotection après la pose d’implants
+La curiethérapie de la prostate consiste à installer dans cette glande des dizaines
+d’implants radioactifs qui couvrent l’ensemble de la zone à traiter. Ces implants de
+quelques millimètres de long sont constitués d’une source radioactive d’iode 125
+enrobée dans une capsule de titane. Ils sont laissés de manière permanente dans
+la prostate.
+
+Radiographie du bassin d’un
+patient traité. Les implants
+apparaissent sous forme de
+bâtonnets blancs
+(photo : Kimmel Cancer Center at
+Jefferson)
+
+Le patient traité par implants d’iode 125 étant lui-même un peu radioactif,
+existe-t-il un risque pour son entourage ?
+Voici les conseils de radioprotection donnés par l’Institut National du Cancer :
+« En cas de curiethérapie par implants permanents (iode 125), la radioactivité des
+sources implantées diminue progressivement dans le temps et les rayonnements
+émis étant très peu pénétrants, quelques centimètres seulement dans la matière
+vivante, ils sont arrêtés presque totalement par le corps lui-même. Les risques
+pour l’entourage sont donc jugés peu dangereux.
+Les contacts avec les autres personnes sont autorisés. Quelques précautions sont
+cependant nécessaires pendant les 4 à 6 mois qui suivent l’implantation. En
+pratique, vous devez notamment éviter les contacts directs et prolongés avec les
+jeunes enfants (par exemple, les prendre sur vos genoux) et les femmes
+enceintes. »
+Sources : D’après https://laradioactivite.com/medecin/curietherapie_prostate
+et https://www.e-cancer.fr/Patients-et-proches/Les-cancers/Cancer-de-laprostate/Curietherapie
+
+Les implants sont considérés comme faiblement actifs lorsque le nombre des noyaux
+radioactifs restant dans l’implant est inférieure à 15 % de sa valeur initiale, au
+moment de la mise en place dans la prostate du patient.
+Donnée : demi-vie de l’iode 125 : 60 jours.
+3- Déterminer au bout de combien de demi-vies la proportion de noyaux radioactifs
+d’iode 125 restant dans un implant est de 12,5% (c’est-à-dire un huitième).
+Confronter ce résultat aux consignes de radioprotection.
+
+4- À l’aide de l’ensemble des documents, proposer deux intérêts d’utiliser l’iode 125
+plutôt que le radium pour la curiethérapie. Une réponse argumentée est
+attendue.
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+Forçage radiatif et conséquences
+L’Agence de la transition écologique (ADEME) publie en octobre 2020 une prévision
+des impacts climatiques à venir d’ici 2050 en France. Ces impacts concernent
+principalement l’augmentation des températures et les risques d’inondation qui en
+découlent.
+L’objectif de cet exercice est de comprendre quelques effets sur le climat de la
+variation du forçage radiatif.
+Document 1 : les scénarios RCP (Representative Concentration Pathway)
+sont quatre scénarios de trajectoire du forçage radiatif jusqu'à l'horizon 2100
+
+RCP 8.5
+RCP 6.0
+RCP 4.5
+RCP 2.6
+
+Chaque scénario RCP est caractérisé par un nombre qui correspond à une valeur
+d’élévation du forçage radiatif par unité de temps et de surface, exprimé en W ⋅ m#! .
+Source : d’après https://www.climate-chance.org
+
+Document 2 : composantes du forçage radiatif terrestre
+
+Source : Wikimedias
+
+5.a. Définir la notion de « forçage radiatif ».
+5.b. Justifier que, par unité de temps et de surface terrestre, ce forçage radiatif
+s’exprime en W∙m-2.
+5.c. Expliquer en quoi le forçage radiatif est lié à la variation de la température
+terrestre.
+6. Expliquer les causes de l’augmentation du forçage radiatif depuis la révolution
+industrielle (1850).
+
+7. On analyse l’effet du forçage radiatif sur le niveau des océans.
+En tenant compte uniquement de la dilatation des océans, estimer la variation du
+niveau marin 𝛥𝑒 à l’échelle du globe, en 2100, pour un RCP 4.5 qui correspond aux
+accords de Paris, à l’aide des données ci-dessous.
+Données :
+La variation 𝛥𝑉 d’un volume 𝑉$ d’eau est proportionnelle à la variation de
+température 𝛥𝑇 selon la relation 𝛥𝑉 = 𝛽 · 𝑉$ · 𝛥𝑇 avec le coefficient de dilatation
+thermique de l’eau 𝛽 = 2,6 × 10#% °C #& .
+La surface totale des océans est 𝑆 = 360 × 10' km! .
+L’épaisseur de la couche superficielle océanique concernée est 𝑒 = 300 m.
+L’un des paramètres qui influe sur le forçage radiatif est l’albédo terrestre moyen.
+On rappelle que l’albédo d’une surface correspond au rapport de l’énergie lumineuse
+réfléchie sur l’énergie lumineuse incidente. Le tableau suivant fournit quelques
+valeurs d’albédo suivant la nature des surfaces.
+Type de Surface
+Mer / Océan
+Glace
+Neige fraîche
+
+Albédo
+0,26
+0,6
+0,85
+
+Albédo de différentes surfaces (source : Météo France)
+
+8. Préciser si une augmentation de l’albedo terrestre produit une augmentation ou
+une diminution du forçage radiatif. En déduire que la fonte des glaces (terrestres et
+marines) se traduit par une augmentation du forçage radiatif.
+9. Expliquer pourquoi la fonte des glaces est un facteur de rétroaction positive de
+l’échauffement global du climat. Il est possible d’appuyer le raisonnement sur un
+schéma.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse pour recharger nos batteries
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible mais cela pourrait à terme
+transformer les rizières en unités de production électrique.
+On cherche ici à déterminer si cette technologie peut réellement constituer une
+solution d’avenir.
+Document 1. La photosynthèse et ses caractéristiques
+On cherche à identifier les conditions de la synthèse d’amidon par les feuilles.
+◄ Expérience :
+Sur un pied de géranium panaché*,
+une partie de quelques feuilles est
+masquée par du papier noir et est
+vivement éclairée pendant un certain
+temps.
+Après plusieurs heures, l’une des
+feuilles est débarrassée de son cache
+puis décolorée par de l’éthanol
+bouillant.
+La feuille est ensuite plongée dans une
+boîte de pétri contenant de l’eau iodée.
+
+L’eau iodée est un indicateur de couleur jaune qui est utilisé pour mettre en évidence
+la présence d’un glucide, l’amidon, au contact duquel elle devient bleu foncé
+* Une feuille panachée n’est pas totalement chlorophyllienne ; l’extrémité de la feuille
+est blanche.
+Source : D’après http://svt.ac-dijon.fr/schemassvt/spip.php?article356
+
+Le schéma ci-contre
+montre le montage
+expérimental au
+niveau d’une feuille
+de géranium
+panaché :
+
+1- En utilisant vos connaissances, indiquer les résultats attendus dans chacune des
+quatre zones de la feuille.
+
+Document 2 – Le principe de fonctionnement de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. Autour
+des racines vivent de très nombreux microorganismes qui se nourrissent de la
+matière organique issue du végétal. La réaction chimique correspondante peut être
+exploitée au sein d’une pile comportant deux électrodes dont l’une est positionnée
+près de la racine de la plante et l’autre en est plus éloignée.
+Cette pile peut délivrer un courant électrique qui transporte de l’énergie. On admet
+que la puissance électrique fournie par une « pile végétale » de cette sorte est
+proportionnelle à la surface que les plantes, exposées au soleil et qui se trouvent
+au voisinage des électrodes, occupent sur le sol.
+On peut estimer qu’une « pile végétale » fournit une puissance de 2,5 W par m² de
+surface de plantes. 1 m² de « pile végétale » suffit pour recharger un smartphone
+en 4 h !
+Source : d’après https://www.futura-sciences.com/planete/actualites/developpementdurable-pile-microbienne-plantes-electricite-demain-42980/#une-pile-microbiennealimentee-par-des-plantes
+
+Données :
+
+La charge d’un smartphone nécessite une énergie de l’ordre de 10 Wh.
+
+Un Watt-heure (Wh) est l’énergie produite par un système qui fournit une
+puissance de 1 Watt pendant 1 heure.
+
+2- Montrer que « pile végétale » de surface 1 m² peut fournir une énergie de 30 Wh
+pour 12 h d’éclairement de la surface végétale.
+L’énergie consommée par un foyer moyen est de l’ordre de 10 kWh pour une journée
+de 12 h d’éclairement.
+3- Déterminer la surface végétale nécessaire pour répondre aux besoins
+énergétiques journaliers d’un foyer moyen.
+4- En vous appuyant sur vos connaissances et sur l’ensemble de l’exercice, rédiger
+un paragraphe argumenté indiquant les intérêts et les limites de l’utilisation de la
+« pile végétale » comme source d’énergie électrique.
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+Les impacts de la combustion sur l’environnement et la santé
+La combustion de carburants fossiles et de la biomasse libère du dioxyde de carbone
+qui a un impact environnemental majeur.
+Il est également reconnu par l’Organisation mondiale de la santé (OMS) que la santé
+publique est impactée par la pollution de l’air. Le Ministère des Solidarités et de la
+Santé estime qu’environ 48 000 personnes décèdent chaque année des effets de la
+pollution de l’air en France.
+On se propose d’étudier la part et les impacts de la combustion de carburants
+fossiles et de biomasse sur la santé humaine.
+
+Document 1 : Production de dioxyde de carbone lors de la combustion
+de carburants fossiles et de la biomasse
+
+Équation de la réaction
+
+Gaz naturel méthane CH4
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+Essence modélisée par
+l’octane C8H18
+
+2 C8H18 + 25 O2 → 16 CO2 +18 H2O
+
+Biomasse (bois)
+modélisée par C6H10O5
+
+C6H10O5 + 6 O2 → 6 CO2 + 5 H2O
+
+Énergie massique libérée par kg de combustible brûlé :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Énergie massique
+libérée
+
+50 MJ.kg-1
+
+45 MJ.kg-1
+
+17 MJ.kg-1
+
+Masse de CO2 produite pour 1 MJ d’énergie obtenue :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Masse de CO2
+produite
+
+56 g
+
+À calculer à la
+question 5
+
+95 g
+
+Source : d’après J.-C. Guibet, Publications de l’Institut français du pétrole,1997
+et W.-M. Haynes, CRC Handbook of Chemistry and Physics, 2012
+
+5- Indiquer le (ou les) combustible(s) mentionnés dans le document 1 pouvant être
+utilisés comme source(s) d’énergie renouvelable.
+6- Calculer la masse d’essence, notée 𝑚())(*+( , nécessaire pour obtenir une énergie
+de valeur 1 MJ.
+7- Sachant que la masse d’une mole d’essence est égale à 114 g, vérifier que la
+quantité de matière, notée 𝑛())(*+( , présente dans la masse d’essence nécessaire
+pour obtenir une énergie de valeur 1 MJ vaut environ : 𝑛())(*+( = 0,2 mol.
+
+8- À l’aide de l’équation de la réaction modélisant la combustion de l’essence, vérifier
+que la quantité de matière de dioxyde de carbone produite 𝑛,-! est telle que
+𝑛,-! = 8𝑛())(*+( . Calculer 𝑛,-! .
+9- La masse d’une mole de dioxyde de carbone étant égale à 44 g, déterminer la
+masse de CO2 libérée dans l’atmosphère par la combustion de l’essence pour
+obtenir une énergie de valeur 1 MJ.
+10- Comparer la masse de dioxyde de carbone émise par MJ produit pour chaque
+combustible du document 1 et indiquer quel est l’impact environnemental majeur du
+dioxyde de carbone.

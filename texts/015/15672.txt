@@ -1,0 +1,378 @@
+{"pages": 15, "method": "pdftotext", "bytes": 2802949, "at": "2026-11-23T09:28:34+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « Son, musique et audition »
+
+Exposition au bruit
+Le bruit fait partie de la vie. D’ailleurs, l’absence totale de bruit est unanimement
+reconnue comme très difficilement supportable pour l’Homme. Pourtant, certaines
+situations d’exposition au bruit, dans la vie de tous les jours ou au travail, peuvent
+être néfastes pour la santé. Aujourd’hui, en France, plus de trois millions de salariés
+sont exposés sur leur lieu de travail, de manière prolongée, à des niveaux de bruit
+potentiellement nocifs. En outre, le bruit est reconnu comme cause de maladies
+professionnelles depuis 1963.
+L’exposition au bruit sur le lieu de travail est susceptible d’affecter la santé des
+travailleurs. La perte auditive (surdité) en est l’effet le plus connu, mais le risque
+accru d’accidents et l’exacerbation du stress comptent aussi parmi les conséquences
+possibles du bruit au travail.
+Ministère du travail – « Bruit en milieu de travail »
+
+Dans cet exercice, nous allons nous intéresser à l’exposition au bruit. Dans un
+premier temps, nous discuterons comme comprendre l’outil de diagnostic utilisé par
+les médecins pour évaluer les pertes d’audition, puis nous verrons comment nous en
+préserver en fonction des situations.
+Partie 1 – Diagnostic d’une perte d’audition
+Pour diagnostiquer la santé auditive d’un patient, un médecin peut réaliser un test
+d’audiométrie tonale. Ce test consiste à faire écouter au patient des sons de
+fréquence bien déterminée à des niveaux d’intensité croissants. Lorsque le patient
+entend le son, il le signifie. Le niveau d’intensité sonore le plus faible que perçoit un
+patient pour une fréquence 𝑓 est son seuil d’audition. Nous le noterons 𝐿!"#$% (𝑓).
+En comparant le seuil d’audition du patient au seuil d’audition de référence (noté
+𝐿&"' (𝑓)) établi pour des personnes ayant une santé dans la norme, on définit la perte
+auditive 𝑃(𝑓) du patient :
+𝑃(𝑓) = 𝐿!"#$% (𝑓) − 𝐿&"' (𝑓)
+Une valeur positive de la perte auditive correspond à un patient entendant moins
+bien que la normale. À l’inverse, une valeur négative de 𝑃(𝑓) indique que le patient
+entend mieux que la normale.
+
+En mesurant la perte auditive du patient pour différentes fréquences du domaine
+audible (20 Hz − 20 kHz), on obtient un audiogramme tel que ceux représentés sur le
+document 1.
+Sur ce diagramme, on porte :
+
+La fréquence en abscisse ;
+
+La perte auditive en ordonnée suivant un axe inversé (la perte augmente
+lorsque l’on descend).
+
+1- Préciser les unités des grandeurs sur chacun de ces axes.
+2- Justifier que l’audiogramme ne couvre pas tout le domaine des fréquences
+audibles.
+
+Document 1 – Audiogramme d’un patient (pour chaque oreille)
+
+Le patient se plaint de demander de plus en plus souvent à ses interlocuteurs de
+répéter leurs propos.
+On se donne quelques repères :
+
+La gamme de fréquence d’une voix plutôt grave va de 80 Hz à 400 Hz et celle
+d’une voix plutôt aigüe va de 300 Hz à 1500 Hz.
+
+Une conversation normale entre adultes se situe à un niveau sonore de l’ordre
+de 60 dB.
+
+Une conversation chuchotée se situe à un niveau sonore de l’ordre de 40 dB.
+
+Une conversation dans un environnement bruyant se situe à un niveau sonore
+de l’ordre de 80 dB.
+
+3- Rédiger un court texte argumenté expliquant pourquoi le patient rencontre des
+difficultés à comprendre une conversation normale.
+Pour mieux caractériser la gêne que peut représenter la perte auditive de ce patient,
+nous allons considérer le cas de la perception de l’arrivée d’une moto dans la rue.
+Lorsqu’une moto en marche se situe à une distance d’un mètre derrière le patient
+(distance 𝑑( = 1 m), elle émet un bruit dont le niveau d’intensité sonore au niveau
+des oreilles du patient est 𝐿( = 90 dB.
+Lorsque la moto en marche se situe à une distance 𝑑 derrière le patient, le bruit
+qu’elle émet atteint les oreilles du patient avec un niveau d’intensité sonore 𝐿(𝑑) dont
+la valeur est donnée par la formule :
+)! *)(,)
+.(
+
+𝑑 = 𝑑( × 10
+
+Cette relation peut également s’écrire de la façon suivante :
+)!" )(,)
+𝑑
+= 10 .(
+𝑑(
+
+Une moto émet des sons dans une gamme de fréquence autour de 4 kHz.
+On considère que dans un environnement urbain calme, une personne sans perte
+auditive commence à percevoir la moto lorsque le niveau d’intensité sonore 𝐿 atteint
+50 dB, ce qui correspond à une distance de 100 m d’après la formule ci-dessus.
+4- Déterminer la distance à partir de laquelle le patient commence à percevoir la
+présence de la moto.
+5- Commenter cette valeur et en déduire un exemple de l’impact de cette perte
+auditive sur sa vie quotidienne.
+Partie 2 – Se protéger du bruit
+Pour se prémunir des problèmes de santé induit par le bruit, il est important d’utiliser
+des dispositifs de protection. Toutefois, ceux-ci doivent être adaptés au contexte.
+Par exemple, dans un environnement de travail bruyant, il faut pouvoir se prémunir
+des bruits les plus agressifs pour l’oreille (situés principalement dans une bande de
+
+fréquence autour de 4 000 Hz) tout en restant disponible pour des échanges
+conversationnels (bande de fréquence de 80 Hz à 1 500 Hz).
+En revanche, pour bien dormir dans un environnement nocturne bruyant, il est
+préférable de réduire l’ensemble des bruits.
+Le graphique du document 2 présente la réduction de bruit en fonction de la
+fréquence pour trois bouchons d’oreille en mousse réalisés dans des matériaux
+différents.
+6- Rédiger un court paragraphe argumenté expliquant quel type de bouchons
+d’oreille (A, B ou C) est le plus adapté pour se prémunir du bruit dans chacun
+des deux contextes précédents :
+
+Un environnement de travail bruyant.
+
+Une nuit de sommeil dans un environnement nocturne bruyant.
+
+Document 2 – Réduction du bruit par trois types de bouchons d’oreille
+
+Source : D’après l’article « Les meilleurs bouchons d’oreilles pour mieux dormir » paru sur
+le site lemonde.fr
+
+Exercice 2 – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’or et son extraction
+L’or est un métal qui fascine l’homme depuis toujours : après avoir servi pendant des
+siècles à l’apparat, facilement travaillé grâce à sa ductilité*, ses propriétés pour la
+conduction de l’électricité en font actuellement un matériau de choix dans
+l’électronique.
+* Ductilité : capacité d’un matériau à se déformer sans se rompre.
+Partie 1 – Origine de l’or
+Document 1 – Pyramide de la complexité
+
+1- Estimer la date à laquelle les premiers atomes d’or (Au) se sont formés et
+l’évènement associé.
+
+L’un des mécanismes de formation des noyaux d’or est une succession de réactions
+nucléaires à partir de noyaux de fer.
+2- Associer à chacune des réactions suivantes l’un des termes parmi : fusion
+nucléaire, fission nucléaire, bilan de la formation des noyaux d'or.
+a.
+
+0/
+./Fe + 141 (n
+
+( *
+→ 132
+23Au + 53 *1e
+
+b.
+
+.5
+.5
+14Si + 14Si
+
+c.
+
+23Au → 22Ir + .He
+
+→ 0/
+.5Ni
+
+La connaissance de la structure du noyau atomique de l’or ne suffit cependant pas
+pour expliquer les propriétés du matériau. Il faut alors étudier sa structure cristalline.
+Partie 2 – Le cristal d’or
+Document 2 – Représentations en trois dimensions de plusieurs mailles d’un
+cristal d’or
+Chaque sphère ci-dessous représente un atome d’or (Z = 79). Une maille est mise
+en évidence sur la représentation 2.
+
+Représentation 1
+
+Représentation 2
+Source : logiciel MinUSc
+
+3- En vous appuyant sur vos connaissances, justifier que l’échantillon d’or soit
+qualifié de cristal.
+
+Document 3 – Différents types de structures cristallines
+Cubique simple
+
+Cubique centré
+
+Cubique à faces centrées
+
+4- Déterminer le type de structure cristalline de l’échantillon considéré. Justifier
+votre réponse.
+La découverte d’or est devenue synonyme de richesse facile et les épisodes de
+ruées vers l’or du 19e siècle en sont témoins. L’extraction minière de l’or se fait alors
+souvent au détriment de l’environnement et de la santé des populations vivant sur
+place.
+Partie 3 – L’extraction de l’or et son impact sur l’environnement
+La cyanuration est une technique d'extraction de l'or grâce à une solution de sels de
+cyanure (cyanure de potassium KCN, cyanure de sodium NaCN ou cyanure de
+calcium Ca(CN)2) et de dioxygène dissout.
+Document 4 – Un déversement accidentel de fluides cyanurés en 2000 en
+Australie
+Le Département des Ressources Naturelles, des Mines et de l’Énergie du
+Queensland a fait état d’un accident dans une usine de traitement de l’or, lié à la
+défaillance d’une cuve d’extraction de l’or par cyanuration de 200 m3.
+Un débordement d’environ 50 m3 d’une solution comptant 70 μg/L de cyanures
+libres s’est produit.
+La CL50 ou « concentration létale à 50 % » désigne la concentration d’un produit
+chimique dans l’air ou dans l’eau qui cause la mort de 50 % des animaux, lors
+d’une durée d’exposition de 4 heures. Le tableau suivant présente la CL50 de
+plusieurs types de dérivés cyanurés pour les poissons et leur toxicité.
+
+Catégorie
+
+Cyanures libres
+
+Dérivés cyanurés
+
+Toxicité
+
+CL50 en mg/L
+
+CN-
+
+≈ 0,1
+
+HCN
+
+de 0,05 à 0,18
+
+KCN(s), Ca(CN)2(s)
+
+de 0,03 à 0,70
+
+NaCN.2H2O(s)
+
+de 0,40 à 0,70
+
+Sources : d’après Australian Government, 2010
+et Note d’Analyse Association SystExt, Avril 2021
+
+5- Comparer la concentration en cyanures du déversement australien avec les
+CL50 de référence pour déterminer la gravité de cet accident sur la faune
+aquatique.
+Pour comprendre l’effet du cyanure sur les organismes aquatiques, on étudie sa
+toxicité sur la respiration cellulaire. On utilise pour cela la levure, organisme
+unicellulaire réalisant la respiration et facile à cultiver en milieu aquatique.
+Document 5 – Dispositif expérimental pour étudier la respiration des levures
+La respiration cellulaire permet aux levures de produire l’énergie dont elles ont
+besoin pour vivre, à partir du glucose et du dioxygène prélevé dans leur
+environnement.
+L’équation de la respiration cellulaire est :
+C/ H1. O/ (glucose) + 6 O. → 6 CO. + 6 H. O
+Il est possible de mesurer au cours du temps les concentrations en dioxygène et
+en dioxyde de carbone dans un milieu de culture contenant des levures et de
+l’eau. L’injection d’une solution choisie par l’expérimentateur peut être réalisée
+dans le milieu de culture.
+Le graphique suivant montre la concentration en dioxygène en fonction du temps
+dans une suspension de levures.
+
+6- Expliquer pourquoi le protocole ci-dessous ne permettrait pas de mettre en
+évidence l’effet du cyanure sur la respiration cellulaire des levures. Justifier votre
+réponse.
+Protocole :
+On réalise un enregistrement avec uniquement une injection de cyanure au
+bout de 300 secondes.
+7- Exploiter les résultats du document 5 pour conclure sur la toxicité du cyanure sur
+les êtres vivants aquatiques.
+
+Exercice 3 – Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge des dinosaures
+L’ensemble des données scientifiques établit que les premiers dinosaures sont
+apparus au début du Trias il y a environ 250 millions d’années. Leur expansion
+débute il y a environ 232 millions d'années. La branche des dinosaures excluant les
+oiseaux s’éteint lors de la crise Crétacé-Paléogène, il y a 65 millions d’années.
+Cet exercice propose de comparer des méthodes permettant de dater la période de
+vie des dinosaures.
+Document 1 – Cycle actuel du carbone 12 et du carbone 14
+
+Source : d’après https://futura-sciences.com
+
+Toute matière organique vivante (végétale ou animale) contient du 12C et du 14C.
+Dans les tissus organiques et le squelette, la proportion entre ces isotopes
+demeure la même tout au long de la vie de l'organisme, et est égale à leur
+proportion dans le CO2 atmosphérique et dans l’environnement. Connaissant cette
+proportion entre 14C et 12C dans l’environnement, on peut calculer la durée qui
+s'est écoulée depuis la mort de l'organisme qui a fixé le carbone jusqu’à
+aujourd’hui. Par conséquent, l'âge que l'on obtient avec la méthode du 14C,
+correspond à l'âge de la mort de l'organisme.
+Source : d’après http://www2.ggl.ulaval.ca/personnel/bourque/intro.pt/planete_terre.html
+
+1- Rappeler les principales caractéristiques de la radioactivité.
+
+Document 2 – Schéma simplifié des échanges de carbone dans un
+écosystème
+
+2- En vous appuyant sur les documents 1 et 2, expliquer pour quelle raison le
+carbone 14, bien que se désintégrant spontanément, reste à un taux quasi
+constant dans l’environnement.
+
+3- Expliquer pourquoi un organisme vivant possède un taux constant de carbone 14
+pendant toute sa vie.
+4- Parmi les équations suivantes, identifier en justifiant celle qui correspond à la
+désintégration d’un noyau de carbone 14.
+1/
+1.
+5O → /C + .He
+( *
+/C → 2N + *1e
+/
+.He + 4Be → /C
+
+5- Sur la figure du document A en annexe à rendre avec la copie, vérifier que
+valeur de la demi-vie du carbone 14 est de 5 750 ans. Faire apparaître la
+construction graphique utilisée et l’expliciter.
+6- Évaluer le nombre de noyaux de carbone 14 restant après 115 000 ans (soit 20
+fois la demi-vie), si le nombre de noyaux initial dans l’échantillon est de l’ordre du
+million. Commenter.
+Document 3 – Méthode de datation de la période de vie des dinosaures
+Les dinosaures sont apparus il y a 250 millions d’années et se sont éteints il y a 65
+millions d’années. Les traces de carbone 14 de cette époque ont complètement
+disparu.
+La plupart des chercheurs estiment qu’au-delà de 30 000 ans, il y a trop peu de
+carbone 14 restant pour permettre une datation précise. Il faut donc utiliser
+d’autres isotopes, ayant une demi-vie beaucoup plus longue.
+Dans le cas des dinosaures, on utilise les isotopes d’uranium 238, d’uranium 235
+et de potassium 40 qui possèdent des demi-vies supérieures au milliard d’années.
+Le problème est que les os et les fossiles ne contiennent pas ces isotopes
+contrairement aux roches et aux sédiments environnants.
+L’idée est donc la suivante : on utilise la radiométrie sur les sédiments entourant
+les fossiles pour les dater à l’aide d’un radio-isotope approprié (comme le
+potassium 40 par exemple) ce qui permet ensuite de donner une fourchette sur
+l’âge du fossile emprisonné dans ces sédiments.
+Source : d’après https://lasciencepourtous.cafesciences.org/articles/ladatationradiometriqueaucarbone-14/
+
+7- À partir du document 3, expliquer comment les scientifiques ont réussi à dater la
+période de vie des dinosaures.
+
+Document 4 – Le discours des créationnistes
+Certains groupes créationnistes exposent une théorie dans laquelle ils datent,
+grâce au carbone 14, les os de dinosaures. Ils déclarent avoir utilisé 8 spécimens
+de dinosaures. Leurs résultats indiquent un âge allant de 22 000 à 39 000 ans. Ils
+expliquent avoir été très rigoureux, en éliminant notamment la contamination par le
+carbone moderne en tant que source du signal 14C dans les os. Pour obtenir ces
+résultats, ils font l’hypothèse que le taux de carbone dans l’atmosphère, utilisé
+comme référence, serait bien plus faible que celui utilisé usuellement et défini par
+un consensus scientifique.
+
+8- Relever un élément critiquable dans le raisonnement des créationnistes.
+
+Document réponse à rendre avec la copie
+Exercice 3 – Question 5
+Document A : Courbe de décroissance radioactive du 14C

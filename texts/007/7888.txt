@@ -1,0 +1,123 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1064028, "at": "2026-11-23T09:34:03+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+EXERCICE 1
+NUMERISATION ET COMPRESSION D’UN SIGNAL SONORE
+À l’aide d’un microphone, on a enregistré le signal sonore produit par un diapason.
+Le début du signal analogique obtenu est représenté sur la Figure 1.
+Figure 1
+Le diapason
+
+1- Préciser si ce signal représente un son pur ou un son composé. Justifier.
+2- À l’aide d’un logiciel, on procède à la numérisation de ce signal.
+Le logiciel procède en deux étapes : l’échantillonnage du signal puis sa
+quantification.
+À l’issue de ces deux opérations, on obtient le signal ci-dessous (La Figure 2b
+représente le même signal que celui de la Figure 2a mais enregistré sur une durée
+plus courte).
+Figure 2a
+
+Figure 2b
+
+2-a- Rappeler en quoi consiste l’échantillonnage d’un signal sonore analogique.
+2-b- Déterminer, parmi les valeurs du tableau ci-dessous, la fréquence d’échantillonnage
+utilisée pour cet enregistrement. On justifiera en s’appuyant sur la figure 2-b.
+8 000 Hz
+16 000 Hz
+24 000 Hz
+32 000 Hz
+
+3- Le signal échantillonné a été quantifié sur 16 bits.
+3-a- Préciser le nombre de valeurs différentes que l’on peut coder avec une
+quantification sur 16 bits.
+3-b- Si la quantification était réalisée sur 8 bits au lieu de 16 bits, indiquer les
+différences à prévoir sur la qualité sonore et sur la taille du fichier de
+stockage.
+À l’aide d’un logiciel, on enregistre plusieurs morceaux de musique en qualité CD
+(« Compact Disc » en anglais ou disque compact), ce qui correspond à un
+enregistrement sur deux voix (stéréo) avec une fréquence d’échantillonnage de 44 100
+Hz et une quantification sur 16 bits
+4- Déterminer l’espace nécessaire, en Mégaoctet (Mo), pour stocker le fichier obtenu
+lors de l’enregistrement en qualité CD d’un morceau de musique d’une durée de 3
+minutes.
+5- Le format mp3 correspond à une compression avec perte d’informations. Préciser
+ce que cela signifie.
+
+6- L’enregistrement d’un second morceau de musique a généré un fichier numérique
+de 90,25 Mo de données. On l’enregistre au format mp3 pour le compresser.
+Le fichier mp3 ainsi obtenu a une taille de 7,22 Mo.
+Calculer le taux de compression, défini comme étant le quotient de la taille du
+fichier compressé par la taille du fichier initial.
+
+EXERCICE 2
+Les structures microscopiques de la silice et du silicium
+La silice est la forme naturelle du dioxyde de silicium (SiO 2) qui entre dans la
+composition de nombreux minéraux (quartz, etc.). La silice représente 60,6 % de la
+masse de la croûte terrestre continentale. De nombreuses roches sont constituées de
+silice (sable, grès, granite, etc.) et l'étude des différentes structures possibles permet
+d'en savoir plus sur les conditions de formation des roches.
+Le verre utilisé dans l’industrie est un solide non cristallin (amorphe), dur, fragile
+(cassant) et transparent. Sa composition chimique contient une part importante de
+silice.
+Partie A. La silice : une structure amorphe ou cristalline.
+Document 1. Deux structures en coupe de la silice
+
+d'après CHAGUETMI, Salem (2010) Élaboration et caractérisation de nouveaux verres de
+fluorohafnates de strontium et de phosphosulfates.Thèse, Université Mohamed Khider
+Biskra. http://thesis.univ-biskra.dz/1006/3/Chapitre%201.pdf
+
+1- La figure ci-dessus montre deux structures possibles de la silice. L’une est dite
+cristalline, l’autre amorphe (verre). Parmi les représentations a et b, laquelle
+correspond à une structure cristalline ? Justifier votre choix.
+
+À partir de deux échantillons identiques de silice liquide, on peut obtenir soit un
+verre, soit un cristal selon la vitesse de refroidissement.
+Document 2. Évolution du volume d’un échantillon de silice lors d’un changement
+d'état.
+
+2- Comparer qualitativement les volumes des deux échantillons obtenus (verre ou
+cristal) à la température de 1400 K.
+3- Proposer une explication à cette différence de volume en s’appuyant sur le
+document 1.
+Partie B. Étude de la maille cristalline du silicium
+On s’intéresse dans cette partie au silicium pur. On fait l'hypothèse que la structure
+cristalline du silicium est cubique à faces centrées, avec les caractéristiques
+suivantes :
+Rayon d'un atome de silicium : 𝑟 = 118 × 10−12 m
+Masse d'un atome de silicium : 𝑚 = 4,66 × 10−26 kg
+
+4- Le but de cette partie est de déterminer la masse volumique du silicium afin de
+valider ou d’invalider l’hypothèse formulée sur sa structure (cubique à faces centrées).
+Document 3. Coupe d’une maille selon le modèle cubique à faces centrées.
+
+La mesure 𝑎 correspond au paramètre de la maille et on suppose que les atomes de
+silicium sont sphériques et tangents. Le rayon d’un atome de silicium est noté r.
+4-a- À l’aide de la figure ci-dessus, démontrer que : 𝑎 = 2√2 𝑟 et calculer sa valeur.
+4-b- Représenter en perspective cavalière la maille cubique à faces centrées.
+4-c- On rappelle que, dans la structure cubique à faces centrées, une maille contient
+l’équivalent de 4 atomes de silicium. Calculer la masse volumique d’un cristal de
+silicium dans cette hypothèse.
+4-d- En réalité, la masse volumique du cristal de silicium est 2,33 g.cm -3. L’hypothèse
+de la structure cristalline cubique à faces centrées peut-elle être validée ?

@@ -1,0 +1,436 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1335271, "at": "2026-11-23T09:40:03+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+Un seul des réels suivants (écrits en base 10) n'a pas une écriture finie en base 2. Lequel ?
+1,25
+1,5
+1,6
+1,75
+Question A 2
+Sur une page web qui s’affiche sur notre navigateur on peut lire : « En consÃ©quence, l'AssemblÃ©e Nationale
+reconnaÃ®t et dÃ©clare, en prÃ©sence [...] »
+Quelle peut être la cause des affichages étranges de cette page ?
+l'encodage des caractères n'est pas celui attendu par le navigateur
+le texte original est en japonais
+la taille des caractères n'est pas celui attendu par le navigateur
+la connexion à Internet présente des coupures
+Question A 3
+On exécute le code suivant :
+a = 2
+b = 3
+c = a ** b
+d = c % b
+Quelle est la valeur de d à la fin de l'exécution ?
+Question A 4
+Voici les écritures binaires de quatre nombres entiers positifs.
+Lequel est pair ?
+10 0001
+10 0010
+11 0001
+11 1111
+Question A 5
+
+Quelle est l’écriture hexadécimale de l’entier dont la représentation en binaire non signé est 1100 0011 ?
+BB
+C3
+CB
+7610
+Question A 6
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+
+Thème B : types construits
+Question B 1
+On considère le code suivant :
+t = [0, 3, 5, 7, 9]
+t[9] = 3 + t[5]
+Que vaut t à la fin de son exécution ?
+[0, 3, 5, 7, 9]
+[0, 3, 5, 7, 9, 3]
+[0, 3, 5, 7, 9, 8]
+l'exécution déclenche une erreur
+Question B 2
+On construit une matrice par compréhension :
+M = [ [i*j for j in range(4)] for i in range(4) ]
+Laquelle des conditions suivantes est-elle vérifiée ?
+M[4][4] == 16
+M[0][1] == 1
+M[2][3] == 6
+M[1][2] == 3
+Question B 3
+On exécute le code suivant :
+t = [1,2,3,4,5,6,7,8,9]
+v = [c for c in t if c%3 == 0]
+Quelle est la valeur de la variable v à la fin de cette exécution ?
+[1,4,7]
+[3,6,9]
+[1,2,3,4,5,6,7,8,9]
+Question B 4
+On définit :
+tab = [ ('Léa', 14), ('Guillaume', 12), ('Anthony', 16), ('Anne', 15) ]
+Quelle est la valeur de l'expression [x[0] for x in tab if x[1]>=15] ?
+
+[('Anthony', 16), ('Anne', 15)]
+['Anthony', 'Anne']
+[16, 15]
+TypeError : 'tuple' object is not callable
+
+Question B 5
+On définit en Python la fonction suivante :
+def f(L):
+U = []
+for i in L:
+U.append(i**2 - 1)
+return U
+Que vaut f([-1, 0, 1, 2]) ?
+[0, 0, 1, 3]
+[-1, 0, 0, 3]
+[0, -1, 0, 3]
+[-3, -1, 1, 3]
+Question B 6
+On définit le dictionnaire suivant d = {'A': 3, 'B': 7, 'C': 2}. Quelle expression permet de récupérer la
+valeur de la clé 'B' ?
+d['B']
+d[1]
+d[7]
+d[B]
+
+Thème C : traitement de données en tables
+Question C 1
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+["112", "19", "27", "45", "8"]
+["8", "19", "27", "45", "112"]
+["8", "112", "19", "27", "45"]
+["19", "112", "27", "45", "8"]
+Question C 2
+Une table d’un fichier client contient le nom, le prénom et l’identifiant des clients sous la forme :
+clients = [ ("Dupont", "Paul", 1),
+("Durand", "Jacques", 2),
+("Dutronc", "Jean", 3),
+...]
+En supposant que plusieurs clients se prénomment Jean, que vaut la liste x après l’exécution du code suivant ?
+x = []
+for i in range(len(clients)):
+if clients[i][1] == "Jean":
+x = clients[i]
+Une liste de tuples des noms, prénoms et numéros de tous les clients prénommés Jean
+Une liste des numéros de tous les clients prénommés Jean
+Un tuple avec le nom, prénom et numéro du premier client prénommé Jean
+Un tuple avec le nom, prénom et numéro du dernier client prénommé Jean
+Question C 3
+On définit :
+T = [ {'fruit': 'banane', 'nombre': 25}, {'fruit': 'orange', 'nombre': 124},
+{'fruit': 'pomme', 'nombre': 75}, {'fruit': 'kiwi', 'nombre': 51}
+]
+Quelle expression a pour valeur le nombre de pommes ?
+T[2]['nombre']
+T[2,'nombre']
+T[3]['nombre']
+T[3,'nombre']
+Question C 4
+
+Laquelle de ces affirmations est vraie ?
+on peut ouvrir un fichier CSV à l'aide d'un tableur
+un fichier CSV permet de gérer l'apparence du code dans l'éditeur
+un fichier CSV permet de gérer l'apparence d'une page HTML
+un fichier CSV contient un programme à compiler
+Question C 5
+On considère l’extraction suivante d'une base de données des départements français. Cette extraction a
+ensuite été sauvegardée dans un fichier texte.
+"1","01","Ain","AIN","ain","A500"
+"2","02","Aisne","AISNE","aisne","A250"
+"3","03","Allier","ALLIER","allier","A460"
+"4","04","Alpes-de-Haute-Provence","ALPES-DE-HAUTE-PROVENCE","alpes-de-hauteprovence","A412316152"
+"5","05","Hautes-Alpes","HAUTES-ALPES","hautes-alpes","H32412"
+Quel est le format de ce fichier ?
+YML
+XML
+CSV
+JSON
+Question C 6
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Un internaute clique sur un lien qui envoie la requête HTTP suivante à un serveur :
+http://jaimelaneige.com/ma_planche/traitement.php?nom=Snow&prenom=Jon
+Quelle est l'adresse du serveur ?
+jaimelaneige
+jaimelaneige.com
+jaimelaneige.com/ma_planche
+jaimelaneige.com/ma_planche/traitement.php
+Question D 2
+Après avoir tenté d’accéder à un site, le navigateur affiche : 403 Forbidden.
+Cela signifie que :
+la connexion à Internet est défaillante
+le navigateur a refusé d'envoyer la requête
+le serveur a répondu par un code d'erreur
+le serveur n'a jamais répondu
+Question D 3
+Quelle méthode est utilisée via une requête HTTP pour envoyer une image via un formulaire HTML ?
+HEAD
+PUT
+POST
+GET
+Question D 4
+Que peut-on affirmer au sujet des formulaires de pages Web ?
+les variables d'une requête POST sont affichées dans l'URL
+une requête GET peut être utilisée pour transmettre des données sensibles
+une requête GET peut transmettre de grandes quantités de données
+une requête POST peut utiliser des données de façon plus sécurisées
+Question D 5
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+Question D 6
+Quelle est la fonction principale d’un fichier CSS ?
+Définir le style d’une page web
+Assurer l’interaction entre une page web et l’utilisateur
+Créer une page web dynamique
+Créer un bouton dans une page web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Que permet d’effectuer la commande mkdir dans le shell d'Unix (interpréteur de commandes) ?
+créer un répertoire vide
+créer un fichier vide
+supprimer un répertoire cible
+supprimer un fichier cible
+Question E 2
+Quel matériel permet d'interconnecter des réseaux entre eux :
+un routeur
+un commutateur (ou switch)
+un interconnecteur
+un serveur
+Question E 3
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+Question E 4
+Laquelle de ces adresses IP v4 n'est pas valide ?
+201.201.123.147
+168.124.211.12
+10.19.9.1
+192.168.123.267
+Question E 5
+Dans un terminal, on exécute la suite de commandes système suivante :
+cd ~
+cd seances/tp
+mv exercice.txt
+
+./../../exercice.txt
+
+Où se trouve finalement placé le fichier exercice.txt ?
+dans le répertoire ~/seance/tp
+dans le répertoire ~/seance
+
+dans le répertoire ~
+dans le répertoire /home
+
+Question E 6
+Quelle commande permet de connaître le répertoire courant ?
+cd
+ls
+pwd
+chmod
+
+Thème F : langages et programmation
+Question F 1
+On définit deux fonctions :
+def f(x):
+y = 2*x + 1
+return y
+def calcul(x):
+y = x - 1
+return f(y)
+Quelle est la valeur renvoyée par l'appel calcul(5) ?
+Question F 2
+On souhaite échanger les contenus de deux variables entières a et b sans utiliser de variable auxiliaire en
+écrivant le code suivant :
+a = a - b
+b = a + b
+a = ......
+Que peut-on écrire à la place des pointillés pour réaliser cet échange ?
+a - b
+a + b
+b - a
+- a - b
+Question F 3
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......):
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+
+# à compléter
+
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F 4
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+Question F 5
+On définit la fonction suivante :
+def f(x,y,z):
+if x+y == z:
+return True
+else:
+return False
+Quel type de paramètres est-il déconseillé d'utiliser avec cette fonction ?
+les entiers
+les chaînes de caractères
+les flottants
+les tableaux
+Question F 6
+𝑛 étant un entier strictement positif, la fonction suivante calcule sa factorielle, c'est-à-dire le produit
+1 × 2 × 3 × ⋯ × (𝑛 − 1) × 𝑛. Comment faut-il écrire la ligne en pointillés ci-dessous pour ce faire ?
+def factorielle(n):
+f = 1
+.........
+f = f * i
+return f
+
+for i in range(1,n):
+for i in range(n+1):
+for i in range(0,n):
+for i in range(1,n+1):
+
+Thème G : algorithmique
+Question G 1
+Soit L une liste de 𝑛 nombres réels (𝑛 entier naturel non nul). On considère l'algorithme suivant, en langage
+Python, calculant la moyenne des éléments de L.
+M = 0
+for k in range(n):
+M = M + L[k]
+M = M/n
+Si le nombre 𝑛 de données double alors le temps d'exécution de ce script :
+reste le même
+double aussi
+est multiplié par 𝑛
+est multiplié par 4
+Question G 2
+On dispose d’un distributeur de boissons qui rend la monnaie uniquement en pièces de 1 centime, 10
+centimes, 50 centimes et 1 euro. On veut que le distributeur rende le moins de pièces possibles pour une
+somme donnée.
+On commence par rendre le plus de pièces possibles de 1 euro (sans dépasser la somme à rendre), puis le plus
+possible de pièces de 50 centimes, etc.
+Par exemple, s’il faut rendre 3 euros et 25 centimes, on doit rendre 3 pièces de 1 euro (il reste alors 25
+centimes à rendre), puis 2 pièces de 10 centimes et enfin 5 pièces de 1 centime.
+Comment s’appelle le type d’algorithme décrit pour rendre la monnaie ?
+Un algorithme de type « diviser pour régner »
+Un algorithme de tri
+Un algorithme de type « glouton »
+Un algorithme probabiliste
+Question G 3
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+else:
+i = k + 1
+return i
+Cette fonction implémente :
+
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+
+Question G 4
+Un algorithme de recherche dichotomique dans une liste triée de taille 𝑛 nécessite, dans le pire des cas,
+exactement 𝑘 comparaisons.
+Combien cet algorithme va-t-il utiliser, dans le pire des cas, de comparaisons sur une liste de taille 2𝑛 ?
+𝑘
+𝑘+1
+2𝑘
+2𝑘 + 1
+Question G 5
+On considère la fonction suivante :
+def comptage(phrase,lettre):
+i = 0
+for j in phrase:
+if j == lettre:
+i = i+1
+return i
+Que renvoie l'appel comptage("Vive l’informatique","e") ?
+'e'
+Question G 6
+Lors de l'exécution du code suivant, combien de fois l'opération a = 2*a sera-t-elle effectuée ?
+a = 1
+cpt = 1
+while cpt < 8:
+a = 2*a
+cpt = cpt+1

@@ -1,0 +1,437 @@
+{"pages": 18, "method": "pdftotext", "bytes": 1162610, "at": "2026-11-23T09:40:27+00:00"}
+Évaluation
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 18
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Le candidat gagne 1 point pour la réponse correcte et obtient un résultat nul pour une
+réponse fausse, une absence de réponse ou une réponse multiple.
+Le résultat obtenu est transformé en note sur 20 selon la formule : nombre de points
+obtenus x 20/42.
+Le candidat indique ses réponses aux questions en pages 3 et 4.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A 1
+À quoi sert le codage en complément à 2 ?
+à inverser un nombre binaire
+à coder des nombres entiers négatifs en binaire
+à convertir un nombre en hexadécimal
+à multiplier par 2 un nombre en binaire
+Question A 2
+Olivier visite son site préféré pour relire le programme de NSI.
+Il devrait lire le texte ci-dessous :
+L’enseignement de spécialité de numérique et sciences informatiques du cycle terminal de la voie
+générale vise l’appropriation des fondements de l’informatique pour préparer les élèves à une
+poursuite d’études dans l’enseignement supérieur, en les formant à la pratique d’une démarche
+scientifique et en développant leur appétence pour des activités de recherche.
+Le paramétrage de son navigateur lui donne l’affichage ci-dessous :
+Lâ€™enseignement de spÃ©cialitÃ© de numÃ©rique et sciences informatiques du cycle terminal
+de la voie gÃ©nÃ©rale vise lâ€™appropriation des fondements de lâ€™informatique pour
+prÃ©parer les Ã©lÃ¨ves Ã une poursuite dâ€™Ã©tudes dans lâ€™enseignement supÃ©rieur, en
+les formant Ã la pratique dâ€™une dÃ©marche scientifique et en dÃ©veloppant leur
+appÃ©tence pour des activitÃ©s de recherche.
+Quel type d’encodage Olivier doit-il choisir dans les paramètres de son navigateur pour afficher correctement
+le texte ?
+ANSI
+LATIN-1
+UTF-8
+ASCII
+Question A 3
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A 4
+
+Quelle est l'écriture binaire de 199 ?
+1111 1001
+1100 0111
+1100 1110
+0111 0111
+Question A 5
+Quelle est la représentation en base 2 du nombre représenté dans la base 16 par A6B ?
+2667
+10101101011
+101001101011
+110100110101
+Question A 6
+Sachant que l'expression not(a or b) a la valeur True, quelles peuvent être les valeurs des variables
+booléennes a et b ?
+True et True
+False et True
+True et False
+False et False
+
+Thème B : types construits
+Question B 1
+On dispose du dictionnaire regions ci-dessous :
+regions = {
+
+'Mayotte': 376, 'Pays de la Loire': 32082,
+'La Réunion': 2504, 'Grand Est': 57441,
+'Martinique': 1128, 'Corse': 8680,
+'Bretagne': 27208, 'Nouvelle-Aquitaine': 84036
+
+Parmi les instructions suivantes, laquelle permet d'ajouter une nouvelle région ?
+INSERT "'Hauts de France':31806" INTO regions
+regions = dict(['Hauts de France'] = 31806)
+regions('Hauts de France') = 31806
+regions['Hauts de France'] = 31806
+Question B 2
+On dispose d'une table tab constituée d'une liste de trois sous-listes contenant chacune quatre caractères.
+tab = [ ['A', 'B', 'C', 'D'],
+['E', 'F', 'G', 'H'],
+['I', 'J', 'K', 'L'] ]
+Parmi les propositions suivantes, laquelle permet de convertir cette table en une liste L contenant dans l'ordre,
+ligne par ligne, les 12 caractères de tab ?
+# à la fin, on doit passer l’assertion :
+assert L == [ 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L' ]
+for i in range(3):
+for j in range(4):
+L.append(tab[i][j])
+
+for j in range(3):
+L.append(tab[i][j])
+
+for i in range(3):
+L.append(tab[i])
+
+L.append(tab[i])
+
+Question B 3
+
+Quelle instruction permet d’affecter la liste [0,1,4,9,16] à la variable tableau ?
+tableau = [ i**2 for i in range(4) ]
+tableau = [ i**2 for i in range(5) ]
+tableau = [ i**2 for i in range(16) ]
+tableau = [ i**2 for i in range(17) ]
+Question B 4
+Soit une liste définie de la manière suivante : liste = [18, 23, 45, 38, 12]
+On exécute l’instruction liste.append(45), la liste a alors pour valeur :
+[18, 23, 38, 12, 45]
+[18, 23, 38, 12]
+[45, 18, 23, 45, 38, 12]
+[18, 23, 45, 38, 12, 45]
+Question B 5
+Quel est le type de la variable billes définie par :
+billes = {'vert': 6, 'rouge': 15, 'bleu': 11, 'jaune': 2, 'orange': 17 }
+c'est une séquence
+c'est une liste
+c'est une liste de listes
+c'est un dictionnaire
+Question B 6
+On définit ainsi une liste M :
+M = [['A','B','C','D'], ['E','F','G','H'], ['I','J','K','L']]
+Quelle expression vaut la chaîne de caractères 'H' ?
+M[1][3]
+M[3][1]
+M(7)
+M(8)
+
+Thème C : traitement de données en tables
+Question C 1
+On exécute le code suivant :
+a = [5, 4, 3, 4, 7]
+a.append(4)
+Quelle est la valeur de la variable a à la fin de cette exécution ?
+[4, 4]
+[5, 4, 3, 4, 7, 4]
+True
+Question C 2
+On définit la variable suivante : lettres = {"a": 1, "b": 2, "c": 3}.
+Quelle est la valeur de l'expression list(lettres.keys()) ?
+[a,b,c]
+[1,2,3]
+["a","b","c"]
+{"a": 1, "b": 2, "c": 3}
+Question C 3
+Parmi les extensions suivantes, laquelle caractérise un fichier contenant des données que l'on peut associer à
+un tableau de pixels ?
+pdf
+xls
+png
+exe
+Question C 4
+Les données clients d’une entreprise sont stockées dans un fichier csv. Afin de les importer, on effectue une
+lecture séquentielle de ce fichier ligne par ligne. On affecte à la variable ligne le contenu d’une ligne de ce
+fichier. La fonction split() découpe un str en utilisant un motif de séparation, et produit une liste de str.
+La variable c est alors définie ainsi :
+ligne = "dupont;arnaud;245862;france"
+c = ligne.split(';')
+Que contient cette variable c ?
+"dupontarnaud245862france"
+["dupont", "arnaud", "245862", "france"]
+"dupont"
+Question C 5
+
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C 6
+Laquelle de ces affirmations est vraie ?
+on ne peut accéder au contenu d'un fichier CSV que par l'intermédiaire d'un programme Python
+CSV est un format de chiffrement des données
+le format CSV a été conçu pour assurer la confidentialité d'une partie du code d'un programme
+les fichiers CSV sont composés de données séparées par des caractères comme des virgules
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D 1
+Quel est le nom d'un protocole qui permet à un client de faire une requête de page Web auprès d'un serveur ?
+WWW
+FTP
+HTTP
+DNS
+Question D 2
+Un élève a écrit une fonction Javascript qui détermine la moyenne des valeurs entrées par l'utilisateur dans un
+formulaire de sa page HTML.
+Il place sa fonction Javascript :
+entre la balise <js> et la balise </js>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+entre la balise <javascript> et la balise </javascript>
+Question D 3
+Mehdi a écrit une page HTML contenant des éléments input de formulaire.
+Il place ces éléments de formulaire :
+entre la balise <form> et la balise </form>
+entre la balise <formulary> et la balise </formulary>
+entre la balise <code> et la balise </code>
+entre la balise <script> et la balise </script>
+Question D 4
+Quelle balise HTML permet de créer des liens hypertextes entre pages ?
+<r>
+<l>
+<link>
+<a>
+Question D 5
+
+Voici un extrait d'une page HTML :
+<script>
+function sommeNombres(formulaire) {
+var somme = formulaire.n1.value + formulaire.n2.value;
+console.log(somme);
+</script>
+<form>
+Nombre 1 : <input name="n1" value="30"> <br>
+Nombre 2 : <input name="n2" value="10"> <br>
+<input type="button" value="Somme" onclick="sommeNombres(this.form)">
+</form>
+Quand l'utilisateur clique sur le bouton Somme, le calcul de la fonction sommeNombres() se fait :
+uniquement dans le navigateur
+uniquement sur le serveur qui héberge la page
+à la fois dans le navigateur et sur le serveur
+si le calcul est complexe, le navigateur demande au serveur de faire le calcul
+Question D 6
+Dans une page HTML, lequel de ces codes permet la présence d'un bouton qui appelle la fonction javascript
+afficher_reponse() lorsque l'utilisateur clique dessus ?
+<a href="afficher_reponse()">Cliquez ici</a>
+<button if_clicked="afficher_reponse()">Cliquez ici</button>
+<button value="Cliquez ici"><a> afficher_reponse()</a></button>
+<button onclick="afficher_reponse()">Cliquez ici</button>
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E 1
+Laquelle des mémoires suivantes est volatile ?
+RAM
+disque dur
+ROM
+clef USB
+Question E 2
+Dans un établissement scolaire, tous les ordinateurs sont reliés au réseau local par l'intermédiaire de câbles
+Ethernet ; il n'existe pas de liaisons sans fil. Dans chaque salle d'ordinateurs, les machines sont reliées à un
+commutateur. Chaque commutateur est relié par un câble jusqu'à la salle où se situe le serveur contrôleur de
+domaine et la passerelle internet (routeur).
+En début de séance, aucune personne de votre classe n'arrive à se connecter. Le même message d'erreur
+s'affiche « Aucun serveur d'authentification n'est joignable sur le réseau. » Parmi ces quatre propositions,
+laquelle est la plus vraisemblable ?
+Un de vos camarades a débranché accidentellement le câble Ethernet de votre machine.
+Le câble qui relie le serveur et la passerelle a été débranché.
+Le commutateur de la salle est indisponible (il a été débranché ou est en panne).
+La passerelle internet de l'établissement est indisponible (elle a été débranchée ou est en panne).
+Question E 3
+Parmi les dispositifs d’entrée et de sortie suivants, lequel est uniquement un capteur ?
+la diode
+l'écran tactile
+le thermomètre
+le moteur pas à pas
+Question E 4
+Quelle est l’utilité de la commande ping dans un réseau informatique ?
+établir un réseau privé virtuel
+tester si la connexion peut être établie avec une machine distante
+obtenir la route suivie par un paquet dans le réseau
+mesurer les performances d'une machine distante
+Question E 5
+Par quelle ligne de commande peut-on créer, sous le système d’exploitation Linux, le répertoire nommé : JAVA
+?
+
+mk JAVA
+mk -dir JAVA
+mkdir JAVA
+mk dir JAVA
+Question E 6
+Laquelle de ces adresses IP v4 n'est pas valide ?
+201.201.123.147
+168.124.211.12
+10.19.9.1
+192.168.123.267
+
+Thème F : langages et programmation
+Question F 1
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+n = n + 2
+Question F 2
+On définit la fonction suivante :
+def rey(n):
+i = 1
+while i <= n:
+i = 2*i
+return i
+Quelle valeur renvoie l'appel rey(100) ?
+Question F 3
+On considère le code suivant :
+if x < 4:
+x = x + 3
+else:
+x = x - 3
+Quelle construction élémentaire peut-on identifier ?
+une boucle non bornée
+une structure conditionnelle
+une boucle bornée
+un appel de fonction
+Question F 4
+
+La documentation de la bibliothèque random de Python précise que
+random.randint(a,b) renvoie un entier aléatoire N tel que a ≤ N ≤ b.
+Afin d’obtenir un entier choisi aléatoirement dans l’ensemble {-4 ; -2 ; 0 ; 2 ; 4}, après avoir importé la librairie
+random de Python, on peut utiliser l’instruction :
+random.randint(0,8)/2
+random.randint(0,8)/2 - 4
+random.randint(0,4)*2 - 2
+(random.randint(0,4) - 2) * 2
+Question F 5
+Dans le programme JavaScript suivant, quelle est la notation qui délimite le bloc d’instructions exécuté à
+chaque passage dans la boucle while ?
+i = 0
+while (i < 10) {
+alert(i)
+i = i + 1
+alert("Fin")
+le fait que les instructions soient encadrées entre { et }
+le fait que les instructions soient indentées de 4 caractères comme en Python
+le fait que les instructions suivent le mot clé while
+le fait que les instructions suivent la parenthèse )
+Question F 6
+Quelle est la valeur de la variable b à la fin de l'exécution du script suivant ?
+a = 2
+b = 5
+if a > 8:
+b = 10
+elif a > 6:
+b = 3
+
+Thème G : algorithmique
+Question G 1
+Sur quel algorithme est basé le script python, la liste lst est triée :
+def truc(lst: list, x) -> int:
+deb = 0
+fin = len(lst) - 1
+ok = False
+while ok == False and deb <= fin:
+m = (deb+fin)//2
+if lst[m] == x:
+ok = True
+elif lst[m] < x:
+deb = m + 1
+else:
+fin = m -1
+return ok
+k plus proche voisin
+tri pas insertion
+dichotomie
+glouton
+Question G 2
+On exécute le script suivant :
+liste=[48, 17, 25 , 9, 34, 12, -5, 89, 54, 12, 78, 8, 155, -85]
+def recherche(liste):
+valeur_1 = liste[0]
+valeur_2 = liste[0]
+for item in liste:
+if item < valeur_1:
+valeur_1 = item
+elif item > valeur_2:
+valeur_2 = item
+return(valeur_1, valeur_2)
+Que va renvoyer l'appel recherche(liste) ?
+(-85,155)
+[-85,155]
+(155,-85)
+[155,-85]
+Question G 3
+Quel est le coût d'un algorithme de tri par insertion ?
+
+constant
+logarithmique
+linéaire
+quadratique
+Question G 4
+Soit 𝑇 le temps nécessaire pour trier, à l'aide de l'algorithme du tri par insertion, une liste de 1000 nombres
+entiers. Quel est l'ordre de grandeur du temps nécessaire, avec le même algorithme, pour trier une liste de
+10 000 entiers, c'est-à-dire une liste dix fois plus grande ?
+à peu près le même temps 𝑇
+environ 10 × 𝑇
+environ 100 × 𝑇
+environ 𝑇
+Question G 5
+Quelle valeur permet de compléter l’affirmation suivante : « Le nombre d’opérations nécessaires pour
+rechercher un élément séquentiellement dans une liste de longueur 𝑛 est de l’ordre de … » ?
+Question G 6
+On définit la fonction suivante :
+def traitement(liste) :
+m = liste[0]
+for i in range (len(liste)) :
+if liste[i] > m:
+m = liste[i]
+return m
+Que vaut traitement([-2,5,6,-10,35]) ?
+None
+-10
+-6

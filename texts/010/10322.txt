@@ -1,0 +1,438 @@
+{"pages": 19, "method": "pdftotext", "bytes": 1933543, "at": "2026-11-23T09:43:52+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : spécialité Numérique et Sciences Informatiques (NSI)
+DURÉE DE L’ÉPREUVE : 02 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☐Oui ☒ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 19
+
+L'épreuve consiste en 42 questions, rangées en 7 thèmes.
+Pour chaque question, le candidat gagne 3 points s'il choisit la bonne réponse, perd 1 point
+s'il choisit une réponse fausse. S'il ne répond pas ou choisit plusieurs réponses, il ne gagne ni
+ne perd aucun point.
+Le total sur chacun des 7 thèmes est ramené à 0 s'il est négatif.
+La note finale s'obtient en divisant le total des points par 6,3 et en arrondissant à l'entier
+supérieur.
+Le candidat indique ses réponses aux questions en pages 2 et 3.
+Seules les pages 1 à 4 sont rendues par le candidat à la fin de l'épreuve, pour être
+numérisées.
+Les questions figurent sur les pages suivantes.
+
+Thème A : types de base
+
+Thème B : types construits
+
+Thème C : traitement de données en tables
+
+Thème D : interactions entre l'homme et la machine sur le Web
+
+Thème E : architectures matérielles et systèmes d'exploitation
+
+Thème F : langages et programmation
+
+Thème G : algorithmique
+
+Thème A : types de base
+Question A.1
+Quelle est l'écriture décimale du nombre qui s'écrit 11,0101 en binaire ?
+3,0101
+3,05
+3,3125
+Question A.2
+Quelle est la représentation hexadécimale de l'entier qui s'écrit 106 en base 10 ?
+6A
+A6
+Question A.3
+Que peut-on dire du programme Python suivant de calcul sur les nombres flottants ?
+x = 1.0
+while x != 0.0:
+x = x - 0.1
+l'exécution peut ne pas s'arrêter, si la variable x n'est jamais exactement égale à 0.0
+à la fin de l'exécution, x vaut – 0.00001
+à la fin de l'exécution, x vaut 0.00001
+l'exécution s'arrête sur une erreur FloatingPointError
+Question A.4
+Quel est un avantage du codage UTF8 par rapport au codage ASCII ?
+il permet de coder un caractère sur un octet au lieu de deux
+il permet de coder les majuscules
+il permet de coder tous les caractères
+il permet de coder différentes polices de caractères
+Question A.5
+Combien de nombres entiers positifs peut-on coder en binaire sur 4 bits ?
+
+Question A.6
+Quelle est la séquence de bit qui représente –25 en complément à 2 sur 8 bits ?
+0001 1001
+0001 1010
+1110 0110
+1110 0111
+
+Thème B : types construits
+Question B.1
+Quelle est la valeur de l'expression [2**i for i in range(5)] ?
+[0,1,4,9,16]
+[1,4,9,16,25]
+[0,2,4,6,8]
+[1,2,4,8,16]
+Question B.2
+On définit ainsi le tableau t = [[1,5,7], [8,4,2], [3,9,6]]
+Quel jeu d'indices permet d'obtenir l'élément "9" de ce tableau ?
+t[3][2]
+t[2][3]
+t[1][2]
+t[2][1]
+Question B.3
+On définit ainsi une liste M :
+M = [['A','B','C','D'], ['E','F','G','H'], ['I','J','K','L']]
+Quelle expression vaut la chaîne de caractères 'H' ?
+M[1][3]
+M[3][1]
+M(7)
+M(8)
+Question B.4
+On définit le dictionnaire d = {'a': 1, 'b': 2, 'c': 3, 'z': 26}. Quelle expression permet de
+récupérer la valeur de la clé 'z' ?
+d[4]
+d[26]
+d[z]
+d['z']
+
+Question B.5
+Quelle expression a pour valeur la liste [7,14,21,28,35,42,49,56,63] ?
+[7*k for k in range(9)]
+[7*k for k in range(1,10)]
+[7*k for k in range(10)]
+[[7*k for k in range(1,9)]
+
+Question B.6
+On exécute l'instruction suivante :
+T = [ [12,13,14,15],
+[24,25,26,27],
+[35,36,49,33],
+[61,53,55,58] ]
+Quelle expression parmi les quatre suivantes a pour valeur 26 ?
+T[1][2]
+T[2][1]
+T[2][3]
+T[3][2]
+
+Thème C : traitement de données en tables
+Question C.1
+Quelle expression Python permet d’accéder au numéro de téléphone de Tournesol, sachant que le répertoire a
+été défini par l’affectation suivante :
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol',
+'tel':'5248'},
+'tel':'3452'}]
+
+{'nom':'Dupond',
+
+repertoire['Tournesol']
+repertoire['tel'][1]
+repertoire[1]['tel']
+repertoire['Tournesol'][tel]
+Question C.2
+Par quelle expression remplacer les pointillés dans le programme Python suivant, pour que son exécution affiche
+le numéro de Dupond ?
+repertoire = [ {'nom':'Dupont', 'tel':'5234'},
+{'nom':'Tournesol', 'tel':'5248'}, {'nom':'Dupond',
+'tel':'3452'}]
+for i in range(len(repertoire)):
+if ......
+:
+print(repertoire[i]['tel'])
+nom == 'Dupond'
+repertoire['nom'] == 'Dupond'
+repertoire[i] == 'Dupond'
+repertoire[i]['nom'] == 'Dupond'
+Question C.3
+Laquelle de ces listes de chaînes de caractères est triée en ordre croissant ?
+['Chat', 'Chien', 'Cheval', 'Cochon']
+['Chat', 'Cheval', 'Chien', 'Cochon']
+['Chien', 'Cheval', 'Cochon', 'Chat']
+['Cochon', 'Chien', 'Cheval', 'Chat']
+Question C.4
+Qu'est-ce que le CSV ?
+Un langage de programmation
+Un format de fichier permettant de stocker de l’information
+Un algorithme permettant de rechercher une information dans un fichier
+Un format de fichier permettant de définir le style d’une page web
+
+Question C.5
+On considère le code suivant :
+def clearfield(f):
+for i in range(len(f)):
+fiche[i]['code'] = None
+return f
+fiche = [ {"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}
+
+]
+
+Que renvoie clearfield(fiche) ?
+[{"nom": "pierre", "note": 5.99, "code": 125},
+{"nom": "pol", "note": 2.99, "code": 82},
+{"nom": "jack", "note": 7.99, "code": 135}]
+
+[{"nom": "pierre", "note": None, "code": 125},
+{"nom": "pol", "note": None, "code": 82},
+{"nom": "jack", "note": None, "code": 135}]
+
+[{"nom": "pierre", "note": 5.99, "None": 125},
+{"nom": "pol", "note": 2.99, "None": 82},
+{"nom": "jack", "note": 7.99, "None": 135}]
+
+[{"nom": "pierre", "note": 5.99, "code": None},
+{"nom": "pol", "note": 2.99, "code": None},
+{"nom": "jack", "note": 7.99, "code": None}]
+
+Question C.6
+Dans la plupart des fichiers CSV, que contient la première ligne ?
+des notes concernant la table de données
+les sources des données
+les descripteurs des champs de la table de données
+l'auteur de la table de données
+
+Thème D : interactions entre l'homme et la machine sur le Web
+Question D.1
+Quel code d'erreur renvoie un serveur Web, lorsque la ressource demandée par une requête n'existe pas ?
+Question D.2
+Quelle méthode d’envoi des paramètres est-il préférable d’utiliser, pour un formulaire d’une page web, destiné
+à demander à l’utilisateur un mot de passe pour se connecter (le protocole utilisé est HTTPS) ?
+la méthode PASSWORD
+la méthode CRYPT
+la méthode GET
+la méthode POST
+Question D.3
+Quel est le code HTML correct pour créer un hyperlien vers le site Eduscol ?
+<a url="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a name="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a href="https://www.eduscol.education.fr/"> site Eduscol </a>
+<a> https://www.eduscol.education.fr/ </a> site Eduscol
+Question D.4
+En HTML, qu'est-ce que la balise <a> ?
+Une balise de formulaire
+Une balise d'en-tête
+Une balise de lien ou d'ancre
+Une balise de tableau
+
+Question D.5
+Un fichier HTML contient la ligne suivante.
+<p>Coucou ! Ca va?</p>
+Quelle commande CSS écrire pour que le texte apparaisse en rose sur fond jaune ?
+p { couleur: rose ; fond: jaune;}
+<p> { color = pink background-color = yellow}
+<p> { color = pink ; background-color: yellow} </p>
+p { color: pink ; background-color: yellow ;}
+
+Question D.6
+On considère cet extrait de fichier HTML représentant les onglets d'une barre de navigation :
+<ul id="tab-nav">
+<li><a href="onglet1.html" class="tab-nav-active">Onglet 1</a></li>
+<li><a href="onglet2.html">Onglet 2</a></li>
+<li><a href="onglet3.html">Onglet 3</a></li>
+</ul>
+Quel code CSS permet de mettre en bleu la couleur de fond des onglets et uniquement eux ?
+tab-nav a { background-color : blue; }
+tab-nav, a { background-color : blue; }
+#tab-nav a { background-color : blue; }
+#tab-nav, a { background-color : blue; }
+
+Thème E : architectures matérielles et systèmes d'exploitation
+Question E.1
+Quel est l’effet de la commande shell suivante ?
+% cd ..
+éjecter le CD
+copier le contenu du répertoire courant dans un répertoire caché
+changer le répertoire courant vers le répertoire supérieur
+supprimer le répertoire courant
+Question E.2
+Sous Unix, que fait la commande suivante :
+ls –a /home/pi >> toto.txt
+elle liste uniquement les répertoires cachés du répertoire /home/pi
+elle liste tous les fichiers du répertoire /home/pi et enregistre le résultat dans un fichier toto.txt
+elle liste tous les fichiers des répertoires de /home/pi et de toto.txt
+elle liste tous les fichiers du répertoire courant et enregistre le résultat dans un fichier
+/home/pi/toto.txt
+Question E.3
+Dans un terminal, on exécute la suite de commandes système suivante :
+cd ~
+cd seances/tp
+mv exercice.txt
+
+./../../exercice.txt
+
+Où se trouve finalement placé le fichier exercice.txt ?
+dans le répertoire ~/seance/tp
+dans le répertoire ~/seance
+dans le répertoire ~
+dans le répertoire /home
+Question E.4
+Dans un terminal sous Linux, quelle commande permet d'afficher la liste des fichiers du répertoire courant ?
+ls
+cd
+mv
+rm
+
+Question E.5
+Parmi les dispositifs d’entrée et de sortie suivants, lequel est uniquement un capteur ?
+la diode
+l'écran tactile
+le thermomètre
+le moteur pas à pas
+Question E.6
+Comment s'appelle l'ensemble des règles qui régissent les échanges sur Internet ?
+les couches
+le wifi
+les protocoles
+les commutateurs
+
+Thème F : langages et programmation
+Question F.1
+Quelle est la valeur de la variable n à la fin de l'exécution du script ci-dessous ?
+n = 1
+for i in range(4):
+n = n + 2
+Question F.2
+La fonction maximum codée ci-dessous en Python doit renvoyer la plus grande valeur contenue dans le tableau
+d'entiers passé en argument.
+def maximum(tableau):
+tmp = tableau[0]
+for i in range(......): # à compléter
+if tableau[i] > tmp:
+tmp = tableau[i]
+return tmp
+Quelle expression faut-il écrire à la place des pointillés ?
+len(tableau) - 1
+1,len(tableau) - 1
+1,len(tableau)
+1,len(tableau) + 1
+Question F.3
+On exécute le script suivant :
+tableau1 = [1, 2, 3]
+tableau2 = [4, 5, 6]
+long = len(tableau1 + tableau2)
+Quelle est la valeur de la variable long à la fin de cette exécution ?
+rien, car le code engendre une erreur
+
+Question F.4
+Quel est le seul langage de programmation parmi les propositions suivantes ?
+HTML
+CSS
+C++
+WEB
+Question F.5
+On exécute le code suivant :
+def essai():
+a = 2
+b = 3
+c = 4
+return a
+return b
+return c
+t = essai()
+Quelle est la valeur de t après l'exécution de ce code ?
+(2,3,4)
+Question F.6
+Soit T un tableau de flottants, a et b deux entiers. On considère une fonction nommée somme renvoyant la
+somme des éléments du tableau d'indice compris entre a et b définie par :
+def somme(T, a, b):
+S = 0
+for i in range(a, b+1) :
+S = S + T[i]
+return S
+Quel ensemble de préconditions doit-on prévoir pour cette fonction ?
+a<b
+a < longueur(T) et b < longueur(T)
+a <= b < longueur(T)
+a <= b < longueur(T) et T est un tableau trié
+
+Thème G : algorithmique
+Question G.1
+La fonction ci-dessous permet d’effectuer une recherche par dichotomie de l’index m de l’élément x dans un
+tableau L de valeurs distinctes et triées.
+def dicho(x,L):
+g = 0
+d = len(L)-1
+while g <= d:
+m = (g+d)//2
+if L[m] == x:
+return m
+elif L[m] < x:
+g = m+1
+else:
+d = m-1
+return None
+Que renvoie l'appel dicho(32, [4, 5, 7, 25, 32, 50, 51, 60] ?
+None
+True
+Question G.2
+Quelle est la valeur de element à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+element = L[0]
+for k in L:
+if k > element:
+element = k
+
+Question G.3
+On considère la fonction suivante :
+def f(x,L):
+i = 0
+j = len(L)-1
+while i<j:
+k = (i+j)//2
+if x <= L[k]:
+j = k
+else:
+i = k + 1
+return i
+Cette fonction implémente :
+le tri par insertion
+le tri par sélection
+la recherche dichotomique
+la recherche du plus proche voisin
+Question G.4
+À quelle catégorie appartient l’algorithme classique de rendu de monnaie ?
+les algorithmes de classification et d'apprentissage
+les algorithmes de tri
+les algorithmes gloutons
+les algorithmes de mariages stables
+Question G.5
+La fonction mystere suivante prend en argument un tableau d'entiers.
+def mystere(t):
+for i in range(len(t) - 1):
+if t[i] + 1 != t[i+1]:
+return False
+return True
+À quelle condition la valeur renvoyée par la fonction est-elle True ?
+si le tableau passé en argument est une suite d'entiers consécutifs
+si le tableau passé en argument est trié en ordre croissant
+si le tableau passé en argument est trié en ordre décroissant
+si le tableau passé en argument contient des entiers tous identiques
+
+Question G.6
+Quelle est la valeur de X/m à la fin de l'exécution du code suivant :
+L = [1,2,3,4,1,2,3,4,0,2]
+X = 0
+m = 0
+for k in L:
+X = X + k
+m = m + 1
+2.2

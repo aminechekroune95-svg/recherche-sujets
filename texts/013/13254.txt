@@ -1,0 +1,183 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1502867, "at": "2026-11-23T09:25:58+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☒ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 11
+
+PRÉSENTATION DU MODÈLE
+Cette voiture électrique pour enfants est la réplique d’un roadster de luxe mythique.
+Ce modèle sportif permettra aux tout petits de découvrir la joie de la conduite. Cette
+voiture est utilisée dans les galeries marchandes des supermarchés, les enfants sont
+au volant et se déplacent librement. Il faut donc faire cohabiter en toute sécurité les
+passants et les enfants en voiture.
+
+Caractéristiques et équipements de la voiture :
+- Batterie lithium-ion
+- Moteur électrique
+- Jantes chromées
+- Rétroviseurs avec miroirs
+- Feux avant Led bleutées
+- Marche avant et arrière
+- Masse du véhicule : 15 kg
+
+Diagramme des cas d'utilisation
+
+ÉTUDE DES PERFORMANCES DU MODÈLE
+Problématique : L’utilisateur peut-il espérer disposer de l’autonomie annoncée par le
+constructeur ?
+Afin de résoudre cette problématique un essai d’étalonnage est fait en laboratoire.
+Durant cet essai, la valeur de la tension aux bornes de la
+batterie est considérée constante et égale à 7,5 V (2 
+3,75 V).
+La batterie est constituée de 2 cellules MP 176065,
+branchées en série. Les principales caractéristiques
+électriques d'une cellule MP 176065 sont :
+– tension nominale 3,75 V ;
+– capacité nominale 6,8 A·h ;
+– tension de coupure 2,5 V.
+La figure ci-contre présente l'évolution de l'intensité du
+courant délivré par la batterie de la voiture lors de l’essai d'étalonnage.
+L’intensité moyenne du courant délivré par la batterie lors de cet essai d’étalonnage
+est d’environ 1,80 A.
+
+Q1.1. Calculer la puissance moyenne fournie par la batterie pendant l’essai
+d’étalonnage.
+Q1.2. A partir des caractéristiques de la batterie, calculer l’énergie stockée
+dans la batterie en pleine charge exprimée en Wh.
+Q1.3. Déduire des questions précédentes l’autonomie de la voiture exprimée
+en h.
+Q1.4. Justifier l’écart observé entre l’autonomie du constructeur et le résultat
+du calcul.
+
+Afin d’affiner l’estimation de l’autonomie de la batterie, un modèle multiphysique a été créé.
+
+Il a permis d’obtenir la courbe ci-dessous, donnant la tension aux bornes de la
+batterie lors d’une décharge à courant constant égal au courant absorbé par la
+voiture.
+
+Tension aux bornes de la batterie lors d’une décharge à courant constant
+
+Q1.5. En prenant en compte la tension de coupure de la batterie, relever sur la courbe
+l’autonomie du modèle simulé en h. Comparer cette autonomie à celle calculée
+précédemment et à celle donnée par le constructeur.
+Q1.6. Sachant qu’un écart de 10% d’autonomie est toléré vis-à-vis des données du
+constructeur. Indiquer si L’utilisateur peut espérer disposer de l’autonomie annoncée
+par le constructeur.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU
+MODIFICATION DE SON COMPORTEMENT
+Problématique : Comment assurer un confort d’utilisation du véhicule convenable
+pour un enfant ?
+Pour rendre le pilotage accessible aux jeunes enfants, la pédale de commande
+actionne un interrupteur. L’ordre de mise en mouvement est donc de type tout ou rien.
+Cela engendre une accélération brutale de la voiture qui peut s’avérer inconfortable
+pour l’enfant pilote.
+Dans l’objectif d’assurer un confort d’utilisation du véhicule à l’enfant, le constructeur
+a décidé de limiter l’accélération du véhicule. En conséquence, la phase d’accélération
+sera pilotée de la manière suivante
+
+La solution technique choisie consiste à implanter un interrupteur sous la pédale de
+commande. L’information électrique issue de la pédale est transmise à un
+microcontrôleur qui pilote un hacheur de tension en vue de moduler l’énergie électrique
+distribuée au moteur. La transmission mécanique est assurée par un réducteur de
+vitesse.
+
+Q2.1. Compléter les trois blocs de grandeur de flux et d’effort la description
+fonctionnelle de la chaine de puissance en proposant les solutions techniques
+retenues pour les composants (a), (b), (c), (d).
+On considère que la vitesse de rotation des roues est proportionnelle à la
+tension d’alimentation du moteur. L’accélération souhaitée est obtenue en
+faisant varier la tension d’alimentation du moteur de 0 à 7,5 V (tension maximale
+de la batterie) en 2 secondes. Pour cela, on utilise un hacheur de tension dont
+le principe de fonctionnement est présenté ci-dessous.
+Hacheur de tension
+Le principe consiste à hacher une tension continue.
+La valeur moyenne de la tension
+hachée UMoteur varie avec la durée
+relative t1/T des impulsions de niveau
+haut.
+Sur le chronogramme ci-contre La
+tension moyenne augmente si t1
+augmente.
+On définit alors le rapport cyclique 
+
+La tension moyenne appliquée au moteur est
+
+𝐔𝐌𝐨𝐭𝐞𝐮𝐫 =  × 𝐔𝐦𝐚𝐱
+
+Suite à l’appui sur la pédale de commande, on désire faire varier le rapport
+cyclique  de 0 à 1 en 2 secondes. La gestion du rapport cyclique se fera par
+un programme.
+Dans ce programme le rapport cyclique  est codé par une variable ALPHA de
+type entier. Sa valeur dans le programme varie de 0 à 255, elle correspond à
+une variation de  de 0 à 1. On fait varier ALPHA par pas de 1 en suivant le
+graphe ci-dessous.
+
+Q2.2. Démontrer que la durée d’un pas de la variable ALPHA doit être égale à
+environ 7ms (valeur arrondie à l’inférieur).
+
+On donne la relation entre la tension aux bornes du moteur et la variable ALPHA
+UMoteur =
+
+ALPHA × Umax
+
+Q2.3. Compléter le document réponse 2 les zones (a), (b), (c) et (d) avec les
+valeurs correspondantes.
+
+L’algorigramme ci-dessous décrit le pilotage de l’accélération de la voiture.
+
+Déclaration des variables
+ETAT_PEDALE : état du capteur
+d’appui sur la pédale
+ALPHA : pilotage du rapport cyclique du
+hacheur comprise entre 0 et 255
+
+Q2.4. Compléter l’algorithme donné sur le document réponse DR3 en fonction
+de l’algorigramme présenté ci-dessus.
+La vitesse maximale de la voiture ne doit pas être atteinte avant 0,6 s pour ne
+pas faire subir une accélération trop brutale à l’enfant.
+Q2.5. Conclure quant au confort d’utilisation apporté par la solution
+technologique choisie.
+
+DOCUMENTS REPONSES
+
+DOCUMENT REPONSE DR1
+
+DOCUMENT REPONSE DR2
+
+DOCUMENT REPONSE DR3
+
+DEBUTPROG
+REPETER
+Lire ETAT_PEDALE ;
+JUSQU'A CE QUE ( ETAT_PEDALE = ......) ;
+# Appui sur la pédale détecté
+ALPHA = ...... ;
+REPETER
+Hacher la tension (ALPHA); # appel d’un sous programme qui
+hache la tension avec un rapport
+cyclique ALPHA
+Attendre ...... ms ;
+ALPHA = ................ ;
+JUSQU'A CE QUE ( ALPHA = ........ ) ;
+
+# Vitesse maximale atteinte
+FINPROG

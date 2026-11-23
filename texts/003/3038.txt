@@ -1,0 +1,378 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1975575, "at": "2026-11-23T09:27:11+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 2 h 00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Repérer les échanges d’énergie sur un diagramme structurel
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Associer un modèle aux composants d’une chaîne de puissance
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Prévoir l’ordre de grandeur de la mesure
+Identifier les erreurs de mesure
+Relever les grandeurs caractéristiques d’un protocole de communication
+Rendre compte de résultats
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 14
+
+PRÉSENTATION DU PRODUIT ÉTUDIÉ
+Tous les motards connaissent ce problème : sur la route, il
+faut incliner la moto pour tourner et non pas tourner le
+guidon comme sur un vélo.
+Conséquence, en pleine nuit, le phare qui est fixé sur le
+guidon éclaire droit devant et non dans le virage où doit se
+porter le regard du pilote.
+La société GiroNac a développé un phare accessoire (kit iZ-Night) qui s'installe en
+complément du phare d'origine sur la moto. Il peut suivre les yeux du pilote pour bien
+éclairer la sortie du virage, grâce à une matrice comprenant plusieurs LED. Il est, en
+fait, asservi à un capteur situé derrière le casque et qui capte les mouvements de la
+tête. Sous la selle se trouve en plus un autre capteur qui analyse la trajectoire de la
+moto.
+
+Diagramme des missions
+
+Diagramme cas d’utilisation
+
+Diagramme de définition des blocs
+
+Figure de référence pour l'orientation des axes, valable dans tout le sujet.
+Le roulis correspond à l’angle d’inclinaison de la moto autour de son axe longitudinal
+(𝑋⃗).
+Le tangage correspond à l’angle de plongée (freinage) ou de cabrage (accélération)
+⃗⃗.
+de la moto autour de l’axe 𝑌
+Le lacet donne l’orientation de l’axe longitudinal de la moto dans le plan de route
+(rotation autour de 𝑍⃗).
+Problématique générale :
+Le produit doit permettre au pilote de moto d’améliorer sa vision nocturne, par une
+assistance sur la zone d’éclairage, par un suivi du regard du pilote et de la trajectoire
+de la moto, tout en respectant les normes routières et sans gêner les autres usagers
+de la route.
+Ainsi, pour un virage court à basse vitesse, l'éclairage est large et proche, car le
+motard a besoin de voir dans cette zone pour cette manœuvre, alors qu'un virage
+avec la même inclinaison, mais à haute vitesse, produit un faisceau qui éclaire au
+loin. La combinaison de toutes les LEDs permet d'éclairer la bonne zone, en fonction
+de la trajectoire et du regard du pilote.
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT ÉTUDIÉ
+La combinaison de l’éclairage des LEDs avec le phare principal varie en fonction de
+l’attitude de pilotage. Le besoin en éclairage varie selon le cas : par exemple, le kit
+iZ-Night n’est pas utile en ligne droite et à grande vitesse (zone large et proche ou
+zone étroite et éloignée).
+
+Problématique : Pourquoi a-t-on intérêt à utiliser des lampes à LED ? Et dans
+notre cas particulier, pourquoi a-t-on intérêt à utiliser une matrice LED plutôt
+qu’une solution avec un phare orientable équipé d’une lampe classique. Point
+de vue consommation de la chaine de puissance pour une autonomie optimale.
+
+Extrait du cahier des charges :
+Chaque module d’éclairage est équipé de 9 optiques orientées différemment.
+Chaque optique est équipée de 3 LEDs.
+Seules 2 optiques fonctionnent simultanément afin d’optimiser la zone d’éclairement.
+
+Figure 1
+
+Lors de la phase d’études et afin de choisir le bon type de LED pour le phare iZNight, le concepteur a créé un modèle multi-physique (figure 2) afin de réaliser
+différentes simulations. Dans ce modèle multi-physique, la LED est assimilée à un
+résistor, car seule la consommation électrique de la LED est étudiée.
+
+Sur ce modèle figurent deux appareils de mesure A et B ainsi qu’un oscilloscope C.
+Question I.1
+
+Indiquer pour les blocs A et B les grandeurs à mesurer, ainsi que les
+noms des appareils de mesure associés. Préciser pour C la nature
+des signaux observés (continu ou alternatif).
+
+Caractéristiques d’une LED WICOP-C de chez SEOUL SEMICONDUCTOR :
+Tension
+12 V
+
+Intensité
+900 mA
+
+Flux lumineux
+1250 lm
+
+Question I.2 L’efficacité lumineuse d’une lampe est
+exprimée en lm.W -1. Calculer l’efficacité
+lumineuse d’une LED WICOP-C de chez
+SEOUL SEMICONDUCTOR.
+Figure 3
+Question I.3
+DR1
+
+En fonction de la tension des LEDs et de celle de la batterie de la
+moto, compléter sur le document réponse DR1 en argumentant, le
+câblage électrique pour un optique. Calculer alors la puissance
+théorique maximale absorbée, ainsi que le flux lumineux
+correspondant.
+
+Quant au phare principal de la moto, il est équipé d’une ampoule halogène type H4
+PHILIPS X-Treme vision.
+Tension
+
+Intensité
+
+12 V
+
+5A
+
+Flux
+lumineux
+1650 lm
+
+Question I.4 Comparer l’efficacité énergétique entre la source lumineuse du
+phare d’appoint iZ-Night et le phare principal de la moto.
+Un scénario pour la détermination d’un bilan énergétique est établi. La sortie routière
+est de nuit, en routes sinueuses de 3 heures. L’hypothèse est faite que le phare
+principal reste allumé pendant toute la durée de la sortie et que les modules iZ-Night
+se déclenchent chacun pour une durée totale de 1h15.
+Question I.5 Faire un bilan énergétique complet pour ce scénario.
+
+Question I.6 Conclure sur l’efficacité énergétique au regard du choix des ampoules
+LEDs et halogènes.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT ÉTUDIÉ
+Chacun des deux modules optiques est commandé indépendamment en fonction de
+l’angle d’inclinaison de la moto et du regard du pilote. La combinaison des
+informations de la moto et du casque définira la zone à éclairer. Le regard du pilote
+est toujours prioritaire sur l’orientation de la moto.
+Problématique : le regard du pilote doit toujours se porter au plus loin vers la
+direction à prendre. Comment avoir une séquence d’allumage des optiques
+sans éblouir les autres usagers de la route?
+Schéma de description fonctionnelle de la mesure de la direction du regard du pilote.
+
+Tension en
+sortie du
+capteur
+
+Angle de
+roulis
+
+Acquérir la
+Numériser la
+position
+tension du
+angulaire de
+capteur
+la moto
+MPU6050
+Centrale inertielle du module déporté
+
+Valeur numérique
+image de l’angle
+de roulis
+Commande
+Traiter
+de la matrice
+l'information
+à LEDs
+numérique
+Figure 1
+
+La mesure suivant l’axe vertical de la position angulaire du casque correspond à la
+rotation en lacet suivant l’axe 𝑍⃗. Le repère d’orientation est celui donné par la figure
+de la partie présentation intitulée « Figure de référence pour l'orientation des axes,
+valable dans tout le sujet. »
+La courbe suivante donne un extrait d’un relevé au niveau de la carte de contrôle du
+traitement de l’information de la valeur numérique de l’image de l’angle : orientation
+angulaire du casque sur l’axe de lacet en fonction du temps durant un essai sur
+circuit avec une ligne droite et un seul virage. Cette situation de trajet est considérée
+comme représentative d’une situation de trajet routier réel et extrême pour les
+positions angulaires.
+
+Figure 2
+Cette courbe représentative, figure 2, doit permettre de juger la différence entre un
+simple regard latéral et une situation de virage.
+Question II.1
+
+Commenter cette courbe figure 2. Comparer par rapport au cahier
+des charges sur la mesure de l’orientation du casque de ±45°.
+
+Le relevé suivant représente l’évolution en roulis de la moto et en lacet du casque au
+cours du temps. Trois zones de comportement sont identifiables :
+
+comportement 1 entre 5 et 25 secondes ;
+comportement 2 entre 25 et 40 secondes ;
+comportement 3 entre 40 et 55 secondes.
+
+Figure 3
+Question II.2
+
+Analyser et commenter ces trois comportements, en décrivant la
+trajectoire de la moto (virage(s) ou pas), dans quelle direction se
+porte le regard du pilote et s’il y a changement de direction de
+regard du pilote.
+
+Question II.3
+
+Au regard de la figure 3 et de la question II.2 compléter sur le
+document DR2 le chronogramme ci-dessous en indiquant le
+module optique qui doit être allumé.
+
+DR2
+
+Les conditions de changement d’état et du mode de commande des optiques est
+donné ci-dessous. Dans le cahier des charges au maximum 2 optiques sur 9 peuvent
+être allumées par module optique afin de ne pas éblouir les autres usagers de la
+route. Dans ce tableau « MD1 » désigne le bloc optique de LED numéro 1 du module
+de droite. « MGx » désigne celui de gauche.
+
+Valeur de l’angle en roulis de la moto
+
+Module
+optique droit
+
+-45
+
+MD1
+
+Conditions
+
+-35
+
+-25
+
+-10
+
++10
+
++25
+
+Ligne droite
+gauche léger
+gauche moyen
+gauche fort
+léger
+moyen
+fort
+
+MD2
+
+MD3
+
+MG1
+
+MG2
+
+MG3
+
+Valeur de l’angle en
+lacet du casque
+-45
+-15 +15
++45
+
+Regard droit devant
+Regard à gauche
+Regard à droite
+
+DR3
+
++45
+
+Conditions
+
+Question II.4
+
++35
+
+Module
+optique
+
+Module optique
+droit
+MD1 MD2 MD3
+
+Module optique
+MG1 MG2 MG3
+
+En suivant l’exemple donné sur le document réponse DR3
+compléter l’état logique pour la commande des optiques dans les
+situations proposées au regard des conditions imposées.
+
+Pour chaque module, il est donc nécessaire de considérer 4 cas de combinaison
+d’allumage des différentes optiques. Ce choix du concepteur a été fait au regard de
+résultats expérimentaux non spécifiés dans le sujet.
+
+Une proposition d’algorithme en pseudo-code décrit ci-dessous la commande du
+module optique de gauche.
+
+ALGORITHME Allumage des LEDs du module de gauche
+# premier groupement de LED (true allumé – false éteint)
+MG1 : booleen
+# second groupement de LED (true allumé – false éteint)
+MG2 : booleen
+# troisième groupement de LED (true allumé – false éteint)
+MG3 : boolean
+# Fonction de lecture de l’angle de roulis,
+# retour : codage du groupement de LED en hexadécimal
+Code_allum : hexadécimal
+DEBUT
+SELON Code_allum
+CAS ………… : FAIRE allumer MG1
+CAS ………… : FAIRE allumer MG1 et MG2
+CAS ………… : FAIRE allumer MG2 et MG3
+CAS ………… : FAIRE allumer MG3
+AUTREMENT : FAIRE éteindre MG1, MG2 et MG3
+FIN
+
+Question II.5
+
+Donner les 4 mots numériques, sous forme hexadécimale, et dans
+l’ordre, des 4 cas de fonctionnement pour le module optique de
+gauche. Par analogie, extrapoler aux 4 cas de fonctionnement du
+module optique de droite.
+
+Question II.6
+
+Conclure sur l’intérêt de ce mode de fonctionnement d’éclairage.
+
+DOCUMENT RÉPONSE
+DR1 : Compléter le câblage pour un optique.
+
+Argumentation : _________________________________________________
+______________________________________________________________
+______________________________________________________________
+DR2 : Compléter le chronogramme ci-dessous
+
+DR3 : Le regard du pilote est toujours prioritaire sur l’orientation de la moto.
+Condition de fonctionnement MD1 MD2 MD3 MG1 MG2 MG3
+Moto en ligne droite et
+1 regard du pilote droit
+devant
+
+Moto en ligne droite et
+regard du pilote à gauche
+Moto en virage à gauche
+fort et regard du pilote à
+Moto en virage à gauche
+léger et regard du pilote à
+droite

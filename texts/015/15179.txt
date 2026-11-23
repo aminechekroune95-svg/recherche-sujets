@@ -1,0 +1,337 @@
+{"pages": 12, "method": "pdftotext", "bytes": 1610796, "at": "2026-11-23T09:30:28+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 12
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Tourisme
+Sur 8 points
+Les trois parties sont indépendantes.
+
+Partie A
+Une étude portant sur les nuitées réservées par des touristes français et étrangers
+via une plateforme internet a donné les résultats suivants :
+
+19 000 000 nuitées ont été réservées dans les trois plus grandes villes
+françaises : Paris, Marseille et Lyon.
+
+79 % des touristes ont préféré Paris et parmi eux, 70 % sont des touristes
+étrangers.
+
+1 910 000 nuitées ont été réservées à Lyon dont 788 000 par des touristes
+étrangers.
+
+À Marseille, 800 000 touristes étrangers ont réservé des nuitées.
+
+1- Recopier et compléter le tableau suivant :
+Nombre de nuitées
+(en milliers)
+
+Touristes français
+
+Touristes étrangers
+
+Total
+
+Paris
+Lyon
+
+Marseille
+Total
+
+19000
+
+2- Dans l’ensemble de cette question 2, les pourcentages seront arrondis au
+dixième.
+2-a- Quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+2-b- Quel est le pourcentage de touristes qui ont réservé à Marseille et qui sont
+français ?
+2-c- À Lyon, quel est le pourcentage de touristes étrangers qui ont réservé via cette
+plateforme ?
+
+Partie B
+Sur cette plateforme internet, 35 % des clients choisissent de réserver dans un
+camping, et parmi eux 66 % sont français. 27 % de ceux qui n’ont pas réservé dans
+un camping sont des clients étrangers.
+On choisit au hasard un client ayant réservé via cette plateforme internet. On
+considère les événements suivants :
+
+C : « le client a réservé dans un camping » ;
+
+F : « le client est français ».
+
+3- Recopier et compléter l'arbre pondéré représentant la situation :
+
+4- Calculer la probabilité que le client choisi soit français et qu’il ait réservé dans un
+camping.
+5- On admet que p(F) = 0,7055. Le client choisi est français. Quelle est la probabilité
+qu’il ait réservé dans un camping ? On arrondira le résultat au millième.
+
+Partie C
+Une autre étude a permis de constater que le bénéfice par client réalisé par cette
+plateforme internet dépend du temps de connexion 𝑥, exprimé en minute. Pour les
+20 premières minutes de connexion d’un client, ce bénéfice, exprimé en centimes,
+peut être modélisé par une fonction 𝑓 définie sur [ 0 ; 20] par :
+𝑓(𝑥) = −2𝑥 3 + 54𝑥 2 − 270𝑥 − 80.
+6- Calculer 𝑓(0) et interpréter ce résultat.
+7- On admet que 𝑓 est dérivable sur [ 0 ; 20]. Calculer 𝑓’ (𝑥) pour 𝑥 ∈ [ 0 ; 20].
+8- Montrer que 𝑓 ′ (𝑥) = −6(𝑥 − 3)(𝑥 − 15) pour 𝑥 ∈ [ 0 ; 20].
+9- Dresser le tableau des variations de 𝑓 sur [ 0 ; 20].
+10- Pour les 20 premières minutes, quel temps de connexion du client, en minutes,
+permet d’assurer un bénéfice maximal pour la plateforme ? Quelle est la valeur de ce
+bénéfice ?
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Prévenir et traiter la perte auditive
+Sur 12 points
+« L’OMS estime que d’ici 2050, près de 2,5 milliards de personnes vivront avec un
+certain degré de perte auditive, dont au moins 700 millions auront besoin de services
+de réadaptation. L’inaction sera coûteuse en termes de santé et de bien-être des
+personnes touchées, outre les pertes financières découlant de leur exclusion de la
+communication, de l’éducation et de l’emploi. [...] investir des efforts et des
+ressources pour prévenir et traiter la perte auditive est justifié. »
+Extrait du Rapport mondial sur l’audition de l’OMS, 2021
+On cherche à comprendre comment les progrès de la science permettent de
+protéger l’audition, de la maintenir voire de la restaurer.
+Document 1 – Des bouchons d’oreilles pour protéger l’audition
+Le niveau d’intensité sonore L s’exprime en décibel et se calcule par la relation :
+I
+
+L=10 log( I ) avec L le niveau d’intensité sonore (en dB), I l’intensité sonore (en
+
+W.m-²) et I0 l’intensité sonore minimale I0 = 1,0×10-12 W.m-².
+L’audition est protégée pour des intensités sonores inférieures ou égales à 85 dB.
+Au-delà de 85 décibels, il est recommandé d’utiliser des bouchons d’oreilles.
+Le graphique ci-après montre l’effet du port de bouchons d’oreilles.
+Pointillés : bouchons
+d’oreilles mal insérés
+Trait continu : bouchons
+d’oreilles bien insérés
+
+Source : d’après https://bruit.fr
+
+Document 2 – Quelques exemples d’aides auditives
+Le cornet acoustique, l’appareil auditif et l’implant cochléaire sont des aides
+auditives qui permettent de pallier certains dysfonctionnements de l’oreille
+empêchant d’entendre les sons.
+
+Aides
+auditives
+
+Le cornet
+acoustique
+
+L’appareil
+auditif
+
+L’implant
+cochléaire
+
+Photo
+
+Type
+
+Principe de fonctionnement
+
+Mobile
+
+Fait parvenir l’intégralité des ondes
+sonores à l’oreille pour augmenter
+l’intensité du son reçu.
+
+Mobile
+
+Capte les ondes sonores et les
+amplifie dans le canal auditif au
+moyen d’un petit circuit électrique.
+
+Fixe
+
+La partie externe de l’implant capte
+les ondes sonores et les transmet
+sous forme d’impulsions électriques
+directement au nerf auditif par
+l’intermédiaire d’électrodes
+implantées dans la cochlée.
+
+Source : d’après www.futura-sciences.com et www.chu-poitiers.fr et www.blogaudioprothesiste.fr
+
+Document 3 – Anatomie de l’oreille et détail du fonctionnement de l’implant
+cochléaire
+L‘implant cochléaire est une aide auditive interne et externe. L’élément interne est
+constitué d’un stimulateur électronique et d’un faisceau d’électrodes. Le
+stimulateur est placé sous la peau et le faisceau est inséré dans la cochlée au
+cours d’une intervention chirurgicale.
+
+La partie externe est composée d’un microphone, d’un processeur vocal et d’une
+antenne. Cette partie est posée sur l’oreille et le cuir chevelu.
+1. Les sons sont captés par un microphone et transmis au processeur vocal.
+2. Le processeur vocal convertit les sons en un code.
+3. L’antenne envoie le code au récepteur sous forme d’ondes radioélectriques.
+4. Le récepteur décode les ondes reçues et envoie des impulsions électriques au
+faisceau d’électrodes implanté dans la cochlée.
+5. Les électrodes stimulent directement le nerf auditif.
+Source : d’après www.msdmanuals.com et www.curic.ch
+
+Partie 1 – Protéger son audition
+1- Un spectateur situé à 5 m de la piste de formule 1 reçoit un niveau d’intensité
+sonore I =1 W.m-². Vérifier, par le calcul, que ce spectateur est soumis à un
+niveau d’intensité sonore L = 120 dB.
+2- Choisir la proposition juste, parmi les 3 ci-dessous en justifiant (on n’attend
+aucun calcul).
+Pour n’être soumis qu’à une intensité sonore L’= 105 dB, un spectateur doit se
+trouver à une distance de de la piste de :
+Proposition 1 : à 1 m
+Proposition 2 : à 30 m
+Proposition 3 : la distance n’a pas d’importance
+3- Les organisateurs de la compétition recommandent aux spectateurs de ne pas
+se tenir trop près des pistes, de porter des bouchons d’oreilles bien insérés et
+de faire des pauses auditives régulières. Justifier ces différents conseils.
+Partie 2 – Restaurer l’audition
+4- Les aides auditives évoquées dans le document 2 permettent de corriger le
+dysfonctionnement d’une partie de l’oreille (externe, moyenne ou interne).
+Nommer en justifiant la partie dysfonctionnelle de l’oreille concernée par
+chacune des aides auditives.
+5- À partir des connaissances et des documents, expliquer comment l’évolution
+de la connaissance de l’audition a permis de mettre au point l’implant
+cochléaire.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Une longue histoire de la matière »
+
+L’utilisation de la radioactivité en médecine
+Sur 12 points
+La radioactivité peut avoir des
+conséquences néfastes pour
+l’organisme, mais elle est également un
+moyen extraordinaire d’explorer le corps
+humain. Aujourd’hui, elle est notamment
+utilisée en médecine dans la détection
+et le traitement de certaines maladies
+telles que les cancers.
+
+Figure 1 – Un exemple d’imagerie médicale
+utilisant la radioactivité
+Source : Grosjean/CEA
+
+Partie 1 – La radioactivité
+L’atome d’hélium 6 est radioactif et peut se désintégrer en un atome de lithium 6
+selon un processus de type 𝛽 − (bêta moins) comme illustré dans le document 1.
+Document 1 – Désintégration de l’hélium 6
+𝐴
+Notation symbolique d’un noyau 𝑍𝑋
+
+A : nombre total de nucléons (protons et
+neutrons)
+Z : nombre de protons
+X : symbole de l’atome
+
+1- La notation symbolique du noyau d’un atome d’hélium 6 est 62He. Donner la
+composition de ce noyau.
+2- À partir des connaissances et des données du document 1, expliquer rapidement
+ce qu’est un atome radioactif.
+
+3- Les désintégrations radioactives sont qualifiées d’aléatoires. Expliquer ce que
+cela signifie.
+L’iode est un élément chimique de numéro atomique Z=53 et de symbole I. Il
+possède 37 isotopes connus, mais un seul est stable, l’iode 127.
+L’iode 123 est radioactif et sa désintégration est de type 𝛽 − . Cela signifie qu’un
+électron est aussi créé au cours de cette désintégration, comme c’est le cas pour
+l’hélium 6. Les atomes d’iode 123 se désintègrent alors en atomes de Xénon,
+élément chimique de symbole Xe.
+4- En vous appuyant sur l’équation du document 1, proposer une équation pour la
+désintégration radioactive de l’iode 123.
+La courbe du document 2 est une modélisation de la décroissance radioactive de
+l’iode 123 réalisée à l’aide du logiciel GeoGebra. Elle donne l’évolution d’un grand
+nombre d’atomes d’iode 123 au cours du temps (10 000 atomes à l’instant initial).
+Document 2 – Évolution du nombre d’atomes d’iode 123
+Nombre d’atomes
+
+Temps (en heures)
+
+5- À l’aide des connaissances et du document 2, déterminer la valeur de la demi-vie
+de l’iode 123 (à l’heure près).
+6- Calculer le nombre d’atomes d’iode 123 qui vont rester au bout de trois demivies. Justifier rapidement le calcul.
+Partie 2 – Utilisation des isotopes radioactifs en médecine
+De nombreuses techniques d’imagerie médicale utilisent des radio-traceurs, c’est-àdire des composés radioactifs, tels que l’iode 123, pour diagnostiquer certaines
+pathologies comme des cancers ou des dysfonctionnements d’organes.
+Le radio-traceur est choisi en fonction de sa période radioactive : elle doit être
+suffisamment courte pour qu’elle corresponde à une activité détectable pendant
+quelques heures.
+Il est également choisi pour la nature et l'énergie des rayonnements émis ; les
+rayonnements étant dangereux, des doses limitées de noyaux radioactifs sont
+injectées.
+7- À l’aide du document 2, justifier que l’iode 123 puisse être utilisé comme radiotraceur en médecine.
+Document 3 – Demi-vie de plusieurs isotopes radioactifs
+
+isotope radioactif
+
+Polonium 216
+
+Césium 137
+
+Fluor 18
+
+Demi-vie
+
+0,15 s
+
+30 ans
+
+110 minutes
+
+8- Expliquer si les isotopes présentés dans le document 3 peuvent aussi servir de
+radio-traceur en médecine.
+Les médecins et personnels hospitaliers travaillant dans les services utilisant la
+radioactivité sont soumis à des radiations régulières. La radioactivité peut avoir, à
+forte dose, un effet néfaste sur l’organisme puisqu’elle endommage l’ADN des
+cellules. Des moyens doivent donc être mis en place pour protéger le personnel.
+
+Document 4 – Différents éléments liés à la sécurité en milieu médical
+L’illustration ci-contre donne les débits
+approximatifs de doses autour du lit d’un patient
+qui vient d’être exposé à de l’iode 131.
+La loi limite l’exposition du personnel hospitalier à
+une dose de 20 mSv/an (millisievert/ an). Plus le
+temps d’exposition est long, plus les personnes
+seront soumises à une forte dose d’exposition.
+
+En matière de protection, des écrans de différentes matières permettent de
+stopper ou atténuer la propagation des rayonnements ionisants.
+
+9- D’après le document 4, détailler trois moyens de limiter l’exposition des
+personnels aux radiations.
+10- Dans le cas d’un traitement à l’iode 123, indiquer quels matériaux peuvent être
+utiles pour protéger le personnel hospitalier des radiations émises. Justifier la
+réponse.

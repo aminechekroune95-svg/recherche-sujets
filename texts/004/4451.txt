@@ -1,0 +1,236 @@
+{"pages": 8, "method": "pdftotext", "bytes": 770198, "at": "2026-11-23T09:34:12+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Enseignement scientifique
+DURÉE DE L’ÉPREUVE : 2h
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☐ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+EXERCICE 1
+PERTE AUDITIVE APRÈS UN CONCERT
+Fabrice a passé une soirée au concert donné par les élèves du lycée. Dans les semaines
+qui suivent, il ressent une grande fatigue et ne semble pas toujours entendre les
+questions qu’on lui pose. Ses parents lui reprochent d’écouter la musique trop fort.
+Inquiet, Fabrice passe des examens médicaux fonctionnels et anatomiques.
+En utilisant les documents :
+1- Montrer que la perte auditive moyenne de Fabrice sur les deux oreilles est comprise
+entre 40 et 45 dB.
+2- Indiquer si les symptômes présentés par Fabrice correspondent à la perte auditive
+constatée.
+3- Expliquer l’origine physiologique de ces troubles en mobilisant vos connaissances.
+Document 1. Audiogrammes de Fabrice
+Un audiogramme permet d’évaluer la perte d’audition d’une personne mesurée en
+décibel (dB) en fonction de la fréquence du son émis en Hertz (Hz). Il s’obtient par un
+test réalisé chez un médecin spécialisé.
+L’objectif du test est de mesurer, pour différentes fréquences, le niveau d’intensité
+sonore minimal (seuil d’audition) pour que le son soit entendu par Fabrice. Les
+fréquences sonores testées sont comprises entre 500 et 8 000 Hz.
+Légende des audiogrammes :
+: norme auditive moyenne
+: réponse auditive de Fabrice lors du test médical
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille droite
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+-10
+
+Seuil d'audition (en dB)
+
+Audiogramme de l'oreille gauche
+-10
+
+500 1000 1500 2000 2500 3000 3500 4000 4500 5000 5500 6000 6500 7000 7500 8000 8500
+
+Fréquences (en Hz)
+
+Document 2. Méthode de calcul de la perte auditive moyenne sur les deux oreilles
+- Pour chacune des fréquences 500 Hz, 1000 Hz, 2000 Hz et 4000 Hz, et pour chaque
+oreille, on calcule la différence entre l’intensité du son audible par le patient et la norme
+auditive moyenne.
+- On note Pmd la moyenne de ces 4 valeurs pour l’oreille droite et Pmg la moyenne de
+ces valeurs pour l’oreille gauche.
+- La fonction Python ci-dessous permet alors de calculer la perte auditive moyenne (sur
+les deux oreilles) :
+def Perte auditive moyenne
+(Pmd,Pmg) :
+if -15 <= Pmg-Pmd <= 15 :
+Pm = 0.5 * Pmd + 0.5 * Pmg
+else :
+if Pmg – Pmd > 15 :
+Pm = 0.7 * Pmd + 0.3 * Pmg
+else :
+Pm = 0.3 * Pmd + 0.7 * Pmg
+return Pm
+
+Document 3. Niveaux de surdité et symptômes associés
+Degré de la
+perte
+auditive
+
+auditive
+moyenne
+
+Symptômes, conséquences
+
+Audition
+"normale"
+
+de 0 à 20
+
+Vous n'éprouvez aucune difficulté particulière, en
+milieu calme ou bruyant.
+
+Perte légère
+
+de 20 à 40
+
+Vous avez des difficultés à percevoir les voix faibles
+ou lointaines et les conversations, surtout lorsque
+vous êtes en milieu bruyant.
+
+de 40 à 70
+
+La perception des paroles devient difficile, il faut que
+celles-ci soient fortes pour que vous puissiez les
+comprendre aisément. Vous avez tendance à
+augmenter le volume de la télévision, radio, mp3...
+Suivre une conversation en groupe devient très
+compliqué et fatiguant.
+
+de 70 à 90
+
+Vous n'entendez pas les paroles, à moins que cellesci soient fortes ou proche de vous. Il est très difficile
+pour vous de suivre une conversation, voire
+impossible si vous n'êtes pas équipé d'aides
+auditives. Certains sons forts restent audibles.
+
+profonde
+
+90 dB et +
+
+La plupart des sons deviennent imperceptibles, quel
+que soit l'environnement d'écoute. Vous n'arrivez pas
+à communiquer, suivre une conversation est
+impossible sans appareil auditif, certains sons
+extrêmement forts restent toutefois audibles.
+
+Surdité totale
+
+120 dB
+
+Aucune capacité d'audition mesurable.
+
+moyenne
+
+Perte sévère
+
+D’après : https://www.laboratoires-unisson.com/perte-auditive-causes-et-consequence-de-la-perted-audition.html
+
+EXERCICE 2
+LA DATATION AU 14C POUR PRÉSERVER LA BIODIVERSITÉ
+L’Union Européenne a interdit le commerce de l’ivoire depuis 1989, à l’exception de
+celui des antiquités acquises avant 1947. Selon un rapport remis à la Commission
+européenne en juillet 2018, l’ivoire vendu en Europe proviendrait pourtant
+essentiellement de défenses d’éléphants abattus récemment. Ce rapport s’appuie
+sur des résultats obtenus par datation au carbone 14C de l’ivoire saisi par les
+autorités. Les trafiquants contournent la loi en faisant passer l’ivoire récent pour de
+l’ivoire ancien.
+1- Expliquer le principe d’une datation utilisant un isotope radioactif.
+2- Parmi les propositions suivantes, indiquer sur votre copie celle qui correspond à la
+désintégration du carbone 14.
+a) 188𝑂 → 146𝐶 + 42𝐻𝑒
+b) 146𝐶 → 147𝑁 + −10𝑒
+c) 62𝐻𝑒 + 84𝐵𝑒 → 146𝐶
+2- Le document 1 indique que la demi-vie du carbone 14 est de 5730 ans. Expliquer
+le terme « demi-vie ».
+3- On considère un échantillon d’ivoire d’éléphant contenant à un instant donné
+16 milliards de noyaux de carbone 14. Calculer le nombre de noyaux de carbone 14
+restants au bout de :
+3-a- 5 730 ans.
+3-b- 11 460 ans.
+3-c- 17190 ans.
+
+Document 2. Courbe de décroissance du carbone 14 sur 40 000 ans
+
+Proportion du nombre d’atomes de carbone 14 restants par
+rapport au nombre d’atomes de carbone 14 au départ
+
+0,9
+0,8
+0,7
+0,6
+0,5
+0,4
+0,3
+0,2
+0,1
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+t (ans)
+
+5- Estimer le nombre de noyaux de carbone 14 restants après 25 000 ans.
+On s’intéresse désormais à la datation au carbone 14 d’échantillons d’ivoire plus
+récents. Sur une période de 100 ans, on peut approcher la portion de courbe du
+document 2 par un segment de droite représenté dans le document 3.
+
+Document 3. Décroissance radioactive du carbone 14 sur 100 ans
+Proportion du nombre d’atomes de carbone 14 restants par
+rapport au nombre d’atomes de carbone 14 au départ
+0,999
+0,998
+0,997
+0,996
+0,995
+0,994
+0,993
+0,992
+0,991
+0,99
+0,989
+
+t (ans)
+
+0,988
+
+6- En 2019, l’analyse d’un échantillon d’ivoire d’éléphant a permis d’estimer à 0,994
+la proportion d’atomes de carbone 14 restants par rapport au nombre initial d’atomes
+de carbone 14.
+6-a- En utilisant le document 3, dater la mort de l’éléphant.
+6-b- Cet ivoire provient-il d’un éléphant abattu illégalement ? Justifier la réponse.

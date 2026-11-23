@@ -1,0 +1,274 @@
+{"pages": 12, "method": "pdftotext", "bytes": 2040140, "at": "2026-11-23T09:26:30+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Sciences de l’Ingénieur
+DURÉE DE L’ÉPREUVE : 02h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes Analyser le besoin d’un produit par une démarche d’ingénierie système
+Analyser l’organisation matérielle d’un produit par une démarche d’ingénierie système
+Analyser l’organisation fonctionnelle d’un produit par une démarche d’ingénierie système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la
+transmission de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les mouvements
+Modéliser les actions mécaniques
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats de programme
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 12
+
+DESCRIPTION DU PRODUIT ÉTUDIÉ
+Le système Handibike permet à une
+personne
+atteinte
+de
+dystrophies
+musculaires à un bras, de pratiquer du
+vélo tout terrain en toute sécurité
+(figure 1).
+Handibike
+centralise
+le
+changement de vitesse via le dérailleur
+ainsi que le freinage sur la roue avant et
+arrière par la seule action de la main
+valide du vététiste.
+Le sujet porte sur l’étude de
+l’automatisation du changement de
+vitesse du dérailleur avant.
+
+Problématique générale
+Comment permettre à un vététiste atteint de dystrophie musculaire de pouvoir changer de vitesse
+en évitant la chute ?
+
+Figure 1 : diagramme d’exigences partiel du système Handibike
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+Problématique : Comment assurer un changement de vitesse en moins de 0,6s ?
+L’objectif de cette partie est de valider la performance attendue du système de changement
+de vitesse du dérailleur.
+
+Le système automatisé permettant le changement de vitesse du dérailleur avant est
+composé (figure 2) :
+- d’un ensemble motoréducteur et d’un galet d’entraînement sur lequel se connecte
+le câble. Celui-ci se déplace par enroulement autour du galet lors de la rotation du
+motoréducteur ;
+- d’une gaine fixe dans laquelle circule librement le câble ;
+- d’un dérailleur avant sur lequel est connecté le câble.
+
+Figure 2 : système automatisé de changement de vitesse du dérailleur avant
+𝑧⃗
+
+Platine
+
+𝑦⃗
+
+Levier2
+Levier 1
+Fourchette
+Maillon chaine
+Grand plateau
+Petit plateau
+Cable
+
+tirage
+
+plateau
+Figure 3 : dérailleur avant
+
+Le dérailleur avant (figure 3) est composé de 4 pièces liées entre elles par 4 liaisons pivots
+de centre (𝐴, 𝑥⃗), (𝐵, 𝑥⃗)(𝐶, 𝑥⃗)(𝐷, 𝑥⃗). Le câble de tirage est fixé sur le levier 1 au point E.
+Le changement automatisé de vitesse du dérailleur avant (passage du petit plateau vers
+le grand plateau) se fait en 2 étapes (ET1 et ET2) conformément aux illustrations figure 4.
+
+Figure 4 : étapes du changement automatisé de vitesse
+Durant ET1, le câble tire sur le levier 1 ce qui provoque le déplacement de la fourchette et
+entraine le passage des maillons de la chaîne du petit vers le grand plateau.
+Durant ET2, la tension sur le câble est relâchée automatiquement, ce qui provoque un
+léger déplacement de la fourchette. Il n’y a plus de contact entre la chaîne et la fourchette.
+Seule l’étape 1 fait l’objet de cette première étude, le retour de la fourchette n’est pas
+étudié.
+Durant la phase ET1 la fourchette se déplace horizontalement de 12 mm. La première
+étape consiste à déterminer la longueur de câble nécessaire pour produire cette action.
+La courbe de déplacement horizontal de la fourchette en fonction du déplacement
+angulaire du levier 1 est la suivante :
+
+Figure 5 : courbe de déplacement angulaire du levier en fonction du déplacement
+horizontal de la fourchette.
+
+La relation permettant d’obtenir le déplacement du câble S en fonction du déplacement
+angulaire 𝜃 du levier 1 est la suivante :
+S = R levier 1 × θ
+⃗⃗⃗⃗⃗⃗‖ = 28,9 mm
+avec S en mm, θ en radians, R levier 1 = ‖AE
+Question I.1 Déterminer θ pour avoir un déplacement de fourchette de 12 mm puis en
+déduire le déplacement de câble correspondant.
+Le déplacement du câble est produit par l’enroulement de celui-ci autour du galet
+d’entraînement (figure 6). Ce galet doit être créé car ce n’est pas un élément standard du
+commerce.
+Figure 6 : galet
+d’entraînement
+Afin de ne pas détériorer le câble, l’enroulement maximal de celui-ci doit être au maximum
+de ¾ tour sur la circonférence du galet
+Question I.2 Déterminer la valeur minimale du rayon Rc d’enroulement du câble autour
+du galet permettant de satisfaire la contrainte.
+Les dimensions choisies pour le galet sont représentées sur le dessin ci-après.
+
+Le diamètre du câble choisi est de 1,2 mm.
+Question I.3 Vérifier si la contrainte d’enroulement maximal du câble sur le galet est
+respectée.
+Pour des raisons de sécurité et de confort, le temps de changement de vitesse du dérailleur
+avant (temps de passage du petit plateau vers le grand plateau) doit être inférieur à 0,6 s
+pour permettre une continuité dans l’effort de pédalage.
+Pour la suite de l’étude, la longueur de câble enroulée lors d’un changement de vitesse est
+considérée égale à 15,6 mm.
+
+La chaîne de puissance partielle du système Handibike est représentée figure 7.
+
+Figure 7 : chaîne de puissance partielle du système Handibike
+Question I.4 À l’aide des données fournies figure 7, calculer le temps de déplacement de
+la fourchette. Conclure quant à la conformité de cette valeur avec la
+contrainte de sécurité et de confort.
+Afin de valider la performance attendue du temps de changement de vitesse du système
+Handibike, un modèle multiphysique a été élaboré sur le document DR1.
+Question I.5
+
+Sur le document DR1, entourer le bloc fonctionnel dans lequel le rayon
+d’enroulement doit être spécifié et l’instrument qui permet d’observer la
+courbe figure 8. À l’aide du résultat fourni figure 8 déterminer le temps de
+changement de vitesse issu de la simulation.
+
+Le temps de changement de vitesse doit être inférieur à 0,6s. Sur le système réel le
+changement de vitesse se fait en 0,52 s.
+La courbe figure 8, obtenue à l’aide du modèle multiphysique montre le déplacement du
+câble en fonction du temps.
+
+Figure 8 : déplacement du câble en mm en fonction du temps en s
+
+Un modèle de simulation est validé si l’écart relatif entre les temps de changement de
+vitesse est inférieur à 10 %.
+Question I.6
+
+Calculer l’écart de temps relatif entre les modèles multiphysique et le
+produit réel. Conclure quant au respect du cahier des charges et à la
+validité du modèle établi.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION DE SON
+COMPORTEMENT
+Problématique : Comment assurer la commande du dérailleur avant ?
+L’objectif de cette étude est d’élaborer le programme qui permet la commande du dérailleur
+avant.
+Les exigences sont :
+- connaître précisément et à tout moment la position du dérailleur ;
+- changer de vitesse uniquement si la commande est active pendant 1s pour éviter
+un changement non volontaire ;
+- détecter la butée de dérailleur pour stopper le cycle et éviter la destruction des
+pignons du réducteur du système.
+Afin de connaître précisément et à tout moment la position du dérailleur, un codeur
+incrémental fixé sur l’arbre moteur est utilisé.
+
+Figure 9 : vue d’ensemble du système.
+Un graphe d’état utilisant 2 sorties du codeur (A et B) permet de connaître à tout moment
+la position du dérailleur. Chaque codeur génère 12 périodes pour chaque tour du moteur.
+Le graphe d’état du DR2 se trouve dans l’état « init » lorsque le chronogramme débute.
+
+Chronogrammes lorsque le câble s’enroule Chronogrammes lorsque le câble se
+déroule du galet d’enroulement.
+autour du galet d’enroulement.
+Figure 10 : chronogrammes des signaux issues du codeur
+Question II.1 On veut analyser la chronologie des états lorsque le câble s’enroule autour
+du galet. Surligner à l’aide d’une flèche continue sur le graphe d’état du
+DR2 l’évolution des transitions et des états.
+Question II.2 Compléter le graphe d’état du DR2 afin que la variable de comptage
+(codeur) s’incrémente (ajouter 1) lorsque le galet s’enroule ou se
+décrémente (soustraire 1) lorsque le galet se déroule.
+Un changement de vitesse inopportun peut entrainer la chute du vététiste. En vue de
+sécuriser ce changement de vitesse est de s’assurer que le cycliste désire effectivement
+passer sur le grand plateau, l’appui sur le bouton de commande doit durer un temps
+minimum d’une seconde.
+
+L’algorigramme de la figure 11 représente le
+sous-programme de changement de vitesse
+du petit vers le grand plateau.
+Ce
+sous-programme
+est
+appelé
+régulièrement par le programme principale de
+gestion du VTT.
+La variable binaire BP prend la
+valeur 0 si le bouton est relâché
+et 1 si le bouton est appuyé.
+Ce symbole signifie attendre
+100ms
+
+Figure 11 : algorigramme
+changement de vitesse.
+
+du
+
+Question II.3 Sur copie, recopier la zone à compléter de la figure 11 et compléter celleci pour déclencher la commande de changement de vitesse conformément
+aux exigences.
+En cas de changement de vitesse (du petit vers le grand plateau), le système automatisé
+détermine si la butée du dérailleur est atteinte. Le programme analyse l’évolution du
+courant dans le moteur. A partir de la mesure de imin et de imax (figure 12), le
+programme calcule la valeur du seuil du courant. Lorsque le courant moteur est supérieur
+au seuil, cela signifie que la butée de dérailleur est atteinte, le moteur est stoppé.
+
+Le calcul du seuil du courant est donné par : iseuil = (3 × imax + 2 × imin) ∕ 5
+
+Démarrage
+du moteur
+
+Dérailleur en
+butée
+
+imax
+
+iseuil
+
+Mise en tension
+du câble
+imin
+
+Traction du
+câble
+
+Figure 12 : Mesure du courant moteur lors d’un changement de vitesse.
+Question II.4
+DR3
+
+Compléter l’algorigramme de la macro de changement de vitesse
+(du petit vers le grand plateau) sur le DR3.
+Conclure en décrivant de manière littérale le comportement du
+programme lors d’un changement de vitesse.
+
+DOCUMENT RÉPONSE
+
+DOCUMENT RÉPONSE
+front_A[B==0] signifie que la transition est
+active sur front montant de l’entrée A et
+que à cet instant l’entrée B est au niveau
+logique 0
+
+DR3
+Déclaration des variables : Imax, Imin, Iseuil, Imot

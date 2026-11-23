@@ -1,0 +1,221 @@
+{"pages": 7, "method": "pdftotext", "bytes": 715090, "at": "2026-11-23T09:24:43+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+Nombre total de pages : 7
+
+PARTIE A
+Le Train à grande vitesse, construire un record (10 points)
+Le dernier record du monde de vitesse sur rail du TGV (Train à Grande Vitesse) a été
+homologué le 3 avril 2007. Une rame expérimentale a atteint à 13h14 la vitesse de
+574,8 km·h−1 sur la toute nouvelle ligne Est européenne.
+Le mur de la caténaire
+L’alimentation des moteurs électriques du TGV est
+réalisée à l’aide de la caténaire et du pantographe.
+La caténaire (voir figure ci-contre) est le câble
+électrique tendu au-dessus des voies. Le pantographe
+(voir figure ci-contre) est le dispositif articulé fixé sur le
+toit de la locomotive, permettant une liaison électrique
+par frottement sur la caténaire.
+Le pantographe appuie sur le câble et le soulève,
+créant une déformation en forme de V inversé. Lorsque
+le train se déplace, une onde mécanique progressive
+se propage dans la caténaire devant la locomotive. Si
+le train rattrape l’onde, le contact entre le pantographe
+et la caténaire est rompu et la puissance électrique transmise aux moteurs diminue. La célérité
+de l’onde dans la caténaire est une contrainte qui limite la vitesse du train, on parle d’un « mur
+de la caténaire » par analogie avec le mur du son.
+
+1. L’onde qui se propage dans la caténaire est progressive et mécanique. Rappeler la
+définition d’une onde progressive puis indiquer ce qui permet de la qualifier de mécanique.
+Un système de poulies et de contrepoids permet de tendre plus ou moins la caténaire. Pour
+étudier l’influence de cette tension mécanique T (en Newton), on utilise un logiciel de simulation
+mis en ligne par l’université du Colorado. Dans cette simulation la caténaire du train est
+modélisée par la corde sur laquelle se propage une perturbation. Deux captures d’écran de ce
+logiciel sont données ci-dessous.
+
+D’après https://phet.colorado.edu/fr/simulations
+2. Déterminer, à l’aide des deux captures ci-dessus la valeur de la vitesse de propagation de
+l’onde dans la simulation.
+3. Une deuxième simulation avec une valeur de tension plus élevée du câble donne une
+célérité de 6,3×10-2 m·s-1. Indiquer l’influence du paramètre tension sur la célérité de l’onde.
+
+L’expression littérale de la célérité de l’onde mécanique qui se propage dans la caténaire est :
+
+𝑐=√
+avec :
+
+𝑇
+𝜌.𝑆
+
+(1)
+
+𝑐 la célérité de l’onde en mètres par seconde (m·s-1) ;
+T la tension exercée sur la caténaire en Newton (N) ;
+S la section de la caténaire (m2) ;
+ρ la masse volumique du matériau constitutif du câble (kg·m −3).
+
+La SNCF a spécifié que pour des trajets commerciaux, la vitesse de ses TGV ne devait pas
+dépasser 70 % de la vitesse de propagation des ondes dans la caténaire.
+Nous disposons des informations suivantes sur les caténaires utilisées :
+Tension T (N)
+Section S (mm2)
+Masse volumique ρ du cuivre (kg·m−3)
+2,6×10
+8920
+4. Vérifier la cohérence de cette relation avec les résultats obtenus lors de la simulation.
+5. Déterminer, en m·s−1 puis en km·h·1, la valeur de la vitesse théorique maximale que ne doit
+pas dépasser un TGV en exploitation commerciale.
+6. Proposer une argumentation d’une dizaine de lignes en indiquant sur quels paramètres les
+ingénieurs ont pu agir pour repousser le mur de la caténaire et ainsi faire franchir au TGV la
+barre symbolique des 500 km·h−1.
+On précisera dans le raisonnement les paramètres modifiés, le sens d’évolution de leurs
+valeurs (plus élevée ou plus faible) ainsi que le choix le plus approprié et le plus
+économique.
+Freinage d’urgence et distance de freinage
+Un TGV commercial de masse M = 425 t roulant à la vitesse v0 = 320 km·h−1 sur une voie que
+l’on supposera rectiligne et horizontale doit effectuer un arrêt d’urgence. La valeur de la
+distance nécessaire pour que le TGV s’immobilise (distance d’arrêt) est de 3,2 km.
+Au cours d’un essai dans la phase de préparation du record, un incident a déclenché le freinage
+d’urgence et la rame expérimentale (de masse M’ = 270 t roulant à la vitesse v1 = 501,6 km·h−1)
+s’est immobilisée au bout de 15 km.
+7. À l’aide d’une approche énergétique, justifier le sens de l’évolution de cette distance d’arrêt.
+Alimentation électrique des moteurs
+Pour fournir plus de puissance aux moteurs électriques de la rame, la tension électrique de la
+caténaire a été portée à 31 kV contre 25 kV en temps normal. Lors des essais, la valeur de
+l’intensité du courant traversant le pantographe est en moyenne égale à 800 A.
+8. Calculer la valeur de la puissance électrique fournie par la caténaire aux moteurs
+électriques.
+
+La puissance restituée par l’ensemble des moteurs a été estimée à 19 600 kW (soit plus du
+double de celle d’une rame de TGV classique).
+9. Recopier et compléter le schéma suivant qui représente le bilan de puissance des moteurs
+de la rame.
+
+10. Exprimer et calculer le rendement de l’ensemble des moteurs de la rame expérimentale.
+Expliquer pourquoi il ne peut être supérieur à 1.
+PARTIE B
+La Betadine® (10 points)
+La Bétadine® 10% est un antiseptique proposé sous forme de
+solution, utilisé en application locale pour le traitement des plaies et
+des brûlures superficielles. Ses propriétés antiseptiques sont dues à
+son principe actif : le diiode de formule I2. C’est aussi le diiode qui lui
+donne sa couleur jaune-orange.
+Les molécules de diiode présentes dans la Bétadine® 10% sont liées
+à un polymère, la polyvidone et forment avec lui une espèce appelée
+polyvidone iodée.
+Sur le flacon de Bétadine® 10% est indiqué : « polyvidone iodée :
+10 g pour 100 mL ».
+L’objectif de cet exercice est de vérifier cette indication et d’un des modes d’action bactéricide
+de la Bétadine® 10%.
+Données
+Masse molaire atomique de l’iode : M(I) = 126,9 g·mol−1
+Masse molaire de la « polyvidone iodée » : M = 2362,8 g.mol-1.
+- Spectre d’absorption d’une solution aqueuse de diiode I 2
+
+Cercle chromatique
+
+1. Dosage du diiode contenu dans la Bétadine® par spectrophotométrie
+Un volume de 250,0 mL de solution dite « mère » S0 est préparé par dissolution de diiode dans
+l’eau, pour obtenir une concentration en quantité de matière de diiode C0 = 2,0010−2 mol·L−1.
+1.1. Déterminer la masse de diiode solide qu’il faut dissoudre pour obtenir 250,0 mL de
+solution « mère » à la concentration souhaitée ?
+La préparation de la gamme de solutions permettant d’obtenir le graphe d’étalonnage, se fait
+par dilution à partir de la solution aqueuse de diiode S0 de concentration C0 = 2,0010−2
+mol·L−1.
+Nom de la
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+solution
+Concentration
+0,10
+0,20
+0,40
+0,50
+0,60
+0,80
+1,0
+(en mmol·L−1)
+1.2. À partir de la liste des matériels et produits proposée ci-après, indiquer la verrerie
+nécessaire et le protocole pour préparer la solution S3. Justifier ce choix par un calcul.
+- Pipettes jaugées de 5,0 ; 10,0 ; 15,0 ; 20,0 et 25,0 mL.
+- Fioles jaugées de 50,0 ; 100,0 et 250,0 mL.
+- Trois béchers.
+- Solution « mère » de diiode S0
+- Eau distillée.
+1.3. Choix de la longueur d’onde de travail
+1.3.1. Dissous en solution aqueuse, le diiode donne à la solution une coloration jauneorange. Expliquer cette coloration.
+1.3.2. À quelle longueur d’onde faut-il régler le spectrophotomètre pour réaliser les
+mesures d’absorbance des solutions étalon ? Justifier.
+1.4. Utilisation de la loi de Beer-Lambert
+La loi de Beer-Lambert énonce que pour une longueur d’onde donnée, l’absorbance A d’une
+solution est proportionnelle à sa concentration C, si celle-ci n’est pas trop élevée. À partir des
+mesures d’absorbance des différentes solutions étalon préparées, on obtient la courbe
+d’étalonnage suivante :
+
+Courbe d'étalonnage - Solutions I2
+A = f(C)
+
+1,5
+
+0,5
+
+0,0
+
+0,2
+
+0,4
+
+0,6
+
+0,8
+
+1,0
+
+1,2
+
+1.4.1. Montrer qu’il n’est pas possible, à partir de cette courbe, de déterminer la
+concentration de la solution commerciale pour confirmer l’indication fournie par le
+fabricant. Justifier.
+La solution commerciale de Bétadine® doit donc être diluée. La solution proposée est de la
+diluer 200 fois. Le spectrophotomètre indique une absorbance A de la solution diluée.
+1.4.2. Prévoir la valeur de l’absorbance A, qui confirmerait l’indication portée sur le
+flacon de Bétadine® 10%. Justifier.
+2. Action bactéricide de la Bétadine®
+Une bactérie est un être unicellulaire dont la taille varie de 1 à 10 μm. Elle contient 70% d’eau.
+Rapporté à son poids sec, une bactérie est constituée à 55% de protéines [...]. Les protéines
+sont des macromolécules biologiques présentes dans toutes les cellules vivantes. Elles sont
+constituées d‘enchaînements d'acides aminés liés entre eux par des liaisons peptidiques. Parmi
+les acides aminés présents dans ces enchaînements, certains sont susceptibles de réagir avec
+le diiode libéré progressivement par la polyvidone iodée. L’un d’entre eux est la cystéine, notée
+Cys sur l’illustration ci-dessous.
+Les symboles Ala, Leu, Asp… sont relatifs à d’autres acides aminés, qui ne sont pas étudiés
+dans cet exercice.
+
+Protéinla formation de liaisons chimiques appelées
+La réaction entre le diiode et la cystéine entraîne
+e
+« ponts disulfures » entre deux parties
+différentes d’une même protéine ou entre deux protéines
+différentes. Les protéines forment alors des agrégats qui entraînent la mort de la bactérie.
+
+La cystéine forme un couple oxydant-réducteur avec la cystine. En notant la cystéine Cys–S–H
+et la cystine Cys–S–S–Cys, la demi-équation électronique du couple s’écrit :
+2 Cys–S–H = Cys–S–S–Cys + 2 H+(aq) + 2 e2.1. Nommer l’oxydant du couple oxydant-réducteur formé par la cystéine et la cystine ?
+Justifier.
+2.2. Écrire la demi-équation électronique du couple diiode/ion iodure noté I 2(aq)/I−(aq).
+2.3. Écrire l’équation de la réaction d’oxydoréduction modélisant la transformation chimique
+entre le diiode I2 et la cystéine notée Cys–S–H.
+2.4. L’action bactéricide de la Bétadine® présentée ici, est-elle la conséquence d’une oxydation
+ou d’une réduction des protéines ? Justifier.

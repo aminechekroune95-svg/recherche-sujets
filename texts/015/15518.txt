@@ -1,0 +1,407 @@
+{"pages": 16, "method": "pdftotext", "bytes": 2053902, "at": "2026-11-23T09:29:24+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 16
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Croissance exponentielle
+Sur 4 points
+On sait que le nombre de bactéries dans une solution augmente progressivement de
+sorte que chaque heure la quantité de bactéries triple.
+Il y a initialement 200 bactéries.
+Partie A – Première modélisation
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢! le nombre de
+bactéries après 𝑛 heures dans la solution. Sous ces conditions, on a 𝑢" = 200.
+1- Justifier que la suite (𝑢! ) est une suite géométrique et déterminer sa raison.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢! en fonction de 𝑛.
+3- Au bout de combien d’heures, le nombre de bactéries dépassera-t-il 100 000 ?
+Partie B – Seconde modélisation
+Dans cette partie, on suppose que, pour une journée donnée, la quantité de
+bactéries peut être modélisée par la fonction 𝑓 définie sur l’intervalle [0 ; 24] par :
+𝑓(𝑡) = 200 × 3#
+où 𝑡 représente le temps écoulé, exprimé en heures.
+1- Calculer la quantité de bactéries au bout de deux heures.
+2- On donne ci-après, dans un repère orthogonal du plan, la courbe représentative
+𝐶$ de la fonction 𝑓 sur l’intervalle [0 ; 3]. On a tracé en pointillés la droite
+tangente à 𝐶$ au point A d’abscisse 2.
+Avec la précision permise par le graphique, déterminer la valeur de 𝑓’(2) en
+expliquant la démarche. Comment interpréter cette valeur dans le contexte de
+l’exercice ?
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La pile végétale
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible.
+On cherche ici à déterminer si cette technologie peut constituer
+une solution d’avenir.
+Les deux parties peuvent être traitées indépendamment.
+Partie 1 – La photosynthèse et ses caractéristiques
+Document 1 - Étude expérimentale des échanges gazeux d’une plante
+chlorophyllienne
+On mesure les variations au
+cours du temps de trois
+paramètres environnementaux
+au sein d’une enceinte fermée
+hermétiquement et contenant un
+végétal chlorophyllien :
+
+teneur en dioxygène
+(O2) ;
+
+teneur en dioxyde de
+carbone (CO2) ;
+
+luminosité reçue par
+l’enceinte.
+
+Source : d’après https://www.pedagogie.ac-nantes.fr
+
+1- Indiquer sur la copie si chacune des propositions ci-dessous est juste (indiquer
+« oui » si elle est juste ou « non » si elle est fausse).
+Proposition a : à l’obscurité, la teneur en O2 augmente dans l’enceinte.
+Proposition b : à l’obscurité, la teneur en CO2 augmente dans l’enceinte.
+Proposition c : à l’obscurité, le végétal respire.
+Proposition d : à la lumière, la teneur en O2 diminue dans l’enceinte.
+Proposition e : à la lumière, la teneur en CO2 diminue dans l’enceinte.
+Proposition f : à la lumière, le végétal réalise la photosynthèse.
+Partie 2 – Énergie de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. La réaction
+chimique correspondante peut être exploitée au sein d’une pile comportant deux
+électrodes dont l’une est positionnées près de la racine de la plante et l’autre en est
+plus éloignée. Cette pile peut délivrer un courant électrique qui transporte de
+l’énergie. On admet que la puissance électrique fournie par une « pile végétale » de
+cette sorte est proportionnelle à la surface que les plantes, exposées au soleil et qui
+se trouvent au voisinage des électrodes, occupent sur le sol.
+2- À partir de vos connaissances, expliquer ce qu'est une source d'énergie
+renouvelable. Justifier que la pile végétale est considérée comme une source
+d'énergie électrique renouvelable.
+On peut estimer qu’une « pile végétale » de 1 m2 de surface globale (en feuilles et en
+racines) fournit une puissance de 3 W et que l’énergie moyenne nécessaire à la
+recharge d’un smartphone est de 10 Wh.
+3- L’énergie moyenne consommée par une famille pendant une année est
+3000 kWh. Calculer la surface nécessaire en m2 de surface de « pile végétale »
+pour fournir l’énergie annuelle à une famille.
+Indication : le Watt-heure (Wh) une unité physique qui correspond à l'énergie
+consommée ou délivrée par un système d'une puissance de 1 Watt fonctionnant
+pendant une heure
+4- À partir des arguments issus de l’étude des deux parties de l’exercice et de vos
+connaissances notamment sur le fait que la « pile végétale » peut être considérée
+comme de la biomasse, indiquer un intérêt et une limite de ce dispositif.
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+L’ozone atmosphérique et l’apparition de la vie sur Terre
+Les premières formes de vie sur Terre sont apparues dans les océans, un milieu qui
+absorbe les ultra-violets (UV). Il a fallu ensuite plus de 3 milliards d’années pour
+qu’apparaissent les premières formes de vie sur les continents.
+On cherche à comprendre l’importance de l’ozone stratosphérique dans cette
+colonisation des continents par les végétaux et les animaux.
+Document 1 : l'ozone, un filtre sélectif envers les UV
+Le rayonnement UV est potentiellement nocif pour les êtres vivants du fait de sa haute
+énergie. On subdivise les UV émis par le Soleil en trois classes, en fonction de leur
+activité biologique et du pouvoir de pénétration dans la peau humaine :
+- les UV-C : 200-280 nm, les plus énergétiques et les plus nocifs.
+- les UV-B : 280-315 nm, responsables du bronzage à retardement et des coups de
+soleil, favorisant le vieillissement de la peau et l'apparition de cancers cutanés.
+- les UV-A : 315-400 nm, responsables du bronzage immédiat et du vieillissement de
+la peau, ayant un effet cancérigène mais très inférieur à celui des UV-B.
+Le schéma ci-après représente les longueurs d’onde absorbées par l’atmosphère
+terrestre en présence ou non d’ozone stratosphérique.
+
+A : Longueurs d’onde absorbées par l’atmosphère terrestre sans ozone stratosphérique
+B : Longueurs d’onde absorbées par l’atmosphère terrestre avec ozone stratosphérique
+Source : d’après ENS Lyon, http://acces.ens-lyon.fr
+
+Document 2 : action des UV sur l’ADN dans l’atmosphère
+Dans les conditions atmosphériques, une solution d’ADN absorbe des longueurs
+d’ondes entre 210 nm et 235 nm, avec un maximum d’absorption de 100 % pour
+254 nm.
+Les principales cibles des UV dans l’ADN sont les bases thymine et cytosine.
+Lorsqu’elles sont côte à côte dans la molécule, il se forme des lésions induites par les
+photons absorbés pouvant être à l’origine de mutations. Si ces mutations touchent des
+gènes impliqués dans le contrôle du cycle cellulaire, elles contribuent à la formation de
+cellules cancéreuses ou à la mort de la cellule.
+Le graphique ci-après représente la proportion de mutations dans une solution d'ADN
+soumise à des longueurs d’onde variables en conditions atmosphériques.
+Pour chaque longueur d’onde, la proportion de mutations est estimée par rapport à un
+taux de mutation de référence, pour lequel toute la molécule d’ADN est détruite :
+- une proportion de 10-2 signifie que le taux de mutations est divisé par 100, par
+rapport à cette référence ;
+- une proportion de 10-6, un taux de mutation divisé par 1 million.
+
+Graphique représentant la proportion de mutations
+dans une solution d'ADN soumise à des longueurs d’onde variables
+Source : d’après ENS Lyon, http://acces.ens-lyon.fr/acces
+
+Document 3 : évolution des gaz de l’atmosphère terrestre dont l’ozone
+L’ozone (O3) se forme dans la stratosphère à partir du dioxygène (O2) qui réagit avec le
+rayonnement solaire.
+
+u.a. = unité arbitraire
+
+Ga : milliard d’années
+
+A : Origine de la Terre
+B : Apparition de la vie
+C : Apparition de la photosynthèse dans les océans
+D : Apparition de la respiration
+E : Colonisation des continents par les végétaux et les animaux
+Source : d’après http://svt.ac-dijon.fr/schemassvt
+
+5- À partir des informations extraites des documents 2 et 3, justifier que les UV-C
+sont les plus nocifs pour les êtres vivants.
+6- À partir des informations extraites des documents et de connaissances, expliquer
+l’importance de l’ozone stratosphérique pour la colonisation des continents par les
+plantes et les animaux.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Son et musique, porteurs d’information »
+
+La guitare ne sonne pas comme d’habitude…
+Un guitariste amateur se plaint de son oreille droite depuis quelques mois. Il souffre
+d’une gêne auditive et d’une distorsion du son perçu lorsqu’il joue de sa guitare, en
+particulier pour les sons aigus. Pour comprendre l’origine de cette sensation auditive,
+dans un premier temps le guitariste décide d’étudier le son émis par sa guitare. Dans
+un second temps, il consulte un médecin ORL pour un bilan auditif.
+Partie 1 – Du côté du son émis par la guitare
+Afin de vérifier que sa guitare n’a pas d’anomalie, le guitariste mesure les fréquences
+de sons joués par sa guitare à l’aide d’une application dédiée et souhaite les
+comparer à une loi modélisant les vibrations d’une corde.
+Il réalise en premier lieu l’expérience sur la corde la plus fine (document 1).
+Document 1 – Spectre du son joué par la corde la plus fine
+Le guitariste pince la corde la plus fine.
+À l’aide de son smartphone et d’une
+application dédiée, il enregistre le son joué
+et en obtient le spectre (figure ci-dessous).
+Le guitariste en déduit que le son joué a
+une fréquence de 328 Hz ce qui
+correspond à un Mi3.
+
+Source : Document de l’auteur
+
+Le guitariste reprend cette expérience en déplaçant son doigt sur différentes
+touches (voir figure ci-dessous) sur la même corde, la plus fine.
+Pour chaque son joué, il mesure la longueur de la partie de la corde libre de vibrer
+(figure ci-dessous). Il réalise plusieurs graphiques pour analyser les résultats de
+ses mesures (document 2).
+
+Document 2 – Exploitation graphique des données
+L représente la longueur vibrante de la corde (en cm) et f la fréquence du son joué
+(en Hz).
+
+1- L’application indique, sur le document 1, la fréquence du premier pic :
+« fréquence du pic 328,12 Hz ». Justifier que cette fréquence est celle du son
+émis.
+2- Justifier que le son joué est un son composé.
+3- En s’appuyant sur les graphiques du document 2, justifier que l’on peut
+considérer que la fréquence est inversement proportionnelle à la longueur vibrante
+de la corde.
+
+Document 3 – Une loi modélisant les vibrations de la corde
+Le père Marin Mersenne, savant et philosophe français, fut l’un des premiers à
+utiliser un laboratoire et à y faire des expériences. […] Il a été le premier à
+proposer une relation entre les différents paramètres de la corde vibrante :
+𝑓=
+
+1 T
+2𝐿 𝜇
+
+𝑓 : la fréquence du son émis par la corde (en Hz) ;
+𝐿 : la longueur vibrante de la corde (en m) ;
+𝑇 : la tension de la corde (en N) ;
+𝜇 : sa masse linéique (masse d’un mètre de corde) (en kg·m-1).
+
+Il fallut attendre le XVIIIe siècle avant d’avoir une démonstration mathématique de
+la formule de Mersenne.
+Source : D'après http://accromath.uqam.ca/2007/02/la-construction-des-gammesmusicales
+
+4- Discuter de la compatibilité des résultats expérimentaux obtenus et de la loi
+proposée dans le document 3. Une argumentation sur le choix du guitariste de
+mener toutes les mesures sur une seule et même corde est attendue.
+Partie 2 – Du côté du bilan auditif de l’oreille droite ?
+Le médecin ORL constate à l’auscultation que l’aspect du conduit auditif des deux
+oreilles du guitariste est normal. Pour identifier une éventuelle perte d’audition, il
+pratique un bilan complet d’audition.
+Document 4 – Modalités d’un bilan d’audition
+L’audiogramme représente la courbe spécifiant le niveau d’audition d’un sujet par
+rapport à des valeurs normales établies sur une large population d’adultes jeunes
+considérés comme ayant une audition normale. Le praticien fait varier l'intensité et
+la fréquence du stimulus acoustique afin de déterminer l'intensité minimum perçue
+par le patient. Deux types de conduction du son au niveau de chaque oreille sont
+testées :
+
+La conduction par voie aérienne : le praticien teste ainsi la conduction du
+son de l’oreille externe à l’oreille interne en passant par le tympan et les
+osselets.
+
+La conduction par voie osseuse : le praticien teste la conduction du son à
+travers les os du crâne grâce à un vibrateur placé à l’arrière de l’oreille.
+
+Source : D’après https://microbiologiemedicale.fr/anatomie-et-physiologie-de-loreille
+et https://www.cochlea.eu/exploration-fonctionnelle
+
+Document 5 – Comparaison des résultats de tests auditifs chez 3 patients
+dont le guitariste
+Seuls les résultats de l’oreille droite sont présentés ci-dessous. Le guitariste et les
+deux autres patients sont tous âgés d’une vingtaine d’années.
+
+Examen mesurant les seuils
+d’audition en conduction
+osseuse.
+Examen mesurant les seuils
+d’audition en conduction
+aérienne.
+
+Source : D’après http://www.orpac-grasse.com
+
+5- Identifier pour le patient 1 et le patient 2 (document 5) un des diagnostics cidessous qui pourrait lui correspondre. Justifier vos réponses.
+Diagnostic 1 :
+
+Le tympan, la chaine des osselets et la cochlée ne présentent
+pas d’anomalie. Le patient ne présente pas de surdité.
+
+Diagnostic 2 :
+
+Le tympan et les osselets sont probablement lésés mais ; la
+cochlée n’est pas atteinte. Il s’agit d’une surdité de
+transmission qui affecte l’oreille externe et/ou moyenne.
+
+Diagnostic 3 :
+
+La cochlée est atteinte mais la chaîne des osselets et le
+tympan ne présentent probablement pas d’anomalies. C’est
+d’une surdité de perception affectant l’oreille interne.
+
+Diagnostic 4 :
+
+La cochlée, le tympan et la chaîne des osselets sont
+probablement atteints. Il s’agit une surdité mixte avec
+surdité de transmission et surdité de perception.
+
+6- Le guitariste est le patient 2 (document 5). Il explique au médecin : « Pour une
+note aigue, j'entends un timbre différent depuis quelques mois. Ma guitare ne
+sonne pas comme avant ». En s’appuyant sur l’audiogramme du guitariste et sur
+le spectre d’une note aigue (document 1), proposer une explication à la
+distorsion de sa perception. Une démarche sur les harmoniques est attendue.
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+La solution hydrogène
+On s’intéresse à deux modes de production d’électricité (la production éolienne et la
+production nucléaire) puis au stockage du dihydrogène.
+Document 1 : produire de l’électricité avec le vent
+Une éolienne utilise la force du vent pour produire de l’électricité. Celui-ci actionne les
+pales de l’éolienne, ce qui entraîne un alternateur. La production électrique est
+instantanée, mais intermittente, et dépend de la vitesse du vent. Le problème principal
+de ce type de production d’électricité est son intégration au réseau. Un surplus de
+production peut perturber gravement le réseau de transport d’électricité : si trop
+d’énergie électrique est injectée sur le réseau par rapport à la demande d’énergie,
+cela peut entraîner une instabilité du réseau, pouvant aller jusqu’à la déconnexion des
+centrales.
+D’après le ministère de la transition écologique, la production d’électricité éolienne a
+représenté 6,9 % de la production totale en France pour le 1er trimestre 2019.
+La production électrique éolienne est entièrement automatisée et nécessite peu de
+maintenance. Le rendement d’une éolienne est d’environ 35 %.
+
+Document 2 : les centrales nucléaires
+En 2019, en France, la part du nucléaire s’élevait à 70,6 % de la production électrique
+totale en France.
+La production d’électricité par une centrale nucléaire est basée sur la fission d’un
+combustible nucléaire. Cette fission dégage de l’énergie qui sert à produire de la
+vapeur, qui entraîne une turbine reliée à un alternateur. La fission de sept grammes
+d’uranium produit autant d’énergie que la combustion d’une tonne de charbon. Ce
+type de centrale peut fonctionner quasiment en continu, mais une fois à l’arrêt, il faut
+plusieurs jours pour relancer la production d’électricité. Une centrale nucléaire a un
+rendement d’environ 30 %.
+
+Comme toute activité industrielle, les centrales nucléaires génèrent des déchets, dont
+certains sont radioactifs. Aujourd’hui, des solutions techniques existent pour la gestion
+de tous les déchets radioactifs, mais cela exige une sûreté très importante des
+installations. Les déchets « à vie courte » sont triés selon leur niveau de radioactivité
+et leur nature, conditionnés et stockés dans les centres de l'ANDRA. Les déchets « à
+vie longue » issus du traitement du combustible usé sont vitrifiés en blocs inaltérables
+et entreposés dans l'usine Areva NC de La Hague dans l'attente du stockage
+géologique en profondeur qui constituera une solution définitive de gestion pour ces
+déchets. Cependant pour le moment, aucun site de stockage profond n’est encore
+opérationnel.
+D’après edf.fr
+
+7- L’alternateur est un convertisseur d’énergie cité dans les documents 1 et 2 :
+indiquer la nature de l’énergie convertie et la nature de l’énergie produite.
+8- Préciser le nom du phénomène physique sur lequel s’appuie le fonctionnement
+d’un alternateur.
+9- Lors de la circulation du courant électrique, l’alternateur perd de l’énergie via
+l’échauffement des fils conducteurs le constituant : indiquer le nom de l’effet
+responsable de cette perte.
+10- Décrire par un court texte ou un schéma la chaîne de transformations
+énergétiques de l’éolienne.
+11- Calculer l’énergie nécessaire au fonctionnement d’une éolienne qui produirait
+10 MWh d’énergie électrique.
+
+Document 3 : l’hydrogène, un vecteur d’avenir
+Le dihydrogène (H2) peut tout faire, ou presque : produire de l’électricité via une pile
+à combustible ; servir de combustible, avec pour seul déchet la vapeur d’eau ; être
+transformé en méthane (CH4), voire en matières carbonées avec l’ajout de dioxyde
+de carbone (CO2), ainsi valorisé au lieu d’être rejeté dans l’atmosphère. De plus, il
+peut être stocké selon différentes options.
+
+La France produit chaque année un million de tonnes d’H2 pour différents usages
+(raffinage du pétrole, fabrication d’ammoniac, etc.). Et cela, surtout par
+vaporeformage du méthane (procédé de transformation à partir d’hydrocarbures et
+présence de vapeur d’eau), qui libère 10 tonnes de CO2 pour chaque tonne de H2
+produite…La combustion de H2, quant à elle, produit seulement de l’eau.
+L’électrolyse de l’eau, qui permet d’obtenir du dihydrogène et du dioxygène, nécessite
+de l’énergie électrique. Cette énergie est diminuée mais reste conséquente si l’on
+opère à haute température, comme c’est le cas dans le procédé EHT développé au
+Commissariat à l’Énergie Atomique (CEA). Si cette solution venait à se généraliser,
+l’impact des électrolyseurs sur le réseau électrique serait non négligeable. D’où l’idée
+d’utiliser les surplus d’électricité des sources intermittentes, ou pourquoi pas recourir
+à de petits réacteurs nucléaires modulaires hybrides. Car dès 2025, il faudra pouvoir
+produire 4 à 5 millions de tonnes de dihydrogène par an.
+D’après « Les défis du CEA » n°241
+
+12- Préciser si le document 3 fournit suffisamment de données pour comparer les
+émissions de CO2 par combustion d’hydrogène et par combustion d’hydrocarbures,
+pour une énergie thermique produite donnée. Si ce n’est pas le cas, indiquer les
+données manquantes nécessaires pour effectuer cette comparaison (on ne demande
+pas les valeurs de ces paramètres).

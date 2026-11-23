@@ -1,0 +1,189 @@
+{"pages": 7, "method": "pdftotext", "bytes": 933638, "at": "2026-11-23T09:22:01+00:00"}
+ÉVALUATIONS
+CLASSE : première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité physique-chimie
+DURÉE DE L’ÉPREUVE : 2 h
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+Nombre total de pages : 7
+PARTIE A
+Frottements fluides (10 points)
+Le frottement de l’air sur une voiture ou de l’eau sur une coque de bateau sont deux situations
+parmi d’autres qui illustrent les frottements fluides. De façon générale, lorsqu’un objet se
+déplace dans un fluide, il subit de la part de celui-ci une force de frottement dont les
+caractéristiques dépendent de la vitesse de l’objet par rapport au fluide, de sa forme et des
+propriétés du fluide. Cette force de frottement fluide s’oppose au mouvement.
+Pour étudier cette force de frottement au laboratoire, on relève toutes les 0,12 s la position du
+centre M d’un ballon de baudruche lâché sans vitesse initiale. La chronophotographie obtenue
+est représentée ci-après.
+
+O
+
+z
+
+Données :
+ intensité du champ de pesanteur terrestre : g = 9,81 m.s-2 ;
+ tout corps immergé dans un fluide subit de la part de celui-ci une action modélisée par
+⃗⃗⃗⃗A appelée poussée d’Archimède verticale, dirigée de bas en haut ;
+une force F
+
+la force de frottement f exercée par l’air sur le ballon de baudruche est opposée au
+mouvement de celui-ci ;
+dans cet exercice, on étudie le mouvement du centre de masse M du ballon de
+baudruche de masse m = 6,05 g ;
+valeur de la poussée d’Archimède subie par le ballon : FA = 1,2  10-2 N.
+
+Le référentiel d’étude est le référentiel terrestre supposé galiléen.
+1. Mouvement du ballon de baudruche
+1.1. À partir de la chronophotographie représentée ci-avant, montrer que le mouvement du
+point M est constitué de deux phases que l’on décrira avec les termes scientifiques
+appropriés.
+1.2. Montrer que, lors de la seconde phase du mouvement, la valeur v de la vitesse du point
+M est égale à 0,61 m.s-1.
+2. Forces exercées sur le ballon de baudruche
+2.1. Représenter sans souci d’échelle les forces exercées sur le ballon de baudruche lors
+de son mouvement.
+2.2. Calculer la valeur du poids du ballon de baudruche.
+2.3. Les données du pointage peuvent être traitées à partir d’un programme en langage
+Python. Un extrait de ce programme est reproduit ci-après :
+
+DVz=[ ]
+for i in range(len(Vz)-2):
+DVz=DVz+[(Vz[i+1]-Vz[i])]
+produit = [ ]
+for i in range(len(DVz)):
+produit = produit+[0.05*DVz[i]]
+for i in range(len(t)-3):
+print(‘Au point’,i+1,’m*delta v / delta t vaut’, round(produit,2),\’ kg.m/s2’)
+∆v
+
+2.3.1. Repérer la ligne permettant le calcul de l’expression m  ∆t . Quel est l’intérêt de
+ce calcul pour déterminer la valeur de la force f ?
+2.3.2. Retrouver la valeur numérique « 0.05 » qui intervient à la ligne 33.
+2.4. On s’intéresse au mouvement du point M entre les positions n°6 et n°9.
+2.4.1. Que peut-on dire de la somme des forces s’exerçant sur le ballon de baudruche
+entre ces deux positions ? Justifier.
+2.4.2. Montrer que la valeur de la norme f de la force de frottements exercée par l’air
+sur le ballon de baudruche entre les positions n°6 et n°9 est égale à
+4,710-2 N.
+
+PARTIE B
+Analyse d’un vin blanc sec bio (10 points)
+Depuis l’Antiquité déjà, Romains et Égyptiens utilisaient le dioxyde de soufre SO 2 pour
+conserver les denrées alimentaires. Encore aujourd’hui la plupart des vignerons, y compris en
+agriculture biologique, utilisent le dioxyde de soufre comme antiseptique, antioxydant et
+régulateur de fermentation.
+Depuis plusieurs années la tendance est à limiter l’utilisation de SO2 dans le processus de
+vinification car à trop forte concentration le dioxyde de soufre peut occasionner des maux de
+tête pour le consommateur.
+L’objectif de cet exercice est d’étudier dans une première partie la structure de la molécule de
+dioxyde de soufre pour comprendre sa solubilité dans le vin puis dans une seconde partie
+d’étudier le titrage d’un vin blanc sec biologique.
+Données :
+
+Couples oxydant / réducteur :
+I2(aq) / I–(aq)
+SO42-(aq) / SO2(aq)
+
+Couleurs des espèces chimiques :
+I2(aq) : marron
+
+I–(aq) : incolore
+
+SO42-(aq) : incolore
+
+SO2(aq) : incolore
+
+En l’absence de diiode, l’empois d’amidon est incolore et en sa présence, il prend une
+coloration bleue noire.
+
+Masse molaire moléculaire du dioxyde de soufre M = 64,0 g·mol-1.
+
+Électronégativités de l’oxygène χ(O) = 3,4 ; du soufre χ(S) = 2,6 ; de l’hydrogène χ(H) =
+2,2.
+
+Configuration électronique du carbone : 1s2 2s2 2p2.
+
+Configuration électronique de l’oxygène : 1s2 2s2 2p4.
+
+Structure du dioxyde de soufre SO2 et solubilité dans le vin
+Le schéma de Lewis de la molécule de dioxyde de soufre SO 2 est représenté ci-dessous :
+
+1. Etablir le schéma de Lewis de la molécule de dioxyde de carbone CO2.
+2. En comparant la représentation de Lewis de la molécule de dioxyde de carbone CO 2 avec
+celle du dioxyde de soufre SO2, proposer une explication au fait que la molécule de dioxyde
+de soufre soit coudée.
+3. Déterminer le caractère polaire ou apolaire de la liaison S–O.
+4. Déterminer le caractère polaire ou apolaire de la molécule SO2.
+5. Expliquer la solubilité du dioxyde de soufre dans le vin.
+
+Au cours de toute fermentation alcoolique, le dioxyde de soufre peut se
+retrouver combiné au composé représenté ci-contre, qui est produit au cours
+de toute fermentation alcoolique et présent dans tous les vins.
+
+6. Recopier la formule semi-développée puis entourer le groupe caractéristique.
+7. Nommer le groupe caractéristique et indiquer à quelle famille chimique appartient la
+molécule.
+8. En déduire le nom de la molécule représentée, parmi les propositions suivantes :
+A – Ethanol
+
+B – Ethanal
+
+C – Ethanone
+
+D – Propanol
+
+E – Propanal
+
+F – Propanone
+
+Titrage du dioxyde de soufre SO2 dans un vin blanc sec bio
+Le dioxyde de souffre existe dans le vin sous deux formes :
+- forme libre SO2 ;
+- forme combinée à la molécule d’éthanal.
+Avant de procéder au titrage de la totalité du SO2 dans le vin, il est donc nécessaire de
+libérer le SO2 combiné. Cette étape s’effectue par ajout d’hydroxyde de sodium (Na+(aq) et
+HO–(aq)).
+
+Le titrage du dioxyde de soufre (SO2) doit se faire en milieu acide à l’aide d’un ajout modéré
+d’acide sulfurique et il s’effectue selon la méthode de Ripper :
+Le SO2(aq) est titré en milieu acide par une solution aqueuse de diiode I2(aq) de concentration
+connue. L’équation de la réaction support du titrage est :
+SO2(aq) + I2(aq) + 2 H2O(l) → 2 I– (aq) + SO42– (aq) + 4 H+(aq)
+L’empois d’amidon est utilisé comme indicateur coloré de fin de réaction et passe de l’incolore
+au bleu.
+Le protocole expérimental suivi est le suivant :
+- introduire dans un bécher 20 mL de vin blanc sec bio ;
+- ajouter 20 mL d’une solution de soude (Na+(aq) et HO–(aq)) de concentration en quantité de
+matière c = 1,0 mol·L-1 ;
+- agiter pendant 15 minutes ;
+- ajouter 6 mL d’une solution d’acide sulfurique de concentration en quantité de matière égale
+à 1,0 mol·L-1 ;
+- ajouter quelques gouttes d’empois d’amidon ;
+- réaliser le titrage avec une solution aqueuse de diiode, I 2(aq), de concentration en quantité
+de matière c1 = 2,0.10-3 mol·L-1.
+La valeur du volume équivalent obtenu après le titrage du vin blanc sec bio étudié est Ve =
+13,8 mL.
+9. Indiquer si le protocole expérimental décrit ci-dessus permet d’effectuer le titrage de la
+totalité du dioxyde de soufre présent dans ce vin blanc sec bio.
+10. Schématiser le montage utilisé afin de réaliser ce titrage. Nommer et flécher la verrerie et
+les espèces chimiques présentes sur le schéma.
+11. Démontrer que l’équation support de titrage est bien :
+SO2(aq) + I2(aq) + 2 H2O(l) → 2 I– (aq) + SO42– (aq) + 4 H+(aq)
+12. Préciser le changement de couleur qui permet de repérer l’équivalence.
+13. Déterminer la relation, à l’équivalence, entre les quantités de matières de dioxyde de
+souffre présents initialement ni(SO2), et le diiode versé à l’équivalence nE(I2). Vérifier que la valeur
+de la quantité de diiode versée à l’équivalence vaut : nE(I2) = 2,8.10–5 mol.
+14. Déterminer la valeur de la concentration massique en SO2 du vin blanc sec bio titré. Ecrire
+le résultat de mesure avec le nombre adapté de chiffres significatifs sachant que l’incertitudetype sur la concentration massique en dioxyde de soufre est : um = 5.10-3 g·L-1.
+Selon le règlement Européen depuis 2012 sur le VIN BIO N°203/2012 (1er août 2012), pour un
+
+vin blanc sec bio la teneur maximale en SO2 total autorisée est de 150 mg·L-1 alors que pour
+un vin blanc sec non bio la teneur maximale en SO2 autorisée est de 200 mg·L-1.
+Source : journal officiel de l’union Européenne
+Consulté le 05/10/20
+
+15. Conclure si ce vin blanc sec bio étudié respecte la norme du label bio.

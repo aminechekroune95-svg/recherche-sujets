@@ -1,0 +1,220 @@
+{"pages": 9, "method": "pdftotext", "bytes": 748650, "at": "2026-11-23T09:27:28+00:00"}
+BACCALAURÉAT GÉNÉRAL
+Épreuve Commune de Contrôle Continu
+E3C
+SCIENCES DE L'INGÉNIEUR
+Coefficient 5
+Durée : 2 heures
+Aucun document autorisé – Calculatrice autorisée
+
+SUJET SI N° 2020_A2_SI_EP1_ECC2
+
+Constitution du sujet
+
+Présentation du système ............................................. Pages 2 à 3
+
+Étude d'une performance du produit .......................... Pages 2 à 5
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 6 à 8
+
+Document réponse ....................................................... Page 9 à 9
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et en
+difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier et/ou
+quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou partie du
+produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter, compléter
+ou modifier.
+L'usage de la calculatrice est autorisé dans les conditions précisées par les textes en
+vigueur.
+
+PRÉSENTATION DU SYSTÈME
+Les poêles à granulés HOBEN sont assemblés et testé
+manuellement en France avant expédition. Le choix des matériaux
+et des composants utilisés est primordial. Ces poêles à granulés
+sont des plus silencieux du marché, tout en garantissant la
+diffusion de la chaleur produite dans l'ensemble de l'habitat par
+ventilation.
+Le modèle HOBEN H11C Évolution est adapté aux besoins de
+chauffage d’une maison individuelle, il permet de chauffer une
+deuxième zone indépendante comprenant jusqu’à 3 pièces.
+
+Figure 1 - Performances du poêle HOBEN
+H11C
+
+Figure 2 - Interface de commande
+
+Figure 3 - Architecture du poêle HOBEN H11C
+
+Figure 4 - Diagramme des blocs internes du poêle HOBEN H11C
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+
+Problématique
+Fournir l’énergie thermique nécessaire au chauffage d’une maison individuelle à partir
+d’une source d’énergie renouvelable et économique.
+
+Travail demandé
+Le pouvoir calorifique inférieur (PCI) désigne la quantité d’énergie thermique par unité de
+masse ou de volume dégagée par la combustion du combustible. Les copeaux et autres
+résidus qui sont utilisés sont séchés avant la fabrication des pellets. Cela garantit un taux
+d’humidité inférieur à 10% et, dès lors, un très bon PCI.
+Les granulés utilisés ont un PCI = 4,7 kWhkg-1.
+Le prix des granulés varie en fonction de leur conditionnement et de leur qualité. Les
+granulés choisis ont un coût moyen livré de Cgranulé = 0,30 €kg-1.
+Le coût du kWh d’électricité est de CkWh elec 0,16 €.
+Question 1
+
+À partir des données ci-dessus CkWh bois, calculer le coût d’un kWh dégagé
+par la combustion des granulés de bois. Calculer Ge le gain économique en
+pourcentage réalisé en utilisant un chauffage bois par rapport à un
+chauffage électrique traditionnel.
+
+Question 2
+
+À l’aide du diagramme de la figure 4, compléter la chaine de puissance du
+document réponse DR1. Nommer dans les cases grisées le nom et la
+fonction du composant, préciser le nom des flux.
+
+DR1
+
+Le système d’alimentation en granulés est présenté dans le diagramme figure 5.
+
+Figure 5 - Système d’alimentation en granulés
+Le système permet de distribuer les granulés avec une très grande précision. Le moteur
+utilisé est un moteur pas à pas de 200 pas par tour, avec un angle de rotation minimal
+égale à pas. La vis sans fin est entrainée par le moteur.
+
+Une rotation d’un tour complet de la vis sans fin permet de délivrer un volume de granulés
+Vg = 4,3 10-4 m3.
+Les granulés utilisés ont une masse volumique de 675 kgm-3.
+Question 3
+
+Calculer la masse m1tour de granulés distribués pour un tour de vis.
+Calculer la masse minimum mmini de granulés distribués pour une rotation
+d’un pas moteur pas .
+
+À puissance maximale le poêle fourni une puissance thermique utile Pth utile = 11,5 kW,
+pour une consommation maximale de 2,7 kgh-1 de granulés de PCI = 4,7 kWhkg-1
+Question 4
+
+Calculer pour un fonctionnement à puissance maximale pendant 1 heure,
+la quantité d’énergie Ecombustion issue de la combustion des granulés ainsi
+que l’énergie thermique utile Eth utile. En déduire dans ces conditions la
+valeur représentant le rendement énergétique du poêle poêle.
+
+Question 5
+
+À partir des différents résultats obtenus et en utilisant la présentation du
+système, démontrer que le poêle HOBEN H11C est un système
+économique performant, respectueux de l’environnement et répondant au
+besoin de chauffage d’une maison. Justifier la réponse.
+
+COMMANDE DU FONCTIONNEMENT DU PRODUIT OU MODIFICATION
+DE SON COMPORTEMENT
+Les poêles HOBEN sont équipés d’un pupitre de commande permettant à l’utilisateur de
+programmer la température souhaitée dans l’habitation au cours de la journée.
+Un thermostat mesure la température ambiante de la pièce, la puissance de chauffe du
+poêle est adaptée par la commande d’une vis sans fin afin de moduler la quantité de
+granulés brûlée. Un système de soufflerie asservi assure une combustion optimale en
+fonction de la quantité de granulés à brûler.
+Un système de ventilation régulé permet de diffuser la chaleur au sein de l’habitation. Ce
+système peut être coupé afin de rendre le poêle plus silencieux. Le modèle H11C est
+canalisable et permet de souffler de l’air chaud dans une autre pièce.
+
+Problématique
+Cette partie est consacrée à la conception du système de pilotage du poêle, c’est-à-dire
+l’adaptation de la commande permettant d’obtenir une température précise dans
+l’habitation.
+Le constructeur propose une innovation « piloter le poêle à partir du clavier tactile, mais
+également à partir d’un smartphone en transformant le poêle en objet connecté ». Le
+cahier des charges imposé pour cette conception est le suivant :
+- le poêle doit être pilotable par l’écran tactile, mais aussi via une connexion à une
+box internet via un smartphone ;
+- le réglage doit comporter au moins 7 plages horaires différentes par jour de la
+semaine ;
+- la gestion de la sécurité impose le nettoyage automatique du brûleur et l’arrêt du
+poêle en cas de mauvaise combustion.
+
+Travail demandé
+Question 6
+
+Énumérer trois avantages du chauffage par granulés avec un poêle
+régulé. À l’aide de la figure 4, citer tous les éléments du système
+participant à la chaîne d’information.
+
+La température est définie sur une plage de 0 à 30°, avec une précision de 0,5°.
+Question 7
+
+Donner le nombre de valeurs possibles à stocker. Déterminer le nombre
+de bits nécessaires à un codage en valeurs en binaire.
+En admettant que chaque valeur de température est codée sur un octet.
+Calculer la taille de la mémoire nécessaire pour stocker tous les réglages
+possibles de température durant une semaine.
+
+La communication interne entre les différents composants est assurée par un bus de
+données CAN (Controller Area Network) où chaque composant représente un nœud.
+La trame de données permet d’envoyer des informations aux autres nœuds. Une trame de
+données se compose de 7 champs différents :
+• le début de trame ou SOF (Start Of Frame) matérialisé par 1 bit dominant ;
+• le champ d'arbitrage (identificateur) composé de 12 ou 30 bits ;
+• le champ de commande (ou de contrôle) composé de 6 bits ;
+• le champ de données composé de 0 à 64 bits (de 0 à 8 octets) ;
+• le champ de CRC composé de 16 bits ;
+• le champ d'acquittement composé de 2 bits ;
+• la fin de trame ou EOF (End of Frame) matérialisée par 7 bits récessifs.
+
+Question 8
+
+Dans le cas le plus défavorable (le plus long) pour l’arbitrage et dans le
+cas d’une donnée à transmettre de 64 bits, calculer le pourcentage
+d’informations représentant la donnée par rapport à la taille totale de la
+communication.
+Dans le cas d’un bus CAN ISO 11898-3 à 125 kbits·s-1, calculer le débit
+d’information utile.
+
+Afin de piloter la marche ou l’arrêt du poêle à distance via un smartphone relié à Internet,
+le poêle est équipé d’une prise RJ45 qui assure la connexion à la box. Cette connexion
+Ethernet utilise le principe du codage Manchester :
+
+Dans ce type de codage :
+- la valeur logique 0 est codée
+par un front montant sur une
+période d'horloge ;
+- la valeur logique 1 est codée
+par un front descendant sur
+une période d'horloge.
+Les niveaux de tensions sont normalisés entre +5V et -5V
+Question 9
+
+Représenter le chronogramme de la tension générée dans le cas d’envoi
+du code 1110001101 en codage Manchester.
+
+Le pilotage du système est assuré par un programme en Python dont voici un extrait :
+while allumé == True :
+…
+Réguler()
+…
+Éteindre()
+Question 10
+
+Modifier librement le programme afin de lancer une fonction
+Nettoyer_bruleur() plutôt que la fonction Réguler() si la variable
+temps_combustion devient supérieure à 120 (minutes). La combustion
+peut ensuite revenir à la normale. Modifier également le programme
+pour que le poêle s’éteigne si la variable défaut_flamme devient vraie.
+
+Question 11
+
+Valider les choix de conception de la commande du poêle en fonction
+de tous les points du cahier des charges. Proposer des pistes
+permettant d’améliorer le pilotage à distance de ce système.
+
+DOCUMENT RÉPONSE DR1
+Étude d'une performance du produit question 2 : Chaine de puissance à compléter

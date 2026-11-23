@@ -1,0 +1,379 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1217579, "at": "2026-11-23T09:27:15+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES de L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Axes de programme :
+Indiquer sans les modifier les compétences développées du programme
+Analyser le besoin d’un produit par une démarche d’ingénierie système
+Caractériser la puissance nécessaire au fonctionnement d’un produit ou un système
+Caractériser l’énergie nécessaire au fonctionnement d’un produit ou un système
+Quantifier les écarts de performance entre les valeurs attendues, mesurées, simulées
+Caractériser les grandeurs physiques en entrées/sorties d’un modèle multiphysique traduisant la transmission
+de puissance
+Traduire le comportement attendu ou observé d’un objet par une structure algorithmique
+Modéliser sous une forme graphique une structure, un mécanisme ou un circuit
+Modéliser les actions mécaniques
+Caractériser les échanges d’informations
+Associer un modèle à un système asservi
+Déterminer les grandeurs flux (courant) et effort (tension) dans un circuit électrique
+Déterminer les grandeurs géométriques et cinématiques d’un mécanisme
+Rendre compte de résultats
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Constitution du sujet
+
+Étude d'une performance du produit .......................... Pages 4 à 7
+
+Commande du fonctionnement du produit ou modification de son
+comportement .............................................................. Pages 8 à 11
+
+Documents réponses ................................................... Pages 13 à 14
+
+Rappel du règlement de l'épreuve
+Le sujet comporte deux exercices indépendants l'un de l'autre,
+équilibrés en durée et en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit.
+Les candidats doivent mobiliser leurs compétences et les
+connaissances associées pour qualifier et/ou quantifier cette
+performance, à partir de l'analyse, de la modélisation de tout ou partie
+du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du
+produit ou la modification de son comportement. L'étude s'appuie sur
+l'algorithmique et de la programmation, à partir de ressources fournies
+au candidat qu'il devra exploiter, compléter ou modifier.
+
+PRÉSENTATION DE LA PERGOLA BIOCLIMATIQUE
+Une pergola « bioclimatique » est une pergola à lames orientables qui permet
+de moduler l’ensoleillement sur une terrasse et dans la maison, tout au long
+de la journée et en fonction de la saison. Elle est conçue pour résister au vent,
+et les lames peuvent être mises dans une position angulaire telle que la
+pergola se transforme en toiture fermée, afin de protéger la terrasse des
+intempéries.
+
+Photo 1 : pergola bioclimatique
+
+Figure 1 : diagramme des exigences
+
+Problématique : la motorisation choisie permet-elle de replier les lames en
+présence de vent ? La commande permet-elle de gérer automatiquement le
+repliement des lames en présence de vent ?
+
+EXERCICE 1 - ÉTUDE D’UNE PERFORMANCE DU PRODUIT
+Vérification de la capacité du moteur à manœuvrer les lames pour une
+valeur maximale de la vitesse du vent de 30 kmh-1.
+Un motoréducteur entraîne en rotation l’ensemble des 25 lames de la pergola
+grâce au profil de manœuvre. Ces lames parallèles peuvent alors s’incliner
+avec un angle compris entre 0° et 90°.
+
+Figure 2 : schéma de principe
+
+L’étude est menée en faisant les hypothèses suivantes :
+- Le vent a pour direction −x⃗ ;
+- les liaisons sont considérées comme parfaites ;
+- les lames ne sont soumises qu’à l’action mécanique du vent et de la
+pesanteur.
+Une lame est réalisée à partir d’un profilé extrudé en aluminium, de largeur
+190 mm, d’épaisseur 35 mm et de longueur de 4 m. La masse linéique de ce
+profil d’aluminium est de 1,5 kgm-1.
+Le cas le plus défavorable correspond à une orientation verticale des lames.
+Dans ce cas, la force du vent est orthogonale au profil des lames,
+conformément à la figure 3.
+Hypothèses : L’étude portera uniquement sur lame AB.
+
+⃗⃗⃗⃗⃗ ‖=190 mm
+‖AB
+
+Figure 3 : modélisation de l’action mécanique du vent sur une lame en position verticale
+
+L’action mécanique du vent s’applique au centre de poussée du profil, point
+noté ici Cp et situé au milieu du segment [AB].
+⃗ vent→lame ‖= 1 ρ∙S∙Cx ∙V2 , avec :
+La norme de cette action mécanique est ‖F
+
+Cx =1, coefficient aérodynamique sans dimension d’une pale modélisée par un
+profil rectangulaire ;
+S, aire de la surface de la lame sur laquelle s’applique le vent, en m2
+ρ=1,225 kg∙m-3, masse volumique de l’air ;
+V, vitesse du vent par rapport au sol en ms-1 .
+Un capteur permet de mesurer la vitesse du vent.
+Au-delà d’une vitesse de vent de 30 kmh-1, le repliement des lames est
+effectué. La vitesse du vent par rapport au sol considérée est V = 30 km∙h-1 .
+I-1
+Figure 3
+
+Calculer, sous ces hypothèses, la valeur numérique de la
+norme de l'action mécanique du vent sur la lame
+⃗ vent→lame ‖ en N.
+‖F
+Exprimer, sous forme de torseur, l’action mécanique
+exercée par le vent sur la lame, au point Cp ,
+{τ(pesanteur→lame)}(𝑥,𝑦⃗,𝑧)
+Ecrire le résultat sous la forme ci-dessous :
+… …
+{τ(pesanteur→lame)}(𝑥,𝑦⃗,𝑧)={… …}
+… … (x,y,z)
+Cp
+
+La norme du moment, en N·m, au point A du vent sur une lame s’écrit :
+⃗⃗⃗ A (vent→lame)‖ = d  ‖F
+⃗ vent→lame ‖
+‖M
+avec :
+- d : distance en m
+
+‖Fvent→lame ‖ : force du vent en N
+
+L’action mécanique du vent sur chaque lame est considérée comme identique,
+quel que soit les positions relatives des lames les unes par rapport aux autres.
+Question I-2
+
+Commenter l’hypothèse faite sur les actions mécaniques
+identiques du vent sur les différentes lames, quel que soit les
+positions relatives des lames les unes par rapport aux autres.
+Calculer la valeur numérique du moment maximal au point A
+de l’action mécanique du vent sur une lame en Nm.
+
+Lors du mouvement, le couple en sortie du réducteur varie entre 0 et Cvent max .
+Compte tenu de cette variation, et afin de simplifier les calculs, le couple en
+sortie du réducteur dû à l’action mécanique du vent est considéré constant
+avec une valeur moyenne Cvent _moy = 38 Nm.
+Le couple moyen dû à l’action mécanique de la pesanteur en sortie du
+réducteur est Cpes_moy = 70 Nm.
+La chaîne de puissance est représentée figure 4.
+
+Figure 4 : chaîne de puissance de la pergola
+
+Données :
+
+Les trois étages de réduction ont le même rapport de réduction r = 7 et le même
+rendement η = 0,92 ;
+La vitesse de rotation en sortie du motoréducteur est constante
+Nmoy = 9 tr∙min-1 . Cela permet de respecter l’exigence de temps de manœuvre
+des lames de 2 s ;
+Le couple en sortie du motoréducteur est la somme des couples dus à l’action
+mécanique de pesanteur et du vent Cmoy =Cvent_moy +Cpes_moy .
+
+Question I-3
+
+Question I-4
+
+Donner la nature des énergies à l’entrée et à la sortie du
+moteur.
+Calculer la valeur numérique du rendement ηred de
+l’ensemble des étages du réducteur.
+
+Calculer la vitesse de rotation du moteur moyenne ωmmoy en
+rad.s-1.
+Calculer le couple moyen Cmmoy en N.m à la sortie du
+moteur.
+
+Le moteur est alimenté à sa tension nominale Umoy = 48 V.
+
+Question I-5
+
+Déterminer la puissance électrique moyenne Pelec_moy en W,
+absorbée par le moteur, en déduire la valeur du courant
+électrique moyen absorbé Imoy en A.
+
+La figure 5 du document réponse DR1 donne la courbe caractéristique de la
+zone de fonctionnement normal du moteur à courant continu utilisé.
+Question I-6
+
+Placer sur le graphique le point de fonctionnement du moteur
+calculé aux questions précédentes.
+Conclure quant à la capacité du moteur à manœuvrer les
+lames en présence de vent.
+
+EXERCICE 2 : ÉTUDE de la COMMANDE DU FONCTIONNEMENT DE
+LA PERGOLA
+
+Objectifs :
+vérifier que la chaîne d’acquisition de l’information « vent » permet une gestion
+automatique de la position des lames de la pergola ;
+vérifier que l’algorigramme proposé permet de tenir compte des différents
+paramètres et contraintes liés à cette problématique.
+Caractéristiques partielles de l’ensemble « capteur » :
+– surface panneau photovoltaïque : 2925 mm² ;
+– vitesse de vent mesurable : de 0,5 m·s-1 à 40 m·s-1 ;
+– résistance aux rafales jusqu’à 60 m·s-1 ;
+– rayon moyen de l’anémomètre : 55 mm ;
+– transmission sans fil, portée 15 à 30 m suivant installation.
+Le système de commande de la pergola bioclimatique comprend un ensemble
+nommé « bloc capteurs » dont le diagramme de définition de blocs est donné
+à la figure 5. L’intérêt de cet unique « bloc capteurs » est sa facilité
+d’installation puisqu’il ne nécessite aucun cablage dans la mesure où il est
+autonome en énergie.
+
+Figure 5 : diagramme de définition de blocs du « bloc capteurs »
+
+La girouette entraîne notamment deux aimants en rotation qui vont provoquer
+des ouvertures et des fermetures d’un interrupteur de type ILS. Cet ILS est
+inséré dans un circuit électrique dont un schéma simplifié est fourni à la figure
+6.
+
+Figure 6 : schéma simplifié d’un capteur ILS et de son circuit électrique de conditionnement associé
+
+II-1
+
+Compléter, sur le document réponse DR1, l’état de l’ILS
+(ouvert ou fermé) en fonction des différentes positions
+significatives possibles de l'aimant.
+En déduire la fréquence du signal Vils quand la girouette
+de l’anémomètre tourne à 50,26 rad·s-1.
+
+Afin de disposer de l’information « vitesse du vent » la plus exacte possible,
+de nombreux paramètres (vitesse de vent minimal entrainant la rotation de la
+girouette, considérations aérodynamiques complexes, …) rentrent en compte.
+Les fabricants réalisent des essais permettant d’établir la courbe de
+comportement de l'ensemble.
+
+La relation entre la vitesse de rotation de la girouette et la vitesse linéaire du
+vent est :
+girouette = 14,64 · Vvent + 9
+girouette : vitesse de rotation de la girouette en rad·s-1
+Vvent : vitesse linéaire du vent en m·s-1
+Question II-2
+
+Compléter, sur le document réponse DR1, la ligne du
+tableau 1 correspondant à la vitesse de rotation de la
+girouette.
+
+La figure 7 représente la chaine d’information de la mesure de la vitesse du
+vent. Celle-ci permet l’étude de l’algorigramme de gestion de la mise en
+sécurité de la pergola quand les conditions de vent deviennent critiques.
+Vitesse
+linéaire du
+vent (Vvent)
+
+Tension
+Elaborer un signal Vvent (Vils)
+périodique image
+de Vvent
+
+Conversion
+fréquence
+tension
+
+Tension
+continue
+Vvent
+
+Nombre
+Conversion Vvent (Nvent)
+analogique
+numérique
+
+Figure 7 : chaine d’information liée à la vitesse du vent
+
+II-3
+
+Compléter, sur le document réponse DR1, la ligne du
+tableau 1 correspondant à la sortie du convertisseur
+analogique numérique sachant qu’il code sur 10 bits et à
+une tension de référence Vref = 5 V.
+Nvent est donné par la relation
+V
+
+V
+
+Nvent = vent
+sachant que q = 2ref
+n
+q
+La figure 8 représente l’algorigramme de la fonction « vent » qui gère la
+commande de la mise en sécurité de la pergola.
+Cet algorigramme doit permettre d’éviter les manœuvres répétées de la
+pergola lorsque les conditions de vent sont proches du seuil limite choisi pour
+sa mise en sécurité.
+Question II-4
+
+Expliquer, l’intérêt de la fonction « Calcul de la moyenne
+sur les 10 dernières valeurs de Nvent ».
+
+Question II-5
+
+Conclure sur le fait que la chaine d’information de la
+vitesse du vent et l’algorigramme de gestion de la mise en
+sécurité de la pergola remplissent bien leurs fonctions.
+
+Figure 8 : algorigramme de la fonction « vent »
+
+DOCUMENTS RÉPONSES
+DR1 - Question I-6
+
+(tr·min-1 )
+Figure 5 : courbe caractéristique du moteur à courant continu
+
+DR1 - Question II-1
+Position 1
+
+Position 5
+
+Position 2
+
+Position 6
+
+Position 3
+
+Position 7
+
+Position 4
+
+Position 8
+
+DR2 - Question II-2 & Question II-3
+
+Vitesse linéaire du
+vent en m.s-1
+Vitesse de rotation de
+la girouette en rad.s-1
+Fréquence de Vils en
+Hz
+Tension continue
+image de Vvent en V
+Nombre image de Vvent
+(Nvent)
+
+0,5
+
+Seuil
+d’ouverture
+(seuil 1) :
+
+Seuil de
+fermeture
+(seuil 2) :
+12,5
+
+10,39
+
+52,33
+
+98,93
+
+122,23
+
+378,5
+
+0,05
+
+0,5
+
+1,25
+
+Tableau 1

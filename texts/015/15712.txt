@@ -1,0 +1,307 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1712028, "at": "2026-11-23T09:28:14+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique,
+doit être obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont relatifs à l’enseignement commun de
+l’enseignement scientifique. Il indique son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Élimination d’une substance dans le sang
+Sur 8 points
+
+Les parties A, B et D de cet exercice peuvent être traitées de façon indépendante.
+Dans la partie C, on attend du candidat qu’il compare la pertinence des modèles
+étudiés dans les parties A et B.
+
+Partie A
+On injecte une dose de 1 gramme d'un médicament dans le sang d'un patient. On
+souhaite étudier la quantité de médicament présente dans le sang en fonction du
+temps. On sait que le médicament est progressivement éliminé par l’organisme de
+sorte que, chaque heure, la quantité de médicament présente dans le sang diminue
+de 30 %.
+On modélise cette situation en notant, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de
+médicament (exprimée en grammes) qui est présente dans le sang du patient après
+𝑛 heures écoulées depuis l’injection. Sous ces conditions, on a 𝑢0 = 1.
+1- Justifier que, selon cette modélisation, 𝑢1 = 0,7 et 𝑢2 = 0,49 .
+On admet alors que la suite (𝑢𝑛 ) est une suite géométrique de raison 0,7.
+2- En déduire, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3- On sait que le médicament n’est plus actif lorsque la quantité présente dans le
+sang est strictement inférieure à 0,2 g. D’après cette modélisation, pendant quelle
+durée le médicament est-il actif ? Expliquer brièvement la démarche.
+
+Partie B
+Dans cette partie on suppose que la quantité de médicament présente dans le sang
+du patient (exprimée en grammes) peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par 𝑓(𝑡) = 0,7𝑡 où 𝑡 représente le temps écoulé depuis l’injection
+(exprimé en heures).
+Ci-après, on donne la courbe représentative 𝐶𝑓 de la fonction 𝑓 dans un repère
+orthogonal du plan.
+On a tracé en pointillés la droite tangente à 𝐶𝑓 au point A d’abscisse 3.
+
+4- Avec la précision permise par le graphique, répondre aux deux questions
+suivantes :
+4-a- Quelle est la quantité de médicament présente dans le sang trois heures après
+l’injection ?
+4-b- Quelle est la valeur de 𝑓’(3)? Comment interpréter cette valeur dans le contexte
+de l’exercice ?
+
+5-a- Recopier et compléter le tableau de valeurs ci-dessous à l'aide d’une
+calculatrice (on arrondira à 0,01).
+𝑡
+
+𝑓(𝑡)
+
+0,24
+
+4,1
+
+4,2
+
+4,3
+
+4,4
+
+4,5
+
+4,6
+
+4,7
+
+4,8
+
+4,9
+
+5-b- On rappelle que le médicament n’est plus actif lorsque la quantité présente dans
+le sang est strictement inférieure à 0,2 g.
+Donner une valeur approchée à 0,1 du temps au bout duquel le médicament cesse
+d’être actif.
+
+Partie C
+On souhaite donner une indication précise sur la durée du principe actif du
+médicament.
+6- D’après vous quel est le modèle le plus pertinent ? Justifier brièvement la réponse.
+
+Partie D
+Le médicament a pour but de faire baisser le taux de glycémie chez des patients
+ayant un taux de glycémie anormalement élevé. Afin de tester l’efficacité de ce
+médicament sur un groupe de patients (que l’on appellera « groupe-test » par la
+suite), on procède comme ceci : 60 % des patients de ce groupe reçoivent le
+médicament et les autres patients reçoivent un placebo.
+À l’issue du traitement, on mesure leur taux de glycémie et les résultats sont les
+suivants :
+-
+
+chez les patients ayant reçu le médicament, on observe une baisse du taux de
+glycémie dans 15 % des cas ;
+
+-
+
+chez les patients ayant reçu le placebo, on n’observe aucune baisse du taux
+de glycémie dans 90 % des cas.
+
+On choisit au hasard un patient du groupe-test et on note :
+𝑀 l’événement « le patient a reçu le médicament »
+̅ l’événement « le patient a reçu le placebo»
+𝑀
+𝐵 l’événement « on observe chez le patient une baisse du taux de glycémie »
+7- D’après les données ci-dessus, quelle est la valeur de 𝑃𝑀̅ ( 𝐵) ?
+̅ ∩ 𝐵) et interpréter ce résultat.
+8- Calculer la probabilité 𝑃( 𝑀
+9- On admet que 𝑃(𝐵) = 0,13. On choisit au hasard un patient du groupe-test et on
+constate que son taux de glycémie a baissé. Quelle est la probabilité qu’il ait pris le
+placebo (on arrondira au centième) ?
+10- À votre avis, peut-on considérer que ce test a prouvé l’efficacité du
+médicament ? Justifier.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+Les paramètres du son
+Sur 12 points
+Les parties 1 et 2 peuvent être traitées indépendamment l’une de l’autre.
+La partie 3 est une argumentation s’appuyant sur les parties 1 et 2.
+Partie 1 – Masse et fréquence
+On dispose de trois marteaux M1, M2 et M3 de masses respectives m1 = 0,24 kg,
+m2 = 0,48 kg et m3 = 1,44 kg.
+L’expérience consiste à les laisser tomber sur une enclume. Un logiciel d’acquisition
+enregistre le signal sonore émis.
+On désigne respectivement par f1 , f2 et f3 les fréquences fondamentales des sons
+émis par les marteaux M1, M2 et M3 lors de l’expérience.
+Document 1 – Spectre des fréquences des sons émis lors de la chute des
+marteaux
+
+Spectre du son obtenu avec le marteau 1
+
+Spectre du son obtenu avec le marteau 2
+
+Spectre du son obtenu avec le marteau 3
+
+1- Lire sur le document 1 les fréquences fondamentales f1 , f2 et f3 des sons émis
+lors de l’expérience et noter leurs valeurs sur la copie.
+2- Comparer ces fréquences. La masse du marteau influe-t-elle sur la fréquence
+fondamentale du son émis ?
+3- Comment qualifie-t-on le son du spectre 2 ? Justifier.
+4- Comment qualifie-t-on le son des spectres 1 et 3 ? Justifier. Comment appelle-ton la fréquence autre que le fondamental dans ces spectres ?
+5- Grâce à vos connaissances, déterminer si l’humain est capable de détecter les
+fréquences produites par le marteau 3.
+
+Document 2 – Schéma d’une oreille humaine
+
+Source : www.audition.fr
+
+6- Présenter comment l’humain parvient à détecter un son. Le document 2 est une
+aide mais n’a pas pour but d’être analysé.
+Partie 2 – Tension et fréquence
+Dans cette partie, on tend une corde de longueur quelconque à l'aide d'une masse
+variable 𝑚.
+
+On a relevé dans le tableau ci-dessous les fréquences fondamentales obtenues en
+pinçant la corde :
+Masse (en kg)
+
+8,070
+
+9,990
+
+11,110
+
+Fréquence (en Hz)
+
+7- Peut-on affirmer que la fréquence fondamentale du son est proportionnelle à la
+masse utilisée pour tendre la corde ? Justifier.
+On propose de modéliser le mieux possible la manière dont la fréquence
+fondamentale, exprimée en Hz, varie en fonction de la masse 𝑚, exprimée en kg, à
+l'aide d'une fonction définie sur l’ensemble des réels positifs. On considère les trois
+fonctions suivantes :
+𝑓1 ∶ m ⟼ 71√m
+
+𝑓2 ∶ m ⟼ 25m
+
+et
+
+𝑓3 ∶ m ⟼
+
+9 2
+m
+
+8- Donner un tableau de valeurs de chacune des fonctions, en prenant les masses
+données.
+9- Quelle fonction modélise alors le mieux le problème ? Justifier.
+Partie 3 – Analyse d’un texte
+Voici un extrait du Commentaire au songe de Scipion écrit par Macrobe aux
+alentours de 400 après JC.
+« [...] la diversité des sons, indépendante des hommes, correspondait aux marteaux.
+Alors il mit tout son soin à en évaluer le poids, et après avoir noté la différence de
+poids qui caractérisait chacun il fit fabriquer des marteaux de poids différents, en plus
+ou en moins ; les sons produits par leurs coups ne ressemblaient en rien à ceux
+d’avant et ne s’accordaient plus aussi bien. Il constata alors que l’harmonie sonore
+était réglée par les poids, et après avoir relevé les nombres qui définissaient la
+diversité bien accordée de ces poids, il passa des marteaux à l’examen des
+instruments à cordes : il tendit des boyaux de mouton ou des nerfs de bœuf en y
+attachant des poids aussi variés que ceux qu’il avait découverts à propos des
+marteaux, et il en résulta bien le genre d’accord que lui avait fait espérer son
+observation antérieure, à laquelle il ne s’était pas livré pour rien. »
+Commentaire au songe de Scipion, II, 1, 9-13
+
+10- En quelques lignes, émettre une critique scientifique détaillée des affirmations
+contenues dans le Commentaire au songe de Scipion, en vous appuyant sur les
+résultats obtenus dans les parties 1 et 2.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Le rachitisme, une maladie provoquée par un déséquilibre
+alimentaire
+Sur 12 points
+Le rachitisme est une maladie de la croissance et de l’ossification chez le petit enfant
+qui peut entraîner des malformations osseuses graves. Elle est décrite depuis
+l’antiquité mais c’est au XVIIIème siècle qu’un médecin anglais, Thomas Percival
+(1740 – 1804) formula l’hypothèse d’un déficit nutritionnel à l’origine de la maladie et
+réussit à guérir des enfants en leur faisant avaler de l’huile de foie de morue.
+On s’intéresse aux mécanismes à l’origine du rachitisme et aux traitements
+possibles.
+Document 1 – Expériences historiques de Elmer Verner Mc Collum
+Les recherches de McCollum au début des années 1920 ont révélé que les rats
+pouvaient développer le rachitisme lorsqu’ils étaient nourris avec un régime à base
+de céréales uniquement. En testant plus de 300 régimes alimentaires différents, il
+découvre que l’huile de foie de morue peut prévenir le rachitisme. S’appuyant sur
+des travaux antérieurs sur la xérophtalmie (maladie des yeux, évoluant vers la
+cécité en l'absence de traitement) ayant abouti à la découverte de la vitamine A,
+McCollum nourrit les animaux souffrant de rachitisme avec de l’huile de foie de
+morue chauffée ou non. Il parvient à guérir certains rats et nomme le facteur à
+l’origine du rétablissement de ces rats « vitamine D ».
+
+Résultats des expériences de Elmer Mc Collum.
+Source : D’après National Academy of sciences, Unravelling the enigma of vitamin D.
+
+1- D’après vos connaissances, expliquer en quoi choisir un régime alimentaire
+constitué uniquement de céréales va causer à plus ou moins long terme des
+problèmes de santé.
+2- Interpréter les résultats des expériences historiques de Elmer Verner Mc Collum
+présentés sur le document 1.
+Quelques décennies après la découverte de l’huile de foie de morue comme
+traitement du rachitisme, on remarqua également l’effet bénéfique sur la maladie
+d’une exposition au soleil.
+3- Au XVIIIème siècle, on a constaté que le rachitisme s’est principalement
+développé en milieu urbain au Nord de l’Europe loin des côtes à l’époque
+industrielle.
+Exploiter le document 2 suivant, à l’aide de vos connaissances, pour expliquer
+que la maladie, à l’époque industrielle, ait été plus fréquente en milieu urbain,
+dans les régions du Nord de l’Europe, situées loin des côtes.
+
+Document 2 – alimentation et vitamine D
+Document 2A : la synthèse de vitamine D par l’organisme
+
+Source : www.anneguillot.com
+Document 2B : les aliments contribuant à répondre
+aux besoins en vitamine D de l’organisme
+
+En France, les principaux aliments contributeurs aux apports en vitamine D dans la
+population sont les poissons et les produits laitiers (yaourts, fromage blanc,
+fromage, lait) qui contribuent respectivement à 19 % et 25 % des apports chez les
+adultes et à 12 % et 40 % des apports en vitamine D chez les enfants de 11 à
+17 ans.
+Pour les enfants de moins de 10 ans, les produits laitiers sont les principaux
+contributeurs puisqu’ils couvrent 63 % de leurs besoins en vitamine D.
+Source : d’après ANSES
+
+Document 3 : Puissance solaire reçue au sol, en fonction des heures de la
+journée
+
+Source : d’après Le Livre Scolaire
+
+Aujourd’hui, de nombreuses campagnes de prévention préconisent d’éviter de
+s’exposer au soleil, surtout entre 12 h et 16 h, car une surexposition aux rayons UV
+du soleil peut entraîner l’apparition de cancers de la peau.
+4- À l’aide de vos connaissances, expliquer par un texte accompagné d’un schéma,
+l’origine des variations de la puissance solaire reçue au sol, observées dans le
+document 3.
+5- Expliquer la recommandation générale des campagnes de prévention des
+cancers de la peau : « éviter l’exposition au soleil entre 12 h et 16 h ».
+6- Discuter du message principal des campagnes de prévention des cancers de la
+peau, au regard des risques éventuels de rachitisme.

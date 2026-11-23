@@ -1,0 +1,447 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1710389, "at": "2026-11-23T09:30:54+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Le candidat traite seulement deux exercices, de son choix,
+parmi les trois qui sont proposés dans ce sujet.
+Il indique son choix en début de copie.
+
+Exercice 1 – Niveau première
+Thème « La Terre, un astre singulier »
+
+L’âge de la Terre
+L’estimation de l’âge de la Terre a été le sujet de controverses et a évolué au cours
+des siècles au fur et à mesure des connaissances et des progrès techniques.
+1- À partir de vos connaissances, indiquer deux arguments (ou méthodes)
+scientifiques autres que la radiochronologie qui ont été utilisés au cours du
+temps pour estimer l’âge de la Terre.
+En 1969, une météorite du type chondrite carbonée est tombée au nord du Mexique.
+Les scientifiques l’ont nommée météorite "Allende". Ce type de météorite s’est formé
+en même temps que le système solaire.
+Document 1 – Caractéristiques de la météorite Allende
+La météorite Allende contient des
+structures en formes de petites
+sphères de minéraux appelées
+chondres dont la composition est
+proche de la composition moyenne
+de la Terre.
+Ces chondres appartenant à la
+même météorite ont tous le même
+âge et contiennent du rubidium 87
+(87Rb) qui avec le temps se
+désintègre en strontium 87 (87Sr),
+un des isotopes stables du
+strontium.
+Des mesures de rapports
+isotopiques ont été réalisées sur
+ces chondres.
+
+Figure – La météorite Allende
+Source : acces.enslyon.fr/acces/thematiques/limites/Temps/datationisotopique/enseigner/les-meteorites-temoins-dela-formation-du-systeme-solaire
+
+Document 2 – La radiochronologie, une méthode de datation
+La radiochronologie consiste à mesurer dans plusieurs échantillons d’une même
+roche la quantité de noyaux pères rubidium 87 (87Rb), de noyaux fils strontium 87
+(87Sr) et de noyaux stables strontium 86 (86Sr). On déduit des rapports isotopiques
+(rapports des quantités mesurées) 87Sr/86Sr et 87Rb/86Sr.
+En traçant la courbe représentant le rapport isotopique 87Sr/86Sr en fonction du
+rapport isotopique 87Rb/86Sr, une droite est obtenue.
+Cette droite, appelée droite isochrone (iso : identique et chronos : temps), peut être
+modélisée par la fonction 𝑦 = 𝑎𝑥 + 𝑏. Le coefficient directeur de 𝑎 de la droite
+donne, après un calcul, l’âge de l’ensemble des échantillons de la roche.
+
+Document 3 – Tableau des demi-vies de quelques noyaux radioactifs utilisés
+dans des méthodes de datation en géosciences
+Méthode de datation utilisée
+en géosciences
+
+Couple isotopique
+utilisé
+
+Demi-vie du noyau père
+
+Rubidium 87 - Strontium 87
+
+87Rb/87Sr
+
+47 × 109 années
+
+Uranium 234 - Thorium 230
+
+234U/230Th
+
+245 500 années
+
+Source : à partir des données issues de https://fr.wikipedia.org, article période radioactive
+
+2- Parmi les noyaux 87
+37Rb, 38Sr et 38Sr, indiquer en justifiant quel est le noyau
+radioactif.
+
+3- Donner la définition de la demi-vie d’un noyau radioactif.
+4- À l’aide du document 3, justifier l’utilisation du couple Rubidium/Strontium pour la
+datation de la météorite Allende, plutôt que la datation avec le couple
+Uranium/Thorium.
+
+Document 4 – Droite isochrone des rapports isotopiques des chondres pour
+le couple Rb/Sr de la météorite Allende
+(avec les coordonnées x ; y associées à certains points)
+0,7025
+0,05213 ; 0,70214
+
+0,702
+
+87Sr/86Sr
+
+0,7015
+0,701
+0,7005
+0,7
+
+0,0066 ; 0,69925
+
+0,6995
+0,00853 ; 0,69933
+
+0,699
+
+0,00017 ; 0,69877
+
+0,6985
+
+0,01
+
+0,02
+
+0,03
+
+0,04
+
+0,05
+
+0,06
+
+87Rb/86Sr
+Source : construite à partir de données issues de
+https://www.sciencedirect.com/science/article/abs/pii/0016703776901083
+
+5- Montrer à l’aide du document 4 que le coefficient directeur de la droite isochrone
+correspond approximativement à une valeur de 0,065.
+
+Document 5 – Tableau de correspondance entre valeur du coefficient
+directeur d’une droite isochrone et âge de l’échantillon étudié
+pour le couple Rb/Sr
+Coefficient directeur
+
+Âge (années)
+
+0,000028
+
+2x106
+
+0,000063
+
+4,5x106
+
+0,028
+
+2x109
+
+0,065
+
+4,5x109
+
+0,88
+
+4,5x1010
+
+15,38
+
+2x1011
+
+6- En vous appuyant sur le document 5, montrer comment la datation d’une
+météorite comme celle d’Allende apporte un argument en faveur d’un âge de la
+Terre d’environ 4,57 Ga.
+
+Exercice 2 – Niveau première
+Thème « Son, musique et audition »
+
+Un concert des Gipsy Kings
+Créés en 1979, et révélés au grand public par leur titre « Bamboleo », les Gipsy
+Kings sont un groupe originaire d'Espagne et du sud de la France, composé de
+guitaristes et chanteurs issus de deux familles d’origine catalane et gitane. Leur
+musique, emblématique de la tradition tsigane, est enrichie d'apports flamenco, pop
+et de rythmes latins.
+En 2004, le groupe s’est produit dans un manoir, à Kenwood house à Londres. Un
+enregistrement du concert a été réalisé : Live at the Kenwood house of London.
+Cet exercice propose d’aborder plusieurs aspects de ce concert des Gipsy Kings.
+Partie 1 – Accordage des guitares acoustiques avant le concert
+Quelques minutes avant le début du concert, les guitaristes accordent leurs
+instruments. Cela consiste à modifier les réglages des guitares acoustiques pour en
+obtenir les notes désirées, afin que tous les instruments ne soient pas dissonants
+entre eux. Pour ce faire, on utilise un accordeur électronique.
+Document 1 – Fréquence et note associée
+Schéma légendé d’un manche d’une guitare acoustique à six cordes
+
+Fréquences fondamentales de quelques notes de musique
+
+Exemple : pour accorder la corde n°1, le musicien la pince ; l’appareil affiche le
+spectre en fréquences de la note émise ; enfin, il effectue les réglages nécessaires
+pour la faire correspondre à 82,4 Hz, c’est-à-dire à un Mi1.
+Source : d’après Wikipedia
+
+Document 2 – Spectre en fréquences de la note émise par la corde n°6 d’une
+guitare avant accordage
+
+Source : zestedesavoir.com/tutoriels/1836/physique-de-la-corde-de-guitare/
+
+Document 3 – Caractéristiques d’une corde de guitare acoustique
+Lorsqu’une guitare produit un son, tout commence par la vibration d’une corde.
+Cette corde oscille d’une manière précise en fonction de différents paramètres.
+À la guitare, on peut jouer des notes de différentes hauteurs (et donc différentes
+fréquences fondamentales 𝑓) de plusieurs manières :
+
+En modifiant l’épaisseur de la corde utilisée et donc sa masse par unité de
+longueur 𝜇. Plus la masse par unité de longueur 𝜇 augmente, plus la
+fréquence fondamentale 𝑓 diminue.
+
+En modifiant la longueur 𝐿 de la corde utilisée. Le graphique (a) ci-dessous
+représente l’influence de la longueur 𝐿 sur la fréquence fondamentale 𝑓.
+
+En serrant (ou desserrant) les mécaniques pour augmenter (ou diminuer) la
+tension 𝑇 de la corde. Le graphique (b) ci-dessous représente l’influence de
+la tension 𝑇 sur la fréquence fondamentale 𝑓.
+Graphique (a) : Influence de
+la longueur de la corde sur la
+fréquence fondamentale
+Fréquence du son (Hz)
+
+Fréquence du son (Hz)
+
+Graphique (b) : Influence de
+la tension de la corde sur la
+fréquence fondamentale
+
+Longueur de la corde (cm)
+
+Nombre de quarts de tours
+effectués dans le sens du serrage
+
+Source : zestedesavoir.com/tutoriels/1836/physique-de-la-corde-de-guitare/
+
+1- À l’aide du document 2, déterminer la valeur de la fréquence fondamentale de la
+note jouée par la corde n°6 avant l’accordage.
+Associer cette fréquence à une note de musique à l’aide du document 1.
+Conclure sur la nécessité d’accorder la corde n°6.
+2- Décrire en justifiant la réponse la manipulation que doit effectuer le guitariste
+pour accorder cette corde sans la changer.
+
+Partie 2 – Enregistrement du concert
+Le concert s’est déroulé en deux parties, avec une pause au milieu pour permettre
+aux musiciens de réaccorder les guitares.
+Document 4 – Informations sur le concert
+La liste des chansons ainsi que leur durée en minutes et secondes sont indiquées
+dans le tableau ci-dessous.
+Chansons
+
+Durée
+
+Première
+partie
+
+“Intro”, “Allegria”, “La Dona”, “El Mauro”,
+“Ben, Bem, Maria”, “Trista Pena”,
+“Odeon”, “Sin Ella”, “Quiero Saber”
+
+37 min 42 s
+
+Pause
+
+/
+
+non enregistrée
+
+Deuxième
+partie
+
+“La Quiero”, “Habla Me”, “Galaxia”,
+“Fadango”, “Tu Quieres Volver”, “Oh
+Maï”, “Djobi, Djoba”, “Bamboleo”
+
+36 min 30 s
+
+Source personnelle
+
+Le concert a été intégralement enregistré et numérisé en stéréo en choisissant une
+quantification sur 16 bits et une fréquence d’échantillonnage de 44,1 kHz. On
+rappelle que la taille L en octets d’un fichier audio est donnée par la formule :
+𝑛
+𝐿 = 𝑓𝑒 × 𝑐 × × Δ𝑡
+Avec :
+𝑓𝑒 = fréquence d’échantillonnage (en hertz) ; 𝑐 = 1 (mono) ou 2 (stéréo)
+𝑛 = quantification (en bits) ; Δ𝑡 = durée (en secondes).
+3- Une plateforme de streaming souhaite diffuser ce concert des Gipsy Kings en
+intégralité. L’espace dédié pour chaque fichier musical sur cette plateforme est
+de 800 Mo (mégaoctets). Indiquer si la plateforme doit prévoir un fichier par
+partie ou si elle peut diffuser tout le concert avec un seul fichier. Justifier la
+réponse en s’appuyant sur la formule précédente.
+
+Partie 3 - Écoute du concert
+Une exposition prolongée à une intensité sonore trop importante peut créer des
+dommages irréversibles à l’organisme (voir infographie du document 5). Le volume
+du concert des Gipsy King n’a pas été mesuré en 2004 mais cela a été fait lors d’un
+autre concert en 2023 où l’on a atteint un niveau d’intensité sonore de 104 décibels.
+On suppose que le niveau d’intensité sonore du concert de 2004 avait un niveau
+d’intensité sonore équivalent.
+Document 5 – Infographie présentant la zone à risque pour l’audition selon la
+durée d’exposition et l’intensité sonore en décibels
+
+Source : ISO 1999:2013 Acoustics — Estimation of noise-induced hearing loss
+
+4- À partir des documents 4 et 5 et de vos connaissances, expliquer qu’une
+personne assistant au concert des Gipsy Kings en 2004 a pris des risques pour
+son audition. Proposer une solution qui aurait permis d’assister à ce même
+concert en toute sécurité.
+La loi française n° 96-452 du 28 mai 1996 impose une limite de niveau d’intensité
+sonore de 100 décibels pour les écouteurs fournis avec un matériel audio.
+5- À l’aide des documents 4 et 5, indiquer si une personne écoutant le concert en
+streaming avec des écouteurs réglés au maximum de la puissance autorisée
+légalement en France prend des risques pour son audition. Si tel est le cas,
+déterminer le niveau d’intensité sonore maximal de l’écoute de l’intégralité du
+concert pour une personne équipée d’écouteurs, sans risque de détérioration de
+son audition.
+
+Exercice 3 – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+Comment optimiser la croissance et la floraison d’une plante ?
+Les plantes ont un besoin vital en lumière afin de réaliser leur processus de
+photosynthèse. Ce processus permet la transformation du dioxyde de carbone
+atmosphérique et de l’eau en hydrates de carbone (sucres).
+La culture sous éclairage artificiel permet d’améliorer la productivité et la qualité des
+produits de la filière horticole. C’est un remède à la raréfaction des sols et un moyen
+de lutter contre la pollution. L’arrivée des LED offre de nouvelles possibilités
+d’adaptation de l’éclairage aux besoins de la plante tout en offrant une meilleure
+efficacité énergétique.
+
+Illustration - Lampe LED horticole automatique
+
+On cherche à optimiser l’éclairage LED pour améliorer la croissance et la floraison
+d’une plante. Trois paramètres sont étudiés.
+Partie 1 – Premier paramètre étudié
+On peut mesurer l’activité photosynthétique (intensité de la photosynthèse) en
+fonction du type de lumière utilisé pour éclairer la plante (document 1 page suivante).
+En situation naturelle, la photosynthèse est réalisée grâce à la lumière du Soleil. La
+température de surface du Soleil est de 5 800 Kelvin (K) et son profil spectral est
+présenté dans le document 2 (page suivante).
+
+Document 1- Activité photosynthétique en fonction de la longueur d’onde
+
+Document 2- Spectre d’émission du Soleil
+
+On rappelle les données suivantes :
+Constante de Wien : 2,90 x 10-3 m.K
+1 nm = 10-9 m
+1- À partir de vos connaissances, définir la photosynthèse en quelques lignes.
+2- Déterminer graphiquement la longueur d’onde pour laquelle l’intensité lumineuse
+du Soleil est maximale.
+3- Retrouver le résultat précédent par le calcul.
+4- En vous appuyant sur les documents 1 et 2 ci-dessus, expliquer pourquoi la
+lumière du Soleil permet la photosynthèse.
+Partie 2 – Deuxième paramètre étudié
+Les plantes ont besoin d’énergie lumineuse pour réaliser la photosynthèse et sont
+capables de réagir à l’éclairement ambiant.
+Document 3- Orientation d’une plante en fonction de la position du soleil
+
+Pour essayer de comprendre cette réaction, on éclaire une surface avec une lampe
+d’une puissance de 1000W, lampe positionnée de trois façons A, B et C, de sorte
+que l’inclinaison du faisceau, correspondant à l’angle entre le faisceau et la table,
+diffère.
+On peut faire les observations du document 4.
+
+Document 4- Surfaces éclairées selon la position de la source de lumière
+
+5- D’après le document 4, dans quelle position A, B, ou C, la surface éclairée estelle maximale ? Justifier votre réponse.
+6- En conséquence, dans quel cas l’énergie lumineuse est-elle la plus dispersée ?
+Justifier votre réponse.
+7- Expliquer en quelques lignes la réaction de la plante observée dans le
+document 3.
+Partie 3 –Troisième paramètre étudié
+Pour réaliser la photosynthèse, 1 cm² de plante a besoin, chaque minute, de 0,72 J
+d’énergie apportée par une lumière bleue et 0,48 J d’énergie apportée par une
+lumière rouge.
+On met en culture une plante sur une surface de 2500 cm² et on choisit d’éclairer par
+2 lampes, une bleue et une rouge.
+8- Calculer la puissance lumineuse de la lampe bleue utilisée par les plantes sur
+toute la surface.
+9- Sachant que seulement 65 % de la puissance émise sera absorbée par la plante,
+montrer que la puissance lumineuse de la lampe bleue, nécessaire pour
+permettre la photosynthèse est de 47 W.
+
+Partie 4 – Synthèse
+Différentes solutions d’optimisation de la photosynthèse par une plante vous sont
+proposées :
+Tableau – Solutions d’optimisation proposées
+Solutions
+
+E
+
+F
+
+G
+
+H
+
+Nombre de lampes
+
+deux
+
+Types de lampe
+
+LED bleue
+
+Puissance lampe
+
+100 W
+
+30 W
+
+100 W
+
+Inclinaison du
+faisceau
+
+30°
+
+30°
+
+90°
+
+LED rouge
+PBleue = 47 W
+PRouge = 30 W
+90°
+
+On rappelle que l’inclinaison du faisceau correspond à l’angle entre le faisceau et la
+table.
+10- Parmi les situations E, F, G et H, choisir la situation optimale sans justifier.

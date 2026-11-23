@@ -1,0 +1,356 @@
+{"pages": 14, "method": "pdftotext", "bytes": 1910565, "at": "2026-11-23T09:27:38+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+sans enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 14
+
+Parmi les trois exercices qui composent ce sujet, le candidat en
+traite obligatoirement deux.
+L’exercice 1, du niveau de la classe de terminale, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et
+l’exercice 3 qui sont du niveau de la classe de première. Il indique
+son choix en début de copie.
+
+Exercice 1 (obligatoire) – Niveau terminale
+Thème « Une histoire du vivant »
+
+Prolifération et détection des punaises de lit
+Les punaises de lit sont des insectes qui se nourrissent du sang de mammifère à
+sang chaud. Elles vivent au côté de l’Homme depuis des milliers d’années. Depuis
+les années 1990, on observe une recrudescence à l’échelle mondiale. La France
+n’est pas épargnée par ce fléau. La première partie concerne la résistance des
+punaises de lit aux insecticides tandis que la seconde partie s’intéressera à un
+moyen de détecter des punaises de lit à l’aide de l’intelligence artificielle.
+Partie 1 – Résistance des punaises de lit aux insecticides
+Document 1 – Graphique présentant la mortalité des populations, issues de
+deux souches de punaises de lit, soumises chacune à une
+quantité croissante de pesticides
+
+La courbe en pointillé correspond à une souche de punaises de lit prélevée sur le
+terrain tandis que la courbe en trait plein correspond à une souche de laboratoire.
+La souche de laboratoire n’est pas préalablement soumise aux pesticides.
+Source : https://doi.org/10.1111/eva.13550
+
+1- Justifier que la souche de punaise de lit de terrain est plus résistante que celle de
+laboratoire.
+Document 2 – Coupe transversale de pattes de punaise de lit récupérées en
+laboratoire ou sur le terrain, observées au microscope
+électronique à balayage
+Punaise de lit de la souche de laboratoire
+
+Punaise de lit de la souche de terrain
+
+C
+C
+
+La cuticule (notée C sur les clichés) est une couche protectrice et imperméable
+limitant le passage de molécules.
+La double flèche
+
+représente l’épaisseur de la cuticule.
+Source : https://doi.org/10.1093/gbe/evae158
+
+2- À partir des photographies de coupes transversales de pattes de punaise de lit
+présentées dans le document 2, estimer l’épaisseur de la cuticule pour chaque
+souche. Le raisonnement s’appuiera sur une mesure effectuée au niveau des
+doubles flèches notée C.
+3- Indiquer comment on peut déterminer, de manière précise et rigoureuse,
+l’épaisseur de la cuticule de chaque souche.
+4-
+
+Déduire de ces résultats l’origine de la résistance aux pesticides des punaises
+de lit.
+
+5- Construire un raisonnement argumenté qui permet d’affirmer que la sélection
+naturelle est un mécanisme conduisant à la résistance des punaises de lit aux
+insecticides.
+Partie 2 – L’intelligence artificielle (IA) pour détecter les punaises de lit
+Document 3 – Une société innove avec l’intelligence artificielle pour aider les
+hôtels dans la lutte contre les punaises de lit
+Un fondateur d’une entreprise de détection des punaises de lit a communiqué dans
+la presse que « le nombre d’infestations double en France tous les cinq ans ».
+Pour faire face à ce fléau, un hôtel parisien a récemment utilisé un appareil dernier
+cri pour détecter la présence de punaises de lit dans l’établissement.
+Un boîtier, posé à proximité du lit d’une chambre, diffuse des phéromones pour
+attirer les punaises. Lorsque l’une d’entre elles pénètre la boîte, une photo est
+prise par une caméra embarquée couplée à une intelligence artificielle (IA). Si
+l’insecte s’avère être une punaise de lit, une alerte est envoyée par mail à
+l’hôtelier.
+Source : d’après un article de BFM TV
+
+Document 4 – Courbe de modèles
+Modèle 1
+
+Modèle 2
+
+6- Parmi les deux modèles du document 4 qui représentent l’évolution du nombre
+d’infestations en France durant les dernières années, indiquer en justifiant celui
+qui traduit le mieux les propos du fondateur de l’entreprise de détection de
+punaises de lit présentés dans le document 3.
+7- Parmi les trois propositions ci-dessous, indiquer l’extension qui pourrait
+correspondre au type de fichier généré par la camera et traité par l’intelligence
+artificielle parmi les 3 suivantes : .exe,.jpg,.txt.
+8- Sachant qu’une photo prise par la caméra comporte 8 millions de pixels et que
+chaque pixel est codé sur 3 octets, calculer le nombre maximal de photos prises
+par la caméra que peut contenir un espace de stockage de 32 Go.
+Donnée : 1 Go = 109 octets
+9- En utilisant vos connaissances, expliquer pourquoi ce système basé sur
+l’intelligence artificielle devient de plus en plus performant.
+
+Exercice 2 (au choix) – Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La photosynthèse artificielle
+La photosynthèse est une réaction biochimique qui se produit chez les végétaux et
+certains micro-organismes. Depuis la fin des années 1980, des laboratoires
+cherchent à mettre au point des technologies de photosynthèse dite « artificielle » qui
+s’inspirent du processus naturel dans le but de produire de la matière organique
+pouvant constituer une ressource d’énergie verte pour produire de l’électricité.
+L’objectif de ce sujet est d’expliquer l’intérêt de la photosynthèse artificielle et
+d’étudier la possibilité d’utiliser des dispositifs de photosynthèse artificielle
+pour alimenter un foyer en électricité.
+Partie 1 – La conversion de l’énergie solaire en énergie chimique par les
+photosynthèses
+Les dispositifs de photosynthèse artificielle sont conçus avec des matériaux spéciaux
+qui sont capables de capter et convertir l’énergie solaire en énergie chimique stockée
+dans les carburants formés (produits carbonés et/ou dihydrogène).
+
+Principe de la photosynthèse artificielle
+Produit par l’auteur
+
+Cette énergie chimique pourra ensuite être convertie en électricité. La photosynthèse
+artificielle s’appuie sur le principe de la photosynthèse naturelle qui nécessite de
+l’énergie lumineuse.
+
+Document 1 – Expérience réalisée sur une feuille de Pelargonium
+Une expérience est réalisée en laboratoire avec une feuille de Pelargonium,
+recouverte partiellement d’un cache, éclairée pendant 12 heures. Le dispositif
+expérimental est présenté dans la figure A ci-dessous. Le cache est ensuite enlevé
+et la feuille est décolorée dans de l’éthanol bouillant sous hotte en présence d’un
+dispositif réfrigérant. La feuille est ensuite colorée à l’aide de l’eau iodée. L’eau
+iodée adopte une coloration noir-violet en présence d’amidon (glucide). Elle reste
+jaune en l’absence d’amidon. Les résultats obtenus sur la feuille sont présentés
+sur la photographie de la figure B.
+
+Figure A : dispositif expérimental
+présentant le cache posé sur la feuille de
+Pélargonium.
+
+Figure B : résultats obtenus suite à la
+coloration à l’eau iodée.
+
+Source : d’après https://planet-vie.ens.fr/thematiques/manipulations-en-svt/experiencessur-la-photosynthese
+
+1- Expliquer en quoi les photosynthèses naturelle et artificielle sont considérées
+comme des modes de conversion d’une énergie solaire en une énergie chimique
+à partir des données tirées du document 1 et de vos connaissances.
+
+Partie 2 – Efficacité énergétique de la photosynthèse artificielle
+L’efficacité énergétique (rapport entre l'énergie chimique reçue et l'énergie solaire
+utilisée) de la photosynthèse naturelle ne dépasse pas les 1 % chez les végétaux. À
+l’heure actuelle, l’efficacité énergétique de la photosynthèse artificielle est également
+faible.
+2- La puissance surfacique solaire moyenne reçue au sol est de 350 W.m -2. La
+surface d’un dispositif de photosynthèse artificielle est de 10 cm2.
+Montrer que la puissance solaire reçue par le dispositif est égale à 0,35 W.
+3- Calculer l’énergie solaire reçue par le dispositif pour une durée d’ensoleillement
+de 6 h par jour.
+L’énergie reçue et stockée chimiquement par le dispositif pour une durée
+d’ensoleillement de 6 h par jour est égale à 1,8 × 102 J.
+4- Calculer l’efficacité énergétique du dispositif. Comparer cette valeur avec celle de
+la photosynthèse naturelle.
+
+Pour la question suivante, on admettra que toute l’énergie stockée chimiquement par
+le dispositif peut être convertie en électricité pouvant alimenter un foyer et que la
+durée quotidienne d’ensoleillement est de 6 h. La consommation quotidienne
+d’électricité par personne par foyer en France est de 6 kWh.
+5- Déterminer le nombre nécessaire de dispositifs pour fournir quotidiennement en
+électricité un foyer composé de 5 personnes.
+Indication : le Watt-heure (Wh) est une unité physique qui correspond à l’énergie
+consommée ou délivrée par un système d’une puissance de 1 Watt pendant une
+durée d’une heure.
+6- Calculer la surface totale occupée par l’ensemble des dispositifs.
+Conclure sur la possibilité d’utilisation des dispositifs de photosynthèse artificielle
+pour alimenter quotidiennement un foyer en électricité.
+
+Partie 3 – L’intérêt de la photosynthèse artificielle
+
+Document 2 – Les besoins d’énergie dans le futur
+La population mondiale estimée à 7,7 milliards d’habitants en 2019 ne cessera de
+croître pour atteindre 9,8 milliards d’habitants en 2050. En poursuivant le rythme
+actuel de consommation d’énergie, celle-ci passerait d’environ 17 térawatts en
+2019 à 30 térawatts en 2050. (Note : 1 térawatt = 1012 watts)
+Source : d’après M. Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+Document 3 – Proportion de l’utilisation des différentes sources d’énergie
+sur la planète
+Nucléaire
+(4 %)
+Hydraulique
+(6,8 %)
+
+Energies renouvelables
+(2,5 %)
+
+Energies fossiles
+(86,7 %)
+
+Source : d’après M.Fontecave ; « Photosynthèse : du CO2 aux carburants solaires » ;
+Colloque Chimie et lumière, 26 février 2020, Fondation de la Maison de la Chimie.
+
+7- À l’aide des documents 2 et 3 ainsi que des connaissances, discuter de l’intérêt
+de la photosynthèse artificielle en lien avec les défis auxquels l’humanité est
+confrontée.
+
+Exercice 3 (au choix) – Niveau première
+Thème « Son, musique et audition »
+
+L’oreille et l’audition
+L’audition joue un rôle primordial dans les interactions sociales. L’oreille est l’organe
+sensoriel de l’audition, dont on étudiera tout d’abord le fonctionnement avant
+d’envisager la prévention d’un traumatisme acoustique.
+Partie 1 – L’oreille et son fonctionnement
+
+Document 1 – L’oreille humaine
+
+Figure A – Schéma anatomique de l’oreille humaine et détail de l’organisation de la
+cochée déduite d’une coupe transversale effectuée au niveau de la double flèche noire
+Sources : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition
+et https://fr.wikipedia.org/wiki/Organe_de_Corti
+
+1- Recopier les phrases suivantes en les complétant par l’une des propositions
+parmi les quatre proposées ci-dessous.
+
+L’oreille externe permet de :
+a- canaliser les sons du milieu extérieur directement à l’oreille interne.
+b- canaliser les sons du tympan vers le milieu extérieur.
+c- canaliser les sons du milieu extérieur vers le tympan.
+d- d’atténuer les ondes sonores.
+
+L’oreille moyenne est constituée :
+a- de cellules ciliées
+b- d’osselets qui activent directement le nerf auditif.
+c- d’osselets qui atténuent les ondes sonores.
+d- d’osselets qui amplifient les ondes sonores.
+
+Dans l’oreille interne, les vibrations sonores perçues par les cils des cellules
+ciliées sont :
+a- acheminées au cerveau sous la forme d’ondes sonores.
+b- transformées en messages nerveux, qui se propagent jusqu’aux aires
+cérébrales spécialisées.
+c- acheminées au cerveau sous une forme moléculaire.
+d- directement analysées au niveau de l’oreille interne, ce qui permet
+l’audition.
+
+Partie 2 – La prévention d’un traumatisme acoustique
+Pour prévenir le risque lié aux sur-stimulations sonores, il existe des protections
+auditives de nature différente selon leur type d’utilisation.
+On peut distinguer, par exemple, deux catégories de bouchons d'oreilles qui
+permettent de s’isoler du bruit :
+–
+
+les bouchons en mousse, généralement jetables ;
+
+–
+
+les bouchons moulés en silicone, fabriqués sur mesure et nécessitant la prise
+d'empreinte du conduit auditif. Ils sont lavables à l'eau et se conservent
+plusieurs années.
+
+L’atténuation des sons par un bouchon est égale à la diminution du niveau d’intensité
+sonore perçu par l’oreille en présence du bouchon. Un fabricant fournit les courbes
+d'atténuation en fonction de la fréquence du son pour les deux types de bouchons
+(document 2).
+
+Document 2 – Courbes d’atténuation du son correspondant aux deux types
+de bouchons
+
+Figure B – Niveau sonore (en dBA) dû à un bouchon en fonction de la fréquence de
+l’onde (Hz) qui le traverse
+Source : https://fr.wikibooks.org/wiki/Neurosciences/L%27audition.
+
+Un musicien qui pratique régulièrement un instrument tel que la batterie ou la guitare
+électrique a besoin d’une atténuation du niveau sonore. Cependant, cette atténuation
+ne doit pas dépasser 25 dB afin qu’il entende suffisamment.
+2- À l’aide du document 2, indiquer pour chaque bouchon si cette condition est
+respectée. Justifier.
+3- En utilisant le document 2, indiquer si un bouchon en mousse atténue davantage
+les sons aigus ou les sons graves. Justifier en s’appuyant sur des valeurs.
+Afin de comparer la qualité acoustique des deux types de bouchons, on a enregistré
+le son émis par une guitare, ainsi que les sons obtenus après passage à travers les
+deux types de bouchons. Le document 3 présente les résultats obtenus.
+
+Document 3 – Spectres du son émis par une guitare et des sons restitués
+après passage à travers les deux types de bouchons
+L’amplitude relative est le rapport entre
+une amplitude et une amplitude de
+référence, ici celle de la fréquence
+fondamentale.
+
+Figure B – Spectre correspondant au mi4
+joué par la guitare
+
+Figure C – Spectre du mi4 restitué après passage par un bouchon en mousse
+(gauche) ou moulé en silicone (droite)
+Source : Auteur
+
+4- À partir du document 3, indiquer en justifiant le raisonnement, lequel des deux
+types de bouchons, en mousse ou en silicone, modifie le moins le timbre du son
+perçu.
+Une exposition prolongée à un niveau d’intensité sonore de 85 dB est nocive pour
+l'oreille humaine. Durant un concert de rock, un guitariste est situé à 10,0 mètres d’une
+enceinte délivrant une puissance sonore de 10,0 watts.
+Document 4 – Puissance, intensité et niveau sonore
+L’intensité sonore 𝐼 est la puissance 𝑃 de la vibration sonore reçue par unité de
+surface 𝑆 :
+
+𝐼=
+
+𝑃
+𝑆
+
+Avec : 𝑃 en watt (W) ; 𝑆 en m2 ; 𝐼 en W. m−2
+
+Pour une intensité sonore 𝐼 donnée, le niveau sonore 𝐿 exprimé en décibels (dB)
+est déterminé par la formule :
+𝐼
+
+𝐿 = 10 × log(𝐼 )
+
+Avec : 𝐿 en décibels (dB) ; 𝐼 en W. m−2
+
+𝐼0 est l’intensité correspondant au seuil d’audibilité : 𝐼0 = 10−12 W. m−2 .
+
+Par souci de simplification, on suppose que l’onde sonore produite par l’enceinte se
+propage de manière équivalente dans toutes les directions autour d’elle. La
+puissance sonore est alors répartie sur des surfaces de forme sphérique.
+5- À l’aide du document 4, calculer l’intensité sonore à l’endroit où se trouve le
+guitariste.
+Donnée :
+Surface 𝑆 d’une sphère de rayon 𝑑, 𝑆 = 4 × 𝜋 × 𝑑2 .
+6- À l’aide du document 4, montrer que le niveau sonore reçu par ce guitariste est
+proche de 100 dB.
+Ce guitariste désire préserver son audition tout en préservant une bonne qualité
+sonore.
+7- À partir de l’étude des documents 2 et 3, indiquer quel type de bouchons choisir
+et argumenter ce choix.

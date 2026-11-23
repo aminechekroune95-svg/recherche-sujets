@@ -1,0 +1,398 @@
+{"pages": 15, "method": "pdftotext", "bytes": 1288589, "at": "2026-11-23T09:29:25+00:00"}
+ÉVALUATION
+CLASSE : Terminale – Épreuve de fin de cycle
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+
+ENSEIGNEMENT : Enseignement scientifique
+avec enseignement de mathématiques spécifique
+
+DURÉE DE L’ÉPREUVE : 2 h
+Niveaux visés (LV) : ø
+Axes de programme : ø
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 15
+
+Parmi les trois exercices qui composent ce sujet, le candidat en traite
+obligatoirement deux.
+L’exercice 1, relatif à l’enseignement de mathématiques spécifique, doit être
+obligatoirement abordé.
+Pour le deuxième exercice, le candidat choisit entre l’exercice 2 et l’exercice 3
+qui sont relatifs à l’enseignement commun de l’enseignement scientifique du
+cycle terminal. Il indique son choix en début de copie.
+Les exercices 2 et 3 comprennent chacun deux parties portant respectivement
+sur le programme de première et le programme de terminale d’enseignement
+scientifique.
+
+Exercice 1 (obligatoire) – Niveau première (mathématiques)
+Niveau des océans
+Sur 4 points
+Partie 1 – Évolution du niveau moyen des océans
+Dans l’article « Élévation du niveau de la mer » publié en octobre 2019 sur le site du
+gouvernement français notre-environnement.gouv.fr, il est indiqué que le niveau
+moyen des océans a augmenté en moyenne de 3,2 mm par an sur la période allant
+de 1993 à 2011.
+On suppose dans cette partie qu’à partir de 2011 le niveau moyen de l’océan
+augmente chaque année de 3,2 mm. On modélise l’élévation, en mm, du niveau
+moyen de l’océan entre l’année 2011 et l’année 2011 + 𝑛 par une suite (𝑢! ).
+Dans cette modélisation, on a 𝑢(0) = 0.
+1. Justifier que 𝑢(2) = 6,4 et proposer une interprétation dans le contexte de
+l’exercice.
+2. La suite (𝑢! ) est-elle arithmétique ou géométrique ? Justifier.
+3. Donner, pour tout entier naturel 𝑛, l’expression de 𝑢! en fonction de 𝑛.
+4. En déduire l’élévation en mm du niveau moyen de l’océan entre l’année 2011
+et l’année 2024.
+5. D’après ce modèle, à partir de quelle année, le niveau moyen des océans
+aura augmenté de plus de 10 cm par rapport au niveau moyen relevé en
+2011 ?
+Partie 2 – Étude du niveau de l’océan au Conquet (Finistère, Bretagne)
+La station du Conquet (ville du Finistère en Bretagne) enregistre différentes données
+dont le niveau de la mer. Ces données ont été saisies dans une feuille de calculs
+d’un tableur.
+En abscisse on trouve les années et en ordonnée le niveau moyen sur l’année, en
+mm, de l’Océan Atlantique pour la station du Conquet.
+
+Les données relevées chaque année permettent d’obtenir le nuage de points
+ci-dessous. Sur le graphique figure aussi une courbe de tendance, approchant le
+nuage de points.
+
+Source : psmsl.org
+1. La courbe de tendance obtenue correspond à la fonction 𝑓 définie sur
+[1971 ; 2020] par :
+𝑓(𝑥) = 3,0214𝑥 + 1032,4
+où 𝑥 représente le temps en année et 𝑓(𝑥) représente le niveau moyen sur
+l’année 𝑥, en mm de l’océan.
+Quelle est la nature de la fonction 𝑓 ?
+2. On admet que la fonction 𝑓 est dérivable sur [1971 ; 2020], on note 𝑓′ sa
+fonction dérivée.
+Calculer 𝑓′(𝑥). Interpréter ce résultat dans le contexte de l’exercice.
+3. En supposant que ce modèle reste valable dans le temps, estimer le niveau
+moyen de l’océan en 2050.
+
+Exercice 2 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Le Soleil, notre source d’énergie »
+
+La pile végétale
+Il est possible de produire de l’électricité en installant des électrodes dans un sol
+gorgé d'eau où poussent des plantes telles que le riz. Cette technologie permet de
+convertir l’énergie chimique issue de la photosynthèse en énergie électrique. Le
+rendement de ce dispositif reste pour le moment faible.
+On cherche ici à déterminer si cette technologie peut constituer
+une solution d’avenir.
+Les deux parties peuvent être traitées indépendamment.
+Partie 1 – La photosynthèse et ses caractéristiques
+Document 1 - Étude expérimentale des échanges gazeux d’une plante
+chlorophyllienne
+On mesure les variations au
+cours du temps de trois
+paramètres environnementaux
+au sein d’une enceinte fermée
+hermétiquement et contenant un
+végétal chlorophyllien :
+
+teneur en dioxygène
+(O2) ;
+
+teneur en dioxyde de
+carbone (CO2) ;
+
+luminosité reçue par
+l’enceinte.
+
+Source : d’après https://www.pedagogie.ac-nantes.fr
+
+1- Indiquer sur la copie si chacune des propositions ci-dessous est juste (indiquer
+« oui » si elle est juste ou « non » si elle est fausse).
+Proposition a : à l’obscurité, la teneur en O2 augmente dans l’enceinte.
+Proposition b : à l’obscurité, la teneur en CO2 augmente dans l’enceinte.
+Proposition c : à l’obscurité, le végétal respire.
+Proposition d : à la lumière, la teneur en O2 diminue dans l’enceinte.
+Proposition e : à la lumière, la teneur en CO2 diminue dans l’enceinte.
+Proposition f : à la lumière, le végétal réalise la photosynthèse.
+Partie 2 – Énergie de la « pile végétale »
+La plante utilise la photosynthèse pour produire de la matière organique. La réaction
+chimique correspondante peut être exploitée au sein d’une pile comportant deux
+électrodes dont l’une est positionnées près de la racine de la plante et l’autre en est
+plus éloignée. Cette pile peut délivrer un courant électrique qui transporte de
+l’énergie. On admet que la puissance électrique fournie par une « pile végétale » de
+cette sorte est proportionnelle à la surface que les plantes, exposées au soleil et qui
+se trouvent au voisinage des électrodes, occupent sur le sol.
+2- À partir de vos connaissances, expliquer ce qu'est une source d'énergie
+renouvelable. Justifier que la pile végétale est considérée comme une source
+d'énergie électrique renouvelable.
+On peut estimer qu’une « pile végétale » de 1 m2 de surface globale (en feuilles et en
+racines) fournit une puissance de 3 W et que l’énergie moyenne nécessaire à la
+recharge d’un smartphone est de 10 Wh.
+3- L’énergie moyenne consommée par une famille pendant une année est
+3000 kWh. Calculer la surface nécessaire en m2 de surface de « pile végétale »
+pour fournir l’énergie annuelle à une famille.
+Indication : le Watt-heure (Wh) une unité physique qui correspond à l'énergie
+consommée ou délivrée par un système d'une puissance de 1 Watt fonctionnant
+pendant une heure
+4- À partir des arguments issus de l’étude des deux parties de l’exercice et de vos
+connaissances notamment sur le fait que la « pile végétale » peut être considérée
+comme de la biomasse, indiquer un intérêt et une limite de ce dispositif.
+
+Partie B : Niveau terminale
+Thème « Science, climat et société »
+
+Confinement et atmosphère
+L’activité humaine a des conséquences sur la composition de l’atmosphère,
+notamment parce qu’elle conditionne les émissions de CO2.
+Nous nous proposons ici d’étudier une évolution récente de l’atmosphère durant les
+premiers mois de la crise sanitaire de la Covid 19 et les mesures qui l’ont
+accompagnées.
+Document 1 : émissions globales de CO2 en mégatonnes par jour d’origine
+fossile
+Le document présente l’évolution du total des émissions journalières dues à
+l’utilisation de combustibles fossiles, à l’échelle de la Terre, au cours du temps. Les
+parties grisées représentent la marge d’erreur.
+
+5. En s’appuyant sur l’analyse du document 1, préciser comment ont évolué les
+émissions de CO2 de 2000 à 2020, à l’échelle globale de la Terre et proposer une
+hypothèse quant aux causes des variations constatées pendant les premiers mois de
+l’année 2020.
+
+Document 2 : cycle et flux de carbone (en Gt / an)
+
+6. À l’aide de connaissances et en s’appuyant sur le document 2, identifier les deux
+réservoirs de carbone les plus importants et préciser les flux de carbone entre ces
+deux réservoirs.
+7. En effectuant un bilan à partir de données du document 2, montrer que la quantité
+de carbone augmente avec le temps dans l’atmosphère.
+8. Sachant qu’une mole d’essence produit huit moles de CO2, prouver par le calcul
+qu’un kilogramme d’essence produit une masse de CO2 d’environ 3,1 kg, en utilisant
+les données suivantes.
+En première approche, l’équation de la réaction de combustion de l’essence peut
+être assimilée à celle de la combustion de l’octane (C8H18) :
+2 C8H18 (ℓ) + 25 O2 (g)
+
+16 CO2 (g) + 18 H2O (g)
+
+Données : Une mole d’octane C8H18 a une masse de 114,0 g. Une mole de CO2 a
+une masse de 44,0 g.
+9. En déduire la masse de CO2 produite pour une quantité de 2,8.109 kg d’essence
+correspondant à la consommation mondiale journalière sans crise sanitaire.
+
+Exercice 3 (au choix) – Niveaux première et terminale de
+l’enseignement scientifique
+Partie A : Niveau première
+Thème « Une longue histoire de la matière »
+
+Mise en évidence des échanges cellulaires par marquage radioactif
+Les molécules organiques sont constituées de différents atomes, dont l’atome de
+carbone. Dans les techniques de marquages radioactifs, les scientifiques peuvent
+synthétiser, en laboratoire, des molécules contenant des atomes radioactifs. Grâce à
+ce procédé, on peut détecter la présence et les mouvements de ces molécules
+radioactives au sein de la cellule ainsi qu’entre la cellule et son environnement.
+L’objectif est de comprendre l’utilisation d’un marquage radioactif pour déterminer
+l’action d’une substance, la cytochalasine, sur les échanges entre la Levure
+(Champignon unicellulaire) et son environnement.
+Les documents 1 à 5, à consulter, sont fournis sur les pages suivantes.
+1- À partir des documents 1 et 2, expliquer la démarche qui permet de déterminer
+graphiquement les demi-vies du 11C et du 14C et donner leurs valeurs.
+Afin de comprendre le mode d’action de la cytochalasine B sur la Levure
+Saccharomyces cerevisiae, qui est un organisme unicellulaire, des molécules de
+glucose sont marquées au carbone 14 (document 3).
+Afin de comprendre le rôle des transporteurs GLUT présents dans la membrane des
+Levures, des expériences sont réalisées en présence de 14C-glucose. Les résultats
+sont présentés dans le document 4.
+2- Montrer, à partir des documents 3 et 4, que la Levure est en interaction avec son
+milieu grâce à des transporteurs GLUT.
+3- À partir des informations tirées du document 5 et des connaissances, indiquer les
+effets de la cytochalasine B sur les Levures et justifier son utilisation
+commerciale comme antifongique (substance permettant de tuer les
+Champignons).
+
+Nombre de noyaux de carbone 11
+
+Document 1 – Courbe de décroissance radioactive du carbone 11
+12000
+8000
+6000
+4000
+2000
+
+Temps (min)
+
+Source personnelle
+
+Nombre de noyaux de carbone
+
+Document 2 – Courbe de décroissance radioactive du carbone 14
+12000
+8000
+6000
+4000
+2000
+
+5000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+Temps (années)
+
+Source personnelle
+
+Document 3 – Observation de Saccharomyces cerevisiae et schéma
+d’interprétation de la membrane plasmique
+La photographie de Saccharomyces cerevisiae ci-dessous présente les différentes
+structures qui la composent avec un schéma interprétatif d’une portion de la
+membrane
+plasmique.
+
+Légendes :
+CW = Paroi ; Mb
+= Membrane
+plasmique ; N =
+Noyau ; V =
+vacuole ; M =
+Mitochondries ;
+Cp =
+Cytoplasme.
+
+Source : photographie modifiée d’après Frankl, Andri et al. “Electron microscopy for
+ultrastructural analysis and protein localization in Saccharomyces cerevisiae.” Microbial
+Cell 2 (2015). Schéma d’après https://smart.servier.com/
+
+Document 4 – Absorption du glucose marqué au carbone 14 par des cellules
+Des cellules dont les membranes contiennent des transporteurs GLUT fonctionnels
+sont cultivées dans un milieu contenant du glucose marqué radioactivement
+au 14C. La quantité de glucose marqué au 14C absorbée par la cellule est ensuite
+déterminée. Les résultats sont présentés dans le tableau ci-dessous.
+Temps (minutes)
+
+Quantité de glucose
+marqué au 14C absorbée
+par la cellule (en unités
+arbitraires)
+
+1,8
+
+2,2
+
+2,5
+
+2,7
+
+Dans le cas d’une inactivation des transporteurs GLUT, l’absorption de glucose
+marqué au 14C est très fortement inhibée.
+Des résultats similaires sont observés chez la Levure.
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Document 5 – Absorption par des cellules de glucose marqué au 14C, en
+présence de cytochalasine B
+Des cellules sont cultivées dans un milieu en présence de glucose marqué au 14C
+et soit, en présence de cytochalasine B, soit en son absence. La quantité de
+glucose marqué au 14C absorbée par la cellule, en un temps donné, est déterminée.
+Les résultats sont présentés dans la figure ci-dessous. Des résultats similaires sont
+obtenus sur des Levures.
+
+Source : d’après Lundgaard, I., Li, B., Xie, L. et al. Direct neuronal glucose uptake heralds
+activity-dependent increases in cerebral metabolism. Nat Commun 6, 6807 (2015).
+
+Partie B : Niveau terminale
+Thème « Le futur des énergies »
+
+Les impacts de la combustion sur l’environnement et la santé
+La combustion de carburants fossiles et de la biomasse libère du dioxyde de carbone
+qui a un impact environnemental majeur.
+Il est également reconnu par l’Organisation mondiale de la santé (OMS) que la santé
+publique est impactée par la pollution de l’air. Le Ministère des Solidarités et de la
+Santé estime qu’environ 48 000 personnes décèdent chaque année des effets de la
+pollution de l’air en France.
+On se propose d’étudier la part et les impacts de la combustion de carburants
+fossiles et de biomasse sur la santé humaine.
+Document 1 : Production de dioxyde de carbone lors de la combustion
+de carburants fossiles et de la biomasse
+
+Équation de la réaction
+
+Gaz naturel méthane CH4
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+Essence modélisée par
+l’octane C8H18
+
+2 C8H18 + 25 O2 → 16 CO2 +18 H2O
+
+Biomasse (bois)
+modélisée par C6H10O5
+
+C6H10O5 + 6 O2 → 6 CO2 + 5 H2O
+
+Énergie massique libérée par kg de combustible brûlé :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Énergie massique
+libérée
+
+50 MJ.kg-1
+
+45 MJ.kg-1
+
+17 MJ.kg-1
+
+Masse de CO2 produite pour 1 MJ d’énergie obtenue :
+
+Gaz naturel
+
+Essence
+
+Biomasse
+
+Masse de CO2
+produite
+
+56 g
+
+À calculer à la
+question 5
+
+95 g
+
+Source : d’après J.-C. Guibet, Publications de l’Institut français du pétrole,1997
+et W.-M. Haynes, CRC Handbook of Chemistry and Physics, 2012
+
+4- Indiquer le (ou les) combustible(s) mentionnés dans le document 1 pouvant être
+utilisés comme source(s) d’énergie renouvelable.
+5- Calculer la masse d’essence, notée 𝑚"##"$%" , nécessaire pour obtenir une énergie
+de valeur 1 MJ.
+6- Sachant que la masse d’une mole d’essence est égale à 114 g, vérifier que la
+quantité de matière, notée 𝑛"##"$%" , présente dans la masse d’essence nécessaire
+pour obtenir une énergie de valeur 1 MJ vaut environ : 𝑛"##"$%" = 0,2 mol.
+7- À l’aide de l’équation de la réaction modélisant la combustion de l’essence, vérifier
+que la quantité de matière de dioxyde de carbone produite 𝑛&'! est telle que
+𝑛&'! = 8𝑛"##"$%" . Calculer 𝑛&'! .
+8- La masse d’une mole de dioxyde de carbone étant égale à 44 g, déterminer la
+masse de CO2 libérée dans l’atmosphère par la combustion de l’essence pour
+obtenir une énergie de valeur 1 MJ.
+9- Comparer la masse de dioxyde de carbone émise par MJ produit pour chaque
+combustible du document 1 et indiquer quel est l’impact environnemental majeur du
+dioxyde de carbone.

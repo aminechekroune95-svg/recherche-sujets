@@ -1,0 +1,166 @@
+{"pages": 4, "method": "pdftotext", "bytes": 562028, "at": "2026-11-23T09:25:28+00:00"}
+Enseignement de spécialité physique-chimie – classe de première de la voie générale
+Jeux et physique-chimie (10 points)
+Un enfant trouve dans un coffre d’un grenier deux jeux datant des années 70, un tac-tac,
+et un coffret-jeux d’initiation à la chimie. Ne connaissant pas le principe du tac-tac, il
+cherche sur Internet et trouve les informations suivantes : le tac-tac est un jouet qui a
+connu une mode éphémère au début des années 1970. L'objet est constitué de deux
+boules de plastique dur reliées entre elles par une cordelette d'environ 40 cm de long, au
+milieu de laquelle un anneau de plastique est fixé par un nœud. En imprimant de légers
+mouvements à cet anneau, on amène les boules à rebondir l'une contre l'autre en
+produisant le bruit qui donne son nom au jeu.
+D’après francetvinfo.fr
+On s’intéresse dans ce sujet au comportement des boules du tac-tac, puis à un « liquide
+magique » qu'il est possible de réaliser avec le coffret-jeux d’initiation à la chimie.
+Partie 1 : étude du tac-tac
+Le tac-tac est présenté sur la photographie ci-contre.
+Dans ce qui suit, on appelle :
+- boule 1 la boule située à droite sur la photographie ;
+- boule 2 la boule située à gauche sur la photographie.
+
+Boule 2
+
+Boule 1
+
+A- Étude énergétique de la boule 1
+On modélise ici le jeu par un pendule simple constitué de la boule 1 de masse m = 80 g,
+suspendue à un fil inextensible de masse négligeable et de longueur L = 20 cm. Le fil est
+accroché au point I et les mouvements du pendule s’effectuent dans un plan vertical.
+Le joueur écarte la boule 1 d’un angle αm. Le centre de la boule 1 est ainsi situé au point G.
+Le joueur lâche la boule 1 sans vitesse initiale.
+Le mouvement du pendule est étudié dans le repère (G0, x, z) orienté comme l’indique la
+figure ci-dessous ; l’axe G0z est vertical. On néglige les frottements.
+z
+I
+αm
+L
+
+G
+G0
+
+x
+xm
+
+Données :
+- l’énergie potentielle de pesanteur est choisie nulle au point G0 le plus bas de la
+trajectoire ;
+- la valeur de l’intensité de la pesanteur est g = 9,8 N.kg-1.
+
+Enseignement de spécialité physique-chimie – classe de première de la voie générale
+A.1. On s’intéresse à la boule 1 lorsqu’elle est à une hauteur z et possède une vitesse v.
+Rappeler les expressions :
+- de son énergie cinétique Ec ;
+- de son énergie potentielle de pesanteur Epp ;
+- de son énergie mécanique Em en fonction de m, g, z et v.
+A.2. On modélise expérimentalement la situation en utilisant un montage comprenant un
+capteur, un pendule simple de même caractéristique que la partie du tac-tac associée à la
+boule 1. On peut alors tracer les variations des trois types d'énergie (en mJ) précédentes
+en fonction de l'abscisse x (en mm) du centre de la boule 1 pour seulement une partie de
+la trajectoire de la boule 1.
+On obtient les courbes suivantes :
+
+Associer, en justifiant la réponse, chaque courbe à l’énergie Ec, Epp ou Em dont elle
+représente les variations.
+z
+I
+
+m
+
+B- Étude du choc entre les deux boules
+
+L
+On lâche sans vitesse initiale la boule 1 du point
+G. Au point G0, un choc se produit entre la boule
+1 et la boule 2 qui initialement est au repos. La
+boule 2 se met en mouvement.
+
+boule 2
+
+G
+boule 1
+
+Gmax
+
+x
+G0
+
+boule 2 xm
+
+On suppose qu’au point G0 et juste avant le choc la boule 1 possède la vitesse maximale
+vG0 = 1,0 m.s-1 et une énergie mécanique de 42 mJ. Au cours du choc entre les deux
+boules, il se produit une dissipation d'énergie mécanique Edis = 15 mJ.
+
+Enseignement de spécialité physique-chimie – classe de première de la voie générale
+Juste après le choc, la boule 1 est au repos et la boule 2 se met en mouvement vers la
+gauche pour atteindre, avant de redescendre, un point extrême Gmax dont on veut
+déterminer l’altitude zGmax.
+B.1. Calculer l'énergie mécanique Em2,G0 de la boule 2 en G0 juste après le choc.
+B.2. Expliquer pourquoi l’énergie cinétique de la boule 2 au point Gmax est nulle.
+B.3. Exprimer l'énergie mécanique Em2,Gmax de la boule 2 au point Gmax en fonction de m,
+g et zGmax.
+B.4. En supposant que l'énergie mécanique de la boule 2 reste constante au cours de son
+mouvement, calculer la valeur de l’altitude zGmax. Conclure.
+Partie 2 : étude du « liquide magique »
+L'enfant utilise le coffret-jeux d’initiation à la
+chimie pour réaliser une expérience
+intitulée « le liquide magique ».
+L’expérience est à faire en présence d’un
+adulte.
+Le livret fourni dans la boite indique la
+démarche à suivre :
+-
+
+mets les gants et les lunettes qui sont fournis ;
+dans l’erlenmeyer, verse 150 mL de la solution nommée S ;
+dissous-y 5 g de glucose ;
+ajoute 1 g de bleu de méthylène. La solution devient bleue puis progressivement
+devient incolore ;
+- bouche et agite vigoureusement : la solution devient immédiatement bleue puis après
+agitation se décolore à nouveau progressivement ;
+- agite une nouvelle fois : la solution devient encore bleue puis se décolore
+progressivement.
+On obtient ainsi deux couleurs de solutions :
+
+L'objectif de cette partie est d'expliquer l’évolution de la couleur de la solution.
+
+Enseignement de spécialité physique-chimie – classe de première de la voie générale
+Données :
+- formule brute du glucose : C6H12O6(aq) ;
+- masse molaire du glucose : M= 180 g.mol-1
+- forme oxydée du bleu de méthylène, notée BM+(aq), seule espèce colorée en
+solution ;
+- forme réduite du bleu de méthylène notée BMH(aq) ;
+- couples oxydant-réducteurs mis en jeu :
+ BM+(aq) / BMH(aq)
+ O2(aq) / H2O(l)
+ C6H12O7(aq) / C6H12O6(aq)
+- volume molaire des gaz dans les conditions de l’expérience Vm = 24,0 L.mol-1 ;
+- la composition de l’air est considérée comme connue du candidat.
+C- Étude qualitative
+C.1. Lorsque l’on agite l’erlenmeyer, une partie du dioxygène de l’air se dissout dans la
+solution puis réagit en oxydant la forme réduite du bleu de méthylène.
+La transformation chimique observée lors de l’agitation peut être modélisée par la réaction
+(1) dont l’équation est écrite ci-après :
+2 BMH(aq) + O2(aq) + 2H+(aq) → 2 H2O(l) + 2 BM+(aq)
+Définir une oxydation.
+C.2. Il se produit ensuite une deuxième réaction d'oxydo-réduction entre le glucose et le
+bleu de méthylène sous forme BM+(aq) (réaction (2)).
+C.2.1. La demi-équation électronique du couple C6H12O7(aq) / C6H12O6(aq), s’écrit :
+C6H12O7(aq) + 2 H+(aq) + 2 e- = C6H12O6(aq) + H2O(l)
+Justifier que le glucose est le réducteur.de ce couple.
+C.2.2. Écrire la demi-équation électronique du couple BM+(aq) / BMH(aq).
+C.2.3. En déduire l’équation de la réaction (2) modélisant la réduction de la forme oxydée
+du bleu de méthylène par le glucose.
+C.3. À l’aide des modélisations effectuées, expliquer les variations de couleur observées
+lors de l’expérience avec le « liquide magique ».
+D- Étude quantitative
+On considère que, compte tenu des volumes utilisés, une fois bouché hermétiquement
+l’erlenmeyer contient un volume d’air Vair = 0,240 L. Le bleu de méthylène introduit réagit
+dans la réaction (1), puis est régénéré dans la réaction (2).
+D.1. Calculer les quantités de matière ni O2 de dioxygène et ni C6H12O6 de glucose contenues
+initialement dans l'erlenmeyer.
+D.2. Sans rouvrir l’erlenmeyer, l’enfant réalise dans la journée plusieurs séries d'agitations
+successives. Au bout de quelques heures, l’expérience « le liquide magique » ne
+fonctionne plus, car la couleur bleue n’apparaît plus.
+Justifier que c’est parce que tout le dioxygène disponible a disparu. On attend un
+raisonnement s’appuyant sur un bilan de matière.

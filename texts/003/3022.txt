@@ -1,0 +1,274 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1070564, "at": "2026-11-23T09:27:20+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : SCIENCES DE L’INGÉNIEUR
+DURÉE DE L’ÉPREUVE : 2h00
+Niveaux visés (LV) : LVA
+
+LVB
+
+Axes de programme :
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+SUJET SI-N°10-06
+
+Constitution du sujet
+
+Étude d'une performance du produit .................................... Pages 4 à 6
+
+Commande du fonctionnement du produit .......................... Pages 6 à 9
+
+Documents réponses ............................................................. Page 9
+
+Rappel du règlement de l'épreuve
+
+Le sujet comporte deux exercices indépendants l'un de l'autre, équilibrés en durée et
+en difficulté, qui s'appuient sur un produit unique.
+Un premier exercice s'intéresse à l'étude d'une performance du produit. Les candidats
+doivent mobiliser leurs compétences et les connaissances associées pour qualifier
+et/ou quantifier cette performance, à partir de l'analyse, de la modélisation de tout ou
+partie du produit ou de relevés expérimentaux.
+Le second exercice porte sur la commande du fonctionnement du produit ou la
+modification de son comportement. L'étude s'appuie sur l'algorithmique et de la
+programmation, à partir de ressources fournies au candidat qu'il devra exploiter,
+compléter ou modifier.
+
+« LE SUNSEARIDER » UN CATAMARAN SOLAIRE
+AUTONOME
+
+Figure 1 : description du catamaran SunSeaRider
+
+Mise en situation
+Le contexte général
+Un des enjeux majeurs de la COP21, qui s’est tenue en 2019 à Biarritz, est de limiter
+le dérèglement climatique, en agissant notamment sur la consommation d’énergie, la
+réduction des gaz à effet de serre…
+Le secteur des transports représente plus de 27 % des émissions françaises de gaz à
+effet de serre. L’utilisation des énergies dites « propres » constitue donc un réel enjeu
+en termes de développement durable.
+
+Le SunSeaRider
+La société Polycreatis conçoit et produit des catamarans solaires et autonomes,
+appelés SunSeaRider. Ces catamarans permettent de se déplacer sur des plans
+d’eau, lorsque les conditions météorologiques sont clémentes. Polycreatis propose
+une gamme de trois tailles de catamarans permettant d’accueillir jusqu’à 8 passagers.
+
+Description du catamaran SunSeaRider
+Le catamaran possède un toit, soutenu par quatre épontilles, couvert de panneaux
+solaires reliés à des batteries placées dans la coque centrale du catamaran. Ces
+dernières peuvent être chargées directement par les panneaux solaires, ou, si
+l’ensoleillement est insuffisant, par une prise électrique à quai. La propulsion est
+réalisée par deux moteurs et deux hélices.
+
+La figure 2 présente le diagramme partiel de définition des blocs.
+
+I-
+
+ÉTUDE D'UNE PERFORMANCE DU PRODUIT
+
+Pour naviguer, le catamaran dispose de deux sources d’énergie. Si les conditions le
+permettent, des panneaux solaires seuls doivent permettre d’alimenter la motorisation
+et le matériel de navigation. Dans le cas contraire, des batteries peuvent être utilisées.
+Problématique : Les panneaux solaires et les batteries permettent-ils au catamaran
+de naviguer tout en assurant une bonne autonomie ?
+Afin de valider la problématique, on vérifiera les exigences 1.1 et 1.3 annoncées sur
+la figure 2.
+Le diagramme des exigences partiel est donné figure 2.
+
+Figure 2 : diagramme des exigences partiel
+
+Valider le nombre de panneaux solaires nécessaires
+La figure 3 présente la chaîne de puissance de la propulsion du catamaran alimenté
+par les panneaux solaires.
+
+Alimenter
+
+Distribuer
+
+Convertir
+
+Transmettre
+
+Preçue
+
+PPoussée
+
+Panneaux photovoltaïques
+
+PV=0,22
+
+Régulateur MPPT
+R=0,95
+
+Moteur
+M=0,9
+
+Hélice
+H=0,62
+
+Figure 3 : Chaîne de puissance pour un fonctionnement avec les panneaux solaires
+
+Question I-1
+
+Pour chaque repère (de 2 à 4) de la chaîne de puissance (figure 3), donner
+le nom, la nature de la puissance transmise et les variables d’effort et de flux
+associées. Pour cela recopier et compléter le tableau ci-dessous.
+
+Repère
+
+Domaine
+physique
+
+Variable d’effort
+
+Variable de flux
+
+Électrique
+
+Tension (V)
+
+Courant (A)
+
+Pour satisfaire l’exigence 1.1, on se place à une vitesse de catamaran V = 1 nœud.
+On donne 1 nœud = 1,8 km·h-1 = 0,5 m·s-1.
+
+Question I-2
+
+La force de poussée à la sortie d’une hélice est de 750 N. Déterminer la
+puissance Ppoussée utile au déplacement du catamaran grâce à ses 2 moteurs
++ hélices.
+
+L’irradiation Irr à Marseille est en moyenne égale à 780 W·m-2 en été. La surface d’un
+panneau S est égale à 0,57 m².
+
+Question I-3
+
+À partir du résultat de la question I-2 et des rendements donnés dans la
+chaîne de puissance, calculer la valeur de la puissance Preçue que les
+panneaux photovoltaïques doivent recevoir pour assurer la propulsion du
+bateau. Vérifier que 15 panneaux solaires au minimum sont nécessaires
+pour satisfaire l’exigence Id 1.1.
+
+Vérifier la distance réalisable en utilisant les batteries
+8 batteries dont la capacité de chacune est Q=115 A·h et la tension U=12 V permettent
+d’assurer la réserve d’énergie la nuit, ou sans soleil.
+Question I-4
+
+Calculer Ebatterie, l’énergie embarquée dans les batteries en kW·h. En
+déduire Eutilisable pour respecter l’Id1.2 (figure 2).
+
+On fera l’hypothèse que la puissance totale consommée pour naviguer sans soleil est
+P= 1885 W. La vitesse de déplacement en utilisant les batteries sera de 2,5 nœuds.
+
+Question I-5
+
+Calculer le temps d’utilisation (en heures) du catamaran (fonctionnant
+uniquement sur les batteries) à partir de l’énergie utilisable Eutilisable et de la
+puissance totale consommée P. En déduire la distance parcourue.
+
+Question I-6
+
+Conclure sur la problématique : « Les panneaux solaires et les batteries
+permettent-ils au catamaran de naviguer tout en assurant une bonne
+autonomie ? » en vérifiant les exigences 1.1 et 1.3.
+
+II - COMMANDE DU FONCTIONNEMENT DU PRODUIT
+Problématique : Comment inciter l’utilisateur à adopter une conduite écoresponsable ?
+Soucieux de l’environnement, les concepteurs du catamaran ont développé un produit
+en minimisant l’impact sur la nature. Le bateau est essentiellement utilisé par beau
+temps et les panneaux solaires permettent une navigation autonome, sans batterie.
+Néanmoins, passé un seuil de vitesse, l’utilisation de la batterie est nécessaire.
+
+On étudie dans un premier temps les conditions d'ensoleillement permettant un
+fonctionnement avec les panneaux photovoltaïques uniquement.
+On considérera que la puissance minimum reçue par les panneaux doit être de 6430 W
+pour qu'il puisse naviguer sans utilisation de la batterie. Le bateau est équipé de 15
+panneaux ayant chacun une surface de 0,57 m².
+
+Question II-1
+
+Expliquer en quoi une variation de l'ensoleillement pourrait remettre en
+cause le respect de l'exigence 1.1 par le système.
+
+Question II-2
+DR1
+
+Déterminer l'ensoleillement minimum, noté Irr (en W·m-2) permettant
+d'assurer la navigation autonome (sans batterie) du bateau lorsqu'il se
+déplace à 1 nœud. Noter cette valeur ("seuil calculé") sur le document
+réponse DR1.
+
+Pour inciter l’utilisateur à avoir une écoconduite, des voyants lumineux sont installés
+sur le tableau de bord.
+Ces derniers s’allument en fonction de la vitesse de déplacement du catamaran, notée
+V comme décrit ci-dessous :
+
+si V< 0,95 nœud , alors un voyant vert s’allume ;
+si 0,95 Nœud ≤ V ≤ 1,05 nœud, alors un voyant bleu s’allume ;
+si V > 1,05 nœud , alors un voyant rouge s’allume.
+
+Lorsque l'ensoleillement passe sous le seuil calculé à la question II-2 le voyant rouge
+doit s'allumer quelle que soit la vitesse pour indiquer que l'écoconduite n'est plus
+possible.
+On souhaite réaliser un algorigramme permettant de décrire le fonctionnement des
+voyants à partir de la vitesse du catamaran. Pour cela, on rappelle la signification des
+symboles ci-dessous.
+
+Début/Fin
+
+Question II-3
+
+Traitement
+
+Entrées/sorties
+
+Condition
+
+À partir de la description ci-dessus, faire un algorigramme permettant de
+décrire le fonctionnement des voyants en fonction de la vitesse du
+catamaran.
+
+Question II-4
+DR1
+
+Question II-5
+
+Lors d’une sortie, on relève l’évolution de la vitesse du catamaran ainsi que
+celle de l’ensoleillement. Compléter les chronogrammes du document
+réponse DR1 qui représentent les états des différents voyants en fonction
+de la vitesse du catamaran.
+
+En quelques lignes, rédiger une synthèse de votre travail en expliquant la
+solution mise en place pour inciter l’utilisateur à avoir une conduite écoresponsable. Proposer une solution commerciale permettant de
+récompenser les conducteurs ayant une conduite éco-responsable.
+
+DOCUMENT RÉPONSE DR1 : Questions II-2. et II-4.
+Ensoleillement en W·m-2
+seuil calculé
+=
+
+²
+
+Vitesse du catamaran en nœuds
+
+1,05
+0,95
+
+Voyant vert
+
+Voyant rouge
+
+Voyant bleu
