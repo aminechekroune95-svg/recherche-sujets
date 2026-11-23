@@ -1,17 +1,12 @@
 {
- "last_run": "2026-11-23T16:20:27+00:00",
+ "last_run": "2026-11-23T16:22:37+00:00",
  "list_pages": 8000,
  "subjects": 12924,
  "with_text": 12898,
  "remaining": 8,
  "run": {
-  "erreur": 8,
-  "ocr": 2,
-  "textes": 2,
-  "octets": 6070050
+  "erreur": 8
  },
- "http": {
-  "200": 2
- },
- "minutes": 1.5
+ "http": {},
+ "minutes": 0.1
 }
