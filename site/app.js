@@ -110,7 +110,7 @@ async function termExists(term, filters) {
   for (const r of s.results.slice(0, 2)) {
     const d = await r.data();
     const marks = [...d.excerpt.matchAll(/<mark>(.*?)<\/mark>/g)].map((m) => fold(m[1]));
-    const k = Math.min(4, t.length);
+    const k = Math.min(t.length, Math.max(4, t.length - 2)); // « titrage » ne doit pas valider « titre »
     if (marks.some((w) => w.slice(0, k) === t.slice(0, k))) { ok = true; break; }
   }
   existsCache.set(key, ok);

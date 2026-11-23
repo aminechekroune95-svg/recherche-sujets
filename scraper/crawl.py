@@ -51,9 +51,10 @@ UA = ("recherche-sujets/1.0 (+https://github.com/aminechekroune95-svg/recherche-
       "index de recherche non commercial, 1 requete a la fois ou presque)")
 LIST_PARAMS = ("an", "voie", "session", "mat", "opt", "epr")
 MAT_LABELS = {"HG": 2, "LVA/B": 3, "Science": 6, "HGGSP": 13, "HLP": 14, "LLCER": 15,
-              "LLCA": 23, "Maths": 1, "NSI": 26, "SVT": 27, "SI": 28, "SES": 29, "PC": 30}
+              "LLCA": 23, "Maths": 1, "NSI": 26, "SVT": 27, "SI": 28, "SES": 29, "PC": 30,
+              "ST2S": 31, "STHR": 32, "STI2D": 33, "STL": 34, "STD2A": 35}
 # Ordre de traitement : les matières où la recherche par notion compte le plus d'abord.
-PRIORITY = [1, 30, 28, 6, 27, 26, 29, 2, 13, 14, 23, 15, 3]
+PRIORITY = [1, 30, 28, 6, 27, 26, 29, 2, 13, 14, 33, 34, 31, 32, 35, 23, 15, 3]
 VOIR_RE = re.compile(r"voir\.php\?id=(\d+)")
 DL_RE = re.compile(r"dl\.php\?path=([^&#\"']+)")
 

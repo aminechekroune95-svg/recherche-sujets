@@ -22,9 +22,10 @@ const MAT_BY_CODE = {
   1: "Mathématiques", 2: "Histoire-géographie", 3: "Langues vivantes", 6: "Enseignement scientifique",
   13: "HGGSP", 14: "HLP", 15: "LLCER", 23: "LLCA", 26: "NSI", 27: "SVT",
   28: "Sciences de l'ingénieur", 29: "SES", 30: "Physique-chimie",
+  31: "Spécialité ST2S", 32: "Spécialité STHR", 33: "Spécialité STI2D", 34: "Spécialité STL", 35: "Spécialité STD2A",
 };
 const MAT_CODE_BY_LABEL = { HG: 2, "LVA/B": 3, Science: 6, HGGSP: 13, HLP: 14, LLCER: 15, LLCA: 23,
-  Maths: 1, NSI: 26, SVT: 27, SI: 28, SES: 29, PC: 30 };
+  Maths: 1, NSI: 26, SVT: 27, SI: 28, SES: 29, PC: 30, ST2S: 31, STHR: 32, STI2D: 33, STL: 34, STD2A: 35 };
 const LANG_CODES = new Set([3, 15, 23]);
 const MAT_CANON = [
   [/^histoire.?g[ée]ographie$/i, "Histoire-géographie"],
