@@ -246,7 +246,7 @@ function card(d) {
     <h3 class="res__title">${esc(m.title)}${m.ref ? `<span class="res__ref">${esc(m.ref)}</span>` : ""}</h3>
     ${m.titre ? `<p class="res__titre">${esc(m.titre)}</p>` : ""}
     ${partsHtml}
-    ${d.excerpt && m.texte === "1" ? `<p class="excerpt">${d.excerpt}</p>` : ""}
+    ${d.excerpt && m.texte === "1" ? `<p class="excerpt">${d.excerpt.replace(/’ (?=<mark>|[A-Za-zÀ-ÿ])/g, "’")}</p>` : ""}
     ${notes.length ? `<ul class="res__notes">${notes.join("")}</ul>` : ""}
     ${corrHtml}
     <div class="res__actions">

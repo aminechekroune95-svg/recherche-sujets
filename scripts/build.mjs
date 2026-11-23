@@ -48,6 +48,8 @@ const AXES = {
   6: "Innovations scientifiques et responsabilité", 7: "Diversité et inclusion", 8: "Territoire et mémoire",
 };
 
+// Pagefind ne coupe pas les mots à l'apostrophe : « l’agriculture » serait un seul mot.
+const splitElisions = (s) => String(s ?? "").replace(/([A-Za-zÀ-ÿ])['’](?=[A-Za-zÀ-ÿ])/g, "$1’ ");
 const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const clean = (s) => String(s ?? "").replace(/[‐‑  ]/g, (c) => (c === "‐" || c === "‑" ? "-" : " ")).replace(/\s+/g, " ").trim();
 const uniq = (arr) => {
@@ -120,15 +122,19 @@ function interpretRow(cells, labels) {
   const out = { num: "", maj: "", corr: [], titles: [], themes: [], types: [], misc: [], cols: [] };
   const known = labels.length === cells.length && labels.some(Boolean);
   cells.forEach((lines, i) => {
-    const vals = (lines || []).map(clean).filter(Boolean);
+    const vals = [];
+    for (const l of (lines || []).map(clean).filter(Boolean)) {
+      if (vals.length && /^[A-Z]$/.test(vals[vals.length - 1]) && /^[a-zé]/.test(l)) vals[vals.length - 1] += l;
+      else vals.push(l);
+    }
     if (!vals.length) return;
     const label = known ? labels[i] : "";
     const txt = vals.join(" ");
     if (i === 0 || /^N°|^N\b|^Num/i.test(label)) {
       if (!out.num) {
         out.num = vals[0].replace(/(Oui|Non|Autre)$/i, "").trim();
-        const flag = txt.match(/(Oui|Non|Autre)$/i);
-        if (flag) out.corr.push(flag[1]);
+        const flag = vals.slice(1).join(" ").match(/^(Autre|Correction)$/i);
+        if (flag) out.corr.push(/^c/i.test(flag[1]) ? "Oui" : "Autre");
         return;
       }
     }
@@ -136,7 +142,7 @@ function interpretRow(cells, labels) {
       out.maj = txt;
       return;
     }
-    if (/Corrig/i.test(label) || /^(Oui|Non|Autre)$/i.test(txt)) {
+    if (/Corrig/i.test(label) || /^(Oui|Non|Autre|Correction)$/i.test(txt)) {
       out.corr.push(txt);
       return;
     }
@@ -244,7 +250,7 @@ function textToHtml(text) {
     .split(/\n{2,}/)
     .map((p) => p.replace(/\n/g, " ").trim())
     .filter(Boolean)
-    .map((p) => `<p>${esc(p)}</p>`)
+    .map((p) => `<p>${esc(splitElisions(p))}</p>`)
     .join("\n");
 }
 
@@ -376,7 +382,7 @@ async function main() {
     const html = `<!doctype html><html lang="fr"><head><meta charset="utf-8"><title>${esc(meta.title)}</title></head><body>
 <main data-pagefind-body>
 ${hasText ? textToHtml(txt.text) : ""}
-<p data-pagefind-weight="6">${esc([...themes, ...titles].join(" ; "))}.</p>
+<p data-pagefind-weight="6">${esc(splitElisions([...themes, ...titles].join(" ; ")))}.</p>
 <p data-pagefind-weight="2">${esc([...parts.map((p) => p.n), matiere, niveau, voie, annee, langue, meta.title, ref].filter(Boolean).join(" ; "))}.</p>
 </main>
 <div hidden>${metaHtml}${filterHtml}<span data-pagefind-sort="annee">${esc(annee || "0")}</span><span data-pagefind-sort="id">${esc(id.padStart(6, "0"))}</span></div>
