@@ -201,7 +201,7 @@ def mat_code_of(page: dict) -> int | None:
     return int(m) if m and m.isdigit() else None
 
 
-def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int):
+def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int, max_minutes: float = 90):
     seeds = [BASE + "list.php"] + [BASE + "list.php?" + urlencode({"an": y}) for y in range(2020, 2028)]
     seen, queue = set(), deque()
     for s in seeds:
@@ -221,9 +221,13 @@ def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int):
             return url, None
         return url, r.content
 
+    t_end = time.monotonic() + max_minutes * 60
     with ThreadPoolExecutor(max_workers=workers) as ex:
         futures = {}
         while queue or futures:
+            if time.monotonic() > t_end and queue:
+                log(f"listes : temps dépassé, {len(queue)} pages non visitées (on garde l'ancienne liste pour elles)")
+                queue.clear()
             while queue and len(futures) < workers * 2 and len(seen) <= max_pages:
                 u = queue.popleft()
                 futures[ex.submit(work, u)] = u
@@ -384,6 +388,7 @@ def main():
     ap.add_argument("--rate", type=float, default=4.0, help="requêtes par seconde max")
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--max-pages", type=int, default=8000)
+    ap.add_argument("--lists-max-minutes", type=float, default=75, help="durée max du parcours des listes")
     ap.add_argument("--only", default="", help="codes matière à traiter, ex. 1,30")
     ap.add_argument("--limit", type=int, default=0, help="nombre max de sujets (test)")
     ap.add_argument("--ocr-max", type=int, default=400, help="OCR max par exécution")
@@ -402,15 +407,28 @@ def main():
         lists = load_json(lists_path, {})
         log(f"listes réutilisées : {len(lists.get('rows', {}))} sujets")
     else:
-        lists = crawl_lists(f, data, args.max_pages, args.workers)
-        if not lists["rows"]:
-            old = load_json(lists_path, {})
-            if old.get("rows"):
-                log("ATTENTION : aucune ligne trouvée, on garde l'ancien lists.json")
-                lists = old
-            else:
-                log(f"ÉCHEC : aucune page de liste exploitable (HTTP : {dict(f.stats)})")
-                sys.exit(1)
+        lists = crawl_lists(f, data, args.max_pages, args.workers, args.lists_max_minutes)
+        old = load_json(lists_path, {})
+        if not lists["rows"] and not old.get("rows"):
+            log(f"ÉCHEC : aucune page de liste exploitable (HTTP : {dict(f.stats)})")
+            sys.exit(1)
+        # un sujet absent de ce parcours (liste incomplète, panne) garde ses anciennes lignes
+        if old.get("rows"):
+            remap = {}
+            kept = 0
+            for sid, ctxs in old["rows"].items():
+                if sid in lists["rows"]:
+                    continue
+                new_ctxs = []
+                for c in ctxs:
+                    if c["p"] not in remap:
+                        remap[c["p"]] = len(lists["pages"])
+                        lists["pages"].append(old["pages"][c["p"]])
+                    new_ctxs.append({"p": remap[c["p"]], "cells": c["cells"]})
+                lists["rows"][sid] = new_ctxs
+                kept += 1
+            if kept:
+                log(f"{kept} sujets repris de l'ancienne liste")
         lists_path.write_text(json.dumps(lists, ensure_ascii=False, separators=(",", ":")), "utf-8")
 
     pages = lists["pages"]
