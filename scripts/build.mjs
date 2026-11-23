@@ -15,6 +15,7 @@ const arg = (name, def) => {
 const DATA = arg("data", "data");
 const OUT = arg("out", "dist");
 const SITE = arg("site", "site");
+const DUMP = argv.includes("--dump"); // échantillon de fiches par matière pour contrôle (non publié)
 const CCBAC = "https://ccbac.fr/";
 
 // ---------------------------------------------------------------- référentiels
@@ -114,7 +115,9 @@ function pageContext(page) {
     }
   });
   if (code === null && p.mat && /^\d+$/.test(p.mat)) code = Number(p.mat);
-  const banque = crumbs.find((c) => /^(É|E)val\s*\d{4}|^EC\s*\d{4}|^E3C\s*\d{4}/i.test(c)) || (p.an ? `Éval ${p.an}` : "");
+  const hm = (page.heading || "").match(/BNS\s+(\d{4})\s*-\s*(\d{4})/);
+  const banque = hm ? `BNS ${hm[1]}-${hm[2]}`
+    : crumbs.find((c) => /^(É|E)val\s*\d{4}|^EC\s*\d{4}|^E3C\s*\d{4}/i.test(c)) || (p.an ? `BNS ${p.an - 1}-${p.an}` : "");
   const vc = crumbs.find((c) => /^Voie /i.test(c)) || "";
   const voie = /techno/i.test(vc) ? "Technologique" : /g[ée]n[ée]rale/i.test(vc) ? "Générale" : VOIE[p.voie] || "";
   const niveau = NIVEAU[p.session] || crumbs.find((c) => /^(Première|Terminale|Cycle terminal)$/i.test(c)) || "";
@@ -182,6 +185,7 @@ const FIELD_KEYS = {
   "thème": "themes", theme: "themes",
 };
 const STOP = /^(Cette partie|Des corrections|Aucune correction|Correction|Une correction|Attention|Tu souhaites|Clique|Titre|Th[èe]me|Exercice\s*\d|Partie\s*\d|Question|[ÉE]tude|Confirmation)/i;
+const NOISE = /^(Cette partie|Des corrections|Aucune correction|Correction|Une correction|Attention|Tu souhaites|Clique|Confirmation|Toute utilisation|Fermer)/i;
 function parseDetail(d) {
   const f = {};
   const parts = [];
@@ -205,6 +209,8 @@ function parseDetail(d) {
         continue;
       }
       if (!val && i + 1 < lines.length && !/:$/.test(lines[i + 1])) val = lines[++i];
+      // titre coupé sur plusieurs lignes : les lignes qui commencent par une minuscule le prolongent
+      while (key === "titre" && i + 1 < lines.length && /^[a-zà-ÿ]/.test(lines[i + 1]) && !NOISE.test(lines[i + 1])) val += ` ${lines[++i]}`;
       if (key === "titre") {
         cur = { n: prev, t: val, th: [] };
         parts.push(cur);
@@ -215,7 +221,8 @@ function parseDetail(d) {
       const pm = line.match(/^(\d+)\s*pages?$/i);
       if (pm) f.pages = pm[1];
     }
-    prev = line;
+    // nom de partie coupé en deux lignes : « … modification de son » + « comportement »
+    prev = /^[a-zà-ÿ]/.test(line) && prev && !/[.:;!?()]$/.test(prev) && !NOISE.test(prev) ? `${prev} ${line}` : line;
   }
   const t = clean(d.title);
   const tm = t.match(/n°\s*([\w\-‑]+)\s*(?:\[\s*([\w\-]+)\s*\])?(?:\s*-\s*(.+))?$/i);
@@ -227,7 +234,11 @@ function parseDetail(d) {
     const src = cm[2].replace(/\d{1,2}\/\d{1,2}\/\d{2,4}/g, "").replace(/[()]/g, "").trim() || "corrigé";
     if (!corrections.some((c) => c.href === x.href)) corrections.push({ src: src.slice(0, 40), href: x.href });
   }
-  return { f, parts, num: tm?.[1] || "", ref: f.ref || tm?.[2] || "", banque: tm?.[3] || "", corrections };
+  // « Titre : Imprimante 3D » juste après « Sujet » : titre général du sujet, pas une partie
+  let titre = "";
+  const gi = parts.findIndex((p) => /^Sujet$/i.test(p.n) && !p.th.length);
+  if (gi >= 0) titre = parts.splice(gi, 1)[0].t;
+  return { f, parts, titre, num: tm?.[1] || "", ref: f.ref || tm?.[2] || "", banque: tm?.[3] || "", corrections };
 }
 
 function subjectPdf(d) {
@@ -301,6 +312,7 @@ async function main() {
 
   const { index } = await pagefind.createIndex({ forceLanguage: "fr" });
   const stats = { subjects: 0, with_text: 0, matieres: {} };
+  const dumped = {};
   let errors = 0;
 
   for (const id of [...ids].sort((a, b) => Number(b) - Number(a))) {
@@ -308,7 +320,7 @@ async function main() {
     if (Array.isArray(entry)) entry = { c: entry[0]?.cells || [], p: entry.map((e) => e.p) }; // ancien format
     const rows = entry.p.map((p, i) => ({ p, cells: i === 0 ? entry.c : null }));
     const det = details.get(id);
-    const dp = det ? parseDetail(det) : { f: {}, parts: [], num: "", ref: "", banque: "", corrections: [] };
+    const dp = det ? parseDetail(det) : { f: {}, parts: [], titre: "", num: "", ref: "", banque: "", corrections: [] };
     const banques = new Set();
     let code = null, voie = "", niveau = "", option = "";
     const listInfo = { num: "", maj: "", corr: [], titles: [], themes: [], types: [], cols: [] };
@@ -384,7 +396,7 @@ async function main() {
       title: num ? `Sujet n° ${num}` : `Sujet ${id}`,
       mat: matiere, niv: niveau, voie, annee, langue, num, ref,
       parts: JSON.stringify(parts.slice(0, 8)),
-      titre: parts.some((p) => p.t) ? "" : uniq(listInfo.titles).join(" / "),
+      titre: dp.titre || (parts.some((p) => p.t) ? "" : uniq(listInfo.titles).join(" / ")),
       themes: JSON.stringify(themes.slice(0, 8)),
       pdf: pdf?.href || "",
       fiche: `${CCBAC}voir.php?id=${id}`,
@@ -412,6 +424,7 @@ ${hasText ? textToHtml(txt.text) : ""}
 </main>
 <div hidden>${metaHtml}${filterHtml}<span data-pagefind-sort="annee">${esc(annee || "0")}</span><span data-pagefind-sort="id">${esc(id.padStart(6, "0"))}</span></div>
 </body></html>`;
+    if (DUMP && (dumped[matiere] ||= []).length < 4) dumped[matiere].push({ meta, filters });
     const res = await index.addHTMLFile({ url: `/s/${id}/`, content: html });
     if (res.errors?.length) {
       errors++;
@@ -432,6 +445,7 @@ ${hasText ? textToHtml(txt.text) : ""}
   };
   fs.writeFileSync(path.join(OUT, "data", "stats.json"), JSON.stringify(out, null, 1));
   fs.writeFileSync(path.join(OUT, ".nojekyll"), "");
+  if (DUMP) fs.writeFileSync(path.join(OUT, "..", "debug-records.json"), JSON.stringify(dumped, null, 1));
   console.log(`index : ${stats.subjects} sujets (${stats.with_text} avec texte), ${errors} erreurs, ${((Date.now() - t0) / 1000).toFixed(1)} s`);
   console.log(JSON.stringify(stats.matieres));
 }

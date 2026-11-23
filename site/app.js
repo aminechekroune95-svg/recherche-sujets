@@ -236,7 +236,8 @@ function card(d, exact = false) {
   if (!parts.length && themes.length) parts.push(...themes.map((t) => ({ n: "", t })));
   const partsHtml = parts.length
     ? `<ul class="parts">${parts.map((p) => {
-        const body = p.t || (p.th || []).join(", ");
+        let body = p.t || (p.th || []).join(", ");
+        if (body.length > 150) body = `${body.slice(0, 147).replace(/\s+\S*$/, "")}…`;
         const tip = p.t && p.th?.length ? ` title="${esc(p.th.join(" ; "))}"` : "";
         return `<li${tip}>${p.n ? `<b>${esc(p.n)}</b> ` : ""}${esc(body)}</li>`;
       }).join("")}</ul>`

@@ -449,17 +449,22 @@ def main():
         if old.get("rows"):
             remap = {}
             kept = 0
+            crawled = {p["params"].get("an") for p in lists["pages"]}
             for sid, entry in old["rows"].items():
-                if sid in lists["rows"]:
-                    continue
                 ps = []
                 for p_old in entry["p"]:
+                    # les pages des années re-parcourues remplacent les anciennes
+                    if sid in lists["rows"] and old["pages"][p_old]["params"].get("an") in crawled:
+                        continue
                     if p_old not in remap:
                         remap[p_old] = len(lists["pages"])
                         lists["pages"].append(old["pages"][p_old])
                     ps.append(remap[p_old])
-                lists["rows"][sid] = {"c": entry["c"], "p": ps}
-                kept += 1
+                if sid in lists["rows"]:
+                    lists["rows"][sid]["p"].extend(p for p in ps if p not in lists["rows"][sid]["p"])
+                else:
+                    lists["rows"][sid] = {"c": entry["c"], "p": ps}
+                    kept += 1
             if kept:
                 log(f"{kept} sujets repris de l'ancienne liste")
         save_lists(data, lists)
