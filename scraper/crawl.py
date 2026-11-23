@@ -202,8 +202,13 @@ def mat_code_of(page: dict) -> int | None:
     return int(m) if m and m.isdigit() else None
 
 
-def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int, max_minutes: float = 90):
-    seeds = [BASE + "list.php"] + [BASE + "list.php?" + urlencode({"an": y}) for y in range(2020, 2028)]
+def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int, max_minutes: float = 90,
+                years: set[str] | None = None):
+    """Parcours des pages de listes. Avec `years`, seules les banques de ces années sont visitées
+    (mise à jour hebdomadaire : les nouveaux sujets arrivent dans la banque de l'année)."""
+    all_years = range(2020, dt.date.today().year + 2)
+    seeds = ([] if years else [BASE + "list.php"]) + [
+        BASE + "list.php?" + urlencode({"an": y}) for y in all_years if not years or str(y) in years]
     seen, queue = set(), deque()
     for s in seeds:
         n = norm_list_url(s)
@@ -256,6 +261,10 @@ def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int, max_minute
                     sampled.add(key)
                     (samples / f"list_{key}.html").write_bytes(html)
                 for l in links:
+                    if years:
+                        an = dict(parse_qsl(urlparse(l).query)).get("an")
+                        if an not in years:
+                            continue
                     if l not in seen and len(seen) < max_pages:
                         seen.add(l)
                         queue.append(l)
@@ -410,6 +419,7 @@ def main():
     ap.add_argument("--workers", type=int, default=3)
     ap.add_argument("--max-pages", type=int, default=8000)
     ap.add_argument("--lists-max-minutes", type=float, default=75, help="durée max du parcours des listes")
+    ap.add_argument("--years", default="", help="banques à parcourir, ex. 2026,2027 (vide = toutes)")
     ap.add_argument("--only", default="", help="codes matière à traiter, ex. 1,30")
     ap.add_argument("--limit", type=int, default=0, help="nombre max de sujets (test)")
     ap.add_argument("--ocr-max", type=int, default=400, help="OCR max par exécution")
@@ -428,7 +438,8 @@ def main():
         lists = previous
         log(f"listes réutilisées : {len(lists.get('rows', {}))} sujets")
     else:
-        lists = crawl_lists(f, data, args.max_pages, args.workers, args.lists_max_minutes)
+        years = {y.strip() for y in args.years.split(",") if y.strip()} or None
+        lists = crawl_lists(f, data, args.max_pages, args.workers, args.lists_max_minutes, years)
         old = previous
         if not lists["rows"] and not old.get("rows"):
             log(f"ÉCHEC : aucune page de liste exploitable (HTTP : {dict(f.stats)})")

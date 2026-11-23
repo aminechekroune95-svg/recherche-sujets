@@ -57,6 +57,12 @@ jobs:
       - run: pip install -r scraper/requirements.txt
       - name: Outils PDF et OCR
         run: sudo apt-get update -q && sudo apt-get install -y -q poppler-utils tesseract-ocr tesseract-ocr-fra
+      - name: Banques à parcourir
+        # chaque semaine : seulement la banque de l'année en cours (nouveaux sujets) ; à la main : toutes
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "YEARS=--years $(date +%Y),$(( $(date +%Y) + 1 ))" >> "$GITHUB_ENV"
+          fi
       - name: Collecte
         id: crawl
         run: >
@@ -64,6 +70,7 @@ jobs:
           --max-minutes "${{ inputs.minutes || '300' }}"
           ${{ inputs.skip_lists && '--skip-lists' || '' }}
           ${{ inputs.only && format('--only {0}', inputs.only) || '' }}
+          $YEARS
       - name: Enregistrer les données (branche data)
         if: ${{ !cancelled() }}
         working-directory: data
