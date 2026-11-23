@@ -28,6 +28,7 @@ from __future__ import annotations
 import argparse
 import base64
 import datetime as dt
+import gzip
 import json
 import os
 import re
@@ -244,7 +245,11 @@ def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int, max_minute
                 page["n"] = len(rows)
                 pages.append(page)
                 for row in rows:
-                    rows_by_id.setdefault(str(row["id"]), []).append({"p": idx, "cells": row["cells"]})
+                    entry = rows_by_id.get(str(row["id"]))
+                    if entry is None:  # cellules gardées une fois, pages où le sujet apparaît
+                        rows_by_id[str(row["id"])] = {"c": row["cells"], "p": [idx]}
+                    elif idx not in entry["p"]:
+                        entry["p"].append(idx)
                 mc = mat_code_of(page)
                 key = f"{mc}-{page['params'].get('voie', '')}-{page['params'].get('session', '')}"
                 if rows and key not in sampled and len(sampled) < 60:
@@ -380,6 +385,22 @@ def load_json(p: Path, default):
         return default
 
 
+def load_lists(data: Path) -> dict:
+    gz = data / "lists.json.gz"
+    if gz.exists():
+        try:
+            with gzip.open(gz, "rt", encoding="utf-8") as fh:
+                return json.load(fh)
+        except Exception:
+            pass
+    return {}
+
+
+def save_lists(data: Path, lists: dict):
+    with gzip.open(data / "lists.json.gz", "wt", encoding="utf-8", compresslevel=9) as fh:
+        json.dump(lists, fh, ensure_ascii=False, separators=(",", ":"))
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data", default="data")
@@ -402,13 +423,13 @@ def main():
     (data / "samples").mkdir(parents=True, exist_ok=True)
     f = Fetcher(rate=args.rate)
 
-    lists_path = data / "lists.json"
-    if args.skip_lists and lists_path.exists():
-        lists = load_json(lists_path, {})
+    previous = load_lists(data)
+    if args.skip_lists and previous.get("rows"):
+        lists = previous
         log(f"listes réutilisées : {len(lists.get('rows', {}))} sujets")
     else:
         lists = crawl_lists(f, data, args.max_pages, args.workers, args.lists_max_minutes)
-        old = load_json(lists_path, {})
+        old = previous
         if not lists["rows"] and not old.get("rows"):
             log(f"ÉCHEC : aucune page de liste exploitable (HTTP : {dict(f.stats)})")
             sys.exit(1)
@@ -416,27 +437,28 @@ def main():
         if old.get("rows"):
             remap = {}
             kept = 0
-            for sid, ctxs in old["rows"].items():
+            for sid, entry in old["rows"].items():
                 if sid in lists["rows"]:
                     continue
-                new_ctxs = []
-                for c in ctxs:
-                    if c["p"] not in remap:
-                        remap[c["p"]] = len(lists["pages"])
-                        lists["pages"].append(old["pages"][c["p"]])
-                    new_ctxs.append({"p": remap[c["p"]], "cells": c["cells"]})
-                lists["rows"][sid] = new_ctxs
+                ps = []
+                for p_old in entry["p"]:
+                    if p_old not in remap:
+                        remap[p_old] = len(lists["pages"])
+                        lists["pages"].append(old["pages"][p_old])
+                    ps.append(remap[p_old])
+                lists["rows"][sid] = {"c": entry["c"], "p": ps}
                 kept += 1
             if kept:
                 log(f"{kept} sujets repris de l'ancienne liste")
-        lists_path.write_text(json.dumps(lists, ensure_ascii=False, separators=(",", ":")), "utf-8")
+        save_lists(data, lists)
+        log(f"lists.json.gz : {(data / 'lists.json.gz').stat().st_size / 1e6:.1f} Mo")
 
     pages = lists["pages"]
     only = {int(x) for x in args.only.split(",") if x.strip().isdigit()}
     order = {m: i for i, m in enumerate(PRIORITY)}
     subjects = []
-    for sid, ctxs in lists["rows"].items():
-        mats = {mat_code_of(pages[c["p"]]) for c in ctxs}
+    for sid, entry in lists["rows"].items():
+        mats = {mat_code_of(pages[p]) for p in entry["p"]}
         mats.discard(None)
         if only and not (mats & only):
             continue

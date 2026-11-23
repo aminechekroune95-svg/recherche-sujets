@@ -4,6 +4,7 @@
 //   node scripts/build.mjs --data data --out dist [--site site]
 import fs from "node:fs";
 import path from "node:path";
+import zlib from "node:zlib";
 import * as pagefind from "pagefind";
 
 const argv = process.argv.slice(2);
@@ -279,7 +280,10 @@ async function main() {
   fs.rmSync(OUT, { recursive: true, force: true });
   copyDir(SITE, OUT);
 
-  const lists = readJSON(path.join(DATA, "lists.json"), { pages: [], rows: {} });
+  let lists = { pages: [], rows: {} };
+  const gz = path.join(DATA, "lists.json.gz");
+  if (fs.existsSync(gz)) lists = JSON.parse(zlib.gunzipSync(fs.readFileSync(gz)).toString("utf8"));
+  else lists = readJSON(path.join(DATA, "lists.json"), lists);
   const state = readJSON(path.join(DATA, "state.json"), {});
   const pages = lists.pages || [];
   const ctxCache = pages.map(pageContext);
@@ -299,7 +303,9 @@ async function main() {
   let errors = 0;
 
   for (const id of [...ids].sort((a, b) => Number(b) - Number(a))) {
-    const rows = lists.rows?.[id] || [];
+    let entry = lists.rows?.[id] || { c: [], p: [] };
+    if (Array.isArray(entry)) entry = { c: entry[0]?.cells || [], p: entry.map((e) => e.p) }; // ancien format
+    const rows = entry.p.map((p, i) => ({ p, cells: i === 0 ? entry.c : null }));
     const det = details.get(id);
     const dp = det ? parseDetail(det) : { f: {}, parts: [], num: "", ref: "", banque: "", corrections: [] };
     const banques = new Set();
@@ -312,6 +318,7 @@ async function main() {
       voie ||= ctx.voie;
       if (!niveau || niveau === "Cycle terminal") niveau = ctx.niveau || niveau;
       option ||= ctx.option;
+      if (!r.cells) continue;
       const page = pages[r.p] || {};
       const key = `${r.p}:${r.cells.length}`;
       if (!labelCache.has(key)) labelCache.set(key, columnLabels(page.headers || [], r.cells.length));
