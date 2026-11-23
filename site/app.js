@@ -96,7 +96,28 @@ function activeFilters() {
 }
 
 // ---------------------------------------------------------------- recherche
-async function run({ immediate = false } = {}) {
+const fold = (s) => s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^\p{L}\p{N}]+/gu, "");
+const existsCache = new Map();
+// Pagefind ne renvoie rien de vide pour un mot inconnu : il le rapproche d'un mot court (« R », « x »…).
+// On vérifie donc chaque mot seul : s'il ne surligne rien qui lui ressemble, il est absent.
+async function termExists(term, filters) {
+  const t = fold(term);
+  if (term.startsWith('"') || t.length < 3) return true;
+  const key = `${t}|${JSON.stringify(filters)}`;
+  if (existsCache.has(key)) return existsCache.get(key);
+  const s = await pf.search(term, { filters });
+  let ok = false;
+  for (const r of s.results.slice(0, 2)) {
+    const d = await r.data();
+    const marks = [...d.excerpt.matchAll(/<mark>(.*?)<\/mark>/g)].map((m) => fold(m[1]));
+    const k = Math.min(4, t.length);
+    if (marks.some((w) => w.slice(0, k) === t.slice(0, k))) { ok = true; break; }
+  }
+  existsCache.set(key, ok);
+  return ok;
+}
+
+async function run() {
   if (!pf) return;
   const token = ++state.token;
   const q = state.q.trim();
@@ -107,21 +128,39 @@ async function run({ immediate = false } = {}) {
     fillSelects(null, null);
     return;
   }
+  const terms = q.match(/"[^"]+"|\S+/g) || [];
+  const found = await Promise.all(terms.map((t) => termExists(t, filters)));
+  if (token !== state.token) return;
+  const missing = terms.filter((_, i) => !found[i]);
+  const effective = terms.filter((_, i) => found[i]).join(" ");
   const opts = { filters };
   if (state.sort) {
     const [k, dir] = state.sort.split(":");
     opts.sort = { [k]: dir };
-  } else if (!q) opts.sort = { annee: "desc" };
-  const search = immediate ? await pf.search(q || null, opts) : await pf.debouncedSearch(q || null, opts, 200);
-  if (search === null || token !== state.token) return;
+  } else if (!effective) opts.sort = { annee: "desc" };
+  const search = terms.length && !effective ? { results: [], filters: null, totalFilters: null } : await pf.search(effective || null, opts);
+  if (token !== state.token) return;
   state.results = search.results;
   state.shown = 0;
   ui.results.replaceChildren();
   const n = search.results.length;
   ui.total.textContent = n ? `${nf.format(n)} sujet${n > 1 ? "s" : ""}` : "Aucun sujet";
-  if (!n) showEmpty(q);
+  if (missing.length) {
+    const where = Object.keys(filters).length ? " avec ces filtres" : "";
+    const list = missing.map((m) => `« ${esc(m)} »`).join(", ");
+    const note = document.createElement("p");
+    note.className = "notice";
+    note.innerHTML = `Aucun sujet${where} ne contient ${list}${effective ? ` : résultats pour « ${esc(effective)} ».` : "."}`;
+    ui.results.append(note);
+  }
+  if (!n) showEmpty(q, !!missing.length);
   else await renderMore();
-  fillSelects(search.filters, search.totalFilters);
+  if (search.filters) fillSelects(search.filters, search.totalFilters);
+}
+let typingTimer = 0;
+function runSoon() {
+  clearTimeout(typingTimer);
+  typingTimer = setTimeout(run, 250);
 }
 
 function showWelcome() {
@@ -137,15 +176,16 @@ function showWelcome() {
   ui.results.replaceChildren(box);
 }
 
-function showEmpty(q) {
+function showEmpty(q, noted = false) {
   ui.more.hidden = true;
+  if (noted && !Object.keys(activeFilters()).length) return;
   const box = document.createElement("div");
   box.className = "empty";
   const nf_ = Object.keys(activeFilters()).length;
   box.innerHTML = `<h2>Aucun sujet ne correspond</h2>
     <p>${q ? "Tous les mots doivent apparaître dans le sujet : retire un mot ou essaie un synonyme." : ""}</p>
     ${nf_ ? `<p>${nf_} filtre${nf_ > 1 ? "s" : ""} actif${nf_ > 1 ? "s" : ""} : <button type="button" class="linkish" data-reset>effacer les filtres</button>.</p>` : ""}`;
-  ui.results.replaceChildren(box);
+  ui.results.append(box);
 }
 
 async function renderMore() {
@@ -195,20 +235,26 @@ function card(d) {
   if (m.calc) notes.push(`<li>Calculatrice ${esc(m.calc.toLowerCase())}</li>`);
   if (m.pages) notes.push(`<li>${esc(m.pages)} page${m.pages === "1" ? "" : "s"}</li>`);
   if (m.texte !== "1") notes.push(`<li class="warn">Texte du PDF pas encore indexé</li>`);
+  let corr = [];
+  try { corr = JSON.parse(m.corrections || "[]"); } catch { /* ignoré */ }
+  const corrHtml = corr.length
+    ? `<p class="res__corr">Corrigés : ${corr.map((c) => `<a href="${esc(c.href)}" target="_blank" rel="noopener">${esc(c.src)}</a>`).join(", ")}</p>`
+    : "";
   const inBasket = getBasket().some((b) => b.id === m.id);
   art.innerHTML = `
     <p class="res__ctx">${esc(contextLine(m))}</p>
     <h3 class="res__title">${esc(m.title)}${m.ref ? `<span class="res__ref">${esc(m.ref)}</span>` : ""}</h3>
     ${m.titre ? `<p class="res__titre">${esc(m.titre)}</p>` : ""}
     ${partsHtml}
-    ${d.excerpt ? `<p class="excerpt">${d.excerpt}</p>` : ""}
+    ${d.excerpt && m.texte === "1" ? `<p class="excerpt">${d.excerpt}</p>` : ""}
     ${notes.length ? `<ul class="res__notes">${notes.join("")}</ul>` : ""}
+    ${corrHtml}
     <div class="res__actions">
       ${m.pdf ? `<a class="btn btn--primary" href="${esc(m.pdf)}" target="_blank" rel="noopener">Ouvrir le PDF</a>` : ""}
       <a class="btn" href="${esc(m.fiche)}" target="_blank" rel="noopener">Voir la fiche</a>
       <button type="button" class="btn" data-add="${esc(m.id)}" aria-pressed="${inBasket}">${inBasket ? "Dans ma sélection" : "Ajouter à ma sélection"}</button>
     </div>`;
-  art._data = { id: m.id, title: m.title + (m.titre ? ` « ${m.titre} »` : ""), ref: m.ref, ctx: contextLine(m), parts: parts.map((p) => [p.n, p.t || (p.th || []).join(", ")].filter(Boolean).join(" : ")), pdf: m.pdf, fiche: m.fiche };
+  art._data = { id: m.id, title: m.title + (m.titre ? ` « ${m.titre} »` : ""), ref: m.ref, ctx: contextLine(m), parts: parts.map((p) => [p.n, p.t || (p.th || []).join(", ")].filter(Boolean).join(" : ")), pdf: m.pdf, fiche: m.fiche, corr: corr.map((c) => c.href) };
   return art;
 }
 
@@ -254,6 +300,7 @@ function basketText() {
     lines.push(`${i + 1}. ${b.ctx}, ${b.title}${b.ref ? ` (${b.ref})` : ""}`);
     if (b.parts?.length) lines.push(`   ${b.parts.join(" ; ")}`);
     if (b.pdf) lines.push(`   PDF : ${b.pdf}`);
+    if (b.corr?.length) lines.push(`   Corrigé : ${b.corr[0]}`);
     lines.push(`   Fiche : ${b.fiche}`, "");
   });
   return lines.join("\n");
@@ -295,18 +342,18 @@ function bindUI() {
     e.preventDefault();
     state.q = ui.q.value;
     ui.q.blur();
-    run({ immediate: true });
+    run();
   });
   ui.q.addEventListener("input", () => {
     state.q = ui.q.value;
-    run();
+    runSoon();
   });
   $("#examples").addEventListener("click", (e) => {
     const b = e.target.closest("button[data-q]");
     if (!b) return;
     state.q = b.dataset.q;
     ui.q.value = state.q;
-    run({ immediate: true });
+    run();
   });
   for (const sel of $$("select[data-filter]")) {
     sel.addEventListener("change", () => {
@@ -315,17 +362,17 @@ function bindUI() {
       else delete state.filters[k];
       if (k === "matiere") delete state.filters.theme;
       syncUIFromState();
-      run({ immediate: true });
+      run();
     });
   }
   ui.sort.addEventListener("change", () => {
     state.sort = ui.sort.value;
-    run({ immediate: true });
+    run();
   });
   $("#reset").addEventListener("click", () => {
     state.filters = {};
     syncUIFromState();
-    run({ immediate: true });
+    run();
   });
   ui.more.addEventListener("click", () => renderMore());
   ui.results.addEventListener("click", (e) => {
@@ -338,13 +385,13 @@ function bindUI() {
     if (mat) {
       state.filters = { matiere: mat.dataset.mat };
       syncUIFromState();
-      run({ immediate: true });
+      run();
       return;
     }
     if (e.target.closest("[data-reset]")) {
       state.filters = {};
       syncUIFromState();
-      run({ immediate: true });
+      run();
     }
   });
   $("#basket-open").addEventListener("click", () => {
@@ -374,7 +421,7 @@ function bindUI() {
   window.addEventListener("hashchange", () => {
     readHash();
     syncUIFromState();
-    run({ immediate: true });
+    run();
   });
   window.addEventListener("storage", (e) => {
     if (e.key === BASKET_KEY) renderBasket();
@@ -403,7 +450,7 @@ async function init() {
   syncUIFromState();
   fillSelects(null, null);
   syncUIFromState();
-  run({ immediate: true });
+  run();
 }
 
 init();

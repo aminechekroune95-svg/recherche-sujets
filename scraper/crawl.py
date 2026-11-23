@@ -134,7 +134,8 @@ def norm_list_url(href: str, base: str = BASE) -> str | None:
     if u.netloc not in ("ccbac.fr", "www.ccbac.fr") or not u.path.endswith("/list.php"):
         return None
     q = dict(parse_qsl(u.query))
-    params = [(k, q[k]) for k in LIST_PARAMS if q.get(k, "") != ""]
+    # opt=0 / epr=0 = valeur par défaut : même page que sans le paramètre
+    params = [(k, q[k]) for k in LIST_PARAMS if q.get(k, "") not in ("",) and not (k in ("opt", "epr") and q[k] == "0")]
     return BASE + "list.php" + ("?" + urlencode(params) if params else "")
 
 
@@ -394,7 +395,7 @@ def main():
     t0 = time.monotonic()
     deadline = t0 + args.max_minutes * 60
     data = Path(args.data)
-    data.mkdir(parents=True, exist_ok=True)
+    (data / "samples").mkdir(parents=True, exist_ok=True)
     f = Fetcher(rate=args.rate)
 
     lists_path = data / "lists.json"

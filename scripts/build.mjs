@@ -78,29 +78,23 @@ function* walk(dir, ext) {
 
 // ---------------------------------------------------------------- listes
 function columnLabels(headers, ncols) {
-  const grid = [];
-  headers.forEach((row, r) => {
-    grid[r] ||= [];
-    let c = 0;
-    for (const [text, colspan, rowspan] of row) {
-      while (grid[r][c] !== undefined) c++;
-      for (let dr = 0; dr < (rowspan || 1); dr++)
-        for (let dc = 0; dc < (colspan || 1); dc++) {
-          grid[r + dr] ||= [];
-          grid[r + dr][c + dc] = text;
-        }
-      c += colspan || 1;
-    }
+  // ccbac : une ligne d'en-tête vide, puis (N°, Màj, Corrigé… en rowspan=2 + groupes Exo1/Question…),
+  // puis la dernière ligne (Thème, Titre…) alignée sur les dernières colonnes.
+  const rows = (headers || []).filter((r) => r.some(([t]) => t && t.trim()));
+  if (!rows.length) return [];
+  const last = rows[rows.length - 1];
+  if (rows.length === 1) return last.length === ncols ? last.map(([t]) => t) : [];
+  const prev = rows[rows.length - 2];
+  const lead = prev.filter(([, , rs]) => rs >= 2).map(([t]) => t);
+  const groups = prev.filter(([, , rs]) => !(rs >= 2)).map(([t]) => t);
+  const trail = ncols - last.length;
+  if (trail < 0) return [];
+  const labels = Array(ncols).fill("");
+  lead.slice(0, trail).forEach((t, i) => { labels[i] = t; });
+  last.forEach(([t], j) => {
+    const g = groups.length === last.length ? groups[j] : "";
+    labels[trail + j] = [g, t].filter(Boolean).join(" ");
   });
-  const labels = [];
-  for (let c = 0; c < ncols; c++) {
-    const parts = [];
-    for (const row of grid) {
-      const t = row?.[c];
-      if (t && !parts.includes(t)) parts.push(t);
-    }
-    labels.push(parts.join(" "));
-  }
   return labels;
 }
 
@@ -170,39 +164,53 @@ const FIELD_KEYS = {
   source: "source", parties: "nparts", titre: "titre", "thème(s)": "themes", "thèmes": "themes",
   "thème": "themes", theme: "themes",
 };
+const STOP = /^(Cette partie|Des corrections|Aucune correction|Correction|Une correction|Attention|Tu souhaites|Clique|Titre|Th[èe]me|Exercice\s*\d|Partie\s*\d|Question|[ÉE]tude|Confirmation)/i;
 function parseDetail(d) {
   const f = {};
   const parts = [];
   let cur = null;
   let prev = "";
-  const lines = (d.lines || []).map(clean);
+  const lines = (d.lines || []).map(clean).filter(Boolean);
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const m = line.match(/^([A-Za-zÀ-ÿ()' ]{3,25}?)\s*:\s*(.*)$/);
     const key = m ? FIELD_KEYS[m[1].trim().toLowerCase()] : null;
     if (key) {
       let val = m[2].trim();
-      if (!val && i + 1 < lines.length && !/:\s*$/.test(lines[i + 1])) val = lines[++i];
+      if (key === "themes") {
+        const th = val ? [val] : [];
+        while (i + 1 < lines.length && !STOP.test(lines[i + 1]) && !/:$/.test(lines[i + 1]) && lines[i + 1].length < 140) th.push(lines[++i]);
+        if (!cur || (cur.n !== prev && cur.t !== prev)) {
+          cur = { n: prev, t: "", th: [] };
+          parts.push(cur);
+        }
+        cur.th.push(...th);
+        continue;
+      }
+      if (!val && i + 1 < lines.length && !/:$/.test(lines[i + 1])) val = lines[++i];
       if (key === "titre") {
         cur = { n: prev, t: val, th: [] };
         parts.push(cur);
-      } else if (key === "themes") {
-        const th = val.split(/\s*;\s*|\s+\|\s+/).filter(Boolean);
-        if (cur) cur.th.push(...th);
-        else (f.themes ||= []).push(...th);
       } else if (!(key in f)) f[key] = val;
       continue;
+    }
+    if (!f.pages) {
+      const pm = line.match(/^(\d+)\s*pages?$/i);
+      if (pm) f.pages = pm[1];
     }
     prev = line;
   }
   const t = clean(d.title);
   const tm = t.match(/n°\s*([\w\-‑]+)\s*(?:\[\s*([\w\-]+)\s*\])?(?:\s*-\s*(.+))?$/i);
-  return {
-    f, parts,
-    num: tm?.[1] || "",
-    ref: f.ref || tm?.[2] || "",
-    banque: tm?.[3] || "",
-  };
+  const corrections = [];
+  for (const x of d.files || []) {
+    const ctx = clean(x.ctx);
+    const cm = ctx.match(/^Correction\s+(intégrale|integrale)\b(.*)$/i);
+    if (!cm) continue;
+    const src = cm[2].replace(/\d{1,2}\/\d{1,2}\/\d{2,4}/g, "").replace(/[()]/g, "").trim() || "corrigé";
+    if (!corrections.some((c) => c.href === x.href)) corrections.push({ src: src.slice(0, 40), href: x.href });
+  }
+  return { f, parts, num: tm?.[1] || "", ref: f.ref || tm?.[2] || "", banque: tm?.[3] || "", corrections };
 }
 
 function subjectPdf(d) {
@@ -213,12 +221,20 @@ function subjectPdf(d) {
 }
 
 // ---------------------------------------------------------------- textes
+// En-tête standard des sujets BNS (classe, voie, durée, cases à cocher…) : identique partout, donc
+// inutile pour chercher et gênant pour les extraits. On coupe jusqu'à « Nombre total de pages : N ».
+const BOILERPLATE = /Nombre total de pages\s*:\s*\d+\s*/i;
 function readText(file) {
   if (!fs.existsSync(file)) return null;
   const raw = fs.readFileSync(file, "utf8");
   const nl = raw.indexOf("\n");
   const head = readJSON2(raw.slice(0, nl));
-  return { info: head || {}, text: raw.slice(nl + 1) };
+  // NFKC : 𝑢𝑛 → un, 𝒞 → C, ligatures → lettres (formules Word/MathType)
+  let text = raw.slice(nl + 1).normalize("NFKC");
+  const m = text.slice(0, 5000).match(BOILERPLATE);
+  if (m) text = text.slice(m.index + m[0].length);
+  text = text.replace(/[☐☒■□]/g, " ");
+  return { info: head || {}, text };
 }
 function readJSON2(s) {
   try { return JSON.parse(s); } catch { return null; }
@@ -270,7 +286,7 @@ async function main() {
   for (const id of [...ids].sort((a, b) => Number(b) - Number(a))) {
     const rows = lists.rows?.[id] || [];
     const det = details.get(id);
-    const dp = det ? parseDetail(det) : { f: {}, parts: [] };
+    const dp = det ? parseDetail(det) : { f: {}, parts: [], num: "", ref: "", banque: "", corrections: [] };
     const banques = new Set();
     let code = null, voie = "", niveau = "", option = "";
     const listInfo = { num: "", maj: "", corr: [], titles: [], themes: [], types: [], cols: [] };
@@ -288,7 +304,6 @@ async function main() {
       if (!listInfo.num) Object.assign(listInfo, info);
       else listInfo.corr.push(...info.corr);
     }
-    if (dp.banque) banques.add(dp.banque.replace(/^Eval/i, "Éval"));
 
     const matiere = dp.f.matiere ? canonMat(dp.f.matiere) : (MAT_BY_CODE[code] || "Autre");
     const ep = clean(dp.f.epreuves);
@@ -319,7 +334,8 @@ async function main() {
     const corrStatus = [...listInfo.corr].map((c) => c.toLowerCase());
     const pdf = subjectPdf(det);
     const corrFiles = (det?.files || []).filter((x) => x !== pdf && x.path && !x.path.includes("sujets/")).length;
-    const corrige = corrStatus.includes("oui") ? "Oui" : corrStatus.includes("autre") || corrFiles ? "Autre version" : "Non";
+    const corrections = dp.corrections || [];
+    const corrige = corrStatus.includes("oui") || corrections.length ? "Oui" : corrStatus.includes("autre") || corrFiles ? "Autre version" : "Non";
     const calc = /autoris/i.test(dp.f.calc || "") ? "Autorisée" : /interdi/i.test(dp.f.calc || "") ? "Interdite" : "";
 
     const k = String(Math.floor(Number(id) / 1000)).padStart(3, "0");
@@ -342,7 +358,8 @@ async function main() {
       pdf: pdf?.href || "",
       fiche: `${CCBAC}voir.php?id=${id}`,
       corrige, calc,
-      pages: String(txt?.info?.pages || ""),
+      pages: String(txt?.info?.pages || dp.f.pages || ""),
+      corrections: JSON.stringify(corrections.slice(0, 4)),
       texte: hasText ? "1" : "0",
       id,
     };
