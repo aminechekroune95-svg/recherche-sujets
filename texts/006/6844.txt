@@ -1,0 +1,238 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1110831, "at": "2026-11-23T08:57:20+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+1.
+
+2.
+
+Réponse
+
+Écrire sous la forme d’une
+irréductible l’expression 6 + 3
+
+fraction
+
+Écrire sous
+irréductible
+
+fraction
+
+la
+
+forme
+
+Durée : 20 minutes
+
+d’une
+
+l’expression 25 × 4
+3.
+
+Écrire sous la forme ab, avec a et b entiers,
+l’expression 25 × 23
+
+4.
+
+Écrire sous la forme ab, avec a et b entiers,
+l’expression (35 )4
+
+5. Résoudre sur R l’équation 9𝑥 − 12 = 0.
+On considère la courbe ci-dessous, représentative d’une fonction 𝑓 définie sur
+l’intervalle
+[−10 ; 10].
+𝒚
+
+𝒙
+
+𝑥
+Compléter
+le
+tableau
+de
+6. variations, ci-contre, de 𝑓 sur
+[−10 ; 10].
+
+Compléter le tableau de signes,
+7.
+ci-contre de 𝑓 sur [−10 ; 10].
+
+Variations
+de 𝑓
+
+𝑥
+Signe de
+𝑓
+
+Les questions suivantes constituent un questionnaire à choix multiples (QCM). Pour
+chaque question, une seule des quatre réponses proposées est correcte. Pour
+chaque question, reporter la lettre de la réponse dans la colonne de droite. Aucune
+justification n’est demandée. Une réponse incorrecte, multiple ou une absence de
+réponse n’apporte ni ne retire de point.
+
+L’équation réduite de la droite 𝑑
+représentée ci-contre est :
+
+𝒚
+
+a. 𝑦 = 1,2𝑥 + 4
+b. 𝑦 = −3𝑥 + 4
+c. 𝑦 = −3𝑥 + 1,2
+8.
+
+d. 𝑦 = 4
+𝒙
+
+𝒅
+
+La forme développée de l’expression
+3(𝑥 − 4)(𝑥 + 2) est :
+a. 𝑥 2 − 2𝑥 − 8
+9.
+
+b. 3𝑥 2 − 2𝑥 − 8
+c. 3𝑥 2 − 6𝑥 − 24
+d. 3𝑥 2 − 6𝑥 + 24
+Le diagramme en boîte ci-dessous est celui des notes
+entières obtenues en mathématiques par une classe de 36
+élèves.
+
+10.
+a. 19 élèves ont une note inférieure ou égale à 11.
+b. Au moins 27 élèves ont une note inférieure ou égale à
+13.
+c. 25 élèves ont une note strictement supérieure à 8.
+d. Plus de 75% des élèves ont une note supérieure ou
+égale à 12.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Une petite entreprise de confection fabrique des vestes pour homme. Sa capacité de
+production lui permet de fabriquer entre 0 et 80 vestes. Le prix de vente d’une veste
+est fixé à 180 €. Le responsable du service de production indique que le coût de
+production total 𝐶(𝑥), en euro, en fonction du nombre 𝑥 de vestes produites, est donné
+par :
+𝐶(𝑥) = 1,5𝑥 2 + 15𝑥 + 1350
+
+avec 𝑥 ∈ [0 ; 80]
+
+1. Exprimer le montant total 𝑉(𝑥) des ventes en fonction du nombre 𝑥 de vestes
+vendues.
+Le résultat (différence entre le montant des ventes et le coût de production) de la vente
+de 𝑥 de vestes produites (𝑥 ∈ [0 ; 80]), est donné par :
+𝑅(𝑥) = – 1,5𝑥 2 + 165𝑥 – 1350
+2. On désigne par 𝑅′ la fonction dérivée de la fonction 𝑅. Calculer 𝑅′(𝑥).
+3. Déterminer le signe de 𝑅 ′ (𝑥) sur [0 ; 80].
+4. En déduire le tableau de variations de la fonction 𝑅 sur l'intervalle [0 ; 80].
+5. Pour quel nombre de vestes produites et vendues le résultat est-il maximal ?
+Quel est alors ce résultat maximal ?
+Exercice 3 : (5 points)
+Dans cet exercice, les résultats seront donnés sous forme décimale.
+Une agence de voyages propose trois destinations (Corse, Ibiza, Prague) et trois tarifs
+(« famille », « sénior », « jeune ») à ses clients. Le tableau de l’annexe, à rendre avec
+
+la copie, recense le nombre de voyages vendus par l'agence selon la destination et le
+tarif choisi durant le mois de juillet 2019.
+1. Quel est le nombre de clients ayant décidé d'acheter un voyage dans cette agence
+durant le mois de juillet 2019 ?
+2. Compléter le tableau donné en annexe.
+On choisit le dossier d’un client au hasard.
+On considère les évènements suivants :
+𝐶 : « La destination choisie est la Corse »
+𝐹 : « Le tarif choisi est le tarif « famille » »
+𝐽 : « Le tarif choisi est le tarif « jeune » »
+3. Calculer la probabilité que le tarif choisi soit le tarif « jeune ».
+4. Calculer la probabilité qu'un client ait choisi le voyage en Corse sachant qu’il a choisi
+le tarif « famille ».
+Arrondir le résultat au millième.
+5. Calculer 𝑃𝐶 (𝐽).
+Exercice 4 : (5 points)
+Cet exercice nécessite l’utilisation du fichier tableur fourni.
+Un bouquetin est un animal protégé vivant dans les Alpes.
+En 2000, on a dénombré 5 000 bouquetins.
+Après dix ans d’observation (entre 1990 et 1999) de la population de bouquetins, on
+propose deux modèles d’évolution du nombre de bouquetins :
+
+
+Modèle 1 :
+Le nombre de bouquetins baisse chaque année de 100 individus.
+On note 𝑢𝑛 le nombre de bouquetins l’année 2000 + 𝑛. On a donc 𝑢0 = 5000.
+
+
+
+Modèle 2 :
+Le nombre de bouquetins baisse chaque année de 2%.
+On note 𝑣𝑛 le nombre de bouquetins l’année 2000 + 𝑛. On a donc 𝑣0 = 5000.
+
+1. Exprimer pour tout entier naturel 𝑛, 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+2. Justifier que la suite (𝑣𝑛 ) est géométrique de raison 0,98.
+
+Dans la suite de l’exercice, on utilise le fichier tableur fourni pour simuler
+l’évolution de la population de bouquetins depuis l’année 2000.
+3. Par lecture du tableur, déterminer l’année à partir de laquelle 30% des bouquetins
+auront disparu selon le modèle 1.
+4. Dans cette question, on s’intéresse au modèle 2. Les cellules de la ligne 7 sont au
+format pourcentage.
+a. Proposer une formule à saisir en C6 qui, par recopie vers la droite, donne le
+nombre de bouquetins selon le modèle 2.
+Proposer une formule à saisir en C7 qui, par recopie vers la droite, donne le
+taux d’évolution du nombre de bouquetins depuis 2000 selon le modèle 2.
+b. Compléter la feuille de tableur précédente donnée en annexe.
+Par lecture de la feuille tableur, déterminer le taux de baisse du nombre de
+bouquetins entre 2000 et 2011, arrondi à 0,1% près.
+
+Annexe à rendre avec la copie
+Exercice 3 Question 2.
+« famille »
+
+« sénior »
+
+« jeune »
+
+Total
+
+Corse
+
+Ibiza
+
+Prague
+Total
+
+Exercice 4 Question 4.b
+
+Année
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+
+Nombre de bouquetins
+selon le modèle 2 : vn
+
+Taux d'évolution du
+nombre de bouquetins
+depuis 2000
+
+5000

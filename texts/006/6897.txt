@@ -1,0 +1,164 @@
+{"pages": 6, "method": "pdftotext", "bytes": 569870, "at": "2026-11-23T08:56:53+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Enoncé
+1)
+
+2)
+
+Comparer les nombres
+
+Réponse
+
+et
+.
+
+………
+
+3 7
+− et écrire le résultat sous
+5 4
+forme de fraction irréductible.
+
+Calculer
+
+3)
+
+Calculer 25 % de 3 000.
+
+4)
+
+Á quel pourcentage correspond 10 % de
+30 % ?
+
+5)
+
+Compléter :
+
+6)
+
+Développer et réduire l’expression
+2𝑥 – (3 − 𝑥)(2𝑥 + 5)
+
+7)
+
+Factoriser l’expression
+(3𝑥 − 1)(𝑥 + 6) – (3𝑥 − 1)²
+
+8)
+
+20 minutes est égal à
+……… heure
+
+𝐶𝑓 est la courbe représentative d’une
+fonction 𝑓 définie sur [−2 ; 2].
+Compléter par lecture graphique
+
+9)
+
+L’image de −2 par la fonction 𝑓
+est ……
+Les solutions de l’équation
+𝑓(𝑥) = 0 sont :
+…………………………………
+Le tableau de signes de la
+fonction 𝑓 est :
+
+𝐶𝑓
+10)
+:
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+En 2019, Elsa achète une voiture d’occasion au prix de 15 200 €. Elle souhaite
+estimer la valeur de celle-ci après quelques années.
+On admet que le prix de ce type de voiture diminue de 8 % par an.
+1. Quel sera le prix de la voiture d’Elsa au bout d’un an ? au bout de 2 ans ?
+(arrondir à l’euro)
+Pour tout entier naturel 𝑛 , 𝑢(𝑛) modélise la valeur de la voiture d’Elsa au bout de 𝑛
+années. Ainsi 𝑢(0) = 15 200.
+2. Exprimer 𝑢(𝑛 + 1) en fonction de 𝑢(𝑛). En déduire la nature de la suite 𝑢 et
+préciser sa raison.
+3. On considère le programme Python ci-contre.
+a) Le calcul de annee (10 000) renvoie 𝑛 = 6.
+Interpréter ce résultat.
+b) On souhaite déterminer à partir de quelle année, la
+voiture d’Elsa aura perdu plus de la moitié de sa valeur
+d’achat. Quelle valeur de a doit-on saisir ?
+c) Après un calcul plus précis, on estime que le prix de ce type de véhicule
+diminue de 8,7 % par an. Comment modifier ce programme pour trouver à partir
+de quelle année la voiture vaudra moins de a euros ?
+
+Exercice 3 : (5 points)
+Une entreprise qui fabrique des chaussures fait une étude sur une production
+journalière comprise entre 5 et 50 paires.
+Le coût de production, en euro, de 𝑥 paires de chaussures est modélisé par une
+fonction 𝑓 dont la courbe représentative 𝐶 est donnée ci-dessous. La droite 𝑇 est
+tangente à 𝐶 au point A d’abscisse 42.
+
+𝐶
+𝑇
+
+Soit 𝑓′ la fonction dérivée de la fonction 𝑓.
+On appelle « coût marginal » pour une production de 42 paires de chaussures, le
+coût occasionné par la production de la dernière paire de chaussures. On admet que
+𝑓′(42) est une bonne approximation de ce coût.
+1. Par lecture graphique, donner une approximation du coût marginal pour
+une production de 42 paires de chaussures.
+La fonction 𝑓 qui modélise le coût de production, en euro, de 𝑥 paires de chaussures
+est définie par 𝑓(𝑥) = 𝑥² + 16𝑥 + 256.
+Chaque paire de chaussures est vendue 60 euros. La recette est exprimée, en euro,
+par la fonction 𝑅 définie par 𝑅(𝑥) = 60𝑥.
+On appelle résultat pour 𝑥 paires de chaussures la différence entre le coût de
+production et la recette.
+
+2. Montrer que le résultat réalisé par l’entreprise, en euro, est donné par la
+fonction 𝐵 définie par : 𝐵(𝑥) = −𝑥 2 + 44 𝑥 − 256.
+3. a) Déterminer 𝐵’(𝑥) où 𝐵’ est la fonction dérivée de la fonction 𝐵.
+b) En déduire le tableau de variations de la fonction 𝐵 sur l’intervalle
+[5 ; 50].
+4. En déduire le nombre de paires de chaussures que doit fabriquer et vendre
+l’entreprise pour que son bénéfice soit maximal. Quelle est la valeur de ce
+bénéfice maximal ?
+
+Exercice 4 : (5 points)
+Une agence organise des voyages, de deux types (aventure, détente) et quatre
+destinations (Europe, Afrique, Amérique, Asie).
+Les 540 clients du dernier mois de juillet sont répartis de la façon suivante :
+• 95 clients sont partis en Europe avec un voyage détente ;
+• 340 clients ont choisi un voyage détente ;
+• 14 % des clients ayant choisi un voyage aventure sont partis en Europe ;
+• Parmi les 120 clients partis en Amérique, 35 % ont choisi un voyage aventure.
+1. À l’aide des données précédentes, compléter le tableau croisé d’effectifs, donné
+ci-dessous :
+Europe
+Aventure
+Détente
+Total
+
+Afrique
+
+Amérique
+
+Asie
+
+Total
+
+2. a) Déterminer, à 1 % près, la fréquence des clients ayant choisi un voyage
+aventure.
+b) Déterminer, à 1 % près, la fréquence des clients ayant choisi un voyage
+aventure parmi les clients qui sont partis en Afrique.
+3. On sélectionne au hasard un de ces 540 clients.
+On considère les événements suivants :
+E : « le client sélectionné est parti en Europe »
+D : « le client sélectionné a choisi un voyage détente ».
+Les résultats seront arrondis au centième.
+a) Déterminer la probabilité PE(D).
+b) Le client sélectionné a choisi un voyage aventure. Déterminer la probabilité
+qu’il soit parti en Amérique.

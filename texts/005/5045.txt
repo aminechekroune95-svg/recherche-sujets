@@ -1,0 +1,181 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1289936, "at": "2026-11-23T08:59:20+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend cinq questions. Pour chacune des questions, une seule des quatre
+réponses proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte, ni ne retire aucun point.
+Question 1
+On considère la fonction f définie sur R par f  x   2 x2  6 x  8 .
+Parmi les propositions suivantes, laquelle est juste ?
+a) f  x   2  x  4 x  1
+b)
+c) f  x   2  x  4 x 1
+
+f  x    2x  8 2 x  2
+
+d) f  x   2  x  3 x  2
+
+Question 2
+Pour tout réel 𝑥,
+
+a) e𝑥 +𝑥
+
+(e𝑥 )2
+e−𝑥
+
+est égal à :
+b) e3𝑥
+
+c) e2
+
+d) e−2
+
+Question 3
+Dans le plan muni d’un repère, soit C la courbe représentative de la fonction 𝑔 définie sur R
+par 𝑔(𝑥) = e𝑥 . L’équation de la tangente à la courbe C au point d’abscisse 0 est :
+d) y  x
+a) y   x  1
+b) y   x  1
+c) y  x  1
+
+Question 4
+On considère la fonction 𝑓 définie sur R par 𝑓(𝑥) = (−𝑥 + 1)e𝑥 .
+On note 𝑓 ′ la fonction dérivée de la fonction 𝑓. Parmi les propositions suivantes, laquelle est
+juste ?
+a) 𝑓 ′ (𝑥) = −𝑥e𝑥
+b) 𝑓 ′ (𝑥) = (𝑥 − 2)e𝑥
+′
+𝑥
+c) 𝑓 (𝑥) = (−𝑥 + 2)e
+d) 𝑓 ′ (𝑥) = 𝑥e−𝑥
+
+Question 5
+Dans le plan muni d’un repère orthonormal, on considère la courbe représentative d’une fonction 𝑓
+définie et dérivable sur 𝐑.
+
+Parmi les propositions suivantes, laquelle n’est pas juste ?
+a) 𝑓 ′ (−2) = 0
+
+b) 𝑓 ′ (3) = −2
+
+c) 𝑓(0) = 3
+
+d) 𝑓 ′ (0) = −2
+
+Exercice 2 (5 points)
+On administre à un patient un médicament par injection intraveineuse.
+La première injection est de 10 ml, puis toutes les heures on lui en injecte 1 ml.
+On étudie l’évolution de la quantité de médicament présente dans le sang en prenant le
+modèle suivant :
+ on estime que 20 % de la quantité de médicament présente dans le sang est
+éliminée chaque heure ;
+
+
+pour tout entier naturel 𝑛, on note 𝑈𝑛 la quantité de médicament en ml présente
+dans le sang au bout de 𝑛 heures.
+
+Ainsi, 𝑈0 = 10.
+1. Justifier que 𝑈1 = 9.
+2. Montrer que, pour tout entier naturel 𝑛, 𝑈𝑛+1 = 0,8 𝑈𝑛 + 1.
+On donne ci-dessous la représentation graphique de la suite (𝑈𝑛 ) :
+
+3. Conjecturer la limite de la suite(𝑈𝑛 ).
+
+On considère l’algorithme suivant :
+U10
+N0
+Tant que U >5,1 faire
+U 0,8*U+1
+NN+1
+Fin du tant que
+Afficher N
+4. À quoi cet algorithme sert-il ?
+5. À l’aide de l’extrait du tableau de valeurs de la suite (𝑈𝑛 ) donné ci-dessous, donner la
+valeur de N à l’issue de l’exécution de cet algorithme.
+
+5,838861 5,671089 5,536871 5,429497 5,343597 5,274878 5,219902
+
+5,175922 5,140737 5,11259
+
+5,036893 5,029515 5,023612 5,018889 5,015112 5,012089 5,009671
+
+5,090072 5,072058 5,057646 5,046117
+
+Exercice 3 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−2 ; 2] par
+𝑓(𝑥) = 2𝑥 3 + 2𝑥 2 − 2𝑥 + 3 et 𝐂 sa représentation graphique dans le repère suivant.
+
+1. On considère la droite 𝑑 d’équation 𝑦 = 2𝑥 + 3.
+a. Montrer que déterminer les abscisses des points d’intersection entre la droite 𝑑 et la
+courbe 𝐂 revient à résoudre l’équation 2𝑥(𝑥 2 + 𝑥 − 2) = 0 sur l’intervalle [−2 ; 2].
+b. Déterminer les coordonnées des points d’intersection entre 𝑑 et 𝐂.
+2. On considère la droite 𝑑′ d’équation 𝑦 = 2𝑥 + 𝑎 où 𝑎 est un nombre réel.
+À l’aide du graphique, donner une valeur de 𝑎 pour laquelle la droite 𝑑′ et la courbe 𝐂 ont un
+seul point d’intersection.
+3. On note 𝑓′ la fonction dérivée de 𝑓.
+a. Démontrer que, pour tout nombre réel 𝑥 appartenant à l’intervalle [−2 ; 2] , 𝑓 ′ (𝑥) =
+
+6(𝑥 + 1) (𝑥 − 3).
+b. Étudier les variations de 𝑓sur l’intervalle [−2 ; 2].
+
+Exercice 4 (5 points)
+Une résidence de vacances propose uniquement deux formules :
+ la formule « pension complète » dans laquelle 3 repas par jour sont fournis ;
+
+
+la formule « demi-pension » dans laquelle sont fournis uniquement le petit
+déjeuner et le dîner.
+
+Pour l’année 2018, 65 % des clients ont choisi la pension complète ; les autres ont choisi la
+formule « demi-pension ».
+Parmi les clients qui ont choisi la demi-pension, 30 % ont réservé l’option « ménage » en fin
+de semaine. De plus, 70 % des clients qui ont choisi la pension complète ont réservé l’option
+ménage.
+On choisit un client au hasard parmi ceux de l’année 2018 et l’on considère les évènements
+suivants :
+𝐶 : le client a choisi la formule « pension complète » ;
+𝑀: le client a choisi l’option « ménage ».
+
+1. Recopier sur la copie et compléter l’arbre
+pondéré ci contre.
+
+2. Calculer 𝑃(𝐶 ∩ 𝑀).
+3. Montrer que la probabilité que le client ait
+réservé l’option ménage est égale à 0,56.
+4. Calculer la probabilité que le client ait choisi la formule « pension complète » sachant qu’il
+a réservé l’option ménage.
+5. Voici la grille de tarifs de la résidence de vacances pour l’année 2018:
+Une semaine de pension complète
+Une semaine de demi-pension
+Option ménage
+
+800€
+650€
+50€
+
+On note 𝑋 la variable aléatoire égale au montant payé par un client de 2018.
+Calculer 𝑃(𝑋 = 850).

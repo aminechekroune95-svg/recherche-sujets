@@ -1,0 +1,135 @@
+{"pages": 6, "method": "pdftotext", "bytes": 979680, "at": "2026-11-23T08:57:32+00:00"}
+PARTIE I – Exercice 1
+Sans calculatrice
+Automatismes (5 points)
+
+Durée : 20 minutes
+
+Compléter directement dans la colonne « Réponse ».
+
+Énoncé
+Donner la fraction irréductible égale à 3 + 5
+
+Donner la fraction irréductible égale à ×
+
+Calculer 40 % de 60.
+Écrire 20 % sous la forme d’un nombre décimal.
+Écrire 20 % sous la forme d’une fraction irréductible.
+Convertir 153 mL en cL
+On considère la fonction 𝑓 définie pour tout réel 𝑥 par
+𝑓(𝑥) = 3𝑥 2 − 2𝑥 + 1. Calculer 𝑓(2).
+Développer l’expression 3𝑥(4– 5𝑥).
+
+Factoriser 5𝑥(2𝑥 + 1) + (3– 𝑥)(2𝑥 + 1).
+
+Écrire le nombre décimal
+
+𝐴=
+10−4
+𝑛
+sous la forme 10 où 𝑛 est un entier relatif.
+
+Réponse
+
+PARTIE II
+Calculatrice autorisée conformément à la réglementation en vigueur
+
+Exercice 2 (5 points)
+
+Un dentiste vient d’ouvrir un cabinet dans une petite ville. Le jour de l’ouverture du cabinet,
+ce dentiste a déjà 11 patients.
+Chaque fin de semaine, le dentiste accepte 3 nouveaux patients.
+On note 𝑢0 le nombre de patients à l’ouverture du cabinet et, pour tout entier n
+supérieur ou égal à 1, 𝑢𝑛 le nombre de patients à la fin de la semaine 𝑛.
+Ainsi 𝑢0 = 11 et 𝑢1 = 14.
+1. Déterminer le nombre de patients à la fin de la deuxième et à la fin de la
+troisième semaine.
+2. Quelle est la nature de la suite (𝑢𝑛 ) ?
+3. Donner l’expression de 𝑢𝑛+1 en fonction de 𝑢𝑛 , pour tout entier naturel 𝑛.
+4. Donner le sens de variation de la suite (𝑢𝑛 ).
+5. Recopier et compléter le script ci-dessous de la fonction qui renvoie le
+nombre de semaines à partir duquel la clientèle comptera au moins
+425 personnes.
+def seuil425():
+u = 11
+n = 0
+while u < 425:
+u = ...
+n = n+1
+return ...
+
+Exercice 3 (5 points)
+En 2017, en France métropolitaine, 73 384 personnes ont été blessées dans des
+accidents de la route.
+Les effectifs sont présentés dans le tableau ci-dessous :
+Conducteurs
+
+Passagers
+
+Total
+
+Hommes
+
+35 222
+
+11 624
+
+46 846
+
+Femmes
+
+12 937
+
+13 601
+
+26 538
+
+Total
+
+48 159
+
+25 225
+
+73 384
+
+Source : ONISR – Fichier national des accidents corporels 2017
+On choisit au hasard une personne blessée dans un accident de la route en
+2017. On note les événements suivants :
+•
+•
+
+𝐹 : « la personne choisie est une femme »
+𝐶 : « la personne choisie est conducteur »
+
+Les résultats seront donnés sous forme de pourcentage.
+1. Déterminer la probabilité de l’événement 𝐹 puis celle de l’événement 𝐶.
+2. Déterminer la probabilité que la personne choisie soit une femme et
+conductrice.
+3. On choisit au hasard une femme impliquée dans un accident de la route.
+Déterminer la probabilité qu’elle soit passagère du véhicule.
+4. Calculer 𝑃𝐹 (𝐶).
+5. Calculer 𝑃𝐶 (𝐹) et interpréter le résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+On injecte un médicament à un malade. La concentration du médicament dans son sang
+après 𝑡 heures est donnée, en milligrammes par litre de sang (mg.L-1), par la fonction 𝑓
+définie pour tout nombre réel t positif par :
+𝑓(𝑡) = −5𝑡 2 + 15𝑡 + 57,2
+La courbe représentative de la fonction f
+
+est donnée ci-dessous.
+
+1. On considère que le médicament agit lorsque sa concentration dans le
+sang est supérieure ou égale à 60 mg.L-1.
+D’après le graphique, pendant combien d’heures le médicament est-il actif ?
+Exprimer la réponse en heures et minutes.
+2. Vérifier que 𝑓(𝑡) = −5(𝑡 + 2,2)(𝑡 − 5,2) pour tout nombre réel 𝑡 positif.
+
+3. On dit qu’un médicament est complètement éliminé par l’organisme
+lorsque sa concentration dans le sang est nulle. Au bout de combien
+de temps le médicament est-il complètement éliminé par
+l’organisme ? ? Justifier la réponse et exprimer le résultat en heure et
+minute.
+4. Déterminer par le calcul au bout de combien de temps la
+concentration de médicament dans le sang est maximale.
+5. Calculer la valeur de cette concentration maximale.

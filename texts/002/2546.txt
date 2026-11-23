@@ -1,0 +1,121 @@
+{"pages": 6, "method": "pdftotext", "bytes": 754568, "at": "2026-11-23T09:00:21+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM) comportant 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour aider à déterminer la réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans réponse
+n’apporte ni ne retire de point.
+Question 1
+Dans le plan muni d’un repère orthonormé, on considère les vecteurs ⃗𝑢(−2,4) et 𝑣 (3, −6).
+Le produit scalaire ⃗𝑢. 𝑣 est égal à :
+
+−30
+
+Question 2
+̂ = 60°.
+On considère le triangle ABC tel que 𝐴𝐵 = 5, 𝐴𝐶 = 7 et 𝐵𝐴𝐶
+Quelle est la longueur du côté BC ?
+
+𝐵𝐶 = √109
+
+𝐵𝐶 = √74 c.
+
+𝐵𝐶 = −35√3 + 74
+
+𝐵𝐶 = √39
+
+Question 3
+Dans le plan muni d’un repère orthonormé, on considère le cercle C de centre 𝐴(2; 3) et de
+rayon 𝑅 = 4.
+Parmi les équations suivantes, laquelle est une équation du cercle C ?
+
+𝑥 2 + 4𝑥 + 𝑦 2 + 6𝑦 + 9 = 0
+𝑥 2 − 4𝑥 + 𝑦 2 − 6𝑦 − 3 = 0
+
+𝑥 2 + 4𝑥 + 𝑦 2 + 6𝑦 − 3 = 0
+𝑥 2 − 4𝑥 + 𝑦 2 − 6𝑦 + 9 = 0
+
+Question 4
+Le réel
+
+−23π
+−π
+
+a le même point image sur le cercle trigonométrique que le réel :
+
+π
+
+−2π
+
+2π
+
+Question 5
+On considère l’algorithme suivant écrit en langage Python :
+
+Que contient la variable L à la fin de l’exécution dans le cas où on choisit 𝑁 = 4 ?
+
+[1, 5, 13, 29, 61] b.
+
+[1, 5, 13, 29]
+
+Exercice 2 (5 points)
+Une urne contient deux boules rouges et trois boules noires toutes indiscernables au toucher.
+On tire au hasard une première boule en notant sa couleur puis on la remet dans l’urne.
+On tire ensuite toujours au hasard une deuxième boule en notant sa couleur.
+On note 𝑅 l’évènement « tirer une boule rouge » et 𝑁 l’évènement « tirer une boule noire ».
+1. Recopier et compléter sur la copie l’arbre pondéré ci-dessous associé à cette expérience.
+
+2. Quelle est la probabilité de tirer deux boules rouges ?
+3. Si un joueur tire une boule rouge, il gagne 20 euros. S’il tire une boule noire, il perd 10 euros.
+On note X la variable aléatoire égale au gain algébrique du joueur, en euros, à l’issue des
+deux tirages successifs.
+Déterminer la loi de probabilité de la variable aléatoire X.
+4. Calculer la probabilité que le joueur gagne de l’argent.
+5. Calculer l’espérance de la variable aléatoire X et en donner une interprétation.
+
+Exercice 3 (5 points)
+On considère les suites (𝑢𝑛 )𝑛≥0 et (𝑣𝑛 )𝑛≥0 définies par 𝑢0 = 7 et, pour tout entier naturel 𝑛,
+𝑢𝑛+1 = 0,5𝑢𝑛 + 3 et 𝑣𝑛 = 𝑢𝑛 − 6.
+1. Montrer que la suite (𝑣𝑛 )𝑛≥0 est une suite géométrique de raison 0,5 et de premier terme 1.
+2. Pour tout entier naturel 𝑛, exprimer 𝑣𝑛 en fonction de 𝑛.
+3. En déduire, pour tout entier naturel 𝑛, une expression de 𝑢𝑛 en fonction de 𝑛.
+4. On note 𝑆 = 𝑣0 + 𝑣1 + ⋯ + 𝑣100 la somme des 101 premiers termes de la suite (𝑣𝑛 )𝑛≥0 .
+a. Déterminer la valeur de S.
+b. En déduire la valeur de la somme des 101 premiers termes de la suite (𝑢𝑛 )𝑛≥0 .
+
+Exercice 4 (5 points)
+Soit 𝑓 la fonction définie sur l’ensemble R des nombre réels par 𝑓(𝑥) = 3𝑥 3 − 5𝑥 2 + 2.
+On note 𝐶𝑓 sa courbe représentative dans un repère du plan.
+1. On admet que 𝑓est dérivable sur R et on note 𝑓′ sa fonction dérivée.
+Donner l’expression de 𝑓′(𝑥), pour tout nombre réel 𝑥.
+2. On note 𝑇 la tangente à 𝐶𝑓 au point d’abscisse −1.
+Donner l’équation réduite de la tangente 𝑇.
+3. Soit 𝑔 la fonction définie sur R par 𝑔(𝑥) = 3𝑥 3 − 4𝑥 + 1.
+On note 𝐶𝑔 sa courbe représentative dans le même repère que la courbe 𝐶𝑓 .
+a. Montrer que pour tout nombre réel 𝑥, 𝑓(𝑥) − 𝑔(𝑥) = −5𝑥 2 + 4𝑥 + 1.
+b. Étudier sur R le signe de 𝑓(𝑥) − 𝑔(𝑥).
+c. En déduire pour quelles valeurs de 𝑥 la courbe 𝐶𝑓 est au-dessus de la courbe 𝐶𝑔 .

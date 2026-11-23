@@ -1,0 +1,182 @@
+{"pages": 6, "method": "pdftotext", "bytes": 746254, "at": "2026-11-23T08:57:41+00:00"}
+Mathématiques : PARTIE I
+Automatismes (5 points) : exercice 1
+Sans calculatrice
+Durée : 20 minutes
+Énoncé
+Construire sur R le tableau de signes de −2𝑥 + 7.
+
+Réponse
+
+1.
+
+2.
+
+Résoudre dans R l’équation 𝑥 2 = 9.
+
+3.
+
+Le prix initial d’un objet est de 300 €.
+Après une solde de 30 %, quel est son prix ?
+Diminuer de 70 % c’est multiplier par
+
+4.
+
+......
+Compléter :
+
+Multiplier une valeur par 2 revient
+
+5.
+
+6.
+
+7.
+
+8.
+
+à une évolution de ...... %.
+Déterminer le taux d’évolution d’un prix qui passe
+de 200 € à 300 €.
+Prix
+Indice
+
+200 €
+
+250 €
+?
+
+Calculer la valeur manquante :
+
+Après une diminution de 20 %, quel taux
+appliquer pour revenir à la valeur initiale ?
+
+9.
+Entourer la bonne réponse.
+
+Une augmentation de 40 % suivie de deux
+diminutions de 20 % correspondent à :
+a) un retour au prix initial
+b) une augmentation globale
+c) une diminution globale
+d) on ne peut pas savoir
+Dans R, l’inéquation 3𝑥 − 4 ≥ 1 − 3𝑥
+a) n’admet aucune solution
+b) admet une seule solution
+c) admet deux solutions
+d) admet une infinité de solutions
+
+10.
+
+Mathématiques : PARTIE II
+Cette partie est composée de trois exercices indépendants. Calculatrice autorisée.
+
+Exercice 2 (5 points)
+On appelle consommation de soins et de biens médicaux (CSBM) l’ensemble des dépenses
+de santé relatives au traitement des maladies. La CSBM comprend les soins hospitaliers, les
+soins ambulatoires, les transports sanitaires, les médicaments et les autres biens médicaux
+(optique, prothèses, petit matériel et pansements).
+Entre 2015 et 2017 l’évolution de la CSBM en France est donnée dans le tableau suivant :
+Année
+2015
+2016
+2017
+CSBM (en milliards d’euros)
+192,9
+196,5
+199,3
+Source : DREES
+
+1. Calculer le taux d’évolution de la CSBM entre 2016 et 2017. Le résultat sera arrondi à
+0,1 % près.
+2. À partir de l’année 2017, on suppose qu’on peut modéliser l’évolution de la CSBM
+par une augmentation de 1,4 % par an. On note 𝑢𝑛 la CSBM (en milliards d’euros) en
+l’an (2017 + 𝑛). Ainsi, 𝑢0 = 199,3.
+a. Calculer 𝑢1 et arrondir le résultat au dixième. Interpréter le résultat.
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Justifier et préciser sa raison.
+c. On utilise une feuille de calcul automatisé pour obtenir les termes de la suite
+(𝑢𝑛 ).
+Quelle formule peut-on saisir dans la cellule C2 qui, étirée vers la droite,
+permet d’obtenir les valeurs de la suite (𝑢𝑛 ) ?
+A
+B
+C
+D
+E
+Année
+2017
+2018
+2019
+2020
+CSBM (en milliards
+199,3
+d’euros)
+d. Selon ce modèle, la CSBM dépassera-t-elle les 210 milliards d’euros en 2020 ?
+
+Exercice 3 (5 points)
+Un laboratoire pharmaceutique fabrique un vaccin qu’il vend par lots. Il peut produire entre
+0 et 22 lots par mois.
+Le résultat réalisé par le laboratoire pour 𝑥 lots produits est modélisé par la fonction 𝑓
+définie sur l’intervalle [0 ; 22] par :
+𝑓(𝑥) = −4(𝑥 − 1)(𝑥 − 21).
+La courbe représentative de la fonction 𝑓 est donnée en annexe page 5/5.
+Les tangentes à la courbe représentative de 𝑓 aux points d’abscisses 6 et 11 sont tracées. La
+fonction dérivée de 𝑓 définie sur [0 ; 22] est notée 𝑓′.
+
+1. Avec la précision permise par le graphique, déterminer le résultat réalisé par ce
+laboratoire pour 2 lots de vaccins produits. On fera apparaître les tracés de lecture
+sur la feuille annexe page 5/5 à rendre avec la copie.
+2.
+a. Déterminer graphiquement 𝑓′(6) et 𝑓′(11). On fera apparaître les tracés de
+lecture sur la feuille annexe page 5/5 à rendre avec la copie.
+b. Sachant que 𝑓 ′ (16) = −40, tracer la tangente à la courbe représentative de
+𝑓 au point d’abscisse 16 sur la feuille annexe page 5/5 à rendre avec la
+copie.
+3.
+a. Par lecture graphique, construire le tableau de variations de la fonction 𝑓 sur
+l’intervalle [0 ; 22].
+b. Quel est le résultat maximal ? Pour combien de lots est-il atteint ?
+
+Exercice 4 (5 points)
+La mobilité sociale correspond au changement de classe sociale d’une personne par rapport
+à celle de ses parents.
+On étudie un échantillon représentatif de 720 hommes français. Parmi eux :
+• 37 % des hommes ont un père cadre.
+• 50,7 % des hommes sont des employés ou des ouvriers, dont 79 ont un père cadre.
+Dans cet échantillon, on choisit une personne au hasard. On note :
+• 𝐶 l’événement : « l’homme interrogé est cadre » et 𝐶̅ son événement contraire (« l’homme
+interrogé est ouvrier ou employé »)
+• 𝐹 l’événement : « l’homme interrogé est fils de cadre » et 𝐹̅ son événement contraire
+(« l’homme interrogé est fils d’ouvrier ou d’employé »).
+1. Dans cette question, on arrondira les résultats à l’entier le plus proche.
+a. Justifier que dans cet échantillon, 266 hommes ont un père cadre.
+b. Compléter le tableau donné en annexe page 5/5 à joindre avec la copie à
+l’aide des informations de l’énoncé.
+Dans la suite de l’exercice tous les résultats seront arrondis au millième.
+2. Calculer 𝑃(𝐶 ∩ 𝐹) et interpréter ce résultat dans le contexte de l’exercice.
+3. Calculer 𝑃𝐶 (𝐹).
+4. Selon cet échantillon, un homme a-t-il plus de chance de devenir cadre si son père
+est cadre ou bien si son père est ouvrier ou employé ?
+
+Annexe à rendre avec la copie
+Exercice 3
+Résultat (en
+euros)
+
+Courbe représentative de la fonction 𝑓
+
+Nombre
+de lots
+
+Exercice 4, question 1. b
+𝐶
+𝐹
+
+𝐶̅
+
+Total
+
+𝐹̅
+Total
+
+Source : INSEE

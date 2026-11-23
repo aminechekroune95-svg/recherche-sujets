@@ -1,0 +1,160 @@
+{"pages": 8, "method": "pdftotext", "bytes": 966176, "at": "2026-11-23T08:53:19+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans Calculatrice
+
+Durée 20 minutes
+
+Dans cet exercice, il n'est pas demandé de justification. Répondre à chaque
+question dans la colonne de droite du tableau.
+Enoncé
+
+Réponse
+
+1) Dans un lycée
+technologique, 200 élèves se
+sont présentés au bac, 90%
+ont été reçus.
+Combien d’élèves ont été
+reçus ?
+2) Un prix est passé de 120
+euros à 150 euros. Quel est
+le pourcentage de hausse ?
+3) Un article soumis à une
+taxe de 20% coute 60 €
+toutes taxes comprises.
+Déterminer le prix hors taxes.
+4) Le prix d’un article a
+augmenté de 10% durant
+chacun des deux derniers
+mois.
+Quel est le taux d’évolution
+global ?
+
+ est la courbe représentative d’une fonction 𝑓 définie sur l’intervalle
+[−2 ; 3 ].
+
+On répondra aux questions suivantes avec la précision permise par le
+graphique.
+5) Déterminer l’image de 3
+par la fonction 𝑓.
+6) Déterminer un antécédent
+de -2 par la fonction 𝑓.
+7) Déterminer l’ensemble des
+solutions l’équation 𝑓(𝑥) = 0.
+8) Déterminer l’ensemble des
+solutions de l’inéquation
+𝑓(𝑥) ≤ 0.
+9) Donner le coefficient
+directeur de la tangente à la
+courbe au point A.
+10) La fonction 𝑓’ est la
+dérivée de la fonction 𝑓 sur
+l’intervalle [−2 ; 3 ].
+Déterminer l’ensemble des
+solutions de l’inéquation
+𝑓′(𝑥) ≤ 0.
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 ( 5 points)
+
+Partie A.
+Les stylos utilisés par une entreprise sont fabriqués par deux ateliers A1 et A2.
+L’atelier A1 fabrique 60 % des stylos de cette entreprise, et 5 % de ceux-ci
+possèdent un défaut de fabrication.
+De plus, 1 % des stylos possèdent un défaut de fabrication et sortent de
+l’atelier A2.
+Un stylo est prélevé au hasard dans le stock de l’entreprise.
+On considère les évènements :
+A1 : « Le stylo a été fabriqué par l’atelier A1 ».
+A2 : « Le stylo a été fabriqué par l’atelier A2 ».
+D : « Le stylo possède un défaut de fabrication »
+1) a) Calculer la probabilité qu’un stylo provienne de l’atelier A1 et possède un
+défaut de fabrication.
+b) En déduire que la probabilité qu’un stylo possède un défaut de
+fabrication est de 0,04.
+2) On prélève un stylo au hasard dans l’atelier A2. Quelle est la probabilité qu’il
+possède un défaut ?
+Partie B
+Dans cette partie, on suppose que 4 % des stylos possèdent un défaut de
+fabrication.
+L’entreprise confectionne des paquets contenant chacun 10 stylos.
+On appelle X la variable aléatoire donnant pour un paquet le nombre de stylos
+qui possèdent un défaut de fabrication.
+On admet que la variable aléatoire X suit une loi binomiale.
+1) Préciser les paramètres de cette loi binomiale
+2) Calculer la probabilité qu’il y ait au plus 2 stylos possédant un défaut dans
+un paquet de 10 stylos.
+
+EXERCICE 3 ( 5 points)
+Une compagnie d’assurance estime que la valeur marchande d’une machine
+achetée 2 000 euros le 1er janvier 2019 baisse de 18 % par an.
+1) Calculer la valeur marchande de cette machine le 1er janvier 2020, le 1er
+janvier 2021.
+2) Démontrer que les valeurs marchandes successives sont les termes d’une
+suite géométrique dont on précisera le premier terme et la raison.
+3) Déterminer la valeur marchande de la machine le 1er janvier 2030.
+4) On considère le script écrit ci-dessous en langage Python.
+def val():
+u=2000
+n=0
+while u>500:
+u=0.82*u
+n=n+1
+return n
+
+a) Quelle valeur renvoie la fonction « val » après son exécution ?
+b) Interpréter cette valeur dans le contexte de l’exercice.
+
+EXERCICE 4 ( 5 points)
+Partie A : Etude d’une fonction
+Une entreprise fabrique des pièces pour des smartphones qu’elle propose
+ensuite à différentes marques. La production est comprise entre 1 et 36 pièces
+par jour.
+Le coût de production, exprimé en euros, de 𝑥 pièces fabriquées est donné
+par :
+𝐶(𝑥) = 𝑥 2 + 30𝑥 + 144, où 𝑥 est compris entre 1 et 36.
+𝐶(𝑥)
+Le coût moyen de production d’un objet est égal à 𝑓(𝑥) = 𝑥 ; de sorte que
+𝑓(𝑥) = 𝑥 + 30 +
+
+𝑥
+
+.
+
+1. On désigne par 𝑓’ la fonction dérivée de 𝑓. Démontrer que, pour tout réel 𝑥 de
+l’intervalle [1 ; 36] :
+(𝑥 − 12)(𝑥 + 12)
+𝑓 ′ (𝑥) =
+𝑥2
+2. Etudier le signe de 𝑓’(𝑥) sur l’intervalle [1 ; 36] puis construire le tableau de
+variation de la fonction 𝑓 sur cet intervalle.
+Partie B : Application
+L’entreprise vend chaque pièce 90 euros. Par conséquent, le bénéfice réalisé
+après la fabrication et la vente de 𝑥 pièces a pour valeur : 𝐵(𝑥) = 90𝑥 − 𝐶(𝑥)
+où 𝑥 appartient à l’intervalle [1 ; 36].
+1. Vérifier que pour tout 𝑥 appartenant à l’intervalle [1 ; 36],
+𝐵(𝑥) = −𝑥 2 + 60𝑥 − 144.
+2. Calculer 𝐵’(𝑥) et dresser le tableau de variation de la fonction 𝐵 sur l’intervalle
+[1 ; 36].
+3. En déduire le nombre de pièces à fabriquer et à vendre pour faire un bénéfice
+maximal. Donner ce bénéfice maximal.

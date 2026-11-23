@@ -1,0 +1,148 @@
+{"pages": 6, "method": "pdftotext", "bytes": 973710, "at": "2026-11-23T08:57:10+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+
+Réponse
+
+1)
+
+Par combien faut-il multiplier un nombre pour qu’il soit augmenté
+de 15 % ?
+
+2)
+
+Un pot de confiture de fraises coutant 2 euros voit son prix
+augmenter de 7 %. Quel est son nouveau prix ?
+
+3)
+
+Suite à une baisse de prix de 10 %, une boîte de haricots coûte 1
+euro 80. Quel était son ancien prix ?
+
+4)
+
+Un prix augmente de 10 % puis baisse de 10 %.
+Au final, ce prix a-t-il diminué, augmenté ou est-il resté inchangé ?
+
+5)
+
+La première année, année de référence, le prix du blé tendre est de
+160 euros la tonne.
+L’année suivante, il chute à 120 euros la tonne.
+Quelle est la valeur de l’indice des prix du blé tendre pour la seconde
+année en prenant pour indice 100 la première année ?
+
+6)
+
+Un indice de prix 𝐼 vaut 𝐼2018 = 120 en 2018 et 𝐼2019 = 132 en
+2019. Quel est le taux d’évolution des prix entre 2018 et 2019 ?
+
+7)
+
+Donner les solutions réelles de l’équation 𝑥 2 = 400.
+
+8)
+
+Donner toutes les valeurs du réel 𝑥 telles que l’inégalité
+4𝑥 − 3 > −2𝑥 + 1 soit vérifiée.
+
+9)
+
+Quelles sont les valeurs de 𝑥 pour lesquelles l’expression 5𝑥 − 2
+est strictement positive ?
+
+10)
+
+Quel est le signe de l’expression 𝑥(𝑥 − 2) lorsque 𝑥 > 5 ?
+
+Séries technologiques : classe de première
+
+PARTIE II
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants
+
+Exercice 2 : (5 points)
+Une entreprise a la possibilité de choisir entre deux fournisseurs F1 et F2 pour un des
+matériaux nécessaires à sa production. Ces deux fournisseurs ne sont pas basés dans le même
+pays et ne sont pas soumis aux mêmes contraintes de coût. On compare l’évolution des prix
+qu’ils pratiquent. En 2019, le prix pratiqué par le fournisseur F1 est de 90 euros la tonne et on
+constate que le prix d’une tonne a augmenté de 4 % par an sur les dernières années. En
+parallèle, le fournisseur F2 a pratiqué un prix de 100 euros la tonne en 2019 et le prix de la
+tonne a augmenté de 1 euros par an ces dernières années. On suppose que ces évolutions
+vont se poursuivre de la même manière dans les années à venir.
+1. Évolution du prix pratiqué par le fournisseur F1.
+a. Calculer le prix de la tonne pour ce fournisseur en 2020 et 2021.
+b. On modélise le prix, exprimé en euro, pratiqué par le fournisseur F1 pour l’année
+(2019 + 𝑛), où 𝑛 est un entier naturel, par une suite géométrique (𝑣(𝑛)) de premier
+terme 𝑣(0) = 90.
+Déterminer sa raison.
+2. Évolution du prix pratiqué par le fournisseur F2.
+a. Quelle formule permet de prévoir le prix 𝑢(𝑛 + 1) pratiqué par le fournisseur F2 au
+cours de l’année (2019 + (𝑛 + 1)), à partir du prix 𝑢(𝑛) pratiqué au cours de l’année
+(2019 + 𝑛), où 𝑛 est un entier naturel ?
+b. Calculer le prix d’une tonne chez le fournisseur F2 pour chacune des années 2020 à 2025.
+3. On considère le script Python suivant :
+
+À l’exécution de la commande annee() dans la console Python, la valeur renvoyée est 2023.
+Interpréter cette valeur dans le contexte de l’exercice.
+
+Exercice 3 : (5 points)
+Soit 𝐵 la fonction définie sur l’intervalle [10 000 ; 15 000] par :
+𝐵(𝑥) = −𝑥 2 + 26 000𝑥 − 160 000 000
+1. Vérifier que les racines du polynôme −𝑥 2 + 26 000𝑥 − 160 000 000 sont 10 000 et
+16 000.
+2. Donner la forme factorisée de 𝐵(𝑥).
+3. Vérifier que, pour tout réel 𝑥 ∈ [10 000 ; 15 000], on a bien 𝐵(𝑥) ⩾ 0.
+4. Déterminer la valeur de 𝑥 pour laquelle la fonction 𝐵 atteint son extremum.
+5. Une entreprise fabrique des appareils électroniques à la cadence de 10 000 à 15 000 unités
+par mois. On admet que l’entreprise vend tous les appareils produits. L’entreprise souhaite
+ajuster sa production de façon à optimiser son bénéfice.
+Lorsque 𝑥 prend les valeurs entières de l’intervalle [10 000 ; 15 000], on admet que la
+fonction 𝐵 modélise ce bénéfice mensuel, exprimé en euro, pour une production de 𝑥
+unités.
+Quel est le bénéfice mensuel maximal que l’entreprise peut espérer atteindre ? Quelle est
+la cadence de production correspondante ?
+
+Exercice 4 : (5 points)
+Une municipalité hésite entre rénover sa bibliothèque ou son skatepark. Elle procède à un
+sondage auprès de ses administrés, en distinguant ceux de moins de 25 ans et ceux de 25 ans
+ou plus.
+Parmi les 1 250 administrés ayant répondu :
+
+80 % ont 25 ans ou plus ;
+
+70 % de ceux ayant 25 ans ou plus optent pour la rénovation de la bibliothèque ;
+
+60 % des moins de 25 ans optent pour la rénovation du skatepark.
+
+Toutes les questions suivantes concernent les administrés ayant répondu au sondage.
+1. Reproduire et compléter le tableau ci-dessous :
+Moins de 25 ans
+
+25 ans ou plus
+
+Total
+
+Skatepark
+Bibliothèque
+Total
+
+1 250
+
+2. Quelle est la proportion des moins de 25 ans parmi ceux qui ont répondu au sondage ?
+3. Montrer que 36 % des administrés ayant répondu au sondage préfèrent rénover le
+skatepark.
+4. Parmi les administrés ayant répondu au sondage et préférant la rénovation du
+skatepark, quelle est la proportion de ceux ayant moins de 25 ans ?
+5. Parmi les administrés ayant répondu au sondage, la proportion de ceux ayant moins
+de 25 ans et préférant rénover la bibliothèque est-elle supérieure à la proportion de
+ceux ayant 25 ans ou plus préférant rénover le skatepark ?

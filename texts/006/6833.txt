@@ -1,0 +1,186 @@
+{"pages": 8, "method": "pdftotext", "bytes": 808606, "at": "2026-11-23T08:57:25+00:00"}
+Mathématiques : PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : automatismes (5 points)
+Répondre sur le sujet
+1. Une hausse de 25 % est compensée par une baisse de :
+a. 30 %
+
+b. 25 %
+
+c. 50 %
+
+d. 20 %
+
+Réponse à la question 1 :
+
+2. On pose, pour tout 𝑥 réel, 𝑓(𝑥) = (−𝑥 + 3)(2𝑥 − 10).
+a. Compléter la deuxième et la troisième ligne du tableau suivant :
+𝑥
+
+−∞
+
+Signe de −𝑥 + 3
+Signe de 2𝑥 − 10
+Signe de 𝑓(𝑥)
+
+..…
+−
+
++
+
++∞
+.….
+
+−
+
+b. Déterminer l’ensemble des solutions réelles de l’inéquation 𝑓(𝑥) ≤ 0.
+Réponse à la question 2. b :
+
+3. Compléter la phrase suivante : Multiplier une valeur positive par 2, c’est l’augmenter de
+…........ %.
+4. Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = 5𝑥 + 14.
+Déterminer l’antécédent de 2 par 𝑓.
+Réponse à la question 4 :
+
+5. Résoudre dans ℝ l’inéquation −7𝑥 − 20 ≥ 8 et donner l’ensemble des solutions sous
+forme d’intervalle.
+Réponse à la question 5 :
+
+6. Le prix d’un litre de lait a diminué de 10 % entre le 1er janvier 2017 et le 1er janvier 2018,
+puis a augmenté de 5 % entre le 1er janvier 2018 et le 1er janvier 2019.
+Calculer le taux d’évolution en pourcentage du prix d’un litre de lait entre le 1er janvier 2017
+et le 1er janvier 2019.
+Réponse à la question 6 :
+
+7. Une veste est soldée à −30 %. Son prix après application de cette baisse de 30 % est de
+63 euros. Quel était son prix avant cette baisse de 30 % ?
+Réponse à la question 7 :
+
+8. Résoudre dans ℝ l’équation 3𝑥 2 + 7 = 1.
+Réponse à la question 8 :
+
+9. Ce tableau indique le prix moyen du mètre-carré pour l’achat d’un logement ancien entre
+2012 et 2015 dans une ville de France.
+Année
+Prix moyen du mètre-carré
+pour l’achat d’un logement
+ancien (en euros)
+Indice
+
+2012
+
+2013
+
+2014
+
+2015
+
+5400
+
+5670
+
+6021
+
+6534
+
+115,5
+
+Calculer l’indice du prix moyen du mètre-carré pour l’achat d’un logement ancien dans cette
+ville pour l’année 2015, sachant que l’indice de base était 100 en 2012.
+Réponse à la question 9 :
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie comporte trois exercices indépendants.
+Exercice 2 : (5 points)
+En France, certaines personnes âgées dépendantes bénéficient de l’allocation personnalisée
+d’autonomie (APA).
+En décembre 2017, 1 309 916 personnes âgées dépendantes ont bénéficié de l’APA alors
+qu’elles étaient 1 286 472 à en bénéficier un an plus tôt, c’est-à-dire en décembre 2016
+(Source DREES, Enquêtes Aide sociale).
+1. Calculer le taux d’évolution du nombre de personnes bénéficiaires de l’APA entre
+décembre 2016 et décembre 2017. Le résultat sera exprimé en pourcentage et arrondi
+à 0,01 % près.
+2. Pour tout entier naturel 𝑛, 𝑢𝑛 représente le nombre de personnes, exprimé en milliers,
+bénéficiant de l’APA en décembre 2017 + 𝑛. On considère ainsi que 𝑢0 = 1310.
+On suppose que le nombre de bénéficiaires de l’APA augmente chaque année de
+1,8 % à partir de l’année 2017.
+On utilise un tableur pour calculer les termes de la suite (𝑢𝑛 ) ainsi définie :
+
+a. Calculer 𝑢1 . Interpréter le résultat dans le contexte de l’exercice.
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser la raison de cette suite.
+c. Parmi les 4 formules proposées, donner la formule qu’il faut saisir dans la cellule C3,
+puis étirée vers le bas afin d’afficher les valeurs de 𝑢𝑛 .
+= 1310*1,018
+= C$2*1,018
+= $C$2*1,18
+= C2*1,018
+d. Quel nombre de personnes, exprimé en milliers, bénéficiant de l’APA peut-on
+prévoir en 2021 en suivant le modèle retenu ?
+
+Exercice 3 : (5 points)
+Suite à une augmentation du nombre de personnes malades dans un village, une
+organisation de santé a mis en place une campagne de vaccination dès septembre 2018.
+Les données mensuelles relevées entre le 1er septembre 2018 et le 1er janvier 2020 ont
+permis d’obtenir une courbe C représentant la part en pourcentage des personnes malades
+dans le village en fonction du temps 𝑡, écoulé depuis le 1er septembre 2018 et exprimé en
+mois. Cette courbe C est fournie en annexe 1, qui est à rendre avec la copie.
+1. Déterminer graphiquement la part en pourcentage des personnes malades dans le
+village le 1er septembre 2018.
+2. Déterminer graphiquement pendant combien de mois la part en pourcentage des
+personnes malades dans le village sera supérieure ou égale à 40 % entre le 1er
+septembre 2018 et le 1er janvier 2020. On laissera les traits de construction apparents
+sur l’annexe 1 qui est à rendre avec la copie.
+Dans la suite de l’exercice, on admet que la fonction 𝑝 définie sur l’intervalle [0 ; 24] par :
+𝑝(𝑡) = −0,2𝑡 2 + 3,6𝑡 + 28,8
+modélise cette situation où 𝑡 désigne le temps écoulé depuis le 1er septembre 2018 et
+exprimé en mois et 𝑝(𝑡), la part en pourcentage des personnes malades dans ce village à cet
+temps 𝑡.
+La courbe 𝐶𝑝 donnée en annexe 3, qui est à rendre avec la copie, représente la fonction 𝑝
+sur l’intervalle [0 ; 16].
+3. Compléter le tableau figurant sur l’annexe 2 qui est à rendre avec la copie.
+4. Compléter le graphique de l’annexe 3 qui est à rendre avec la copie, en traçant une
+allure de la courbe représentative de la fonction 𝑝 sur [16 ; 24].
+5. Déterminer l’année et le mois durant lequel il n’y a plus de personnes malades dans
+le village.
+
+Exercice 4 : (5 points)
+On injecte un médicament dans le sang d’un malade et on mesure pendant 12 heures la
+concentration en milligrammes par litre de ce médicament dans le sang.
+On estime que le médicament n’est plus considéré comme actif lorsque sa concentration est
+inférieure ou égale à 0,2 mg par litre.
+On admet que la concentration peut être modélisée par la fonction 𝑓 définie sur l’intervalle
+[0 ; 12] par :
+𝑓(𝑥) = 0,01𝑥 2 − 0,32𝑥 + 2,4
+où 𝑥 représente le nombre d’heures écoulées depuis l’instant où le médicament a été injecté
+et 𝑓(𝑥) la concentration, en milligrammes par litre, de ce médicament dans le sang.
+On note 𝑓 ′ la fonction dérivée de la fonction 𝑓 définie sur l’intervalle [0 ; 12].
+1. Calculer 𝑓 ′ (𝑥) pour tout réel 𝑥 de l’intervalle [0 ; 12].
+2. Dresser le tableau de signes de 𝑓 ′ sur l’intervalle [0 ; 12] et en déduire le tableau de
+variations de la fonction 𝑓 sur l’intervalle [0 ; 12].
+3. Montrer que l’équation 𝑓(𝑥) = 0,2 équivaut à l’équation 0,01(𝑥 − 10)(𝑥 − 22) = 0.
+4. Résoudre l’équation 𝑓(𝑥) = 0,2 dans [0 ; 12].
+5. Au bout de combien de temps depuis l’injection du médicament, ce médicament n’est
+plus considéré comme actif ? Justifier.
+
+ANNEXES à remettre avec la copie
+
+Annexe 1 – Exercice 3 – Courbe représentative C
+
+Annexe 2 – Exercice 3 – Tableau de valeurs
+𝑡
+𝑝(𝑡)
+
+32.2
+
+28,8
+
+20,8
+
+16,2
+
+Annexe 3 – Exercice 3 – Courbe de p à compléter sur [𝟏𝟔 ; 𝟐𝟒].

@@ -1,0 +1,178 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1336835, "at": "2026-11-23T08:54:05+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+Donner le coefficient multiplicateur associé à une
+hausse de 20 %
+
+Donner le coefficient multiplicateur associé à une
+baisse de 40 %
+
+Un sac coûte 55 €. Son prix baisse de 20 %.
+Quel est son nouveau prix ?
+
+4.
+
+Un couteau coûte 9 €. Son prix augmente de 10 %.
+Quel est son nouveau prix ?
+
+5.
+
+Calculer le taux d’évolution équivalent à une
+augmentation de 10 % suivie d’une baisse de 10 %.
+
+6.
+
+Le prix de vente d’une maison est passé de 200 000 €
+à 230 000 €.
+Quel pourcentage d’augmentation a été appliqué ?
+
+7.
+
+Un article subit une baisse de 50 %.
+Quel est le taux réciproque, exprimé en pourcentage,
+associé ?
+
+Énoncé
+8.
+
+Résoudre l’équation 𝑥 2 = −100
+
+9.
+
+Résoudre l’équation 3 (𝑥 − 1) = 𝑥 − 6
+
+10.
+
+Déterminer le signe de −3 (3 − 2𝑥)
+
+Réponse
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+
+Pour fabriquer une boîte, une entreprise
+utilise une plaque carrée de 45 cm de côté.
+Elle découpe aux quatre sommets un carré
+de 𝑥 cm afin de replier les bords pour les
+souder.
+
+Soit 𝑉 (𝑥) l’expression algébrique du volume de la boîte constituée en fonction de 𝑥.
+On admet que 𝑉 (𝑥) = 4𝑥 3 − 180𝑥 2 + 2 025𝑥.
+Calculer V(1).
+Déterminer 𝑉’(𝑥).
+a. On admet que 𝑉’(𝑥) = 4 (𝑥 − 7.5 ) (𝑥 − 22.5). Etudier le signe de 𝑉’(𝑥) sur
+]0 ; 22.5[.
+b.
+En déduire le maximum de la fonction V sur ]0 ; 22.5[. Interprétez ce résultat dans le
+contexte de l’exercice.
+4.
+On considère le programme en langage Python de l’encadré ci-dessous :
+def algo():
+L=[]
+for x in range (1,23) :
+y=4*x**3-180x**2+2025*x
+L.append(y)
+print(L)
+Quel tableau de valeurs ce programme permet-il de remplir ?
+
+Exercice 3 (5 points)
+Farida mange des biscuits au goûter. Un relevé de ses habitudes alimentaires établis sur
+plusieurs jours a montré qu’elle choisit :
+Soit un biscuit au chocolat, une fois cinq.
+Soit un biscuit nature, une fois sur deux ;
+Soit un biscuit à la myrtille.
+On choisit un jour au hasard de ce relevé.
+a. Quelle est la probabilité de l’événement : « Farida a mangé un biscuit au
+chocolat. ».
+b. Montrer que la probabilité de l’événement « Farida a mangé un biscuit à la myrtille » est
+égale à 0,3.
+L’apport en calories des biscuits est le suivant :
+Un biscuit au chocolat apporte 100 kilocalories.
+Un biscuit nature apporte 60 kilocalories.
+Un biscuit à la myrtille apporte 80 kilocalories.
+On note X la variable aléatoire égale au nombre de kilocalories prises par Farida le jour pris
+au hasard du relevé de ses habitudes alimentaires.
+a.
+Interpréter dans le contexte de l’exercice l’événement (X=100).
+b.
+Déterminer la loi de probabilité de X.
+c.
+Calculer alors l’espérance E (X) et interpréter ce résultat dans le contexte de
+l’exercice.
+
+Exercice 4 (5 points)
+Le but de cet exercice est de comparer l’évolution des frais annuels de fonctionnement à
+partir de l’année 2015 de deux associations d’aide à la personne : Association n°1 et
+Association n°2. Pour tout entier naturel 𝑛, on note :
+𝑢(𝑛) le montant des frais de fonctionnement, en milliers d’euros, de l’Association n°1
+pour l’année (2015 + 𝑛).
+𝑣(𝑛) le montant des frais de fonctionnement, en milliers d’euros, de l’Association n°2
+pour l’année (2015 + 𝑛).
+On a effectué un relevé pour les premières années et réalisé la feuille de calcul suivante :
+A
+
+B
+
+D
+
+𝑛
+
+𝑢(𝑛)
+
+𝑣(𝑛)
+
+2 000
+
+2 700
+
+2 250
+
+2 808
+
+2 500
+
+2 920,32
+
+2 750
+
+3 037,1328
+
+Pourquoi peut-on conjecturer que la suite (𝑢(𝑛)) est une suite arithmétique?
+On admet que la suite (𝑢(𝑛)) une suite arithmétique.
+Ecrire une relation entre 𝑢(𝑛) et 𝑢(𝑛 + 1), pour tout entier naturel n.
+Quelle formule, destinée à être recopiée vers le bas, peut-on saisir en cellule B3 pour
+obtenir les valeurs de suite (𝑢(𝑛))?
+4. On admet que la suite (𝑣(𝑛)) est une suite géométrique.
+Ecrire une relation entre 𝑣(𝑛) et 𝑣(𝑛 + 1), pour tout entier naturel 𝑛.
+5. D’après ces modèles et en supposant que les frais de fonctionnement des deux
+associations vont continuer à évoluer de la même façon, donnez une estimation des frais de
+fonctionnement de ces deux en 2023. Les résultats seront arrondis à l’euro.

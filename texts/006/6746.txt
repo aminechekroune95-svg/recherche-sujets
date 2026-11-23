@@ -1,0 +1,205 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1072332, "at": "2026-11-23T08:58:09+00:00"}
+PARTIE I - Exercice 1
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Cet exercice est un questionnaire à choix multiples. Pour chacune des dix questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+
+1. Un bouquet de 25 fleurs compte 10 roses.
+Le pourcentage de roses dans ce bouquet est :
+a) 10 %
+
+b) 250 %
+
+c) 0,4 %
+
+c) 40 %
+
+2. Un lycée a 400 élèves.
+30 % des élèves sont en première technologique. Parmi eux, 10 % étudient l’anglais.
+Combien d’élèves de première technologique étudient l’anglais ?
+a) 160
+
+b) 12
+
+c) 80
+
+d) 120
+
+c) 0,3725 m²
+
+d) 0,03725 m²
+
+3. Si on convertit 3725 cm² en m², alors on obtient :
+a) 37,25 m²
+
+b) 372500 m²
+
+4. L’expression 𝐴(𝑥) = (4 𝑥 − 3)(𝑥 + 2) a pour forme développée :
+a)
+
+4 𝑥2 − 6
+
+b) 4 𝑥 2 + 11 𝑥 − 6
+
+c)
+
+d) 4𝑥 2 + 5 𝑥 − 6
+
+9𝑥−6
+
+5. Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = −2 𝑥 2 + 4 .
+Quel point appartient à la courbe représentative de la fonction 𝑓 ?
+a) A (0 ; 5)
+
+b) B (1 ; 3)
+
+d) D (2 ; −4)
+
+c) C (2 ; 4)
+
+6. On considère la droite (𝑑) tracée ci-après dans un repère orthonormé.
+
+L’équation réduite de (𝑑) est :
+
+a) 𝑦 = −2 𝑥 + 2
+
+b) 𝑦 = 2 𝑥 + 2
+
+c) 𝑦 = 2 𝑥 − 2
+
+d) 𝑦 = − 2 𝑥 + 2
+
+7. On considère le diagramme en boîte ci-dessous.
+
+On peut affirmer que :
+a) la médiane est égale à 20
+b) environ 75% des valeurs sont inférieures ou égales à 40
+c) l’écart interquartile est 35
+d) au moins 50% des valeurs sont comprises entre 25 et 40
+
+Pour les questions 8 à 10, on exploitera le graphique ci-dessous représentant une fonction
+𝑔 définie sur R .
+
+8. Sur l’intervalle [−2 ; 0], la fonction 𝑔 est :
+a) négative
+
+b) décroissante
+
+c) positive
+
+d) croissante
+
+c) positive
+
+d) croissante
+
+c) 2 solutions
+
+d) 3 solutions
+
+9. Sur l’intervalle [0 ; 2], la fonction 𝑔 est :
+a) négative
+
+b) décroissante
+
+10. L’équation 𝑔(𝑥) = 4 admet dans [−2 ; 2] :
+a) 0 solution
+
+b) 1 solution
+
+PARTIE II
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants.
+Exercice 2 : (5 points)
+1. On considère la fonction polynôme 𝑔 définie sur R par 𝑔(𝑥) = −2 (𝑥 + 1) (𝑥 − 3) et (P)
+la parabole représentant cette fonction dans un repère orthogonal.
+a) Donner les deux racines de 𝑔.
+b) Déterminer les coordonnées du sommet S de la parabole (P).
+c) Dresser le tableau de variation de la fonction 𝑔 sur R.
+d) En justifiant la réponse, déterminer laquelle des quatre paraboles ci-dessous
+représente la fonction 𝑔.
+
+Courbe 𝐶1
+
+Courbe 𝐶2
+
+Courbe 𝐶3
+
+Courbe 𝐶4
+
+2. On considère la fonction 𝑓 définie sur R dont la courbe représentative est la courbe
+𝐶3 représentée ci-dessus.
+Résoudre graphiquement dans R l’inéquation 𝑓(𝑥) < 6.
+
+Exercice 3 : (5 points)
+Une entreprise produit et commercialise des baies de Goji bio. Cette entreprise produit
+mensuellement entre 0 et 13 tonnes de ces baies et vend l’intégralité de sa production.
+On appelle 𝑥 la masse de baies produites, exprimée en tonne, pour 𝑥 appartenant à
+l’intervalle [0 ; 13].
+Le coût de production mensuelle de l’entreprise, exprimé en millier d’euros pour 𝑥 tonnes
+de baies produites, est donné par la fonction 𝐶 définie sur l’intervalle [0 ; 13] par :
+𝐶(𝑥) = 𝑥 3 − 15 𝑥 2 + 75 𝑥.
+La recette, exprimée en millier d’euros, pour 𝑥 tonnes de baies produites, est donnée par la
+fonction 𝑅 définie sur l’intervalle [0 ; 13] par 𝑅(𝑥) = 36,75 𝑥.
+1. Calculer le coût de production, la recette et le bénéfice, exprimés en millier d'euros,
+lorsque la production mensuelle de l’entreprise est 8,5 tonnes.
+2. On appelle 𝐵 la fonction qui représente le résultat mensuel, exprimé en millier d’euros,
+réalisé par l’entreprise, qui est défini par 𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+Montrer que 𝐵(𝑥) = −𝑥 3 + 15 𝑥 2 − 38,25 𝑥 pour 𝑥 appartenant à l’intervalle [0 ; 13].
+3. On note 𝐵′ la fonction dérivée de la fonction B sur l’intervalle [0 ; 13].
+Calculer 𝐵′(𝑥).
+4. On admet que 𝐵′(𝑥) s’écrit sous forme factorisée de la manière suivant :
+𝐵 ′(𝑥) = (3 𝑥 − 4,5 ) ( 8,5 – 𝑥)
+a) Construire le tableau de signe de 𝐵′(𝑥) pour 𝑥 appartenant à l'intervalle [0 ; 13].
+b) En déduire le tableau de variation de la fonction 𝐵 sur l'intervalle [0 ; 13].
+
+Exercice 4 : (5 points)
+Lors d'une enquête portant sur les 2 000 salariés d'une entreprise, on a obtenu les
+informations suivantes :
+
+30 % des salariés ont 40 ans ou plus ;
+40 % des salariés de 40 ans ou plus sont des cadres ;
+25 % des salariés de moins de 40 ans sont des cadres.
+
+Un tableau d'effectifs qui traduit la situation est donné ci-dessous.
+Moins de 40 ans
+
+40 ans ou plus
+
+Total
+
+Cadres
+
+Non cadres
+
+Total
+
+2 000
+
+1. Recopier et compléter le tableau. Aucune justification n'est demandée.
+Dans les questions suivantes, les résultats seront donnés sous forme décimale, arrondis si
+nécessaire au millième.
+2. On interroge un employé de cette entreprise. On admet que chaque employé a la même
+probabilité d'être interrogé.
+Pour tout événement 𝐸, on note 𝐸 l'événement contraire de 𝐸, 𝑃(𝐸) la probabilité de 𝐸 et
+𝑃𝐹 (𝐸) la probabilité de 𝐸 sachant que F est réalisé, F étant un événement tel que 𝑃(𝐹) ≠ 0.
+On considère les événements suivants :
+
+M : « La personne interrogée a moins de 40 ans ;
+C : « La personne interrogée est un cadre ».
+
+a) On considère l'événement : « La personne interrogée est un cadre de moins de 40 ans ».
+Nommer l’événement à l'aide de M et C puis calculer sa probabilité.
+
+b) Décrire par une phrase l'événement 𝐶 ∩ 𝑀, puis calculer sa probabilité.
+c) Calculer la probabilité conditionnelle 𝑃𝑀 (𝐶) et interpréter le résultat obtenu dans le
+contexte de l’exercice.
+d) Sachant que la personne interrogée est un cadre, calculer la probabilité qu'elle ait moins
+de 40 ans.

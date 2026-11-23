@@ -1,0 +1,194 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1100095, "at": "2026-11-23T08:53:04+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I – Exercice 1
+Automatismes (5 points) Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+
+2)
+
+3)
+
+4)
+
+Réponse
+
+Calculer 40 % de 150.
+
+Développer et réduire (2𝑥 − 1)2 .
+
+Factoriser 3(𝑥 + 1) + (1 − 3𝑥)(𝑥 + 1).
+
+Un article valant 50 euros est soldé de 30 %.
+Quel sera le prix après réduction ?
+Déterminer la dérivée de la fonction définie sur
+
+5)
+
+ℝ par 𝑓(𝑥) = 𝑥 3 − 4𝑥 2 + 1.
+
+𝑈2
+
+Si 𝑃 = 𝑅 , donner l’expression de 𝑈 en fonction
+6)
+
+de 𝑃 et 𝑅 (𝑃, 𝑈 et 𝑅 sont des réels strictement
+positifs).
+
+7)
+
+Déterminer l’équation réduite de la droite (d)
+passant par le point A de coordonnées (0; 2) et
+le point B de coordonnées (3; 0).
+
+8)
+
+Sur le graphique ci-dessous, sont tracées la
+courbe C d’une fonction dérivable 𝑓 et la
+tangente D à cette courbe au point d’abscisse 2.
+Déterminer le nombre dérivé 𝑓′(2).
+
+9)
+
+On considère la fonction définie sur ℝ par
+𝑓(𝑥) = 𝑥 2 − 1 dont la courbe représentative
+est notée C.
+Quelles sont la ou les abscisse(s) du ou des
+point(s) de C dont l’ordonnée est égale à 3 ?
+
+10)
+
+Déterminer la valeur exacte de la solution de
+l’équation 10𝑥 = 50.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une entreprise produit en série des axes de moteurs électriques. Cette entreprise possède
+deux machines que l’on appelle 𝑀1 et 𝑀2 .
+Chaque axe est produit par l’une ou l’autre de ces deux machines, et la machine 𝑀1 produit
+40% de la production totale.
+On constate, un jour donné de production, que :
+
+
+
+1,5% des axes produits par la machine 𝑀1 sont défectueux
+2,5% des axes produits par la machine 𝑀2 sont défectueux
+
+On considère un axe choisi au hasard dans la production totale du jour considéré.
+On note les événements suivants :
+- 𝑀1 : l’axe a été produit par la machine 𝑀1 .
+- 𝑀2 : l’axe a été produit par la machine 𝑀2 .
+- 𝐷 : l’axe est défectueux.
+1. Recopier et compléter l’arbre pondéré ci-dessous.
+0,015
+
+𝑀1
+
+𝑀2
+
+𝐷
+
+̅
+D
+𝐷
+
+̅
+D
+2. Calculer P(𝑀1 ∩ 𝐷) et interpréter le résultat.
+3. Calculer la probabilité que l’axe choisi soit défectueux.
+
+4. La machine 𝑀1 se déréglant au cours du temps, on décide de noter chaque jour, à
+partir d’un jour donné, le pourcentage des axes défectueux qu’elle produit.
+On obtient le tableau ci-dessous :
+Jour 𝑥𝑖
+% d’axes
+défectueux 𝑦𝑖
+
+0,5
+
+0,8
+
+1,1
+
+1,4
+
+1,7
+
+1,9
+
+2,2
+
+a) Donner l’équation de la droite de régression de 𝑦 en 𝑥 par la méthode des
+moindres carrés sous la forme 𝑦 = 𝑎𝑥 + 𝑏, où 𝑎 et 𝑏 seront arrondis au millième.
+b) On admet dans cette question que l’équation de la droite de régression est :
+𝑦 = 0,28𝑥 + 0,24.
+On procède au réglage de la machine lorsque le pourcentage d’axes défectueux
+qu’elle produit est supérieur ou égal à 3%.
+Déterminer à partir de quel jour on devra procéder au réglage de la machine.
+Exercice 3 (5 points)
+Au moment de l’arrêt d’un moteur de formule 1 à la fin de la course, la température, notée
+C, du moteur en degré Celsius est modélisée par la formule 𝐶(𝑡) = 15 + 120 × 2,7−0,12𝑡 ,
+où 𝑡 est le temps exprimé en minute, 𝑡 variant dans l’intervalle [0 ; +∞[.
+1. Donner la température, arrondie au degré, du moteur 5 minutes après son arrêt.
+2. La courbe de la dérivée 𝐶 ′ de la fonction 𝐶 est représentée ci-dessous.
+Déduire graphiquement de cette courbe le sens de variation de la fonction 𝐶.
+
+3. Les mécaniciens sont autorisés à manipuler le moteur lorsque la température de
+celui-ci est inférieure à 29°Celsius.
+Déterminer graphiquement à l’aide de la représentation graphique de la fonction
+𝐶 ci-dessous au bout de combien de temps les mécaniciens pourront intervenir sur le
+moteur.
+
+4. Certaines pièces mécaniques de haute précision ne peuvent être manipulées que si la
+température est inférieure ou égale à 15,3 degrés Celsius.
+La précision du graphique n’étant pas assez importante, on décide de déterminer au
+bout de combien de temps les manipulations pour ces pièces seront possibles. Pour
+cela on rédige un programme en Python.
+Recopier et compléter ce programme Python afin de répondre à ce problème.
+Import math
+def réparation() :
+t=0
+while(
+
+):
+
+t=t+0.1
+return(
+
+)
+
+5. Lorsqu’on exécute le programme précédent la fonction réparation() renvoie le
+nombre 50.3 (arrondi au dixième).
+Est-ce cohérent avec la solution de l’équation 120 × 2,7−0,12𝑡 = 0,3 ? Justifier.
+
+Exercice 4 (5 points)
+Après les vacances d’été, Céline a pris de bonnes résolutions. Elle a décidé d’arrêter de
+fumer progressivement. Elle fume cent quarante cigarettes par semaine habituellement et
+va réduire progressivement sa consommation de cinq cigarettes par semaine.
+1. Montrer que cette situation peut être modélisée par une suite que l’on notera 𝑢𝑛 ( 𝑛
+étant le numéro de la semaine) avec 𝑢0 = 140 . Préciser la raison de cette suite.
+2. Déterminer l’expression de 𝑢𝑛 en fonction de 𝑛.
+3. Combien de cigarettes par semaine Céline fume-t-elle après sept semaines ?
+4. Au bout de combien de semaines Céline aura-t-elle totalement arrêté de fumer ?
+5. Calculer le nombre de cigarettes fumées entre le moment où Céline a commencé à
+réduire sa consommation et l’arrêt total.

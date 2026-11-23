@@ -1,0 +1,149 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1026455, "at": "2026-11-23T08:59:06+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des
+affirmations proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+
+1. On considère la droite 𝑑 dont une équation cartésienne dans un repère orthonormé est
+2𝑥 − 3𝑦 + 4 = 0.
+−6
+a. Un vecteur directeur de 𝑑 est ⃗𝑢 ( ).
+−12
+b. Un vecteur normal de 𝑑 est ⃗𝑛 (
+).
+c. Le point 𝐶(−5; 2) appartient à la droite 𝑑 .
+d. La droite 𝑑 coupe la droite d’équation −𝑥 + 3𝑦 − 2 = 0 au point 𝐹(1; 2).
+
+2. Dans un repère orthonormé le cercle 𝒞 a pour équation 𝑥² − 2𝑥 + 𝑦 2 + 𝑦 = 3 et la droite
+𝐷 pour équation 𝑦 = 1.
+a. 𝒞 et 𝐷 n’ont aucun point d’intersection.
+b. 𝒞 et 𝐷 ont un seul point d’intersection.
+c. 𝒞 et 𝐷 ont deux points d’intersection.
+d. On ne peut pas savoir combien 𝒞 et 𝐷 ont de points d’intersection.
+
+3. La fonction 𝑓 est la fonction définie sur l’ensemble des réels par 𝑓(𝑥) = cos(2𝑥).
+a. 𝑓 est paire.
+b. 𝑓 est impaire.
+c. 𝑓 n’est ni paire ni impaire.
+𝜋
+
+d. 𝑓 a pour période .
+
+4. Soit la suite (𝑢𝑛 ) définie par 𝑢0 = 1 et pour tout entier naturel 𝑛 par 𝑢𝑛+1 = (𝑢𝑛 +
+
+)
+𝑢𝑛
+
+On définit en langage Python une fonction « Suite » pour calculer 𝑢𝑛 connaissant 𝑛.
+
+a)
+
+b)
+
+c)
+
+d)
+
+u=0
+
+return n
+
+u=1/2*u+2/u
+
+5. L’équation e𝑥 = 1 :
+a. n’a pas de solution.
+b. a pour solution le nombre 1.
+c. a pour solution le nombre 0.
+d. a pour solution le nombre e.
+
+Exercice 2 (5 points)
+Dans cet exercice, les résultats seront arrondis au centième.
+Un gérant d’un salon de thé achète des boîtes de thé vert chez deux fournisseurs.
+Il achète 80 % de ses boîtes chez le fournisseur « Au thé de qualité » et 20 % de ses boîtes
+chez le fournisseur « Bon thé ».
+Des contrôles de qualité montrent que 10 % des boîtes provenant du fournisseur « Au thé de
+qualité » présentent des traces de pesticides et que 20 % de celles provenant du fournisseur
+« Bon thé » présentent aussi des traces de pesticides.
+On prélève au hasard une boîte du stock du gérant et on considère les événements
+suivants :
+𝐴 : « la boîte provient du fournisseur « Au thé de qualité » » ;
+𝐵 : « la boîte provient du fournisseur « Bon thé » » ;
+𝑇 : « la boîte présente des traces de pesticides ».
+1. Traduire l’énoncé à l’aide d’un arbre pondéré.
+2. Quelle est la probabilité que la boîte prélevée provienne du fournisseur A et
+contienne des traces de pesticide ?
+
+̅ ? Quelle est la probabilité de cet événement ?
+3. Que représente l’événement 𝐵 ∩ 𝑇
+4. Justifier que la probabilité que la boîte ne présente aucune trace de pesticides est
+égale à 0,88.
+5. On constate que la boîte prélevée présente des traces de pesticides. Quelle est la
+probabilité que cette boîte provienne du fournisseur « Bon thé » ?
+
+Exercice 3 (5 points)
+Un propriétaire propose à un commerçant deux types de contrat pour la location d’un local
+pendant 3 ans.
+1er contrat : un loyer de 200 € pour le premier mois puis une augmentation de 5 € par mois
+jusqu’à la fin du bail.
+2e contrat : un loyer de 200 € pour le premier mois puis une augmentation de 2% par mois
+jusqu’à la fin du bail.
+On modélise ces deux contrats par des suites (𝑢𝑛 ) et (𝑣𝑛 ), de sorte que pour tout entier 𝑛 ≥
+1, le prix du loyer le 𝑛-ième mois avec le 1er contrat est représenté par 𝑢𝑛 et le prix loyer le
+𝑛-ième mois avec le 2e contrat est représenté par 𝑣𝑛 .
+On a ainsi 𝑢1 = 𝑣1 = 200.
+1. Calculer, pour chacun des deux contrats, le loyer du deuxième mois puis le loyer du
+troisième mois.
+2. Le commerçant a écrit un programme en langage Python qui lui permet de déterminer 𝑢𝑛
+et 𝑣𝑛 pour une valeur donnée de 𝑛.
+
+u=200
+v=200
+n=int(input("Saisir une valeur de n :"))
+for i in range(1,n):
+u= ....
+v= ....
+print("Pour n =",n,"on a","u =",u," et v =",v)
+
+a) Recopier et compléter les lignes 5 et 6 de ce programme.
+b) Quels nombres obtiendra-t-on avec 𝑛 = 4 ?
+3. Déterminer, pour tout entier 𝑛 ≥ 1, l’expression de 𝑢𝑛 et de 𝑣𝑛 en fonction de 𝑛.
+4. Quel contrat coûtera le moins cher au total pour l’ensemble d’un bail de 3 ans ?
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie et dérivable sur 𝐑 par 𝑓(𝑥) = (𝑎𝑥 + 𝑏)e−0,1𝑥 où 𝑎 et 𝑏
+sont des réels fixés.
+La courbe représentative 𝒞𝑓 de la fonction 𝑓 est donnée ci-dessous, dans un repère
+orthogonal.
+
+On a également représenté la tangente 𝑇 à 𝒞𝑓 au point 𝐴(0 ; 5).
+On admet que cette tangente 𝑇 passe par le point 𝐵(4 ; 19).
+1. En exprimant 𝑓(0), déterminer la valeur de 𝑏.
+2. a) À l’aide des coordonnées des points 𝐴 et 𝐵, déterminer une équation de la droite 𝑇.
+b) Exprimer, pour tout réel 𝑥 , 𝑓′(𝑥) en fonction de 𝑥 et de 𝑎 et en déduire que pour tout
+réel 𝑥, 𝑓(𝑥) = (4𝑥 + 5)e−0,1𝑥 .
+3. On souhaite déterminer le maximum de la fonction 𝑓 sur 𝐑.
+a) Montrer que pour tout 𝑥 ∈ 𝐑, 𝑓 ′ (𝑥) = (−0,4𝑥 + 3,5)e−0,1𝑥 .
+b) Déterminer les variations de 𝑓 sur 𝐑 et en déduire le maximum de 𝑓 sur 𝐑.

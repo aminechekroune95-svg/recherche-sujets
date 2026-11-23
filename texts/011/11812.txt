@@ -1,0 +1,177 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1559802, "at": "2026-11-23T08:53:32+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune justification
+n’est demandée.
+Énoncé
+1.
+
+Résoudre dans R l’inéquation suivante :
+5𝑥 – 1 ≥ 8𝑥 + 11
+
+2.
+
+Quel est le taux d’évolution du prix d’un
+article qui passe de 120 € à 156 € ?
+
+Réponse
+
+Dans le repère orthonormé ci-dessous, on a
+tracé la courbe représentative d’une fonction
+f définie sur [ – 1 ; 5].
+Résoudre graphiquement l’inéquation
+f ( x ) ≥ – 3.
+
+3.
+
+4.
+
+Calculer l’ordonnée du point d’abscisse 4
+appartenant à la courbe représentative de la
+fonction 𝑓 définie sur R par
+𝑓(𝑥) = 3(𝑥 – 5) (𝑥 + 2)
+
+5.
+
+Compléter le tableau de signes de
+l’expression factorisée :
+(– 2𝑥 + 8)(5𝑥 – 10).
+
+x
+
+−∞
+
+– 2x + 8
+5x – 10
+Signe du
+produit
+
+6.
+
+Résoudre dans R l’équation 𝑥 2 = 10.
+
+7.
+
+Soit 𝑓 la fonction définie sur R par
+f ( x ) = 5 x3 – 8 x2 + 4 x + 9.
+Déterminer 𝑓′(𝑥).
+
+8.
+
+Dans un repère orthonormé, on considère les
+points A(-2 ; 5) et B(2 ; 3).
+Déterminer l’équation réduite de la droite
+(AB).
+
+9.
+
+Dans le repère orthonormé ci-contre, tracer
+la droite passant par le point F (–1 ; 1) et de
+coefficient directeur égal à 3.
+
++∞
+
+Dans le repère orthonormé ci-dessous, on a
+tracé la courbe représentative d’une fonction
+f définie sur R et sa tangente ( T ) au point A
+de coordonnées (0 ; 1).
+Déterminer graphiquement le nombre dérivé
+𝑓 ′ (0).
+
+10.
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une entreprise a produit 20 tonnes de déchets en 2020. Chaque année, l’entreprise veut
+diminuer de 5% la masse de déchets qu’elle produit par rapport à l’année précédente.
+On modélise la masse de déchets produits par une suite (𝑢𝑛 ). Pour tout entier naturel 𝑛, 𝑢𝑛
+représente donc la masse de déchets produits, exprimées en tonnes, à la fin de l’année
+2020 + 𝑛. Ainsi 𝑢0 = 20.
+1. Calculer 𝑢1 et 𝑢2 .
+2. Justifier que (𝑢𝑛 ) est une suite géométrique et préciser sa raison.
+3. Exprimer 𝑢𝑛 en fonction de 𝑛.
+4. Quelle sera la masse de déchets produite par l’entreprise en 2028 ? On donnera la
+valeur au kilogramme près.
+5. L’entreprise souhaite connaître le nombre d’années nécessaires pour que la masse de
+déchets produits devienne inférieure à 15 tonnes.
+Recopier et compléter l’algorithme ci-dessous pour qu’à la fin de son exécution la
+variable 𝑛 contienne le nombre d’années nécessaires pour atteindre ce seuil.
+u=20
+n=0
+while …………… :
+u=0.95*u
+n=n+1
+Déterminer le nombre d’années nécessaires pour atteindre ce seuil.
+
+Exercice 3 (5 points)
+Pour son traitement, on injecte à un malade une dose de 4 mg d’un médicament par voie
+intraveineuse.
+La quantité de ce médicament, exprimée en mg, présente dans le sang du patient est
+modélisée par la fonction 𝑓 définie sur l’intervalle [0; +∞[ par 𝑓(𝑡) = 4 × 0, 93𝑡 où 𝑡
+désigne le temps écoulé, exprimé en heures, depuis l’injection.
+1. Calculer la quantité de médicament dans le sang du patient au bout de 5 heures et 30
+minutes. Arrondir la valeur au centième.
+2. On admet que la fonction 𝑓 a le même sens de variation que la fonction 𝑔 définie sur
+[0; +∞[ par 𝑔(𝑡) = 0, 93𝑡 .
+Déterminer le sens de variation de la fonction 𝑓 sur l’intervalle [0; +∞[. Interpréter le
+résultat dans le contexte de l’exercice.
+3. On donne en annexe à rendre avec la copie, la courbe représentative de la fonction
+𝑓. Avec la précision permise par le graphique, déterminer le temps nécessaire pour
+que la quantité de médicament dans le sang soit divisée par 2. On fera apparaître les
+traits utiles à la lecture.
+4. Le patient recevra une deuxième injection lorsque la quantité du médicament
+présent dans son sang sera inférieure à 0,5 mg.
+a. Résoudre l’inéquation 4 × 0, 93𝑡 < 0,5.
+b. En déduire au bout de combien de temps le patient recevra la deuxième
+injection. On donnera le résultat arrondi à 0,1 près, puis on le convertira en
+heures et minutes.
+
+Exercice 4 (5 points)
+Le tableau suivant donne la tension artérielle systolique moyenne 𝑦𝑖 d’une population de
+femmes à différents âges 𝑥𝑖 .
+Âge 𝑥𝑖 (en années)
+
+Tension artérielle moyenne 𝑦𝑖
+(en mm de mercure)
+
+1. Représenter le nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) dans le repère orthogonal
+fourni en annexe à rendre avec la copie. Pourquoi un ajustement affine du nuage de
+points est-il envisageable ?
+2. À l’aide de la calculatrice, donner une équation de la droite d’ajustement de 𝑦 en 𝑥
+obtenue par la méthode des moindres carrés sous la forme 𝑦 = 𝑎𝑥 + 𝑏 en donnant
+les valeurs exactes des coefficients 𝑎 et 𝑏.
+Dans toute la suite de l’exercice, on prendra comme modèle d’ajustement la droite (𝑑)
+d’équation 𝑦 = 0,6𝑥 + 96.
+3. Tracer cette droite dans le repère en annexe. Indiquer sur la copie les coordonnées
+des points utilisés pour tracer la droite (𝑑).
+4. Avec ce modèle d’ajustement, estimer la tension artérielle d’une femme de 50 ans.
+5. Avec ce modèle d’ajustement, déterminer, par le calcul, à partir de quel âge une
+femme a une tension artérielle moyenne supérieure à 140.
+
+Annexe de l'exercice 3
+
+Annexe de l'exercice 4

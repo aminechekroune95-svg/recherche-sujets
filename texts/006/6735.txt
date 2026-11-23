@@ -1,0 +1,153 @@
+{"pages": 5, "method": "pdftotext", "bytes": 806925, "at": "2026-11-23T08:58:14+00:00"}
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE I
+Séries technologiques
+- ClasseSans
+de première
+AUTOMATISMES
+(5 points)
+calculatrice
+
+Durée : 20 minutes
+
+Dans cet exercice, il n’est pas demandé de justification. Répondre à chaque énoncé
+dans la colonne de droite du tableau.
+Énoncé
+
+Réponse
+
+1)
+
+Écrire la fraction sous forme d’un pourcentage.
+
+2)
+
+Calculer les 70 % d’un nombre revient à multiplier ce nombre par :
+
+3)
+
+Écrire le produit ×
+
+4)
+
+On sait que 𝐸 =
+
+5)
+
+La courbe ci-dessous est la représentation graphique
+d’une fonction 𝑓.
+
+sous forme d’une fraction irréductible .
+
+𝑚𝑣 2 . Exprimer m en fonction de 𝐸 et de 𝑣.
+Le nombre
+d’antécédents
+de 0 par la
+fonction 𝑓
+est :
+
+6)
+L’image de 0
+par la
+fonction 𝑓
+est :
+
+7)
+
+Factoriser 𝑥 2 − 4𝑥 :
+
+8)
+
+Convertir 0,75 h en minutes :
+
+9)
+
+Soit les points 𝐴(2; 4) et 𝐵(5; 5).
+Le coefficient directeur 𝑚 de la droite (𝐴𝐵) est :
+
+10)
+
+Convertir 750 cm3 en dm3 .
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+Séries
+technologiques
+Classe
+première en vigueur.
+Calculatrice
+autorisée elon
+la de
+réglementation
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+On s’intéresse à la population d’une ville et on étudie plusieurs modèles d’évolution de cette
+population. En 2018, la population de la ville était de 15 000 habitants.
+1) Modèle 1
+On fait l’hypothèse que le nombre d’habitants augmente de 1 000 habitants par an.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’habitants pour l’année (2018 + 𝑛) .
+On a ainsi 𝑢0 = 15 000.
+a. Calculer 𝑢1 et indiquer ce que représente 𝑢1 .
+b. Donner la nature de la suite (𝑢𝑛 ) sans justifier la réponse.
+c. On considère l’algorithme ci-dessous :
+𝑁=0
+𝑈 = 15 000
+while 𝑈 < 30 000:
+𝑈 = 𝑈 + 1 000
+𝑁 =𝑁+1
+À la fin de l’exécution de cet algorithme, la variable 𝑁 est égale à 15.
+Interpréter cette valeur dans le contexte de l’exercice.
+2) Modèle 2
+On fait l’hypothèse que le nombre d’habitants augmente de 4,7 % par an. On note 𝑣𝑛 le
+nombre d’habitants pour l’année (2018 + 𝑛).
+Ainsi on a 𝑣0 = 15 000.
+a. On admet que la suite (𝑣𝑛 ) est géométrique. Déterminer sa raison.
+b. Calculer, selon ce modèle, le nombre d’habitants de la ville en 2023, arrondi à
+l’unité.
+
+EXERCICE 3 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−4 ; 4] par 𝑓(𝑥) = 𝑥 2 − 2𝑥 − 3.
+1) Calculer l’image de −1 par 𝑓.
+2) Montrer que 3 est solution de l’équation 𝑓(𝑥) = 0.
+3) En utilisant les questions 1) et 2), donner une forme factorisée de 𝑓(𝑥).
+4) Dresser le tableau de signes de 𝑓 sur l’intervalle [−4 ; 4] .
+5) Parmi les trois courbes suivantes, déterminer, en justifiant, celle qui représente
+graphiquement la fonction 𝑓.
+
+EXERCICE 4 (5 points)
+Dans un club multisport de 400 adhérents, les sports pratiqués sont le tennis, le squash et le
+badminton. Les adhérents sont classés suivant leurs catégories : enfants, seniors, vétérans.
+On sait que :
+ 15 % pratiquent le badminton et parmi ceux-là, le tiers sont des enfants.
+ 75 % pratiquent le tennis et, parmi eux, 32 % sont seniors.
+ Parmi les adhérents pratiquant le squash, aucun n’est enfant et 20 sont des vétérans.
+1) Compléter, après l’avoir reproduit, le tableau suivant :
+Badminton
+Enfant
+Senior
+Vétéran
+Total
+
+Tennis
+
+Squash
+
+Total
+
+Dans les questions qui suivent, les résultats seront donnés sous forme de fraction irréductible.
+2) On choisit au hasard un adhérent parmi les 400 adhérents du club.
+On considère les événements suivants :
+E : « L’adhérent est un enfant »
+S : « L’adhérent est un senior »
+V : « L’adhérent est un vétéran »
+T : « L’adhérent joue au tennis »
+D : « L’adhérent joue au squash »
+B : « L’adhérent joue au badminton »
+a. Déterminer la probabilité des événements S et T.
+b. Décrire, à l’aide d’une phrase, l’événement S ∩ T puis calculer sa probabilité.
+3) On choisit au hasard un adhérent parmi les joueurs de badminton.
+Calculer la probabilité que ce soit un vétéran.
+4) Calculer la probabilité conditionnelle de E sachant T, notée 𝑃T (E).

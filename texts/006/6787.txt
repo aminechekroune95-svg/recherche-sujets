@@ -1,0 +1,180 @@
+{"pages": 6, "method": "pdftotext", "bytes": 457068, "at": "2026-11-23T08:57:48+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+
+Réponse
+
+Donner la fraction irréductible égale à 3 + 5
+
+Compléter l’égalité ci-contre
+
+×
+
+Compléter l’égalité ci-contre
+
+12𝑥 ×
+
+Sachant que 𝑈 = 𝑅 × 𝐼, exprimer 𝐼 en fonction de 𝑈 et 𝑅
+
+Développer l’expression 2𝑥 × (1 − 4𝑥)
+
+Factoriser l’expression 25𝑥 2 − 4
+
+On donne la fonction 𝑓 vérifiant 𝑓(𝑥) = 2𝑥 − 𝑥 2 , alors
+
+L’équation réduite de la droite D est 𝑦 = 2𝑥 + 3 . Compléter :
+
+=5
+
+= 36𝑥 4
+
+𝐼=
+
+𝑓(−3) =
+𝐴(−1 ;
+
+)∈D
+
+La courbe ci-dessous représente une fonction 𝑓.
+Compléter chacune des phrases grâce à une lecture graphique.
+L’image de 0 par 𝑓 est :
+…………….…………
+
+L’ensemble des
+solutions de l’inéquation
+𝑓(𝑥) < −4 est :
+………………………..…
+
+PARTIE II
+Calculatrice autorisée conformément à la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2
+
+Le nombre de poissons contenu dans un aquarium est estimé en 2018 à 12 840 individus.
+Malgré les efforts des soigneurs, la population de poissons diminue globalement de 5 % par
+an. Toutefois, Le propriétaire de l’aquarium estime que son aquarium reste attractif dès lors
+qu’il renferme au moins 9 000 poissons.
+Le nombre de poissons présents dans l’aquarium est modélisé par le terme général d’une
+suite 𝑈. Le nombre 𝑈𝑛 est ainsi une estimation du nombre de poissons l’année (2018 + 𝑛)
+et la valeur de 𝑈0 est 12 840.
+
+1. Vérifier que 𝑈1 = 12 198 et calculer 𝑈2 .
+2. Expliquer pourquoi la suite (𝑈𝑛 ) est géométrique et donner sa raison.
+3. Justifier que, si l’on suit ce modèle, en 2025 l’aquarium ne sera plus attractif.
+Valeur
+de 𝒏
+
+Valeur
+approchée
+de 𝑽𝒏
+
+12 840
+
+12 598
+
+12 368
+
+12 150
+
+11 942
+
+11 745
+
+11 558
+
+11 380
+
+11 211
+
+11 050
+
+10 898
+
+10 753
+Le propriétaire de l’aquarium souhaite réintroduire chaque
+10 615
+année 400 nouveaux poissons des différentes espèces pour 12
+limiter la diminution du nombre de poissons due aux pertes 13
+10 485
+annuelles de 5%.
+10 360
+Le nombre de poissons présents dans les différents bassins après
+la réintroduction des nouveaux spécimens est modélisé par le terme général d’une suite (𝑉𝑛 )
+où 𝑉0 est le nombre de poissons estimé en 2018 et 𝑉𝑛 représente le nombre de poissons
+l’année 2018 + 𝑛.
+
+Quelques termes de la suite sont donnés dans le tableau ci-contre, arrondis à l’unité.
+4. Exprimer, pour 𝑛 entier quelconque, 𝑉𝑛+1 en fonction de 𝑉𝑛
+5. Si le propriétaire introduit 400 nouveaux poissons par an, l’aquarium sera-t-il encore
+attractif en 2025 ?
+
+EXERCICE 3
+
+On considère la fonction 𝑅 suivante, définie sur l’ensemble des nombres réels R par :
+𝑅(𝑥) = −0,08𝑥 2 + 3,6𝑥 − 16
+1. Calculer 𝑅(5).
+2. Montrer que pour tout réel 𝑥, 𝑅(𝑥) = −0,08(𝑥 − 5)(𝑥 − 40)
+3. Dresser un tableau de signes de la fonction 𝑅.
+On admet que la fonction 𝑅 modélise le résultat net d’une entreprise qui fabrique des
+câbles de cuivre pour l’industrie : 𝑥 correspondant à la quantité de cuivre produite et
+vendue, exprimée en tonne, l’entreprise réalise un bénéfice de 𝑅(𝑥) milliers d’euros
+lorsque 𝑅(𝑥) est positif, ou un déficit de 𝑅(𝑥) milliers d’euros lorsque 𝑅(𝑥) est négatif.
+Cette entreprise peut produire jusqu’à 45 tonnes de cuivre.
+4. Pour quelles quantités de cuivre produites et vendues l’entreprise réalise-t-elle un
+bénéfice ?
+5. Déterminer la quantité de cuivre à produire et vendre pour que le bénéfice soit
+maximal.
+
+EXERCICE 4
+
+Une revue professionnelle est proposée en deux versions : une version papier et une version
+en ligne. Un lecteur ne peut être abonné qu’à une seule des deux versions.
+La maison d’édition de la revue, qui s’intéresse à la répartition de ses lecteurs selon leur âge,
+a effectué un sondage auprès de 3 000 lecteurs abonnés. Elle a ainsi établi le tableau
+suivant :
+
+Version papier
+
+Version
+électronique
+
+Total
+
+Lecteurs de moins de 30 ans
+
+1 480
+
+Lecteurs de plus de 30 ans
+
+1 180
+
+1 520
+
+Total
+
+1 730
+
+1 270
+
+3 000
+
+1. Combien de lecteurs de moins de 30 ans se sont abonnés à la version électronique ?
+2. Parmi l’ensemble des lecteurs, quelle est la fréquence des lecteurs ayant opté pour la
+version papier de la revue ?
+3. La proportion de lecteurs ayant choisi la version électronique parmi ceux de moins de
+30 ans est-elle supérieure à la proportion de lecteurs ayant choisi la version papier
+parmi ceux de plus de 30 ans ?
+On choisit au hasard l’un des lecteurs qui a répondu au sondage et on note les évènements
+suivants :
+• 𝐴 : « le lecteur choisi a plus de 30 ans »
+• 𝐵 : « le lecteur choisi est abonné à la version électronique de la revue »
+4. Déterminer la probabilité 𝑃𝐵 (𝐴) et donner sa signification dans le contexte de
+l’exercice.
+5. Calculer 𝑃(𝐴 ∩ 𝐵).

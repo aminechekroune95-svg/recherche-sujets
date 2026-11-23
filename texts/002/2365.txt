@@ -1,0 +1,87 @@
+{"pages": 3, "method": "ocr", "bytes": 321901, "at": "2026-11-23T09:07:15+00:00"}
+PARTIE Il
+
+Calculatrice autorisée selon la réglementation en vigueur.
+
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+On s'intéresse à la fonction polynôme f définie sur R par :
+
+f(x) = x?+ 2x-3
+
+1. Montrer que 1 est une racine de la fonction f.
+2. Montrer que pour réel x, f(x) = (x — 1)(x + 3).
+3. Résoudre dans R l'équation f(x) = 0.
+
+4. Donner une équation de l'axe de symétrie de la courbe représentative de la
+fonction f.
+
+5. Dresser le tableau de signes de la fonction f sur R.
+
+T1CMATH00739
+
+EXERCICE 3 (5 points)
+
+Durant une balade en forêt,
+un enfant se fabrique un arc
+et des flèches. Il s'intéresse à
+la trajectoire d'une de ses
+flèches.
+L'enfant décide de tirer sa
+flèche par-dessus un hangar
+désaffecté. La trajectoire est
+une portion de la courbe
+représentative de la fonction
+f située dans le quart plan
+rapporté au repère
+(O, |, J) ci-contre et définie
+pour tout réel x, par
+f(x) = —0,2(x — 5)? + 6,5.
+Une unité graphique
+correspond à 1 mètre dans la .
+réalité. :
+1. a. De quelle hauteur, en mètre, la flèche est-elle tirée ? Justifier la réponse.
+b. Quelle hauteur maximale, en mètre, atteint-elle ? Justifier la réponse.
+2. On s'intéresse au pan du toit représenté par le segment [AB], où A(10 ; 2) et
+B(6 ; 5,6) dans le repère (O, I, J).
+Démontrer qu'une équation de la droite (AB) est y = — 0,9x + 11.
+
+On appelle g la fonction affine définie sur R par g(x) = — 0,9x + 11.
+
+3. Démontrer que pour tout réel x, f(x) — g(x) = — 0,2(x — 5)(x — 9,5).
+4. Quelles sont les coordonnées exactes du point d'impact sur le toit ?
+
+T1CMATH00739
+
+EXERCICE 4 (5 points)
+
+Une usine d’horlogerie fabrique une série de montres. Au cours de la fabrication, il
+apparaît deux types de défauts, le défaut mécanique A et le défaut esthétique B.
+
+Sur un lot de 200 montres, 2 % des montres fabriquées présentent le défaut A, 10 %
+le défaut B et 178 montres ne présentent aucun des deux défauts.
+
+1. a. Combien de montres fabriquées présentent le défaut A ?
+b. Combien de montres fabriquées présentent le défaut B ?
+c. Recopier et compléter sur votre copie le tableau croisé des effectifs
+suivant :
+
+Présentant le défaut | Ne présentant pas le
+Nombre de montres A défaut À Total
+
+Présentant le défaut
+B
+
+Ne présentant pas le
+défaut B
+
+Total _ 200
+
+2. a. Quelle est la fréquence f des montres présentant les deux défauts ?
+b. Parmi les montres présentant le défaut B, quel est le pourcentage de
+celles présentant le défaut A ?
+c. Le directeur de l'usine affirme : « Il y a plus de 90 % des montres qui ne
+présentent aucun des deux défauts ». A-t-il raison ?
+
+TICMATH00739

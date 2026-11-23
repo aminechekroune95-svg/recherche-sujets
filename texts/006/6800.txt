@@ -1,0 +1,129 @@
+{"pages": 4, "method": "pdftotext", "bytes": 549461, "at": "2026-11-23T08:57:42+00:00"}
+Mathématiques Partie I
+Automatismes (5 points) : exercice 1 Sans calculatrice
+
+Durée 20 minutes
+
+Énoncé
+
+Réponse
+
+1.
+
+Résoudre dans R l’équation 2𝑥 − 5 = 9.
+
+2.
+
+Répondre par vrai ou faux : Un prix qui augmente de 20% puis de 30% a
+augmenté de 50%.
+
+3.
+
+Le prix d’un article est de 90 euros après une baisse de 10%. Quel était le
+prix initial de cet article ?
+
+4.
+
+Résoudre dans R l’équation 𝑥 2 − 16 = 0.
+
+5.
+
+Une grandeur valant 200 en 2015 vaut 300 en 2018. Si on prend comme
+indice 100 en 2015, quel sera l’indice de cette grandeur en 2018 ?
+
+6.
+
+Résoudre dans R l’inéquation 3𝑥 − 5 < 𝑥 + 5.
+
+7.
+
+Multiplier un nombre par 0,45 revient à le diminuer de …
+
+8.
+
+Une baisse de 20% est compensée par une augmentation de :
+Entourer la bonne réponse
+
+9.
+
+Quel est le taux d’évolution en pourcentage d’un volume qui passe de 100 L à
+250 L ?
+
+10.
+
+…%
+
+Donner le signe de 2𝑥 − 4 lorsque 𝑥 < 2.
+
+ 20%
+ 25%
+ 80%
+
+Partie II
+Cette partie est composée de trois exercices indépendants.
+Calculatrice autorisée
+Exercice 2 (5 points)
+Dans un atelier de fabrication, une machine émet un son dont l'intensité atteint 225
+décibels. Afin de limiter les nuisances sonores pour le voisinage, on dispose de
+plaques d'isolation phonique qui absorbent chacune 30% de l'intensité du son.
+Pour tout nombre entier naturel 𝑛, on note 𝑢𝑛 l'intensité du son, mesurée en décibel,
+après la traversée de 𝑛 plaques.
+Ainsi 𝑢0 = 225
+1. Calculer 𝑢1 .
+2. On admet que la suite (𝑢𝑛 ) est géométrique. Déterminer sa raison.
+3. Déterminer l’intensité sonore après la traversée de 4 plaques.
+4. On estime que le niveau sonore est supportable lorsque son intensité est
+inférieure ou égale à 40 décibels.
+a. Compléter le programme en langage Python afin qu’il renvoie le nombre
+minimal n de plaques pour atteindre un niveau sonore acceptable :
+def plaques() :
+n=0
+u = 225
+while u > … :
+u = u * 0.7
+n=…
+return n
+b. A l'aide de la calculatrice, déterminer le nombre n de plaques.
+Exercice 3 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−1; 4] par 𝑓(𝑥) = 3𝑥 2 − 6𝑥 − 1.
+On note 𝐶𝑓 sa représentation graphique dans le plan rapporté à un repère
+orthonormé.
+1. Déterminer l’image de 1 par la fonction 𝑓.
+
+2. Montrer que pour tout nombre réel 𝑥 de l’intervalle [−1; 4], 𝑓 ′ (𝑥) = 6(𝑥 − 1),
+où 𝑓′ désigne la fonction dérivée de la fonction 𝑓.
+3. Étudier le signe de 𝑓 ′ (𝑥) sur l’intervalle [−1; 4].
+4. En déduire le tableau de variations de la fonction 𝑓 sur l’intervalle [−1; 4].
+5. Déterminer l’abscisse du point de la courbe 𝐶𝑓 où la tangente en ce point a un
+coefficient directeur égal à 6.
+Exercice 4 (5 points)
+Une entreprise fabrique des composants électroniques. Le service du contrôle
+qualité a mis au point un test qui permet d'accepter ou pas un composant avant sa
+commercialisation.
+On prélève un échantillon de taille 520 dans la production et on le soumet au test.
+L'analyse de cet échantillon révèle que :
+• 53 composants présentent un défaut dont 5 ont été acceptés ;
+• 91 composants ont été refusés.
+On prélève au hasard une pièce de l'échantillon. On considère les évènements
+suivants :
+𝐴 : « le composant est accepté suite au test ».
+𝐷 : « le composant présente un défaut ».
+1. A l'aide des informations de l'énoncé, reproduire et compléter le tableau croisé
+d'effectifs ci-dessous :
+𝐷
+𝐴
+
+̅
+𝐷
+
+Total
+
+𝐴̅
+Total
+
+2. Calculer la probabilité qu’un composant soit accepté.
+̅.
+3. a. Exprimer par une phrase l’évènement 𝐴 ∩ 𝐷
+b. Calculer la probabilité de cet évènement.
+4. Calculer la probabilité qu'une pièce soit acceptée sachant qu'elle n'a pas de
+défaut.

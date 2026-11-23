@@ -1,0 +1,144 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1225401, "at": "2026-11-23T08:53:51+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse sur le sujet. Cet exercice comprend 7 questions.
+Aucune justification n'est demandée.
+Question 1
+Un plat préparé est constitué de 70 % de légumes dont 40 % de carottes.
+Quelle proportion les carottes représentent-elles dans ce plat préparé ?
+
+Question 2
+Après une hausse de 25 %, quelle baisse doit-on appliquer pour annuler cette hausse ?
+
+Question 3
+Un guépard parcourt 72 km par heure, combien de mètres parcourt-il par seconde ?
+
+Question 4
+Soit 𝑓 une fonction définie sur ] − ∞; 1[∪]1; +∞[ par :
+1+𝑥
+𝑓(𝑥) =
+1−𝑥
+a. Compléter 𝑓 (3) = ⋯
+b. Résoudre 𝑓(𝑥) = 3.
+
+Question 5
+On a tracé ci-contre la représentation
+graphique 𝐶𝑓 de la fonction 𝑓 définie sur
+] − ∞; 0[ ∪ ]0; +∞[.
+Résoudre graphiquement
+a. 𝑓(𝑥) = 2.
+
+b. 𝑓(𝑥) > 5.
+
+Question 6
+Résoudre −𝑥 2 + 16 = 0
+
+Question 7
+On considère une série statistique dont le diagramme en boîte est représenté ci-dessous
+
+a. Donner l’intervalle interquartile de cette série.
+b. Quelle est la médiane de cette série ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On note 𝑞 le nombre d'unités produites et vendues chaque jour. Le bénéfice quotidien en
+euros 𝐵(𝑞) d’une entreprise est donné, pour 𝑞 compris entre 0 et 100, par :
+𝐵(𝑞) = −5𝑞 2 + 650𝑞 − 20 000.
+1. Déterminer l’expression 𝐵′(𝑞) de la fonction dérivée de 𝐵 pour 𝑞 compris entre 0 et 100.
+2. Étudier le signe de 𝐵′(𝑞) et donner le tableau de variation de la fonction 𝐵 pour 𝑞 compris
+entre 0 et 100.
+3. En déduire la quantité à produire pour obtenir un bénéfice maximal. Calculer la valeur de ce
+bénéfice maximal.
+4.
+a. Montrer que : −5𝑞 2 + 650𝑞 − 21 000 = −5(𝑞 − 60)(𝑞 − 70).
+b. L’entreprise veut réaliser un bénéfice de 1 000 €, est-ce possible ?
+
+Exercice 3 (5 points)
+On s’intéresse à la distance en kilomètres séparant leur domicile de l’hôtel Mirabelle pour
+les clients dont le séjour a dépassé 5 nuitées en septembre 2018.
+On a regroupé ces clients par classes de distances. Les distances sont exprimées en
+kilomètres.
+Classe
+
+[0 ; 100[
+
+[100 ; 300[
+
+[300 ; 500[
+
+[500 ; 800[
+
+[800 ; 1000[
+
+Effectif
+
+1. Déterminer la classe qui contient la médiane de cette série.
+2. Les clients résident en moyenne à 432 km de l'hôtel Mirabelle. Donner le calcul permettant
+de déterminer cette valeur, puis déterminer l'écart-type de cette série.
+3. Un établissement voisin, l'hôtel Bergamote, effectue une enquête similaire sur la même
+période. Cette étude statistique conclut que les clients résident en moyenne à 625 km de
+l’hôtel Bergamote avec un écart-type de 152 km.
+Proposer une comparaison argumentée des résultats de ces deux enquêtes menées auprès
+des clients des hôtels Mirabelle et Bergamote.
+4. Le restaurant Mirabelle propose un menu du jour tous les midis, il apparait que sur les cinq
+années passées, 30 % des clients du midi prennent uniquement le plat du jour à 15 €, 45 %
+des clients du midi prennent le menu « plat + dessert du jour » à 20 €, les autres clients du
+midi choisissent la formule complète à 28 €.
+On considère que cette tendance se poursuit et que les tarifs restent inchangés. On
+interroge, une année donnée, un client du midi choisi au hasard dans ce restaurant. On note
+𝑋 la variable aléatoire égale au prix dépensé par le client interrogé.
+a. Déterminer la loi de probabilité de 𝑋.
+b. Calculer l’espérance de 𝑋 et interpréter le résultat.
+
+Exercice 4 (5 points)
+Un entrepreneur investit dans le bâtiment en se procurant un stock de 4 tonnes de gravier.
+On suppose que suivant l'investissement, chaque mois il réussit à vendre 20 % du stock
+présent à la fin de mois précédent.
+On considère 𝑢𝑛 la quantité de gravier en tonnes restant dans le stock 𝑛 mois après
+l’investissement initial, avec 𝑛 entier naturel.
+On note (𝑢𝑛 ) la suite des termes ainsi définis. On a donc : 𝑢0 = 4.
+1. Calculer 𝑢1 et 𝑢2 .
+2. Quelle est la nature de la suite (𝑢𝑛 ) ? Justifier.
+L'entrepreneur désire augmenter progressivement son stock de gravier et dans cet objectif,
+après son investissement initial de 4 tonnes, il décide d’alimenter son stock de 0,5 tonne
+supplémentaire chaque fin de mois. On considère toujours que chaque mois, il parvient à
+vendre 20 % du stock présent en fin de mois précédent.
+On note 𝑣𝑛 la quantité de gravier en tonnes présente dans le stock 𝑛 mois après
+l’investissement initial, pour 𝑛 entier naturel. On a alors 𝑣0 = 4
+3. Pour 𝑛 entier naturel, expliquer pourquoi 𝑣𝑛+1 = 0,8 𝑣𝑛 + 0,5.
+4. On donne l’algorithme suivant :
+𝑁⟵0
+𝑉⟵4
+Tant que 𝑁 …
+𝑁 ⟵𝑁+1
+𝑉⟵⋯
+Fin Tant que
+a. Recopier et compléter cet algorithme pour qu’à la fin de son exécution, la variable
+𝑉 contienne la quantité de gravier, exprimées en tonnes, présente dans le stock 12 mois
+après l'investissement initial.
+b. L’objectif de l’entrepreneur sera-t-il atteint 5 mois après l’investissement initial ?

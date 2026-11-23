@@ -1,0 +1,147 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1272159, "at": "2026-11-23T08:53:35+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+
+Exercice 1 - Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune justification
+n'est demandée.
+
+Questions
+
+Réponses
+
+1. Un particulier dépose 350 € sur un livret d'épargne
+rémunéré à 2 % d'intérêts annuels simples.
+Quel sera le montant, exprimé en euros, des intérêts
+générés par ce dépôt au bout d'un an ?
+2. Un jour donné, le cours d'une action cotée en bourse a
+augmenté de 25 % ; le lendemain, le cours de cette action
+a diminué de 20 %.
+Quelle est l'évolution globale, sur ces deux jours, du cours
+de cette action ?
+3. 𝑉𝐷 et 𝑉𝐴 désignent des nombres strictement positifs.
+Si 𝑡 =
+
+𝑉𝐴 −𝑉𝐷
+𝑉𝐷
+
+, exprimer 𝑉𝐷 en fonction de 𝑉𝐴 et 𝑡.
+
+4. Le chiffre d’affaires d’une entreprise augmente de 10%
+par an depuis 2010. On modélise le chiffre d’affaires par
+une suite (𝐶𝑛 ).
+Cette suite est-elle arithmétique, géométrique ou ni
+arithmétique, ni géométrique ?
+5. Donner l’expression développée et réduite de :
+(2𝑥 − 3)2 − (𝑥 − 2).
+1,23×4567
+
+6. Que vaut le résultat de 1230×4,567 ?
+7. Résoudre, dans R, l'équation suivante :
+𝑥 2 = 10.
+
+8. Résoudre, dans R, l'inéquation suivante :
+(5 − 𝑥)(𝑥 + 8) > 0.
+9. On considère la fonction 𝑓 définie, pour tout réel 𝑥, par
+𝑓(𝑥) = 𝑥 3 − 5𝑥 2 + 7𝑥 − 11 et on note 𝑓′ sa fonction
+dérivée.
+Exprimer, pour tout réel 𝑥, 𝑓′(𝑥) en fonction de 𝑥.
+10. On considère la fonction ℎ définie, pour tout réel 𝑥,
+par ℎ(𝑥) = 𝑥 2 − 7𝑥 + 9.
+Déterminer le coefficient directeur de la tangente à sa
+courbe représentative au point d'abscisse 5.
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Lors de son embauche dans une société pour un contrat à durée déterminée d'un an, Harry
+se voit proposer un salaire mensuel net de 1 590 € le premier mois puis, à compter du
+deuxième mois, une augmentation chaque mois de 15 € par rapport au salaire mensuel net
+précédent.
+Sur l'année, Harry percevra douze salaires mensuels nets, ce qui constituera son salaire
+annuel net.
+1. Calculer le salaire mensuel net d'Harry le deuxième mois de son contrat ainsi que celui le
+troisième mois de son contrat.
+2. On note (𝑢𝑛 ) le montant, exprimé en euros, du salaire mensuel net d'Harry le 𝑛-ième
+mois de son contrat où 𝑛 est un entier naturel non nul. Ainsi, on a 𝑢1 = 1 590.
+a) Justifier que (𝑢𝑛 ) est une suite arithmétique dont on précisera le premier terme et la
+raison.
+b) Exprimer, pour tout entier naturel 𝑛 non nul, 𝑢𝑛 en fonction de 𝑛.
+3. Le salaire annuel net d’Harry dépassera-t-il les 20 000 € le temps de son contrat d’un an ?
+On justifiera la réponse.
+4. Les charges salariales représentent 23 % du salaire annuel brut d'Harry. Ces charges
+viennent se déduire du salaire annuel brut afin de donner le salaire annuel net.
+Recopier et compléter la ligne 2 de l'algorithme suivant en langage Python, afin qu'il
+retourne le salaire brut lorsque l'on entre le salaire net.
+1 def net_vers_brut (salaire_net) :
+salaire_brut = …
+return (salaire_brut)
+
+Exercice 3 (5 points)
+Des bactéries, champignons et levures sont présents dans tous les produits pétroliers.
+Dans les régions chaudes telles que les Antilles, la prolifération des bactéries dans le gazole
+est courante. Ces micro-organismes se développent dans l’eau produite dans les réservoirs
+essentiellement par la condensation.
+On considère un échantillon de gazole comprenant initialement 200 bactéries par
+millilitres (mL). Des études expérimentales montrent que le nombre de bactéries par mL
+augmente régulièrement de 15 % par heure.
+1. Calculer le nombre de bactéries par mL contenues dans l’échantillon au bout d’une
+heure.
+On s’intéresse à cette évolution sur les 10 premières heures et on note 𝑓 la fonction qui
+modélise le nombre de bactéries par mL en fonction du temps 𝑡 (en heures) mesuré à partir
+de l’instant initial. Ainsi 𝑓(0) = 200.
+On admet que, pour tout réel 𝑡 de l’intervalle [0 ; 10], on a :
+𝑓(𝑡) = 200 × 1,15𝑡 .
+2. Déterminer les variations de la fonction 𝑓 sur l’intervalle [0; 10]. Justifier la réponse.
+3. Calculer le nombre de bactéries par mL au bout de 6 h 30 min. On arrondira le résultat à
+l’unité.
+4. Sur l’annexe à rendre avec la copie, on a représenté la courbe 𝐶𝑓 représentative de la
+fonction 𝑓 sur l’intervalle [7 ; 10].
+Compléter la partie de la courbe 𝐶𝑓 sur l’intervalle [0 ; 7].
+On admet qu’il n’y a aucun risque d’utilisation de ce gazole tant que le nombre de bactéries
+par mL reste limité à moins de 500 unités par mL.
+5. Déterminer graphiquement au bout de combien de temps il sera risqué d’utiliser ce
+gazole. On arrondira le résultat à la demi-heure la plus proche.
+
+Exercice 4 (5 points)
+Tous les résultats seront arrondis à 10-3.
+Une usine métallurgique fabrique des boîtes de conserve pour des entreprises spécialisées
+dans le conditionnement industriel de légumes.
+La probabilité qu'une boîte prélevée au hasard soit non conforme est 0,04.
+Un lot de 20 boîtes choisies au hasard est livré à une entreprise spécialisée dans le
+conditionnement des légumes. Le nombre de boîtes fabriquées par cette usine
+métallurgique est assez important pour pouvoir assimiler un tel prélèvement à un tirage
+avec remise de 20 boîtes.
+La variable aléatoire 𝑋 désigne le nombre de boîtes non conformes dans un tel lot.
+1. Justifier que la variable aléatoire 𝑋 suit une loi binomiale dont on précisera les
+paramètres.
+2. Calculer la probabilité que le lot ne contienne aucune boîte non conforme.
+3. Interpréter l’événement {𝑋 = 4} dans le contexte de l’exercice et calculer sa
+probabilité.
+4. Calculer la probabilité que le lot contienne au moins une boîte non conforme.
+5. Calculer l’espérance 𝐸(𝑋) de la variable aléatoire 𝑋 et interpréter le résultat.
+
+Annexe à rendre avec la copie
+Exercice 3

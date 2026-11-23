@@ -1,0 +1,165 @@
+{"pages": 6, "method": "pdftotext", "bytes": 969108, "at": "2026-11-23T09:00:12+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des
+affirmations proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+1. Soit 𝑐 un nombre réel strictement supérieur à 1. Sur l’ensemble des nombres réels, la
+fonction polynôme 𝑓 définie par 𝑓(𝑥) = 𝑥 2 + 2𝑥 + 𝑐.
+a. change de signe exactement 2 fois
+b. change de signe exactement une fois
+c. est toujours positive
+d. est toujours négative
+
+2. Si 𝑥 est un nombre réel appartenant à l’intervalle [ − 𝜋 ; 0] tel que cos 𝑥 = , alors
+
+sin 𝑥 a pour valeur
+a. 5
+b. −
+c. −
+
+d. On ne peut pas savoir
+3. Le quadrilatère 𝐴𝐵𝐶𝐷 est un carré. On a :
+
+a. ⃗⃗⃗⃗⃗
+𝐴𝐷 = 0
+⃗⃗⃗⃗⃗
+b. 𝐴𝐵 . ⃗⃗⃗⃗⃗
+𝐴𝐶 = 0
+c. ⃗⃗⃗⃗⃗
+𝐴𝐵 = 0
+d. ⃗⃗⃗⃗⃗
+𝐷𝐶 = 0
+4. La droite d’équation 2𝑥 − 𝑦 + 1 = 0 coupe l’axe des abscisses au point 𝐴 de
+coordonnées :
+
+a. 𝐴(0 ; 1)
+b. 𝐴(2 ; 0)
+
+c. 𝐴(0 ; − 1)
+d. 𝐴(− 2 ; 0)
+
+5. Pour tout réel 𝑥 ,
+a.
+
+–1
+
+𝑒𝑥
+e−𝑥
+
+est égal à
+
+b. e−2𝑥
+c. (e𝑥 )2
+d. e0
+
+Exercice 2 (5 points)
+Un biologiste étudie une population de bactéries dans un milieu fermé. À l’instant initial, il y a
+10 000 bactéries et la population augmente de 15% par heure.
+On modélise la situation par une suite (𝑢𝑛 ) pour laquelle, pour tout entier naturel 𝑛, 𝑢𝑛
+représente une estimation du nombre de bactéries au bout de 𝑛 heures.
+On a donc 𝑢0 = 10 000.
+1. Expliquer pourquoi la suite (𝑢𝑛 ) vérifie pour tout entier naturel 𝑛 :
+
+𝑢𝑛 = 10 000 × 1,15𝑛 .
+2. Quelle est la nature de la suite (𝑢𝑛 ). On précisera le premier terme et la raison.
+3. Combien y aura-t-il de bactéries au bout de 10 heures ?
+4. On considère la fonction suivante définie en langage Python.
+def bacteries(N) :
+u=10000
+for i in range(N) :
+u=u*1.15
+return u
+On a appelé cette fonction en donnant différentes valeurs au paramètre 𝑛 et l’on a
+dressé le tableau suivant.
+
+𝑛
+
+Bactéries
+bacteries(N)
+(n)
+
+40 455
+
+1 000
+
+1,2 × 1010
+
+4,99 × 1064
+
+10 000
+3,052 × 10307
+
+Quelle interprétation peut-on donner de ces résultats dans le contexte de
+l’exercice ?
+5. Lorsque la population atteint 200 000 bactéries, le biologiste répand un
+désinfectant afin de tester son efficacité. Une heure plus tard, il reste 4 000
+bactéries. Quel est le pourcentage de diminution du nombre de bactéries?
+
+Exercice 3 (5 points)
+Claire joue régulièrement à un jeu de simulation de tournois de judo en ligne. Les
+adversaires qu’elle combat sont générés automatiquement de manière aléatoire selon le
+niveau atteint dans le jeu.
+Elle a atteint le niveau le plus élevé, celui de la ceinture noire. Les scores relevés par le jeu
+montrent qu’elle gagne dans 45% des cas si son adversaire est ceinture noire et dans 70%
+si son adversaire n’est pas ceinture noire.
+Claire commence un tournoi et un premier adversaire est généré par le jeu. A ce niveau la
+probabilité d’affronter un adversaire ayant une ceinture noire est 0,6.
+On note :
+- N l’événement : « l’adversaire est ceinture noire » ;
+- G l’événement : « Claire gagne le combat ».
+1. Recopier et compléter l’arbre pondéré ci-dessous modélisant cette situation.
+
+N
+
+N
+
+2. Calculer la probabilité que l’adversaire soit ceinture noire et que Claire gagne son
+tournoi.
+3. Montrer que la probabilité que Claire gagne son combat est 0,55.
+4. Claire vient de perdre un combat. Quelle est la probabilité que le combat ait été
+contre une ceinture noire ?
+5. On considère dans cette question que la probabilité que Claire gagne est 0,55. Elle
+fait deux combats successifs.
+On note 𝑋 la variable qui compte le nombre de victoires.
+Donner la loi de probabilité de 𝑋.
+
+Exercice 4 (5 points)
+On modélise la valeur de vente (en milliers d’euros) d’une voiture électrique en fonction du
+nombre 𝑥 d’années à partir de sa mise sur le marché par la fonction 𝑓 définie sur l’intervalle
+[0 ; 10] par
+
+𝑓(𝑥) = 35e−0,22𝑥 .
+1. Calculer 𝑓(0). Quel est le prix de vente de cette voiture au moment de la mise sur le
+marché ?
+2. Donner une valeur approchée du prix de vente au bout de 5 ans et 6 mois.
+3. On admet que la fonction 𝑓 est dérivable et on note 𝑓’ sa fonction dérivée. Montrer
+que pour tout 𝑥 appartenant à [0 ; 10],
+
+𝑓 ′ (𝑥) = − 7,7e−0,22𝑥 .
+4. Dresser le tableau de variation de la fonction 𝑓 .
+5. Un client souhaite revendre sa voiture dès que celle-ci aura un prix de vente inférieur
+à 10 000 euros. Après combien de mois après avoir acheté sa voiture pourra-t-il la
+revendre ?

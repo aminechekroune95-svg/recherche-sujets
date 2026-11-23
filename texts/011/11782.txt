@@ -1,0 +1,181 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1380786, "at": "2026-11-23T08:53:47+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les dix questions qui suivent sont indépendantes. Seules les réponses sont attendues.
+
+Énoncé
+
+Réponse
+
+1. Donner l’écriture décimale de 1,47 × 105 .
+2. Écrire sous la forme 5𝑛 , où 𝑛 est un entier naturel, le
+nombre (52 )4 × 5−2
+
+3. On donne 𝑀 = 𝑝𝑇 3 .
+
+Calculer 𝑀 pour 𝑝 = 9 et = .
+
+4. Un prix passe de 600 euros à 450 euros.
+Quel est, en pourcentage, le taux de diminution de ce prix ?
+5. Quel est, en pourcentage, le taux d’augmentation
+correspondant à un coefficient multiplicateur égal à 2 ?
+
+6. Le chiffre d’affaires d’une entreprise était de 8 milliards
+d’euros en 2018, ce qui correspond à une diminution de 20 %
+par rapport à 2017.
+Quel était le chiffre d’affaires en 2017 ?
+
+7. Compléter le tableau de signes ci- dessous, qui donne le signe de
+(−𝑥 + 5)(2𝑥 + 3)
+
+−∞
+
++∞
+
+signe de −𝑥 + 5
+signe de 2𝑥 + 3
+signe de
+(−𝑥 + 5)(2𝑥 + 3)
+
+Pour les questions 8,9 et 10, on donne ci-contre
+la courbe représentative d’une fonction 𝑓
+définie sur [−5; 3].
+Répondre avec la précision permise par le
+graphique.
+
+8. Quel est l’image de 2 par 𝑓 ?
+
+9. Résoudre graphiquement l’équation
+𝑓(𝑥) = −1
+
+10. Compléter le tableau de variations de 𝑓 ci-dessous.
+
+−5
+
+Variations
+de 𝑓(𝑥)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+A l’instant 𝑡 = 0, on injecte à un patient une dose de 2 mg d’un médicament.
+On suppose qu’au cours de chaque heure le corps élimine 25 % de la quantité de
+médicament présente dans le sang.
+On sait également que le médicament ne fait plus d’effet quand la quantité présente dans le
+sang est inférieure à 0,1 mg.
+Pour tout entier 𝑛, on note 𝑅𝑛 la masse en mg de médicament présent dans le sang au bout
+de 𝑛 heures. 0n a donc 𝑅0 = 2.
+1. Déterminer la quantité de médicament présente dans le sang une heure après l’injection.
+2. Justifier que la suite (𝑅𝑛 ) est géométrique et préciser la raison.
+3. Le médicament a-t-il toujours un effet au bout de 3 heures ?
+4. On définit en langage Python la fonction ci-dessous :
+1. def seuil(R,S):
+2.
+n=0
+3.
+while R>=S:
+4.
+R=0.75*R
+5.
+n=n+1
+6.
+return n
+
+a) Donner la valeur renvoyée dans la console par l’appel seuil(2,0.1) et interpréter ce
+résultat dans le contexte de l’exercice.
+b) Pour un patient très malade, la dose initiale doit être de 5mg et le médicament ne fait
+plus d’effet lorsque la quantité dans le sang est inférieure à 0,2 mg.
+Que doit-on saisir dans la console pour savoir après combien de temps le médicament ne
+fera plus d’effet ?
+
+Exercice 3 (5 points)
+Une entreprise fabrique des composants électroniques, dans la limite de 5000 composants
+maximum par semaine.
+Le coût de fabrication, en euro, pour 𝑛 composants fabriqués par semaine est modélisé par
+𝐶(𝑛) où 𝐶 est la fonction définie sur R par :
+𝐶(𝑥) = −0,01𝑥 2 + 100𝑥 + 2000
+Pour tout nombre 𝑥 appartenant à l’intervalle [0; 5000], on définit la fonction C𝑚 par :
+C𝑚 (𝑥) = C(𝑥 + 1) − C(𝑥).
+Cette fonction est appelée fonction coût marginal.
+Les résultats seront donnés au centime d’euro près.
+1. a) Quel est le coût de fabrication de 2500 composants ? De 2501 composants ?
+b) En déduire C𝑚 (2500).
+2. On considère que, pour tout 𝑥 appartenant à l’intervalle [0; 5000], le nombre dérivé
+C ′(𝑥) fournit une bonne approximation du coût marginal C𝑚 (𝑥).
+Déterminer l’erreur commise en remplaçant C𝑚 (2500) par C ′(2500).
+3. Montrer que pour tout nombre 𝑥 appartenant à l’intervalle [0; 5000],
+𝐶(𝑥 + 1) − 𝐶(𝑥) = −0,02𝑥 + 99,99
+4. Quelle est l’erreur commise en remplaçant C𝑚 (𝑥) par C ′(𝑥)?
+
+Exercice 4 (5 points)
+Une usine fabrique chaque jour 1200 pièces pour appareils électroménagers.
+Ces pièces sont de deux types : les pièces de type A et les pièces de type B.
+75% des pièces fabriquées par l’usine sont de type A.
+7% des pièces de type A sont défectueuses. 2 % des pièces de type B sont défectueuses.
+1. Recopier et compléter le tableau ci-dessous.
+type A
+
+type B
+
+Total
+
+Nombre de pièces
+défectueuses
+Nombre de pièces
+non défectueuses
+Total
+
+1200
+
+2. Calculer la fréquence des pièces qui sont défectueuses.
+3. On prélève au hasard une pièce parmi les 1200 pièces fabriquées dans la journée.
+On définit les événements suivants :
+A : « la pièce prélevée est de type A ».
+D : « la pièce prélevée est défectueuse ».
+Calculer la probabilité que la pièce prélevée soit de type A sachant qu’elle est défectueuse.
+On note cette probabilité : PD (A).
+4. Une pièce défectueuse peut présenter 1,2 ou 3 défauts.
+Le prix de vente d’une pièce dépend du nombre de défauts qu’elle présente :
+nombre de défauts
+prix de vente en euro
+
+On note X la variable aléatoire qui, à chaque pièce prélevée au hasard dans la production
+d’une journée, associe son prix de vente.
+La loi de probabilité de X est partiellement donnée par le tableau suivant.
+P(𝑋 = 𝑥)
+
+…..
+0,006
+
+0,0318
+
+…..
+
+0,9425
+
+a) Recopier et compléter le tableau ci-dessus.
+b) Calculer l’espérance de X et interpréter le résultat obtenu.

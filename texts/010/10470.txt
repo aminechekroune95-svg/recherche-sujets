@@ -1,0 +1,136 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1232612, "at": "2026-11-23T08:55:02+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples. Pour chaque question une seule réponse
+est exacte. Une mauvaise réponse ou une absence de réponse n'enlève aucun point. La
+bonne réponse rapporte un point. Il n’est pas demandé de justification.
+1. L'ensemble des solutions de l'inéquation 3𝑥 2 − 4𝑥 + 1 ≥ 0 est :
+] − ∞; −1] ∪ [− ; +∞[
+
+] − ∞; ] ∪ [1; +∞[
+
+[ ; 1]
+
+] − ∞; − ] ∪ [1; +∞[
+
+𝑎+2
+) et 𝑣 ( ),
+𝑎
+−1
+où 𝑎 est un nombre réel. Les vecteurs ⃗𝑢 et 𝑣 sont orthogonaux si, et seulement si :
+2. Dans le plan muni d'un repère orthonormé, on considère les vecteurs ⃗𝑢 (
+
+𝑎(𝑎 + 2) − 3 = 0
+
+𝑎(𝑎 + 2) + 3 = 0
+
+3(𝑎 + 2) − 𝑎 = 0
+
+3(𝑎 + 2) + 𝑎 = 0
+
+3. Dans le plan muni d'un repère orthonormé, on considère le point A (−2; 3) et le vecteur
+⃗𝑢(1; 2). Une équation cartésienne de la droite 𝑑 passant par le point A et de vecteur
+normal ⃗𝑢 est :
+−2𝑥 + 𝑦 − 7 = 0
+𝑥 + 2𝑦 − 4 = 0
+𝑥 − 2𝑦 + 8 = 0
+2𝑥 + 𝑦 + 1 = 0
+4. On considère la suite (un ), géométrique de raison 2 et de premier terme u0 = 3.
+La somme u0 + u1 + ⋯ + u10 est égale à :
+11 )
+3(2 − 1)
+3(1 − 2
+3(2 − 1)
+3(1 − 210 )
+2𝑥+1
+
+5. Soit 𝑓 la fonction définie et dérivable sur ]1; +∞[ par 𝑓(𝑥) = 𝑥−1 .
+La fonction dérivée de 𝑓 sur ]1; +∞[ a pour expression :
+
+−1
+
+−3
+
+4𝑥 − 1
+
+Exercice 2 (5 points)
+Un organisme de vacances propose des séjours en France et à l'étranger pour des jeunes.
+Ces derniers sont répartis en deux catégories suivant leur âge : adolescents ou jeunes
+enfants. 40 % des participants sont des adolescents et parmi eux, 70 % choisissent un séjour
+à l'étranger. Parmi les jeunes enfants, 90 % choisissent un séjour en France.
+On interroge au hasard un participant à un séjour de cet organisme.
+On note A l'événement "le participant est un adolescent", et F l’événement "le participant
+choisit un séjour en France".
+1. Recopier et compléter sur la copie les branches de l'arbre de probabilité ci-dessous pour
+qu'il représente la situation.
+
+2. Calculer la probabilité que le participant soit un adolescent et qu'il choisisse un séjour à
+l'étranger.
+3. Montrer que la probabilité qu'un participant choisisse un séjour à l'étranger est 0,34.
+4. Calculer la probabilité que le participant ne soit pas un adolescent, sachant qu'il part à
+l'étranger. Donner la valeur arrondie au centième de cette probabilité.
+5. On interroge au hasard, et de manière indépendante, deux participants à des séjours de
+cet organisme pour connaitre s'ils ont choisi un séjour en France ou non. L’organisation
+de ce sondage est telle qu’une même personne peut être interrogée deux fois.
+Calculer la probabilité qu'au moins un des deux participants ait choisi un séjour en France.
+Donner cette probabilité arrondie au centième.
+
+Exercice 3 (5 points)
+Une commune compte 800 habitants au début de l’année 2019. Le maire prévoit une baisse
+de 2 % par an du nombre d’habitants à partir de 2019.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’habitants 𝑛 années après 2019. Ainsi,
+𝑢0 = 800 et pour tout entier naturel, 𝑢𝑛+1 = 0,98𝑢𝑛 .
+1. Calculer 𝑢1 et préciser ce que cette valeur représente dans le contexte de l'exercice.
+2. Préciser la nature de la suite (𝑢𝑛 ) ainsi que sa raison.
+3. Déterminer, pour tout entier naturel 𝑛, l’expression de 𝑢𝑛 en fonction de 𝑛.
+4. Calculer une valeur approchée, à l’entier près, du nombre d’habitants dans cette
+commune en 2025.
+5. Recopier et compléter sur la copie la fonction écrite en langage Python ci-dessous, afin
+qu’elle permette de calculer, pour tout entier naturel 𝑛, le terme 𝑢𝑛 .
+def u(n):
+u = …
+for i in range(1, …):
+u = …
+return …
+
+Exercice 4 (5 points)
+Partie A : lecture graphique
+1. Dans le plan muni d’un repère orthonormé, Cf est la courbe représentative d’une fonction
+𝑓, définie et dérivable sur l'ensemble ℝ des nombres réels.
+Dans la figure ci-dessus, on a tracé la courbe Cf
+Les points A et B sont les points de Cf d’abscisses respectives −2 et 0, et on a tracé les
+tangentes à Cf en ces points.
+On suppose que la tangente en A est parallèle à l'axe des abscisses et que la tangente en B
+passe par le point C(1; 6).
+On note 𝑓 ′ la fonction dérivée de 𝑓.
+Lire graphiquement les valeurs de 𝑓′(−2) et 𝑓′(0). Justifier brièvement.
+
+Partie B : Calcul algébrique
+La fonction représentée sur le graphique précédent est la fonction 𝑓 définie sur
+l'ensemble ℝ des nombres réels par :
+𝑓(𝑥) = e𝑥 (2𝑥 + 2)
+On admet que 𝑓 est dérivable sur ℝ.
+2. Montrer que pour tout nombre réel 𝑥, 𝑓 ′ (𝑥) = e𝑥 (2𝑥 + 4).
+3. Étudier le signe de 𝑓′ sur ℝ, puis en déduire le tableau de variation de 𝑓 sur ℝ.
+4. Déterminer par le calcul, l’équation réduite de la tangente à Cf au point d’abscisse 0.
+5. Justifier par le calcul les deux résultats suivants admis au début de l’exercice :
+- La tangente en A est parallèle à l'axe des abscisses.
+- La tangente en B passe par le point C(1;6).

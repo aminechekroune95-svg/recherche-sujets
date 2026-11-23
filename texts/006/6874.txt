@@ -1,0 +1,148 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1295706, "at": "2026-11-23T08:57:05+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Enoncé
+
+Réponse
+
+1)
+
+Compléter les pointillés.
+
+5-1 × 53 = 5……
+
+2)
+
+Convertir 2,8 km en mètres.
+
+2,8 km = ………………. m
+
+3)
+
+Effectuer le calcul ci-contre.
+
+4)
+
+Calculer les 3 de 4.
+
+5)
+
+Déterminer l’équation réduite de la droite (𝑑)
+représentée ci-contre.
+
++ 6 = ………………………….
+
+6)
+
+Tracer dans le repère ci-contre la droite (Δ)
+d’équation réduite :
+𝑦 = −2𝑥 + 1
+
+7)
+
+Développer et réduire l’expression :
+(𝑡 + 5)(2𝑡 − 3)
+
+8)
+
+Factoriser l’expression 4𝑦 2 − 7𝑦.
+
+Equation réduite de la droite (𝑑) ∶
+……………………………………………………
+
+9)
+
+Soit ℎ la fonction définie sur R par
+ℎ(𝑥) = −𝑥 2 + 2𝑥 − 5. Calculer ℎ(3).
+
+Dans un lycée de 1 200 élèves, il y en a 300 qui
+sont externes.
+10)
+Exprimer sous forme d’un pourcentage la
+proportion d’élèves externes dans ce lycée.
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Pour se nourrir, un oiseau plonge dans la mer depuis le haut d’une falaise d’une hauteur
+de 5 mètres.
+La trajectoire de l'oiseau est modélisée par la courbe représentative d’une fonction ℎ tracée
+sur l’intervalle [0 ; 6] dans le repère orthonormé ci-dessous.
+Dans ce repère, l’axe des abscisses représente le niveau de la mer et l’axe des ordonnées
+représente la falaise.
+h(x) désigne alors l’altitude en mètres de l'oiseau par rapport au niveau de la mer et x
+désigne la distance en mètres qui le sépare de la falaise.
+ℎ(𝑥)
+
+𝑥
+
+Avec la précision permise par le graphique, répondre aux deux questions suivantes.
+1. Quelle est l’image de 0 par la fonction h ? Interpréter dans le contexte de l’exercice.
+2. À quelles distances de la falaise se trouve l’oiseau lorsqu’il est à une profondeur
+de 3 mètres sous la mer ?
+
+La fonction ℎ est définie sur l’intervalle [0 ; 6] par :
+ℎ(𝑥) = 𝑥 2 − 6𝑥 + 5
+3. Démontrer que ℎ(𝑥) = (𝑥 − 1)(𝑥 − 5).
+4. En déduire le tableau de signes de la fonction ℎ sur [0 ; 6].
+5. Résoudre l’inéquation ℎ(𝑥) < 0 et interpréter dans le contexte de l’exercice.
+
+Exercice 3 : (5 points) avec un tableur
+Un restaurateur propose un menu à 13 € le midi.
+Il estime que 50 menus sont servis chaque midi.
+Pour le restaurateur, le coût de réalisation de ce menu est de 9 €.
+Le restaurateur souhaite augmenter son bénéfice chaque midi. Pour cela il envisage
+d’augmenter le prix du menu.
+Un sondage réalisé auprès de sa clientèle révèle qu’une hausse du prix du menu de 1 €, lui
+ferait perdre 4 clients le midi.
+On souhaite conjecturer le prix du menu pour obtenir un bénéfice maximal. Pour cela, on a
+construit la feuille de calcul ci-dessous à l’aide d’un tableur.
+
+1. Parmi les formules suivantes, recopier celle qu’il faut écrire en cellule D2 puis étirer
+vers le bas pour obtenir le chiffre d’affaire.
+=13*50
+
+=13*C2
+
+=$B$2*$C$2
+
+=B2*C2
+
+2. À partir du fichier fourni, reproduire cette feuille de calcul pour des augmentations
+successives allant de 0 à 8 €.
+Conjecturer le prix du menu permettant d’obtenir le bénéfice maximum.
+
+On admet que le bénéfice, exprimé en euros, est modélisé par la fonction 𝐵 définie sur
+l’interv alle [0 ; 8] par :
+𝐵(𝑥) = −4𝑥 2 + 34𝑥 + 200
+où 𝑥 correspond à l’augmentation du prix initial du menu, exprimé en euros.
+3. Déterminer 𝐵′(𝑥).
+4. Dresser le tableau de variations de la fonction 𝐵 sur l’intervalle [0 ; 8].
+5. Pour quelle valeur de x le bénéfice 𝐵(𝑥) atteint-il son maximum ? En déduire le prix
+du menu correspondant.
+
+Exercice 4 : (5 points)
+
+Un sac contient 2 boules noires et 8 boules blanches indiscernables au toucher.
+Une expérience consiste à prélever au hasard une boule dans le sac et à noter sa couleur.
+1. a) Justifier qu’il s’agit d’une épreuve de Bernoulli.
+b) On désigne par S l’événement : « la boule prélevée est noire ».
+Calculer la probabilité de l’événement S.
+2. On répète successivement trois fois cette expérience de Bernoulli en remettant à
+chaque fois dans le sac la boule tirée.
+a) Recopier, compléter et terminer l’arbre ci-dessous représentant cette expérience
+aléatoire.
+
+b) Déterminer la probabilité de l’événement A : « ne pas obtenir de boule noire
+parmi les trois tirages ».
+c) On considère l’événement B : « obtenir deux boules noires parmi les trois
+tirages ».
+Dans l’arbre construit à la question 2.a), combien y a-t-il de chemins réalisant
+l’événement B ? En déduire la probabilité de l’événement B.

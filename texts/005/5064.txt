@@ -1,0 +1,144 @@
+{"pages": 5, "method": "pdftotext", "bytes": 813775, "at": "2026-11-23T08:59:11+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses proposées
+est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie. Aucune
+justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de réponse
+n’apporte ni ne retire de point.
+1.
+
+L’inéquation −3(𝑥 − 2)(𝑥 + 1) > 0 admet pour ensemble des solutions :
+b) ] − ∞; −1[∪ [2; +∞[
+
+a) [-1 ;2]
+2.
+
+d) ] − ∞; −1[∪]2; +∞[
+
+c) ] − 1 ; 2[
+
+Soit 𝑥 un nombre réel. Le réel cos(𝑥 + 3𝜋) est égal à :
+a) cos⁡(𝑥)
+
+b) −cos⁡(𝑥)
+
+c) sin⁡(𝑥)
+
+d) −sin⁡(𝑥)
+
+Dans un repère orthonormé, on considère la droite 𝑑 passant par le point 𝐴(1; 2) et dont un
+vecteur normal est le vecteur⁡𝑣⁡
+⃗⃗⃗ ( ). Une équation de la droite 𝑑 est :
+−3
+3.
+
+a) 2𝑥 + 3𝑦 − 8 =b)0
+
+b) 𝑥 + 2𝑦 + 4 = 0
+
+c) 2𝑥 − 3𝑦 − 4 = 0
+
+𝑥²
+
+4. On considère la fonction 𝑓 définie sur [0; +∞[ par 𝑓(𝑥) = 𝑥+1.
+On note c sa courbe représentative sur [0; +∞[.
+Le coefficient directeur de la tangente à c au point d’abscisse 1 est :
+a)
+5.
+
+b) 4
+
+c)
+
+d) 2
+
+L’ensemble des points 𝑀(𝑥; 𝑦) dont les coordonnées vérifient l’équation 𝑥 2 − 2𝑥 + 𝑦 2 + 4𝑦 = 4 est :
+
+a) une droite
+
+b) le cercle de centre
+A(1; −2) et de
+rayon 3
+
+c)
+
+le cercle de centre
+B(−1; 2) et de
+d) l’ensemble vide.
+rayon 9
+
+d) 𝑦 = 3 𝑥 + 3
+
+Exercice 2 (5 points)
+Un snack propose deux types de plats : des sandwichs et des pizzas.
+Le snack propose également plusieurs desserts.
+La gérante constate que 80% des clients qui achètent un plat choisissent un sandwich et que parmi
+ceux-ci seulement 30% prennent également un dessert.
+Elle constate aussi que 45 % des clients qui ont choisi une pizza comme plat ne prennent pas de
+dessert.
+On choisit au hasard un client ayant acheté un plat dans ce snack.
+On considère les évènements suivants :
+S : « Le client interrogé a choisi un sandwich ».
+T : « Le client interrogé a choisi un dessert ».
+1. Sans justifier, recopier puis compléter l’arbre pondéré suivant :
+
+2. Calculer la probabilité que le client ait choisi un sandwich et un dessert.
+3. Démontrer que 𝑃(𝑇) = 0,35.
+4. Sachant que le client a acheté un dessert, quelle est la probabilité, arrondie à 0, 01 près, qu’il
+ait acheté une pizza ?
+5. Les événements S et T sont-ils indépendants ?
+
+Exercice 3 (5 points)
+Désirant participer à une course de 150 km, un cycliste prévoit l’entraînement suivant :
+ parcourir 30 km en première semaine ;
+ chaque semaine qui suit, augmenter la distance parcourue de 9% par rapport à celle
+parcourue la semaine précédente.
+On modélise la distance parcourue chaque semaine à l’entrainement par la suite (𝑑𝑛 ) où 𝑑𝑛
+représente la distance en km parcourue pendant la 𝑛-ième semaine d’entraînement.
+On a ainsi 𝑑1 = 30.
+1. Prouver que 𝑑3 = 35,643.
+2. Quelle est la nature de la suite (𝑑𝑛 )⁡?⁡ Justifier.
+3. En déduire l’expression de 𝑑𝑛 en fonction de 𝑛.
+4. On considère la fonction définie de la façon suivante en langage Python.
+
+Quelle information est obtenue par le calcul de distance(150) ?
+5. Calculer la distance totale parcourue par le cycliste pendant les 20 premières semaines
+d’entraînement.
+
+Exercice 4 (5 points)
+1. Soit 𝑓 la fonction définie sur l’intervalle [0; 2] par 𝑓(𝑥) = 8𝑥 − 2𝑥 3 .
+a. Montrer que pour tout réel 𝑥 de [0; 2], 𝑓 ′ (𝑥) a le même signe que 4 − 3𝑥².
+b. Étudier les variations de la fonction 𝑓⁡sur [0 ; 2].
+2. Dans un repère orthonormal, on considère la parabole p d’équation 𝑦 = 𝑥 2 et la droite
+d d’équation 𝑦 = 4.
+On considère le rectangle MSFE tel que :
+ M un point de p dont l’abscisse 𝑥 est un réel de ]0 ; 2[.
+ S est le symétrique de M par rapport à l’axe des ordonnées.
+ E et F sont respectivement les projetés orthogonaux de M et S sur la droite d.
+
+a. Lorsque l’abscisse 𝑥 du point M varie dans ]0 ; 2[,⁡l’aire du rectangle MSFE est-elle constante ?
+b. Montrer que l’aire du rectangle MSFE en fonction de l’abscisse 𝑥 de M est 8𝑥 − 2𝑥 3 .
+
+c. Montrer que l’aire maximale du rectangle MSFE est 3 3⁡.
+√

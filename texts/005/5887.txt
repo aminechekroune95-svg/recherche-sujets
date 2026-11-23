@@ -1,0 +1,122 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1254556, "at": "2026-11-23T08:58:32+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+L’exercice comporte 10 questions indépendantes. Seules les réponses sont attendues.
+Questions
+1. Donner l’écriture décimale de
+
+2. Comparer
+
+et
+
+Réponses
+
+.
+
+.
+
+3. Augmenter de 15% revient à multiplier par :
+4. Une agence propose 20 % de réduction sur un
+voyage à 800 euros. Calculer le prix réduit de ce
+voyage.
+5. Résoudre dans R l’équation : 𝑥 2 = 5
+
+6. Résoudre dans R l’équation :
+– 𝑥(−3𝑥 + 2) = 0
+
+7. Développer et réduire l’expression :
+(𝑥 + 1)2 + 𝑥(𝑥 − 2)
+
+8. Dresser ci-contre le tableau de signe de la
+𝑥
+fonction définie sur R par : 𝑓(𝑥) = − 4.
+
+9. La courbe C a pour équation : 𝑦 = 𝑥 2 − 𝑥.
+Donner l’ordonnée du point d’abscisse (−2 ) de
+cette courbe.
+
+10. 𝒞𝑓 est la courbe représentative d’une fonction 𝑓
+définie sur [  7 ; 5].
+
+Donner l’ensemble des solutions de l’inéquation :
+𝑓(𝑥) < 0
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+ABCDEFGH est un cube dont les faces EFGH et ABCD, BFGC et AEHD, DCGH et ABFE sont
+deux à deux opposées.
+1. Compléter la figure donnée en ANNEXE en représentant en perspective cavalière le cube
+ABCDEFGH dont l’arête [AB] est tracée. La face ABCD sera placée dans un plan frontal.
+On prendra comme angle de fuite 𝛼 = 60° et comme rapport de réduction 𝑘 = 0,5.
+2. On se place dans le repère orthonormal de l’espace (A ; B ; E ; D).
+a) Déterminer les coordonnées, dans ce repère, du point I milieu du segment [DC].
+b) Déterminer les coordonnées, dans ce repère, du point J défini par ⃗⃗⃗
+CJ = 0,8 ⃗⃗⃗⃗⃗
+CG et placer le
+point J sur la figure en ANNEXE.
+c) Le triangle FIJ est-il rectangle ? Justifier.
+3. Compléter la figure en ANNEXE en traçant la section du cube ABCDEFGH par le plan
+(AIJ).
+
+Exercice 3 (5 points)
+Une station de montagne décide d’aménager une falaise afin de créer un site d’escalade. La
+falaise a une hauteur de 10 mètres. L’aménagement doit se faire depuis le haut de la falaise.
+Une entreprise propose le devis suivant :
+- le premier mètre aménagé coûte 40 €,
+- chaque mètre supplémentaire aménagé coûte 5% de plus que le mètre précédent.
+On modélise le prix du 𝑛-ième mètre aménagé par le terme de rang 𝑛 d’une suite (𝑢𝑛 ), on a
+donc : 𝑢1 = 40.
+Les résultats seront arrondis à l’euro.
+1. a) Calculer le prix du deuxième mètre aménagé.
+b) Calculer le prix pour aménager deux mètres de falaise.
+2. Justifier que la suite (𝑢𝑛 ) est géométrique de raison 1,05.
+3. Est-il vrai que le pourcentage d’augmentation permettant de passer du prix demandé
+pour aménager un mètre de falaise au prix demandé pour aménager trois mètres de
+falaise est supérieur à 200 % ?
+4. Calculer le prix demandé pour aménager toute la falaise.
+
+Exercice 4 (5 points)
+Une urne contient trois boules blanches et une boule rouge.
+On tire au hasard une boule, on note sa couleur et on la remet dans l'urne.
+On recommence une deuxième fois, puis une troisième fois.
+On considère que les trois tirages sont indépendants.
+On étudie l’expérience aléatoire constituée par ces trois tirages au hasard successifs.
+1. Représenter cette expérience aléatoire par un arbre de probabilités.
+Chaque issue de l’’expérience peut être notée au bout de la dernière branche sous la forme
+d’un triplet du type (B, B, R) par exemple, B désignant le tirage d’une boule blanche et R celui
+d’une boule rouge.
+On appelle X la variable aléatoire qui associe à chaque issue de l’expérience le nombre de
+boules rouges tirées.
+2. a) Quelles sont les valeurs prises par la variable aléatoire X ?
+b) Traduire par une phrase l’événement noté {X = 3}.
+3. Donner la loi de probabilité de X sous la forme d’un tableau.
+4. Calculer l’espérance de X puis interpréter le résultat.
+
+ANNEXE à rendre avec la copie
+Exercice 2 : Figure à compléter

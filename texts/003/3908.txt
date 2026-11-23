@@ -1,0 +1,167 @@
+{"pages": 7, "method": "pdftotext", "bytes": 956386, "at": "2026-11-23T08:59:37+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+1)
+
+2)
+3)
+4)
+
+Réponse
+
+Dans un lycée, 200 élèves se sont présentés au
+baccalauréat. 90% d’entre eux ont été reçus.
+Combien d’élèves ont obtenu le baccalauréat ?
+Un smartphone subit une baisse de prix de 20%, puis une
+nouvelle baisse de prix de 10%.
+De quel pourcentage a-t-il baissé globalement ?
+Quel est le coefficient multiplicateur correspondant à une
+hausse de 45% ?
+Un automobiliste roule à 50km/h. Il accélère jusqu’à
+atteindre 60 km/h.
+Quel est le taux d’évolution de la vitesse ?
+
+5)
+
+Convertir 7,85 kilogrammes en grammes.
+
+6)
+
+Développer l’expression suivante 6𝑥(2 − 𝑥).
+
+7)
+
+Compléter le tableau de signes ci-contre de la fonction
+𝑓 définie sur R par 𝑓(𝑥) = 3𝑥 + 5.
+
+-∞
+
+𝑓(𝑥)
+
++∞
+
+On donne ci-dessous la représentation graphique d’une L’image de 4 est ……
+fonction 𝑓 définie sur l’intervalle [0 ; 5].
+
+8)
+
+Le tableau de variations de la
+fonction 𝑓 est :
+𝑓
+
+9)
+
+10)
+
+Soient A(1 ; 5) et B(2 ; 7) deux points dans un repère du
+plan. Que vaut le coefficient directeur de la droite (AB) ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un joueur de basket saute et lance un ballon de basket en l’air.
+La hauteur du ballon, exprimée en mètre, est modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 3] par 𝑓(𝑥) = −𝑥² + 2𝑥 + 3 où 𝑥 désigne la distance au joueur.
+La courbe représentative de la fonction f est donnée ci-dessous. Elle représente la trajectoire
+du ballon.
+𝑓(𝑥)
+
+1. Déterminer par le calcul la hauteur du ballon au moment d’être lancé.
+2. Vérifier que 𝑓(𝑥) = −(𝑥 + 1)(𝑥 − 3)
+3. Résoudre par le calcul l’équation (𝑥 + 1)(𝑥 − 3) = 0.
+L’une des deux solutions est positive, interpréter cette solution dans le contexte de
+l’exercice.
+4. Déterminer 𝑓’(𝑥).
+5. Étudier le signe de 𝑓’(𝑥) sur l’intervalle [0 ; 3] et dresser le tableau de variations de la
+fonction 𝑓 sur l’intervalle [0 ; 3]. En déduire la hauteur maximale du ballon.
+
+Exercice 3 (5 points)
+En janvier 2019, un entrepreneur décide de créer une entreprise de location de trottinettes
+électriques dans une ville de taille moyenne.
+Les trottinettes ont une autonomie initiale de 50 km. Une étude montre que l’autonomie de
+ces trottinettes baisse de 13% chaque année.
+On modélise l’autonomie de ces trottinettes, en kilomètre, à l’aide d’une suite (𝑎𝑛 ). Pour
+tout entier naturel 𝑛, 𝑎𝑛 représente l’autonomie, en kilomètre, de ces trottinettes pour
+l’année 2019+𝑛. Ainsi 𝑎0 = 50.
+On arrondira les résultats au centième de kilomètre.
+1. Calculer 𝑎1 et 𝑎2 . Interpréter les résultats dans le contexte de l’exercice.
+2. Exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+3. En déduire la nature de la suite (𝑎𝑛 ) et préciser sa raison et son premier terme.
+4. Déterminer l’autonomie des trottinettes en 2024.
+5. L’entrepreneur décide de changer son parc de trottinettes lorsque leur autonomie
+sera inférieure à 15 km.
+Afin d’estimer le nombre d’années à partir duquel l’entrepreneur devra acheter de
+nouvelles trottinettes, on propose les trois fonctions en langage Python ci-dessous.
+Parmi ces trois fonctions, laquelle permet de répondre à la question ?
+Script 1
+
+Script 2
+
+Script 3
+
+Exercice 4 (5 points)
+Dans un collège, un professeur mène une enquête auprès des 100 élèves de sixième âgés de
+11 à 13 ans sur les deux types de cartable qu’ils utilisent : le sac à dos ou le cartable à
+roulette. Les résultats sont les suivants :
+ 48% des élèves ont 11 ans, 20% des élèves ont 13 ans.
+
+40% des élèves ont un sac à dos.
+
+62,5% des élèves de 11 ans ont un cartable à roulettes
+
+un quart des élèves de 12 ans ont un sac à dos
+
+1. À partir de ces données, recopier et compléter le tableau d’effectifs ci-dessous.
+Sac à dos
+11 ans
+
+Cartable à roulettes
+
+Total
+
+12 ans
+13 ans
+Total
+
+2. On interroge au hasard un élève de sixième de ce collège.
+On note :
+- 𝑆 l'événement « l'élève a un sac à dos »
+-
+
+𝐶 l'événement « l'élève a un cartable à roulettes »
+
+-
+
+𝑇 l'évènement « l'élève a 13 ans »
+
+Pour tout évènement 𝐴, on note 𝑃(𝐴) la probabilité de l’évènement 𝐴.
+a. Déterminer 𝑃(𝐶).
+b. Décrire par une phrase l'événement 𝐶 ∩ 𝑇 puis déterminer 𝑃(𝐶 ∩ 𝑇).
+c. Calculer 𝑃(𝐶 ∪ 𝑇).
+3. Calculer 𝑃𝐶 (𝑇), arrondir le résultat à 10-2 près et interpréter le résultat obtenu.

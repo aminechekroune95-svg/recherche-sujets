@@ -1,0 +1,272 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1272234, "at": "2026-11-23T08:56:05+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Dans cet exercice, il n’est pas demandé de justification.
+La réponse à chaque question est donnée dans la colonne de droite du
+tableau.
+Énoncé
+
+Réponse
+……..
+
+1.
+
+0,002 × 36 =
+
+2.
+
+Compléter les pointillés à l’aide de l’un des trois symboles
+< ou > ou =.
+𝐸, 𝑚 et 𝑐 sont des quantités strictement positives.
+
+……. 4
+
+𝑐 =…………
+
+3.
+Si 𝐸 = 𝑚 × 𝑐², alors :
+
+4.
+
+Soit la fonction affine 𝑓 de représentation graphique 𝐶𝑓
+donnée ci-dessous :
+
+𝑓(𝑥) = 3 pour
+
+𝑥 ≈ ……………
+L’expression de 𝑓 est :
+5.
+𝑓(𝑥) = ………………..
+Le point 𝑀 (3 ; … )
+6.
+appartient à 𝐶𝑓
+
+Le prix d’un article baisse de 30%, puis le nouveau prix
+baisse de 10%.
+7.
+
+8.
+
+9.
+
+De quel pourcentage le prix de l’article a-t-il baissé au
+total ?
+Résoudre dans R, l’équation 2𝑥 2 − 4 = 46.
+Compléter le
+tableau de
+signes ci-contre :
+
+𝑥
+
+−∞
+
+…
+
+Signe de 3𝑥 − 6
+Signe de 2𝑥 + 2
+Signe de (3𝑥 − 6)(2𝑥 + 2)
+
+En déduire l’ensemble des solutions de l’inéquation :
+10.
+
+(3𝑥 − 6)(2𝑥 + 2) ≥ 0
+
+…
+
++∞
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une ruche est initialement composée de 50 000 abeilles dont une reine.
+On constate la population d’abeilles de cette ruche diminue de 8% chaque année à
+cause de la pollution et du bruit.
+1. Une feuille de calcul nous donne l’évolution du nombre d’abeilles dans cette
+ruche.
+Le rang 0 correspond à l’année 2019.
+En voici un premier extrait :
+A
+B
+Rang de
+l’année
+Nombre
+50 000
+d’abeilles
+
+C
+
+D
+
+E
+
+F
+
+G
+
+46 000
+
+42 320
+
+38 934
+
+35 820
+
+32 954
+
+Justifier la valeur obtenue dans la cellule C2.
+Quelle formule peut-on saisir dans la cellule C2 qui, recopiée vers la droite,
+permet de calculer les valeurs de la ligne 2 ?
+2. On note 𝑢𝑛 le nombre d’abeilles au bout de 𝑛 années. On a donc 𝑢0 = 50 000.
+a. Justifier que la suite (𝑢𝑛 ) est géométrique et préciser sa raison.
+b. Une ruche produit du miel si au moins 10 000 abeilles l’habitent.
+En observant le tableau ci-dessous, indiquer à partir de quelle année la ruche
+ne produira plus de miel.
+S
+12 116
+
+T
+11 147
+
+U
+10 255
+
+V
+9 435
+
+W
+8 680
+
+X
+7 986
+
+3. On s’intéresse à une ruche qui n’est soumise ni au bruit, ni à la pollution.
+Le graphique ci-dessous représente les premières valeurs 𝑣𝑛 , donnant le nombre
+d’abeilles de cette ruche au bout de 𝑛 années.
+
+a. Pourquoi peut-on conjecturer que la suite (𝑣𝑛 ) est une suite arithmétique ?
+En admettant que la suite (𝑣𝑛 ) est arithmétique et sachant que 𝑣0 = 7100 et
+𝑣4 = 8500, déterminer la raison de la suite (𝑣𝑛 ).
+b. On rappelle qu’une ruche produit du miel si au moins 10 000 abeilles l’habitent.
+À partir de combien d’années cette ruche produira-t-elle du miel ?
+
+Exercice 3 (5 points)
+On considère une urne contenant 7 boules blanches et 3 boules rouges,
+indiscernables au toucher. On réalise l’épreuve aléatoire suivante : un joueur pioche
+au hasard une boule, il note sa couleur, puis la remet dans l’urne.
+On considère les évènements suivants :
+𝑅 : « La boule piochée est rouge »
+𝐵 : « La boule piochée est blanche »
+1. On décide de répéter successivement 3 fois cette épreuve aléatoire.
+a. Compléter l’arbre de probabilités figurant en annexe, à rendre avec la copie,
+représentant la situation de l’énoncé.
+b. Donner la probabilité d’obtenir au plus 1 boule rouge.
+2. À l’issue des 3 tirages, le joueur gagne 5 euros pour chaque boule rouge obtenue,
+et il perd 3 euros pour chaque boule blanche obtenue.
+On note 𝑋 la variable aléatoire donnant le gain algébrique du joueur en euro.
+a. Si on pioche deux boules rouges et une boule blanche, quelle est la valeur de
+𝑋?
+b. Compléter le tableau figurant en annexe, donnant la loi de probabilité de 𝑋.
+En déduire 𝑃(𝑋 ≤ −1). Interpréter le résultat obtenu.
+c. Montrer que l’espérance mathématique de la variable aléatoire 𝑋 est
+𝐸(𝑋) = −1,8.
+Interpréter ce résultat.
+
+Exercice 4 (5 points)
+Le plongeon en piscine d’un nageur depuis un tremplin est modélisé par la fonction
+16 3
+ℎ∶𝑡↦
+𝑡 − 18𝑡 2 + 8𝑡 + 10
+où 𝑡 désigne le temps écoulé (en seconde) depuis l’impulsion initiale du nageur et
+ℎ(𝑡) la hauteur (en mètre) du nageur.
+Dans tout l’exercice, on arrondira au centimètre près, soit à 0,01 mètre près.
+1. Calculer ℎ(0) et en déduire la hauteur du tremplin de plongeon.
+
+2. Dériver la fonction ℎ. Montrer alors que ℎ′ (𝑡) = 16 (𝑡 − ) (𝑡 − 2).
+
+3. Dresser le tableau de variations de la fonction ℎ sur l’intervalle [0 ; 2,5].
+4. On souhaite déterminer l’instant où le nageur atteint le niveau de l’eau. Pour cela,
+on considère le script Python suivant, dans lequel l’instruction « h(milieu) » calcule
+l’image de la valeur de la variable « milieu » par la fonction ℎ :
+
+def eau(debut,fin):
+for i in range(20):
+
+milieu = (debut+fin)/2
+
+if h(milieu) > 0:
+
+debut = milieu
+else:
+fin = milieu
+return milieu
+
+a. Compléter le tableau figurant en annexe, à rendre avec la copie, illustrant le
+début du fonctionnement de cet algorithme lors de l’appel eau(0,2). On ne
+demande pas de représenter les lignes pour 𝑖 ≥ 3.
+b. Expliquer pourquoi l’appel eau(0,2) permet de déterminer une estimation de
+l’instant où le nageur atteint le niveau de l’eau.
+
+Annexe
+à rendre avec la copie
+Exercice 3
+Question 1.a.
+
+Question 2.b.
+Gain 𝑥𝑖
+
+−9
+
+−1
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+0,343
+
+0,441
+
+Exercice 4
+Question 4.a.
+Valeur de i
+
+debut et fin
+avant la boucle if
+
+milieu
+
+h(milieu)
+
+debut et fin
+après la boucle if
+
+0 et 2
+
+5,33
+
+1 et 2
+
+1 et 2

@@ -1,0 +1,173 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1334487, "at": "2026-11-23T08:56:20+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Enoncé
+1)
+2)
+
+3)
+
+Réponse
+
+Donner l’écriture décimale du nombre 50 .
+Un article coûte 200 €. Son prix subit une baisse
+de 20%. Quel est son nouveau prix ?
+Un article valant initialement 160 € a subi une
+réduction et vaut maintenant 120 €. Déterminer
+le pourcentage de diminution du prix de cet
+article.
+La droite D est la représentation graphique d’une
+fonction affine 𝑓 définie sur R. Compléter par
+lecture graphique.
+
+L’équation réduite de D est :
+……..……………….
+
+4)
+
+5)
+
+Durée : 20 minutes
+
+Dresser le tableau de signes sur R de l’expression
+(𝑥 − 4)(2𝑥 + 6)
+
+6)
+
+Résoudre sur R l’équation
+𝑥 2 = 17
+
+7)
+
+Déterminer la solution de l’équation
+2𝑥 − 4 = 6 − 3𝑥
+
+8)
+
+Développer l’expression 4𝑥²(5 − 2𝑥).
+
+9)
+
+Si 𝑣 = 𝑡 alors
+
+10)
+
+Soit 𝑓 la fonction définie sur R par
+𝑓(𝑥) = 2𝑥 2 − 4𝑥 + 6.
+Calculer 𝑓(−3).
+
+𝑑
+
+𝑑=
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un parc de loisirs propose un billet d’entrée au prix unique de 10 €.
+Dans le cadre d’une semaine promotionnelle, chaque visiteur est invité à gratter une carte
+choisie au hasard lui permettant d’obtenir une réduction sur le prix de son billet.
+Les réductions sont réparties de la manière suivante :
+- 10% des cartes à gratter permettent d’obtenir le remboursement du prix du billet,
+- 20% des cartes à gratter permettent d’obtenir une entrée à 2 € au lieu de 10 €,
+- 40% des cartes à gratter permettent d’obtenir une réduction de 5 € sur le prix du
+billet d’entrée,
+- Le reste des cartes affichent « Perdu » et ne permettent pas d’obtenir une réduction.
+On note 𝑋 la variable aléatoire correspondant au prix du billet payé après grattage, en euro,
+par un client de ce parc.
+1) Déterminer les différentes valeurs possibles prises par la variable aléatoire 𝑋.
+2) Établir la loi de probabilité de la variable aléatoire 𝑋 en recopiant et en remplissant le
+tableau fourni ci-dessous :
+𝒌
+𝑷(𝑿 = 𝒌)
+3) Déterminer la probabilité qu’un client bénéficie d’une réduction.
+4) Déterminer 𝐸(𝑋). En donner une interprétation dans le contexte de l’exercice.
+5) Le gérant du parc dépense en moyenne 4€50 par client pour le fonctionnement du
+parc.
+Cette semaine promotionnelle est-elle rentable pour le gérant ?
+
+Exercice 3 (5 points)
+L'Europe est une destination privilégiée des touristes internationaux. Le tableau suivant
+donne l'évolution des recettes issues du tourisme en Europe entre 2014 et 2017, en milliards
+d'euros.
+Année
+2014
+2015
+2016
+2017
+Recettes (en milliards d'euros)
+386,7
+421,8
+422,6
+459,6
+Source : Organisation Mondiale du Tourisme
+
+1) Calculer le taux d’évolution du montant des recettes issues du tourisme en Europe
+entre 2014 et 2015. On donnera le résultat sous la forme d’un pourcentage et on
+arrondira le résultat à 0,1% près.
+On suppose, dans la suite de l'exercice, que depuis 2017 les recettes issues du tourisme en
+Europe augmentent de 4,5% par an.
+2) Pour tout entier naturel 𝑛, on note 𝑈𝑛 le montant des recettes issues du tourisme en
+Europe en 2017 + 𝑛 exprimé en milliards d'euros. On a ainsi 𝑈0 = 459,6.
+a. Justifier que 𝑈1 = 480,3 et calculer 𝑈2 en arrondissant la valeur au dixième.
+b. Justifier que la suite (𝑈𝑛 ) est géométrique. Donner sa raison.
+c. Calculer l'estimation des recettes issues du tourisme en Europe en 2022. On
+donnera le résultat en milliards d'euros arrondi au dixième.
+3)
+a. Recopier et compléter la fonction en langage Python donnée ci-dessous qui
+calcule le nombre d'années nécessaires, à partir de 2017, pour que les recettes
+issues du tourisme en Europe dépassent les 550 milliards d'euros.
+
+b. En quelle année les recettes du tourisme en Europe dépasseront-elles les 550
+milliards d'euros ?
+
+Exercice 4 (5 points)
+Une entreprise fabrique des pâtes alimentaires. Sa capacité de fabrication est limitée à 80
+tonnes de pâtes par mois.
+Le coût de fabrication, en euro, de 𝑥 tonnes de pâtes alimentaires est modélisé par la
+fonction 𝑓 dont la représentation graphique est fournie en annexe à rendre avec la copie.
+1. En s'aidant du graphique fourni en annexe, répondre sur la copie aux questions
+suivantes avec la précision permise par le graphique.
+a. Combien coûte la production de 60 tonnes de pâtes alimentaires ?
+b. Quelle quantité de pâtes alimentaires peut-on produire pour un coût de
+fabrication de 90 000 € ?
+2. On admet que le résultat réalisé par la vente de 𝑥 tonnes de pâtes alimentaires par
+mois est donné par la fonction 𝑅 définie sur l’intervalle [0 ; 80] par
+𝑅(𝑥) = −𝑥 3 + 105𝑥² − 1800𝑥 − 4000
+a. Déterminer 𝑅′(𝑥) où 𝑅’ est la dérivée de la fonction 𝑅 sur l’intervalle [0 ; 80].
+b. Vérifier que 𝑅 ′ (𝑥) = −3(𝑥 − 10)(𝑥 − 60).
+c. Recopier et compléter le tableau ci-dessous.
+𝑥
+
+Signes de 𝑅 ′ (𝑥)
+
+Variations de 𝑅
+
+d. En déduire la quantité de pâtes alimentaires que l’entreprise doit produire et
+vendre par mois pour réaliser un résultat maximal. Que vaut ce résultat ?
+
+Annexe – Exercice 4
+Courbe représentative de la fonction 𝑪

@@ -1,0 +1,183 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1130890, "at": "2026-11-23T08:56:11+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Calculatrice interdite
+
+Durée : 20 minutes
+Exercice 1 (5 points)
+Enoncé
+
+1)
+
+Donner la fraction irréductible égale à
+
+2)
+
+Comparer
+
+3)
+
+Réponse
+
+×
+
+×
+
+.
+
+…….1
+
+et 1.
+
+La puissance P, en watts, est donnée par la formule
+𝑃 = 𝑅 × 𝐼² où 𝑅 est la résistance en Ohms et 𝐼 est
+l’intensité en Ampères.
+Calculer la puissance sachant que la résistance est 30
+Ohms et l’intensité est 2 Ampères
+
+4)
+
+Convertir en minutes 2,75 heures.
+
+5)
+
+Augmenter de 5% revient à multiplier par quel nombre ?
+
+6)
+
+Développer et réduire l’expression (𝑥 + 3)².
+
+……………………..…………….
+
+7)
+
+On considère la fonction 𝑔 définie sur [−3 ; 3] dont la
+représentation graphique 𝐶𝑔 est donnée dans le repère
+orthonormé ci-dessous. Compléter par lecture graphique.
+
+8)
+
+L’image de −1 par la fonction 𝑔 est
+…………..
+L’ensemble des solutions de
+𝑔(𝑥) > 2 est
+…………………………………….
+Le tableau de variation de 𝑔 est :
+
+9)
+
+Tracer, dans le repère ci-contre, la droite (𝑑) d’équation
+𝑦 = − 2 𝑥 + 2.
+10)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Dans cet exercice, les salaires seront arrondis à l’euro le plus proche.
+Alain vient de recevoir son premier poste dans une entreprise qui lui propose le salaire
+suivant :
+19 000 euros annuels en 2020, puis son salaire annuel augmente chaque année de 4%.
+Pour l’entier 𝑛, on appelle 𝑎(𝑛) le salaire annuel (en euro) d’Alain durant l’année 2020 + 𝑛.
+On rappelle que 𝑎(𝑛) peut se noter 𝑎𝑛 . Ainsi, on a 𝑎0 = 19 000.
+1. Vérifier que 𝑎1 = 19 760 puis calculer 𝑎2 .
+2. Quelle est la nature de la suite 𝑎 ? Justifier la réponse.
+3. Recopier et compléter le script Python ci-contre pour que la
+def salaire_alain(𝑛) :
+fonction salaire_alain(𝒏) renvoie la valeur de 𝑎𝑛 pour un nombre
+𝑎= 19 000
+entier 𝑛 choisi au départ.
+for i in range (𝑛) :
+𝑎=…………….
+return ……
+On admet que la fonction salaire_alain(𝒏) donne les valeurs suivantes :
+Rang 𝒏
+salaire_alain(𝒏)
+4.
+
+21 372
+
+22 227
+
+23 116
+
+24 041
+
+25 002
+
+26 002
+
+27 042
+
+Une collègue d’Alain, Bérangère se voit proposer un salaire annuel de 20 000 euros en
+2020, puis, chaque année, une augmentation de 700 euros de son salaire annuel.
+Pour l’entier 𝑛, on appelle 𝑏𝑛 le salaire annuel de Bérangère durant l’année 2020 + n.
+Les premières valeurs de la suite 𝑏 sont données dans la feuille de calculs ci-dessous :
+
+28 124
+
+a) Quelle est la nature de la suite 𝑏 ? Justifier la réponse.
+b) Est-il possible que le salaire d’Alain dépasse celui de Bérangère ? Si oui, en quelle
+année ? Justifier la réponse.
+
+Exercice 3 (5 points)
+On considère la fonction 𝑔 définie par 𝑔(𝑥) = −2𝑥 3 + 12𝑥² sur l’intervalle [0 ; 6].
+La fonction 𝑔 est dérivable sur l’intervalle [0 ; 6]. On note 𝑔′ sa fonction dérivée.
+1. Calculer 𝑔’(𝑥) et montrer que, pour tout 𝑥 appartenant à [0 ; 6] , 𝑔′ (𝑥) = 6𝑥(−𝑥 + 4).
+On fera apparaitre les étapes du calcul.
+2. Étudier le signe de 𝑔’(𝑥) sur [0 ; 6]
+3. Dresser le tableau de variations de la fonction 𝑔 sur [0 ; 6].
+4. Déterminer le maximum de la fonction 𝑔 sur [0 ; 6] et indiquer en quelle valeur il est
+atteint.
+5. Deux amis, Selyan et Naysam, préparent ensemble un concours pour lequel leur durée de
+travail varie entre 0 et 6 heures par jour. Ils modélisent leur satisfaction au travail en
+fonction de leur temps de travail quotidien par la fonction 𝑔. On donne la représentation
+graphique de la fonction 𝑔 dans le repère ci-dessous (𝑥 est exprimé en heure).
+
+Si la fonction qui modélise la satisfaction atteint la valeur 100, on dit qu’il y a saturation.
+Voici ce que les deux amis affirment :
+Affirmation : « On n’arrive jamais à un effet de saturation ».
+Dire si cette affirmation est vraie ou fausse. Justifier la réponse.
+
+Exercice 4 (5 points)
+Dans cet exercice les probabilités seront arrondies à 0,001 près.
+Une étude de l’INSEE indique que 61 % des Français de plus de 15 ans ont effectué un achat
+sur internet en 2018.
+On considère trois Français de plus de 15 ans dont les choix d’achat sont supposés
+indépendants.
+Pour chacun des trois individus, l’évènement « l’individu a acheté sur internet au cours de
+l’année 2018 » est noté A.
+Si A est un évènement, on notera 𝐴̅ son évènement contraire et 𝑃(𝐴) sa probabilité.
+1. Donner la probabilité de l’évènement 𝐴. Calculer la probabilité de l’évènement 𝐴̅.
+2. Compléter, sans justification, l’arbre de probabilité fourni en annexe.
+3. Montrer que la probabilité que les trois individus aient effectué des achats sur internet en
+2018 est environ égale à 0,227.
+4. Montrer que la probabilité qu’aucun des trois individus n’aient effectué d’achat sur
+internet en 2018 est environ égale à 0,059.
+5. Soit 𝑋 la variable aléatoire égale au nombre de personnes ayant effectué un achat sur
+internet en 2018 parmi les trois personnes interrogées.
+Décrire par une phrase l’événement {𝑋 ≥ 1} puis déterminer 𝑃(𝑋 ≥ 1).
+
+Annexe à rendre avec la copie
+Exercice 3 :
+Individu 1
+
+Individu 2
+
+Individu 3

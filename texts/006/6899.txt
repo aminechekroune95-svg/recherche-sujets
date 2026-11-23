@@ -1,0 +1,180 @@
+{"pages": 8, "method": "pdftotext", "bytes": 649520, "at": "2026-11-23T08:56:52+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Énoncé
+
+1.
+
+Réponse
+
+Calculer 75 % de 240.
+
+Une boîte contient 7 médicaments rouges, 11
+2. médicaments bleus et 6 médicaments noirs. Calculer le
+pourcentage de médicaments noirs.
+
+3.
+
+Donner la forme irréductible de : 5 × 8
+
+4.
+
+1,3 × 108 est égal à :
+
+……………………… millions
+
+5.
+
+3600 km/h est égal à :
+
+……………….m/s
+
+Énoncé
+
+Réponse
+
+6.
+
+L’image de 0 par f est ……
+
+7.
+
+Les antécédents de 0 par f
+sont :
+
+L’ensemble des solutions de
+l’équation 𝑓(𝑥) = 2 est :
+
+8.
+
+Le coefficient directeur de la
+droite passant par les points
+B et G est :
+
+9.
+
+𝐶𝑓 est la courbe représentative d’une fonction f définie
+sur [-4;5].
+Compléter par lecture graphique.
+
+L’équation réduite de la
+tangente 𝑇 à 𝐶𝑓 au point
+d’abscisse 4 est :
+
+10.
+……………………….
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Dans un établissement hospitalier public, on constate que l’augmentation du nombre
+de passages aux urgences est de 4 % par an. Pour l’année 2018 on a comptabilisé
+30 400 passages aux urgences. On modélise la situation par la suite (𝑢𝑛 ) où 𝑢𝑛
+représente pour tout entier naturel 𝑛 le nombre de passages aux urgences dans cet
+établissement pendant l’année 2018 + 𝑛.
+1. a. Justifier que 𝑢0 = 30 400 et que pour tout entier naturel 𝑛 on a :
+𝑢𝑛+1 = 1,04 𝑢𝑛 .
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser sa raison.
+2. Les valeurs de 𝑢𝑛 sont arrondies à l’unité dans le tableau ci-dessous :
+A
+
+B
+
+C
+
+D
+
+Rang 𝑛 de l'année
+
+Nombre 𝑢𝑛 de
+passages
+
+30 400
+
+31 616
+
+Quelle formule, destinée à être recopiée vers la droite, peut-on saisir dans la
+cellule D2 pour obtenir les valeurs de la suite (𝑢𝑛 ) ?
+3. a. Calculer la valeur du nombre 𝑢3 .
+b. Quelle prévision peut-on faire quant au nombre de passages aux urgences en
+2021 ?
+4. a. On a écrit dans l’éditeur de Python une fonction nommée « passage » qui sur
+l’entrée 𝑠 retourne l’année à partir de laquelle le nombre de passages aux
+urgences pour cet établissement aura dépassé le seuil 𝑠. Compléter cette
+fonction donnée en annexe.
+b. Que doit-on écrire dans la console de Python afin d’obtenir l’année à partir de
+laquelle le nombre de passages aux urgences pour cet établissement aura
+doublé par rapport à 2018 ?
+
+EXERCICE 3 (5 points)
+Un laboratoire désire tester l’efficacité d’un médicament.
+On demande à 500 personnes de participer au test. On donne le médicament
+uniquement à 300 personnes et un placebo aux 200 autres.
+À l’issue de ce test, 320 personnes sont guéries et parmi elles 25% avaient pris le
+placébo.
+1. Utiliser les informations précédentes, pour compléter le tableau croisé des
+effectifs donné en annexe.
+2. Déterminer la fréquence des personnes n’ayant pas guéri.
+3. Déterminer la fréquence des personnes ayant pris le placebo et ayant guéri.
+4. La fréquence des personnes ayant pris le médicament parmi les personnes
+qui n’ont pas guéri, est-elle supérieure à 30 % ? Justifier.
+5. a. Parmi les personnes ayant pris le médicament, déterminer la fréquence de
+personnes guéries.
+b. Parmi les personnes ayant pris le placébo, déterminer la fréquence de
+personnes guéries.
+c. Que peut-on penser de l’efficacité de ce médicament ?
+
+EXERCICE 4 (5 points)
+Un médicament antalgique est administré par voie orale. La concentration du produit
+actif dans le sang est modélisée par une fonction 𝑓 qui, au temps écoulé 𝑥 en heure
+(h), associe la concentration 𝑓(𝑥) en milligramme par litre de sang (mg.L- 1 ).
+La fonction 𝑓 est définie sur [0; 6] par : 𝑓(𝑥) = 𝑥 3 − 12𝑥 2 + 36𝑥.
+On note 𝑓’ la fonction dérivée de la fonction 𝑓 sur [0; 6].
+1. a. Calculer 𝑓’(𝑥).
+b. Vérifier que pour tout réel 𝑥 : 𝑓’(𝑥) = (3𝑥 − 6)(𝑥 − 6).
+2. a. Étudier le signe de 𝑓’(𝑥) sur [0; 6].
+b. En déduire le tableau de variation de la fonction 𝑓 sur [0; 6].
+3. Au bout de combien de temps la concentration du produit est-elle maximale ?
+4. On admet que le produit actif est efficace si sa concentration dans le sang est
+supérieure à 5mg.L-1. Justifier que le produit est efficace un quart d’heure après
+son injection et au moins jusqu’à 4 heures 45 minutes après son injection.
+5. L’affirmation « au bout de 5 heures, la concentration dans le sang du produit
+actif est inférieure à 20 % de sa valeur maximale » est-elle vraie ? Justifier votre
+réponse par un calcul.
+
+Annexe à remettre avec la copie
+EXERCICE 2 : question 4.a.
+def passage(s) :
+n = …….
+u = …….
+
+s est un seuil que l'on se fixe.
+La fonction passage(s)
+retourne la plus petite valeur de
+𝑛 telle que 𝑢𝑛 ⩾ s
+
+while u < s :
+n = …...
+u = …...
+return …….
+EXERCICE 3 : question 1
+
+Nombre de personnes Nombre de personnes
+ayant guéri
+n'ayant pas guéri
+
+Total
+
+Nombre de personnes
+ayant pris le
+médicament
+
+Nombre de personnes
+ayant pris le placebo
+
+Total

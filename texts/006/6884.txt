@@ -1,0 +1,155 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1283329, "at": "2026-11-23T08:56:59+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+Enoncé
+
+Réponse
+
++
+
+1)
+
+Donner la fraction irréductible égale à
+
+2)
+
+Comparer les nombres + et
+
+3)
+
+Ecrire sous forme de fraction irréductible le nombre 0,60 ×
+
+4)
+
+Déterminer l’entier 𝑛 tel que (52 )3 × 5 = 5𝑛
+
+5)
+
+Factoriser l’expression 𝐴(𝑥) = 4𝑥 2 − 9
+
+6)
+7)
+8)
+
+Développer et réduire l’expression
+𝐴(𝑥) = 2𝑥(𝑥 − 4) − (5𝑥 − 3)
+Si 𝑃 = 𝑚𝑔 alors 𝑚 = ⋯
+Compléter
+Dans un repère, on considère les points 𝐴(−1 ; 3) et
+𝐵(2 ; −3) et la droite D1 ci-dessous.
+
+1 cm = ……………. km
+Donner le coefficient directeur de la
+droite (𝐴𝐵) :
+
+9)
+
+Donner l’équation réduite de la
+droite D1 :
+
+10)
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Un chef d’entreprise souhaite remédier aux inégalités salariales à poste équivalent entre les hommes et
+les femmes. Il décide donc d’augmenter les salaires de ses employées de 1 % par mois jusqu’à obtenir, à
+poste équivalent, les mêmes salaires pour les hommes et les femmes.
+Le salaire brut de Maria en janvier 2019 s’élève à 1 750 €.
+On modélise l’évolution de son salaire mensuel par la suite de terme général 𝐶𝑛 , 𝑛 étant le nombre de
+mois écoulés à partir de janvier 2019.
+𝐶0 = 1 750, 𝐶1 correspond au salaire brut de février 2019, 𝐶2 correspond au salaire brut de mars 2019.
+Pour tout entier naturel 𝑛 non nul, 𝐶𝑛 correspond au salaire brut 𝑛 mois après janvier 2019.
+1. Calculer, au centime près, 𝐶1 et 𝐶2 et justifier que la suite (𝐶𝑛 ) est une suite géométrique de raison
+1,01.
+2. Quel est le sens de variation de la suite (𝐶𝑛 ) ? Justifier votre réponse.
+3. On considère un extrait d’une feuille de calcul :
+A
+B
+
+𝑛
+
+𝐶𝑛
+
+1 750
+
+Quelle formule doit-on saisir dans la cellule B3 pour obtenir, par recopie vers le bas, les
+premières valeurs de la suite (𝐶𝑛 ) ?
+
+Maria souhaite déterminer à quelle date son salaire sera égal à celui de ses collègues masculins
+qui est de 2 052 € brut par mois.
+
+4. Recopier et compléter l’algorithme ci-contre afin qu’après exécution, la variable 𝑛
+contienne la valeur recherchée.
+C=1750
+5. À quelle date, le salaire brut de Maria sera au moins égal à
+n=0
+2 052 € ? Expliquer la démarche utilisée.
+while …………:
+C=…………
+n=n+1
+
+EXERCICE 3 (5 points)
+
+Un hypermarché propose trois types de vente : en magasin, en drive, en livraison à domicile.
+Le directeur commercial du magasin souhaite étudier la satisfaction de ses clients. Il mène
+alors une étude sur 1 500 clients. On suppose que chaque client n’utilise qu’un type de vente.
+Les résultats sont les suivants :
+
+La moitié des clients se déplace en magasin, et 60 % d’entre eux sont satisfaits.
+10 % des clients non satisfaits utilisent le drive.
+
+des clients sont satisfaits, et parmi eux, 10 % utilisent la livraison à domicile.
+
+1. A l’aide des données de l’énoncé, recopier et compléter sur la copie le tableau croisé
+d’effectifs ci-dessous, sans justifier.
+Livraison à
+Magasin
+Drive
+Total
+domicile
+Clients
+satisfaits
+Clients non
+satisfaits
+Total
+
+1 500
+
+2. Quelle est la fréquence de clients satisfaits et utilisant le drive ?
+On choisit au hasard un client parmi les 1 500 personnes interrogées.
+3. Calculer la probabilité que le client choisi utilise le drive (on arrondira le résultat au
+centième).
+4. Montrer que la probabilité que le client n’utilise pas la livraison à domicile est 0,83
+arrondie au centième.
+5. Sachant que le client est satisfait, calculer la probabilité qu’il utilise le drive.
+
+EXERCICE 4 (5 points)
+Soit f la fonction définie sur [−2 ; 3] par 𝑥 ⟼ 4𝑥 3 − 7𝑥 2 − 5𝑥 + 6 et dont la représentation
+graphique est donnée dans le repère (O ; I , J) ci-dessous :
+
+1. Calculer l’image de
+
+par f.
+
+2. Déterminer graphiquement l’image de 2 et une valeur approchée à 10−1 des solutions de
+
+l’équation 𝑓(𝑥) = −1.
+3. Vérifier que, pour tout réel 𝑥 de l’intervalle [−2 ; 3], 𝑓(𝑥) = (4𝑥 − 3)(𝑥 2 − 𝑥 − 2).
+4. On admet que 𝑓(𝑥) = (4𝑥 − 3)(𝑥 + 1)(𝑥 − 2). Résoudre algébriquement dans l’intervalle
+
+[−2 ; 3] l’équation 𝑓(𝑥) = 0.
+5. Dresser le tableau de signes de la fonction sur l’intervalle [−2 ; 3].

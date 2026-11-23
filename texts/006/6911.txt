@@ -1,0 +1,173 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1058797, "at": "2026-11-23T08:56:46+00:00"}
+PARTIE I
+
+Sans calculatrice
+
+Automatismes (5 points)
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1. Une enquête est menée auprès de 250 automobilistes sur le
+carburant qu'ils utilisent pour leur voiture.
+Le résultat de l'enquête est donné dans le diagramme circulaire
+ci-dessous.
+
+GPL
+19%
+ESSENCE
+55%
+
+DIESEL
+26%
+
+Quel est le nombre d'automobilistes utilisant du diesel pour leur
+voiture ?
+2. On partage un disque dur de 1,5 To en dossiers de 60 Go chacun.
+Quel est le nombre de dossiers obtenus ?
+On rappelle : 1 To = 1012 octets et 1 Go = 109 octets.
+3. La puissance 𝑃 exprimée en watts d'un radiateur est égale au
+quotient du carré de la tension 𝑈 exprimée en Volts à ses bornes
+par sa résistance 𝑅 exprimée en Ohms :
+𝑈²
+𝑃=
+𝑅
+Exprimer 𝑅 en fonction de 𝑃 et de 𝑈.
+4. On considère la fonction 𝑓 définie sur ℝ par :
+𝑓(𝑥) = 𝑥 − 4
+
+a) Calculer l’image de 6 par la fonction 𝑓.
+
+b) Calculer 𝑓 (2).
+5. Factoriser l'expression suivante :
+𝐴 = (2𝑥 + 1)(5𝑥 + 3) − (2𝑥 + 1)(−2𝑥 + 6)
+
+6. On considère la droite (AB) dans le repère orthonormé cidessous. Déterminer l’équation réduite de la droite (AB), avec
+la précision permise par le graphique.
+
+7. Le montant de la facture présentée par un garagiste à un client
+s’élève à 760 euros dont 190 euros pour le coût de la main
+d’œuvre.
+Calculer la part en pourcentage que représente le coût de la
+main d’œuvre dans cette facture.
+8. On considère la fonction 𝑓 définie sur ]0 ; +∞[ par
+𝑥2 + 1
+𝑓(𝑥) =
+.
+𝑥
+Justifier que le point 𝐴(2 ; 2,5) appartient à la courbe
+représentative de la fonction 𝑓.
+9. Un aliment contient 50% de matières grasses dont 15% de
+matières grasses saturées.
+Déterminer la part en pourcentage des matières grasses
+saturées dans cet aliment.
+
+PARTIE II
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Une entreprise fabrique, en grande quantité, des pièces métalliques rectangulaires dont les
+cotes sont exprimées en millimètres. Un contrôle de qualité consiste à vérifier que la
+longueur et la largeur des pièces sont conformes aux normes en vigueur. Une pièce est
+considérée comme défectueuse si la cote de la longueur ou de la largeur n’est pas située
+dans l’intervalle défini par le cahier des charges. L'entreprise produit 10 000 pièces par jour
+en utilisant deux machines A et B et le contrôle de qualité permet d’affirmer que :
+ 15 % des pièces sont produites sur la machine A.
+ 1,2 % des pièces sont défectueuses.
+ 3 % des pièces produites par la machine A sont défectueuses.
+1. Compléter sur l’annexe qui est à remettre avec la copie, le tableau d’effectifs suivant :
+Nombre de pièces Nombre de pièces
+provenant de la provenant de la
+machine A
+machine B
+
+non défectueuses
+
+1500
+
+10 000
+
+On choisit au hasard une pièce dans la production. Chaque pièce a la même probabilité
+d’être choisie.
+On note les événements suivants :
+𝐴 : « La pièce choisie provient de la machine A » ;
+𝐵 : « La pièce choisie provient de la machine B » ;
+𝐷 : « La pièce choisie est défectueuse ».
+On arrondira les probabilités à 10-4 si nécessaire.
+2. Calculer la probabilité que la pièce choisie provienne de la machine A et soit défectueuse.
+3. Donner la probabilité que la pièce choisie soit défectueuse sachant qu’elle provient de la
+machine A.
+
+4. Calculer la probabilité conditionnelle 𝑃𝐷 (𝐴) et interpréter le résultat dans le contexte de
+l’exercice.
+5. Quelle est la machine la plus efficace ? Justifier.
+
+Exercice 3 : (5 points)
+Une entreprise fabrique, en grande quantité, des tiges métalliques cylindriques pour
+l'industrie.
+En 2018, elle produit 1 000 tiges métalliques par jour.
+L'entreprise souhaite augmenter sa production journalière chaque année afin de produire le
+plus rapidement possible 2 000 tiges par jour. Elle
+demande alors la réalisation d’une étude de
+faisabilité.
+L’étude montre qu’on peut modéliser le nombre
+de tiges par jour par une suite 𝑢.
+On a ainsi : pour tout entier naturel 𝑛, 𝑢𝑛
+représente le nombre de tiges produites par jour
+pour l'année 2018 + 𝑛. Et 𝑢0 = 1 000.
+Le nuage de points représentant les premiers
+termes de la suite 𝑢 est donné ci-contre.
+1. À l’aide du graphique, répondre aux questions
+suivantes :
+a) Que vaut 𝑢2 ? Interpréter le résultat.
+b) Pourquoi peut-on conjecturer que la suite
+𝑢
+est arithmétique ? Quelle serait sa
+raison ?
+c) On admet que la suite 𝑢 est arithmétique.
+Écrire une relation entre 𝑢𝑛+1 et 𝑢𝑛
+valable pour tout entier naturel 𝑛.
+2. Quelle serait la production journalière de
+l'entreprise en 2024 selon ce modèle ?
+3. On considère la fonction seuil(s) ci-dessous
+def seuil(s):
+n=0
+u=1000
+while u <=s:
+n=n+1
+u=u+150
+return n
+Quelle est valeur de seuil(2000) ? Interpréter cette valeur dans le contexte de l’exercice.
+
+Exercice 4 : (5 points)
+1. On considère la fonction 𝑓 définie sur [0 ; 60] par :
+𝑓(𝑥) = −0,005 (𝑥 − 2)(𝑥 − 40)(𝑥 − 50).
+a) Quelle est la nature de la fonction 𝑓 ?
+b) Résoudre dans [0 ; 60] l’équation 𝑓(𝑥) = 0.
+c) Dresser le tableau de signes de la fonction 𝑓 sur [0 ; 60].
+2. Dans l’atmosphère, un ballon-sonde permet de mesurer la température de l’air (exprimée
+en degrés Celsius (°C)) en fonction de l'altitude (exprimée en km). D’après ses relevés, la
+température de l’air peut être modélisée par la fonction 𝑓 précédemment définie, et qui
+à toute altitude x comprise entre 0 et 60 km, associe la température de l’air 𝑓(𝑥),
+exprimée en °C.
+a) Calculer la température en °C pour une altitude de 8 km.
+b) Déterminer toutes les altitudes du ballon-sonde pour lesquelles la température de
+l’atmosphère est positive ou nulle.
+
+Annexe
+Exercice 2 – question 1
+provenant de la
+machine A
+
+provenant de la
+machine B
+
+Nombre de pièces non
+
+1500
+
+10 000

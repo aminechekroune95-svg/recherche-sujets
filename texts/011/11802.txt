@@ -1,0 +1,223 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1319967, "at": "2026-11-23T08:53:37+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquer les réponses dans la colonne de droite du tableau. Aucune justification n’est
+attendue.
+1.
+2.
+3.
+
+Énoncé
+Réponse
+Calculer le coefficient multiplicateur associé à une baisse
+de 15 %.
+Calculer le taux d’évolution correspondant à deux
+baisses successives de 30 %.
+Écrire sous la forme d’une fraction irréductible :
+2+5× .
+
+4.
+
+Résoudre sur ℝ l’équation (3𝑥 + 1)(5𝑥 − 2) = 0.
+
+5.
+
+Dans un repère du plan, on considère deux points du
+plan : M(2 ; 5) et N(3 ; 1). Déterminer l’ordonnée à
+l’origine de la droite (MN).
+
+6.
+
+Soit 𝑓 la fonction dérivable et définie sur ℝ par :
+𝑓(𝑥) = 4𝑥 3 − 3𝑥 + 6 .
+La dérivée 𝑓 ′ de la fonction 𝑓 est définie sur ℝ par :
+
+7.
+
+𝑓 ′ (𝑥) = ………………………
+
+Dans un repère orthonormé, on note 𝒞 la courbe
+représentative d’une fonction 𝑓 définie et dérivable
+sur ℝ. On a tracé la tangente 𝑑 à la courbe 𝒞 au point 𝐴
+d’abscisse 3.
+
+Par lecture graphique
+avec la précision qu’elle
+permet :
+
+8.
+
+Convertir :
+
+150 m2 =…………….… cm²
+
+9.
+
+On définit la fonction 𝑔 sur ℝ par 𝑔(𝑥) = 5𝑥 2 + 3.
+Dans un repère du plan, le point B(−2 ; −17)
+appartient-il à la représentation graphique de 𝑔 ?
+
+10.
+
+𝑓 ′ (3) = …………............
+
+On considère le diagramme en boîte suivant d’une série
+statistique :
+
+La valeur du troisième quartile 𝑄3 de la série est :
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+(𝑢𝑛 ) est la suite géométrique de premier terme 𝑢0 égal à 30 et de raison 𝑞 égale à 0,95.
+1. Soit un entier naturel 𝑛. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+2.
+a) Exprimer 𝑢𝑛 en fonction de l’entier naturel 𝑛.
+b) En déduire la valeur de 𝑢15 , arrondie au dixième près.
+3. Un programme écrit en langage Python est donné ci-dessous :
+def Contrainte_Somme():
+u=30
+s=30
+n=0
+while s<=150:
+u=0.95*u
+s=s+u
+n=n+1
+return n
+a) Quelle valeur renvoie le programme lors de l’exécution de Contrainte_Somme() ?
+b) Interpréter cette valeur.
+
+Exercice 3 (5 points)
+On s’intéresse à l’évolution de la production annuelle de palourdes, exprimée en
+kilogramme, dans une ferme aquacole à partir de 2014.
+Le tableau ci-dessous donne la production annuelle de palourdes, exprimée en kilogramme,
+dans la ferme de 2014 à 2019. L’année est repérée grâce à son rang, par exemple
+le rang 1 correspondant à la première année de l’étude, c’est-à-dire à 2014.
+Année
+Rang de l’année : 𝑥𝑖
+Production annuelle de
+palourdes (en kg) : 𝑦𝑖
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+1 190
+
+1 620
+
+2 600
+
+4 050
+
+1.
+a) Représenter le nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) dans le repère
+orthogonal donné sur la feuille annexe à rendre avec la copie.
+b) L’allure du nuage de points obtenu permet-elle de modéliser la situation par un
+ajustement affine ? Pourquoi ?
+Pour les questions suivantes, les résultats seront arrondis à 10−2 prés.
+2. Pour tout entier naturel 𝑖 non nul et inférieur ou égal à 6, on pose 𝑧𝑖 = log(𝑦𝑖 ).
+a) Recopier et compléter le tableau suivant en arrondissant au centième près les
+valeurs obtenues 𝑧𝑖 :
+Année
+Rang de l’année : 𝑥𝑖
+𝑧𝑖 = log(𝑦𝑖 )
+
+2014
+2,81
+
+2015
+2,88
+
+2016
+3,08
+
+2017
+3,21
+
+2018
+3,41
+
+2019
+3,61
+
+b) Donner, à l’aide de la calculatrice, l’équation réduite de la droite d’ajustement
+affine de 𝑧 en 𝑥, obtenue par la méthode des moindres carrés.
+c) En supposant que ce modèle reste adapté à la situation les années suivantes,
+quelle production annuelle de palourdes, exprimée en kilogramme, pourrait-on
+prévoir dans cette ferme pour l’année 2021 ?
+
+Exercice 4 (5 points)
+Dans un centre équestre, plusieurs activités sont proposées et parmi celles-ci, une activité se
+démarque particulièrement des autres : le tir à l’arc à cheval. Dans ce centre équestre, 25 %
+des adhérents pratiquent le tir à l’arc à cheval et les autres adhérents se répartissent dans
+les autres activités proposées. Parmi les adhérents qui pratiquent le tir à l’arc à cheval, 95 %
+le pratiquent en compétition. Parmi ceux qui pratiquent une autre activité que le tir à l’arc à
+cheval, 80 % la pratiquent en compétition.
+On choisit au hasard la fiche d’un adhérent et on note T et C les deux événements suivants :
+T : « la fiche est celle d’un adhérent qui pratique le tir à l’arc à cheval. »
+C : « la fiche est celle d’un adhérent qui pratique son activité en compétition. »
+̅ son événement contraire.
+Pour un événement A, on note A
+1. Construire un arbre de probabilités décrivant la situation.
+2. Décrire par une phrase l’événement T ∩ C puis calculer la probabilité 𝑃(T ∩ C).
+3. Démontrer que 𝑃(C) est égal à 0,8375.
+4. Les événements T et C sont-ils indépendants ? Justifier votre réponse.
+5. On choisit une fiche au hasard parmi les fiches des adhérents qui pratiquent une
+activité en compétition. Quelle est la probabilité que cette fiche soit celle d’un
+adhérent qui pratique le tir à l’arc à cheval ? On donnera l’arrondi au dix-millième
+près.
+
+Annexe : Exercice 3 – question 1.a)
+Représenter le nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) dans ce repère orthogonal :
+y
+
+4500
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+x

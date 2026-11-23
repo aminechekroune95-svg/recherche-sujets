@@ -1,0 +1,130 @@
+{"pages": 6, "method": "pdftotext", "bytes": 495449, "at": "2026-11-23T08:56:55+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Calculatrice interdite
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+Écrire sous forme d’une puissance de 4
+
+4 × 45
+=
+
+Donner la fraction irréductible égale à 9 × 4
+
+Compléter l’égalité
+
+Calculer 70 % de 40
+
+Le diagramme en boîte ci-après représente une
+série statistique. Compléter par lecture
+graphique.
+
+3𝑥 2 × … … = 15𝑥 3
+
+Le maximum est égal à
+
+………
+
+La médiane est égale à ………
+
+Il y a 25 % des valeurs supérieures à
+…….
+
+L’image de 1 par la fonction 𝑓 est
+……
+
+La fonction 𝑓 est définie par 𝑓(𝑥) = 5 − 2𝑥 pour
+tout nombre réel 𝑥. Compléter les phrases.
+
+L’antécédent de 1 par la fonction 𝑓
+est ……
+Le point 𝐴(0 ; … ) appartient à la
+courbe représentative 𝐶𝑓 de la
+fonction f.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+
+Une société de location de trottinettes électriques a commencé son activité en janvier
+2020. On modélise le nombre de trottinettes dont dispose la société B le 𝑛-ième mois de
+son activité, par le terme général 𝑣(𝑛) d’une suite 𝑣. On utilise la feuille de calcul cicontre pour calculer les termes de la suite 𝑣.
+
+1. Que représente la valeur de la cellule B3 ?
+2. On a entré dans la cellule C3 la formule = B3*1,1 puis recopié vers la droite le
+contenu de la plage.
+Quelle valeur contient la cellule D3 ?
+3. En supposant que tous les termes de la suite 𝑣 soient définis sur le modèle de la
+question 2, quelle est la nature de cette suite ? Préciser sa raison et son premier
+terme.
+4. Quel est le sens de variation de la suite 𝑣 ? Justifier la réponse.
+5. Recopier et compléter la fonction v12(), écrite ci-dessous en langage Python, qui
+renvoie la valeur 𝑣(12). Interpréter ce résultat dans le contexte de l’exercice.
+def v12() :
+v = 50
+for i in range(2,13):
+v = ...
+return v
+
+EXERCICE 3 (5 points)
+Soit 𝑓 une fonction définie et dérivable sur [−5 ; 10] dont le tableau de variation est le
+suivant :
+𝑥
+
+−5
+
+−1
+
+𝑓
+−2
+
+1. Dresser, sans justifier, le tableau de signe de la fonction dérivée 𝑓′.
+2. On admet que 𝑓(−4) = 2 et 𝑓 ′ (−4) = −3.
+Donner une équation de la tangente à la courbe représentative 𝐶𝑓 de la fonction f au
+point d’abscisse −4.
+3. On considère la fonction ℎ définie pour tout réel 𝑥 de [−10 ; 10] par
+𝑥2
+
+ℎ(𝑥) = − 2 + 𝑥 + 5.
+La fonction ℎ est dérivable sur [−10 ; 10], on note ℎ′ sa fonction dérivée.
+Déterminer, pour tout 𝑥 réel de [−10 ; 10] , ℎ′ (𝑥).
+4. Étudier le signe de ℎ′ et en déduire les variations de ℎ sur [−10 ; 10].
+5. La fonction ℎ admet-elle un extremum ? Justifier la réponse.
+
+EXERCICE 4 (5 points)
+Une entreprise familiale fabrique des machines d’emballage et réalise 85 % de son chiffre
+d’affaire dans le grand export. Cette entreprise compte 84 collaborateurs. Ceux-ci sont
+répartis en quatre domaines : Commercial, Technique, Production et Administratif.
+Le tableau ci-après offre une vue détaillée de cette répartition :
+Hommes
+
+Femmes
+
+Total
+
+Commercial
+
+Technique
+
+Production
+
+Administratif
+
+Total
+
+1. Calculer le pourcentage de femmes dans l’entreprise, en arrondissant à 0,1 % près.
+2. Calculer le pourcentage d’hommes commerciaux dans cette entreprise, en
+arrondissant à 0,1 % près.
+3. Dans la partie technique, quelle est la proportion d’hommes ?
+4. Quelle est la probabilité de rencontrer une employée de la production parmi les
+femmes de l’entreprise ?
+5. Quelle est la probabilité de rencontrer un commercial parmi les hommes de
+l’entreprise ?

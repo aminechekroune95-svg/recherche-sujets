@@ -1,0 +1,220 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1008407, "at": "2026-11-23T08:55:45+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+
+Énoncé
+
+1.
+
+Résoudre l’inéquation 3𝑥 − 4 ≥ 11.
+
+2.
+
+Donner la forme développée et réduite de
+l’expression : −6(𝑥 + 2)(𝑥 − 1).
+
+3.
+
+Factoriser l’expression :
+(2𝑥 + 1)2 + (2𝑥 + 1)(𝑥 − 5).
+
+4.
+
+Calculer 11% de 120.
+
+5.
+
+Augmenter une quantité de 8 % revient à la
+multiplier par …
+
+6.
+
+Résoudre l’équation 𝑥² = −9.
+
+7.
+
+Comparer
+
+et
+
+Réponse
+
+.
+
+Dans la suite de l’exercice, on considère la fonction 𝑓 définie sur l’intervalle 𝐼 = [−10 ; 10] par
+𝑓(𝑥) = −2𝑥 3 − 3𝑥² + 12𝑥 − 2
+8.
+
+Calculer 𝑓(1).
+
+9.
+
+Donner l’expression de 𝑓’(𝑥), où 𝑓’ est la
+fonction dérivée de 𝑓 sur 𝐼.
+
+10.
+
+Déterminer l’équation de la tangente à la
+courbe représentative de 𝑓 au point
+d’abscisse 1.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un condensateur est un composant électronique dont la propriété principale est de
+pouvoir stocker des charges électriques.
+En phase de décharge, la charge 𝑞 (𝑡 ) en fonction du temps 𝑡 (𝑡 ≥ 0, est donnée par
+−
+
+𝑡
+
+la formule 𝑞(𝑡 ) = 𝑄 × 2 𝑇 où 𝑄 est la charge maximale du condensateur exprimée
+en microfarads (μF) et 𝑇 le temps nécessaire, exprimé en seconde (s), pour que la
+charge du condensateur diminue de 50 %.
+1. On considère un condensateur tel que 𝑄 = 100 μF et 𝑇 = 10 s.
+a. Donner l’expression de la fonction 𝑞 pour ce condensateur.
+b. Calculer 𝑞(0) et 𝑞(10).
+c. Parmi les trois courbes 𝐶1 , 𝐶2 , 𝐶3 sur le graphique ci-dessous, indiquer
+en justifiant celle qui représente la fonction 𝑞 pour ce condensateur.
+
+2. Pour un autre condensateur, on sait que, pour tout 𝑡 ≥ 0, 𝑞(𝑡) = 50 × 2−𝑡 .
+
+a. Vérifier par un calcul que pour tout 𝑡 ≥ 0, 𝑞(𝑡 + 2) = 4 𝑞(𝑡).
+b. En déduire le temps, en seconde, pour que le condensateur atteigne
+25 % de sa charge maximale.
+
+Exercice 3 (5 points)
+Le jour de la naissance de Léo, le 1er janvier 2020, ses grands-parents décident de
+placer une somme de 500 € sur un compte rémunéré à 0,5 % d’intérêts par an.
+Le capital de ce compte est ainsi augmenté de 0,5 % du capital précédent le 1er
+janvier de chaque année, à partir de l’année 2021.
+On modélise le capital en euro disponible le 1er janvier de l'année 2020 + 𝑛 par le
+terme général d’une suite 𝑢, de sorte que 𝑢0 = 500 et 𝑢1 = 502,5.
+1. Quelle est la nature de la suite (𝑢𝑛 )?
+2. Exprimer, pour tout entier 𝑛, 𝑢𝑛 en fonction de 𝑛.
+3. Quel sera le capital de Léo le jour de ses 18 ans ?
+Après calcul, les grands-parents de Léo estiment que la somme obtenue au 1er
+janvier 2038 ne sera pas assez importante. Ils décident donc d’ajouter chaque
+année, à partir du 1er janvier 2021, 100 € supplémentaires sur le compte rémunéré.
+On modélise alors le capital disponible au 1er janvier de l’année 2020 + 𝑛 par la suite
+𝑣 qui vérifie la condition suivante : pour tout entier 𝑛, 𝑣𝑛+1 = 1,005𝑣𝑛 + 100.
+Ainsi 𝑣0 = 500 et 𝑣1 = 602,5.
+4. La suite 𝑣 est-elle géométrique ? arithmétique ? Justifier les réponses.
+5. On considère le programme ci-dessous écrit en langage Python.
+def capital() :
+n = 0
+u = 500
+for i in range(18) :
+n = n+1
+u = 1.005*u+100
+return u
+Quel est le résultat renvoyé par l’appel à la fonction capital() ?
+Quelle conclusion peut-on en tirer dans le contexte de l’exercice ?
+
+Exercice 4 (5 points)
+Le tableau ci-dessous donne le nombre total d’immatriculations des voitures
+particulières neuves en France métropolitaine entre 2011 et 2019 et en particulier, le
+nombre de véhicules diesel neufs.
+Année
+Rang de l’année 𝒙𝒊
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+1,345
+
+1,168
+
+1,12
+
+1,07
+
+1,028
+
+0,978
+
+0,824
+
+1,857
+
+1,757
+
+1,766
+
+1,886
+
+1,984
+
+2,08
+
+2,139
+
+Véhicules diesel
+1,557
+neufs 𝒚𝒊 (en million)
+Total véhicules neufs
+2,161
+(en million)
+Source : SDES-RSVERO
+
+1. Un article du 1er février 2019 de l’hebdomadaire Challenges précisait que « la
+part du diesel dans les immatriculations de voitures neuve a perdu 33 points
+en 5 ans dans l’Hexagone. »
+Parmi l’ensemble des véhicules neufs, calculer la proportion, exprimée en
+pourcentage, de véhicules diesel neufs immatriculés pour l’année 2013, puis
+pour l’année 2018.
+L’affirmation du journaliste est-elle vraie ?
+2. Représenter, dans le repère en annexe, le nuage de points (𝑥𝑖 ; 𝑦𝑖 ) montrant
+l’évolution des immatriculations de voitures diesel neuves en France
+métropolitaine en fonction du rang de l’année.
+3. À l’aide de la calculatrice, déterminer une équation de la droite 𝐷 qui réalise
+un ajustement affine du nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) obtenu par la
+méthode des moindres carrés. On arrondira les coefficients au millième. Puis,
+tracer la droite 𝐷 dans le repère donné en annexe.
+4. En supposant que l’ajustement affine réalisé reste valable :
+a. Déterminer le nombre de véhicules diesel neufs qui seront immatriculés en
+2022.
+b. Déterminer à partir de quelle année, le nombre d’immatriculation de
+véhicules diesel neufs sera inférieur à 500 000 véhicules.
+
+Annexe à rendre avec la copie

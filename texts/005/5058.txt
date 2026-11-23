@@ -1,0 +1,147 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1185776, "at": "2026-11-23T08:59:14+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions
+suivantes, une seule des quatre réponses proposées est exacte. Aucune justification n’est
+demandée.
+Une bonne réponse rapporte un point. Une mauvaise réponse, une réponse multiple ou
+l’absence de réponse ne rapporte ni n’enlève aucun point.
+Indiquer sur la copie le numéro de la question et la réponse correspondante.
+Question 1
+Soit la fonction 𝑃 définie sur ℝ par 𝑃(𝑥) = (𝑥 2 + 𝑥 + 1)(𝑥 − 1).
+L’équation 𝑃(𝑥) = 0 :
+a. n’a pas de solution sur ℝ
+c. a exactement deux solutions sur ℝ
+
+b. a une unique solution sur ℝ
+d. a exactement trois solutions sur ℝ.
+
+Question 2
+Soit la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = (7𝑥 − 23)(e𝑥 + 1).
+L’équation 𝑓(𝑥) = 0 :
+a.
+c.
+
+admet 𝑥 = 1 comme solution
+admet 𝑥 = 7 comme solution
+
+b. admet deux solutions sur ℝ
+d. admet 𝑥 = 0 comme solution.
+
+Question 3
+Dans le plan rapporté à un repère orthonormé, le cercle de centre A(−4 ; 2) et de rayon
+𝑟 = √2 a pour équation :
+a.
+c.
+
+(𝑥 + 4)2 + (𝑦 − 2)2 = √2
+(𝑥 + 4)2 + (𝑦 − 2)2 = 2
+
+b. (𝑥 − 4)2 + (𝑦 − 2)2 = 4
+d. (𝑥 − 4)2 + (𝑦 + 2)2 = 2.
+
+Question 4
+Dans le plan rapporté à un repère orthonormé, on considère les vecteurs ⃗𝑢(𝑚 + 1 ; −1)
+et 𝑣 (𝑚 ; 2) où 𝑚 est un réel.
+Une valeur de 𝑚 pour laquelle les vecteurs ⃗𝑢 et 𝑣 sont orthogonaux est :
+
+a. 𝑚 = − 3
+c. 𝑚 = 2
+
+b.
+d.
+
+𝑚 = −2
+𝑚 = −1.
+
+Question 5
+Dans le plan rapporté à un repère orthonormé, une équation cartésienne de la droite D
+passant par le point A(−2 ; 5) et admettant pour vecteur normal ⃗𝑛(−1 ; 3) est :
+a. −𝑥 + 3𝑦 + 7 = 0
+c. −3𝑥 − 𝑦 − 1 = 0
+
+b.
+d.
+
+𝑥 − 3𝑦 + 17 = 0
+−𝑥 − 3𝑦 + 13 = 0.
+
+Exercice 2 (5 points)
+Une entreprise vend des téléviseurs. Une étude a montré que ces téléviseurs peuvent
+rencontrer deux types de défauts : un défaut sur la dalle, un défaut sur le condensateur.
+L’étude indique que :
+ 3% des téléviseurs présentent un défaut sur la dalle et que parmi ceux-ci, 2% ont
+également un défaut sur le condensateur.
+ 5% des téléviseurs ont un défaut sur le condensateur.
+On choisit un téléviseur au hasard et on considère les événements suivants :
+ 𝐷 : « le téléviseur a un défaut sur la dalle » ;
+ 𝐶 : « le téléviseur a un défaut sur le condensateur ».
+Pour tout événement 𝐸, on note 𝑝(𝐸) sa probabilité et 𝐸̅ l’événement contraire de 𝐸.
+Pour tout événement 𝐹 de probabilité non nulle, on note 𝑝𝐹 (𝐸) la probabilité de 𝐸
+sachant que 𝐹 est réalisé.
+Les résultats seront approchés si nécessaire à 10-4 près.
+1. Justifier que 𝑃(𝐷) = 0,03 puis donner 𝑃𝐷 (𝐶).
+2. Recopier l’arbre ci-dessous et compléter uniquement les pointillés par les
+probabilités associées :
+
+3. Calculer la probabilité 𝑝(𝐷 ∩ 𝐶) de l’événement 𝐷 ∩ 𝐶.
+4. Le téléviseur choisi a un défaut sur le condensateur. Quelle est alors la probabilité
+qu’il ait un défaut sur la dalle ?
+5. Montrer que la probabilité que le téléviseur choisi ait un défaut sur le condensateur
+et n’ait pas de défaut sur la dalle est égale à 0,0494.
+
+Exercice 3 (5 points)
+Dans le repère ci-dessous, on note Cf la courbe représentative d’une fonction 𝑓 définie
+sur l’intervalle [−10 ; 2].
+On a placé dans ce repère les points A(0 ; 2), B(2 ; 0) et C(−2 ; 0).
+On dispose des renseignements suivants :
+ Le point B appartient à la courbe Cf.
+ La droite (AC) est tangente en A à la courbe Cf.
+ La tangente à la courbe Cf au point d’abscisse 1 est une droite parallèle à l’axe des
+abscisses.
+
+1. Déterminer la valeur de 𝑓′(1).
+2. Donner une équation de la tangente à la courbe Cf au point A.
+On admet que cette fonction 𝑓 est définie sur [−10 ; 2] par 𝑓(𝑥) = (2 − 𝑥)e𝑥 .
+3. Montrer que pour tout réel 𝑥 appartenant à l’intervalle [−10 ; 2],
+𝑓 ′ (𝑥) = (−𝑥 + 1)e𝑥 .
+4. En déduire le tableau de variations de la fonction 𝑓 sur l’intervalle [−10 ; 2].
+5. Déterminer une équation de la tangente à la courbe Cf au point B.
+
+Exercice 4 (5 points)
+
+La médiathèque d’une petite ville a ouvert ses portes début janvier 2013 et a enregistré
+2 500 inscriptions pour l’année 2013.
+Elle estime que, chaque année, 80% des anciens inscrits renouvellent leur inscription
+l’année suivante et qu’il y aura également 400 nouveaux adhérents.
+Pour tout entier naturel 𝑛, on peut donc modéliser le nombre d’inscrits à la médiathèque
+𝑛 années après 2013 par une suite numérique (𝑎𝑛 ) définie par :
+𝑎0 = 2500 et 𝑎𝑛+1 = 0,8𝑎𝑛 + 400 .
+1. Calculer 𝑎1 et 𝑎2 .
+
+2. On pose, pour tout entier naturel 𝑛, 𝑣𝑛 = 𝑎𝑛 − 2000.
+a. Démontrer que (𝑣𝑛 ) est une suite géométrique de raison 0,8. Préciser son premier
+terme.
+b. Exprimer, pour tout entier naturel 𝑛, 𝑣𝑛 en fonction de 𝑛.
+c. En déduire que pour tout entier naturel 𝑛, 𝑎𝑛 = 500 × 0,8𝑛 + 2000.
+d. Déterminer le plus petit entier naturel 𝑛 tel que 𝑎𝑛 ≤ 2010. Interpréter ce résultat
+dans le contexte de l’exercice.

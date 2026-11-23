@@ -1,0 +1,190 @@
+{"pages": 6, "method": "pdftotext", "bytes": 485759, "at": "2026-11-23T08:57:29+00:00"}
+Mathématiques : PARTIE I.
+Automatismes (5 points) - Exercice 1
+Sans calculatrice
+
+Durée : 20 minutes
+
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions
+suivantes, une seule des quatre réponses proposées est exacte. Aucune justification
+n’est demandée. Une bonne réponse rapporte un demi-point. Une mauvaise
+réponse, plusieurs réponses ou l’absence de réponse ne rapportent ni n’enlèvent
+aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+1. Le prix d’une matière première a augmenté de 15 %. Ce prix a été multiplié par :
+a. 0,85
+
+b. 1,15
+
+c. 1,5
+
+d. 2,5
+
+2. Un bijou coûte 90 €. Après une réduction de 10 %, le prix est :
+a. 80 €
+
+b. 81 €
+
+c. 81,82 €
+
+d. 99 €
+
+3. Un objet qui coûte 150 € est soldé à 120 €. Le pourcentage de rabais est égal à :
+a. 2 %
+
+b. 12 %
+
+c. 20 %
+
+d. 30 %
+
+4. L’indice d’un prix passe de la valeur 100 à la valeur 120. Le prix a augmenté de :
+a. 1,20 %
+
+b. 2 %
+
+c. 20 %
+
+d. 120 %
+
+5. Le prix d’un objet augmente de 10 % puis diminue de 10 %. Après ces deux
+évolutions, le prix initial :
+a. a augmenté de 1 %
+
+b. a diminué de 1 %
+
+c. n’a pas changé
+
+d. a diminué de 20 %
+
+6. Les deux taux d’évolution réciproques l’un de l’autre sont :
+a. 30 % et – 30 %
+
+b. 25 % et – 20 %
+
+c. 150 % et – 50 %
+
+d. 60 % et – 40 %
+
+7. L’ensemble solution dans 𝐑 de l’équation 𝑥 2 = 16 est :
+a. S = { 4 }
+
+b. S = {− 4 ; 4 }
+
+c. S = { − 8 ; 8 }
+
+d. S = { 256 }
+
+c. 𝑥 ≥ −6
+
+d. 𝑥 ≤ −9
+
+8. L’inéquation 2 𝑥 + 3 ≥ 15 est équivalente à
+a. 𝑥 ≥ 6
+
+b. 𝑥 ≤ −6
+
+9. L’expression 𝐴(𝑥) = −3 𝑥 + 12 admet comme tableau de signes :
+
+a.
+
+b.
+
+−4
+− 0
+
++
+
+c.
+
+−4
++ 0
+
+−
+
+d.
+
+− 0 +
+
++ 0 −
+
+10. On considère une fonction 𝑓 dont le tableau de signes est le suivant :
+𝑓(𝑥)
+
+−1
++ 0
+
+− 0 +
+
+Une expression de 𝑓 peut être égale à :
+a. 𝑓(𝑥) = (𝑥 − 1) (𝑥 + 2)
+
+b. 𝑓(𝑥) = (𝑥 + 1) (𝑥 − 2)
+
+c. 𝑓(𝑥) = −2 (𝑥 − 1) (𝑥 + 2)
+
+d. 𝑓(𝑥) = −2 (𝑥 + 1) (𝑥 − 2)
+
+Mathématiques : PARTIE II.
+Calculatrice autorisée.
+Cette partie se compose de trois exercices indépendants.
+
+Exercice 2 : (5 points)
+Pour une croisière, un voyagiste loue des cabines individuelles.
+On modélise le nombre de cabines individuelles louées pour la croisière par la
+fonction 𝑓 définie sur l’intervalle [2 000 ; 9 000] par :
+𝑓(𝑥) = −0,02 𝑥 + 200
+où 𝑥 représente le prix, exprimé en euro, de la location d’une cabine individuelle.
+1. Dans cette question, le prix pour une cabine individuelle est de 2 500 euros.
+Calculer le nombre de clients réservant une cabine.
+2. Montrer que la recette du voyagiste pour cette croisière est donnée par la fonction
+𝑅 définie sur l’intervalle [2 000 ; 9 000] par :
+𝑅(𝑥) = −0,02 𝑥 2 + 200 𝑥
+3. On désigne par 𝑅′ la fonction dérivée de 𝑅 sur l’intervalle [2 000 ; 9 000].
+a. Calculer l’expression 𝑅 ′ (𝑥) de la fonction dérivée.
+b. Étudier le signe de 𝑅 ′ (𝑥) sur l’intervalle [2 000 ; 9 000].
+c. En déduire le tableau de variation de la fonction 𝑅 sur l’intervalle
+[2 000 ; 9 000].
+
+Exercice 3 : (5 points)
+Un importateur de maillots de bain souhaite lancer un nouveau produit pour la
+période estivale et s’intéresse donc au marché de l’offre et de la demande.
+Lorsque le maillot a un prix unitaire compris entre 9 € et 20 €, on obtient les courbes
+modélisant les courbes d’offre et de demande suivantes.
+
+Les réponses seront données avec la précision permise par le graphique.
+Aucune justification n’est demandée.
+1. Donner la valeur de l’offre du nombre de maillots de bain liée à un prix unitaire de
+13 €.
+2. Indiquer la différence entre la demande et l’offre du nombre de maillots pour un
+prix unitaire de 11 €.
+3. Donner l’intervalle de prix unitaire sur lequel la demande est supérieure à l’offre.
+4. Le point d’équilibre est obtenu quand l’offre et la demande sont égales.
+a. Indiquer dans ce cas le prix unitaire du maillot.
+b. Indiquer dans le nombre de maillots correspondant.
+
+Exercice 4 : (5 points)
+Un apiculteur a constaté, entre le 1er mars 2018 et le 1er mars 2019, que la
+population d’abeilles adultes de ses ruches a baissé de 8 % par an.
+Il estime que la population va baisser de la même façon les années suivantes.
+On étudie la population d’une ruche qui comptait 60 000 abeilles au 1er mars 2019.
+On désigne par 𝐴𝑛 le nombre d’abeilles de cette ruche le 1er mars de l’année (2019 +
+𝑛).
+Ainsi, 𝐴0 = 60 000.
+1. Calculer le nombre 𝐴1 d’abeilles le 1er mars 2020.
+2. On admet que la suite (𝐴𝑛 ) est géométrique. Déterminer sa raison.
+3. Préciser, en justifiant, le sens de variation de la suite (𝐴𝑛 ).
+4. On admet que, pour tout 𝑛 entier naturel, on a : 𝐴𝑛 = 60 000 × 0,92𝑛 .
+Calculer, en arrondissant à l’unité, le nombre d’abeilles estimé le 1er mars 2026.
+5. Une ruche, pouvant accueillir au plus 60 000 abeilles, produit du miel si au moins
+10 000 abeilles l’habitent
+Voici un programme écrit en langage Python.
+def miel():
+a = 60000
+n=0
+while a > 10000 :
+a = a*0.92
+n = n+1
+return n
+À la fin de l’exécution de ce programme, la variable n vaut 22.
+Interpréter cette valeur dans le contexte de cet exercice.

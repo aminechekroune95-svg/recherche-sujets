@@ -1,0 +1,179 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1391156, "at": "2026-11-23T08:58:26+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+1.
+
+2.
+
+Sans calculatrice
+
+Enoncé
+En arrivant dans sa classe, le professeur constate
+que 7 élèves sont absents : il compte 28 élèves
+présents.
+Quelle est la proportion d’élèves absents ?
+Si une valeur diminue de 14%, alors elle est
+multipliée par…
+
+Durée : 20 minutes
+Réponse
+
+Entre ……………. et 2018, le
+Smic horaire brut a
+augmenté de 2,2%.
+
+3.
+
+4.
+
+Calculer 3 − 2 × 5
+
+5.
+
+On considère l’expression
+𝐴(𝑥) = (2𝑥 − 5)(3 − 𝑥)
+définie sur l’ensemble ℝ des nombres réels.
+
+6.
+
+Le volume d’un cône à base circulaire est : 𝑉 =
+
+Développer et réduire
+𝐴(𝑥) :
+
+𝜋𝑅²ℎ
+
+Exprimer 𝑅 en fonction de 𝑉 et ℎ.
+7.
+8.
+
+On considère les points 𝐴 et 𝐵 de coordonnées
+𝐴(−4 ; 3) et 𝐵(−2 ; −1). Donner l’équation
+(𝐴𝐵).
+réduite
+de la droite
+On considère
+la droite
+∆ d’équation réduite : 𝑦 =
+
+𝐴(−3 ; … … . ) ∈ ∆
+
+−3𝑥 − 4
+Compléter :
+
+9.
+
+𝒞𝑓 est la courbe représentative d’une fonction 𝑓
+définie sur ℝ.
+
+−5 possède ……..
+antécédent(s).
+
+Compléter par lecture graphique :
+
+10.
+
+Les solutions de l’équation
+𝑓(𝑥) = 0 sont ………………………
+……………………………………………..
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur ℝ par :
+
+𝑓(𝑥) = 3 𝑥 3 − 6𝑥 2 + 5𝑥 + 2
+
+1. Calculer 𝑓’(𝑥) et montrer que l’on peut l’écrire sous la forme :
+𝑓 ′ (𝑥) = (2𝑥 − 5)(−1 + 2𝑥)
+2. a. Construire le tableau de signe de 𝑓 ′ (𝑥).
+b. En déduire le tableau de variation de la fonction 𝑓.
+3. La courbe 𝒞𝑓 représentant la fonction 𝑓 est tracée sur le graphique de l’annexe à rendre
+avec la copie.
+On considère la droite ∆ tangente à la courbe 𝒞𝑓 point d’abscisse 1,5.
+a. Déterminer l’équation réduite de ∆.
+b. Tracer ∆ sur le graphique de l’annexe à rendre avec la copie.
+
+Exercice 3 (5 points)
+Afin de se constituer un capital, Madame Martin souhaite placer un capital de 1 000 € sur un
+compte. Son banquier lui conseille la formule suivante :
+Placement à 2,2% par an, à intérêts composés, c’est-à-dire qu’à la fin de chaque année, les
+intérêts perçus s’ajoutent au capital, et génèrent eux-mêmes des intérêts les années
+suivantes.
+Dans cet exercice, si nécessaire, les valeurs seront arrondies à l’unité.
+On note 𝐶𝑛 le montant, en €, du capital accumulé au bout de 𝑛 mois.
+Ainsi 𝐶0 = 1 000.
+1. Calculer 𝐶1 et 𝐶2 .
+2. Donner, pour tout entier 𝑛, l’expression de 𝐶𝑛+1 en fonction de 𝐶𝑛 .
+3. En déduire la nature de la suite (𝐶𝑛 ).
+4. Calculer 𝐶7 . Que représente cette valeur pour Madame Martin ?
+5. Madame Martin souhaite savoir au bout de combien d’années il disposera de 1 300 € sur
+son compte.
+Recopier et compléter l’algorithme ci-contre
+(écrit dans le langage Python) pour que l’appel
+de la variable n, en fin d’exécution, réponde au
+problème posé.
+
+S = 1000
+C = 1000
+n = 0
+while … :
+n = n+1
+S = …
+C = …
+
+Exercice 4 (5 points)
+Dans un lycée de 450 élèves, le foyer a dénombré les lycéens utilisant la connexion wifi mise
+à leur disposition. Il en ressort que 72% élèves utilisent cette connexion, et parmi eux, 148
+filles. En revanche, 20% des garçons affirment ne pas l’utiliser.
+
+1. À l’aide des données précédentes, compléter le tableau croisé d’effectifs donné en
+annexe, à rendre avec la copie.
+2. On prélève au hasard une fiche dans le fichier des élèves du lycée. On admettra que
+toutes les fiches ont la même probabilité d’être prélevées. On note :
+
+G l’évènement : « la fiche prélevée est celle d’un garçon » ;
+
+W l’évènement : « la fiche prélevée est celle d’un élève utilisant la connexion wifi ».
+Si nécessaire, les résultats seront arrondis à 10−2 près.
+a. Calculer la probabilité de prélever la fiche d’un garçon.
+b. Montrer que la probabilité de prélever la fiche d’un garçon utilisant la connexion wifi est
+égale à 0,39.
+c. Calculer la probabilité de prélever la fiche d’un élève n’utilisant pas la connexion wifi,
+sachant que cet élève est une fille.
+d. Calculer la probabilité 𝑃𝑊 (𝐺) et interpréter le résultat.
+
+Annexe à rendre avec la copie
+Exercice 2
+
+Exercice 4
+Filles
+
+Garçons
+
+Total
+
+Utilisent la connexion wifi
+N’utilisent pas la connexion wifi
+Total

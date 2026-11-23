@@ -1,0 +1,228 @@
+{"pages": 9, "method": "pdftotext", "bytes": 723276, "at": "2026-11-23T08:55:29+00:00"}
+ÉVALUATIONSCOMMUNES
+CLASSE :Terminale
+EC : ☐EC1☐ EC2☒EC3
+VOIE :☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+Sans calculatrice
+Durée : 20 minutes
+Pour chacune des questions suivantes, déterminer la bonne réponse.
+Enoncé
+
+Après une baisse de 10%, un article coûte 180€.
+L’ancien prix est :
+a. 170 €
+b.190€
+c. 198€
+d. 200€
+51,5
+est égal à :
+
+est égal à :
+a. 50,75
+
+b. 5−3
+
+c.
+
+5−0,5 d. 50,5
+
+On donne les points 𝐴(0 ; − 5) et 𝐵(− 3 ; 2).
+Le coefficient directeur de la droite (𝐴𝐵) est égal à :
+a. 
+b. 
+c. 1 d. −1
+La fonction f définie par sur ℝ par f(x) = 2×0,75x est :
+a. croissante sur ℝ
+b. décroissante sur ℝ
+c. constante sur ℝ
+Soit la fonction 𝑔 définie sur ]0; +∞[ par
+𝑔(𝑥) = −3 + .
+𝑥
+lim 𝑔(𝑥) est égale à :
+a. − 3
+
+Réponse
+
+𝑥→+∞
+
+b. − ∞
+
+c.
+
+d. +∞
+
+A et B sont deux événements tels que P(A ∩ B) =
+
+et
+
+Pour que A et B soient indépendants, P(B) doit prendre
+la valeur :
+a.
+b.
+c. 1 d.
+P(A) =
+
+Enoncé
+
+Réponse
+
+La suite géométrique (𝑣𝑛 ) de premier terme 𝑣1 = 10 et
+de raison 𝑞 = 0,3 a pour terme général, pour tout entier
+𝑛≥1
+a. 𝑣𝑛 = 0,3 × 10𝑛
+b. 𝑣𝑛 = 10 × 0,3𝑛
+c. 𝑣𝑛 = 10 × 0,3𝑛−1
+d. 𝑣𝑛 = 0,3 × 10𝑛−1
+
+La somme S =  ui = u0 + u1 + …+ u7 compte :
+i 0
+
+a. 3 termes
+c. 7 termes
+
+b. 4 termes
+d. 8 termes
+
+La valeur que l’on doit donner à 𝑥 pour que les nombres
+14, 𝑥 et 56 soient les termes consécutifs d’une suite
+arithmétique est :
+a. 4
+b. 28
+c. 35
+d. 224
+Voici une fonction écrite en langage Python.
+
+Que renvoie l’appel terme(6) ?
+a. – 13
+b. – 16
+c. – 19
+
+d. – 22
+
+PARTIE II
+Calculatrice autorisée
+Durée : 1h30
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Depuis son inscription au patrimoine mondial de l’Unesco le 2 juillet 2018, la chaîne
+des Puys attire des visiteurs de plus en plus nombreux.
+Le 20 août 2020, un groupe de touristes a participé à une excursion sur le site avec
+ascension au sommet du Puy de Dôme, soit à pied par le sentier des muletiers, soit
+en train panoramique, suivie d’une entrée soit à Vulcania (parc d’attraction autour du
+volcanisme), soit à Lemptégy (exploration des entrailles d’un volcan).
+On choisit au hasard un touriste de ce groupe et on note :
+M : « le touriste est monté au sommet du Puy de Dôme à pied »
+T : « le touriste est monté au sommet du Puy de Dôme en train »
+V : « le touriste a pris une entrée à Vulcania »
+L : « le touriste a pris une entrée à Lemptégy »
+1. Recopier et compléter l’arbre pondéré en précisant les probabilités P(T), P M(L)
+et PT(V)
+V
+0,45
+M
+0,4
+L
+V
+T
+0,25
+
+L
+
+2. Vérifier que la probabilité que le touriste ait pris une entrée à Vulcania est
+P(V) = 0,63.
+3. Déterminer la probabilité que le touriste soit monté en train au sommet du Puy
+de Dôme sachant qu’il a pris une entrée à Lemptégy. On donnera d’abord la
+valeur exacte puis on arrondira au millième.
+
+4. Le prix du ticket de train est fixé à 11,5 €, l’entrée à Lemptégy à 12 € et
+l’entrée à Vulcania à 25 €.
+a. Recopier et compléter le tableau suivant donnant la loi de probabilité de la
+dépense en euros d’un participant à cette excursion.
+Dépense
+Probabilité
+
+0,22
+
+23,5
+
+36,5
+0,45
+
+b. Calculer la dépense moyenne par participant en euros.
+Exercice 3 (5 points)
+Dans le but de développer une commercialisation raisonnée en utilisant les circuits
+courts, la mairie d’une petite commune a regroupé les producteurs locaux favorables
+au projet et mis en place une distribution hebdomadaire centralisée. Chaque
+semaine, les habitants peuvent passer leur commande jusqu’au mardi 18h et la
+retirer le vendredi de 18h à 20h à la mairie.
+Le tableau suivant indique le nombre de commandes passées les premières
+semaines.
+Rang de la semaine xi
+
+Nombre de commandes yi
+
+Le nuage de points de coordonnées (xi ; yi) pour i variant de 1 à 6 est représenté
+dans le repère orthogonal ci-dessous.
+
+1. On pose zi = log yi.
+a. Compléter le tableau de valeurs donné en annexe, en arrondissant à 10 -2
+près.
+b. Représenter dans le repère orthogonal donné en annexe le nuage de
+points de coordonnées (xi ;zi).
+2. a. A l’aide de la calculatrice, déterminer une équation de la droite
+d’ajustement de z en x par la méthode des moindres carrés. On arrondira 10-2
+près.
+b. Tracer la droite dans le repère précédent.
+c. En déduire une estimation du nombre de commandes passées la 7 e
+semaine.
+Exercice 4 (5 points)
+Un restaurateur prépare chaque jour 𝑥 repas avec x compris entre 5 et 50.
+Le coût total quotidien de préparation de x repas est, en euros :
+𝐶(𝑥) = 3 𝑥 ² − 110 𝑥 + 1200.
+Chaque repas préparé est vendu au prix de 40€.
+1. Vérifier que le bénéfice dégagé chaque jour par le restaurateur, pour 𝑥 repas
+préparés et vendus, est : 𝐵(𝑥) = − 3 𝑥 ² + 150 𝑥 − 1200.
+2. a. Calculer la dérivée 𝐵’(𝑥) et étudier son signe sur [5 ; 50].
+b. En déduire le nombre de repas à préparer et à vendre chaque jour pour que
+le bénéfice soit maximal. Préciser ce bénéfice maximal.
+3. Le coût moyen unitaire de préparation de 𝑥 repas compris entre 5 et 50,
+C( x)
+1200
+ 3x  110 
+exprimé en euros, est donné par 𝑓(𝑥) =
+a. Calculer 𝑓 ‘(𝑥) et vérifier que pour tout 𝑥 de [5 ; 50],
+3( x  20)( x  20)
+𝑓 ‘ (𝑥) =
+b. Etudier le signe de 𝑓 ’(𝑥) et dresser le tableau de variation de 𝑓 sur [5 ; 50].
+c. En déduire déterminer le nombre de repas qui donne le coût moyen unitaire
+minimal et préciser ce coût.
+
+Annexe à rendre avec la copie
+Exercice 3
+1. a.
+xi
+zi
+
+1,08
+
+1,18
+
+1,30
+
+1. b.

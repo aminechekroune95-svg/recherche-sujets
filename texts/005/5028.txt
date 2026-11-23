@@ -1,0 +1,164 @@
+{"pages": 6, "method": "pdftotext", "bytes": 961216, "at": "2026-11-23T08:59:29+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+
+Question 1
+L’inéquation 𝑒 −2𝑥 > 0 d’inconnue 𝑥 a pour ensemble de solutions :
+b) ]0; +∞[
+
+a) ℝ
+
+c) ] − ∞; 0[
+
+d) ∅
+
+Question 2
+Pour tout réel 𝑥, (𝑒 𝑥 − 1)2 est égal à :
+a)
+
+𝑒
+
+2𝑥
+
+−1
+
+b)
+
+𝑒
+
+2𝑥
+
++1
+
+c) 𝑒 2𝑥 −
+2𝑒 𝑥 + 1
+
+d)
+
+𝑒 (𝑥 ) −
+
+Question 3
+Soit 𝑓 la fonction définie sur ℝ par : 𝑓(𝑥) = 𝑒 5𝑥−1 . Pour tout réel 𝑥, 𝑓′(𝑥) est égal à :
+a)
+
+𝑒 5𝑥−1
+
+b)
+
+5𝑒 5𝑥
+
+c) 5𝑒 5𝑥−1
+
+d) 5𝑥𝑒 5𝑥−1
+
+Question 4
+Dans un repère orthonormé, la droite passant par A(4 ; 7) et de vecteur normal
+−1
+⃗𝑛 ( ) a pour équation :
+a) 3𝑥 + 𝑦 − 19 = 0
+
+b) 3𝑥 + 𝑦 + 19 = 0
+
+c) −𝑥 + 3𝑦 + 17 = 0
+
+d) −𝑥 + 3𝑦 − 17 = 0
+
+Question 5
+Le plan est muni d’un repère orthonormé.
+On considère l’équation de cercle 𝑥 2 − 4𝑥 + (𝑦 + 3)2 = 3. Son centre a pour coordonnées :
+a. (−2; −3)
+
+b. (2; −3)
+
+c. (−4; 3)
+
+d. (4; −3)
+
+Exercice 2 (5 points)
+Une chaîne de salons de coiffure propose à ses clients qui viennent pour une coupe
+deux prestations supplémentaires cumulables :
+- une coloration naturelle à base de plantes appelée « couleur-soin »,
+- des mèches blondes pour donner du relief à la chevelure, appelées « effet
+coup de soleil ».
+Il apparaît que 40 % des clients demandent une « couleur-soin ». Parmi ceux qui ne
+veulent pas de « couleur soin », 30 % des clients demandent un « effet coup de
+soleil ». Par ailleurs, 24 % des clients demandent une « couleur soin » et un « effet
+coup de soleil ».
+On interroge un client au hasard.
+On notera C l’évènement « Le client souhaite une "couleur-soin." ».
+On notera E l’évènement « Le client souhaite un "effet coup de soleil." ».
+
+1. Donner les valeurs de P(C), P( C ∩E) et 𝑃̅C (E).
+2. Calculer la probabilité que le client ne souhaite ni une « couleur-soin », ni un «
+effet coup de soleil ».
+3. Montrer que la probabilité de l’évènement E est égale à 0,42.
+4. Les évènements C et E sont-ils indépendants ?
+
+Exercice 3 (5 points)
+Partie A
+Soit (𝑢𝑛 ) une suite géométrique de raison 2 de premier terme 𝑢0 = 0,2 .
+1) Calculer 𝑢18 puis 𝑢50 .
+2) Calculer 𝑢0 + 𝑢1 + 𝑢2 + 𝑢3 + 𝑢4 + ⋯ . . +𝑢18 , c’est-à-dire la somme des 19
+premiers termes de la suite (𝑢𝑛 )
+3) Recopier et compléter les trois parties en pointillé de l’algorithme suivant
+permettant de déterminer le plus petit entier 𝑛 tel que la somme des 𝑛 + 1
+premiers termes de la suite 𝑢 dépasse 100 000.
+
+𝑈 ← 0,2
+𝑆 ← 0,2
+𝑁 ←0
+Tant que ……………………….
+𝑈 ←……….
+𝑆 ← ……….
+𝑁 ←𝑁+1
+Fin tant que
+Afficher 𝑁
+
+Partie B
+Claude a donné 20 centimes d’euros (soit 0,20 €) à son petit-enfant Camille pour sa
+naissance. Ensuite, Claude a doublé le montant offert d’une année sur l’autre pour
+chaque anniversaire jusqu’aux 18 ans de Camille.
+La somme totale versée par Claude à Camille permet-elle de payer un appartement à
+Angers d’une valeur de 100 000 € ?
+
+Exercice 4 (5 points)
+Sur le dessin ci-dessous, la largeur du but est de : AB = 7,32 mètres.
+Les points A, B et D sont alignés.
+On appelle T le point où se trouve un ballon. Le triangle TAD est rectangle en D.
+
+1. Pourquoi ⃗⃗⃗⃗⃗
+TD. ⃗⃗⃗⃗⃗
+DB = 0 ?
+2. Démontrer que ⃗⃗⃗⃗⃗
+TA. ⃗⃗⃗⃗⃗
+TB = 470,88.
+3. Déterminer une valeur approchée, au dixième de degré près, de l'angle de tir, c'est̂.
+à-dire de l’angle ATB

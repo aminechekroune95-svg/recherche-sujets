@@ -1,0 +1,173 @@
+{"pages": 5, "method": "pdftotext", "bytes": 364326, "at": "2026-11-23T08:55:35+00:00"}
+ÉVALUATIONS COMMUNES
+
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Partie I
+Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+2)
+
+3)
+
+Réponse
+
+Résoudre dans ℝ, l'équation suivante : 𝑥 2 = 3.
+
+– 3 (2𝑥 + 5)2 =
+
+Développer puis réduire : – 3 (2𝑥 + 5)².
+
+𝑥 (𝑥 – 2) + 𝑥 2 =
+
+Factoriser 𝑥(𝑥 – 2) + 𝑥 .
+On donne la formule ∶
+
+4)
+
+T=
+
+Vf − Vi
+Vi
+
+Vf =
+
+Exprimer Vf en fonction de T et Vi
+Un élève a eu 2 contrôles. Sa première note est 15 et sa
+5)
+
+moyenne est 13,5. Quelle est sa seconde note ?
+Soit 𝑓 la fonction définie sur ℝ par 𝒇(𝒙) = 𝟑𝒙𝟐 + 𝟒.
+
+6)
+
+𝑓 (– 2) =
+
+Calculer 𝒇(– 𝟐).
+
+𝑓 ′ (𝑥) =
+
+Calculer la dérivée 𝑓′ de la fonction 𝑓 définie sur ℝ par :
+7)
+
+𝑓(𝑥) = 2𝑥 3 − 4𝑥 2 + 5𝑥 − 2.
+Déterminer l'équation réduite de la droite passant par les
+
+8)
+
+points A (4 ; 1) et B (−2 ; −17).
+Un prix passe de 160 euros à 200 euros.
+
+9)
+
+10)
+
+Calculer le taux d’évolution de ce prix en pourcentage.
+L’audience d’une émission baisse de 20%.
+Déterminer le pourcentage d’augmentation à appliquer pour
+ramener cette audience à sa valeur initiale.
+
+Partie II
+La calculatrice est autorisée. Cette partie est composée de trois exercices indépendants.
+
+Exercice 1 (5 points)
+Un industriel étudie l'évolution de la production de jouets par une machine de son entreprise.
+Durant l’année 2010, année de son achat, cette machine a pu produire 120 000 jouets. À cause de
+l'usure, la production de cette machine diminue chaque année de 2%.
+On modélise la production annuelle de jouets de cette machine par une suite (𝑢𝑛 ) de la façon
+suivante. Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre de jouets produits par cette machine
+au cours de l'année (2010 + 𝑛). Ainsi 𝑢0 = 120 000.
+1. Calculer 𝑢1 le nombre de jouets produits par cette machine en 2011.
+2. Prouver que la suite (𝑢𝑛 ) est une suite géométrique. Préciser sa raison.
+On admet que 𝑢𝑛 = 120 000 × 0,98𝑛 , pour tout entier naturel 𝑛.
+3. Calculer la production totale de jouets durant les 10 premières années de production de la
+machine. (Arrondir à l'unité).
+Dans l’annexe à rendre avec la copie, on a commencé l’écriture, en langage Python, d’une fonction
+permettant de déterminer, pour une valeur de A donnée, le rang 𝑛 à partir duquel 𝑢𝑛 < A.
+4. Compléter la fonction Python dans l’annexe à rendre avec la copie.
+5. Pour des raisons de rentabilité, la machine doit produire plus de 90 000 jouets par an.
+Déterminer en quelle année le changement de machine sera nécessaire.
+
+Exercice 2 (5 points)
+Une maladie touche 2% de la population mondiale. Un laboratoire pharmaceutique conçoit un
+test pour diagnostiquer cette maladie. Différentes études sur la fiabilité du test, donne les
+résultats suivants :
+
+Pratiqué sur une personne malade, le test est positif dans 95% des cas ;
+
+Pratiqué sur une personne non malade, le test est positif dans 4 % des cas.
+
+On choisit une personne au hasard dans la population. On note
+
+M l’événement : « la personne est malade »
+T l’événement : « le test est positif ».
+
+Si nécessaire, les résultats des calculs seront arrondis à 10-3.
+1. À l’aide des informations de l’énoncé, donner les probabilités : P(M) et PM
+̅ (T).
+2. Montrer que P(T) = 0,058.
+3. Les événements M et T sont-ils indépendants ? Justifier votre réponse.
+Un service hospitalier de dépistage effectue 130 tests par jour. On admet que la probabilité qu’un
+test soit positif est égal à 0,06.
+Soit X la variable aléatoire égale au nombre de tests positifs par jour. On admet que X suit une
+loi binomiale.
+4. Donner les paramètres de cette loi.
+5. Calculer l’espérance de X et interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Une entreprise produit chaque jour un volume de graviers compris entre 3 et 30 𝑚3 .
+On note 𝑥 le volume de gravier fabriqué, exprimé en 𝑚3 .
+Le coût moyen de production de ce gravier est modélisé par une fonction 𝑓 définie sur l'intervalle
+[3 ; 30] par :
+
+𝑓 (𝑥 ) = 𝑥 – 2 +
+
+𝑥
+
+1. Calculer 𝑓(10).
+2. Montrer que l’expression de la fonction 𝑓 ′ dérivée de la fonction 𝑓, est :
+
+𝑥 2 − 225
+𝑥2
+3. Sachant que 𝑥 2 − 225 = (𝑥 − 15)(𝑥 + 15), établir le signe de 𝑓 ′ (𝑥) sur [3 ; 30].
+𝑓′(𝑥) =
+
+4. En déduire les variations de la fonction 𝑓 sur l'intervalle [3 ; 30]. Compléter le tableau
+de variation donné dans l’annexe à rendre avec la copie.
+5. Pour quel volume de gravier le coût moyen de production est-il minimal ? Quel est ce coût
+moyen minimal ?
+
+Annexe à rendre avec la copie
+Exercice 1 : Question 4.
+def production(A) :
+n=0
+u = 120 000
+while u >= ............... :
+n = n+1
+u = …............
+return (.....)
+
+Exercice 3 : Question 4.
+𝑥
+
+Signe de 𝑓 ′ (𝑥)
+
+Variations de 𝑓

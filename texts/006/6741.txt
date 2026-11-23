@@ -1,0 +1,127 @@
+{"pages": 5, "method": "pdftotext", "bytes": 869868, "at": "2026-11-23T08:58:11+00:00"}
+PARTIE I - Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Répondre aux 10 questions dans la colonne de droite du tableau.
+Énoncé
+1)
+
+Convertir 33,02 kilomètres en mètres.
+
+2)
+
+Convertir 5200 cm3 en dm3 .
+
+3)
+
+Compléter l’égalité.
+
+4)
+
+Compléter avec un symbole d’inégalité < ou > .
+
+5)
+
+Calculer +
+
+6)
+
+Calculer l’ordonnée du point d’abscisse 10
+appartenant à la droite d’équation 𝑦 = 3𝑥 − 14.
+
+0,015 = ⋯ × 10−2
+…
+
+.
+
+Cet histogramme donne les répartitions par tranches
+d’âges des habitants d’un quartier.
+On sait que 30 habitants ont plus de 80 ans.
+Le nombre d’habitants du
+quartier ayant moins de 20 ans
+est :
+
+7)
+
+Pour les trois questions suivantes, on considère la fonction 𝑓 définie sur l’intervalle [ −6 ; 6 ]
+dont la représentation graphique est donnée ci-dessous.
+
+8)
+
+Le nombre de solutions sur
+l’intervalle [ −6 ; 6 ] de
+l’équation 𝑓(𝑥) = 1 est :
+
+9)
+
+L’image de 4 par la fonction 𝑓 est :
+
+10)
+
+Compléter le tableau de variation
+de 𝑓 sur l’intervalle [−6 ; 6].
+
+PARTIE II
+Cette partie se compose de trois exercices indépendants.
+Calculatrice autorisée
+Exercice 2 : (5 points)
+On considère la fonction du second degré 𝑓 définie sur R dont la représentation graphique
+est donnée ci-dessous dans un repère.
+
+Par lecture graphique, répondre aux questions suivantes.
+1. Résoudre dans R l’équation 𝑓(𝑥) = 0 .
+2. Dresser le tableau de signes de 𝑓(𝑥) sur R .
+3. Donner une équation de l’axe de symétrie de la courbe représentative de la
+fonction 𝑓.
+4. Dresser le tableau de variations de la fonction 𝑓.
+5. Résoudre dans R l’inéquation 𝑓(𝑥) ≥ 28.
+
+Exercice 3 : (5 points)
+On considère la fonction 𝑔
+définie sur R par
+𝑔(𝑥) = 𝑥 3 − 6𝑥 2 + 5.
+
+On a tracé ci-contre une partie
+de la représentation graphique
+de la fonction 𝑔 ainsi que la
+tangente à cette courbe au
+point d’abscisse 0.
+
+1. Déterminer graphiquement le nombre dérivé de la fonction g en 0.
+2. Déterminer, pour tout réel 𝑥, 𝑔′(𝑥) où 𝑔′ désigne la fonction dérivée de 𝑔.
+3. On admet que pour tout réel 𝑥, on a 𝑔′ (𝑥) = 3𝑥(𝑥 − 4) .
+Dresser le tableau de signes sur R de la fonction 𝑔′.
+4. En déduire le tableau de variations de la fonction 𝑔.
+5. On considère l’algorithme suivant :
+𝑥 = −1
+while 𝑥 3 − 6𝑥 2 + 5 > −10 :
+𝑥 = 𝑥 + 0,01
+Après exécution de cet algorithme, 𝑥 vaut 1,92.
+Interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 4 : (5 points)
+Dans une maternité, on estime qu’à la naissance, la probabilité qu’un enfant soit une fille est
+égale à 0,51 .
+On choisit de manière indépendante trois enfants nés dans cette maternité.
+On note 𝑋 la variable aléatoire qui prend pour valeur le nombre de filles parmi ces trois
+enfants.
+1.
+2.
+3.
+4.
+
+Représenter l’expérience aléatoire à l’aide d’un arbre de probabilité.
+Calculer la probabilité qu’exactement deux enfants soient des filles.
+Décrire l’événement {𝑋 = 0} puis calculer sa probabilité.
+Recopier sur la copie et compléter le tableau suivant donnant la loi de probabilité
+de 𝑋.
+
+𝑥
+
+𝑃({𝑋 = 𝑥})
+5. Calculer l’espérance de cette variable aléatoire.
+Interpréter ce résultat dans le contexte de l’exercice.

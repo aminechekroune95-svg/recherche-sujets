@@ -1,0 +1,151 @@
+{"pages": 6, "method": "pdftotext", "bytes": 676143, "at": "2026-11-23T08:57:37+00:00"}
+Mathématiques : PARTIE I
+Calculatrice interdite
+Durée 20 minutes
+Exercice 1 : automatismes (5 points)
+Enoncé
+
+1.
+
+Écrire, sous forme de fraction irréductible, le nombre 4 − 2.
+
+2.
+
+Écrire, sous forme de fraction irréductible, le nombre 32 × 5.
+
+3.
+
+Résoudre, dans R, l’équation 2𝑥 = 4 .
+
+4.
+
+Donner un ordre de grandeur du nombre 49987 × 0,002.
+
+5.
+
+Convertir 10 km.s-1 en m.s-1 .
+
+6.
+
+Exprimer 𝑥 × (𝑥 3 )4 sous la forme 𝑥 𝑛 où 𝑛 est un entier naturel.
+
+7.
+
+Ecrire 45 × 26 sous la forme d’une seule puissance de 2.
+
+8.
+
+Sachant que 𝑚 = 𝑛 , exprimer 𝑛 en fonction de 𝑚 et 𝑀.
+
+9.
+
+Développer et simplifier l’expression 𝑥 − 2(𝑥 + 3).
+
+10.
+
+Factoriser 2𝑥 2 + 𝑥.
+
+𝑀
+
+Réponse
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie est composée de 3 exercices indépendants.
+Exercice 2 : (5 points)
+La croissance de l’algue "Botryococcus braunii" a été étudiée en laboratoire.
+On modélise le volume d’algues (exprimé en mètre cube) en fonction de l’instant 𝑡
+(exprimé en jour) par une fonction 𝑉.
+On a représenté, en annexe, la courbe (C) représentative de la fonction 𝑉 ainsi que
+la tangente (T) à la courbe (C) au point d’abscisse 8.
+À l’instant 𝑡, le nombre 𝑉’(𝑡) représente la vitesse instantanée de croissance de
+l’algue, exprimée en mètre cube par jour.
+1. Avec la précision permise par le graphique donné en annexe, déterminer :
+a. le volume d’algues à 𝑡 = 8 ;
+b. la vitesse instantanée de croissance à 𝑡 = 8.
+La fonction 𝑉, modélisant le volume d’algues, a pour expression :
+𝑉(𝑡) = −0,03 𝑡 3 + 1,8 𝑡 2 pour 𝑡 ∈ [0 ; 36]
+2. Justifier que, pour 𝑡 ∈ [0 ; 36], on a :
+𝑉 ′ (𝑡) = −0,09𝑡(𝑡 − 40)
+3. Etudier le signe de 𝑉’(𝑡) sur l’intervalle [0 ; 36]
+En déduire les variations de la fonction 𝑉 sur [0 ; 36].
+4. Déterminer l’équation réduite de la tangente à la courbe (C) au point d’abscisse
+20.
+Interpréter le coefficient directeur de cette droite dans la cadre de l’énoncé.
+
+Exercice 3 : (5 points)
+Le pin parasol est un arbre pouvant atteindre 30 mètres de hauteur et ayant une
+espérance de vie de 250 ans.
+Afin de modéliser son évolution, on mesure la hauteur d’un arbre régulièrement.
+Dans ses premières années, la hauteur du pin semble suivre une progression
+arithmétique.
+On modélise la hauteur du pin en mètres à la fin de l’année 𝑛 par la suite
+arithmétique (ℎ𝑛 ) de premier terme ℎ1 = 0,2 et de raison 𝑟 = 0,25.
+1. Selon ce modèle, quelle serait la hauteur de ce pin après deux ans ? Après trois
+ans ?
+2. Selon ce modèle, au bout de combien d’années le pin dépassera-t-il 2 mètres de
+hauteur ?
+Après 35 ans, la hauteur du pin est inférieure à l’estimation prévue par le modèle
+précédent. Le pin mesure alors 8,1 mètres de haut.
+3. Quel pourcentage de sa hauteur maximale (30 mètres) a-t-il atteint après 35 ans ?
+4. Après 35 ans, l’écart entre la hauteur du pin et sa hauteur maximale est de 19,9
+mètres. Cet écart diminue de 2% l’année suivante.
+a. Quel est l’écart entre la hauteur du pin et sa hauteur maximale après 36 ans ?
+b. Quelle est la hauteur du pin après 36 ans ?
+
+Exercice 4 : (5 points)
+Dans cet exercice, tous les résultats seront arrondis à 𝟏𝟎−𝟒 .
+Une entreprise produit des lentilles optiques dont la précision est contrôlée par un
+capteur.
+Chaque lentille est soit conforme soit non conforme à la norme de fabrication.
+Le contrôle valide ou invalide la qualité de chaque lentille.
+ 9 % des lentilles sont non conformes.
+ Toutes les lentilles conformes sont validées à la suite du contrôle.
+ Parmi les lentilles non conformes, 90 % sont invalidées par le contrôle.
+On considère un lot de 1 000 lentilles.
+1. Compléter le tableau donné en annexe, à rendre avec la copie.
+2. On considère le tableau ci-dessous :
+Lentille
+
+conforme
+
+non conforme et
+validée
+
+invalidée
+
+Gain ou perte
+gain de 8 €
+perte de 10 €
+pour l’entreprise
+Quel est le gain réalisé sur le lot des 1000 lentilles ?
+
+perte de 18 €
+
+3. On choisit aléatoirement une lentille du lot. Chaque lentille a la même probabilité
+d’être choisie.
+On considère les événements suivants :
+ 𝑆 : « La lentille choisie est conforme »
+ 𝐴 : « La lentille choisie est validée par le contrôle »
+a. Déterminer la probabilité que la lentille ne soit pas conforme.
+b. Quelle est la probabilité que la lentille choisie soit validée par le contrôle et soit
+conforme ?
+c. Calculer la probabilité p𝐴 (𝑆̅).
+
+Annexe
+À rendre avec la copie
+Exercice 2
+
+Exercice 4 – Question 1
+Conformes
+
+Non conformes
+
+Total
+
+Validées
+Invalidées
+
+Total
+
+1 000

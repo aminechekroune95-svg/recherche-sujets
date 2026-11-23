@@ -1,0 +1,198 @@
+{"pages": 6, "method": "pdftotext", "bytes": 726226, "at": "2026-11-23T08:53:18+00:00"}
+ÉVALUATIONS
+
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages :6
+
+PARTIE I : Automatismes (5 points)
+
+PARTIE I : Automatismes (5 points)
+Calculatrice interdite
+
+1)
+
+Enoncé
+Une augmentation de 20% suivie d’une
+réduction de 20% est équivalente
+à multiplier la valeur initiale par :
+
+𝑓 (𝑥) = 𝑥 2 + 3𝑥 + 1 sur ℝ.
+2)
+Calculer 𝑓’ la dérivée de 𝑓 :
+Vf − Vi
+Vi
+3)
+Exprimer Vf en fonction de T et Vi
+On donne la formule : T =
+
+4)
+
+Durée : 20 minutes
+
+Ecrire le nombre ci-contre sous la forme
+d’une seule puissance de 7.
+
+Réponse
+
+𝑓’(𝑥) =
+
+Vf =
+
+73 × 7−5
+=
+
+𝑓 (𝑥) = 2(𝑥 − 1)(𝑥 + 3) sur ℝ .
+5)
+
+Vrai ou faux :
+La fonction 𝑓 est positive sur [−3; 1] :
+La fonction ℎ définie sur ℝ est
+représentée ci-dessous.
+
+6)
+
+Résoudre l’inéquation ℎ(𝑥) ≥ 3
+
+𝑓 (𝑥) = −2𝑥 2 + 5𝑥 + 3 sur ℝ
+7)
+
+8)
+
+Vrai ou faux :
+Le point P (1 ; 4) appartient à la
+courbe 𝐶𝑓 .
+
+Donner le tableau de signe de
+
+𝑔(𝑥) = −3𝑥 + 2
+
+On donne ci-contre le début du tableau
+9)
+
+de variation d’une fonction 𝑓 définie et
+dérivable sur ℝ. Compléter ce tableau :
+
+On donne le diagramme en boîte
+suivant :
+
+Signe de
+𝑓’(𝑥)
+
+−∞
+
+−5
+… 0
+
++
+
++∞
+
+−
+
+Variations
+de 𝑓
+
+La valeur du 3e quartile est :
+𝑄3 =
+
+10)
+
+PARTIE II
+La calculatrice est autorisée. Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 1 (5 points)
+Une entreprise place un capital de 10 000 € à intérêts simples au taux annuel de 1,5 %. Cela
+signifie que, chaque année, le montant des intérêts est égal à 1.5% du capital placé initialement.
+On note 𝐶𝑛 le capital acquis au bout de 𝑛 années, pour 𝑛 entier naturel. Ainsi 𝐶0 = 10 000 .
+1. Calculer 𝐶1 et 𝐶2
+2. Déterminer la nature de la suite (𝐶𝑛 ).
+3. Exprimer le terme général 𝐶𝑛 en fonction de 𝑛.
+4. Déterminer le montant du capital après 7 ans de placement.
+5. Compléter la fonction Python donnée en annexe à rendre avec la copie afin que
+l’exécution de cette fonction affiche, pour une valeur donnée de 𝑘, les 𝑘 premiers termes
+de la suite (𝐶𝑛 ).
+
+EXERCICE 2 (5 points)
+Un artisan bijoutier qui fabrique des bracelets fait une étude de coût pour une production
+comprise entre 5 et 40 objets. Le coût total, en euro, de la production de 𝑥 bracelets est donné
+par la formule ∶
+
+𝐶 (𝑥) = 𝑥 2 + 50𝑥 + 100 pour 𝑥 ∈ [5 ; 40]
+Pour une production de 𝑥 bracelets, le coût moyen de production d’un bracelet est alors donné
+par la formule :
+
+𝐶𝑚 (𝑥) =
+
+𝐶(𝑥)
+
+pour 𝑥 ∈ [5 ; 40]
+
+1. Calculer le coût total de la production de 10 bracelets puis le coût moyen de production
+d’un bracelet pour cette production de 10 bracelets.
+On pose 𝑓(𝑥) = 𝑥 + 50 +
+
+pour 𝑥 appartenant à [5 ; 40].
+
+2. Calculer 𝑓 ′ (𝑥)
+3. Prouver que
+𝑓 ′ (𝑥) =
+
+(𝑥 − 10)(𝑥 + 10)
+𝑥²
+
+4. Étudier le signe de 𝑓 ′ (𝑥) et dresser le tableau de variation de f.
+5. Déterminer le nombre de bracelets à fabriquer pour que le coût moyen de production
+d’un bracelet soit minimal.
+
+EXERCICE 3 (5 points)
+Une petite commune rurale a vu sa population augmenter fortement en quelques années.
+Le tableau suivant donne l’évolution du nombre d’habitants sur la période considérée.
+Année
+Rang de
+l’année : 𝑥𝑖
+Nombre
+d’habitants 𝑦𝑖
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+
+2019
+
+2020
+
+1 060
+
+1 170
+
+1. Calculer le taux d’évolution du nombre d’habitants de l’année 2010 à l’année 2020.
+2. Montrer que le taux d’évolution annuel moyen du nombre d’habitants de l’année 2010 à
+l’année 2020, arrondi à 0,1 point, est de 10 %.
+3. Sur le graphique, en annexe à rendre avec la copie, représenter la série statistique du tableau
+ci-dessus par un nuage de points (𝑀𝑖 (𝑥𝑖 ; 𝑦𝑖 )).
+4. À l’aide de la calculatrice, déterminer une équation de la droite 𝐷 d’ajustement affine de
+𝑦 en 𝑥 obtenue par la méthode des moindres carrés. Les coefficients seront arrondis au
+dixième. Puis tracer cette droite sur le même graphique donné en annexe à rendre avec la
+copie.
+5. En supposant que cet ajustement demeure valable pendant plusieurs années, déterminer par
+un calcul le nombre d’habitants de la commune en 2025. Arrondir à la dizaine près.
+
+ANNEXE (à rendre avec la copie)
+Exercice 1 Question 5)
+def Term(k) :
+c=10000
+print(c)
+for i in range (…...) :
+c=….
+print(c)
+
+Exercice 3 : Questions 3. et 4.

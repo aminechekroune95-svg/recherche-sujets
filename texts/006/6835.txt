@@ -1,0 +1,145 @@
+{"pages": 5, "method": "pdftotext", "bytes": 894985, "at": "2026-11-23T08:57:24+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Une enquête réalisée sur 900 personnes indique que
+3% apprécient le lait de chèvre. Combien de personnes
+apprécient ce lait ?
+
+2)
+
+Réduire le prix d'un article de 15% revient à le
+multiplier par :
+
+3)
+
+Le prix d'un article a été multiplié par 3. Quel taux
+d’évolution a subi ce prix ?
+
+4)
+
+Quel est le taux d'évolution global correspondant à une
+hausse de 10% suivie d'une baisse de 20% ?
+
+5)
+
+Calculer le taux d'évolution, en pourcentage, lié à une
+augmentation entre les valeurs 10 et 35.
+
+6)
+
+Résoudre l'équation 𝑥² = 121.
+
+7)
+
+Résoudre l'équation 7𝑥 + 8 = 2𝑥 − 3.
+
+8)
+
+Résoudre l'inéquation 2𝑥 + 5 > 3 et donner
+l'ensemble des solutions sous forme d’un intervalle.
+
+9)
+
+Donner le tableau de signe de l'expression 7 − 2𝑥.
+
+10)
+
+Donner le tableau de signe de l'expression :
+(𝑥 − 1)(𝑥 + 1)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+Exercice 2 (5 points)
+Le montant des dépenses d'assurance maladie a été pour l'année 2016 de 185,2 milliards
+d'euros. Le Parlement a voté une croissance de ces dépenses de 2,1% pour l'année 2017.
+1. Montrer que le montant des dépenses d'assurance maladie voté pour l'année 2017 est
+de 189,1 milliards d'euros (à cent millions près).
+Pour estimer les montants des années suivantes, il a prévu chaque année une augmentation
+de 2,1% de ces dépenses. Pour tout entier naturel 𝑛, on désigne par 𝑉𝑛 le montant, en milliards
+d'euros des dépenses d'assurance maladie voté chaque année. On note 𝑉0 le montant voté
+pour l'année 2016 et 𝑉𝑛 le montant voté pour l'année 2016 + 𝑛. On a ainsi 𝑉0 = 185,2.
+2. On veut utiliser la feuille de calcul automatisée ci-dessous afin d'obtenir les valeurs
+successives de la suite 𝑉𝑛 .
+
+A
+
+B
+
+𝑛
+
+𝑉𝑛
+
+185,2
+
+189,1
+
+Quelle formule peut-on entrer dans la cellule B3 de sorte que, recopiée vers le bas, elle
+permette d'afficher les valeurs de la suite 𝑉𝑛 ?
+3. a. Montrer que pour tout entier naturel 𝑛 on a 𝑉𝑛+1 = 1,021𝑉𝑛 .
+b. En déduire la nature de la suite (𝑉𝑛 ) et préciser ses éléments caractéristiques.
+
+4. Déterminer une estimation du montant des dépenses d'assurance maladie pour
+
+l'année 2020 (arrondir la valeur à la centaine de millions).
+
+Exercice 3 (5 points)
+Sur un site Internet, on trouve les données suivantes qui concernent une grande compétition
+sportive à l’issue de laquelle quelques participants subissent un contrôle antidopage :
+participants contrôlés
+
+Nombre de participants
+non contrôlés
+
+Total
+
+participants en 2016
+
+participants en 2017
+
+participants en 2018
+
+Total
+
+Pour chacune des années 2016, 2017 et 2018, on dispose pour chaque participant d'une fiche
+sur laquelle figure l'année, le nom du participant, et la mention « contrôlé » ou bien « non
+contrôlé ». Ainsi, un même participant peut figurer sur plusieurs fiches s'il a participé à cette
+compétition plusieurs fois parmi les années 2016, 2017 ou 2018.
+Toutes les fiches sont mélangées, et on en choisit une au hasard. Tous les tirages sont
+équiprobables. On définit les événements suivants :
+𝐷 : « la fiche choisie est une fiche de l'année 2018 ».
+𝐸 : « la fiche choisie porte la mention "contrôlé" ».
+On note 𝐸 l’événement contraire de 𝐸.
+Les probabilités sont à arrondir au centième.
+1. Montrer que la valeur arrondie au centième de 𝑃(𝐷) vaut 0,33.
+2. Calculer la probabilité de chacun des événements 𝐸 et 𝐷 ∩ 𝐸.
+
+3. La fiche choisie indique 2018, calculer la probabilité qu'elle porte la mention « contrôlé
+».
+4. Calculer la probabilité que ce soit une fiche de l'année 2018 sachant que la fiche choisie
+porte la mention « contrôlé ».
+5. Calculer la probabilité 𝑃𝐷 (𝐸) et interpréter le résultat.
+Exercice 4 (5 points)
+Sur le graphique ci-dessous, on a représenté une partie de la courbe 𝐶𝑓 d'une fonction 𝑓
+définie et dérivable sur ℝ, ainsi que les points 𝐴(−2 ; 3), 𝐸(0 ; −9) et 𝐹(3 ; 0) :
+𝑪𝒇
+
+1. Que vaut le nombre dérivé de 𝑓 au point d'abscisse −2 ?
+2. Dans cette question 𝑓 est définie sur ℝ par 𝑓(𝑥) = 𝑥 3 + 2𝑥² − 4𝑥 − 5.
+a. Pour tout 𝑥 réel, calculer 𝑓 ′ (𝑥) où 𝑓′ désigne la dérivée de la fonction 𝑓.
+b. Montrer que pout tout 𝑥 réel, 𝑓 ′ (𝑥) = (𝑥 + 2)(3𝑥 − 2).
+c. En déduire le signe de 𝑓 ′ (𝑥) et dresser le tableau de variation de la fonction 𝑓.
+3. Un élève affirme que la droite (𝐸𝐹) est tangente à la courbe 𝐶𝑓 au point d'abscisse 1.
+Cet élève a-t-il raison ? Justifier la réponse.

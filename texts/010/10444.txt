@@ -1,0 +1,248 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1304300, "at": "2026-11-23T08:55:15+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des
+affirmations proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse
+choisie. Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+On choisit au hasard un individu parmi les passagers en transit dans un aéroport.
+On a représenté ci-dessous un arbre de probabilités lié à certains évènements dont
+certains éléments ont été effacés.
+On considère les
+événements
+suivants :
+-
+
+a) 𝑃𝐵 (𝐸) = 0,12.
+
+b) 𝑃(𝐸) = 0,42.
+
+A : « le passager
+parle anglais »
+B : « le passager ne
+parle pas anglais »
+E : « le passager est
+un membre de
+l’Union Européenne »
+
+c) La probabilité
+que le passager
+choisi soit européen
+et ne parle pas
+anglais est 0,3.
+
+d) 𝑃(𝐴 ∪ 𝐵) = 1,1.
+
+Question 2
+Le plan est muni d’un repère orthonormé.
+Soit D la droite d’équation 3𝑥 + 𝑦 − 2 = 0.
+a) Le point de
+(6 ; −15)
+appartient à D.
+
+b) D est
+perpendiculaire à la
+droite d’équation
+12𝑥 + 4𝑦 = 0.
+
+c) Le vecteur de
+(1 ; 3) est un
+vecteur directeur
+de D.
+
+d) Le vecteur de
+(3 ; 1) est un
+vecteur directeur
+des droites
+perpendiculaires à
+D.
+
+Question 3
+On considère dans l’ensemble des réels l’équation trigonométrique sin 𝑥 = 1.
+a) Cette équation
+admet une unique
+solution dans
+l’ensemble des
+réels.
+
+b) Cette équation
+admet une infinité
+de solutions dans
+l’ensemble des
+réels.
+
+c) 2 est une
+solution de cette
+équation.
+
+d) −
+
+57𝜋
+
+est une
+
+solution de cette
+équation.
+
+Question 4
+2𝑥
+
+Soit 𝑓 la fonction définie sur l’ensemble des nombres réels par 𝑓(𝑥) = 𝑥 2 +1 et C sa
+courbe représentative dans un repère du plan.
+
+a) La courbe C
+n’admet pas de
+tangente au point
+d’abscisse 0.
+
+b) La tangente à C
+0 a pour équation
+𝑦 = 2𝑥.
+
+c) La tangente à C
+0 a pour coefficient
+directeur 1.
+
+d) La tangente à C
+0 est parallèle à
+l’axe des
+abscisses.
+
+Question 5
+Soit la fonction 𝑓 définie sur l’intervalle ]−2; +∞[ par :
+𝑓(𝑥) =
+
+𝑥−3
+𝑥+2
+
+𝑓 est dérivable sur l’intervalle ]−2; +∞[ et pour tout réel 𝑥 de]−2; +∞[, on a :
+
+a) 𝑓′(𝑥) = 1
+
+2𝑥−1
+
+b) 𝑓 ′ (𝑥) = (𝑥+2)2
+
+c) 𝑓 ′ (𝑥) = (𝑥+2)2
+
+d) 𝑓′(𝑥) = 2 𝑥 − 1
+
+Exercice 2 (5 points)
+À la naissance de Lisa, sa grand-mère a placé la somme de 5 000 euros sur un
+compte et cet argent est resté bloqué pendant 18 ans.
+Lisa retrouve dans les papiers de sa grand-mère l’offre de la banque :
+Offre
+Intérêts composés au taux annuel constant de 3 %.
+À la fin de chaque année le capital produit 3 % d’intérêts qui sont intégrés au
+capital.
+On considère que l’évolution du capital acquis, en euro, peut être modélisée par une
+suite (𝑢𝑛 ) dans laquelle, pour tout entier naturel 𝑛, 𝑢𝑛 est le capital acquis, en euro, 𝑛
+années après la naissance de Lisa.
+On a ainsi 𝑢0 = 5 000.
+1. Montrer que 𝑢1 = 5 150 et 𝑢2 = 5 304,5.
+2.
+a. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 . En déduire la
+nature de la suite (𝑢𝑛 ) en précisant sa raison et son premier terme.
+b. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+3. Calculer le capital acquis par Lisa à l’âge de 18 ans. Arrondir au centième.
+
+4. Si Lisa n’utilise pas le capital dès ses 18 ans, quel âge aura-t-elle quand celuici dépassera 10 000 euros ?.
+
+Exercice 3 (5 points)
+Le rectangle OABC ci-dessous représente une place touristique vue de dessus.
+Le plan est muni d’un repère orthonormé (O; 𝑖⃗, 𝑗⃗) tel que ⃗⃗⃗⃗⃗⃗
+OC = 24 𝑖⃗ et ⃗⃗⃗⃗⃗⃗
+OA = 35⃗𝑗⃗.
+Afin d’éclairer le plus grand nombre de monuments, on place au point O, un
+projecteur lumineux qui permet d’éclairer la partie du plan délimitée par les segments
+de droite [OK] et [OL] tels que K est le milieu de [AB] et ⃗⃗⃗⃗⃗
+CL = ⃗⃗⃗⃗⃗⃗
+CB.
+
+1. Déterminer par lecture graphique les coordonnées des points A, B, C, K et
+L.
+2. Un visiteur affirme : « Moins de 70 % de la surface de la place est
+éclairée ».
+Cette affirmation est-elle exacte ?
+3.
+a. Donner les coordonnées des vecteurs ⃗⃗⃗⃗⃗⃗
+OK et ⃗⃗⃗⃗⃗⃗
+OL.
+⃗⃗⃗⃗⃗⃗ est égal à 533.
+b. Montrer que le produit scalaire ⃗⃗⃗⃗⃗⃗
+OK ∙ OL
+̂.
+c. En déduire la mesure, arrondie au degré, de l’angle KOL
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie et dérivable sur l'intervalle [0 ; +∞[ par
+𝑓(𝑥) = 𝑥 3 − 𝑥 2 − 𝑥 − 1.
+1. On note 𝑓′ la fonction dérivée de 𝑓.
+
+a. Montrer que, pour tout réel 𝑥, 𝑓 ′ (𝑥) = 3 (𝑥 + 3) (𝑥 − 1).
+b. En déduire le tableau de variation de 𝑓 sur [0 ; +∞[.
+c. Déterminer l’abscisse du point de la courbe représentative de 𝑓 pour lequel le
+coefficient directeur de la tangente vaut 7.
+2. On note 𝑥0 l’unique solution de l’équation 𝑓(𝑥) = 0. On admet que 𝑥0 ∈ [1 ; 2].
+On considère la fonction suivante définie en langage Python.
+1 def zero_de_f(n):
+a=1
+b=2
+for k in range(n):
+x=(a+b)/2
+if x**3-x**2-x-1<0:
+a=x
+else:
+b=x
+return a,b
+
+a. On applique cette fonction pour 𝑛 = 3. Reproduire sur la copie et compléter le
+tableau suivant, jusqu’à l’arrêt de l’algorithme.
+Itération
+𝑘=0
+
+𝒙=
+
+𝒂+𝒃
+
+1,5
+
+𝒇(𝒙) < 0 ?
+
+𝒂
+
+𝒃
+
+Amplitude de [𝒂 ; 𝒃]
+
+𝑂𝑈𝐼
+
+1,5
+
+0,5
+
+𝑘=1
+𝑘=2
+b. En déduire un encadrement de 𝑥0 , d’amplitude 0,125, par deux nombres
+décimaux.

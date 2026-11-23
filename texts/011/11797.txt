@@ -1,0 +1,178 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1376781, "at": "2026-11-23T08:53:39+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquer les réponses dans la colonne de droite du tableau. Aucune justification n’est
+attendue.
+Question
+1.
+2.
+
+Ranger les nombres suivants dans l’ordre croissant :
+; 1 + 4 et 2 × 7 .
+
+Dans une assemblée de 80 personnes, il y a 48 femmes.
+Déterminer la part féminine, exprimée en pourcentage, de
+cette assemblée.
+
+Réponse
+
+3.
+
+Factoriser l’expression (2𝑥 − 3)2 + (𝑥 + 1)(2𝑥 − 3).
+
+4.
+
+On considère la fonction 𝑓 définie sur ℝ par :
+𝑓(𝑥) = 𝑥 2 − 2𝑥 + 3.
+Déterminer l’ordonnée du point A d’abscisse −1 de la courbe
+représentative de 𝑓 dans un repère du plan.
+
+5.
+
+On considère la fonction 𝑓 définie sur ℝ par :
+𝑓(𝑥) = 2(𝑥 − 1)(𝑥 + 4).
+Déterminer le signe de la fonction 𝑓 sur ℝ.
+
+6.
+
+7.
+8.
+
+Soit la fonction 𝑓 dérivable sur ℝ et définie par :
+Pour tout réel 𝑥,
+𝑓(𝑥) = −𝑥 3 + 5𝑥 2 − 2𝑥 + .
+𝑓 ′ (𝑥) =
+On note 𝑓′ la fonction dérivée de 𝑓 sur ℝ.
+Compléter la phrase :
+Déterminer le taux d’évolution réciproque d’une baisse de
+20 %.
+Pour les questions 8.a) et 8.b), dans un repère du
+plan ci-contre, on a construit la représentation
+graphique d’une fonction dérivable 𝑓 et la droite
+(AB), qui est la tangente à la courbe au point
+d’abscisse 0.
+
+Répondre aux deux questions suivantes avec la précision que permet le graphique.
+a) Déterminer la valeur de 𝑓′(0).
+b) Construire la droite (d) d’équation 𝑦 = 3𝑥 + 1 dans le repère ci-dessus.
+9.
+
+L’indice de masse corporelle (IMC) d’un individu, exprimé en
+kg/m2 , est égal à
+
+𝑚
+𝑡²
+
+où 𝑚 est la masse de l’individu exprimée
+
+en kilogramme et 𝑡 sa taille exprimée en mètre.
+Calculer la taille d’un individu pesant 64 kg et ayant un IMC de
+25 kg/m2 .
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le tableau suivant donne l’évolution de la masse (exprimée en gramme) d’un panda né
+dans un zoo le 04.08.2017 (jour.mois.année) au cours de ses cinq premiers mois.
+04.08.2017 04.09.2017 04.10.2017 04.11.2017 04.12.2017 04.01.2018
+
+Date
+Rang du mois 𝑥𝑖
+
+Masse
+𝑦𝑖
+en
+1280
+3314
+5679
+7997
+10 634
+gramme
+1. Déterminer le pourcentage d’évolution de la masse de ce panda entre
+le 4 octobre 2017 et le 4 janvier 2018.
+2. À l’aide de la calculatrice, déterminer l’équation réduite d’une droite associée au
+nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ), pour 𝑖 entier variant entre 0 et 5, et obtenue
+par la méthode des moindres carrés, dans un repère du plan. On exprimera le
+coefficient directeur et l’ordonnée à l’origine de cette droite à l’unité près.
+Pour la suite de l’exercice, on a représenté dans le repère ci-dessous du plan, le nuage de
+points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) pour 𝑖 entier variant entre 0 et 5, et la droite (d) d’équation
+𝑦 = 2142𝑥 − 514 représentant un ajustement affine de ce nuage de points.
+
+3. On considère le point G du plan dont l’abscisse est la moyenne arithmétique des
+réels 𝑥𝑖 et dont l’ordonnée est la moyenne arithmétique des réels 𝑦𝑖 , pour 𝑖 entier
+variant de 0 à 5.
+Le point G appartient-il à la droite (d) ? Justifier votre réponse.
+4. Le jour du premier anniversaire du panda, le 04.08.2018, les soigneurs de l’animal lui
+ont confectionné un gâteau au bambou et aux fruits. La masse de ce gâteau était égale
+à celle prévue par cet ajustement. Quelle était cette masse ?
+5. On considère que l’ajustement affine représenté par la droite (d) n’est valide que pour
+une masse du panda inférieure ou égale à 75 kg.
+Déterminer pour cet animal, l’âge maximal en mois pour lequel on peut considérer cet
+ajustement valide.
+
+Exercice 3 (5 points)
+Le dioxyde de carbone ou CO2 est un des gaz à effet de serre.
+En 1960, les émissions de CO2 dans le monde ont été estimées à 15,4 milliards de tonnes.
+Depuis, on estime que ces émissions augmentent chaque année de 1,8 % par rapport à
+l’année précédente.
+Pour tout entier naturel 𝑛, le nombre 𝑢𝑛 désigne les émissions de CO2, exprimées en
+milliard de tonnes, pendant l’année (1960 + 𝑛). On a ainsi : 𝑢0 = 15,4.
+1. Vérifier que 𝑢1 = 15,6772.
+2. Justifier que la suite (𝑢𝑛 ) est une suite géométrique dont on précisera la raison.
+3. Exprimer 𝑢𝑛 en fonction de l’entier naturel 𝑛.
+4. Selon ce modèle défini par la suite (𝑢𝑛 ), déterminer l’année à partir de laquelle les
+émissions annuelles de CO2 émises dans le monde dépasseront les 75 milliards de
+tonnes.
+5. Selon ce même modèle, un journaliste prétend que les émissions totales de CO2 émises
+dans le monde depuis 1960 dépasseront les 2 000 milliards de tonnes en 2030.
+A-t-il raison ?
+
+Exercice 4 (5 points)
+Soit la fonction 𝑓 définie sur [0,1 ; 4] par :
+∙
+𝑥
+On admet que la fonction 𝑓 est dérivable sur [0,1 ; 4] et on note 𝑓′ la fonction dérivée de
+la fonction 𝑓 sur [0,1 ; 4].
+𝑓(𝑥) = 4𝑥 +
+
+À l’aide d’un tableur, on veut obtenir un tableau de valeurs de la fonction 𝑓 pour 𝑥 variant
+de 0,1 à 4 avec un pas de 0,1 ainsi qu’une allure de la représentation graphique de la
+fonction 𝑓 sur [0,1 ; 4]. On donne ci-dessous un extrait de la feuille automatisée de calcul
+ainsi obtenue :
+
+1. Quelle formule, destinée à être ensuite étirée vers le bas, peut-on saisir dans la cellule
+B2 afin d’obtenir l’affichage de l’image 𝑓(𝑥) pour 𝑥 variant de 0,1 à 4 avec un pas de
+0,1 ?
+2. Après avoir dérivé la fonction 𝑓, démontrer que pour tout réel 𝑥 de [0,1 ; 4] :
+(2𝑥 − 1)(2𝑥 + 1)
+𝑓′(𝑥) =
+.
+𝑥²
+3. Justifier que pour tout réel 𝑥 de [0,1 ; 4], le nombre dérivé 𝑓′(𝑥) a le même signe
+que l’expression (2𝑥 − 1)(2𝑥 + 1).
+4. Déterminer le signe de la fonction dérivée 𝑓′ sur [0,1 ; 4].
+5. Est-il vrai que pour tout réel 𝑥 de [0,1 ; 4], l’image 𝑓(𝑥) est toujours supérieure ou
+égale à 4 ? Justifier votre réponse.

@@ -1,0 +1,199 @@
+{"pages": 5, "method": "pdftotext", "bytes": 857101, "at": "2026-11-23T08:57:56+00:00"}
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE I
+Séries
+technologiques
+de première
+AUTOMATISMES
+(5 points)- Classe
+Sans
+calculatrice
+
+Durée : 20 minutes
+
+Cet exercice est un questionnaire à choix multiples. Pour chacune des dix questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+1. Dans une structure hôtelière, 60 % des employés sont des femmes dont
+
+sont à
+
+temps partiel. Quel est le pourcentage d’employés femmes à temps partiel dans
+cette structure hôtelière?
+a. 25 %
+
+b. 15 %
+
+c. 35 %
+
+d. 85 %
+
+2. Dans un groupe de 70 personnes, 7 personnes pratiquent un sport.
+Quel est le pourcentage de personnes pratiquant un sport dans ce groupe ?
+a. 1
+
+b. 0,5
+
+c. 0,10
+
+d. 10 %
+
+3. Diminuer une quantité de 35 %, c’est multiplier celle-ci par :
+a. 35
+
+b. 0,35
+
+c. 1,35
+
+d. 0,65
+
+4. Le taux d’évolution correspondant à deux hausses successives de 20 % est :
+a. 44 %
+
+b. 0,44
+
+c. 40 %
+
+d. 55 %
+
+5. L’ensemble solution dans R de l’équation 3𝑥 2 − 27 = 0 est :
+a. {−3 ; 3}
+
+b. {3}
+
+c. {−9 ; 9}
+
+d. {9}
+
+6. L’antécédent de −4 par la fonction 𝑓 définie sur R par 𝑓(𝑥) = 4𝑥 − 12 est :
+a. 2
+
+b. −4
+
+c. 4
+
+d. −28
+
+7. On donne la courbe représentative de la fonction 𝑓 définie sur l’intervalle [−3 ; 3] :
+
+Par lecture graphique avec la précision qu’elle permet, répondre aux deux questions
+suivantes :
+a) L’image par 𝑓 de 2 est approximativement :
+a. 1,2
+b. −1,2
+c. 3
+b) Le nombre d’antécédents de 1 par la fonction 𝑓 est :
+a. 0
+b. 1
+c. 2
+
+d. −6
+d. 3
+
+8. On considère le diagramme en boîte suivant :
+
+La médiane de la série 2 est égale à :
+a. 5
+b. 6
+
+c. 7
+
+d. 9
+
+9. L’équation 3𝑥 (𝑥 – 2) = 0 a pour solution(s) dans R :
+b. 0 et 2
+a. – 3 et 2
+c. – 3 et – 2
+10. L’écriture scientifique de 6 × 103 × 5 × 106 est :
+b. 3 × 1011
+a. 11 × 109
+c. 3 × 1010
+
+d. 2
+
+d) 30 × 109
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+
+Séries technologiques - Classe de première
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+Un restaurateur a produit 2500 kg de déchets non recyclables en 2017 et 2350 kg en 2018.
+1) Déterminer le pourcentage de réduction de la masse de déchets non recyclables
+entre 2017 et 2018.
+2) À partir de 2018, le restaurateur prévoit, chaque année, de réduire de 5 % la masse
+de déchets non recyclables.
+Pour tout entier naturel 𝑛, on modélise la masse, exprimée en kg, de déchets non
+recyclables pour l’année 2018 + n à l’aide d’une suite notée ( Dn ).
+Ainsi 𝐷0 = 2 350 .
+a) Calculer 𝐷1 puis 𝐷2 .
+b) On admet que la suite ( Dn ) est géométrique. Donner sa raison.
+3) On admet que, pour tout entier naturel 𝑛, 𝐷𝑛 = 2 350 × 0,95𝑛 .
+Déterminer la masse de déchets non recyclables en 2025. On donnera le résultat
+arrondi en kg.
+4) Recopier et compléter l’algorithme suivant pour qu’à la fin de son exécution la
+variable 𝐷 contienne le terme de rang 15 de la suite (𝐷𝑛 ) .
+𝐷 = 2 350
+for 𝑛 in range(15):
+𝐷 = ………
+
+EXERCICE 3 (5 points)
+Une entreprise produit mensuellement entre 200 et 3 000 panneaux solaires.
+On modélise le résultat de l’entreprise réalisé sur la vente de 𝑥 centaines de panneaux
+solaires par la fonction f définie sur l’intervalle [2 ; 30] par :
+𝑓(𝑥) = −2𝑥 2 + 90𝑥 − 400 .
+
+1) On admet que, pour tout 𝑥 de l’intervalle [2 ; 30], on a 𝑓(𝑥) = −2(𝑥 − 40)(𝑥 − 5).
+Donner le tableau de signes de la fonction 𝑓 sur l’intervalle [2 ; 30].
+2) À partir de quel volume de production de panneaux solaires le résultat réalisé par
+l’entreprise est-il positif ?
+3) On note 𝑓 ′ la fonction dérivée de la fonction 𝑓 sur l’intervalle [2 ; 30].
+Donner l’expression de 𝑓 ′(𝑥) en fonction de 𝑥.
+4) Donner le tableau de variations de la fonction 𝑓 sur l’intervalle [2 ; 30].
+5) Déterminer la valeur du bénéfice maximal et le volume de production correspondant.
+
+EXERCICE 4 (5 points)
+Le gérant d’un restaurant développe une nouvelle formule de restauration rapide le midi. Il
+propose un menu comprenant un plat et un dessert. Les clients ont le choix entre deux plats
+(viande ou poisson) et trois desserts (pâtisserie, laitage ou fruit).
+Il teste sa formule pendant un mois et étudie toutes les commandes pour mieux connaître
+les souhaits de sa clientèle.
+
+Parmi les 600 commandes faites au cours de ce mois, 72 % comprenaient un plat de
+viande.
+45 % des clients ont pris une pâtisserie et, parmi eux, 44 avaient choisi le plat de
+poisson.
+Parmi les 138 commandes comprenant un fruit comme dessert, 73 comprenaient le
+plat de poisson.
+
+1) Recopier et compléter le tableau suivant qui récapitule les résultats de l’enquête.
+Pâtisserie
+
+Laitage
+
+Fruit
+
+Total
+
+Viande
+Poisson
+
+Total
+
+On choisit une commande au hasard parmi celles faites pendant le mois de l’enquête.
+On note :
+ 𝐴 : l’événement « La commande comprend du poisson »
+ 𝐵 : l’événement « La commande comprend une pâtisserie »
+2) Calculer la probabilité de l’événement 𝐴.
+3) Calculer la probabilité de l’événement 𝐵.
+4) Calculer la probabilité, arrondie à 10−2 , que la commande comprenne à la fois du
+poisson et une pâtisserie.
+5) Calculer la probabilité, arrondie à 10−2 , que la commande comprenne de la viande
+sachant qu’elle comprend une pâtisserie.

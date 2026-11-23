@@ -1,0 +1,172 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1202218, "at": "2026-11-23T08:55:08+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ : ☐Oui ☒ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il
+ne peut être dupliqué et doit être imprimé pour chaque candidat afin d’assurer
+ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe
+pédagogique, il est nécessaire que chaque élève dispose d’une impression en
+couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra
+télécharger et jouer le jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 – QCM (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans réponse
+n’apporte ni ne retire de point.
+
+Question 1
+On considère la fonction définie sur ℝ par 𝑓(𝑥) = −𝑥 2 − 𝑥 + 6. On admet que l’une
+des quatre courbes ci-dessous représente la fonction 𝑓. Laquelle ?
+a)
+
+b)
+
+c)
+
+d)
+
+Question 2
+On pose pour tout réel 𝑥 : 𝐴(𝑥) = e2𝑥 . On a alors, pour tout 𝑥 ∈ ℝ :
+a) 𝐴(𝑥) = 2e𝑥
+c) 𝐴(𝑥) = e𝑥 + e2
+
+b) 𝐴(𝑥) = e𝑥
+d) 𝐴(𝑥) = (e𝑥 )2
+
+Question 3
+Le plan est muni d’un repère orthonormé.
+Les droites d’équations 2𝑥 + 𝑦 + 1 = 0 et 3𝑥 − 2𝑦 + 5 = 0
+a) sont sécantes en 𝐴(1 ; 1).
+c) sont sécantes en 𝐶(−1 ; 1).
+
+b) sont sécantes en 𝐵(1 ; −1).
+d) ne sont pas sécantes.
+
+Question 4
+Le plan est muni d’un repère orthonormé.
+Les droites d’équations 𝑥 + 3𝑦 − 5 = 0 et 3𝑥 − 𝑦 + 6 = 0 sont :
+a) perpendiculaires.
+c) parallèles.
+
+b) sécantes non perpendiculaires.
+d) confondues.
+
+Question 5
+On considère la fonction Python ci-dessous :
+def suite(n) :
+u=2
+k=0
+while k<n :
+u=u+k
+k=k+1
+return u
+Quelle valeur renvoie l’appel suite(5) ?
+a) 5
+c) 12
+
+b) 8
+d) 17
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur [0; +∞[ par 𝑓(𝑥) =
+
+e𝑥
+1+𝑥
+
+.
+
+On note 𝐶𝑓 la représentation graphique de f dans un repère du plan.
+1. Déterminer les coordonnées du point A, point d’intersection de la courbe 𝐶𝑓
+avec l’axe des ordonnées.
+2. La courbe 𝐶𝑓 coupe-t-elle l’axe des abscisses ? Justifier la réponse.
+3. On note 𝑓′ la dérivée de la fonction 𝑓 sur [0; +∞[. Montrer que, pour tout
+𝑥𝑒 𝑥
+
+réel x de l’intervalle [0; +∞[, 𝑓 ′ (𝑥) = (1+𝑥)2 .
+4. Étudier le signe de 𝑓′(𝑥) sur [0; +∞[. En déduire le sens de variation de 𝑓 sur
+[0; +∞[.
+
+5. On note 𝑇 la tangente à 𝐶𝑓 au point A d’abscisse 1,6. La tangente 𝑇 passe-telle par l’origine du repère ? Justifier la réponse.
+
+Exercice 3 (5 points)
+Dans cet exercice, pour tout évènement 𝐴, on note 𝐴̅ son évènement contraire, 𝑃(𝐴) sa probabilité
+et, si 𝐵 est un évènement de probabilité non nulle, 𝑃𝐵 (𝐴) la probabilité conditionnelle de 𝐴 sachant 𝐵.
+
+Une entreprise a fabriqué en un mois 1500 chaudières, dont 900 chaudières à
+cheminée et 600 chaudières à ventouse.
+On a constaté, dans ce lot, que :
+ 1 % des chaudières à cheminées ont un défaut
+ 6 % des chaudières à ventouses ont un défaut.
+On prélève au hasard le numéro de série d’une chaudière de la production de ce
+mois.
+On considère les évènements suivants :
+ 𝐶 : « Le numéro de série est celui d’une chaudière à cheminée »
+ 𝑉 : « Le numéro de série est celui d’une chaudière à ventouse »
+ 𝐷 : « Le numéro de série est celui d’une chaudière défectueuse »
+1. Recopier et compléter sur la copie le tableau à double entrée suivant :
+nombre de
+chaudières à
+cheminée
+
+nombre de
+chaudières à
+ventouse
+
+Total
+
+1500
+
+nombre de chaudières
+défectueuses
+nombre de chaudières
+non défectueuses
+Total
+
+2. Recopier et compléter l’arbre pondéré suivant :
+
+3. Calculer la probabilité que le numéro de série soit celui d’une chaudière
+défectueuse.
+4. Déterminer PD (V). Interpréter le résultat dans le contexte de l’exercice.
+5. Les évènements D et V sont-ils indépendants ?
+
+Exercice 4 (5 points)
+Un jeu vidéo fait évoluer un personnage sur un parcours semé d’obstacles.
+Au début du parcours, ce personnage est doté de 1 000 pions noirs dans son sac et il
+n’a pas de pion blanc.
+Le nombre de pions noirs diminue au cours du jeu.
+Le personnage gagne 10 pions blancs par minute jouée.
+Chaque partie est chronométrée et dure 45 minutes. Au bout des 45 minutes, la
+partie s’arrête et le joueur a gagné si le nombre de pions blancs gagnés est supérieur
+ou égal au nombre de pions noirs du sac.
+1. Etude de l’évolution du nombre de pions blancs
+On note 𝑢𝑛 le nombre de pions blancs obtenus au bout de 𝑛 minutes de jeu.
+Ainsi 𝑢0 = 0.
+Déterminer la nature de la suite (𝑢𝑛 ) et en déduire, pour tout entier 𝑛, l’expression
+de 𝑢𝑛 en fonction de 𝑛.
+2. Etude de l’évolution du nombre de pions noirs
+
+Lucas estime qu’au cours d’une partie, le nombre de ses pions noirs diminue de 2 %
+par minute. Il voudrait savoir si cette évolution est suffisante pour gagner, ou s’il doit
+poursuivre son entrainement.
+On note 𝑣𝑛 le nombre de pions noirs restant à la 𝑛-ième minute.
+Ainsi 𝑣0 = 1000.
+a. Justifier que 𝑣1 = 980.
+b. Déterminer la nature de la suite (𝑣𝑛 ) et en déduire, pour tout entier 𝑛,
+l’expression de 𝑣 en fonction de 𝑛.
+3. On a calculé les premiers termes des suites (𝑢𝑛 ) et (𝑣𝑛 ) à l’aide d’un tableur. La
+feuille de calcul est donnée ci-dessous.
+Les termes de la suite (𝑣𝑛 ) ont été arrondis à l’unité.
+Lucas peut-il gagner la partie ?

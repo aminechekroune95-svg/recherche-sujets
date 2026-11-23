@@ -1,0 +1,195 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1241286, "at": "2026-11-23T08:59:16+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Cet exercice est un QCM comportant 5 questions.
+Pour chaque question, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+
+Le plan est muni d’un repère orthonormé.
+
+Question 1
+La droite 𝐷 de vecteur directeur ⃗𝑢 (
+a) −3𝑥 + 𝑦 − 5 = 0
+
+−3
+) passant par 𝐴(−1; 2) a pour équation :
+
+b) 𝑥 + 3𝑦 − 5 = 0
+
+c) 𝑥 − 3𝑦 − 5 = 0
+
+d) 3𝑥 + 𝑦 + 1 = 0
+
+Question 2
+On considère la droite 𝑑 d’équation 5𝑥 − 8𝑦 + 9 = 0. Alors :
+a) 𝐴(6; 7) appartient à 𝐷
+
+b) ⃗𝑛 ( ) est un vecteur normal à 𝑑
+
+c) 𝑑 coupe l’axe des ordonnées au point
+𝐵(0; 1)
+
+d) 𝑑 est parallèle à la droite 𝑑 ′ d’équation
+2,5𝑥 − 4𝑦 + 2 = 0
+
+Question 3
+
+On considère la fonction 𝑓 dont la représentation graphique
+𝐶𝑓 est donnée ci-contre. La droite 𝐷 est la tangente à 𝐶𝑓 au
+point 𝐴(1; 1). Le point 𝐵(0; −1) appartient à la droite 𝐷. Le
+nombre dérivé 𝑓’(1) est égal à :
+
+a) 1
+
+b)
+
+c) 2
+
+d) −2
+
+Question 4
+On considère une fonction 𝑓 polynôme du second degré dont le tableau de signes est donné
+ci-après :
+𝑥
+
+−∞
+
+𝑓(𝑥)
+
+−
+
+−1
+
++ 0
+
++∞
+−
+
+Une expression de 𝑓(x) peut être :
+a) 2𝑥 2 + 5𝑥 − 2
+
+b) −𝑥 2 + 1
+
+c) - 𝑥 2 + 𝑥 + 2
+
+d) 𝑥 2 + 𝑥 − 2
+
+Question 5
+On considère la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = 𝑥e𝑥 .
+Alors la fonction dérivée de 𝑓, notée 𝑓 ′ est définie sur ℝ par :
+a) 𝑓 ′ (𝑥) = e𝑥
+
+b) 𝑓 ′ (𝑥) = (𝑥 + 1)e𝑥
+
+c) 𝑓 ′ (𝑥) = e
+
+d) 𝑓 ′ (𝑥) = 𝑥 2 e𝑥
+
+Exercice 2 (5 points)
+Dans un aéroport, les portiques de sécurité servent à détecter les objets métalliques que
+pourraient emporter certains voyageurs.
+On choisit au hasard un voyageur franchissant un portique. On note :
+
+𝑆 l’événement « le voyageur fait sonner le portique ».
+𝑀 l’événement « le voyageur porte un objet métallique ».
+On considère qu’un voyageur sur 500 porte sur lui un objet métallique.
+
+On remarque que :
+
+Lorsqu’un voyageur franchit le portique avec un objet métallique, la probabilité que le
+portique sonne est égale à 0,98.
+Lorsqu’un voyageur franchit le portique sans objet métallique, la probabilité que le portique
+ne sonne pas est aussi égale à 0,98.
+1. Recopier et compléter l’arbre de probabilités ci-dessous illustrant cette situation :
+
+2. Montrer que : 𝑃(𝑆) = 0,021 92.
+
+3. On suppose qu’à chaque fois qu’un voyageur franchit le portique, la probabilité que ce
+portique sonne est égale à 0,02192, et ce de façon indépendante des éventuels
+déclenchements de sonnerie lors des passages des autres voyageurs.
+Deux personnes passent successivement le portique de sécurité. On note 𝑋 la variable
+aléatoire donnant le nombre de fois où le portique sonne.
+a. Justifier qu’on peut modéliser la loi de 𝑋 par une loi binomiale 𝐵(𝑛; 𝑝) dont on
+précisera les paramètres 𝑛 et 𝑝.
+b. Reprendre et compléter le tableau donnant la loi de 𝑋 :
+𝑘
+𝑃(𝑋 = 𝑘)
+c. Calculer et interpréter l’espérance de 𝑋 dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+En 2019, les déchets d'une entreprise sont évalués à 6 000 tonnes.
+Cette entreprise s'engage à réduire ses déchets de 5 % chaque année.
+1. Avec cette politique, quelle quantité de déchets peut envisager l'entreprise pour l'année
+2020 ?
+2. Pour tout entier naturel 𝑛, on note 𝑑𝑛 la quantité de déchets produits en tonne par cette
+entreprise l'année 2019 + 𝑛. Avec cette notation, on a alors 𝑑0 = 6000.
+a. Exprimer 𝑑𝑛+1 en fonction de 𝑑𝑛 pour tout entier naturel 𝑛.
+b. Quelle est la nature de la suite (𝑑𝑛 ) ?
+c. Déterminer la quantité totale de déchets produits par l'entreprise entre 2019 et 2023.
+On arrondira le résultat à la tonne près.
+3. L'entreprise souhaite savoir au bout de combien d'années d'application de cette politique
+de réduction des déchets la quantité annuelle produite aura diminué de 40 % par rapport à
+la quantité produite en 2019.
+Recopier et compléter l'algorithme ci-dessous sur la copie afin qu'il permette de répondre à
+la question posée :
+𝐷 ← 6000
+𝑁←0
+Tant que 𝐷…............
+𝐷 ←…............
+𝑁 ←𝑁+1
+Fin Tant que
+
+Exercice 4 (5 points)
+On procède, chez un sportif, à l'injection intramusculaire d'un produit. Celui-ci se diffuse
+progressivement dans le sang. On admet que la concentration de ce produit dans le sang
+(exprimée en mg/L = milligramme par litre) peut être modélisée par la fonction 𝑓, définie sur
+l'intervalle [0; 10] par :
+
+𝑓(𝑥) =
+
+6𝑥
+e𝑥
+
+où 𝑥 est le temps exprimé en heure.
+
+Sa courbe représentative C est donnée ci-dessous dans un repère orthonormé du plan.
+
+1. Montrer que pour tout 𝑥 ∈ [0; 10], la fonction dérivée de 𝑓, notée 𝑓 ′ , a pour expression :
+6– 6𝑥
+𝑓 ′ (𝑥) = 𝑥 .
+e
+2. Étudier le signe de 𝑓 ′ sur [0; 10] puis en déduire le tableau de variations de 𝑓 sur [0; 10].
+3. Quelle est la concentration maximale du médicament dans le sang ? (on donnera la valeur
+exacte et une valeur approchée à 10−1 près). Au bout de combien de temps est-elle
+atteinte ?
+4. Ce produit fait l'objet d'une réglementation par la fédération sportive : un sportif est en
+infraction si, au moment du contrôle, la concentration dans son sang du produit est
+supérieure à 2 mg/L.
+Le sportif peut-il être contrôlé à tout moment après son injection ? Expliquer votre
+raisonnement en vous basant sur l'étude de la fonction et/ou une lecture graphique sur la
+courbe C.

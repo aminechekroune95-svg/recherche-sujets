@@ -1,0 +1,151 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1206090, "at": "2026-11-23T08:56:49+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1)
+
+Résoudre dans R l’équation 3𝑥 − 5 = 7
+
+2)
+
+Une veste coûte 80€. On obtient une remise de 20% sur son
+prix.
+Quel est le montant de la remise ?
+
+3)
+
+Le chiffre d’affaires d’une entreprise pour l’année 2019 est
+de 10 000 €. Le chef d’entreprise prévoit une diminution de
+5 % de ce chiffre d’affaires en 2020.
+Calculer le chiffre d’affaires prévisible pour 2020.
+
+4)
+
+Développer et réduire l’expression (𝑥 − 3)2
+
+5)
+
+Quel est le signe de la fonction affine 𝑓 définie par
+𝑓(𝑥) = −2𝑥 + 8 lorsque 𝑥 > 4 ?
+
+Enoncé
+
+Réponse
+
+6)
+
+Exprimer sous la forme d’une puissance de 2 :
+2 × 23
+
+7)
+
+Déterminer la valeur de l’entier positif 𝑛 tel que :
+10𝑛 < 2019 < 10𝑛+1
+
+8)
+
+Soit 𝑓 la fonction définie par 𝑓(𝑥) = 3𝑥 2 + 1
+Calculer l’image de 2 par 𝑓.
+
+9)
+
+Peut-on dire que la droite d’équation 𝑦 = 3𝑥 − 1 passe par le
+point de coordonnées (2 ; 1) ?
+Répondre par « oui » ou « non ».
+
+10)
+
+On considère la fonction 𝑓 représentée par la courbe cidessous :
+
+Avec la précision permise par le graphique, lire l’image de −1
+par 𝑓.
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 : (5 points)
+Au cours de l’année 2019, Adam est embauché par une entreprise qui lui propose un salaire
+mensuel net de 1 500 €.
+Son employeur lui annonce que son salaire mensuel net augmentera de 50 € au 1er janvier de
+chaque année suivante.
+On note 𝑢 la suite qui modélise le salaire mensuel net d’Adam au cours de l’année 2019 + 𝑛.
+Ainsi, 𝑢(0) = 1500 et 𝑢(1) = 1550.
+1) Calculer le salaire mensuel net d’Adam en 2021.
+2) Établir une relation entre 𝑢(𝑛 + 1) et 𝑢(𝑛) et préciser la nature de la suite 𝑢 .
+3) Quel est le sens de variation de la suite 𝑢 ? Justifier la réponse.
+Au cours de l’année 2019, Alice est embauchée par une entreprise qui lui propose un salaire
+mensuel net de 1 400 €.
+Son employeur lui annonce que son salaire mensuel net augmentera de 4 % au 1 er janvier de
+chaque année suivante.
+On note 𝑣 la suite qui modélise le salaire mensuel net d’Alice au cours de l’année 2019 + 𝑛.
+4) Quelle est la nature de la suite 𝑣 ?
+5) A partir de quelle année le salaire mensuel net d’Alice dépassera-t-il pour la première
+fois le salaire mensuel net d’Adam ?
+
+EXERCICE 3 : (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−2 ; 4].
+Sa courbe représentative est une parabole que l’on note 𝒞.
+
+𝒞
+
+Une tâche d’encre masque une partie de la courbe 𝒞.
+1) Lire sur le graphique l’image de −1 et celle de 3 par 𝑓.
+2) Résoudre par lecture graphique sur l’intervalle [−2 ; 4], l’inéquation : 𝑓(𝑥) ≤ 0.
+3) On admet que l’expression de la fonction 𝑓 est de la forme :
+𝑓(𝑥) = (𝑥 − 𝑥1 )(𝑥 − 𝑥2 ) avec 𝑥1 < 𝑥2 .
+Préciser les valeurs respectives de 𝑥1 et de 𝑥2 .
+4) Le sommet de la parabole n’apparaît pas sur le dessin.
+Retrouver ses coordonnées en détaillant le raisonnement.
+5) Dresser le tableau des variations de la fonction 𝑓 sur l’intervalle [−2; 4].
+On admettra que 𝑓(−2) = 𝑓(4) =5.
+
+EXERCICE 4 : (5 points)
+Un match de rugby entre deux équipes A et B se déroule dans un stade accueillant 75 000
+spectateurs.
+Parmi les spectateurs :
+
+52 500 sont des supporters de l’équipe A ;
+32 250 sont licenciés à la Fédération française de rugby (FFR) ;
+13 125 supporters de l’équipe A sont licenciés à la FFR.
+
+1) Recopier et compléter le tableau croisé d’effectifs avec les données fournies dans
+l’énoncé.
+Licenciés à la
+FFR
+
+Non licenciés à
+la FFR
+
+Total
+
+Supporters
+de l’équipe A
+Supporters
+de l’équipe B
+Total
+
+75 000
+
+2) On interroge au hasard un spectateur du match. On considère les évènements
+suivants :
+𝐴 : « Le spectateur est un supporter de l’équipe A »
+𝐵 : « Le spectateur est un supporter de l’équipe B »
+𝐿 : « Le spectateur est licencié à la FFR »
+Pour tout événement 𝐸, on note 𝑃(𝐸) sa probabilité.
+Les probabilités seront données sous forme décimale.
+a) Calculer 𝑃(𝐵).
+b) Décrire l’événement 𝐴 ∩ 𝐿.
+c) Calculer 𝑃(𝐴 ∩ 𝐿).
+3) On interroge au hasard un spectateur du match. C’est un supporter de l’équipe B.
+Calculer la probabilité qu’il soit licencié à la FFR.

@@ -1,0 +1,222 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1151853, "at": "2026-11-23T08:58:54+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PARTIE 1
+Sans Calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 : Automatismes (5 points)
+Enoncé
+1.
+
+À quelle évolution globale correspond une
+hausse de 20% suivi d’une baisse de 30% ?
+
+2.
+
+Convertir 3,52 h en heure minute seconde.
+
+Réponse
+
+Soit (d) la droite d'équation réduite
+3.
+
+𝑦 = −3𝑥 + 2.
+Le point B( ; 1) appartient-il à la droite (d) ?
+
+4.
+
+Développer et réduire l’expression suivante :
+
+𝐴(𝑥) = (2𝑥 − 1)2 + 3𝑥 + 2
+Soit 𝑓 la fonction définie par la représentation
+graphique ci-dessous :
+
+5.
+
+Déterminer graphiquement l'ensemble des
+solutions de l'équation 𝑓(𝑥) = 0.
+
+Enoncé
+6.
+
+Réponse
+
+Résoudre dans R l’inéquation d’inconnue 𝑥
+suivante :
+
+−2𝑥 − 4 ≥ 𝑥 + 2
+7.
+
+Quelle est la fraction irréductible égale à
++
+?
+On considère le calcul suivant :
+
+8.
+
+0,003 × 1,5 × 108
+Donner le résultat en écriture scientifique.
+
+9.
+
+Résoudre dans R l’équation d’inconnue 𝑥
+suivante :
+
+3𝑥 2 + 1 = 13
+Les tailles des élèves d’une classe de
+terminale ont été représentées par
+l’histogramme ci-dessous
+
+10.
+
+Trois élèves ont une taille inférieure à
+160 cm.
+Déterminer le nombre d'élèves dans cette
+classe de terminale.
+
+PARTIE 2
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+Soit 𝑔 la fonction définie sur R par :
+
+𝑔(𝑥) = 0,5(𝑥 + 1)(𝑥 − 3)
+1. a. Quelle est la nature de la fonction 𝑔 et celle de sa représentation
+graphique ?
+b. Résoudre l’équation 𝑔(𝑥) = 0.
+c. En déduire la valeur pour laquelle 𝑔 admet un extremum.
+On précisera si cet extremum est un maximum ou un minimum en
+argumentant et on calculera sa valeur.
+2. On a tracé en annexe la représentation graphique de la fonction 𝑔.
+Résoudre graphiquement l’équation 𝑔(𝑥) = 2. On laissera sur le graphique
+les traces de raisonnement.
+3. On appelle 𝑥1 la solution de l’équation 𝑔(𝑥) = 2 appartenant à l’intervalle
+[−2; −1] et 𝑥2 la solution appartenant à l’intervalle [3; 4]. On cherche à
+déterminer un encadrement de 𝑥2 d’amplitude 10 – n .
+Pour cela on a écrit l’algorithme ci-contre en langage Python.
+
+Que faut-il taper dans la console pour obtenir un encadrement de 𝑥2
+d’amplitude 0,001 ?
+
+EXERCICE 3 (5 points)
+Une entreprise fabrique et vend des boîtes de petits fours. La production
+mensuelle varie de 20 à 150 centaines de boîtes.
+Le chiffre d’affaires en euro, obtenu pour la vente de 𝑥 centaines de boîtes de
+petits fours est donnée par la fonction 𝑅 définie sur l'intervalle [20; 150] par
+
+𝑅(𝑥) = 450𝑥
+Le coût total de production de 𝑥 centaines de boîtes de petits fours est donné en
+euros par la fonction 𝐶 définie par
+
+𝐶(𝑥) = 6𝑥 2 − 246𝑥 + 5184
+On admet dans l’étude qui suit que chaque mois toute la production est vendue.
+1. On a représenté dans le repère orthogonal ci-dessous deux courbes C1 et C2.
+L’une est la représentation graphique de 𝑅 et l’autre celle de 𝐶 mais on ne
+sait pas dans quel ordre.
+Euros
+
+120000
+
+C1
+
+100000
+
+80000
+
+60000
+
+C2
+
+40000
+
+20000
+
+Centaines de boîtes
+
+a. Préciser la courbe représentant la fonction 𝑅 et la courbe représentant la
+fonction 𝐶 .
+b. Déterminer avec la précision permise par le graphique dans quel
+intervalle doit se situer le nombre de centaines de boîtes vendues pour
+
+que l’entreprise réalise un bénéfice.
+
+2. Le résultat de l’entreprise en euro, c’est-à-dire le bénéfice ou le déficit de
+l’entreprise selon que le résultat est positif ou négatif, est donné par la
+fonction 𝐷 définie sur l'intervalle [20; 150] par :
+
+𝐷(𝑥) = −6𝑥 2 + 696𝑥 − 5184.
+On note 𝐷 ′ la fonction dérivée de la fonction 𝐷 .
+a. Calculer 𝐷 ′(𝑥).
+b. Déterminer le signe de 𝐷 ′(𝑥) sur l'intervalle [20; 150]
+c. En déduire le tableau de variation de la fonction 𝐷 et le nombre de
+boîtes que l’entreprise doit produire et vendre pour obtenir un bénéfice
+maximal.
+
+EXERCICE 4 (5 points)
+On interroge un groupe de 1 200 étudiants titulaires d’un baccalauréat STMG et
+ayant poursuivi leurs études.
+Parmi ces étudiants :
+
+60 % de ces étudiants sont des filles, les autres sont des garçons.
+
+55 % ont poursuivi leurs études en BTS.
+
+264 étudiants sont inscrits à l’université.
+
+La moitié des étudiants inscrits à l’université sont des garçons.
+
+45 % des étudiants en BTS sont des garçons.
+
+1. Compléter, sans justification, le tableau croisé d’effectifs donné en annexe à
+remettre avec la copie.
+2. Pour chaque étudiant interrogé les informations sont portées sur une fiche
+individuelle. On choisit une fiche au hasard parmi les 1 200 renseignées. Chaque
+fiche a la même probabilité d’être choisie.
+On définit les évènements suivants :
+N : « la fiche choisie concerne un étudiant de l’université ».
+G : « la fiche choisie est celle d’un garçon ».
+a. Calculer la probabilité de l’évènement N et celle de l’évènement G.
+b. Définir par une phrase l’évènement N ∩ G puis calculer sa probabilité.
+c. Définir par une phrase l’évènement N ∪ G puis calculer sa probabilité.
+d. Calculer PG (N). Interpréter le résultat obtenu par une phrase.
+
+Annexe à remettre avec la copie
+EXERCICE 2
+Représentation graphique de la fonction 𝒈.
+
+EXERCICE 4
+Tableau croisé des effectifs
+BTS
+
+Université
+
+Autres
+formations
+
+Total
+
+Filles
+
+Garçons
+
+Total
+
+1 200

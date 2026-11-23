@@ -1,0 +1,117 @@
+{"pages": 5, "method": "pdftotext", "bytes": 988010, "at": "2026-11-23T08:57:18+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Écrire 3 × 7 − 14 sous forme d’une seule fraction
+irréductible.
+
+Donner l’exposant entier 𝑛 manquant dans l’égalité
+= 73
+7𝑛
+
+Écrire
+
+sous forme décimale.
+
+Convertir 10000 kilomètres en mètres.
+
+Dans un repère du plan, on considère les points A et
+B de coordonnées A (0 ;3) et
+B (0,5 ; 0).
+Donner l’équation réduite de la droite (AB).
+
+Soit 𝑥 un nombre réel, développer et réduire
+ሺ3𝑥 + 1ሻ2
+
+Soit 𝑥 un nombre réel, factoriser l’expression
+3ሺ𝑥 + 1ሻ + 𝑥ሺ𝑥 + 1ሻ
+
+On répondra aux trois questions suivantes à l’aide du tableau ci-dessous qui donne la
+répartition des salaires mensuels dans une entreprise de 500 employés.
+Salaire
+inférieur ou
+égal à 1750 €
+
+Salaire
+supérieur à
+1750 €
+
+Femmes
+
+Hommes
+
+Quelle est la proportion de femmes dans cette
+entreprise ?
+
+Calculer le pourcentage d’employés gagnant plus de
+1750 €
+
+Calculer le pourcentage de femmes gagnant plus de
+1750 € ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+On réalise un escalier en empilant des cubes, comme sur la figure ci-dessous, qui
+représente un escalier à 4 marches comptant 10 cubes.
+
+Pour tout entier naturel 𝑛 supérieur ou égal à 1, on note 𝑢ሺ𝑛ሻ le nombre de cubes
+nécessaires pour un escalier à 𝑛 marches.
+Par exemple :
+ Pour un escalier à 2 marches, il faut 3 cubes, donc 𝑢ሺ2ሻ = 3 ;
+ Pour un escalier à 3 marches, il faut 6 cubes, donc 𝑢ሺ3ሻ = 6.
+1. Montrer que 𝑢ሺ6ሻ = 21.
+2. Justifier que la suite ሺ𝑢ሺ𝑛ሻሻ n'est pas une suite arithmétique.
+3. Représenter les sept premiers termes de cette suite dans le repère donné en
+annexe.
+4. Afin de calculer la valeur de 𝑢ሺ𝑛ሻ pour un entier 𝑛 donné, on cherche à écrire une
+fonction en langage python. Recopier sur votre feuille et compléter le script
+suivant, où 𝑛 est un entier supérieur à 1 :
+def Suite_u(n):
+S=0
+for k in range(1,n):
+…………
+return S
+5. Les cubes ont pour arête 20 cm. La hauteur totale de l’escalier par rapport au sol,
+supposé horizontal, est de 2,60 m. Combien de cubes ont été utilisés pour réaliser
+cet escalier ?
+
+Exercice 3 (5 points)
+On considère la fonction 𝐵 définie sur R par
+
+𝐵ሺ𝑥ሻ = −𝑥 3 + 12𝑥 + 10
+1. Calculer l’image de −1 puis de 3 par la fonction 𝐵.
+2. Pour tout réel 𝑥, on admet que la fonction 𝐵 est dérivable sur R et on note 𝐵′ sa
+fonction dérivée.
+Montrer que 𝐵 ′ ሺ𝑥ሻ = −3ሺ𝑥 − 2ሻሺ𝑥 + 2ሻ.
+3. Donner le tableau de signe de 𝐵′ሺ𝑥ሻ sur R.
+4. En déduire le tableau de variation de la fonction 𝐵 sur R.
+5. Quel est le maximum de la fonction 𝐵 sur l’intervalle [−4; 4] ? Justifier.
+
+Exercice 4 (5 points)
+Un énoncé d'examen comporte un questionnaire à choix multiple (QCM) composé de
+trois questions indépendantes.
+Pour chaque question, trois réponses sont proposées. Une seule est correcte.
+Une réponse juste rapporte un point, une réponse erronée ne rapporte aucun point.
+Un candidat répond au hasard à chaque question.
+1. Justifier que la probabilité que le candidat réponde correctement à une question
+
+donnée est de 3.
+2. Représenter la situation à l’aide d’un arbre pondéré.
+
+3. On note 𝑋 le nombre de points obtenus par le candidat. Ainsi, si 𝑋 = 3 le candidat
+a répondu correctement aux trois questions.
+Calculer 𝑃ሺ𝑋 = 3ሻ.
+4. D'après le règlement de l'examen, les candidats ayant 0 au QCM sont éliminés.
+Calculer la probabilité qu’un candidat répondant au hasard soit éliminé.
+5. En moyenne, en répondant au hasard, combien de points un candidat peut-il
+espérer obtenir ?
+
+ANNEXE A RENDRE AVEC LA COPIE
+Exercice 2, question 3.

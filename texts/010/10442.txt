@@ -1,0 +1,201 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1186979, "at": "2026-11-23T08:55:16+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+
+Question 1
+On considère les points E(3 ; −4) et F(7 ; 2).
+La droite (EF) passe par le point :
+a) A(0 ; 8)
+
+b) B(5,5 ; 0)
+
+c) C(13 ; 11)
+
+d) D(−25 ; 45)
+
+Question 2
+On considère la droite D qui a pour équation réduite 𝑦 = −2𝑥 + 4.
+Parmi les vecteurs suivants, déterminer celui qui est un vecteur normal de la
+droite D :
+a) 𝑛
+⃗⃗⃗⃗1 (2; 1)
+
+b) 𝑛
+⃗⃗⃗⃗2 (−1; 2)
+
+c) 𝑛
+⃗⃗⃗⃗3 (1; −2)
+
+d) 𝑛
+⃗⃗⃗⃗4 (−2; 1)
+
+Question 3
+Soit ABCD un carré de côté 6 et I le milieu de [BC]. Alors le produit scalaire ⃗⃗⃗⃗⃗
+AD. ⃗⃗⃗
+AI
+vaut :
+a) −18
+
+b) 18
+
+c) 36
+
+d) 9√5
+
+Question 4
+Sur le cercle trigonométrique ci-dessous, le nombre
+a) E
+
+b) F
+
+14𝜋
+
+a pour image le point :
+
+c) G
+
+d) H
+
+Question 5
+𝜋
+
+Soit le réel 𝑥 appartenant à l’intervalle [ 2 ; 𝜋] tel que sin 𝑥 = 0,8. Alors :
+a) cos(𝑥) = 0,6
+
+b) cos(𝑥) = − 0,6
+
+c) cos(𝑥) = 0,2
+
+d) cos(𝑥) = − 0,2
+
+Exercice 2 (5 points)
+Un magasin de téléphonie mobile lance une offre sur ses smartphones de la marque
+Pomme vendus à 800 € : il propose une assurance complémentaire pour 50 € ainsi
+qu’une coque à 20 €.
+Ce magasin a fait les constatations suivantes concernant les acheteurs de ce
+smartphone :
+
+40 % des acheteurs ont souscrit à l’assurance complémentaire.
+
+Parmi les acheteurs qui ont souscrit à l’assurance complémentaire,
+
+20 % ont acheté en plus la coque.
+
+Parmi les acheteurs qui n’ont pas souscrit à l’assurance
+
+complémentaire, deux sur trois n’ont pas acheté la coque.
+On interroge au hasard un client de ce magasin ayant acheté un smartphone de la
+marque Pomme.
+On considère les évènements suivants :
+A : « le client a souscrit à l’assurance complémentaire » ;
+C : « le client a acheté la coque ».
+1)
+
+Calculer la probabilité que le client ait souscrit à l’assurance
+
+complémentaire et ait acheté la coque.
+2)
+
+Montrer que P(C) = 0,28.
+
+3)
+
+Le client interrogé a acheté la coque.
+
+Quelle est la probabilité qu’il n’ait pas souscrit à l’assurance complémentaire ?
+4)
+
+Déterminer la dépense moyenne d’un client de ce magasin ayant
+
+acheté un smartphone de la marque Pomme.
+On pourra noter X la variable aléatoire qui représente la dépense en euros
+d’un client de ce magasin ayant acheté un smartphone de la marque Pomme.
+
+Exercice 3 (5 points)
+On considère les deux suites suivantes :
+
+la suite (𝑢𝑛 ) définie pour tout entier 𝑛 par :
+𝑢𝑛 =
+
+8𝑛 − 4
+𝑛+1
+
+la suite (𝑣𝑛 ) définie par 𝑣0 = 0 et 𝑣𝑛+1 = 0,5𝑣𝑛 + 3,5 pour tout entier 𝑛.
+
+1)
+
+Calculer les termes d’indice 3 des suites (𝑢𝑛 ) et (𝑣𝑛 ).
+
+2)
+
+On s’intéresse aux variations de la suite (𝑢𝑛 ).
+Pour cela, on considère la fonction 𝑓 définie sur [0; +∞[ par :
+𝑓(𝑥) =
+
+8𝑥 − 4
+𝑥+1
+
+a. Démontrer que la fonction 𝑓 est croissante sur [0; +∞[.
+b. En déduire la monotonie de la suite (𝑢𝑛 ).
+3)
+
+On considère l’affirmation suivante :
+« pour tout entier 𝑛, 𝑢𝑛 < 𝑣𝑛 ».
+
+Camille pense que cette affirmation est vraie alors que Dominique pense le contraire.
+Pour les départager, on réalise le programme suivant écrit en langage Python :
+def algo( ) :
+n = 0
+u = - 4
+v = 0
+while u < v :
+n = n+1
+u = (8*n - 4)/(n+1)
+v = 0.5*v + 3.5
+return(n)
+Le programme renvoie la valeur 11. Qui de Camille ou Dominique a raison ?
+Expliquer.
+
+Exercice 4 (5 points)
+Le plan est muni d’un repère orthonormé.
+La courbe représentative 𝐶 d’une fonction 𝑓 définie sur ℝ est donnée ci-dessous :
+
+𝐶
+
+1) Par lecture graphique, résoudre l’équation 𝑓(𝑥) = 0 d’inconnue 𝑥.
+2) On donne 𝑓 ′(𝑥) = −𝑥 + 0,5 pour tout réel 𝑥.
+Déterminer qu’une équation de la tangente 𝑇 à la courbe 𝐶 au point
+d’abscisse −1 est 𝑦 = 1,5𝑥 + 3,5.
+3) On considère le point E de coordonnées (1 ; 5).
+Dans cette question, on cherche à déterminer les points de la courbe 𝐶 en
+lesquels la tangente passe par le point E.
+a. Montrer que le point E appartient à la tangente 𝑇.
+b. Déterminer l’autre point de la courbe en lequel la tangente passe par le
+point E.

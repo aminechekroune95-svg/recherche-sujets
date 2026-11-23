@@ -1,0 +1,207 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1144789, "at": "2026-11-23T09:00:46+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+
+Cet exercice est un QCM (Questionnaire à Choix Multiples). Pour chacune des questions
+posées, une seule des quatre réponses est exacte. Recopier le numéro de la question et la
+réponse choisie. Aucune justification n’est demandée. Une réponse exacte rapporte 1 point,
+une réponse fausse ou l’absence de réponse ne rapporte ni n’enlève de point. Une réponse
+multiple ne rapporte aucun point.
+
+Question 1
+On considère la fonction 𝑓 définie sur R par :
+𝑓(𝑥) = (𝑥 + 1)𝑒 𝑥
+La fonction dérivée 𝑓′ de 𝑓 est donnée sur R par :
+
+a. 𝑓 ′ (𝑥) = 𝑒 𝑥
+
+b. 𝑓 ′ (𝑥) = (𝑥 + 2)𝑒 𝑥
+
+Question 2
+
+Pour tous réels 𝑎 et 𝑏, le nombre
+
+a.
+
+e𝑎−𝑏
+
+b.
+
+Question 3
+
+e𝑎
+
+e−𝑏
+
+c. 𝑓 ′ (𝑥) = −𝑥𝑒 𝑥
+
+d. 𝑓 ′ (0) = 0
+
+est égal à :
+
+𝑎
+
+c.
+
+e−𝑏
+
+e𝑏
+
+d. e𝑎 − e−𝑏
+
+e−𝑎
+
+Soit (𝑢𝑛 ) une suite arithmétique telle que 𝑢3 = 2 et 𝑢6 = 3.
+Alors le premier terme 𝑢0 et la raison 𝑅 de la suite sont :
+
+a. 𝑢0 = 6 et 𝑅 = − 2
+
+c. 𝑢0 = 6 et 𝑅 = 2
+
+b. 𝑢0 = 2 et 𝑅 = 6
+
+d. 𝑢0 = 2 et 𝑅 = 2
+
+Question 4
+On considère le programme écrit en langage Python ci-dessous.
+
+s=0
+for i in range(51):
+s=s+i
+
+Quelle est la valeur contenue dans la variable s après exécution du programme ?
+
+b.
+
+1326
+
+c.
+
+1275
+
+a.
+
+Question 5
+
+1 2
+
+d.
+
+2500
+
+1 15
+
+La valeur exacte de la somme 𝑆 = 1 + 2 + (2) + ⋯ + (2) est :
+a. 1,750030518
+
+1 15
+
+b. 2 − ( )
+
+1 14
+
+c. 2 − (2)
+
+d. 1,999969482
+
+Exercice 2 (5 points)
+
+Un rameur est une machine d’exercice physique simulant les mouvements d’une personne
+qui fait de l’aviron.
+Il est souvent utilisé pour l’entraînement sportif afin d’améliorer sa condition physique.
+La courbe ci-dessous représente la puissance (en Watt) en fonction du temps (en dixième de
+seconde) développée par un rameur débutant.
+Partie A : Répondre par lecture graphique aux deux questions suivantes
+
+1. Quelle est la puissance maximale atteinte par ce rameur ?
+2. Pendant combien de temps la puissance développée reste-t-elle au-dessus de 100 Watts ?
+
+Partie B : Modélisation par une fonction
+On suppose que la courbe est la courbe représentative de la fonction 𝑓 définie sur
+
+l’intervalle [0,2 ; 4] par :
+𝑓(𝑥) = (−8𝑥 + 32)𝑒 𝑥
+
+On note 𝑓′ la fonction dérivée de 𝑓. On admet que pour tout réel 𝑥 de l’intervalle [0,2 ; 4],
+𝑓 ′ (𝑥) = (−8𝑥 + 24)e𝑥 .
+
+1. Étudier le signe de 𝑓 ′ (𝑥) puis en déduire les variations de 𝑓 sur [0,2 ; 4].
+2. Déterminer la valeur exacte du maximum de la fonction 𝑓.
+
+On suppose que le sportif améliore sa meilleure performance de 5 % tous les mois. Combien
+de mois d’entrainement seront-ils nécessaires pour qu’il dépasse les 200 W ?
+
+Exercice 3 (5 points)
+
+Un magasin commercialise des canapés et des tables de salon.
+Quand un client se présente, il achète au plus un canapé et au plus une table de salon. Une
+étude a montré que :
+ la probabilité pour qu’un client achète un canapé est 0,24 ;
+ la probabilité pour qu’un client achète une table de salon quand il a acheté un
+canapé est 0,25 ;
+ la probabilité pour qu’un client achète une table de salon quand il n’achète pas de
+canapé est 0,1.
+
+On choisit un client au hasard parmi ceux ayant participé à l’étude. On note :
+
+
+
+𝐶 l’événement « le client achète un canapé » et 𝐶̅ son événement contraire ;
+𝑇 l’événement « le client achète une table de salon » et 𝑇̅ son événement contraire.
+
+1. Construire un arbre pondéré décrivant la situation.
+
+2. Calculer la probabilité que le client achète un canapé et une table de salon.
+3. Montrer que la probabilité 𝑃(𝑇) est égale à 0,136 .
+
+4. Dans ce magasin, le prix moyen d’un canapé est de 1000 € et le prix moyen d’une
+table de salon est de 300 €. On note 𝑋 la variable aléatoire correspondant à la
+somme payée par le client.
+a. Recopier et compléter le tableau suivant donnant la loi de probabilité de 𝑋 .
+𝑥𝑖
+
+1000
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+b. Calculer l’espérance de 𝑋.
+Donner une interprétation de ce nombre dans le contexte de l’exercice.
+
+1300
+
+Exercice 4 (5 points)
+
+Le plan est rapporté à un repère orthonormé (O; 𝑖⃗, 𝑗⃗) d’unité 1 cm.
+On considère la droite D d’équation 𝑥 + 3𝑦 − 5 = 0.
+
+1. Montrer que le point A de coordonnées (2; 1) appartient à la droite D et tracer la droite D
+dans le repère (O; 𝑖⃗, 𝑗⃗).
+
+2. Montrer que la droite D’ passant par le point B de coordonnées (4; 2) et perpendiculaire à la
+droite D admet pour équation 3𝑥 − 𝑦 − 10 = 0.
+3. Soit H le projeté orthogonal de B sur la droite D.
+Déterminer, par le calcul, les coordonnées de H.
+
+4. On considère le cercle 𝒞 de diamètre [AB] et on note Ω son centre.
+a. Déterminer une équation de 𝒞 ; préciser son rayon et les coordonnées de Ω.
+b. Le point H appartient-il à 𝒞 ? Justifier.

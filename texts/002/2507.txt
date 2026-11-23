@@ -1,0 +1,155 @@
+{"pages": 6, "method": "pdftotext", "bytes": 696276, "at": "2026-11-23T09:00:40+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+Dans cet exercice, on se place dans un repère orthonormé.
+
+Question 1 : Un vecteur normal à la droite d’équation cartésienne 2𝑥 − 5𝑦 + 3 = 0 a
+pour coordonnées :
+−5
+)
+
+a) (
+
+( )
+
+c)
+
+( )
+
+−2
+)
+
+(
+
+Question 2 : Le centre A du cercle d’équation 𝑥 2 + 𝑦 2 + 6𝑥 − 8𝑦 = 0 est :
+a) A(3; 4)
+
+b) A(−3; 4)
+
+c) A(−4; 3)
+
+A(4; −3)
+
+Question 3 : On considère un triangle ABC tel que AB = 3, BC = 5 et AC = 6, on a
+alors ⃗⃗⃗⃗⃗
+AB. ⃗⃗⃗⃗⃗
+AC égal à :
+a)
+
+−18
+
+c) 26
+
+d) 0
+
+Question 4 : Le nombre réel
+trigonométrique que le réel :
+
+a)
+
+−14𝜋
+
+−3𝜋
+
+7𝜋
+
+est associé au même point du cercle
+
+c)
+
+13𝜋
+
+19𝜋
+
+Question 5 : La fonction 𝑔 définie sur ℝ par 𝑔(𝑥) = (4𝑥 − 7)3 a pour fonction dérivée:
+
+a) 𝑔′(𝑥) = 3 (4𝑥 − 7)2
+
+b) 𝑔′(𝑥) = 12(4𝑥 − 7)
+
+c) 𝑔′(𝑥) = 12𝑥 − 21
+
+d) 𝑔′(𝑥) = 12 (4𝑥 − 7)2
+
+Exercice 2 (5 points)
+Un modèle de téléphone portable d’une grande entreprise est produit par deux soustraitants A et B.
+
+Chez le sous-traitant A, qui assure 40 % de la production totale, 4 % des téléphones
+sont défectueux.
+Le sous-traitant B assure le reste de la production.
+
+On constate que la probabilité qu’un téléphone pris au hasard dans les stocks de
+l’entreprise soit défectueux est de 0,034.
+
+1) Quel pourcentage de la production totale le sous-traitant B assure-t-il ?
+2) Quelle est la probabilité qu’un téléphone provienne du sous-traitant B
+sachant qu’il est défectueux ? On arrondira le résultat à 10−3 près.
+
+Exercice 3 (5 points)
+Soit la suite (𝑢𝑛 ) de premier terme 𝑢0 = 400 vérifiant la relation, pour tout entier
+naturel 𝑛,
+𝑢𝑛+1 = 0,9𝑢𝑛 + 60.
+Soit la suite géométrique ( 𝑣𝑛 ) de premier terme 𝑣0 = − 200 et de raison 0,9.
+1) Calculer 𝑢2 et 𝑣2 .
+2) Calculer la somme des 20 premiers termes de la suite ( 𝑣𝑛 ).
+3) La suite (𝑢𝑛 ) est-elle arithmétique ? La suite (𝑢𝑛 ) est-elle géométrique ?
+4) Recopier et compléter la fonction Suite suivante écrite en Python qui permet
+de calculer la somme S des 20 premiers termes de la suite ( 𝑢𝑛 ).
+def Suite( ) :
+U = 400
+S = 0
+for i in range(20) :
+S = ..........
+U = ..........
+return(...)
+
+5) On admet que 𝑢𝑛 = 𝑣𝑛 + 600. En déduire 𝑢20 .
+
+Exercice 4 (5 points)
+On considère un cône de révolution ayant une génératrice de longueur 20 cm et
+d’une hauteur ℎ en cm.
+On rappelle que le volume V en cm3 d’un cône de révolution de base un disque d’aire
+𝒜 en cm2 et de hauteur ℎ en cm est : V =
+
+𝒜ℎ.
+
+Dans cet exercice, on cherche la valeur de la hauteur ℎ qui rend le volume du cône
+maximum.
+
+ℎ
+
+20 𝑐𝑚
+
+1) Exprimer le rayon de la base en fonction de ℎ.
+2) Démontrer que le volume du cône, en fonction de sa hauteur ℎ, est :
+𝜋
+𝑉(ℎ) = (400ℎ − ℎ3 ).
+3) Quelle hauteur ℎ choisir pour que le volume du cône soit maximum ?

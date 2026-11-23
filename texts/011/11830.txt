@@ -1,0 +1,174 @@
+{"pages": 9, "method": "pdftotext", "bytes": 960730, "at": "2026-11-23T08:53:22+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+Partie I (Calculatrice interdite)
+EXERCICE 1 (5 points) : automatismes
+
+Durée : 20 minutes
+
+Les 10 questions suivantes sont indépendantes. Seules les réponses sont
+demandées, on n’attend pas de justifications.
+Énoncé
+
+Réponse
+
+1.
+
+Calculer et donner le résultat sous forme irréductible :
+×
+−
+
+2.
+
+Exprimer sous la forme d'une puissance de 3 le nombre :
+(32 )
+
+3.
+
+Donner l'équation réduite de la
+droite représentée dans le
+repère ci-contre:
+
+4.
+
+Une pharmacie dispose de 200 boîtes d’un médicament
+donné. Ce nombre augmente de 20% après une livraison
+puis, en raison des ventes, baisse de 20%.
+Déterminer le nombre de boîtes de ce médicament
+disponibles suite à ces deux évolutions.
+
+5.
+
+Déterminer 𝑓′(𝑥), le nombre dérivé en 𝑥 de la fonction 𝑓
+définie par : 𝑓: 𝑥 ↦ 6 𝑥 3 − 2𝑥 + 1.
+
+6.
+
+Le volume 𝑉d'une pyramide s'exprime en fonction de sa
+hauteur ℎ et de l'aire 𝑎 de sa base par 𝑉 =
+
+𝑎×ℎ
+
+Exprimer ℎ en fonction de 𝑎 et de 𝑉.
+
+7.
+
+Par lecture graphique,
+donner le coefficient
+directeur de la tangente à la
+courbe 𝐶𝑓 au point
+d'abscisse −1, tracée cicontre en pointillés.
+
+8.
+
+Déterminer l’image de (−√3) par la fonction :
+
+𝑔: 𝑥 ↦ 3 𝑥 2 − 6𝑥 + 4.
+9.
+
+Un tiers des 120 voitures que possède un loueur de
+voitures sont européennes. Parmi celles-ci, 8 sont
+françaises.
+
+Déterminer le nombre de voitures françaises que
+possède le loueur.
+10.
+
+Déterminer, selon les valeurs de 𝑥, le signe de :
+2(3 − 𝑥)(𝑥 + 5).
+
+Partie II
+Cette partie est constituée de 3 exercices indépendants.
+L’utilisation de la calculatrice est autorisée selon la règlementation en vigueur.
+
+Exercice 2 (5 points)
+Une usine produit de l’eau minérale en bouteilles. L’eau provient de deux sources
+(source A et source B). 70% des bouteilles produites chaque jour contiennent de
+l’eau de la source A. Les autres bouteilles contiennent de l’eau de la source B.
+Lorsque le taux de calcium de l’eau contenue dans une bouteille dépasse 6,5 mg par
+litre, on dit que l’eau de cette bouteille est calcaire.
+1. On admet que 9% des bouteilles de la source A contiennent de l’eau calcaire et
+que 7% des bouteilles de la source B contiennent de l’eau calcaire.
+On prélève au hasard une bouteille dans la production d’une journée.
+On note :
+- A l’événement : « la bouteille contient de l’eau de la source A »,
+- B l’événement : « la bouteille contient de l’eau de la source B »,
+- C l’événement : « la bouteille contient de l’eau calcaire »,
+- C̅ l’événement contraire de l’événement C.
+a) Donner les valeurs des probabilités P(A), P(B),PA (C) et PB (C).
+b) Représenter la situation aléatoire par un arbre de probabilités.
+c) Calculer la probabilité que la bouteille prélevée contienne de l’eau calcaire.
+Écrire le détail des calculs.
+2. Dans un stock important de bouteilles produites, 8% des bouteilles contiennent de
+l’eau calcaire. On prélève au hasard 40 bouteilles dans le stock. Le stock est assez
+important pour qu’on puisse assimiler ce prélèvement à un tirage avec remise de 40
+bouteilles.
+On note X la variable aléatoire qui associe à chaque prélèvement de 40 bouteilles le
+nombre de bouteilles de ce prélèvement qui contiennent de l’eau calcaire.
+a) Quelle est la loi de la variable aléatoire X ? On ne demande pas de
+justification.
+b) Calculer P(X ≤ 4). Arrondir au millième.
+Interpréter le résultat dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Lors d'une épidémie, afin d'apporter des réponses sanitaires adéquates, les autorités
+commandent une étude de l'évolution du nombre de malades infectés.
+Dans la feuille de calcul ci-après, on a reporté les relevés effectués tous les 5 jours
+du nombre de personnes infectées, du début de l'épidémie jusqu’au 25e jour, et
+calculé les taux d’évolution entre les relevés consécutifs.
+
+1. a) Détailler le calcul du taux d’évolution entre le deuxième et le troisième relevé.
+b) Quelle formule a pu être saisie dans la cellule C4 du tableur afin d’obtenir, en
+étirant vers la droite, les différents taux d’évolution du nombre de personnes
+infectées?
+2. Les représentations graphiques sont à faire sur l’annexe (à rendre avec la copie)
+avec la précision permise par les choix d’unités.
+a) Représenter le nuage de points de coordonnées (𝑥(𝑛); 𝑦(𝑛)) pour 𝑛 entier
+variant de 1 à 6.
+b) Donner les coordonnées du point moyen noté 𝐺 de ce nuage de points et
+placer le point 𝐺 dans le même repère.
+c) Donner une équation d’une droite d’ajustement de 𝑦 par rapport à 𝑥, en
+précisant le principe d’ajustement choisi. Représenter cette droite sur le
+graphique.
+3. Estimer à l’aide de cette droite le nombre de personnes malades 50 jours après le
+début de l'épidémie.
+
+Exercice 4 (5 points)
+Une chaîne de messages sur Internet fonctionne selon le principe suivant : une
+personne, appelée « l’initiateur », envoie un message à un certain nombre de
+personnes. C’est l’étape 1.
+Ce message promet un lot à la condition que celui qui le reçoit le renvoie à
+exactement 𝑞 autres personnes ne l’ayant pas encore reçu.
+On suppose que les personnes ayant reçu le message à l’étape 1 l’envoient chacune
+à 𝑞 personnes, toutes différentes, ne l’ayant pas encore reçu. C’est l’étape 2.
+Et ainsi de suite.
+On note 𝑢1 le nombre de messages envoyés par l’initiateur de la chaine et, pour tout
+entier 𝑛 ≥ 2, 𝑢𝑛 le nombre de messages envoyés à l’étape 𝑛 de la chaine par
+l’ensemble des personnes ayant reçu le message à l’étape précédente.
+1. a) Quelle est la nature de la suite (𝑢𝑛 )?
+b) Pour tout entier 𝑛 ≥ 1,exprimer 𝑢𝑛 en fonction de 𝑢1 et de 𝑞.
+2. a) Sachant que 5120 messages sont envoyés à la 5e étape de la chaine et que
+327 680 messages le sont à la 8e étape, montrer que 𝑢1 et 𝑞 vérifient :
+𝑢1 𝑞 4 = 5120 et 𝑢1 𝑞 7 = 327 680
+b) En remarquant que 𝑢1 𝑞 7 = 𝑢1 𝑞 4 × 𝑞 3 , expliquer pourquoi 𝑞 = 4.
+c) En déduire que : 𝑢1 = 20.
+3. Calculer le nombre total de messages envoyés durant les 11 premières étapes de
+la chaine.
+
+ANNEXE à RENDRE AVEC LA COPIE
+
+Exercice 3, question 2.

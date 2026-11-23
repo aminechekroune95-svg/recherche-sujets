@@ -1,0 +1,160 @@
+{"pages": 7, "method": "pdftotext", "bytes": 744436, "at": "2026-11-23T08:55:44+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+
+Énoncé
+
+Calculer le taux d’évolution équivalent à
+deux baisses successives de 40 %.
+
+Calculer le taux d’évolution permettant de
+compenser une hausse de 25 %.
+
+Réponse
+
+Le chiffre d’affaire d’une entreprise
+augmente de 5 % par an. Peut-on
+modéliser cette situation par une suite
+géométrique ou une suite arithmétique ?
+Préciser sa raison.
+Pour les questions 4 à 6, on considère la fonction 𝑓 définie sur R par :
+𝑓(𝑥) = −2𝑥 3 + 5𝑥² − 6𝑥 + 2.
+
+Calculer l’image de −1.
+
+Déterminer 𝑓’(𝑥) où 𝑓’ est la fonction
+dérivée de la fonction 𝑓.
+
+Calculer le coefficient directeur de la
+tangente à la courbe représentative de 𝑓
+au point d’abscisse −1
+
+Un sac contient 3 boules rouges et 8
+boules noires. On tire au hasard une
+première boule, et on note sa couleur. On
+ne la remet pas dans le sac. On tire une
+deuxième fois une boule au hasard dans le
+sac.
+Calculer la probabilité qu’on tire une boule
+rouge au deuxième tirage sachant qu’on a
+tiré une boule rouge au premier tirage.
+Dans le graphique ci-dessous, quelle
+parabole représente la fonction 𝑔 définie
+par
+𝑔(𝑥) = −(𝑥 − 2)(𝑥 + 1) ?
+
+En combien de points la parabole
+représentant la fonction ℎ définie sur R par
+ℎ(𝑥) = (3𝑥 − 7)² coupe-t-elle l’axe des
+abscisses d’un repère du plan ?
+Dresser le tableau de signe de la fonction
+𝑘 définie sur R par
+𝑘(𝑥) = 2(𝑥 − 1)(𝑥 − 3).
+
+𝑥
+
+−∞
+
+2(𝑥 − 1)(𝑥 − 3)
+
++∞
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le niveau sonore, en décibel (dB), est donné par la fonction :
+𝑥
+𝐿(𝑥) = 10 × log −12
+où 𝑥 désigne l’intensité du son (en watt par m2).
+1. Calculer le niveau sonore en décibel, dans le cas d’une conversation normale
+où l’intensité du son est 𝑥 = 10−7 .
+Le niveau sonore du cri d’une personne est 80 dB.
+2. Montrer que l’intensité du cri d’une personne est 𝑥 = 10−4.
+3. Quand deux personnes crient en même temps, l’intensité des deux cris
+s’ajoutent. Calculer le niveau sonore de deux personnes qui crient en même
+temps.
+4. Le niveau sonore est-il proportionnel au nombre de personnes qui crient en
+même temps ?
+5. Le seuil de douleur de l’oreille humaine est 120 dB.
+Combien de personnes devraient-elles crier en même temps pour que le
+niveau sonore résultant atteigne ou dépasse le seuil de douleur ? On ignorera
+l’amortissement possible du son.
+
+Exercice 3 (5 points)
+Une entreprise fabrique des composants électroniques. L’entreprise estime que 4 %
+des composants fabriqués présentent un défaut et sont donc inutilisables.
+Afin de contrôler la qualité des composants produits, un test est effectué :
+50 composants sont prélevés au hasard dans la production et testés.
+La production étant très grande, ce prélèvement peut être assimilé à un tirage avec
+remise.
+On note 𝑋 la variable aléatoire qui prend pour valeurs le nombre de composants de
+cet échantillon présentant un défaut.
+1. Justifier que 𝑋 suit une loi binomiale et préciser ses paramètres.
+2. Reproduire et compléter la ligne 8 du triangle de Pascal écrit ci-dessous.
+3. On admet que ( ) = 19 600. Prouver que 𝑃(𝑋 = 3) ≈ 0,184 et interpréter le
+résultat dans le contexte de l’exercice.
+4. Déterminer la probabilité qu’au moins un des composants testés soit
+défectueux.
+5. Calculer l’espérance de la variable aléatoire 𝑋 et interpréter le résultat dans le
+contexte de l’exercice.
+Triangle de Pascal :
+𝑘
+𝑛
+
+Exercice 4 (5 points)
+Le gérant d’un atelier d’artisanat lance un site de vente en ligne des objets fabriqués
+dans l’atelier. Après quelques temps de fonctionnement, les bénéfices commencent
+à augmenter régulièrement.
+Le responsable souhaite pouvoir faire des prévisions et dresse le tableau ci-dessous
+qui donne le bénéfice en millier d’euros chaque semaine.
+Rang de la 0
+semaine
+Bénéfice
+8,3
+
+8,47
+
+8,6
+
+8,79
+
+1. Calculer le taux d’évolution en pourcentage du bénéfice entre la semaine de
+rang 0 et la semaine de rang 1.
+2. Pour pouvoir effectuer des prévisions, le bénéfice est modélisé par une suite
+(𝑢𝑛 ), où, pour tout entier naturel 𝑛, 𝑢𝑛 est le bénéfice, exprimé en millier
+d’euros, de la semaine de rang 𝑛. Ainsi 𝑢0 = 8,3.
+Dans cette modélisation, on suppose que le bénéfice augmente de 2%
+chaque semaine.
+a. Combien vaut 𝑢4 ? On donnera la valeur arrondie au centième.
+b. Préciser la nature de la suite et donner sa raison.
+c. Déterminer le bénéfice réalisé pendant la semaine de rang 15.
+d. Déterminer le bénéfice total obtenu, selon ce modèle, au cours des 16
+premières semaines (du rang 0 au rang 15). On donnera le résultat arrondi
+au millier d’euros.

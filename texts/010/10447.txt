@@ -1,0 +1,133 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1149774, "at": "2026-11-23T08:55:13+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM). Pour chaque question, une seule
+des quatre réponses proposées est exacte. Une bonne réponse rapporte un point. Une
+mauvaise réponse, une réponse multiple ou l’absence de réponse ne rapporte ni n’enlève
+aucun point.
+Relevez sur votre copie le numéro de la question ainsi que la lettre correspondant à la
+réponse choisie. Aucune justification n’est demandée.
+Question 1
+Quelle est la forme factorisée de 𝑓(𝑥) = 0,5(𝑥 − 2)2 − 8 ?
+Réponse A : 0,5𝑥 2 − 2𝑥 − 6 ;
+
+Réponse C : 0,5(𝑥 + 10)(𝑥 − 6) ;
+
+Réponse B : 0,5(𝑥 − 6)(𝑥 + 2) ;
+
+Réponse D : 0,5(𝑥 − 10)(𝑥 + 6).
+
+Question 2
+(𝑢𝑛 ) est une suite arithmétique de raison 𝑟 = 0,5 telle que 𝑢10 = −4. Quelle est la valeur du
+terme 𝑢2 ?
+Réponse A : 8 ;
+Réponse B : 0 ;
+Réponse C : −10 ;
+Réponse D : −8.
+
+Question 3
+2𝑥−1
+
+Soit la fonction 𝑓 définie pour tout 𝑥 ≠ −2 par : 𝑓(𝑥) = 𝑥+2 .
+Parmi les expressions suivantes, laquelle définit la dérivée 𝑓′ de la fonction 𝑓 sur ℝ\{−2} ?
+
+Réponse A : 𝑓 ′ (𝑥) = − (𝑥+2)2 ;
+Réponse B : 𝑓 ′ (𝑥) =
+
+(𝑥+2)
+
+2;
+
+Réponse C : 𝑓 ′ (𝑥) = (𝑥+2)2 ;
+Réponse D : 𝑓 ′ (𝑥) = 2.
+
+Question 4
+On se place dans un repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗). Laquelle de ces équations est une
+−1
+équation cartésienne de la droite Δ de vecteur directeur ⃗𝑢⃗ ( ) et passant par le point
+A(−1 ; 3)?
+Réponse A : 2𝑥 − 𝑦 + 1 = 0 ;
+Réponse C : 𝑥 + 2𝑦 + 1 = 0 ;
+Réponse B : −𝑥 + 2𝑦 − 7 = 0 ;
+Réponse D : −2𝑥 − 𝑦 + 1 = 0.
+
+Question 5
+On se place dans un repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗). Parmi ces propositions, quelle est
+l’équation cartésienne du cercle de centre A(2 ; 4) et de rayon 3 ?
+Réponse A : (𝑥 − 2)2 + (𝑦 − 4)2 = 3 ;
+Réponse B : (𝑥 + 2)2 + (𝑦 + 4)2 = 9 ;
+
+Réponse C : 𝑥 2 + 𝑦 2 − 4𝑥 − 8𝑦 + 11 = 0;
+Réponse D : 𝑥 2 + 𝑦 2 + 11 = 0.
+
+Exercice 2 (5 points)
+Aujourd’hui les chardons (une plante vivace) ont envahi 300 m² des champs d’une région.
+Chaque semaine, la surface envahie augmente de 5 % par le développement des racines,
+auquel s’ajoutent 15 m² suite à la dissémination des graines.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 la surface envahie par les chardons, en m², après
+𝑛 semaines ; on a donc 𝑢0 = 300 m².
+1. a. Calculer 𝑢1 et 𝑢2 .
+b. Montrer que la suite (𝑢𝑛 ) ainsi définie, n’est ni arithmétique ni géométrique.
+On admet dans la suite de l’exercice que, pour tout entier naturel 𝑛, 𝑢𝑛+1 = 1,05𝑢𝑛 + 15.
+2. On considère la suite (𝑣𝑛 ), définie pour tout entier naturel 𝑛, par : 𝑣𝑛 = 𝑢𝑛 + 300.
+a. Calculer 𝑣0 , puis montrer que la suite (𝑣𝑛 ) est géométrique de raison 𝑞 = 1,05.
+b. Pour tout entier naturel 𝑛, exprimer 𝑣𝑛 en fonction de 𝑛, puis montrer que
+𝑢𝑛 = 600 × 1,05𝑛 − 300.
+3. Est-il correct d’affirmer que la surface envahie par les chardons aura doublé au bout de 8
+semaines ? Justifier la réponse.
+
+Exercice 3 (5 points)
+Dans la figure ci-dessous, on a tracé 𝐶𝑓 , la courbe représentative d’une fonction 𝑓 définie et
+dérivable sur ℝ ainsi que les tangentes à 𝐶𝑓 aux points d’abscisses − 2, − 1 et 0.
+
+1. Recopier sur la copie en le complétant le tableau de valeurs ci-dessous.
+𝑥
+−1
+𝑓(𝑥)
+𝑓′(𝑥)
+On admet que la fonction 𝑓 est définie sur ℝ par :
+𝑓(𝑥) = 𝑥 3 + 3𝑥 2 + 2𝑥 + 1.
+2. a. Calculer 𝑓 ′ (𝑥), pour tout réel 𝑥.
+b. Résoudre dans ℝ l’équation : 𝑓 ′ (𝑥) = 0.
+3. Dresser le tableau de variations de la fonction 𝑓.
+4. Le point 𝑆 (−4 ; −3) appartient-il à la tangente à la courbe représentative de 𝑓 au point
+d’abscisse 𝑥 = −2 ?
+
+Exercice 4 (5 points)
+Une étude statistique menée lors des entraînements montre que, pour un tir au but, Karim
+marque avec une probabilité de 0,7.
+Karim effectue une série de 3 tirs au but. Les deux issues possibles après chaque tir sont les
+événements :
+ M : « Karim marque un but » ;
+ R : « Karim rate le tir au but ».
+On admet que les tirs au but de Karim sont indépendants.
+1. On note 𝑋 la variable aléatoire qui prend pour valeur le nombre total de buts marqués à
+l’issue de cette série de tirs par Karim.
+a. Réaliser un arbre pondéré permettant de décrire toutes les issues possibles.
+b. Déterminer la loi de probabilité de 𝑋.
+c. Calculer l’espérance 𝐸(𝑋) de la variable aléatoire 𝑋.
+2. On propose à un spectateur le jeu suivant : il mise 15 € avant la série de tirs au but de
+Karim ; chaque but marqué par Karim lui rapporte 6 €, et chaque but manqué par Karim ne
+lui rapporte rien.
+On note 𝑌 la variable aléatoire qui prend pour valeur le gain algébrique du spectateur, c’està-dire la différence entre le gain total obtenu et la mise engagée.
+a. Exprimer 𝑌 en fonction de 𝑋.
+b. Calculer l’espérance 𝐸(𝑌) de la variable aléatoire 𝑌. Interpréter ce résultat dans le
+contexte de l’énoncé.

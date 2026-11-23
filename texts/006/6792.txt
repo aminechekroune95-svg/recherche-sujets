@@ -1,0 +1,155 @@
+{"pages": 8, "method": "pdftotext", "bytes": 632429, "at": "2026-11-23T08:57:46+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1)
+
+Donner le coefficient multiplicateur associé à une baisse de 5 %
+
+2)
+
+Exprimer sous forme d’une fraction :
++2
+
+3)
+
+Dans un lycée, 8 des élèves sont en terminale, et la moitié des
+élèves de terminale sont des filles.
+Quelle proportion d’élèves du lycée sont des filles en terminale ?
+
+4)
+
+Développer et réduire l’expression :
+𝑥(𝑥 − 4) − 𝑥 + 7
+
+5)
+
+Résoudre l’équation :
+8𝑥 − 7 = 4𝑥 + 9
+
+6)
+
+On considère la fonction 𝑓 représentée par la courbe ci-dessous :
+
+Avec la précision permise par le graphique, lire l’image de 0 par 𝑓.
+7)
+
+Une baisse de 50 % est compensée par une hausse de :
+50 %
+
+Entourer la bonne réponse.
+8)
+
+On lance un dé à 6 faces, bien équilibré, dont les faces sont
+numérotées de 1 à 6.
+Calculer la probabilité d’obtenir un multiple de 3.
+
+9)
+
+Exprimer sous forme d’une puissance de 10 :
+103 × 104
+
+100 %
+
+200 %
+
+10) Avec la précision permise par le graphique, lire le coefficient
+directeur de la droite tracée en gras dans le repère ci-dessous :
+
+PARTIE II
+Calculatrice autorisée suivant la réglementation en vigueur
+Exercice 2 : (5 points)
+1. On considère la suite 𝑢 de premier terme 𝑢(0) = 80 et telle que pour tout entier
+naturel 𝑛 :
+𝑢(𝑛 + 1) = 1,06 × 𝑢(𝑛).
+a) Quelle est la nature de la suite 𝑢 ?
+b) Calculer 𝑢(2). Arrondir le résultat à l’unité.
+c) Quel est le sens de variation de la suite 𝑢 ? Justifier la réponse.
+2. Une association a été créée en 2019. On suppose que le nombre de bénévoles qui y
+sont engagés augmentera de 6 % chaque année. On modélise ce nombre de
+bénévoles par 𝑢(𝑛), où 𝑛 désigne le nombre entier d’années écoulées depuis 2019.
+a) On admet que 𝑢(5) ≈ 107,05. Interpréter cette valeur dans le contexte de
+l’exercice.
+b) On cherche à déterminer au bout de combien d’années le nombre de bénévoles
+dépassera pour la première fois 140. On suppose que cela est possible.
+On considère ci-dessous le script écrit en langage « Python » :
+def nombre_annees(s):
+u=80
+n=0
+while u<=s :
+u=u*1.06
+n=n+1
+return n
+
+Quelle commande faut-il exécuter pour que le script renvoie la valeur qui réponde au
+problème ?
+
+Exercice 3 : (5 points)
+180 personnes ont été interrogées sur leur lieu d’habitation (Centre-ville, banlieue,
+campagne) et sur leur type d’habitation (appartement, maison).
+Voici ce que l’enquête a révélé :
+ 20 % des personnes habitent en centre-ville. Parmi elles, 13 habitent dans une
+maison ;
+ 88 personnes habitent dans un appartement en banlieue ;
+ 5 % des personnes habitent à la campagne dans une maison ;
+ 10 personnes habitent à la campagne.
+1. Reproduire et compléter le tableau suivant :
+Lieu
+d’habitation
+Centre-ville
+
+Type
+
+Banlieue
+
+Campagne
+
+Total
+
+d’habitation
+Appartement
+Maison
+Total
+
+2. On choisit au hasard et de façon équiprobable une personne parmi celles qui ont été
+interrogées.
+Les probabilités seront données sous forme décimale, approchée au centième.
+a) Quelle est la probabilité que la personne habite à la campagne ?
+b) Quelle est la probabilité que la personne habite dans une maison en banlieue ?
+c) Quelle est la probabilité que la personne habite dans une maison qui ne soit pas
+en centre-ville ?
+3. On choisit à présent au hasard une personne parmi celles qui habitent dans un
+appartement.
+Quelle est la probabilité que cette personne habite en centre-ville ?
+
+Exercice 4 : (5 points)
+On s’intéresse à la fonction polynôme 𝑓 définie sur R par :
+𝑓(𝑥) = −3𝑥 2 + 30𝑥 + 33
+1. On admet que pour tout réel 𝑥, 𝑓(𝑥) = −3(𝑥 + 1)(𝑥 − 11).
+a) Quelles sont les racines de 𝑓 ?
+b) Parmi les trois courbes ci-dessous, déterminer celle qui représente la fonction 𝑓.
+Expliquer la démarche.
+Courbe 1
+
+Courbe 2
+
+Courbe 3
+
+c) La courbe représentative de la fonction 𝑓 admet un axe de symétrie. Donner son
+équation.
+
+2. Dresser le tableau de variation de la fonction 𝑓 sur R en précisant la valeur de
+l’extremum.
+3. L’équation 𝑓(𝑥) = 50 admet-elle des solutions sur R ? Dans l’affirmative préciser leur
+nombre.

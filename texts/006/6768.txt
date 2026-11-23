@@ -1,0 +1,127 @@
+{"pages": 6, "method": "pdftotext", "bytes": 629205, "at": "2026-11-23T08:57:58+00:00"}
+PARTIE I - Exercice 1
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Cet exercice comporte 10 questions. Écrire la réponse dans la colonne de droite.
+Aucune justification n’est demandée.
+
+Énoncé
+
+Réponse
+1) Préciser le sens de variation de
+la fonction 𝑓 sur l’intervalle
+[3 ; 4].
+
+1.
+
+………………………………
+2.
+2) Le signe de la fonction 𝑓 sur
+l’intervalle [3 ; 4] est :
+…………………………………
+
+𝐶𝑓 est la courbe représentative d’une fonction
+𝑓 définie sur [−4; 4] .
+
+3.
+
+Tracer avec précision dans le repère ci-contre
+la droite d’équation 𝑦 = 2 𝑥 + 1 .
+
+4.
+
+Dans le plan muni d’un repère, on considère
+deux points A(3; 2) et B(7; 8).
+Calculer le coefficient directeur de la droite
+(AB).
+
+5.
+
+Développer l’expression (𝑥 + 3)2 .
+
+6.
+
+Factoriser l’expression 𝑥 2 − 25 .
+
+7.
+
+10 % de 60 % d’une quantité correspond à
+𝑥 % de celle-ci avec :
+
+8.
+
+𝑥=⋯
+
+Le diagramme en boîte ci-dessous est
+associé à une série statistique.
+
+La médiane de cette série statistique
+est égale à ................
+
+9.
+On considère le même diagramme en boîte
+que dans la question 8.
+
+Le pourcentage de valeurs
+inférieures ou égales à 2,5 est
+environ : ....................
+
+10.
+Convertir 4,6 heures en heures et minutes.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 : (5 points)
+Les deux parties A et B sont indépendantes.
+Partie A
+On considère la fonction polynôme du second degré f définie sur R par
+𝑓(𝑥) = 𝑥 2 + 2𝑥 − 3 .
+1) Montrer que 3 n’est pas une racine du polynôme 𝑥 2 + 2𝑥 − 3 .
+2) a) Montrer que 𝑓(𝑥) = (𝑥 + 3)(𝑥 − 1) .
+b) En déduire les deux racines du polynôme 𝑥 2 + 2𝑥 − 3 .
+Partie B
+On considère deux fonctions 𝑔 et ℎ définies sur R. La droite 𝐶𝑔 représente la fonction
+𝑔 et la parabole 𝐶ℎ représente la fonction ℎ.
+
+1) Résoudre graphiquement dans R l’équation 𝑔(𝑥) = ℎ(𝑥).
+2) Résoudre graphiquement dans R l’inéquation 𝑔(𝑥) ≥ ℎ(𝑥).
+
+EXERCICE 3 : (5 points)
+On considère qu’une entreprise produit, par semaine, 𝑥 lots de mobilier urbain, où 𝑥
+est un entier compris entre 0 et 80.
+Le coût de production, exprimé en euro, pour 𝑥 lots produits est modélisé par la
+fonction 𝐶 définie par :
+𝐶(𝑥) = 𝑥 3 − 84𝑥 2 + 5 000𝑥
+1) Calculer le coût correspondant à la production de 50 lots.
+2) Chaque lot produit par l’entreprise est vendu 5 000 €.
+Justifier que le bénéfice, exprimé en euro, réalisé lorsque l’entreprise produit et vend
+𝑥 lots est donné par la fonction 𝐵 définie sur [0 ; 80] par
+𝐵(𝑥) = −𝑥 3 + 84𝑥 2 .
+3) a) Déterminer 𝐵′(𝑥) où 𝐵′ désigne la fonction dérivée de la fonction 𝐵.
+b) Montrer que, pour tout réel 𝑥 de [0 ; 80],
+𝐵 ′ (𝑥) = 3𝑥(56 − 𝑥) .
+c) En déduire le nombre de lots que l’entreprise doit produire et vendre pour réaliser
+un bénéfice maximal, puis donner la valeur de ce bénéfice maximal.
+
+EXERCICE 4 : (5 points)
+Un magasin de vêtements a constitué un stock de jeans. Certains de ces jeans
+présentent un défaut et on admet que le pourcentage de jeans présentant un défaut
+est égal à 10 %.
+On prélève au hasard un jean dans le stock. Le choix d’un jean est modélisé par une
+épreuve de Bernoulli, dont le succès est l’événement « Le jean choisi a un défaut »,
+noté 𝑆.
+Pour tout événement 𝐸, on notera 𝑃(𝐸) la probabilité de 𝐸 et 𝐸̅ l’événement contraire
+de 𝐸.
+Dans cet exercice, les résultats seront donnés sous forme décimale arrondis au
+millième si nécessaire.
+1) Donner le paramètre 𝑝 de l’épreuve de Bernoulli considérée.
+2) On répète 3 fois de manière indépendante cette épreuve. Le stock est
+suffisamment important pour assimiler le choix à un tirage avec remise.
+a) Représenter par un arbre de probabilités l’expérience aléatoire.
+b) Calculer la probabilité de l’événement 𝐴 : « Aucun jean n’a de défaut » ;
+c) Calculer la probabilité de l’événement 𝐵 : « Un seul jean a un défaut » ;
+d) Calculer la probabilité de l’événement 𝐶 : « Exactement 3 jeans ont un défaut ».

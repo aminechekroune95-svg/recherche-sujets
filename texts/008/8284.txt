@@ -1,0 +1,137 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1061263, "at": "2026-11-23T08:56:20+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+Diminuer une quantité de 15 % revient à la
+multiplier par ……
+
+Résoudre l’inéquation −4𝑥 − 3 < 7.
+
+Tracer ci-contre la droite d’équation
+
+𝑦 = − 3 𝑥 + 2.
+
+Développer et réduire l’expression
+(𝑥 − 3)(5 − 2𝑥).
+
+Si 𝑣 =
+
+𝑑
+alors 𝑡 =
+𝑡
+
+Soit 𝑓 la fonction définie pour tout
+nombre réel 𝑥 par 𝑓(𝑥) = √7 + 3𝑥 2 .
+
+Le point de la courbe représentative de
+𝑓 ayant pour abscisse −2 a pour
+ordonnée :
+
+20 % de 55 vaut :
+Avec la précision permise par le
+graphique, dresser le tableau de signes
+de la fonction 𝑓 définie sur l’intervalle
+[−3; 4] et représentée ci-dessous
+
+Factoriser l’expression (𝑥 − 2)2 − 16.
+
+Le taux d’évolution réciproque associée à une
+baisse de 20 % est ……
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Selon une étude de l’INSEE publiée en 2018, la population mondiale subit une hausse
+moyenne de 1,6 % par an depuis 1960. En 2017, elle s’élevait à 7 550 millions d’individus.
+On suppose que la population mondiale continue de croître chaque année de 1,6 % à partir
+de 2017. On modélise l’évolution de la population mondiale par une suite (𝑢𝑛 ) : pour tout
+entier naturel 𝑛, on note 𝑢𝑛 la population mondiale en millions d’individus pour
+l’année 2017 + 𝑛. Ainsi, 𝑢0 = 7550.
+Calculer 𝑢1 et 𝑢2 . On arrondira les résultats au million.
+Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 pour tout entier naturel 𝑛.
+En déduire la nature de la suite (𝑢𝑛 ) et préciser sa raison.
+Calculer l’estimation de la population mondiale en 2025 selon ce modèle, en millions
+d’individus. Détailler la démarche, et arrondir au million.
+5. On considère la fonction Python 𝑠𝑒𝑢𝑖𝑙 suivante dont le paramètre 𝑛𝑏 est un nombre
+entier :
+1.
+2.
+3.
+4.
+
+Qu’obtient-on en exécutant 𝑠𝑒𝑢𝑖𝑙(10000) ? Interpréter le résultat obtenu à la
+question 4 dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+On note 𝐵 la fonction définie sur l’intervalle [0; 10] par 𝐵(𝑥) = −5𝑥 2 + 55𝑥 + 400.
+Un restaurant de centre-ville propose un menu du soir à 15 €. Afin d’optimiser son bénéfice,
+le propriétaire du restaurant souhaite modifier le prix de ce menu. Une étude révèle que
+pour une augmentation de 𝑥 euros, compris entre 0 et 10 euros, le bénéfice réalisé en euros
+est donné par 𝐵(𝑥).
+1. Quel est le bénéfice sans augmentation ?
+On note 𝐵′ la fonction dérivée de la fonction 𝐵 pour 𝑥 appartenant l’intervalle [0; 10].
+2. Déterminer l’expression de 𝐵′(𝑥).
+3. Dresser le tableau de variation de la fonction 𝐵 sur l’intervalle [0; 10].
+4. a. Déterminer pour quelle valeur de 𝑥 le bénéfice est maximal et préciser sa valeur.
+b. Quel doit être le prix du menu du soir pour avoir un bénéfice maximal ?
+
+Exercice 4 (5 points)
+Selon la hauteur du véhicule, les bornes de péages automatiques délivrent un ticket à deux
+hauteurs différentes, permettant au conducteur de ne pas descendre de son véhicule pour
+saisir le ticket. Si la hauteur du véhicule ne dépasse pas les 2 mètres, le ticket sort en bas,
+sinon il sort en haut.
+Sur un parcours autoroutier, l’une de ces bornes est défectueuse et on a constaté que la
+probabilité qu’un conducteur n’ait pas à sortir de son véhicule pour saisir le ticket est 0,59.
+Lorsqu’un véhicule se présente devant cette borne, on considère qu’il y a succès si le
+conducteur n’a pas besoin de descendre du véhicule. Cinq véhicules se présentent
+successivement à la borne défectueuse. La borne délivre successivement 5 tickets de
+manière indépendante. On note X la variable aléatoire associée au nombre de succès.
+1. Montrer que cette situation peut se modéliser par la répétition d’une épreuve de
+Bernoulli dont on précisera le paramètre.
+2. Exprimer à l’aide d’une phrase l’événement {𝑋 ≤ 3}.
+3. On donne ci-dessous le tableau de la loi de probabilité de 𝑋 :
+𝑘
+𝑃(𝑋 = 𝑘)
+
+0,08
+
+0,24
+
+0,35
+
+0,25
+
+0,07
+
+a. Déterminer 𝑃(𝑋 = 0).
+b. Calculer 𝑃(𝑋 > 1). Interpréter ce résultat dans le contexte de l’exercice.
+c. Calculer l’espérance de la variable aléatoire 𝑋. Quelle interprétation faites-vous
+de ce résultat ?

@@ -1,0 +1,141 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1231317, "at": "2026-11-23T08:53:40+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Automatismes
+
+Exercice 1 (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquer les réponses dans la colonne de droite du tableau. Aucune justification n’est
+attendue.
+
+Questions
+1.
+
+2.
+
+Réponses
+
+Sur 4 000 sièges, 250 sièges sont déjà réservés.
+Déterminer la proportion, en fraction irréductible, représentant
+les sièges déjà réservés.
+Compléter la phrase :
+« Augmenter de 40 % c’est multiplier par … »
+
+3.
+
+Voici la courbe représentative d’une fonction 𝑓 définie et dérivable sur [−5 ; 4] :
+
+Répondre aux questions 3.a), 3.b), 3.c) et 3.d) avec la précision permise par le
+graphique :
+a) Déterminer 𝑓(−3).
+
+b) Déterminer le nombre d’antécédents de 1 par la fonction 𝑓.
+
+c) Étudier le signe de 𝑓 sur [−5 ; 4].
+
+d) Déterminer l’entier le plus proche du nombre dérivé 𝑓 ′ (3).
+4.
+Déterminer le taux d’évolution correspondant à une hausse de
+40 % suivie d’une hausse de 20 % ?
+5.
+Une voiture coûte 12 000 € hors taxes et le taux de la TVA est
+de 20 %. Quel est le prix TTC, en euro, de cette voiture ?
+6.
+Résoudre dans ℝ l’inéquation : − 4𝑥 + 7 ≤ −2𝑥.
+7.
+
+Résoudre dans ℝ l’équation 3𝑥 2 + 7 = 13.
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un site internet de vente de produits multimédias propose une vente exceptionnelle
+d’ordinateurs, de smartphones et de tablettes. Deux tiers des articles sont fabriqués en
+France, le reste est fabriqué à l’étranger.
+On choisit au hasard un des articles en vente sur ce site.
+On note les événements suivants :
+F : « l’article est fabriqué en France »
+E : « l’article est fabriqué à l’étranger »
+O : « l’article est un ordinateur »
+S : « l’article est un smartphone »
+T : « l’article est une tablette »
+L’arbre pondéré ci-dessous modélise cette situation :
+
+1. Donner la valeur de PF (O) et interpréter le résultat dans le contexte de l’exercice.
+2. Recopier et compléter l’arbre sur votre copie.
+
+3. Calculer la probabilité que l’article soit un ordinateur fabriqué en France.
+4. Calculer la probabilité que l’article soit une tablette.
+5. Les événements F et T sont-ils indépendants ? Justifier votre réponse.
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction dérivable et définie sur l’intervalle [0,1 ; 9] par : 𝑓(𝑥) = 5 + 𝑥 +
+
+𝑥
+
+.
+
+On note 𝑓’ la fonction dérivée de 𝑓.
+
+1. Calculer, pour tout réel 𝑥 de [0,1 ; 9], le nombre dérivé 𝑓′(𝑥).
+2. Montrer que pour tout réel 𝑥 de [0,1 ; 9], 𝑓 ′ (𝑥) est égal à
+
+( 𝑥+3 )(𝑥−3 )
+𝑥2
+
+.
+
+3. Justifier que pour tout réel 𝑥 de [0,1 ; 9], le signe de 𝑓 ′ (𝑥) est le même que le signe
+de 𝑥 − 3.
+4. En déduire les variations de 𝑓 sur [0,1 ; 9].
+5. Voici une proposition :
+« Pour tout réel 𝑥 de [0,1 ; 9], on a : 𝑓(𝑥) ≥ 10. »
+Cette proposition est-elle vraie ? Vous justifierez votre réponse.
+
+Exercice 4 (5 points)
+Le directeur d’un cinéma de centre-ville a vu le nombre d’entrées diminuer de 5 % par an
+depuis l’ouverture en 2000, année au cours de laquelle il avait comptabilisé 200 000
+entrées.
+
+Pour tout entier naturel 𝑛, on modélise par 𝑢𝑛 le nombre d’entrées dans ce cinéma l’année
+2000 + 𝑛 . On définit ainsi la suite 𝑢 sur ℕ. On a : 𝑢0 = 200 000.
+
+1. Quelle est la nature de la suite 𝑢 ? Justifier et donner la valeur de la raison.
+2. Exprimer 𝑢𝑛 en fonction de 𝑛, où 𝑛 est un entier naturel.
+3. Selon ce modèle, combien d’entrées le directeur a-t-il comptabilisé entre 2000 et
+2010 ? Arrondir le résultat à l’unité.
+4. On cherche à déterminer au bout de combien d’années, le nombre d’entrées dans ce
+cinéma aura été divisé par deux par rapport à celui de l’année d’ouverture du
+cinéma.
+Pour cela, on programme une fonction, en langage Python, appelée cinéma et sans
+argument :
+def cinema():
+N=0
+U = 200000
+while U >…………..:
+N = …..
+U = …..
+return N
+a) Recopier ce programme et compléter les instructions manquantes afin de
+répondre au problème posé.
+b) Le programme renvoie la valeur 14. Interpréter le résultat dans le contexte de
+l’exercice.

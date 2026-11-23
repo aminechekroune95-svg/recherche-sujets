@@ -1,0 +1,167 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1085160, "at": "2026-11-23T08:55:56+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquer les réponses dans la colonne de droite du tableau. Aucune justification n’est
+attendue.
+
+Questions
+
+Réponses
+
+1. Donner l’équation réduite de la droite passant par les points
+A(5 ; 2) et B(10 ; 8) dans un repère du plan.
+2. Soit la fonction 𝑓 définie sur ℝ par : 𝑓(𝑥) = 3𝑥 2 − 4𝑥 + 12.
+Entourer un ordre de grandeur de 𝑓(975) parmi les quatre
+propositions de la colonne de droite :
+
+a. −2 000 000
+b. 3 000 000
+c. 2 000
+d. 9 000 000
+
+3. Calculer et écrire sous la forme d’une fraction irréductible, le
+3−5
+nombre suivant : 4 .
+
+4. Donner l’écriture scientifique de
+
+4×1012 ×0,000 3
+2×105
+
+.
+
+5. Après une étude sur l’âge des employés dans
+une entreprise de 80 personnes, on a dressé le
+diagramme ci-contre. L’angle du secteur
+représentant les 40 − 50 ans mesure 90°.
+Dans cette entreprise, il y a 12 personnes de
+50 ans et plus.
+
+50 ans
+et plus
+
+40-50
+
+20-30
+
+30-40
+
+a. Préciser l’effectif des personnes âgées entre 40
+et 50 ans de l’entreprise.
+b. Indiquer la mesure en degré de l’angle du secteur
+représentant les personnes âgées de 50 ans et plus de
+l’entreprise.
+6. Une urne contient 64 boules de quatre couleurs : rouge, jaune, verte et bleue.
+des boules sont jaunes et, parmi elles, 30 % sont numérotées.
+
+a. Quelle est la proportion de boules jaunes et numérotées
+dans l’urne ?
+b. La proportion de boules bleues dans l’urne est de 0,25.
+Combien y a-t-il de boules bleues dans l’urne ?
+7. Une plaque de métal a une masse surfacique de 20 kg/m².
+Quelle est sa masse surfacique en g/cm² ?
+8. Résoudre dans ℝ l’inéquation 2𝑥 − 4 > 5𝑥 + 1.
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une entreprise produit des pièces pour l'industrie. Dans un important stock de ces pièces, on
+prélève trois pièces au hasard pour vérification. Le stock est assez important pour qu'on
+puisse assimiler ce prélèvement à un tirage avec remise.
+On appelle D l’événement : « La pièce prélevée présente un défaut ». On suppose que la
+probabilité de D est 2 %.
+̅ l’événement contraire de l’événement D.
+On note D
+On considère la variable aléatoire X qui, à tout prélèvement de trois pièces, associe le
+nombre de pièces présentant un défaut.
+1. Construire un arbre pondéré illustrant cette situation.
+2. Justifier que P(X = 2) est proche de 0, 001.
+Le service qualité de l’entreprise effectue un nouveau prélèvement de 100 pièces dans ce
+stock dans les mêmes conditions. On considère la variable aléatoire Y qui, à tout
+prélèvement de 100 pièces, associe le nombre de pièces réalisant D.
+On admet que Y suit la loi binomiale B(100 ; 0,02) de paramètres 𝑛 égal à 100 et
+𝑝 égal à 0,02.
+3. Si on représentait un arbre pondéré illustrant cette nouvelle situation, combien de
+chemins de l’arbre réaliseraient l’événement Y = 3 ?
+4. Calculer P(Y ≤ 2). Arrondir au millième près.
+5. Calculer l’espérance de Y et interpréter sa valeur selon le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Une entreprise produit 500 tonnes de déchets en 2008. La production de déchets
+augmente de 12 % par an, depuis l’année 2008.
+Pour tout entier naturel 𝑛, 𝑑𝑛 représente la quantité produite de déchets, exprimée en
+tonne, en l’année 2008 + 𝑛.
+1. Déterminer la nature de la suite (𝑑𝑛 ) en précisant son premier terme et sa raison.
+2. Selon ce modèle, vérifier qu’en 2018 l’entreprise a produit environ 1 553 tonnes de
+déchets.
+En 2018, la nouvelle stratégie commerciale de l’entreprise change les procédés de
+fabrication afin de diminuer la masse produite de déchets.
+À compter de l’année 2018, la production des déchets baisse de 4 % par an au cours des
+deux années suivantes.
+3. Selon ce nouveau modèle, estimer la quantité produite de déchets, exprimée en
+tonne, en 2020. On arrondira le résultat à l’unité.
+4. Résoudre sur ℕ l’inéquation 1553 × 0,96𝑛 < 500.
+5. En considérant que cette baisse de production de déchets de 4 % par an se prolonge
+au-delà de l’année 2020, interpréter le résultat de la question précédente dans le
+contexte de l’exercice.
+
+Exercice 4 (5 points)
+
+On étudie la fonction 𝑓
+définie sur ]0 ; +∞[ par
+𝑓(𝑥) = 𝑥 + 2 + .
+𝑥
+
+On donne ci-contre la
+courbe représentative de 𝑓
+ainsi que ses tangentes au
+point A d’abscisse 1 et B
+d’abscisse 4.
+
+1. Déterminer 𝑓’(1) et 𝑓’(4) par lecture graphique avec la précision qu’elle permet.
+2. Montrer que, pour tout réel 𝑥 strictement positif , 𝑓’(𝑥) est égal à
+3. En déduire les variations de 𝑓 sur ]0 ; +∞[.
+
+(𝑥−2)(𝑥+2)
+𝑥²
+
+.
+
+On considère une seconde fonction notée 𝑔 définie sur ]0 ; +∞[ par 𝑔(𝑥) = 1,1𝑥 . Dans le
+repère, on donne la courbe d‘équation 𝑦 = 1,1𝑥 .
+4. Donner, en le justifiant, le sens de variation de la fonction 𝑔 sur ]0 ; +∞[.
+On considère le programme ci-contre en langage Python :
+La commande compare() renvoie les deux valeurs 39 et 40.
+5. En utilisant cette information et le graphique cidessus, quelles conjectures peut-on établir sur la
+position relative des courbes de 𝑓 et de 𝑔 ?
+
+def compare():
+x=1
+while x+2+4/x>1.1**x:
+x=x+1
+return x,x+1

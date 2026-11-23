@@ -1,0 +1,157 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1316046, "at": "2026-11-23T08:56:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+1)
+
+Convertir 200 m/min en km/h
+
+2)
+
+Un produit coûtant 12€ voit son prix
+augmenter de 20%. Quel est son nouveau
+prix ?
+
+3)
+
+Développer et réduire l’expression :
+
+Réponse
+
+(2 – 5𝑥)2
+4)
+
+Résoudre dans 𝐑 l’équation :
+𝑥 2 = 36
+
+5)
+
+Quel est le coefficient multiplicateur
+correspondant à une diminution de 15% ?
+
+6)
+
+Un lot de 3 balles de tennis pèse 180g.
+Calculer la masse de 5 de ces mêmes
+balles.
+
+7)
+
+Pour les deux questions ci-contre, on Avec la précision permise par le
+donne la représentation graphique graphique, donner l’image de 3 par la
+d’une fonction f définie sur 𝐑.
+fonction 𝑓 :
+
+8)
+
+Donner le signe de 𝑓(𝑥) suivant les
+valeurs de 𝑥 sur l’intervalle [−7 ; 3]
+𝑥
+𝑓(𝑥)
+
+9)
+
+Sur le graphique ci-contre, tracer la
+droite d’équation 𝑦 = −2𝑥 + 1
+
+10)
+
+Quel est l’effectif total de la série
+statistique
+représentée
+par
+le
+diagramme en bâtons ci-contre ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+
+En 2018, on recense 5 729 dizaines de milliers de français utilisant Internet.
+En 2017, 5 000 dizaines de milliers nouveaux internautes français avaient été comptabilisés.
+
+1) Calculer le taux d’évolution du nombre d’internautes français entre 2017 et 2018
+(arrondir à 0,01% près).
+Des études récentes permettent de supposer que le nombre d’internautes français va
+augmenter de 0,8% par an à partir de 2018. On note 𝑢𝑛 le nombre d’internautes français
+pour l’année 2018 + 𝑛.
+2)
+
+a) Calculer 𝑢1 . Arrondir le résultat à la dizaine de milliers près.
+b) Quelle est la nature de la suite 𝑢𝑛 ? Justifier.
+
+3) On donne l’algorithme suivant écrit en langage Python :
+def rang () :
+u=57,29
+n=0
+while u<60 :
+u=u*1,008
+n=n+1
+return n
+a) Quelle valeur numérique renvoie cette fonction ?
+b) Que représente ce résultat dans le contexte de l’énoncé ?
+
+Exercice 3 : (5 points)
+Une entreprise fabrique des emballages spécifiques aux médicaments.
+La production quotidienne sur une de ses lignes de production, exprimée en milliers
+d’emballages, varie entre 5 et 11.
+Le bénéfice correspondant à la fabrication et à la vente de 𝑥 milliers d’emballages, exprimé
+en euros, est modélisé par la fonction 𝑓 définie sur l’intervalle [5 ; 11] par :
+𝑓(𝑥) = 𝑥 3 – 24 𝑥 2 + 180𝑥 + 250.
+
+1) On note 𝑓’ la fonction dérivée de la fonction 𝑓 sur l’intervalle [5 ; 11].
+Déterminer l’expression de 𝑓’(𝑥).
+2) Justifier que, pour tout nombre réel 𝑥 de l’intervalle [5 ; 11] , on a :
+𝑓’(𝑥) = 3 (𝑥 – 10) (𝑥 – 6) .
+3) Étudier le signe de 𝑓’(𝑥) sur l’intervalle [5 ; 11] .
+4) Construire le tableau de variations de la fonction 𝑓 sur l’intervalle [5 ; 11].
+5) Quel est le nombre d’emballages à fabriquer pour obtenir le bénéfice maximal ?
+Quel est alors ce bénéfice maximal ?
+
+Exercice 4 : (5 points)
+Les périodes hivernales sont propices aux épidémies de grippe saisonnière.
+Dans un lycée, le personnel de santé chargé du suivi médical des élèves a effectué un
+recensement dont il ressort que 20% des élèves ont contracté la grippe cet hiver.
+̅ son événement
+On considère l’événement G : « l’élève a contracté la grippe », et G
+contraire.
+On choisit au hasard la fiche de suivi médical de trois élèves de ce lycée, chaque fiche ayant
+la même probabilité d’être choisie. La taille du lycée permet de considérer ces choix comme
+étant avec remise.
+On note 𝑋 la variable aléatoire qui, aux trois fiches choisies, associe le nombre d’élèves
+ayant eu la grippe cet hiver.
+̅) de l’événement ̅
+1) Calculer la probabilité 𝑝(G
+G.
+2) Justifier que cette expérience correspond à un schéma de Bernoulli.
+3) Représenter la situation à l’aide d’un arbre de probabilité pondéré.
+4) Calculer 𝑝(𝑋 = 2). En donner une interprétation.
+5) Calculer la probabilité qu’au moins une des trois fiches choisies soit celle d’un élève
+ayant eu la grippe cet hiver.

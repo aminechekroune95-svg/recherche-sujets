@@ -1,0 +1,178 @@
+{"pages": 9, "method": "pdftotext", "bytes": 922682, "at": "2026-11-23T08:59:39+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+1.
+2.
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+Pendant les soldes, le prix d’une paire de chaussures
+passe de 50€ à 35€. Calculer pourcentage
+correspondant à cette remise.
+
+Réponse
+
+Calculer 5% de 4 846 000.
+Donner l’écriture scientifique de
+
+3.
+
+21 × 105 × 8 × 10−3
+𝐵=
+12 × 107
+
+4.
+On considère l’expression 𝐴(𝑥) = (2𝑥 − 5)(3 − 𝑥)
+définie sur l’ensemble ℝ des nombres réels.
+
+Compléter :
+𝐴(−1) =…………
+
+5.
+6.
+7.
+
+8.
+
+Résoudre
+𝐴(𝑥) = 0
+
+Convertir 1 500 L en m3.
+𝒞𝑓 est la courbe
+représentative
+d’une fonction
+𝑓 définie sur ℝ.
+Compléter par
+lecture
+graphique :
+
+𝑓(1) = ………
+
+La fonction 𝑓 est
+………………………
+sur ]−4 ; −1] ∪ [3 ; +∞[
+
+9.
+
+10.
+
+Dans une classe de
+20 élèves, on
+s’intéresse au
+nombre d’enfants
+dans chaque
+famille.
+
+Dans cette classe,
+……. élèves sont
+enfant unique.
+
+……….% des familles
+possèdent 5 enfants
+ou plus.
+
+Compléter :
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur ℝ par :
+
+𝑓(𝑥) = 3 𝑥 3 − 6𝑥 2 + 5𝑥 + 2
+
+1. Calculer 𝑓’(𝑥) et montrer que l’on peut l’écrire sous la forme :
+𝑓 ′ (𝑥) = (2𝑥 − 5)(−1 + 2𝑥)
+2. a. Construire le tableau de signe de 𝑓 ′ (𝑥).
+b. En déduire le tableau de variation de la fonction 𝑓.
+3. La courbe 𝒞𝑓 représentant la fonction 𝑓 est tracée sur le graphique de l’annexe à rendre
+avec la copie.
+On considère la droite ∆ tangente à la courbe 𝒞𝑓 point d’abscisse 1,5.
+a. Déterminer l’équation réduite de ∆.
+b. Tracer ∆ sur le graphique de l’annexe.
+
+Exercice 3 (5 points)
+Afin de se constituer un capital, Monsieur Martin souhaite placer un capital de 1 000 € sur
+un compte. Son banquier lui conseille la formule suivante :
+Placement à 2,2% par an, à intérêts composés, c’est-à-dire qu’à la fin de chaque année, les
+intérêts perçus s’ajoutent au capital, et génèrent eux-mêmes des intérêts les années
+suivantes.
+Dans cet exercice, si nécessaire, les valeurs seront arrondies à l’unité.
+On note 𝐶𝑛 le montant, en €, du capital accumulé au bout de 𝑛 mois.
+Ainsi 𝐶0 = 1 000.
+1. Calculer 𝐶1 et 𝐶2 .
+2. Donner, pour tout entier 𝑛, l’expression de 𝐶𝑛+1 en fonction de 𝐶𝑛 .
+3. En déduire la nature de la suite (𝐶𝑛 ).
+4. Calculer 𝐶7 . Que représente cette valeur pour Monsieur Martin ?
+5. Monsieur Martin souhaite savoir au bout de combien d’années il disposera de 1 300 € sur
+son compte.
+Recopier et compléter l’algorithme ci-contre
+(écrit dans le langage Python) pour que l’appel
+de la variable n, en fin d’exécution, réponde au
+problème posé.
+
+S = 1 000
+C = 1 000
+n = 0
+while …:
+n = n+1
+S = …
+C = …
+
+Exercice 4 (5 points)
+Dans un lycée de 450 élèves, le foyer a dénombré les lycéens utilisant la connexion wifi mise
+à leur disposition. Il en ressort que 72% élèves utilisent cette connexion, et parmi eux, 148
+filles. En revanche, 20% des garçons affirment ne pas l’utiliser.
+
+1. À l’aide des données précédentes, compléter le tableau croisé d’effectifs donné en
+annexe, à rendre avec la copie.
+2. On prélève au hasard une fiche dans le fichier des élèves du lycée. On admettra que
+toutes les fiches ont la même probabilité d’être prélevées. On note :
+
+G l’évènement : « la fiche prélevée est celle d’un garçon » ;
+
+W l’évènement : « la fiche prélevée est celle d’un élève utilisant la connexion wifi ».
+Si nécessaire, les résultats seront arrondis à 10−2 près.
+a. Calculer la probabilité de prélever la fiche d’un garçon.
+b. Montrer que la probabilité de prélever la fiche d’un garçon utilisant la connexion wifi est
+égale à 0,39.
+c. Calculer la probabilité de prélever la fiche d’un élève n’utilisant pas la connexion wifi,
+sachant que cet élève est une fille.
+d. Calculer la probabilité 𝑃𝑊 (𝐺) et interpréter le résultat.
+
+Annexe à rendre avec la copie
+Exercice 2
+
+Exercice 4
+Filles
+
+Garçons
+
+Total
+
+Utilisent la connexion wifi
+N’utilisent pas la connexion wifi
+Total

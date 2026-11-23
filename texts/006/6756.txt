@@ -1,0 +1,244 @@
+{"pages": 7, "method": "pdftotext", "bytes": 879516, "at": "2026-11-23T08:58:04+00:00"}
+PARTIE I
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points) – Exercice 1
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+Question n°1
+Augmenter un prix de 15 % revient à :
+A) ajouter 15 €
+à ce prix
+
+B) multiplier ce prix
+par 0,15
+
+D) diviser ce prix
+
+C) multiplier ce prix
+par 1,15
+
+par
+
+Question n°2
+Pour une hausse de 50 % suivie d’une baisse de 50 %, l’évolution globale :
+A) n’est ni une
+hausse, ni une baisse
+
+B) est une hausse
+de 25 %
+
+C) est une baisse de
+25 %
+
+D) est une baisse de
+20 %
+
+Question n°3
+L’ensemble des solutions dans R de l’inéquation 6𝑥 − 7 ≥ 4𝑥 est :
+A) [−3,5 ; +∞[
+
+B) [5 ; +∞[
+
+C) ] − ∞ ; 3,5]
+
+D) [3,5 ; +∞[
+
+Question n°4
+Après une augmentation de 10 %, une voiture coûte 22 000 €. Son ancien prix était :
+A) 23 000 €
+
+B) 22 010 €
+
+C) 21 000 €
+
+D) 20 000 €
+
+Question n°5
+La moyenne d’un élève passe de 10 au 1er trimestre à 15 au 2e trimestre, cette moyenne a :
+augmenté de 5 %
+
+augmenté de 75 %
+
+augmenté de 50 %
+
+été multipliée par 2/3
+
+Question n°6
+L’équation 2𝑥² = 8 a pour solutions dans R :
+B) 3 et −3
+
+A) 1 et 2
+
+C) 1 et −1
+
+D) 2 et −2
+
+Question n°7
+Le signe de l’expression 3𝑥 − 15 est :
+positif sur [0 ;+∞[
+
+négatif sur [0 ;+∞[
+
+positif sur [5 ;+∞[
+
+négatif sur [5 ;+∞[
+
+Question n°8
+L’inéquation (𝑥 + 5)(𝑥 − 3)  0 a pour ensemble de solutions dans R :
+] − ∞ ; 3][5 ; +∞[
+
+[3 ; 5]
+
+[−5 ; 3]
+
+] − ∞ ; −5][3 ; +∞[
+
+Question n°9
+L’équation
+
+3𝑇
+
+= 3 + 𝑇 admet pour solution dans R :
+
+A) −28
+
+B) −12
+
+C) 12
+
+D) 28
+
+Question n°10
+Le volume d’eau disponible cet été pour l’arrosage d’un jardin est donné dans le tableau
+ci-dessous :
+Mois
+
+Mai
+
+Juin
+
+Juillet
+
+Volume (L)
+
+5 000
+
+4 500
+
+Indice
+
+La proposition vraie est :
+
+L’indice associé au
+mois de juin est 70
+
+Le volume d’eau en
+juillet est 3 000 L
+
+Le volume d’eau en
+juillet est 2 700 L
+
+L’indice associé au
+mois de juin est 80
+
+PARTIE II
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+On considère la fonction 𝑉 définie sur ℝ par 𝑉(𝑥) = 5(2𝑥 + 3)(3𝑥 + 2)(2 − 𝑥) .
+On appelle 𝐶 la représentation graphique de la fonction 𝑉 dans un repère orthogonal.
+1. Donner les solutions de l'équation 𝑉(𝑥) = 0 .
+2. Dresser le tableau de signes sur ℝ de la fonction 𝑉.
+3. En déduire les solutions dansℝde l’inéquation 𝑉(𝑥) ≥ 0 .
+4. La courbe représentative de la fonction 𝑉 sur l’intervalle [0 ; 2] est donnée en
+annexe 1.
+Résoudre graphiquement l’inéquation 𝑉(𝑥) ≥ 80 sur l'intervalle [0 ; 2] en laissant
+visibles les traits de construction sur la courbe fournie en annexe 1 à rendre avec la
+copie.
+5. On considère l’algorithme ci-dessous :
+def V(x):
+return 5*(2*x + 3)*(2 - x)*(3*x + 2)
+x=0
+while V(x) < 80 :
+x = x + 0.1
+À la fin de l’exécution, la variable x vaut 0,3.
+Donner une interprétation de cette valeur dans le contexte de l’exercice.
+
+Exercice 3 : (5 points)
+Partie A
+Sur le graphique donné ci-dessous, 𝐶𝑓 est la représentation
+graphique d’une fonction 𝑓 définie et dérivable sur ℝ .
+La droite 𝑇 est la tangente à 𝐶𝑓 au point d’abscisse −1.
+
+1. Par lecture graphique, donner 𝑓(1) et 𝑓(−1).
+2. Déterminer graphiquement l’équation réduite de la tangente 𝑇.
+Partie B
+On admet que la fonction 𝑓 est définie, pour tout 𝑥 de ℝ, par 𝑓(𝑥) = 𝑥 3 − 𝑥 2 − 𝑥 + 2 .
+1. Déterminer 𝑓’(𝑥) pour tout 𝑥 appartenant à ℝ.
+2. Dans la suite de l’exercice, on admet que, pour tout 𝑥 appartenant à ℝ, on a
+𝑓 ′ (𝑥) = (𝑥 − 1)(3𝑥 + 1).
+On considère les trois tableaux de signes ci-dessous.
+Tableau 1
+
+Tableau 2
+
+Tableau 3
+
+−3
+
+−3
+
+Déterminer, parmi ces trois tableaux, celui qui correspond à la fonction 𝑓′. Justifier.
+3. Dresser le tableau de variations de la fonction 𝑓 sur ℝ.
+
+Exercice 4 : (5 points)
+Dans un club de judo, les adhérents sont classés par catégorie d’âge et suivant le sexe. Une
+partie des effectifs de chaque catégorie est donnée dans le tableau croisé d’effectifs fourni
+en annexe 2, à rendre avec la copie.
+1. Compléter, sans justifier, le tableau fourni en annexe 2.
+Pour les questions suivantes, les réponses seront données sous forme décimale ou sous
+forme d’une fraction irréductible.
+2.
+
+Calculer la fréquence d’adultes parmi les adhérents de ce club.
+
+3.
+On choisit au hasard un adhérent du club de judo, chaque adhérent ayant la même
+probabilité d’être choisi.
+On considère les événements suivants :
+
+E : « L’adhérent est un enfant »
+F : « L’adhérent est une femme »
+G : « L’adhérent est un homme »
+
+a. Calculer la probabilité de l’événement E.
+b. Calculer la probabilité de E  F et l’interpréter dans le contexte de l’exercice.
+c. Calculer la probabilité que l’adhérent soit une femme sachant que c’est un
+enfant.
+
+ANNEXE 1
+
+ANNEXE 2
+
+Enfants :
+de 11 à 14 ans
+Femmes
+
+Hommes
+Total
+
+Jeunes :
+de 15 à 20 ans
+
+Adultes :
+21 ans et plus
+
+Total

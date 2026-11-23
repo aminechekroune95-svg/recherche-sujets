@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Tout pour réviser les E3C du Bac">
+  <meta name="google-site-verification" content="iYhC6AVy5EeW8O7t4qT9dvAQhUHNqPXvRBAyBq-qShU" />
+  <meta property="fb:app_id" content="211096316065594" />
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="shortcut icon" type="image/png" href="/img/icons/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="57x57"   href="/img/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60"   href="/img/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72"   href="/img/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76"   href="/img/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/img/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/img/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32"    href="/img/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96"    href="/img/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16"    href="/img/icons/favicon-16x16.png">
+  <link rel="manifest" href="/img/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/img/icons/ms-icon-144x144.png">
+
+  <title>Sujets BNS 2021-2022 pour l'Éval Première | CCBac.fr</title>
+
+  <link href="/vendor/bootstrap/css/bootstrap.min.css?v=2" rel="stylesheet">
+  <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="/vendor/datatables/datatables.bs4.min.css" rel="stylesheet" type="text/css">
+
+  <link href="/css/main.css?t=1553320137" rel="stylesheet">
+  <link href="/css/mapAca.css?t=1526905114" rel="stylesheet">
+
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+<!-- Navigation-->
+
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <a class="navbar-brand" href="/index.php"><img id="navLogo" src="/img/icons/logo_64.png" height="32"/> CCBac 2026</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Ensemble de la banque de sujets">
+            <a class="nav-link" href="/list.php">
+                <i class="fa fa-fw fa fa-list"></i>
+                <span class="nav-link-text">
+                Tous les sujets              </span>
+            </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Nouveautés sur le site...">
+          <a class="nav-link" href="/news.php">
+            <i class="fa fa-fw fa fa-gears"></i>
+            <span class="nav-link-text">Actualités</span>
+          </a>
+        </li>
+<!--
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Besoin d'aide?">
+          <a class="nav-link" href="/aide.php">
+            <i class="fa fa-fw fa-question-circle"></i>
+            <span class="nav-link-text">Aide</span>
+          </a>
+        </li>
+-->
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Statistiques du site">
+          <a class="nav-link" href="/stats.php">
+            <i class="fa fa-line-chart"></i>
+            <span class="nav-link-text">Statistiques</span>
+          </a>
+        </li>
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="À propos">
+          <a class="nav-link" href="/about.php">
+            <i class="fa fa-fw fa-info"></i>
+            <span class="nav-link-text">À propos...</span>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav sidenav-toggler">
+        <li class="nav-item">
+          <a class="nav-link text-center" id="sidenavToggler">
+            <i class="fa fa-fw fa-angle-left"></i>
+          </a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item">
+        </li>
+
+        <li class="nav-item">
+          <form method="get" action="/searchresults.php" id="search">
+            <div class="input-group">
+              <input type="text" placeholder="Rechercher un sujet (nom / ID)" name="searchStr" class="top-search-bar">
+              <span class="input-group-append">
+                <button class="btn btn-primary" type="button" onclick="document.forms[0].submit();" style="height: 30px;">
+                  <i class="fa fa-search" style="width: 30px; height: 30px; position: relative; top: -5px;"></i>
+                </button>
+              </span>
+            </div>
+          </form>
+        </li>
+
+      </ul>
+
+
+    </div>
+  </nav>
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Fil d'ariane-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.php">Accueil </a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2022">Éval 2022</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2022&voie=1">Voie Générale</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2022&voie=1&session=2">Première</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2022&amp;voie=1&amp;session=2&amp;mat=23">LLCA</a></li><li class="breadcrumb-item active">Grec</li>        </ol>
+        <div class="row">
+            <div class="col-12">
+                <div id="listeaca_btns">
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Sujets</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none; " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">Éval 2022</a>                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Autre</button>
+                      <div class="dropdown-menu">
+                      <h6 class="dropdown-header">Choix sujets</h6>
+                      <a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2026">Éval 2026</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2025">Éval 2025</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2024">Éval 2024</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2023">Éval 2023</a><a class="dropdown-item active" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">Éval 2022</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2021">EC 2021</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2020">E3C 2020</a>                      </div>
+                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Voie</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">G</a><a class="btn btn-info" href="list.php?session=2&amp;voie=2&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">T</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Session</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">1ʳᵉ</a><a class="btn btn-info" href="list.php?session=3&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">Tˡᵉ</a><a class="btn btn-info" href="list.php?session=4&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">Cʸᶜˡ</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                    <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">TC</button>
+                    <a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=2&amp;opt=25&amp;epr=0&amp;an=2022">HG</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=25&amp;epr=0&amp;an=2022">LVA/B</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=6&amp;opt=25&amp;epr=0&amp;an=2022">Science</a></div> <div class="btn-group" role="group" style="display: inline-block"><a class="btn disabled" style="border: 1px solid grey;">Spé</button><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=25&amp;epr=0&amp;an=2022">HGGSP</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=14&amp;opt=25&amp;epr=0&amp;an=2022">HLP</a><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">LLCA</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=15&amp;opt=25&amp;epr=0&amp;an=2022">LLCER</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=1&amp;opt=25&amp;epr=0&amp;an=2022">Maths</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=26&amp;opt=25&amp;epr=0&amp;an=2022">NSI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=30&amp;opt=25&amp;epr=0&amp;an=2022">PC</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=29&amp;opt=25&amp;epr=0&amp;an=2022">SES</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=28&amp;opt=25&amp;epr=0&amp;an=2022">SI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=27&amp;opt=25&amp;epr=0&amp;an=2022">SVT</a>                    </div>
+
+                    <div class="btn-group" role="group">&nbsp;&nbsp;<button class="btn disabled" style="border: 1px solid grey;">Option</button><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=25&amp;epr=0&amp;an=2022">Grec</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=24&amp;epr=0&amp;an=2022">Latin</a></div></div>                    
+                    
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <p>
+                    <b>Légende</b> :<br class="d-sm-none">
+                    <span class="badge badge-success">C</span> = <span class="badge badge-success">Correction</span> = Correction dispo<br class="d-sm-none">
+                    <span class="badge badge-warning">A</span> = <span class="badge badge-warning">Autre</span> = Correction pour autre version sujet<br class="d-sm-none">
+                </p>
+                <!-- DEBUT TABLEAU-->
+                                <div class="card mb-3">
+                    <div class="card-header d-xs-none">
+                        <i class="fa fa-table"></i> <b>Liste des sujets BNS 2021-2022 pour l'Éval Première</b> : Littérature, Langues et Cultures de l’Antiquité                         - 80 sujets                                                <div id="dataTable_filter_custom" class="dataTables_filter"><label><input type="search" class="form-control form-control-sm" placeholder="Filtre..."></label></div>
+                    </div>
+                                        <div class="card-body" style="padding:0;">
+                        <div class="table-responsive" style="overflow-y:hidden;">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead><tr><th>&nbsp;</th><th class="d-none d-lg-table-cell"></th><th></th><th class="d-none d-sm-table-cell"></th></tr><thead><tr><th>N°</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr><tfoot><tr><th>N°</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr>                                <tbody>
+                                <tr><td><a href="/voir.php?id=11123">001&#8209;04694</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11123">H&eacute;racl&egrave;s, dieu &eacute;gyptien ou h&eacute;ros grec ?</a> <i>(H&eacute;rodote, Histoires, II, 43-44)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11127">001&#8209;04698</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11127">Isocrate s&rsquo;emporte contre les sycophantes</a> <i>(Isocrate, Sur l&rsquo;&eacute;change, 312-318)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11132">001&#8209;04703</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11132">Coup de foudre &agrave; Syracuse</a> <i>(Chariton d&rsquo;Aphrodise, Ch&eacute;r&eacute;as et Callirho&eacute;, livre I, 1)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11138">001&#8209;04709</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11138">Premi&egrave;re rencontre entre Chair&eacute;as et Callirho&eacute;</a> <i>(Chariton d&rsquo;Aphrodisias, Chair&eacute;as et Callirho&eacute;, livre I, ch. I, 1-8)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11141">001&#8209;04712</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11141">R&eacute;ponse de Callicl&egrave;s &agrave; Socrate</a> <i>(Platon, Gorgias, 483 b - 484 c)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11148">001&#8209;04719</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11148">Ath&egrave;nes et son port</a> <i>(Strabon, G&eacute;ographie, IX, 1, 15-16)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11154">001&#8209;04725</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11154">Lycurgue et Th&eacute;opompe ont &eacute;quilibr&eacute; la constitution de Sparte.</a> <i>(Plutarque, Vie de Lycurgue, chapitre 5, 10-11 et chapitre 7, 1-5)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11124">002&#8209;04695</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11124">Naucratis, ville grecque et &eacute;gyptienne</a> <i>(H&eacute;rodote, Histoires, II, 177-181)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11128">002&#8209;04699</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11128">Charicl&eacute;e miraculeusement sauv&eacute;e d&rsquo;une condamnation injuste</a> <i>(H&eacute;liodore, Les &Eacute;thiopiques, VIII, 9, 10-14)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11133">002&#8209;04704</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11133">Premi&egrave;re rencontre entre Ulysse et Circ&eacute;</a> <i>(Hom&egrave;re, Odyss&eacute;e, X, v. 312-348 ; 388-395
+)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11139">002&#8209;04710</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11139">Les adieux d&rsquo;Hector et Andromaque</a> <i>(Hom&egrave;re, Iliade, chant VI, v. 459-500)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11142">002&#8209;04713</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11142">Cambyse, tyran fratricide et incestueux</a> <i>(H&eacute;rodote, Histoires, III, 30-31)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11149">002&#8209;04720</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11149">Description de la cit&eacute; d&rsquo;Agrigente</a> <i>(Diodore de Sicile, Biblioth&egrave;que historique, XIII, 81-82)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11155">002&#8209;04726</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11155">Les trois types de gouvernement</a> <i>(Eschine, Contre Timarque, 4-8)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11125">003&#8209;04696</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11125">Voyage de Cic&eacute;ron en Gr&egrave;ce</a> <i>(Plutarque, Vie des hommes illustres, Cic&eacute;ron, IV, 4)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11129">003&#8209;04700</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11129">Dialogue entre Minos et Sostratos</a> <i>(Lucien, Dialogues des Morts, 24)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11134">003&#8209;04705</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11134">Le pouvoir d&rsquo;un baiser</a> <i>(Longus, Daphnis et Chlo&eacute;, I, 17-19)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11140">003&#8209;04711</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11140">Daphnis tourment&eacute; par l&rsquo;amour</a> <i>(Longus, Daphnis et Chlo&eacute;, Livre I, 17-19)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11143">003&#8209;04714</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11143">Conflit entre Antigone et Cr&eacute;on</a> <i>(Sophocle, Antigone, v. 449-496 / v. 536-541)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11150">003&#8209;04721</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11150">Alexandre fonde Alexandrie</a> <i>(Diodore de Sicile, Biblioth&egrave;que historique, livre XVII, chapitre 52)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11156">003&#8209;04727</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11156">L&rsquo;injustice est le plus grand des maux</a> <i>(Platon, Gorgias, 468e-469c et 470b-c)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11126">004&#8209;04697</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11126">Les soldats grecs de Cyrus</a> <i>(X&eacute;nophon Anabase, I, 7, 3-7)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11130">004&#8209;04701</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11130">Antigone affronte le roi Cr&eacute;on</a> <i>(Sophocle, Antigone, v. 441-492)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11135">004&#8209;04706</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11135">La fl&egrave;che d'&Eacute;ros</a> <i>(Apollonios de Rhodes, Argonautiques, III, v.253 &agrave; 303)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11144">004&#8209;04715</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11144">Justice des hommes, justice des dieux</a> <i>(Sophocle Antigone, v. 447-496 et 508-515)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11151">004&#8209;04722</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11151">Les travaux men&eacute;s par P&eacute;ricl&egrave;s &agrave; Ath&egrave;nes</a> <i>(Plutarque, Vies parall&egrave;les, Vie de P&eacute;ricl&egrave;s, 13.1 &agrave; 13.13
+)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11157">004&#8209;04728</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11157">La conduite des Ath&eacute;niens, un mod&egrave;le pour tout le monde grec</a> <i>(Lysias, Oraison fun&egrave;bre, Discours II, 40 ; 54-58)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11131">005&#8209;04702</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11131">La culpabilit&eacute; d&rsquo;Alcibiade en question</a> <i>(Andocide, Contre Alcibiade, 21-26)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11136">005&#8209;04707</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11136">Coup de foudre</a> <i>(Achille Tatius, Leucipp&eacute; et Clitophon, I, III, 6 - V, 3 ; VI, 1)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11145">005&#8209;04716</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11145">Affrontement entre &OElig;dipe et Cr&eacute;on pour sauver Th&egrave;bes</a> <i>(Sophocle, &OElig;dipe Roi, v. 576-582, 603-636, 665-667)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11152">005&#8209;04723</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11152">Description de Babylone</a> <i>(H&eacute;rodote, Histoires, I, 178-182)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11158">005&#8209;04729</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11158">Si les femmes prenaient le pouvoir &hellip;</a> <i>(Aristophane, L&rsquo;Assembl&eacute;e des femmes, v. 206-240)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11122">006&#8209;04693</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11122">Une alliance entre Ath&egrave;nes et Sparte ?</a> <i>(X&eacute;nophon, Hell&eacute;niques, VII &sect;1-12)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11137">006&#8209;04708</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11137">Amours contrari&eacute;es</a> <i>(Achille Tatius, Leucipp&eacute; et Clitophon, I, VII, 3 - VIII, 7)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11146">006&#8209;04717</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11146">Aristide le juste</a> <i>(PLUTARQUE, Vies parall&egrave;les, &laquo; Aristide &raquo;, XXIII (6 -7) &ndash; XXIV (1-3) &ndash; XXV (1-3 ; 9))</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11153">006&#8209;04724</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11153">Projet de fondation d&rsquo;une cit&eacute; chez les oiseaux</a> <i>(Aristophane, Les Oiseaux, v. 123-134 ; v.149-182)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11159">006&#8209;04730</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11159">D&eacute;finition des diff&eacute;rents r&eacute;gimes politiques
+</a> <i>(Aristote, La Politique, III, 5)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11147">007&#8209;04718</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11147">L&rsquo;int&eacute;r&ecirc;t du plus fort</a> <i>(Platon, La R&eacute;publique, I, 338c-339b)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11160">007&#8209;04731</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11160">N&eacute;cessaire r&eacute;veil des Ath&eacute;niens</a> <i>(D&eacute;mosth&egrave;ne, Quatri&egrave;me Philippique, 7-11)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11081">001&#8209;03214</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11081">Pouvoir de la beaut&eacute;</a> <i>(Isocrate, &Eacute;loge d&rsquo;H&eacute;l&egrave;ne, 52-57)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11082">002&#8209;03215</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11082">Retrouvailles entre &Eacute;lectre et Oreste</a> <i>(Sophocle, &Eacute;lectre, v. 1177-1224)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11083">003&#8209;03216</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11083">&Agrave; la vie, &agrave; la mort</a> <i>(Euripide, Iphig&eacute;nie en Tauride, vers 674-722)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11084">004&#8209;03217</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11084">Le devoir ou l&rsquo;amour ?</a> <i>(X&eacute;nophon, Cyrop&eacute;die, V (1), 4-8)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11085">005&#8209;03218</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11085">R&eacute;flexion sur l&rsquo;amiti&eacute;</a> <i>(Aristote, &Eacute;thique &agrave; Nicomaque, livre VIII, 8)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11086">006&#8209;03219</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11086">Les amants de Polystratos</a> <i>(Lucien, Dialogue des morts, 19)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11087">007&#8209;03220</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11087">Une belle travestie</a> <i>(Elien, Histoires vari&eacute;es, 12, 1)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11088">008&#8209;03221</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11088">Une le&ccedil;on de s&eacute;duction</a> <i>(Achille Tatius, Le Roman de Leucipp&eacute; et Clitophon, livre II, chapitres IV-VI)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11089">009&#8209;03222</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11089">Repr&eacute;sentation d&rsquo;&Eacute;ros, l&rsquo;Amour</a> <i>(Platon, Le Banquet, 195a-195e)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11090">010&#8209;03223</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11090">La naissance d&rsquo;&Eacute;ros, l&rsquo;Amour</a> <i>(Platon, Le Banquet, 203a-203e)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11091">011&#8209;03741</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11091">Les promesses d&rsquo;Aphrodite</a> <i>(Lucien, Le Jugement des d&eacute;esses, 14-16)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11092">012&#8209;03742</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11092">Des oiseaux et des dieux</a> <i>(Aristophane, Les Oiseaux, 685-722)</i></td><td title="Amour, Amours" class="d-none d-sm-table-cell">Amour</td></tr><tr><td><a href="/voir.php?id=11093">001&#8209;03744</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11093">Achille venge la mort de Patrocle.</a> <i>(Hom&egrave;re, Iliade, XXII, v. 330-371)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11094">002&#8209;03747</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11094">Adm&egrave;te, impie &agrave; l&rsquo;&eacute;gard de son p&egrave;re</a> <i>(Euripide, Alceste, v. 629-650, 652-682)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11095">003&#8209;03751</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11095">M&eacute;d&eacute;e, la vengeance extr&ecirc;me</a> <i>(Euripide, M&eacute;d&eacute;e, v. 1317-1366 et 1377-1384)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11096">004&#8209;03754</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11096">Antigone, l&rsquo;impossible pi&eacute;t&eacute;</a> <i>(Sophocle, Antigone, v. 891-943)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11097">005&#8209;03757</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11097">Penth&eacute;e conteste la divinit&eacute; de Dionysos</a> <i>(Euripide, Les Bacchantes, v. 309-363)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11098">006&#8209;03759</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11098">Xerx&egrave;s a besoin d&rsquo;&ecirc;tre assagi.</a> <i>(Eschyle, Les Perses, v. 787-851)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11099">001&#8209;03762</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11099">L&rsquo;&eacute;ducation des filles et le mariage</a> <i>(Plutarque, Vies parall&egrave;les, Vie de Lycurgue, 14, 1...)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11100">002&#8209;03765</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11100">Th&eacute;s&eacute;e, h&eacute;ros fondateur mythique de la cit&eacute; d&rsquo;Ath&egrave;nes</a> <i>(Plutarque, Vies parall&egrave;les, Vie de Th&eacute;s&eacute;e, 24,1-3 et 25, 1-3)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11101">003&#8209;03771</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11101">&Eacute;loge du prince id&eacute;al</a> <i>(Isocrate, &Eacute;loge d&rsquo;H&eacute;l&egrave;ne, &sect; 32-37)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11102">004&#8209;03774</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11102">Le gouvernement de la cit&eacute; selon les femmes</a> <i>(Aristophane, L&rsquo;Assembl&eacute;e des femmes, v. 555-594)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11103">005&#8209;03775</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11103">L&rsquo;ancienne Ath&egrave;nes, une ville id&eacute;ale</a> <i>(Platon, Critias, 111e &ndash; 113c)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11104">006&#8209;03776</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11104">Le bouclier d&rsquo;Achille</a> <i>(Hom&egrave;re, Iliade, chant XVIII, v.478-512 et 590-596)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11105">001&#8209;03777</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11105">Th&eacute;s&eacute;e fonde Ath&egrave;nes</a> <i>(Plutarque, Les Vies Parall&egrave;les, Th&eacute;s&eacute;e, XXIV-XXV)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11106">002&#8209;03781</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11106">Portrait de P&eacute;ricl&egrave;s</a> <i>(Plutarque, Vie de P&eacute;ricl&egrave;s, 38.4-39.4.)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11107">003&#8209;03783</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11107">Portrait de P&eacute;ricl&egrave;s, le premier des citoyens</a> <i>(Plutarque, Vie de P&eacute;ricl&egrave;s, 7-8)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11108">004&#8209;03788</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11108">La formation du roi &agrave; la justice</a> <i>(X&eacute;nophon, Cyrop&eacute;die, livre I, 16-18)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11109">005&#8209;03795</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11109">Fin de r&egrave;gne pour Th&eacute;s&eacute;e</a> <i>(Plutarque, Vie de Th&eacute;s&eacute;e, XXXII-XXX)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11110">006&#8209;03798</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11110">Alexandre, entre cl&eacute;mence et cruaut&eacute; ?</a> <i>(Plutarque, Vies parall&egrave;les des hommes illustres, Vie d'Alexandre, XI, 7-XIII, 1)</i></td><td title="La cit&eacute; entre r&eacute;alit&eacute;s et utopies" class="d-none d-sm-table-cell">Cité</td></tr><tr><td><a href="/voir.php?id=11111">001&#8209;03807</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11111">Le proc&egrave;s de Phocion</a> <i>(Plutarque, Vies parall&egrave;les, Vie de Phocion, 34.4 &agrave; 36.1)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11112">002&#8209;03810</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11112">La rencontre avec les morts</a> <i>(Hom&egrave;re, Odyss&eacute;e, Chant XI, vers 543-587)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11113">003&#8209;03814</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11113">Le massacre des pr&eacute;tendants</a> <i>(Hom&egrave;re, Odyss&eacute;e chant XXII, vers 34-73.)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11114">004&#8209;03817</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11114">Ulysse sauv&eacute; par le voile d&rsquo;Ino</a> <i>(Hom&egrave;re, Odyss&eacute;e, V, vers 333-376)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11115">005&#8209;03820</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11115">D&eacute;fense d&rsquo;Oreste accus&eacute; par les &Eacute;rinyes d&rsquo;avoir tu&eacute; sa m&egrave;re Clytemnestre</a> <i>(Eschyle, Les Eum&eacute;nides, vers 587- 643)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11116">006&#8209;03823</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11116">Un crime politique &agrave; punir</a> <i>(Lysias, Contre Agoratos, 38 &agrave; 45)</i></td><td title="Justice des dieux, justice des hommes" class="d-none d-sm-table-cell">Justice</td></tr><tr><td><a href="/voir.php?id=11117">001&#8209;03825</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11117">L&rsquo;exp&eacute;dition de Sicile</a> <i>(Plutarque, Vies parall&egrave;les, Vie d&rsquo;Alcibiade, XVII ...)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11118">002&#8209;03841</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11118">La mort des Spartiates aux Thermopyles</a> <i>(H&eacute;rodote, Histoires, VII, 223-224)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11119">003&#8209;03846</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11119">Alexandre vainqueur de Darios &agrave; Issos</a> <i>(Plutarque, Vies parall&egrave;les, Vie d&rsquo;Alexandre, 20-21)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11120">004&#8209;03847</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11120">Lettre d&rsquo;Alexandre &agrave; Darius</a> <i>(Arrien, Anabase, II, &sect;6)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr><tr><td><a href="/voir.php?id=11121">005&#8209;03848</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11121">Tous unis avec Ath&egrave;nes contre les barbares !</a> <i>(Isocrate, Pan&eacute;gyrique d&rsquo;Ath&egrave;nes, &sect;34-45, puis 50)</i></td><td title="M&eacute;diterran&eacute;e : conflits, influences et &eacute;changes" class="d-none d-sm-table-cell">Méditerranée</td></tr>                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>© 2018-2026 CCBac.fr<!-- | <abbr title="Le traffic étant très important en ce moment, un nouveau serveur dédié à été mis en place, et des publicités peuvent s'afficher ces prochains jours pour nous aider à le financer">Pubs affichées temporairement</abbr> --></small>
+          <small>&bull; Voir notre <a href="/privacy.php" title="privacy policy">politique de confidentialité</a>. Vous pouvez <a target="_self" href="javascript:(typeof(googlefc)!=='undefined')&&googlefc.callbackQueue.push(googlefc.showRevocationMessage)||(window.location.href='/privacy.php')">configurer (et consentir à) l'usage de cookies optionnels</a>.</small>
+        </div>
+      </div>
+    </footer>
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js" integrity="sha512-igl8WEUuas9k5dtnhKqyyld6TzzRjvMqLC79jkgT3z02FvJyHAuUtyemm/P/jYSne1xwFI06ezQxEwweaiV7VA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="/vendor/datatables/datatables.bs4.min.js"></script>
+    <script src="/js/sb-admin.min.js"></script>
+    <script src="/js/facebook.js"></script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-7779584946427549?ers=1" nonce="MPvqy2fYJkhSAUd-WrajTw"></script><script nonce="MPvqy2fYJkhSAUd-WrajTw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+
+    <!-- pub temporaire pour aider à couvrir les coûts serveurs... -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7779584946427549" crossorigin="anonymous"></script>
+
+        <script>
+        $(document).ready(function() {
+            var dataTable = $('#dataTable').DataTable({
+                paging: false,
+                info: false,
+                language: {
+                    zeroRecords: "Aucun sujet correspondant"
+                }
+            });
+            var filter = $("#dataTable_filter_custom");
+            var filterInput = filter.find("input");
+            filter.on("keyup search input paste cut", function() {
+                dataTable.search(filterInput.val()).draw();
+            });
+        } );
+    </script>
+</div>
+
+
+</body>
+
+</html>

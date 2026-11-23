@@ -1,0 +1,160 @@
+{"pages": 5, "method": "pdftotext", "bytes": 564760, "at": "2026-11-23T08:57:40+00:00"}
+Séries technologiques :
+classe de première
+Epreuve commune de contrôle
+continu : Mathématiques
+
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Enoncé
+1)
+
+Augmenter de 13% revient à multiplier par
+
+2)
+
+Après une réduction de 10%, le prix d’un article est
+de 54€, quel est le prix de départ ?
+
+3)
+
+Un article subit une hausse de 20% suivie d’une
+baisse de 30%. De quel pourcentage a-t-il augmenté ?
+
+4)
+
+Résoudre l’équation : 2x + 3 = 0
+
+5)
+
+Résoudre l’inéquation : 2−3x < 0
+
+6)
+
+Résoudre l’équation : x2 = 16
+
+7)
+
+Déterminer le signe sur ℝ de 2x + 7
+
+8)
+
+Convertir 21,3 m en cm
+
+Réponse
+
+9)
+
+La droite D ci-dessous est la représentation L’équation réduite de D est :
+graphique d’une fonction affine f. Compléter par
+lecture graphique.
+
+10)
+
+Le tableau de signe de f est :
+
+PARTIE II
+Calculatrice autorisée
+indépendants.
+
+Cette partie est constituée de trois exercices
+
+Exercice 2 : (5 points)
+Afin d’acquérir et d’aménager une boutique du centre ville, un investisseur décide de
+contracter un prêt de 100 000 euros. Dans le but d’obtenir les meilleures conditions pour ce
+prêt, il a contacté deux banques : la Société Particulière et le Crédit Urbain.
+1. La banque Société Particulière lui propose de rembourser ce prêt sur 7ans, en sept
+annuités, chacune des annuités étant un des termes consécutifs de la suite
+arithmétique de premier terme U0 = 15 000 € (montant du premier remboursement)
+et de raison a = 1800 €.
+Recopier et compléter le tableau suivant :
+U0
+15 000
+
+U1
+
+U2
+
+U3
+
+U4
+
+U5
+
+U6
+
+2. Quelle est la somme totale finalement remboursée si l’investisseur accepte la
+proposition de la Société Particulière ?
+3. La banque Crédit Urbain lui propose également de rembourser ce prêt sur 7 ans, en
+sept versements, mais à des conditions différentes. Le premier remboursement
+annuel V0 serait d’un montant de 20 000 €. Les remboursements suivants, notés V 1,
+V2, V3, V4, V5 et V6 seraient chacun en augmentation de 2% par rapport au
+remboursement précédent.
+a) Montrer que V0, V1, V2, V3, V4, V5 et V6 constituent les premiers termes d’une
+suite géométrique dont on précisera la raison.
+b) Recopier et compléter le tableau suivant :
+
+V0
+20 000
+
+V1
+
+V2
+
+V3
+
+V4
+
+V5
+
+V6
+
+4. Quelle banque offre à l’emprunteur la solution la plus avantageuse concernant le
+coût total du crédit ?
+
+Exercice 3 : (5 points)
+On modélise l’évolution de l’altitude d’un drône pour un vol de 70 minutes par une fonction
+f (exprimée en mètres) en fonction du temps (exprimé en minutes). Cette fonction est
+définie sur l’intervalle [0 ;70] et sa courbe représentative est fournie ci-dessous.
+
+1. Déterminer graphiquement au bout de combien de minutes le seuil de 300 mètres
+est franchi.
+2. Sur la période étudiée, combien de minutes ce seuil est-il dépassé ?
+3. On admet que la fonction f est définie sur l’intervalle [0 ;70] par
+f(x) = 0,01 x3 − 1,2 x2 + 36 x + 50
+a) Calculer f ′(x) pour x appartenant à l’intervalle [0 ;70].
+b) Vérifier que f ′(x) = 0,03(x – 20) (x – 60) et établir le tableau de variations de la
+fonction f sur l’intervalle [0 ;70].
+c) Quelle est l’altitude maximale, au mètre près, atteinte sur la période étudiée ?
+
+Exercice 4 : (5 points)
+Dans une ville de 15 000 foyers, 10 500 foyers pratiquent le tri sélectif. Parmi les foyers
+pratiquant le tri sélectif, 30% consomment des produits bio. Parmi les foyers ne pratiquant
+pas le tri sélectif, 450 consomment des produits bio.
+On choisit au hasard un foyer dans cette ville.
+On note 𝑇 l’événement : « Le foyer pratique le tri sélectif ».
+On note 𝐵 l’événement : « Le foyer consomme des produits bio ».
+1. Recopier et compléter le tableau suivant à partir des valeurs fournies précédemment.
+𝑇
+
+𝑇̅
+
+total
+
+𝐵
+𝐵̅
+total
+2.
+
+15 000
+
+Montrer que la probabilité de l’événement 𝐵 est égale à 0,24.
+
+3. Calculer la probabilité qu’un foyer pratique le tri sélectif sachant qu’il consomme bio.
+4. Calculer 𝑃𝑇 (𝐵̅ ) et interpréter ce résultat.

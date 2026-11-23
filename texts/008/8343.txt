@@ -1,0 +1,195 @@
+{"pages": 9, "method": "pdftotext", "bytes": 896016, "at": "2026-11-23T08:55:51+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+Partie A
+Cette partie est un questionnaire à choix multiples (QCM). Aucune justification n’est
+demandée. Pour chacune des questions, quatre réponses sont proposées ; une seule d’entre
+elles est exacte. Chaque bonne réponse rapporte 0,5 point ; une réponse fausse, une
+réponse multiple ou une absence de réponse rapporte 0 point.
+Pour chacune des questions, indiquer la réponse exacte par la lettre correspondante.
+1. Parmi les 25 salariés d’une entreprise, 11 sont des hommes.
+La proportion d’hommes dans cette entreprise, exprimée en pourcentage, est de :
+a. 0,44%
+b. 11%
+c. 44%
+d. 56%
+2. Augmenter une quantité de 13%, revient à :
+a. la multiplier par 0,13.
+b. la diviser par 0,87.
+c. la multiplier par 1,13.
+d. lui ajouter 13.
+3. Le nombre (105 )3 × 10−2 est égal à :
+a. 0,000001
+b. 1
+c. 106
+d. 1013
+4. Dans R, l’équation 𝑥² = 10 a pour solution(s) :
+a. 5
+b. −5 et 5
+c. √10
+d. −√10 et √10
+
+5. Convertir 0,75 heure en minutes :
+a. 40 minutes.
+b. 45 minutes.
+c. 50 minutes.
+d. 75 minutes.
+
+Partie B
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune justification
+n'est demandée.
+N°
+1.
+
+2.
+
+Enoncé
+
+Réponse
+
+On considère la fonction 𝑓 définie sur R par
+𝑓(𝑥) = 5𝑥 3 − 7𝑥 2 + 2𝑥 − 3.
+On note 𝑓’ sa dérivée sur R.
+Déterminer, pour tout réel 𝑥, 𝑓′(𝑥).
+On considère la fonction ℎ définie, pour tout réel 𝑥, par
+ℎ(𝑥) = 𝑥 2 − 7𝑥 + 9.
+Déterminer le coefficient directeur de la tangente à sa
+courbe représentative au point d'abscisse 5.
+On considère une fonction f définie sur l’intervalle [-4 ; 6]
+dont on a tracé la courbe représentative dans le repère
+orthonormé ci-dessous.
+
+3.
+
+Avec la précision permise par le graphique, résoudre
+l’équation 𝑓(𝑥) = 3.
+
+4.
+
+Dresser le tableau de signes sur R de 2𝑥 − 1.
+
+L’histogramme ci-dessous représente la répartition des
+salaires mensuels des employés dans une entreprise :
+
+5.
+
+Combien d’employés ont un salaire compris entre 1 500 €
+et 1 800 € ?
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Le marathon de New-York est une course pédestre de 42,195 km organisée chaque année le
+premier dimanche de novembre.
+Afin de s’y préparer, un participant décide de courir chaque semaine, en commençant par 15
+kilomètres la première semaine d’entrainement. Afin d’augmenter ses performances, il
+décide d’augmenter sa distance parcourue de 1,5 km par semaine.
+Pour tout entier naturel 𝑛 non nul, on note 𝑢𝑛 la distance parcourue, exprimée en km, au
+cours de la 𝑛-ième semaine d’entraînement. On a ainsi 𝑢1 = 15.
+1. Déterminer 𝑢2 et 𝑢3 .
+2. Justifier que la suite (𝑢𝑛 ) est arithmétique et préciser sa raison 𝑟.
+3. Montrer que, pour tout entier naturel 𝑛 non nul, 𝑢𝑛 = 1,5𝑛 + 13,5.
+En déduire la distance parcourue lors de la cinquième semaine d’entraînement.
+4. Déterminer le nombre de semaines d’entrainement nécessaires pour que la distance
+parcourue lors d’un entrainement soit supérieure à celle du marathon de New-York.
+5. Déterminer la distance totale parcourue par le participant en cumulant les distances
+parcourues lors des 20 premiers entrainements.
+
+Exercice 3 (5 points)
+Un service internet de téléchargement de vidéos s’intéresse depuis le 1er janvier 2015 à
+l’évolution du nombre de ses abonnés. Après étude, le nombre d'abonnés, exprimé en
+millions, est modélisé par la fonction 𝑓 définie sur l’intervalle [0 ; 20] par 𝑓(𝑡) = 43 × 1,08𝑡 ,
+où 𝑡 est la durée écoulée, exprimée en années, depuis le 1er janvier 2015.
+1. Calculer 𝑓(0) puis interpréter le résultat dans le contexte de l’exercice.
+2. Calculer le nombre d'abonnés au 1er janvier 2017.
+
+3. On admet que la fonction 𝑓 a le même sens de variation que la fonction 𝑡 ↦ 1,08𝑡
+sur l’intervalle [0 ; 20]. Déterminer le sens de variation de la fonction 𝑓 sur l’intervalle
+[0 ; 20].
+4. Résoudre, par le calcul, l'inéquation 𝑓(𝑡) > 86.
+5. En déduire l’année à partir de laquelle le nombre d'abonnés dépassera le double du
+nombre d'abonnés observé au 1er janvier 2015.
+
+Exercice 4 (5 points)
+Le tableau suivant donne la production annuelle d'électricité solaire photovoltaïque en
+France de 2010 à 2017, en gigawatt-heures (GWh).
+Année
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Rang de l'année : 𝑥𝑖
+
+Production en
+GWh : 𝑦𝑖
+
+2 334
+
+4 428
+
+5 192
+
+6 391
+
+7 750
+
+8 647
+
+9 573
+
+Source : Statista 2020
+
+1. Sur la feuille de papier millimétré fournie en annexe à rendre avec la copie,
+représenter le nuage de points associé à cette série statistique double.
+Unités graphiques :
+ En abscisse, 1 𝑐𝑚 pour une unité, en commençant à 0.
+ En ordonnée, 1 𝑐𝑚 pour 1 000 GWh, en commençant à 0.
+2. Calculer les coordonnées du point moyen 𝐺 de ce nuage de points puis le placer sur
+le graphique.
+3. Justifier la pertinence d’un ajustement affine du nuage de points puis, à l’aide de la
+calculatrice, déterminer l’équation de la droite d’ajustement de 𝑦 en 𝑥 par la
+méthode des moindres carrés. On arrondira les coefficients à 0,1 près.
+4. Dans la suite de l’exercice, on prendra comme droite d’ajustement la droite (𝑑)
+d’équation 𝑦 = 1 246𝑥 + 1 271. Tracer la droite (𝑑) sur le graphique précédent.
+5. En utilisant cet ajustement affine et en admettant que l'évolution de la production
+annuelle d'électricité solaire photovoltaïque se poursuive ainsi, donner une
+estimation de cette production en 2021.
+
+ANNEXE – Exercice 4 à rendre avec la copie

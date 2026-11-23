@@ -1,0 +1,135 @@
+{"pages": 4, "method": "pdftotext", "bytes": 746768, "at": "2026-11-23T08:58:06+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+
+Réponse
+
+1)
+
+On applique une remise de 20 % à un article qui coûte 120
+euros. Quel est le montant en euro de la remise ?
+
+2)
+
+Dans une classe de 35 élèves, 20 pratiquent le ski.
+Déterminer sous forme de fraction irréductible la
+proportion des élèves pratiquant le ski.
+
+3)
+
+Comparer 5 et 14
+
+4)
+
+Donner un encadrement par deux nombres entiers
+consécutifs de la fraction 5 .
+
+5)
+
+Convertir en mètre
+
+6)
+
+Factoriser : 4 𝑥 (3 − 𝑥) – (2𝑥 + 1) (3 − 𝑥)
+
+7)
+
+Développer : (5 𝑥 + 2)²
+
+…. <
+
+2,73 km = …………………
+
+Pour les questions 8, 9 et 10, on considère la courbe ci-contre qui
+représente une fonction f définie sur R.
+
+8)
+9)
+10)
+
+< …..
+
+Donner le ou les antécédents de 3
+Résoudre graphiquement l’équation 𝑓(𝑥) = 0
+Donner l’ensemble des solutions de 𝑓(𝑥) < 0.
+
+m
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+EXERCICE 2 (5 points)
+Le comité d’entreprise d’une société française souhaite organiser un week-end à Rome.
+Une enquête est faite auprès des 1 200 employés de cette société afin de connaître
+leur choix en matière de moyen de transport. Les moyens de transport proposés sont
+le train, l’avion ou l’autocar.
+Les résultats de l’enquête sont répertoriés dans le tableau ci-dessous :
+Train
+
+Avion
+
+Autocar
+
+Total
+
+Femmes
+
+Hommes
+
+Total
+
+1200
+
+On interroge au hasard un employé de cette entreprise.
+On note :
+F l’évènement : « l’employé interrogé est une femme »;
+T l’évènement : « l’employé interrogé choisit le train ».
+Dans tout l’exercice, on donnera les résultats sous forme décimale.
+1. Calculer les probabilités p(F) et p(T).
+2. Déterminer la probabilité que l’employé interrogé ne choisisse pas le train.
+3. Expliquer ce que représente l’évènement F ∩ T, puis calculer sa
+probabilité.
+4. L’employé interrogé a choisi le train. Calculer la probabilité que cet employé soit
+une femme. On arrondira le résultat au millième.
+5. Calculer 𝑝𝐹 (𝑇).
+
+EXERCICE 3 (5 points)
+Un apiculteur vend des cartons de pots de miel.
+Le coût, en euro, de production de 𝑛 cartons, 𝑛 ≤ 120, est modélisé par le nombre 𝐶(𝑛),
+où 𝐶 est la fonction définie sur [0 ;120] par 𝐶(𝑥) = 0,25 𝑥² + 500 .
+1) Calculer le coût de fabrication de 40 cartons.
+2) On considère le bénéfice, en euro, réalisé après la production et la vente de 𝑛
+cartons. On admet qu’il est modélisé par le nombre 𝐵(𝑛), où 𝐵 est la fonction définie
+sur [0 ;120] par : 𝐵(𝑥) = −0,25𝑥 2 + 30𝑥 − 500.
+Montrer que pour tout 𝑥 appartenant à [0 ;120], 𝐵(𝑥) = −0,25(𝑥 − 20)(𝑥 − 100).
+3) Déterminer le tableau de signes de 𝐵(𝑥) sur [0 ;120].
+4) Combien de cartons doit produire et vendre l’apiculteur pour réaliser un bénéfice ?
+5) Déterminer le nombre de cartons à produire et à vendre pour que le bénéfice soit
+maximal.
+EXERCICE 4 (5 points)
+Deux amis A et B débutent dans deux entreprises différentes. Au 1er janvier de l’année
+2019, A et B ont tous les deux un salaire mensuel de 1500 €.
+Le montant du salaire mensuel de A augmente chaque année au 1 er janvier de 2,5%.
+Son montant en euro, l'année 2019 + 𝑛, est modélisé par le terme de rang 𝑛 d’une suite
+(𝑎𝑛 ) de premier terme 𝑎0 = 1500.
+Le montant du salaire mensuel de B augmente chaque année au 1er janvier de 35 €.
+Son montant en euro, l'année 2019 + 𝑛, est modélisé par le terme de rang 𝑛 de la suite
+arithmétique (𝑏𝑛 ) de raison 35 et de premier terme 𝑏0 = 1500.
+1) Calculer le salaire mensuel de A en 2020 puis en 2021.
+2) Justifier que pour tout 𝑛, 𝑎𝑛+1 = 1,025 𝑎𝑛 , et en déduire la nature de la suite (𝑎𝑛 ).
+3) On considère l’algorithme, écrit en
+n=0
+Python, ci-contre. Donner le contenu de la a= 1500
+variable n après exécution de l’algorithme while a <1650:
+n= n+1
+et interpréter le résultat dans le contexte
+a= 1.025*a
+de l’exercice.
+4) Calculer 𝑏1 et 𝑏2 .
+5) Qui des deux amis A ou B aura en premier un salaire qui dépassera 1650 euros ?

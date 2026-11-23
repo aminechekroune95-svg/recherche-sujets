@@ -1,0 +1,138 @@
+{"pages": 6, "method": "pdftotext", "bytes": 773378, "at": "2026-11-23T08:57:47+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+1)
+2)
+
+3)
+
+4)
+5)
+
+6)
+7)
+
+Énoncé
+Donner le coefficient multiplicateur associé à une baisse de 30 %.
+Exprimer sous forme d’une fraction :
+−1
+
+Réponse
+
+Dans une entreprise 40 % des employés sont des femmes et 50 %
+d’entre elles sont des cadres.
+Quelle proportion d’employés sont des femmes cadres ?
+Développer et réduire l’expression :
+(𝑥 + 1)(𝑥 − 4)
+Résoudre l’équation :
+3𝑥 − 2 = 2𝑥 + 3
+Convertir 0,1 litre en millilitres.
+La température 𝑇𝐹 en degré Fahrenheit et la température 𝑇𝐶 en
+degré Celsius sont liées par la relation :
+𝑇𝐹 = 1,8 × 𝑇𝐶 + 32
+
+8)
+
+9)
+
+10)
+
+Convertir 10 degrés Celsius en degrés Fahrenheit.
+On choisit au hasard un jeton dans une urne qui contient 5 jetons
+de couleur bleue et 12 de couleur noire.
+Calculer la probabilité d’obtenir un jeton de couleur noire.
+Exprimer sous forme d’une puissance de 10 :
+104 × 105
+Le point 𝐴(2 ; 1) appartient-il à la droite d’équation 𝑦 = 3𝑥 − 1 ?
+
+PARTIE II
+Calculatrice autorisée suivant la réglementation en vigueur
+Exercice 2 (5 points)
+Soit la fonction 𝑓 définie sur l’intervalle [0 ; 5] par :
+𝑓(𝑥) = −6𝑥 3 + 134𝑥 + 80
+1) Calculer l'image de 1 par la fonction 𝑓.
+On donne ci-dessous la courbe représentative de la fonction 𝑓 sur l’intervalle [0 ; 5] :
+
+2) Avec la précision permise par le graphique :
+a) Résoudre sur l’intervalle [0 ; 5] l’équation 𝑓(𝑥) = 150.
+b) Dresser le tableau de variations de la fonction 𝑓 sur l’intervalle [0 ; 5].
+
+3) On modélise l’évolution d’une épidémie dans une région donnée par la fonction 𝑓 qui
+donne le nombre de personnes malades, en fonction du temps compté en mois
+depuis le début de l’étude.
+a) Déterminer le nombre de personnes malades au début de l’étude.
+b) Déterminer la période durant laquelle le nombre de personnes malades est
+supérieur ou égal à 300.
+
+Exercice 3 (5 points)
+Deux médicaments M1 et M2 sont proposés sous deux conditionnements : en comprimés ou
+en gélules.
+Le stock de 400 médicaments d’une pharmacie est composé de la façon suivante :
+
+100 de ces médicaments sont des médicaments M1 ;
+10 % des médicaments de la totalité du stock sont conditionnés en gélules ;
+30 de ces médicaments sont des médicaments M1 conditionnés en gélules.
+
+1) Reproduire et compléter le tableau suivant :
+Conditionnement
+Médicament
+M1
+
+Comprimés
+
+Gélules
+
+Total
+
+M2
+Total
+
+2) On choisit au hasard et de façon équiprobable un médicament parmi les
+médicaments du stock.
+Les probabilités seront données sous forme décimale.
+
+a) Quelle est la probabilité que le médicament soit conditionné en gélules ?
+b) Quelle est la probabilité que le médicament soit un médicament M1 ?
+c) Quelle est la probabilité que le médicament soit un médicament M2 conditionné
+en gélules ?
+
+3) On choisit à présent au hasard un médicament parmi ceux qui sont conditionnés en
+gélules.
+Quelle est la probabilité que ce médicament soit un médicament M1 ?
+
+Exercice 4 (5 points)
+Le graphique ci-dessous indique l’évolution en France, depuis l’année 2000, du nombre de
+places disponibles en crèche multi-accueil :
+
+Source : DREES, Enquêtes aide sociale 2000 à 2015
+1) À la lecture de ce graphique, est-il plus judicieux de modéliser le nombre de places
+disponibles en crèche multi-accueil entre 2000 et 2015 par une suite arithmétique ou
+par une suite géométrique ?
+Argumenter la réponse.
+2) Soit la suite 𝑢 de premier terme 𝑢(0) = 45 000 et telle que pour tout nombre entier
+positif 𝑛, 𝑢(𝑛 + 1) = 𝑢(𝑛) + 15 000.
+On suppose que 𝑢(𝑛) modélise le nombre de places disponibles en crèche multiaccueil l’année 2000 + 𝑛.
+a) Calculer 𝑢(6).
+b) La valeur trouvée à la question précédente vous semble-t-elle en accord avec le
+graphique ? Argumenter la réponse.
+
+3) On suppose que ce modèle s’applique aux années supérieures à 2015.
+On considère ci-dessous le script écrit en langage « Python » :
+def rang():
+u=45000
+n=0
+while u<=350000:
+u=u+15000
+n=n+1
+return n
+a) Quelle valeur renvoie la fonction « rang » après son exécution ?
+b) Interpréter cette valeur dans le cadre de l’exercice.

@@ -1,0 +1,173 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1440041, "at": "2026-11-23T09:00:44+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Le sujet est composé de 4 exercices indépendants.
+
+Exercice 1 (5 points)
+
+Ce questionnaire à choix multiples (QCM) comprend cinq questions indépendantes.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Pour chaque question, indiquer sur la copie le numéro de la question et la lettre de la réponse
+choisie. Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou l’absence de réponse
+ne rapporte ni ne retire de point.
+
+Question 1
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = 𝑥² + 𝑥 + 1.
+Cette fonction est dérivable sur R. Sa fonction dérivée 𝑓′ est donnée sur R par :
+𝑓 ′ (𝑥) = 𝑥 + 1
+𝑓 ′ (𝑥) = 2𝑥 + 1
+𝑓 ′ (𝑥) = 2𝑥
+𝑓 ′ (𝑥) = 2𝑥 2 + 𝑥
+Question 2
+La somme 1 + 2 + 22 + 23 + ⋯ + 210 est égale à :
+a. 210 − 1
+b. 210
+c. 211 − 1
+d. 211
+
+Question 3
+On considère l’équation 𝑥 2 + 2𝑥 − 8 = 0.
+On note 𝑆 la somme des racines de cette équation et 𝑃 leur produit.
+Laquelle des affirmations suivantes est vraie ?
+𝑆 = 2 et 𝑃 = −8
+𝑆 = −2 et 𝑃 = −8
+𝑆 = −2 et 𝑃 = 8
+𝑆 = 2 et 𝑃 = 8
+Question 4
+On désigne par C le cercle trigonométrique.
+Soit 𝑥 un réel strictement positif et M le point de C associé au réel 𝑥.
+
+Alors le point M’, symétrique de M par rapport à O, est associé au réel :
+–𝑥
+
+𝜋+𝑥
+
+𝜋−𝑥
+
+−𝜋 − 𝑥
+
+Question 5
+Parmi les égalités suivantes, laquelle est vraie pour tout réel 𝒙 ?
+cos(𝑥 + 2𝜋) = cos(𝑥)
+sin(−𝑥) = sin(𝑥)
+cos(−𝑥) = −cos(𝑥)
+cos 2 (𝑥) + sin2 (𝑥) = 2
+
+Exercice 2 (5 points)
+Soit f la fonction définie sur ℝ par :
+
+𝑓(𝑥) = (2𝑥 + 1)𝑒 𝑥
+
+Sur le graphique ci-dessous, sont tracées la courbe 𝐶𝑓 représentative de la fonction 𝑓, et la
+droite 𝑇, tangente à cette courbe au point d’abscisse 0.
+
+1. Déterminer les coordonnées des éventuels points d’intersection de la courbe Cf avec l’axe
+des abscisses.
+2. Montrer que, pour tout x réel, que 𝑓′ (𝑥) = (2𝑥 + 3)𝑒 𝑥 .
+
+3. Dresser le tableau de signes de 𝑓′(𝑥) sur ℝ, puis préciser les variations de 𝑓 sur ℝ.
+4.
+
+a. Déterminer l’équation réduite de la tangente 𝑇.
+b. Justifier graphiquement que, pour tout réel 𝑥, on a :
+(2𝑥 + 1)𝑒 𝑥 ≥ 3𝑥 + 1
+
+Exercice 3 (5 points)
+
+
+
+
+Dans une école d’ingénieurs, certains étudiants s’occupent de la gestion des associations
+comme par exemple le BDS (bureau des sports).
+Sur les cinq années d’études, le cycle « licence » dure les trois premières années, et les deux
+dernières années sont celles du cycle de « spécialisation ».
+On constate que, dans cette école, il y a 40 % d’étudiants dans le cycle « licence » et 60 %
+dans le cycle de « spécialisation ».
+Parmi les étudiants du cycle « licence », 8 % sont membres du BDS ;
+Parmi les étudiants du cycle de « spécialisation », 10 % sont membres du BDS.
+
+On considère un étudiant de cette école choisi au hasard, et on considère les évènements
+suivants :
+𝐿 : « L’étudiant est dans le cycle « licence » ; 𝐿̅ est son événement contraire.
+𝐵 : « L’étudiant est membre du BDS » ; 𝐵̅ est son événement contraire.
+La probabilité d’un événement 𝐴 est notée P(𝐴).
+
+Partie A
+1. Recopier et compléter l’arbre pondéré modélisant la situation.
+
+0,4
+
+𝐵
+
+𝐵̅
+
+𝐵
+
+𝐵̅
+
+𝐿
+
+𝐿̅
+
+2. Calculer la probabilité que l’étudiant choisi soit en cycle « licence » et membre du BDS.
+3. En utilisant l’arbre pondéré, montrer que P(𝐵) = 0,092.
+Partie B
+Le BDS décide d’organiser une randonnée en montagne. Cette sortie est proposée à tous les
+étudiants de cette école mais le prix qu’ils auront à payer pour y participer est variable. Il est
+de 60 € pour les étudiants qui ne sont pas membres du BDS, et de
+20 € pour les
+étudiants qui sont membres du BDS.
+
+On désigne par 𝑋 la variable aléatoire donnant la somme à payer pour un étudiant qui désire
+faire cette randonnée.
+1. Quelles sont les valeurs prises par 𝑋 ?
+2. Donner la loi de probabilité de 𝑋, et calculer l’espérance de 𝑋.
+
+Exercice 4 (5 points)
+
+Bob s’est fixé un objectif : participer à un marathon qui aura lieu très bientôt dans sa ville.
+
+Pour cela, il désire programmer sa préparation au marathon de la manière suivante :
+ lors du premier entraînement, il décide de courir 20 km ;
+ il augmente ensuite, à chaque entraînement, la distance à courir de 5 %.
+
+On peut modéliser la distance parcourue lors de ses entraînements par une suite (𝑑𝑛 ), où,
+pour tout entier naturel 𝑛 non nul, le nombre 𝑑𝑛 désigne la distance à courir en kilomètre,
+lors de son 𝑛-ième entraînement.
+On a ainsi 𝑑1 = 20.
+
+1. Calculer 𝑑2 , puis vérifier que 𝑑3 = 22,05.
+2. Pour tout entier naturel 𝑛 non nul, exprimer 𝑑𝑛+1 en fonction de 𝑑𝑛 .
+3. Justifier que, pour tout entier naturel 𝑛 ≥ 1, 𝑑𝑛 = 20 × 1,05𝑛−1 .
+4. Quelle distance, arrondie à 1 m près, va courir Bob lors de son 10e entraînement ?
+5. La distance à courir lors d’un marathon est de 42,195 km. Bob estime qu’il sera prêt pour la
+course, s’il parvient à courir au moins 43 km lors d’un de ses entraînements.
+Recopier et compléter le script suivant, écrit en langage Python, dont la valeur de 𝑛, après
+exécution de ce script, est le nombre minimal d’entraînements permettant à Bob d’être prêt
+pour le marathon.
+n = 1
+d = 20
+while …………………… :
+
+n = ……………………
+d = 1,05*d

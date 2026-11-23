@@ -1,0 +1,195 @@
+{"pages": 6, "method": "pdftotext", "bytes": 831180, "at": "2026-11-23T08:55:20+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I – Exercice 1
+Automatismes (5 points) Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Donner le coefficient multiplicateur correspondant à
+une baisse de 12 %.
+
+2)
+
+Dans un lycée à la rentrée scolaire 2020, il y avait 250
+élèves à l’internat. À la rentrée 2021, il n’y en aura
+plus que 150.
+Déterminer le pourcentage d’évolution du nombre
+d’internes dans ce lycée entre 2020 et 2021.
+
+3)
+
+Pendant les soldes, le prix d’un article est baissé de
+10 %. Il coûte alors 18,90 €. Quel était le prix initial de
+cet article ?
+
+4)
+
+Une calculatrice coutait 79 €. Son prix a subi deux
+baisses successives, une première de 10% puis une
+seconde de 20 %. Déterminer le taux d’évolution
+global, exprimé en pourcentage, correspondant à ces
+deux évolutions.
+
+5)
+
+Écrire le nombre suivant sous la forme d’une seule
+puissance de 3 :
+
+6)
+
+3−2 ×36
+3−6 ×3
+
+Soit 𝑓 la fonction définie sur R par :
+𝑓(𝑥) = 3(2𝑥 − 1)(𝑥 + 1).
+Déterminer les coordonnées des points
+d’intersections de la courbe de 𝑓 avec l’axe des
+abscisses.
+
+7)
+
+Pour cette même fonction
+𝑓, compléter le tableau de
+signes ci-contre.
+
+𝑥−∞
+
++∞
+
+𝑓(𝑥)
+.
+
+8)
+
+Soit 𝑔 la fonction définie sur R par :
+
+𝑔(𝑥) = 6 𝑥 3 − 𝑥 2 + 2 𝑥+1
+Déterminer l’expression de la fonction 𝑔’ dérivée de
+la fonction 𝑔.
+9)
+
+Pour la même fonction 𝑔 calculer le coefficient
+directeur de la tangente à la courbe de 𝑔 au point A
+d’abscisse 3.
+
+10)
+
+Sur le graphique ci-dessous, 𝒞 est la courbe
+représentative de la fonction 𝑔 et 𝑇 la tangente à
+cette courbe 𝒞 au point B.
+Déterminer graphiquement le coefficient directeur de
+𝑇.
+𝒞
+
+B
+
+𝑇
+
+B
+
+𝑇
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une entreprise européenne fabrique des panneaux photovoltaïques. Elle augmente sa
+production de 5 % par an afin de répondre à la demande.
+En 2015, elle produisait dans son usine 10 000 panneaux.
+On note 𝑝𝑛 le nombre de panneaux produits durant l’année 2015 + 𝑛.
+1. Justifier que (𝑝𝑛 ) est une suite géométrique dont on précisera le premier terme 𝑝0
+et la raison.
+2. Exprimer 𝑝𝑛 en fonction de 𝑛.
+3. Quel sera le nombre de panneaux produits dans l’usine en 2022 ?
+4. Déterminer le nombre total de panneaux produits de 2015 à fin 2022.
+5. Au-delà d’un total de 200 000 panneaux fabriqués, certaines machines de l’usine
+devront être changées. Le directeur souhaiterait connaître l’année durant laquelle
+cette production totale sera atteinte.
+Recopier et compléter le programme Python ci-dessous afin que la valeur renvoyée
+après son exécution soit l’année cherchée.
+Def(année) :
+𝑛=0
+𝑝
+𝑆 = 10 000
+while 𝑆 ⩽ . . . … ….
+𝑝 = 1,05 ∗ 𝑝
+𝑆 = ..……
+𝑛 = ..……
+return(2 015 + 𝑛)
+
+Exercice 3 (5 points)
+Un concessionnaire automobile fait le bilan annuel de ses ventes de véhicules électriques et
+de véhicules hybrides.
+Ce bilan est le suivant :
+15 % des véhicules vendus sont d’occasion, les autres sont neufs. Parmi les véhicules
+d’occasion, 35 % ont un moteur hybride et parmi les véhicules neufs 25% ont un moteur
+électrique.
+On choisit au hasard le dossier d’un véhicule vendu au cours de cette année et on note :
+
+𝑁 l’événement « C’est un véhicule neuf » ;
+
+𝐸 l’événement « C’est un véhicule électrique ».
+Pour tout évènement 𝐴, on note 𝐴̅ son évènement contraire.
+1. Recopier et compléter l’arbre de probabilité suivant :
+
+… …
+
+N
+
+N
+
+2. Traduire par une phrase l’évènement N ∩ E puis calculer sa probabilité.
+3. Montrer que 𝑃(E) = 0,31.
+4. En déduire la probabilité conditionnelle 𝑃E (N). On donnera la valeur arrondie au
+centième.
+5. Les évènements 𝑁 et 𝐸 sont-ils indépendants ? Justifier.
+
+Exercice 4 (5 points)
+En acoustique on note :
+
+𝐼 l’intensité sonore d’un son qui s’exprime en watts par mètre carré (𝑊. 𝑚−2 ).
+𝐼0 la plus petite intensité sonore perceptible par l’oreille humaine. On a
+𝐼0 = 10−12 𝑊. 𝑚−2.
+𝐿 le niveau sonore d’un son qui s’exprime en décibel (dB).
+
+Pour un son d’intensité sonore 𝐼 le niveau sonore L est donné par la formule suivante :
+𝐼
+
+𝐿 = 10 × log (𝐼 ).
+
+1. Calculer le niveau sonore correspondant à l’intensité 𝐼 = 𝐼0 = 10−12 𝑊. 𝑚−2.
+2. Démontrer que 𝐿 = 120 + 10 × log 𝐼.
+3. On considère que le seuil de douleur pour l’oreille humaine est atteint pour un
+niveau sonore de 120dB. Calculer l’intensité sonore dont le niveau sonore est égal à
+120dB.
+4. Montrer que lorsque l’intensité sonore d’un son est doublée, le niveau sonore
+augmente de 3 dB environ.
+5. Mireille possède une enceinte dans sa chambre dont la puissance fournit un niveau
+sonore de 80 dB. Elle souhaite en acheter une seconde de puissance identique et
+l’installer à côté de celle qu’elle possède déjà.
+Ses parents protestent : « 160 dB, mais tu risques d’avoir des lésions irréversibles aux
+oreilles ! ».
+Sachant que les intensités sonores de plusieurs sons émis d’un même point
+s’additionnent, que peut-on penser de l’affirmation des parents de Mireille ?

@@ -1,0 +1,145 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1331054, "at": "2026-11-23T08:54:10+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+
+Réponse
+
+des élèves d’un lycée sont des filles.
+
+Quel est le pourcentage de garçons dans ce lycée ?
+Diminuer une quantité de 12 % revient
+à la multiplier par :
+Le prix d’un Jeans est de 50 €. Son prix diminue de
+20 %. Quel est son nouveau prix ?
+Donner l’écriture décimale de
+5,72 × 10−3
+Convertir 2,5 𝑚3 en litres.
+
+Donner le tableau de signes sur R de l’expression
+𝐴(𝑥) = 2𝑥 + 6.
+
+Développer et réduire l’expression (1 − 3𝑥)(𝑥 + 2)
+
+Le point A d’abscisse 2 appartient à la courbe 𝑃
+d’équation 𝑦 = 𝑥² − 3𝑥 + 5. Calculer son ordonnée.
+
+La figure ci-contre donne la courbe représentative 𝐶𝑓 d’une
+fonction 𝑓 définie sur [−3; 3].
+
+Pour les questions 9 et 10, compléter par lecture graphique.
+Donner les solutions de l’équation
+𝑓(𝑥) = 0
+L’ensemble des solutions de l’inéquation
+𝑓(𝑥) > 2 est :
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+En 2017, une entreprise réalisait un chiffre d’affaires de 40 millions d’euros. Depuis, le
+chiffre d’affaires a augmenté de 10 % chaque année.
+1. Calculer le chiffre d’affaires en millions d’euros de cette entreprise en 2018.
+Afin de prendre des décisions pour l’avenir, on considère que le chiffre d’affaires de
+l’entreprise continuera d’augmenter de 10 % chaque année.
+On note 𝑣(𝑛) le chiffres d’affaires en millions d’euros de cette entreprise en (2017+𝑛) selon
+ce modèle de croissance.
+𝑣(0) désigne ainsi le chiffre d’affaires en millions d’euros en 2017, 𝑣(1) le chiffre d’affaires
+en millions d’euros en 2018…
+2. Calculer la valeur de 𝑣(2).
+3. Justifier que 𝑣 est une suite géométrique de raison 1,1.
+4. Le directeur affirme qu’il prendra la décision de construire une nouvelle usine
+lorsque son chiffre d’affaires dépassera 60 millions d’euros.
+a) On a écrit une fonction en Python nommée annee_investissement() et donnée en
+annexe.
+Compléter cette fonction sur l’annexe pour qu’elle renvoie, selon ce modèle de
+croissance, l’année à laquelle le directeur prendra la décision de construire une
+nouvelle usine
+b) Quelle année va renvoyer la fonction annee_investissement() lorsqu’on
+l’exécute ?
+
+Exercice 3 (5 points)
+Une enquête sous forme de questionnaire a été réalisée auprès de 5 000 touristes ayant
+séjourné dans une ville du littoral méditerranéen:
+- 750 touristes ont répondu avoir réservé un logement proposé par un particulier;
+- 33% des touristes ont répondu être des touristes étrangers.
+- 528 touristes étrangers ont répondu avoir réservé un logement proposé par un
+particulier.
+1. Calculer le nombre de touristes étrangers ayant répondu à cette enquête.
+2. À l’aide des données précédentes, compléter le tableau croisé des effectifs fourni en
+annexe.
+On choisit au hasard une fiche réponse parmi l’ensemble des 5 000 fiches réponses des
+touristes interrogés. On considère les événements suivants :
+𝑅 l’évènement : « la fiche choisie est celle d’un touriste ayant réservé un logement
+proposé par un particulier ».
+𝐸 l’évènement : « la fiche choisie est celle d’un touriste étranger ».
+3. Définir par une phrase l’évènement 𝐸̅ et calculer sa probabilité.
+4. Calculer 𝑃(𝐸 ∩ 𝑅). Interpréter le résultat dans le contexte de l’exercice.
+5. Calculer 𝑃𝐸 (𝑅). Interpréter le résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+On donne en annexe à rendre avec la copie la courbe représentative 𝐶𝑔 d’une fonction 𝑔
+définie et dérivable sur l’intervalle [−3 ; 2,5].
+𝑇𝐴 est la tangente à la courbe 𝐶𝑔 au point 𝐴 d’abscisse 0. L’équation réduite de cette
+tangente est 𝑦 = – 3𝑥 – 1.
+1. Déterminer :
+a) 𝑔(0)
+b) Le nombre dérivé 𝑔′(0).
+On admet que la fonction 𝑔 est définie sur [−3 ; 2,5] par 𝑔(𝑥) = 0,5𝑥 3 + 0,75𝑥 2 − 3𝑥 − 1.
+2. Déterminer une expression de la dérivée 𝑔’ de la fonction 𝑔 pour tout réel 𝑥 de
+l’intervalle [−3 ; 2,5].
+3. On admet que pour tout réel 𝑥 appartenant à [−3 ; 2,5] une expression factorisée de
+la dérivée de 𝑔 est 𝑔′ (𝑥) = (1,5𝑥 + 3)(𝑥 − 1).
+a) Etudier le signe de 𝑔’(𝑥) sur l’intervalle [−3 ; 2,5]
+b) En déduire les variations de 𝑔 sur l’intervalle [−3 ; 2,5].
+
+ANNEXE à rendre avec la copie
+Exercice 2 question 4 a.
+def annee_investissement() :
+v = 40
+n=0
+while ………. :
+v = ………
+n = n+1
+return 2017+n
+
+Exercice 3 question 2
+Touristes Français
+Logements proposés
+par des particuliers.
+Hébergements
+proposés par des
+professionnels
+(hôtels, etc.)
+Total
+
+Touristes Etrangers
+
+Total
+
+5000
+
+Exercice 4

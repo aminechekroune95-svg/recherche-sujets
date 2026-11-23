@@ -1,0 +1,142 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1364165, "at": "2026-11-23T08:57:05+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Enoncé
+
+Réponse
+
+1)
+
+Diminuer un nombre de 5 % revient à le multiplier par :
+
+2)
+
+Un article coûte 150 €.
+Après une augmentation de 20 %, il coûtera :
+
+3)
+
+Après une augmentation de 50 % on obtient la valeur finale
+300. La valeur initiale était :
+
+4)
+
+Diviser un prix par 10 revient-il à diminuer ce prix de 90 % ?
+
+OUI - NON
+
+5)
+
+Si un prix subit une hausse de 20 % puis une baisse de 20 %,
+alors le prix est resté identique.
+
+VRAI - FAUX
+
+Le tableau ci-dessous donne le chiffre d’affaire du commerce
+en ligne de 2012 à 2017 ainsi que l’indice en base 100.
+
+6)
+
+Quel a été le pourcentage d’évolution du chiffre d’affaire
+entre 2012 et 2015 ?
+7)
+8)
+
+Résoudre dans R l’équation :
+5𝑥 + 4 = 3𝑥 + 2
+Donner l’ensemble des solutions dans R de l’inéquation :
+4𝑥 + 1 < 17
+Résoudre dans R l’équation :
+𝑥 2 = 36
+
+9)
+
+Compléter le tableau de signes ci-dessous de la fonction 𝑓 définie par
+𝑓(𝑥) = (𝑥 + 7)(2𝑥 − 5).
+10)
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est constituée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Pour se nourrir, un oiseau plonge dans la mer depuis le haut d’une falaise d’une hauteur
+de 5 mètres.
+La trajectoire de l'oiseau est modélisée par la courbe représentative d’une fonction ℎ tracée
+sur l’intervalle [0 ; 6] dans le repère orthonormé ci-dessous.
+Dans ce repère, l’axe des abscisses représente le niveau de la mer et l’axe des ordonnées
+représente la falaise.
+h(x) désigne alors l’altitude en mètres de l'oiseau par rapport au niveau de la mer et où x
+désigne la distance en mètres qui le sépare de la falaise.
+ℎ(𝑥)
+
+𝑥
+
+Avec la précision permise par le graphique, répondre aux deux questions suivantes.
+1. Quelle est l’image de 0 par la fonction h ? Interpréter dans le contexte de l’exercice.
+2. À quelles distances de la falaise se trouve l’oiseau lorsqu’il est à une profondeur
+de 3 mètres sous la mer ?
+
+La fonction ℎ est définie sur l’intervalle [0 ; 6] par :
+ℎ(𝑥) = 𝑥 2 − 6𝑥 + 5
+3. Démontrer que ℎ(𝑥) = (𝑥 − 1)(𝑥 − 5).
+4. En déduire le tableau de signes de la fonction ℎ sur [0 ; 6].
+5. Résoudre l’inéquation ℎ(𝑥) < 0 et interpréter dans le contexte de l’exercice
+
+Exercice 3 : (5 points) avec un tableur
+Un restaurateur propose un menu à 13 € le midi.
+Il estime que 50 menus sont servis chaque midi.
+Pour le restaurateur, le coût de réalisation de ce menu est de 9 €.
+Le restaurateur souhaite augmenter son bénéfice chaque midi. Pour cela il envisage
+d’augmenter le prix du menu.
+Un sondage réalisé auprès de sa clientèle révèle qu’une hausse du prix du menu de 1 €, lui
+ferait perdre 4 clients le midi.
+On souhaite conjecturer le prix du menu pour obtenir un bénéfice maximal. Pour cela, on a
+construit la feuille de calcul ci-dessous à l’aide d’un tableur.
+
+1. Parmi les formules suivantes, recopier celle qu’il faut écrire en cellule D2 puis étirer
+vers le bas pour obtenir le chiffre d’affaire.
+=13*50
+
+=13*C2
+
+=$B$2*$C$2
+
+=B2*C2
+
+2. À partir du fichier fourni, reproduire cette feuille de calcul pour des augmentations
+successives allant de 0 à 8 €.
+Conjecturer le prix du menu permettant d’obtenir le bénéfice maximum.
+
+On admet que le bénéfice, exprimé en euros, est modélisé par la fonction 𝐵 définie sur
+l’interv alle [0 ; 8] par :
+𝐵(𝑥) = −4𝑥 2 + 34𝑥 + 200
+où 𝑥 correspond à l’augmentation du prix initial du menu, exprimé en euros.
+3. Déterminer 𝐵′(𝑥).
+4. Dresser le tableau de variations de la fonction 𝐵 sur l’intervalle [0 ; 8].
+5. Pour quelle valeur de x le bénéfice 𝐵(𝑥) atteint-il son maximum ? En déduire le prix
+du menu correspondant.
+
+Exercice 4 : (5 points)
+
+Un sac contient 2 boules noires et 8 boules blanches indiscernables au toucher.
+Une expérience consiste à prélever au hasard une boule dans le sac et à noter sa couleur.
+1. a) Justifier qu’il s’agit d’une épreuve de Bernoulli.
+b) On désigne par S l’événement : « la boule prélevée est noire ».
+Calculer la probabilité de l’événement S.
+2. On répète successivement trois fois cette expérience de Bernoulli en remettant à
+chaque fois dans le sac la boule tirée.
+a) Recopier, compléter et terminer l’arbre ci-dessous représentant cette expérience
+aléatoire.
+
+b) Déterminer la probabilité de l’événement A : « ne pas obtenir de boule noire
+parmi les trois tirages ».
+c) On considère l’événement B : « obtenir deux boules noires parmi les trois
+tirages ».
+Dans l’arbre construit à la question 2.a), combien y a-t-il de chemins réalisant
+l’événement B ? En déduire la probabilité de l’événement B.

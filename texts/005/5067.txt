@@ -1,0 +1,188 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1054956, "at": "2026-11-23T08:59:10+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+
+Question 1
+−4
+−1
+) et ⃗⃗⃗⃗⃗
+CB ( ). Le produit scalaire
+
+Dans un repère orthonormé, on a : ⃗⃗⃗⃗⃗
+AB (
+⃗⃗⃗⃗⃗
+AB. ⃗⃗⃗⃗⃗
+CB vaut :
+a) −23
+
+b) −17
+
+c) 19
+
+d) 23
+
+Question 2
+−1
+Dans un repère orthonormé, on a ⃗⃗⃗⃗⃗
+CB ( ). Alors la longueur CB est égale à :
+a) 24
+
+c) 26
+
+b) √24
+
+d) √26
+
+Question 3
+ABC est un triangle équilatéral de côté 3.
+I et H sont les milieux respectifs de [CB] et de [AB].
+D est le projeté orthogonal de I sur (CH).
+On a :
+a) ⃗⃗⃗⃗⃗
+HB. ⃗⃗⃗⃗⃗
+HC = 0
+
+b) ⃗⃗⃗⃗⃗
+AH. ⃗⃗⃗⃗
+DI = 0
+
+c) ⃗⃗⃗⃗⃗
+AH. ⃗⃗⃗
+AI = 0
+
+d) ⃗⃗⃗⃗⃗
+BH. ⃗⃗⃗⃗
+DI = 0
+
+Question 4
+
+Soit un réel 𝑥 tel que 𝑐𝑜𝑠(𝑥) = 2 . On a :
+
+a) 𝑐𝑜𝑠(−𝑥) = 2
+
+b) 𝑠𝑖𝑛(𝑥) =
+
+−√3
+
+c) 𝑠𝑖𝑛(𝑥) = 2
+
+d) 𝑐𝑜𝑠(−𝑥) =
+
+−√3
+
+Question 5
+Le plan est muni d’un repère orthonormé.
+On considère l’équation de cercle 𝑥 2 − 2𝑥 + (𝑦 + 3)2 = 3. Son centre a pour coordonnées :
+a) (−1; −3)
+
+b) (1; −3)
+
+c) (−2; 3)
+
+d) (−2; −3)
+
+Exercice 2 (5 points)
+Au sein d’un lycée, parmi les élèves de première ayant choisi la spécialité
+mathématique, il y a 110 filles dont 5 ne poursuivent pas la spécialité en terminale
+et 90 garçons dont 8 ne poursuivent pas la spécialité.
+
+On interroge au hasard un élève et on définit les événements suivants :
+
+F l'événement : « L'élève interrogé est une fille »,
+
+G l'événement : « L'élève interrogé est un garçon »,
+
+S l'événement : « L'élève interrogé poursuit la spécialité ».
+
+On donnera les valeurs exactes pour chacune des questions.
+
+1) Calculer 𝑝(𝐺) , 𝑝(G ∩ S̅) et 𝑝(S̅).
+2) L'élève interrogé ne poursuit pas la spécialité. Calculer la probabilité que ce soit
+un garçon.
+3) Les événements G et S sont-ils indépendants ?
+
+Exercice 3 (5 points)
+Partie A
+Soit la suite géométrique (𝑢𝑛 ) de raison 0,999 et de premier terme 𝑢0 = 82695.
+1) Calculer 𝑢19 .
+2) Calculer 𝑆 = 𝑢0 + 𝑢1 + ⋯ + 𝑢19 .
+
+Partie B
+La population d’un pays s’élevait à 82 695 000 habitants au premier janvier 2016.
+Sans tenir compte des flux migratoires, on estime que la population baisse de 0,1 % chaque
+année.
+Déterminer une estimation de l’effectif de la population de ce pays au premier janvier 2035.
+
+Partie C
+Dans cette partie, on tient compte des flux migratoires : on estime qu’en 2016, le solde
+migratoire (différence entre les entrées et les sorties du territoire) est positif et s’élève à
+58 700 personnes.
+De plus, on admet que la baisse de 0,1 % de la population ainsi que le solde
+migratoire restent constants chaque année suivant 2016.
+On propose la fonction suivante écrite sous Python :
+
+1)
+2)
+
+Si on saisit : « population (2) », quelle valeur nous retourne cette fonction ?
+Si on saisit : « population (19) », la valeur arrondie à l'entier retournée par
+cette fonction est 82 243 175.
+Que représente ce nombre dans le contexte de la partie C ?
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie sur ] − ∞; 2[ par :
+𝑓(𝑥) =
+
+𝑥 2 − 4𝑥 + 8
+𝑥−2
+
+On se place dans un repère orthonormé.
+
+1) Résoudre 𝑓(𝑥) = 0.
+2) On note 𝑓 ′ la fonction dérivée de 𝑓.
+a.
+Démontrer que pour tout réel 𝑥 de ] − ∞; 2[ :
+
+𝑓 ′(𝑥) =
+
+b.
+
+𝑥 2 − 4𝑥
+(𝑥 − 2)2
+
+Déterminer les variations de la fonction 𝑓.
+
+3) Déterminer une équation de la tangente D à la courbe représentative de 𝑓 au
+point d’abscisse 1.
+4) Tracer la droite D et une esquisse de la courbe représentative de la fonction 𝑓
+dans le repère donné en Annexe à rendre avec la copie.
+
+Annexe

@@ -1,0 +1,146 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1535756, "at": "2026-11-23T08:53:31+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages :7
+
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune justification
+n'est demandée.
+
+1 Calculer 20 % de 150 €.
+
+Un prix passe de 50 € à 52 €.
+Déterminer le pourcentage d’évolution de prix.
+
+Écrire sous la forme d’une fraction irréductible :
++ × .
+
+Factoriser l’expression :
+
+𝐴(𝑥) = (𝑥 + 1)(𝑥 − 7) + (𝑥 + 1)(2𝑥 − 3).
+
+On considère la fonction 𝑓 définie sur R par
+5 𝑓(𝑥) = 2𝑥 3 − 5𝑥 2 + 2𝑥 − 1 et on note 𝑓’ sa dérivée.
+Exprimer, pour tout réel 𝑥, 𝑓’(𝑥) en fonction de 𝑥.
+
+6 Résoudre dans R l’équation −2𝑥 − 10 = 0.
+
+7 Compléter :
+
+3,2 × 1010 est égal à …..…. milliards
+
+On considère la fonction ℎ définie sur l’intervalle [0 ; 8]
+dont la courbe représentative est donnée ci-dessous.
+La droite (𝑑) est la tangente à la courbe au point A
+d’abscisse 2.
+
+Avec la précision permise par le graphique, déterminer le
+coefficient directeur de cette tangente.
+On considère la fonction f définie sur l’intervalle [– 3 ; 9] Le tableau de signes de f sur
+dont la courbe représentative est donnée ci-dessous.
+l’intervalle [– 3 ; 9] est :
+Répondre aux questions avec la précision permise par le
+graphique.
+
+Les solutions sur l’intervalle
+[-3 ; 9] de l’équation
+𝑓(𝑥) = 2 sont :
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Deux groupes industriels A et B sont soumis à une nouvelle réglementation qui limitera en
+2030 la quantité des rejets polluants à 30 000 tonnes par an.
+1. Les rejets polluants du groupe A sont évalués à 53 000 tonnes en 2020. Ce groupe
+industriel planifie de réduire chaque année ses rejets polluants de 1 800 tonnes.
+a. Quelle sera la quantité de rejets polluants du groupe A en 2025 ?
+b. Recopier et compléter le programme ci-dessous écrit en langage Python
+pour qu’à la fin de son exécution, la variable n contienne le nombre d’années
+nécessaires pour que l’entreprise A respecte la nouvelle réglementation.
+
+……..
+
+2. Les rejets du groupe industriel B sont évalués à 52 000 tonnes en 2020. Ce groupe
+industriel décide de réduire chaque année ses rejets polluants de 4 %.
+On modélise la quantité de rejets polluants à l’aide d’une suite (𝑟𝑛 ). Pour tout entier
+naturel 𝑛, 𝑟𝑛 représente donc la quantité de rejets polluants, exprimée en tonnes,
+pour l’année 2020 + 𝑛.
+a. Préciser 𝑟0 et 𝑟1 .
+b. Donner sans justifier la nature de la suite (𝑟𝑛 ) , puis exprimer, pour tout
+entier naturel 𝑛, 𝑟𝑛 en fonction de 𝑛 .
+c. La nouvelle réglementation sera-t-elle respectée pour le groupe industriel B
+en 2030 ?
+
+Exercice 3 (5 points)
+Une entreprise fabrique et commercialise de la peinture écologique. Sa capacité de
+production est limitée à 10 milliers de litres de peinture par mois.
+Le coût total de production mensuel, exprimé en milliers d'euros, est modélisé par la
+fonction 𝐶 définie sur l’intervalle [0 ; 10] par 𝐶(𝑥) = 0,8𝑥 2 − 12𝑥 + 63,368 où 𝑥 désigne la
+quantité de peinture fabriquée chaque mois, exprimée en milliers de litres.
+1. On donne ci-dessous la courbe représentative de la fonction 𝐶 sur l’intervalle [0 ; 10].
+
+Répondre avec la précision permise par le graphique.
+-
+
+Quel est le coût de production mensuel de 3 000 L de peinture ?
+Pour quelles valeurs de la quantité de peinture à produire
+mensuellement, le coût de production est-il inférieur ou égal à 20 000 € ?
+
+2. Le coût moyen unitaire de production, exprimé en euros, correspondant à la production de 𝑥
+milliers de litres de peinture, est donné sur l’intervalle ]0 ; 10] par 𝑓(𝑥) =
+
+𝐶(𝑥)
+𝑥
+
+Ainsi 𝑓(6) représente le coût de production, en euros, d’un millier de litres de peinture
+lorsque l’entreprise produit 6000 L de peinture.
+a. Montrer que 𝑓(𝑥) = 0,8𝑥 − 12 +
+
+63,368
+𝑥
+
+b. Montrer que pour tout réel 𝑥 de l'intervalle ]0 ; 10], 𝑓′(𝑥) =
+
+0,8(𝑥−8,9)(𝑥+8,9)
+𝑥2
+
+c. Étudier les variations de la fonction 𝑓sur l’intervalle ]0 ; 10].
+d. En déduire le coût moyen unitaire de production minimal ainsi que la quantité
+de peinture à produire pour obtenir ce coût minimal.
+Exercice 4 (5 points)
+Lors d’une course VTT, 75 % des participants sont licenciés en club.
+ Parmi les participants licenciés, 60 % ont terminé la course en moins de 4h.
+ Parmi les participants non licenciés, 45 % ont terminé la course en moins de 4h.
+On interroge au hasard un participant. On considère les événements suivants :
+L : « le participant est licencié en club »
+A : « le participant termine la course en moins de 4h »
+1. À l’aide des informations de l’énoncé, donner la probabilité PL(A) de l’événement A
+sachant que l’événement L est réalisé.
+2. Recopier et compléter l’arbre pondéré suivant qui représente la situation.
+
+3. Calculer la probabilité P(L∩A).
+4. Montrer que P(A) = 0,5625.
+5. Un organisateur affirme que 80 % des participants ayant fini la course en moins de 4h
+sont licenciés en club.
+A-t-il raison ? Justifier.

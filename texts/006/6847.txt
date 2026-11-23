@@ -1,0 +1,135 @@
+{"pages": 7, "method": "pdftotext", "bytes": 976123, "at": "2026-11-23T08:57:18+00:00"}
+PARTIE I
+Automatismes (5 points)
+Question
+n°
+
+Sans calculatrice
+
+Énoncé
+
+Compléter :
+
+Résoudre dans R l’inéquation
+2𝑥 − 3 > 0 .
+
+Résoudre l’équation 𝑥 2 = 7 dans R.
+
+Un produit coûte 24 euros après un
+solde de 25 %. Quel était son prix initial ?
+
+Soit 𝑓 la fonction définie sur R par
+𝑓(𝑥) = 3𝑥 − 1.
+Déterminer l’antécédent de 3 par 𝑓.
+
+Un prix augmente de 10 % puis baisse de
+20 %. Calculer le taux d’évolution global.
+
+Dresser le tableau de signes sur R de
+l’expression : (𝑥 − 1)(𝑥 − 2).
+
+Dans une boulangerie le prix du
+croissant est passé de 1 € à 1,05 €. Quel
+est le pourcentage d’augmentation
+correspondant à cette évolution ?
+
+Le prix d’un article a baissé de 50 %, quel
+doit-être le pourcentage d’augmentation
+pour revenir au prix initial ?
+
+En 2018 le prix d’un article était de
+120 €, en 2019 il coûte 150 €. En prenant
+comme indice de base 100 en 2018, quel
+est l’indice correspondant en 2019 ?
+
+Durée : 20 minutes
+
+Réponse
+
+Augmenter une quantité de 15 %
+revient à la multiplier
+par......................
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+Une entreprise spécialisée dans la vente de téléphones utilise des batteries lithium-ion d’une
+capacité de 3 400 mAh, qui se déchargent de 115 mAh chaque jour.
+1. On note 𝑢(𝑛) la capacité en mAh des batteries de l’entreprise A après 𝑛 jours.
+On pose 𝑢(0) = 3 400.
+a) Représenter sur le graphique de la feuille annexe page 5/5 à joindre avec la copie
+les valeurs 𝑢(1), 𝑢(2), 𝑢(3) et 𝑢(4).
+b) Conjecturer la nature de la suite 𝑢. Justifier.
+c) On admet que pour tout entier naturel 𝑛 ∶ 𝑢(𝑛) = 3400 − 115𝑛. Démontrer la
+conjecture émise à la question précédente.
+2. a) Recopier et compléter les lignes 2 et 4 du script ci-dessous (écrit en langage Python)
+qui permet de déterminer le nombre de jours à partir duquel un téléphone ne peut
+plus s'allumer du fait d’une décharge totale de la batterie.
+
+b) Quelle est la valeur de n obtenue à l’exécution du programme ?
+Exercice 3 (5 points)
+Au cours d’un vol, l’altitude d’un avion (en kilomètre) en fonction du temps (en seconde) est
+modélisée par une fonction 𝑓 représentée par la courbe 𝐶𝑓 ci-dessous. On s’intéresse plus
+particulièrement à une portion du vol pendant laquelle l’altitude de l’avion dépasse 8 km.
+
+1. Répondre aux questions suivantes avec la précision permise par le graphique :
+a) Déterminer graphiquement l’altitude de l’avion lorsque 𝑡 = 5 secondes ?
+b) Déterminer graphiquement pendant combien de temps l’avion vole à une altitude
+supérieure ou égale à 8 400 m.
+−𝑡 2
+
+𝑡
+
+2. La fonction 𝑓 est définie sur l’intervalle [0 ; 25] par 𝑓(𝑡) = 250 + 10 + 8 .
+a) Calculer 𝑓 ′ (𝑡) où 𝑓 ′ est la fonction dérivée de la fonction 𝑓.
+b) Étudier le signe de 𝑓 ′ (𝑡) et en déduire le tableau de variations de 𝑓 sur [0 ; 25].
+c) Déterminer l’altitude maximale atteinte par l’avion sur cet intervalle de temps.
+Exercice 4 (5 points) :
+Une PME produit des plaques de mousse pour la réalisation de planches de surf.
+Chaque heure, on prélève 3 plaques au hasard pour vérifier leur conformité.
+La probabilité qu’une plaque soit conforme est de 0,95.
+On note C l’évènement : « La plaque prélevée est conforme. » et 𝐶̅ l’évènement contraire. On
+modélise cette expérience par la répétition de trois épreuves aléatoires et indépendantes de
+Bernoulli.
+1. Calculer 𝑃(𝐶̅ ).
+2. Recopier et compléter l’arbre de probabilités ci-dessous.
+
+3. Soit 𝑋 la variable aléatoire qui donne le nombre de plaques conformes parmi les 3
+plaques prélevées. Dans les questions suivantes on donnera les résultats arrondis au
+centième.
+a) Décrire l’évènement {𝑋 = 2} puis calculer sa probabilité.
+b) Justifier que la probabilité, arrondie au centième, qu’au moins une plaque soit non
+conforme est 0,14.
+
+Annexe à rendre avec la copie
+Exercice 2
+u(n)
+3400
+3380
+3360
+3340
+3320
+3300
+3280
+3260
+3240
+3220
+3200
+3180
+3160
+3140
+3120
+3100
+3080
+3060
+3040
+3020
+3000
+2980
+2960
+2940
+2920
+2900
+
+4 n

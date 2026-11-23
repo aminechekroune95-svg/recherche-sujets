@@ -1,0 +1,186 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1438128, "at": "2026-11-23T08:56:20+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+1)
+2)
+3)
+
+Sans calculatrice
+
+Enoncé
+Dans une classe de 30 élèves, les deux tiers sont des
+filles.
+Quel est le nombre de filles dans cette classe ?
+Un vêtement de 50 € est soldé à « -25% ».
+Combien coûte-t-il ?
+Mettre sous la forme d’une fraction irréductible
+5 3
+×
+9 10
+
+4)
+
+Résoudre sur R l’inéquation 3𝑥 − 4 ≥ 0.
+
+5)
+
+Développer l’expression −3(𝑥 − 1)(𝑥 + 4).
+
+6)
+
+On donne ci-dessous la représentation graphique de
+la fonction 𝑓 définie sur l’intervalle [-5 ; 5].
+
+Durée : 20 minutes
+Réponse
+
+Quelle est l’image de 3 par la
+fonction 𝑓 ?
+
+Résoudre graphiquement
+l’équation 𝑓(𝑥) = 1.
+7)
+
+Résoudre graphiquement
+l’inéquation 𝑓(𝑥) > 3.
+
+8)
+On a représenté ci-dessous deux droites d1 et d2 dans
+un repère.
+
+Déterminer l’équation réduite de
+la droite (d1).
+
+9)
+
+10)
+
+Déterminer le coefficient
+directeur de la droite (d2) tracée
+
+dans le repère ci-dessous.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Deux banques A et B proposent chacune un prêt à leurs clients.
+ La banque A propose de rembourser une mensualité d’un montant de 550 € la
+première année.
+Cette mensualité augmente ensuite de 3% chaque année.
+Durée du prêt proposé : 20 ans.
+Début du prêt : 01/01/2021
+ La banque B propose de rembourser une mensualité d’un montant de 550 € la
+première année.
+Cette mensualité augmente ensuite de 20 € chaque année.
+Durée du prêt proposé : 20 ans.
+Début du prêt : 01/01/2021
+1) Calculer le montant de la mensualité au 1er janvier 2022 pour chacune des deux banques.
+2) Montrer que le montant remboursé à l’issue des deux premières années auprès de la
+banque A est de 13 398 euros.
+3) On modélise les montants des mensualités des deux banques A et B depuis l’année 2021
+à l’aide de deux suites (𝑎𝑛 ) et (𝑏𝑛 ). Pour tout entier naturel 𝑛, 𝑎𝑛 représente le montant
+de la mensualité dans la banque A et 𝑏𝑛 celui de la banque B au 1er janvier de l’année
+2021 + 𝑛.
+Dans la suite du sujet, les résultats seront arrondis à 0,01 près.
+a. Quelle est la nature de la suite (𝑎𝑛 ) ? Donner sa raison et son premier terme.
+Quelle est la nature de la suite (𝑏𝑛 ) ? Donner sa raison et son premier terme.
+b. Calculer 𝑏2 . Interpréter ce résultat.
+
+4) Voici une fonction écrite en langage Python permettant de calculer le montant total
+remboursé après 𝑛 années auprès de la banque B.
+
+Recopier et compléter les lignes 5 et 6 de ce programme.
+
+Exercice 3 (5 points)
+Un laboratoire fabrique et commercialise un vaccin contre la rougeole.
+Sa capacité de production, sur une semaine, est limitée à 17 litres de ce vaccin.
+On modélise le résultat hebdomadaire réalisé par ce laboratoire à l’aide d’une fonction 𝑅
+définie sur l’intervalle [0 ; 17] dont la courbe représentative est donnée en annexe 1.
+𝑅(𝑥) désigne donc le résultat hebdomadaire, en euro, réalisé par le laboratoire à l’issue de
+la fabrication et de la vente d’un volume de 𝑥 litres de vaccin.
+À l’aide du graphique proposé en annexe 1, répondre sur la copie aux deux questions
+suivantes avec la précision permise par le graphique.
+1. Pour quelle(s) quantité(s) de vaccin produit et vendu le résultat hebdomadaire est-il
+égal à 600 euros ?
+2. Quelles quantités de vaccin le laboratoire doit-il produire et vendre pour réaliser un
+bénéfice (c’est-à-dire lorsque le résultat est positif) ?
+
+On admet que la courbe donnée en annexe 1 est la représentation graphique de la fonction 𝑅
+définie sur l’intervalle [0 ; 17] par 𝑅(𝑥) = −𝑥 3 + 6𝑥 2 + 180𝑥 − 184.
+On note 𝑅′ la fonction dérivée de la fonction 𝑅.
+3. Déterminer 𝑅′(𝑥) puis montrer que 𝑅′(𝑥) = (−3𝑥 + 30)(𝑥 + 6).
+4. Étudier le signe de 𝑅′(𝑥) sur l’intervalle [0 ; 17].
+En déduire le tableau de variations de la fonction 𝑅 sur l’intervalle [0 ; 17].
+5. Déterminer le volume de vaccin à produire et vendre pour obtenir un résultat
+hebdomadaire maximal et calculer la valeur de ce résultat hebdomadaire, en euro.
+
+Exercice 4 (5 points)
+Un centre de loisirs accueille 150 enfants. Deux activités sportives leur sont proposées : de
+l’athlétisme et du basket. Ils peuvent choisir de s’inscrire aux deux activités, à une seule ou à
+aucune des deux.
+
+
+
+60% d’entre eux ont choisi l’athlétisme et parmi eux, seuls 10 ont également choisi
+
+
+
+le basket.
+Parmi ceux qui n’ont pas choisi l’athlétisme, 90% d’entre eux n’ont pas choisi le
+basket.
+
+1) Compléter le tableau des effectifs croisés proposé en annexe 2.
+On choisit au hasard un enfant dans ce centre de loisirs.
+On note 𝐴 l’événement « l’enfant a choisi l’athlétisme » et 𝐴̅ l’événement contraire de 𝐴.
+On note 𝐵 l’événement « l’enfant a choisi le basket » et 𝐵̅ l’événement contraire de 𝐵.
+2) Justifier que 𝑝(𝐵) = 0,22.
+
+3) Déterminer la probabilité que l’enfant n’ait choisi aucune des deux activités.
+
+4) Déterminer la probabilité 𝑝(𝐴 ∪ 𝐵).
+5) Déterminer la probabilité que l’enfant ait choisi le basket sachant qu’il a choisi de
+faire de l’athlétisme.
+
+6) Déterminer 𝑝𝐴̅ (𝐵). Interpréter dans le contexte de l’exercice.
+
+Annexe 1 (exercice 3)
+
+𝑅(𝑥)
+
+Volume 𝑥 de vaccin (en litre)
+
+Annexe 2 (exercice 4)
+Enfants ayant choisi
+l’athlétisme
+
+Enfants n’ayant pas
+choisi l’athlétisme
+
+Enfants ayant
+choisi le basket
+Enfants n’ayant
+pas choisi le basket
+TOTAL
+
+TOTAL

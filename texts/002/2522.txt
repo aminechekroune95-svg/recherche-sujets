@@ -1,0 +1,151 @@
+{"pages": 7, "method": "pdftotext", "bytes": 808510, "at": "2026-11-23T09:00:33+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples (QCM). Les cinq questions sont
+indépendantes. Pour chacune des questions, une seule des quatre réponses est exacte.
+Le candidat indiquera sur sa copie le numéro de la question et la lettre correspondant à la
+réponse exacte. Aucune justification n’est demandée. Une réponse exacte rapporte un
+point, une réponse fausse ou une absence de réponse ne rapporte ni n’enlève aucun point.
+Question 1
+(𝑢𝑛 ) est la suite arithmétique telle que 𝑢4 = 3 et 𝑢10 = 18. On peut affirmer que :
+a) 𝑢0 = 7
+
+𝑢7 = 20,5
+
+𝑢12 = 23
+
+𝑢14 = −28
+
+499 000
+
+500 499
+
+Question 2
+2 + 3 + 4 + ⋯ + 999 + 1000 est égal à :
+a)
+
+500 500
+
+498 999
+
+Question 3
+(𝑣𝑛 ) est la suite géométrique de raison 0,3 telle que 𝑣0 = −3. On conjecture que la suite
+(𝑣𝑛 ) a pour limite :
+a)
+
++∞
+
+−∞
+
+−3
+
+Question 4
+𝑓 est la fonction définie sur ℝ par 𝑓(𝑥) = −2(𝑥 + 2)2 − 3. On peut affirmer qu’elle est :
+a) décroissante sur b) décroissante sur
+c) croissante sur
+d) décroissante sur
+]−∞ ; +∞[
+]−2 ; +∞[
+]−∞ ; 2[
+]−3 ; +∞[
+Question 5
+L’ensemble des solutions de l’inéquation 𝑥 2 − 5𝑥 + 6 < 0 est
+a) ]−∞; 2[ ∪ ]3; +∞[
+
+b) ]−∞; −1[ ∪ ]6; +∞[
+
+c) ]2 ; 3[
+
+d) ]−1 ; 6[
+
+Exercice 2 (5 points)
+Une entreprise fabrique des pièces en acier, toutes identiques, pour l’industrie
+aéronautique.
+Ces pièces sont coulées dans des moules à la sortie du four. Elles sont stockées dans un
+entrepôt dont la température ambiante est maintenue à 25°C.
+Ces pièces peuvent être modelées dès que leur température devient inférieure ou égale à
+600°C et on peut les travailler tant que leur température reste supérieure ou égale à 500°C.
+La température de ces pièces varie en fonction du temps.
+On admet que la température en degré Celsius de ces pièces peut être modélisée par la
+fonction 𝑓 définie sur l’intervalle [0 ; +∞[ par :
+𝑓(𝑡) = 1 375e−0,075𝑡 + 25,
+où 𝑡 correspond au temps, exprimé en heures, mesuré après la sortie du four.
+1. Calculer la température des pièces à la sortie du four.
+2. Étudier le sens de variation de la fonction 𝑓 sur l’intervalle [0 ; +∞[. Ce résultat était-il
+prévisible dans le contexte de l’exercice ?
+3. Les pièces peuvent-elles être modelées 10 heures après la sortie du four ? Après 14 heures ?
+4. On souhaite déterminer le temps minimum d’attente en heures après la sortie du four avant
+de pouvoir modeler les pièces.
+a. Compléter l’algorithme donné en annexe 1, qui est à rendre avec la copie, pour qu’il
+renvoie ce temps minimum d’attente en heure (arrondi par excès à 0,1 près).
+b. Déterminer ce temps minimum d’attente. On arrondira au dixième.
+
+Exercice 3 (5 points)
+Dans le plan muni d’un repère orthonormé (O ; 𝑖⃗, 𝑗⃗), on considère les points A(4 ; −1),
+B(3 ; 4) et C( −1 ; 1).
+1. Calculer le produit scalaire ⃗⃗⃗⃗⃗⃗
+AB. ⃗⃗⃗⃗⃗⃗
+AC
+2. a. Soit D le projeté orthogonal du point C sur la droite (AB), justifier que
+⃗⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗⃗ = ⃗⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗⃗ .
+AB. AD
+AB. AC
+b. En déduire la longueur AD.
+3. Déterminer la hauteur du triangle ABC issue de C.
+4. Calculer l’aire du triangle ABC.
+
+Exercice 4 (5 points)
+Une entreprise de 1 000 employés est organisée en 3 services « A », « B » et « C » d’effectifs
+respectifs 450, 230 et 320 employés. Une enquête effectuée auprès de tous les employés
+sur leur temps de parcours quotidien entre leur domicile et l’entreprise a montré que :
+ 40 % des employés du service « A » résident à moins de 30 minutes de l’entreprise ;
+
+20 % des employés du service « B » résident à moins de 30 minutes de l’entreprise ;
+
+80 % des employés du service « C » résident à moins de 30 minutes de l’entreprise.
+
+On choisit au hasard un employé de cette entreprise et on considère les événements
+suivants :
+ 𝐴 : l’employé fait partie du service « A » ;
+
+𝐵 : l’employé fait partie du service « B » ;
+
+𝐶 : l’employé fait partie du service « C » ;
+
+𝑇 : l’employé réside à moins de 30 minutes de l’entreprise.
+
+On rappelle que si 𝐸 et 𝐹 sont deux événements, la probabilité d’un événement 𝐸 est notée
+𝑃( 𝐸) et celle de 𝐸 sachant 𝐹 est notée 𝑃𝐹 (𝐸).
+1. Justifier que 𝑃(𝐴) = 0,45 puis donner 𝑃𝐴 (𝑇).
+2. Compléter l’arbre pondéré donné en annexe 2 qui sera à rendre avec la copie.
+3. Déterminer la probabilité que l'employé choisi soit du service « A » et qu’il réside à moins de
+30 minutes de son lieu de travail.
+4. Montrer que 𝑃(𝑇) = 0,482.
+5. Sachant qu'un employé de l’entreprise réside à moins de 30 minutes de son lieu de travail,
+déterminer la probabilité qu'il fasse partie du service « C ». Arrondir à 10−3 près.
+
+Annexes (à rendre avec la copie)
+Annexe 1 – exercice 2
+
+Annexe 2 – Exercice 4

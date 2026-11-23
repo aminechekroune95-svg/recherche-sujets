@@ -1,0 +1,167 @@
+{"pages": 7, "method": "pdftotext", "bytes": 927398, "at": "2026-11-23T08:59:55+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+1)
+2)
+3)
+4)
+
+Enoncé
+Un prix a été multiplié par 0,6.
+Calculer son taux d’évolution en %.
+x 15
+L’égailité 
+équivaut à
+3 5
+Donner la forme irréductible de
+
+4 3
+Exprimer sous la forme d’une seule puissance de 10
+le quotient
+
+5)
+6)
+7)
+
+Sans calculatrice
+
+Durée : 20 minutes
+Réponse
+
+𝑥=⋯
+
+108  10 3
+
+10 
+
+3 2
+
+Donner l’écriture décimale de 2  103  5  7  102
+Convertir 3,2 heures en heures et minutes
+Le volume d’une pyramide à base carrée (de côté 𝑐),
+de hauteur ℎ est donné par
+
+𝑉 = 3 × ℎ × 𝑐2.
+
+Calculer V (en cm3) lorsque 𝑐 = 5 cm et ℎ = 6 cm.
+8)
+9)
+
+Résoudre dans R l’équation (3x  2)( x  5)  0 .
+Le réel x  2 est-il solution de l’inéquation
+( x  1)( x  1)  0 ? (répondre par oui ou non).
+
+10)
+
+La droite (d) a pour coefficient directeur −4 et passe
+par le point E( 1 ; 2).
+Représenter la droite (d) dans le repère ci-contre.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une association propose chaque jour un spectacle au prix de 20€.
+Pour le promouvoir l’association annonce qu’à l’entrée du spectacle, chaque client lancera un dé
+cubique non truqué, dont les faces sont numérotées de 1 à 6.
+ Si le résultat est 6, l’entrée sera gratuite.
+ Si le résultat est 1, l’entrée sera à demi-tarif.
+ Si le résultat est 5, le client aura une remise de 20%.
+ Dans les autres cas, le client paiera plein tarif.
+Soit 𝑋 la variable aléatoire qui, à chaque résultat du lancer de dé, associe le prix que paiera le
+client.
+1. Montrer que la variable aléatoire 𝑋 prend les valeurs 0 ; 10 ; 16 et 20.
+2. Déterminer la loi de probabilité de 𝑋 (les résultats seront donnés sous forme de fractions
+irréductibles).
+3. Calculer la probabilité de l’événement {𝑋 ≤ 10}.
+4. Calculer l’espérance mathématique de 𝑋 et interpréter le résultat obtenu dans le cadre de
+l’exercice.
+5. Que peut-on en déduire pour l’association si la salle composée de 900 places est pleine ?
+
+Exercice 3 (5 points)
+La trypsine est une enzyme digestive du suc pancréatique qui participe à la décomposition des
+protéines. Elle est synthétisée sous forme de trypsinogène puis stockée dans les vésicules
+enzymatiques des cellules acineuses, d’où elle est secrétée au moment de la digestion.
+L’efficacité de cette enzyme dépend du pH du duodénum, segment initial de l’intestin grêle.
+Le but de cet exercice est de rechercher pour quelle valeur du pH du duodénum l’action de la
+trypsine est la plus efficace.
+Soit 𝑓 la fonction définie et dérivable sur l’intervalle [6 ; 9] par :
+𝑓(𝑥) = 0,37𝑥 3 − 9,35𝑥 2 + 76,51𝑥 − 200,95 .
+La fonction 𝑓 mesure l’efficacité (en unité arbitraire) de la trypsine lors de la digestion pour
+différentes valeurs 𝑥 du pH.
+1. Quelle est l’efficacité de la trypsine si le pH vaut 6,5 ?
+2. On considère le programme ci-contre écrit en
+langage Python.
+Que retourne ce programme si l’on exécute
+efficace(8) ?
+3. On note 𝑓′ la fonction dérivée de 𝑓 . Calculer 𝑓′(𝑥) pour tout réel 𝑥 de [6 ; 9] et vérifier
+que, pour tout réel 𝑥 de [6 ; 9] , on a : 𝑓 ′ (𝑥) = (𝑥 − 7)(1,11𝑥 − 10,93).
+4. Recopier puis compléter le tableau de signes suivant :
+𝑥
+Signe de (𝑥 − 7)
+Signe de (1,11𝑥 − 10,93)
+Signe de 𝑓′(𝑥)
+
+5. Dresser le tableau de variation de 𝑓 sur l’intervalle [6 ; 9] et préciser quel doit être le pH du
+duodénum pour que la réaction protéinique soit la plus efficace possible ?
+
+Exercice 4 (5 points)
+Une étude statistique a montré que 4 % de la population d’un pays est intolérante au gluten.
+Pour cette maladie, un laboratoire pharmaceutique élabore un nouveau test de dépistage.
+Les essais sur un groupe témoin de 1 000 individus ont donné les résultats suivants :
+ 4 % des individus du groupe témoin sont atteints par la maladie ;
+ 85 % des personnes atteintes par la maladie réagissent positivement au test ;
+ 950 personnes ne sont pas atteintes par la maladie et réagissent négativement au test.
+
+1. Recopier et compléter le tableau d’effectifs cicontre, en justifiant la valeur 34.
+
+Malade
+
+Test
+positif
+
+Non malade
+Total
+
+Test
+Total
+négatif
+1000
+
+On choisit au hasard un individu dans le groupe témoin et on admet que chaque individu a la
+même probabilité d’être choisi.
+On note les évènements suivants :
+ M : « l’individu choisi est atteint par la maladie » ;
+ T : « l’individu choisi réagit positivement au test ».
+2. Définir par une phrase l’évènement M  T puis calculer sa probabilité.
+
+ 
+
+3. a. Calculer la probabilité PM T .
+b. Traduire ce résultat par une phrase dans le contexte de l’exercice.
+4. Certains organismes de santé autorisent la commercialisation d’un test de dépistage lorsque
+la probabilité de ne pas être atteint par la maladie, sachant que la réaction au test est
+positive, est inférieure à 20 %.
+Le laboratoire pharmaceutique peut-il espérer, selon ce critère, une commercialisation de
+son test ?

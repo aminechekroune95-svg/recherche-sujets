@@ -1,0 +1,138 @@
+{"pages": 5, "method": "pdftotext", "bytes": 852228, "at": "2026-11-23T08:57:21+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+
+Augmenter une grandeur de 4% revient à la multiplier
+par :
+
+2)
+
+Après une réduction de 10%, un article coûte 27 €.
+Le prix initial de cet article était de :
+
+3)
+
+Quel est en pourcentage l’augmentation du prix d’un
+produit passant de 60 € à 90 € ?
+
+Réponse
+
+On considère le tableau incomplet suivant relatif à une entreprise :
+Année
+2017
+2018
+Chiffre d’affaires réalisé en k€ (millier d’euro) 20
+Indice (base 100 en 2017)
+Utiliser ce tableau pour répondre aux questions 4) et 5)
+4)
+
+Quel est l’indice en 2018 ?
+
+5)
+
+Quel est le chiffre d’affaires réalisé par l’entreprise en
+2019 ?
+
+6)
+
+Une action a connu une augmentation de 10 % et une
+augmentation de 30%. Quel est le taux d’évolution
+global équivalent à ces deux augmentations ?
+
+7)
+
+Résoudre l’équation 2x  3  4x 11.
+
+8)
+
+Résoudre l’équation x ² 
+
+9)
+
+Résoudre 2𝑥 − 8 < 4 et représenter l’ensemble des
+solutions sous forme d’un intervalle.
+
+2019
+
+.
+
+10) Faire le tableau de signe de l’expression−4𝑥 + 7.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+Cinq frères et sœurs décident d’offrir un cadeau à leurs parents coûtant 350 €.
+1. Ils arrivent à mettre en commun 240 € le lundi 4 mars 2019 et décident de rajouter
+chaque semaine suivante 2€ chacun.
+a. Calculer le montant de leur cagnotte au bout de trois semaines.
+
+b. Justifier que cette situation peut être modélisée par une suite arithmétique  un  où
+𝑛 désigne le nombre de semaines écoulées depuis le 4 mars 2019 et 𝑢𝑛 le montant
+de la cagnotte au bout de 𝑛 semaines dont on donnera le premier terme et la raison.
+
+c. Au bout de combien de semaines, peuvent-ils espérer posséder 350 € dans leur
+cagnotte ?
+2. Joséphine, une des sœurs, propose de donner davantage d’argent le 4 mars 2019 puis
+plus rien. Ainsi la nouvelle situation est modélisée par la suite (𝑣𝑛 ), où 𝑛 désigne le
+nombre de semaines écoulées depuis le 4 mars 2019, définie par 𝑣𝑛 = 300 + 8𝑛.
+Cette situation est-elle préférable à la précédente ? Justifier.
+3. On considère le programme en Python ci-dessous. Interpréter dans le contexte de
+l’exercice la valeur affichée par ce programme.
+V=300
+n=0
+while V<350:
+V=V+8
+n=n+1
+return(n)
+
+Exercice 3 (5 points)
+On considère la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = −2𝑥 2 + 8𝑥 + 154.
+1. a. Vérifier que −7 et 11 sont les solutions de l’équation 𝑓(𝑥) = 0.
+b. En déduire l’expression factorisée de 𝑓. Justifier la réponse.
+2. Donner le tableau de signes de −2(𝑥 + 7)(𝑥 − 11).
+3. Un enfant lance un caillou du haut d’une
+terrasse.
+La hauteur du caillou, exprimée en
+décimètre, est modélisée par la fonction f
+définie sur [ 0 ; + ∞ [ par :
+
+Terr
+ass
+
+Caill
+ou
+
+𝑓(𝑥) = −2𝑥 2 + 8𝑥 + 154.
+où 𝑥 est la distance au sol exprimée en
+mètre.
+a. À quelle hauteur est la terrasse ?
+b. À quelle distance de la terrasse le
+caillou touche-t-il le sol ?
+
+𝑥
+
+Exercice 4 (5 points)
+Une étude menée à un péage autoroutier montre qu’un automobiliste sur cinq descend de
+son véhicule pour prendre le ticket.
+Un véhicule se présente devant une borne de ce péage. On note 𝑆 le succès correspondant à
+l’évènement « le conducteur ne descend pas de son véhicule » et 𝑆 son évènement contraire.
+1. Justifier que cette situation peut se modéliser par une épreuve de Bernoulli.
+2. Trois véhicules se présentent successivement à cette même borne. On note X la
+variable aléatoire associée au nombre de succès dans la répétition, de manière
+indépendante, des trois épreuves de Bernoulli.
+Pour les trois questions suivantes, on pourra utiliser l’arbre ci-dessous.
+a. Déterminer la probabilité qu’un seul conducteur descende de son véhicule.
+
+b. Déterminer la probabilité qu’au moins un automobiliste ne descende pas de son
+véhicule.
+c. Interpréter l’événement {𝑋 ≤ 2} et en donner sa probabilité. On arrondira le
+résultat au centième.
+3. Donner l’espérance de la variable aléatoire X et interpréter ce résultat.

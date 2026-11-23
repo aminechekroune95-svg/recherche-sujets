@@ -1,0 +1,147 @@
+{"pages": 8, "method": "pdftotext", "bytes": 904670, "at": "2026-11-23T08:56:36+00:00"}
+Partie I
+Sans calculatrice
+
+Automatismes (5 points)
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Fraction irréductible égale à : 5 × 9
+
+2)
+
+Réduire l’expression 4 𝑥² + 3 𝑥²
+
+3)
+
+Mettre sous la forme d’une puissance de 3 :
+3−1 × 9 × (34 )2
+
+4)
+
+Développer 3𝑥(2𝑥 − 1)
+
+5)
+
+Factoriser (𝑥 − 1)(𝑥 + 3) + (𝑥 − 1)(𝑥 − 4)
+
+6)
+
+Convertir 145 cm² en dm².
+
+7)
+
+L’image de 3 par 𝑓 est :
+
+8)
+
+L’équation 𝑓(𝑥) ≥ −1 a
+pour solution :
+
+9)
+
+La courbe représentative d’une fonction 𝑓 définie sur ℝ est
+donnée ci-dessus. Compléter les réponses.
+Calculer 25% de 80%.
+
+10) Dans une entreprise de 80 salariés, il y a 20 cadres. Donner
+la proportion de cadres en pourcentage.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+Exercice 2 : (5 points)
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = −𝑥² + 20𝑥 − 64, et dont on donne la
+représentation graphique en annexe 1, à rendre avec la copie.
+1. À l’aide la représentation graphique de 𝑓 donnée en annexe 1, dresser le tableau de
+variations de la fonction 𝑓, donné en annexe 2 à rendre avec la copie.
+2. Une entreprise produit et vend entre 1 et 18 tonnes d’engrais par jour.
+La quantité d’engrais vendue, exprimée en tonnes, est notée .
+Le bénéfice, exprimé en centaines d’euros, réalisé lors de la vente de 𝑥 tonnes
+d’engrais, est noté .
+On dispose du tableau suivant :
+Quantité produite 𝑥
+de tonnes d’engrais
+Bénéfice 𝑦 réalisé
+
+−28
+
+a) Placer les points de coordonnées (𝑥 ; 𝑦) du tableau ci-dessus sur l’annexe 1.
+b) Expliquer pourquoi la fonction 𝑓 permet de modéliser le bénéfice réalisé par
+l’entreprise pour les valeurs de tonnes d’engrais 𝑥 indiquées dans le tableau cidessus.
+c) A l’aide du graphique de l’annexe 1, avec la précision permise par celui-ci, et en
+laissant apparaître les traits utiles, déterminer le bénéfice maximal et la quantité de
+tonnes produites pour l’atteindre.
+d) Justifier que pout 𝑥 appartenant à l’intervalle [1 ; 18], 𝑓(𝑥) = −(𝑥 − 4)(𝑥 − 16) .
+En déduire, selon la modélisation utilisée, pour quelles quantités de tonnes d’engrais
+produites l’entreprise réalise un bénéfice positif.
+
+Exercice 3 : (5 points)
+Pierre et Marie décident de s’entraîner à vélo afin d’améliorer leur forme physique. La
+première semaine, ils parcourent l’un comme l’autre 20 km. Puis ils établissent chacun leur
+programme d’entrainement.
+1. Pierre suit ses progrès et la distance 𝑝(𝑛) qu’il parcourt chaque semaine 𝑛 à l’aide de
+la feuille de calcul ci-dessous :
+
+a) On a 𝑝(1) = 20. Combien vaut 𝑝(2) ?
+b) Expliquer, à l’aide du graphique ci-dessus, pourquoi on peut envisager de modéliser
+le programme d’entrainement de pierre par une suite arithmétique.
+c) On considère désormais que la suite 𝑝(𝑛) est arithmétique.
+Quelle formule Pierre doit-il saisir dans la cellule B3 du tableau, à recopier vers le bas,
+pour calculer la distance qu’il doit parcourir semaine après semaine ?
+d) Déterminer la relation de récurrence entre 𝑝(𝑛 + 1) et 𝑝(𝑛) pour tout entier naturel
+𝑛.
+2. Dans son programme d’entraînement, Marie décide d’augmenter de 15% chaque
+semaine la distance parcourue. On note 𝑑(𝑛) la distance parcourue par Marie lors
+de la semaine 𝑛. Ainsi, 𝑑(1) = 20.
+Marie calcule la distance parcourue chaque semaine à l’aide du script ci-dessous de
+la fonction Python nommée distance. Celui-ci doit renvoyer la valeur de 𝑑(𝑛)
+pour un nombre de semaines 𝑛 donné au départ :
+
+def distance (n) :
+d=……….
+for i in range (1,n) :
+d=……………….
+return d
+Recopier sur votre copie et compléter les parties manquantes du script.
+3. Au bout de combien de semaines Marie parcourra-t-elle une distance supérieure à
+celle de Pierre ?
+
+Exercice 4 : (5 points)
+Le service de gestion d’un grand magasin estime que 3% des factures émises chaque mois
+comportent des erreurs.
+On prélève au hasard 4 factures. Le nombre de factures est suffisamment grand pour que
+l’on puisse assimiler ce prélèvement à un tirage successif avec remise.
+On note S l’événement « la facture contient des erreurs ».
+On appelle 𝑋 la variable aléatoire qui compte le nombre de factures qui contiennent des
+erreurs lors du prélèvement de 4 factures.
+1. Exprimer à l’aide d’une phrase les événements suivants :
+a. {𝑋 = 1}
+b. {𝑋 ≤ 2}
+2. Expliquer pourquoi cette situation peut être modélisée par 4 répétitions d’une
+épreuve de Bernoulli que l’on précisera, et dont on donnera le paramètre 𝑝.
+3. Représenter la situation par un arbre de probabilité.
+4. Déterminer les probabilités suivantes (on arrondira à 10-4 les résultats) :
+a. 𝑃(𝑋 = 1)
+b. 𝑃(𝑋 ≤ 2)
+5. Calculer l’espérance de 𝑋 et interpréter ce résultat.
+
+Annexe 1 : courbe représentative de 𝒇 (exercice 2) à rendre avec la copie
+
+Annexe 2 : Tableau de variations (exercice 2) à rendre avec la copie
+
+𝒙
+
++∞
+
+-∞
+
+Variations
+de 𝒇

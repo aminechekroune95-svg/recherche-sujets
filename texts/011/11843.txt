@@ -1,0 +1,136 @@
+{"pages": 4, "method": "pdftotext", "bytes": 1198229, "at": "2026-11-23T08:53:16+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non (pas pour les automatismes)
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+MOTS-CLES :
+AUTOMATISMES : Toutes catégories
+EXERCICE 1 : Suites Numériques
+EXERCICE 2 : Fonction Exponentielle
+EXERCICE 3 : Variable Aléatoire Discrète
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 4
+
+Mathématiques : PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée 20 minutes
+
+Exercice 1 (5 points)
+
+1)
+2)
+
+3)
+
+4)
+5)
+
+Enoncé
+Réponse
+Sur les 200 g d’une tablette de chocolat, il y a 140 g de cacao.
+Déterminer le pourcentage de cacao dans cette tablette.
+Dans un lycée, 45 % des élèves sont des garçons.
+Parmi eux, 5 % sont internes. Déterminer le pourcentage de
+garçons internes de ce lycée.
+Ce diagramme en boîte représente l’âge des 50 meilleurs
+joueurs de tennis en octobre 2020. Indiquer leur âge médian.
+
+Le prix d'un objet est passé de 60 euros à 75 euros.
+Calculer le taux d’évolution en pourcentage correspondant.
+Une valeur augmente deux fois successivement de 20 %.
+Déterminer le taux d'évolution global de cette valeur.
+
+6)
+
+7)
+
+8)
+
+Par lecture graphique,
+donner l’image de 0 :
+La courbe ci-contre est la
+représentation graphique d’une
+fonction 𝑓 .
+La droite T représente la
+tangente au point d’abscisse -1
+de cette courbe.
+
+Par lecture graphique,
+donner le nombre dérivé
+de 𝑓 en –1 :
+
+Calculer 𝐴 = 2 × 3 − 3 × 5
+
+9)
+
+Déterminer la dérivée de la fonction 𝑔 définie pour tout réel
+𝑥 par 𝑔(𝑥) = 2𝑥 3 − 5𝑥 2 + 7𝑥 − 3
+
+10)
+
+Compléter le tableau de signes sur ℝ de la fonction ℎ définie
+par ℎ(𝑥) = −4𝑥 + 12
+
+𝑥
+ℎ(𝑥)
+
+Mathématiques : PARTIE II
+Cette partie est composée de trois exercices indépendants.
+Calculatrice autorisée.
+Exercice 2 : (5 points)
+Une entreprise fabrique et vend des vélos à assistance électrique.
+En janvier 2020, la production mensuelle a été de 500 unités.
+Pour faire face à la demande, l’entreprise décide d’augmenter la production de 20 unités
+chaque mois.
+1) Calculer la production en février 2020.
+2) On note 𝑃0 la production en janvier 2020 donc 𝑃0 = 500. Dans la suite du problème, on
+note 𝑃𝑛 la production le 𝑛ième mois après janvier 2020.
+Quelle est la nature de la suite (𝑃𝑛 ) ? Justifier.
+3) Exprimer 𝑃𝑛 en fonction de 𝑛.
+4) Déterminer quand la production sera supérieure à 740 unités.
+5) Déterminer la production totale de l’année 2020.
+
+Exercice 3 : (5 points)
+Le prix d’une baguette, au 1er janvier 2000, était en moyenne de 0,64 euros. Au 1er janvier
+2017, il était de 0,87 euros.
+1) Quel est le taux d’évolution global du prix d’une baguette entre le 1er janvier 2000 et le 1er
+janvier 2017 ? (Donner la réponse en pourcentage, arrondi à l’entier).
+2) Calculer le taux annuel d’évolution moyen sur cette période. (Donner la réponse en
+pourcentage, arrondie à l’entier).
+On note 𝑥 le temps écoulé depuis le 1er janvier 2000 exprimé en années et on note 𝑓(𝑥) le
+prix correspondant d’une baguette, en euros.
+On admet que le prix d’une baguette peut être modélisé par 𝑓(𝑥) = 0,64 × 1,02𝑥 .
+3) Déterminer le sens de variation de cette fonction.
+4) Interpréter la valeur de 𝑓(7,5) dans le contexte de l’exercice.
+5) Déterminer à partir de quelle date le prix de la baguette devrait dépasser 1 euro.
+
+Exercice 4 : (5 points)
+Dans une entreprise, le service comptabilité vérifie toutes les factures chaque semaine, avant
+leur expédition. Lors de ce contrôle, la probabilité que la facture choisie soit correcte est 0,95.
+On prélève au hasard quatre factures. Le nombre de factures est suffisamment important pour
+que l’on puisse assimiler ce prélèvement à un tirage avec remise de quatre factures.
+On note 𝐶 la variable aléatoire qui, à chaque lot de quatre factures, associe le nombre de
+factures correctes.
+1) Justifier que la variable aléatoire 𝐶 suit une loi binomiale de paramètres 𝑛 = 4 et 𝑝 = 0,95.
+2) Calculer l’espérance de la variable aléatoire 𝐶.
+3) a) Déterminer la valeur du nombre ( ) à l’aide d’un arbre ou du triangle de Pascal.
+b) En déduire la probabilité que, dans un tel prélèvement, exactement deux factures soient
+correctes.
+4) Calculer la probabilité qu’au moins trois factures soient correctes dans un lot de quatre
+factures.

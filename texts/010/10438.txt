@@ -1,0 +1,173 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1283397, "at": "2026-11-23T08:55:18+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples (QCM). Pour chacune des questions,
+une seule des quatre propositions est correcte.
+Les questions sont indépendantes. Pour chaque question, indiquer le numéro de la
+question et recopier sur la copie la lettre correspondant à la réponse choisie. Aucune
+justification n’est demandée.
+Chaque réponse exacte rapporte un point. Une réponse fausse ou une absence de
+réponse ne rapporte aucun point.
+
+Question 1
+On lance deux fois une pièce équilibrée, de manières identiques et indépendantes.
+Si le joueur obtient 2 Faces, il perd 5 €, s’il obtient exactement une Face, il gagne 2 €, s’il
+obtient 2 Piles il gagne 4€. On note G la variable aléatoire correspondant au gain algébrique
+du joueur, en euros.
+𝑎) 𝐸(𝐺) = 0,75
+
+𝑏) 𝐸(𝐺) =
+
+𝑐) 𝐸(𝐺) = 1
+
+𝑑) 𝐸(𝐺) =
+
+Question 2
+
+A et B sont deux événements, et on donne 𝑃(𝐴) = 7 , 𝑃(𝐵) = 20 , 𝑃(𝐴 ∪ 𝐵) = 7 .
+𝑎) 𝐴 et 𝐵 sont
+indépendants.
+
+𝑏) 𝑃𝐴 (𝐵) =
+
+𝑐) 𝑃(𝐴 ∩ 𝐵) =
+
+𝑑) 𝑃𝐴 (𝐵) =
+
+Question 3
+On donne l’arbre de probabilités ci-dessous, ainsi que la probabilité 𝑃(𝐶) = 0,48 .
+0,4
+0,8
+−𝑥
+
+𝑎) 𝑥 = 0,6
+
+𝑏) 𝑥 = 0,36
+
+𝑐) 𝑥 = 0,45
+
+𝑑) 𝑥 =
+
+0,48
+0,12
+
+Question 4
+On a tracé la courbe représentative 𝐶𝑓 d’une fonction 𝑓 dans un repère orthonormé, ainsi que
+deux de ses tangentes, au point 𝐸 d’abscisse 2 et au point 𝐺 d’abscisse 4.
+Les coordonnées des points 𝐸, 𝐹, 𝐺, 𝐻 placés dans le repère ci-contre peuvent être lues
+graphiquement, ce sont des entiers.
+La tangente à 𝐶𝑓 au point 𝐸 est la droite (𝐸𝐹).
+La tangente à 𝐶𝑓 au point 𝐺 est la droite (𝐺𝐻).
+On note 𝑓′ la fonction dérivée de 𝑓.
+
+𝑎) 𝑓 ′ (2) = 4
+
+𝑏) 𝑓 ′ (4) = 3
+
+𝑐) 𝑓 ′ (4) = 3
+
+𝑑) 𝑓 ′ (4) = −3
+
+Question 5
+On considère la fonction Python suivante :
+def 𝑒𝑣𝑜𝑙𝑢(𝑘) :
+𝑖 = 200
+𝑛=0
+while 𝑖 < 𝑘 :
+𝑖 = 1.2 ∗ 𝑖 + 10
+𝑛 =𝑛+1
+return 𝑛
+
+𝑎) 𝑒𝑣𝑜𝑙𝑢(500) = 4 𝑏) 𝑒𝑣𝑜𝑙𝑢(600) = 5 𝑐) 𝑒𝑣𝑜𝑙𝑢(300) = 3
+
+𝑑) 𝑒𝑣𝑜𝑙𝑢(400) = 4
+
+Exercice 2 (5 points)
+Un artisan commence la pose d’un carrelage dans une grande
+pièce.
+Le carrelage choisi a une forme hexagonale.
+L’artisan pose un premier carreau au centre de la pièce puis
+procède en étapes successives de la façon suivante :
+ à l’étape 1, il entoure le carreau central, à l’aide de 6 carreaux et
+obtient une première forme.
+ à l’étape 2 et aux étapes suivantes, il continue ainsi la pose en
+entourant de carreaux la forme précédemment construite.
+On note 𝑢𝑛 le nombre de carreaux ajoutés par l’artisan pour faire la 𝑛-ième étape (𝑛 ≥ 1).
+Ainsi 𝑢1 = 6 et 𝑢2 = 12.
+1. Quelle est la valeur de 𝑢3 ?
+2. On admet que la suite (𝑢𝑛 ) est arithmétique de raison 6. Exprimer 𝑢𝑛 en fonction de
+𝑛.
+3. Combien l’artisan a-t-il ajouté de carreaux pour faire l’étape 5 ? Combien a-t-il alors
+posé de carreaux au total lorsqu’il termine l’étape 5 (en comptant le carreau central
+initial) ?
+4. On pose 𝑆𝑛 = 𝑢1 + 𝑢2 + ⋯ + 𝑢𝑛 . Montrer que 𝑆𝑛 = 6(1 + 2 + 3 + ⋯ + 𝑛) puis que
+𝑆𝑛 = 3𝑛² + 3𝑛.
+5. Si on compte le premier carreau central, le nombre total de carreaux posés par
+l’artisan depuis le début, lorsqu’il termine la 𝑛 − 𝑖è𝑚𝑒 étape, est donc 3𝑛2 + 3𝑛 + 1.
+À la fin de sa semaine, l’artisan termine la pose du carrelage en collant son 2977e
+carreau. Combien a-t-il fait d’étapes ?
+
+Exercice 3 (5 points)
+Un propriétaire souhaite construire un enclos rectangulaire sur son terrain.
+Celui-ci est représenté ci-dessous dans un repère orthonormé, d’unité le mètre. Il est
+délimité par l’axe des abscisses, l’axe des ordonnées, la droite d’équation 𝑥 = 5 et la courbe
+C f représentative de la fonction 𝑓 définie sur [0 ; 5] par 𝑓(𝑥) = 4𝑒 −0,5𝑥 .
+
+L’enclos est représenté par le rectangle 𝑂𝐴𝐵𝐶 où O est l’origine du repère et B un point de
+C f, A et C étant respectivement sur l’axe des abscisses et l’axe des ordonnées. On note 𝑥
+l’abscisse du point 𝐴 et 𝐷 le point de coordonnées (5 ; 0). Le but de l’exercice est de
+déterminer la position du point 𝐴 sur le segment [𝑂𝐷] permettant d’obtenir un enclos de
+superficie maximale.
+1. Justifier que la superficie de l’enclos, en m², est donnée en fonction de 𝑥 par
+𝑔(𝑥) = 4𝑥𝑒 −0,5𝑥 pour 𝑥 dans l’intervalle [0 ; 5].
+2. La fonction 𝑔 est dérivable sur [0 ; 5]. Montrer que, pour tout réel 𝑥 de l’intervalle
+[0 ; 5], on a 𝑔′ (𝑥) = (4 − 2𝑥)𝑒 −0,5𝑥 .
+3. En déduire le tableau de variations de la fonction 𝑔 sur [0 ; 5].
+4. Où doit-on placer le point 𝐴 sur [𝑂𝐷] pour obtenir une superficie d’enclos maximale ?
+Donner la superficie maximale possible en arrondissant le résultat au dm².
+
+Exercice 4 (5 points)
+Le logo d’une entreprise est constitué d’un
+carré, d’un cercle et d’un triangle.
+Il a été représenté ci-contre dans un repère
+orthonormé (𝑂 ; 𝑖⃗ , 𝑗⃗ ).
+
+On donne les coordonnées des sommets du
+carré :
+𝐴(−3 ; 3) , 𝐵(3 ; 3) , 𝐶(3 ; −3) , 𝐷(−3 ; −3).
+On considère le point 𝐸(−2 ; 3 + √5).
+On admettra que 𝐸 est situé sur le cercle de
+diamètre [AB].
+On note 𝐼 le milieu de [AB].
+1. Donner une équation cartésienne de la
+droite (𝐵𝐷) et une équation du cercle
+de diamètre [𝐴𝐵].
+2. Montrer que la hauteur du triangle
+𝐵𝐷𝐸 issue de 𝐸 admet pour équation cartésienne
+𝑥 + 𝑦 − (1 + √5) = 0
+3. Déterminer les coordonnées du projeté orthogonal 𝐻 du point 𝐸 sur la droite (𝐵𝐷).
+4. Calculer l’aire du triangle 𝐵𝐷𝐸 (en unités d’aire).
+⃗⃗⃗⃗⃗⃗ ‖ = √42 + 12√5 ; en
+5. Montrer que ⃗⃗⃗⃗⃗⃗⃗
+𝐷𝐵 ∙ ⃗⃗⃗⃗⃗⃗
+𝐷𝐸 = 42 + 6√5 . On admet que ‖𝐷𝐸
+̂ au degré près.
+déduire la mesure de l’angle 𝐵𝐷𝐸

@@ -1,0 +1,169 @@
+{"pages": 6, "method": "pdftotext", "bytes": 740994, "at": "2026-11-23T08:58:09+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points) - Exercice 1
+Cet exercice est un questionnaire à choix multiples. Pour chacune des dix questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée. Une
+bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+
+1. Augmenter une valeur de 30 % revient à multiplier cette valeur par :
+a) 0,3
+
+b) 0,7
+
+c) 1,3
+
+d) 1,03
+
+2.Une augmentation de 40 % suivie d’une diminution de 50 % revient à une évolution globale
+de :
+a) + 10 %
+
+b) + 30 %
+
+c) – 10 %
+
+d) – 30 %
+
+3. Le prix d’un pantalon a baissé de 20 % en 2018. Pour retrouver sa valeur initiale, le nouveau
+prix doit être augmenté de :
+a) 20 %
+
+b) 25 %
+
+c) 30 %
+
+d) 120 %
+
+4. Un capital de 2000 € est placé sur un compte rémunéré.
+Au bout d’un an, le capital est de 2100 €. Le taux annuel du placement est :
+a) 0,5 %
+
+b) 10 %
+
+c) 5 %
+
+d) 0,10 %
+
+5. On passe de l’indice 100 à l’indice 113. Le taux d’évolution est de :
+a) 113 %
+
+b) 1,13 %
+
+c) 11,3 %
+
+d) 13 %
+
+6. L’équation 3𝑥 − 2 = 7 a pour ensemble solution dans R :
+a) 𝑆 = {6}
+
+c) 𝑆 = {3}
+
+b) 𝑆 = {3}
+
+d) 𝑆 ={−3}
+
+7. L’inéquation 5𝑥 − 10 ≤ 𝑥 − 2 a pour ensemble solution dans R :
+a) 𝑆 =] − ∞; − 3]
+
+b) 𝑆 = [2; +∞[
+
+c) 𝑆=] − ∞; 2]
+
+d) 𝑆 = [4; +∞[
+
+8. L'équation 𝑥 2 = 16 a pour ensemble solution dans R :
+a) 𝑆 = {4}
+
+b) 𝑆 ={16²}
+
+c) 𝑆 ={ −4 ; 4}
+
+d) 𝑆 = {−8 ; 8}
+
+9. L’expression A(𝑥) = −3𝑥 + 6 a pour tableau de signes :
+a)
+
+b)
+
+c)
+
+d)
+
+−2
+
+−2
+
+10. On considère une fonction 𝑓 dont le tableau de signes est donné ci-dessous :
+
+𝑓(𝑥)
+
+−3
+
+Une expression de 𝑓(𝑥) peut être :
+a) 𝑓(𝑥) = (𝑥 − 3)(𝑥 − 2)
+
+b) 𝑓(𝑥) = (𝑥 + 3)(𝑥 − 2)
+
+c) 𝑓(𝑥) = −2(𝑥 − 3)(𝑥 − 2)
+
+d) 𝑓(𝑥) = −2(𝑥 + 3)(𝑥 − 2)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 : (5 points)
+Les deux parties A et B sont indépendantes.
+Partie A
+On considère la fonction polynôme du second degré f définie sur R par
+𝑓(𝑥) = 𝑥 2 + 2𝑥 − 3 .
+1) Montrer que 3 n’est pas une racine du polynôme 𝑥 2 + 2𝑥 − 3 .
+2) a) Montrer que 𝑓(𝑥) = (𝑥 + 3)(𝑥 − 1) .
+b) En déduire les deux racines du polynôme 𝑥 2 + 2𝑥 − 3 .
+Partie B
+On considère deux fonctions 𝑔 et ℎ définies sur R. La droite 𝐶𝑔 représente la fonction
+𝑔 et la parabole 𝐶ℎ représente la fonction ℎ.
+
+1) Résoudre graphiquement dans R l’équation 𝑔(𝑥) = ℎ(𝑥).
+2) Résoudre graphiquement dans R l’inéquation 𝑔(𝑥) ≥ ℎ(𝑥).
+
+EXERCICE 3 : (5 points)
+On considère qu’une entreprise produit, par semaine, 𝑥 lots de mobilier urbain, où 𝑥
+est un entier compris entre 0 et 80.
+Le coût de production, exprimé en euro, pour 𝑥 lots produits est modélisé par la
+fonction 𝐶 définie par :
+𝐶(𝑥) = 𝑥 3 − 84𝑥 2 + 5 000𝑥
+1) Calculer le coût correspondant à la production de 50 lots.
+2) Chaque lot produit par l’entreprise est vendu 5 000 €.
+Justifier que le bénéfice, exprimé en euro, réalisé lorsque l’entreprise produit et vend
+𝑥 lots est donné par la fonction 𝐵 définie sur [0 ; 80] par
+𝐵(𝑥) = −𝑥 3 + 84𝑥 2 .
+3) a) Déterminer 𝐵′(𝑥) où 𝐵′ désigne la fonction dérivée de la fonction 𝐵.
+b) Montrer que, pour tout réel 𝑥 de [0 ; 80],
+𝐵 ′ (𝑥) = 3𝑥(56 − 𝑥) .
+c) En déduire le nombre de lots que l’entreprise doit produire et vendre pour réaliser
+un bénéfice maximal, puis donner la valeur de ce bénéfice maximal.
+
+EXERCICE 4 : (5 points)
+Un magasin de vêtements a constitué un stock de jeans. Certains de ces jeans
+présentent un défaut et on admet que le pourcentage de jeans présentant un défaut
+est égal à 10 %.
+On prélève au hasard un jean dans le stock. Le choix d’un jean est modélisé par une
+épreuve de Bernoulli, dont le succès est l’événement « Le jean choisi a un défaut »,
+noté 𝑆.
+Pour tout événement 𝐸, on notera 𝑃(𝐸) la probabilité de 𝐸 et 𝐸̅ l’événement contraire
+de 𝐸.
+Dans cet exercice, les résultats seront donnés sous forme décimale arrondis au
+millième si nécessaire.
+1) Donner le paramètre 𝑝 de l’épreuve de Bernoulli considérée.
+2) On répète 3 fois de manière indépendante cette épreuve. Le stock est
+suffisamment important pour assimiler le choix à un tirage avec remise.
+a) Représenter par un arbre de probabilités l’expérience aléatoire.
+b) Calculer la probabilité de l’événement 𝐴 : « Aucun jean n’a de défaut » ;
+c) Calculer la probabilité de l’événement 𝐵 : « Un seul jean a un défaut » ;
+d) Calculer la probabilité de l’événement 𝐶 : « Exactement 3 jeans ont un défaut ».

@@ -1,0 +1,174 @@
+{"pages": 7, "method": "pdftotext", "bytes": 857071, "at": "2026-11-23T08:55:41+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+Partie I (calculatrice interdite)
+EXERCICE 1 (5 points) : automatismes
+
+Durée : 20 minutes
+
+Les 10 questions suivantes sont indépendantes.
+Seules les réponses sont demandées, on n’attend pas de justifications.
+Questions
+
+Réponses
+
+Voici la courbe représentative C d’une fonction 𝑓 définie sur l’intervalle [−2; 4] ainsi que
+la tangente D à la courbe au point A d’abscisse −1
+
+Déterminer graphiquement f (1) .
+
+Résoudre graphiquement l’équation : 𝑓(𝑥) = −3
+
+Déterminer graphiquement le signe de la fonction 𝑓.
+
+Questions
+
+Réponses
+
+Le prix d’un article augmente de 20 % puis le
+nouveau prix baisse de 20 %.
+De quel pourcentage le prix de l’article a-t-il baissé au
+total ?
+
+Le chiffre d’affaires d’une petite entreprise était de
+240 000 euros en 2018.
+L’entreprise a planifié une augmentation de 2% par
+an de son chiffre d’affaires.
+Pour tout entier 𝑛 , on note 𝑢𝑛 le chiffre d’affaires en
+euros planifié pour l’année (2018 +𝑛 ).
+Quelle est la nature de la suite (𝑢𝑛 )? Préciser ses
+éléments caractéristiques.
+
+Déterminer la dérivée de la fonction 𝑓 définie sur R
+par :
+𝑓(𝑥) = 2𝑥 3 − 15𝑥 2 + 36𝑥 − 1
+
+Résoudre dans R l’inéquation :
+3𝑥 − 6 > 7𝑥 − 8
+
+La relation entre l’énergie 𝐸, la puissance 𝑃 et le
+temps 𝑡 est donnée par :
+𝐸 =𝑃×𝑡
+Exprimer 𝑡 en fonction de 𝐸 et de 𝑃.
+
+Résoudre dans R l’équation :
+3𝑥 2 = 48
+
+Un atelier fabrique des pièces métalliques. 2% des
+pièces fabriquées sont défectueuses et 40% des
+pièces défectueuses ont un défaut de dimension.
+Quel est le pourcentage de pièces fabriquées ayant
+un défaut de dimension ?
+
+Partie II
+Cette partie est constituée de 3 exercices indépendants.
+L’utilisation de la calculatrice est autorisée selon la règlementation en vigueur.
+
+Exercice 2 (5 points)
+Une enquête sur la pratique du compostage par les habitants d’une ville permet d’établir
+que :
+ 40 % des personnes interrogées ont moins de 30 ans et, parmi elles, 10% pratiquent
+le compostage ;
+ La moitié des personnes interrogées qui ont entre 30 ans et 50 ans pratiquent le
+compostage ;
+ 20 % des personnes interrogées ont plus de 50 ans et, parmi elles, 30% pratiquent le
+compostage.
+On choisit au hasard une personne parmi celles qui ont été interrogées.
+On considère les évènements suivants :
+J : « la personne choisie a moins de 30 ans »
+M : « la personne choisie a entre 30 et 50 ans »
+S : « la personne choisie a plus de 50 ans »
+C : « la personne choisie pratique le compostage »
+On rappelle que C̅ est l’évènement contraire de l’évènement C.
+1) Recopier et compléter l’arbre de probabilités ci-dessous.
+CC
+J
+
+J
+
+C̅
+
+MM
+
+CC
+C̅C
+
+S
+S
+
+C̅C
+
+2) Définir par une phrase l’évènement J  C et calculer sa probabilité.
+3) Calculer la probabilité que la personne choisie ait plus de 50 ans et pratique le
+compostage.
+4) Vérifier que la probabilité que la personne choisie pratique le compostage est égale à 0,3.
+5) Sachant que la personne choisie pratique le compostage, quelle est la probabilité qu’elle
+ait plus de 50 ans ?
+
+Exercice 3 (5 points)
+Une équipe aérospatiale se propose d’envoyer un satellite de dix tonnes en orbite autour de
+la terre par l’intermédiaire d’une fusée.
+L’éjection de gaz permet à la fusée de décoller et de s’élever dans les airs jusqu’à la
+consommation totale du carburant contenu dans ses réservoirs.
+La vitesse finale de la fusée dépend de la masse de carburant contenue au départ dans les
+réservoirs. Celle-ci doit être de 8000 𝑚. 𝑠 −1 au moins pour permettre la mise en orbite
+souhaitée.
+On note 𝑥 la masse, en tonne, de carburant contenue dans les réservoirs au décollage.
+On admet que 𝑥 est compris entre 100 et 900 et que la vitesse finale de la fusée, exprimée
+en 𝑚. 𝑠 −1 , est modélisée par :
+𝑓(𝑥) = 7370[log(𝑥 + 50) − log(50)]
+1) Montrer que pour tout élément 𝑥 de l’intervalle 100 ; 900 :
+𝑓(𝑥) = 7370 log(0,02𝑥 + 1)
+2) Si les réservoirs contiennent au décollage 400 tonnes de carburant, la mise en orbite estelle possible ?
+3) Déterminer, en utilisant la calculatrice, la masse minimale de carburant à mettre dans les
+réservoirs, arrondie à la tonne, pour permettre la mise en orbite du satellite.
+4) Recopier et compléter le programme ci-dessous, rédigé en langage Python, afin que la
+fonction orbite retourne le nombre minimal de tonnes de carburant, arrondi à l’unité,
+permettant la mise en orbite souhaitée.
+from math import*
+def orbite() :
+x=100
+y= 3516
+while y … :
+x=x+1
+y=7370*log10(0.02*x+1)
+return …
+Rappel : en langage Python, log10(x) désigne le logarithme décimal de x.
+
+Exercice 4 (5 points)
+Dans une enseigne de vente d’appareils électroménagers, une étude a montré que 32 % des
+clients acceptent de prendre une prolongation de garantie à 3 ans.
+On choisit au hasard cinq clients ayant effectué un achat. Le nombre de clients est
+suffisamment important pour que l’on puisse assimiler ce choix à un tirage avec remise.
+On note X la variable aléatoire qui, à chaque groupe de cinq clients ainsi choisis, associe le
+nombre de clients ayant souscrit la prolongation de garantie.
+Les probabilités demandées dans les questions 4, 5 et 6 seront arrondies à 104 près.
+1) Quelle est la loi suivie par X ? On précisera les paramètres.
+On ne demande pas de justification.
+2) Calculer le nombre moyen de clients ayant souscrit la prolongation de garantie dans un
+groupe de cinq clients.
+3) Recopier et compléter le triangle de Pascal jusqu’à la ligne 5.
+𝑘
+
+𝑛
+
+4) A l’aide du triangle de Pascal, calculer P( X  3) .
+5) Calculer la probabilité que dans un groupe de cinq clients aucun client n’ait souscrit la
+prolongation de garantie.
+6) Calculer la probabilité que dans un groupe de cinq clients au moins un client ait souscrit la
+prolongation de garantie.

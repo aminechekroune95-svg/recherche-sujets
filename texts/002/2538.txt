@@ -1,0 +1,162 @@
+{"pages": 6, "method": "pdftotext", "bytes": 772787, "at": "2026-11-23T09:00:25+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM) comportant cinq questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte. Les questions
+sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondant à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour déterminer la réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans réponse
+n’apporte ni ne retire de point.
+Question 1
+Soit 𝑥 un nombre réel. On peut affirmer que :
+a) cos(𝑥) = sin⁡(𝑥)
+
+b) cos(𝜋 − 𝑥) = cos(𝜋 + 𝑥)
+
+c) sin(𝜋 + 𝑥) = sin⁡(𝜋 − 𝑥)
+
+d) cos ( 2 + 𝑥) = cos ( 2 − 𝑥)
+
+Question 2
+√3
+
+Les solutions dans l’intervalle [0; 2𝜋[ de l’équation sin(𝑥) = − 2 sont :
+a)
+c)
+
+4𝜋
+
+5𝜋
+
+4𝜋
+
+b)
+
+d) − 3 et − 3
+
+Question 3
+On considère ABCD un carré direct dans lequel on construit un
+triangle ABE équilatéral direct.
+On note AB = 𝑎.
+On peut alors affirmer que :
+a) ⃗⃗⃗⃗⃗
+AC = 2 𝑎2
+
+b) ⃗⃗⃗⃗⃗
+AD = 𝑎2
+
+c) ⃗⃗⃗⃗⃗
+AE = 2 𝑎2
+
+d) ⃗⃗⃗⃗⃗
+AD ∙ ⃗⃗⃗⃗⃗
+DC = −𝑎2
+
+Question 4
+Soient ⃗𝑢 et 𝑣 deux vecteurs. On peut affirmer que :
+a) ⃗𝑢 ∙ 𝑣 = 0
+
+c) ⃗𝑢 ∙ ⃗𝑢 = 2 ‖𝑢
+⃗ ‖2 .
+
+b) ⃗𝑢 ∙ 𝑣 = −𝑣 ∙ ⃗𝑢
+d) ‖𝑢
+⃗ + 𝑣 ‖2 = ‖𝑢
+⃗ ‖2 + ‖𝑣‖2 + 2𝑢
+⃗ ∙𝑣
+
+Question 5
+Soit 𝑛 un entier naturel.
+On cherche à exprimer en fonction de 𝑛 la somme suivante :
+𝑆 = 1 − 2 + 4 − 8 + 16 − 32 + ⋯ + (−2)𝑛 .
+On peut affirmer que :
+b) 𝑆 est la somme des termes d’une suite
+1+(−2)𝑛
+a) 𝑆 =
+× (𝑛 + 1)
+arithmétique de raison (−2)
+c) 𝑆 =
+
+1−(−2)𝑛
+1−2
+
+d) 𝑆 = 3 (1 − (−2)𝑛+1 )
+
+Exercice 2 (5 points)
+Un magasin effectue des promotions avant sa liquidation définitive, chaque semaine les prix des
+articles sont diminués de 10⁡% par rapport à la semaine précédente.
+Un manteau coûte 200⁡€⁡avant le début de la liquidation, on pose 𝑢0 = 200 et on note 𝑢𝑛 son
+prix lors de la 𝑛-ième semaine de liquidation.
+1. Calculer les termes 𝑢1 et 𝑢2 de la suite (𝑢𝑛 ).
+2. Montrer que la suite (𝑢𝑛 ) est une suite géométrique de premier terme 𝑢0 = 200 dont on
+précisera la raison et exprimer le terme général de la suite (𝑢𝑛 ) en fonction de 𝑛.
+3. La liquidation dure 12 semaines, déterminer le prix du manteau à la fin de la liquidation s’il
+est toujours en vente. On donnera le résultat arrondi au centime.
+4. On considère la fonction suivante, écrite en langage Python :
+def seuil(x) :
+u = 200
+n = 0
+while……… :
+u =…
+n =…
+return n
+Recopier et compléter sur la copie la fonction afin qu’elle renvoie le nombre de semaines
+nécessaires pour que le terme général de la suite (𝑢𝑛 ) soit inférieur au nombre réel x.
+5. Une personne décide d’acheter le manteau dès que son prix sera inférieur à 100⁡€. Combien
+de semaines devra-t-elle attendre ?
+
+Exercice 3 (5 points)
+Afin d’établir les liens entre le surpoids et l’alimentation, on interroge les enfants des écoles
+primaires d’une ville.
+L’enquête révèle que 60⁡% des enfants boivent 1 boisson sucrée ou plus par jour.
+Parmi les enfants buvant 1 boisson sucrée ou plus par jour, un enfant sur 8 est en surpoids, contre
+seulement 8⁡% pour les enfants buvant moins d’une boisson sucrée par jour.
+On choisit un enfant au hasard parmi les enfants des écoles primaires de la ville et on considère les
+événements suivants :
+𝐵 : « l’enfant boit 1 boisson sucrée ou plus par jour »,
+𝑆 : « l’enfant est en surpoids ».
+Les événements contraires de 𝐵 et de 𝑆⁡sont notés respectivement 𝐵̅ et 𝑆̅.
+Pour tout événement 𝐴 et 𝐵,⁡avec 𝐵 un événement de probabilité non nulle, la probabilité
+de 𝐴 sachant 𝐵 est notée 𝑝𝐵 (𝐴).
+1. Justifier que 𝑃𝐵 (𝑆) = 0,125.
+2. Représenter la situation par un arbre pondéré.
+3. Calculer 𝑃(𝐵 ∩ 𝑆).
+4. Déterminer la probabilité que l’enfant soit en surpoids.
+5. On a choisi un enfant en surpoids. Quelle est la probabilité qu’il boive 1 boisson sucrée ou
+plus par jour ? On arrondira le résultat au millième.
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−4; 4] par 𝑓(𝑥) = 𝑥 3 + 3𝑥 2 − 9𝑥 − 20.
+On admet que la fonction 𝑓 est dérivable sur l’intervalle [−4; 4] et on note 𝑓′ sa fonction
+dérivée.
+La courbe représentative de la fonction 𝑓, notée C, est tracée dans le repère ci-dessous.
+La droite T tracée dans le repère est la tangente à la courbe C au point d’abscisse 0.
+
+1. Déterminer graphiquement les extrema de la fonction 𝑓.
+2. Déterminer l’expression de 𝑓′(𝑥) sur [−4; 4].
+3. Étudier le signe de 3𝑥² + 6𝑥 − 9 en fonction de⁡𝑥 sur [−4; 4].
+4. En déduire le tableau de variations de 𝑓⁡sur [−4; 4] et retrouver les résultats de la
+question 1.
+5. Déterminer l’équation réduite de la droite T, tangente à la courbe C au point d’abscisse 0.

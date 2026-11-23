@@ -1,0 +1,161 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1300986, "at": "2026-11-23T08:56:18+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+Augmenter une quantité de 30 %
+revient à la multiplier par …….
+
+Compléter
+
+Calculer et exprimer en pourcentage
+20 % de 60 %
+
+Résoudre dans R l’équation :
+𝑥2 = 5
+
+Déterminer le tableau de signe sur R de
+−2𝑥 + 3
+
+Comparer et
+
+Résoudre 𝑓(𝑥) = 4 :
+Pour les questions
+6 et 7, répondre à
+l’aide de la courbe
+ci-contre, qui
+représente une
+fonction 𝑓 définie
+sur l’intervalle
+[−3; 2].
+
+L’ensemble des solutions de
+l’inéquation 𝑓(𝑥) > 2 est :
+
+Déterminer l’équation réduite de la droite (𝐴𝐵) passant
+par les points 𝐴(−1 ; 5) et 𝐵(2 ; −4)
+
+Dans l’égalité 𝐸 = 2 . 𝑚. 𝑣² on donne 𝐸 = 100
+
+Donner l’écriture scientifique de
+122,3 × 10−6
+
+et 𝑣 = 2, retrouver la valeur de 𝑚.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Pour répondre à une norme antipollution, un important groupe industriel doit ramener sa
+quantité annuelle de rejets de gaz à effet de serre (GES), qui était de 50 000 tonnes en 2018,
+à une valeur inférieure ou égale à 30 000 tonnes dans un délai maximal de 10 ans. Il
+s’engage à réduire chaque année sa quantité de rejets de GES de 4 %.
+On fait l’hypothèse que le groupe industriel respectera l’objectif de réduction annuelle
+annoncé et on note 𝑢𝑛 l’estimation selon ce modèle de sa quantité de rejets de GES en
+tonnes pour l’année (2018+𝑛). On a ainsi 𝑢0 = 50 000.
+1. Calculer 𝑢1 et 𝑢2 .
+2. Donner la nature de la suite 𝑢 et préciser sa raison.
+3. Le groupe industriel utilise un tableur afin d’estimer la quantité annuelle de rejets de
+GES, compte tenu de l’engagement pris. Voici des extraits du tableau obtenu :
+A
+
+B
+2018
+
+C
+2019
+
+J
+2026
+
+K
+2027
+
+L
+
+Année
+Quantité de
+rejets de GES
+50 000
+48 000
+...
+36 069,5
+34 626,7
+(en tonnes)
+arrondie à 0,1
+a. Quelle formule a-t-on pu saisir en C2 qui, recopiée vers la droite, permet de
+compléter la ligne 2 de ce tableau ?
+b. Selon ce modèle, le groupe industriel atteint-il son objectif ?
+4. Recopier et compléter la fonction en langage Python ci-dessous afin qu’elle donne le
+nombre d’années nécessaire pour que, selon ce modèle, la quantité annuelle de rejets
+de GES devienne inférieure ou égale à 30 000 tonnes :
+def nombre_annees():
+n = 0
+u = 50 000
+while u > … :
+n = n+1
+u = …
+return n
+
+Exercice 3 (5 points)
+Une entreprise fabrique et vend un produit imperméabilisant pour vêtements et
+équipement de randonnée.
+Chaque mois, elle produit entre 0 et 100 milliers de litres de ce produit.
+Le coût de production mensuel, en euros, de 𝑥 milliers de litres est modélisé par une
+fonction dont la représentation graphique est donnée ci-dessous :
+
+1. a. Déterminer par lecture graphique combien coûte la production mensuelle de 50 000
+litres de ce produit.
+b. Un litre est vendu 2,80 €. L’entreprise réalise-t-elle un bénéfice si elle produit et vend
+50 000 litres par mois ? Justifier la réponse.
+2. Le bénéfice mensuel réalisé par la vente de 𝑥 milliers de litres de produit est modélisé
+par la fonction 𝐵 définie sur l’intervalle [0 ; 100] par
+𝐵(𝑥) = −𝑥 3 + 120𝑥 2 − 2100𝑥 − 10000.
+a. Calculer 𝐵′(𝑥) où 𝐵′ est la dérivée de la fonction 𝐵 sur l’intervalle [0 ; 100].
+On admet que pour tout 𝑥 ∈ [0 ; 100], 𝐵 ′ (𝑥) = −3(𝑥 − 10)(𝑥 − 70)
+b. En déduire le tableau donnant le signe de la dérivée 𝐵 ′ (𝑥) et les variations de la
+fonction 𝐵 sur l’intervalle [0 ; 100].
+c. Quel doit-être le volume que l’entreprise doit produire et vendre par mois pour
+réaliser un bénéfice maximal ?
+
+Exercice 4 (5 points)
+Dans cet exercice, on donnera les probabilités arrondies au millième.
+Dans une usine, on s’intéresse à un stock de panneaux solaires sortis des chaînes de
+montage.
+Les statistiques sur les productions antérieures permettent de supposer que, dans un stock
+sorti d’une chaîne de montage, 5 % des panneaux présentent un défaut.
+On prélève successivement et au hasard trois panneaux dans le stock. On estime le stock
+suffisamment important pour que ce tirage soit assimilé à un tirage avec remise.
+À chaque tirage, on note 𝐷 l’événement « le panneau solaire prélevé présente un défaut ».
+1. Recopier sur la copie et compléter l’arbre de probabilité ci-dessous :
+
+2. Calculer la probabilité que seul le premier panneau prélevé présente un défaut.
+On note à présent 𝑌 la variable aléatoire comptant le nombre de panneaux présentant un
+défaut dans le lot de trois panneaux.
+3. a. Calculer 𝑃(𝑌 = 1). Interpréter cette probabilité dans le contexte de l’exercice.
+b. Calculer la probabilité qu’aucun panneau solaire du lot ne présente de défaut.
+c. Est-il vrai que la probabilité d’avoir au moins un panneau présentant un défaut
+dans le lot est supérieure à 0,15 ?

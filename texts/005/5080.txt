@@ -1,0 +1,147 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1225964, "at": "2026-11-23T08:59:03+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+
+1. Si sin 𝑥 = 3 alors
+
+a) sin(𝑥 + 𝜋) = − 3
+
+b) sin(𝑥 − 𝜋) = 3
+
+c) cos(𝑥) = 3
+
+d) sin(𝑥 + 15𝜋) = 3
+
+2. Parmi les paraboles ci-dessous laquelle représente une fonction qui n’admet aucune
+racine ?
+a)
+
+b)
+
+c)
+
+d)
+
+3. Soit la fonction 𝑓 définie sur l’intervalle ]0; +∞[ par 𝑓(𝑥) = 2𝑥 −
+
+𝑥
+Le coefficient directeur de la tangente à la courbe représentative de 𝑓 au point d’abscisse 1
+est :
+a) 1
+b) 3
+c) −1
+d) 0
+
+4.
+
+Dans le plan muni d’un repère orthonormé, l’ensemble des points 𝑀(𝑥; 𝑦) tels que
+𝑥 2 − 2𝑥 + 𝑦 2 + 6𝑦 + 2 = 0 est :
+
+a) une parabole
+
+b) le cercle de centre Ω de
+coordonnées (−1; 3) et de
+rayon 8.
+
+c) le cercle de centre Ω de
+coordonnées (1; −3) et
+de rayon 2√2.
+
+d) une droite
+
+5. La loi de probabilité d’une variable aléatoire 𝑋 donnant le gain en euros, d’un joueur, à un
+jeu, est donnée par le tableau suivant :
+𝑥𝑖
+
+−10
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+Sur un grand nombre de parties, le gain moyen que peut espérer le joueur est :
+a) 3,5 euros
+
+b) 4 euros
+
+c) 2 euros
+
+d) 6 euros
+
+Exercice 2 (5 points)
+Le directeur d’une maternité en milieu rural a enregistré 900 accouchements entre le 1 er
+janvier 2019 et le 31 décembre 2019.
+Depuis déjà 10 ans, il constate que le nombre d’accouchements baisse d’environ 4 % chaque
+année par rapport à l’année précédente.
+En supposant que cette diminution se poursuive avec ce même taux les prochaines années, il
+modélise le nombre d’accouchements de cette maternité pour l’année 2019 + 𝑛 à l’aide du
+𝑛-ième terme d’une suite (𝑢𝑛 ). Il a ainsi 𝑢0 = 900.
+
+1. Montrer que la suite (𝑢𝑛 ) est une suite géométrique dont on précisera la raison.
+2. On considère la fonction Suite définie ci-dessous en langage Python.
+
+Quelle sera la valeur obtenue pour Suite(5) ?
+3. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+4. Le directeur sait que la maternité devra fermer dès le nombre d’accouchements
+deviendra inférieur à 600.
+Avec ce modèle, la maternité sera-t-elle fermée en 2030 ? Justifier.
+5. Selon ce modèle, en quelle année la maternité fermera-t-elle ses portes ?
+
+Exercice 3 (5 points)
+Soit la fonction 𝑓 définie sur [0 ;3] par 𝑓(𝑥) = 4𝑥e−𝑥 .
+1. On a tracé ci-dessous la courbe représentative de la fonction 𝑓 dans un repère
+orthonormé d’origine 0.
+
+Conjecturer une valeur approchée du maximum de 𝑓 sur [0 ; 3].
+2. La fonction 𝑓 est dérivable sur [0 ; 3].
+Montrer que pour tout réel 𝑥 de l’intervalle [0; 3], 𝑓 ′ (𝑥) = 4(1 − 𝑥)e−𝑥 .
+3. En déduire le tableau de signes de 𝑓’(𝑥) sur [0 ; 3].
+4. En déduire le tableau des variations de 𝑓 sur [0 ; 3] puis la valeur exacte du maximum de
+𝑓 sur [0 ; 3].
+5. Soit A le point d’abscisse 1 de 𝐶𝑓 et soit t la tangente à 𝐶𝑓 au point d’abscisse 0,5.
+Qui, de la droite (A0) ou de la droite t , a le plus grand coefficient directeur ? Justifier.
+
+Exercice 4 (5 points)
+150 élèves d’un établissement sont inscrits aux activités du midi :
+• 30 sont inscrits en musique.
+• 45 sont inscrits en sport.
+• 75 sont inscrits en cinéma.
+Chaque élève pratique une et une seule activité.
+Parmi les élèves inscrits en musique, 30 % sont des filles.
+Parmi les élèves inscrits en sport, 60 % sont des filles.
+Parmi les élèves inscrits en cinéma, 72 % sont des filles.
+On choisit au hasard un élève inscrit aux activités du midi.
+On note :
+F l’événement : « l’élève choisi est une fille »,
+M l’événement : « l’élève choisi est inscrit en musique »,
+S l’événement : « l’élève choisi est inscrit en sport »,
+C l’événement : « l’élève choisi est inscrit en cinéma ».
+1. Recopier et compléter l’arbre pondéré représentant la situation.
+
+2. Calculer la probabilité que l’élève choisi soit une fille inscrite en musique.
+3. Montrer que la probabilité que l’élève choisi soit une fille est égale à 0,6.
+4. Les évènements M et F sont-ils indépendants ?
+5. Sachant que l’élève choisi est un garçon, calculer la probabilité qu’il soit inscrit en cinéma.

@@ -1,0 +1,136 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1113727, "at": "2026-11-23T08:56:57+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1)
+
+Donner le coefficient multiplicateur associé à une baisse de 10 %.
+
+2)
+
+Convertir 12,38 kilomètres en mètres.
+
+3)
+
+Dans une boite de 10 billes, il y a 7 billes de couleur noire.
+Les autres sont de couleur blanche.
+Calculer le pourcentage de billes de couleur blanche dans la boite.
+
+4)
+
+Développer et réduire l’expression :
+(𝑥 − 4)(𝑥 + 1)
+
+5)
+
+6)
+
+7)
+
+Résoudre l’équation :
+4𝑥 − 1 = 2𝑥 + 7
+Le point 𝐴(2 ; −1) appartient-il à la droite d'équation 𝑦 = 2𝑥 − 3 ?
+Calculer et exprimer sous forme d’une fraction :
+
++3
+
+8)
+
+On rappelle que le périmètre 𝑃 d’un cercle de rayon 𝑅 est donné
+par la formule : 𝑃 = 2𝜋𝑅. Exprimer 𝑅 en fonction de 𝑃.
+
+9)
+
+Exprimer sous forme d’une puissance de 10 :
+
+107 × 102
+
+10) On donne ci-dessous la courbe représentative d’une fonction 𝑓 :
+
+Avec la précision permise par le graphique, lire l’image de 0 par 𝑓.
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+1) On considère ci-dessous un triangle équilatéral 𝑂𝐴𝐵 de côté ayant pour mesure 2 cm.
+
+Sur la copie, reproduire le triangle et construire :
+a) L’hexagone régulier 𝐴𝐵𝐶𝐷𝐸𝐹 de centre 𝑂.
+b) Le point 𝐻, image de 𝐷 par la rotation de centre 𝐶 et d’angle 60° dans le sens des
+aiguilles d’une montre.
+c) L’image du polygone 𝐴𝐷𝐸𝐹 par la translation de vecteur ⃗⃗⃗⃗⃗
+𝐴𝐹 .
+2) On considère ci-dessous un carré 𝐴𝐵𝐶𝐷 de centre 𝑂 :
+
+a) Citer une transformation qui permet d’obtenir le polygone 𝐵𝐶𝐷 à partir du
+polygone 𝐴𝐵𝐷. On précisera ses éléments caractéristiques.
+b) Sachant que [𝑂𝐵] mesure 2√2 cm, calculer le périmètre du carré 𝐴𝐵𝐶𝐷.
+
+Exercice 3 : (5 points)
+Une entreprise fabrique des pâtes de fruits à base de pommes ou de framboises.
+Ces pâtes de fruits peuvent être sous forme de barre ou de bille.
+Une étude statistique effectuée sur un lot de 500 pâtes de fruits a donné les informations
+suivantes :
+
+20 % des pâtes de fruits sont en forme de bille ;
+60 % des pâtes de fruits sont à la pomme ;
+150 pâtes de fruits sont en forme de barre et sont à la framboise.
+
+1) Reproduire puis compléter le tableau suivant sur la copie :
+Forme
+Fruit
+
+Barre
+
+Bille
+
+Total
+
+Pomme
+Framboise
+
+Total
+
+On choisit au hasard et de façon équiprobable une pâte de fruits du lot.
+Les probabilités seront données sous forme décimale.
+
+2) Quelle est la probabilité que la pâte de fruits soit en forme de bille ?
+3) Quelle est la probabilité que la pâte de fruits soit à la framboise ?
+4) Quelle est la probabilité que la pâte de fruits soit en forme de bille et à la pomme ?
+5) On choisit à présent une pâte de fruits parmi celles qui sont en forme de barre.
+Quelle est la probabilité que cette pâte de fruits soit à la pomme ?
+
+Exercice 4 : (5 points)
+Sur la carte ci-dessous (délimitée par des pointillés) sont dessinés 3 motifs consécutifs : au
+centre figure un carré, à sa droite et à sa gauche une moitié de ce même carré :
+
+En mettant bout-à-bout plusieurs cartes dans le sens de la longueur, on construit une frise :
+
+Exemple avec deux cartes mises bout-à-bout
+
+Pour tout nombre entier 𝑛 strictement positif, on note 𝑢(𝑛) le nombre de carrés complets
+qui figurent sur la frise composée de 𝑛 cartes mises bout-à-bout.
+Ainsi, 𝑢(1) = 1 et 𝑢(2) = 3.
+1) Calculer 𝑢(3).
+2) Quelle est la nature de la suite 𝑢 ? Préciser sa raison.
+3) Exprimer 𝑢(𝑛 + 1) en fonction de 𝑢(𝑛).
+4) Quel est le sens de variation de la suite 𝑢 ? Argumenter la réponse.
+5) Pour calculer les différents termes de cette suite, on utilise un tableur :
+
+Quelle formule peut-il entrer dans la cellule B4 et recopier vers le bas pour remplir la
+colonne B ?

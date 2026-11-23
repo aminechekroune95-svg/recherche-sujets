@@ -1,0 +1,181 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1198313, "at": "2026-11-23T08:56:06+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5points)
+Automatisme
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1)
+
+Calculer 30 % de 170.
+
+2)
+
+Compléter le tableau de signes de l’expression :
+A(𝑥) = −2𝑥 + 3
+
+3)
+
+Résoudre sur R l’équation suivante :
+3 + 2𝑥 = 𝑥 +
+
+4)
+
+Développer et réduire : (𝑥 − 3)(𝑥 − 2) − 𝑥²
+
+5)
+
+L’équation réduite de la droite 𝐷 est :
+𝑦 = − 1,5𝑥 + 4. Compléter :
+
+A(…. ;−5) ∈ 𝐷
+
+6)
+
+Écrire l’équation réduite de la droite représentée
+dans le repère suivant :
+
+7)
+
+Calculer et écrire le résultat sous la forme d’une
+
+fraction irréductible : 1 + 2 − 6
+
+8)
+
+Déterminer la proportion en pourcentage
+correspondant à 8 € par rapport à 40 €
+
+9)
+
+Résoudre sur R l’équation suivante :
+(𝑥 − 5)(3 − 2𝑥)=0
+
+Calculer et écrire le résultat en écriture
+10) scientifique :
+3×103 ×5×102
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+En 2018, une entreprise lance une gamme de produits cosmétiques à base de constituants
+d’origine naturelle. Le lancement se fait avec 60 000 produits et l’entreprise table sur une
+progression de sa production de 20 % par an.
+On a utilisé une feuille de calcul pour calculer la production de ces produits cosmétiques
+pour les prochaines années. On en a extrait le tableau suivant :
+
+1) Calculer les valeurs en cellule E3 et cellule F3.
+2) Quelle formule, destinée à être recopiée vers la droite, peut-on saisir dans la cellule C3 ?
+3) On note 𝑣𝑛 la quantité de produits cosmétiques vendus l’année 2017 + 𝑛. On a donc
+𝑣1 =60 000, 𝑣2 =72 000, etc.
+Justifier que la suite (𝑣𝑛 ) est une suite géométrique, préciser son premier terme et sa raison.
+4) On veut déterminer en quelle année la production de cette gamme de produits dépassera
+140 000 produits pour être rentabilisée.
+1 def production():
+v = 60000
+Recopier et compléter l’algorithme implémenté en
+n
+=1
+Python ci-contre afin de répondre à cette question.
+while v <…………. :
+v =……………
+n=n+1
+return n
+
+5) On exécute la commande def production() et le résultat obtenu est n=6. Interpréter ce
+résultat dans le contexte de l’énoncé.
+
+Exercice 3 (5 points)
+Une entreprise fabrique chaque jour des pièces métalliques pour l’industrie automobile. La
+production quotidienne varie entre 0 et 25 tonnes. Le résultat net de l’entreprise en milliers
+d’euros réalisé en fonction du nombre de tonnes produites et vendues est représenté
+graphiquement ci-dessous :
+
+1. Compte tenu de la précision permise par le graphique, déterminer quelles quantités
+produites par jour permettent à l’entreprise de réaliser un bénéfice, c’est-à-dire un résultat
+net positif.
+2. On note 𝑥 le nombre de tonnes de pièces métalliques produites et vendues chaque jour.
+On modélise alors le résultat net par une fonction 𝐵 définie sur l’intervalle [0 ; 25] par :
+𝐵(𝑥) = −𝑥 3 + 30𝑥 2 − 153𝑥 − 100.
+On note 𝐵’ la fonction dérivée de la fonction 𝐵.
+Montrer que, pour tout 𝑥 dans l’intervalle [0 ; 25], 𝐵 ′ (𝑥) = −3𝑥² + 60𝑥 − 153.
+
+On admet que, pour tout 𝑥 dans l’intervalle [0 ; 25], 𝐵’(𝑥) = – 3(𝑥 − 3)(𝑥 − 17).
+
+3. Dresser le tableau de signe de la fonction 𝐵’ sur l’intervalle [0 ; 25].
+4. Dresser le tableau de variations de la fonction 𝐵 sur l’intervalle [0 ; 25].
+5. Combien faut-il fabriquer et vendre de tonnes pour obtenir un résultat net maximal ? Quel
+est en ce cas le bénéfice réalisé ?
+
+Exercice 4 (5 points)
+
+Des études statistiques indiquent que 4 % de la population d’un pays est intolérante au
+gluten. Un laboratoire pharmaceutique élabore un nouveau test de dépistage. Les essais sur
+un groupe témoin de 1 200 individus ont donné les résultats suivants :
+
+4 % des individus du groupe témoin sont intolérants au gluten.
+25 % des personnes intolérantes au gluten réagissent négativement au test.
+1138 personnes ne sont pas intolérantes au gluten et réagissent négativement au
+test.
+
+On choisit au hasard un individu dans le groupe témoin ; on admet que chaque individu a la
+même probabilité d’être choisi. On considère alors les évènements suivants :
+
+M : « l’individu choisi est intolérant au gluten »
+T : « l’individu choisi réagit positivement au test »
+
+1. A partir des données précédentes compléter le tableau croisé d’effectifs fourni en
+annexe à rendre avec la copie.
+2. a) Déterminer la probabilité de l’évènement M.
+b) Définir par une phrase l’événement M ∩ T puis calculer sa probabilité.
+c) Sachant que l’individu est intolérant au gluten, déterminer la probabilité qu’il
+réagisse positivement au test.
+d) Sachant que l’individu réagit positivement au test, déterminer la probabilité qu’il
+ne soit pas intolérant au gluten.
+
+Annexe à rendre avec la copie
+
+Exercice 4 :
+
+Test positif
+
+Test négatif
+
+Total
+
+Intolérant au gluten
+Non intolérant au
+
+1 138
+
+gluten
+Total
+
+1 200

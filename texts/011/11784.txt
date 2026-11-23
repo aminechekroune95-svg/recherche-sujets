@@ -1,0 +1,163 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1205110, "at": "2026-11-23T08:53:46+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Enoncé
+
+Durée : 20 minutes
+Réponse
+
+Un article soldé avec une réduction de
+30% voit son prix diminué de 9€
+
+Son prix initial était ……….. €
+
+Dans un lycée 40% des élèves sont des
+filles et parmi ces filles 80% sont demipensionnaires.
+
+Les filles demi-pensionnaires représentent
+…………….... % des élèves de ce lycée.
+
+Fraction irréductible égale à
+
+−4 2
++
+15 5
+
+Fraction irréductible égale à
+
+7 27 7
+−
+×
+8 3
+
+5−3 × 32
+A = −4
+3 × (5−2 )−4
+
+Donner l’écriture scientifique de 0,0023
+
+Résoudre dans ℝ l’équation 𝑥 2 = 25
+
+Compléter
+
+Résoudre dans ℝ l’inéquation :
+2𝑥 − 3 ≥ 7
+
+A = 5… × 3…
+
+1,2 h = ……. h………min
+
+𝑈2
+
+On rappelle que 𝑃 = 𝑅 où P est la
+
+puissance, U la tension et R la
+résistance. Exprimer U en fonction de P
+et R.
+
+U=
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Dans le repère ci-dessous, 𝐶𝑓 est la représentation graphique d'une fonction 𝑓 du second
+degré et D est la tangente à 𝐶𝑓 au point A(1; 0).
+On admet que la tangente à 𝐶𝑓 au point d'abscisse −1 est parallèle à l'axe des abscisses.
+On désigne par 𝑓 ′ la fonction dérivée de 𝑓.
+
+1. Déterminer par une lecture du graphique : 𝑓(−3), 𝑓(−1), 𝑓(1) et 𝑓 ′ (−1), 𝑓 ′ (1).
+Il n’est pas demandé de justification pour cette question.
+2. Pour tout réel 𝑥, on donne 𝑓(𝑥) = 𝑎(𝑥 − 𝑥1 )(𝑥 − 𝑥2 ), où 𝑎, 𝑥1 et 𝑥2 sont trois nombres
+réels, avec 𝑥1 < 𝑥2 .
+Justifier que 𝑥1 = −3 et que 𝑥2 = 1. En déduire 𝑎.
+
+3. Montrer alors, que pour tout réel 𝑥, on a : 𝑓(𝑥) = − 2 𝑥² − 𝑥 + 2.
+4. Retrouver par le calcul les résultats de la question 1.
+5. Déterminer l’équation réduite de la droite D.
+
+Exercice 3 (5 points)
+Un grand laboratoire pharmaceutique veut étudier l'effet d'un nouvel antibiotique sur deux
+types de bactéries (type A et type B). Ce nouvel antibiotique fait évoluer le nombre de
+bactéries au cours du temps.
+On met en culture 4 500 bactéries de type A et 5 000 bactéries de type B.
+Le nombre de bactéries de type A augmente de 2,5% par semaine.
+On désire modéliser la situation par deux suites (𝑢𝑛 ) et (𝑣𝑛 ).
+Pour tout entier naturel 𝑛 :
+
+
+
+𝑢𝑛 est le nombre de bactéries de type A au bout de 𝑛 semaines,
+𝑣𝑛 est le nombre de bactéries de type B au bout de 𝑛 semaines.
+
+1. Justifier que (𝑢𝑛 ) est une suite géométrique et préciser ses éléments caractéristiques.
+2. Exprimer 𝑢𝑛 en fonction 𝑛. En déduire le nombre de bactéries de type A au bout de 4
+semaines. On arrondira le résultat à l'unité.
+3. L'algorithme ci-dessous permet de déterminer le nombre de semaines nécessaires pour
+que le nombre de bactéries de type A dépasse 6 000.
+
+Recopier et compléter cet algorithme afin qu’il affiche la valeur attendue.
+4. On s'intéresse maintenant à l'évolution du nombre de bactéries de type B.
+On donne, pour tout entier naturel 𝑛, 𝑣𝑛 = 140𝑛 + 5 000.
+Quelle est la nature de la suite (𝑣𝑛 ) ? Préciser ses éléments caractéristiques.
+5. Le nombre de bactéries de type B dépassera-t-il 6 000 avant le nombre de bactéries de
+type A ? Justifier votre réponse.
+
+Exercice 4 (5 points)
+D’après les résultats de la recherche, on considère qu’en France 93 % des sites de baignade
+ont une eau de bonne qualité.
+Pour chaque site, on désigne par E l’évènement « l’eau est de bonne qualité ».
+Les deux parties suivantes sont indépendantes.
+Partie A :
+Sur une commune du littoral il y a 3 sites de baignade répertoriés. La qualité de l’eau dans
+ces 3 sites est considérée indépendante les unes des autres. Sans faire procéder à des
+analyses, le maire voudrait connaître la probabilité que l’eau soit de bonne qualité dans sa
+commune.
+Dans cette partie, les résultats seront arrondis au millième.
+1. A l’aide d’un arbre de probabilité, calculer la probabilité que les 3 sites soient de bonne
+qualité.
+2. Quelle est la probabilité qu’il y ait au moins un site qui ne soit pas de bonne qualité ?
+Partie B :
+On considère maintenant une région du littoral dans laquelle on dénombre 48 sites de
+baignade dont 6,25 % ont une eau de mauvaise qualité. On sait que seulement une faible
+proportion des baigneurs vérifie que l’eau est de bonne qualité, mais qu’en revanche ils
+préfèrent les plages de sable aux plages de galets. Dans cette région il y a 25 sites de
+baignade où la plage est de sable dont 8% ont une eau de mauvaise qualité.
+Dans cette partie, les probabilités seront données sous forme de fraction irréductible.
+3. Recopier et compléter le tableau croisé d’effectifs ci-dessous.
+Eau de bonne
+qualité
+Plages de sable
+
+Eau de mauvaise
+qualité
+
+Totaux
+
+Plages de galets
+Totaux
+
+4. Quelle est la probabilité pour qu’une personne qui va sur une plage de galets se baigne
+dans une eau de bonne qualité ?
+5. Si on choisit au hasard une plage de cette région, a-t-on plus qu’une chance sur deux
+qu’elle soit avec du sable et une eau de bonne qualité ? Justifier votre réponse.

@@ -1,0 +1,147 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1389863, "at": "2026-11-23T08:57:02+00:00"}
+Partie I – Exercice 1
+Automatismes (5 points). Sans calculatrice
+
+Durée : 20 minutes
+
+Question
+
+Réponse
+
+Augmenter de 3 % revient à multiplier
+par…
+Une veste coûtait 250 euros. Son prix a
+diminué de 20 %. Quel est son prix
+actuel ?
+La population d’une ville est passée en
+quelques années de 10 000 à 11 000
+habitants. Quel a été le pourcentage
+d’augmentation ?
+Si une valeur diminue de 50 %, de
+quelle pourcentage faut-il alors
+l’augmenter pour retrouver la valeur
+initiale ?
+Une valeur diminue de 30 % puis
+augmente de 20 %. Quel est le taux
+d’évolution entre la valeur initiale et la
+valeur finale ?
+
+Résoudre l’équation : 2𝑥 + 5 = 23.
+
+Résoudre l’inéquation : 3𝑥 + 1 > 2
+
+Résoudre l’équation : 𝑥 2 = 49.
+
+Compléter le tableau de signes de
+l’expression −2𝑥 + 4.
+
+Compléter le tableau de signes de
+l’expression 3(𝑥 − 1)(𝑥 + 2)
+
+𝑥
+
+−∞
+
+−2𝑥 + 4
+𝑥
+3(𝑥 − 1)(𝑥 + 2)
+
++∞
+
+−∞
+
++∞
+
+Partie II
+Calculatrice autorisée conformément à la réglementation en vigueur
+
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+Le directeur d’un théâtre souhaite déterminer le prix des places pour lequel le bénéfice sera
+maximal. Il a remarqué que lorsque le prix augmente, les spectateurs sont moins nombreux ;
+mais si le prix est trop bas, les recettes sont insuffisantes pour dégager un bénéfice.
+Après étude, il apparaît que la recette peut être modélisée par une fonction 𝑓 dont la courbe
+est tracée ci-dessous : pour un prix de 𝑥 euros inférieur ou égal à 30, la recette est estimée à
+𝑓(𝑥) euros.
+
+1. Avec la précision permise par le graphique, donner une estimation de la recette
+lorsque le prix des places est fixé à 10 euros.
+2. Résoudre, avec la précision permise par le graphique, l’inéquation 𝑓(𝑥) ≥ 14 000 et
+interpréter le résultat.
+
+Pour chaque spectacle, le directeur estime que les charges à payer (location de la salle,
+entretien, salaires des acteurs et autres personnels) s’élèvent à 10 800 euros, quel que
+soit le nombre de billets vendus.
+Nous admettrons que le résultat net du théâtre (obtenu en déduisant les dépenses de la
+recette), exprimé en euro, peut être modélisé par la fonction 𝑔 définie sur [0; 30] par
+𝑔(𝑥) = −50(𝑥 − 8)(𝑥 − 27) où 𝑥 représente le prix des places.
+3. Étudier le signe de 𝑔 sur l’intervalle [0; 30].
+4. En déduire le prix des places à fixer pour avoir un résultat net positif, c’est-à-dire
+pour que le théâtre soit bénéficiaire.
+5. Déterminer le maximum de la fonction 𝑔 et interpréter le résultat.
+
+EXERCICE 3 (5 points)
+Lors d'une compétition d'athlétisme, un entraîneur analyse la technique d'un lanceur de
+poids, et plus particulièrement la trajectoire parabolique du poids lors d’un lancer.
+Dans le plan vertical de la trajectoire du poids, on définit le repère orthonormé d’origine
+située aux pieds du lanceur, d’axes des abscisses au niveau du sol et d’unité égale à 1 mètre.
+Dans ce repère, la fonction 𝑓, définie par 𝑓(𝑥) = −0,08𝑥 2 + 0,8𝑥 + 1,92 pour tout nombre
+𝑥 dans l'intervalle [0;12], modélise la hauteur du poids en fonction de l’abscisse 𝑥 de celui-ci.
+
+1.
+2.
+3.
+4.
+5.
+
+À quelle hauteur se trouve le poids au moment où le lanceur le lâche ?
+Donner l’expression de la dérivée 𝑓′(𝑥) de la fonction 𝑓.
+Dresser le tableau de variations de 𝑓 sur l’intervalle [0; 12].
+Quel est le maximum de la fonction 𝑓 ? interpréter le résultat.
+On considère la fonction test() ci-dessous, écrite en langage Python.
+def test() :
+x = 0.1
+w h i l e - 0 . 0 8 *x ** 2 + 0 . 8 *x + 1 . 92 > 1 .9 2 :
+x = x + 0.1
+return x
+La valeur renvoyée par cette fonction vaut environ 10.
+Interpréter ce résultat.
+
+EXERCICE 4 (5 points)
+Quatre candidats A, B, C, D se présentent à une élection.
+Avant le scrutin, on a demandé à 1000 personnes âgées de 18 à 90 ans leur intention de
+vote.
+On a obtenu le tableau de répartition suivant :
+Candidat
+Age
+[18;30[
+[30;50[
+[50;90]
+Total
+
+A
+
+B
+
+C
+
+D
+
+Total
+
+1000
+
+1. Combien de personnes de plus de 30 ans ont-elles l’intention de voter pour le
+candidat A ?
+2. Quel est l'âge moyen des personnes interrogées qui ont l'intention de voter pour le
+candidat D ?
+On prendra les centres des classes d'âge pour effectuer le calcul.
+On choisit au hasard une des 1000 personnes interrogées.
+Les résultats seront donnés sous forme décimale.
+3. Calculer la probabilité de l’évènement 𝐸 « La personne choisie appartient à la
+tranche d'âge [18; 30[ ».
+4. On considère l’évènement 𝐹 « La personne choisie a l’intention de voter pour le
+candidat B. »
+Calculer 𝑃(𝐹).
+5. Calculer la probabilité 𝑃𝐹 (𝐸) et interpréter le résultat.

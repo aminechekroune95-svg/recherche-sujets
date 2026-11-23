@@ -1,0 +1,143 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1402026, "at": "2026-11-23T08:53:45+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+La valeur d’une action cotée en Bourse a baissé de
+37,5%. Sa valeur a été multipliée par :
+
+Un nourrisson pèse 3,2 kg à la naissance puis 4 kg un mois
+plus tard. Calculer le taux d’évolution de sa masse en
+pourcentage.
+
+Soit 𝑥 un nombre réel. Résoudre dans R l’inéquation :
+4𝑥 + 7 > 27.
+
+Factoriser : (2𝑥 + 3)(5 𝑥 + 2) − (2 𝑥 + 3)( 𝑥 − 6).
+
+Donner la fraction irréductible égale à :
+1 2
++
+3 5
+
+Écrire sous la forme d’une puissance de 𝑎, l’expression :
+𝑎−4 × 𝑎7
+𝑎2
+
+Énoncé
+
+Ci-dessous, on donne la courbe Cf représentative
+d’une fonction 𝑓 définie sur ℝ.
+Répondre aux questions ci-contre.
+
+Réponse
+L’image de 0 par la fonction f est :
+…
+Avec la précision permise par le
+graphique, l’ensemble des solutions
+de
+l’équation
+𝑓(𝑥) = 0
+est
+𝑆 = { … … ; … … }.
+Le tableau de signe de f est :
+
+Sachant que le maximum de f est
+atteint en 𝑥 = −0,5, le tableau de
+signes de la fonction 𝑓′ , dérivée de
+𝑓, est :
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une urne contient un ensemble de jetons qui se distinguent les uns des autres par leur
+forme et leur couleur. On donne ci-dessous le tableau croisé d’effectifs selon leur
+répartition.
+Cœur
+Rouge
+
+Total
+
+Vert
+Total
+
+Trèfle
+
+1. Recopier et compléter ce tableau croisé d’effectifs.
+2. Quelle est la fréquence marginale des jetons en forme de cœur ? Justifier qu’elle est
+inférieure à celle des jetons rouges.
+3. Calculer la fréquence conditionnelle des jetons rouges parmi les jetons en forme de
+trèfle.
+On procède au tirage aléatoire et sans remise, de jetons dans l’urne.
+4. Montrer qu’au premier tirage, la probabilité de tirer un jeton cœur vert est 0,1.
+5. Sachant qu’au premier tirage le jeton est un jeton cœur vert, quelle est la probabilité
+de tirer un jeton trèfle rouge ?
+
+Exercice 3 (5 points)
+
+Au cours de l’année 2018, une entreprise a produit 47 000 véhicules électriques.
+En 2019, le nombre de véhicules électriques produits a augmenté de 3,1 % par rapport à
+2018.
+L’entreprise décide de maintenir chaque année cette augmentation de 3,1 % par rapport à la
+production de l’année précédente.
+On modélise le nombre annuel de véhicules produits par une suite (𝑢𝑛 ), 𝑢𝑛 désignant le
+nombre de véhicules électriques produits à l’année 2018+𝑛. On a, ainsi 𝑢0 = 47 000.
+1. Déterminer le nombre de véhicules produits en 2019.
+2. Justifier que la suite (𝑢𝑛 ) est géométrique. Préciser sa raison.
+3. Exprimer 𝑢𝑛 en fonction de l’entier n.
+4. En déduire une estimation du nombre de véhicules produits en 2029.
+5. Recopier et compléter le programme en langage python ci-dessous renvoyant la valeur 𝑢𝑛
+pour un entier naturel n choisi au départ.
+
+Quelle est alors l’instruction à exécuter pour qu’elle renvoie, selon la modélisation de cet
+exercice, le nombre de véhicules produits en 2029 ?
+
+Exercice 4 (5 points)
+
+Dans le Périgord, durant la période de production de la truffe, un producteur de truffes
+noires cultive, ramasse et conditionne de 0 à 50 kilogrammes de ce produit par saison.
+On désigne par 𝑥 la masse, en kilogrammes, de truffes produit chaque semaine par ce
+producteur, et par 𝐶(𝑥) le coût, en euros, de production pour 𝑥 kilogrammes de truffes.
+Chaque kilogramme de truffes produit est vendu 450 euros. On admet, que la fonction 𝐶 est
+définie sur [0 ; 50] par :
+𝐶(𝑥) = 𝑥 3 − 60𝑥 2 + 975𝑥.
+1. Soit 𝐵(𝑥), le bénéfice, en euros, réalisé par le producteur pour 𝑥 kilogrammes de
+truffes vendus. Montrer que pour tout 𝑥 de l’intervalle [0 ; 50] :
+𝐵(𝑥) = − 𝑥 3 + 60𝑥 2 − 525𝑥.
+2. Montrer que pour tout x appartenant à [0 ; 50] :
+𝐵 ′ (𝑥) = (−3𝑥 + 15)(𝑥 − 35).
+3. Étudier le signe de 𝐵 ′ (𝑥) sur [0 ; 50]. En déduire le tableau de variation de la fonction
+𝐵.
+4. Reproduire et compléter, à l’aide de votre calculatrice, le tableau de valeurs suivant :
+x
+
+B(x)
+
+5. Pour quelle masse de truffes le bénéfice du producteur est-il maximal ? Quel est alors
+ce bénéfice maximal ?

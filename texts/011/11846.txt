@@ -1,0 +1,124 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1101434, "at": "2026-11-23T08:53:14+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE :☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il
+ne peut être dupliqué et doit être imprimé pour chaque candidat afin d’assurer
+ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe
+pédagogique, il est nécessaire que chaque élève dispose d’une impression en
+couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra
+télécharger et jouer le jour de l’épreuve.
+Nombre total de pages : 6
+
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+Exercice n° 1 : Automatismes (5 points)
+Énoncé
+
+Réponse
+
+Dans un musée, 80% des œuvres exposées sont des
+peintures et 20% de ces peintures sont italiennes. Quel
+pourcentage des œuvres exposées sont des peintures
+italiennes ?
+
+Un magasin a augmenté de 10% le prix de ses pulls par
+rapport à l’an dernier. Le prix actuel d’un pull est de 44€.
+Quel était le prix de ce pull l’an dernier ?
+
+Une famille a consommé 125 m3 d’eau en 2019 et 150 m3
+d’eau en 2020. Exprimer en pourcentage le taux d’évolution
+de leur consommation d’eau entre 2019 et 2020 ?
+
+Résoudre dans ℝ l’inéquation : −5𝑥 + 6 ≤ 16
+
+Ecrire 𝐴 =
+
+28 × 2−3
+
+sous la forme d’une seule puissance.
+
+Dresser le tableau de signes de la fonction représentée cidessus.
+
+Enoncé
+
+Réponse
+
+Calculer la dérivée de la fonction 𝑓 definie sur ℝ par
+𝑓(𝑥) = −𝑥 3 + 4𝑥 2 + 5𝑥 + 10
+Pour les questions 8 et 9 on considère un repère
+orthonormé dont l’unité est un carreau
+
+Déterminer graphiquement le coefficient directeur de la
+tangente 𝑇 à la courbe 𝐶𝑓 au point d’abscisse −2.
+
+Donner l’équation réduite de la droite (𝑑) représentée cidessus.
+
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = 𝑥 2 + 3𝑥 + 4 .
+Calculer le coefficient directeur de la tangente à la courbe
+représentative de 𝑓 au point d’abscisse 𝑎 = 1.
+
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+EXERCICE 2 (5 points)
+Sophie a souscrit un abonnement le 1er janvier 2020. Cet abonnement est de 350€ la première
+année, soit en 2020, puis subit annuellement une hausse de 2%.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le coût de l’abonnement de l'année (2020 + 𝑛).
+On a donc 𝑢0 = 350.
+1) Calculer 𝑢1 et 𝑢2 .
+2) Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 et en déduire la nature de la suite (𝑢𝑛 ).
+3) Déterminer l’expression de 𝑢𝑛 en fonction de 𝑛.
+4) Sophie espère qu’au 31 décembre 2024 le
+budget total dépensé depuis son inscription
+n’excèdera pas 2000€.
+Elle utilise la fonction python ci-contre.
+a) Quelle valeur renvoie cette fonction à
+l’issue de son exécution ? On arrondira
+la valeur à 0,01 près.
+b) Quelle interprétation peut-on donner à cette valeur 𝑠 dans le cadre de l’exercice ?
+Sophie sera-t-elle contente ?
+
+EXERCICE 3 (5 points)
+Une entreprise française conditionne chaque jour entre 10 m3 et 90 m3 de lait.
+Le coût moyen de production, exprimé en centaines d’euros, est modélisé par la fonction 𝑔 définie
+sur l’intervalle [10; 90] par
+𝑔(𝑥) = 𝑥 − 45 +
+
+𝑥
+
+où 𝑥 est le volume quotidien de lait conditionné en m3 .
+1) Montrer que 𝑔′ (𝑥) =
+
+(𝑥−30)(𝑥+30)
+𝑥²
+
+2) Étudier le signe de 𝑔′ (𝑥) pour 𝑥 ∈ [10; 90].
+3) En déduire les variations de 𝑔 et dresser le tableau de variations de 𝑔 sur [10; 90].
+4) a. Pour quel volume de lait conditionné le coût moyen de production est-il minimal ?
+b. Quel est ce coût moyen minimal ?
+
+EXERCICE 4 (5 points)
+Une entreprise d’installation d’alarmes de particuliers effectue des contrôles réguliers sur son
+ensemble de logements équipés.
+Elle constate que 20% de ses alarmes sont sous garantie.
+Parmi les alarmes sous garantie, la probabilité qu’une alarme soit défectueuse est de 1%.
+Parmi les alarmes qui ne sont plus sous garantie, la probabilité qu’une alarme soit
+défectueuse est de 10% .
+On choisit une alarme au hasard et on appelle :
+ 𝐷 l’événement : « l’alarme est défectueuse ».
+ 𝐺 l’événement : « l’alarme est sous garantie ».
+1) Recopier et compléter l’arbre de probabilités ci-dessous permettant de représenter la
+situation :
+
+2) Calculer la probabilité de l’événement « l’alarme est garantie et est défectueuse ».
+3) Calculer la probabilité de l’événement 𝐷.
+4) Dans un logement l’alarme est défectueuse. Montrer que la probabilité qu’elle soit
+sous garantie est de
+
+.
+
+5) Les évènements 𝐺 et 𝐷 sont-ils incompatibles ? Indépendants ? Justifier.

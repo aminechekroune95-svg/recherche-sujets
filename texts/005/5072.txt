@@ -1,0 +1,181 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1260738, "at": "2026-11-23T08:59:07+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples.
+Pour chacune des cinq questions suivantes, une seule des quatre réponses proposées est
+exacte. Aucune justification n’est demandée. Une bonne réponse rapporte un point. Une
+mauvaise réponse, plusieurs réponses ou l’absence de réponse ne rapportent ni n’enlèvent
+aucun point.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+qui correspond à la réponse choisie.
+1. On munit le plan du repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗).
+̂ = 5𝜋.
+On considère trois points du plan A, B et C tels que AB = 2 ; AC = √3 et BAC
+Alors ⃗⃗⃗⃗⃗⃗⃗⃗
+AB ⋅ ⃗⃗⃗⃗⃗⃗
+AC =
+a. 2√3
+
+b. 3
+
+d. – 3
+
+c. − 2√3
+
+2. Soit a un nombre réel. On munit le plan du repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗).
+sin(𝑎)
+−cos(𝑎)
+On considère les vecteurs ⃗𝑢⃗ (
+) et 𝑣⃗ (
+). Alors 𝑢
+⃗⃗⃗⃗⃗⋅ 𝑣⃗ est égal à
+cos(𝑎)
+sin(𝑎)
+a. sin2 (𝑎) + cos2 (𝑎)
+
+b. 1
+
+c. sin2(𝑎) − cos 2 (𝑎)
+
+d. 0
+
+3. On munit le plan du repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗).
+
+On considère les points A(2 ; 8), B ( 3 ; 0), C(7; −5) et D(3; 0).
+Alors, les droites (AB) et (CD) sont :
+b.
+a. parallèles
+perpendiculaires
+
+c. sécantes
+
+d. confondues
+
+4. On munit le plan du repère orthonormé (O ; 𝑖⃗, ⃗𝑗⃗).
+
+On considère la fonction 𝑓 définie pour tout réel 𝑥 non nul par 𝑓(𝑥) = 𝑥. On note 𝒞 sa
+courbe représentative dans ce repère. L’équation réduite de la tangente à 𝒞 au point
+d’abscisse 1 est :
+a. 𝑦 = −3𝑥 +
+d. 𝑦 = 3𝑥 +
+b. 𝑦 = −3𝑥
+c. 𝑦 = 3𝑥
+
+5. L’ensemble des solutions dans R de l’équation 𝑥 2 = 6𝑥 − 5 est :
+a. 𝑆 = {1; 5}
+
+b. 𝑆 = {1}
+
+d. 𝑆 =
+{−5; −1}
+
+c. 𝑆 = ∅
+
+Exercice 2 (5 points)
+Maxime participe à un jeu qui se déroule en deux parties :
+- La probabilité qu’il gagne la première partie est de 0,2.
+- S’il gagne la première partie, il gagne la deuxième avec une probabilité de 0,9.
+- S’il perd la première partie, il perd la suivante avec une probabilité de 0,6.
+On note :
+ 𝐺1 l’événement « Maxime gagne la première partie »
+ 𝐺2 l’événement « Maxime gagne la première partie »
+Partie A
+1. Construire un arbre pondéré illustrant la situation.
+2. Calculer la probabilité que Maxime gagne les deux parties du jeu.
+3. Montrer que la probabilité que Maxime gagne la deuxième partie du jeu est 0,5.
+Partie B
+On sait de plus que :
+- à chaque partie gagnée, le joueur gagne 1,5 €.
+- à chaque partie perdue, il perd 1 €.
+On note 𝑋 la variable aléatoire qui correspond au gain algébrique en euros de Maxime
+à l’issue des deux parties.
+1. Recopier sur la copie et compléter le tableau ci-dessous donnant la loi de
+probabilité de la variable aléatoire 𝑋.
+Valeurs de 𝑋
+
+Probabilité
+
+0,18
+
+Total
+
+2. Déterminer si ce jeu est équitable. Justifier.
+
+Exercice 3 (5 points)
+Une personne souhaite louer une maison à partir du 1er janvier 2020 et a le choix entre
+deux formules de contrat :
+ Contrat n°1 : le loyer augmente chaque année de 200 €.
+ Contrat n°2 : le loyer augmente chaque année de 5 %.
+Pour tout entier naturel 𝑛, on note :
+ 𝑢𝑛 le loyer annuel de l’année 2020 + 𝑛 pour le contrat n°1.
+ 𝑣𝑛 le loyer annuel de l’année 2020 + 𝑛 pour le contrat n°2.
+Dans les deux cas, le loyer annuel initial est de 3600 €. On a donc 𝑢0 = 𝑣0 = 3600.
+1. Étude de la suite (𝑢𝑛 )
+a) Déterminer le loyer annuel de l’année 2021 pour le contrat n°1.
+b) Déterminer l’expression de 𝑢𝑛 en fonction de 𝑛 puis en déduire le loyer annuel de
+l’année 2030.
+2. Étude de la suite (𝑣𝑛 )
+a) Déterminer le loyer annuel de l’année 2021 pour le contrat n°2.
+b) Déterminer l’expression de 𝑣𝑛 en fonction de 𝑛 puis en déduire le loyer annuel de
+l’année 2030.
+3.
+
+On considère le script suivant, écrit en langage Python :
+u = 3600
+v = 3600
+n = 0
+while u>=v :
+u = u + 200
+v = 1.05*v
+n = n+1
+Après exécution, la variable 𝑛 contient la valeur 6. Donner une interprétation de ce
+résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+Des pucerons envahissent une roseraie.
+On introduit alors des coccinelles, prédatrices des pucerons, à l’instant 𝑡 = 0, et on
+s’intéresse à l’évolution du nombre de pucerons à partir de cet instant et sur une
+période de 20 jours.
+Partie A :
+Dans le repère ci-dessous, on a tracé :
+ La courbe 𝒞 représentant le nombre de milliers de pucerons en fonction du
+nombre de jours écoulés depuis l’introduction des coccinelles.
+ La tangente 𝑇 à la courbe 𝒞 au point d’abscisse 0 passe par les points 𝐴(0 ; 2,1) et
+𝐵(2 ; 4,3).
+
+1. Déterminer par lecture graphique le nombre de pucerons à l’instant où l’on introduit
+les coccinelles puis le nombre maximal de pucerons sur la période de 20 jours.
+2. On assimile la vitesse de prolifération des pucerons à l’instant 𝑡 au nombre dérivé
+𝑓′(𝑡).
+Déterminer graphiquement la vitesse de prolifération des pucerons à l’instant 𝑡 = 0.
+
+Partie B :
+On modélise l’évolution du nombre de pucerons par la fonction 𝑓 définie, pour tout 𝑡
+appartenant à l’intervalle [0 ; 20], par :
+𝑓(𝑡) = 0,003𝑡 3 − 0,12𝑡 2 + 1,1𝑡 + 2,1
+où 𝑡 représente le nombre de jours écoulés depuis l’introduction des coccinelles et
+𝑓(𝑡) le nombre de pucerons en milliers.
+1. Déterminer 𝑓 ′ (𝑡) pour tout 𝑡 appartenant à l’intervalle [0 ; 20] où 𝑓’ désigne la
+dérivée de la fonction 𝑓.
+2. Dresser le tableau de signes de 𝑓′(𝑡) sur l’intervalle [0 ; 20].
+3. En déduire le tableau des variations de la fonction 𝑓 sur l’intervalle [0 ; 20]. Préciser
+les images des valeurs de 𝑡 apparaissant dans le tableau.

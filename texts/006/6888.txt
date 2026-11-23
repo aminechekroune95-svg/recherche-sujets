@@ -1,0 +1,160 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1310534, "at": "2026-11-23T08:56:57+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+Enoncé
+
+Réponse
+
+1)
+
+Quel est l’entier égal à 2 + 3 + 6 ?
+
+2)
+
+600 minutes est-il plus proche de 2 journée, 1 journée ou 1 semaine ?
+
+3)
+
+Calculer les deux tiers de 96.
+
+4)
+
+𝑓(𝑥) = −𝑥 2 + 𝑥. Calculer 𝑓(3).
+
+5)
+
+6)
+
+7)
+
+8)
+9)
+10)
+
+Un coureur a parcouru 24 km. Ces 24 km représentent 5 de la course.
+Quelle est la longueur de la course ?
+Les points marqués
+appartiennent à la
+droite, tracée cicontre dans un
+repère, d’équation :
+𝑦 = 𝑚𝑥 + 𝑝 .
+Déterminer 𝑚.
+Déterminer
+l’ordonnée
+exacte du
+point de la
+droite
+d’abscisse 5.
+Développer et réduire : (𝑥 + 3)(𝑥 − 7).
+60 % des élèves d’un lycée sont des filles. Parmi ces filles, 25 % portent des
+lunettes. Quel pourcentage des élèves de ce lycée représente les filles
+portant des lunettes ?
+
+Donner un nombre décimal 𝑑 tel que 3 < 𝑑 < 4.
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 : (5 POINTS)
+L’objectif de cet exercice est de comparer l’évolution d’un salaire dans chacune des deux
+entreprises.
+Entreprise A : salaire mensuel initial de 1 500 € par mois avec augmentation chaque année du salaire
+mensuel de 2,5 %.
+Entreprise B : salaire initial de 1 500 € par mois avec augmentation annuelle du salaire mensuel de
+40 €.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le salaire mensuel en euro au 1er janvier de
+l’année (2019 + 𝑛) dans l’entreprise A et 𝑣𝑛 celui dans l’entreprise B.
+On a donc 𝑢0 = 𝑣0 = 1 500.
+On donne la feuille de calcul suivante :
+
+1. Quelles formules a-t-on pu saisir dans les cellules C3 et D3 de la feuille de calcul ci-dessus
+pour obtenir, par recopie vers le bas, les salaires mensuels dans les entreprises A et B ?
+2. Calculer le salaire mensuel dans l’entreprise A en 2027.
+3. Quelle est la nature de la suite (𝑢𝑛 ) ? Exprimer pour tout 𝑛 dans ℕ, 𝑢𝑛+1 en fonction de
+𝑢𝑛 .
+
+4. Quelle est la nature de la suite (𝑣𝑛 ) ? Exprimer pour tout 𝑛 dans ℕ, 𝑣𝑛+1 en fonction
+de 𝑣𝑛 .
+5. En 2029, quel sera l’écart de salaire mensuel entre les deux entreprises ?
+
+EXERCICE 3 (5 POINTS)
+Une éolienne transforme par son rotor, l’énergie cinétique du vent en énergie mécanique
+puis électrique. Le graphique ci-dessous donne P la puissance électrique (en kW) d’une
+éolienne en fonction de la vitesse du vent (en m. s −1 ).
+
+1. Lecture graphique. Répondre aux questions suivantes avec la précision permise par le
+graphique.
+1.a. Quelle est la puissance fournie par éolienne quand la vitesse du vent est de 12 m. s−1 ?
+1.b. Quelles sont les vitesses du vent en m. s−1 conduisant l’éolienne à produire 600 kW ?
+1.c. Quelle est la puissance fournie par l’éolienne quand la vitesse du vent est
+de 25 km. h−1 ?
+2. Modélisation. Lorsque la vitesse du vent est comprise entre 2 m. s−1 et 14 m. s−1 , la
+puissance est modélisée par la fonction 𝑃 définie sur [2 ; 14] par : 𝑃(𝑣) =
+
+𝑣3
+
+.
+
+2.a. Calculer 𝑃(12).
+2.b. On admet que la fonction 𝑃 est croissante sur [2 ; 14]. On considère la fonction suivante
+écrite en langage Python :
+
+def balayage(e) :
+x = 12
+while 0.25*x**3 < 650 :
+x = x+e
+return (x-e , x)
+
+Une exécution de l’instruction balayage(0.125) conduit au résultat : (13.75 , 13.875)
+À quelle question cette fonction balayage permet-elle de répondre ?
+
+EXERCICE 4 (5 POINTS)
+Une petite entreprise artisanale de fabrication de biscuits possède trois ateliers nommés A, B et C
+qui produisent des biscuits selon deux recettes : la recette standard et la recette traditionnelle.
+L’entreprise a produit 2400 biscuits en une journée.
+L’atelier A a produit 60% des biscuits de l’entreprise.
+L’atelier B a produit 15% des biscuits de l’entreprise.
+Le tableau ci-dessous présente le nombre de biscuits produits par atelier et par recette durant
+cette journée.
+Recette traditionnelle
+Recette standard
+Total
+
+Atelier A
+
+Atelier B
+
+Atelier C
+
+Total
+
+2400
+
+1.a. Recopier le tableau et le compléter par les données manquantes en utilisant les informations
+données dans l’énoncé.
+1.b. Calculer le pourcentage de la production de l’entreprise correspondant aux biscuits de recette
+traditionnelle.
+1.c. Quelle part, en pourcentage, des biscuits de recette standard a été produite par l’atelier C ?
+2. On prélève au hasard un biscuit dans l’ensemble de la production journalière, on admet que les
+tirages des biscuits sont équiprobables. On note les événements suivants :
+
+𝐴 : « le biscuit a été produit par l’atelier A » ;
+𝐵 : « le biscuit a été produit par l’atelier B » ;
+𝐶 : « le biscuit a été produit par l’atelier C » ;
+𝑇 : « le biscuit est de recette traditionnelle ».
+2.a. Calculer la probabilité de l’événement 𝐶, que l’on note : 𝑃(𝐶).
+2.b. Calculer la probabilité P(𝐶 ∩ 𝑇).
+2.c. Quelle est la probabilité qu’un biscuit de recette traditionnelle provienne de l’atelier C ? En
+donner la valeur arrondie au millième.

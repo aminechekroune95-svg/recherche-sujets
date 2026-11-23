@@ -1,0 +1,203 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1500235, "at": "2026-11-23T08:54:12+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+N°
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Questions
+
+Réponses
+
+−
+
+Écrire sous forme d’une fraction irréductible :
+
+Un voyagiste propose 20% de réduction sur un voyage
+coûtant 860€.
+Calculer le montant de l’économie réalisée.
+
+Dans une classe, 60% des élèves sont des filles et 30% des
+filles pratiquent un sport en club.
+Quel est le pourcentage d’élèves de cette classe qui sont
+des filles pratiquant un sport en club ?.
+
+Développer et réduire l’expression :
+(𝑥 − 3)2 + 𝑥(𝑥 + 4)
+Factoriser l’expression 4𝑥 2 − 3𝑥
+Écrire 57 × 5−3 sous la forme 5𝑛 , où est un nombre entier
+
+relatif.
+Déterminer l’équation réduite de la droite 𝐷 représentée
+ci-dessous.
+
+La courbe représentative d’une fonction 𝑓 définie sur l’intervalle [– 4 ; 3] est tracée ci-dessous.
+
+Répondre aux questions suivantes avec la précision permise par le graphique :
+N°
+
+Questions
+
+Réponses
+
+Donner l’image de 3 par la fonction 𝑓.
+
+Donner les antécédents de 0 par la fonction 𝑓.
+
+Donner l’ensemble des solutions de l’inéquation 𝑓(𝑥) > 0
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On compare l’évolution de la population dans deux villes A et B.
+Le 1er janvier 2020, la ville A compte 10500 habitants et la ville B en compte 9500.
+On prévoit que la population de la ville A augmente chaque année de 900 habitants et que
+celle de la ville B augmente de 7%.
+On modélise le nombre d’habitants de la ville A au 1er janvier de l’année
+(2020 + 𝑛) à l’aide d’une suite (𝐴𝑛 ) et celui de la ville B par une suite (𝐵𝑛 ).
+Ainsi 𝐴0 = 10500 et 𝐵0 = 9500 .
+1. La feuille de calcul ci-dessous donne les prévisions de la population. Les résultats sont
+arrondis à l’unité.
+
+A
+Année
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+
+B
+Rang
+
+C
+Ville A
+10500
+11400
+12300
+13200
+14100
+15000
+15900
+
+D
+Ville B
+9500
+10165
+10877
+11638
+12453
+13324
+14257
+
+Déterminer la nature de la suite (𝐴𝑛 ). Préciser son premier terme et sa raison.
+b) Justifier que (𝐵𝑛 ) est une suite géométrique dont on précisera la raison.
+c) Quelle formule peut-on écrire dans la cellule D3 pour obtenir en colonne D, par
+recopie vers le bas, les premiers termes de la suite (𝐵𝑛 ) ?
+a)
+
+2. Quelles seraient selon ces prévisions les populations des villes A et B au 1er janvier 2030 ?
+3. La fonction rang a été définie ci-contre en langage
+Python. L’appel de cette fonction dans la console
+renvoie la valeur 12.
+Interpréter ce résultat dans le contexte de l’exercice.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+
+def rang():
+a=10500
+b=9500
+n=0
+while a>=b:
+a=a+900
+b=b*1.07
+n=n+1
+return n
+
+Exercice 3 (5 points)
+Une entreprise commercialise des pneus.
+La production mensuelle maximale est de 30 000 pneus.
+On suppose que la totalité de la production mensuelle est vendue chaque mois.
+On note 𝐵(𝑥) le résultat financier mensuel (bénéfice ou perte) de l’entreprise exprimé en
+milliers d’euros, réalisé pour la production de 𝑥 milliers de pneus, lorsque 𝑥 ∈ [0 ; 30].
+La courbe représentative de la fonction 𝐵 est représentée ci-dessous.
+
+1. Répondre aux questions suivantes, avec la précision permise par le graphique :
+a) Donner l’intervalle de valeurs pour lequel le résultat financier est positif, c’est-à-dire
+pour lequel l’entreprise réalise un bénéfice.
+b) Combien de pneus l’entreprise doit-elle produire pour obtenir un bénéfice de 300
+milliers d’euros ?
+
+2. On admet que 𝐵 (𝑥) = −4𝑥 2 + 128𝑥 − 624 pour tout réel 𝑥 appartenant à l’intervalle
+[0 ;30] et on désigne par 𝐵 ' la fonction dérivée de la fonction 𝐵.
+a) Calculer 𝐵′(𝑥) pour tout 𝑥 ∈ [0 ; 30].
+b) Etudier les variations de la fonction 𝐵 .
+c) En déduire le nombre de pneus vendus pour lequel le bénéfice de l’entreprise est
+maximal et donner la valeur de ce bénéfice maximal.
+
+Exercice 4 (5 points)
+On étudie les conditions de transport des élèves d’un lycée de 2250 élèves.
+ 60% des élèves viennent en transport en commun, parmi lesquels 8% ont un trajet
+d’une durée inférieure à 15 minutes.
+ Parmi les élèves qui n’utilisent pas les transports en commun, 28% ont un trajet
+d’une durée inférieure à 15 minutes.
+1. Montrer que le nombre d’élèves utilisant les transports en commun et qui ont un trajet
+d’une durée inférieure à 15 minutes est 108.
+2. Recopier et compléter le tableau suivant.
+Trajet d’une durée
+inférieure à 15 minutes
+Élèves utilisant les
+transports en commun
+
+Trajet d’une durée
+supérieure à 15 minutes
+
+Total
+
+Élèves n’utilisant pas les
+transports en commun
+total
+
+2250
+
+3. On choisit au hasard un élève du lycée. Chaque élève a la même probabilité d’être choisi.
+On considère les évènements :
+ 𝑇 : « l’élève utilise les transports en commun »
+ 𝐷 : « le trajet est d’une durée inférieure à 15 minutes »
+a) Calculer les probabilités 𝑃(𝑇) et 𝑃(𝐷).
+b) Calculer la probabilité de l’évènement 𝑇 ∩ 𝐷 et interpréter ce résultat dans le
+contexte de l’exercice.
+4. On choisit au hasard un élève dont le trajet a une durée inférieure à 15 minutes.
+Déterminer la probabilité qu’il utilise les transports en commun.

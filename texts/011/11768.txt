@@ -1,0 +1,210 @@
+{"pages": 9, "method": "pdftotext", "bytes": 948279, "at": "2026-11-23T08:53:55+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE 1
+Sans Calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 : Automatismes (5 points)
+Énoncé
+1.
+
+Écrire sous forme d’une fraction irréductible :
+3 1 1
+ 
+5 2 2
+
+2.
+
+À quelle baisse globale correspondent deux
+baisses successives de 20% ?
+
+3.
+
+Réponse
+
+Dans un repère orthonormal (O, I, J) du plan, on
+donne les points A(6 ; 13) et B(14 ; 25).
+Calculer le coefficient directeur de la droite (AB).
+La droite D ci-dessous est la représentation
+graphique d’une fonction affine g définie sur R.
+
+L’équation réduite de D
+est :
+4.
+
+Déterminer l’équation réduite de D.
+
+5.
+
+Résoudre dans R l’inéquation, g(x)  0
+
+Énoncé
+
+L’ensemble des solutions
+de l’inéquation g(x) 0
+est :
+
+Réponse
+
+6.
+
+7.
+
+Pour réserver un logement de vacances, je dois
+verser 40% du loyer, ce qui correspond à 340
+euros.
+Quel est le montant en euros du loyer de ce
+logement ?
+Si M est le point d’abscisse 1 situé sur la parabole
+d’équation y = 3x² + 2, alors les coordonnées du
+point M sont :
+
+M( ........ ; ......... )
+
+On considère la fonction h, définie sur R,
+représentée ci-dessous :
+
+8.
+
+Répondre dans la colonne réponse par lecture
+graphique aux trois questions suivantes :
+a. Déterminer h(-1).
+
+9.
+
+b. Déterminer le ou les antécédents de -1
+
+10.
+
+c. Résoudre dans R , l’inéquation h(x)  1
+
+h(-1) =
+
+PARTIE 2
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+On administre à un malade une dose de 6 mL d’un médicament par voie
+intraveineuse.
+Ce médicament se diffuse instantanément et de façon homogène dans le sang.
+On estime que le corps élimine 30% de ce médicament chaque heure.
+Pour tout entier naturel n on note Un la quantité, en mL, de médicament dans le sang
+n heures après l’injection.
+On a donc U0 = 6
+Montrer que U1 = 4,2, puis interpréter ce résultat par une phrase.
+Montrer que la suite (Un) est une suite géométrique ; préciser sa raison.
+Indiquer, en le justifiant, le sens de variation de la suite (Un).
+Quelle quantité du médicament reste-t-il dans le corps du malade 6 heures
+après l’injection ?
+5. On considère que le médicament est éliminé lorsque la quantité présente
+dans le sang est inférieure à 0,1 mL.
+Compléter le programme donné en annexe à remettre avec la copie afin
+qu’il retourne le nombre entier d’heures à partir duquel le médicament sera
+considéré comme éliminé.
+1.
+2.
+3.
+4.
+
+EXERCICE 3 (5 points)
+
+Une usine fabrique des pièces métalliques pour l’industrie automobile.
+Chaque pièce peut présenter deux types de défaut : un défaut de forme ou un défaut
+de couleur.
+Une pièce métallique est dite conforme lorsqu’elle ne présente aucun de ces deux
+défauts.
+On prélève un échantillon de 250 pièces métalliques dans le stock parmi lesquelles :
+ 6% des pièces présentent un défaut de forme.
+ 20 pièces présentent un défaut de couleur dont la moitié présente aussi un
+défaut de forme.
+1. Compléter, sans justification, le tableau croisé d’effectifs donné en annexe à
+remettre avec la copie.
+2. On prélève au hasard une pièce dans l’échantillon. On suppose que toutes les
+pièces ont la même probabilité d’être choisie et on considère les évènements :
+ F : la pièce présente un défaut de forme ;
+ C : la pièce présente un défaut de couleur.
+a. Calculer la probabilité que la pièce soit conforme.
+b. Calculer la probabilité que la pièce présente à la fois un défaut de
+couleur et un défaut de forme.
+3. Le coût de fabrication d’une pièce métallique est de 180€.
+Afin de ne pas mettre au rebu les pièces non conformes, il est possible de les
+réparer selon les tarifs ci-dessous :
+ 30€ pour réparer une pièce présentant le seul défaut de couleur ;
+ 50€ pour réparer une pièce présentant le seul défaut de forme ;
+ 70€ pour réparer une pièce présentant les deux défauts.
+On note X la variable aléatoire qui, à chaque pièce métallique prélevée,
+associe le coût de fabrication d’une pièce métallique, avec les éventuelles
+réparations.
+a. Compléter le tableau en annexe, donnant la loi de probabilité de X. La
+ligne xi est celle des valeurs prises par X.
+b. En déduire le coût moyen de fabrication d’une pièce métallique.
+
+EXERCICE 4 (5 points)
+
+Une entreprise peut produire et vendre entre 10 000 et 30 000 tablettes tactiles par
+mois.
+On note x le nombre de milliers de tablettes produites et vendues chaque mois par
+l’entreprise, ainsi 𝑥 ∈ [10; 30].
+Soit 𝐷 la fonction définie sur [10; 30] par 𝐷(𝑥) = −2,5𝑥 2 + 115𝑥 − 1120.
+On admet que la fonction 𝐷 modélise le résultat de l’entreprise, exprimé en milliers
+d’euros, c’est-à-dire le bénéfice réalisé par l’entreprise ou le déficit selon que le
+résultat est positif ou négatif.
+1. a. Montrer que pour tout 𝑥 ∈ [10; 30], 𝐷(𝑥) = (35 − 2,5𝑥)(𝑥 − 32)
+b. Établir le tableau de signes de 𝐷(𝑥) .
+c. En déduire les nombres de tablettes produites et vendues par l’entreprise
+qui lui permettent de réaliser un bénéfice.
+2. L’entreprise souhaite optimiser sa production. On note 𝐷′ la dérivée de la
+fonction . Ainsi 𝐷 ′ (𝑥) = −5 𝑥 + 115 .
+a. Étudier le signe 𝐷′(𝑥) sur [10; 30].
+b. En déduire le tableau de variation de la fonction 𝐷 et le nombre de tablettes
+que l’entreprise doit produire et vendre pour obtenir un bénéfice maximal.
+
+Annexe à remettre avec la copie
+EXERCICE 2
+
+def Temps():
+U=6
+N=0
+while U > 0.1:
+U=
+N=
+return(N)
+
+EXERCICE 3
+Tableau croisé des effectifs
+Avec le défaut de
+couleur
+
+Sans le défaut de
+couleur
+
+Total
+
+Avec le défaut de
+forme
+Sans le défaut de
+forme
+Total
+
+Loi de probabilité de X
+
+xi
+
+P(X=xi)

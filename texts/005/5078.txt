@@ -1,0 +1,196 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1198385, "at": "2026-11-23T08:59:04+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 – QCM (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+𝑛
+
+Pour tout entier naturel 𝑛, on définit la suite (𝑢𝑛 ) par : 𝑢𝑛 = 3 × 𝑛+1
+La suite (𝑢𝑛 ) est une suite :
+
+arithmétique de
+raison 3.
+
+géométrique de
+raison 3.
+
+arithmétique de
+raison 5.
+
+géométrique de
+raison 5.
+
+Question 2
+Dans un repère orthonormé (O; 𝑖⃗, 𝑗⃗) du plan, on considère les points A(−2; 1) et B(2; 4).
+La droite ∆ passe par le point C(−1; 1) et admet le vecteur ⃗⃗⃗⃗⃗⃗
+AB pour vecteur normal.
+La droite ∆ admet pour équation cartésienne :
+
+3𝑥 − 4𝑦 + 7 = 0
+
+4𝑥 + 3𝑦 + 1 = 0
+
+3𝑥 − 4𝑦 − 1 = 0
+
+4𝑥 + 3𝑦 + 7 = 0
+
+Question 3
+
+Dans l’intervalle [0; ], l’unique solution de l’équation : 2cos(𝑥 + 𝜋) + 1 = 0 est :
+
+−
+
+5𝜋
+
+2𝜋
+
+Question 4
+On considère la fonction 𝑓 définie et dérivable sur R par : 𝑓(𝑥) =
+
+e𝑥
+1+e𝑥
+
+La fonction dérivée 𝑓′ de la fonction 𝑓 est définie par :
+
+e
+1+e
+
+e𝑥
+(1 + e𝑥 )2
+
+𝑓 ′ (𝑥) = 1
+
+−e𝑥
+(1 + e𝑥 )2
+
+Question 5
+On considère la fonction 𝑓 définie sur R par : 𝑓(𝑥) = −0,5(𝑥 + 2)2 + 4,5.
+On peut affirmer que :
+Le tableau de variations de la fonction 𝑓 est donné ci-dessous :
+𝑥
+
+−∞
+
++∞
+
+4,5
+
+𝑓(𝑥)
+
+La courbe représentative de la fonction 𝑓 admet un sommet de coordonnées (4,5; −2).
+Le signe de 𝑓(𝑥) est donné ci-dessous :
+𝑥
+𝑓(𝑥)
+
+5
+
+−∞
+
+
+
++∞
+
+
+
++
+
+La fonction 𝑓 admet un minimum en −2 égal à 4,5.
+
+Exercice 2 (5 points)
+Une fleuriste met en vente quatre sortes de bouquets dont les tarifs et la composition sont
+indiqués dans le tableau ci-dessous :
+Bouquet de tulipes orange : 10,50 €
+Bouquet de tulipes blanches : 11,60 €
+
+Bouquet de roses orange : 23,50 €
+Bouquet de roses blanches : 25,50 €
+
+72 % des bouquets mis en vente ne contiennent que des roses.
+Les autres bouquets mis en vente ne contiennent que des tulipes.
+20 % des bouquets de tulipe mis en vente ne contiennent que des tulipes orange.
+36 % des bouquets mis en vente ne contiennent que des roses blanches.
+
+Un client achète au hasard un bouquet parmi ceux mis en vente par la fleuriste. On note :
+
+𝑅 l’événement : « Le bouquet acheté par ce client est composé de roses. »
+
+𝐵 l’événement : « Le bouquet acheté par ce client est composé de fleurs blanches. »
+
+Les événements contraires des événements 𝑅 et 𝐵 sont notés respectivement 𝑅̅ et 𝐵̅.
+1. a. Donner, sans justifier, la probabilité 𝑃(𝑅 ∩ 𝐵).
+b. Recopier et compléter le plus possible l’arbre de probabilité ci-dessous en
+traduisant uniquement les données de l’énoncé.
+
+𝑹
+𝑹
+
+c. Montrer que 𝑃(𝐵) = 0,584.
+2. On note 𝑋 la variable aléatoire qui donne le prix d’un bouquet acheté par un client.
+a. Recopier et compléter le tableau ci-dessous donnant, pour chaque valeur 𝑥𝑖 de 𝑋,
+la probabilité de l’événement {𝑋 = 𝑥𝑖 }. Justifier.
+𝑥𝑖
+𝑃(𝑋 = 𝑥𝑖 )
+b. Calculer l’espérance de la variable aléatoire 𝑋. On arrondira le résultat au centième.
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction définie sur l’intervalle [0; 10] par : 𝑓(𝑥) = 60𝑥e−0,5𝑥 .
+La fonction dérivée de la fonction 𝑓 est notée 𝑓′.
+1. Démontrer que, pour tout réel 𝑥, 𝑓 ′ (𝑥) = −30(𝑥 − 2)e−0,5𝑥 .
+2. Déterminer le signe de 𝑓′(𝑥) sur l’intervalle [0 ; 10].
+3. Établir le tableau de variation de la fonction 𝑓 sur l’intervalle [0 ; 10].
+On indiquera dans ce tableau les valeurs exactes des extremums.
+4. Quelles sont les coordonnées du point en lequel la tangente à la courbe représentative de
+la fonction 𝑓 est parallèle à l’axe des abscisses ?
+5. Déterminer l’équation réduite de la tangente à la courbe représentative de la fonction 𝑓
+au point d’abscisse 0.
+
+Exercice 4 (5 points)
+Le 1er janvier 2019, le propriétaire d’un appartement a fixé à 650 euros le montant des
+loyers mensuels pour l’année 2019. Chaque 1er janvier, le propriétaire augmente de 1,52 %
+le loyer mensuel.
+On modélise l’évolution du montant des loyers mensuels par une suite (𝑢𝑛 ). L’arrondi à
+l’unité du terme 𝑢𝑛 représente le montant, en euros, du loyer mensuel fixé le 1 er janvier de
+l’année (2019 + 𝑛), pour 𝑛 entier naturel. Ainsi 𝑢0 = 650 euros.
+1. a. Calculer le montant du loyer mensuel fixé le 1er janvier 2020.
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser sa raison et son premier terme.
+c. Calculer le montant du loyer mensuel qui, selon ce modèle, sera fixé pour l’année 2027.
+2. Pour calculer la somme totale des loyers perçus par le propriétaire durant les années 2019
+à 2019+A, on utilise la fonction ci-dessous, écrite en langage Python.
+
+def somme(A):
+S=0
+n=0
+while n<=A:
+S=S+7800*1.0152**n
+n=n+1
+return S
+
+L’exécution de ce programme pour quelques valeurs de A donne les résultats ci-dessous :
+
+a. Interpréter, dans le contexte de l’exercice, le résultat obtenu lors de l’appel somme(1).
+b. Déterminer la somme totale des loyers perçus par le propriétaire durant les années
+2022 à 2027 incluses. On arrondira le résultat à l’unité.

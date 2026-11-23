@@ -1,0 +1,134 @@
+{"pages": 7, "method": "pdftotext", "bytes": 925696, "at": "2026-11-23T08:59:36+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+N°
+
+Questions
+
+Donner l’écriture décimale de 10−4.
+
+Quelles sont les solutions de l’équation 𝑥 2 = 49 ?
+
+Calculer 5% de 32.
+
+Dans une classe de première il y a 5 filles sur 25 élèves.
+Quel est le pourcentage de filles dans cette classe ?
+
+Durée : 20 minutes
+
+Réponses
+
+−
+
+×
+
+272 ×3−5
+
+La courbe représentative d’une fonction 𝑓 définie sur l’intervalle [-1 ; 4] est tracée ci-dessous.
+
+Répondre aux questions suivantes avec la précision permise par le graphique.
+
+Déterminer l’image de 2 par la fonction 𝑓 .
+
+Résoudre graphiquement, sur l’intervalle [-1 ; 4], l’équation
+𝑓(𝑥) = 0.
+
+Résoudre graphiquement, sur l’intervalle [-1 ; 4], l’inéquation
+𝑓 (𝑥 ) < 0.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une entreprise fabrique des rétroviseurs pour voitures. La fonction coût total est définie sur
+l’intervalle [0 ; 11] par 𝐶 (𝑥) = 0,3𝑥 3 − 3𝑥 2 + 9𝑥 + 6 où 𝐶(𝑥) est exprimé en milliers
+d’euros et où 𝑥 est le nombre de millier d’articles fabriqués
+Le prix de vente de 1 000 articles est de 8 025 euros.
+On suppose que chaque article fabriqué est vendu.
+1. On note 𝑅 . la fonction recette, exprimée en millier d’euros, relative à la vente de 𝑥
+milliers d’articles. Justifier que 𝑅 (𝑥) = 8,025𝑥.
+2. Le résultat financier (bénéfice ou perte) réalisé par cette entreprise pour 𝑥 milliers
+d’articles fabriqués est donné, en millier d’euros, par la fonction 𝐵 définie sur l’intervalle
+
+[0 ; 11] par 𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+Justifier que 𝐵 (𝑥) = − 0,3𝑥 3 + 3𝑥 2 − 0,975𝑥 − 6.
+3. On note 𝐵′ la fonction dérivée de la fonction 𝐵.
+a. Montrer que 𝐵′(𝑥) = −0,075(6𝑥 − 1)(2𝑥 − 13) pour tout réel 𝑥 de l’intervalle
+
+[0 ; 11].
+b. Étudier le signe de 𝐵′(𝑥) sur l’intervalle [0 ; 11] puis dresser le tableau de variation de la
+fonction 𝐵 .
+c. Déterminer la quantité d’articles à produire pour obtenir un bénéfice maximal.
+
+Exercice 3 (5 points)
+
+Une source sonore émet un son d’intensité 125 décibels. Une plaque en carton peu épaisse
+en absorbe 13%.
+On note 𝑢𝑛 l’intensité du son, en décibels, après la traversée de 𝑛 plaques.
+Ainsi 𝑢0 = 125.
+1. Justifier que 𝑢1 = 108,75 et calculer 𝑢2 .
+2. Justifier que la suite (𝑢𝑛 ) est géométrique et préciser sa raison.
+3. La pose de 5 plaques en carton suffira-t-elle pour que l’intensité du son soit inférieure à 60
+décibels ?
+4. On a défini ci-dessous en langage Python une fonction seuil en vue de déterminer le
+nombre de plaques minimum pour que l’intensité du son soit inférieure à 40 décibels.
+
+def seuil():
+u=125
+n=0
+while ... :
+u= ...
+n=n+1
+return n
+
+a) Compléter les instructions 4 et 5.
+b) Quel sera le résultat obtenu grâce à ce programme ?
+
+Exercice 4 (5 points)
+Une usine fabrique des microprocesseurs pouvant présenter deux défauts A et B. Elle a
+recueilli les informations suivantes sur une production de 280 unités.
+ 180 microprocesseurs présentent le défaut A
+ 120 microprocesseurs présentent le défaut B
+ 60 microprocesseurs présentent les deux défauts A et B.
+1. Recopier et compléter le tableau ci-dessous.
+Avec défaut A
+
+Sans défaut A
+
+Total
+
+Avec défaut B
+Sans défaut B
+Total
+
+Les résultats seront arrondis au millième.
+2. On choisit un microprocesseur au hasard. On considère les évènements suivants :
+A : « le microprocesseur présente le défaut A » ;
+B : « le microprocesseur présente le défaut B ».
+a. Quelle est la probabilité que le microprocesseur présente le défaut A ?
+b. Calculer la probabilité que le microprocesseur ne présente aucun défaut.
+c. Calculer la probabilité 𝑃𝐵 (𝐴) et interpréter ce résultat dans le contexte de l’exercice.
+d. On a prélevé un microprocesseur ayant le défaut A, quelle est la probabilité qu’il ne
+présente pas le défaut B ?

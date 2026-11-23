@@ -1,0 +1,178 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1159573, "at": "2026-11-23T08:56:11+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 10
+
+PARTIE I
+Calculatrice interdite
+
+Durée : 20 minutes
+Exercice 1 (5 points)
+
+Enoncé
+
+Réponse
+
+représente :
+
+……………%
+
+2.
+
+Diminuer une quantité de 25% signifie la multiplier
+par :
+
+……………
+
+3.
+
+Tripler un prix revient à l’augmenter de
+
+……………%
+
+4.
+
+Soit 𝐴(𝑥) = (𝑥 + 1)2 − 9.
+Factoriser 𝐴(𝑥).
+
+5.
+
+Soit 𝐵(𝑥) = −𝑥 2 + 5𝑥.
+Calculer l’image de -2 par la fonction 𝐵.
+
+6.
+
+Si
+
+7.
+
+Augmenter une quantité de 40%, puis la diminuer
+de 20 %, revient à la multiplier par :
+
+8.
+
+Donner la fraction irréductible égale à
+
+1.
+
+𝑚
+
++ 2 = 5 alors
+
+𝑚 =…………………………………..
+
+−
+
+…………………………………….
+
+9.
+
+10.
+
+La droite passant par les points 𝐴(3 ; 4) et
+𝐵(5 ; 6) a pour équation réduite :
+
+Note
+Effectif
+
+Calculer la moyenne de cette série statistique.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+On souhaite étudier l’évolution du nombre d’habitants d’une commune.
+En 2019, la commune compte 800 habitants. On fait l’hypothèse que, chaque année, le
+nombre d’habitants dans la commune augmente de 5%.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’habitants de la commune en 2019 + 𝑛.
+On a donc 𝑢0 = 800.
+1. Calculer 𝑢1 et 𝑢2 . Interpréter ces deux résultats dans le contexte de l’énoncé.
+2. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3. En déduire la nature de la suite (𝑢𝑛 ). On précisera sa raison.
+4. On considère l’algorithme ci-dessous dans lequel 𝑁 est un entier naturel et 𝑈 est un
+nombre réel.
+𝑁←0
+𝑈 ← 800
+Tant que 𝑈 ≤ 1 000 Faire
+𝑁 ←𝑁+1
+𝑈 ← 1,05 × 𝑈
+Fin Tant que
+a) Recopier et compléter autant que nécessaire le tableau suivant afin de
+retranscrire l’exécution de l’algorithme. On arrondira les valeurs de 𝑈 à l’unité si
+nécessaire.
+Valeur de 𝑁
+
+Valeur de 𝑈
+
+Condition 𝑈 ≤ 1 000
+
+Vraie
+
+b) Quelle est la valeur de la variable 𝑁 à la fin de l’exécution de l’algorithme ?
+Interpréter le résultat au regard de la situation étudiée dans cet exercice.
+
+Exercice 3 (5 points)
+Un club de théâtre amateur organise sa représentation de fin d'année ; il a pour cela loué le
+grand théâtre de sa commune.
+Afin d'attirer le maximum de spectateurs à cet événement et de s'assurer ainsi quelques
+revenus, les membres du club décident de faire passer durant plusieurs jours une annonce
+publicitaire à la radio.
+Après 𝑥 jours de publicité (0 ⩽ 𝑥 ⩽ 20), la recette prévue, exprimée en euros, est donnée
+par l'expression :
+𝑅(𝑥) = −2𝑥 3 + 60𝑥 2 + 2 000.
+De plus, pour 𝑥 jours de publicité effectués, le coût de la représentation (location de la salle
+et publicité), en euros, est donné par l'expression :
+𝐶(𝑥) = 216𝑥 + 4 500.
+1. Les courbes des fonctions 𝑅 et 𝐶 sont tracées dans le repère figurant en annexe 1.
+a) D'après le graphique de l'annexe 1, pour combien de jours de publicité la recette
+est-elle égale à 6 000 euros ?
+b) Graphiquement, pour quelles valeurs de 𝑥 a-t-on 𝑅(𝑥) > 𝐶(𝑥) ? Interpréter le
+résultat dans le contexte de l'exercice.
+2. On admet que pour une durée de publicité de 𝑥 jours le bénéfice correspondant
+𝐵(𝑥), en euros, est donné par l'expression :
+𝐵(𝑥) = −2𝑥 3 + 60𝑥 2 − 216𝑥 − 2 500.
+a) Calculer 𝐵′(𝑥), fonction dérivée de 𝐵(𝑥). Montrer que :
+𝐵′(𝑥) = (𝑥 − 18)(−6𝑥 + 12).
+b) En déduire le signe de 𝐵′(𝑥) et les variations de 𝐵(𝑥) sur [0 ; 20].
+c) Quel est le nombre de jours de publicité rendant le bénéfice maximal ?
+
+Exercice 4 (5 points)
+Dans cet exercice les probabilités seront arrondies à 0,001 près.
+Une étude de l’INSEE indique que 61 % des Français de plus de 15 ans ont effectué un achat
+sur internet en 2018.
+On considère trois Français de plus de 15 ans dont les choix d’achat sont supposés
+indépendants.
+Pour chacun des trois individus, l’évènement « l’individu a acheté sur internet au cours de
+l’année 2018 » est noté A.
+1. Donner la probabilité de l’évènement 𝐴. Calculer la probabilité de l’évènement 𝐴̅.
+2. Compléter, sans justification, l’arbre de probabilité fourni en annexe 2.
+3. Montrer que la probabilité que les trois individus aient effectué des achats sur internet en
+2018 est environ égale à 0,227.
+4. Montrer que la probabilité qu’aucun des trois individus n’aient effectué d’achat sur
+internet en 2018 est environ égale à 0,059.
+5. Soit 𝑋 la variable aléatoire égale au nombre de personnes ayant effectué un achat sur
+internet en 2018 parmi les trois personnes interrogées.
+Décrire par une phrase l’événement {𝑋 ≥ 1} puis déterminer 𝑃(𝑋 ≥ 1).
+
+Annexes à rendre avec la copie
+Annexe 1
+
+Annexe 2
+Individu 1
+
+Individu 2
+
+Individu 3

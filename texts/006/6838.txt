@@ -1,0 +1,155 @@
+{"pages": 7, "method": "pdftotext", "bytes": 800734, "at": "2026-11-23T08:57:23+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Au 1er janvier 2019, la France comptait 66 992 699
+habitants.
+Donner, en puissance de 10, un ordre de grandeur du
+nombre d’habitants en France au 1er janvier 2019.
+
+Donner la fraction irréductible égale à
++ 2×
+
+réponse
+
+Développer l'expression suivante :
+𝐸(𝑥) = 2(𝑥 − 1)(𝑥 + 3) − 5(𝑥 − 1)
+
+Factoriser l’expression suivante :
+𝐺(𝑥) = 2(𝑥 − 5) − (𝑥 − 5)(2𝑥 − 5)
+
+Un sorbet est constitué de 30% de fruits dont 15% de
+groseilles.
+Quelle proportion les groseilles représentent-elles dans
+le sorbet ?
+
+Le prix du m² de terrain situé dans une commune est
+fixé à 90 €. Quel est le prix de vente d’un terrain d’une
+superficie de 1,2 hectare dans cette commune ? On
+rappelle qu’un hectare est égal à 10 000 m².
+
+L’aire 𝒜 d’un trapèze est donnée par la formule :
+(𝐵 + 𝑏) × ℎ
+𝒜=
+où 𝐵 représente la grande base, 𝑏 la petite base et ℎ la
+hauteur du trapèze. On sait que :
+𝐵 = 7 m, 𝑏 = 3 m et 𝒜 = 62 m2 .
+Calculer la hauteur ℎ en mètres.
+En électricité, la tension U, en volts (V), aux bornes
+d’une lampe, est donnée par la relation : 𝑈 = 𝑅𝐼 où
+𝑅 est la résistance en ohms de la lampe et 𝐼 l’intensité
+en ampères (A) qui la traverse.
+On sait que : 𝑈 = 40 V et 𝐼 = 0,05 A.
+Quelle est la valeur de la résistance en ohms ?
+On considère la fonction 𝑓 définie sur [−9 ; 4] dont la
+courbe 𝐶𝑓 est représentée ci-dessous.
+
+a) Déterminer graphiquement, avec la précision
+permise par le graphique, 𝑓(−6).
+
+b) Dresser le tableau de signes de 𝑓 sur [−9 ; 4].
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Une entreprise fabrique du fluide caloporteur qui entre dans la fabrication de panneaux
+solaires. Dans ses deux sites de production, la quantité produite au cours de l’année 2019
+était de 120 000 m3 par mois. Suite à une nouvelle commande, cette entreprise doit
+augmenter sa production à partir du 1er janvier 2020. Les dirigeants des deux sites optent
+pour des stratégies différentes.
+Sur le site A, la production est augmentée tous les ans, au 1er janvier, de 2 000 m3 .
+Sur le site B, la production est augmentée tous les ans, au 1er janvier, de 1,6 %.
+Pour tout entier naturel 𝑛,
+
+
+𝑢𝑛 représente la quantité de fluide produit (exprimée en m3 ) sur le site A pendant
+l'année 2019 + 𝑛.
+
+
+
+𝑣𝑛 représente la quantité de fluide produit (exprimée en m3 ) sur le site B pendant
+l'année 2019 + 𝑛.
+
+1. Justifier qu’en 2020, on a : 𝑢1 = 122 000.
+2. Donner, en justifiant la réponse, la nature de la suite (𝑢𝑛 ). On précisera le premier
+terme et la raison de la suite (𝑢𝑛 ).
+3. Justifier qu’en 2020, on a : 𝑣1 = 121 920.
+4. Donner, en justifiant la réponse, la nature de la suite (𝑣𝑛 ). On précisera le premier
+terme et la raison de la suite (𝑣𝑛 ).
+5. Déterminer en quelle année, la production du site B dépassera celle du site A.
+Expliquer la démarche.
+
+Exercice 3 : (5 points)
+On désigne par 𝑓 la fonction définie et dérivable sur l’intervalle [−4 ; 3] dont la courbe
+représentative 𝐶𝑓 est donnée ci-dessous dans un repère.
+On note 𝑓’ la fonction dérivée de 𝑓 sur l’intervalle [−4 ; 3].
+Les points A(−2 ; 3) et B(1 ; −6) sont deux points situés sur la courbe 𝐶𝑓 .
+
+1. On précise qu’au point A, la tangente à la courbe 𝐶𝑓 est parallèle à l’axe des abscisses.
+Donner 𝑓’(−2).
+On admet que la tangente à la courbe 𝐶𝑓 au point B de coordonnées (1 ; −6) passe par le
+point N de coordonnées (0 ; −9).
+2.
+
+Déterminer l’équation réduite de la tangente à la courbe 𝐶𝑓 au point B.
+
+On admet que 𝑓 est définie sur [−4 ; 3] par : 𝑓(𝑥) = 𝑥 3 + 2𝑥 2 − 4𝑥 − 5.
+3.
+
+Déterminer 𝑓’(𝑥) pour tout 𝑥 de l’intervalle [−4 ; 3].
+
+4.
+
+Retrouver par le calcul une équation de la tangente à la courbe 𝐶𝑓 au point B
+d’abscisse 1.
+
+5. On admet que 𝑓′ (3) = 0 .
+À l’aide de la question 1., déterminer une forme factorisée de 𝑓′(𝑥).
+
+Exercice 4 : (5 points)
+Dans une grande surface, le stock de 4000 paires comprend :
+ 500 paires de chaussures de sport dont 375 ont été fabriquées à l’étranger ;
+ 1 000 paires de bottes dont 75% ont été fabriquées à l’étranger ;
+ 2 500 paires de chaussons dont 625 ont été fabriquées en France.
+Dans cet exercice, on demande les valeurs exactes des probabilités sous forme décimale.
+1. Compléter sur l’annexe qui est à rendre avec la copie le tableau d’effectifs
+représentant ces informations.
+
+On prélève une paire au hasard parmi les paires de ce stock. On considère les événements
+suivants :
+𝐴 : « La paire a été fabriquée à l’étranger ».
+𝐵 : « La paire est une paire de bottes ».
+𝐶 : « La paire est une paire de chaussons ».
+2. Traduire l’événement 𝐴 ∩ 𝐵 par une phrase, dans le contexte de l’exercice.
+3. Calculer les probabilités 𝑃(𝐵) et 𝑃(𝐴 ∩ 𝐵).
+4. Calculer la probabilité conditionnelle 𝑃𝐵 (𝐴).
+5. Sachant que la paire provient de France, calculer la probabilité que ce soit une paire
+de chaussures de sport.
+
+Annexe à rendre avec la copie.
+
+Exercice 4 question 1
+Nombre d’articles
+fabriqués en France
+
+Nombre d’articles
+fabriqués à l’étranger
+
+Total
+
+chaussures de
+sport
+bottes
+
+chaussons
+
+Total
+𝟒 𝟎𝟎𝟎

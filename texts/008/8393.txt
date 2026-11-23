@@ -1,0 +1,177 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1026759, "at": "2026-11-23T08:55:26+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne
+peut être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa
+bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et
+jouer le jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les questions de cet exercice sont indépendantes. Aucune justification n’est attendue.
+
+Énoncé
+
+Réponse
+
+1.
+
+Résoudre dans ℝ l’inéquation 2𝑥 − 5 > 4𝑥 + 3.
+
+2.
+
+Résoudre dans ℝ l’équation : 𝑥 2 = 81.
+
+3.
+
+Donner la forme développée et réduite de l’expression :
+𝐴 = (2𝑥 + 1)(3𝑥 − 2) + 5𝑥 − 4
+
+4.
+
+Écrire le nombre 1, 024 sous forme de fraction
+irréductible :
+
+5.
+
+On passe de l’indice 120 à l’indice 180. Déterminer le
+taux d’évolution sous forme de pourcentage.
+
+6.
+
+À quelle évolution globale correspond une augmentation
+de 30% suivie d’une diminution de 20% ?
+
+7.
+
+Soit une courbe 𝐶 d’équation 𝑦 = −𝑥 3 + 3𝑥 2 − 2.
+Calculer l’ordonnée du point A d’abscisse 2 appartenant à
+la courbe 𝐶.
+
+8.
+
+Les courbes respectives de la fonction 𝑓 et de la fonction
+𝑔 définies sur [–2 ; 3] sont représentées ci-dessous.
+Par lecture graphique, répondre aux questions a ; b et c
+
+a) Résoudre graphiquement 𝑓(𝑥) ≤ 𝑔(𝑥).
+b) Dresser le tableau de variations de la fonction 𝑓.
+
+c) La courbe représentative de la fonction 𝑔 est une
+droite. Déterminer l’expression de 𝑔(𝑥).
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une entreprise produit quotidiennement entre une et vingt tonnes de peinture.
+Le coût total de production, en milliers d’euros, de 𝑥 tonnes de peinture est modélisé par la
+fonction 𝐶 définie sur l’intervalle [1 ; 20] par : 𝐶(𝑥) = 0,05𝑥 2 − 0,1𝑥 + 2,45.
+Pour une production de 𝑥 tonnes de peinture, on appelle coût unitaire, 𝑓(𝑥), le coût de
+production, en milliers d’euros, d’une tonne de peinture.
+Ainsi, pour tout réel 𝑥 appartenant à l’intervalle [1 ; 20]:
+𝐶(𝑥)
+𝑓(𝑥) =
+.
+𝑥
+1. Vérifier que, pour tout réel 𝑥 de [1 ; 20],
+𝑓(𝑥) = 0,05𝑥 − 0,1 +
+
+2,45
+.
+𝑥
+
+2. Soit 𝑓′ la fonction dérivée de fonction 𝑓. Calculer 𝑓′(𝑥) puis démontrer que pout tout
+réel 𝑥 de [1 ; 20] :
+0,05(𝑥 2 − 49)
+𝑓′(𝑥) =
+𝑥2
+3. Dresser le tableau de variation de la fonction 𝑓 sur [1 ; 20]. En déduire le coût
+unitaire minimal et la quantité de peinture pour lequel il est atteint.
+L’entreprise fixe le prix de vente d’une tonne de peinture à 670 €.
+4. On définit la fonction bénéfice 𝐵 (exprimé en milliers d’euros) comme différence
+entre la recette obtenue en milliers d’euros pour 𝑥 tonnes de peinture et le montant
+des coûts générés en milliers d’euros par la fabrication de ces 𝑥 tonnes de peinture.
+Montrer que le bénéfice réalisé pour 𝑥 tonnes de peinture produites et vendues est
+donné par la fonction 𝐵 définie sur [1 ; 20] par 𝐵(𝑥) = −0,05𝑥 2 + 0,77𝑥 − 2,45.
+5. Calculer 𝐵’(𝑥) et en déduire le tableau de variation de B. Pour quelle quantité de
+peinture produite et vendue le bénéfice est-il maximal ?
+
+Exercice 3 (5 points)
+Une entreprise familiale fabrique de la confiture de fraises biologiques. Elle achète ses fruits
+auprès de deux fournisseurs locaux A et B.
+25% des fruits proviennent du fournisseur A et les autres du fournisseur B.
+95% des fruits provenant du fournisseur A sont retenus pour la fabrication de la confiture.
+80% des fruits provenant du fournisseur B sont retenus pour la fabrication de la confiture.
+On choisit un pot de confiture au hasard dans la production.
+On note A, B et C les événements :
+A : « les fruits utilisés proviennent du fournisseur A »
+B : « les fruits utilisés proviennent du fournisseur B »
+C : « les fruits sont retenus pour la fabrication de la confiture »
+Les résultats seront arrondis au centième près.
+1. Compléter l’arbre de probabilité décrivant la situation sur l’annexe qui est à rendre avec
+la copie.
+2. Définir par une phrase l’événement A ∩ C puis calculer P (A ∩ C).
+3. a. Montrer que la probabilité P(C), arrondie au centième, est égale à 0,84.
+b. Les événements A et C sont-ils indépendants? Justifier la réponse.
+4. Calculer 𝑃𝐶 (A). Interpréter la réponse dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+Depuis sa création au 1er janvier 2019, une start-up a vu son chiffre d’affaires augmenter de
+5% par mois sachant que ce chiffre d’affaires était de 32 000 € pour le mois de janvier 2019.
+On fait l’hypothèse que cette évolution va se poursuivre dans les mois à venir.
+Pour tout entier naturel non nul 𝑛, on note 𝐶𝑛 le chiffre d’affaires en euros du 𝑛-ième mois
+après la création de la start-up. On a ainsi 𝐶0 = 32 000.
+1. Montrer que la suite (𝐶𝑛 ) est une suite géométrique dont on précisera la raison et le
+premier terme.
+2. Exprimer 𝐶𝑛 en fonction de 𝑛.
+3. Quel sera le chiffre d’affaires de la start-up pour toute l’année 2019 ?
+4. L’entreprise pourra s’agrandir et embaucher de nouveaux collaborateurs si son chiffre
+d’affaires mensuel dépasse 70 000 €.
+Le programme écrit en langage Python ci-dessous détermine le rang 𝑛0 du mois à
+partir duquel cet agrandissement est possible.
+Compléter ce programme sur l’annexe qui est à rendre avec la copie afin qu’il renvoie
+le rang du mois à partir
+duquel cet agrandissement est
+possible.
+def CA( ) :
+n=0
+C=3200
+while …
+n= n+1
+C= …
+return (n)
+
+5. Après exécution de ce programme, on obtient l’affichage suivant : >>> 17
+Interpréter ce résultat dans le contexte de l’exercice.
+
+Annexe à rendre avec la copie
+Exercice 3 – question 1
+
+Exercice 4 – question 4
+def CA( ) :
+n=0
+C=3200
+while …
+n= n+1
+C= …
+return (n)

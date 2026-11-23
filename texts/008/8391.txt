@@ -1,0 +1,160 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1200227, "at": "2026-11-23T08:55:26+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Calculatrice interdite
+Enoncé
+
+Factoriser 9𝑥 2 −
+
+Diminuer un prix de 10% revient à le multiplier
+par :
+
+Ecrire
+
+43 ×25
+
+:
+
+sous forme de puissance de 2 :
+
+Résoudre dans R l’inéquation 𝑥 2 ≤ 9 :
+
+Durée : 20 minutes
+Réponse
+…………………………...
+
+..…………..
+
+2……..
+
+𝑆 = [……… ;……..]
+
+Dans un hôtel, 60% de la clientèle est
+étrangère. Parmi cette clientèle étrangère, 20%
+des clients sont chinois. Le pourcentage de
+clients chinois dans l’hôtel est :
+
+…………….%
+
+La droite 𝔇 passe par les points A et B tels
+que A(0 ; 3) et B(4 ; 1). L’équation réduite de
+cette droite est :
+
+𝑦 =…………………
+
+Enoncé
+
+Réponse
+
+La courbe ci-après est la courbe représentative
+d’une fonction 𝐴 définie sur [-10 ; 10]
+
+A l’aide de cette courbe, compléter le tableau de
+signes :
+
+Tracer dans le repère ci-contre la droite passant
+par le point A(1 ; 3) et de coefficient directeur −2
+
+Un prix a augmenté de 20%, le pourcentage de
+diminution pour retrouver le prix initial est :
+
+𝑓 est une fonction définie et dérivable sur R
+d’expression 𝑓(𝑥) = 4𝑥 3 + 5𝑥 2 + 𝑥 − 1
+
+……………..%
+
+𝑓 ′ (𝑥) =…………………..
+
+PARTIE II
+Calculatrice autorisée
+
+Durée : 1h30
+
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+
+La récupération du verre usagé est organisée dans une ville depuis de nombreuses
+années. La première année, 200 tonnes de verre ont été récupérées, puis, chaque
+année suivante, la quantité de verre récupérée a augmenté de 30 tonnes. Pour tout
+entier naturel 𝑛, avec 𝑛 ≥ 1, on note 𝑈𝑛 la quantité de verre, en tonne, récupérée la
+𝑛-ième année. Ainsi, on a 𝑈1 = 200.
+
+1. Calculer 𝑈2 .
+2. Déterminer la nature et la raison de la suite (𝑈𝑛 ).
+3. Quelle est la quantité de verre, en tonne, récupérée la dixième année ?
+4. Quelle quantité totale de verre, en tonne, a été récupérée lors des 10
+premières années ?
+5. Ecrire, en langage Python, une fonction qui permet de calculer le nombre de
+tonnes de verre usagé récupérées la 𝑛-ième année.
+
+EXERCICE 3 (5 points)
+Un artisan fabrique des objets en bois d’olivier.
+L’artisan estime que le coût de production mensuel, en euro, en fonction du nombre
+𝑥 d’objets fabriqués, est donné par la fonction 𝐶 définie sur [1 ; 30] par :
+𝐶(𝑥) = 𝑥 2 + 60𝑥 + 121 avec 1 ≤ 𝑥 ≤ 30.
+On rappelle que le coût moyen mensuel correspondant à la production de 𝑥 objets
+est donné par la fonction 𝑓 définie sur [1 ; 30] par :
+𝑓(𝑥) =
+
+𝐶(𝑥)
+𝑥
+
+.
+
+1. Montrer que 𝑓(𝑥) = 𝑥 + 60 +
+
+𝑥
+
+.
+
+2. Pour tout réel 𝑥 de [1 ; 30], calculer 𝑓′(𝑥) où 𝑓’ est la dérivée de la fonction 𝑓.
+3. Dresser le tableau des variations de 𝑓 sur [1 ; 30].
+4. Pour combien d’objets fabriqués le coût moyen mensuel est-il minimal ?
+5. Dans ce cas, quel est le coût de production mensuel ?
+
+EXERCICE 4 (5 points)
+
+Un magasin vend des appareils auditifs. 70 % des clients sont des personnes
+âgées de plus de 50 ans. Parmi celles-ci, 75 % souffrent de problèmes d’audition
+aux deux oreilles. Parmi les clients de 50 ans ou moins, 20 % souffrent d’un
+problème d’audition aux deux oreilles. On choisit au hasard un dossier médical
+d’un des clients de ce magasin. Chaque dossier a la même probabilité d’être
+choisi.
+̅ son événement contraire. Si F est un
+Pour tout événement E, on note E
+événement de probabilité non nulle, on note PF (E) la probabilité de E sachant F.
+On note :
+
+
+
+A l’événement : « le client est âgé de plus de 50 ans » ;
+D l’événement : « le client souffre de problème d’audition aux deux oreilles ».
+1. En utilisant l’énoncé, donner PA̅ (D).
+2. Construire un arbre pondéré de probabilités traduisant la situation.
+3. Calculer la valeur exacte de la probabilité qu’un dossier choisi corresponde à
+un client de plus de 50 ans souffrant d’un problème d’audition aux deux
+oreilles.
+4. Montrer que la probabilité d’obtenir un dossier d’un client souffrant des deux
+oreilles est égale à 0,585.
+5. Le client ne souffre pas des deux oreilles, calculer la probabilité qu’il soit âgé
+de plus de 50 ans. On donnera le résultat sous forme de fraction irréductible.

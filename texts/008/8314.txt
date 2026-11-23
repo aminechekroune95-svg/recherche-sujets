@@ -1,0 +1,162 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1275117, "at": "2026-11-23T08:56:06+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+
+Réponse
+
+L’histogramme ci-contre
+donne la durée en
+secondes de 120
+communications dans une
+entreprise.
+Quel est le nombre de
+communications qui durent
+plus de 130 secondes ?
+
+Un chiffre d’affaires est passé de 15 millions d’euros à 16,5 millions
+d’euros. Quel est son taux d’augmentation ?
+
+Dans une classe de 34 élèves, il y a 14 garçons. Donner la proportion
+de filles sous la forme d’une fraction irréductible.
+
+Quel est le taux de baisse global, exprimé en pourcentage,
+correspondant à deux baisses successives de 40 % ?
+
+Ecrire sous la forme d’une puissance de 2 :
+24 × 2−5 × 26
+
+Résoudre dans R l'inéquation 9– 3𝑥 > 0
+Quel est le sens de variation de la fonction 𝑔 définie sur R par
+𝑔(𝑥) = 0,2𝑥 – 3 ?
+Répondre aux questions 8 à 10 par lecture
+graphique en utilisant la courbe ci-dessous
+représentative d’une fonction f définie sur
+l’intervalle [−7 ; 6].
+
+Donner 𝑓(– 3).
+
+Résoudre 𝑓(𝑥) = −2.
+
+Résoudre 𝑓(𝑥) > 0.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Deux amis, Alex et Bénédicte, débutent dans deux entreprises différentes.
+Au 1er janvier 2019, le salaire mensuel d’Alex est 1500 euros tandis que celui de Bénédicte
+est de 1450 euros.
+On se propose de comparer l’évolution de leur salaire mensuel pour les années à venir,
+sachant qu’au 1er janvier de chaque année suivante, le salaire mensuel d’Alex augmente de
+20 euros, tandis que celui de Bénédicte augmente de 2 %.
+On note 𝑎𝑛 le salaire mensuel d’Alex au 1er janvier de l’année 2019 + 𝑛.
+On note 𝑏𝑛 le salaire mensuel de Bénédicte au 1er janvier de l’année 2019 + 𝑛.
+On a donc : 𝑎0 =1500 et 𝑏0 = 1450.
+1. Calculer 𝑎1 et 𝑏1 et interpréter les résultats dans le contexte de
+l’exercice.
+2. a. Donner la nature de la suite (𝑎𝑛 ) et préciser sa raison.
+b. Donner la nature de la suite (𝑏𝑛 ) et préciser sa raison.
+3. Montrer qu’en 2022 le salaire mensuel de Bénédicte sera encore
+inférieur à celui d’Alex mais que l’écart sera de moins de 25 €.
+4. On souhaite connaître l’année à partir de laquelle le salaire mensuel de Bénédicte
+dépassera celui d’Alex. Recopier et compléter l’algorithme suivant écrit en langage
+Python pour qu’il réponde au problème.
+def depasseAlex():
+a=1500
+b=1450
+n=0
+while
+
+… :
+a=a+20
+b= …
+
+n=n+1
+return 2019+n
+
+Exercice 3 (5 points)
+Dans une entreprise, l’offre et la demande d’un produit ont été modélisées respectivement
+par deux fonctions 𝑓 et 𝑔 définies sur l'intervalle [0 ; 10].
+La quantité offerte 𝑓(𝑥) et la quantité demandée 𝑔(𝑥) sont exprimées en tonnes, et la
+variable 𝑥 représente le prix au kilogramme variant de 0 à 10 euros le kg.
+On a tracé dans le repère orthogonal ci-dessous, les courbes représentatives des fonctions 𝑓
+et 𝑔 sur l’intervalle [0 ; 10].
+
+1. a. Sachant que la fonction 𝑓est une fonction affine, déterminer graphiquement la quantité
+offerte pour un prix de 6 euros le kg.
+b. On appelle prix d'équilibre, le prix pour lequel les quantités offerte et demandée sont
+égales. À l’aide du graphique, estimer le prix à l’équilibre.
+2. La fonction 𝑔 est définie sur l’intervalle [0 ; 10] par 𝑔(𝑥) = 𝑥 3 − 12𝑥 2 − 60𝑥 + 1000.
+a. Calculer l’expression de sa dérivée 𝑔’(𝑥) pour tout 𝑥 de l’intervalle [0 ; 10].
+b. En déduire que 𝑔’(𝑥) = 3(𝑥 + 2)(𝑥 − 10).
+c. Étudier le signe de 𝑔’ (𝑥) sur l’intervalle [0 ; 10] et justifier que la fonction 𝑔 est
+décroissante sur cet intervalle.
+
+Exercice 4 (5 points)
+Dans cet exercice, les valeurs seront arrondies à 10−4 si nécessaire.
+Dans un lycée, les délégués du Conseil pour la vie lycéenne (CVL) ont mené une étude sur le
+nombre d’élèves qui regardent des séries en Version Originale (VO) anglais.
+Sur les 2000 élèves sondés, l’étude menée par le CVL a permis de réaliser le tableau croisé
+d’effectifs suivant :
+Elèves regardant
+des séries en VO
+anglais
+
+Elèves ne regardant
+pas de séries en VO
+anglais
+
+TOTAL
+
+Elèves en seconde
+
+Elèves de niveau supérieur
+(première ou terminale)
+
+1053
+
+1577
+
+TOTAL
+
+1400
+
+2000
+
+1. Montrer que la fréquence des élèves regardant des séries en VO anglais parmi
+l’ensemble des élèves sondés lors de cette étude est de 0,3.
+2. Est-il vrai que la fréquence des élèves qui regardent des séries en VO anglais parmi
+les élèves de seconde est très nettement inférieure à la fréquence des élèves qui
+regardent des séries en VO anglais parmi les élèves de niveau supérieur ?
+On choisit un élève au hasard en prélevant sa fiche dans l’ensemble des résultats
+recueillis lors de l’étude et on considère les événements suivants :
+𝑉 : « l'élève choisi regarde des séries en VO anglais » ;
+𝑆 : « l'élève choisi est en seconde ».
+3. Calculer la probabilité 𝑃(𝑆̅).
+4. Calculer la probabilité 𝑃(𝑉 ∩ 𝑆) et interpréter ce résultat dans le contexte de
+l’exercice.
+5. Calculer la probabilité 𝑃𝑉 (𝑆).

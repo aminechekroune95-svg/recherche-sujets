@@ -1,0 +1,188 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1136683, "at": "2026-11-23T08:53:03+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I – Exercice 1
+Automatismes (5 points) Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Effectifs
+
+L’effectif total de la série
+représentée est :
+
+Pointure
+2)
+
+Une augmentation de 20% suivie d’une
+réduction de 20% est équivalente à ….
+
+3)
+
+Quelle proportion représente 20% de 30%
+d’une grandeur ?
+
+4)
+
+Comparer 7 et 8 .
+
+…………………………….
+
+une………………………de……….
+………………………
+
+……. 8 .
+
+Calculer la dérivée du polynôme :
+5)
+
+6)
+
+7)
+
+8)
+
+𝑃(𝑥) = 𝑥 3 − 𝑥 2 + 4,5𝑥 − 8
+
+𝑃′(𝑥) =
+
+On donne la formule 𝑃𝑉 = 𝑁𝑅𝑇.
+Exprimer 𝑇 en fonction de 𝑃, 𝑉, 𝑁 et 𝑅.
+
+𝑇=
+
+Développer et réduire l’expression :
+2(𝑥 − 3)2 + 5.
+
+Donner le tableau de signes de la fonction
+définie sur ℝ par :
+
+…………………………………
+
+𝑥
+𝑓(𝑥)
+
+𝑓(𝑥) = 2(𝑥 − 3)(4 + 𝑥).
+
+On considère les fonctions 𝑓 et 𝑔, définies sur
+[−7; 5], dont les courbes représentatives 𝒞𝑓
+(trait pointillé) et 𝒞𝑔 (trait plein) sont données
+sur le graphique ci-dessous.
+
+𝑆 =…………………………..
+
+9)
+
+Résoudre graphiquement 𝑓(𝑥) ≤ 𝑔(𝑥) sur
+[−7; 5].
+On considère une fonction 𝑓 définie sur
+[−2 ; 3] dont la courbe représentative 𝒞𝑓 est
+donnée sur le graphique ci-dessous. On a
+également tracé la tangente à 𝒞𝑓 au point
+d’abscisse 𝑥 = 2.
+Donner le nombre dérivé 𝑓’(2).
+
+10)
+
+𝑓’(2) =………….
+
+Exercice 2 (5 points)
+La production de déchets polluants d’une entreprise de Travaux Publics était de 22 500
+tonnes en 2008 et n’a fait qu’augmenter depuis, pour atteindre 29 000 tonnes en 2019.
+Depuis 2008, en raison de normes anti-pollution, la production de déchets polluants de
+l’entreprise est sanctionnée par une amende si elle dépasse 21 000 tonnes par an.
+Plus précisément, chaque année, l’entreprise doit payer une amende si la production de
+déchets polluants dépasse 21 000 tonnes, et cette amende augmente de 5 000 euros par
+an.
+En 2008, l’entreprise a payé 26 500 euros d’amende.
+1. On modélise le montant des amendes payées par l’entreprise à l’aide d’une suite
+(𝑢𝑛 )𝑛≥1 où 𝑢𝑛 représente l’amende payée en (2007 + 𝑛).
+Ainsi, 𝑢1 = 26 500.
+a) Calculer le montant de l’amende payée par l’entreprise en 2009 et 2010.
+b) Quelle est la nature de la suite (𝑢𝑛 ) ? Justifier. On précisera sa raison.
+2. En raison des montants d’amende très importants, l’entreprise décide de réduire sa
+production de déchets polluants de 5 % par an à partir de 2020.
+Pour 𝑛 un entier naturel supérieur ou égal à 0, on note 𝑣𝑛 la quantité de déchets
+polluants rejetée en (2019 + 𝑛) .
+Ainsi, 𝑣0 = 29 000 et 𝑣𝑛+1 = 0,95𝑣𝑛 .
+a) Préciser la nature de la suite (𝑣𝑛 ) et exprimer 𝑣𝑛 en fonction de 𝑛.
+b) Calculer la quantité de déchets polluants prévue pour 2030. On arrondira le
+résultat à la tonne près.
+c) À partir de quelle année l’entreprise ne paiera-t-elle plus d’amende ?
+
+Exercice 3 (5 points)
+Dans une ville, 10 000 vélos sont mis en service en même temps. On estime qu’en raison des
+accidents, des dégradations et des problèmes techniques, 6 % de ces vélos sont retirés de la
+circulation chaque année (régulièrement au fil des mois).
+1. Combien de vélos sont toujours en circulation au bout d’un an ?
+2. On choisit de modéliser cette situation par la fonction 𝑓, qui pour 𝑥, exprimé en
+nombre entier d’années, donne le nombre de vélos restant en circulation.
+On a donc 𝑓(𝑥) = 10 000 × 0,94𝑥 .
+En déduire le nombre de vélos restants au bout de 20 ans.
+
+3. Convertir 54 mois en années, puis déterminer le nombre de vélos en circulation après
+54 mois en admettant que le modèle précédent reste valable pour des nombres non
+entiers d’années.
+4. On veut savoir au bout de combien de temps le nombre de vélos en circulation
+deviendra inférieur à 2000.
+a) Montrer que cette question revient à résoudre l’inéquation 0,94𝑥 ≤ 0,2.
+b) Déterminer finalement, selon ce modèle, la durée minimale (en année et en
+mois) pour qu’il reste moins de 2000 vélos en circulation.
+Exercice 4 (5 points)
+Dans une grande salle marseillaise, lors de huit concerts différents, on a relevé à l’aide d’un
+sonomètre la pression acoustique (en pascals : Pa) à laquelle est soumise l’oreille d’une
+personne, ainsi que le niveau d’intensité sonore (en décibels : dB) du bruit responsable de
+cette pression.
+Les résultats obtenus sont présentés dans le tableau ci-dessous.
+Pression acoustique 𝑝𝑖
+(en Pa)
+
+0,5
+
+Intensité sonore 𝑦𝑖 (en
+dB)
+
+Le nuage de points correspondants est donné ci-dessous.
+
+Intensité sonore en dB
+
+Pression acoustique en Pa
+
+1. Un ajustement affine du nuage de points semble-t-il pertinent ? Pourquoi ?
+
+2. On pose 𝑥𝑖 = log(𝑝𝑖 ). Reproduire et compléter le tableau suivant en arrondissant les
+valeurs de 𝑥𝑖 à 10−2 .
+𝑥𝑖 = log 𝑝𝑖
+Intensité sonore 𝑦𝑖 (en
+dB)
+
+3. À l’aide de la calculatrice, en arrondissant les coefficients à 10−2 , donner une
+équation de la droite d’ajustement de 𝑦 en 𝑥 par la méthode des moindres carrés.
+4. Dans cette question, on prendra comme ajustement affine la droite d’équation :
+𝑦 = 8,6𝑥 + 93,9.
+a) Lors d’un concert du groupe de rock AC/DC, en 2012, l’oreille des spectateurs a
+été soumise à la pression maximale de 67 Pa pendant moins d’une minute.
+Déterminer l’intensité sonore atteinte lors de ce concert. Le résultat sera donné
+au décibel près.
+b) En 2017 la réglementation pour le niveau sonore moyen d’une salle de concert
+est passée à 102 db. À quelle pression en Pa cela correspond-il pour cette salle ?

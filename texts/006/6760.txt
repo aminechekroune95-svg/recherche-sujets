@@ -1,0 +1,131 @@
+{"pages": 5, "method": "pdftotext", "bytes": 690948, "at": "2026-11-23T08:58:02+00:00"}
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE I
+AUTOMATISMES (5 points)
+Sans calculatrice
+Durée : 20 minutes
+Séries
+technologiques
+- Classe
+première
+Dans
+cet exercice,
+il n’est pas demandé
+dede
+justification.
+Répondre à chaque énoncé dans la colonne
+de droite du tableau.
+Question
+n°
+
+Énoncé
+
+Un sac contient 11 jetons rouges, 3 jetons bleus et 6 jetons verts.
+Déterminer, en pourcentage, la proportion de jetons verts dans le
+sac.
+
+Donner le résultat sous forme simplifiée de
+
+Réponse
+
+−2 ×
+
+.
+
+Développer et réduire 3𝑥(𝑥 − 1) + (𝑥 + 2)2 .
+
+𝑓 est la fonction définie par 𝑓(𝑥) = 2 𝑥 2 + 3𝑥 − 5.
+Calculer l'image de −1 par 𝑓.
+
+Donner la forme factorisée de (2𝑥 − 3)(𝑥 + 2) − 5(𝑥 + 2).
+
+La surface 𝑆 d'une sphère de rayon 𝑅 est donnée par la formule
+𝑆 = 4𝜋 × 𝑅 2. Exprimer 𝑅 en fonction de 𝑆.
+
+Calculer, en cm3, le volume 𝑉 d'un cylindre de rayon
+𝑅 = 0,4 cm et de hauteur ℎ = 5 cm en prenant pour 𝜋
+la valeur 3. On rappelle que 𝑉 = 𝜋 × 𝑅 2 × h.
+Déterminer l'équation réduite de la droite (𝐷) passant par les
+points 𝐴(2; 4) et 𝐵(6; 6).
+Résoudre graphiquement avec la précision
+permise par le graphique :
+
+𝑓(𝑥) = 0
+
+𝑓(𝑥) = 𝑔(𝑥)
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+Séries technologiques
+- Classe
+de premièreen vigueur.
+Calculatrice
+autorisée selon
+la réglementation
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+En 2016, la production de voitures électriques d'un grand groupe a été de 53 000 véhicules
+sur un de ses sites. Par rapport à 2016, le nombre de véhicules électriques produits sur le
+site en 2017 a augmenté de 5 %. La direction décide de maintenir chaque année cette
+progression de 5 % par rapport à la production de l'année précédente.
+1. Déterminer le nombre de véhicules produits au cours de l'année 2017.
+On modélise le nombre de véhicules électriques produits sur le site, au cours de l'année
+2016 + 𝑛, par une suite (𝑣𝑛 ).
+2. Exprimer 𝑣𝑛+1 en fonction de 𝑣𝑛 . Quelle est la nature de la suite (𝑣𝑛 ) ?
+3. On souhaite déterminer l'année au cours de laquelle la production de véhicules
+électriques aura doublé par rapport à la production de 2016.
+On considère le programme ci-dessous écrit en langage Python :
+
+a. Recopier et compléter les lignes 3, 4 et 6 de ce programme afin qu'il réponde au
+problème.
+b. Apporter une réponse au problème posé à l'aide de votre calculatrice.
+
+EXERCICE 3 (5 points)
+Dans le cadre d'un projet expérimental, des lycéens ont fabriqué une fusée de feu d'artifice
+qui est lancée à partir d'une plateforme située à 8 m de hauteur.
+La hauteur de la fusée (en mètre) atteinte en fonction du temps t (en dixième de seconde)
+est modélisée par la fonction 𝑓 définie par :
+𝑓(𝑡) = −0,5 𝑡 2 + 10𝑡 + 8 pour 𝑡 ∈ [0 ; 20].
+1. Calculer 𝑓(10) . Interpréter le résultat dans le contexte de l’exercice.
+2. L’explosion de la fusée ne peut être déclenchée qu’à une hauteur minimum de 40 mètres.
+Les lycéens cherchent le temps de vol à programmer avant l’explosion.
+On note 𝑔 la fonction définie sur [0; 20] par 𝑔(𝑡) = −0,5 𝑡 2 + 10𝑡 − 32.
+a. Vérifier que 𝑔(𝑡) = −0,5(𝑡 − 4)(𝑡 − 16).
+b. Montrer que le problème revient à résoudre l'inéquation 𝑔(𝑡) ≥ 0.
+c. Résoudre l'inéquation et répondre au problème.
+
+EXERCICE 4 (5 points)
+Un fabricant d'ampoules possède deux machines notées A et B. La machine A fournit 65 %
+de la production et la machine B fournit le reste. Certaines ampoules présentent un défaut
+de fabrication :
+-
+
+À la sortie de la machine A, 8 % des ampoules présentent un défaut ;
+À la sortie de la machine B, 4 % des ampoules présentent un défaut.
+
+La production quotidienne du fabricant est de 15 000 ampoules par jour.
+1. Combien d'ampoules proviennent de chacune des machines ?
+2. Recopier puis compléter le tableau croisé des effectifs :
+Machine
+A
+
+B
+
+Total
+
+Défaut
+Avec défaut
+
+Sans défaut
+Total
+
+15 000
+
+3. Calculer la fréquence en pourcentage des ampoules ayant un défaut.
+4. On définit les événements suivants :
+A : « l'ampoule provient de la machine A » ;
+D : « l'ampoule présente un défaut ».
+Déterminer 𝑃(𝐴 ∩ 𝐷).

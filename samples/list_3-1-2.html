@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Tout pour réviser les E3C du Bac">
+  <meta name="google-site-verification" content="iYhC6AVy5EeW8O7t4qT9dvAQhUHNqPXvRBAyBq-qShU" />
+  <meta property="fb:app_id" content="211096316065594" />
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="shortcut icon" type="image/png" href="/img/icons/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="57x57"   href="/img/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60"   href="/img/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72"   href="/img/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76"   href="/img/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/img/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/img/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32"    href="/img/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96"    href="/img/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16"    href="/img/icons/favicon-16x16.png">
+  <link rel="manifest" href="/img/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/img/icons/ms-icon-144x144.png">
+
+  <title>Sujets BNS 2019-2020 pour l'E3C Première | CCBac.fr</title>
+
+  <link href="/vendor/bootstrap/css/bootstrap.min.css?v=2" rel="stylesheet">
+  <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="/vendor/datatables/datatables.bs4.min.css" rel="stylesheet" type="text/css">
+
+  <link href="/css/main.css?t=1553320137" rel="stylesheet">
+  <link href="/css/mapAca.css?t=1526905114" rel="stylesheet">
+
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+<!-- Navigation-->
+
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <a class="navbar-brand" href="/index.php"><img id="navLogo" src="/img/icons/logo_64.png" height="32"/> CCBac 2026</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Ensemble de la banque de sujets">
+            <a class="nav-link" href="/list.php">
+                <i class="fa fa-fw fa fa-list"></i>
+                <span class="nav-link-text">
+                Tous les sujets              </span>
+            </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Nouveautés sur le site...">
+          <a class="nav-link" href="/news.php">
+            <i class="fa fa-fw fa fa-gears"></i>
+            <span class="nav-link-text">Actualités</span>
+          </a>
+        </li>
+<!--
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Besoin d'aide?">
+          <a class="nav-link" href="/aide.php">
+            <i class="fa fa-fw fa-question-circle"></i>
+            <span class="nav-link-text">Aide</span>
+          </a>
+        </li>
+-->
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Statistiques du site">
+          <a class="nav-link" href="/stats.php">
+            <i class="fa fa-line-chart"></i>
+            <span class="nav-link-text">Statistiques</span>
+          </a>
+        </li>
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="À propos">
+          <a class="nav-link" href="/about.php">
+            <i class="fa fa-fw fa-info"></i>
+            <span class="nav-link-text">À propos...</span>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav sidenav-toggler">
+        <li class="nav-item">
+          <a class="nav-link text-center" id="sidenavToggler">
+            <i class="fa fa-fw fa-angle-left"></i>
+          </a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item">
+        </li>
+
+        <li class="nav-item">
+          <form method="get" action="/searchresults.php" id="search">
+            <div class="input-group">
+              <input type="text" placeholder="Rechercher un sujet (nom / ID)" name="searchStr" class="top-search-bar">
+              <span class="input-group-append">
+                <button class="btn btn-primary" type="button" onclick="document.forms[0].submit();" style="height: 30px;">
+                  <i class="fa fa-search" style="width: 30px; height: 30px; position: relative; top: -5px;"></i>
+                </button>
+              </span>
+            </div>
+          </form>
+        </li>
+
+      </ul>
+
+
+    </div>
+  </nav>
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Fil d'ariane-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.php">Accueil </a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2020">E3C 2020</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2020&voie=1">Voie Générale</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2020&voie=1&session=2">Première</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2020&amp;voie=1&amp;session=2&amp;mat=3">LVA/B</a></li><li class="breadcrumb-item active">Allemand</li>        </ol>
+        <div class="row">
+            <div class="col-12">
+                <div id="listeaca_btns">
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Sujets</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none; " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">E3C 2020</a>                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Autre</button>
+                      <div class="dropdown-menu">
+                      <h6 class="dropdown-header">Choix sujets</h6>
+                      <a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2026">Éval 2026</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2025">Éval 2025</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2024">Éval 2024</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2023">Éval 2023</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2022">Éval 2022</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2021">EC 2021</a><a class="dropdown-item active" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">E3C 2020</a>                      </div>
+                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Voie</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">G</a><a class="btn btn-info" href="list.php?session=2&amp;voie=2&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">T</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Session</button>
+                    <a class="btn btn-info" href="list.php?session=1&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">E3C1</a><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">1ʳᵉ</a><a class="btn btn-info" href="list.php?session=3&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">Tˡᵉ</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                    <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">TC</button>
+                    <a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=2&amp;opt=9&amp;epr=0&amp;an=2020">HG</a><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">LVA/B</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=6&amp;opt=9&amp;epr=0&amp;an=2020">Science</a></div> <div class="btn-group" role="group" style="display: inline-block"><a class="btn disabled" style="border: 1px solid grey;">Spé</button><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=9&amp;epr=0&amp;an=2020">HGGSP</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=14&amp;opt=9&amp;epr=0&amp;an=2020">HLP</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=9&amp;epr=0&amp;an=2020">LLCA</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=15&amp;opt=9&amp;epr=0&amp;an=2020">LLCER</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=1&amp;opt=9&amp;epr=0&amp;an=2020">Maths</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=26&amp;opt=9&amp;epr=0&amp;an=2020">NSI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=30&amp;opt=9&amp;epr=0&amp;an=2020">PC</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=29&amp;opt=9&amp;epr=0&amp;an=2020">SES</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=28&amp;opt=9&amp;epr=0&amp;an=2020">SI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=27&amp;opt=9&amp;epr=0&amp;an=2020">SVT</a>                    </div>
+
+                    <div class="btn-group" role="group">&nbsp;&nbsp;<button class="btn disabled" style="border: 1px solid grey;">Option</button><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">Allemand</a><button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Autre</button><div class="dropdown-menu"><a class="dropdown-item active" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=9&amp;epr=0&amp;an=2020">Allemand</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=8&amp;epr=0&amp;an=2020">Anglais</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=10&amp;epr=0&amp;an=2020">Espagnol</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=12&amp;epr=0&amp;an=2020">Italien</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=48&amp;epr=0&amp;an=2020">Néerlandais</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=41&amp;epr=0&amp;an=2020">Portugais</a><hr><h6 class="dropdown-header">Langues Europe orientale</h6><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=44&amp;epr=0&amp;an=2020">Hongrois</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=40&amp;epr=0&amp;an=2020">Polonais</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=42&amp;epr=0&amp;an=2020">Russe</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=46&amp;epr=0&amp;an=2020">Tchèque</a><hr><h6 class="dropdown-header">Langues hors Europe</h6><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=11&amp;epr=0&amp;an=2020">Arabe</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=36&amp;epr=0&amp;an=2020">Chinois</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=37&amp;epr=0&amp;an=2020">Coréen</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=38&amp;epr=0&amp;an=2020">Hébreu</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=39&amp;epr=0&amp;an=2020">Japonais</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=45&amp;epr=0&amp;an=2020">Turc</a><hr><h6 class="dropdown-header">Langues régionales</h6><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=16&amp;epr=0&amp;an=2020">Basque</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=17&amp;epr=0&amp;an=2020">Breton</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=18&amp;epr=0&amp;an=2020">Catalan</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=19&amp;epr=0&amp;an=2020">Corse</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=20&amp;epr=0&amp;an=2020">Occitan-langue d’oc</a><hr><h6 class="dropdown-header">Langues créoles</h6><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=22&amp;epr=0&amp;an=2020">Créole Guadeloupe</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=47&amp;epr=0&amp;an=2020">Créole Martinique</a></div></div>                    
+                    
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <p>
+                    <b>Légende</b> :<br class="d-sm-none">
+                    <span class="badge badge-success">C</span> = <span class="badge badge-success">Correction</span> = Correction dispo<br class="d-sm-none">
+                    <span class="badge badge-warning">A</span> = <span class="badge badge-warning">Autre</span> = Correction pour autre version sujet<br class="d-sm-none">
+                </p>
+                <!-- DEBUT TABLEAU-->
+                                <div class="card mb-3">
+                    <div class="card-header d-xs-none">
+                        <i class="fa fa-table"></i> <b>Liste des sujets BNS 2019-2020 pour l'E3C Première</b> : Langue Vivante A/B                         - 57 sujets                                                <div id="dataTable_filter_custom" class="dataTables_filter"><label><input type="search" class="form-control form-control-sm" placeholder="Filtre..."></label></div>
+                    </div>
+                                        <div class="card-body" style="padding:0;">
+                        <div class="table-responsive" style="overflow-y:hidden;">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead><tr><th>&nbsp;</th><th class="d-none d-lg-table-cell"></th><th></th><th class="d-none d-sm-table-cell"></th></tr><thead><tr><th>N°</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr><tfoot><tr><th>N°</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr>                                <tbody>
+                                <tr><td><a href="/voir.php?id=3920">00019&#8209;001</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3920">&bdquo;Mein Exil in Stuttgart&ldquo;: Leben in einer WG</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3921">00020&#8209;002</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3921">Haymatland</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3922">00021&#8209;003</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3922">Die Sprache meiner Eltern</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3923">00022&#8209;004</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3923">WG - &bdquo;Mein Exil in Stuttgart&ldquo;: Leben in einer WG</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3924">00023&#8209;005</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3924">Streetart verstehen lernen</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3925">00024&#8209;006</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3925">Kreativer Protest - The Walking Dead versus G20</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3926">00025&#8209;007</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3926">Emil macht Kinder-Demo gegen nervige Smartphones</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3927">00026&#8209;008</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3927">Wie klappt das mit dem Homeoffice?</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3928">00027&#8209;009</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3928">Varusschlacht - Als die Germanen mal die R&ouml;mer &uuml;berraschend besiegten.</a></td><td title="5 - Fictions et r&eacute;alit&eacute;s" class="d-none d-sm-table-cell">5 Fiction réalité</td></tr><tr><td><a href="/voir.php?id=3929">00028&#8209;010</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3929">Otto Hahn - 50. Todestag von Otto Hahn (28.7.1968)</a></td><td title="6 - Innovations scientifiques et responsabilit&eacute;" class="d-none d-sm-table-cell">6 Innovation responsabilité</td></tr><tr><td><a href="/voir.php?id=3930">00029&#8209;011</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3930">Umwelt - Eine neue App gegen Meeresverschmutzung</a></td><td title="6 - Innovations scientifiques et responsabilit&eacute;" class="d-none d-sm-table-cell">6 Innovation responsabilité</td></tr><tr><td><a href="/voir.php?id=3931">00030&#8209;012</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3931">Die Physikerin Lise Meitner &ndash; Erforscherin der Radioaktivit&auml;t</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3932">00031&#8209;013</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3932">Integration - Haymatland</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3933">00032&#8209;014</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3933">Die Hochzeit der Deutschen</a></td><td title="8 - Territoire et m&eacute;moire" class="d-none d-sm-table-cell">8 Territoire mémoire</td></tr><tr><td><a href="/voir.php?id=3934">00033&#8209;015</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3934">Diese Freundschaft &uuml;berwand die Mauer</a></td><td title="8 - Territoire et m&eacute;moire" class="d-none d-sm-table-cell">8 Territoire mémoire</td></tr><tr><td><a href="/voir.php?id=3935">02135&#8209;016</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3935">Internet Forum Heimat -  Internetforum: Was bedeutet f&uuml;r dich Heimat ?</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3936">02136&#8209;017</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3936">Treffen von jungen Europ&auml;ern - Jugend gestaltet Europa</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3937">02137&#8209;018</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3937">Tourismus soziale Netzwerke</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3938">02138&#8209;019</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3938">Frauen, Kinder und Beruf &ndash; ein internationales Problem</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3939">02311&#8209;020</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3939">Lofft Leipzig : getantzte Gesellschaftkritik</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3940">02312&#8209;021</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3940">Ein Mann f&uuml;r Tage wie diese</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3941">02313&#8209;022</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3941">L&uuml;gen im Netz</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3942">02314&#8209;023</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3942">Social Media Star Rezo - Politischer Kommentator mit Undercut und YouTube-Konto</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3943">02315&#8209;024</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3943">Wald - Die Deutschen und ihr Wald &ndash; verehrt und d&auml;monisiert</a></td><td title="5 - Fictions et r&eacute;alit&eacute;s" class="d-none d-sm-table-cell">5 Fiction réalité</td></tr><tr><td><a href="/voir.php?id=3944">02316&#8209;025</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3944">Ein Fremder in der Nacht</a></td><td title="5 - Fictions et r&eacute;alit&eacute;s" class="d-none d-sm-table-cell">5 Fiction réalité</td></tr><tr><td><a href="/voir.php?id=3945">02317&#8209;026</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3945">Sperrung des Frankfurter Flughafens</a></td><td title="6 - Innovations scientifiques et responsabilit&eacute;" class="d-none d-sm-table-cell">6 Innovation responsabilité</td></tr><tr><td><a href="/voir.php?id=3946">02318&#8209;027</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3946">Altersarmut - Hilfe gegen Armut und Einsamkeit im Alter</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3947">02319&#8209;028</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3947">Neue Heimat in M&uuml;nster - Eine neue Heimat in M&uuml;nster</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3948">02320&#8209;029</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3948">Auf dem Spielplatz bin ich ein Exot &ndash; mein Leben als Hausmann</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3949">02321&#8209;030</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3949">Ich bin Hausfrau &ndash; na und?</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3950">02322&#8209;031</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3950">Planeten zerst&ouml;ren - Ich will mit meiner Arbeit nicht mehr den Planeten zerst&ouml;ren</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3951">02323&#8209;032</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3951">Politisch engagiert - Deutschlands Jugend &ndash; politisch wie nie?</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3952">02324&#8209;033</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3952">M&auml;rchen</a></td><td title="5 - Fictions et r&eacute;alit&eacute;s" class="d-none d-sm-table-cell">5 Fiction réalité</td></tr><tr><td><a href="/voir.php?id=3953">02325&#8209;034</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3953">Mit H&auml;nden sehen - Bilder mit den H&auml;nden sehen</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3954">02326&#8209;035</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3954">Seenothelfer - Mission Rettung</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3955">02327&#8209;036</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3955">Weltmeisterschaft 2019</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3956">02328&#8209;037</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3956">Wohnen auf Probe - Probewohnen in G&ouml;rlitz - Kostenlos die Stadt testen!</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3957">02329&#8209;038</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3957">Malverbot - Kann man Bilder verbieten?</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3958">02330&#8209;039</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3958">Wei&szlig;e Rose Flugblatt - Aufruf an alle Deutsche!</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=3959">02331&#8209;040</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3959">Digitale Helden</a></td><td title="4 - Citoyennet&eacute; et mondes virtuels" class="d-none d-sm-table-cell">4 Citoyenneté virtuel</td></tr><tr><td><a href="/voir.php?id=3960">02332&#8209;041</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3960">Momo</a></td><td title="5 - Fictions et r&eacute;alit&eacute;s" class="d-none d-sm-table-cell">5 Fiction réalité</td></tr><tr><td><a href="/voir.php?id=3961">02333&#8209;042</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3961">Integration durch Fu&szlig;ball &ndash; Was Deutschland von Frankreich lernen kann</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3962">02334&#8209;043</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3962">Interkulturelles Kennenelernen</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=3963">02335&#8209;044</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3963">Weltzeituhr - 50 Jahre Weltzeituhr am Alexanderplatz &ndash; Liebling der Massen</a></td><td title="8 - Territoire et m&eacute;moire" class="d-none d-sm-table-cell">8 Territoire mémoire</td></tr><tr><td><a href="/voir.php?id=3964">02336&#8209;045</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3964">Kinderstadt - Stadt f&uuml;r alle</a></td><td title="8 - Territoire et m&eacute;moire" class="d-none d-sm-table-cell">8 Territoire mémoire</td></tr><tr><td><a href="/voir.php?id=3965">03827&#8209;046</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3965">Alte Heimat, neue Heimat</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3966">03828&#8209;047</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3966">Mobile Jugend</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3967">03829&#8209;048</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3967">Reise durch Deutschland</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3968">03830&#8209;049</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3968">Warum Eltern ihre Kinder nicht in die Schule schicken</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3969">03832&#8209;050</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3969">Wir leben hier</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=3970">03833&#8209;051</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3970">Das perfekte Foto</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=3971">03834&#8209;052</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=3971">Geistiges Eigentum</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr><tr><td><a href="/voir.php?id=2249">Zéro1</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=2249">Erinnern M&uuml;nchen - M&uuml;nchen und die Geschichte meiner Familie</a></td><td title="8 - Territoire et m&eacute;moire" class="d-none d-sm-table-cell">8 Territoire mémoire</td></tr><tr><td><a href="/voir.php?id=2250">Zéro2</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=2250">Stadtversch&ouml;nerung</a></td><td title="2 - Espace priv&eacute; et espace public" class="d-none d-sm-table-cell">2 Espaces</td></tr><tr><td><a href="/voir.php?id=2251">Zéro3</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=2251">Neue Nachbarn, neue Geschichten</a></td><td title="1 - Identit&eacute;s et &eacute;changes" class="d-none d-sm-table-cell">1 Identité échange</td></tr><tr><td><a href="/voir.php?id=2252">Zéro4</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=2252">Neue Nachbarn in unserer Stadt</a></td><td title="7 - Diversit&eacute; et inclusion" class="d-none d-sm-table-cell">7 Diversité inclusion</td></tr><tr><td><a href="/voir.php?id=2253">Zéro5</a></td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=2253">Graffitis in Chemnitz</a></td><td title="3 - Art et pouvoir" class="d-none d-sm-table-cell">3 Art pouvoir</td></tr>                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>© 2018-2026 CCBac.fr<!-- | <abbr title="Le traffic étant très important en ce moment, un nouveau serveur dédié à été mis en place, et des publicités peuvent s'afficher ces prochains jours pour nous aider à le financer">Pubs affichées temporairement</abbr> --></small>
+          <small>&bull; Voir notre <a href="/privacy.php" title="privacy policy">politique de confidentialité</a>. Vous pouvez <a target="_self" href="javascript:(typeof(googlefc)!=='undefined')&&googlefc.callbackQueue.push(googlefc.showRevocationMessage)||(window.location.href='/privacy.php')">configurer (et consentir à) l'usage de cookies optionnels</a>.</small>
+        </div>
+      </div>
+    </footer>
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js" integrity="sha512-igl8WEUuas9k5dtnhKqyyld6TzzRjvMqLC79jkgT3z02FvJyHAuUtyemm/P/jYSne1xwFI06ezQxEwweaiV7VA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="/vendor/datatables/datatables.bs4.min.js"></script>
+    <script src="/js/sb-admin.min.js"></script>
+    <script src="/js/facebook.js"></script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-7779584946427549?ers=1" nonce="MPvqy2fYJkhSAUd-WrajTw"></script><script nonce="MPvqy2fYJkhSAUd-WrajTw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+
+    <!-- pub temporaire pour aider à couvrir les coûts serveurs... -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7779584946427549" crossorigin="anonymous"></script>
+
+        <script>
+        $(document).ready(function() {
+            var dataTable = $('#dataTable').DataTable({
+                paging: false,
+                info: false,
+                language: {
+                    zeroRecords: "Aucun sujet correspondant"
+                }
+            });
+            var filter = $("#dataTable_filter_custom");
+            var filterInput = filter.find("input");
+            filter.on("keyup search input paste cut", function() {
+                dataTable.search(filterInput.val()).draw();
+            });
+        } );
+    </script>
+</div>
+
+
+</body>
+
+</html>

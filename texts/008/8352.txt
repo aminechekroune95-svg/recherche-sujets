@@ -1,0 +1,201 @@
+{"pages": 8, "method": "pdftotext", "bytes": 725743, "at": "2026-11-23T08:55:46+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+Énoncé
+1.
+
+Par combien faut-il multiplier une
+quantité positive pour que celle-ci
+diminue de 2,3% ?
+
+2.
+
+Après une augmentation du prix de
+20%, un article est vendu 180 €.
+Quel était le prix de départ ?
+
+3.
+
+Développer (𝑥 − 2)
+
+4.
+
+Résoudre dans R l'équation
+suivante : 2𝑥– 7 = 5𝑥 + 1.
+
+5.
+
+Combien l'équation suivante a-t-elle
+de solutions dans R ?
+(2𝑥 − 5)2 = −3
+
+6.
+
+Quel est le signe de l’expression
+4(𝑥 − 5)(𝑥 − 8)
+lorsque 𝑥 ∈ [5; 8] ?
+
+7.
+
+Déterminer le signe sur R de
+l’expression
+5− 𝑥
+
+Réponse
+
+1 2
+
+𝑥
+
+−∞
+
+5− 𝑥
+
++∞
+
+8.
+
+En 1965, le circuit intégré électronique le plus
+performant comportait 64 transistors. On suppose
+qu’à partir de cette date le nombre de transistors
+dans un circuit intégré (ou un microprocesseur) a
+doublé tous les 2 ans.
+Si on modélise cette situation par une suite
+géométrique de premier terme 𝑢0 = 64 et de
+raison 𝑞 = 2, quel terme de la suite permet
+d’estimer le nombre de transistors dans un
+microprocesseur en 1997 ?
+
+Pour les questions 9 et 10, on considère la formule suivante qui donne la puissance
+fluidique 𝑃(en watt) portée par les courants en fonction de la surface balayée 𝐴 (en 𝑚2 ),
+de la vitesse 𝑣 (en 𝑚. 𝑠 −1) et de la masse volumique du fluide 𝜌 en 𝑘𝑔. 𝑚−3 :
+𝑃 = 𝐴𝜌𝑣³
+
+9.
+
+10.
+
+Calculer la valeur de 𝑃, pour 𝐴 = 0,1 𝑚2 ,
+𝜌 = 20 𝑘𝑔. 𝑚−3et 𝑣 = 10 𝑚. 𝑠 −1 .
+
+Exprimer 𝐴 en fonction de 𝑃, 𝜌 et 𝑣.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On considère la fonction 𝑝 définie sur l’intervalle [0 ; 20] par :
+𝑝(𝑡) = 22 865 × 0,9𝑡
+1. Déterminer le sens de variation de 𝑝 sur [0 ; 20].
+
+On étudie l’évolution du prix d’un certain modèle de voiture.
+On admet que la fonction 𝑝 représente le prix de la voiture, en euro, en fonction du
+temps t, exprimé en année, écoulé à partir de l’achat.
+2. Quelle la valeur de cette voiture mise en circulation depuis 2 ans ? depuis 5
+ans et 3 mois ?
+3. Quelle est la valeur de cette voiture à l’achat ?
+4. Un propriétaire souhaite revendre sa voiture 15 000 €.
+À quel moment doit-il la mettre en vente ?
+5. Comment peut-on interpréter la valeur 0,9 dans l’expression de la fonction 𝑝 ?
+
+Exercice 3 (5 points)
+Dans l’objectif de réduire son empreinte environnementale, une grande entreprise a
+décidé de réduire la quantité de déchets qu’elle produit.
+L’entreprise a ainsi produit 320 tonnes de déchets en 2018, 272 tonnes en 2019 et
+231 tonnes en 2020.
+1. Pourquoi peut-on estimer que la diminution annuelle de la masse de déchets
+produits par l’entreprise est de 15 % ?
+2. On suppose qu’à partir de 2020 les déchets produits par l’entreprise
+diminueront de 15 % chaque année.
+On note alors, pour tout entier naturel 𝑛, 𝑢𝑛 la quantité de déchets, exprimée
+en tonnes, pour l’année (2020 + 𝑛). Ainsi 𝑢0 = 231.
+a. Exprimer 𝑢𝑛 en fonction de 𝑛.
+b. Évaluer la quantité de déchets qui seront produits par l’entreprise en
+2030.
+c. L’exécution de la fonction dechets(), écrite ci-dessous en langage
+Python, renvoie le nombre 2026.
+Interpréter ce résultat dans le contexte de l’exercice.
+def dechets():
+n=0
+u=231
+while u>100:
+n=n+1
+u=0.85*u
+return (2020+n)
+d. Comment peut-on calculer la quantité totale de déchets produits par
+l’entreprise de 2020 à 2030 ? Donner une estimation de cette quantité.
+
+Exercice 4 (5 points)
+Une plateforme de vidéos à la demande a fait un sondage auprès de ses abonnés.
+Dans cette étude, on a demandé à des abonnés s’ils ont regardé des séries au cours
+des 12 derniers mois.
+Les résultats de ce sondage indiquent que 20% des personnes interrogées ont entre
+15 et 24 ans.
+Dans cette tranche d’âge, 70% ont répondu regarder des séries, contre seulement
+35% des autres tranches d’âge.
+On interroge au hasard une personne de cette étude.
+On note :
+- L’évènement 𝐽 : « La personne a entre 15 et 24 ans » ;
+- L’évènement 𝑆 : « La personne a déclaré avoir regardé une série ».
+1. Donner la valeur de la probabilité 𝑃𝐽 (𝑆).
+2.
+
+R
+e
+p
+r
+o
+d
+u
+i
+r
+e
+s
+ur la copie l’arbre de probabilité cicontre et compléter l’arbre en
+indiquant les valeurs des
+probabilités sur les différentes
+branches.
+
+3.
+
+Calculer la probabilité 𝑃(𝐽 ∩ 𝑆).
+
+4.
+
+Montrer que la probabilité que la
+personne ait regardé une série est
+de 0,42.
+
+5.
+
+Calculer la probabilité que la
+personne interrogée ait entre 15 et
+24 ans sachant qu’elle a déclaré
+regarder une série. Arrondir au
+centième.

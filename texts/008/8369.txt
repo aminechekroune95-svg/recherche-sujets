@@ -1,0 +1,173 @@
+{"pages": 7, "method": "pdftotext", "bytes": 659430, "at": "2026-11-23T08:55:38+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Cet exercice comprend 10 questions. Aucune justification n'est demandée.
+
+Écrire sous la forme d’une fraction
+irréductible :
+Écrire
+𝑛∈ℕ.
+
+43 ×35
+
+×
+
+.
+
+sous la forme 3𝑛 où
+
+Résoudre dans ℝ , l’équation :
+5𝑥 2 − 45 = 0 .
+
+Quel est le taux d’évolution
+correspondant à une hausse de
+40 % suivie d’une baisse de 90 % ?
+
+Compléter le tableau de signes de
+− 3(𝑥 − 1)(𝑥 + 4).
+
+𝑥
+− 3(𝑥 − 1)(𝑥 + 4)
+
+−∞
+
+...
+
+Sur 60 personnes présentes à une
+exposition, on distingue 3 groupes :
+● groupe A : 30 personnes
+● groupe B : 12 personnes
+● groupe C : les autres.
+Représenter ces données par un
+diagramme circulaire des effectifs
+en fonction des groupes.
+
+...
+
++∞
+
+Pour les questions 7 et 8 on considère la fonction 𝑓 définie sur ℝ par
+𝑓(𝑥) = 𝑥 3 + 5𝑥 + 4
+et on note 𝑓′ la fonction dérivée de 𝑓.
+
+Calculer 𝑓′(𝑥).
+
+Calculer le coefficient directeur
+de la tangente à la courbe
+représentative de 𝑓 au point
+d’abscisse 1.
+
+Pour les questions 9 et 10, on donne ci-dessous la courbe représentative d’une
+fonction 𝑔 et sa tangente au point A d’abscisse 2.
+
+Déterminer graphiquement le coefficient directeur de
+la tangente à la courbe représentative de 𝑔 au point A.
+
+Résoudre graphiquement l’équation 𝑔(𝑥) = −2.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+
+Soit 𝑓 la fonction définie sur l’intervalle [0,4 ; 2] par 𝑓(𝑥) = 4𝑥 + 𝑥 .
+1. Montrer que pour tout réel 𝑥 de [0,4 ; 2] :
+𝑓 ′ (𝑥) =
+
+(2𝑥 − 3)(2𝑥 + 3)
+.
+𝑥2
+
+2. Construire le tableau de signes de 2𝑥 − 3 sur [0,4 ; 2] et montrer qu’il est
+identique à celui de 𝑓 ′ (𝑥).
+3. En déduire le tableau de variation de 𝑓 sur [0,4 ; 2].
+Application économique
+Une entreprise artisanale de biscuits peut produire entre 0,4 tonne et 2 tonnes de
+biscuits par jour. Le coût moyen de production, en centaines d’euros, d’une
+tonne de biscuits pour 𝑥 tonnes produites est donné par 𝑓(𝑥), où 𝑓 est la fonction
+définie plus haut.
+4. En utilisant les résultats des questions précédentes, déterminer le nombre de
+tonnes de biscuits à produire pour que le coût moyen unitaire soit minimal.
+5. Quelle est la valeur de ce coût minimal ?
+
+Exercice 3 (5 points)
+
+Sur un campus universitaire, une enquête a révélé que :
+
+ 10 % des étudiants pratiquent un atelier musical ;
+ parmi les étudiants pratiquant l’atelier musical, 80 % pratiquent la danse
+contemporaine ;
+
+ parmi les étudiants ne pratiquant pas l’atelier musical , 40 % ne pratiquent pas la
+danse contemporaine.
+On choisit au hasard et de façon équiprobable un étudiant sur le campus et on note
+les événements suivants :
+M : « l’étudiant pratique l’atelier musical » ;
+D : « l’étudiant pratique la danse contemporaine ».
+1. A l’aide des données de l’énoncé, donner la probabilité 𝑃(𝑀) et montrer que
+𝑃𝑀̅ (𝐷) = 0,6.
+2. Construire un arbre de probabilités associé à cette situation.
+3. Calculer 𝑃(𝑀 ∩ 𝐷) puis interpréter le résultat obtenu.
+4. Calculer la probabilité qu’un étudiant choisi au hasard pratique la danse
+contemporaine.
+5. On interroge au hasard un étudiant pratiquant la danse contemporaine.
+Montrer que l’arrondi à 10−2 de la probabilité qu’il pratique l’atelier musical est
+égal à 0,13.
+
+Exercice 4 (5 points)
+Une étude s’est intéressée au nombre de vélos électriques vendus par un gérant de
+magasin de cycles entre 2016 et 2020.
+Année
+Nombre de vélos électriques vendus
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+1. Calculer le taux annuel moyen d’évolution des ventes de vélos électriques de
+2016 à 2020. On donnera l’arrondi à l’unité.
+Les questions suivantes sont indépendantes de la question 1.
+On suppose qu’à partir de l’année 2020, la vente de vélos électriques de ce magasin
+augmente de 12 % par an.
+On modélise cette évolution par une suite (𝑢𝑛 ) où, pour tout entier naturel 𝑛, 𝑢𝑛
+représente le nombre de vélos électriques vendus durant l’année (2020 + 𝑛). On a
+donc 𝑢0 = 295.
+2. Déterminer la nature de la suite (𝑢𝑛 ).
+Préciser sa raison et son terme initial.
+3. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+4. Montrer que, selon cette modélisation, c’est en 2025 que le nombre de vélos
+électriques vendus dans ce magasin dépassera pour la première fois 500
+unités.
+5. Soit 𝑆 = 𝑢0 + 𝑢1 + 𝑢2 + 𝑢3 + 𝑢4 + 𝑢5 + 𝑢6 + 𝑢7 + 𝑢8 + 𝑢9 .
+Calculer S.
+Interpréter le résultat dans le contexte de l’exercice.

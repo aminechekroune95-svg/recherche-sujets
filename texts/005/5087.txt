@@ -1,0 +1,184 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1053989, "at": "2026-11-23T08:59:00+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+La courbe ci-contre Cf est la représentation graphique,
+dans un repère orthonormé, d’une fonction f. Les
+droites d et d’ sont respectivement les tangentes à la
+courbe Cf aux points d’abscisses 1 et 2.
+Les équations réduites de d et d’ sont respectivement :
+d : 𝑦 = 2𝑥 − 2 et d’ : 𝑦 = −𝑥 + 2.
+
+Parmi les propositions suivantes, laquelle est juste ?
+Proposition A : 𝑓’(1) = 0
+
+Proposition B : 𝑓’(2) = 2
+
+Proposition C : 𝑓’(2) = −1
+
+Proposition D : 𝑓’(1) = −2
+
+Question 2
+𝜋
+
+3𝜋
+
+Soit 𝑥 ∈ [ 2 ; 2 ] tel que sin 𝑥 = 2 .
+Parmi les propositions suivantes, laquelle est juste ?
+√3
+
+Proposition A : cos 𝑥 = − 2
+Proposition C : cos 𝑥 =
+
+√3
+
+𝜋
+
+Proposition B : 𝑥 = 6
+
+7𝜋
+
+Proposition D : 𝑥 = − 6
+
+Question 3
+Soit A et B deux points de coordonnées
+respectives (3 ; 4) et (4 ; 0).
+
+Parmi les propositions suivantes, laquelle est
+juste ?
+⃗⃗⃗⃗⃗ = 20
+Proposition A : ⃗⃗⃗⃗⃗
+𝑂𝐴 ∙ 𝑂𝐵
+
+̂ ) = √17
+Proposition B : sin(𝐴𝑂𝐵
+
+̂) = 4
+Proposition C : cos(𝐴𝑂𝐵
+
+̂) = 4
+Proposition D : sin(𝐴𝑂𝐵
+
+Question 4
+Soit d une droite dont une équation cartésienne est : 3𝑥 + 2𝑦 − 10 = 0 .
+Une équation cartésienne de la droite d’ perpendiculaire à la droite d et passant par le point
+A de coordonnées (1 ; 2) est :
+Proposition A : 3𝑥 + 2𝑦 − 7 = 0
+Proposition B : 2𝑥 + 3𝑦 − 8 = 0
+Proposition C : 2𝑥 − 3𝑦 + 4 = 0
+
+Proposition D : 3𝑥 − 2𝑦 + 1 = 0
+
+Question 5
+Soit A et B deux points de coordonnées respectives (1 ; 2) et (5 ; -2).
+Une équation cartésienne du cercle C de diamètre [AB] est :
+Proposition A : 𝑥 2 + 𝑦 2 − 8𝑥 − 2𝑦 + 7 = 0 Proposition B : (𝑥 − 1)2 + (𝑦 − 2)2 = 32
+Proposition C : 𝑥 2 + 𝑦 2 − 4𝑥 + 2𝑦 − 5 = 0
+
+Proposition D : 𝑥 2 + 𝑦 2 − 6𝑥 + 1 = 0
+
+Exercice 2 (5 points)
+Une balle en caoutchouc est lâchée sans vitesse initiale d’une hauteur de 2 mètres au-dessus
+du sol.
+Le choc n’étant pas parfaitement élastique, la balle rebondit jusqu’à une hauteur de
+1,60 mètre et continue à rebondir, en atteignant après chaque rebond une hauteur égale au
+de la hauteur du rebond précédent.
+On modélise les hauteurs atteintes par la balle par une suite (ℎ𝑛 ) où pour tout entier naturel
+𝑛, ℎ𝑛 est la hauteur, exprimée en mètres, atteinte par la balle au 𝑛-ième rebond. On a alors
+ℎ0 = 2.
+1. a. Donner ℎ1 et ℎ2 .
+b. Pour tout entier naturel 𝑛, exprimer ℎ𝑛+1 en fonction de ℎ𝑛 .
+c. En déduire la nature de la suite (ℎ𝑛 ). On précisera sa raison et son premier terme.
+d. Déterminer le sens de variation de la suite (ℎ𝑛 ).
+2. Déterminer le nombre minimal 𝑁 de rebonds à partir duquel la hauteur atteinte par la
+balle est inférieure à 20 cm. Expliquer la démarche employée.
+
+Exercice 3 (5 points)
+Un restaurant propose à sa carte deux types de dessert : un assortiment de macarons et une
+part de tarte tatin. Des études statistiques montrent que :
+ l’assortiment de macarons est choisi par 50 % des clients ;
+ la part de tarte tatin, est choisie par 30 % des clients ;
+ 20 % des clients ne prennent pas de dessert ;
+ aucun client ne prend plusieurs desserts.
+Le restaurateur a remarqué que :
+ parmi les clients ayant pris un assortiment de macarons, 80 % prennent un café ;
+ parmi les clients ayant pris une part de tarte tatin, 60 % prennent un café ;
+ parmi les clients n’ayant pas pris de dessert, 90 % prennent un café.
+On interroge au hasard un client de ce restaurant.
+On note les événements suivants :
+ M : « Le client prend un assortiment de macarons » ;
+ T : « Le client prend une part de tarte tatin » ;
+ P : « Le client ne prend pas de dessert » ;
+ C : « Le client prend un café » et C̅ l’événement contraire de C.
+1. En utilisant les données de l’énoncé, préciser la valeur de 𝑃(T) probabilité de T et celle de
+𝑃T (C) probabilité de l’évènement C sachant que T est réalisé.
+0,8
+2. Recopier et compléter l’arbre ci-dessous :
+M
+
+0,7
+
+0,5
+
+T
+P
+
+3. a. Exprimer par une phrase ce que représente l’évènement M ∩ C puis calculer 𝑃(M ∩ C).
+b. Montrer que 𝑃(C) = 0,76.
+4. Quelle est la probabilité que le client prenne un assortiment de macarons sachant qu’il
+prend un café? (On donnera le résultat arrondi au centième).
+
+Exercice 4 (5 points)
+Une entreprise vend des smartphones d’un seul modèle « haut de gamme ».
+Le service marketing modélise le nombre de smartphones modèle « haut de gamme »
+vendus par trimestre en fonction du prix de vente 𝑥 par la fonction 𝑁 définie par
+𝑁(𝑥) = 100e−2𝑥 où :
+ 𝑥 est le prix de vente en milliers d’euros d’un smartphone modèle « haut de
+gamme ». Le prix du smartphone modèle « haut de gamme » est compris entre 400€
+et 2000€ ; on a donc 𝑥 ∈ [0,4 ; 2].
+ 𝑁(𝑥) est le nombre de smartphones modèle « haut de gamme » vendus
+trimestriellement en millions d’unités.
+1. Si le service commercial fixe le prix de vente de ce smartphone modèle « haut de
+gamme » à 1000 €, quel sera le nombre de smartphones vendus trimestriellement ?
+On arrondira le résultat à mille unités.
+La recette trimestrielle 𝑅(𝑥) est obtenue en multipliant le nombre de smartphones modèle
+« haut de gamme » vendus par le prix de vente. On obtient 𝑅(𝑥) = 𝑥 × 𝑁(𝑥) en milliards
+d’euros.
+Le coût de production en milliards d’euros en fonction du nombre de smartphones modèle
+« haut de gamme » fabriqués est modélisé par la fonction 𝐶 définie par 𝐶(𝑥) = 0,4 × 𝑁(𝑥)
+où 𝑥 est le prix de vente en milliers d’euros.
+Le bénéfice est obtenu en calculant la différence entre la recette et le coût de production.
+2. Vérifier que le bénéfice trimestriel peut être estimé à 8,120 milliards d’euros pour un
+prix de vente 1000 €.
+3. Montrer que le bénéfice trimestriel s’exprime en milliards d’euros en fonction du prix
+de vente 𝑥 en milliers d’euros par : 𝐵(𝑥) = (100𝑥 – 40) e−2𝑥 .
+4. On admet que pour tout réel 𝑥 ∈ [0,4 ; 2], 𝐵 ′ (𝑥) = (180 − 200𝑥 )e−2𝑥 .
+Étudier les variations de la fonction 𝐵 sur l’intervalle [0,4 ; 2].
+5. À quel prix faut-il vendre ces smartphones pour assurer un bénéfice maximal ?

@@ -1,0 +1,180 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1331889, "at": "2026-11-23T08:55:07+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1 :
+Dans le plan muni d’un repère orthonormé, l’ensemble des points M de coordonnées (𝑥, 𝑦)
+vérifiant : (𝑥 + 1)² + (𝑦 − 1)² = 9 est :
+a) un cercle
+
+b) une droite
+
+c) une parabole
+
+d) l’ensemble vide
+
+Question 2 :
+Combien y-a-t-il de fonctions polynômes du second degré qui s’annulent en 1 et en 3 ?
+a) 0
+
+b) 1 seule
+
+Question 3 :
+Une fonction polynôme du second degré :
+a) est nécessairement b) n’est jamais de
+de signe constant
+signe constant
+
+c) 2
+
+d) une infinité
+
+c) est
+nécessairement
+positive sur R
+
+d) peut être ou non
+de signe constant
+
+Question 4 :
+Pour tout réel 𝑥, e2𝑥+1 =
+a) e2𝑥 + e
+
+b) e2𝑥 × e
+
+c) (e𝑥+1 )2
+
+d) (2𝑥 + 1) × e
+
+Question 5 :
+Dans un repère orthonormé, la droite d d’équation cartésienne 2𝑥 − 5𝑦 − 4 = 0
+
+a) coupe l’axe des
+ordonnées au point de
+coordonnées (0 ; −4)
+
+b) passe par le point de c) admet ⃗𝑢 ( ) pour
+−5
+coordonnées (2 ; 0,2) vecteur normal
+
+d) admet
+⃗𝑢 ( ) pour
+−5
+vecteur directeur
+
+Exercice 2 (5 points)
+Le principe d’un Escape Game est le suivant : une équipe de participants est enfermée à
+l’intérieur d’une salle à thème et doit réussir à en sortir en moins d’une heure (on parle alors
+de partie réussie). Au-delà d’une heure, les participants sont libérés et la partie est perdue.
+Un exploitant d’Escape Game propose à ses participants de faire deux parties à la suite : la
+première partie se déroule dans la salle à thème « Espion », la seconde partie dans la salle à
+thème « Musée ». Il dispose des données suivantes :
+
+lorsqu’une équipe joue dans la salle à thème « Espion », la probabilité qu’elle
+réussisse sa partie « Espion » est égale à 0,5 ;
+lorsqu’une équipe a réussi la partie « Espion», la probabilité qu’elle réussisse sa
+partie « Musée » est égale à 0,6 ;
+lorsqu’une équipe n’a pas réussi la partie « Espion », la probabilité qu’elle réussisse
+sa partie « Musée » est égale à 0,45.
+
+Une équipe est choisie au hasard. On note les événements suivants :
+ E : « l’équipe réussit la partie « Espion » ;
+ M : « l’équipe réussit la partie « Musée ».
+
+1. Sur la copie, recopier et compléter l’arbre de probabilités suivant :
+
+2. Déterminer la probabilité que l’équipe réussisse les deux parties.
+3. Montrer que la probabilité que l’équipe réussisse la partie « Musée » est égale à 0,525.
+4. Quelle est la probabilité qu’une équipe échoue à la partie « Espion » sachant qu’elle a réussi
+la partie « Musée » ? On donnera la réponse arrondie à 10−2 .
+5. Pour chacune des deux parties qui sont gagnées, une équipe reçoit 2 € de réduction pour
+une prochaine visite. Elle peut donc recevoir 0, 2 ou 4 € de réduction.
+Si un très grand nombre d’équipes jouent les deux parties, quel est le montant moyen de la
+réduction obtenue à la fin des deux parties ? Expliquer la démarche.
+
+Exercice 3 (5 points)
+En France métropolitaine, 2018 a été l'année la plus chaude d’après les relevés
+météorologiques. La température moyenne y a été de 14 °C; elle a dépassé de 1,4 °C la
+normale de référence calculée sur la période 1981-2010. (Source : site Météo France)
+1. Pour modéliser la situation, on considère l’année 2018 comme l’année zéro et on suppose
+que cette hausse moyenne de 1,4°C par an se poursuit chaque année. Pour tout entier
+naturel 𝑛, on note alors 𝑇𝑛 la température moyenne annuelle en France pour l’année
+2018+𝑛.
+a. Quelle est la nature de la suite (𝑇𝑛 ) ainsi définie ? On donnera son premier terme et sa
+raison.
+b. On considère qu’au-delà d’une température moyenne de 35°C les corps ne se
+refroidissent pas et il devient insupportable pour les humains de continuer à habiter
+cette région que l’on qualifie alors d’inhabitable. Selon le modèle considéré, en quelle
+année la France deviendrait-elle inhabitable pour les humains ? Justifier.
+2. À cause du réchauffement climatique, certaines régions risquent de connaître une baisse de
+10 % par an des précipitations moyennes annuelles mesurées en millimètres (mm).
+Dans une région du nord de la France, les précipitations moyennes annuelles étaient de
+673 mm en 2018. On considère l’année 2018 comme l’année zéro et on suppose que cette
+baisse de 10 % par an se poursuit chaque année. Pour tout entier naturel 𝑛, on note 𝑃𝑛 les
+précipitations annuelles moyennes en mm dans cette région pour l’année 2018+𝑛.
+a. Quelle est la nature de la suite (𝑃𝑛 ) ainsi définie ? On donnera son premier terme et sa
+raison.
+b. Pour tout entier naturel 𝑛, exprimer 𝑃𝑛 en fonction de 𝑛.
+c. On donne le programme Python suivant :
+def precipitations(J):
+I=673
+n=0
+while I > J:
+I = 0.9*I
+n = n+1
+return n+2018
+L’exécution de « precipitations(300) » renvoie la valeur 2026 . Que représente cette
+valeur pour le problème posé ?
+
+Exercice 4 (5 points)
+Soit 𝒇 la fonction définie sur [𝟎; +∞[ par 𝒇(𝒙) = −𝒙𝟐 + 𝟐𝒙 + 𝟒. Dans le plan muni d’un
+repère orthonormé, on note C sa courbe représentative.
+1. Déterminer les variations de la fonction 𝑓 sur [0; +∞[ .
+2. Déterminer la valeur exacte de l’abscisse du point A, intersection de la courbe 𝐶 et de l’axe
+des abscisses, puis en donner une valeur approchée à 10−2 près.
+3. On note 𝑇 la tangente à la courbe C au point 𝐵 d’abscisse 2.
+Déterminer l’équation réduite de la droite 𝑇
+4. Tracer la droite 𝑇 sur le graphique fourni en annexe, qui est à rendre avec la copie.
+5. On admet que la courbe 𝐶 est toujours en-dessous de la droite 𝑇.
+La société Logo reçoit une commande de l’entreprise RapidResto, qui lui demande de
+confectionner des logos dans des plaques rectangulaires de largeur 4 dm et de hauteur 8 dm
+selon le modèle ci-dessous. Le bord supérieur du logo est modélisé par la courbe 𝐶 tracée
+dans le repère orthonormé figurant sur l’annexe dont l’unité graphique est le décimètre
+(dm). Les figures ci-dessous ne sont pas à l’échelle.
+
+Logo à réaliser
+
+Découpe selon la diagonale
+
+Dans un souci d’économie, l’entreprise Logo espère pouvoir réaliser deux logos identiques
+dans une seule plaque, en la coupant dans sa diagonale. Est-ce possible ? Justifier à l’aide
+des questions précédentes.
+
+ANNEXE
+Exercice 4, question 4.
+À rendre avec la copie

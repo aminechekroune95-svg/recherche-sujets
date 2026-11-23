@@ -1,0 +1,179 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1045117, "at": "2026-11-23T08:57:09+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+Énoncé
+1)
+2)
+
+Réponse
+
+À quel pourcentage global de hausse correspondent deux
+augmentations successives de 10 % ?
+Une quantité subit une hausse de 25 %.
+Quel est le taux réciproque associé ?
+
+3)
+
+Quelles sont les solutions réelles de l’équation 𝑥 2 − 16 = 0 ?
+
+4)
+
+On considère la fonction 𝑔 définie sur l’ensemble des réels par :
+𝑔(𝑥) = (𝑥 − 3)(𝑥 + 5)
+Quel est le signe de 𝑔(𝑥) sur l’intervalle [−1 ; 2] ?
+
+5)
+
+Quelles sont les solutions réelles de l’inéquation 2𝑥 + 3 < 3𝑥 + 1 ?
+
+6)
+
+L’équation 𝑥 2 + 28 = 0 admet-elle zéro, une ou deux solutions
+dans l’ensemble des réels ?
+
+7)
+
+Donner toutes les valeurs du réel 𝑥 pour lesquelles l’expression
+4𝑥 – 9 est négative.
+
+8)
+
+Quelle est la solution de l’équation : 3𝑥 + 1 = −2 𝑥 + 11 ?
+
+9)
+
+Dans une école d’ingénieurs le nombre d’inscrits était de 220 en
+2018 de 231 en 2019.
+Quelle est l’augmentation, en pourcentage, du nombre d’inscrits ?
+
+10)
+
+En prenant l’indice 100 pour une valeur de 340 €, à quelle valeur
+correspond l’indice 95 ?
+
+Séries technologiques : classe de première
+
+PARTIE II
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants
+Exercice 2 : (5 points)
+Au début de l’année 2019, le stock de cabillauds au large des côtes d’un littoral est estimé à
+5 000 tonnes. En raison de la surpêche, ce littoral a vu le stock de cabillauds sensiblement
+diminuer aux abords des côtes. Les autorités locales souhaitent réglementer cette pêche.
+À partir de l’année 2019, le quota de pêche du cabillaud sur ces côtes est fixé à 500 tonnes
+par an.
+Par ailleurs, une étude a permis d’estimer que le stock de cabillauds augmente de 12 % chaque
+année.
+On note alors, pour 𝑛 entier naturel, 𝑐(𝑛) le stock de cabillauds, exprimé en tonne, au début
+de l’année (2019 + 𝑛), avant que ne démarre la saison de pêche. On a alors 𝑐(0) = 5 000.
+1.
+2.
+3.
+4.
+
+Vérifier que 𝑐(1) = 5 100. Calculer 𝑐(2).
+Justifier que la suite 𝑐 n’est ni arithmétique, ni géométrique.
+Exprimer 𝑐(𝑛 + 1) en fonction de 𝑐(𝑛).
+Recopier et compléter les lignes 5 et 6 du script suivant afin qu’il permette de
+renvoyer le stock de cabillauds estimé au début de l’année (2019 + 𝑛) :
+
+5. On génère maintenant une liste à l’aide de l’instruction suivante :
+La liste obtenue est :
+[5000, 5100, 5212, 5337, 5477, 5635, 5811, 6008, 6229, 6477, 6754].
+À partir de cette liste de valeurs peut-on considérer, dans le contexte de l’exercice,
+que les effets de la règlementation de la pêche du cabillaud au large de ces côtes ont
+été bénéfiques ? Justifier.
+
+Exercice 3 : (5 points)
+Une éolienne est un dispositif composé de pales en rotation qui transforme l’énergie du vent
+en électricité.
+Le graphique ci-dessous donne la puissance électrique (en kW) d’une éolienne en fonction de
+la vitesse du vent.
+
+1. Quelle puissance l’éolienne délivre-t-elle pour une vitesse du vent de 20 m/s ? Pour
+une vitesse du vent de 30 m/s ?
+2. Pour quelles vitesses du vent l’éolienne délivre-t-elle une puissance supérieure à
+400 kW ?
+3. Supposons que la puissance délivrée par l’éolienne soit maintenant de 600 kW.
+Pour calculer l’énergie 𝐸 délivrée par l’éolienne en fonction de la durée 𝑡 de
+fonctionnement, on utilise la relation 𝐸(𝑡) = 600 × 𝑡 où 𝑡 est la durée en seconde
+et 𝐸(𝑡) est l’énergie en kilojoules (kJ).
+a. Quelle est la nature de la fonction 𝐸 ?
+b. Quelle est l’énergie délivrée par l’éolienne en 2 minutes de fonctionnement ?
+c. Combien de temps l’éolienne devra-t-elle fonctionner afin de délivrer une énergie
+de 106 kJ ?
+
+Exercice 4 : (5 points)
+Un sondage a été réalisé pour connaître l’origine (France ou Étranger) des sites fréquentés par
+des internautes âgés de 20 à 59 ans, ayant effectué au cours des 12 derniers mois des achats
+de biens non alimentaires sur internet.
+Ce sondage a concerné 600 personnes âgées de 20 à 39 ans et 400 personnes âgées de 40 à
+59 ans.
+Voici les résultats des réponses à la question : « sur quels sites réalisez-vous vos achats non
+alimentaires ? ».
+
+Âge 20 - 39 ans
+Indifféremment
+français et des
+49%
+
+Uniquement
+français
+42%
+
+Uniquement
+étrangers
+
+Âge 40 - 59 ans
+52 %
+45 %
+
+3%
+
+Uniquement des Uniquement des
+sites français sites étrangers
+
+Indifféremment des
+sites français et des
+
+1. Recopier et compléter le tableau croisé des effectifs suivant :
+Âge
+Sites
+utilisés
+Uniquement des sites
+français
+Uniquement des sites
+étrangers
+Indifféremment des
+sites français et des
+TOTAL
+
+20 – 39 ans
+
+40 – 59 ans
+
+TOTAL
+
+1 000
+
+2. On s’intéresse aux personnes interrogées ayant effectué au cours des 12 derniers mois des
+achats de biens non alimentaires uniquement sur des sites français. Dans cette catégorie,
+la fréquence des 20-39 ans est-elle supérieure à celle des 40-59 ans ?
+3. On s’intéresse aux personnes interrogées ayant effectué au cours des 12 derniers mois des
+achats de biens non alimentaires indifféremment sur des sites français et étrangers. Dans
+cette catégorie, quelle est la fréquence des 40-59 ans ?
+4. Parmi l’ensemble des personnes interrogées, quelle est la proportion, exprimée en
+pourcentage arrondi à 0,1 %, de celles ayant entre 20 et 39 ans qui utilisent essentiellement
+des sites français pour leurs achats ?
+5. L’affirmation suivante est-elle vraie ?
+« Environ 1 % des sondés est âgé entre 40 et 59 ans et commande indifféremment sur des
+sites français et des sites étrangers ».

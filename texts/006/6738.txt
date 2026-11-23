@@ -1,0 +1,139 @@
+{"pages": 4, "method": "pdftotext", "bytes": 739684, "at": "2026-11-23T08:58:13+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans Calculatrice
+
+Durée : 20 minutes
+
+Indiquez vos réponses dans le tableau. Aucune justification n’est attendue.
+Question
+
+Réponse
+
+1) Voici un diagramme qui donne le nombre de clients
+d’un hôtel en 2016, 2017 et 2018.
+
+……………….
+
+Estimer le nombre de clients que l’hôtel a accueilli en
+moins en 2017 par rapport à 2016.
+2) Combien vaut 30 % de 150 € ?
+
+…………………
+
+3) On verse dans un verre le tiers d’un demi-litre de lait.
+Quelle proportion d’un litre de lait contient le verre ?
+
+…………………
+
+4) Factoriser l'expression : 81𝑥 2 − 1
+
+5) Développer et réduire l'expression suivante :
+(2𝑥 + 1)(5 + 𝑥)
+
+81𝑥 2 − 1 = ……………….
+(2𝑥 + 1)(5 + 𝑥) =
+……………………………..
+
+6) Ranger les nombres suivants dans l'ordre croissant :
+29 15
+; 2 ; 15 ; 26
+
+…<⋯<⋯<⋯
+
+On a représenté ci-dessous une fonction 𝑓 définie sur l'intervalle [−2; 2,5].
+Répondre aux questions 7, 8 et 9 par lecture graphique.
+7)
+
+Construire le tableau de variation de la fonction 𝑓.
+
+8) Donner le nombre de solutions de l’équation
+𝑓(𝑥) = −1
+
+9) Donner l’ensemble des solutions de l’inéquation
+𝑓(𝑥) < 0
+
+…………..
+
+……………………………..
+
+10) Tracer sur le graphique précédent la droite d’équation : 𝑦 = 2𝑥 − 1
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+En 2019, le chiffre d'affaires d'un restaurant gastronomique était de 300 000 €.
+On modélise le chiffre d'affaires de ce restaurant (exprimé en milliers d'euros)
+pendant l'année 2019 + 𝑛 par le 𝑛-ième terme, 𝑢𝑛 , de la suite (𝑢𝑛 ) définie par :
+𝑢0 = 300 et 𝑢𝑛+1 = 1,2 × 𝑢𝑛 − 50
+1) Montrer que, selon ce modèle, le chiffre d'affaires du restaurant sera de 310 000 €
+en 2020.
+2) Calculer 𝑢2 et interpréter le résultat obtenu.
+3) Faire une conjecture sur le sens de variations de la suite (𝑢𝑛 ). Expliquer la
+démarche.
+4) Montrer que la suite (𝑢𝑛 ) n'est ni arithmétique, ni géométrique.
+5) Si on exécute l'algorithme ci-contre, à la fin de
+l'algorithme, k a pour valeur 9.
+Comment peut-on interpréter ce résultat ?
+
+u=300
+k=0
+while u<500:
+u=1.2*u-50
+k=k+1
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction définie sur R par : 𝑓(𝑥) = −2𝑥 2 + 6𝑥 + 8
+1) Montrer que : 𝑓(𝑥) = −2(𝑥 + 1)(𝑥 − 4)
+2) Résoudre l'équation 𝑓(𝑥) = 0
+3) Faire un schéma à main levée de l'allure de la courbe représentative de 𝑓 dans un
+repère orthonormé.
+4) Expliquer pourquoi le maximum de la fonction 𝑓 est atteint lorsque 𝑥 = 1,5.
+5) Dresser le tableau de variation de la fonction 𝑓 sur l'intervalle [−1; 4].
+
+Exercice 4 (5 points)
+Un hôtel propose trois formules d'hébergement :
+ nuit avec petit-déjeuner
+ demi-pension
+ pension complète
+La directrice de l'hôtel s'intéresse aux durées des séjours de ses clients pendant
+l'année 2019 et les classe en deux catégories :
+ séjour d'une semaine ou moins
+ séjour de plus d'une semaine
+Voici quelques-unes des informations dont elle dispose :
+ 5 000 clients ont fréquenté l'hôtel en 2019.
+ 3100 clients ont séjourné une semaine ou moins.
+ 750 clients ont séjourné en pension complète.
+ 3 500 clients ont choisi la demi-pension et, parmi ceux-ci, 1050 sont
+restés plus d'une semaine
+ 420 clients ont séjourné en pension complète pendant plus d'une
+semaine.
+1) Combien de clients ont séjourné plus d’une semaine à l’hôtel ?
+2) Recopier sur la copie et compléter le tableau ci-dessous. On ne demande pas le
+détail des calculs.
+Séjours
+
+Nuit avec petitdéjeuner
+
+Demi-pension
+
+Pension
+complète
+
+Total
+
+Une semaine ou
+moins
+Plus d'une semaine
+Total
+
+5000
+
+3) Quel pourcentage de clients a séjourné plus d’une semaine ?
+4) Parmi les clients qui ont séjourné une semaine ou moins, quelle est la proportion
+de ceux qui ont choisi la demi-pension ? Arrondir à l’unité de pourcentage.
+5) On interroge au hasard un des clients de l’hôtel en 2019.
+Quelle est la probabilité qu’il ait séjourné à l’hôtel en pension complète sachant qu’il
+est resté plus d’une semaine ? Arrondir au centième.

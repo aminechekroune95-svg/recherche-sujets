@@ -1,0 +1,165 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1206012, "at": "2026-11-23T08:58:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+− × 9.
+
+1)
+
+Donner l’écriture décimale exacte de
+
+2)
+
+Le prix d’un article a été multiplié par 0,98. Quel
+taux d’évolution a subi le prix de cet article ?
+
+3)
+
+Quel est le coefficient multiplicateur qui
+correspond à une diminution de 30% suivie d’une
+diminution de 20% ?
+
+4)
+
+Déterminer le signe de l’expression 𝐴 = 2𝑥 + 5.
+
+5)
+
+Développer puis réduire
+𝐵 = 2𝑥 2 + (𝑥 − 1)(𝑥 + 1).
+
+Pour les questions suivantes on
+considère la représentation
+graphique de la fonction 𝑓 cicontre.
+
+𝐴
+
+𝐵
+
+6)
+
+Que vaut 𝑓(1) ?
+
+7)
+
+Quelle est l’image de 5 ?
+
+8)
+
+Combien 5 possède-t-il d’antécédents ?
+
+9)
+
+Résoudre graphiquement l’inéquation 𝑓(𝑥) ≤ 0.
+
+10)
+
+Déterminer l’équation réduite de la droite (𝐴𝐵) par
+la méthode de votre choix.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Au 1er janvier 2019, Sophie installe une éolienne dans son jardin. Une éolienne correctement
+orientée produit environ 200 kWh/an.
+La première année, l’installation produit effectivement cette quantité d’énergie. Pour des
+raisons liées aux changements climatiques, on estime que la quantité d’énergie produite
+baissera de 4 % par an au cours des années suivantes.
+Pour tout entier 𝑛 ≥ 0, on note 𝑢𝑛 la quantité d’énergie produite par l’installation durant
+l’année (2019 + 𝑛). On a donc 𝑢0 = 200.
+1. a. Quelle est la quantité d’énergie produite par l’installation durant l’année 2020 ?
+b. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+c. Quelle est la nature de la suite (𝑢𝑛 )? Préciser ses éléments caractéristiques.
+2. Pour calculer les termes successifs de la suite (𝑢𝑛 ), Sophie utilise l’algorithme en
+Python ci-dessous :
+def production(n):
+u=…
+k=0
+while k<n:
+…
+k=k+1
+return u
+
+a. Recopier et compléter cet algorithme.
+b. Quelle valeur est renvoyée par l’instruction « production(5) » ? Interpréter le
+résultat dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Une entreprise qui fabrique et commercialise un produit a une capacité de production
+limitée à 3,5 tonnes par jour.
+Le coût total de fabrication, exprimé en milliers d’euros, pour fabriquer 𝑥 tonnes de ce
+produit est noté 𝐶(𝑥).
+La recette, exprimée en milliers d’euros, obtenue pour 𝑥 tonnes de produit vendu est notée
+𝑅(𝑥).
+Le bénéfice, exprimé en milliers d’euros, obtenu pour 𝑥 tonnes de produit vendu est noté
+𝐵(𝑥).
+Partie A
+Dans le repère ci-contre, la courbe 𝒞𝐶 représente la
+fonction 𝐶, et la courbe 𝒞𝑅 représente la fonction
+𝑅.
+On utilisera le graphique pour répondre aux
+questions 1 et 2.
+
+𝒞𝐶
+𝒞𝑅
+
+1. Quel est le montant en euros de la recette si
+l’entreprise vend 0,5 tonne de produit ?
+Réalise-t-elle un bénéfice dans ce cas ?
+Justifier votre réponse.
+2. Pour quelle(s) quantité(s) de produit
+l’entreprise est-elle bénéficiaire ?
+Partie B
+On admet que le bénéfice pour 𝑥 tonnes de
+produit vendu est donné par
+𝐵(𝑥) = −𝑥 2 + 4𝑥 − 3 où 𝑥 appartient à
+l’intervalle [0 ; 3,5].
+1. On admet que 𝐵 est une fonction dérivable
+sur l’intervalle [0 ; 3,5] et on note 𝐵 ′ sa dérivée.
+Calculer 𝐵′ (𝑥).
+2. Étudier les variations de la fonction 𝐵 sur l’intervalle [0 ; 3,5].
+
+3. Quel est le bénéfice maximum ? Pour quelle quantité de production est-il atteint ?
+
+Exercice 4 (5 points)
+Des plats cuisinés d’un certain type sont fabriqués en grandes quantités.
+On prélève au hasard un plat d’un lot dans lequel 97% des plats sont conformes au cahier
+des charges. On remet le plat dans le lot et on effectue un deuxième prélèvement d’un plat.
+On refait un troisième prélèvement dans les mêmes conditions.
+1. Justifier que cette expérience est un schéma de Bernoulli dont on précisera les
+paramètres.
+2. Représenter cette expérience par un arbre pondéré.
+3. Calculer la probabilité de l’évènement C : « les trois plats prélevés sont conformes au
+cahier des charges ». On donnera une valeur approchée du résultat au millième.
+4. On note 𝑋 la variable aléatoire correspondant au nombre de plats conformes.
+a. Déterminer la loi de probabilité de 𝑋.
+b. Des deux événements suivants, lequel est le plus probable : {𝑋 ≤ 2} ou
+{𝑋 = 3} ?

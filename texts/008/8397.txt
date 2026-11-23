@@ -1,0 +1,161 @@
+{"pages": 5, "method": "pdftotext", "bytes": 867760, "at": "2026-11-23T08:55:23+00:00"}
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+On note 𝑓 la fonction définie sur R par 𝑓(𝑥) = 𝑥 3 et
+on note 𝐶𝑓 sa courbe représentative dans un repère
+1)
+
+orthonormé.
+Déterminer le coefficient directeur de la tangente à
+𝐶𝑓 au point d’abscisse −1.
+
+2)
+
+3)
+
+4)
+
+5)
+
+Déterminer la fonction dérivée de la fonction 𝑔
+définie sur R par 𝑔(𝑥) = 4𝑥 2 − 3𝑥 + 2.
+Factoriser l’expression suivante :
+(𝑥 − 1)2 − (𝑥 − 1)(2𝑥 + 4)
+Résoudre, dans R, l’inéquation suivante :
+3𝑥 − 1 < 4(𝑥 + 2)
+Une moto coute 7 000 €. Son prix augmente de 5 %.
+Calculer son nouveau prix.
+Recopier la proposition qui permet de compéter
+correctement la phrase suivante :
+"Pour compenser une diminution de 3%, il faut…"
+
+6)
+
+7)
+
+a) "…multiplier la valeur diminuée par 1,03."
+b) "…multiplier la valeur diminuée par 0,97."
+c) "…diviser la valeur diminuée par 1,09."
+d) "…diviser la valeur diminuée par 0,97."
+Le prix d’un produit subit deux diminutions de 5%
+puis trois augmentations de 4%. Écrire le calcul qui
+permet d’obtenir le taux d’évolution équivalent à ces
+cinq évolutions successives.
+
+Les questions 8), 9) et 10) portent sur le diagramme ci–dessous qui représente les résultats
+d’une équipe de rugby pendant une saison.
+
+Nombre de matchs
+
+Nombre d'essais
+
+8)
+
+Au cours de combien de matchs l’équipe a-t-elle
+marqué exactement 4 essais ?
+
+9)
+
+Combien de matchs l’équipe a-t-elle disputé pendant
+cette saison ?
+
+10)
+
+Quel est le nombre moyen d’essais marqués par
+match pendant cette saison?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Pour leur résidence principale, M. et Mme Pecoud hésitent entre continuer à louer leur
+appartement ou en devenir propriétaire pour 230 000 €.
+En 2020, leur loyer annuel est de 7 500 €. Ce loyer annuel augmente chaque année de
+180 €.
+On modélise le prix des loyers par une suite arithmétique (𝑢𝑛 ). Ainsi, pour tout entier
+naturel 𝑛, 𝑢𝑛 désigne le loyer annuel pour l’année 2020 + 𝑛.
+
+1. Calculer 𝑢0 et 𝑢1 .
+2. Pour tout 𝑛 ≥ 0, exprimer 𝑢𝑛 en fonction de 𝑛.
+3. Calculer le loyer annuel de l’appartement en 2027.
+4. Après 10 années de location, quelle somme le couple aura-t-il dépensé pour payer
+ses loyers ?
+L’appartement est proposé à la vente au prix de 230 000 €. De plus, la situation du couple
+lui permet de bénéficier d’un prêt à taux zéro (c’est-à-dire qu’il n’a pas à payer d’intérêts sur
+la somme empruntée pour l’achat de l’appartement).
+
+5. Si le couple décide de rester locataire de cet appartement, en quelle année le
+montant total des loyers versés dépassera-t-il 230 000 €, prix auquel il aurait pu
+acheter l’appartement ?
+
+Exercice 3 (5 points)
+Un agriculteur du Cantal produit des yaourts et des fromages. Certains sont produits
+selon les normes de l’Agriculture Raisonnée et d’autres selon celles de l’Agriculture
+Biologique.
+En moyenne, l’agriculteur produit chaque mois 936 yaourts, dont 351 selon les normes de
+l'Agriculture Biologique, et 264 fromages, dont 198 selon les normes de l’Agriculture
+Raisonnée.
+L'agriculteur effectue chaque mois un contrôle de qualité sur un produit choisi au hasard
+parmi les 1 200 de sa production mensuelle.
+Chaque produit a la même probabilité d'être choisi.
+On considère les événements suivants :
+- 𝑌 : « Le produit choisi est un yaourt. ».
+- 𝐹 : « Le produit choisi est un fromage. ».
+- 𝐵 : « Le produit respecte le cahier des charges de l'Agriculture Biologique. ».
+- 𝑅 : « Le produit respecte le cahier des charges de l'Agriculture Raisonnée. ».
+Dans les questions suivantes, on donnera les valeurs exactes des probabilités demandées.
+1. a. Vérifier que 𝑃(𝑌) = 0,78.
+b. Recopier et compléter l'arbre de probabilités ci-dessous.
+𝐵
+0,78
+
+𝑌
+𝑅
+𝐵
+𝐹
+𝑅
+
+2. a. Décrire par une phrase l’évènement 𝑌 ∩ 𝐵, puis calculer 𝑃(𝑌 ∩ 𝐵).
+b. Montrer que la probabilité de l’évènement 𝐵 est égale à 0,3475.
+c. Les évènements 𝑌 et 𝐵 sont-ils indépendants ? Justifier la réponse.
+
+Exercice 4 (5 points)
+
+Une entreprise investit, au 1er janvier 2020, dans un équipement industriel coûtant
+40 000 €, et sa dirigeante souhaite souscrire une assurance sur cet équipement.
+
+1. La compagnie d’assurance contactée estime que, chaque année, la valeur de cet
+équipement industriel va baisser de 14 %.
+a. Calculer la valeur estimée de cet équipement au 1er janvier 2021, puis au 1er
+janvier 2022.
+b. Pour tout entier 𝑛 ≥ 0, justifier que la valeur de l’équipement industriel au 1er
+janvier de l’année 2020 + 𝑛 peut s’écrire : 40000 × 0,86𝑛 .
+
+2. On considère la fonction 𝑓 définie sur l’intervalle [0 ; 20] par 𝑓(𝑡) = 40000 × 0,86𝑡 .
+a. Quel est le sens de variation de la fonction 𝑓 sur [0 ; 20] ? Justifier la réponse.
+b. Résoudre par le calcul l’inéquation 𝑓(𝑡) ≤ 10000 et en déduire l’année à partir de
+laquelle la valeur de l’équipement industriel sera inférieure au quart de sa valeur
+initiale.
+
+La compagnie d’assurance propose à l’entreprise un contrat qui coûte chaque année 15 % de
+la valeur estimée cette année-là pour l’équipement industriel . Ainsi, pour tout entier 𝑛 ≥ 0,
+
+le coût de l’assurance pour l’année 2020 + 𝑛 est : 40000 × 0,86𝑛 × 100 soit 6000 × 0,86𝑛 .
+3. La dirigeante se demande en combien d’années le coût total de l’assurance aura
+dépassé la valeur initiale de l’équipement. Recopier et compléter l’algorithme cidessous pour qu’à la fin de son exécution, il renvoie le nombre souhaité.
+def nombre_d_années():
+n=1
+a=6000
+while …………………… :
+a=………
+n=n+1
+return(……)

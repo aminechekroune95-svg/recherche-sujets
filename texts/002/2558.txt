@@ -1,0 +1,127 @@
+{"pages": 6, "method": "pdftotext", "bytes": 784843, "at": "2026-11-23T09:00:15+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 – QCM (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+Dans un repère orthonormé, on considère la parabole P d’équation 𝑦 = 2𝑥 2 + 4𝑥 − 11, de
+sommet S et d’axe de symétrie la droite D . Quelle est la bonne proposition ?
+A. S(−4 ; 5) et D a pour équation 𝑦 = 5.
+B. S(−1 ; −17) et D a pour équation 𝑥 = −1.
+C. S(−1 ; −13) et D a pour équation 𝑥 = −1.
+D. S(−1 ; −13) et D a pour équation 𝑦 = −1.
+Question 2
+Une expérience aléatoire met en jeu des événements 𝐴 et 𝐵 et leurs événements contraires
+𝐴 et 𝐵. L’arbre pondéré ci-dessous traduit certaines données de cette expérience aléatoire.
+On a alors :
+A. 𝑃(𝐵) = 0,5
+B. 𝑃(𝐴 ∩ 𝐵) = 0,9
+C. 𝑃𝐴 (𝐵) = 0,18
+D. 𝑃𝐵 (𝐴) = 13
+
+Question 3
+On considère le nombre réel 𝑎 =
+
+18𝜋
+
+.
+Un des nombres réels suivants a le même point image que le nombre réel 𝑎 sur le cercle
+trigonométrique. Lequel ?
+A.
+
+3𝜋
+
+B.
+
+63𝜋
+
+C.
+
+−12𝜋
+
+D.
+
+−3𝜋
+
+Question 4
+On considère la fonction 𝑓 définie sur𝐑 par 𝑓(𝑥) = 𝑥e𝑥 .
+La fonction dérivée de la fonction 𝑓 est notée 𝑓′. On a alors :
+A. 𝑓′(𝑥) = e𝑥
+
+B. 𝑓′(𝑥) = (1 + 𝑥)e𝑥
+
+C. 𝑓′(𝑥) = 𝑥e𝑥
+
+D. 𝑓′(𝑥) = 2𝑥e𝑥
+
+Question 5
+Parmi les relations suivantes, quelle est celle qui permet de définir une suite géométrique de
+terme général 𝑢𝑛 ?
+A. 𝑢𝑛 =
+
+𝑢𝑛−1
+
+B. 𝑢𝑛 = 𝑢𝑛−1 + 2
+
+C. 𝑢𝑛 = 2𝑢𝑛−1
+
+D. 𝑢𝑛 = 2𝑢𝑛−1 + 10
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur 𝐑 par 𝑓(𝑥) = 𝑥 3 + 3𝑥² + 3𝑥 − 63.
+On appelle C sa courbe représentative dans un repère orthonormé.
+1. Déterminer 𝑓′(𝑥).
+2. Etudier le signe de 𝑓′(𝑥) sur 𝐑.
+3. Etablir le tableau de variations de la fonction 𝑓 sur 𝐑.
+4. Justifier que la tangente à la courbe C au point d’abscisse −1 est la droite D d’équation
+𝑦 = −64.
+5. Déterminer en quels points de la courbe C la tangente à la courbe est parallèle à la droite
+d’équation 𝑦 = 3𝑥 − 100.
+
+Exercice 3 (5 points)
+Pour placer un capital de 5 000 euros, une banque propose un placement à taux fixe de 5 %
+par an. Avec ce placement, le capital augmente de 5 % chaque année par rapport à l’année
+précédente. Pour bénéficier de ce taux avantageux, il ne faut effectuer aucun retrait
+d’argent durant les quinze premières années.
+On modélise l’évolution du capital disponible par une suite (𝑢𝑛 ). On note 𝑢𝑛 le capital
+disponible après 𝑛 années de placement.
+On dépose 5 000 euros le 1er janvier 2020. Ainsi 𝑢0 = 5 000.
+1. Montrer que 𝑢2 = 5512,5. Interpréter ce résultat dans le contexte de l’exercice.
+2. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser son premier terme et sa raison.
+4. Exprimer 𝑢𝑛 en fonction de 𝑛.
+5. Justifier que le capital aura doublé après 15 années de placement.
+
+Exercice 4 (5 points)
+Dans un repère orthonormé du plan, on considère les points A(−2 ; 1), B(1 ; 2) et
+E(0 ; −5). On appelle C le cercle de centre A passant par B.
+1. Justifier qu’une équation du cercle C est (𝑥 + 2)² + (𝑦 − 1)² = 10.
+2. Calculer ⃗⃗⃗⃗⃗
+AB · ⃗⃗⃗⃗⃗
+AE.
+3. Que peut-on en déduire pour les droites (AB) et (AE) ?
+4. Déterminer une équation cartésienne de la droite (AE).
+5. Calculer les coordonnées des points d’intersection de (AE) et du cercle C.

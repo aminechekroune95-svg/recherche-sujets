@@ -1,0 +1,160 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1027837, "at": "2026-11-23T08:59:00+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+Question 1 : Soit la suite arithmétique (𝑢𝑛 ) de premier terme 𝑢0 = 2 et de raison 0,9.
+On a :
+
+𝑢50 =
+
+b) 𝑢50 =
+100,9
+
+−47
+
+𝑢50 =
+
+d) 𝑢50 =
+−100,9
+
+Question 2 : Soit la suite géométrique ( 𝑣𝑛 ) de premier terme 𝑣0 = 2 et de raison 0,9.
+La somme des 37 premiers termes de la suite ( 𝑣𝑛 ) est :
+1−0,938
+
+a) 2 1−0,9
+
+1−0,937
+
+2 1−0,9
+
+1−238
+
+c ) 0,9 1−2
+
+1−237
+
+0,9 1−2
+
+Question 3 : Un programme en langage Python qui retourne la somme des entiers de
+1 à 100 est :
+
+𝜋
+
+Question 4 : On a 𝑥 ∈ [− 2 ; 0] et cos 𝑥 = 0,8 alors :
+a) sin𝑥 = 0,6
+
+sin𝑥 = −0,6
+
+Question 5 : Le nombre réel
+
+13𝜋
+
+sin𝑥 = −0,2
+
+d) sin𝑥 = 0,2
+
+est associé au même point du cercle trigonométrique
+
+que le réel :
+
+−14 𝜋
+
+−3 𝜋
+
+7𝜋
+
+19 𝜋
+
+Exercice 2 (5 points)
+Le dépistage d’une maladie particulière que l’on appelle M s'effectue par un test basé
+sur le dosage d’une hormone particulière. D’après une étude, cette maladie M touche
+1,5 % de la population.
+Si une personne est atteinte par la maladie M, le test sera positif dans 95 % des cas ;
+alors que si la personne n’est pas atteinte par la maladie M, le test sera négatif dans
+99 % des cas.
+On soumet à ce test une personne prise au hasard dans la population.
+On note :
+● A l’évènement « La personne est atteinte par la maladie M.» ;
+● T l’évènement « Le test est positif.».
+1. Déterminer la probabilité pour que le test soit positif et que la personne choisie
+ne soit pas malade.
+2. Déterminer la probabilité pour que le test soit positif.
+̅) (Arrondir à 10 – 3 près). Interpréter ce résultat dans le contexte
+3. Calculer 𝑃T (A
+de l’exercice.
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = (𝑥 2 − 2,5𝑥 + 1) 𝑒 𝑥 .
+1. On note 𝑓′ la fonction dérivée de 𝑓.
+a) Montrer que, pour tout réel 𝑥, 𝑓 ′ (𝑥) = (𝑥 2 − 0,5𝑥 − 1,5) 𝑒 𝑥 .
+b) Étudier les variations de 𝑓 sur ℝ.
+2. On note 𝒞𝑓 la courbe représentative dans un repère et 𝒯 la tangente à 𝒞𝑓 de la
+fonction 𝑓 au point A d’abscisse 0.
+a) Déterminer une équation de la tangente 𝒯.
+b) On admet que la tangente 𝒯 recoupe la courbe 𝒞𝑓 au point P d’abscisse 𝑎
+strictement positive. A l’aide de votre calculatrice, donner un encadrement
+de 𝑎 au dixième près.
+
+Exercice 4 (5 points)
+Le centre commercial « L’autre faubourg » de Cholet a été
+conçu en forme circulaire de 110 m de rayon permettant une
+visibilité à 360° et une accessibilité optimale, notamment
+aux personnes à mobilité réduite.
+Le parking, situé à l’intérieur du disque, dessert
+l’ensemble des 32 magasins.
+
+O
+
+On munit le plan d’un repère orthonormé de centre O.
+
+𝒞
+
+L’unité est le mètre.
+Les entrées des magasins du centre commercial sont situées sur le cercle 𝒞 de
+centre O et de rayon 110.
+𝒚
+
+O
+
+𝒙
+
+𝒞
+1) Une allée centrale couverte a été construite afin de permettre aux
+automobilistes de rejoindre les magasins en cas d’intempéries. Elle est
+modélisée par la droite (AD) avec A(−30; 15) et D(80; −40).
+a) Déterminer une équation du cercle 𝒞.
+b) Démontrer que le point O appartient à la droite (AD).
+
+2) Camille qui vient de garer sa voiture en G(−10; −10) sous une pluie battante,
+souhaite se mettre à l’abri sous cette allée centrale, le plus rapidement possible.
+a) Calculer le produit scalaire ⃗⃗⃗⃗⃗
+AG. ⃗⃗⃗⃗⃗
+AO.
+b) Le point de la droite (AD) le plus proche de G est-il O ?

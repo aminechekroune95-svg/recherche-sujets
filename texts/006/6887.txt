@@ -1,0 +1,165 @@
+{"pages": 5, "method": "pdftotext", "bytes": 936106, "at": "2026-11-23T08:56:58+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1 − …… 2 −
+
+Compléter par le symbole < ou >
+
+Donner l’écriture décimale du nombre
+
+Écrire sous forme d’une fraction
+1+
+×
+14 15
+
+Compléter
+
+Factoriser l’expression 4𝑥 2 − 9
+
+16×105
+8×109
+
+72 m3 . h−1 = ……….. L. s −1
+
+𝐶𝑓 et 𝐶𝑔 sont respectivement les
+représentations graphiques, dans un repère,
+des fonctions 𝑓 et 𝑔 définies sur R.
+Compléter par lecture graphique.
+
+L’image de −1 par la fonction 𝑓 est
+……………..
+
+L’ensemble de solutions de l’inéquation
+𝑓(𝑥) ≥ −3 est
+…………………………………………
+Le tableau de signes de la fonction 𝑓 est :
+
+Le tableau de variation de la fonction 𝑓 est :
+
+L’équation réduite de la droite représentant
+la fonction 𝑔 est
+………………………………………………..
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+En 2017, un fournisseur d’énergie a réalisé un chiffre d’affaires de 920 millions d’euros dans les
+services énergétiques.
+Les résultats des questions suivantes seront arrondis au million d’euros.
+1. Le chiffre d’affaires a augmenté de 5 % en 2018. Calculer ce chiffre d’affaires, en million
+d’euros.
+On suppose que dans les années suivantes, le chiffre d’affaires continue à augmenter de
+5 % par an.
+On note C la suite dont le terme général 𝐶(𝑛) modélise le chiffre d’affaires, en million d’euros,
+réalisé par le fournisseur dans les services énergétiques pour l’année (2017 + 𝑛).
+Ainsi 𝐶(0) = 920.
+2. Exprimer, pour tout entier naturel 𝑛, 𝐶(𝑛 + 1) en fonction de 𝐶(𝑛).
+3. En déduire la nature de la suite C et donner sa raison.
+4. Le tableau ci-dessous, extrait d’une feuille de calcul, présente le chiffre d’affaires du
+fournisseur dans les années à venir. En reproduisant et en complétant ce tableau, déterminer
+l’année à partir de laquelle le chiffre d’affaires du fournisseur réalisé dans les services
+énergétiques dépassera les 1 600 millions d’euros.
+A
+
+Année
+Rang
+Chiffre d’affaires (en million
+d’euros et arrondi au million
+d’euros)
+
+B
+2025
+
+C
+2026
+
+1359
+
+1427
+
+D
+2027
+
+E
+2028
+
+F
+2029
+
+5. On veut déterminer à partir de quelle année ce chiffre d’affaires aura doublé.
+Sur la copier, recopier et compléter le programme
+ci-contre afin qu’il calcule la valeur 𝑛 permettant de
+déterminer à partir de quelle année ce chiffre
+d’affaires aura doublé.
+
+C=920
+n=0
+while …………:
+C=…………
+n=n+1
+
+EXERCICE 3 (5 points)
+Dans une entreprise de 800 employés, 480 viennent au travail en transports en commun et
+parmi eux, seulement 36 ont un trajet d’une durée strictement inférieure à 30 minutes. Parmi
+les employés qui n’utilisent pas les transports en commun, 91 ont un trajet d’une durée
+strictement inférieure à 30 minutes.
+1. Recopier et compléter le tableau d’effectifs ci-dessous :
+Employés utilisant les
+transports en
+commun
+
+Employés n’utilisant pas
+les transports en
+TOTAL
+commun
+
+Employés dont le trajet a une
+durée strictement inférieure à
+30 minutes
+Employés dont le trajet a une
+durée supérieure ou égale à 30
+minutes
+TOTAL
+
+2. Calculer la proportion des employés qui ne viennent pas en transport en commun.
+3. On interroge au hasard un employé de l’entreprise et on considère les évènements
+suivants :
+- 𝐶 : « l’employé utilise les transports en commun »
+- 𝑅 : « le trajet de l’employé a une durée strictement inférieure à 30 minutes »
+a. Calculer la probabilité 𝑃(𝑅).
+b. Calculer la probabilité 𝑃 (𝐶 ∩ 𝑅).
+c. Calculer la probabilité de 𝐶̅ sachant 𝑅̅ , notée P𝑅̅ (𝐶̅ ).
+
+Les résultats seront donnés sous forme décimale et arrondis à 10−3.
+
+EXERCICE 4 (5 points)
+1. Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = −2𝑥 2 + 43𝑥 − 230 .
+a. Montrer que pour tout 𝑥 ∈ 𝐑 , 𝑓(𝑥) = −2(𝑥 − 10)(𝑥 − 11,5).
+b. Résoudre dans R l’équation 𝑓(𝑥) = 0 .
+2. Une personne décide de faire construire un nouveau local rectangulaire de 43 mètres de
+long. Comme indiqué sur la figure ci-dessous, à chacune des extrémités, des emplacements
+carrés, de côté 𝑥 sont destinés, l’un au stockage des pièces détachées, l’autre à l’accueil. La
+partie centrale accueillant l’atelier de mécanique occupe une aire de 230 m².
+
+Exprimer, en fonction de 𝑥, l’aire totale du local rectangulaire et celles des trois
+emplacements.
+3. En déduire que, pour que ce local ait cette configuration, 𝑥 doit être solution de l’équation
+−2𝑥 2 + 43𝑥 − 230 = 0.
+4. En utilisant la question 1, donner les deux valeurs de 𝑥 possibles.

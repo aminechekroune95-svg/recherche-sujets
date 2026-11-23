@@ -1,0 +1,184 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1570390, "at": "2026-11-23T08:58:54+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Pour les questions 1 et 2, on utilisera l’énoncé suivant :
+On note TF la température en degrés Fahrenheit et TC la température en degrés Celsius.
+On a la relation : TF  1,8TC  32 .
+
+1)
+
+Si TC  30 , la valeur exacte de TF est :
+
+2)
+
+Si TF  50 , alors TC est égale à :
+
+3)
+
+Un objet coûte 45 €. Il augmente de 30 %. Quel est
+son nouveau prix ?
+
+4)
+
+Un prix augmente de 10% puis baisse de 30 %.
+Quelle est l’évolution globale de ce prix ?
+
+5)
+
+Résoudre l’équation 5𝑥 + 1 = 4(2𝑥 − 3).
+
+6)
+
+Résoudre l’inéquation −4𝑥 + 1 < 3 − 2𝑥.
+
+Pour les questions 7 à 10, on utilisera l’énoncé suivant :
+
+Sur le graphique suivant, on a représenté la courbe représentative d’une fonction f définie
+sur ℝ.
+
+7)
+
+Lire sur le graphique l’image de
+−1 par f.
+
+8)
+
+Résoudre 𝑓(𝑥) = −2 avec la
+précision que permet le
+graphique.
+
+9)
+
+Dresser le tableau de signe de la
+fonction f sur [−2 ; 3].
+
+10) Dresser le tableau de variation de
+la fonction f sur [−2 ; 3].
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un athlète s’entraîne au lancer de javelot. Au moment du lancer, le lanceur tient le javelot
+de telle manière que la pointe se trouve à la hauteur du sommet de son crâne. Pendant sa
+course, on considère que les frottements qui s’exercent sur la pointe du javelot sont
+négligeables, et que le javelot n’est soumis qu’à son poids. La trajectoire de la pointe du
+javelot est donc modélisée par une parabole.
+1. Lors du premier essai de l’athlète, la trajectoire de la pointe du javelot est donnée par la
+fonction 𝑓 telle que 𝑓(𝑥) = −0,01𝑥 2 + 0,57𝑥 + 1,8, où 𝑥 est la distance au sol en
+mètres parcourue par la pointe du javelot et 𝑓(𝑥)l'altitude, en mètres, de la pointe du
+javelot quand celle-ci se trouve à une distance au sol de 𝑥 mètres du lanceur. On donne
+ci-dessous la représentation graphique de f.
+Altitude du javelot
+en m
+
+𝒙
+
+Distance au sol
+en m
+
+a. Calculer 𝑓(0). Quelle est la taille de l’athlète ?
+b. Vérifier que 𝑓(𝑥) = −0,01(𝑥 + 3)(𝑥 − 60).
+c. Quelle est la distance au sol totale parcourue par le javelot ?
+d. Donner le tableau de variation de la fonction f sur l’intervalle [0 ; 60]. La hauteur
+maximale atteinte par le javelot dépasse-t-elle 10 m? Justifier.
+
+2. Lors du deuxième essai, la pointe du javelot réalise une trajectoire décrite par la
+fonction ℎ telle que ℎ(𝑥) = −0,01𝑥 2 + 0,6𝑥 + 1,8, où 𝑥 est la distance au sol en mètres
+parcourue par la pointe du javelot et ℎ(𝑥) l'altitude en mètres de la pointe du javelot
+quand celle-ci se trouve à une distance au sol de 𝑥 mètres du lanceur.
+On a écrit le script suivant en Python :
+x=60
+for i in range(1,6):
+print(" x= ",x , "h(x)=",-0.01*x**2+0.6*x+1.8)
+x=60+i
+
+Lorsqu’on l’exécute, on obtient l’affichage suivant :
+x= 60 h(x)= 1.8
+x= 61 h(x)= 1.1900000000000006
+x= 62 h(x)= 0.559999999999998
+x= 63 h(x)= -0.09000000000000052
+x= 64 h(x)= -0.7600000000000022
+L’athlète a-t-il amélioré sa performance par rapport à son premier lancer ?
+
+Exercice 3 (5 points)
+Lorsqu’on conduit une voiture, il est conseillé de laisser entre son propre véhicule et celui
+qui précède, une distance de sécurité D qui est fonction de la vitesse 𝑣 à laquelle on roule.
+On admet que : 𝐷(𝑣) = 0,003𝑣 2 + 0,3𝑣 + 8 où 𝑣 est exprimée en km/h et D en mètres.
+Cette formule est valable pour une vitesse v comprise entre 10 km/h et 130 km/h.
+1. Calculer, arrondies au mètre près, les distances à respecter pour des vitesses de 50
+km/h et 130 km/h.
+2. La distance de sécurité est-elle proportionnelle à la vitesse ? Justifier votre
+réponse.
+3. On admet que la fonction 𝐷 est dérivable sur [10 ; 130] et on note 𝐷′ sa dérivée.
+On admet que :
+𝑑 ′ (𝑣) = 0,006𝑣 + 0,3
+En déduire que la fonction 𝐷 est strictement croissante sur l’intervalle [10 ; 130].
+4. Un tableur permet d’obtenir le tableau de valeurs suivant, dans lequel les valeurs
+de 𝐷(𝑣) sont
+données à l’unité près :
+𝒗
+100 120
+𝑫(𝒗) 15
+Quelle est la vitesse à ne pas dépasser si on suit un véhicule à 51 m ?
+5. La société d’autoroute installe des panneaux de signalisation pour sensibiliser les
+conducteurs : « Un trait : danger, deux traits : sécurité ».
+Sachant qu’un trait mesure 38 m et que l’intervalle séparant deux traits mesure 19
+m, que pensez-vous de cette consigne pour une voiture roulant à 130 km/h ?
+Justifier votre réponse.
+
+Exercice 4 (5 points)
+Une entreprise pharmaceutique souhaite commercialiser un test de dépistage d’une maladie
+infectieuse. Elle réalise une étude portant sur un échantillon représentatif de 2000
+personnes ayant subi le test et qui vivent dans un territoire victime d’une épidémie de cette
+maladie.
+Les résultats de cette étude sont les suivants :
+- 15% des tests sont positifs
+- 85% des tests sont négatifs.
+Parmi les personnes qui ont un test positif, 98% développent la maladie et 2% sont sains.
+Parmi les personnes dont le test est négatif, 1% développe la maladie et 99% sont sains.
+1. Montrer que la proportion de personnes de l’échantillon dont le test est positif et qui
+
+sont sains est égale à 1000.
+2. a. Vérifier qu’au total, 311 personnes de l’échantillon ont développé la maladie.
+b. En déduire la proportion des personnes qui sont effectivement malades dans cet
+échantillon.
+3. En utilisant les questions précédentes, recopier et compléter le tableau à double
+entrée suivant :
+Test positif (en %)
+Test négatif (en %) Total (en %)
+Malade (en %)
+15,55
+Sain (en %)
+Total (en %)
+4. On choisit une personne au hasard parmi les individus de l’échantillon. Calculer la
+probabilité que cette personne ait obtenu un test positif sachant qu’elle est
+effectivement malade.

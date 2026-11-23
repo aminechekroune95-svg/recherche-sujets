@@ -1,0 +1,191 @@
+{"pages": 5, "method": "pdftotext", "bytes": 777214, "at": "2026-11-23T08:58:01+00:00"}
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE I
+Séries technologiques
+decalculatrice
+première
+AUTOMATISMES
+(5 points)- Classe
+Sans
+
+Durée : 20 minutes
+
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+1) Diminuer un nombre de 70 % revient à multiplier ce nombre par :
+a) 0,3
+
+b) 0,7
+
+c) 1,7
+
+d) 0,03
+
+2) Le prix d’un article passe de 20 € à 22 €. Il a augmenté de :
+a) 2 %
+
+b) 5 %
+
+c) 10 %
+
+d) 15 %
+
+3) Une augmentation de 10 % suivi d’une diminution de 20 % équivaut à :
+a) Une augmentation b) Une diminution
+de 10 %
+de 10 %
+
+c) Une augmentation d) Une diminution
+de 12 %
+de 12 %
+
+4) Un article subit une augmentation de 25 %. Pour retrouver sa valeur initiale, cet article
+doit subir une baisse de :
+a) 33 %
+
+b) 25 %
+
+c) 20 %
+
+d) 10 %
+
+5) L’expression 2𝑥 + 6 est strictement positive sur l’intervalle :
+a) ]−∞; −3[
+
+b)]−∞; 3[
+
+c) ]3; +∞[
+
+d) ]−3; +∞[
+
+6) L’expression (𝑥 + 3)(𝑥 − 5) est négative ou nulle sur l’intervalle :
+a) [−3; 5]
+
+b) ]−∞; −3]
+
+c) [5; +∞[
+
+d) [−5; 3]
+
+7) L’équation 𝑥2 = 2 admet dans R :
+a) 2 solutions
+
+b) 1 solution c) c) Aucune solution
+
+d) On ne peut pas savoir
+
+8)
+
+a)
+
+×
+
+a pour écriture sous forme d’une fraction irréductible :
+
+b)
+
+c)
+
+d)
+
+9) Le rayon R de la Terre est 6 371 000 m. On a donc :
+a) R = 6 371 km
+
+b) R = 6, 371 km
+
+c) R = 637,1 km
+
+d) R = 63 710 km
+
+10) L’écriture scientifique de 6 × 103 × 5 × 106 est :
+a) 11 × 109
+
+b) 3 × 1011
+
+c) 3 × 1010
+
+d) 30 × 109
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+Séries technologiques
+- Classe
+de première en vigueur.
+Calculatrice
+autorisée elon
+la réglementation
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+On s’intéresse à la population d’une ville et on étudie plusieurs modèles d’évolution de cette
+population. En 2018, la population de la ville était de 15 000 habitants.
+1) Modèle 1
+On fait l’hypothèse que le nombre d’habitants augmente de 1 000 habitants par an.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’habitants pour l’année (2018 + 𝑛) .
+On a ainsi 𝑢0 = 15 000.
+a. Calculer 𝑢1 et indiquer ce que représente 𝑢1 .
+b. Donner la nature de la suite (𝑢𝑛 ) sans justifier la réponse.
+c. On considère l’algorithme ci-dessous :
+𝑁=0
+𝑈 = 15 000
+while 𝑈 < 30 000:
+𝑈 = 𝑈 + 1 000
+𝑁 =𝑁+1
+À la fin de l’exécution de cet algorithme, la variable 𝑁 est égale à 15.
+Interpréter cette valeur dans le contexte de l’exercice.
+2) Modèle 2
+On fait l’hypothèse que le nombre d’habitants augmente de 4,7 % par an. On note 𝑣𝑛 le
+nombre d’habitants pour l’année (2018 + 𝑛).
+Ainsi on a 𝑣0 = 15 000.
+a. On admet que la suite (𝑣𝑛 ) est géométrique. Déterminer sa raison.
+b. Calculer, selon ce modèle, le nombre d’habitants de la ville en 2023, arrondi à
+l’unité.
+
+EXERCICE 3 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−4 ; 4] par 𝑓(𝑥) = 𝑥 2 − 2𝑥 − 3.
+1) Calculer l’image de −1 par 𝑓.
+2) Montrer que 3 est solution de l’équation 𝑓(𝑥) = 0.
+3) En utilisant les questions 1) et 2), donner une forme factorisée de 𝑓(𝑥).
+4) Dresser le tableau de signes de 𝑓 sur l’intervalle [−4 ; 4] .
+5) Parmi les trois courbes suivantes, déterminer, en justifiant, celle qui représente
+graphiquement la fonction 𝑓.
+
+EXERCICE 4 (5 points)
+Dans un club multisport de 400 adhérents, les sports pratiqués sont le tennis, le squash et le
+badminton. Les adhérents sont classés suivant leurs catégories : enfants, seniors, vétérans.
+On sait que :
+ 15 % pratiquent le badminton et parmi ceux-là, le tiers sont des enfants.
+ 75 % pratiquent le tennis et, parmi eux, 32 % sont seniors.
+ Parmi les adhérents pratiquant le squash, aucun n’est enfant et 20 sont des vétérans.
+1) Compléter, après l’avoir reproduit, le tableau suivant :
+Badminton
+Enfant
+Senior
+Vétéran
+Total
+
+Tennis
+
+Squash
+
+Total
+
+Dans les questions qui suivent, les résultats seront donnés sous forme de fraction irréductible.
+2) On choisit au hasard un adhérent parmi les 400 adhérents du club.
+On considère les événements suivants :
+E : « L’adhérent est un enfant »
+S : « L’adhérent est un senior »
+V : « L’adhérent est un vétéran »
+T : « L’adhérent joue au tennis »
+D : « L’adhérent joue au squash »
+B : « L’adhérent joue au badminton »
+a. Déterminer la probabilité des événements S et T.
+b. Décrire, à l’aide d’une phrase, l’événement S ∩ T puis calculer sa probabilité.
+3) On choisit au hasard un adhérent parmi les joueurs de badminton.
+Calculer la probabilité que ce soit un vétéran.
+4) Calculer la probabilité conditionnelle de E sachant T, notée 𝑃T (E).

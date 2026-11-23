@@ -1,0 +1,185 @@
+{"pages": 6, "method": "pdftotext", "bytes": 729463, "at": "2026-11-23T08:56:48+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquez vos réponses dans le tableau. Aucune justification n’est attendue.
+Question
+
+Réponse
+
+1)
+
+On augmente de 10% un prix de 150€.
+Quel est le nouveau prix ?
+
+2)
+
+Le prix d'un article est passé de 150 € à 210 €.
+Quel est, en %, le taux d'évolution de ce prix ?
+
+……………………………………..
+
+3)
+
+Un prix a été diminué de 10% puis de 20%.
+De combien a-t-il été diminué en tout ?
+
+……………………………….
+
+4)
+
+De 2018 à 2019 le prix d'un article a augmenté de
+25 %.
+Quel devrait être le taux d'évolution de 2019 à
+2020 pour que cet article coûte, en 2020, le
+même prix qu'en 2018 ?
+
+5)
+
+Résoudre dans R l'équation :
+2𝑥 + 1 = 𝑥 − 2
+
+…………………..
+
+……………………………
+
+………………………….
+
+Question
+
+Réponse
+
+6)
+
+Résoudre dans R l'équation : 𝑥 2 = 25
+
+7)
+
+Résoudre dans R l'inéquation : −3𝑥 + 2 < 5
+
+8)
+
+Dresser le tableau de signe sur R de l'expression :
+(2𝑥 − 1)(𝑥 + 7)
+
+………………………………..
+
+Voici un tableau donnant l'évolution du prix du litre de gazole en 2019 :
+Mois
+
+Janvier
+
+Mars
+
+Prix en €
+
+1,40
+
+1,37
+
+Indice de
+base 100
+
+Mai
+
+Juillet
+
+1,68
+
+Les questions 9 et 10 suivantes portent sur ce tableau.
+9)
+
+Déterminer l'indice de base 100 pour le mois de
+juillet.
+
+10)
+
+Déterminer combien a coûté le prix du litre de
+gazole en mai 2019.
+
+………………………
+
+………………………………….
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+En 2019, le chiffre d'affaires d'un restaurant gastronomique était de 300 000 €.
+On modélise le chiffre d'affaires de ce restaurant (exprimé en milliers d'euros)
+pendant l'année 2019 + 𝑛 par le 𝑛-ième terme, 𝑢𝑛 , de la suite (𝑢𝑛 ) définie par :
+𝑢0 = 300 et 𝑢𝑛+1 = 1,2 × 𝑢𝑛 − 50
+1) Montrer que, selon ce modèle, le chiffre d'affaires du restaurant sera de 310 000 €
+en 2020.
+2) Calculer 𝑢2 et interpréter le résultat obtenu.
+3) Faire une conjecture sur le sens de variations de la suite (𝑢𝑛 ). Expliquer la
+démarche.
+4) Montrer que la suite (𝑢𝑛 ) n'est ni arithmétique, ni géométrique.
+5) Si on exécute l'algorithme ci-contre, à la fin de
+l'algorithme, k a pour valeur 9.
+Comment peut-on interpréter ce résultat ?
+
+u=300
+k=0
+while u<500:
+u=1.2*u-50
+k=k+1
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction définie sur R par : 𝑓(𝑥) = −2𝑥 2 + 6𝑥 + 8
+1) Montrer que : 𝑓(𝑥) = −2(𝑥 + 1)(𝑥 − 4)
+2) Résoudre l'équation 𝑓(𝑥) = 0
+3) Faire un schéma à main levée de l'allure de la courbe représentative de 𝑓 dans un
+repère orthonormé.
+4) Expliquer pourquoi le maximum de la fonction 𝑓 est atteint lorsque 𝑥 = 1,5.
+5) Dresser le tableau de variation de la fonction 𝑓 sur l'intervalle [−1; 4].
+
+Exercice 4 (5 points)
+Un hôtel propose trois formules d'hébergement :
+ nuit avec petit-déjeuner
+ demi-pension
+ pension complète
+La directrice de l'hôtel s'intéresse aux durées des séjours de ses clients pendant
+l'année 2019 et les classe en deux catégories :
+ séjour d'une semaine ou moins
+ séjour de plus d'une semaine
+Voici quelques-unes des informations dont elle dispose :
+ 5 000 clients ont fréquenté l'hôtel en 2019.
+ 3100 clients ont séjourné une semaine ou moins.
+ 750 clients ont séjourné en pension complète.
+ 3 500 clients ont choisi la demi-pension et, parmi ceux-ci, 1050 sont
+restés plus d'une semaine
+ 420 clients ont séjourné en pension complète pendant plus d'une
+semaine.
+1) Combien de clients ont séjourné plus d’une semaine à l’hôtel ?
+2) Recopier sur la copie et compléter le tableau ci-dessous. On ne demande pas le
+détail des calculs.
+Séjours
+
+Nuit avec petitdéjeuner
+
+Demi-pension
+
+Pension
+complète
+
+Total
+
+Une semaine ou
+moins
+Plus d'une semaine
+Total
+
+5000
+
+3) Quel pourcentage de clients a séjourné plus d’une semaine ?
+4) Parmi les clients qui ont séjourné une semaine ou moins, quelle est la proportion
+de ceux qui ont choisi la demi-pension ? Arrondir à l’unité de pourcentage.
+5) On interroge au hasard un des clients de l’hôtel en 2019.
+Quelle est la probabilité qu’il ait séjourné à l’hôtel en pension complète sachant qu’il
+est resté plus d’une semaine ? Arrondir au centième.

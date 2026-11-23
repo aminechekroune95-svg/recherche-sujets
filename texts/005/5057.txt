@@ -1,0 +1,168 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1103078, "at": "2026-11-23T08:59:15+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM). Pour chaque question, une seule
+des quatre réponses proposées est exacte. Une bonne réponse rapporte un point. Une
+mauvaise réponse, une réponse multiple ou l’absence de réponse ne rapporte ni n’enlève
+aucun point.
+Relevez sur votre copie le numéro de la question ainsi que la lettre correspondant à la
+réponse choisie. Aucune justification n’est demandée.
+Question 1
+On considère une fonction 𝑓 définie sur ℝ par :
+𝑓(𝑥) = 𝑎𝑥 2 + 𝑏𝑥 + 𝑐, où 𝑎, 𝑏 et 𝑐 sont des nombres réels. ∆ désigne la
+quantité 𝑏 2 − 4𝑎𝑐 .
+Parmi les affirmations suivantes, laquelle est cohérente avec la
+représentation graphique, ci-contre, de cette fonction ?
+a)
+𝑎 > 0 𝑒𝑡 ∆ > 0
+
+b)
+
+c)
+𝑎 < 0 𝑒𝑡 ∆ < 0
+
+d)
+𝑎 > 0 𝑒𝑡 ∆ < 0
+
+𝑎 < 0 𝑒𝑡 ∆ > 0
+
+Question 2
+Lors d’un jeu, on mise 1 euro et on tire une carte au hasard parmi 30 cartes numérotées
+de 1 à 30. On gagne 3 euros si le nombre porté sur la carte est premier, sinon, on ne gagne
+rien. On détermine le gain algébrique en déduisant le montant de la mise de celui du gain.
+On note 𝑋 la variable aléatoire qui prend pour valeur le gain algébrique. Que vaut
+l’espérance 𝐸(𝑋) de la variable aléatoire 𝑋 ?
+c) 0
+a)
+b)
+d)
+
+Question 3
+Quelle est la valeur exacte de
+a) e11
+
+e6 ×e3
+
+b) e9
+
+e2
+
+c) e7
+
+d) e−7
+
+Question 4
+On considère la suite arithmétique (𝑢𝑛 ) de raison −5 et telle que 𝑢1 = 2. Quelle est, pour
+tout entier naturel 𝑛, l’expression du terme général 𝑢𝑛 de cette suite ?
+a) 𝑢𝑛 = 2 − 5𝑛
+b) 𝑢𝑛 = −5 + 2𝑛
+c) 𝑢𝑛 = 7 − 5𝑛
+d) 𝑢𝑛 = 2 × (−5)𝑛
+Question 5
+Les équations cartésiennes ci-dessous sont celles de droites données du plan. Le vecteur
+⃗𝑢(−1
+) est un vecteur normal à l’une de ces droites. Quelle est l’équation de cette droite ?
+a) 2𝑥 + 𝑦 + 5 = 0
+b) 𝑥 + 2𝑦 + 3 = 0 c) −𝑥 + 0,5𝑦 + 2 = 0 d)−4𝑥 + 8𝑦 = 0
+
+Exercice 2 (5 points)
+Soit 𝑓 la fonction définie sur ℝ par : 𝑓(𝑥) = (5 − 2𝑥)e𝑥 .
+On note 𝒞 la courbe représentative de 𝑓. Sur la figure ci-contre, on a tracé
+la courbe 𝒞 dans un repère orthogonal où les unités ont été effacées.
+A est le point d’intersection de 𝒞 avec l’axe des ordonnées et B le point
+d’intersection de 𝒞 avec l’axe des abscisses.
+D est le point de 𝒞 dont l’ordonnée est le maximum de la fonction 𝑓 sur ℝ.
+1. Calculer les coordonnées des points A et B.
+2. Soit 𝑓′ la fonction dérivée de 𝑓 sur ℝ. Montrer que, pour tout réel 𝑥,
+𝑓 ′ (𝑥) = (3 − 2𝑥)e𝑥 .
+3. Étudier le sens de variation de la fonction 𝑓.
+4. En déduire que le point D admet comme coordonnées (1,5 ; 2e1,5 ).
+5. Déterminer une équation de la tangente à la courbe 𝒞 au point A, puis vérifier, à l’aide de
+l’équation obtenue, que le point D n’appartient pas à cette tangente.
+
+Exercice 3 (5 points)
+On injecte dans le sang d’un malade 2 cm3 d’un médicament. On admet que le processus
+d’élimination du médicament peut être modélisé par une suite (𝑈𝑛 ), dont le terme général
+𝑈𝑛 représente le volume en cm3 de médicament présent dans le sang au bout de 𝑛 heures,
+𝑛 étant un entier naturel. Dans ce modèle, on considère que le volume de médicament
+contenu dans le sang diminue de 8 % chaque heure.
+1. Vérifier que 𝑈1 = 1,84 et en donner une interprétation dans le contexte de l’exercice.
+2. a. Pour tout entier naturel 𝑛 , exprimer 𝑈𝑛+1 en fonction de 𝑈𝑛 .
+b. En déduire la nature de la suite (𝑈𝑛 ). Préciser sa raison et son premier terme.
+3. Pour que le médicament soit actif, le volume de médicament présent dans le sang du malade
+doit rester supérieur à un certain seuil 𝑆 ; ce seuil dépend du malade.
+a. À l’aide d’une fonction écrite en langage Python, on se propose de déterminer, en
+fonction de 𝑆, le nombre maximal d’heures durant lesquelles le médicament reste actif.
+Compléter le programme écrit en Python sur l’annexe qui est à rendre avec la copie.
+b. On s’intéresse au cas d’un malade pour qui ce seuil est estimé à 𝑆 = 1,5 cm3 . Que doit-on
+saisir pour exécuter la fonction volMedicament afin qu’elle renvoie le nombre maximal
+d’heures durant lesquelles le médicament reste actif chez ce malade ? Quel est alors ce
+nombre d’heures ?
+
+Exercice 4 (5 points)
+Une culture de pois comporte des pois de couleur « jaune » ou « vert » et de forme « lisse »
+ou « ridé ».
+Le tableau ci-dessous est partiellement renseigné à partir des observations effectuées sur un
+grand nombre de pois de cette culture.
+
+ridés
+lisses
+
+Nombre de pois jaunes
+
+Nombre de pois verts
+
+10 000
+
+1. Compléter le tableau donné en annexe qui est à rendre avec la copie.
+On choisit au hasard un pois de la culture et on s’intéresse aux évènements suivants :
+𝐽 : « le pois est jaune » ;
+𝑅 : « le pois est ridé ».
+L’échantillon étudié est suffisamment important pour être considéré comme représentatif
+de l’ensemble de la culture de pois.
+2. Quelle est la probabilité que le pois soit vert et lisse ?
+3. Calculer la probabilité que le pois soit vert.
+
+4. Calculer la probabilité qu’un pois soit jaune sachant qu’il est ridé, et en déduire la probabilité
+qu’un pois soit vert sachant qu’il est ridé.
+
+5. Calculer 𝑃𝐽 (𝑅) et en donner une interprétation dans le contexte de l’énoncé.
+
+Annexe
+Exercice 3 – question 3. A)
+
+def volMedicament(S) :
+u=2
+n=0
+while u> … :
+u=u*…
+n=n+1
+return n
+
+Exercice 4 – question 1.
+Nombre de pois jaunes
+ridés
+lisses
+
+Nombre de pois verts
+
+10 000

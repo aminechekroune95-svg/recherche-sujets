@@ -1,0 +1,139 @@
+{"pages": 6, "method": "pdftotext", "bytes": 655309, "at": "2026-11-23T08:57:36+00:00"}
+Mathématiques : PARTIE 1
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 (5 points)
+Enoncé
+
+Réponse
+
+1)
+
+Un prix P est augmenté de 7 %. Exprimer le prix final en
+fonction de P.
+
+2)
+
+Un article coûte 50 €.
+Après une réduction de 40 %, quel sera son nouveau prix ?
+
+3)
+
+Un automobiliste roule à 90 km/h.
+Sa vitesse augmente de 20 %.
+Quelle sera alors sa vitesse ?
+
+4)
+
+Une quantité passe de 500 à 450.
+Quel est le taux d’évolution correspondant ?
+
+5)
+
+Résoudre dans R l’équation 2𝑥 + 1 = 5.
+
+6)
+
+Résoudre dans R l’équation 𝑥 2 = 10.
+
+7)
+
+Résoudre dans R l’équation 5𝑥(4𝑥 − 32) = 0.
+
+8)
+
+VRAI ou FAUX ?
+« 𝑥 = 6 est une solution de l’inéquation 4𝑥 − 25 < 0 »
+
+9)
+
+Résoudre dans R l’inéquation −3𝑥 − 18 > 0.
+
+10)
+
+Dresser le tableau de signe de −2𝑥 + 20 sur R.
+
+Mathématiques : PARTIE 2
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+Soit 𝑓 la fonction définie et dérivable sur R dont l’expression est donnée par :
+𝑓(𝑥) = 𝑥 3 − 3𝑥 2 − 3𝑥 + 5
+Sa courbe représentative 𝐶𝑓 est donnée en annexe.
+Les tangentes à la courbe 𝐶𝑓 aux points 𝐵(2; −5) et 𝐶(3; −4) sont également tracées.
+On note 𝑓′ la fonction dérivée de la fonction 𝑓 sur R.
+1. Déterminer graphiquement, avec la précision permise par le graphique :
+𝑓′(3)
+L’équation réduite de la tangente en 𝐵.
+Le nombre de solutions de l’équation 𝑓 ′ (𝑥) = 0, puis une valeur approchée
+des solutions.
+2. Déterminer 𝑓′(𝑥).
+3. On appelle T la tangente à la courbe 𝐶𝑓 au point 𝐴 d’abscisse 0.
+Déterminer l’équation réduite de T par le calcul puis tracer cette tangente sur le
+graphique fourni en annexe.
+a)
+b)
+c)
+
+EXERCICE 3 (5 points)
+Un particulier souhaite faire installer un chauffage géothermique dans sa maison.
+Pour cela, un forage d’au moins 30 mètres (soit 3 décamètres) doit être réalisé.
+On rappelle que 1 décamètre se note 1 dam et que 1 dam = 10 m.
+Une société spécialisée a modélisé le coût du forage, en
+euros, à l’aide d’une suite 𝑢.
+Pour tout entier naturel 𝑛, 𝑢𝑛 désigne le coût du forage à
+une profondeur de 3 + n décamètres.
+Un forage de 3 décamètres coûte 3 500 €.
+On a donc 𝑢0 = 3 500 €.
+La représentation graphique de la suite 𝑢 est donnée cicontre.
+
+1. Par lecture graphique, déterminer 𝑢6 .
+Interpréter cette valeur dans le contexte de l’exercice.
+2. À l’aide de ce graphique, expliquer pourquoi on peut conjecturer que la suite 𝑢 est
+arithmétique ?
+3. On admet que la suite 𝑢 est arithmétique et on donne les deux premiers termes de
+cette suite dans le tableau ci-dessous :
+Profondeur du forage (dam)
+3+0
+3+1
+3+2
+Profondeur supplémentaire n
+(dam)
+Coût de l’installation un (€)
+
+3 500 €
+
+3 555 €
+
+Déterminer la raison de cette suite 𝑢.
+4. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+En déduire les valeurs manquantes du tableau.
+5. Quel est le coût exact de l’installation pour un forage de 90 mètres de profondeur ?
+
+EXERCICE 4 (5 points)
+Une cible est partagée en 8 secteurs angulaires identiques, dont 2 blancs et 6 colorés.
+Un joueur lance successivement 2 fléchettes sur la cible. On suppose qu’il ne manque jamais
+la cible.
+On note B l’événement « La première fléchette atteint un secteur blanc de la cible ».
+1. Calculer la probabilité de l’événement B.
+2. Construire un arbre pondéré modélisant les deux lancers successifs.
+3. Quelle est la probabilité que les deux fléchettes atteignent un secteur blanc ?
+4. On note 𝑋 la variable aléatoire correspondant au nombre de fléchettes situées dans
+un secteur blanc à l’issue de 2 lancers.
+Compléter sur l’annexe le tableau donnant la loi de probabilité de 𝑋.
+5. Calculer 𝑃(𝑋 ≥ 1) et interpréter ce résultat.
+Calculer l’espérance de la variable aléatoire 𝑋.
+
+3+3
+
+ANNEXE – EXERCICE 2
+
+ANNEXE – EXERCICE 4
+𝑘
+
+𝑃(𝑋 = 𝑘)

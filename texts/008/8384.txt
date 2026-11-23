@@ -1,0 +1,154 @@
+{"pages": 7, "method": "pdftotext", "bytes": 651368, "at": "2026-11-23T08:55:30+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE 1
+Automatismes (5points)
+
+sans calculatrice
+
+Questions
+
+durée : 20 min
+
+Réponses
+
+1) Calculer 25% de 500.
+2) Compléter :
+
+Diminuer un nombre de 20%
+revient à le multiplier par….
+
+3) Depuis son introduction sur le marché
+boursier, le prix d’une action augmente de
+1% chaque année. On note 𝑢𝑛 le prix de
+cette action n années après son
+introduction en bourse. Quelle est la nature
+de la suite (𝑢𝑛 ) ?
+4) Développer (2𝑥 − 7)(𝑥 2 − 3).
+5) Résoudre l’inéquation 7 − 2𝑥 < 5 .
+6) Soit 𝑓 la fonction définie sur ℝ par
+𝑓(𝑥) = 5𝑥 3 − 3𝑥 2 + 2𝑥 + 1. Calculer 𝑓 ′ (𝑥).
+7) Soit 𝑔 la fonction définie sur ℝ par
+𝑔(𝑥) = 𝑥 2 − 𝑥 + 1.
+Quel est le coefficient directeur de la
+tangente à la courbe représentative de 𝑔 au
+point d’abscisse 3 ?
+8) Construire sur ℝ le tableau de signes de
+(𝑥 + 7)(𝑥 − 5).
+
+9) Déterminer l’équation réduite de la droite
+(AB) passant par les points A (1 ; 2) et
+B (3 ; 6).
+
+10) Lire graphiquement l’équation réduite de la
+droite (CD).
+
+PARTIE 2
+Cette partie est composée de trois exercices indépendants.
+L’usage de la calculatrice est autorisé selon la réglementation en vigueur.
+Exercice 2 (5 points)
+Dans un lycée polyvalent en 2020, les élèves de terminales étaient répartis selon les
+proportions suivantes : 25% étaient dans la voie professionnelle générale, 35%
+étaient dans la voie technologique et les autres étaient dans la voie générale.
+Les taux de réussite au Baccalauréat de ce lycée en 2020 dans les différentes voies
+ont établi que :
+ 85% des élèves en voie professionnelle ont obtenu leur baccalauréat ;
+ 95% des élèves en voie technologique ont obtenu leur baccalauréat ;
+ 90% des élèves en voie générale ont obtenu leur baccalauréat.
+On choisit au hasard un élève qui était en terminale dans ce lycée en 2020 et on
+note :
+A l’événement « l’élève est en voie professionnelle »
+T l’événement « l’élève est en voie technologique »
+G l’événement « l’élève est en voie générale »
+B l’événement « l’élève a obtenu son baccalauréat en 2020 »
+ B l’événement « l’élève n’a pas obtenu son baccalauréat en 2020 »
+1) Quelle est la probabilité PT(B) ?
+2) Recopier et compléter l’arbre suivant qui représente cette situation.
+A
+
+T
+
+G
+
+3) Déterminer la probabilité P(T∩B).
+4) Démontrer que P(B) = 0,905.
+5) L’élève interrogé a obtenu son baccalauréat en 2020. Déterminer la
+probabilité, arrondie à 0,01 près, qu’il soit élève de la voie technologique ?
+
+Exercice 3 (5 points)
+Depuis janvier 2018 dans une déchetterie, on constate chaque mois une
+augmentation régulière de 15 kg de la masse de déchets incinérables collectés.
+On note :
+ 𝑢0 la masse de déchets incinérables collectés en kg en janvier 2018 ;
+ 𝑢𝑛 la masse de déchets incinérables collectés en kg n mois après
+janvier 2018 pour tout entier 𝑛 ≥ 1.
+La masse de déchets incinérables collectés en septembre 2019 était de 1500 kg
+ainsi 𝑢20 = 1500.
+1) Quelle est la nature de la suite (𝑢𝑛 ) ainsi définie ? On précisera sa raison.
+2) Montrer que 𝑢0 =1200.
+3) Calculer la masse totale de déchets incinérables collectés durant l’année
+2018.
+La plus grosse benne disponible dans cette déchetterie pour les déchets incinérables
+a une capacité de 2 tonnes et elle est vidée chaque mois.
+On admet que cette augmentation mensuelle de 15 kg va se poursuivre dans les
+années à venir.
+On considère la fonction Python suivante :
+def benne(C) :
+M = 1200
+n=0
+while M <= C :
+M = M + 15
+n = n +1
+return n
+4) Pour C=2000, l’exécution de cette fonction Python renvoie le nombre 54.
+Interpréter ce résultat dans le contexte de l’exercice.
+5) Préciser le mois et l’année durant lesquels la benne de 2 tonnes ne suffira
+plus à collecter les déchets incinérables de cette déchetterie.
+
+Exercice 4 (5 points)
+Une entreprise fabrique un produit cosmétique haut de gamme. Cette entreprise peut
+fabriquer au maximum 500 kg par mois de ce produit.
+Le coût de production mensuel (en euros) de 𝑥 kilogrammes de ce produit
+est modélisé par la fonction C définie sur ]0 ; 500] par 𝐶(𝑥) = 𝑥 2 + 500𝑥 + 1600.
+
+1) Quel est le coût mensuel de production de 25 kg de ce produit cosmétique ?
+2) Le coût mensuel moyen de production pour 𝑥 kilogrammes est défini par
+
+𝐶𝑚 (𝑥) =
+
+𝐶(𝑥)
+𝑥
+
+pour tout 𝑥 ∈]0 ; 500].
+
+′ (𝑥)
+Démontrer que 𝐶𝑚
+=
+
+(𝑥+40)(𝑥−40)
+𝑥2
+
+pour tout 𝑥 ∈]0 ; 500].
+
+′ (𝑥)
+3) Dresser le tableau de signe de 𝐶𝑚
+pour tout 𝑥 ∈]0 ; 500] et en déduire le
+sens de variation de la fonction 𝐶𝑚 sur l’intervalle ]0 ; 500].
+
+4) Préciser la quantité de produit cosmétique à fabriquer pour minimiser le coût
+mensuel moyen. Quelle est la valeur du coût mensuel moyen minimal ?

@@ -1,0 +1,151 @@
+{"pages": 5, "method": "pdftotext", "bytes": 863921, "at": "2026-11-23T08:59:45+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Enoncé
+1)
+
+×
+
+2)
+
+Développer (7 − 3𝑥)(7 + 3𝑥).
+
+3)
+
+Calculer l’image de 1 par 𝑓 définie sur R par
+𝑓(𝑥) = −2𝑥 2 − 3.
+
+4)
+
+Résoudre l’équation 5𝑥 − 7 = 3𝑥 − 19
+
+5)
+
+Un article vaut 44 euros et son prix subit une
+diminution de 25%. Calculer son nouveau prix.
+La fonction ℎ, définie sur [−6 ; 5], est
+représentée par la courbe ci-dessous.
+
+7)
+
+Réponse
+
+Calculer la fraction irréductible égale à
+
+6)
+
+Durée : 20 minutes
+
+Par lecture graphique, répondre aux questions
+suivante
+s.
+
+8)
+
+Les antécédents de −3 par ℎ sont :
+L’ensemble des solutions de
+l’inéquation ℎ(𝑥) ≤ 0 est :
+Le tableau de variation de la fonction ℎ
+sur [−6 ; 5] est :
+
+9)
+
+Calculer le coefficient multiplicateur associé à
+une diminution de 20%.
+10) Si 30% d’une quantité Y vaut 60, que vaut Y ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur R par 𝑓(𝑥) = 𝑥² + 2𝑥 − 3.
+1. Parmi les nombres 𝑎, 𝑏 et 𝑐 suivants, lesquels sont des racines de 𝑓 ?
+𝑎=1
+𝑏=2
+𝑐 = −3
+2. Montrer que la forme factorisée de la fonction 𝑓 est 𝑓(𝑥) = (𝑥 − 1)(𝑥 + 3).
+3. Etudier le signe de la fonction 𝑓.
+4. Parmi les trois courbes A, B, et C proposées ci-dessous, déterminer celle représentant la
+fonction 𝑓.
+
+5. Dresser le tableau de variation de la fonction 𝑓.
+
+Exercice 3 (5 points)
+On trouve dans le tableau suivant les quantités de chocolat vendues en France en 2017 et 2018,
+exprimées en tonnes.
+Année
+2017
+2018
+Tonnes de chocolat vendues
+378 850
+333 029
+1. Quel a été le pourcentage d’évolution de la quantité de chocolat vendue en France entre 2017
+et 2018 ? Arrondir le résultat à 1% près.
+On s’intéresse maintenant aux années à venir. Pour tout entier naturel 𝑛, on note 𝑢𝑛 la quantité de
+chocolat vendue en France l’année 2018 + 𝑛, exprimée en tonnes. Ainsi, on a 𝑢0 = 333 029. On
+suppose que le taux d’évolution annuel sera de −12,1% à partir de 2018.
+2. Calculer les valeurs de 𝑢1 et 𝑢2 .
+3. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 . En déduire que la suite (𝑢𝑛 ) est
+géométrique et donner sa raison.
+4. a) Compléter l’algorithme ci-contre pour qu’à la fin de 𝑛 ⟵ 0
+l’algorithme la variable 𝑛 contienne le plus grand entier 𝑢 ⟵ 333 029
+Tant que …………………………..
+n tel que 𝑢𝑛 ≤ 250 000.
+𝑢 ⟵ …………………………
+b) En déduire l’année à partir de laquelle la quantité
+𝑛 ⟵𝑛+1
+de chocolat vendue en France passera en dessous
+Fin Tant que
+de 250 000 tonnes.
+
+Exercice 4 (5 points)
+Une agence a lancé une campagne de publicité afin de faire connaître un nouveau produit. Elle a
+réalisé un sondage dans une zone géographique déterminée afin de connaître l’impact de cette
+campagne.
+ 28% des personnes interrogées ont plus de 60 ans. Parmi elles, 40% ont déclaré connaitre le
+produit.
+ 42 % des personnes interrogées ont entre 25 et 60 ans. Parmi elles, 55% ont déclaré connaitre
+le produit.
+ Parmi les personnes de moins de 25 ans, 75% ont déclaré connaitre le produit.
+On choisit au hasard une personne interrogée par l’agence de publicité et on considère les
+événements suivants :
+- 𝑆 : « la personne interrogée a plus de 60 ans » ;
+- 𝑀 ∶ « la personne interrogée a entre 25 et 60 ans » ;
+- 𝐽 ∶ « la personne interrogée a moins de 25 ans » ;
+- 𝐶 ∶ « la personne interrogée déclare connaitre le produit ».
+1. Recopier et compléter l’arbre pondéré ci-contre.
+2. Calculer la probabilité que la personne
+interrogée ait entre 25 et 60 ans et déclare ne
+pas connaître le produit.
+3. a) Calculer la probabilité de l'événement
+𝐶.
+
+𝑆∩
+
+b) Calculer la probabilité de l’évènement 𝐶.
+4. Calculer la probabilité que la personne ait plus de
+60 ans, sachant qu’elle déclare connaitre le
+produit. Arrondir le résultat au millième.

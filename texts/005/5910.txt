@@ -1,0 +1,205 @@
+{"pages": 9, "method": "pdftotext", "bytes": 719541, "at": "2026-11-23T08:58:21+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Enoncé
+1.
+
+Compléter
+
+2.
+
+Résoudre dans R l’équation x 2  64
+
+3.
+
+À l’aide du tableau ci-contre,
+déterminer le signe de l’expression
+(2 x  1)( x  1).
+
+4.
+
+Factoriser
+4( x  1) - ( x  2)( x  1) .
+
+5.
+
+Soit f la fonction définie sur
+
+Durée : 20 minutes
+Réponse
+
+Diminuer une quantité de 25% signifie
+multiplier cette quantité par …
+
+L’image de 2 par f est ...
+
+2;2,5 dont la représentation
+graphique est donnée ci-dessous.
+
+Compléter.
+
+6.
+
+Soit f la fonction définie sur  2;1,1
+dont la représentation graphique est
+donnée ci-dessous.
+
+Déterminer le tableau de variation de
+f , avec la précision permise par le
+graphique.
+L’équation de la droite D est
+
+7.
+
+……………….
+
+8.
+
+Convertir 80 minutes en heures et en
+minutes.
+
+9.
+
+Soit f la fonction définie sur  2;2,5 dont la
+
+L’ensemble des
+solutions de
+l’inéquation f  x   0
+
+représentation graphique est donnée ci-dessous.
+
+est ……..
+
+10. Un magasin informatique fait une étude sur le prix de
+256 Mo de mémoire USB.
+Voici l’histogramme résumant les différents prix relevés
+dans les magasins.
+
+Dans 75 magasins le
+prix de vente de 256
+Mo USB est compris
+entre
+……….et
+………..€.
+
+Compléter.
+
+PARTIE II
+Calculatrice autorisée
+Les trois exercices sont indépendants
+Exercice 1 : (5 points)
+Le bénéfice, en euros, réalisé par une entreprise, pour x objets vendus, est donné
+par la fonction B définie sur 0;100 par :
+B( x)  4( x  10)( x  90)
+
+1. Quel est le bénéfice réalisé lorsque 20 objets sont vendus ?
+
+2. Combien d’objets faut-il vendre pour que le bénéfice soit nul ? On justifiera la
+réponse par un calcul sur la copie.
+3. Soit B ' la fonction dérivée de B sur 0;100 .
+
+Justifier que, pour tout x  0;100 , B '  x   8x  400 .
+
+4. Etudier le signe de B '  x  sur l'intervalle 0;100 .
+
+5. En déduire le tableau de variation de la fonction B , et le bénéfice maximal
+que peut réaliser l’entreprise. Justifier votre réponse.
+
+Exercice 2 : (5 points)
+Les grands parents de Noé décident de lui ouvrir un compte épargne pour son
+treizième anniversaire, le 15 juin 2019. On leur propose de placer un capital initial de
+2500€ le 15 juin 2019.
+Le placement est à intérêts composés au taux annuel de 2,5%.
+On note un le capital obtenu, exprimé en euros, le 15 juin de l’année (2019+ n ).
+Ainsi, on a u0  2500 .
+1. Calculer u1 . Arrondir à l'unité.
+La première valeur de la suite u ainsi définie, est donnée dans le tableau ci-dessous,
+extrait d'une feuille de calcul.
+
+2. Donner une formule qui, entrée dans la cellule B3, permet par recopie vers le
+bas, d'obtenir la plage B3: B10.
+3. Ecrire une relation de récurrence entre un 1 et un .En déduire la nature de la
+suite  un  .
+
+4. Recopier et compléter le script ci-dessous de la fonction python nommée
+« placement » renvoyant la valeur un pour un entier naturel n choisi au départ.
+def placement(n) :
+u=…
+for i in range(n) :
+u=…
+return u
+5. Déterminer l’année, à partir de laquelle le capital de Noé sera supérieur à
+2700 euros. Justifier votre réponse.
+
+Exercice 3 : (5 points)
+D’après l’étude du journal « The Workforce View in Europe 2019 » publiée le mardi
+28 mai, deux travailleurs sur trois aimeraient adopter la semaine de travail de quatre
+jours.
+Une entreprise de 1500 salariés, comprenant 60 % d’hommes, mène une enquête
+auprès de ses employés afin de connaître leur préférence quant au choix du jour non
+travaillé.
+2% des hommes préfèrent ne pas travailler le lundi alors qu’ils sont 630 à ne pas
+vouloir travailler le vendredi.
+L’entreprise a recensé 482 femmes souhaitant ne pas travailler le mercredi.
+48,8% des salariés souhaitent ne pas travailler le vendredi.
+1. Justifier que 18 hommes ne souhaitent pas travailler le lundi.
+2. A l’aide des données précédentes, compléter le tableau d’effectifs fourni en
+annexe et à rendre avec la copie.
+On considère les événements suivants :
+H : l’événement « le salarié est un homme »,
+
+F : L’événement « le salarié est une femme »,
+L : l’événement « le salarié souhaite ne pas travailler le lundi »,
+
+M : L’événement « le salarié souhaite ne pas travailler le mercredi »,
+V : l’événement « le salarié souhaite ne pas travailler le vendredi ».
+On choisit au hasard un salarié de cette entreprise (tous les employés ayant la
+même probabilité d’être choisi).
+.
+4. a. Quelle est la probabilité que la personne interrogée soit une femme ne
+souhaitant pas travailler le vendredi ?
+
+3. Montrer que p  L  
+
+b. Le directeur interroge les salariés hommes. Il annonce que la probabilité
+que le salarié interrogé souhaite ne pas travailler le mercredi est inférieure à
+un tiers. A-t-il raison ?
+
+ANNEXE
+
+à rendre avec la copie
+
+Exercice 3
+le lundi
+
+le mercredi
+
+le vendredi
+
+Homme
+
+Femme
+
+Total
+
+Total

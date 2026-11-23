@@ -1,0 +1,147 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1005554, "at": "2026-11-23T08:59:26+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend cinq questions indépendantes.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1.
+e5𝑥
+e2𝑥−2
+
+=
+e3𝑥+2
+
+e3𝑥−2
+
+e2,5𝑥−2,5
+
+𝑢0 = 2
+𝑢𝑛+1 = 3𝑢𝑛 − 2
+
+;
+
+pour 𝑛 ∈ ℕ.
+
+e7𝑥−2
+
+Question 2.
+Soit la suite définie par : {
+
+𝑢3 = 7
+
+𝑢3 = 10
+
+c) 𝑢3 = 28
+
+𝑢3 = 4
+
+Question 3.
+Dans un atelier 3% des pièces produites sont défectueuses. On constate qu’au cours du
+contrôle qualité, si la pièce est bonne, elle est acceptée dans 95% des cas, et que si elle est
+défectueuse, elle est refusée dans 98% des cas.
+La probabilité qu’une pièce soit refusée est égale à :
+
+0,0779
+
+0,0294
+
+0,0485
+
+0,98
+
+Question 4.
+
+π
+
+Sachant que cos 𝑥 = 13 et que 𝑥 est compris entre − et 0, la valeur de sin 𝑥 est :
+
+−
+
+− 13
+
+Question 5.
+La loi de probabilité d’une
+variable aléatoire 𝑋 est donnée
+par le tableau ci-contre :
+
+Valeurs xi
+
+−2
+
+𝑝𝑖 = 𝑃(𝑋 = 𝑥𝑖 )
+
+0,3
+
+0,5
+
+0,2
+
+L’espérance 𝐸(𝑋) de la variable aléatoire 𝑋 est égale à :
+
+0,9
+
+0,4
+
+d) 0,5
+
+Exercice 2 (5 points)
+En 2019, le nombre d’abonnés à une page de réseau social d’un musicien était de 6000.
+On suppose que chaque année, il obtient 750 abonnés supplémentaires.
+On désigne par 𝑢𝑛 le nombre d’abonnés en 2019 + 𝑛 pour tout entier naturel 𝑛.
+1. Calculer le nombre d’abonnés en 2020 et 2021.
+2. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3. Quelle est la nature de la suite (𝑢𝑛 ) ?
+4. En déduire une expression de 𝑢𝑛 en fonction de 𝑛.
+5. En quelle année le nombre d’abonnés aura triplé par rapport à l’année 2019 ?
+
+Exercice 3 (5 points)
+Un médicament contre la douleur est administré par voie orale. La concentration du produit
+actif dans le sang, en milligramme par litre de sang, est modélisé par la fonction 𝑓 qui, au
+temps écoulé 𝑥 en heure, 𝑥 étant compris entre 0 et 6, associe :
+𝑓(𝑥) = 𝑥 3 − 12𝑥 2 + 36𝑥 où 𝑥 ∈ [0 ; 6].
+Le produit actif est efficace si sa concentration dans le sang est supérieure ou égale à 5 mg/L.
+1. En exécutant le script Python ci-dessous, on obtient la liste [0, 1, 1, 1, 1, 1, 0].
+
+À l'aide de ce résultat, indiquer l'intervalle de temps en unité d'heures sur lequel le
+médicament est efficace.
+2. On admet que la fonction 𝑓 est dérivable sur l’intervalle [0 ; 6], calculer sa fonction
+dérivée.
+3. Justifier que la tangente T à la courbe représentative de la fonction 𝑓 au point A d'abscisse
+4 admet pour équation réduite 𝑦 = −12𝑥 + 64.
+4. Démontrer que 𝑓(𝑥) − (−12𝑥 + 64) = (𝑥 − 4)3.
+5. En déduire la position relative de la courbe représentative de la fonction 𝑓 par rapport à
+la tangente T au point A.
+
+Exercice 4 (5 points)
+Dans le plan muni d'un repère orthonormé, on considère le point A de coordonnées (3; 1)
+ainsi que la droite (d) d'équation cartésienne 𝑥 − 3𝑦 − 4 = 0.
+1. Déterminer les coordonnées du point B d'abscisse 7 appartenant à la droite (d).
+2. Donner un vecteur normal à la droite (d).
+3. Déterminer une équation de la droite (Δ) perpendiculaire à la droite (d) passant par
+le point A.
+4. Calculer les coordonnées du projeté orthogonal H du point A sur la droite (d).
+5. Calculer la distance AH et en donner une interprétation.

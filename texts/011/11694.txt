@@ -1,0 +1,132 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1501788, "at": "2026-11-23T08:54:32+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les dix questions suivantes sont indépendantes. Seules les réponses sont attendues.
+Questions
+
+Réponses
+
+1. Donner la fraction irréductible égale à
+× .
+2. Donner l'écriture décimale de
+
++ .
+
+3. Donner l’expression développée de
+−𝑥(8𝑥 − 3).
+4. Donner la solution dans R de :
+5𝑥 − 21 = 2𝑥 + 3.
+5. Tracer ci-dessous la droite d'équation : 𝑦 = −2𝑥 + 3.
+
+6. On augmente le nombre 1200 de 10%.
+Quel nombre obtient-on ?
+7. Un prix est baissé de 10% puis augmenté de 10%.
+Quel est, en pourcentage, le taux d’évolution global
+correspondant à ces évolutions successives ? Préciser si
+c’est une augmentation ou une diminution.
+8. Un magasin affiche des soldes de -25% sur les prix de
+tous les articles qu’il vend.
+Le prix soldé d’un article est de 60 €.
+Quel était son prix initial ?
+9. On donne la relation : 𝑇 =
+
+𝑃−𝐶
+
+,
+𝑃
+où 𝑇, 𝑃 et 𝐶 sont des grandeurs strictement positives.
+Exprimer 𝐶 en fonction de 𝑇 et 𝑃.
+10. L’évolution d’un prix est rapportée à une base 100.
+Année
+Prix
+indice
+
+2017
+
+2018
+
+2019
+…..
+
+Quel est l’indice manquant ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une urne contient 10 boules. Sur chaque boule est inscrit un nombre conformément au
+tableau ci-dessous.
+Nombre inscrit sur
+la boule
+Nombre de boules
+
+Ainsi, une boule porte le numéro 5, deux boules portent le numéro 6…etc.
+Un joueur mise 10 euros et tire une boule au hasard. Toutes les boules ont la même
+probabilité d’être tirées.
+Le joueur reçoit la somme en euro inscrite sur la boule tirée.
+1. Calculer la probabilité que le joueur perde de l’argent (c’est-à-dire reçoive moins de 10
+euros à l’issue du tirage).
+2. On note X la variable aléatoire correspondant au « gain » du joueur c’est-à-dire la
+différence entre la somme qu’il reçoit et la somme qu’il a misée.
+Par exemple, si le joueur tire une boule portant le numéro 13, son « gain » est 3, s’il tire une
+boule portant le numéro 6, son « gain » est −4.
+a) Recopier et compléter le tableau ci-dessous qui donne la loi de la variable aléatoire X.
+Valeurs 𝑥 prises
+par X
+𝑃(𝑋 = 𝑥)
+b) Calculer 𝑃(𝑋 ≥ 1).
+c) Calculer la probabilité que le « gain » du joueur soit un nombre pair.
+d) Calculer le « gain » moyen du joueur.
+
+Exercice 3 (5 points)
+Soit 𝑓une fonction définie et dérivable sur l'intervalle [−2; 6] dont la courbe représentative
+C𝑓 est donnée ci-après. On considère les points A(0;15), B(5;35), C(6; 5) et D(4; 49).
+La droite (BC) est la tangente à la courbe C𝑓 au point B.
+
+1. À l’aide du graphique :
+a) dresser le tableau de variations de la fonction 𝑓 sur l'intervalle [−2; 6] ;
+b) donner le nombre de solutions de l'équation 𝑓(𝑥) = 0.
+2. On admet que pour tout nombre réel 𝑥 appartenant à l'intervalle [−2; 6] : 𝑓(𝑥) =
+2𝑥 3 − 12𝑥 2 + 15.
+a) Calculer 𝑓′(𝑥).
+b) En déduire la valeur de 𝑓′(5).
+c) Déterminer l’équation réduite de la droite (BC).
+
+Exercice 4 (5 points)
+Une entreprise de poterie produit entre 5 et 50 pots par jour.
+Le prix de vente d'un pot est de 30€. On suppose que chaque pot produit est vendu.
+Le coût journalier, en euro, de fabrication de 𝑛 pots, avec 𝑛 entier compris entre 5 et 50, est
+modélisé par le nombre C(𝑛), où C est la fonction définie sur R par :
+C(𝑥) = 𝑥 2 − 20𝑥 + 400
+Le résultat financier, en euro, issu de la fabrication et de la vente de 𝑛 pots est noté B(𝑛).
+Il peut être positif (bénéfice) ou négatif (perte).
+1. Montrer que lorsqu'elle produit 20 pots l’entreprise a un résultat financier de 200€.
+2. Justifier que B(𝑛) = −𝑛2 + 50𝑛 − 400.
+On pose, pour tout réel 𝑥 , B(𝑥) = −𝑥 2 + 50𝑥 − 400.
+On admet que : B(𝑥) = −(𝑥 − 10)(𝑥 − 40).
+3. a) Établir le tableau de signe de B(𝑥) sur R.
+b) Pour quelles quantités de pots produits l'entreprise fait-t-elle un bénéfice ?
+4. Pour quelle quantité de pots produits le bénéfice de l’entreprise est-il maximal ?

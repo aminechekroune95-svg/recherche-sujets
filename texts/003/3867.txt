@@ -1,0 +1,168 @@
+{"pages": 9, "method": "pdftotext", "bytes": 838431, "at": "2026-11-23T08:59:58+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Augmenter de 3% un nombre revient à multiplier ce nombre par :
+
+2)
+
+Multiplier un nombre par 0,17 équivaut à diminuer ce nombre de :
+
+3)
+
+Un article coûte 1 500 € après une diminution de 25%.
+Quel était le prix initial ?
+
+…… %
+
+Calculer l’indice manquant :
+
+4)
+
+Année
+
+2014
+
+2015
+
+Prix en euros
+
+Indice
+
+?
+
+5)
+
+Un volume augmente de 10% en un jour, puis de 5% le jour suivant.
+Quel calcul numérique permet d’obtenir le taux d’évolution
+correspondant à l’augmentation du volume sur la période des deux
+jours ?
+
+6)
+
+Résoudre dans R l’inéquation 7 − 2𝑥 < 0.
+
+7)
+
+Résoudre dans R l’équation 𝑥 2 = 64.
+
+8)
+
+On considère le diagramme en boîte ci-dessous représentant une série L’étendue de cette
+statistique quantitative discrète.
+série statistique
+est de :
+………………………
+
+Mettre sous forme de fraction irréductible :
+9)
+
+10)
+
+2 2
+1 2
+( ) ×( )
+Le point 𝐴(−2; 14) appartient-il à la droite d’équation réduite
+𝑦 = 1,5𝑥 + 18 ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une société souhaite remplacer une fenêtre rectangulaire de longueur 250 cm et de hauteur
+50 cm. Elle est composée d’un cadre en aluminium d’une largeur comprise entre 4 et 6 cm
+qui entoure la surface vitrée.
+On note 𝑥 la largeur du cadre en aluminium qui est la même sur tous les côtés.
+
+1. Calculer l’aire de cette fenêtre rectangulaire, en cm².
+2. Si la largeur du cadre en aluminium est de 4 cm, quelle est l’aire de la surface vitrée,
+exprimée en cm² ?
+L’aire de la surface vitrée, exprimée en cm², dépend de la largeur 𝑥, en cm. Cette aire est
+modélisée sur l’intervalle [4 ; 6] par une fonction 𝑓.
+3. Justifier que 𝑓(𝑥) = 4(25 − 𝑥)(125 − 𝑥).
+On admet que la fonction 𝑓 est décroissante sur
+l’intervalle [4 ; 6].
+4. On souhaite que l’aire de la surface vitrée
+représente plus de 75% de l’aire de la
+fenêtre.
+a) Traduire cette contrainte par une
+inéquation.
+b) À l’aide de la table de valeurs donnée cicontre, déterminer les valeurs de 𝑥 qui
+satisfont cette contrainte.
+
+Exercice 3 (5 points)
+Lors du freinage d’une voiture on suppose que la décélération est constante et que la
+
+distance parcourue par la voiture est donnée par 𝑑(𝑡) = − 9 𝑡 2 + 30𝑡 où :
+
+
+
+𝑑(𝑡) est la distance parcourue, en mètre, depuis le début du freinage,
+𝑡 désigne le temps en seconde écoulé depuis le début du freinage,
+
+La courbe représentative de la fonction 𝑑 est donnée en annexe.
+1. Déterminer 𝑑’(𝑡).
+On rappelle que 𝑑’(𝑡) correspond à la vitesse, en m. s −1 , de la voiture à l’instant 𝑡.
+2. Déterminer la vitesse de la voiture à l’instant 𝑡 = 0 où elle commence à freiner. On
+donnera la valeur en km. h−1 .
+3. La voiture commence à freiner.
+Déterminer, par la méthode de votre choix, l’instant auquel la voiture s’arrête.
+4. Le conducteur de la voiture voit un obstacle à 50 mètres et freine.
+a) À partir du graphique fourni en annexe, déterminer le temps (en seconde) mis
+par la voiture depuis le début du freinage pour parcourir les 50 mètres qui la
+sépare de l’obstacle.
+b) À quelle vitesse la voiture va-t-elle percuter l’obstacle ? (On donnera le résultat
+arrondi à 10−1 en m. s −1 puis en km. h−1 ).
+
+Exercice 4 (5 points)
+Une entreprise fabrique des pièces métalliques. La probabilité qu’une pièce choisie au
+hasard dans le stock soit défectueuse est 𝑝 = 0,01. On note D l’événement « la pièce
+choisie est défectueuse ».
+1. On choisit successivement deux pièces dans le stock. La production est suffisamment
+importante pour que l’on puisse assimiler le choix des deux pièces à un tirage avec
+remise.
+a) Recopier et compléter l’arbre de probabilités proposé ci-dessous :
+
+b) Déterminer la probabilité que les deux pièces choisies soient défectueuses.
+2. On choisit successivement trois pièces dans le stock. La production est suffisamment
+importante pour que l’on puisse assimiler le choix des trois pièces à un tirage avec
+remise.
+a) Représenter cette répétition de trois tirages aléatoires identiques et
+indépendants à l’aide d’un arbre de probabilités.
+Soit 𝑋 la variable aléatoire qui, à un tirage de trois pièces, associe le nombre de pièces
+défectueuses.
+b) Calculer 𝑃(𝑋 = 0). Interpréter dans le contexte de l’exercice
+c) En déduire la probabilité que le lot contienne au moins une pièce défectueuse.
+
+Annexe – Exercice 4
+Représentation graphique de la fonction d

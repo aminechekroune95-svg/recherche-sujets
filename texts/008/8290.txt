@@ -1,0 +1,166 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1212583, "at": "2026-11-23T08:56:17+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Enoncé
+
+Durée : 20 minutes
+
+Réponse
+Donner 𝑓(−2)
+
+Pour les questions
+1 et 2, répondre à
+l’aide de la courbe
+ci-contre, qui
+représente une
+fonction 𝑓 définie
+sur l’intervalle
+[−3; 4]
+
+Résoudre 𝑓(𝑥) = 3
+
+Déterminer le signe sur R de l'expression
+𝐴(𝑥) = (𝑥 − 1)(3 − 𝑥).
+Calculer le taux d'évolution équivalent à une
+baisse de 50% suivie d'une hausse de 20%.
+Déterminer l'équation réduite de la droite
+passant par A(2 ; 3) et B(6 ; 5).
+Résoudre l'équation 2𝑥 − 5 = 4𝑥 + 3.
+
+L'équation d’une courbe C est : 𝑦 = 𝑥 2 + 5𝑥 − 4.
+Compléter :
+
+Un article coûte 80 €. Calculer son prix après une
+baisse de 20 %.
+
+Donner la fraction irréductible égale à 1 + 2 − 6.
+
+La vitesse de la lumière est d'environ
+299 792 000 m.s-1
+Ecrire ce nombre en notation scientifique.
+
+A(2 ; …. ) appartient à C
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+L’évolution d’une population de bactéries est étudiée dans un laboratoire.
+Initialement, la population de bactéries compte 50 000 individus.
+Un technicien émet l’hypothèse que cette population augmente de 25 % toutes les heures.
+On note alors 𝑢𝑛 l’estimation selon ce modèle du nombre de bactéries après 𝑛 heures
+écoulées.
+Ainsi 𝑢0 = 50 000.
+1. Calculer 𝑢1 et 𝑢2 .
+2. Le technicien utilise un tableur pour estimer selon ce modèle le nombre de bactéries
+(valeurs arrondies à l’unité) après 𝑛 heures écoulées.
+A
+B
+C
+D
+E
+F
+1 Heures écoulées
+2 Nombre de
+bactéries
+50 000
+62 500
+...
+…
+122 070
+(arrondi à l’unité)
+Quelle formule le technicien a-t-il saisie dans la cellule C2 pour pouvoir compléter, par
+recopie vers la droite, la ligne 2 de ce tableau ?
+3. Donner la nature de la suite 𝑢 et préciser sa raison.
+4. Selon ce modèle, le nombre de bactéries dépasse-t-il 150 000 après 5 heures écoulées ?
+5. Le technicien veut utiliser un programme en langage Python pour déterminer le nombre
+d’heures écoulées à partir duquel le nombre de bactéries sera supérieur ou égal à
+1 000 000. Recopier sur votre copie et compléter l’algorithme ci-dessous pour qu’il
+réponde à l’objectif du technicien :
+def temps_million():
+n = 0
+u = 50 000
+while u <…………… :
+u = ……………
+n = n+1
+return n
+
+EXERCICE 3 (5 points)
+Pour la construction d’un stand d’exposition, une entreprise doit créer une rampe d’accès
+reliant le sol du hall d’exposition avec le plancher du stand.
+
+On se
+place
+dans le repère orthonormé de centre O dans lequel le point A a pour coordonnées (4 ; 1).
+On choisit comme profil de rampe d’accès celui donné par la courbe 𝐶 représentative de la
+fonction 𝑓 définie sur [0 ; 4] par :
+𝑓(𝑥) = −0,03125𝑥 3 + 0,1875𝑥 2
+1. Calculer 𝑓(0) et 𝑓(4). Que peut-on en déduire pour la courbe 𝐶 ?
+2. a. Calculer l’expression de la dérivée 𝑓’ de la fonction 𝑓.
+b. Montrer que l’expression 𝑓 ’(𝑥) peut s’écrire : 𝑓 ′(𝑥) = −0,09375𝑥(𝑥 − 4).
+c. Recopier et compléter le tableau ci-dessous pour obtenir le signe de 𝑓 ′ (𝑥) puis le sens
+de variation de 𝑓 sur l’intervalle [0 ; 4] :
+𝑥
+
+Signe de −0,09375𝑥
+
+Signe de 𝑥 − 4
+Signe de 𝑓 ′ (𝑥)
+
+Variation de 𝑓
+
+3. Pour un bon accès des fauteuils roulants, vérifier que les tangentes à la courbe 𝐶 aux
+points d’abscisses 0 et 4 sont bien horizontales.
+
+EXERCICE 4 (5 points)
+On dispose de deux urnes contenant des boules indiscernables au toucher.
+La première urne contient 3 boules blanches et 1 boule noire.
+La deuxième urne contient 4 boules rouges et 1 boule verte.
+Un jeu consiste à tirer successivement au hasard une boule dans chaque urne.
+On note :
+𝐵 l’événement : « la boule tirée dans la première urne est blanche » ;
+𝑁 l’événement : « la boule tirée dans la première urne est noire » ;
+𝑅 l’événement : « la boule tirée dans la deuxième urne est rouge » ;
+𝑉 l’événement : « la boule tirée dans la deuxième urne est verte » ;
+1. a. Justifier que 𝑝(𝐵) = 0,75 et 𝑝(𝑅) = 0,8.
+b. Recopier et compléter l’arbre de probabilité ci-dessous qui décrit l’expérience :
+
+2. Un joueur perd 3 € si la boule tirée dans la première urne est blanche et gagne 3 € si la
+boule tirée dans la première urne est noire.
+Il gagne ensuite 1 € si la boule tirée dans la deuxième urne est rouge et gagne 4 € si la boule
+tirée dans la deuxième urne est verte.
+a. Quelle est la probabilité que le joueur ait perdu 2€ après le jeu ?
+b. Recopier sur votre copie et compléter le tableau suivant donnant la loi de probabilité du
+gain du joueur :
+Gain du joueur
+
+−2€
+
+1€
+
+4€
+
+Probabilité
+
+c. Calculer l’espérance de gain à ce jeu.

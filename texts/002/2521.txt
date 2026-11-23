@@ -1,0 +1,196 @@
+{"pages": 6, "method": "pdftotext", "bytes": 921190, "at": "2026-11-23T09:00:34+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM) comportant cinq questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer la réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+π
+Soit 𝐴𝐵𝐶 un triangle tel que 𝐴𝐵 = 6, 𝐴𝐶 = 3 et ̂
+𝐵𝐴𝐶 = 3 .
+a.
+𝐴𝐶 = 9
+b.
+
+𝐴𝐶 = 18
+
+c.
+
+𝐴𝐶 = 9√3
+
+d.
+
+les données sont insuffisantes pour calculer ⃗⃗⃗⃗⃗
+𝐴𝐶 .
+
+Question 2
+Soit f une fonction telle que, pour tout nombre réel ℎ non nul,
+𝑓(1 + ℎ) − 𝑓(1)
+= ℎ2 + 3ℎ − 1.
+ℎ
+Alors 𝑓′(1) est égal à :
+a. ℎ2 + 3ℎ − 1
+b. −1
+c. 3
+d. les données sont insuffisantes pour déterminer 𝑓′(1)
+Question 3
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = (𝑥 + 2)e𝑥 .
+Alors, la fonction 𝑓′ dérivée de 𝑓 est donnée sur R par :
+a. 𝑓 ′ (𝑥) = e𝑥
+b. 𝑓 ′ (𝑥) = (𝑥 + 3)e𝑥
+c. 𝑓 ′ (𝑥) = (−𝑥 − 1)e𝑥
+(−𝑥−1)e𝑥
+d. 𝑓 ′ (𝑥) =
+2𝑥
+e
+
+Question 4
+Soit 𝑓 une fonction telle que 𝑓(2) = 5 et 𝑓’(2) = −1.
+Dans un repère, la tangente à la courbe représentative de 𝑓 au point d’abscisse 2 a pour
+équation :
+a. 𝑦 = – 𝑥 – 3
+b. 𝑦 = – 𝑥 + 3
+c. 𝑦 = – 𝑥 + 7
+d. 𝑦 = 5𝑥 – 11
+Question 5
+Soit 𝑓 une fonction définie et dérivable sur R dont la courbe représentative 𝐶𝑓 dans un
+repère est la courbe ci-dessous.
+
+La tangente à la courbe 𝐶𝑓 au point 𝐴 (1, 3) passe par le point 𝐵 (0, − 3).
+Alors :
+a. 𝑓 ′ (1) = 3
+
+b. 𝑓 ′ (1) = 3
+
+c. 𝑓 ′ (1) = − 3
+d. 𝑓 ′ (1) = 3
+
+Exercice 2 (5 points)
+Une entreprise fabrique 𝑞 milliers d’objets, 𝑞 ∈ [1; 20]. Le coût total de fabrication, exprimé
+en euros en fonction de 𝑞, est donné par l’expression :
+𝐶(𝑞) = 𝑞 3 − 18𝑞 2 + 750𝑞 + 200.
+
+1.
+
+a. Calculer le coût total de fabrication de 5 000 objets.
+b. Déterminer le coût moyen de fabrication d’un millier d’objets lorsqu’on fabrique
+5 000 objets.
+
+2.
+
+Le coût moyen 𝐶𝑀 (𝑞) de fabrication de 𝑞 milliers d’objets, exprimé en euros, est donné
+par l’expression :
+𝐶(𝑞)
+𝐶𝑀 (𝑞) =
+= 𝑞 2 − 18𝑞 + 750 +
+.
+𝑞
+𝑞
+′
+a. On note 𝐶𝑀
+la fonction dérivée, sur l’intervalle [1; 20], de la fonction 𝐶𝑀 .
+Montrer que, pour tout 𝑞 ∈ [1; 20],
+2(𝑞 − 10)(𝑞 2 + 𝑞 + 10)
+′ (𝑞)
+𝐶𝑀
+=
+.
+𝑞2
+′
+b. Étudier le signe de 𝐶𝑀
+et dresser le tableau de variation de la fonction 𝐶𝑀 sur
+l’intervalle [1; 20].
+
+c. Quel est le coût moyen minimal et pour quelle quantité d’objets est-il obtenu ?
+
+Exercice 3 (5 points)
+La famille A décide de diminuer de 2 % par mois sa quantité de déchets produite par mois à
+partir du 1er janvier 2020.
+Au mois de décembre 2019, elle a produit 120 kg de déchets.
+1. Justifier qu’au bout de 2 mois, la famille A aura produit environ 115 kg de déchets.
+On admet que la quantité de déchets produits chaque mois conserve la même évolution
+toute l’année.
+On modélise l’évolution de la production de déchets de la famille A par la suite de terme
+général 𝑎𝑛 , où 𝑎𝑛 représente la quantité, en kg, de déchets produits par la famille A 𝑛 mois
+après décembre 2019.
+Ainsi, 𝑎0 représente la quantité de déchets produits durant le mois de décembre 2019, 𝑎1
+représente la quantité de déchets produits durant le mois de janvier 2020, etc.
+2. a. Déterminer la nature de la suite (𝑎𝑛 ).
+b. Pour tout entier naturel 𝑛, exprimer 𝑎𝑛 en fonction de 𝑛.
+c. Déterminer la quantité totale de déchets que produira la famille A durant l’année
+2020.
+On arrondira le résultat à l’unité.
+On rappelle que :
+Soit (𝑢𝑛 )𝑛∈𝐍 une suite géométrique de raison 𝑞, 𝑞 ≠ 1. La somme 𝑆 de termes
+1−𝑞 𝑛
+
+consécutifs est égale à 𝑆 = 𝑢1 + 𝑢2 + ⋯ + 𝑢𝑛 = 𝑢1 × 1−𝑞 .
+d. On donne le programme ci-dessous.
+
+Que représente le résultat renvoyé par la fonction si on entre l’instruction S(6) ?
+
+Exercice 4 (5 points)
+Pierre joue à un jeu dont une partie est constituée d’un lancer d’une fléchette sur une cible
+suivi d’un tirage au sort dans deux urnes contenant des tickets marqués « gagnant » ou
+« perdant » indiscernables.
+
+S’il tire un ticket marqué « gagnant », il pourra recommencer une partie.
+S’il atteint le centre de la cible, Pierre tire un ticket dans l’urne 𝑈1 contenant
+exactement neufs tickets marqués « gagnant » et un ticket marqué « perdant ».
+S’il n’atteint pas le centre de la cible (donc même s’il n’atteint pas la cible), Pierre tire
+un ticket dans l’urne 𝑈2 contenant exactement quatre tickets marqués « gagnant » et
+six tickets marqués « perdant ».
+
+Pierre atteint le centre de la cible avec une probabilité de 0,3.
+On note les événements suivants :
+𝐶 : « Pierre atteint le centre de la cible » ;
+G : « Pierre tire un ticket lui offrant une autre partie ».
+1. Recopier l’arbre pondéré ci-dessous et justifier la valeur 0,9.
+
+0,3
+
+0,9
+
+𝐺
+
+𝐺̅
+
+𝐺
+
+𝐺̅
+
+𝐶
+
+𝐶̅
+
+2. Compléter sur la copie l’arbre pondéré en traduisant les données de l’exercice.
+3. Calculer la probabilité de l’événement 𝐶̅ ∩ 𝐺.
+4. Montrer que la probabilité qu’à l’issue d’une partie Pierre en gagne une nouvelle est
+égale à 0,55.
+5. Sachant que Pierre a gagné une nouvelle partie, quelle est la probabilité qu’il ait atteint le
+centre de la cible ? Arrondir le résultat à 10−3 .

@@ -1,0 +1,170 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1132484, "at": "2026-11-23T08:56:50+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Dans une classe de 36 élèves, 9 font de l’allemand LV2.
+Donner la proportion (exprimée en %) d'élèves étudiant
+l'allemand en LV2 dans la classe.
+
+2)
+
+Dans un lycée, parmi les 40% d’élèves qui partent en
+vacances, 12% partent à l’étranger.
+Quel est le pourcentage des élèves du lycée qui partent en
+vacances à l’étranger ?
+
+3)
+
+Calculer 𝐴 =
+
+4)
+
+5)
+
+6)
+
+0,25×4×103
+5×102
+
+.
+
+L’indice de masse corporelle 𝐼, se calcule avec la formule :
+𝑃
+𝐼 = 𝑇 2 , 𝑃 étant le poids en kg et 𝑇 la taille en m.
+Exprimer 𝑇 en fonction de 𝐼 et de 𝑃 .
+Développer et réduire l’expression :
+𝐶(𝑥) = (𝑥 − 5)(3 − 2𝑥)
+
+Soit la fonction f définie sur ℝ par : 𝑓(𝑥) = 5𝑥 2 − 3
+Calculer 𝑓(− 2). Donner le résultat sous forme d’une fraction
+irréductible.
+
+Pour les questions 7, 8, 9 et 10, on considère la représentation graphique (𝐷) d’une fonction f donnée
+ci-dessous :
+
+7)
+
+Justifier que l'équation réduite de la droite (𝐷) est 𝑦 = 2𝑥 − 4.
+
+8)
+
+Donner l’image de 5 par la fonction f.
+
+9)
+
+Quelle est l’abscisse du point de (𝐷) d’ordonnée -3 ?
+
+10)
+
+Le point de coordonnées ( -4 ; -13), est-il sur la droite (𝐷) ?
+Pourquoi ?
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+En 2016, Mélanie est embauchée dans une entreprise avec un salaire de départ de 1500 €.
+Au 1er janvier 2017, son contrat stipule une augmentation mensuelle de 0,5 %.
+On note 𝑏0 = 1500 son salaire d'embauche puis pour 𝑛 supérieur ou égal à 0, 𝑏𝑛 son salaire
+du (n +1)-ième mois. Le premier mois est le mois de janvier 2017.
+1. Montrer que 𝑏1 = 1507,5.
+2. Montrer que pour tout entier naturel 𝑛 on a : 𝑏𝑛+1 = 1,005 𝑏𝑛 et en déduire la
+nature de la suite (𝑏𝑛 ) dont déterminera les éléments caractéristiques.
+3. Les premières valeurs, arrondies au centième, de la suite (𝑏𝑛 ) sont données dans le
+tableau ci-dessous, extrait d'une feuille de calcul.
+A
+B
+C
+D
+E
+F
+Rang 𝑛
+Salaire 𝑏𝑛
+1 500
+1 507,50
+a. Quelle formule, destinée à être recopiée vers la droite, peut-on saisir dans la
+cellule D2 pour obtenir les valeurs de la suite (𝑏𝑛 ) ?
+b. Recopier et compléter le tableau.
+4. On admet que 𝑏25 < 1700. Si Mélanie avait eu une augmentation de 8 euros par
+mois à partir du 1er janvier 2017 à la place d’une augmentation mensuelle de 0,5 %,
+cela aurait-il été préférable ?
+
+EXERCICE 3 (5 points)
+Une petite entreprise fabrique des piscines hors-sol. Pour des raisons de stockage, la
+production mensuelle 𝑥 est comprise entre 0 et 10 unités.
+Le coût total de fabrication, exprimé en milliers d'euros, est donné par la fonction 𝐶 définie
+sur [0 ; 10] par 𝐶(𝑥) = 0,4𝑥² + 8,4 .
+1. Le graphique fourni ci-après représente le coût de fabrication 𝐶(𝑥) en milliers d'euros,
+en fonction du nombre de piscines 𝑥. Déterminer avec la précision que permet la
+lecture graphique le coût de fabrication de 4 piscines et le nombre de piscines
+correspondant à un coût de 10 000 €.
+
+2. Chaque piscine est vendue 4 000 €. On note 𝑅(𝑥) la recette correspondant à la vente
+de 𝑥 piscines et 𝐵(𝑥) le bénéfice mensuel (exprimés en milliers d'euros).
+a. Montrer que l'expression de 𝐵 en fonction de 𝑥 est :
+𝐵(𝑥) = −0,4𝑥² + 4𝑥 − 8,4 .
+b. Montrer que la forme factorisée de 𝐵 est :
+𝐵(𝑥) = −0,4(𝑥 − 3)(𝑥 − 7).
+c. Dresser le tableau de signes de 𝐵(𝑥) sur l'intervalle [0 ; 10].
+3. En déduire le nombre de piscines que l'entreprise devra vendre si elle souhaite faire
+un bénéfice strictement positif et le nombre de piscine qu’elle devra vendre pour un
+bénéfice maximal. Justifier.
+
+EXERCICE 4 (5 points)
+La direction de la recherche, des études, de l’évaluation et des statistiques (Drees) a publié en
+2015, la répartition des résidents en établissement d’hébergement pour personnes âgées.
+Le tableau ci-dessous, donne cette répartition selon la tranche d’âge en années et le sexe :
+[60 ; 70[
+24 575
+28 569
+53 144
+
+Femmes
+Hommes
+Total
+
+[70 ; 80[
+58 232
+37 864
+96 096
+
+[80 ; 90[
+239 874
+80 446
+320 320
+
+[90 ; 110]
+211 559
+46 881
+258 440
+
+Total
+534 240
+193 760
+728 000
+
+Dans tout l'exercice, les résultats demandés seront arrondis au centième.
+1. On choisit au hasard une personne résidant en établissement d’hébergement pour
+personnes âgées.
+On considère les événements suivants :
+𝐹 : « La personne choisie est une femme ».
+𝑄 : « La personne choisie a plus de quatre-vingt-dix ans ».
+On note 𝑄 l'évènement contraire de l'évènement 𝑄.
+a. Calculer la probabilité de l’événement 𝐹, notée 𝑝(𝐹), puis calculer 𝑝(𝑄).
+b. Définir par une phrase l’événement 𝑄̅ puis calculer sa probabilité.
+c. Définir par une phrase l’événement 𝐹 ∩ 𝑄 puis calculer sa probabilité.
+2. On choisit au hasard une personne résidant en établissement d’hébergement et âgée
+de plus de quatre-vingt-dix ans.
+a. Calculer la probabilité que cette personne soit une femme.
+b. Calculer la probabilité conditionnelle 𝑝𝐹 (𝑄).

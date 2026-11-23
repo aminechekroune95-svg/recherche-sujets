@@ -1,0 +1,156 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1221719, "at": "2026-11-23T08:58:40+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Enoncé
+1)
+
+Ecrire −
+
+Durée : 20 minutes
+Réponse
+
+sous la forme d’une
+
+fraction irréductible.
+
+2)
+
+Calculer 30 % de 30 % de 600.
+
+3)
+
+Quel est le coefficient multiplicateur
+correspondant à une baisse de 12 % ?
+
+4)
+
+Développer (5𝑥 − 2)2 .
+
+5)
+
+Calculer 𝑓(−2) avec 𝑓(𝑥) = 3𝑥 3 − 2.
+
+6)
+
+Résoudre dans R l’équation
+5𝑥 − 4 = 5𝑥 − 24
+
+7)
+
+Résoudre dans R l’équation 𝑥² = 64.
+
+8)
+
+D est la droite d’équation 𝑦 = −5𝑥 +
+3. Compléter :
+
+9)
+
+Déterminer l’équation réduite de la
+droite (MN) avec M(3;5) et N(-6;2).
+
+𝐴(2 ; . . . . ) ∈ 𝐷
+
+10) Convertir 0,125 L en mL.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points), avec ordinateur
+On considère la fonction Python suivante :
+def f(x):
+return 0.1*x**3-1.305*x**2+4.65*x-3.2
+Cette fonction Python correspond à une fonction 𝑓 définie sur [0; 8].
+1.
+a. Donner l’expression de 𝑓(𝑥). On rappelle que 𝑥 𝑛 se note x**n en Python.
+b. Calculer 𝑓(0) et 𝑓(2,5).
+2. On admet que la fonction 𝑓 est croissante sur [0 ; 2,5]. On considère la fonction
+Python balayage1 ci-dessous.
+def balayage1(y,xmin,pas):
+x=xmin
+while f(x)<=y:
+x=x+pas
+return x-pas
+Appeler balayage1(0,0,0.00001). Quel est le résultat trouvé, à 0,00001 près
+par défaut, et à quoi correspond-il ?
+3. On admet que la fonction 𝑓 est décroissante sur [2,5 ; 6,2].
+En vous aidant de la fonction Python précédente balayage1, écrire une fonction Python
+balayage2 qui permet de résoudre dans [2,5 ; 6,2] l’équation 𝑓(𝑥) = 𝑘 d’inconnue 𝑥,
+lorsque 𝑘 est un réel appartenant à l’intervalle [𝑓(6,2) ; 𝑓(2,5)].
+
+Exercice 3 (5 points)
+Une usine de fabrication de vélos électriques a une capacité de production de 70 vélos
+par jour.
+Pour 𝑥 vélos produits et vendus, avec 𝑥 dans [0 ; 70], le chiffre d’affaires en centaines
+d’euros est donné par 𝐴(𝑥) = 8𝑥 et le coût de production en centaines d’euros est
+donné par 𝐶(𝑥) = 0,001𝑥 3 + 0,075𝑥² + 3,8𝑥 + 16 .
+1. Montrer que le résultat 𝑅(𝑥) = 𝐴(𝑥) − 𝐶(𝑥) réalisé par la vente de 𝑥 vélos est
+donné par
+𝑅(𝑥) = −0,001𝑥 3 − 0,075𝑥² + 4,2𝑥 − 16 .
+2.
+a. Déterminer 𝑅’(𝑥), où 𝑅’ est la dérivée de la fonction 𝑅 sur l’intervalle [0 ; 70].
+b. Montrer que pour tout 𝑥 dans [0 ; 70] on a 𝑅’(𝑥) = −0,003(𝑥 + 70)(𝑥 − 20).
+c. Etudier le signe de 𝑅’(𝑥) puis en déduire le tableau de variations de la fonction 𝑅
+sur [0 ; 70].
+3. Suivant ce modèle, combien de vélos l’entreprise doit-elle produire et vendre par
+jour pour réaliser un résultat maximum ? Quel est ce résultat maximum ?
+
+Exercice 4 (5 points)
+
+Un artiste de rue réalise des mosaïques à l’aide de carreaux de couleurs.
+
+Il a 1 500 carreaux, dont 25 % sont jaunes, 5 sont bleus et les autres sont rouges.
+Certains des carreaux sont abîmés. Un dixième des carreaux bleus sont abîmés. Pour les
+jaunes, 96 % ne sont pas abîmés. Au total, il y a 117 carreaux abîmés.
+1. Recopier sur votre copie et compléter le tableau suivant :
+Carreaux
+
+Jaunes
+
+Bleus
+
+Rouges
+
+Abîmés
+
+Total
+
+Non
+abîmés
+Total
+
+1500
+
+2. L’artiste prend un carreau au hasard, tous les carreaux ayant la même probabilité
+d’être choisis. Arrondir toutes les réponses au millième près, si nécessaire.
+a. Déterminer la probabilité d’avoir un carreau abîmé.
+b. Déterminer la probabilité d’avoir un carreau rouge qui n’est pas abîmé.
+c. Déterminer la probabilité de ne pas avoir un carreau bleu.
+d. On note A : l’évènement « le carreau est rouge » et B l’évènement « le carreau
+n’est pas abîmé ».
+Calculer PB(A), au millième près, et décrire par une phrase en français la
+signification de cette probabilité.

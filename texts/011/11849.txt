@@ -1,0 +1,179 @@
+{"pages": 8, "method": "pdftotext", "bytes": 898904, "at": "2026-11-23T08:53:13+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PREMIÈRE PARTIE
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+57 ×5−2
+
+Réponse
+
+1)
+
+Écrire le nombre
+puissance
+
+2)
+
+Déterminer l’équation réduite de la droite (𝑑)
+passant par les points 𝐴(4; 5) et 𝐵(8; 3).
+
+Durée 20 minutes
+
+sous la forme d’une seule
+
+Les solutions de l’inéquation
+𝑓(𝑥) ≥ 1 sont :
+
+3)
+La fonction 𝑓 définie sur [−2; 7] est
+représentée par la courbe (𝐶𝑓 ) ci-dessous. La
+droite (𝑇) est la tangente à la courbe (𝐶𝑓 ) au
+point d’abscisse 4.
+
+Le tableau de variation complet
+de la fonction 𝑓 est :
+
+(𝑇)
+4)
+
+Le coefficient directeur de la
+5)
+
+tangente à la courbe (𝐶𝑓 ) au
+point d’abscisse 4 est :
+
+Le tableau suivant donne le prix du baril de
+pétrole, en dollars, le 1er de chaque mois.
+Octobre
+Mois
+Septembre
+6)
+
+Prix en
+dollars
+Calculer le taux d’évolution du prix du baril de
+pétrole, en pourcentage, entre le 1er septembre et
+le 1er octobre.
+Le prix du baril de pétrole a augmenté de 5%
+
+7)
+
+entre le 1er octobre et le 1er novembre.
+Déterminer le prix du baril de pétrole, en dollars,
+le 1er novembre.
+
+8)
+
+9)
+
+Déterminer la fonction dérivée 𝑓 ′ de la fonction 𝑓
+définie sur ℝ par 𝑓(𝑥) = 2,5𝑥 3 − 4𝑥 2 + 7.
+Déterminer le signe de l’expression :
+(3𝑥 − 6)(5 − 𝑥)
+On pourra utiliser un tableau.
+
+Les dépenses fixes d’un employé représentent 5
+
+10)
+
+de son salaire. De plus le loyer représente 3 des
+dépenses fixes.
+Quelle proportion du salaire de l’employé le
+loyer représente-t-il ?
+
+DEUXIÈME PARTIE
+Calculatrice autorisée
+Cette partie est composée de trois exercices
+indépendants
+Exercice 2 (5 points)
+En 2020, la production totale de la pêche de capture d’un pays a été de 84,4 millions
+de tonnes.
+On estime qu’à partir de l’année 2020, la production totale de la pêche de capture de
+ce pays va augmenter de 5,8% par an.
+On modélise la situation par une suite (𝑢𝑛 ).
+Pour tout entier naturel 𝑛, 𝑢𝑛 représente la production totale de la pêche de capture
+de ce pays de l’année 2020 + 𝑛, en millions de tonnes. On a ainsi 𝑢0 = 84,4.
+1) Déterminer la production totale de la pêche de capture de l’année 2021.
+2) Justifier que la suite (𝑢𝑛 ) est géométrique et préciser la raison.
+3) Déterminer 𝑢𝑛 en fonction de 𝑛.
+4) Calculer la production totale de la pêche de capture de l’année 2032.
+5) On considère l’algorithme ci-dessous écrit en langage python :
+
+A l’issue de l’exécution de cet algorithme, la variable 𝑛 est égale à 16.
+Interpréter cette valeur dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Une fromagerie a deux caves pour affiner ses fromages.
+Le gestionnaire de la fromagerie constate que 3% des fromages affinés dans la
+cave A développent un mauvais goût, alors que dans la cave B, 6% des fromages
+affinés développent un mauvais goût.
+La cave A permet d’affiner 60 000 fromages et la cave B permet d’affiner
+140 000 fromages.
+On prélève au hasard un fromage affiné par cette fromagerie.
+On note :
+
+
+
+A l’événement « le fromage a été affiné dans la cave A »
+M l’événement « le fromage a développé un mauvais goût »
+
+1) Justifier que 𝑃(𝐴) = 0,3 et donner 𝑃𝐴 (𝑀).
+2) Recopier et compléter l’arbre de probabilité ci-dessous qui représente cette
+situation :
+
+3) Calculer 𝑃(𝐴 ∩ 𝑀)
+4) Calculer 𝑃(𝑀)
+5) Le testeur remarque que le fromage prélevé a développé un mauvais goût.
+Quelle est la probabilité qu’il ait été affiné dans la cave A ? Arrondir le résultat
+à 10−3 .
+
+Exercice 4 (5 points)
+Une entreprise propose une nouvelle glace au début de l’été.
+Voici le relevé des ventes par semaine.
+La semaine de rang 0 est la semaine de lancement.
+La semaine de rang 𝑘 est la 𝑘-ième semaine après la semaine de lancement.
+Rang de la semaine 𝑥𝑖
+
+Nombre de glaces
+vendues 𝑦𝑖 en milliers
+d’unités
+
+2,7 3,4 4,8 6,9 10 14,6
+
+On a représenté le nuage de points (𝑥𝑖 ; 𝑦𝑖 )0≤𝑖≤5 dans un repère donné en annexe,
+ainsi que la courbe représentative de la fonction 𝑓 définie dans la question 2).
+1) Une calculatrice donne comme ajustement affine par la méthode des moindres
+carrés, la droite (𝑑) d’équation 𝑦 = 2,3𝑥 + 1,3.
+a) Tracer cette droite sur le graphique donné en annexe, qui est à rendre avec la
+copie.
+b) À l’aide de cette droite, estimer le nombre de glaces vendues la 7𝑒 semaine
+après la semaine de lancement.
+2) On considère un second ajustement défini par la fonction 𝑓 définie sur [0; 15] par
+𝑓(𝑥) = 2,5 × 1,41𝑥 .
+
+Cette fonction est représentée dans le repère donné en annexe.
+a) Expliquer pourquoi cet ajustement paraît plus pertinent que la droite (𝑑).
+b) À l’aide de cet ajustement, prévoir le nombre de glaces vendues la 7𝑒
+semaine après la semaine de lancement.
+c) Résoudre l’inéquation 2,5 × 1,41𝑛 ≥ 40, d’inconnue 𝑛 entier naturel.
+Interpréter le résultat dans le contexte de l’exercice.
+
+ANNEXE À RENDRE AVEC LA COPIE

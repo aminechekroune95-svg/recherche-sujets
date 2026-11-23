@@ -1,0 +1,165 @@
+{"pages": 5, "method": "pdftotext", "bytes": 837784, "at": "2026-11-23T08:59:44+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I- Calculatrice non autorisée
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1)
+
+Calculer
+et
+exprimer
+sous
+fraction irréductible :
+3 4
+−
+2 3
+
+2)
+
+Calculer 25 % de 200
+
+3)
+
+Factoriser : 𝑥 2 − 7𝑥
+
+4)
+
+Convertir 2,25 heures en heures et minutes.
+
+5)
+
+Résoudre dans R l’équation : 3𝑥 − 2 = 2 − 𝑥
+
+6)
+
+Déterminer l’ordonnée du point A qui est situé sur la
+droite d’équation 𝑦 = −2𝑥 + 1 et qui a pour abscisse
+−2.
+Le volume d’un cylindre est donné par la formule :
+𝑉 =𝐵×ℎ
+où 𝐵 est l’aire de sa base et ℎ sa hauteur.
+
+7)
+
+8)
+9)
+
+forme
+
+d’une
+
+Exprimer 𝐵 en fonction de 𝑉 et ℎ.
+Exprimer sous la forme d’une puissance de 2 :
+27 × 28
+Combien l’équation :
+𝑥 2 = −4
+admet-elle de solutions sur R ?
+
+Entourer la bonne réponse.
+10) Deux réductions successives de 50 % correspondent à :
+Entourer la bonne réponse.
+
+Zéro
+Une
+Deux
+
+Une réduction de 100 %
+Une augmentation de 100 %
+Une réduction de 75 %
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [0 ; 6] par :
+𝑓(𝑥) = 𝑥 2 + 6𝑥 + 180
+On note 𝑓′ la fonction dérivée de la fonction 𝑓.
+1) Calculer 𝑓′(𝑥) pour tout nombre réel 𝑥 de l’intervalle [0 ; 6].
+2) Étudier le signe de 𝑓′(𝑥) sur l’intervalle [0 ; 6].
+3) En déduire le tableau de variations de la fonction 𝑓 sur l’intervalle [0 ; 6].
+4) On considère une entreprise hôtelière dont le chiffre d’affaire, en milliers d’euros, est
+modélisé, pour l’année (2020 + 𝑛) par 𝑓(𝑛), où 𝑛 est un entier positif ou nul.
+On considère le script ci-dessous écrit en langage « Python ».
+def annee():
+n=0
+while n*n + 6*n + 180 < 200 :
+n=n+1
+return n
+
+a) Quelle valeur numérique est renvoyée lorsqu’on exécute la commande :
+annee() ?
+b) Interpréter cette valeur dans le cadre de l’exercice.
+
+Exercice 3 (5 points)
+Un menu de cantine de type « self » propose deux entrées différentes : un avocat
+mayonnaise (A) ou un bol de salade (B).
+Trois lycéens choisissent chacun au hasard une entrée de façon indépendante.
+On suppose que la probabilité de prendre un avocat mayonnaise, pour chaque lycéen, est
+égale à 0,3 et celle de prendre un bol de salade à 0,7.
+
+1) Représenter la situation par un arbre de probabilités.
+2) Calculer la probabilité que les trois lycéens prennent chacun un avocat mayonnaise.
+3) On note 𝑋 la variable aléatoire associée au nombre de bols de salade qui seront
+choisis par les trois lycéens.
+On donne ci-dessous la loi de probabilité de la variable aléatoire 𝑋 :
+𝑎
+𝑝(𝑋 = 𝑎)
+
+0,027
+
+0,189
+
+0,441
+
+0,343
+
+a) Interpréter dans le cadre de l’exercice l’évènement (𝑋 ≤ 1).
+Aucun calcul de probabilité n’est demandé dans cette question.
+b) Calculer la probabilité 𝑝(X ≤ 1).
+
+c) Calculer l’espérance de la variable aléatoire X.
+
+Exercice 4 (5 points)
+Le nuage de points ci-dessous représente six des premiers termes d’une suite 𝑢 :
+
+Légende : {
+
+En abscisse ∶ 𝑛
+En ordonnée ∶ 𝑢(𝑛)
+
+1) Avec la précision permise par le graphique, lire la valeur de 𝑢(3).
+2) La suite 𝑢 peut-elle être arithmétique ? Justifier la réponse.
+3) On admet que 𝑢(4) = 2 et 𝑢(5) = 4. On suppose de plus que la suite 𝑢 est
+géométrique.
+a) Calculer la raison de la suite 𝑢.
+
+b) Exprimer, pour tout entier 𝑛 positif ou nul, 𝑢(𝑛 + 1) en fonction de 𝑢(𝑛).
+c) Donner, par le calcul, la valeur exacte de 𝑢(7).

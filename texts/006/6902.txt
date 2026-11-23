@@ -1,0 +1,151 @@
+{"pages": 6, "method": "pdftotext", "bytes": 958939, "at": "2026-11-23T08:56:50+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncés
+
+1.
+
+Lors de soldes, un modèle de chaussures à 80 €
+bénéficie d’une réduction de 20 %.
+Déterminer le prix après réduction.
+
+2.
+
+Une boisson contient 20 cL d’eau, 3 cL de jus de kiwi et
+17 cL de jus de pommes.
+Donner la proportion de jus de kiwi dans cette boisson.
+
+3.
+
+Compléter avec > ou < :
+
+4.
+
+Écrire sous la forme d’une fraction irréductible
+3 4
+𝐴=2+ +
+4 8
+
+5.
+
+Calculer 𝐵 = 32 + 23 .
+
+Durée : 20 minutes
+Réponses
+
+…
+
+Énoncés
+
+6.
+
+Soit 𝑥 un nombre réel, développer et réduire
+𝐶(𝑥) = 6𝑥(2𝑥 + 3)
+
+7.
+
+Soit 𝑥 un nombre réel, factoriser l’expression
+𝐷(𝑥) = (𝑥 + 2)(3𝑥 − 4) + (𝑥 + 2)(𝑥 + 7)
+
+8.
+
+Dans le plan muni d’un repère orthogonal, on
+considère la courbe d’équation 𝑦 = 𝑥 2 + 3𝑥 − 4
+Calculer l’ordonnée du point de cette courbe dont
+l’abscisse est 2.
+
+Réponses
+
+Écrire sous forme décimale
+𝐸 = 3,5 × 103
+9.
+
+Dans un repère orthogonal du plan, donner l’équation
+10. réduite de la droite passant par les points 𝐴(1 ; 1) et
+𝐵(2 ; 3).
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Dans une salle de sport, une borne informatique permet aux nouveaux adhérents de
+s’inscrire en remplissant un questionnaire.
+On admet que 2 % des questionnaires sont mal remplis.
+Le propriétaire de la salle consulte au hasard une fiche de ses adhérents.
+On note 𝐵 l’événement « la fiche est bien remplie » et 𝐵̅ l’événement contraire.
+1. Justifier que 𝑃(𝐵) = 0,98.
+Le propriétaire tire au hasard deux fiches. On admet que le nombre total de fiches
+est suffisamment grand pour assimiler la situation à deux tirages successifs avec
+remise.
+2.
+a. Construire un arbre pondéré représentant la situation.
+b. Vérifier que la probabilité que les deux fiches soient sans erreur est de
+0,9604.
+3. On note 𝑋 la variable aléatoire correspondant au nombre de fiches sans
+erreur.
+a. Calculer 𝑃(𝑋 = 1).
+b. Déterminer l’espérance de 𝑋.
+
+EXERCICE 3 (5 points)
+On considère les polynômes 𝑃 et 𝑄 de degré 2 définis sur R par
+𝑃(𝑥) = −2𝑥 2 + 14𝑥 − 24
+et
+𝑄(𝑥) = (𝑥 − 5)(𝑥 − 2)
+On note 𝐶𝑃 et 𝐶𝑄 leurs courbes représentatives respectives dans un repère
+orthogonal.
+
+1.
+a. Avec la précision permise par le graphique, résoudre l’équation
+𝑃(𝑥) = 0.
+b. En déduire une expression factorisée du polynôme 𝑃 en produit de
+facteurs du premier degré et d’une constante.
+2. Justifier que les polynômes 𝑃 et 𝑄 ont le même axe de symétrie.
+Préciser son équation réduite.
+3.
+a. Donner l’expression développée et réduite du polynôme 𝑄.
+b. En déduire par le calcul les solutions de l’équation 𝑄(𝑥) = 10.
+
+EXERCICE 4 (5 points)
+Une entreprise fabrique des trottinettes électriques.
+Chaque mois, cette entreprise produit et vend jusqu’à 15 000 trottinettes.
+On admet que :
+ le coût de production, en millier d’euros, pour 𝑥 millier de trottinettes produites
+et vendues est donné par la fonction C définie sur l’intervalle [0 ; 15] par
+𝐶(𝑥) = 10(𝑥 + 1)2 + 60
+ le prix d’une trottinette est égal à 160 €.
+La fonction R définie sur l’intervalle [0 ; 15] par
+𝑅(𝑥) = 160𝑥
+représente ainsi, la recette, en millier d’euros, pour 𝑥 millier de trottinettes
+produites et vendues.
+On considère la fonction 𝐵 définie sur l’intervalle [0 ; 15] par
+𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥)
+Lorsque, pour un nombre réel 𝑥 de l’intervalle [0 ; 15], 𝐵(𝑥) > 0, l’entreprise
+réalise un bénéfice. Par exemple, comme 𝐵(1) = 60, l’entreprise réalise un
+bénéfice de 60 000 € lorsqu’elle produit et vend 1 000 trottinettes.
+Lorsque, pour un nombre réel 𝑥 de l’intervalle [0 ; 15], 𝐵(𝑥) < 0, l’entreprise
+réalise des pertes. Par exemple, comme 𝐵(0,2) = −42,4, l’entreprise réalise
+42 400 € de pertes lorsqu’elle produit et vend 200 trottinettes.
+
+1. Démontrer que, pour tout nombre réel 𝑥 de l’intervalle [0 ; 15],
+𝐵(𝑥) = −10𝑥 2 + 140𝑥 − 70
+2. On admet que la fonction 𝐵 est dérivable sur l’intervalle [0 ; 15].
+On note 𝐵′ sa fonction dérivée.
+Démontrer que, pour tout nombre réel 𝑥 de l’intervalle [0 ; 15],
+𝐵 ′ (𝑥) = −20𝑥 + 140
+3. Donner le tableau de variation de la fonction 𝐵 sur l’intervalle [0 ; 15].
+4. Pour quel nombre de trottinettes, produites et vendues, le bénéfice est-il
+maximal ? Quel est alors ce bénéfice ?
+5. On souhaite déterminer le nombre minimal de trottinettes qu’il faut produire et
+vendre, à l’unité près, pour réaliser des bénéfices. Pour ceci, on utilise une
+fonction écrite en langage python dont voici quelques éléments :
+
+def Nombre(precision):
+x=0
+while … … …:
+x=x+precision
+return x
+Recopier sur la copie et compléter la fonction de façon à ce que le fait
+d’appeler Nombre(0.001) permette de trouver le nombre cherché.

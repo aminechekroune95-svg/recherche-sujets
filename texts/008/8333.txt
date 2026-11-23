@@ -1,0 +1,139 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1201532, "at": "2026-11-23T08:55:56+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+Automatismes
+
+Exercice 1 (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chacune des dix questions, répondre à l’endroit indiqué. Aucune justification n’est
+demandée.
+1. Après une augmentation de 25 %, un article coute 80 €. Déterminer le prix initial en
+euro de l’article.
+2. Compléter la phrase : « Augmenter de 110 %, c’est multiplier par ........ »
+3. Le prix d’un article subit deux baisses successives de 20 %. Déterminer le taux global
+de diminution.
+
+4. Une série télévisée comprend 14 épisodes totalisant 894 minutes.
+Exprimer, en heure et en minute, la durée totale de cette série.
+5. On considère un rectangle de périmètre 𝑃, de longueur 𝐿 et de largeur 𝑙.
+Exprimer 𝑙 en fonction de 𝐿 et de 𝑃.
+6. Soit la fonction 𝑓 dérivable sur ℝ et définie par 𝑓(𝑥) = 2𝑥 3 + 3𝑥 2 − 2.
+Déterminer pour tout réel 𝑥, le nombre 𝑓 ′ (𝑥).
+7. Résoudre dans ℝ l’équation 𝑥 2 = 7.
+Dans les trois questions suivantes, on considère une fonction 𝑓 définie et dérivable sur
+l’intervalle [−3; 5], et représentée par la courbe ∁𝑓 dans le repère du plan ci-dessous. La
+droite (AB) est tangente à la courbe ∁𝑓 au point A d’abscisse 2.
+
+Par lecture graphique avec la précision qu’elle permet, répondre aux questions 8., 9. et 10. :
+8. Déterminer 𝑓(0).
+9. Résoudre sur [−3; 5], l′inéquation 𝑓(𝑥) ≥ 1. Réponse :
+10. Déterminer 𝑓′(2).
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+𝑥
+
+On considère la fonction 𝑓 dérivable sur l’intervalle [0,5 ; 6] et définie par : 𝑓(𝑥) = + .
+𝑥
+On note 𝑓 ′ la dérivée de 𝑓 sur l’intervalle [0,5 ; 6].
+
+1. Déterminer l’image de par 𝑓.
+2. À l’aide d’une feuille de calcul automatisée, on souhaite réaliser un tableau de
+valeurs de 𝑓, pour 𝑥 variant de 0,5 à 6 avec un pas de 0,1.
+Quelle formule doit être saisie dans la cellule B2, avant d’être étirée vers la droite ?
+
+3. Démontrer que pour tout réel 𝑥 appartenant à l’intervalle [0,5 ; 6], on a :
+(𝑥−2)(𝑥+2)
+𝑓 ′ (𝑥) =
+.
+2𝑥 2
+4. Dresser le tableau de signe de 𝑓′ sur l’intervalle [0,5 ; 6].
+5. En déduire le tableau de variation de 𝑓 sur l’intervalle [0,5 ; 6].
+
+Exercice 3 (5 points)
+Un atelier produit des cordes pour piano. On sait que 2 % des cordes produites sont
+défectueuses.
+Avant commercialisation, un contrôle de qualité est effectué sur chacune des cordes
+produites :
+- si la corde est sans défaut, elle est acceptée dans 96 % des cas ;
+- si la corde est défectueuse, elle est refusée dans 98 % des cas.
+1. Une corde sans défaut est contrôlée. Quelle est la probabilité qu’elle soit refusée ?
+On tire une corde au hasard dans la production de l’atelier puis on effectue le contrôle de
+qualité. On admet que toutes les cordes ont la même probabilité d’être tirées.
+On note les deux événements suivants :
+D : « la corde contrôlée est défectueuse » et R : « la corde contrôlée est refusée ».
+̅ est l’événement contraire de D et R
+̅ est l’événement contraire de R.
+D
+2. Recopier sur votre copie l’arbre pondéré ci-dessous qui représente la situation et le
+compléter.
+
+3. Justifier que p(R) vaut environ 0,059.
+4. Suite au contrôle de qualité, la corde est refusée. Déterminer la probabilité qu’elle
+soit sans défaut. On arrondira le résultat obtenu au millième près.
+On considère dans cette question que 0,04 % des cordes commercialisées par cet atelier
+sont défectueuses. On change les 230 cordes d’un piano par des cordes vendues par
+l’atelier. On admet que la production de l’atelier est suffisamment importante pour que le
+choix des cordes puisse être assimilé à 230 tirages indépendants avec remise.
+5. Quelle est la probabilité qu’au moins une des 230 cordes soit défectueuse ?
+
+Exercice 4 (5 points)
+Dans la gamme de tempérament égal, l’octave est divisée en 12 demi-tons égaux séparant
+les notes, énoncées dans l'ordre croissant de leurs fréquences : DO, DO#, RÉ, RÉ#, MI, FA,
+FA#, SOL, SOL#, LA, LA#, SI.
+Quand on monte d’un demi-ton, la fréquence de la note, exprimées en hertz (Hz), est
+
+multipliée par 𝑞 = 212 .
+À chaque octave est associé un entier naturel 𝑛 appelé indice et les notes d’une octave
+portent l’indice de cette octave. Ainsi le LA3 (le LA du diapason) correspond à la note LA de
+l’octave d’indice 3, le LA4 correspond à la note LA de l’octave d’indice 4 située au-dessus de
+l’octave d’indice 3.
+La fréquence du LA3 est 440 Hz.
+Sauf indication contraire, les fréquences seront arrondies à l’unité.
+1. Reproduire et compléter sur votre copie le tableau ci-dessous :
+Note
+
+LA3
+
+LA#3
+
+Fréquence (Hz)
+
+SI3
+
+DO4
+
+DO#4
+
+RÉ4
+
+RÉ#4
+
+2. À partir du LA3, on monte de 27 demi-tons. Déterminer la fréquence de la note
+obtenue.
+3. Montrer que la fréquence exacte du LA6 est 3 520 Hz.
+Suite à un accident, un violoniste ne perçoit plus les sons aux fréquences supérieures à
+8 000 Hz.
+4. Déterminer le nombre de notes au-dessus du LA3 que peut percevoir le violoniste.

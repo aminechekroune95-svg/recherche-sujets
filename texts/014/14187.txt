@@ -1,0 +1,181 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1889505, "at": "2026-11-23T08:53:02+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+AUTOMATISMES
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 (5 POINTS)
+Pour chaque énoncé, indiquer la réponse dans la case correspondante. Aucune justification
+n'est demandée.
+Enoncé
+1) Donner la fraction irréductible égale à
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+Réponse
+
+×
+
+−
+
+Écrire sous la forme d’une seule puissance de 5 :
+57 × (5−1 )² × 25
+Le prix d’un article subit une baisse de 10% puis une
+hausse de 20%.
+Calculer le taux d’évolution global de ce prix.
+On considère la fonction f définie sur R par
+𝑓(𝑥) = 2𝑥 3 – 4𝑥² + 3𝑥 + 1.
+On note 𝑓’ la fonction dérivée de la fonction f.
+Déterminer 𝑓’(𝑥).
+On injecte à un patient une dose de 4 mL d’un
+médicament.
+La quantité de ce médicament présente dans le sang
+diminue de 15 % toutes les heures.
+Préciser la nature de la suite modélisant cette
+situation et donner sa raison.
+On considère la fonction f définie sur R par
+𝑓(𝑥) = −2(𝑥 − 1)(𝑥 + 4).
+Compléter le tableau de signes de la fonction f sur R.
+
+𝑥
+−∞
+𝑓(𝑥)
+
++∞
+
+On considère la fonction 𝑓 définie sur l’intervalle [-2 ; 3,5] dont la représentation graphique
+est donnée ci-dessous.
+La tangente (T) à la courbe 𝐶𝑓 au point A d’abscisse −1 est également tracée. Elle passe par le
+point de coordonnées (0 ; 2,5).
+
+Répondre aux questions 7) à 10) avec la précision permise par le graphique.
+Enoncé
+7)
+
+Donner l’image de 2 par la fonction f.
+
+8)
+
+Résoudre sur l’intervalle [−2 ; 3,5] l’équation
+𝑓(𝑥) = 1
+
+9)
+
+Résoudre sur l’intervalle [−2 ; 3,5] l’inéquation
+𝑓(𝑥) < 0
+
+Réponse
+
+10) Déterminer f ’(─1).
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 POINTS)
+En fin d’année 2018, on comptait en France métropolitaine 75,6 millions de cartes SIM en
+service (carte électronique permettant d’utiliser un réseau de téléphonie mobile avec un
+téléphone mobile).
+On suppose qu’à partir de l’année 2019 le nombre de cartes SIM en service augmente
+chaque semestre (six mois) de 1,5%.
+On modélise le nombre de cartes SIM en service à l’aide d’une suite (𝑢𝑛 ). On pose 𝑢0 = 75,6
+et pour tout entier naturel 𝑛, 𝑢𝑛 représente le nombre de cartes SIM en service, exprimé en
+million, à la fin du 𝑛-ième semestre à partir du début de l’année 2019.
+Ainsi 𝑢1 représente le nombre de cartes SIM en service à la fin du 1er semestre de l’année
+2019, c’est-à-dire fin juin 2019.
+1. Calculer 𝑢1 .
+2. Justifier que (𝑢𝑛 ) est une suite géométrique et préciser sa raison.
+3. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+4. Calculer le nombre de cartes SIM en service fin décembre 2021, arrondi au million près.
+5. L’ARCEP (Autorité de régulation des communications électroniques, des postes et de la
+distribution de la presse) souhaite connaître l’année à partir de laquelle le nombre de
+cartes SIM en service dépassera les 85 millions.
+Recopier et compléter l’algorithme ci-dessous pour qu’à la fin de son exécution la variable
+n contienne le nombre de semestres pour atteindre le seuil des 85 millions de cartes SIM
+en service.
+1 u=75.6
+2 n=0
+3 While ….. :
+u=1.015*u
+n=n+1
+
+EXERCICE 3 (5 POINTS)
+La téléconsultation consiste à réaliser des consultations à distance avec un médecin, par
+opposition aux consultations classiques, réalisées dans un cabinet médical.
+Une enquête concernant ces téléconsultations a été réalisée dans une grande ville.
+Les résultats sont les suivants :
+• 25 % des personnes interrogées ont moins de 25 ans. Parmi ces personnes, 60 %
+• 35 % des personnes interrogées ont entre 25 et 50 ans. Parmi ces personnes, 50 %
+• Le reste des personnes interrogées ont plus de 50 ans. Parmi ces personnes, 20 %
+On choisit au hasard une personne interrogée. On considère les événements suivants :
+𝐽 : « La personne interrogée a moins de 25 ans »
+𝑀 : « La personne interrogée a entre 25 et 50 ans »
+𝑆 : « La personne interrogée a plus de 50 ans »
+𝑉 : « La personne interrogée préfère une téléconsultation »
+L’événement contraire de 𝑉 est noté 𝑉̅ .
+1. À partir de ces informations, calculer :
+a) la probabilité de l’événement 𝑆, notée 𝑃(𝑆) ;
+b) la probabilité que la personne interrogée préfère une consultation classique sachant
+qu’elle a entre 25 et 50 ans.
+2. Reproduire et compléter l’arbre ci-dessous :
+0,6
+
+𝐽
+0,25
+
+𝑀
+
+𝑆
+
+3. Définir par une phrase l’événement 𝐽 ∩ 𝑉, puis calculer sa probabilité.
+4. Montrer que 𝑃(𝑉) = 0,405.
+5. Calculer 𝑃𝑉 (𝐽). Donner le résultat à 0,01 près et l’interpréter dans le contexte de
+l’exercice.
+
+EXERCICE 4 (5 POINTS)
+La qualité de l’eau d’une rivière est en permanence contrôlée en mesurant notamment la
+concentration en nitrates.
+À la suite d’une forte averse, on modélise la concentration en nitrates de cette rivière,
+exprimée en mg/L, par la fonction f définie sur l’intervalle [1 ; 12] par
+𝑓(t) = 60 × 0,89𝑡
+où 𝑡 désigne le temps écoulé, en heure, depuis la forte averse, avec 1 ≤ 𝑡 ≤ 12.
+La courbe représentative de la fonction 𝑓 sur l’intervalle [1 ; 12] est fournie en annexe à
+rendre avec la copie.
+1. Avec la précision permise par le graphique, déterminer 𝑓(3). Interpréter le résultat trouvé
+dans le contexte de l’exercice.
+2. La concentration en nitrates doit être inférieure ou égale à 40 mg/L pour que l’eau de la
+rivière soit potable.
+Déterminer graphiquement à partir de quel instant l’eau redevient potable. On fera
+apparaître les traits de construction utiles à la lecture sur la feuille annexe.
+3. On admet que la fonction 𝑓 a le même sens de variation que la fonction 𝑡 ↦ 0,89𝑡 définie
+sur [1 ; 12].
+Déterminer le sens de variation de la fonction 𝑓.
+4. a) Résoudre par le calcul l’inéquation 𝑓(𝑡) ≥ 20.
+b) Interpréter le résultat dans le contexte de l’exercice.
+
+ANNEXE – EXERCICE 4 à rendre avec la copie

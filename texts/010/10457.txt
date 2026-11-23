@@ -1,0 +1,159 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1323009, "at": "2026-11-23T08:55:08+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+Exercice 1 (5 points)
+Ce QCM comprend cinq questions indépendantes.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1.
+Sur la figure ci-dessous, nous avons tracé dans un repère orthonormé la courbe
+représentative 𝒞 d’une fonction 𝑓 dérivable sur ℝ et la tangente à 𝒞 au point d’abscisse 4.
+Cette tangente est représentée par la droite 𝒟 . On note 𝑓′ la fonction dérivée de la
+fonction 𝑓 .
+
+Le réel 𝑓 ′ (4) est égal à :
+−1
+
+−2
+
+c)
+
+Question 2.
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = 𝑥 3 − 2𝑥 2 + 1. On admet que 𝑓 est une fonction
+
+dérivable sur ℝ. Dans un repère, une équation de la tangente à la courbe représentative de
+la fonction 𝑓 au point d’abscisse 1 est :
+
+𝑦 = −1
+
+𝑦 = −𝑥
+
+c) 𝑦 = −𝑥 + 1
+
+𝑦=𝑥
+
+e−3𝑥
+
+e𝑥
+
+Question 3.
+Pour tout réel 𝑥 ,
+
+e𝑥 ×e−3𝑥
+est égal à :
+e−𝑥
+
+e−𝑥
+
+e3𝑥
+
+c)
+
+Question 4.
+Soit 𝑓 une fonction polynôme du second degré dont la courbe représentative dans un repère
+orthonormé est donnée ci-dessous.
+
+Pour tout réel 𝑥, une expression de 𝑓(𝑥) est :
+a) 𝑓(𝑥) = 𝑥 2 + 𝑥 − 2
+
+b) 𝑓(𝑥) = −𝑥 2 − 4 c) 𝑓(𝑥) = 2𝑥 2 + 2𝑥 − 4
+
+d) 𝑓(𝑥) = −3𝑥 2 − 3𝑥 + 6
+
+Question 5.
+L’ensemble 𝑆 des solutions de l’inéquation d’inconnue 𝑥 ∈ ℝ : −𝑥 2 − 2𝑥 + 8 > 0 est :
+a) 𝑆 = [−4; 2] b) 𝑆 = ]−4; 2[ c) 𝑆 = ]−∞; −4] ∪ ]2; +∞[
+d) 𝑆 = {−4; 2}
+
+Exercice 2 (5 points)
+
+Les résultats seront arrondis à l’unité.
+La quantité (en kg) de déchets ménagers produite par habitant d’une ville de taille moyenne
+a été de 537 kg en 2019 et la municipalité espère réduire ensuite cette production de 1,5 %
+par an.
+Pour tout entier naturel 𝑛, on note 𝑑𝑛 la quantité (en kg) de déchets ménagers produit par
+habitant de cette ville durant l’année 2019 + 𝑛, on a donc 𝑑0 = 537.
+1. Montrer par un calcul que 𝑑1 = 0,985 × 𝑑0
+2. Pour tout entier naturel 𝑛 , exprimer 𝑑𝑛+1 en fonction de 𝑑𝑛 .
+3. En déduire la nature de la suite (𝑑𝑛 ) puis une expression de 𝑑𝑛 en fonction de 𝑛 .
+4. On souhaite savoir à partir de quelle année la production moyenne de déchets produite
+par chaque habitant sera inférieure à celle enregistrée en 2019 au niveau national, à
+savoir 513 kg. Pour cela, on considère l’algorithme suivant rédigé en langage Python.
+
+a. Recopier et compléter l’algorithme afin de répondre au problème posé
+b. À partir de quelle année la production moyenne de déchets produite par chaque
+habitant sera-t-elle inférieure à celle enregistrée en 2019 au niveau national ?
+
+Exercice 3 (5 points)
+Dans un repère orthonormé on considère le point 𝐴(−3; 5) et la droite (d) dont une
+équation cartésienne est −𝑥 + 3𝑦 + 2 = 0 .
+1. Tracer la droite (d) dans le repère donné en annexe 1 à rendre avec la copie.
+2. Déterminer les coordonnées d’un vecteur normal à la droite (d).
+3. Déterminer une équation cartésienne de la droite perpendiculaire à (d) et passant par A.
+4. En déduire que le point H, projeté orthogonal de A sur la droite (d), a pour coordonnées
+(−1; −1).
+5. En déduire la distance entre le point A et la droite (d).
+
+Exercice 4 (5 points)
+Les résultats seront donnés sous forme de fractions irréductibles.
+Une enquête a été menée auprès de lycéens pour estimer la proportion de ceux qui ont déjà
+consommé du cannabis. Pour encourager les réponses sincères, on met en place le protocole
+suivant :
+Chaque adolescent lance d’abord un dé équilibré à 6 faces et l’enquêteur qui va l’interroger
+ne connaît pas le résultat du lancer. À la question « Avez-vous déjà consommé du
+cannabis ? », l’adolescent doit répondre :
+• « non » si le résultat du lancer est 5, qu’il ait ou non déjà consommé du cannabis ;
+• « oui » si le résultat du lancer est 6, qu’il ait ou non déjà consommé du cannabis ;
+• « oui » ou « non » dans les autres cas, mais de façon sincère.
+On note :
+ N : l’évènement l’adolescent a répondu « non » ;
+ O : l’évènement l’adolescent a répondu « oui » ;
+ C : l’évènement l’adolescent a déjà consommé effectivement du cannabis ;
+ C̅ : l’évènement l’adolescent n’a jamais consommé du cannabis.
+Sur les lycéens qui ont participé à cette enquête on constate que la probabilité qu’un
+
+adolescent ait répondu « oui » est de , soit p(O) = 5.
+
+On veut déterminer la probabilité, notée 𝑝, qu’un adolescent ait déjà consommé du
+cannabis.
+On a donc p(C) = 𝑝 .
+1. Justifier que la probabilité qu’un adolescent ait répondu « oui » sachant qu’il n’a jamais
+consommé de cannabis est 6 .
+2. On a représenté en annexe l’arbre de probabilités représentant la situation. Compléter
+l’arbre sur l’annexe 2 à rendre avec la copie.
+3. a. Démontrer que la probabilité 𝑝 qu’un adolescent ait déjà consommé du cannabis
+vérifie l’équation :
+1 3
+𝑝+ = .
+6 5
+b. En déduire la valeur de 𝑝 .
+4. Sachant qu’un adolescent a répondu « non » pendant l’enquête, quelle est la probabilité
+qu’il n’ait jamais consommé de cannabis ?
+
+ANNEXES à RENDRE avec la COPIE
+
+Annexe 1.
+
+Annexe 2.

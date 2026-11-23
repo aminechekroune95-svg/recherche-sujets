@@ -1,0 +1,129 @@
+{"pages": 6, "method": "pdftotext", "bytes": 482511, "at": "2026-11-23T08:57:55+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points) - Exercice 1
+Énoncé
+
+Réponse
+
+1.
+
+Compléter : Augmenter un nombre de 2% revient à le multiplier
+par
+
+2.
+
+Compléter : Multiplier un nombre par 0,82 revient à le diminuer
+de
+
+3.
+
+Quel est le taux d’évolution d’une grandeur passant de 100 à
+120 ?
+
+4.
+
+Une action vaut 130 €. Elle perd 10% de sa valeur. Quelle est sa
+nouvelle valeur ?
+
+5.
+
+L’indice de base 100 en 2019 d’une grandeur vaut 120 en 2020.
+Quel est le taux d’évolution de cette grandeur entre 2019 et
+2020 ?
+
+6.
+
+Une grandeur valant 200 en 2014 vaut 300 en 2016. Si on prend
+comme indice 100 en 2014, quel sera l’indice de cette grandeur
+en 2016 ?
+
+7.
+
+Un nombre augmente de 5% puis de 20%.
+Répondre par vrai ou faux : « le nombre a alors augmenté de
+25%. »
+
+8.
+
+Résoudre dans R l’inéquation 2𝑥 + 5 < 𝑥 + 4.
+
+9.
+
+Résoudre dans R l’équation 𝑥 2 = 0,25.
+
+10. Quel est le signe de (𝑥 − 5) lorsque 𝑥 < 5 ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 : (5 points)
+On considère ci-dessous la courbe représentative d’une fonction 𝑓 définie sur l’intervalle
+[0 ; 100] :
+
+Pour un nombre réel 𝑥 compris entre 0 et 100, on admet que la fonction 𝑓 représente le
+résultat, en milliers d’euros, de l’entreprise AMB lorsqu’elle vend 𝑥 pièces pour l’industrie
+aéronautique. On admet aussi que pour tout 𝑥 de [0 ; 100],
+𝑓(𝑥) = −0,001𝑥 3 + 0,047𝑥 2 + 4,69𝑥 − 50,6
+1. Calculer le résultat réalisé pour 20 pièces vendues.
+2. Sachant que le résultat réalisé pour 50 pièces est de 176 400 €, déterminer, en
+pourcentage, le taux d’évolution du résultat lorsque les ventes passent de 20 à 50 pièces.
+3. Avec la précision permise par le graphique, lire :
+a. Le nombre de pièces que doit vendre l’entreprise pour réaliser un bénéfice
+(c’est-à-dire un résultat strictement positif) ;
+b. Le nombre de pièces que doit vendre l’entreprise pour réaliser un résultat maximal ;
+c. Le nombre de pièces que doit vendre l’entreprise pour réaliser un résultat de plus de
+100 000 €.
+
+EXERCICE 3 : (5 points)
+On considère la fonction f définie sur l’intervalle [0 ; 45] par
+𝑓(𝑡) = 45𝑡 2 − 𝑡 3 .
+On admet que 𝑓 est dérivable sur l’intervalle [0; 45] et on note 𝑓′ sa fonction dérivée.
+La courbe représentative de la fonction 𝑓 est donnée dans le repère orthogonal ci-dessous.
+Le point 𝐴(30 ; 13 500) appartient à la courbe représentative de la fonction 𝑓.
+
+1. Déterminer la fonction dérivée 𝑓 ′ de la fonction 𝑓.
+2. Montrer que, pour tout nombre réel 𝑡 de l’intervalle [0; 45], 𝑓 ′ (𝑡) = 3𝑡(30 − 𝑡).
+3. Déterminer le signe de 𝑓 ′ (𝑡) sur l’intervalle [0 ; 45].
+4. En déduire le tableau de variation de la fonction 𝑓 sur l’intervalle [0; 45].
+5. On admet que, pour tout nombre réel 𝑡 de l’intervalle [0; 45], 𝑓(𝑡)désigne le nombre de
+personnes atteintes d’une maladie 𝑡 jours après l’apparition du premier cas.
+Ainsi, au bout de 45 jours, il n’y a plus de malades.
+Au bout de combien de jours le nombre de malades est-il maximum ?
+
+EXERCICE 4 : (5 points)
+On interroge 1 500 personnes qui sont passées dans une déchetterie sur une période
+donnée :
+Nombre de
+passages
+Nombre de
+personnes
+
+26 ou
+moins
+
+30 ou plus
+
+1. Déterminer le nombre de personnes qui ont réalisé 26 passages ou moins sur la période.
+2. On choisit un usager de la déchetterie au hasard.
+Vérifier que la probabilité qu’il ait réalisé 26 passages ou moins est environ égale à 0,84.
+3. On interroge successivement et de façon indépendante deux personnes qui se sont
+rendues à la déchetterie durant cette période. On admet que le nombre de personnes est
+suffisamment grand pour que ces choix soient assimilés à des tirages indépendants avec
+remise.
+On désigne par 𝑀 l’évènement : « la personne a fait 26 passages ou moins ».
+a. Recopier et compléter l’arbre de probabilités donné ci-dessous :
+0,84
+
+0,84
+
+… 𝑀
+
+… 𝑀
+b. Déterminer la probabilité que les deux personnes interrogées fassent 26 passages ou
+moins durant la période.
+c. Déterminer la probabilité que les deux personnes interrogées fassent plus de 26
+passages.

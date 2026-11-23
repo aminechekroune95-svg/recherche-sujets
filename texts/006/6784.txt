@@ -1,0 +1,178 @@
+{"pages": 9, "method": "pdftotext", "bytes": 887954, "at": "2026-11-23T08:57:50+00:00"}
+PARTIE I
+Automatismes (5 points) Sans calculatrice Durée : 20 minutes
+Énoncé
+
+1.
+
+5% de 32 millions
+
+2.
+
+4 2
+− =
+3 5
+
+3.
+
+Une exploitation a une superficie de 1,2 × 105 m²
+soit
+
+Réponse
+
+… ha
+
+Donner l’écriture décimale de
+4.
+
+5 × 103 + 3 × 102
+
+5.
+
+La droite passant par les points A(2 ; 3) et B(4 ; 0) a
+pour coefficient directeur
+
+PARTIE I (suite)
+Automatismes (5 points) Sans calculatrice Durée : 20 minutes
+Énoncé
+
+Réponse
+
+Dans le repère (0;I,J) ci-dessous, on donne la
+représentation
+graphique
+d’une
+fonction
+6. 𝑓 définie sur [−3 ; 4].
+L’image de – 2 par 𝑓 est ……
+
+Le nombre d’antécédent(s) de 0 par 𝑓
+est ……..
+
+7.
+
+L’ensemble des solutions de l’équation
+𝑓(𝑥) = −2 est
+8.
+……………………………………
+L’ensemble des solutions de
+l’inéquation 𝑓(𝑥) ≤ −2 est
+9.
+
+Par lecture graphique, compléter les phrases de
+la colonne « Réponses ».
+
+……………………………………….
+
+Calculer le pourcentage de votants pour
+chaque liste dans la population totale.
+10.
+Liste A : …
+Liste B : …
+Liste C : …
+Liste D : …
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 ( 5 points)
+On lance une balle du haut d’un mur. Soit (𝑥 ; 𝑦) les coordonnées du point
+représentant cette balle dans un repère orthonormé du plan placé comme sur la
+figure ci-dessous (𝑥 et 𝑦 sont des longueurs en mètres).
+On modélise la trajectoire de la balle jusqu’à ce qu’elle touche le sol par une portion
+de courbe C d’équation 𝑦 = 𝑓(𝑥) avec 𝑓 fonction définie sur ℝ par
+𝑓(𝑥) = −0,25𝑥² + 2,4𝑥 + 4.
+
+1. a. Lire graphiquement la hauteur maximale atteinte par la balle avec la
+précision permise par le graphique.
+
+b. Le script ci-dessous doit permettre d’estimer le maximum de 𝑓.
+Recopier et compléter les lignes 7 et 11 du script, sachant qu’en
+l’exécutant on a obtenu comme sortie :9.76 atteint en
+4.7999999999999983
+
+c. Expliquer les choix des valeurs 4 et 6 en ligne 4 et 6 du script.
+2. a. Montrer que pour tout réel 𝑥, on a 𝑓(𝑥) = −0,25(𝑥 − 4,8)2 + 9,76.
+b. En déduire la hauteur maximale atteinte par la balle.
+3. Déterminer à quelle distance du mur, la balle retombe au sol. Expliquer
+votre démarche.
+
+EXERCICE 3(5 points)
+On s’intéresse à un levier mécanique utilisé dans une usine. Celui-ci parcourt une
+distance de 10 mètres en 10 secondes mais pas à vitesse constante. On note 𝑑(𝑡) la
+distance en mètre parcourue par le levier, en fonction du temps t exprimé en
+seconde avec 𝑡 appartenant à l’intervalle [0,10]. On suppose que la fonction 𝑑 est
+dérivable sur l’intervalle [0,10], on notera 𝑑’ sa fonction dérivée. On donne ci-dessous
+la courbe représentative de 𝑑 dans un repère orthonormé qui passe par les points
+A(5 ; 5), E(8 ; 9,2), et G(10 ; 10).
+
+On a également placé sur le graphique les points B(7 ; 9), C(9 ; 10), D(-1 ; 2)
+et F(0 ; 10).
+
+La droite (AB) est la tangente à la courbe au point A ; la droite (CD) est la tangente à
+la courbe au point E et la droite (FG) est la tangente à la courbe au point G.
+
+1. a. Déterminer graphiquement les nombres dérivés 𝑑′(5), 𝑑′(8) et d′(10).
+b. Quelle est la vitesse instantanée du levier à l’instant 5 s ?
+
+2. a. Calculer le taux de variation de la distance en mètre parcourue par le
+levier entre les instants 5 s et 10 s.
+b. Que représente concrètement le résultat obtenu dans la question 2.
+a. par rapport au levier automatique ? Expliquer la réponse.
+
+3. Pour tout 𝑡 ∈ [0 ; 5], la fonction 𝑑 est définie par : 𝑑(𝑡) = 0,2𝑡².
+a. Exprimer pour tout 𝑡 ∈ [0 ; 5], 𝑑′(𝑡) en fonction de 𝑡 .
+b. Calculer 𝑑′(2) . Que représente concrètement le nombre dérivé 𝑑′(2)
+par rapport au levier automatique ?
+
+EXERCICE 4(5 points)
+Au centre d’aide au sevrage tabagique, 200 fumeurs ont suivi un traitement T1 ou un
+traitement T2. Au bout de quelques mois ces 200 personnes subissent un test
+permettant d’évaluer leur nouvelle dépendance tabagique. Les résultats sont les
+suivants :
+28 % des personnes sont fortement dépendantes.
+Parmi les 80 personnes ayant suivi le traitement T1, 27 sont non
+dépendantes.
+
+Parmi les personnes ayant suivi le traitement T2, 33 sont non
+dépendantes et 47 sont faiblement dépendantes.
+
+1. Compléter le tableau croisé d’effectifs fourni en annexe à remettre
+avec la copie :
+
+2. a. Quelle est la fréquence f1 des personnes ayant suivi le traitement
+T1 ?
+b. Quelle est la fréquence f2 des personnes faiblement dépendantes ?
+
+3. On choisit au hasard une personne.
+Quelle est la probabilité que cette personne ait suivi le traitement T1 ou soit
+faiblement dépendante ?
+
+4. On considère que le traitement le plus efficace est celui pour lequel le
+pourcentage de personnes non dépendantes, parmi les personnes ayant
+suivi le traitement, est le plus élevé.
+Quel est le traitement le plus efficace ?
+
+Annexe à remettre avec la copie
+
+EXERCICE 4 question 1
+
+Nombre de
+personnes
+
+Non
+
+Faiblement
+
+Fortement
+
+Total
+
+Ayant suivi le
+traitement T1
+
+Ayant suivi le
+traitement T2
+
+Total

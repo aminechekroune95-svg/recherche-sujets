@@ -1,0 +1,168 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1394325, "at": "2026-11-23T08:53:49+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+
+Réponse
+
+1)
+Calculer
+
++
+
+2)
+
+Calculer 40% de 250
+
+3)
+
+Résoudre dans 𝐑 l’équation :
+−3 𝑥 + 7 = 19
+
+4)
+
+Convertir en mètres 15,8 mm
+
+5)
+
+Factoriser l’expression :
+3 𝑥 (𝑥 – 4 ) – (𝑥 – 4)(𝑥 + 1)
+
+6)
+
+Résoudre dans 𝐑 l’équation :
+25 𝑥 2 = 100
+
+7)
+
+Déterminer l’équation réduite de
+la droite du plan passant par les
+points
+A (3 ; 2) et B(5 ; 6)
+
+8)
+
+Quel est le nouveau prix de vente
+d’un
+ordinateur,
+initialement
+vendu 850 €, après une remise de
+10% ?
+
+9)
+
+Un stock de marchandises passe de
+10 milliers à 7 milliers d’unités. De
+quel pourcentage a-t-il diminué ?
+
+10)
+
+Dresser le tableau de signes de
+l’expression
+–4 𝑥 –2
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Dans le cadre de ses études, Léo étudie le nombre de conseillers en assurance et d’agents
+immobiliers dans sa région, depuis 2010 et désire faire une prévision sur les années à venir.
+On note 𝑢(𝑛) le nombre de conseillers en assurances en 2010 + 𝑛.
+Sur l’axe des abscisses du graphique ci-dessous, 0 désigne l’année 2010.
+
+Nombre de conseillers en assurances 𝒖(𝒏)
+
+1. Avec la précision permise par le graphique, donner une valeur approchée du nombre
+de conseillers en assurance en 2017.
+2. En admettant que le nombre de conseillers en assurance puisse être modélisé par la
+suite 𝑢 de terme général 𝑢(𝑛) = 110 𝑛 + 3230, déterminer l’année à partir de
+laquelle le nombre de conseillers en assurance dépasse 5000.
+
+On note 𝑣(𝑛) le nombre d’agents immobiliers en 2010 + 𝑛.
+On a modélisé le nombre d’agents immobiliers à l’aide d’un logiciel : ce nombre augmente
+de 8 % par an ; en 2010 il y avait 1 950 agents immobiliers.
+3. Selon ce modèle, combien y avait-t-il d’agents immobiliers en 2011 ?
+4. En exprimant 𝑣(𝑛 + 1) en fonction de 𝑣(𝑛), justifier que la suite 𝑣 est une suite
+géométrique et préciser sa raison.
+5. Recopier et compléter l’algorithme suivant, pour qu’il calcule l’année au cours de
+laquelle le nombre d’agents immobiliers dépasse 5000.
+
+V ← ………..
+n←0
+Tant que …………………
+V←…
+n←…
+Afficher …………………..
+
+Exercice 3 (5 points)
+Une entreprise peut produire jusqu’à 60 tonnes de chocolat.
+On note 𝑥 la quantité de chocolat produite (exprimée en tonnes) avec 0 ≤ 𝑥 ≤ 60.
+Sur le graphique ci-dessous, on a représenté le coût de production 𝐶(𝑥) ainsi que la recette
+𝑅(𝑥) (exprimées en milliers d’euros) en fonction de la quantité produite 𝑥 (en tonnes). La
+courbe C est associée au coût de production et la droite D à la recette.
+
+1. Avec la précision permise par le graphique :
+a) Conjecturer les quantités de chocolat que doit produire la chocolaterie pour être
+rentable. Justifier votre réponse. On exprimera le résultat sous forme d’intervalle.
+b) Déterminer le coefficient directeur de la droite D.
+
+2. On admet que la fonction définie sur l’intervalle [0, 60] donnant le coût 𝐶(𝑥) (en milliers
+d’euros) est donnée par l’expression : 𝐶(𝑥) = 𝑥² + 30𝑥 + 1 000
+et que la recette 𝑅(𝑥) (en milliers d’euros) est donnée par l’expression : 𝑅(𝑥) = 100 𝑥 .
+
+a) Justifier que 𝐵(𝑥) = – 𝑥² + 70𝑥 – 1000 où 𝐵(𝑥) désigne le résultat net de
+l’entreprise en fonction de 𝑥. On rappelle que le résultat net est la différence entre la
+recette et le coût de production.
+b) Étudier les variations de 𝐵 sur l’intervalle [0 ; 60].
+c) En déduire la quantité de chocolat que l’entreprise doit produire pour que le bénéfice
+soit maximal.
+
+Exercice 4 (5 points)
+Victor est invité à un mariage réunissant un grand nombre de convives. Lors de l’apéritif,
+20% des bouchées sont à l’olive (80 kCal par bouchée), et les autres au thon (100 kCal par
+bouchée). Comme chacun des invités, Victor choisit au hasard trois bouchées, de façon
+équiprobable. On estime que le nombre de bouchées est assez grand pour assimiler ce choix
+à un tirage avec remise.
+
+1) Représenter la situation par un arbre pondéré.
+2) Calculer la probabilité que Victor n’ait choisi aucune bouchée au thon.
+3) Justifier que la probabilité que Victor ait choisi exactement 1 bouchée à l’olive vaut
+0,384.
+4) On note 𝑌 la variable aléatoire exprimant le nombre de kilocalories (kCal) ingérées
+par Victor pour ces trois bouchées.
+a) Recopier et compléter le tableau suivant, donnant la loi de probabilité de 𝑌.
+𝑌
+𝑃(𝑌 = 𝑘)
+
+0,008
+
+0,384
+
+0,512
+
+b) Calculer l’espérance de la variable aléatoire 𝑌 et en donner une interprétation.

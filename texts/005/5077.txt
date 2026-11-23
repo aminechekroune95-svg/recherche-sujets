@@ -1,0 +1,179 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1003668, "at": "2026-11-23T08:59:05+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondant à la réponse choisie.
+Aucune justification n’est demandée, mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte un point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire aucun point.
+Question 1
+Dans un repère orthonormé, le cercle de centre A(2 ;-1) et de rayon 4 a comme équation :
+a) (𝑥 + 2)2 + (𝑦 − 1)2 = 16
+
+b) (𝑥 − 2)2 + (𝑦 + 1)2 = 4
+
+c) (𝑥 − 2)2 + (𝑦 + 1)2 = 16
+
+d) (𝑥 + 2)2 + (𝑦 − 1)2 = 4
+
+Question 2
+Soit la droite (𝑑) d’équation cartésienne 2𝑥 − 𝑦 + 1 = 0.
+Sachant que la droite (𝑑1 ) est perpendiculaire à la droite (𝑑), une équation de (𝑑1 ) peut
+être :
+a) 𝑥 − 2𝑦 + 2 = 0
+
+b) 𝑥 + 2𝑦 − 1 = 0
+
+c) −2𝑥 + 𝑦 − 1 = 0
+
+d) 𝑥 − 𝑦 + 2 = 0
+
+Question 3
+𝜋
+
+L’expression de sin(𝜋 − 𝑥) + cos (𝑥 + 2 ) est égale à :
+a) −2 sin(𝑥)
+
+b) 0
+
+c) 2sin(𝑥)
+
+d)
+
+cos(𝑥) − sin(𝑥)
+
+Question 4
+On considère la fonction polynôme du second degré 𝑓 définie sur ℝ par
+𝑓(𝑥) = −3𝑥² + 𝑥 − 5
+
+Le tableau de variations de cette fonction est :
+a)
+b)
+−
+
+c)
+
+d)
+
+−
+
+Question 5
+À un jeu, la variable aléatoire donnant le gain algébrique 𝐺 suit la loi de probabilité
+suivante (en euros) :
+Valeurs de 𝑮
+−25 −3
+Probabilité
+0,3
+0,2
+
+Sachant que l’espérance de 𝐺 est égale à 3 , la valeur de 𝑥 est :
+a) 0
+
+b) 5
+
+c) 20
+
+d) 25
+
+Exercice 2 (5 points)
+Une note de musique est émise en pinçant la corde d’une guitare électrique. La puissance du
+son émis, initialement de 120 watts, diminue en fonction du temps écoulé après pincement
+de la corde.
+Soit 𝑓 la fonction définie pour tout réel 𝑡 ≥ 0 par :
+𝑓(𝑡) = 120 𝑒 −0,14𝑡
+On admet que 𝑓(𝑡) modélise la puissance du son, exprimée en watt, à l’instant 𝑡 où 𝑡 est le
+temps écoulé, exprimée en seconde, après pincement de la corde.
+On désigne par 𝑓 ′ la fonction dérivée de 𝑓.
+1. Calculer 𝑓 ′ (𝑡).
+2. Dresser le tableau de variations de la fonction 𝑓 sur [0 ; +∞[ et interpréter ce
+résultat dans le contexte de l’exercice.
+3. Quelle sera la puissance du son, trois secondes après avoir pincé la corde ? Arrondir
+au dixième.
+4. On considère la fonction seuil ci-dessous :
+def seuil():
+t=0
+puissance=120
+while puissance<=60:
+t=t+0.1
+puissance=120*exp(-0,14*t)
+return t
+
+Que renvoie cette fonction seuil() ?
+
+Exercice 3 (5 points)
+Un journal hebdomadaire est sur le point d’être créé.
+Une étude de marché aboutit à deux estimations différentes concernant le nombre de
+journaux vendus :
+ 1re estimation : 1 000 journaux vendus lors du lancement, puis une progression des
+ventes de 3 % chaque semaine.
+ 2e estimation : 1 000 journaux vendus lors du lancement, puis une progression
+régulière de 40 journaux supplémentaires vendus chaque semaine.
+On considère les suites (𝑢𝑛 ) et (𝑣𝑛 ) telles que, pour tout entier naturel 𝑛 ≥ 1, 𝑢𝑛
+représente le nombre de journaux vendus la 𝑛-ième semaine selon la première estimation et
+𝑣𝑛 représente le nombre de journaux vendus la 𝑛-ième semaine selon la deuxième
+estimation. Ainsi, 𝑢1 = 𝑣1 = 1 000.
+1. On considère la feuille de calcul ci-dessous :
+
+Quelle formule, saisie en B3 et recopiée vers le bas, permet d’obtenir les termes de la suite
+(𝑢𝑛 ) ?
+2.
+a. Donner la nature de la suite (𝑢𝑛 ) puis celle de la suite (𝑣𝑛 ). Justifier.
+b. Montrer que pour tout entier naturel 𝑛 ≥ 1, 𝑣𝑛 = 960 + 40𝑛.
+c. Écrire, pour tout entier naturel 𝑛 ≥ 1, l’expression de 𝑢𝑛 en fonction de 𝑛.
+3. On définit, pour tout entier 𝑛 ≥ 1, la suite (𝑤𝑛 ) par 𝑤𝑛 = 𝑣𝑛 − 𝑢𝑛 . On donne cidessous un extrait de son tableau de valeurs :
+𝑛
+-6
+-20
+𝑤𝑛
+À partir de quelle semaine le nombre de journaux vendus d’après la première estimation
+devient-il supérieur au nombre de journaux vendus d’après la deuxième estimation ?
+
+Exercice 4 (5 points)
+On considère deux élevages de chatons sacrés de Birmanie :
+ Dans le premier élevage 75 % des chatons deviennent couleur Chocolat et 25 %
+deviennent couleur Blue.
+ Dans le second élevage 30 % des chatons deviennent couleur Chocolat et 70 %
+deviennent couleur Blue.
+Une animalerie se fournit dans ces deux élevages. Elle achète 40 % de ses chatons au
+premier élevage et 60 % au deuxième.
+On choisit au hasard un chaton de l’animalerie.
+On note 𝐴 l’événement « Le chaton provient du premier élevage » et 𝐵 l’événement « Le
+chaton est de couleur Blue ».
+On note 𝐴̅ l’événement contraire de 𝐴 et 𝐵̅ l’événement contraire de 𝐵.
+1.
+a. Recopier sur la copie et compléter l’arbre de probabilité ci-dessous :
+𝐴
+
+𝐴
+
+b. Calculer 𝑃(𝐴̅ ∩ 𝐵̅ ) et interpréter ce résultat.
+c. Montrer que la probabilité que le chaton soit de couleur Chocolat est 0,48.
+d. Sachant que Jules a choisi un chaton couleur Blue dans cette animalerie, quelle
+est la probabilité que le chaton provienne du deuxième élevage ? On donnera le
+résultat à 10−2 près.
+2. Le responsable du rayon fixe à 100 € le prix de vente d’un chaton couleur Blue et à
+75€ le prix d’un chaton couleur Chocolat.
+On choisit au hasard un chaton de l'animalerie et on désigne par 𝑋 la variable aléatoire égale
+au prix en euros du chaton acheté. Déterminer la loi de probabilité de 𝑋.

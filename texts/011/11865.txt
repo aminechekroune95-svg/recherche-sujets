@@ -1,0 +1,221 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1518332, "at": "2026-11-23T08:53:05+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+1)
+
+Développer puis réduire l'expression suivante :
+𝐴 = 3(𝑥 2 – 7) − (1– 2𝑥 2 )
+
+2)
+
+Dériver la fonction𝑓définie sur ℝ par :
+𝑓(𝑥) = −2𝑥 3 + 5𝑥
+
+3)
+
+On considère les trois nombres 𝐴, 𝐵 et 𝐶 donnés cidessous. Lequel est le plus grand ?
+10 1
+15 1
+5 1
+𝐴=
+−
+𝐵=
+−
+𝐶= +
+3 6
+8 4
+2 8
+
+4)
+
+Convertir 0,012 kilomètres en centimètre.
+
+5)
+
+Durée : 20 minutes
+
+Réponse
+
+Calculer 25 % de 56 €.
+
+6)
+
+À quel pourcentage correspond 40 % de 20 % ?
+
+7)
+
+Exprimer
+
+sous forme de pourcentage.
+
+Pour les questions 8), 9) et 10), on considère une fonction 𝑓définie sur [−1,5 ; 3,5].
+Cette fonction est représentée graphiquement dans le repère ci-dessous par la courbe 𝐶𝑓 .
+
+𝐶𝑓
+
+8)
+
+9)
+
+10)
+
+Combien 0 a-t-il d'antécédent(s) par la fonction𝑓 ?
+
+Compléter le tableau de signes ci-contre.
+Les valeurs utiles dans le tableau seront
+données avec la précision permise par le
+graphique.
+
+𝑥
+
+-1,5
+
+3,5
+
+𝑓(𝑥)
+
+Quel est le maximum de la fonction 𝑓 sur [0 ; 3,5] ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Les bénéfices annuels, en millions d’euros pour les années 2002 à 2010, d’une entreprise
+spécialisée dans la sécurité informatique sont donnés dans le tableau suivant.
+Année
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+Rang 𝑥𝑖
+
+Bénéfice annuel 𝑦𝑖
+(en millions d'euros)
+
+52,5
+
+55,3
+
+68,1
+
+71,5
+
+75,8
+
+En 2010, la direction de l’entreprise a décidé de modéliser l’évolution de ses bénéfices
+annuels par un ajustement affine. Dans le repère ci-dessous, sont représentés :
+-
+
+le nuage de points associé à la série des bénéfices annuels de 2002 à 2010 ;
+
+-
+
+un ajustement affine de cette série à l’aide de la droite (𝑑1 ) passant par les points
+A et B de coordonnées respectives (0 ; 44) et (8 ; 94).
+Bénéfice annuel 𝑦𝑖
+(en millions d’euros)
+
+(𝑑1 )
+
+Rang de l’année 𝑥𝑖
+
+1. a. Déterminer une équation de la droite (𝑑1 ).
+b. Estimer, à l'aide de ce modèle, le bénéfice annuel de l’entreprise en 2020.
+
+2. Modélisation par la méthode des moindres carrés : à l’aide de la calculatrice,
+donner une équation de la droite (𝑑2 ) d’ajustement de 𝑦 en 𝑥 obtenue par la
+méthode des moindres carrés. Arrondir les coefficients au millième.
+
+Pour la suite, on admettra que la droite (𝑑2 ) a pour équation 𝑦 = 5,82𝑥 + 44,2.
+
+3. On appelle « modèle 1 » la modélisation des bénéfices de l’entreprise par la droite
+(𝑑1 ) et « modèle 2 » la modélisation de ces bénéfices par la droite (𝑑2 ).
+Sachant qu'en 2020, la multinationale a réalisé un bénéfice annuel de 147,9
+millions d'euros, quel modèle semble le plus pertinent ? Justifier la réponse.
+
+4. En utilisant le « modèle 2 », déterminer à partir de quelle année l’entreprise peut
+espérer un bénéfice annuel de plus de 200 millions d’euros.
+
+Exercice 3 (5 points)
+L'équipe de tournage d'une série fait appel à une société de démarchage téléphonique
+afin de recruter des figurants bénévoles pour le dernier épisode de la saison de cette série.
+La société de démarchage estime que lorsqu'une personne est contactée pour ce type
+de demande, la probabilité qu'elle accepte est de 0,04.
+En une heure, un conseiller de cette société peut contacter 30 personnes différentes.
+On note 𝑋 la variable aléatoire égale au nombre de personnes qui acceptent la
+demande parmi celles contactées par un conseiller en une heure.
+
+1. Justifier que 𝑋 suit une loi binomiale et donner ses paramètres.
+
+2. Calculer la probabilité, arrondie au millième, qu’en une heure, toutes les personnes
+appelées par un conseiller refusent la demande.
+
+3. Calculer la probabilité, arrondie au millième, qu’en une heure, exactement une des
+personnes contactées par un conseiller accepte la demande.
+
+4. Calculer 𝐸(𝑋) et l’interpréter dans le contexte de l’exercice.
+
+5. Combien la société doit-elle prévoir d’heures de travail pour ses conseillers pour espérer
+recruter les 55 figurants dont l’équipe de tournage a besoin ?
+
+Exercice 4 (5 points)
+
+Le prix de vente moyen d'un téléphone vendu sur Internet évolue au fil des mois. Une
+étude sur 16 sites de vente en ligne a permis de modéliser le prix moyen en euros de ce
+téléphone par la fonction 𝑓 définie sur [0 ; 30] par 𝑓(𝑡) = 265 × (0,948)𝑡 , où 𝑡 est le nombre
+de mois écoulés depuis la mise sur le marché de ce téléphone.
+1. Donner 𝑓(0) et interpréter cette valeur dans le contexte de l’exercice.
+2. Quel est le sens de variations de la fonction 𝑓 sur [0 ; 30] ? Justifier la réponse.
+3. Après combien de mois suivant sa mise sur le marché le prix moyen de ce téléphone
+sera-t-il inférieur à 180 € pour la première fois ?
+4. Quel est le pourcentage d'évolution entre le prix moyen à la mise sur le marché du
+téléphone et son prix moyen après deux ans ? Arrondir à 0,01 %.
+5. On considère le programme ci-dessous écrit en langage Python.
+def prix_moyen(prix,reduc):
+t=0
+p=prix
+while p>prix*(1-reduc/100):
+t=t+1
+p=prix*0.948**t
+return(t)
+
+Lorsque la commande prix_moyen(265,75) est exécutée, ce programme renvoie le
+nombre 26.
+Interpréter ce résultat dans le contexte de l’exercice.

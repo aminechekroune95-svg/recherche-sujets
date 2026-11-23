@@ -1,0 +1,138 @@
+{"pages": 5, "method": "pdftotext", "bytes": 798625, "at": "2026-11-23T08:57:59+00:00"}
+PARTIE I - Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+
+On applique une remise de 20% à un article qui coûte
+120 euros. Quel est le montant en euro de la remise ?
+
+2)
+
+Dans une classe de 35 élèves, 20 pratiquent le ski.
+Déterminer sous forme de fraction irréductible la
+proportion des élèves pratiquant le ski.
+
+3)
+
+Comparer 5 et 14
+
+4)
+
+Donner un encadrement par deux nombres entiers
+consécutifs de la fraction 5 .
+
+5)
+
+Convertir en mètres
+
+6)
+
+Factoriser : 4 𝑥 (3 − 𝑥) – (2𝑥 + 1) (3 − 𝑥)
+
+7)
+
+Développer : (5 𝑥 + 2)²
+
+Réponse
+
+…. <
+
+2,73 km = …………………
+
+Pour les questions 8, 9 et 10, on considère la courbe ci-contre qui
+représente une fonction f définie sur R.
+
+8)
+9)
+10)
+
+< …..
+
+Donner le ou les antécédents de 3
+Résoudre graphiquement l’équation 𝑓(𝑥) = 0
+Donner l’ensemble des solutions de 𝑓(𝑥) < 0.
+
+m
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Le comité d’entreprise d’une société française souhaite organiser un week-end à Rome.
+Une enquête est faite auprès des 1 200 employés de cette société afin de connaître
+leur choix en matière de moyen de transport. Les moyens de transport proposés sont
+le train, l’avion ou l’autocar.
+Les résultats de l’enquête sont répertoriés dans le tableau ci-dessous :
+Train
+
+Avion
+
+Autocar
+
+Total
+
+Femmes
+
+Hommes
+
+Total
+
+1200
+
+On interroge au hasard un employé de cette entreprise.
+On note :
+F l’évènement : « l’employé interrogé est une femme »;
+T l’évènement : « l’employé interrogé choisit le train ».
+Dans tout l’exercice, on donnera les résultats sous forme décimale.
+1. Calculer les probabilités p(F) et p(T).
+2. Déterminer la probabilité que l’employé interrogé ne choisisse pas le train.
+3. Expliquer ce que représente l’évènement F ∩ T, puis calculer sa probabilité.
+4. L’employé interrogé a choisi le train. Calculer la probabilité que cet employé soit une
+femme. On arrondira le résultat au millième.
+5. Calculer 𝑝𝐹 (𝑇).
+
+EXERCICE 3 (5 points)
+Un apiculteur vend des cartons de pots de miel.
+Le coût, en euro, de production de 𝑛 cartons, 𝑛 ≤ 120, est modélisé par le nombre 𝐶(𝑛),
+où 𝐶 est la fonction définie sur [0 ;120] par 𝐶(𝑥) = 0,25 𝑥² + 500 .
+1. Calculer le coût de fabrication de 40 cartons.
+2. On considère le bénéfice, en euro, réalisé après la production et la vente de 𝑛 cartons. On
+admet qu’il est modélisé par le nombre 𝐵(𝑛), où 𝐵 est la fonction définie sur [0 ;120] par :
+𝐵(𝑥) = −0,25𝑥 2 + 30𝑥 − 500.
+Montrer que pour tout 𝑥 appartenant à [0 ;120], 𝐵(𝑥) = −0,25(𝑥 − 20)(𝑥 − 100).
+3. Déterminer le tableau de signes de 𝐵(𝑥) sur [0 ;120].
+4. Combien de cartons doit produire et vendre l’apiculteur pour réaliser un bénéfice ?
+5. Déterminer le nombre de cartons à produire et à vendre pour que le bénéfice soit maximal.
+
+EXERCICE 4 (5 points)
+La figure ci-dessous représente une partie d’une frise constituée d’étoiles réalisées en reliant
+deux à deux les sommets de pentagones réguliers. Cette frise a deux parties, l’une basse et
+l’autre haute.
+
+L’étoile A-C-E-B-D-A est obtenue à partir du pentagone régulier ABCDE de centre O.
+C’est la première étoile de la partie basse de la frise.
+L’étoile E-B’-D-A’-C’-E est obtenue à partir du pentagone régulier A’B’C’DE de centre O’.
+C’est la première étoile de la partie haute de la frise.
+Les segments [AC] et [BE] se coupent en F. Les segments [AD] et [BE] se coupent en G.
+Dans la figure ci-dessous, on a reproduit le pentagone régulier ABCDE de centre O.
+Le point H est le milieu du côté [BC]. On donne BC = 2 cm.
+
+̂ = 72°.
+1. Prouver que BOC
+2. Déterminer la nature du triangle OHB puis calculer OB. On arrondira le résultat au
+millimètre.
+3. Le triangle AGF est pris comme motif élémentaire de la frise. À partir de ce motif
+élémentaire, par quelles transformations peut-on obtenir les quatre autres triangles formant
+l’étoile A-C-E-B-D-A ?
+4. Par quelle transformation l’étoile A-C-E-B-D-A a-t-elle pour image l’étoile E-B’-D-A’-C’-E ?
+5. La figure constituée des étoiles A-C-E-B-D-A et E-B’-D-A’-C’-E est prise comme motif
+élémentaire.
+À partir de ce motif élémentaire, quelle transformation doit-on appliquer de manière
+répétée pour réaliser une partie de la frise avec autant d’étoiles dans sa partie basse que
+dans sa partie haute ?

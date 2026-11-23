@@ -1,0 +1,223 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1367604, "at": "2026-11-23T08:54:11+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque affirmation une seule des 4 réponses proposées est exacte.
+Reporter la lettre de la réponse choisie en « Réponse ».
+Enoncé
+
+Réponse
+
+1)
+
+Le plan étant muni d’un repère, la droite d’équation y = 2x – 2,5 passe
+par le point A d’ordonnée 0 et d’abscisse :
+A. – 2,5
+B. 1,5
+C. – 1,25
+
+2)
+
+Une diminution de 50 % est compensée par une augmentation de :
+A. 50 %
+B. 100 %
+C. 150 %
+D. 200 %
+
+3)
+
+On considère une augmentation de 5 %, deux années consécutives. Le
+coefficient multiplicateur est :
+A. 1,055
+B. 1,10
+C. 1,1025
+D. 2,10
+
+4)
+
+Le prix d’un survêtement est passé de 40 € à 30 € entre juin 2019 et
+juillet 2019. Sachant que l’indice du prix de ce survêtement était 80 en
+juin 2019, son indice en juillet 2019 est :
+A.
+
+5)
+
+B
+
+C.
+
+Selon une enquête de l’INSEE sur la production de déchets non
+dangereux dans le commerce en 2016, 75 % des déchets non
+dangereux du commerce ont été triés en 2016 et 3 % des déchets triés
+du commerce en 2016 ont été mis en décharge.
+En 2016, le pourcentage de déchets du commerce qui ont été triés et
+mis en décharge est :
+A.
+
+6)
+
+2,25 %
+
+B.
+
+78 %
+
+C.
+
+39 %
+
+25 %
+
+Lors de deux évolutions CM = (1 + t)2. Alors :
+A. t = CM  1
+B. t = CM  1
+C. t = 1  CM
+
+D. t = 1  CM
+
+7)
+
+Pour tout réel 𝑥, (1 − 2𝑥)2 est égal à :
+A. 1 − 4𝑥 + 2𝑥 2
+
+B. 4𝑥 2 − 4𝑥 + 1
+
+C. 1 − 4𝑥²
+
+D. 1 − 2𝑥²
+
+8)
+
+L’ensemble des valeurs de x pour lesquelles – 2x + 6 est négatif est :
+A. [3 ; + [
+B. ]–  ; 3]
+C. [– 3 ; + [
+D. ]–  ; – 3]
+
+9)
+
+On donne la courbe c d’une fonction f définie
+sur [-3 ; 2] :
+L’équation f(x) = 0 admet :
+A. une solution négative ;
+B. deux solutions positives ;
+C. deux solutions négatives ;
+D. une solution positive et une solution
+négative.
+
+10)
+
+Le diagramme en barres ci-dessous donne la production brute
+d’électricité, en Twh (térawatt-heure) selon son origine (source :
+INSEE).
+
+Indiquer la seule proposition vraie :
+A. La quantité d’électricité d’origine hydraulique a diminué entre 2011
+et 2016.
+B. La quantité d’électricité d’origine hydraulique était de 575 Twh en
+2006.
+C. La quantité d’électricité d’origine nucléaire n’a pas cessé de
+diminuer entre 2001 et 2016.
+D. La quantité d’électricité d’origine thermique était d’environ 40 Twh
+en 1995.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une banque propose à ses clients deux types de relevés de compte :
+– type 1 : le relevé mensuel sur papier reçu par courrier ;
+– type 2 : le relevé en ligne sur internet.
+En 2019, 230 clients ont choisi le type 1 et 650 ont choisi le type 2.
+Les années suivantes, une étude laisse prévoir que le nombre de relevés du type 1 va diminuer
+de 30 relevés par an, alors que le nombre de relevés du type 2 va augmenter de 5 % par an.
+En se fondant sur cette étude, on note un le nombre de clients ayant choisi les relevés du type 1
+en 2019 + n ; et vn le nombre de clients ayant choisi les relevés du type 2 en 2019 + n.
+Ainsi u0 = 230 et v0 = 650.
+1. Justifier que u2 = 170 et que v2 ≈ 717 à l’unité près.
+2. Donner une interprétation des deux nombres obtenus à la question précédente.
+3. Donner la nature de chaque suite et préciser leur raison respective.
+4. Laquelle des deux suites relève du modèle linéaire ?
+5. Recopier et compléter le programme Python ci-dessous pour que la variable V prenne
+successivement les valeurs correspondant aux nombres de clients ayant choisi les relevés de
+type 2 de 2019 à 2025 inclus.
+V = 650
+for i in range(…………) :
+V = …..........
+
+Exercice 3 (5 points)
+On considère la fonction f définie sur [– 1 ; 3] par f(x) = x3 – 3x2 + 4.
+On note C sa courbe représentative dans un repère du plan.
+1. Calculer f(-1).
+2. Déterminer f '(x) où f ' est la fonction dérivée de f pour x dans l’intervalle [–1 ; 3].
+3. Montrer que la tangente à la courbe C au point d’abscisse – 1 a pour équation y = 9x + 9.
+4. On admet que le signe de f '(x) est donné par le tableau suivant :
+x
+f '(x)
+
+–1
+
++
+
+–
+
++
+
+a. Déterminer les variations de f sur l’intervalle [– 1 ; 3].
+b. Que vaut le maximum de f sur [-1 ; 3] ? Justifier.
+
+Exercice 4 (5 points)
+Un parc d’attraction français a recensé sur l’année 2018 :
+ 600 000 entrées au total dont 250 000 entrées « enfants » (moins de 12 ans) ;
+ 180 000 entrées « enfants » sur les périodes des vacances scolaires ;
+ 67,5 % des entrées ont été enregistrées sur les périodes des vacances scolaires.
+Dans cet exercice, les probabilités seront données sous forme fractionnaire irréductible ou sous
+forme décimale arrondie au centième.
+1. Calculer le nombre d’entrées enregistrées sur les périodes des vacances scolaires.
+2. Recopier sur la copie le tableau suivant, puis le compléter avec les effectifs correspondants.
+Nombre d’entrées
+
+Enfants
+(moins de 12 ans)
+
+Adultes
+(12 ans et plus)
+
+Total
+
+En période de vacances
+scolaires
+Hors période de
+vacances scolaires
+
+Total
+
+3. On choisit au hasard un visiteur du parc de l’année 2018.
+On note E l’événement : « le visiteur est un enfant (de moins de 12 ans) » ; et V l’événement :
+« le visiteur est venu sur les périodes des vacances scolaires ».
+a. Calculer P(E).
+b. Calculer P(E  V) puis interpréter le résultat dans le contexte de l’exercice.
+c. Calculer la probabilité que le visiteur soit venu sur les périodes des vacances scolaires
+sachant que c’est un enfant .

@@ -1,0 +1,179 @@
+{"pages": 10, "method": "pdftotext", "bytes": 903998, "at": "2026-11-23T08:56:02+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages :10
+
+PARTIE 1
+Sans Calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 : Automatismes (5 points)
+Enoncé
+
+1.
+
+Calculer 25 % de 360.
+
+2.
+
+Calculer la moitié du quart de 80.
+
+3.
+
+Donner le coefficient multiplicateur
+correspondant à une hausse de 43 %.
+
+4.
+
+Réponse
+
+Le tableau suivant est-il un tableau de
+proportionnalité ?
+
+Une courbe C a pour équation :
+5.
+
+𝑦 = 2𝑥 3 − 𝑥² + 𝑥 − 1.
+Le point de coordonnées (−1; −5)
+appartient-il à la courbe ?
+
+Enoncé
+6.
+
+Réponse
+
+Résoudre dans R l’équation d’inconnue 𝑥
+suivante :
+
+𝑥² − 1 = 48
+7.
+
+Compléter par "<" ou " >"
+
+8.
+
+Résoudre dans R l’inéquation d’inconnue
+𝑥 suivante :
+−2𝑥 − 8 > 0
+
+…
+
+Le diagramme ci-dessous représente le
+nombre de voitures vendues par un
+commercial les six premiers mois d’une
+année.
+
+9.
+
+10.
+
+a. Combien ce commercial a-t-il vendu de
+voitures au total sur ces six premiers
+mois ?
+b. Quelle est la proportion de voitures
+vendues en avril par ce commercial sur
+l’ensemble des ventes de ces six
+premiers mois ?
+
+PARTIE 2
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+Une usine agroalimentaire présente chaque année le bilan de la production de ses
+déchets et de leur traitement.
+Le tableau ci-dessous présente l’évolution de la masse, exprimée en tonnes, des
+déchets produits entre 2013 et 2018.
+
+1. Quelle formule a-t-on saisie dans la cellule B4 pour obtenir le résultat affiché,
+la cellule étant au format pourcentage ? Interpréter ce résultat.
+2. On suppose qu’à partir de 2018 la masse de déchets produits par l’usine va
+diminuer chaque année de 3,8%. On modélise cette évolution à l’aide d’une
+suite (𝑢𝑛 ).
+Pour tout entier naturel 𝑛, 𝑢𝑛 représente une estimation de la masse,
+exprimée en tonne, des déchets produits au cours de l’année (2018 + 𝑛 ).
+On a 𝑢0 = 270.
+a. Justifier que la suite (𝑢𝑛 ) est une suite géométrique ; préciser sa raison.
+b. Exprimer 𝑢𝑛 en fonction de 𝑛.
+c. Donner, en justifiant, le sens de variation de cette suite.
+3. L’entreprise souhaite, à partir de 2018, réduire au moins de moitié la
+production de ses déchets. On a représenté la suite (𝑢𝑛 ) sur l’annexe à
+rendre avec la copie.
+Déterminer graphiquement l’année où l’objectif de l’entreprise sera atteint.
+Laisser apparents les traits de construction permettant de justifier la réponse.
+
+EXERCICE 3 (5 points)
+Une entreprise fabrique et vend des machines-outils.
+ Sa capacité maximale de production est de 100 machines par an.
+Le coût total de production de 𝑥 machines-outils est donné en milliers d’euros
+par la fonction 𝑓 définie sur l’intervalle [0; 100] par :
+𝑓(𝑥) = 0,2 𝑥 2 + 8 𝑥 + 55.
+ Le chiffre d’affaires, en milliers d’euros, réalisé par l’entreprise pour la vente 𝑥
+machines-outils est donné par la fonction 𝑔 définie sur l’intervalle [0; 100]
+par :
+𝑔(𝑥) = 20 𝑥 .
+1. Sur l’annexe à remettre avec la copie, on a représenté dans un repère
+orthogonal les représentations graphiques respectives 𝐶𝑓 et 𝐶𝑔 des fonctions
+
+𝑓 et 𝑔.
+a. Identifier sur le graphique les courbes 𝐶𝑓 et 𝐶𝑔 . Justifier.
+b. On appelle intervalle de rentabilité, l’intervalle des quantités de machinesoutils pour lesquelles l’entreprise réalise un bénéfice.
+À l’aide du graphique, donner cet intervalle et le faire apparaître en couleur
+sur le graphique.
+c. Conjecturer la quantité de machines-outils fabriquées et vendues qui
+permet de réaliser un bénéfice maximal ; le faire apparaître sur le
+graphique.
+2. Le résultat de l’entreprise en euro, c’est-à-dire le bénéfice ou le déficit de
+l’entreprise selon que le résultat est positif ou négatif, est donné par la
+fonction 𝐷 définie sur l'intervalle [0; 100] par :
+
+𝐷(𝑥) = 𝑔(𝑥) − 𝑓(𝑥) = −0,2𝑥² + 12𝑥 − 55.
+a. Calculer 𝐷 ′ (𝑥), où 𝐷 ′ est la fonction dérivée de la fonction 𝐷 .
+b. En déduire le tableau de variation de la fonction 𝐷 et le nombre de
+machines-outils que l’entreprise doit produire et vendre pour obtenir un
+bénéfice maximal.
+
+EXERCICE 4 (5 points)
+La probabilité de crevaison d’un pneu (avant ou arrière) sur un parcours de VTT est
+égale à 0,02. On suppose que la crevaison d’un pneu n’a aucune influence sur
+l’autre pneu.
+On note C l’évènement "un pneu a crevé sur une section du parcours".
+1. a. Représenter cette situation à l’aide d’un arbre pondéré.
+b. Déterminer la probabilité d’avoir deux pneus crevés lors de ce parcours en
+VTT.
+2. Maurice s’entraîne sur ce parcours quatre fois par semaine ; il sait que le
+matériel de réparation pour un pneu lui coûte 7 €.
+On note X la variable aléatoire égale à la somme dépensée en réparation sur
+un trajet en VTT.
+a. Donner la loi de probabilité de la variable X.
+b. Calculer l’espérance E(X).
+c. En déduire le budget que doit prévoir Maurice sur une année pour réparer
+ses éventuelles crevaisons.
+
+A
+
+Annexe à remettre avec la copie
+EXERCICE 2
+
+𝑢𝑛
+
+𝑛
+
+9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+EXERCICE 3
+Représentations graphiques respectives 𝐶𝑓 et 𝐶𝑔 des fonctions 𝑓 et 𝑔.

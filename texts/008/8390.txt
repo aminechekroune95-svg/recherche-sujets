@@ -1,0 +1,162 @@
+{"pages": 7, "method": "pdftotext", "bytes": 620674, "at": "2026-11-23T08:55:27+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Automatismes (5 points)
+
+PARTIE I
+Exercice 1 (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+
+1.
+
+Convertir 1240 centimètres en mètres.
+
+2.
+
+Développer (3𝑥 − 4)(7𝑥 − 4)
+
+3.
+
+Donner les solutions de l’équation
+
+Réponse
+
+(𝑥 + 4)(2𝑥 − 1) = 0
+
+4.
+
+Résoudre l’inéquation : 5 − 3𝑥 < 0
+
+5.
+
+Diminuer de 1%, c'est multiplier par …
+
+6.
+
+Une paire de chaussures coûte 80€. Elle
+est soldée -20%. Quel est le prix affiché en
+magasin?
+
+7.
+
+Dans une classe de ST2S, 90% des
+élèves sont des filles et parmi elles, 70%
+aiment les mathématiques.
+Donner le pourcentage de filles aimant les
+mathématiques.
+
+Enoncé
+
+Réponse
+
+La courbe ci-dessous est la représentation graphique d’une fonction 𝑓 définie
+sur l’intervalle [−9; 6]. Cette fonction est celle qui est considérée dans les
+questions 8 à 10.
+La droite passant par les points 𝐴(0; 2) et 𝐵(6; 4) est la représentation
+graphique d’une fonction affine 𝑔 définie sur ℝ.
+
+8.
+
+𝑓(−4) est égal à :
+
+9.
+
+Résoudre graphiquement 𝑓(𝑥) = −4.
+
+10.
+
+L’équation de la droite (𝐴𝐵) est :
+
+PARTIE II
+Calculatrice autorisée.
+Durée : 1h30.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Un patient atteint de paludisme est traité par injection intraveineuse.
+A l’instant 𝑡 = 0 , on lui administre 10 mL de médicament.
+On estime que 20 % du médicament présent dans le sang est éliminé par heure.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 la quantité de médicament, en mL, restant dans
+le sang au bout de 𝑛 heures.
+1. Donner la nature de la suite (𝑢𝑛 ) et préciser sa raison et son premier terme.
+2. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+3. Calculer la quantité de médicament restant dans le sang au bout de 7 heures
+(arrondir votre résultat à 10-1 mL près).
+
+4. Pour être efficace, le traitement nécessite qu’il y ait toujours au moins 0,5 mL
+résiduel de médicament dans le sang.
+Compléter l’algorithme ci-dessous, afin qu’il affiche au cours de quelle heure il
+faudra procéder à une nouvelle injection.
+n=0
+u=….
+while …...….. :
+n= ….
+u= ….
+print (n)
+5. Que contient la variable 𝑛 à l’issue de l’exécution de l’algorithme ?
+
+Exercice 3 (5 points)
+
+Un lycée de 1500 élèves est confronté à une épidémie de gastro-entérite.
+Dès l’apparition des premiers symptômes, l’infirmière du lycée note pendant une
+semaine le nombre d’élèves malades. Le tableau ci-dessous présente les résultats
+observés.
+Numéro du jour
+
+Nombre d’élèves malades
+
+1. Construire dans le repère en annexe le nuage de points associés à cette série
+statistique.
+2. Calculer les coordonnées de G, le point moyen du nuage de points, et le placer
+sur le graphique.
+3. On admet que la droite Δ d’équation 𝑦 = 6,25𝑥 + 1 constitue une droite
+d’ajustement convenable du nuage.
+En précisant les valeurs utilisées, tracer la droite Δ dans le repère en annexe.
+4. En utilisant cet ajustement, estimer graphiquement à partir de combien de jours au
+moins 5 % des élèves du lycée seront atteints par la gastro-entérite.
+5. En utilisant cet ajustement, estimer par le calcul quel jour sera dépassée la barre
+symbolique des 100 élèves atteints par la gastro-entérite.
+
+Exercice 4 (5 points)
+
+Un laboratoire d'analyses a mis au point un nouvel alcootest.
+Les premiers essais ont conduit aux résultats suivants :
+● pour une personne en état d’ébriété, la probabilité que l'alcootest soit positif est
+de 0,95;
+● pour une personne qui n’est pas en état d’ébriété, la probabilité que l'alcootest
+soit négatif est de 0,96.
+Sur 2000 personnes testées lors de l'étalonnage du test, 40 étaient réellement en
+état d'ébriété.
+On considère les évènements suivants :
+● E : « la personne est en état d’ébriété »
+● A : « l’alcootest est positif ».
+1. D'après l'énoncé, calculer P(E).
+2. Représenter la situation dans l'arbre pondéré de probabilités en annexe.
+3. Calculer la probabilité de l'événement (E∩A).
+4. Montrer que la probabilité que l'alcootest soit positif est de 0,0582.
+5. L'alcootest s'est révélé positif.
+Calculer la probabilité que la personne testée soit réellement en état d’ébriété.
+(Arrondir le résultat à 10−4).
+
+Annexe à rendre avec la copie
+Exercice 3 :
+
+Exercice 4 :

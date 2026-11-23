@@ -1,0 +1,180 @@
+{"pages": 8, "method": "pdftotext", "bytes": 990669, "at": "2026-11-23T08:56:44+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Énoncé
+
+Réponse
+
+Donner la fraction irréductible égale à
+1.
+
+− 3×5
+
+Donner l’écriture décimale de
+2.
+
+14 × 10−3
+
+Donner l’écriture scientifique de
+3.
+
+25,21 × 105
+
+4.
+
+Convertir 3,14𝑚3 en 𝑑𝑚3
+
+5.
+
+Si 𝑃 = 𝑚 × 𝑔 alors 𝑔 =
+
+Enoncé
+
+6.
+
+Réponse
+
+Calculer 𝐴(𝑥) = 𝑥² − 3𝑥 + 1
+pour 𝑥 = −2
+
+Factoriser :
+7.
+
+8.
+
+(2𝑥 + 1)(3𝑥 + 2) + (2𝑥 − 5)(2𝑥 + 1)
+
+Calculer 20 % de 85.
+
+L'équation réduite de (Δ) est :
+9.
+
+Le point A(3 ; ….......) appartient à la
+droite (Δ)
+10.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+Un centre de données est une infrastructure composée d’un réseau d’ordinateurs et
+d’espaces de stockage. Fonctionnant en permanence, avec un besoin constant
+d’électricité pour alimenter les différents systèmes, un centre de données a une
+grande consommation électrique. La répartition de la consommation électrique d’un
+tel centre est illustrée par la représentation suivante :
+
+Répartition de la consommation électrique
+du data center
+Éclairages autres
+7%
+Électricité pour le
+secours
+10%
+Éclairages autres
+Consommation
+informatique
+46%
+
+Ventilation
+12%
+
+Électricité pour le secours
+Ventilation
+Climatisation
+Consommation informatique
+
+Climatisation
+25%
+
+1. Le stockage des données représente 31 % de la consommation informatique.
+Quel pourcentage de la consommation électrique le stockage des données
+représente-t-il ?
+Pour limiter la part du stockage des données dans l'électricité consommée, il est
+conseillé de supprimer les messages stockés dans la boîte de messagerie. Lucie
+décide de vider progressivement sa boîte qui contient 16 000 messages. Elle
+reçoit 50 nouveaux messages par jour et décide d’en supprimer 500 tous les
+jours. On note pour tout entier naturel 𝑛 non nul, 𝑢(𝑛) le nombre de messages
+stockés sur la boîte de Lucie, 𝑛 jours après le début de l'opération et 𝑢(0) =
+16 000.
+2. Montrer que 𝑢(1) = 15 550.
+3. Quelle est la nature de la suite 𝑢 ? Justifier.
+4. Pour tout entier naturel 𝑛, on admet l’égalité suivante : 𝑢(𝑛) = 16 000 − 450𝑛.
+a. Calculer 𝑢(10).
+b. Représenter dans le repère fourni en annexe 1 à remettre avec la copie,
+𝑢(0) et 𝑢(10).
+c. Déterminer graphiquement combien de jours seront nécessaires pour que
+le nombre de messages soit pour la première fois inférieur à 10 000.
+Justifier.
+
+EXERCICE 3 (5 points)
+On a représenté en annexe 2 la fonction définie sur R par
+𝑓(𝑥) = 2𝑥² − 2𝑥 − 4.
+1. a. Déterminer graphiquement les antécédents de 0 par 𝑓.
+b. En déduire la forme factorisée de la fonction 𝑓.
+2. a. Résoudre graphiquement 𝑓(𝑥) < −4. On laissera apparents les traits de
+construction nécessaires au raisonnement sur l’annexe 2 à remettre avec la
+copie.
+b. Résoudre par le calcul 𝑓(𝑥) < −4.
+3. Tracer sur l’annexe 2 à remettre avec la copie dans le même repère que Cf ,
+la représentation graphique de la fonction 𝑔(𝑥) = − 2𝑥 + 2.
+4. Par lecture graphique, déterminer les valeurs approchées au dixième près des
+solutions de l’équation 𝑓(𝑥) = 𝑔(𝑥).
+
+EXERCICE 4 ( 5 points)
+Dans une entreprise qui emploie 800 personnes, on souhaite étudier la répartition
+des salaires mensuels dans l'entreprise et interroger quelques employés sur les
+écarts de salaires entre hommes et femmes.
+On dispose des renseignements suivants :
+
+70% des personnes employées sont des hommes ;
+Trois quarts des personnes employées perçoivent un salaire inférieur à
+2 000 € et parmi ces personnes, 24% sont des femmes ;
+Parmi les dix personnes employées percevant un salaire supérieur à 4 000 €,
+deux sont des femmes.
+
+1. Justifier que 144 femmes de l'entreprise perçoivent un salaire inférieur à 2 000 €.
+2. À l'aide des renseignements précédents, compléter le tableau en annexe 2.
+3. On interroge au hasard une personne employée dans cette entreprise.
+a. Quelle est la probabilité qu'on interroge un homme percevant un salaire
+inférieur à 2 000 € ?
+b. Quelle est la probabilité qu'on interroge une personne percevant un salaire
+inférieur ou égal à 4 000 € ?
+4. On interroge au hasard une femme dans cette entreprise.
+Quelle est la probabilité qu'elle perçoive moins de 2 000 € par mois ?
+
+Annexe 1
+
+à remettre avec la copie
+
+EXERCICE 2 questions 4b et 4c
+Nombre de messages
+
+Nombre de jours
+
+Annexe 2
+
+à remettre avec la copie
+
+EXERCICE 3
+
+𝐶𝑓
+
+EXERCICE 4 question 2
+Salaire<2 000 €
+
+2 000 €  salaire  4 000 €
+
+Salaire > 4 000 €
+
+Total
+
+Femmes
+
+Hommes
+
+Total

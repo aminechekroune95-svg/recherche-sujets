@@ -1,0 +1,155 @@
+{"pages": 6, "method": "pdftotext", "bytes": 788446, "at": "2026-11-23T08:55:24+00:00"}
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Soit 𝑓 la fonction définie sur R par :
+1)
+
+𝑓(𝑥) = 𝑥 3 − 3𝑥 2 + 5.
+Déterminer l’expression de 𝑓 ′ (𝑥) où 𝑓′ désigne la
+fonction dérivée de 𝑓.
+Soit 𝑔 la fonction définie sur [0,5 ; 9,5] par
+
+𝑔(𝑥) = 3 + 𝑥 . On note 𝑔′ sa fonction dérivée et 𝐶𝑔
+2)
+
+sa courbe représentative dans un repère
+orthonormé.
+
+On donne 𝑔′ (𝑥) = − 𝑥 2 .
+Déterminer le coefficient directeur de la tangente à
+𝐶𝑔 au point d’abscisse 2.
+Dresser le tableau de signes sur R de l’expression
+3)
+
+(4 − 2𝑥)(𝑥 + 1).
+Développer et réduire l’expression ci-dessous :
+𝑥
+
+(12𝑥 − 6) (3 + ) .
+
+4)
+
+5)
+
+6)
+
+Donner le résultat du calcul suivant sous forme
+d’une fraction irréductible :
+7 4 9
++ ×
+.
+3 3 20
+Calculer 20 % de 150 €.
+
+Recopier la proposition qui permet de compéter
+correctement la phrase suivante :
+
+7)
+
+"Une quantité a été augmentée de 10%. Pour revenir
+à sa valeur initiale, il faut… "
+a) "…multiplier la valeur augmentée par 1,1."
+b) "…multiplier la valeur augmentée par 0,9."
+c) "…diviser la valeur augmentée par 1,1."
+d) "…diviser la valeur augmentée par 0,9."
+
+Les questions 8), 9) et 10) portent sur la
+fonction 𝑓 définie sur l’intervalle [–4 ; 5]
+et dont on donne ci-contre la
+représentation graphique.
+
+8)
+
+Résoudre graphiquement l’équation 𝑓(𝑥) = 2.
+
+9)
+
+Déterminer le signe de 𝑓′(𝑥) sur l’intervalle [–4 ; 5],
+où 𝑓′ désigne la fonction dérivée de 𝑓.
+
+10)
+
+Quel est le minimum de la fonction 𝑓 sur [−4 ; 5] ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une nouvelle association cherche à se faire connaître. Pour cela, elle décide de faire
+distribuer chaque dimanche des prospectus sur un marché pendant dix semaines.
+La campagne de publicité prévoit une distribution de 600 prospectus le premier
+dimanche, puis une diminution de 30 prospectus chaque semaine.
+On souhaite modéliser cette situation à l’aide d’une suite (𝑢𝑛 ) où 𝑛 ≥ 1. Plus
+précisément, tant que 𝑢𝑛 ≥ 0, 𝑢𝑛 est égal au nombre de prospectus distribués le 𝑛ième
+dimanche. Ainsi 𝑢1 = 600.
+
+1) Calculer 𝑢2 puis exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+2) En déduire la nature de la suite (𝑢𝑛 ). On précisera son premier terme et sa raison.
+3) Montrer que pour tout 𝑛 ≥ 1, 𝑢𝑛 = 630 − 30𝑛.
+4) Calculer 𝑢10 et interpréter ce résultat dans le contexte de l’exercice.
+5) L’imprimeur, séduit par le projet de cette nouvelle association, lui imprime 1500
+prospectus pour le même prix. En gardant ce mode distribution, combien de
+semaines la campagne de publicité de cette association peut-elle alors durer ?
+
+Exercice 3 (5 points)
+Dans le cadre d’une campagne de promotion, le directeur d’un parc d’attractions
+décide d’offrir des entrées gratuites pour sa prochaine journée de réouverture. Lors de
+leur journée, les visiteurs peuvent pique-niquer dans l’enceinte du parc ou déjeuner dans
+l’un des stands de restauration.
+Le jour de la réouverture on estime que 40% des visiteurs avaient une entrée
+gratuite, les autres ayant acheté leur billet d’entrée. De plus, parmi les visiteurs ayant une
+entrée gratuite, 45% ont effectué un achat dans un des stands de restauration. Parmi
+ceux ayant payé leur entrée, 65% n’ont rien acheté dans ces stands.
+On interroge un visiteur choisi au hasard parmi ceux venus au parc le jour de la
+réouverture et on note :
+-
+
+𝐺 l’événement « le visiteur a eu une entrée gratuite » ;
+𝐺̅ l’événement contraire de 𝐺 ;
+𝐴 l’événement « le visiteur a effectué un achat dans un des stands de
+restauration » ;
+𝐴̅ l’événement contraire de 𝐴.
+1) Donner la valeur de la probabilité conditionnelle de 𝐴 sachant que 𝐺 est réalisé,
+notée 𝑃𝐺 (𝐴).
+2) Recopier et compléter l’arbre de probabilité ci-dessous.
+
+3) Calculer la probabilité de l’évènement « le visiteur a payé son entrée et a effectué
+un achat dans un stand».
+4) Montrer que la probabilité que le visiteur ait effectué un achat dans un stand est
+égale à 0,39.
+
+5) Calculer la probabilité que le visiteur ait payé son entrée sachant qu’il a effectué
+un achat dans un stand. On arrondira au centième.
+
+Exercice 4 (5 points)
+
+Soit 𝑓 la fonction définie sur [0,5 ; 8] par :
+𝑓(𝑥) = −𝑥 + 9 −
+
+𝑥
+
+On a tracé sa courbe représentative sur une calculatrice dont voici une copie
+d’écran.
+
+1) Quelles semblent être les variations de la fonction 𝑓 ?
+2) On note 𝑓′ la fonction dérivée de la fonction 𝑓 sur l'intervalle [0,5 ; 8].
+a) Montrer que, pour tout 𝑥 de l'intervalle [0,5 ; 8], on a :
+𝑓 ′ (𝑥) =
+
+−𝑥 2 + 4
+𝑥2
+
+b) En déduire le signe de 𝑓′(𝑥) sur [0,5 ; 8].
+3) a) Dresser le tableau de variations de la fonction 𝑓 sur [0,5 ; 8]. On précisera les
+valeurs aux bornes, c’est-à-dire les valeurs 𝑓(0,5) et 𝑓(8).
+b) En déduire une interprétation des inscriptions « X=2 » et « Y=5 » présentes en
+bas de la copie d’écran de calculatrice donnée ci-dessus.

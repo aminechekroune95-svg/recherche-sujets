@@ -1,0 +1,150 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1230900, "at": "2026-11-23T08:55:12+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+L’inéquation 𝑥 2 + 𝑥 + 2 > 0 :
+a. n’a pas de
+solution
+
+b. a une seule
+solution
+
+c. a pour ensemble de
+solution l’intervalle
+[1 ; 2]
+
+d. a pour solution
+l’ensemble des
+nombres réels
+
+Question 2
+Soient ⃗𝑢 𝑒𝑡 𝑣 deux vecteurs tels que ‖𝑢
+⃗ ‖ = 3, ‖𝑣‖ = 2 𝑒𝑡 ⃗𝑢. 𝑣 = −1 alors ‖𝑢
+⃗ + 𝑣‖² est égal
+à:
+a. 11
+
+b. 13
+
+c. 15
+
+d. 25
+
+Question 3
+Soient 𝐴 et 𝐵 deux événements d’un univers tels que 𝑃𝐴 (𝐵) = 0,2 et 𝑃(𝐴) = 0,5.
+Alors la probabilité 𝑃(𝐴 ∩ 𝐵) est égale à :
+a. 0,4
+
+b. 0,1
+
+c. 0,25
+
+d. 0,7
+
+Question 4
+Soit (𝑢𝑛 ) une suite arithmétique de terme initial 𝑢0 = 2 et de raison 3.
+La somme 𝑆 définie par 𝑆 = 𝑢0 + 𝑢1 + … + 𝑢12 est égale à :
+a. 45
+
+b. 222
+
+c. 260
+
+d. 301
+
+Question 5
+Soit 𝑓 la fonction définie sur l’ensemble des nombres réels par 𝑓(𝑥) = (2𝑥 − 5)3 .
+Une expression de la dérivée de 𝑓 est :
+a. 3(2𝑥 − 5)2
+
+b. 6(2𝑥 − 5)2
+
+c. 2(2𝑥 − 5)2
+
+d. 23
+
+Exercice 2 (5 points)
+La courbe ci-dessous représente dans un repère du plan une fonction 𝑓 définie et dérivable
+sur l’ensemble des nombres réels.
+Les points 𝐺 (-2 ; 5) et 𝐻 (0 ; 1) appartiennent à la courbe représentative de la fonction 𝑓 et
+les tangentes à la courbe aux points 𝐺 et 𝐻 sont horizontales.
+
+1.
+2.
+
+Déterminer 𝑓(0), 𝑓(−2), 𝑓′(0) et 𝑓′(−2).
+On admet que pour tout réel 𝑥, 𝑓(𝑥) peut s’écrire sous la forme :
+𝑓(𝑥) = 𝑎𝑥³ + 𝑏𝑥² + 𝑐𝑥 + 𝑑, où 𝑎, 𝑏, 𝑐 et 𝑑 désignent des nombres réels
+a. Donner une expression de 𝑓’(𝑥).
+b. Déterminer les valeurs des réels 𝑐 et 𝑑.
+c. Déterminer deux équations que vérifient les réels 𝑎 et 𝑏.
+d. En déduire que 𝑓(𝑥) = 𝑥³ + 3𝑥² + 1.
+
+Exercice 3 (5 points)
+Dans une usine, un four cuit des céramiques à la température de 1 000°C.
+À la fin de la cuisson, on éteint le four et commence alors la phase de refroidissement.
+Pour un nombre entier naturel 𝑛, on note 𝑇𝑛 la température en degré Celsius du four au bout
+de 𝑛 heures écoulées à partir de l’instant où il a été éteint. On a donc 𝑇0 = 1 000.
+La température 𝑇𝑛 est calculée grâce à l’algorithme suivant :
+𝑇 ← 1 000
+Pour 𝑖 allant de 1 à 𝑛
+𝑇 ← 0,82 × 𝑇 + 3,6
+Fin pour
+1. Quelle est la température du four après une heure de refroidissement ?
+2. Exprimer 𝑇𝑛+1 en fonction de 𝑇𝑛 .
+3. Déterminer la température du four arrondie à l’unité après 4 heures de refroidissement.
+4. La porte du four peut être ouverte sans risque pour les céramiques dès que sa
+température est inférieure à 70°C. Afin de déterminer le nombre d’heures au bout duquel
+le four peut être ouvert sans risque, on définit une fonction « froid » en langage Python.
+
+def froid() :
+T=1000
+n=0
+while .... :
+T= ....
+n=n+1
+return n
+
+Recopier et compléter les instructions 4 et 5.
+5. Déterminer le nombre d’heures au bout duquel le four peut être ouvert sans risque pour
+les céramiques.
+
+Exercice 4 (5 points)
+Le plan est rapporté à un repère orthonormé.
+On considère les points 𝐴(-3 ; 1), 𝐵(3 ; 5) et 𝐶(7 ; 1) dans ce repère.
+Le but de cet exercice est de déterminer les coordonnées du centre du cercle circonscrit au
+triangle 𝐴𝐵𝐶 et le rayon de ce cercle.
+On rappelle que le cercle circonscrit à un triangle est le cercle passant par les trois sommets
+de ce triangle.
+1. Placer les points 𝐴, 𝐵 et 𝐶 dans le plan puis construire le cercle circonscrit au triangle
+𝐴𝐵𝐶.
+2. Vérifier que la droite ∆ d’équation 3𝑥 + 2𝑦 − 6 = 0 est la médiatrice du segment [𝐴𝐵].
+3. Déterminer les coordonnées du point 𝐵’, milieu du segment [𝐴𝐶].
+4. Déterminer les coordonnées du point 𝐼, centre du cercle circonscrit au triangle 𝐴𝐵𝐶.
+5. Calculer une valeur exacte du rayon du cercle circonscrit au triangle 𝐴𝐵𝐶.
+
+__________________

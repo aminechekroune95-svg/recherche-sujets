@@ -1,0 +1,203 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1124138, "at": "2026-11-23T08:55:54+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+durée : 20 minutes
+
+Cet exercice comporte dix questions. Pour chacune d’entre elles, indiquer la réponse dans la
+case correspondante. Aucune justification n’est demandée.
+Énoncé
+
+1.
+
+Réponse
+
+Un article augmente de 50 % puis à nouveau de
+50 %. Quel est le taux d’évolution, exprimé en
+pourcentage, équivalent à ces deux augmentations
+successives ?
+
+2.
+
+Un élastique mesure 20 centimètres. On l’étire
+pour qu’il mesure 25 centimètres. Quel est le
+pourcentage d’augmentation de la longueur ?
+
+3.
+
+Dans un groupe de 40 personnes, 15 sont des
+adolescents. Exprimer la proportion d’adolescents
+dans ce groupe.
+
+4.
+
+Comparer les fractions suivantes : ;
+
+5.
+
+Résoudre dans ℝ l’inéquation :
+(𝑥 − 5)(𝑥 − 3) > 0
+
+; 3 et .
+
+5𝑥
+
+6.
+
+7.
+
+8.
+
+9.
+
+Soit l’égalité : 𝑦 = √2𝑒 .
+Exprimer 𝑥 en fonction de 𝑦 et de 𝑒.
+Pour les énoncés 7. et 8., on note la fonction 𝑓
+dérivable sur ℝ et définie par :
+𝑓(𝑥) = 𝑥 2 + 3𝑥 − 5.
+Dans un repère du plan, on note 𝐶𝑓 la courbe
+représentative de 𝑓.
+On note 𝑓 ′ la fonction dérivée de 𝑓.
+Compléter les deux phrases ci-contre.
+
+L’ordonnée du point d’intersection de 𝐶𝑓 et
+de l’axe des ordonnées est :
+
+Pour tout réel 𝑥,
+𝑓 ′ (𝑥) =
+
+Quel entier est égal à √49 − 24 ?
+
+PARTIE II
+La calculatrice est autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le tableau ci-dessous indique le nombre d’habitants, par année, d’un pays de 2012 à 2019.
+Chaque année le nombre d’habitants est estimé au million d’habitants près.
+Année
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+Rang de l’année : xi
+
+Nombre
+d’habitants : yi
+(exprimé en
+million d’habitants)
+
+62,8
+
+63,1
+
+63,4
+
+63,7
+
+64,0
+
+64,3
+
+64,5
+
+64,9
+
+Ainsi, en 2014, il y avait 63 400 000 habitants dans ce pays.
+Sur la feuille annexe, dans un repère du plan, la série statistique est représentée, en partie,
+par un nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) pour 𝑖 un entier variant de 0 à 7.
+Répondre aux questions 1. et 2. sur la feuille annexe à rendre avec la copie :
+1. Compléter le nuage de points, en construisant les points manquants de coordonnées
+respectives (2 ; 63,4) et (6 ; 64,5).
+2. Construire la droite (d) d’équation 𝑦 = 0,3 𝑥 + 63.
+3. La droite (d) représente-t-elle un bon ajustement affine de cette série statistique ?
+
+4. À l’aide de la calculatrice, déterminer l’équation réduite de la droite d’ajustement de
+𝑦 en 𝑥 par la méthode des moindres carrés. On arrondira les coefficients au millième.
+5. Selon ce modèle, estimer la population, en million d’habitants, de ce pays en 2028.
+6. Selon ce modèle, en quelle année l’estimation de la population de ce pays dépasserat-elle 70 millions d’habitants ?
+
+Exercice 3 (5 points)
+Un client dépose 880 € sur un compte bancaire, en janvier 2020. Cette somme est placée à
+intérêts composés au taux annuel de 2 %.
+Pour tout entier naturel 𝑛, le nombre 𝑢𝑛 représente la somme d’argent, exprimée en euro,
+sur ce compte en janvier de l’année 2020 + 𝑛.
+On définit ainsi la suite (𝑢𝑛 ) de premier terme 𝑢0 où 𝑢0 est la somme d’argent, exprimée en
+euro, se trouvant sur ce compte en janvier 2020.
+On a donc : 𝑢0 = 880.
+Justifier que 𝑢1 est égal à 897,6.
+Justifier que (𝑢𝑛 ) est une suite géométrique dont on précisera la raison.
+Exprimer 𝑢𝑛 en fonction de l’entier naturel 𝑛.
+Calculer 𝑢10 et interpréter sa valeur dans le contexte de l’exercice. On pourra donner
+une valeur approchée du résultat au dixième près.
+5. Selon ce modèle, à partir de quelle année la somme d’argent sur le compte sera-telle supérieure à 2 000 € ? Justifier votre réponse.
+
+1.
+2.
+3.
+4.
+
+Exercice 4 (5 points)
+Figure 1
+
+A
+
+D
+
+B
+
+C
+
+La figure 1 représente le plateau d’une table basse. Ce plateau est un carré de 50
+centimètres de côté. Les quatre surfaces grisées sont des triangles rectangles isocèles dont
+les deux côtés de l’angle droit mesurent 25 centimètres.
+Sur la feuille annexe à rendre avec la copie, on a représenté cette table en perspective
+centrale, le segment [AC] étant dans un plan frontal.
+En perspective centrale, les points A, B, C et D sont représentés par les points a, b, c et d.
+1. Déterminer la somme des aires, en centimètres carrés, des surfaces grisées.
+Les droites (AB) et (CD) sont parallèles dans la réalité.
+2. Que se passe-t-il pour les droites (ab) et (cd) dans la représentation en perspective
+centrale ? Pourquoi ?
+3. Sur la feuille annexe à rendre avec la copie, tracer la ligne d’horizon en justifiant
+votre méthode.
+4. À quoi correspond l’intersection de la droite (bd) et de la ligne d’horizon ?
+5. Représenter, en perspective centrale, ce plateau ainsi que les motifs, sur la figure de
+la feuille annexe à rendre avec la copie. Laisser apparents les traits de construction.
+
+Feuille annexe à rendre avec la copie.
+Exercice 2 Questions 1. et 2.
+
+Exercice 4 Questions 3. et 5.

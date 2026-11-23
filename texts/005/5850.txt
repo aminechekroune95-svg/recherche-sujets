@@ -1,0 +1,166 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1367932, "at": "2026-11-23T08:58:51+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+1)
+
+Durée : 20 minutes
+Réponse
+
+Dans un repère du plan, on donne 𝐴(2; 4) et
+𝐵(6; 16).
+Déterminer une équation de la droite (𝐴𝐵).
+
+2)
+
+Soit 𝑓 la fonction définie sur R par
+𝑓(𝑥) = 2𝑥 2 − 𝑥 + 3. On note 𝐶𝑓 sa courbe
+représentative dans un repère du plan.
+Déterminer l’ordonnée du point de 𝐶𝑓 ayant
+pour abscisse −3.
+
+3)
+
+Factoriser l’expression 4(𝑥 + 2) + (𝑥 + 2)2
+
+4)
+
+Soit 𝑔 la fonction définie par 𝑔(𝑥) = −3𝑥 + 7.
+Déterminer l’antécédent de −11 par 𝑔.
+
+5)
+
+Après une baisse de 20 %, un produit coûte
+200 €. Quel était son prix initial ?
+
+6)
+
+Calculer
+
+7)
+
+Résoudre l’équation 𝑥 2 = 25.
+
+8)
+
+La formule de l’IMC ( indice de masse
+𝑚
+corporelle, noté I ) est I = 𝑡 2 où 𝑚 est la masse
+en kilogramme et 𝑡 la taille en mètre.
+Exprimer 𝑡 en fonction de 𝑚 et de I.
+
+10+103
+
+Compléter le tableau de signe de l’expression
+9)
+
+x
+
+(𝑥 − 1)(𝑥 + 3)
+
+(𝑥 − 1)(𝑥 + 3)
+
+Par lecture graphique, dresser le tableau de
+variation de la fonction ℎ définie sur [−6; 6] et
+représentée ci-dessous dans un repère du
+plan :
+
+x
+Variations
+de ℎ
+
+10)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Soit 𝑓 une fonction polynôme du second degré, définie sur R et représentée par la parabole
+ci-dessous.
+
+1. Par lecture graphique :
+a. Donner l’image de 0 par 𝑓.
+b. Déterminer les racines de la fonction 𝑓.
+c. Donner le nombre de solutions de l’équation 𝑓(𝑥) = 1.
+2. Expliquer pourquoi 𝑓(𝑥) peut s’écrire sous la forme 2(𝑥 + 1)(𝑥 − 2).
+
+3. Pour trouver un encadrement de la solution de
+l’équation 𝑓(𝑥) = 1 dans l’intervalle [2 ; 3] on a
+écrit les fonctions Python ci-contre.
+Par exemple, l’appel balayage(1) renvoie le
+résultat (2, 3) :
+
+L’instruction balayage(0.0001) renvoie le résultat (2.1583, 2.1584).
+Que signifie ce résultat ?
+
+Exercice 3 (5 points)
+On veut construire une cuve métallique sans couvercle, à partir d'une plaque carrée de 3
+mètres de côté À chaque coin de la plaque métallique, on découpe un carré de côté
+𝑥 mètres, où 𝑥 est un nombre réel appartenant à l'intervalle [0 ; 1,5]. En pliant et en
+soudant, on obtient une cuve sans couvercle de volume 𝑉(𝑥) exprimé en m3.
+
+1.
+a. Montrer que l'aire du carré ABCD représenté sur la figure ci-dessus
+peut s’écrire sous la forme (3 − 2𝑥)².
+b. Montrer que le volume 𝑉(𝑥) de la cuve, exprimé en m3, peut s’écrire
+sous la forme 𝑉(𝑥) = 4𝑥 3 − 12𝑥 2 + 9𝑥.
+
+2. On note 𝑉′ la fonction dérivée de 𝑉.
+a. Calculer 𝑉′(𝑥) puis vérifier que 𝑉′(0,5) = 0 et 𝑉′(1,5) = 0.
+b. En déduire les variations de 𝑉 sur l’intervalle [0 ; 1,5].
+c. Pour quelle valeur de 𝑥 le volume de la cuve est-il maximal ?
+
+Exercice 4 (5 points)
+Un centre de vacances accueille 200 adolescents : parmi eux, 35 % ont choisi l’activité kayak,
+25 % l’activité escalade et les autres l’activité équitation. Les filles représentent 30 % des
+personnes ayant choisi l’activité kayak, 40 % de l’activité escalade et 70 % de l’activité
+équitation.
+1. À l’aide des données de l’énoncé, compléter le tableau d’effectifs ci-dessous :
+Kayak
+
+Escalade
+
+Équitation
+
+Total
+
+Filles
+Garçons
+Total
+
+2. Calculer, parmi les filles, la fréquence de celles qui ont choisi l’activité kayak.
+3. On sélectionne au hasard une personne parmi les 200 adolescents présents dans le
+centre.
+a. Calculer la probabilité que la personne sélectionnée soit un garçon qui a choisi
+l’activité équitation.
+b. Sachant que la personne sélectionnée est une fille, calculer la probabilité qu’elle
+ait choisi l’équitation.
+4. Le centre de vacances, qui peut actuellement accueillir jusqu’à 236 adolescents, va
+procéder à un agrandissement de ses locaux afin d’augmenter sa capacité d’accueil
+de 7 % par an sur les cinq prochaines années.
+Combien d’adolescents le centre de vacances pourra-t-il accueillir après ces cinq
+années ?

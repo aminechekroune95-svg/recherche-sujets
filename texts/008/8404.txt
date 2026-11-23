@@ -1,0 +1,146 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1068626, "at": "2026-11-23T08:55:20+00:00"}
+PARTIE I - Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Écrire la réponse dans la colonne de droite. Aucune justification n’est demandée.
+Énoncé
+
+Réponse
+
+1) Déterminer la fraction égale à
+
+dont le
+
+dénominateur est égal à 48.
+
+2) Comparer les nombres 7 et 8.
+
+3) Calculer 𝑆 = −
+
+4) Quelle distance représentent les 25 % de 80 km ?
+5) Exprimer 60 % sous forme d’une fraction
+irréductible.
+6) Écrire le nombre 𝐴 = 23 × 24 × 2−5 sous la
+forme 2𝑝 où 𝑝 est un nombre entier.
+7) Voici la courbe représentative d’une fonction 𝑓
+définie sur l’intervalle [- 6 ; 7] :
+
+Par lecture graphique, déterminer
+antécédents éventuels de 1 par 𝑓.
+
+les
+
+Énoncé
+
+Réponse
+
+8) On considère la courbe représentative de la
+fonction 𝑓, qui est représentée dans la question 7.
+Dresser le tableau de signes de 𝑓 sur l’intervalle
+[6 ; 7].
+
+9) On rappelle que le volume V d’une pyramide est
+donné par la formule 𝑉 = 3 𝐵 × ℎ, où B désigne
+l’aire de la base et h la hauteur de la pyramide.
+Exprimer B en fonction de V et h.
+
+10) Donner l’expression développée et réduite de
+𝐴 = 3𝑥 + 5 − 2𝑥(1 − 4𝑥)
+
+𝐵=
+
+𝐴=
+
+PARTIE II
+Cette partie se compose de trois exercices indépendants.
+Calculatrice autorisée
+Exercice 2 : (5 points)
+On partage un segment de longueur 9 cm en trois segments de même longueur.
+À partir du segment situé au milieu, on construit un triangle équilatéral orienté vers
+l’extérieur et on efface ce segment comme montré ci-dessous.
+
+Dans la suite, on considère un triangle équilatéral de côté 9 cm (Étape 1).
+On applique le procédé décrit précédemment à chaque côté du triangle et on obtient la
+figure de l’étape 2.
+On répète alors de nouveau ce procédé à chaque côté et on obtient la figure de l’étape 3.
+En répétant indéfiniment, on obtient une courbe appelée « flocon de Von Koch ».
+
+Étape 1
+
+Étape 2
+
+Étape 3
+
+Pour tout entier naturel 𝑛 ≥ 1, on définit la suite (𝐶𝑛 ) où 𝐶𝑛 désigne le nombre de côtés de
+la figure obtenue à l’étape 𝑛. On a donc 𝐶1 = 3. On admet que la suite (𝐶𝑛 ) est
+géométrique.
+1) Préciser les valeurs de 𝐶2 et de 𝐶3 .
+2) Déterminer la raison de la suite (𝐶𝑛 ).
+3) Calculer 𝐶10 , en précisant la démarche.
+
+4) Pour tout entier naturel 𝑛 ≥ 1, on note 𝑃𝑛 le périmètre 𝑃𝑛 de la figure obtenue à
+4 𝑛−1
+
+l’étape 𝑛. On admet que 𝑃𝑛 = 27 × (3)
+
+.
+
+a. Calculer 𝑃1 , 𝑃2 et 𝑃3 .
+b. Déterminer, à l’aide de la calculatrice, à partir de quelle étape 𝑛 le périmètre
+dépassera 1 km.
+
+Exercice 3 : (5 points)
+La Casa Batllo est l'une des réalisations de l'architecte Antoni
+Gaudí à Barcelone.
+Le grenier abrite une succession d’arcs en forme de paraboles
+évoquant la cage thoracique d’un grand animal.
+Le but de cet exercice est de déterminer une équation de l’un
+de ces arcs (celui situé au fond sur la photo).
+
+On modélise cet arc à l’aide d’une fonction polynôme du second degré 𝑓, qui a pour
+expression
+𝑓(𝑥) = 𝑎𝑥 2 + 𝑏𝑥 + 𝑐 où 𝑎, 𝑏 et 𝑐 sont des réels qui seront déterminés
+dans cet exercice.
+
+La parabole de sommet S, qui représente graphiquement la fonction 𝑓, est tracée ci-dessus
+dans un repère orthonormé d’origine O dont l’axe des abscisses est la droite (OB) et l’axe
+des ordonnées la droite (OS). L’unité est le mètre sur chacun des axes.
+La largeur AB de l’arc au sol est égale à 6 mètres. On a donc A(−3; 0) et B(3; 0).
+1) Déterminer 𝑓(−3) et 𝑓(3).
+2) En déduire que l’on a : 9𝑎 − 3𝑏 + 𝑐 = 0 et 9𝑎 + 3𝑏 + 𝑐 = 0.
+3) À l’aide des deux égalités de la question 2, prouver que 𝑏 = 0 et 9𝑎 + 𝑐 = 0.
+4) Une personne de taille 1,70 m représentée par le segment [HC] sur le graphique passe
+exactement sous l'arc en se plaçant à 1 m du point B de l'arc. On a donc C (2 ; 1,7).
+Montrer que 4𝑎 + 𝑐 = 1,7
+5) À l’aide des questions précédentes, déterminer l’expression de 𝑓 .
+
+Exercice 4 : (5 points)
+Certaines rues de la ville du Caire sont pavées d’une manière particulière à partir d’un motif
+en forme de pentagone. On parle ainsi de « pavages du Caire ».
+
+Dans cet exercice, on s’intéresse au cas particulier où le pentagone qui constitue le motif élémentaire
+est représenté ci-dessous par le pentagone 𝐴𝐵𝐶𝐷𝐸.
+
+Dans cette partie, on suppose que 𝐴𝐵 = 𝐵𝐶 = 𝐴𝐸 = 𝐸𝐷 = 4 cm et ̂
+𝐸𝐴𝐵 = 135°.
+1) Calculer la longueur 𝐴𝐶.
+̂ est 45°.
+2) Justifier que la mesure en degré de l’angle 𝐷𝐴𝐶
+3) Calculer la longueur 𝐶𝐻 arrondie au centième, puis la longueur 𝐶 .
+
+4) Quatre pentagones identiques permettent d’obtenir un hexagone représenté
+ci-dessous.
+
+À partir du pentagone ABCDE, définir les trois transformations qui permettent
+d’obtenir les trois autres pentagones de cette figure.
+5) L’hexagone obtenu précédemment permet de paver le plan comme le montre
+la
+figure
+ci-dessous :
+
+Définir, à l’aide des points A, A1, A2, A3, A4 et A5, les vecteurs des translations qui
+permettent de réaliser le pavage du plan à partir de cet hexagone.

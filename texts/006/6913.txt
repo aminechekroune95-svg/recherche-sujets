@@ -1,0 +1,164 @@
+{"pages": 7, "method": "pdftotext", "bytes": 905975, "at": "2026-11-23T08:56:45+00:00"}
+PARTIE I-Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Répondre aux questions suivantes dans la colonne de droite du tableau.
+Énoncé
+
+Réponse
+
+1)
+
+Quel pourcentage représente la proportion 4 ?
+
+2)
+
+Augmenter de 25 %, c’est multiplier par …
+
+3)
+
+80 % de 500 est égal à ….
+
+4)
+
+Après l’application de la TVA à 20 %, un article coûte
+1,20 €. Quel est son prix HT en euros ?
+
+5)
+
+Factoriser 2𝑥 2 + 𝑥.
+
+6)
+
+Résoudre dans ℝ l’équation 3𝑥 − 6 = 5.
+
+7)
+
+Résoudre dans ℝ l’équation 𝑥 2 = 4.
+
+8)
+
+A-t-on pour tout réel 𝑥,
+2(𝑥 + 1)(𝑥 + 4) ≥ 0 ?
+Justifier.
+
+9)
+
+On considère l’expression :
+𝑔(𝑥) = −𝑥 2 + 3𝑥 − 1.
+Calculer 𝑔(−1).
+
+Une salade de fruits est constituée d’un kilogramme de
+fraises et 500 grammes de framboises.
+10)
+Quelle est la proportion de framboises dans cette salade de
+fruits ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Dans cet exercice, on donnera des valeurs approchées au millième.
+Dans le tableau ci-dessous, on donne la répartition de la population par âge et par sexe
+d’une commune française de 12 413 habitants en 2019.
+Âge
+Sexe
+Femme
+Homme
+Total
+
+[0 ; 15[
+
+[15 ; 30[
+
+[30 ; 45[
+
+[45 ; 60[
+
+[60 ; 120[
+
+Total
+
+1 026
+1 139
+2 165
+
+1 185
+
+1 021
+1 061
+2 082
+
+1 259
+1 182
+2 441
+
+2 104
+1 423
+3 527
+
+6 595
+5 818
+12 413
+
+1) Calculer le nombre d’hommes dans la classe d’âge [15 ; 30[ dans cette commune en
+2019.
+2) Quelle est la proportion de femmes dans cette commune en 2019 ?
+3) Existe-t-il une classe d’âge où les femmes sont à la fois les moins nombreuses en
+effectif et les moins nombreuses en proportion ? Justifier votre réponse.
+On interroge une personne au hasard parmi la population de cette commune en 2019. On
+note les évènements :
+A : « la personne interrogée est dans la tranche d’âge [30 ; 45[» ;
+F : « la personne interrogée est une femme ».
+4) Décrire par une phrase l’évènement 𝐴 ∩ 𝐹. Calculer sa probabilité.
+5) On choisit au hasard une femme de cette commune en 2019. Quelle est la
+probabilité que son âge soit supérieur ou égal à 30 ans et strictement inférieur à 45
+ans ?
+
+Exercice 3 (5 points)
+Dans un repère du plan, une courbe C représente une fonction 𝑓 définie sur l’intervalle
+[−1 ; 3]. Les points A et B de coordonnées respectives (0 ; 1,2) et (2 ; 0) appartiennent à
+la courbe C . En ces deux points A et B, les droites tangentes à la courbe C sont parallèles à
+l’axe des abscisses. La droite D est la droite tangente à la courbe C au point d’abscisse 1.
+Dans le repère du plan ci-dessous, la courbe C et la droite D sont construites.
+
+1) Donner les valeurs de 𝑓(0) et de 𝑓’(2).
+On admet que la fonction 𝑓 est définie et dérivable sur [−1 ; 3] par
+𝑓(𝑥) = 0,3𝑥 3 − 0,9𝑥 2 + 1,2.
+2) Montrer que pour tout réel 𝑥 de [−1 ; 3], 𝑓’(𝑥) est égal à 0,9𝑥(𝑥 − 2).
+3) Dresser le tableau de variations de 𝑓 sur [−1 ; 3].
+4) Existe-t-il une troisième droite tangente àC , parallèle à l’axe des abscisses ? Vous
+justifierez votre affirmation.
+5) Déterminer l’équation réduite de la droite D.
+
+Exercice 4 (5 points)
+Soit ABDC le losange ci-contre constitué de deux triangles équilatéraux
+ABC et CBD de longueur de côté 5 cm.
+Dans les questions 1), 2) et 3), la Maille 1 est définie par le losange ABDC.
+1) Sachant que AD est égal à 5√3 cm, calculer l’aire du losange ABDC en cm².
+2) On a construit le motif 3 suivant à partir de cinq mailles identiques à la maille 1.
+
+Pour chaque transformation, préciser la maille obtenue à partir de la Maille 1 :
+a. par la translation de vecteur ⃗⃗⃗⃗⃗
+𝐴𝐵 ;
+b. par la symétrie d’axe (AB).
+3) À l’aide de ce motif 3, on construit le pavage suivant.
+
+Par quelle transformation passe-t-on du motif 3 au motif 4 ? Préciser les caractéristiques de
+cette transformation à l’aide des points notés sur le motif 3.
+4) L’objectif de cette question est de construire sur la feuille annexe à rendre avec
+la copie un motif composé de trois mailles. La maille 1 est déjà positionnée et n’est
+pas construite en vraie grandeur.
+Compléter ce motif en construisant la maille 2, image de la maille 1 par la symétrie
+d’axe (d), puis en construisant la maille 3, image de la maille 1 par la rotation de
+centre D et d’angle 120° dans le sens des aiguilles d’une montre.
+
+Annexe
+À rendre avec la copie
+
+Exercice 4 - Question 4)

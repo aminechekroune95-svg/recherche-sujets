@@ -1,0 +1,215 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1545213, "at": "2026-11-23T08:54:16+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Le graphique ci-contre sera utilisé
+pour les questions 1 et 2 :
+
+1)
+
+Déterminer une équation de la droite (𝐴𝐵).
+
+2)
+
+Dans le même repère, tracer la droite d’équation
+𝑦 = 2𝑥 − 1.
+
+3)
+
+Au cours d’une période de soldes, le prix d’une
+perceuse affichée initialement à 120 euros, baisse
+de 20%. Quel est son nouveau prix ?
+
+4)
+
+Quel est le taux d’évolution correspondant à deux
+baisses successives de 50% ?
+
+5)
+
+Après une baisse de 50%, le prix d’un article est de
+120 €. Quel était son prix initial ?
+
+6)
+
+La distance entre le Soleil et Pluton est de
+5906,38  106 km. Convertir en mètres et donner la
+réponse en écriture scientifique.
+
+7)
+
+Développer et réduire l'expression
+𝐴 = 2(𝑥 − 2)(2𝑥 + 3).
+
+Pour les questions 8 à 10, on utilisera le diagramme ci-dessous qui présente la répartition
+des émissions des gaz à effet de serre (GES) par combustion en France pour l’année 2010 :
+
+Répartition des émissions de GES par combustion
+France 2010
+Tertiaire Agriculture
+3%
+9%
+
+Indust. Energie
+
+Résidentiel
+17%
+
+Manufact.+construction
+19%
+Transport
+36%
+8)
+
+Calculer la part de GES produite en 2010 par les
+industries de l'énergie.
+
+9)
+
+En 2010, 347 millions de tonnes de GES ont été
+émises en France. Donner un ordre de grandeur,
+en millions de tonnes, de la masse de GES émise
+par le transport.
+
+L'avion représente 10% des GES émis par le
+secteur des transports. Quelle est la proportion
+10)
+des émissions totales de GES représentée par
+l'avion ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une entreprise de maintenance d’ascenseurs estime que le nombre d'interventions
+effectuées chaque année augmente régulièrement de 4%. En 2019, ses 20 salariés ont
+effectué 1200 interventions.
+1. Combien peut-on prévoir d'interventions en 2020 ? En 2021 ?
+2. Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre annuel d'interventions effectuées par la
+société durant l'année 2019 + 𝑛. On a donc 𝑢0 = 1200.
+a. Pour tout entier naturel 𝑛, montrer que 𝑢𝑛+1 = 1,04𝑢𝑛 et en déduire la nature de la
+suite (𝑢𝑛 ).
+b. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+3. L'entreprise estime que, lorsque le cap des 1400 interventions annuelles sera dépassé,
+elle devra embaucher une personne supplémentaire. En quelle année l'entreprise devrat-elle embaucher ce nouveau salarié ?
+4. L'entreprise décide d’embaucher un nouveau salarié à chaque palier de 200
+interventions annuelles supplémentaires. Le programme ci-dessous est écrit en Python :
+def ascenseurs(n):
+L=[1200]
+for i in range(n):
+L.append(int(L[i]*1.04))
+return L
+Lorsque l’instruction ascenseurs(30) est exécutée, l’algorithme renvoie la liste suivante :
+[1200, 1248, 1297, 1348, 1401, 1457, 1515, 1575, 1638, 1703,
+1771, 1841, 1914, 1990, 2069, 2151, 2237, 2326, 2419, 2515,
+2615, 2719, 2827, 2940, 3057, 3179, 3306, 3438, 3575, 3718,
+3866]
+Combien de salariés comptera l’entreprise en 2049 ?
+
+Exercice 3 (5 points)
+Une entreprise produit des composants électroniques à une cadence maximale de 7000 par
+jour. On désigne par 𝑥 le nombre de centaines de ces composants qu’elle fabrique chaque
+jour.
+On a donc 0 ≤ 𝑥 ≤ 70.
+Le coût de production des composants, exprimé en euros, est donné par la fonction f définie
+sur l’intervalle [0 ; 70] par 𝑓(𝑥) = 𝑥 3 − 90𝑥 2 + 2700𝑥 dont la courbe 𝐶𝑓 est représentée
+sur le graphique en annexe.
+1. On suppose que la fonction 𝑓 est dérivable sur l’intervalle [0 ; 70], et on désigne par 𝑓 ′
+sa dérivée.
+a. Pour tout 𝑥 dans l’intervalle [0 ; 70], calculer 𝑓 ′ (𝑥), et montrer que
+𝑓 ′ (𝑥) = 3(𝑥 − 30)2 .
+b. En déduire le sens de variation de la fonction f sur l’intervalle [0 ; 70].
+2. On suppose que toute la production est vendue au prix de 900 euros la centaine de
+composants. Pour 𝑥 centaines de composants produits et vendus, on note 𝑔(𝑥) la
+recette journalière. On a ainsi 𝑔(𝑥) = 900𝑥 pour tout 𝑥 dans l’intervalle [0 ; 70]. La
+courbe représentative 𝐶𝑔 de cette fonction 𝑔 est par ailleurs représentée en annexe.
+Graphiquement, déterminer sur quel intervalle l’entreprise réalise un bénéfice positif.
+3. On admet que la fonction ℎ, définie sur l’intervalle [0 ; 70], représentant le bénéfice
+journalier est donnée par :
+ℎ(𝑥) = 𝑔(𝑥) − 𝑓(𝑥) = −𝑥(𝑥 − 30)(𝑥 − 60)
+Donner le tableau de signe de la fonction ℎ sur l’intervalle [0 ; 70].
+4. À quel intervalle doit appartenir le nombre de composants électroniques pour que
+l’entreprise réalise un bénéfice positif ?
+
+Exercice 4 (5 points)
+En 2018 en France, 128 528 élèves ont obtenu un baccalauréat technologique.
+1. Compléter le tableau d’effectifs donné en annexe, indiquant les poursuites d’études
+choisies selon la section technologique d’origine.
+2. On choisit un élève au hasard parmi tous les lauréats au baccalauréat technologique de
+2018.
+a. Calculer la probabilité qu’il ait obtenu un baccalauréat STL et qu’il ait choisi d’intégrer
+une filière BTS ? On arrondira au millième.
+b. Monter que la probabilité qu’il ait choisi la filière BTS ou la filière DUT, arrondie au
+millième, vaut 0,602.
+c. Sachant qu’il a choisi la filière DUT, quelle est la probabilité qu’il ait obtenu un
+baccalauréat STI2D ? On arrondira au millième.
+3. David déclare :
+« La probabilité qu’un élève ait obtenu un baccalauréat STL sachant qu’il a choisi une
+filière « autre », est supérieure à celle qu’un élève ait obtenu le même baccalauréat
+sachant qu’il a choisi une filière DUT. »
+Qu’en pensez-vous ? Argumenter la réponse.
+
+Annexe à rendre avec la copie
+Exercice 3
+
+𝐶𝑓
+
+𝐶𝑔
+
+Exercice 4
+
+BTS
+STI2D
+STL
+
+20 226
+
+DUT
+
+Autre
+
+6 475
+
+Total
+36 377
+
+1 328
+
+4 583
+
+9 489
+
+15 305
+
+51 122
+
+128 528
+
+STMG
+Total

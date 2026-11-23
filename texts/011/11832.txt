@@ -1,0 +1,168 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1086389, "at": "2026-11-23T08:53:21+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Partie I (Calculatrice interdite)
+EXERCICE 1 (5 points) : automatismes
+
+Durée : 20 minutes
+
+Les 10 questions suivantes sont indépendantes. Seules les réponses sont
+demandées, on n’attend pas de justifications.
+Énoncé
+
+Réponse
+
+Calculer et donner le résultat sous forme de fraction
+1)
+
+irréductible
+
+2)
+
+−
+
+×4
+
+des 240 élèves d'un collège ne pratiquent pas d'activité
+
+sportive. Combien d'élèves pratiquent une activité
+sportive ?
+Un article subit une baisse de 20 % suivie d’une baisse
+
+3)
+
+de 10 %. Quel est le pourcentage de baisse équivalent à
+ces 2 baisses successives ?
+Soient 𝑓 la fonction définie sur 𝐑 par
+
+4)
+
+𝑓(𝑥) = 5𝑥 2 − 1
+On note 𝒞𝑓 sa courbe représentative.
+Le point B(−2 ; −21) appartient-il à 𝒞𝑓 ?
+
+5)
+
+Soit 𝑔 la fonction définie sur 𝐑 par
+𝑔(𝑥) = 4𝑥 3 − 5𝑥 2 + 𝑥 − 7.
+On note 𝑔′ la dérivée de la fonction 𝑔.
+Calculer 𝑔′(𝑥).
+
+6)
+
+Résoudre dans 𝐑 l’équation 𝑥 2 = 49
+
+On considère une fonction 𝑓 dont on donne la courbe représentative 𝒞𝑓 et la tangente au point A
+d’abscisse −1.
+
+7)
+
+Donner 𝑓(−1) .
+Déterminer graphiquement le coefficient directeur de la
+
+8)
+
+tangente à la courbe 𝒞𝑓 au point A .
+Tracer sur le graphique ci-dessus la droite d'équation
+𝑦 = 𝑥+1
+
+9)
+
+Une autre fonction 𝑓 définie sur l’intervalle [−4; 5] est
+représentée par la courbe ci-dessous.
+
+10)
+
+Déterminer le signe de 𝑓(𝑥) sur l’intervalle [−4; 5].
+
+Partie II
+Cette partie est composée de trois exercices indépendants.
+La calculatrice est autorisée selon la règlementation en vigueur.
+EXERCICE 2 (5 points)
+Léa veut s'acheter un scooter. Elle décide d’épargner chaque mois une somme
+d'argent pour financer cet achat. Au mois de janvier 2019, elle met sur un compte
+120 €. Chaque mois, elle dépose sur son compte 15 € de plus que le mois
+précédent. Ainsi, elle dépose135 € en février 2019.
+Pour tout entier naturel 𝑛 , on note 𝑢𝑛 le montant en euros déposé par Léa sur son
+compte au cours du 𝑛-ième mois après janvier 2019. On a ainsi 𝑢0 = 120.
+1) Calculer 𝑢2 .
+2) Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser sa raison.
+3) Quelle est l’expression du terme général 𝑢𝑛 en fonction de 𝑛 ?
+4) Calculer 𝑢0 + 𝑢1 + ⋯ + 𝑢11 .
+Interpréter ce résultat dans le contexte de l’exercice.
+5) Le scooter que Léa veut acheter coûte 1 300 €.
+On donne l’algorithme ci-contre. Quelle est la valeur affichée
+par cet algorithme à la fin de son exécution ?
+Interpréter ce résultat dans le contexte de l'exercice.
+
+𝑘⟵0
+𝑢 ⟵ 120
+𝑆 ⟵ 120
+Tant que 𝑆 < 1300
+𝑘 ⟵ 𝑘 + 1
+𝑢 ⟵ 𝑢 + 15
+𝑆 ⟵ 𝑆+𝑢
+Fin Tant que
+Afficher 𝑘
+
+EXERCICE 3 (5 points)
+Une entreprise produit des appareils électroniques. Le coût de production de 𝑥
+appareils est donné en euros par 𝐶(𝑥) = 4𝑥 2 + 60𝑥 + 324 pour 2 ≤ 𝑥 ≤ 50.
+Le coût de production d’un appareil lorsque 𝑥 appareils sont produits est égal à
+
+𝑓(𝑥) =
+
+𝐶(𝑥)
+𝑥
+
+, pour 𝑥 appartenant à l’intervalle [2; 50].
+
+1) Montrer que 𝑓(𝑥) = 4𝑥 + 60 +
+
+pour 𝑥 appartenant à [2; 50].
+𝑥
+
+2) La fonction 𝑓′ est la dérivée de la fonction 𝑓 sur l’intervalle [2; 50].
+Montrer que 𝑓 ′ (𝑥) =
+
+4(𝑥−9)(𝑥+9)
+pour 𝑥 appartenant à l’intervalle [2; 50].
+𝑥²
+
+3) Étudier le signe de la fonction 𝑓′ sur l’intervalle [2; 50] et dresser le tableau de
+variation de la fonction 𝑓 sur l’intervalle [2; 50].
+4) a) Pour quelle valeur de 𝑥 le coût de production d’un appareil est-il minimal ?
+b) Préciser la valeur minimale du coût de production d’un appareil.
+
+EXERCICE 4 (5 points)
+Un spam est un courrier électronique indésirable.
+Pour repérer un spam, on s'intéresse à la présence de certains mots dans le
+message.
+On considère que 80 % des messages reçus sur une boite de messagerie sont des
+spams.
+Le mot "gratuit" apparait dans 35 % des spams et dans 1 % des non-spams.
+On choisit un message au hasard dans la boite de messagerie.
+On considère les évènements suivants :
+
+S : « Le message est un spam. »
+G : « Le message contient le mot "gratuit". »
+1) Recopier et compléter l'arbre pondéré ci-dessous.
+…
+
+2) Définir par une phrase l'évènement S ∩ G puis calculer sa probabilité 𝑃(S ∩ G).
+3) Justifier que la probabilité 𝑃(G) est égale à 0,282.
+4) Calculer 𝑃G (S). On arrondira le résultat à 10−3 .
+Interpréter le résultat dans le contexte de l'exercice.

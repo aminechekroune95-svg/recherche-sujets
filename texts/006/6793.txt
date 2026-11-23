@@ -1,0 +1,229 @@
+{"pages": 10, "method": "pdftotext", "bytes": 695578, "at": "2026-11-23T08:57:45+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I-Exercice 1
+
+Calculatrice interdite
+Durée : 20 minutes
+Automatismes (5 points)
+
+Enoncé
+
+Réponse
+
+Compléter la phrase suivante :
+Diminuer de 35 % revient à multiplier par
+
+…….
+
+Après une augmentation de prix de 20 %, un
+
+article vaut 60 €. Calculer le prix HT, avant TVA,
+de cet article.
+
+Déterminer le taux d’évolution entre 40 et 50.
+
+2018
+Année
+Prix d'un article
+en €
+Indice
+Calculer l'indice en 2019.
+
+2019
+
+Sans l’effectuer, écrire le calcul du taux
+d’évolution correspondant à une hausse de
+40 %, suivie d'une baisse de 20 % .
+
+Sans l’effectuer, écrire le calcul du taux de
+l’évolution réciproque d'une baisse de 60 %
+
+Résoudre dans ℝ l'équation : 3𝑥 + 1 = 5(𝑥 − 2).
+
+Résoudre dans ℝ l'équation : 𝑥² = 14.
+
+Étudier le signe de −3𝑥 + 6 en fonction du
+réel 𝑥.
+Étudier le signe de l'expression (𝑥 − 10)(𝑥 + 1)
+en fonction du réel 𝑥.
+
+PARTIE II
+Cette partie est composée de trois exercices indépendants.
+
+Calculatrice autorisée
+Exercice 2 (5 points)
+Une société a développé une application payante sur téléphones portables. Lors du
+lancement de l’application en janvier 2018, la société a offert cinquante comptes utilisateurs
+de l’application à ses partenaires.
+Les résultats partiels des six premiers mois de mise en service de cette application sont
+présentés dans le tableau suivant :
+Rang du mois
+Nombre de
+comptes utilisateurs
+Ces résultats ont montré que le nombre de comptes utilisateurs de l’application de cette
+société a augmenté chaque mois d’à peu près 30 % lors des cinq premiers mois. On
+considère que ce pourcentage d’évolution mensuel égal à 30 % se maintient les mois
+suivants.
+1. Calculer le nombre de comptes utilisateurs six mois après le lancement de
+l’application.
+2. Le nombre 𝑠(𝑛) modélise le nombre de comptes utilisateurs de l’application, 𝑛 mois
+après son lancement où 𝑛 est un entier naturel. On définit ainsi une suite 𝑠.
+Écrire une relation entre 𝑠(𝑛 + 1) et 𝑠(𝑛), valable pour tout entier naturel 𝑛.
+
+La société compare l’évolution du nombre de comptes utilisateurs de son application
+récente avec celle du nombre de comptes utilisateurs de l’application d’une société
+concurrente, application installée sur le marché quelques mois avant janvier 2018. Dans le
+graphique incomplet ci-dessous, les comptes considérés sont les comptes utilisateurs des
+deux applications. Le graphique présente le résultat de cette comparaison sur les premiers
+mois après janvier 2018.
+
+On admet que l’on peut modéliser l’évolution du nombre de comptes utilisateurs de la
+société concurrente par une suite arithmétique 𝑐. Pour tout entier naturel 𝑛, 𝑐(𝑛)
+représente le nombre de comptes utilisateurs de l’application concurrente, 𝑛 mois après
+janvier 2018.
+3. Pourquoi peut-on dire que le nuage de points de coordonnées (𝑛 ; 𝑐(𝑛)) où 𝑛 est un
+entier compris entre 0 et 6, est celui de points marqués par des ronds sur le
+graphique ?
+4. Les premières valeurs de 𝑐(𝑛) sont données dans le tableau suivant :
+𝑛
+𝑐(𝑛)
+
+Calculer 𝑐(4).
+5. Le script, reproduit ci-contre, doit permettre de définir
+une fonction renvoyant le rang du mois à partir duquel
+le nombre de comptes utilisateurs de la nouvelle
+application dépasse le nombre des comptes utilisateurs
+de l’application concurrente.
+Compléter le script sur la feuille annexe à rendre avec
+la copie.
+
+def seuil():
+n = 0
+s = 50
+c = 200
+while s … c:
+n = n + 1
+s = ……………
+c = ……………
+return(n)
+
+Exercice 3 (5 points)
+Une toute petite entreprise produit des compléments alimentaires à base d'algues sous
+forme de poudre. La production quotidienne maximale est de 𝟖 kg de poudre.
+Les coûts de production, exprimés en euro, d'une quantité produite de poudre, exprimée en
+kilogramme, peuvent être modélisés par la fonction 𝑪 définie sur l'intervalle [𝟎 ; 𝟖] par
+𝐶(𝑥) = 3 𝑥 3 − 24𝑥 2 + 55𝑥 + 42
+où 𝑥 désigne la quantité produite de poudre en kilogramme (𝑥 élément de [0 ; 8]) et 𝐶(𝑥)
+désigne les coûts de production en euro.
+Le graphique ci-dessous représente dans un repère du plan l’évolution des coûts de
+production, exprimés en euro, en fonction de la quantité 𝑥 produite de poudre, exprimée en
+kilogramme, pour 𝑥 élément de [0 ; 8].
+
+1. Calculer les coûts de production en euros de 5 kg de poudre produite.
+2. On donne 𝐶 ′ (5) = 40.
+Justifier que l’équation réduite de la droite tangente (T) à la courbe représentative
+des coûts de production au point d’abscisse 5 est : 𝑦 = 40𝑥 − 108.
+3. Est-il vrai d’affirmer que dans un repère du plan, le point de la droite tangente (T)
+d’abscisse 5,5 est situé au-dessus du point de même abscisse de la courbe
+représentative des coûts de production ? Vous expliciterez votre choix.
+
+On suppose que l’entreprise vend chaque jour sa production journalière au prix de 40 euros
+le kilogramme. Le bénéfice généré par la production et la vente de 𝑥 kilogrammes de poudre
+(avec 𝑥 élément de [0 ; 8]) peut donc être modélisé par une fonction 𝐵 définie et dérivable
+sur l'intervalle [0 ; 8].
+On note 𝐵′ la fonction dérivée de 𝐵.
+
+On admet que pour tout 𝑥 de [0 ; 8], 𝐵′(𝑥) est égal à −9(𝑥 − 5) (𝑥 − ).
+
+4. Étudier le signe de −9(𝑥 − 5) (𝑥 − 3) en fonction du réel 𝑥 de [0 ; 8].
+5. Déterminer le bénéfice journalier maximum généré par l’entreprise, en euros.
+
+Exercice 4 (5 points)
+En janvier 2019, on estime la population d’un pays à la fin de l’année 2018 en fonction des
+tranches d’âge. Un tableau partiel d’effectifs ci-dessous est ainsi donné, dans lequel les
+effectifs sont arrondis au dixième de million de personnes et classés suivant l’âge des
+habitants de ce pays.
+
+Hommes
+
+âge <
+
+≤ âge
+< 50
+
+âge
+≥ 50
+
+7,4
+
+13,0
+
+12,0
+14,3
+
+Femmes
+
+14,5
+(Effectifs en millions)
+
+Ainsi, on sait que les hommes de moins de 18 ans de ce pays sont environ 7,4 millions.
+1. Sachant que la population totale de ce pays est de 66,9 millions d’habitants,
+compléter le tableau croisé d’effectifs sur la feuille annexe à rendre avec la copie.
+2. Montrer qu’en 2018, les hommes âgés de 50 ans ou plus de ce pays représentent
+environ 18 % de la population totale du pays.
+3. Calculer le pourcentage des femmes de ce pays parmi les habitants âgés entre 18 ans
+inclus et 50 ans exclus dans ce pays en 2018.
+Lors d’une enquête en 2018, on interroge une personne de ce pays au hasard. On note les
+évènements :
+ 𝐹 : « la personne interrogée est une femme »
+ 𝐽 : « la personne interrogée a moins de 18 ans »
+ 𝑆 : « la personne interrogée a 50 ans ou plus »
+Pour les questions suivantes, on se servira des données du tableau d’effectifs complété sur
+la feuille annexe, à rendre avec la copie.
+Les probabilités seront arrondies au millième.
+4. Déterminer la probabilité que la personne interrogée soit une femme âgée de 50 ans
+et plus.
+5. Calculer et interpréter P𝐽 (𝐹̅ ) dans le contexte de l’exercice.
+
+Annexe
+
+À rendre avec la copie
+
+Exercice 2 – Question 5.
+Compléter les trois lignes incomplètes du script
+def seuil():
+n = 0
+s = 50
+c = 200
+while s … c:
+n = n + 1
+s = ……………
+c = ……………
+return n
+
+Exercice 4 – Question 1.
+Compléter le tableau croisé d’effectifs
+
+Hommes
+
+âge <
+
+≤ â𝑔𝑒
+< 50
+
+â𝑔𝑒
+≥ 50
+
+7,4
+
+13,0
+
+12,0
+14,3
+
+Femmes
+
+14,5
+(Effectifs en millions)

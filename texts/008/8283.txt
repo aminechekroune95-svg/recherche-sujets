@@ -1,0 +1,192 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1403079, "at": "2026-11-23T08:56:21+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Augmenter le prix d’un article de 15%
+revient à multiplier ce prix par :
+Une montre coûte 120 € en 2019. En
+2020, elle coûte 108 €. Son prix a
+baissé de :
+Dans une salle d’examen, il y a 50
+personnes dont 35 filles. Le
+pourcentage des filles est :
+
+Durée : 20 minutes
+
+Réponse
+……………..
+
+..………….. %
+
+..……………%
+
+Résoudre dans R l’équation : 2𝑥 = 0.
+
+𝑆 = {……………..}
+
+Résoudre dans R l’équation : 𝑥 2 = 4.
+
+𝑆 = {…………………}
+
+La droite 𝔇 a pour équation réduite :
+𝑦 = −5𝑥 + 1. Compléter :
+
+𝐴(−1 ; … ) ∈ 𝔇
+
+On donne : 𝐴(𝑥) = (𝑥 − 2)(−𝑥 + 4).
+Compléter le tableau de signes :
+
+Énoncé
+
+Réponse
+
+Tracer dans le repère ci-contre la droite
+d’équation 𝑦 = 2𝑥 − 1
+
+La courbe C ci-dessous est la courbe
+représentative d’une fonction 𝑓. Établir à partir
+du graphique le tableau des variations de 𝑓 :
+
+Déterminer graphiquement l’équation réduite
+de la droite construite ci-dessous :
+
+𝑦 =………………………….
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+
+Dans un milieu de culture, une population bactérienne évolue en fonction du temps 𝑡,
+exprimé en heure. Au début de l’étude, c’est-à-dire pour 𝑡 = 0, il y a mille bactéries dans la
+culture. Au bout de 10 heures, on introduit dans ce milieu un puissant antibiotique. Le
+nombre de bactéries en fonction du temps 𝑡, exprimé en heure, peut être modélisé par une
+fonction polynôme de degré 3 notée 𝑓 ; cette fonction est dérivable et définie sur l’intervalle
+[0 ; 31]. On a :
+𝑓(𝑡) = −𝑡 3 + 30𝑡 2 + 1000.
+1) Calculer 𝑓(10).
+2)
+a. Développer : 𝑡 2 (−𝑡 + 30)
+b. En déduire l’ensemble des solutions de l’équation : 𝑓(𝑡) = 1000 puis
+interpréter les résultats obtenus.
+3)
+a. 𝑓′ désigne la fonction dérivée de 𝑓. Calculer 𝑓′(𝑡) pour tout réel 𝑡
+appartenant à [0 ; 31].
+b. À partir de quelle valeur du réel 𝑡, le nombre de bactéries commence-t-il à
+diminuer ? On justifiera la réponse
+
+Exercice 3 (5 points)
+Lorsqu’une personne a bu de l’alcool, on peut calculer son taux d’alcool dans le sang.
+La formule de calcul est différente selon qu’il s’agisse d’un homme ou d’une femme.
+Ce taux est exprimé en gramme par litre (𝑔/𝑙 ) ; il est donné par la formule :
+𝑇𝐻 =
+
+0,8×𝑉×𝑡
+0,7×𝑚
+0,8×𝑉×𝑡
+
+, s’il s’agit d’un homme.
+
+𝑇𝐹 = 0,6×𝑚 , s’il s’agit d’une femme.
+où :
+
+𝑉 est le volume de boisson ingérée en millilitre (ml).
+
+𝑡 est le degré d’alcool. (Par exemple : dire qu’un vin est à 12° signifie qu’il
+contient 12% d’alcool, cela représente un taux 𝑡 d’alcool tel que : 𝑡 = 0,12).
+
+0,8 est la densité de l’alcool (l’éthanol).
+
+0,6 est le coefficient de diffusion de l’alcool dans le sang pour une femme et
+0,7 est le coefficient de diffusion pour un homme.
+
+𝑚 est la masse de la personne exprimée en kilogramme.
+
+Pierre et Annie sont deux jeunes conducteurs. Pierre est un jeune homme ; Annie est
+une jeune femme. Pierre pèse 75 kg et Annie pèse 55 kg.
+Pendant un repas, Pierre boit 1,5 verre de vin à 12° et Annie boit 1 verre du même
+vin à 12°. On admet qu’un verre de vin correspond à 14 cl de boisson. On rappelle
+que 1 cl=10 ml.
+
+1)
+a. Calculer le taux d’alcool dans le sang pour Pierre ainsi que le taux
+d’alcool dans le sang pour Annie. Les taux seront arrondis au millième.
+b. Sachant que le taux légal d’alcool autorisé pour conduire pour les jeunes
+conducteurs ne doit pas dépasser est 0,2𝑔/𝑙, Pierre et Annie ont-ils le
+droit de conduire ?
+
+2) On admet, qu’à la fin de ce repas, le taux d’alcool dans le sang de Pierre est :
+0,38𝑔/𝑙 et que celui d’Annie est : 0,41𝑔/𝑙. On estime que Pierre élimine
+l’alcool à raison de : 0,12𝑔/𝑙 par heure et qu’Annie élimine l’alcool à raison
+de : 0,09𝑔/𝑙 par heure.
+Soit 𝑛 un entier naturel, on note 𝑃𝑛 le taux d’alcool dans le sang de Pierre
+mesuré 𝑛 heures après la fin de ce repas et 𝐴𝑛 le taux d’alcool dans le sang
+d’Annie mesuré 𝑛 heures après la fin de ce repas . On a donc : 𝑃0 = 0,38 et
+𝐴0 = 0,41.
+a. Calculer 𝑃1 et 𝑃2 .
+b. Combien d’heures après la fin de ce repas Pierre doit-il attendre avant de
+pouvoir prendre le volant ?
+c. Un algorithme, écrit en langage Python, est proposé ci-dessous. Cet
+algorithme permet de déterminer au bout de combien d’heures après la
+fin de ce repas Annie pourra reprendre le volant.
+A=0,41
+i=0
+while A>0,2 :
+A=A-0,09
+i=i+1
+print (i)
+En faisant tourner l’algorithme à la main, recopier et compléter le tableau
+proposé ci-après et en déduire au bout de combien d’heures après ce
+repas Annie pourra reprendre le volant.
+i
+
+A
+0,41
+
+A>0,2
+vraie
+
+Exercice 4 (5 points)
+Helder joue à un jeu à la fête de son village. Pour ce jeu, la probabilité de gagner une
+partie est égale à :
+
+; Helder joue trois fois.
+
+X désigne la variable aléatoire qui compte le nombre de parties gagnées par
+Helder.
+
+G est l’événement : « Helder gagne la partie ».
+
+̅ désigne l’événement contraire de G.
+G
+
+Les probabilités seront données à 10−3 près.
+
+1) Quelles valeurs peut prendre X ?
+2) Quelle est la probabilité qu’Helder gagne 2 fois ?
+3) Quelle est la probabilité qu’il ne gagne aucune partie ?
+4) Quelle est la probabilité qu’Helder gagne au moins une fois ?
+5) En moyenne, combien de fois gagne Helder ?

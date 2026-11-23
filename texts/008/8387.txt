@@ -1,0 +1,178 @@
+{"pages": 7, "method": "pdftotext", "bytes": 774482, "at": "2026-11-23T08:55:29+00:00"}
+ÉVALUATIONSCOMMUNES
+CLASSE :Terminale
+EC : ☐EC1☐ EC2☒EC3
+VOIE :☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être dupliqué et
+doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est nécessaire que
+chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour de
+l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Enoncé
+
+Durée : 20 minutes
+
+Réponse
+
+1.
+
+Fraction irréductible égale à 5 − 2 × 15
+
+2.
+
+Développer (2𝑥 + 3)²
+
+3.
+
+Factoriser 𝑥 2 − 49
+
+4.
+
+Résoudre l’inéquation : 3 − 2𝑥 ≥ 𝑥 + 1
+
+5.
+
+Exprimer le nombre log(24) en
+fonction de log(2) et log(3)
+
+6.
+
+On considère l’expression 𝑦 = 𝑥² + 𝑡
+
+Exprimer 𝑡 en fonction de 𝑦 et 𝑥
+
+Enoncé
+
+Réponse
+
+Les questions 7. à 10. portent sur la même fonction 𝑓 définie sur ] − ∞; 0[ par
+
+𝑓(𝑥) = 𝑥 + 3.
+La courbe de la fonction 𝑓 est tracée
+cidessous.
+
+7.
+
+L’image de −2 par 𝑓 est :
+
+8.
+
+Résoudre graphiquement 𝑓(𝑥) < 1
+
+9.
+
+Le nombre de solution de l’équation
+𝑓(𝑥) = 0 est :
+
+10.
+
+Une équation réduite de la droite (𝐴𝐵)
+est :
+
+PARTIE II
+Calculatrice autorisée.
+Durée : 1h30.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une entreprise produit des pièces de précision pour l’horlogerie et pour l’automobile. Chaque
+pièce est calibrée et doit satisfaire des normes très précises sans quoi elle est déclarée non
+conforme et renvoyée à l’entrepôt pour être retravaillée par les décolleteuses.
+On constate que :
+ 40% des pièces sont destinées pour le secteur automobile parmi lesquelles 15% sont
+déclarées non conformes.
+ Parmi les pièces destinées à l’horlogerie, 12% des pièces sont déclarées non
+conformes
+On considère les évènements suivants :
+𝐴 : La pièce est destinée au secteur automobile
+𝐶 : La pièce est conforme
+1. Vérifier que 𝑃(𝐴̅) = 0,60
+2. Recopier et compléter l’arbre suivant :
+
+Les résultats seront donnés sous forme décimale arrondis au millième près.
+3. a. Traduire par une phrase l’événement 𝐴̅ ∩ 𝐶. Calculer 𝑃(𝐴̅ ∩ 𝐶).
+b. Montrer que 𝑃(𝐶) = 0,828
+c. Les évènements 𝐴 et 𝐶 sont-ils indépendants ? Justifier la réponse.
+
+Exercice 3 (5 points)
+L'étude proposée par un bureau de recherche présente l'évolution du nombre de ventes de
+trottinettes mécaniques et électriques enregistrées en France en 2017 et 2018.
+
+Source : fr.statista.com
+1400000
+
+1330000
+
+1200000
+
+1064480
+
+1000000
+800000
+600000
+400000
+
+232749
+102000
+
+200000
+2017
+
+Trotinnettes mécaniques
+
+2018
+Trottinnettes électriques
+
+En 2018, la vente de trottinettes électriques à des particuliers a explosé par rapport à l'année
+précédente passant de 102.000 à plus de 230.000 trottinettes vendues.
+1. Déterminer le taux d’évolution du nombre de trottinettes vendues en France entre
+2017 et 2018
+2. On souhaite modéliser l’évolution des ventes de trottinettes électriques à l’aide d’une
+suite géométrique de raison 2,28. Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre de
+trottinettes électriques vendues pendant l’année (2018 + 𝑛).
+a. Exprimer le terme général 𝑢𝑛 en fonction de l’entier 𝑛
+b. Déterminer, d’après ce modèle, une estimation du nombre de trottinettes
+électriques vendues en 2022.
+c. Calculer ∑4𝑘=0 𝑢(𝑘). Interpréter ce résultat.
+d. On souhaite déterminer, si ce modèle se poursuit, en quelle année la vente de
+trottinettes électriques dépassera 2 millions d’unités vendus. Pour cela, on donne
+l’algorithme suivant :
+Recopier et compléter le programme.
+
+n=2017
+u=232749
+while u<2000000 :
+n=…
+u=…
+print(…)
+
+Exercice 4 (5 points)
+Une marque automobile japonaise à vocation écologique souhaite réduire la consommation,
+de la prochaine voiture qu’ils mettront sur le marché.
+Pour modéliser la consommation, on a défini la fonction 𝑓 sur [0; 200] par :
+𝑓(𝑥) = 0,4 × 1,02𝑥
+où 𝑥 désigne la vitesse en km.h−1
+1. a. Calculer 𝑓(50) ; 𝑓(100)
+b. Interpréter les résultats.
+2. Déterminer la vitesse à partir de laquelle la consommation est supérieure à 4𝐿.
+3. Sachant que la consommation moyenne pour un véhicule est de 7,18 𝐿 pour 100km
+parcourus, pensez que la voiture réussi sa vocation d’être plus écologique que ses
+concurrentes ? Justifier.
+
+4. Après plusieurs essais, il se révèle que la consommation réelle est supérieure de 2%
+à ce qui avait été prévu au départ. Par quelle nouvelle fonction 𝑓 peut on modéliser la
+consommation réelle ?

@@ -1,0 +1,183 @@
+{"pages": 6, "method": "pdftotext", "bytes": 780395, "at": "2026-11-23T08:56:52+00:00"}
+PARTIE 1
+Automatismes (5 points) Sans Calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+×3
+
+1.
+
+Simplifier
+
+2.
+
+Écrire l’expression suivante sous la forme d’une
+fraction irréductible 10 + 15
+
+3.
+4.
+
+5.
+
+6.
+7.
+8.
+
+Réponse
+
+Calculer la moyenne des nombres suivants :
+2 ; 5 ; 8 ; 11
+Relier chaque droite à son équation :
+
+𝐷1
+
+𝑦 = 2𝑥
+
+𝐷2
+
+𝑦 = 2𝑥 + 3
+
+𝐷3
+
+𝑦 = −2𝑥 + 3
+
+Quelles sont les solutions de l’équation suivante ?
+(2𝑥 + 1)(3 − 𝑥) = 0
+Calculer l’image de 3 par la fonction 𝑓 définie sur R
+par :
+𝑓 : 𝑥 ⟼ 3𝑥 2 − 2𝑥
+Développer l’expression −2𝑥(7 − 4𝑥)
+Dans un village il y a 20% de jeunes. Parmi eux 40%
+sont des garçons. Quel est le pourcentage de
+garçons par rapport à l’ensemble de la population ?
+
+Déterminer l’entier 𝑛 tel que :
+103 ×105
+=10𝑛
+10. Compléter l’égalité, vraie pour tout réel 𝑥 :
+9.
+
+7𝑥 2 ×. . . . . . . = 56 𝑥 6
+
+PARTIE 2
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+EXERCICE 2 (5 points)
+Une entreprise fabrique et vend quotidiennement entre 0 et 800 pièces pour l’industrie automobile.
+On modélise le résultat en euros réalisé par l’entreprise par une fonction B définie sur [0 ; 800], de sorte
+que 𝐵(𝑥) représente le résultat réalisé pour un nombre 𝑥 de pièces vendues. Lorsque le résultat est
+positif, on l’appelle bénéfice.
+1. On donne ci-dessous la représentation graphique de la fonction 𝐵. On attend dans cette question
+une réponse fournie par une lecture graphique. Le nombre de pièces vendues sera donné à
+10 près.
+
+Pour quel nombre de pièces vendues le bénéfice maximal est-il réalisé ?
+Pour la suite de l’exercice, on admet que l’expression de 𝐵 est donnée par :
+𝐵(𝑥) = −0,1𝑥 2 + 77𝑥 − 1500
+2. a. Démontrer par le calcul que pour tout 𝑥 compris entre 0 et 800,
+𝐵(𝑥) = −0,1(𝑥 − 20)(𝑥 − 750)
+b. En déduire les valeurs de 𝑥 pour lesquelles le bénéfice est nul.
+c. Dresser le tableau de signes de la fonction 𝐵.
+3. Retrouver par le calcul la quantité de pièces que l’entreprise doit vendre pour réaliser un
+bénéfice maximal.
+
+EXERCICE 3 (5 points)
+Les dépenses annuelles de fonctionnement de deux services d’une entreprise, nommés ici A et B,
+ont été étudiées sur une assez longue période.
+Les dépenses du service A ont augmenté de 4 000 € chaque année, tandis que celles du service B
+ont augmenté de 15 % chaque année.
+La première année de l’étude, qui sera prise dans la suite comme année 1, les deux services ont
+effectué des dépenses identiques : 20 000 €.
+On modélise ces évolutions à l’aide des suites de termes généraux 𝑎𝑛 et 𝑏𝑛 , où 𝑎𝑛 et 𝑏𝑛
+correspondent aux dépenses annuelles respectives des services A et B la 𝑛-ième année.
+On s’intéresse aussi au cumul de ces dépenses sur plusieurs années. Le tableau ci-dessous donne un
+certain nombre de résultats pour les dix premières années de l’étude, arrondis au centime.
+Numéro de
+Dépenses du
+Cumul des dépenses
+Dépenses du
+Cumul des dépenses du
+l’année n
+service A : 𝑎𝑛 du service A
+service B : 𝑏𝑛
+service B
+24 000
+44 000
+23 000
+43 000
+28 000
+72 000
+26 450
+69 450
+30 417,50
+99 867,50
+34 980,13
+134 847,63
+180 000
+175 074,77
+224 000
+221 335,99
+48 000
+272 000
+53 200,40
+274 536,39
+52 000
+324 000
+61 180,46
+56 000
+380 000
+70 357,53
+1. Étude des dépenses du service A :
+a. Quelle est la nature de la suite (𝑎𝑛 ) des dépenses annuelles du service A ?
+Déterminer sa raison.
+b. Calculer la somme 𝑎1 + 𝑎2 + 𝑎3 + 𝑎4 + 𝑎5 .
+2. Étude des dépenses du service B :
+a. On admet que la suite (𝑏𝑛 ) est une suite géométrique de raison 1,15. Justifier que cette suite
+est croissante.
+b. Calculer la somme 𝑏1 + 𝑏2 + ⋯ + 𝑏9 + 𝑏10 ?
+3. Comparaison des deux services :
+Au bout de combien d’années le service B aura-t-il dépensé plus que le service A pour leurs
+années de fonctionnement depuis l’année 1 ? Argumenter votre réponse.
+
+EXERCICE 4 (5 points)
+Dans tout l’exercice, les fréquences calculées seront données en pourcentage et arrondies à 0,1%
+près si besoin.
+Le service marketing d’une entreprise d’informatique décide de lancer un sondage afin de
+déterminer si son futur ordinateur aura une couleur dominante noire, blanche ou rouge.
+Elle obtient, sur un échantillon de 1500 personnes, les résultats suivants :
+• 30% des personnes interrogées ont déclaré préférer la dominante rouge.
+• 90% des personnes préférant la dominante rouge ont moins de 30 ans.
+• La moitié des personnes interrogées préfèrent la dominante noire.
+Le tableau ci-dessous présente le nombre de personnes interrogées suivant leur âge et leur
+préférence.
+Personnes de moins de 30 ans
+Personnes de 30 ans ou plus
+Total
+
+Dominante noire
+
+Dominante blanche Dominante rouge
+
+Total
+1500
+
+1. Recopier et compléter le tableau précédent en utilisant les informations données dans
+l’énoncé.
+2. Quelle est la fréquence des personnes interrogées qui préfèrent la dominante blanche ?
+3. Quelle est la fréquence des personnes interrogées qui ont moins de 30 ans et qui
+préfèrent la dominante noire ?
+4. On choisit maintenant au hasard une personne ayant répondu à ce sondage. On considère
+les évènements suivants :
+-
+
+N : « La personne préfère la dominante noire »
+B : « La personne préfère la dominante blanche »
+R : « La personne préfère la dominante rouge »
+M : « La personne a moins de 30 ans »
+
+̅ ∩𝑁
+a. Exprimer par une phrase l’événement : 𝑀
+b. Calculer la probabilité 𝑃𝑀̅ (𝑁).

@@ -1,0 +1,197 @@
+{"pages": 11, "method": "pdftotext", "bytes": 1893282, "at": "2026-11-23T08:58:51+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 11
+
+PARTIE I
+Calculatrice interdite
+
+Durée : 20 minutes
+Exercice 1 (5 points)
+
+Une baisse de 10 % suivie d’une baisse de 20 % correspond à
+une baisse globale de
+
+La forme décimale de
+
+La fraction irréductible égale à 1 − ( ) est
+
+× 10−3 est
+
+2 2
+
+Une série statistique est résumée à l’aide du diagramme en boîtes ci-dessous, utilisez-le pour
+répondre aux questions 4 et 5.
+0,5
+
+L’écart interquartile de cette série vaut
+
+Le pourcentage des valeurs de cette série comprises entre 30
+et 60 est de
+
+Résoudre l’équation 3𝑥 − 10 = 𝑥 + 2.
+
+Développer l’expression (3𝑥 − 2)2 .
+
+Factoriser l’expression 𝑥 3 + 5𝑥.
+
+Tracer la droite Δ d’équation 𝑦 = −2𝑥 + 3 dans le repère ci-dessous :
+
+y
+
+-2
+
+-1
+
+-1
+
+-2
+
+Dans un repère, on donne A (5 ; 8) et B (1 ; 0), le coefficient
+directeur de la droite (AB) est
+
+x
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une société d’autoroute s’intéresse à l’affluence quotidienne de véhicules au niveau d’un
+péage.
+Des observations menées entre 14h et 23h aboutissent au nuage de points ci-dessous
+représentant le nombre de véhicules présents au péage selon l’heure d’observation.
+Nombre de
+voitures
+
+Heure
+
+1. Pourquoi semble-t-il pertinent de modéliser l’affluence au péage en fonction du
+temps par une fonction polynôme du second degré ?
+Pour la suite, on décide de modéliser le nombre de véhicules présents au péage en
+fonction de l’heure de la journée 𝑡, par la fonction définie sur l’intervalle [14 ; 23] par :
+𝑓(𝑡) = – 2𝑡² + 74𝑡 – 600.
+2. Selon ce modèle, combien de voitures seront présentes au péage à 20h00 ?
+3. Toujours selon ce modèle, à quelle heure de la demi-journée l’affluence au péage
+sera–t-elle maximale ? Quel sera alors le nombre de voitures présentes au péage ?
+Pour l’affluence du début de journée (entre 𝑡 = 0 et 𝑡 = 12), le modèle choisi est la
+fonction 𝑔 définie sur [0 ; 12] par 𝑔(𝑡) = – 0,3𝑡 3 + 5,2𝑡² – 17,3𝑡 + 18,6 dont la courbe
+est fournie en annexe 1.
+Le responsable du péage sait que lorsque l’affluence dépasse 40 véhicules, il lui est
+nécessaire pour fluidifier le trafic, d’ouvrir toutes les voies de paiement.
+4. À quelle heure, à 10 minutes près, l’affluence est-elle maximale en début de
+journée ? Combien de véhicules sont présents au péage à cet instant ?
+5. Déterminer, avec la précision permise par le graphique, la tranche horaire durant
+laquelle toutes les voies doivent être ouvertes.
+
+Exercice 3 (5 points )
+Le but de cet exercice est d’étudier et de tracer la fonction 𝑓 définie, pour tout 𝑥 de
+l’intervalle [ – 1 ; 10], par 𝑓(𝑥) = – 0,1 𝑥² + 1,05 𝑥 + 1,15.
+1. Compléter le tableau de valeurs fourni en annexe 2.
+2. On note 𝑓’ la fonction dérivée de 𝑓. Pour tout 𝑥 de l’intervalle [– 1 ; 10], justifier que
+l’expression de 𝑓’(𝑥) est donnée par : 𝑓’(𝑥) = – 0,2𝑥 + 1,05.
+3. Etudier le signe de 𝑓′(𝑥) sur l’intervalle [– 1 ; 10].
+En déduire le tableau de variations de la fonction 𝑓 sur [– 1 ; 10].
+4. Déterminer la valeur de 𝑓′(– 1) puis en déduire une équation de la tangente 𝑇 à la
+courbe représentative de 𝑓 au point d’abscisse −1.
+5. Dans le repère fourni en annexe 3, tracer 𝑇 puis la courbe représentative de la
+fonction 𝑓 en utilisant les résultats des questions précédentes.
+
+Exercice 4 (5 points )
+On s’intéresse aux immatriculations de voitures particulières neuves durant l’année 2018 en
+fonction de leur provenance géographique et de leur type de motorisation.
+Les résultats sont partiellement reportés dans le tableau donné en annexe 4 (source Service
+de la Donnée et des Etudes Statistiques) où l’unité est la centaine de voitures arrondie à
+l’unité. Ainsi le total global de 21 384 correspond à environ 2 138 400 nouvelles
+immatriculations en France métropolitaine.
+1. L’INSEE précise qu’en 2018 on comptait 38,56% de voitures Diesel parmi les
+immatriculations de voitures neuves. A l’aide de cette information, compléter le
+tableau fourni en annexe 4. On conservera comme unité la centaine de voitures et les
+résultats seront arrondis à l’unité.
+2. Un journaliste spécialisé affirme qu’en 2018 un peu moins d’un quart des voitures
+particulières neuves hybrides ou électriques ont été immatriculées en Île-de-France.
+Cette déclaration vous semble-t-elle correcte ? Justifier votre réponse.
+3. Parmi les 137 200 voitures hybrides ou électriques immatriculées en 2018, on
+comptait environ 30 900 purement électriques. On illustre cette situation par un
+diagramme circulaire donné dans l’annexe 5.
+Quelle est, au degré près, la valeur de l’angle au centre associé à la zone concernant les
+voitures électriques ?
+4. Ces chiffres de 2018 permettent aux spécialistes de constater une augmentation de
+2,83 % du nombre d’immatriculations de voitures neuves en France métropolitaine
+par rapport à 2017. Quel était, à la centaine près, le nombre de ces immatriculations
+en 2017 ?
+5. Les chiffres de mars 2019 montrent un pourcentage de 6,5 % d’immatriculations de
+voitures neuves hybrides ou électriques.
+On peut observer que 34% d’entre elles concernent des voitures purement électriques.
+Quel pourcentage du nombre total des immatriculations de voitures neuves représentent les
+voitures purement électriques ?
+
+Annexes ( à rendre avec la copie )
+Annexe 1
+
+g(t)
+
+Annexe 2
+–1
+
+2,1
+
+2,85
+
+𝑥
+𝑓(𝑥)
+
+3,75
+
+1,65
+
+t
+
+Annexe 3
+
+Annexe 4
+
+Diesel
+
+Essence
+
+Hybride ou
+électrique
+
+Total
+
+1588
+
+1855
+
+3 778
+
+Autres régions
+de France
+métropolitaine
+
+1037
+
+17 606
+
+Total
+
+1372
+
+21 384
+
+Île-de-France
+
+Annexe 5

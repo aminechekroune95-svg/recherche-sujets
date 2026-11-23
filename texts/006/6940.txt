@@ -1,0 +1,219 @@
+{"pages": 8, "method": "pdftotext", "bytes": 741790, "at": "2026-11-23T08:56:31+00:00"}
+PARTIE I
+Séries technologiques
+- Classe deSans
+première
+AUTOMATISMES
+(5 points)
+calculatrice
+
+Durée : 20 minutes
+
+Dans cet exercice, il n’est pas demandé de justification. Répondre à chaque énoncé
+dans la colonne de droite du tableau.
+Énoncé
+
+1.
+2.
+
+5.
+
+= ⋯%
+
+…..%
+
+75 % de 80 est égal à
+
+…..
+
+Calculer : 3 × 5 + 2.
+
+3.
+4.
+
+Réponse
+
+Donner le nombre 2,31 × 10−4 en
+écriture décimale.
+Développer et réduire l’expression
+𝑓 (𝑥) = 5𝑥 – 𝑥(2𝑥 + 3).
+
+6.
+
+Factoriser 𝑥 2 – 4𝑥.
+
+7.
+
+On considère ci-dessous, la courbe
+représentative de la fonction 𝑓
+définie sur R.
+
+𝑓 (𝑥) = .............................
+
+L’image de −1 par 𝑓 est :
+…………………..
+
+𝒚
+
+L’ensemble des solutions de l’inéquation
+𝑓 (𝑥) > 0 est :
+
+8.
+
+𝒙
+
+………………………………………………
+
+𝒚
+
+9.
+
+Construire sur le repère ci-contre, la
+droite Δ passant par 𝐵(1; 1) et de
+coefficient directeur −1.
+
+Soit les points 𝐶(2; 4) et 𝐷(5; 5).
+10. Le coefficient directeur 𝑚 de la
+droite (𝐶𝐷) est :
+
+𝑚 =…
+
+𝒙
+
+PARTIE II
+Séries
+technologiques
+- Classe
+première
+Calculatrice autorisée
+selon
+la réglementation
+en de
+vigueur.
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+
+gigawatt
+
+L’évolution de la puissance solaire photovoltaïque dans le monde entre fin 2008 et fin
+2018 est résumée dans le graphique ci-dessous :
+
+Puissance solaire mondiale
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+année
+
+1. Montrer qu’entre fin 2008 et fin 2018, la puissance solaire photovoltaïque a
+augmenté d’environ 3287 %.
+2. Calculer les taux d’évolution de la puissance solaire, exprimés en pourcentage,
+entre 2016 et 2017, ainsi qu’entre 2017 et 2018. On arrondira à l’unité.
+3. On se propose d’estimer la puissance solaire photovoltaïque dans le monde pour
+les années à venir en faisant l’hypothèse que le taux de croissance annuel restera
+constant et égal à 30%.
+On note 𝑃𝑛 la puissance solaire photovoltaïque dans le monde, en gigawatt, à la
+fin de l’année 2018 + 𝑛. Ainsi, 𝑃0 = 508
+a. Justifier que, pour tout entier naturel 𝑛, 𝑃𝑛+1 = 1,3 × 𝑃𝑛 .
+b. Un chercheur affirme que si le taux de croissance se maintient à 30 %, la
+production dépassera les 2400 gigawatts avant fin 2024.
+A-t-il raison ? On justifiera la réponse par un calcul.
+
+4. Le chercheur aimerait savoir en quelle année la puissance solaire photovoltaïque
+dans le monde dépassera les 10 000 gigawatts si le taux de croissance se
+maintient à 30 %.
+Compléter le script, fourni en annexe à rendre avec la copie, de la fonction
+python nommée nombre_annees renvoyant la valeur n pour une puissance seuil S
+choisie au départ.
+EXERCICE 3 (5 points)
+Un mobile se déplace sur une droite graduée en mètre.
+Son abscisse 𝑝(𝑡) sur cette droite graduée (exprimée en mètre) en fonction du temps
+écoulé 𝑡 (exprimé en minute) depuis le départ est donnée par :
+𝑝(𝑡) = 0,25𝑡 2 − 𝑡 − 3.
+1. Quelle est la position du mobile à l’instant 𝑡 = 0 min (c’est-à-dire au début du
+mouvement), puis à l’instant 𝑡 = 2 min ?
+2. La courbe représentative de la fonction 𝑝 est tracée ci-dessous.
+Position du mobile (en m)
+
+Temps (en min)
+
+-3
+-4
+À l’aide de cette courbe, répondre aux questions suivantes :
+a. Déterminer à quel(s) instant(s) le mobile est à la position −3.
+b. Quelle est la vitesse moyenne du mobile (exprimée en m.min-1) entre les
+instants 𝑡 = 6 min et 𝑡 = 8 min ?
+3. a. Montrer que, pour tout réel 𝑡 ≥ 0, 𝑝(𝑡) = 0,25(𝑡 − 6)(𝑡 + 2).
+b. À l’aide du tableau de signes de 𝑝 sur [0 ; +∞[, déterminer à quels instants le
+mobile a une abscisse positive ou nulle.
+
+EXERCICE 4 (5 points)
+Lors d’une opération de promotions exceptionnelles d’un grand magasin de
+bricolage, on s’intéresse aux ventes de deux articles particuliers du rayon « Outillage
+motorisé » : une meuleuse et une scie sauteuse.
+Pendant cette période de promotions, une enquête réalisée sur 300 clients de ce
+magasin montre que :
+ 63 clients ont acheté une meuleuse ;
+ 80 clients ont acheté une scie sauteuse ;
+ 5 % des clients ayant acheté une scie sauteuse ont aussi acheté une meuleuse.
+Chaque client a acheté au plus une scie sauteuse et au plus une meuleuse.
+1. Compléter le tableau croisé d’effectifs fourni en annexe, à rendre avec la copie.
+2. Quel est le pourcentage de clients ayant acheté une meuleuse ?
+3. L’affirmation suivante est-elle vraie : « Au moins 2 % des clients ont acheté les
+deux outils (meuleuse et scie sauteuse) » ? Justifier.
+4. Quel est le pourcentage de clients ayant acheté une meuleuse qui ont aussi
+acheté une scie sauteuse ? On arrondira au dixième de pourcentage.
+5. On choisit au hasard un client de l’enquête.
+̅ l’événement
+On note 𝑀 l’événement « Le client a acheté une meuleuse » et 𝑀
+contraire.
+On note 𝑆 l’événement « Le client a acheté une scie sauteuse » et 𝑆̅ l’événement
+contraire.
+Calculer 𝑃(𝑆̅ ∩ 𝑀). On arrondira à 10−3 près.
+
+Annexe à rendre avec la copie
+Séries technologiques - Classe de première
+EXERCICE 2
+Question 4.
+def nombre_annees(S):
+P = 508
+n=0
+while P < S:
+P = ……………
+n = ……………
+return n
+
+EXERCICE 4
+Question 1.
+ayant acheté une
+meuleuse
+
+n’ayant pas acheté
+de meuleuse
+
+Total
+
+ayant acheté une
+scie sauteuse
+n’ayant pas acheté
+de scie sauteuse
+Total

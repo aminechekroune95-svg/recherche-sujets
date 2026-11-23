@@ -1,0 +1,173 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1045500, "at": "2026-11-23T08:59:30+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+
+Question 1
+̂ = 𝜋. Alors ⃗⃗⃗⃗⃗
+ABC est un triangle tel que AB = 5, AC = 6 et BAC
+AB. ⃗⃗⃗⃗⃗
+AC est égal à :
+
+15√2
+
+15√3
+
+d)
+
+Question 2
+ABCD est un carré de centre O tel que AB = 1. Alors ⃗⃗⃗⃗⃗
+AB. ⃗⃗⃗⃗⃗
+OD est égal à :
+a) 1
+
+b) 0
+
+c) −0,5
+
+d) −1
+
+Question 3
+⃗𝑢 et 𝑣 sont deux vecteurs orthogonaux tels que ‖𝑢
+⃗ ‖ = 2 et ‖𝑣 ‖ = 1.
+(𝑢
+⃗ + 𝑣). (2𝑢
+⃗ − 𝑣) est égal à :
+a) 6
+
+b) 9
+
+d) 7
+
+c) 13
+
+On se place dans un repère orthonormé du plan.
+Sur la figure ci-dessous, on a tracé la courbe représentative notée 𝐶 d’une fonction 𝑓
+définie sur ℝ.
+La droite 𝐷 est tangente à la courbe 𝐶 au point A(5; 0).
+
+Question 4
+On note 𝑓 ′ la dérivée de la fonction 𝑓. Alors 𝑓 ′(5) est égal à :
+
+−3
+
+d)
+
+−
+
+Question 5
+Pour tout réel 𝑥 de l’intervalle ] − ∞; 0], on a :
+
+𝑓 ′(𝑥) ≤ 0
+
+𝑓 ′(𝑥) ≥ 0
+
+𝑓(𝑥) ≥ 0
+
+d) 𝑓(𝑥) ≤ 0
+
+Exercice 2 (5 points)
+Une entreprise pharmaceutique fabrique un soin antipelliculaire. Elle peut produire
+entre 200 et 2 000 litres de produit par semaine. Le résultat, en dizaines de milliers
+d’euros, réalisé pour la production et la vente de 𝑥 centaines de litres est donné par
+la fonction 𝑅 définie par :
+𝑅(𝑥) = (5𝑥 − 30)𝑒 −0,25𝑥 , pour tout réel 𝑥 ∈ [2; 20]
+
+1) Calculer le résultat réalisé par la fabrication et la vente de 7 centaines de litres de
+produit. On l’arrondira à l’euro près.
+2) Vérifier que pour la fabrication et la vente de 400 litres de produit, l’entreprise
+réalise un résultat négatif (appelé déficit).
+3) Résoudre l’inéquation 𝑅(𝑥) ≥ 0, d’inconnue 𝑥. Interpréter dans le contexte de
+l’exercice.
+4) On note 𝑅 ′ la dérivée de la fonction 𝑅.
+Un logiciel de calcul formel donne : 𝑅 ′(𝑥) = (−1,25𝑥 + 12,5)𝑒 −0,25𝑥 .
+En déduire la quantité de produit que l’entreprise doit produire et vendre pour
+réaliser le résultat maximal.
+
+Exercice 3 (5 points)
+Lors du lancement d’un hebdomadaire, 1 200 exemplaires ont été vendus.
+Une étude de marché prévoit une progression des ventes de 2 % chaque semaine.
+On modélise le nombre d’hebdomadaires vendus par une suite (𝑢𝑛 ) où 𝑢𝑛 représente
+le nombre de journaux vendus durant la 𝑛-ième semaine après le début de
+l’opération.
+On a donc 𝑢0 = 1 200.
+1) Calculer le nombre 𝑢2 . Interpréter ce résultat dans le contexte de l’exercice.
+2) Écrire, pour tout entier naturel 𝑛, l’expression de 𝑢𝑛 en fonction de 𝑛.
+3) Voici un programme rédigé en langage Python :
+def suite( ) :
+u = 1200
+S = 1200
+n = 0
+while a < 30000 :
+n = n+1
+u = u*1.02
+S=S+u
+return(n)
+Le programme retourne la valeur 30.
+Interpréter ce résultat dans le contexte de l’exercice.
+4) Déterminer le nombre total d’hebdomadaires vendus au bout d’un an.
+
+Exercice 4 (5 points)
+Une agence de voyage propose deux formules week-end pour se rendre à Londres au
+départ de Nantes. Les clients choisissent leur moyen de transport : train ou avion.
+De plus, s’ils le souhaitent, ils peuvent compléter leur formule par l’option « visites
+guidées ».
+Une étude a produit les données suivantes :
+
+40 % des clients optent pour l’avion ;
+parmi les clients ayant choisi le train, 50 % choisissent aussi l’option « visites
+guidées » ;
+12 % des clients ont choisi à la fois l’avion et l’option « visites guidées ».
+
+On interroge au hasard un client de l’agence ayant souscrit à une formule week-end
+à Londres.
+On considère les évènements suivants :
+A : « le client a choisi l’avion » ;
+V : « le client a choisi l’option « visites guidées ».
+
+1)
+
+Déterminer PA (V).
+
+2)
+
+Démontrer que la probabilité pour que le client interrogé ait choisi l’option
+« visites guidées » est égale à 0,42.
+
+3)
+
+Calculer la probabilité pour que le client interrogé ait pris l’avion sachant qu’il
+n’a pas choisi l’option « visites guidées ». Arrondir le résultat au centième.
+
+4)
+
+On interroge au hasard deux clients de manière aléatoire et indépendante.
+Quelle est la probabilité qu’aucun des deux ne prennent l’option « visites
+guidées » ?

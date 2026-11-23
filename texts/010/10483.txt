@@ -1,0 +1,167 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1386989, "at": "2026-11-23T08:54:56+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+1. On considère une fonction 𝑓 définie et dérivable sur l’intervalle [−1; 4] .
+On a tracé sur la figure ci-dessous la courbe 𝒞𝑓 et la tangente à cette courbe au point A de
+coordonnées (2; 2).
+
+L’équation de la tangente à 𝒞𝑓 au point A est :
+
+𝑦 = (𝑥 − 2) + 2
+
+𝑦 = 2(𝑥 − 2) +
+
+𝑦 =
+
+(𝑥 + 2) + 2
+
+𝑦 =
+
+(𝑥 − 2) + 2
+
+2. Dans un repère orthonormal (0, 𝐼, 𝐽), le point A, placé cicontre sur le cercle trigonométrique de centre O d’origine I ,
+est associé au nombre réel :
+
+11𝜋
+
+2𝜋
+
+−
+
+2𝜋
+
+−
+
+3𝜋
+
+3. On considère une fonction du second degré f définie sur R par :
+𝑓 (𝑥) = 𝑎𝑥 2 + 𝑏𝑥
+où 𝑎 et 𝑏 sont deux nombres réels strictement positifs.
+Quelle est la courbe représentative de cette fonction dans un repère orthonormé ?
+
+4. Dans le plan muni d’un repère orthonormé une droite 𝒟 a pour équation : 𝑥 − 2𝑦 = 1.
+Parmi les propositions suivantes, laquelle est correcte ?
+) est
+−2
+un vecteur directeur
+de la droite 𝒟.
+Le vecteur ⃗𝑢 (
+
+Le point de
+)
+−2
+coordonnées
+est un vecteur
+𝐴(1, −2) appartient
+normal à la droite 𝒟.
+à la droite 𝒟.
+Le vecteur ⃗𝑢 (
+
+L’ordonnée à
+l’origine de la
+droite 𝒟 est égale
+à 1.
+
+5. Un homme marche pendant 10 jours. Le premier jour, il parcourt 12 km. Chaque jour, il
+parcourt 500 m de moins que la veille. Durant ces dix jours, il aura parcouru au total :
+
+95 km
+
+97,5 km
+
+19 km
+
+84 km
+
+Exercice 2 (5 points)
+Une entreprise fabrique chaque jour 𝑥 tonnes d’un produit. Le coût total mensuel, en
+milliers d’euros, pour produire chaque jour 𝑥 tonnes de ce produit est modélisé par la
+fonction 𝐶 définie sur l’intervalle [0 ; 10] par :
+𝐶(𝑥) = (5𝑥 − 2)e−0,2𝑥 + 2
+On a représenté ci-dessous la courbe 𝒞𝐶 de la fonction C dans un repère.
+
+𝒞𝐶
+
+1. Par lecture graphique, donner une estimation de la quantité journalière de produit pour
+laquelle le coût total mensuel est maximal.
+2. Le coût marginal 𝐶𝑚 , qui correspond au supplément de coût total pour la production
+d’une unité de valeur supplémentaire, est assimilé à la dérivée de la fonction coût total.
+a) Démontrer que le coût marginal 𝐶𝑚 est défini sur l’intervalle [0 ; 10] par :
+𝐶𝑚 (𝑥) = (−𝑥 + 5,4)e−0,2𝑥 .
+b) Pour quelle quantité de produit fabriqué par jour le coût marginal est-il négatif ?
+c) Donner le tableau de variations de la fonction 𝐶 sur l’intervalle [0 ; 10].
+d) Déterminer le coût total mensuel maximal sur l’intervalle considéré. On donnera la valeur
+arrondie à l’euro près.
+
+Exercice 3 (5 points)
+On considère qu’en 2019, 3 300 000 personnes étaient atteintes de diabète en France.
+Pour étudier l’évolution de la maladie, des chercheurs appliquent un modèle selon lequel le
+nombre de personnes atteintes augmente de 2 % par an.
+On note 𝑢𝑛 le nombre de personnes atteintes de diabète en France selon ce modèle durant
+l’année (2019 + 𝑛). On a donc 𝑢0 = 3 300 000.
+1. Justifier que, selon ce modèle, le nombre de personnes atteintes de diabète en France
+sera de 3 433 320 en 2021.
+2. Quelle est la nature de la suite (un ) ?
+3. Donner l’expression de un en fonction de 𝑛.
+4. En déduire le nombre de personnes qui, selon ce modèle, seront atteintes de diabète en
+France en 2025.
+5. On définit en langage Python la fonction suivante.
+def seuil(S):
+u=3300000
+n=0
+while u<S:
+u=u*1.02
+n=n+1
+return n
+
+Après exécution dans la console on obtient l’affichage suivant.
+>>> seuil(5000000)
+
+Interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+Dans un aéroport, les portiques de sécurité servent à détecter les objets métalliques que
+peuvent emporter les voyageurs.
+On choisit au hasard un voyageur franchissant un portique.
+On note :
+• 𝑆 l’événement « le voyageur fait sonner le portique » ;
+• 𝑀 l’événement « le voyageur porte un objet métallique ».
+̅ les événements contraires des événements 𝑆 et 𝑀.
+On note 𝑆̅ et 𝑀
+On considère qu’un voyageur sur 500 porte sur lui un objet métallique.
+On admet que :
+• Lorsqu’un voyageur franchit le portique avec un objet métallique, la probabilité que le
+portique sonne est égale à 0,95.
+• Lorsqu’un voyageur franchit le portique sans objet métallique, la probabilité que le
+portique ne sonne pas est de 0,96.
+1. À l’aide des données de l’énoncé, préciser les valeurs de 𝑃(𝑀), 𝑃𝑀 (𝑆) et 𝑃𝑀̅ (𝑆̅).
+2. Recopier et compléter l’arbre pondéré ci-dessous, modélisant cette situation :
+
+3. Montrer que 𝑃(𝑆) = 0,04182.
+4. En déduire la probabilité qu’un voyageur porte un objet métallique sachant qu’il a fait
+sonner le portique en passant. On arrondira le résultat à 10−3.
+5. Les événements 𝑀 et 𝑆 sont-ils indépendants ?

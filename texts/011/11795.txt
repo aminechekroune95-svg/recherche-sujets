@@ -1,0 +1,161 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1316894, "at": "2026-11-23T08:53:40+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les dix questions suivantes sont indépendantes. Seules les réponses sont attendues.
+Questions
+
+Réponses
+
+1. Développer et réduire l'expression :
+A(𝑥) = (3𝑥 − 5)(2𝑥 + 1)
+2. Factoriser l'expression :
+B(𝑥) = (7𝑥 − 8)(𝑥 − 5) − 4𝑥(𝑥 − 5)
+3. Dans une classe de 35 élèves, 14 ont eu plus de 12 au
+devoir surveillé.
+Calculer le pourcentage des élèves de cette classe ayant
+eu plus de 12 au devoir surveillé.
+4. Une quantité a augmenté de 60 %.
+Par combien a-t-elle été multipliée ?
+5. Un article coûte 25 euros. On lui applique une baisse
+de 20%.
+Quel est son nouveau prix ?
+
+6. Une quantité est multipliée successivement par 0,8
+puis 0,9. Quel est, en pourcentage, le taux d’évolution
+global appliqué à cette quantité ?
+Préciser si c’est une augmentation ou une diminution.
+7. Résoudre dans R, l'équation
+𝑥−
+=0
+
+Pour les questions 8 et 9 on considère la fonction 𝑔 définie sur l’intervalle [−2,5; 4],
+représentée par la courbe ci-dessous.
+Les réponses seront données avec la précision permise par le graphique.
+
+8. Donner les solutions de l’équation 𝑔(𝑥) = 1
+
+9. Dresser ci-contre le tableau de signes de la fonction 𝑔.
+
+10. Dans un circuit composé d'un générateur de force
+électromotrice 𝐸 (en volt), d'un résistor de résistance 𝑅
+(en ohm) et d'un récepteur TV de résistance 𝑟 (en ohm)
+l'intensité 𝐼 (en ampère) est donnée par la relation :
+
+𝐼=
+
+𝐸
+𝑟+𝑅
+
+où 𝑅 et 𝑟 sont strictement positifs.
+
+Exprimer 𝐸 en fonction de 𝐼, 𝑅 et 𝑟.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On souhaite réaliser une structure pour enfants constituée d'une pente à escalader et d'une
+piste de luge. On modélise le profil de cette structure par la courbe ci-dessous tracée dans
+un repère orthonormé.
+
+On considère les fonctions 𝑓 et 𝑔 définies sur R par :
+𝑓(𝑥) = −𝑥 2 + 4𝑥
+et
+
+𝑔(𝑥) = 3 𝑥 2 − 4𝑥 + 12
+
+On note 𝑓′ et 𝑔′ les fonctions dérivées des fonctions 𝑓 et 𝑔.
+
+1. a) Calculer 𝑓′(𝑥) pour tout réel 𝑥.
+b) Étudier le signe de 𝑓′(𝑥) pour tout réel 𝑥. En déduire le tableau de variations de la
+fonction 𝑓 .
+
+2. On admet que la portion de courbe de O à A est la représentation graphique de la fonction
+𝑓 pour 𝑥 appartenant à l’intervalle [0 ; 3] et que la portion de courbe de A à B est la
+représentation graphique de la fonction 𝑔 pour 𝑥 appartenant à l’intervalle [3 ; 6].
+
+On admet que 𝑔′ (𝑥) = 𝑥 − 4 pour tout réel 𝑥.
+
+a) Vérifier que le point A (3 ; 3) est commun aux courbes représentatives de 𝑓 et de 𝑔.
+b) Montrer que la fonction 𝑔 est décroissante sur [3 ; 6].
+c) Soit T la tangente à la courbe représentative de la fonction 𝑓 au point A.
+Montrer que T est aussi la tangente à la courbe représentative de la fonction 𝑔 au point A.
+
+Exercice 3 (5 points)
+Le tableau suivant donne la fréquentation, en millier de passagers, des lignes aériennes de
+2016 à 2018, avec un départ ou une arrivée en France métropolitaine ou d'Outre-mer.
+(Source : SDES, comptes des transports).
+
+Nombre total de
+voyageurs, en millier
+
+2016
+
+2017
+
+2018
+
+154 604
+
+164 080
+
+172 374
+
+1. Calculer le taux d’évolution du nombre total de voyageurs de 2016 à 2017 puis de 2017 à
+2018. On donnera les réponses sous formes de pourcentages arrondis à 0,01 %.
+2. On estime qu'à partir de 2018, la hausse du nombre total de voyageurs a été de 5%
+chaque année. Le nombre total de voyageurs, en millier, lors de l’année (2018 +𝑛) est
+modélisé par le terme de rang 𝑛 d’une suite (𝑢𝑛 ). On a donc 𝑢0 = 172 374.
+a) Calculer le nombre total de voyageurs prévus ainsi pour l’année 2020. On arrondira au
+millier de voyageurs.
+b) Justifier que pour tout 𝑛  N, 𝑢𝑛+1 = 1,05 × 𝑢𝑛 .
+c) Indiquer la nature de la suite (𝑢𝑛 ) et préciser sa raison.
+3. À l'aide de la calculatrice, déterminer l'année à partir de laquelle la fréquentation annuelle
+de ces lignes devrait, selon ce modèle, dépasser 200 millions de voyageurs
+
+Exercice 4 (5 points)
+Une usine fabrique des bouteilles en plastique. Sur 800 bouteilles produites, 320 sont faites
+à partir de plastique recyclé, les autres sont faites à partir de plastique neuf.
+1. On prélève au hasard une bouteille dans la production.
+On note R l'évènement « la bouteille prélevée est faite à partir de plastique recyclé ».
+Justifier que la probabilité de l’événement R vaut 0,4.
+2. On prélève maintenant successivement au hasard 3 bouteilles dans la production et on
+note pour chacune d'entre elles si le plastique utilisé est recyclé ou neuf.
+La production est assez importante pour que chaque prélèvement d’une bouteille soit
+assimilé à un tirage aléatoire avec remise.
+On appelle 𝑋 la variable aléatoire associant à chaque prélèvement de 3 bouteilles le nombre
+de bouteilles fabriquées à partir de plastique recyclé qu’il contient.
+a) Représenter l’arbre de probabilités modélisant la situation.
+b) Calculer 𝑃(𝑋 = 2) et interpréter le résultat.
+c)
+
+Donner la loi de probabilité de 𝑋 en recopiant et complétant le tableau ci-dessous.
+Valeurs 𝑥𝑖
+prises par 𝑋
+𝑃(𝑋 = 𝑥𝑖 )
+
+d) Déterminer le nombre moyen de bouteilles en plastique recyclé que l’on peut espérer obtenir si
+l’on renouvelle un grand nombre de fois ce prélèvement de 3 bouteilles.

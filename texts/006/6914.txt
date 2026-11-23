@@ -1,0 +1,134 @@
+{"pages": 7, "method": "pdftotext", "bytes": 844060, "at": "2026-11-23T08:56:44+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+
+Réponse
+
+1) Calculer 12 % de 200
+2) Dans un club d’athlétisme, 15 % des adhérents
+pratiquent le triple saut, dont 20 % de filles. Quelle
+proportion des adhérents du club les filles
+pratiquant le triple saut représentent-elles ?
+3) Donner la fraction irréductible égale à 4 − 2
+4)
+
+Compléter
+
+10…. × 10−2 = 106
+
+5) Convertir 152 minutes en heures et minutes
+6)
+
+7)
+
+Un antécédent de 2 par f est :
+Soit f la
+fonction
+définie sur
+l’intervalle
+[−4 ; 2],
+représentée
+ci-contre.
+
+…………
+
+𝑓(𝑥) ≥ 2 pour tout nombre réel 𝑥
+de l’intervalle :
+…………
+
+8)
+
+Déterminer le coefficient directeur de la droite
+passant par les points de coordonnées (0 ; −1) et
+(3 ; 8).
+
+9)
+
+Le résultat de gestion (𝑅) est la différence entre le
+chiffre d’affaires (𝐶𝐴) et le coût de revient (𝐶𝑅) :
+𝑅 =𝐶𝐴−𝐶𝑅
+
+Exprimer CR en fonction de CA et de R.
+10) Factoriser l’expression 𝑥(𝑥 + 1) + 2𝑥
+
+PARTIE II
+Calculatrice autorisée suivant la réglementation en vigueur
+Exercice 2 : (5 points)
+On réalise un sondage auprès de 950 filles et garçons d’un lycée (dont 450 garçons), afin de
+connaître leurs habitudes de travail, lors de recherches sur internet, sur différents supports :
+smartphone, tablette ou ordinateur. Les informations recueillies lors de ce sondage sont
+consignées sur des fiches anonymes.
+On a obtenu les informations suivantes :
+ 200 filles utilisent l’ordinateur contre seulement 150 garçons ;
+ 270 garçons utilisent leur smartphone ;
+ 60 filles utilisent une tablette.
+1. Compléter le tableau donné en annexe, à rendre avec la copie.
+2. Déterminer la fréquence de garçons utilisant l’ordinateur.
+3. Déterminer la fréquence conditionnelle des filles parmi les élèves utilisant la tablette.
+4. On choisit de façon équiprobable la fiche d’un élève du lycée ayant répondu au sondage
+et on considère les événements suivants :
+ A : « la fiche choisie est celle d’une fille » ;
+ B : « la fiche choisie est celle d’un élève qui utilise un smartphone » ;
+ C : « la fiche choisie est celle d’un élève qui utilise un ordinateur ».
+a. Déterminer la probabilité conditionnelle PA(B).
+b. Déterminer la probabilité que la fiche choisie soit celle d’un élève qui utilise un
+ordinateur sachant que c’est la fiche d’un garçon.
+
+Exercice 3 : (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−3 ; 5] par 𝑓(𝑥) = −𝑥 2 + 3𝑥 + 4.
+Sa courbe représentative 𝐶𝑓 est représentée ci-dessous dans un repère orthogonal :
+
+1. Quelles semblent être les solutions de l’équation 𝑓(𝑥) = 0 ? Justifiez par le calcul.
+2. Le point de coordonnées (2 ; 6) semble être sur la courbe 𝐶𝑓 : est-ce bien le cas ?
+3. Déterminer le maximum de la fonction 𝑓. Pour quelle valeur est-il atteint ?
+4. Donner le tableau des variations de f.
+5. Résoudre graphiquement l’inéquation 𝑓(𝑥) > 4.
+
+Exercice 4 : (5 points)
+On considère la suite géométrique (un) de raison 1,045 et de premier terme u0 = 92 652.
+On modélise le nombre annuel de voitures particulières vendues par un groupe automobile
+par l’arrondi à l’unité du terme un pour l’année 2018+n, où n est un entier naturel.
+En 2018, ce groupe automobile a donc vendu 92 652 voitures particulières.
+Les résultats seront arrondis à l’unité.
+1. Justifier que u1 ≈ 96 821. Calculer u2.
+2. Selon ce modèle, quel est le pourcentage d’évolution du nombre de voitures vendues
+par ce groupe automobile entre deux années consécutives ?
+3. Afin de visualiser les prévisions de vente de ce groupe automobile on utilise une
+feuille automatisée de calcul.
+
+Quelle formule peut-on saisir dans la cellule C2 pour obtenir, par recopie vers la droite, la
+prévision du nombre de voitures particulières vendues chaque année ?
+4. Toujours suivant le modèle retenu, on souhaite déterminer l’année à partir de
+laquelle le nombre annuel de voitures particulières vendues par ce groupe
+automobile dépassera les 150 000.
+a. Recopier et compléter la ligne 5 du script ci-dessous, rédigé en langage Python,
+afin que l’exécution de la commande annee(150000) renvoie l’année cherchée.
+
+b. Que faudrait-il modifier dans ce script si la suite un était supposée arithmétique
+de raison 4 500 ?
+
+Annexe de l’exercice 2 à rendre avec la copie
+Lycéens
+
+Ordinateurs
+
+Smartphones
+
+Garçons
+
+Filles
+
+Tablettes
+
+Total
+
+Total

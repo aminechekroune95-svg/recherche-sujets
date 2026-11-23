@@ -1,0 +1,161 @@
+{"pages": 9, "method": "pdftotext", "bytes": 561322, "at": "2026-11-23T09:00:02+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE 1
+Sans Calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 : Automatismes (5 points)
+Enoncé
+
+1.
+
+Le nombre d’adhérents d’un club de sport
+est passé de 250 en 2018 à 210 en 2019.
+Déterminer le taux d’évolution du nombre
+d’adhérents entre 2018 et 2019.
+
+2.
+
+Développer (𝑥 − 3)(2𝑥 + 5)
+
+Réponse
+
+On considère la fonction affine 𝑔 définie sur
+3.
+
+R par 𝑔(𝑥) = 3𝑥 − 6.
+
+a. Calculer 𝑔 ( ).
+
+4.
+
+b. Déterminer l’antécédent de 2 par la
+fonction 𝑔.
+
+5.
+
+c. Donner le tableau de signes de 𝑔 sur R.
+
+Enoncé
+
+Réponse
+
+On a tracé dans le repère ci-dessous une
+droite D et C𝑓 , la courbe représentative d’une
+fonction 𝑓 définie sur [-1;6]. Répondre aux
+questions suivantes par lecture graphique :
+
+D
+
+C𝑓
+
+6.
+
+a. Donner le tableau de signes de la
+fonction 𝑓 sur l’intervalle [-1;6].
+
+7.
+
+b. Déterminer 𝑓(3).
+
+8.
+
+c. Résoudre 𝑓(𝑥) = 6.
+
+9.
+
+d. Résoudre 𝑓(𝑥) ⩾ 3 .
+
+10.
+
+e. Donner une équation de la droite D.
+
+𝑓(3) =
+
+PARTIE 2
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+Soit 𝑟 la fonction définie sur [0;110] par 𝑟(𝑥) = −0,5𝑥2 + 55𝑥.
+On donne un tableau de valeurs de 𝑟 :
+
+𝑥
+
+𝑟(𝑥)
+
+1200 1400 1500 1500 1400 1200
+
+1. a. Quelles sont les racines de 𝑟(𝑥) ?
+b. En déduire la forme factorisée de 𝑟(𝑥).
+2. a. Donner l’allure de la portion de parabole qui représente la fonction 𝑟.
+Justifier.
+b. Déterminer les coordonnées du sommet de la portion de parabole.
+3. En déduire le tableau de variation de 𝑟.
+
+EXERCICE 3 (5 points)
+La glycémie est la concentration massique exprimée en gramme par litre (g.L-1) de
+sucre dans le sang. Le diabète se caractérise par une hyperglycémie chronique,
+c’est-à-dire un excès de sucre dans le sang et donc une glycémie trop élevée.
+Une glycémie est normale lorsqu'elle est comprise entre 0,7 g.L-1 et 1,1 g.L-1 à jeun et
+lorsqu’elle est inférieure à 1,4 g.L-1, une heure et trente minutes après un repas.
+Lorsque l’on suspecte un diabète, on pratique un test de tolérance au glucose.
+Lorsqu’il est à jeun, le patient ingère 75 g de glucose au temps 𝑡 = 0 (𝑡 est exprimé
+en heure).
+Pour tout réel 𝑡 de l’intervalle [0;3], la glycémie du patient, exprimée en g.L -1 , 𝑡
+heures après l’ingestion, est modélisée par la fonction 𝑓 définie sur [0;3] par :
+
+𝑓(𝑡) = 0,3𝑡 3 − 1,8𝑡 2 + 2,7𝑡 + 0,8.
+
+1. Que valait la glycémie du patient à jeun ?
+2. a. On note 𝑓 ′ la fonction dérivée de la fonction 𝑓 . Montrer que pour tout
+réel 𝑡 appartenant à [0;3],
+
+𝑓 ′(𝑡) = 0,9(𝑡 − 1)(𝑡 − 3)
+b. Étudier le signe de 𝑓 ′(𝑡) sur [0;3] et en déduire le tableau de variations de
+la fonction 𝑓 sur l’intervalle [0;3].
+3. a. Au bout de combien d’heures la glycémie du patient est-elle maximale et
+que vaut-elle ?
+b. Peut-on suspecter un diabète chez le patient ? Expliquer.
+
+EXERCICE 4 (5 points)
+Dans une population, une personne sur 250 est porteuse d’un gène qui entraîne, à
+l’âge adulte, une maladie handicapante.
+
+1. On choisit trois personnes au hasard dans cette population, qui est
+suffisamment grande pour que ce choix puisse être assimilé à trois tirages
+successifs avec remise.
+a. Justifier qu’il s’agit de la répétition de trois épreuves aléatoires et
+indépendantes de Bernoulli dont on donnera le paramètre.
+b. Construire un arbre pondéré représentant la situation.
+c. En déduire la probabilité qu’au moins une personne parmi les trois soit
+porteuse du gène.
+2. On teste des personnes au hasard dans cette population jusqu’à ce qu’on
+obtienne une personne porteuse du gène.
+On veut modéliser cette expérience à l’aide d’une fonction qui retourne le
+nombre de personnes à tester avant d’en trouver une porteuse du gène.
+a. Compléter sur l’annexe, à remettre avec la copie, le programme écrit en
+langage Python
+b. Que permet de conclure l’affichage donné par l’instruction suivante écrite
+en langage Python ?
+
+Annexe à remettre avec la copie
+
+EXERCICE 4 question 2.a.

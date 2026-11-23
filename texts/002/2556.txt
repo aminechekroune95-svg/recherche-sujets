@@ -1,0 +1,177 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1122630, "at": "2026-11-23T09:00:16+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Cet exercice est un QCM et comprend cinq questions. Pour chacune des questions, une seule
+des quatre réponses proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte un point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+Une équation de la tangente à la courbe représentative de la fonction exponentielle au point
+d'abscisse 0 est :
+a) 𝑦 = 𝑥 + 1
+
+b) 𝑦 = e𝑥
+
+c) 𝑦 = e𝑥
+
+d) 𝑦 = 𝑥 − 1
+
+Question 2
+La fonction 𝑓 définie sur ℝ par : 𝑓(𝑥) = 𝑒 −2𝑥+6 admet pour dérivée la fonction 𝑓 ′ définie
+sur ℝ par :
+a) 𝑓 ′(𝑥) = 𝑒 −2𝑥+6
+c) 𝑓 ′(𝑥) = −2𝑥𝑒 −2𝑥+6
+
+b) 𝑓 ′(𝑥) = −2𝑒 −2𝑥+6
+d) 𝑓 ′(𝑥) = (−2𝑥 + 6)𝑒 −2𝑥+6
+
+Question 3
+⃗⃗⃗⃗⃗⃗ représenté ci-dessous est égal à :
+Dans le repère orthonormé (𝑂, 𝑖⃗, 𝑗⃗), le vecteur 𝐴𝐵
+
+a) −2𝑖⃗ + 6𝑗⃗
+
+b) −6𝑖⃗ + 2𝑗⃗
+
+c) 2𝑖⃗ − 6𝑗⃗
+
+d) 6𝑖⃗ − 2𝑗⃗
+
+Question 4
+On considère la fonction 𝑓 définie pour tout réel 𝑥 par 𝑓(𝑥) = sin 𝑥 − cos 𝑥. Parmi les
+quatre propositions suivantes, une seule est correcte. Laquelle ?
+a) 𝑓 est une fonction paire.
+c) 𝑓 n’est ni paire ni impaire.
+
+b) 𝑓 est une fonction impaire.
+d) 𝑓 (0) = 0
+
+Question 5
+Dans le plan muni d’un repère, on considère la droite (d) d’équation : 5𝑥 − 2𝑦 + 8 = 0
+La droite (d) a pour coefficient directeur :
+a) ⃗𝑢⃗(2 ; 5)
+
+b) 2
+
+c) 5
+
+d) -2
+
+Exercice 2 (5 points)
+Un fermier souhaite réaliser un enclos rectangulaire pour des poules et des poussins, adossé
+à un mur de sa ferme afin d’économiser du grillage. Ainsi, il ne grillagera que 3 côtés de son
+enclos.
+Il possède 28 mètres de grillage. Il souhaite construire un enclos d’aire maximale.
+On appelle 𝑥 la longueur du côté de l’enclos perpendiculaire au mur.
+
+𝑥
+
+On appelle 𝐴 la fonction qui à un nombre 𝑥 associe 𝐴(𝑥) l’aire de l’enclos. La fonction 𝐴 est
+ainsi définie sur l’intervalle [0 ; 14].
+
+1.
+a. Vérifier que l’aire 𝐴(𝑥) = −2𝑥² + 28𝑥
+b. Montrer que la forme canonique de 𝐴(𝑥) est −2(𝑥 − 7)2 + 98.
+2. Quatre courbes ont été tracées sur le graphique ci-dessous. Identifier celle qui
+représente la fonction 𝐴.
+
+𝒞1
+
+𝒞3
+𝒞2
+
+𝒞4
+
+3. Dresser le tableau de variation de la fonction 𝐴.
+4. Pour quelle valeur de x l’aire de l’enclos est-elle maximale ? Donner la valeur de cette
+aire.
+
+Exercice 3 (5 points)
+Le plan est muni d’un repère orthonormé
+(0 ; 𝑖⃗ ; 𝑗⃗).
+On considère les points 𝐴, 𝐵 et 𝐶 de
+coordonnées : 𝐴 (7 ; −2), 𝐵 (7 ; 4) et 𝐶 (1 ; 1).
+1. Montrer que 𝑦 = 1 est une équation de la
+droite (𝑑1 ) passant par 𝐶 et perpendiculaire à
+(𝐴𝐵).
+2. Que représente cette droite pour le triangle
+𝐴𝐵𝐶 ?
+3. Donner une équation de la droite (𝑑2 ),
+hauteur du triangle 𝐴𝐵𝐶 issue du sommet B.
+4. On appelle 𝐻 le point d’intersection des
+droites (𝑑1 ) et (𝑑2 ).
+Donner en justifiant la valeur du produit
+⃗⃗⃗⃗⃗⃗⃗ . 𝐶𝐵
+⃗⃗⃗⃗⃗⃗.
+scalaire : 𝐴𝐻
+
+Exercice 4 (5 points)
+La bibliothèque municipale étant devenue trop petite, une commune a décidé d’ouvrir une
+médiathèque qui pourra contenir 100 000 ouvrages au total. Pour l’ouverture prévue le 1er
+janvier 2020, la médiathèque dispose du stock de 35 000 ouvrages de l’ancienne
+bibliothèque, augmenté de 7 000 ouvrages supplémentaires neufs offerts par la commune.
+Partie A
+Chaque année, le bibliothécaire est chargée de supprimer 5% des ouvrages, trop vieux ou
+abîmés, et d’acheter 6 000 ouvrages neufs.
+On appelle 𝑢𝑛 le nombre, en milliers, d’ouvrages disponibles le 1er janvier de l’année
+(2020 + 𝑛).
+On donne 𝑢0 = 42.
+1. Justifier que, pour tout entier naturel 𝑛, on a 𝑢𝑛+1 = 𝑢𝑛 × 0,95 + 6.
+2. On propose ci-dessous un programme en
+def suite(n) :
+langage Python :
+u=42
+Expliquer ce que permet de déterminer ce
+for i in range(n) :
+programme.
+u=0.95*u+6
+Partie B
+
+return u
+
+La commune doit finalement revoir ses dépenses à la baisse, elle ne pourra financer que
+4 000 nouveaux ouvrages par an au lieu des 6 000 prévus.
+On appelle 𝑣𝑛 le nombre, en milliers, d’ouvrages disponibles le 1er janvier de l’année
+(2020 + 𝑛).
+1. On admet que 𝑣𝑛+1 = 0,95 × 𝑣𝑛 + 4 pour tout entier naturel 𝑛 ≥ 0 avec 𝑣0 = 42.
+On considère la suite (𝑤𝑛 ) définie, pour tout entier naturel 𝑛, par 𝑤𝑛 = 𝑣𝑛 − 80.
+a. Montrer que (𝑤𝑛 ) est une suite géométrique de raison 𝑞 = 0,95 et préciser son
+premier terme 𝑤0 .
+b. En déduire l’expression de 𝑤𝑛 puis de 𝑣𝑛 en fonction de 𝑛.
+
+2. On donne ci-contre un programme en langage
+Python.
+L’appel à la fonction objet(70) renvoie 27.
+Interpréter ce résultat dans le contexte de
+l’exercice.
+
+def objet(A) :
+v=42
+n=0
+while v<A :
+v=0.95*v+4
+n=n+1
+return n

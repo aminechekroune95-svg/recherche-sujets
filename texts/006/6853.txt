@@ -1,0 +1,126 @@
+{"pages": 5, "method": "pdftotext", "bytes": 894114, "at": "2026-11-23T08:57:18+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Augmenter de 4 % revient à multiplier par :
+
+Multiplier par 0,7 revient à diminuer de quel
+pourcentage ?
+
+Un article coûtait 300€. Quel est son nouveau
+prix après une augmentation de 5% ?
+
+Le prix d’un article est passé de 50€ à 60€.
+Calculer le taux d’évolution du prix de cet
+article. On donnera le résultat sous forme d’un
+pourcentage.
+
+Calculer le taux d’évolution réciproque d’une
+baisse de 20%.
+
+Résoudre l’équation : 𝑥 + 3 = 10
+
+Résoudre l’équation : 2𝑥 + 3 = 𝑥 − 5
+
+Résoudre l’équation : 𝑥 2 = 36
+
+Durée : 20 minutes
+
+Réponse
+
+𝑥
+
+Compléter le tableau de signe de 2𝑥 + 1
+
+−∞
+
+2𝑥 + 1
+
+𝑥
+
+Compléter le tableau de signes du produit
+3(𝑥 − 1)(𝑥 − 4)
+
++∞
+
+−∞
+
+… 0
+
+… 0
+
+3(𝑥 − 1)(𝑥 − 4)
+
++∞
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+En 2019, une entreprise européenne de livraison à domicile de plats cuisinés gère 11 400
+livreurs. Le dirigeant de l’entreprise souhaite augmenter le nombre de livreurs de 700
+personnes par an.
+On pose 𝑢0 = 11 400 et pour tout entier 𝑛 supérieur ou égal à 1, 𝑢𝑛 est le nombre de
+livreurs gérés par l’entreprise l’année 2019 + 𝑛.
+1.
+2.
+3.
+4.
+5.
+
+Calculer les valeurs de 𝑢1 et 𝑢2 .
+Quelle est la nature de la suite (𝑢𝑛 ) ?
+Donner l’expression de 𝑢𝑛 en fonction de 𝑛.
+Calculer 𝑢5 et interpréter le résultat dans le contexte de l’exercice.
+On considère la fonction suivante :
+def seuil() :
+n=0
+u = 11400
+while u < 20000:
+u = u + 700
+n=n+1
+return n
+
+Déterminer la valeur renvoyée par la fonction seuil() lorsqu’on l’exécute. Interpréter
+le résultat trouvé dans le contexte de l’exercice.
+
+Exercice 3 : (5 points)
+On considère la fonction 𝑓 définie sur R par 𝑓(𝑥) = 𝑥 2 + 𝑥 − 2 et on note 𝑓′ sa fonction
+dérivée.
+On note 𝐶 la courbe de 𝑓 dans un repère orthogonal et 𝐴 le point de la courbe de 𝑓
+d’abscisse −4. Cette courbe est tracée sur l’annexe à rendre avec la copie.
+1. Calculer les coordonnées du point 𝐴.
+2. En admettant l’égalité 𝑓 ′ (−4) = −7, tracer la tangente à la courbe de 𝑓 au point
+d’abscisse 𝐴 sur le graphique en annexe 1. On ne demande pas de justification.
+3. Donner l’expression de 𝑓′(𝑥), où 𝑓′ est la fonction dérivée de 𝑓.
+4. Étudier le signe de 𝑓′(𝑥) sur R suivant les valeurs de 𝑥.
+5. Dresser le tableau de variations de 𝑓 sur R.
+
+Exercice 4 : (5 points)
+Une urne contient 9 boules blanches et 6 boules rouges indiscernables au toucher.
+1. On tire au hasard une boule de l’urne. Quelle est la probabilité de l’évènement 𝐵 :
+« obtenir une boule blanche » ?
+2. Un jeu consiste à tirer successivement 3 boules de l’urne avec remise : on note, à
+chaque tirage, la couleur de la boule avant de la replacer dans l’urne pour un
+nouveau tirage.
+Sur l’annexe 2 est tracé le début de l’arbre de probabilité représentant la situation.
+Compléter cet arbre en y ajoutant les éléments nécessaires.
+3. On note 𝑋 la variable aléatoire qui représente le nombre de boules blanches tirées à
+l’issue du jeu.
+Déterminer 𝑃(𝑋 = 1) et interpréter le résultat.
+4. Quelle est la probabilité de ne tirer que des boules blanches ?
+5. Quelle est la probabilité de tirer moins de boules blanches que de boules rouges ?
+
+ANNEXE A RENDRE AVEC LA COPIE
+
+Exercice 3
+
+Exercice 4
+𝑩
+
+̅
+𝑩

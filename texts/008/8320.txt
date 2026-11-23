@@ -1,0 +1,171 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1445391, "at": "2026-11-23T08:56:02+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+
+Compléter :
+
+2)
+
+Écrire sous la forme d’une puissance de 2 :
+43 × 2−4 × 32.
+
+3)
+
+4)
+
+5)
+
+Réponse
+×…=
+
+Un article subit une hausse de 50% suivie d’une baisse
+de 50%. Quelle est au final l’évolution en pourcentage ?
+
+Le prix du sans plomb E95 qui était de 1,48 € en 2 000 a
+augmenté de 10% entre 2000 et 2019. Quel est la valeur
+exacte en 2019 du prix du litre de sans plomb E95 ?
+
+Le prix d’un article a été multiplié par 0,85. Quel taux
+d’évolution a subi le prix de cet article ?
+
+Développer puis réduire 2𝑥 2 + (𝑥 − 1)(𝑥 + 1)
+6)
+
+Soit 𝑓 la fonction définie sur ℝ dont la représentation graphique est :
+
+7)
+
+Déterminer l’image de 2 par 𝑓.
+
+8)
+
+Résoudre 𝑓(𝑥) ≤ 0 sur l’intervalle [0 ; 6].
+Déterminer l'équation réduite de la droite (𝐷) tracée
+ci-dessous :
+
+9)
+
+10)
+
+Déterminer le tableau de signes de la fonction 𝑓 définie
+sur ℝ par :
+𝑓(𝑥) = 1 − 3𝑥
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le nombre d'utilisateurs d'internet en France était de 32,9 millions en 2007 (source : Internet
+world stats).
+Il a augmenté en moyenne de 6,3 % par an entre 2007 et 2017.
+On modélise cette situation à l'aide d'une suite (𝑣𝑛 ) : 𝑣𝑛 désigne le nombre d'utilisateurs
+d'internet en France (en millions) à l'année 2007 + 𝑛.
+On a donc 𝑣0 = 32,9.
+1. Calculer 𝑣1 . Arrondir au dixième.
+2.
+a. Pour tout entier 𝑛, exprimer 𝑣𝑛+1 en fonction de 𝑣𝑛 .
+b. En déduire que (𝑣𝑛 ) est une suite géométrique dont on donnera la raison et le
+premier terme.
+3. Le tableau ci-dessous est extrait d'une feuille de calcul :
+A
+B
+C
+D
+𝑛
+32,9
+𝑣𝑛
+
+E
+
+F
+
+Quelle formule, doit-on saisir en C2 pour obtenir par recopie vers la droite les valeurs de la
+suite (𝑣𝑛 ) ?
+4. Si on admet que l'augmentation annuelle de 6,3 % perdure au-delà de 2017, calculer
+le nombre d'internautes en 2019. Sachant que le nombre réel est de 60,4 millions,
+que peut-on en déduire ?
+
+Exercice 3 (5 points)
+On appelle 𝐶(𝑥) le coût total de production, en euros, en fonction de la masse 𝑥, en kg, de
+produit fabriqué. La fonction 𝐶 est ainsi définie sur l’intervalle [0 ; 12].
+Sur le graphique en annexe, on a représenté la courbe Γ de la fonction 𝐶.
+1. Avec la précision permise par le graphique, déterminer le coût de fabrication de 6 kg
+de produit.
+2. Pour tout 𝑥 dans l’intervalle [0 ; 12], on admet que :
+
+𝐶(𝑥) = 2𝑥 3 + 160
+
+la recette 𝑅(𝑥), pour une masse 𝑥 en 𝑘𝑔 de produit vendu, est donnée par
+𝑅(𝑥) = 150𝑥 + 268 ; sa courbe représentative 𝐷 est tracée sur le graphique en
+annexe.
+
+a. À l'aide du graphique, conjecturer l'abscisse du point d'intersection des courbes
+des fonctions 𝐶 et 𝑅. Vérifier par le calcul.
+b. Quelle masse de produit l’entreprise doit-elle produire et vendre pour réaliser un
+bénéfice ?
+3. Pour tout 𝑥 dans l’intervalle [0 ; 12], on note 𝐵 le bénéfice défini par :
+𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+a. On admet que 𝐵 est dérivable sur [0 ; 12] et on note 𝐵 ′ sa dérivée. Montrer que :
+𝐵 ′ (𝑥) = 6(5 + 𝑥)(5 − 𝑥)
+b. Pour quelle valeur de 𝑥 le bénéfice pourrait-il être maximal ?
+
+Exercice 4 (5 points)
+Dans une ville, une enquête, réalisée sur 300 familles, portant sur les habitudes des
+habitants en matière d'écologie, a donné les résultats suivants :
+ 70% des ménages pratiquent le tri sélectif ;
+
+Parmi les ménages pratiquant le tri sélectif, 40% consomment des produits bio ;
+
+Parmi les ménages ne pratiquant pas le tri sélectif, 10% consomment des produits
+bio.
+
+1. Recopier et compléter le tableau suivant :
+Tri sélectif Tri non sélectif Total
+Consomme des Produits bio
+Ne consomme pas des produits bio
+Total
+
+2. On choisit au hasard une famille enquêtée et on s'intéresse aux évènements :
+
+𝑇: "Le ménage pratique le tri sélectif"
+
+𝐵: "Le ménage consomme des produits bio"
+
+On note 𝑇̅ l’évènement contraire de 𝑇 et 𝐵̅ l’évènement contraire de 𝐵.
+On donnera les résultats arrondis à 10-2.
+a. Calculer 𝑃(𝑇) et 𝑃(𝐵).
+b. Définir par une phrase les évènements 𝑇̅ et 𝑇 ∩ 𝐵.
+c. Montrer que 𝑃(𝑇 ∪ 𝐵) = 0,73.
+3. Calculer 𝑃𝐵 (𝑇). Exprimer par une phrase ce que signifie ce calcul.
+
+Annexe exercice 2
+Γ
+
+𝐷

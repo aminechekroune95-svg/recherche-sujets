@@ -1,0 +1,115 @@
+{"pages": 3, "method": "ocr", "bytes": 3463540, "at": "2026-11-23T09:09:57+00:00"}
+Modèle CCYC : ©DNE
+Nom de famille (naissance) :
+
+(Suivi s'il y a lieu, du nom d'usage)
+
+Prénom(s) :
+
+N° candidat : N° d'inscription :
+
+à (Les numéros figurent sur la convocation.)
+
+Liberté = Égaliré + Fraternité é 5
+REPUBLIQUE FRANCAISE Né(e) le : VA / 13
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+
+Un restaurateur a produit 2500 kg de déchets non recyclables en 2017 et 2350 kg en 2018.
+
+1) Déterminer le pourcentage de réduction de la masse de déchets non recyclables
+
+entre 2017 et 2018.
+2) À partir de 2018, le restaurateur prévoit, chaque année, de réduire de 5 % la masse
+
+de déchets non recyclables.
+Pour tout entier naturel n, on modélise la masse, exprimée en kg, de déchets non
+
+recyclables pour l’année 2018 + » à l’aide d’une suite notée (D, ).
+Ainsi Dj = 2350.
+
+a) Calculer D; puis D, .
+b) On admet que la suite (D,) est géométrique. Donner sa raison.
+
+3) On admet que, pour tout entier naturel n, D, = 2 350 x 0,95”.
+Déterminer la masse de déchets non recyclables en 2025. On donnera le résultat
+
+arrondi en kg.
+4) Recopier et compléter l'algorithme suivant pour qu’à la fin de son exécution la
+
+variable D contienne le terme de rang 15 de la suite (D,,) .
+
+D = 2350
+
+for n in range(15):
+
+| [ricmarHoo11o |
+
+EXERCICE 3 (5 points)
+
+Une entreprise produit mensuellement entre 200 et 3 000 Panneaux solaires.
+
+solaires par la fonction J définie sur Vintervalle [2 ; 30] par:
+
+F(x) = -2x? + 90x — 400.
+
+1) On admet que, Pour tout x de l'intervalle [2 ; 30], ona f(x) = -2(x — 40)(x — 5).
+Donner le tableau de Signes de la fonction f sur l'intervalle 2130]:
+
+2) À partir de quel volume de production de panneaux solaires le résultat réalisé par
+
+l’entreprise est positif ?
+
+3) On note f ’ la fonction dérivée de la fonction f sur l'intervalle [2 : 30].
+Donner l'expression de f ‘(x) en fonction de x.
+
+4) Donner le tableau de Variations de la fonction f sur l'intervalle [2 ; 30].
+
+5) Déterminer la valeur du bénéfice maximal et le volume de production correspondant.
+
+i
+
+odèle CCYC : ODNE
+Nom de famille (naissance) :
+
+(Suivi s'il y a lieu, du nom d'usage)
+
+Prénom(s) :
+
+gs a (Les numéros figurent sur la convocation.)
+
+Ze
+
+es Nee?! | |A ATI I
+PUBLIQUE FRANÇAISE
+
+EXERCICE 4 (5 points)
+
+Le gérant d’un restaurant développe une nouvelle formule de restauration rapide le midi. |
+
+1.1
+
+propose un menu comprenant un plat et un dessert. Les clients ont le choix entre deux plats
+(viande ou poisson) et trois desserts (pâtisserie, laitage ou fruit).
+
+Il teste sa formule pendant un mois et étudie toutes les commandes pour mieux connaître
+les souhaits de sa clientele.
+
+e Parmi les 600 commandes faites au cours de ce mois, 72 % comprenaient un plat de
+viande.
+
+e 45 % des clients ont pris une pâtisserie et, parmi eux, 44 avaient choisi le plat de
+W poisson.
+| e Parmi les 138 commandes comprenant un fruit comme dessert, 73 comprenaient le
+plat de poisson.
+
+1) Recopier et compléter le tableau suivant qui récapitule les résultats de l'enquête.
+
+ARE sad Be ——————

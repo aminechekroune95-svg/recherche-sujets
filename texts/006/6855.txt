@@ -1,0 +1,217 @@
+{"pages": 6, "method": "pdftotext", "bytes": 964107, "at": "2026-11-23T08:57:14+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Cet exercice est un questionnaire à choix multiples. Pour chacune des dix questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée. Une
+bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+
+Question 1 :
+Un article coûte 200 € et subit une augmentation de 20 %.
+Son prix est donc :
+260 €
+
+240 €
+
+220 €
+
+160 €
+
+Question 2 :
+Le volume d’une boîte augmente de 200 %. Il doit donc être multiplié par :
+1,2
+
+1,3
+
+diminue de 25 %
+
+diminue de 20 %
+
+Question 3 :
+Le prix d’un article passe de 120 € à 90 €. Ainsi, le prix :
+augmente de 30 %
+
+diminue de 30 %
+
+Question 4 :
+Un nombre augmente de 50 % puis diminue de 80 %.
+Ce nombre doit être multiplié par :
+1,2
+
+1,3
+
+0,3
+
+0,9
+
+Question 5 :
+Un prix augmente de 25 %. Le taux d’évolution réciproque correspond à :
+Une baisse de 25 %
+
+Une baisse de 20 %
+
+Une baisse de 30 %
+
+Une baisse de 15 %
+
+Question 6 :
+
+La solution dans R de l’équation 3𝑥 − 5 = 2𝑥 + 7 est :
+2,4
+
+0,4
+
+Question 7 :
+La (ou les) solution(s) dans R de l’équation 𝑥 2 = 25 est (sont) :
+−5
+
+5 et − 5
+
+12,5 et −12,5
+
+Question 8 :
+L’inéquation −4𝑥 < −7 a les mêmes solutions que l’inéquation :
+𝑥 < −3
+
+𝑥 > −3
+
+𝑥<
+
+𝑥>
+
+Question 9 :
+On donne ci-dessous le tableau de signes d’une fonction 𝑓 .
+𝑥
+
+−∞
+
+signe de 𝑓(𝑥)
+
+−1
+
+−
+
++∞
+
+Une écriture possible de 𝑓(𝑥) est :
+𝑓(𝑥) = 𝑥(𝑥 + 1)
+
+𝑓(𝑥) = 𝑥(𝑥 − 1)
+
+𝑓(𝑥) = −𝑥(𝑥 + 1)
+
+𝑓(𝑥) = (𝑥 + 1)²
+
+Question 10 :
+On considère le tableau de signes d’une fonction 𝑓.
+𝑥
+
+−∞
+
+signe de 𝑓(𝑥)
+
+−
+
++∞
+
+L’ensemble des solutions dans R de l’inéquation 𝑓(𝑥) > 0 est :
+
+]2 ; 4[
+
+] − ∞ ; 2[ ∪ ]4 ; +∞[
+
+]4 ; +∞[
+
+]−∞ ; 2[
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+En 2018, dans une commune, chaque habitant produit 580 kg de déchets ménagers en
+moyenne. Le maire met en place une campagne d’information afin d’inciter les habitants à les
+réduire. En 2019, il constate une diminution de 3 % de la quantité de déchets ménagers
+produits par habitant.
+1. Calculer la quantité de déchets ménagers produits par habitant en 2019 dans cette
+commune.
+2. Dans cette question, on suppose que cette diminution de 3 % se poursuit durant les
+années suivantes. On modélise cette situation par la suite (𝑢𝑛 ) où 𝑢𝑛 désigne la
+quantité, exprimée en kg, de déchets ménagers produits par habitant durant l’année
+2018 + 𝑛 . On a ainsi 𝑢0 = 580 .
+a) Justifier que pour tout entier naturel 𝑛, on a 𝑢𝑛+1 = 0,97 𝑢𝑛 .
+b) Le maire souhaite connaître dans combien d’années la quantité de déchets
+ménagers produits par habitant de sa commune passera en dessous de 500 kg.
+On lui propose un programme pour répondre à cette question.
+Recopier et compléter sur votre copie ce programme.
+U = 580
+N=0
+while ……… :
+U = …..…
+N=N+1
+
+3. Dans cette question, on suppose que la quantité de déchets ménagers produits par
+habitant diminue chaque année de 17,4 kg par habitant.
+On modélise alors cette situation par la suite (𝑣𝑛 ), 𝑣𝑛 représentant la quantité,
+exprimée en kg, de déchets ménagers produits par habitant durant l’année 2018 + 𝑛 .
+On a donc 𝑣0 = 580 .
+
+Exprimer 𝑣𝑛+1 en fonction de 𝑣𝑛 pour tout entier naturel 𝑛.
+4. Ci-dessous figure le graphique représentant les quantités 𝑢𝑛 et 𝑣𝑛 de déchets
+ménagers produits par habitant.
+Déterminer graphiquement à partir de quelle année la production de déchets
+ménagers sera en dessous de 460 kg quel que soit le modèle considéré.
+
+Masse de déchets ménagers par an et par habitants en kg
+
+𝑢𝑛
+
+𝑣𝑛
+
+EXERCICE 3 : (5 POINTS)
+À l’instant 𝑡 = 0, une pierre est lancée vers le haut à partir du sommet d’une falaise située au
+bord de la mer. Elle finit sa course dans l’eau.
+On modélise l’altitude (en mètres) de la pierre par rapport à la surface de l’eau en fonction du
+temps écoulé (en secondes) par la fonction 𝑓 définie sur l’intervalle [0 ; 2] par :
+𝑓(𝑡) = 20 + 10𝑡 − 10𝑡 2
+𝑓(𝑡) représente donc l’altitude de la pierre, exprimée en mètre, à l’instant 𝑡.
+On note 𝐶𝑓 la courbe représentative de 𝑓 dans un repère orthogonal.
+Montrer que, pour 𝑡 appartenant à l’intervalle [0 ; 2], on a
+𝑓(𝑡) = −10(𝑡 − 2)(𝑡 + 1)
+b) En déduire le nombre de secondes écoulées avant que la pierre ne touche la
+surface de l’eau, d’altitude égale à 0.
+
+1. a)
+
+2. a) Déterminer 𝑓′(𝑡) pour 𝑡 ∈ [0 ; 2], 𝑓′ désignant la fonction dérivée de 𝑓 sur
+l’intervalle [0 ; 2] .
+b) Étudier le signe de 𝑓 ′ sur l’intervalle [0 ; 2] et en déduire le tableau de variations
+de la fonction 𝑓 sur l’intervalle [0 ; 2] .
+c) Déterminer l’altitude maximale atteinte par la pierre.
+
+EXERCICE 4 : (5 POINTS)
+Un jeu de rôle se joue à 12 joueurs. Chaque joueur se voit attribuer par une carte du jeu l’un
+des deux rôles : celui de loup-garou ou celui de villageois. Dans une partie, il y a 4 cartes loupsgarous et 8 cartes villageois.
+On s’intéresse, pour une partie, à l’attribution du rôle du premier joueur.
+On considère que cette attribution se fait par le tirage au sort de l’une des douze cartes du
+jeu.
+On note 𝐿 l’événement : « le rôle du premier joueur est celui d’un loup-garou ».
+1. Calculer la probabilité de l’événement 𝐿. On donnera le résultat sous la forme d’une
+valeur exacte.
+
+On effectue 3 parties. Le rôle attribué au premier joueur pendant une partie n’a aucune
+incidence sur ceux attribués lors des parties suivantes.
+2. Expliquer pourquoi on peut modéliser la succession des trois parties par une répétition
+de trois épreuves indépendantes de Bernoulli.
+3. Représenter l’arbre de probabilités associé à cette modélisation.
+4. On note 𝑋 la variable aléatoire qui donne le nombre de parties pour lesquelles le rôle
+attribué au premier joueur est celui d’un loup-garou.
+Préciser les valeurs prises par la variable 𝑋.
+5. Calculer la probabilité que le rôle attribué au premier joueur pour ces trois parties ne
+soit jamais celui d’un loup-garou. Les résultats seront donnés sous la forme d’une
+valeur exacte puis d’une valeur arrondie au centième.

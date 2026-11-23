@@ -1,0 +1,159 @@
+{"pages": 4, "method": "pdftotext", "bytes": 583657, "at": "2026-11-23T08:57:46+00:00"}
+PARTIE I
+Automatismes
+Exercice 1 : (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+3)
+
+Enoncé
+Calculer et exprimer sous forme d’une fraction :
+3 1
++
+2 3
+Ranger les trois nombres suivants du plus petit au plus
+grand :
+2 ×3 ;
+;
+Factoriser : 𝑥 2 + 7𝑥
+
+4)
+5)
+
+Convertir 4,75 heures en heures et minutes.
+Résoudre l’équation : 3𝑥 − 2 = 2 − 𝑥
+
+6)
+
+Déterminer l’ordonnée du point 𝐴 qui est situé sur la droite
+d’équation 𝑦 = 2𝑥 − 1 et qui a pour abscisse 3.
+La tension 𝑈 aux bornes d’une batterie est donnée par la
+formule suivante : 𝑈 = 𝐸 − 𝑅 × 𝐼
+où 𝐸 est la tension à vide, 𝑅 la résistance interne à la batterie
+et 𝐼 l’intensité délivrée par la batterie.
+Exprimer 𝑅 en fonction de 𝑈, 𝐸 et 𝐼.
+Exprimer sous la forme d’une puissance de 2 :
+27 × 23
+Calculer, en pourcentage, la fréquence associée au secteur
+non colorié du diagramme circulaire ci-dessous :
+
+1)
+
+2)
+
+7)
+
+8)
+9)
+
+10)
+
+Deux réductions successives de 50 % correspondent à :
+Entourer la bonne réponse.
+
+Réponse
+
+Une réduction de 100 %
+Une augmentation de
+100 %
+Une réduction de 75 %
+
+PARTIE II
+Calculatrice autorisée suivant la réglementation en vigueur
+
+Exercice 2 : (5 points)
+Pour atténuer les bruits qui proviennent de l’extérieur d’un bâtiment, il est envisagé
+d'installer des plaques d'isolation phonique.
+Les plaques peuvent être installées en couches superposées.
+On considère que la pose d’une couche de plaques d'isolation fait baisser le niveau sonore
+de 10 %.
+Avant l'installation des plaques d'isolation, le niveau sonore en décibels (dB) à l'extérieur et à
+l’intérieur du bâtiment est de 110 dB.
+Calculer le niveau sonore à l'intérieur du bâtiment après l'ajout d'une plaque d'isolation
+phonique.
+On note 𝑏(𝑛) le niveau sonore à l’intérieur du bâtiment après l'ajout de 𝑛 plaques
+d'isolation phonique, avec 𝑛 entier positif.
+Ainsi, 𝑏(0) = 110.
+Justifier pourquoi, pour tout entier 𝑛 positif, 𝑏(𝑛 + 1) = 0,9 × 𝑏(𝑛).
+Quelle est la nature de la suite 𝑏 ? Préciser sa raison.
+Calculer une valeur approchée de 𝑏(5) à l’entier près puis interpréter ce résultat
+dans le cadre de l'exercice.
+Le bruit à l'intérieur du bâtiment est acceptable si le niveau sonore est inférieur ou égal à
+60 dB.
+
+Recopier et compléter les parties en pointillés dans le script ci-dessous écrit en
+langage « Python » pour qu'il renvoie le nombre de plaques qu’il faut installer en
+couches superposées pour obtenir un bruit acceptable à l'intérieur du bâtiment :
+def
+plaques():
+b=110
+n=0
+while
+b>60 :
+b=b*...
+n=n+1
+return
+...
+
+Exercice 3 : (5 points)
+Une machine produit deux types de pièces P1 et P2. La production totale journalière est de 8
+000 pièces. Une pièce est susceptible de présenter ou bien un défaut D1, ou bien un défaut
+D2 ou bien aucun défaut.
+On a relevé les statistiques suivantes :
+
+Parmi les 8 000 pièces, 3 % présentent le défaut D1 ;
+Parmi les 8 000 pièces, 2 % présentent le défaut D2 ;
+La machine produit autant de pièces P1 que de pièces P2 ;
+Il y a 40 pièces P1 qui présentent le défaut D1 ;
+Parmi les pièces sans défaut, 3 700 sont des pièces P2.
+
+1) Reproduire et compléter le tableau suivant :
+Défaut
+Pièces
+
+D1
+
+P1
+
+P2
+
+D2
+
+Aucun
+défaut
+
+Total
+
+3 700
+
+Total
+
+8 000
+
+On choisit au hasard et de façon équiprobable une pièce dans la production journalière
+de cette machine.
+Les probabilités seront données sous forme décimale.
+a) Quelle est la probabilité que la pièce soit de type P1 et présente le défaut D1 ?
+b) Quelle est la probabilité que la pièce soit une pièce de type P1 ?
+c) Quelle est la probabilité que la pièce ne présente aucun défaut ?
+On choisit à présent au hasard une pièce parmi celles de type P1.
+Quelle est la probabilité que cette pièce ne présente aucun défaut ?
+
+Exercice 4 : (5 points)
+Soit 𝑓 la fonction définie sur R par :
+où 𝑏 est un nombre réel.
+
+𝑓(𝑥) = 𝑥 2 + 𝑏𝑥 + 2
+
+1) Sachant que 1 est racine de 𝑓, démontrer que 𝑏 = −3.
+Vérifier que pour tout nombre réel 𝑥 on a :
+𝑓(𝑥) = (𝑥 − 1)(𝑥 − 2)
+Déduire de la question précédente les solutions sur R de l’équation 𝑓(𝑥) = 0.
+Donner une équation de l’axe de symétrie de la courbe représentative de la fonction 𝑓.
+Dresser le tableau de signe de la fonction 𝑓 sur l’intervalle [0 ; 4].

@@ -1,0 +1,94 @@
+{"pages": 4, "method": "pdftotext", "bytes": 1143794, "at": "2026-11-23T09:00:46+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 4
+
+Exercice 1 (5 points)
+
+Une ancienne légende raconte que le jeu d'échecs a été inventé par un vieux sage. Son roi
+voulut le remercier en lui accordant n'importe quel cadeau en récompense. Le vieux sage
+demanda qu'on lui fournisse un peu de riz pour ses vieux jours, et plus précisément qu’on
+place :
+un grain de riz sur la première case du jeu qu'il venait d'inventer, puis deux grains de riz sur
+la case suivante, puis quatre grains de riz sur la troisième case, et ainsi de suite, en doublant
+le nombre de grain de riz entre une case et la suivante, et ce jusqu'à la 64e case (puisqu’un
+plateau de jeu d’échecs comporte 64 cases).
+
+On note 𝑢1 le nombre de grains de riz présents sur la première case, 𝑢2 le nombre de grains
+sur la deuxième case, et ainsi de suite jusqu’à la 64e case.
+
+1. Déterminer 𝑢1 , 𝑢2 , 𝑢3 , 𝑢4 et 𝑢5 .
+2. Exprimer, pour tout entier naturel 𝑛 non nul, 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3. En déduire la nature de la suite (𝑢𝑛 ) et en préciser les éléments caractéristiques.
+Exprimer, pour tout entier naturel 𝑛 non nul, 𝑢𝑛 en fonction de 𝑛.
+4. Calculer le nombre de grains de riz qui doivent être disposés sur le plateau pour satisfaire à
+la demande du vieux sage.
+5. On veut écrire une fonction en langage Python qui
+détermine à partir de quelle case, le vieux sage disposera
+d’au moins 𝑅 grains de riz. Une ébauche de cette fonction
+est donnée ci-contre.
+Recopier et compléter cette fonction afin qu’elle renvoie
+le résultat désiré.
+
+Exercice 2 (5 points)
+
+Une urne contient six jetons rouges dont un est marqué « gagnant » et quatre jetons verts
+dont trois d’entre eux sont marqués « gagnant ».
+On tire au hasard un jeton de l’urne et on note les événements :
+R : « le jeton tiré est rouge »,
+V : « le jeton tiré est vert »,
+G : « le jeton tiré est gagnant ».
+
+1. Modéliser la situation à l’aide d’un arbre de probabilité.
+
+2. Calculer la probabilité de l’événement « le jeton tiré est un jeton vert et marqué gagnant ».
+
+3. Soit 𝑃(𝐺) la probabilité de tirer un jeton gagnant. Montrer que 𝑃(𝐺) = 5 .
+4. Sachant que le jeton tiré est gagnant, calculer la probabilité qu’il soit de couleur rouge.
+5. On tire maintenant, toujours au hasard et simultanément, deux jetons dans l’urne.
+Calculer la probabilité que les deux jetons soient marqués « gagnant ». Expliquer votre
+démarche.
+
+Exercice 3 (5 points)
+
+On considère la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = 𝑥 3 + 7𝑥 2 + 11𝑥 − 19.
+On note 𝐶 sa courbe représentative dans un repère (𝑂; 𝑖⃗, 𝑗⃗) du plan.
+
+1. On note 𝑓′ la fonction dérivée de la fonction 𝑓 sur ℝ. Déterminer l’expression de 𝑓′(𝑥).
+2. Résoudre dans 𝑅 l’inéquation 3𝑥 2 + 14𝑥 + 11 > 0.
+En déduire le tableau de variations de la fonction 𝑓.
+
+3. Déterminer l’équation réduite de la tangente à la courbe 𝐶 au point d’abscisse 0.
+
+4. Justifier que 1 est solution de 𝑥 3 + 7𝑥 2 + 11𝑥 − 19 = 0.
+Vérifier que pour tout réel 𝑥: 𝑓(𝑥) = (𝑥 − 1)(𝑥 2 + 8𝑥 + 19).
+
+5. Étudier le signe de la fonction 𝑓 et en dresser le tableau de signes sur 𝑅.
+
+Exercice 4 (5 points)
+
+Dans un repère orthonormé (𝑂; 𝑖⃗, 𝑗⃗), on considère les points 𝐴(3 ; 1), 𝐵(−3 ; 3) et 𝐶(2 ; 4).
+
+1. Montrer que l’équation 𝑥 + 3𝑦 − 6 = 0 est une équation cartésienne de la droite (𝐴𝐵).
+2. Déterminer une équation cartésienne de la droite 𝑑, perpendiculaire à la droite (𝐴𝐵) et
+passant par le point 𝐶.
+3. En déduire les coordonnées du point 𝐾, projeté orthogonal du point 𝐶 sur la droite (𝐴𝐵).
+4. Calculer la distance 𝐴𝐵 et déterminer les coordonnées du milieu 𝑀 du segment [𝐴𝐵].
+5. En déduire une équation du cercle de diamètre [𝐴𝐵].

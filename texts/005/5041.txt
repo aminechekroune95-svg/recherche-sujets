@@ -1,0 +1,172 @@
+{"pages": 6, "method": "pdftotext", "bytes": 960202, "at": "2026-11-23T08:59:23+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+
+Question 1 : On considère la suite (𝑢𝑛 ) définie par 𝑢0 = 100 et pour tout entier naturel 𝑛,
+
+𝑢𝑛+1 = 𝑢𝑛 − 100 𝑢𝑛 . Quelle est la nature de la suite 𝑢𝑛 ?
+A) géométrique de raison 1
+
+B) arithmétique de raison − 100
+
+C) géométrique de raison 1 et arithmétique de raison − 100
+D) géométrique de raison 0,87
+Question 2 : On considère la variable aléatoire 𝑋 qui prend les valeurs 𝑥𝑖 pour 𝑖 entier
+naturel allant de 1 à 5. La loi de probabilité incomplète de la variable aléatoire 𝑋 est donnée
+ci-dessous :
+𝑋 = 𝑥𝑖
+
+-6
+
+-3
+
+𝑥5
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+0,2
+
+0,1
+
+0,2
+
+0,4
+
+0,1
+
+L’espérance de la variable aléatoire 𝑋 est égale à 0,7.
+Quelle est la valeur 𝑥5 prise par la variable aléatoire 𝑋 ?
+A) 6
+
+B) 1
+
+C) 10
+
+D) 100
+
+2𝑥+3
+
+Question 3 : Soit 𝑓 la fonction dérivable définie sur ] − 3 ; +∞[ par 𝑓(𝑥) = 3𝑥+7 et 𝑓′ sa
+fonction dérivée.
+
+A) 𝑓 ′ (𝑥) = 3
+
+B) 𝑓′(𝑥) = (3𝑥+7)²
+
+C) 𝑓′(𝑥) = (3𝑥+7)2
+
+D) 𝑓′(𝑥) = 3𝑥+7
+
+Question 4 : De 2017 à 2018, le prix d’un article a augmenté de 10 %. En 2019, ce même
+article a retrouvé son prix de 2018. Quelle a été l’évolution du prix entre 2018 et 2019 ?
+A) une baisse de 10 %
+B) une baisse de plus de 10 %
+C) on ne peut pas savoir
+D) une baisse de moins de 10 %
+Question 5 : Soit (𝑢𝑛 ) la suite définie par 𝑢0 = 4 et pour tout entier naturel 𝑛 par
+𝑢𝑛+1 = 3𝑢𝑛 − 5. On souhaite qu’à la fin de l’exécution de l’algorithme, la valeur contenue
+dans la variable 𝑢 soit celle de 𝑢5 . Quel algorithme doit-on choisir ?
+A)
+
+C)
+
+𝑢 = 3∗ 𝑛−5
+
+𝑢 = 3∗𝑢−5
+
+B)
+
+𝑢𝑛+1 = 3 ∗ 𝑢𝑛 − 5
+
+D)
+
+While ≤ 5 :
+𝑢 = 3∗𝑢−5
+
+Exercice 2 (5 points)
+Un restaurant propose à sa carte deux desserts différents :
+
+
+
+le premier dessert est un assortiment de macarons, et est choisi par 40 % des
+clients,
+le second dessert est une part de tarte, et est choisie par 30 % des clients.
+
+Les autres clients ne prennent pas de dessert. Aucun client ne prend plusieurs desserts.
+Le restaurateur a remarqué que parmi les clients ayant pris comme dessert un assortiment
+de macarons, 70 % prennent un café, que parmi les clients ayant pris comme dessert une
+part de tarte, 40 % prennent un café et que parmi les clients n’ayant pas pris de dessert,
+90 % prennent un café. On interroge au hasard un client de ce restaurant.
+On note : ▪ M l’évènement : « Le client prend un assortiment de macarons. »
+▪ T l’évènement : « Le client prend une part de tarte. »
+▪ N l’évènement : « Le client ne prend pas de dessert. »
+▪ C l’évènement : « Le client prend un café. »
+1. Construire un arbre de probabilités décrivant la situation.
+2. Définir par une phrase les probabilités 𝑃(𝑇 ∩ 𝐶) et 𝑃𝐶 (𝑀) (on ne demande pas de les
+calculer).
+3. Calculer 𝑃(𝑇 ∩ 𝐶) puis 𝑃(𝐶).
+4. On rencontre un client ayant pris un café. Quelle est la probabilité qu’il ait pris une part de
+tarte ? On donnera le résultat sous forme d’une fraction irréductible.
+
+Exercice 3 (5 points)
+On appelle orthocentre d’un triangle le point de concours de ses trois hauteurs.
+Dans le plan muni d’un repère orthonormé, on considère les points A(−4; 10), B(8; 16) ,
+C(8; −2), H(2 ;10) et K(5 ;7). (Voir figure ci-dessous)
+
+1. Montrer que ⃗⃗⃗⃗⃗
+𝐴𝐵 ∙ ⃗⃗⃗⃗⃗
+𝐻𝐶 = 0 et que ⃗⃗⃗⃗⃗
+𝐴𝐶 ∙ ⃗⃗⃗⃗⃗⃗
+𝐻𝐵= 0.
+2. Que représente le point H pour le triangle ABC ?
+3. Montrer que K est le centre du cercle passant par les sommets du triangle ABC .
+4. On admet que G, le centre de gravité du triangle ABC, est le point qui vérifie
+⃗⃗⃗⃗⃗
+AG = 3 ⃗⃗⃗⃗⃗⃗
+AM où M est le milieu du segment [BC]. Déterminer les coordonnées de G.
+
+5. Montrer que les points G, H et K sont alignés.
+
+Exercice 4 (5 points)
+Une entreprise produit du tissu.
+Le coût total de production (en €) de l'entreprise est modélisé par la fonction
+C(𝑥) = 15𝑥 3 − 120𝑥 2 + 500𝑥 + 750 où 𝑥 est la longueur de tissu fabriqué exprimée en
+kilomètre, 𝑥 étant compris entre 0 et 10.
+Chaque kilomètre de tissu est vendu 680 €.
+On note 𝐵(𝑥) le résultat de l'entreprise, c’est-à-dire la différence entre la recette et le coût
+de production, pour la vente de 𝑥 kilomètres de tissu.
+1. Quel est le résultat de l’entreprise pour la vente de 3 kilomètres de tissu ?
+2. Montrer que : 𝐵(𝑥) = −15𝑥 3 + 120𝑥 2 + 180𝑥 − 750.
+3. Donner une expression de 𝐵 ′ (𝑥), où 𝐵 ′ est la fonction dérivée de la fonction 𝐵.
+4. Dresser le tableau de signes de 𝐵 ′ (𝑥) sur [0; 10] puis le tableau de variations de la
+fonction 𝐵.
+5. Combien de kilomètres de tissu l’entreprise doit-elle produire afin d’obtenir un résultat
+maximal ?

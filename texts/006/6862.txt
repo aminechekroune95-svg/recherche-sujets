@@ -1,0 +1,198 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1057423, "at": "2026-11-23T08:57:10+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Écrire sous la forme d’une fraction
+irréductible l’expression 6 + 3
+Écrire sous la forme d’une fraction
+2. irréductible
+l’expression 25 × 4
+1.
+
+Écrire sous la forme ab, avec a et b entiers,
+l’expression 25 × 23
+Écrire sous la forme ab, avec a et b entiers,
+4.
+l’expression (35 )4
+3.
+
+5. Résoudre sur R l’équation 9𝑥 − 12 = 0.
+On considère la courbe ci-dessous, représentative d’une fonction 𝑓 définie sur
+l’intervalle
+[−10 ; 10].
+𝒚
+
+Compléter le tableau de
+6. variations, ci-contre, de 𝑓 sur
+[−10 ; 10].
+
+𝒙
+
+𝑥
+
+Variations
+de 𝑓
+
+7.
+
+Compléter le tableau de signes,
+ci-contre de 𝑓 sur [−10 ; 10].
+
+𝑥
+Signe de
+𝑓
+
+Les questions suivantes constituent un questionnaire à choix multiples (QCM). Pour
+chaque question, une seule des quatre réponses proposées est correcte. Pour
+chaque question, reporter la lettre de la réponse dans la colonne de droite. Aucune
+justification n’est demandée. Une réponse incorrecte, multiple ou une absence de
+réponse n’apporte ni ne retire de point.
+L’équation réduite de la droite 𝑑
+représentée ci-contre est :
+
+𝒚
+
+a. 𝑦 = 1,2𝑥 + 4
+b. 𝑦 = −3𝑥 + 4
+c. 𝑦 = −3𝑥 + 1,2
+8.
+
+d. 𝑦 = 4
+𝒙
+
+𝒅
+
+La forme développée de l’expression
+3(𝑥 − 4)(𝑥 + 2) est :
+a. 𝑥 2 − 2𝑥 − 8
+9.
+
+b. 3𝑥 2 − 2𝑥 − 8
+c. 3𝑥 2 − 6𝑥 − 24
+d. 3𝑥 2 − 6𝑥 + 24
+
+Le diagramme en boîte ci-dessous est celui des notes
+entières obtenues en mathématiques par une classe de 36
+élèves.
+
+10.
+a. 19 élèves ont une note inférieure ou égale à 11.
+b. Au moins 27 élèves ont une note inférieure ou égale à
+13.
+c. 25 élèves ont une note strictement supérieure à 8.
+d. Plus de 75% des élèves ont une note supérieure ou
+égale à 12.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+Une entreprise fabrique entre 0 et 8 000 articles par jour.
+Le résultat (différence entre le montant des ventes et le coût de production) de la
+vente de 𝑥 milliers d’articles produits est donné par la fonction 𝑅 définie par :
+𝑅(𝑥) = 2𝑥² + 16𝑥  14
+où 𝑅(𝑥) est exprimé en centaines d’euros et 𝑥 ∈ [0 ; 8].
+ Si 𝑅(𝑥) ≥ 0, l’entreprise est bénéficiaire.
+ Si 𝑅(𝑥) < 0, l’entreprise est déficitaire.
+1. Calculer 𝑅(5).
+En déduire alors le résultat, en euros, réalisé par article lorsque 5000 articles sont
+produits et vendus.
+2. Démontrer que 𝑅(𝑥) = 2(𝑥  1)(𝑥  7).
+3. Dresser, sur [0 ; 8], le tableau de signes de la fonction 𝑅.
+4. En déduire les solutions de l’inéquation 𝑅(𝑥) ≥ 0.
+Interpréter le résultat obtenu dans le cadre de l’exercice.
+5. Déterminer la production permettant de réaliser un résultat maximal.
+Exercice 3 (5 points)
+On étudie la population dans deux quartiers A et B d’une même ville.
+En 2015, les deux quartiers comptaient 1 500 habitants.
+On modélise la population de ces quartiers ainsi :
+ chaque année, la population du quartier A augmente de 250 personnes ;
+ chaque année, la population du quartier B augmente de 10 %.
+Les nuages de points représentés ci-dessous donnent l’évolution de la population
+dans les deux quartiers étudiés.
+En abscisse, on trouve le rang de l’année, l’année 2015 étant considérée comme
+l’année 0.
+En ordonnée, on trouve le nombre d’habitants dans le quartier considéré au 1 er
+janvier de l’année associée.
+
+Graphique G2
+
+Graphique G1
+
+1. Associer chaque nuage au quartier correspondant. Justifier.
+2. Par lecture graphique, déterminer l’année à partir de laquelle la population du
+quartier B
+dépassera 4 500 habitants.
+3. On note 𝑢𝑛 la population du quartier A en (2015 + 𝑛).
+On a donc : 𝑢0 = 1500 et 𝑢𝑛+1 = 𝑢𝑛 + 250 pour tout entier naturel 𝑛.
+a. Donner la nature de la suite (𝑢𝑛 ) et préciser sa raison.
+b. On admet que 𝑢𝑛 = 250𝑛 + 1500, pour tout entier naturel 𝑛.
+Calculer la population de ce quartier en 2034.
+4. On note 𝑣𝑛 la population du quartier B en (2015 + 𝑛).
+On admet que 𝑣𝑛 = 1500  1,10𝑛 pour tout entier naturel 𝑛.
+Comparer la population de ces deux quartiers en 2034.
+Exercice 4 (5 points)
+Les deux parties peuvent être traitées indépendamment.
+Un commerçant spécialisé en photographie numérique propose un modèle d’appareil
+photo numérique et un modèle de carte mémoire compatible avec cet appareil.
+Le commerçant a reporté dans le tableau ci-dessous les ventes de ces deux produits
+sur un samedi donné.
+
+Achète
+un appareil photo
+N’achète pas
+un appareil photo
+Total
+
+Achète
+une carte
+mémoire
+
+N’achète pas
+une carte
+mémoire
+
+Total
+
+On suppose qu’un client achète au plus un appareil photo et au plus une carte
+mémoire.
+Un client choisi au hasard est interrogé à la sortie du magasin.
+On note :
+𝐴 l’évènement : « Le client achète un appareil photo »
+𝐶 l’évènement : « Le client achète une carte mémoire »
+1. Déterminer les probabilités suivantes : P(𝐶) et P(𝐴 ∪ 𝐶).
+2. Le commerçant fait un bénéfice de :
+ 30 € sur la vente de chaque appareil photo ;
+ 4 € sur la vente chaque carte mémoire.
+a. Compléter sur l’annexe, à rendre avec la copie, le tableau donnant la loi de
+probabilité du bénéfice par client.
+Aucune justification n’est attendue.
+b. Montrer que l’espérance du bénéfice par client est 7,36 €.
+La probabilité qu’un client achète un appareil photo est 0,2.
+Trois clients se présentent dans le magasin. On admet que les clients agissent
+indépendamment (achat ou non d’un appareil photo).
+On note toujours 𝐴 l’évènement : « Le client achète un appareil photo ».
+On appelle 𝑋 la variable aléatoire donnant le nombre de clients achetant un appareil
+photo.
+3. Compléter l’arbre de probabilités fourni en annexe.
+4. Calculer la probabilité 𝑃(𝑋 = 1).
+
+Annexe à rendre avec la copie
+
+Exercice 4, question 2.a.
+Aucune justification n’est attendue.
+Bénéfice par client en euro
+
+Probabilité d’obtenir le
+bénéfice
+
+0,6
+
+Exercice 4, question 3.

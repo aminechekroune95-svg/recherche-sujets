@@ -1,0 +1,145 @@
+{"pages": 6, "method": "pdftotext", "bytes": 533605, "at": "2026-11-23T08:57:38+00:00"}
+Mathématiques : PARTIE I
+Exercice 1 : automatismes (5 points)
+Sans calculatrice
+Durée : 20 minutes
+
+Énoncé
+1)
+
+Un objet coûte 500 €. Il augmente de 20 %.
+Quel est son nouveau prix ?
+
+2)
+
+Résoudre dans R l’équation 7𝑥 − 20 = 2𝑥 + 15.
+
+3)
+
+4)
+5)
+6)
+7)
+8)
+
+Réponse
+
+Prix
+(en €)
+Indice
+
+Calculer l’indice correspondant à un prix de 500 €.
+
+Le prix d’une veste est passé de 80 à 64 €.
+Quel pourcentage de réduction a-t-il subi ?
+Un prix augmente de 10 % puis de 20 %.
+Quelle est l’évolution globale de ce prix ?
+Après avoir augmenté le prix d’un article de 20 %, le
+vendeur décide de le baisser de 20 %. Quelle évolution
+aura subi le prix de cet article ?
+Un prix baisse de 50 %.
+Quel est le taux réciproque associé ?
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = 2𝑥 2 − 8.
+Déterminer le ou les antécédents éventuels de −6 par 𝑓.
+Le tableau de signes de
+𝑓(𝑥) est :
+
+9)
+
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = −4𝑥 + 20.
+
+Soit 𝑔 la fonction définie sur R par :
+𝑔(𝑥) = (−4𝑥 + 20)(𝑥 + 6).
+
+10)
+
+Le tableau de signes de
+𝑔(𝑥) est :
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Ambre a été embauchée dans une entreprise de climatisation, le 1 er janvier 2015.
+Elle commence avec un salaire mensuel de 2200 euros, puis son salaire mensuel
+augmente de 2 % chaque premier janvier.
+On modélise son salaire mensuel en euros par une suite 𝑢 où 𝑢(𝑛) correspond au
+salaire au premier janvier de l’année 2015 + 𝑛. Ainsi 𝑢(0) = 2200.
+Ainsi 𝑢(0) = 2200.
+1. Calculer 𝑢(1) et 𝑢(2) .
+2. Exprimer 𝑢(𝑛 + 1) en fonction de 𝑢(𝑛). Quelle est la nature de la suite 𝑢 ?
+3. Calculer le salaire mensuel d'Ambre en 2020, arrondi à l’unité.
+4. Ambre souhaite savoir à partir de quelle année son salaire aura augmenté
+d’au moins 50 % par rapport à son salaire de 2015.
+a) Compléter le programme ci-dessous, écrit en langage Python,
+afin, qu’après exécution, la variable n donne la réponse à la
+question d’Ambre.
+n = 2015
+u = 2200
+while u < ………. :
+n =…………..
+u = …………
+
+b) Déterminer à partir de quelle année le salaire d’Ambre aura
+augmenté d’au moins 50 % par rapport à son salaire de 2015.
+
+Exercice 3 (5 points)
+On veut mesurer la profondeur d'un puits en y lâchant une pierre et en mesurant le
+temps écoulé entre le lâcher de la pierre et la perception par l'opérateur du bruit
+qu'elle fait en touchant le fond du puits.
+Il faut prendre en compte deux phénomènes :
+- D'abord, la pierre met un certain temps pour toucher le fond.
+En chute libre sans vitesse initiale, la distance parcourue par un objet s’exprime,
+
+en fonction du temps, par la formule 𝑑 = 2 𝑔 𝑡² où 𝑡 est le temps exprimé en
+
+-
+
+seconde, 𝑑 la distance exprimée en mètre et 𝑔 l’accélération de la pesanteur sur
+terre exprimée en m. s -2.
+Ensuite, le bruit que fait la pierre en touchant le fond remonte jusqu’à l'opérateur
+à la vitesse 𝑉 du son.
+
+Dans le cas étudié, les conditions expérimentales permettent de se placer dans un
+modèle où 𝑔 = 10 m. s -2 et 𝑉 = 320 m. s -1
+Il s’écoule 4,25 s entre le moment où l’opérateur lâche la pierre et le moment où il
+entend le bruit. On note 𝑡1 le temps mis par la pierre pour tomber au fond du puits et
+𝑡2 , le temps mis par le son pour remonter. On a donc 𝑡1 + 𝑡2 = 4,25.
+On note 𝑙 la profondeur du puits.
+1. Justifier que 𝑙 = 5 𝑡1 ² et que 𝑙 = 320 𝑡2 .
+2. Montrer que l’on a 5 𝑡12 + 320 𝑡1 − 1360 = 0. (On pourra exprimer 𝑡2 en
+fonction de 𝑡1 )
+3. On considère la fonction 𝑃 définie par 𝑃(𝑡) = 5(𝑡 + 68)(𝑡 − 4).
+a) Donner les racines de 𝑃(𝑡) puis développer l’expression 𝑃(𝑡).
+b) En déduire la valeur de 𝑡1 .
+4. Calculer la profondeur du puits.
+
+Exercice 4 (5 points)
+Dans une ville de 100 000 habitants, on s’intéresse au nombre de malades atteints
+de la grippe en 2018, en fonction du temps écoulé depuis l’apparition de l’épidémie
+saisonnière de grippe.
+On admet qu’entre la deuxième et la huitième semaine, la fonction f définie sur [2 ; 8]
+par 𝑓(𝑡) = −10𝑡 3 + 100𝑡 2 − 120𝑡 + 120 modélise le nombre de malades déclarés en
+fonction du nombre 𝑡 de semaine écoulées.
+On donne ci-dessous la courbe représentative 𝐶𝑓 de la fonction 𝑓.
+
+Nombre de malades
+déclarés
+pour 100 000 habitants.
+
+𝐶𝑓
+
+Nombre de
+semaines
+
+1. A l’aide du graphique ci-dessus, répondre aux questions suivantes avec la
+précision permise par le graphique.
+a) Selon ce modèle, quel est le nombre de malades au bout de 4 semaines ?
+b) Déterminer le nombre de semaines pendant lesquelles le nombre de
+malades a été supérieur à 600.
+
+2. Démontrer que 𝑓 ′ (𝑡) = −30(𝑡 − 3)(𝑡 − 6) pour tout 𝑡 de [2 ; 8].
+3. Etudier le signe du polynôme 𝑓′(𝑡) sur [2 ; 8].
+4. Au bout de combien de semaines le pic de l’épidémie (c’est-à-dire le moment
+où le nombre de malades est maximal) a-t-il été atteint ? Quel est alors le
+nombre de malades déclarés ?

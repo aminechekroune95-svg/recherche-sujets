@@ -1,0 +1,245 @@
+{"pages": 7, "method": "pdftotext", "bytes": 694162, "at": "2026-11-23T08:56:36+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+
+Réponse
+
+Donner la solution réelle de l'équation
+1)
+
+𝑥
+
+− 1 = 3.
+
+2)
+
+Donner trois solutions entières de
+l'inéquation −3𝑥 + 6 < 0.
+
+3)
+
+Quel est le nombre de solutions réelles de
+l'équation 𝑥 2 = 8 ?
+Compléter la phrase :
+
+4)
+
+Baisser de 20 % revient à multiplier par
+5)
+
+Etudier le signe de −2𝑥 + 8 en fonction du
+réel 𝑥.
+
+6)
+
+Compléter :
+
+.......
+
+Si 2𝑥 > 3
+Alors 6𝑥 + 1 > …
+
+Pour les questions 7) à 10), une seule réponse est correcte parmi les quatre proposées pour
+chaque énoncé. Compléter le second tableau en indiquant la lettre (soit a, b, c ou d) de la
+réponse correcte. On ne demande pas de justification. Une réponse incorrecte ou une
+absence de réponse ou plusieurs réponses à une question, n’apporte ni ne retire aucun
+point.
+Enoncé
+
+Réponse a
+
+Réponse b
+
+Réponse c
+
+Réponse d
+
+ajouter 0,35
+à cette
+quantité.
+
+multiplier
+cette
+quantité par
+0,65.
+
+multiplier
+cette quantité
+par 1,35.
+
+7)
+
+Augmenter de 35 % multiplier
+une quantité revient cette
+quantité
+à:
+par 0,35.
+
+8)
+
+Le montant d’une
+action est passé de
+15 € à 18 €. Cela
+correspond à une
+hausse de
+
+20 %
+
+3%
+
+1,2 %
+
+Après une réduction
+de 20 %, un article
+est vendu 40 euros.
+Le prix initial était
+
+48 euros
+
+50 euros
+
+60 euros
+
+40,2 euros
+
+299 980
+
+270 000
+
+243 000
+
+240 000
+
+9)
+
+10)
+
+Une population de
+300 000 bactéries
+diminue
+de
+10 % chaque heure.
+Au bout de deux
+heures, elle sera de
+
+Questions
+
+environ
+17 %
+
+Lettre de la réponse correcte
+
+7)
+8)
+9)
+10)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+On considère un jeu pour lequel on a une chance sur cinq de gagner chaque partie. Les
+parties successives sont identiques et indépendantes.
+1. Quelle est la probabilité de perdre une partie à ce jeu ?
+2. Une joueuse joue successivement trois parties.
+On note 𝐺 l’événement « la partie est gagnée par la joueuse ».
+Soit X la variable aléatoire correspondant au nombre de parties gagnées par la joueuse.
+a) Représenter la situation à l’aide d’un arbre de probabilité.
+b) Soit E l’événement « La joueuse gagne la deuxième partie et perd les deux autres ».
+
+Justifier que la probabilité de l’événement 𝐸 est égale à 125.
+c) Calculer P(X = 2).
+d) La probabilité que la joueuse gagne au moins une partie est-elle supérieure à
+Justifier.
+
+?
+
+EXERCICE 3 (5 points)
+Soit 𝑓 la fonction définie sur l’intervalle [0 ; 4] par ∶ 𝑓(𝑥) = −15𝑥(𝑥 − 4).
+On considère la courbe C représentant la fonction 𝑓 dans un repère orthogonal du plan cidessous.
+
+1. Justifier que l’image de 2 par la fonction 𝑓 est égale à 60.
+2. Résoudre dans l’intervalle [0 ; 4 ], l’équation 𝑓(𝑥) = 0.
+3. Sur le graphique donné en feuille annexe à rendre avec la copie, graduer les axes du
+repère en indiquant au moins une graduation sur chaque axe.
+4. Résoudre graphiquement dans [0 ; 4], l’inéquation 𝑓(𝑥) > 45.
+Suite à un accident, un polluant s’est déversé dans une rivière. On admet que 𝑓(𝑥)
+représente la concentration en polluant dans l’eau de la rivière, exprimée en mg/L, où 𝑥 est
+le temps, exprimé en heure, écoulé depuis l’accident avec 𝑥 appartenant à l’intervalle [0 ; 4].
+5. Durant combien de temps, la concentration en polluant a-t-elle dépassé 45 mg/L ?
+
+EXERCICE 4 (5 points)
+L’énergie photovoltaïque voit son coût baisser de façon importante depuis plusieurs années,
+ce qui engendre une croissance forte de ce secteur.
+1. On donne ci-dessous la production des années 2013 à 2015.
+Année
+2013
+2014
+2015
+Production en
+gigawatts (GW)
+Le pourcentage d’augmentation de la production entre 2013 et 2014 est proche de
+29,5 %.
+Déterminer le pourcentage d’augmentation de la production entre 2014
+et 2015 (arrondi au dixième) et comparer ce résultat avec le pourcentage d’évolution de
+la production entre 2013 et 2014.
+2. A partir de 2015, on a supposé que le taux de croissance annuel de la puissance solaire
+photovoltaïque installée dans le monde resterait constant et égal à 30 % pendant
+10 ans. Avec ce modèle, pour tout entier naturel 𝑛, on note 𝑢(𝑛) la puissance solaire
+photovoltaïque, exprimée en GW, installée dans le monde l'année 2015 + 𝑛.
+On a ainsi 𝑢(0) = 233. On obtient 𝑢(1) égal à 302,9.
+a) Calculer et interpréter 𝑢(2) dans le contexte de l’exercice.
+b) Ecrire une relation entre 𝑢(𝑛 + 1) et 𝑢(𝑛), valable pour tout entier naturel 𝑛.
+c) Sur la feuille annexe à rendre avec la copie, compléter le
+
+def production(𝑛):
+
+script, écrit en langage Python, définissant la fonction
+
+k=0
+
+production renvoyant la valeur 𝑢(𝑛) pour un entier naturel
+
+u = 233
+
+𝑛.
+
+while k < 𝑛:
+
+d) En 2018, la puissance installée mondiale en matière de
+
+u = .........
+
+solaire photovoltaïque s’élevait dans le monde à environ
+
+k = ……….
+
+512 GW. Est-ce cohérent avec le modèle proposé par la
+suite 𝑢 ?
+
+return u
+
+Annexe à rendre avec la copie
+
+EXERCICE 3
+Question 2. Graduer les axes du repère en indiquant au moins une graduation sur chaque
+axe.
+
+EXERCICE 4
+Question 2. c) Compléter les deux lignes
+incomplètes du script suivant.
+
+def production(𝑛):
+k=0
+u = 233
+while k < 𝑛:
+u = .........
+k = ……….
+return u

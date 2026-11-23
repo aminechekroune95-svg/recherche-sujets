@@ -1,0 +1,162 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1254413, "at": "2026-11-23T08:53:01+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+Dans cet exercice, il n’est pas demandé de justification. Répondre à chaque énoncé dans la
+colonne de droite du tableau.
+Question
+n°
+
+Énoncé
+
+Diminuer un prix de 20% revient à le
+multiplier par :
+
+Un chemisier coûte 60 €.
+Après réduction de 20%, il coûtera :
+
+Réponse
+
+Augmenter une quantité de 25% puis de
+10% revient à l’augmenter de :
+
+Un prix baisse de 50%.
+Quel doit être le pourcentage de hausse
+pour revenir au prix initial ?
+Le chiffre d’affaires d’une entreprise
+augmente de 10% par an depuis 2010. On
+modélise le chiffre d’affaires par une suite
+(𝐶𝑛 ).
+Cette suite est-elle arithmétique,
+géométrique ou ni arithmétique, ni
+géométrique ?
+
+Dresser sur R le tableau de signes de
+l’expression
+4𝑥 − 8
+
+Dresser sur R le tableau de signes de
+l’expression factorisée 3(𝑥 − 1)(𝑥 + 2)
+
+Déterminer la fonction dérivée de la
+fonction 𝑓 définie sur R par
+𝑓(𝑥) = 3𝑥 2 − 4𝑥 + 1
+
+On considère la courbe représentative de
+la fonction 𝑓 définie sur ]0; +∞[ par
+𝑓(𝑥) = 𝑥.
+Calculer le coefficient directeur de la
+tangente à cette courbe au point
+d’abscisse 1.
+
+Résoudre dans R l’équation 𝑥 2 = 100
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie se compose de trois exercices indépendants.
+Exercice 2 (5 points)
+Deux sociétés A et B sont spécialisées dans la vente de matériels de sport sur Internet.
+En 2014, le chiffre d’affaires de la société A est de 27 000 000 € et celui de la société B est de
+20 000 000 €.
+En 2016, le chiffre d’affaires de la société A est de 30 200 000 € et celui de la société B est de
+23 762 000 €.
+On note (𝑎𝑛 ) la suite modélisant le chiffre d’affaires de la société A et (𝑏𝑛 ) celui de la société
+B. Pour tout entier naturel 𝑛, 𝑎𝑛 représente donc le chiffre d’affaires, en millions d’euro, de
+l’entreprise A l’année 2014 + 𝑛 et 𝑏𝑛 représente celui de l’entreprise B l’année 2014 + 𝑛.
+On a ainsi 𝑎0 = 27 et 𝑏0 = 20.
+On admet que la suite (𝑎𝑛 ) est arithmétique et que la suite (𝑏𝑛 ) est géométrique.
+1. D’après les données de l’énoncé, préciser la valeur de 𝑎2 et de 𝑏2 .
+On a représenté ci-dessous les deux suites (𝑎𝑛 ) et (𝑏𝑛 ).
+
+2. L’une des deux suites est représentée par des points symbolisés par des carrés. Indiquer,
+sans justification, s’il s’agit de la suite (𝑎𝑛 ) ou de la suite (𝑏𝑛 ).
+3. Déterminer, avec la précision permise par le graphique l’année, à partir de laquelle le
+chiffre d’affaires de la société A deviendra supérieur à 35 millions d’euros et celle ou celui
+de la société B deviendra supérieur à 35 millions d’euros.
+4. On note 𝑟 la raison de la suite (𝑎𝑛 ).
+En utilisant 𝑎0 et 𝑎2 , déterminer 𝑟.
+Dans la suite de l’exercice, on admet que la raison de la suite (𝑏𝑛 ) vaut 1,09.
+5. Voici un programme écrit dans le langage Python.
+
+La fonction « Compare » renvoie la valeur 8 après son exécution. Interpréter cette valeur
+dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Le tableau suivant donne l’évolution de la population d’un village entre 2012 et 2019.
+Année
+Rang 𝑥𝑖
+Effectif 𝑦𝑖
+
+2012
+1 660
+
+2013
+1 810
+
+2014
+1 980
+
+2015
+2 170
+
+2016
+2 350
+
+2017
+2480
+
+2018
+2 650
+
+2019
+2 850
+
+1. a) Donner le pourcentage d’évolution, arrondi à l’entier le plus proche, de l’effectif du
+village de 2012 à 2019.
+b) En déduire le taux d’évolution moyen sur cette période.
+Une représentation graphique du nuage de points de coordonnées (𝑥𝑖 ; 𝑦𝑖 ), pour 𝑖 variant de
+1 à 9, est donnée en annexe à rendre avec la copie.
+2. À l’aide de la calculatrice, déterminer une équation de la droite d’ajustement de 𝑦 en 𝑥
+obtenue par la méthode des moindres carrés. Les coefficients seront arrondis au dixième.
+3. On décide d’ajuster le nuage de points par la droite (D) d’équation :
+𝑦 = 169𝑥 + 1483
+Déterminer les coordonnées de deux points de la droite (D) puis tracer cette droite dans le
+repère donné en annexe.
+4. Selon ce modèle, calculer l’effectif de la population prévu pour l’année 2022.
+
+Exercice 4 (5 points)
+Un placement est réalisé au taux annuel de 4,5%. L’évolution de la valeur du capital placé,
+exprimée en euros, peut être modélisée par la fonction 𝑓 définie sur l’intervalle [0 ; +∞[
+par 𝑓(𝑥) = 800 × 1,045𝑥 où 𝑥 désigne la durée du placement, exprimée en années.
+Voici la courbe représentative de cette fonction sur l’intervalle [0 ; 20].
+
+1. Déterminer la valeur du capital initial.
+2. Déterminer, avec la précision permise par le graphique, le montant du capital au bout de 9
+ans.
+3. Calculer, au centime d’euro près, le capital dont on disposera au bout de 21 ans.
+4. On souhaite déterminer le nombre d’années nécessaires pour doubler le capital initial.
+a) Résoudre, pour 𝑥 ≥ 0, l’inéquation 800 × 1,045𝑥 ≥ 1600.
+b) En déduire, le nombre d’années qu’il faut attendre pour doubler le capital initial.
+
+ANNEXE – Exercice 3 à rendre avec la copie

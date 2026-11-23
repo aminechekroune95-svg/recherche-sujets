@@ -1,0 +1,170 @@
+{"pages": 7, "method": "pdftotext", "bytes": 638291, "at": "2026-11-23T08:56:37+00:00"}
+Partie I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Réponse
+
+1)
+
+Écrire 28 × 5 sous forme d’une fraction
+
+2)
+
+Compléter l’égalité :
+
+3)
+
+Donner l’écriture scientifique du nombre
+25 × 10−4 × 2 × 3 × 105
+
+4)
+
+Durée : 20 minutes
+
+irréductible.
+
+Pour les questions 4), 5) et 6), on a représenté
+graphiquement ci-dessous dans un repère
+orthonormé du plan une fonction 𝑓 définie sur
+[−3 ; 4].
+
+2527 cm² = ………. m².
+
+Dans [−3 ; 4] , deux solutions
+entières de l’inéquation 𝑓(𝑥) ≤ 0
+sont …….. et …… .
+
+Dans [−3 ; 4] , le nombre de
+solutions de l’équation
+𝑓(𝑥) = 4
+est …….
+
+5)
+
+𝑓(3) = ⋯
+
+6)
+
+Compléter les phrases suivantes :
+
+7)
+
+Camille effectue 8 km en quarante minutes.
+Quelle est la vitesse moyenne en km/h de
+Camille pendant ce parcours ?
+
+8)
+
+Développer et réduire (−𝑥 + 3) × (𝑥 − 2).
+
+Soient trois nombres strictement positifs 𝑔, ℎ et
+
+9)
+
+𝑡 tels que ℎ = 2 𝑔 𝑡 2 .
+Exprimer 𝑡 en fonction de 𝑔 et de ℎ.
+
+Dans un repère du plan, déterminer l’équation
+10) réduite de la droite passant par les points de
+coordonnées respectives (0 ; −5) et (5 ; 70).
+
+Partie II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+On considère un jeu pour lequel on a une chance sur cinq de gagner chaque partie. Les
+parties successives sont identiques et indépendantes.
+1. Quelle est la probabilité de perdre une partie à ce jeu ?
+2. Une joueuse joue successivement trois parties.
+On note 𝐺 l’événement « la partie est gagnée par la joueuse ».
+Soit X la variable aléatoire correspondant au nombre de parties gagnées par la joueuse.
+a) Représenter la situation à l’aide d’un arbre de probabilité.
+b) Soit E l’événement « La joueuse gagne la deuxième partie et perd les deux autres ».
+Justifier que la probabilité de l’événement 𝐸 est égale à .
+
+c) Calculer P(X = 2).
+d) La probabilité que la joueuse gagne au moins une partie est-elle supérieure à
+Justifier.
+
+?
+
+EXERCICE 3 (5 points)
+Soit 𝑓 la fonction définie sur l’intervalle [0 ; 4] par ∶ 𝑓(𝑥) = −15𝑥(𝑥 − 4).
+On considère la courbe C représentant la fonction 𝑓 dans un repère orthogonal du plan cidessous.
+
+1. Justifier que l’image de 2 par la fonction 𝑓 est égale à 60.
+2. Résoudre dans l’intervalle [0 ; 4 ], l’équation 𝑓(𝑥) = 0.
+3. Sur le graphique donné en feuille annexe à rendre avec la copie, graduer les axes du
+repère en indiquant au moins une graduation sur chaque axe.
+4. Résoudre graphiquement dans [0 ; 4], l’inéquation 𝑓(𝑥) > 45.
+Suite à un accident, un polluant s’est déversé dans une rivière. On admet que 𝑓(𝑥)
+représente la concentration en polluant dans l’eau de la rivière, exprimée en mg/L, où 𝑥 est
+le temps, exprimé en heure, écoulé depuis l’accident avec 𝑥 appartenant à l’intervalle [0 ; 4].
+5. Durant combien de temps, la concentration en polluant a-t-elle dépassé 45 mg/L ?
+
+EXERCICE 4 (5 points)
+L’énergie photovoltaïque voit son coût baisser de façon importante depuis plusieurs années,
+ce qui engendre une croissance forte de ce secteur.
+1. On donne ci-dessous la production des années 2013 à 2015.
+Année
+2013
+2014
+2015
+Production en
+gigawatts (GW)
+Le pourcentage d’augmentation de la production entre 2013 et 2014 est proche de
+29,5 %.
+Déterminer le pourcentage d’augmentation de la production entre 2014
+et 2015 (arrondi au dixième) et comparer ce résultat avec le pourcentage d’évolution de
+la production entre 2013 et 2014.
+2. À partir de 2015, on a supposé que le taux de croissance annuel de la puissance solaire
+photovoltaïque installée dans le monde resterait constant et égal à 30 % pendant
+10 ans. Avec ce modèle, pour tout entier naturel 𝑛, on note 𝑢(𝑛) la puissance solaire
+photovoltaïque, exprimée en GW, installée dans le monde l'année 2015 + 𝑛.
+On a ainsi 𝑢(0) = 233. On obtient 𝑢(1) égal à 302,9.
+a) Calculer et interpréter 𝑢(2) dans le contexte de l’exercice.
+b) Ecrire une relation entre 𝑢(𝑛 + 1) et 𝑢(𝑛), valable pour tout entier naturel 𝑛.
+c) Sur la feuille annexe à rendre avec la copie, compléter
+le script, écrit en langage Python, définissant la fonction
+
+def production(𝑛):
+
+production renvoyant la valeur 𝑢(𝑛) pour un entier
+
+k=0
+u = 233
+
+naturel 𝑛.
+d) En 2018, la puissance installée mondiale en matière de
+solaire photovoltaïque s’élevait dans le monde à environ
+512 GW. Est-ce cohérent avec le modèle proposé par la
+suite 𝑢 ?
+
+while k < 𝑛:
+u = .........
+k = ……….
+return u
+
+Annexe à rendre avec la copie
+
+EXERCICE 3
+Question 2. Graduer les axes du repère en indiquant au moins une graduation sur chaque
+axe.
+
+EXERCICE 4
+Question 2. c) Compléter les deux lignes incomplètes du
+script suivant.
+
+def production(𝑛):
+k=0
+u = 233
+while k < 𝑛:
+u = .........
+k = ……….
+return u

@@ -1,0 +1,187 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1234989, "at": "2026-11-23T08:58:40+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☒ Ce sujet contient une pièces jointes de type programme Python, qui nécessite une passation sur
+ordinateur.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+1.
+
+Développer et réduire l’expression (𝑥 − 2)².
+
+2.
+
+Lors des soldes, le prix d’un article passe de 70 € à 28 €.
+Déterminer le pourcentage de baisse de ce prix.
+
+Réponse
+
+La droite
+est la représentation graphique d’une
+fonction affine définie sur ℝ.
+
+3.
+
+Par lecture graphique, déterminer l’équation réduite de
+la droite .
+Pour les questions 4 et 5, on considère la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = −5𝑥 + 2 et D la
+droite représentant cette fonction.
+
+4.
+
+5.
+
+Dresser le tableau de signes de la fonction 𝑓 .
+
+Calculer l’abscisse du point de la droite D qui a pour
+
+ordonnée 3 .
+
+Soit la fonction 𝑓 définie sur [−1; 3] dont la courbe
+représentative est donnée ci-contre.
+6.
+
+Par lecture graphique, dresser ci-dessous le tableau de
+variations de la fonction 𝑓 sur l’intervalle [−1 ; 3]
+
+7.
+
+Dans une classe de 32 élèves, 8 élèves étudient
+l’anglais.
+Quelle est la part, en pourcentage, des élèves étudiant
+l’anglais dans cette classe ?
+
+8.
+
+Calculer la somme 4 + 5. Donner la réponse sous la
+
+forme d’une fraction irréductible.
+
+9.
+
+Résoudre dans ℝ l’équation : 3𝑥 + 2 = −𝑥 + 1.
+
+10.
+
+La distance entre la terre et la lune est environ égale à
+est 384 400 km.
+Écrire cette distance en écriture scientifique.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+L’Institut national de prévention et d’éducation pour la santé (INPES) a pour mission de
+mettre en œuvre, entre autres, des moyens de prévention et d’éducation pour la santé
+publique.
+Pour lutter contre le tabagisme, l’INPES étudie la consommation de tabac au fil des ans.
+Une étude statistique montre qu’on peut modéliser le nombre moyen de cigarettes
+manufacturées par personne et par jour pour les années de 1900 à 2000 à l’aide de la
+fonction 𝑓 définie sur [0 ; 100] par :
+𝑓(𝑡) = −0,00004𝑡 3 + 0,0045𝑡² + 0,6
+où 𝑡 est le temps écoulé en années depuis le 1er janvier 1900. Par exemple, le nombre
+moyen de cigarettes manufacturées par personne et par jour en 1995 est donné par 𝑓(95).
+1. On note 𝑓′ la fonction dérivée de la fonction 𝑓 sur l’intervalle [0 ; 100].
+a. Calculer 𝑓 ′ (𝑡) pour 𝑡 ∈ [0 ; 100].
+b. Démontrer que, pour tout réel 𝑡 de l’intervalle [0 ; 100] on a :
+𝑓 ′ (𝑡) = −0,00012𝑡(𝑡 − 75)
+2.
+a. Étudier le signe de 𝑓 ′ (𝑡) sur l’intervalle [0 ; 100].
+b. Construire le tableau de variations de la fonction 𝑓 sur l’intervalle [0 ; 100].
+3. Un responsable annonce que depuis 1990, le nombre moyen de cigarettes manufacturées
+par personne et par jour est passé en-dessous de 8. L’annonce de ce responsable est-elle
+vraie ?
+
+Exercice 3 (5 points)
+Soit la fonction 𝑓 définie sur l’intervalle [1 ; 3] par 𝑓(𝑥) = 𝑥 3 − 𝑥² − 𝑥 − 1.
+On donne le tableau de variations de 𝑓 sur [1 ; 3].
+𝑥
+
+𝑓(𝑥)
+−2
+On admet que l’équation 𝑓(𝑥) = 0 admet une unique solution 𝛼 sur l’intervalle [1 ; 3].
+On souhaite déterminer une valeur approchée de 𝛼 grâce à un algorithme de dichotomie.
+1. Calculer 𝑓(2) et en déduire que la valeur de 𝛼 appartient à l’intervalle [1 ; 2].
+2. Cette question suivante est à traiter à l’aide d’un ordinateur et de Python.
+Ouvrir le fichier Sujet 9 exercice 3 algo a completer.py puis compléter les lignes 3 et 8 du
+programme.
+3. Donner une interprétation de la ligne 9 du programme.
+4. Quelle valeur contient la variable approchealpha à l’issue de l’exécution du programme ?
+Interpréter cette valeur dans le contexte de l’exercice.
+5. Modifier le programme afin qu’il détermine une valeur approchée de 𝛼 au millième près.
+
+Exercice 4 (5 points)
+L’INSEE (Institut national de la statistique et des études économiques) publie tous les ans le
+nombre d’actifs et d’inactifs en France.
+Le tableau ci-dessous donne la répartition de la population active et inactive (en milliers) en
+France en 2016.
+Population
+(en milliers)
+
+Femmes
+
+Hommes
+
+Total
+
+Actifs
+
+14 224
+
+15 332
+
+29 556
+
+Inactifs
+
+13 334
+
+9 952
+
+23 286
+
+Total
+
+27 558
+
+25 284
+
+52 842
+Source : INSEE
+
+1. Quelle était, en 2016, la proportion de personnes actives parmi les femmes ? On donnera le
+résultat sous la forme d’un pourcentage arrondi à 0,1 %.
+2. En France, en 2016, les femmes actives de 15-24 ans représentaient 9 % des femmes actives.
+Quel était, en milliers, le nombre de femmes actives de 15-24 ans cette année-là ?
+3. On choisit au hasard et de manière équiprobable une personne en France en 2016. On
+considère les événements suivants :
+ F : « La personne choisie est une femme ».
+ A : « La personne choisie est active ».
+Dans la suite de cet exercice, les résultats des calculs sont à arrondir au centième.
+a. Calculer la probabilité de l’événement F.
+b. Décrire par une phrase l’événement 𝐹 ∩ 𝐴, puis calculer sa probabilité.
+c. Calculer la probabilité qu’on ait choisi un homme sachant que la personne choisie est
+inactive.

@@ -1,0 +1,175 @@
+{"pages": 5, "method": "pdftotext", "bytes": 654846, "at": "2026-11-23T08:57:29+00:00"}
+PARTIE I
+Exercice 1 : Automatismes (5 points) Sans calculatrice
+Énoncé
+
+Réponse
+
+1)
+
+La distance entre la Terre et la Lune est de
+384 400 km. Donner cette distance en mètre.
+
+2)
+
+8 élèves ont obtenu la mention très bien au
+baccalauréat dans une classe de 25 élèves. Quelle
+est la proportion, en pourcentage, des mentions très
+bien dans la classe ?
+
+3)
+
+Quel nombre faut-il ajouter à 3 pour obtenir 2 ?
+
+4)
+
+Donner 25% de 120.
+
+5)
+
+Écrire sous la forme 7𝑛 , où 𝑛 est un entier naturel,
+le nombre : (73 )2 × 75 .
+
+6)
+
+Durée : 20 minutes
+
+Calculer et mettre sous la forme d’une fraction
+irréductible le nombre :
+
+× 14.
+
+7)
+
+À partir de la formule 𝑑 = 2 𝑔𝑡 2 , donner une
+
+8)
+
+Factoriser l’expression :
+
+(2𝑥 − 3) − 4𝑥(2𝑥 − 3).
+
+9)
+
+Développer l’expression :
+
+(5𝑥 − 2)2.
+
+expression de 𝑔 .
+
+𝐶𝑓 est la courbe représentative de la fonction f
+10) définie sur R par :
+𝑓(𝑥) = −𝑥 2 + 𝑥 + 1.
+Déterminer l’ordonnée du point de 𝐶𝑓 d’abscisse 2.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Une entreprise doit contracter un emprunt d’un montant de 100 000 euros.
+Elle contacte deux banques, la banque A et la banque B, qui lui proposent toutes les
+deux un prêt à rembourser sur 7 ans.
+On donne ci-contre, dans une feuille
+A
+B
+C
+tableur, quelques-uns des montants
+𝑢𝑛
+𝑣𝑛
+annuels à rembourser selon le prêt choisi.
+𝑛
+(banque A) (banque B)
+Ces montants sont arrondis au centime.
+Pour la banque A, le montant à
+rembourser chaque année (exprimé en
+euro) au 1er janvier de l'année 2020 + 𝑛
+est modélisé par le terme de rang 𝑛 d’une
+suite arithmétique (𝑢𝑛 ) de premier terme
+𝑢0 = 20 000.
+Pour la banque B, le montant à
+rembourser chaque année (exprimé en
+euro) augmente de 2% par an. Le
+montant à rembourser au 1er janvier de
+l'année 2020 + 𝑛 est modélisé par le
+terme de rang 𝑛 d’une suite (𝑣𝑛 ) de
+premier terme 𝑣0 = 20 000.
+
+20 000
+
+20 000
+
+21 800
+
+23 600
+
+25 400
+
+21 648,64
+
+22 081,62
+
+22 523,25
+
+10 Total
+
+148 685,67
+
+1. Déterminer la raison de la suite (𝑢𝑛 ).
+2. Montrer que 𝑣1 = 20 400.
+3. Donner la nature et la raison de la suite (𝑣𝑛 ). Justifier.
+4. Quelle formule faut-il entrer dans la cellule B6 pour compléter par recopie
+vers le bas les cellules B7 et B8 ?
+5. Quelle banque propose à l’entreprise la solution la plus avantageuse?
+Justifier.
+
+EXERCICE 3 (5 points)
+Un artisan fabrique chaque semaine des bijoux fantaisie qu’il vend le dimanche sur
+un marché. Il fabrique chaque semaine au maximum 40 bijoux.
+1. On modélise le coût de fabrication par semaine (exprimé en euro) de 𝑥 bijoux
+à l’aide de la fonction 𝐶 définie sur l’intervalle [0;40] par
+𝐶(𝑥) = 0,1𝑥 2 + 2𝑥 + 27,5.
+Quel est le coût de fabrication de 27 bijoux ?
+2. On considère la fonction 𝐵 définie sur R par : 𝐵(𝑥) = −0,1𝑥 2 + 6𝑥 − 27,5.
+a) Montrer que pour tout réel 𝑥 : 𝐵(𝑥) = −0,1(𝑥 − 5)(𝑥 − 55).
+b) Déterminer le signe de 𝐵(𝑥) sur R.
+3. On considère le résultat financier (bénéfice ou perte), en euro, de l’artisan
+résultant de la fabrication et de la vente de 𝑥 bijoux, pour 𝑥 entier compris
+entre 0 et 40.
+On admet qu’il est modélisé par le nombre 𝐵(𝑥).
+a) Combien de bijoux doit fabriquer l’artisan pour réaliser un bénéfice, c’est-àdire un résultat positif ? Justifier.
+b) L’une des 3 courbes ci-dessous représente le résultat financier de l’artisan.
+Préciser laquelle, en justifiant, et estimer le bénéfice maximal réalisé par
+l’artisan.
+Courbe 1
+
+Courbe 2
+
+Courbe 3
+
+EXERCICE 4 (5 points)
+On a tracé ci-dessous dans un repère orthogonal, la courbe 𝐶𝑓 d’une fonction 𝑓
+définie et dérivable sur l’intervalle [0; 8] ainsi que trois de ses tangentes. On note 𝑓′
+la fonction dérivée de 𝑓.
+
+-
+
+La courbe 𝐶𝑓 passe par les points
+A(2;6), B(6;-2) et C(4;2).
+La tangente au point A est parallèle
+à l’axe des abscisses.
+La tangente au point B est parallèle
+à l’axe des abscisses.
+La tangente au point C est la droite
+(CD), avec D(6;-4).
+
+1. Déterminer graphiquement le nombre de solutions de l’équation 𝑓(𝑥) = 0 dans
+l’intervalle [0 ;8]. Expliquer la démarche.
+2. Déterminer graphiquement les nombres dérivés 𝑓′(2) et 𝑓 ′ (4). Expliquer la
+démarche conduisant à 𝑓 ′ (4).
+3. Résoudre graphiquement l’inéquation 𝑓 ′ (𝑥) ≤ 0 dans l’intervalle [0 ;8].
+Expliquer la démarche.
+4. On admet que la fonction 𝑓 est définie sur l’intervalle [0; 8] par :
+𝑓(𝑥) = 0,25𝑥 3 − 3𝑥 2 + 9𝑥 − 2
+a) Déterminer 𝑓′(𝑥) pour 𝑥 appartenant à [0 ;8].
+b) Déterminer l’équation réduite de la tangente à la courbe 𝐶𝑓 en son point
+d’abscisse 1.

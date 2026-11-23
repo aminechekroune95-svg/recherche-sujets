@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Tout pour réviser les E3C du Bac">
+  <meta name="google-site-verification" content="iYhC6AVy5EeW8O7t4qT9dvAQhUHNqPXvRBAyBq-qShU" />
+  <meta property="fb:app_id" content="211096316065594" />
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="shortcut icon" type="image/png" href="/img/icons/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="57x57"   href="/img/icons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60"   href="/img/icons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72"   href="/img/icons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76"   href="/img/icons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/img/icons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/img/icons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/img/icons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/img/icons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/img/icons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32"    href="/img/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96"    href="/img/icons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16"    href="/img/icons/favicon-16x16.png">
+  <link rel="manifest" href="/img/icons/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/img/icons/ms-icon-144x144.png">
+
+  <title>Sujets BNS 2022-2023 pour l'Éval Première | CCBac.fr</title>
+
+  <link href="/vendor/bootstrap/css/bootstrap.min.css?v=2" rel="stylesheet">
+  <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="/vendor/datatables/datatables.bs4.min.css" rel="stylesheet" type="text/css">
+
+  <link href="/css/main.css?t=1553320137" rel="stylesheet">
+  <link href="/css/mapAca.css?t=1526905114" rel="stylesheet">
+
+</head>
+
+<body class="fixed-nav sticky-footer bg-dark" id="page-top">
+<!-- Navigation-->
+
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <a class="navbar-brand" href="/index.php"><img id="navLogo" src="/img/icons/logo_64.png" height="32"/> CCBac 2026</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Ensemble de la banque de sujets">
+            <a class="nav-link" href="/list.php">
+                <i class="fa fa-fw fa fa-list"></i>
+                <span class="nav-link-text">
+                Tous les sujets              </span>
+            </a>
+        </li>
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Nouveautés sur le site...">
+          <a class="nav-link" href="/news.php">
+            <i class="fa fa-fw fa fa-gears"></i>
+            <span class="nav-link-text">Actualités</span>
+          </a>
+        </li>
+<!--
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Besoin d'aide?">
+          <a class="nav-link" href="/aide.php">
+            <i class="fa fa-fw fa-question-circle"></i>
+            <span class="nav-link-text">Aide</span>
+          </a>
+        </li>
+-->
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Statistiques du site">
+          <a class="nav-link" href="/stats.php">
+            <i class="fa fa-line-chart"></i>
+            <span class="nav-link-text">Statistiques</span>
+          </a>
+        </li>
+
+        <li class="nav-item" data-toggle="tooltip" data-placement="right" title="À propos">
+          <a class="nav-link" href="/about.php">
+            <i class="fa fa-fw fa-info"></i>
+            <span class="nav-link-text">À propos...</span>
+          </a>
+        </li>
+
+      </ul>
+      <ul class="navbar-nav sidenav-toggler">
+        <li class="nav-item">
+          <a class="nav-link text-center" id="sidenavToggler">
+            <i class="fa fa-fw fa-angle-left"></i>
+          </a>
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item">
+        </li>
+
+        <li class="nav-item">
+          <form method="get" action="/searchresults.php" id="search">
+            <div class="input-group">
+              <input type="text" placeholder="Rechercher un sujet (nom / ID)" name="searchStr" class="top-search-bar">
+              <span class="input-group-append">
+                <button class="btn btn-primary" type="button" onclick="document.forms[0].submit();" style="height: 30px;">
+                  <i class="fa fa-search" style="width: 30px; height: 30px; position: relative; top: -5px;"></i>
+                </button>
+              </span>
+            </div>
+          </form>
+        </li>
+
+      </ul>
+
+
+    </div>
+  </nav>
+<div class="content-wrapper">
+    <div class="container-fluid">
+        <!-- Fil d'ariane-->
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/index.php">Accueil </a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2023">Éval 2023</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2023&voie=1">Voie Générale</a></li>
+            <li class="breadcrumb-item"><a href="/list.php?an=2023&voie=1&session=2">Première</a></li>
+            <li class="breadcrumb-item active">HGGSP</a></li>        </ol>
+        <div class="row">
+            <div class="col-12">
+                <div id="listeaca_btns">
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Sujets</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none; " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">Éval 2023</a>                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Autre</button>
+                      <div class="dropdown-menu">
+                      <h6 class="dropdown-header">Choix sujets</h6>
+                      <a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2026">Éval 2026</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2025">Éval 2025</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2024">Éval 2024</a><a class="dropdown-item active" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">Éval 2023</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2022">Éval 2022</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2021">EC 2021</a><a class="dropdown-item " href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2020">E3C 2020</a>                      </div>
+                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+                    
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Voie</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">G</a><a class="btn btn-info" href="list.php?session=2&amp;voie=2&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">T</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                  <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">Session</button>
+                    <a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">1ʳᵉ</a><a class="btn btn-info" href="list.php?session=3&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">Tˡᵉ</a><a class="btn btn-info" href="list.php?session=4&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">Cʸᶜˡ</a>                    </div>
+                    <span class="d-none d-md-inline">&nbsp;</span>
+
+                    <div class="btn-group" role="group">
+                    <button class="btn disabled" style="border: 1px solid grey;">TC</button>
+                    <a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=2&amp;opt=0&amp;epr=0&amp;an=2023">HG</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=3&amp;opt=0&amp;epr=0&amp;an=2023">LVA/B</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=6&amp;opt=0&amp;epr=0&amp;an=2023">Science</a></div> <div class="btn-group" role="group" style="display: inline-block"><a class="btn disabled" style="border: 1px solid grey;">Spé</button><a class="btn btn-info active" style="font-weight: bold; pointer-events: none;" href="list.php?session=2&amp;voie=1&amp;mat=13&amp;opt=0&amp;epr=0&amp;an=2023">HGGSP</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=14&amp;opt=0&amp;epr=0&amp;an=2023">HLP</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=23&amp;opt=0&amp;epr=0&amp;an=2023">LLCA</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=15&amp;opt=0&amp;epr=0&amp;an=2023">LLCER</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=1&amp;opt=0&amp;epr=0&amp;an=2023">Maths</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=26&amp;opt=0&amp;epr=0&amp;an=2023">NSI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=30&amp;opt=0&amp;epr=0&amp;an=2023">PC</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=29&amp;opt=0&amp;epr=0&amp;an=2023">SES</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=28&amp;opt=0&amp;epr=0&amp;an=2023">SI</a><a class="btn btn-info" href="list.php?session=2&amp;voie=1&amp;mat=27&amp;opt=0&amp;epr=0&amp;an=2023">SVT</a>                    </div>
+
+                                        
+                    
+                    </div>
+                  </div>
+                </div>
+                <hr>
+                <p>
+                    <b>Légende</b> :<br class="d-sm-none">
+                    <span class="badge badge-success">C</span> = <span class="badge badge-success">Correction</span> = Correction dispo<br class="d-sm-none">
+                    <span class="badge badge-warning">A</span> = <span class="badge badge-warning">Autre</span> = Correction pour autre version sujet<br class="d-sm-none">
+                </p>
+                <!-- DEBUT TABLEAU-->
+                                <div class="card mb-3">
+                    <div class="card-header d-xs-none">
+                        <i class="fa fa-table"></i> <b>Liste des sujets BNS 2022-2023 pour l'Éval Première</b> : Histoire Géographie, Géopolitique et Sciences Politiques                         - 50 sujets                                                <div id="dataTable_filter_custom" class="dataTables_filter"><label><input type="search" class="form-control form-control-sm" placeholder="Filtre..."></label></div>
+                    </div>
+                                        <div class="card-body" style="padding:0;">
+                        <div class="table-responsive" style="overflow-y:hidden;">
+                            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                <thead><tr><th>&nbsp;</th><th class="d-none d-xl-table-cell">&nbsp;</th><th class="d-none d-lg-table-cell"></th><th></th><th class="d-none d-sm-table-cell"></th></tr><thead><tr><th>N°</th><th class="d-none d-xl-table-cell">Màj</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr><tfoot><tr><th>N°</th><th class="d-none d-xl-table-cell">Màj</th><th class="d-none d-lg-table-cell">Corrigé</th><th>Titre</th><th class="d-none d-sm-table-cell">Thème</th></tr>                                <tbody>
+                                <tr><td><a href="/voir.php?id=11031">015&#8209;03042</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11031">Comment sont contr&ocirc;l&eacute;es les fronti&egrave;res de l&rsquo;Union europ&eacute;enne ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11032">014&#8209;03043</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11032">Quelles formes peuvent prendre les fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11033">014&#8209;03044</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11033">Quelles peuvent &ecirc;tre les limites de la d&eacute;mocratie repr&eacute;sentative ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11034">013&#8209;03045</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11034">Comment l&rsquo;Union europ&eacute;enne transforme-t-elle ses fronti&egrave;res internes ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11035">013&#8209;03046</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11035">Quel est le lien entre le fonctionnement de l&rsquo;Union europ&eacute;enne et la mani&egrave;re dont celle-ci est remise en question depuis 1992 ?</a></td><td title="13 - L&rsquo;Union europ&eacute;enne et la d&eacute;mocratie" class="d-none d-sm-table-cell">13 Europe démocratie</td></tr><tr><td><a href="/voir.php?id=11036">012&#8209;03047</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11036">Les fronti&egrave;res de l&rsquo;Union europ&eacute;enne sont-elles ouvertes aux mobilit&eacute;s des personnes ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11037">012&#8209;03048</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11037">Comment les citoyens interviennent-ils dans le fonctionnement de l&rsquo;Union europ&eacute;enne ?</a></td><td title="13 - L&rsquo;Union europ&eacute;enne et la d&eacute;mocratie" class="d-none d-sm-table-cell">13 Europe démocratie</td></tr><tr><td><a href="/voir.php?id=11038">011&#8209;03049</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11038">La libre-circulation des personnes existe-t-elle dans l&rsquo;Union europ&eacute;enne ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11039">011&#8209;03050</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11039">Montrez que la d&eacute;mocratie conna&icirc;t des contestations et des crises.</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11040">010&#8209;03051</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11040">En 1936, un auteur &eacute;crit que la TSF &eacute;largit &laquo; le petit agora ath&eacute;nien &agrave; la taille des nations &raquo; : les m&eacute;dias ont-ils favoris&eacute; une d&eacute;mocratisation de l&rsquo;information ?</a></td><td title="4 - S&rsquo;informer : un regard critique sur les sources et modes de communication" class="d-none d-sm-table-cell">4 Information</td></tr><tr><td><a href="/voir.php?id=11041">010&#8209;03052</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11041">Comment les fronti&egrave;res des &Eacute;tats sont-elles modifi&eacute;es par l&rsquo;adh&eacute;sion de ces derniers &agrave; l&rsquo;Union europ&eacute;enne ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11042">010&#8209;03053</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11042">Le s&eacute;cularisme indien peut-il &ecirc;tre une r&eacute;ponse adapt&eacute;e aux tensions d&rsquo;une soci&eacute;t&eacute; multiconfessionnelle ?</a></td><td title="53 - &Eacute;tat et religions en Inde" class="d-none d-sm-table-cell">53 Etat religion Inde</td></tr><tr><td><a href="/voir.php?id=11043">010&#8209;03054</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11043">Comment les transitions d&eacute;mocratiques peuvent-elles s&rsquo;op&eacute;rer ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11044">009&#8209;03055</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11044">Pourquoi Internet marque-t-il une rupture dans l&rsquo;information aujourd&rsquo;hui ?</a></td><td title="43 - L&rsquo;information &agrave; l&rsquo;heure d&rsquo;Internet" class="d-none d-sm-table-cell">43 Information Internet</td></tr><tr><td><a href="/voir.php?id=11045">009&#8209;03056</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11045">Quelle importance et quel r&ocirc;le ont les fronti&egrave;res pour l&rsquo;Union europ&eacute;enne ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11046">009&#8209;03057</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11046">Quelles sont les relations entre pouvoirs politique et religieux au Moyen &Acirc;ge ?</a></td><td title="5 - Analyser les relations entre &Eacute;tats et religions" class="d-none d-sm-table-cell">5 Etat religion</td></tr><tr><td><a href="/voir.php?id=11047">009&#8209;03058</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11047">Les d&eacute;mocraties peuvent-elles &ecirc;tre remises en cause ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11048">008&#8209;03059</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11048">Que pensez-vous de l&rsquo;affirmation d&rsquo; Hubert Beuve-M&eacute;ry, fondateur du journal Le Monde: &laquo; la radio annonce l&rsquo;&eacute;v&eacute;nement, la t&eacute;l&eacute;vision le montre, la presse l&rsquo;explique &raquo; ?</a></td><td title="41 - Les grandes r&eacute;volutions techniques de l&rsquo;information" class="d-none d-sm-table-cell">41 Révolution technique information</td></tr><tr><td><a href="/voir.php?id=11049">008&#8209;03060</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11049">Quelles formes de fronti&egrave;res l&rsquo;Union europ&eacute;enne produit-elle ?</a></td><td title="33 - Les fronti&egrave;res internes et externes de l&rsquo;Union europ&eacute;enne" class="d-none d-sm-table-cell">33 Frontière Europe</td></tr><tr><td><a href="/voir.php?id=11050">008&#8209;03061</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11050">Quelles sont les dimensions g&eacute;opolitiques de la question religieuse en Inde ?</a></td><td title="53 - &Eacute;tat et religions en Inde" class="d-none d-sm-table-cell">53 Etat religion Inde</td></tr><tr><td><a href="/voir.php?id=11051">007&#8209;03062</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11051">Les m&eacute;dias d&rsquo;information, un &laquo; quatri&egrave;me pouvoir &raquo; ?</a></td><td title="4 - S&rsquo;informer : un regard critique sur les sources et modes de communication" class="d-none d-sm-table-cell">4 Information</td></tr><tr><td><a href="/voir.php?id=11052">007&#8209;03063</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11052">Comment d&eacute;passer les querelles de fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11053">007&#8209;03064</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11053">La s&eacute;cularisation politique est-elle un processus irr&eacute;versible ?</a></td><td title="53 - &Eacute;tat et religions en Inde" class="d-none d-sm-table-cell">53 Etat religion Inde</td></tr><tr><td><a href="/voir.php?id=11054">006&#8209;03065</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11054">Les Etats sont-ils garants d&rsquo;une information fiable ?</a></td><td title="4 - S&rsquo;informer : un regard critique sur les sources et modes de communication" class="d-none d-sm-table-cell">4 Information</td></tr><tr><td><a href="/voir.php?id=11055">006&#8209;03066</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11055">Quelles sont les manifestations de la puissance des &Eacute;tats-Unis ?</a></td><td title="23 - La puissance des &Eacute;tats-Unis aujourd&rsquo;hui" class="d-none d-sm-table-cell">23 Puissance Etats-Unis</td></tr><tr><td><a href="/voir.php?id=11056">006&#8209;03067</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11056">Quels sont les d&eacute;bats suscit&eacute;s par le trac&eacute; des fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11057">005&#8209;03068</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11057">&Ecirc;tre de plus en plus inform&eacute; signifie-t-il &ecirc;tre bien inform&eacute; ?</a></td><td title="4 - S&rsquo;informer : un regard critique sur les sources et modes de communication" class="d-none d-sm-table-cell">4 Information</td></tr><tr><td><a href="/voir.php?id=11058">005&#8209;03069</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11058">La puissance des Etats-Unis est en essor ou en d&eacute;clin ?</a></td><td title="23 - La puissance des &Eacute;tats-Unis aujourd&rsquo;hui" class="d-none d-sm-table-cell">23 Puissance Etats-Unis</td></tr><tr><td><a href="/voir.php?id=11059">005&#8209;03070</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11059">Pourquoi les fronti&egrave;res peuvent-elles &ecirc;tre sources de conflits ? </a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11060">005&#8209;03071</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11060">La s&eacute;cularisation politique signifie-t-elle la fin des religions ?</a></td><td title="5 - Analyser les relations entre &Eacute;tats et religions" class="d-none d-sm-table-cell">5 Etat religion</td></tr><tr><td><a href="/voir.php?id=11061">005&#8209;03072</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11061">Comment les d&eacute;mocraties envisagent-elles la participation des citoyens &agrave; la vie politique ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11062">004&#8209;03073</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11062">Comment Internet bouleverse-t-il les fa&ccedil;ons de s&rsquo;informer ?</a></td><td title="43 - L&rsquo;information &agrave; l&rsquo;heure d&rsquo;Internet" class="d-none d-sm-table-cell">43 Information Internet</td></tr><tr><td><a href="/voir.php?id=11063">004&#8209;03074</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11063">Comment les puissances &eacute;tatiques s&rsquo;affirment-elles dans la mondialisation contemporaine ?</a></td><td title="2 - Analyser les dynamiques des puissances internationales" class="d-none d-sm-table-cell">2 Puissance internationale</td></tr><tr><td><a href="/voir.php?id=11064">004&#8209;03075</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11064">Comment les d&eacute;bats li&eacute;s aux fronti&egrave;res se r&egrave;glent-ils ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11065">004&#8209;03076</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11065">Quelles sont les diff&eacute;rentes conceptions de la d&eacute;mocratie ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11066">003&#8209;03077</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11066">Quelles sont les forces qui peuvent &agrave; la fois menacer et garantir la libert&eacute; de l&rsquo;information ?</a></td><td title="42 - Libert&eacute; ou contr&ocirc;le de l&rsquo;information : un d&eacute;bat politique fondamental" class="d-none d-sm-table-cell">42 Liberté contrôle information</td></tr><tr><td><a href="/voir.php?id=11067">003&#8209;03078</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11067">Quels sont les facteurs qui fondent la puissance internationale d&rsquo;un &Eacute;tat ?</a></td><td title="2 - Analyser les dynamiques des puissances internationales" class="d-none d-sm-table-cell">2 Puissance internationale</td></tr><tr><td><a href="/voir.php?id=11068">003&#8209;03079</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11068">A quoi servent les fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11069">003&#8209;03080</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11069">Quels profits le pouvoir et la religion attendaient-ils et retiraient-ils de leur lien traditionnel ?</a></td><td title="5 - Analyser les relations entre &Eacute;tats et religions" class="d-none d-sm-table-cell">5 Etat religion</td></tr><tr><td><a href="/voir.php?id=11070">003&#8209;03081</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11070">Comment la souverainet&eacute; du peuple s&rsquo;exerce-t-elle dans les d&eacute;mocraties ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11071">002&#8209;03082</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11071">Comment les progr&egrave;s techniques ont-ils renforc&eacute; la place de l&rsquo;information dans notre quotidien depuis le XIXe si&egrave;cle ?</a></td><td title="41 - Les grandes r&eacute;volutions techniques de l&rsquo;information" class="d-none d-sm-table-cell">41 Révolution technique information</td></tr><tr><td><a href="/voir.php?id=11072">002&#8209;03083</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11072">Quels sont les facteurs qui fondent la puissance internationale d&rsquo;un &Eacute;tat ?</a></td><td title="2 - Analyser les dynamiques des puissances internationales" class="d-none d-sm-table-cell">2 Puissance internationale</td></tr><tr><td><a href="/voir.php?id=11073">002&#8209;03084</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11073">Quel r&ocirc;le jouent les conflits dans le trac&eacute; des fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11074">002&#8209;03085</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11074">Le lien entre politique et religion signifie-t-il la fusion compl&egrave;te du politique et du religieux au Moyen Age ?</a></td><td title="5 - Analyser les relations entre &Eacute;tats et religions" class="d-none d-sm-table-cell">5 Etat religion</td></tr><tr><td><a href="/voir.php?id=11075">002&#8209;03086</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11075">Pourquoi le fonctionnement de la d&eacute;mocratie directe fait-il d&eacute;bat ?</a></td><td title="1 - Comprendre un r&eacute;gime politique : la d&eacute;mocratie" class="d-none d-sm-table-cell">1 Démocratie</td></tr><tr><td><a href="/voir.php?id=11076">001&#8209;03087</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11076">La &laquo; r&eacute;volution num&eacute;rique &raquo; garantit-elle une meilleure information ?</a></td><td title="43 - L&rsquo;information &agrave; l&rsquo;heure d&rsquo;Internet" class="d-none d-sm-table-cell">43 Information Internet</td></tr><tr><td><a href="/voir.php?id=11077">001&#8209;03088</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11077">Comment des &Eacute;tats exercent-il leur puissance &agrave; l&rsquo;&eacute;chelle internationale ?</a></td><td title="2 - Analyser les dynamiques des puissances internationales" class="d-none d-sm-table-cell">2 Puissance internationale</td></tr><tr><td><a href="/voir.php?id=11078">001&#8209;03089</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11078">Pourquoi les &Eacute;tats tracent-ils des fronti&egrave;res ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr><tr><td><a href="/voir.php?id=11079">001&#8209;03090</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11079">Quels sont les liens entre politique et religion dans le monde chr&eacute;tien et dans le monde musulman au IXe et au Xe si&egrave;cle ?</a></td><td title="5 - Analyser les relations entre &Eacute;tats et religions" class="d-none d-sm-table-cell">5 Etat religion</td></tr><tr><td><a href="/voir.php?id=11080">001&#8209;03091</a></td><td class="d-none d-xl-table-cell">2022</td><td data-sort="0" class="d-none d-lg-table-cell">Non</td><td><a href="/voir.php?id=11080">Comment sont contr&ocirc;l&eacute;es les fronti&egrave;res de l&rsquo;Union europ&eacute;enne ?</a></td><td title="3 - &Eacute;tudier les divisions politiques du monde : les fronti&egrave;res" class="d-none d-sm-table-cell">3 Frontière</td></tr>                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <footer class="sticky-footer">
+      <div class="container">
+        <div class="text-center">
+          <small>© 2018-2026 CCBac.fr<!-- | <abbr title="Le traffic étant très important en ce moment, un nouveau serveur dédié à été mis en place, et des publicités peuvent s'afficher ces prochains jours pour nous aider à le financer">Pubs affichées temporairement</abbr> --></small>
+          <small>&bull; Voir notre <a href="/privacy.php" title="privacy policy">politique de confidentialité</a>. Vous pouvez <a target="_self" href="javascript:(typeof(googlefc)!=='undefined')&&googlefc.callbackQueue.push(googlefc.showRevocationMessage)||(window.location.href='/privacy.php')">configurer (et consentir à) l'usage de cookies optionnels</a>.</small>
+        </div>
+      </div>
+    </footer>
+    <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fa fa-angle-up"></i>
+    </a>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js" integrity="sha512-igl8WEUuas9k5dtnhKqyyld6TzzRjvMqLC79jkgT3z02FvJyHAuUtyemm/P/jYSne1xwFI06ezQxEwweaiV7VA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="/vendor/datatables/datatables.bs4.min.js"></script>
+    <script src="/js/sb-admin.min.js"></script>
+    <script src="/js/facebook.js"></script>
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script async src="https://fundingchoicesmessages.google.com/i/pub-7779584946427549?ers=1" nonce="MPvqy2fYJkhSAUd-WrajTw"></script><script nonce="MPvqy2fYJkhSAUd-WrajTw">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+
+    <!-- pub temporaire pour aider à couvrir les coûts serveurs... -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7779584946427549" crossorigin="anonymous"></script>
+
+        <script>
+        $(document).ready(function() {
+            var dataTable = $('#dataTable').DataTable({
+                paging: false,
+                info: false,
+                language: {
+                    zeroRecords: "Aucun sujet correspondant"
+                }
+            });
+            var filter = $("#dataTable_filter_custom");
+            var filterInput = filter.find("input");
+            filter.on("keyup search input paste cut", function() {
+                dataTable.search(filterInput.val()).draw();
+            });
+        } );
+    </script>
+</div>
+
+
+</body>
+
+</html>

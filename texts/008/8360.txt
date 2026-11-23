@@ -1,0 +1,169 @@
+{"pages": 7, "method": "pdftotext", "bytes": 663233, "at": "2026-11-23T08:55:42+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+Partie I (Calculatrice interdite)
+EXERCICE 1 (5 points) : automatismes
+
+Durée : 20 minutes
+
+Les 10 questions suivantes sont indépendantes. Seules les réponses sont
+demandées, on n’attend pas de justifications.
+Questions
+
+Réponses
+
+Soit 𝑓 la fonction définie sur R par :
+𝑓(𝑥) = 7𝑥 3 − 5𝑥 2 + 𝑥 − 1,3
+Donner l’expression développée et réduite de
+𝑓′(𝑥).
+Donner les solutions dans R de l’équation :
+𝑥2 = 5
+Donner le coefficient directeur de la droite du
+plan passant par les points A(−1; 2) et B(1,5).
+
+Factoriser, pour 𝑥 réel , l’expression :
+5𝑥 2 + 20𝑥
+
+Résoudre dans R l’inéquation :
+2𝑥 − 3 ≥ 7 + 15𝑥
+
+Une intensité I de 3.10−2 ampères traverse une
+résistance de valeur R = 20 ohms.
+La tension U, en volts, aux bornes de la
+résistance est donnée par la relation :
+U = RI.
+Donner l’écriture scientifique de la valeur de la
+tension U en volts.
+
+Pour un « gaz parfait » la relation PV = nRT lie
+la pression P, le volume V, la quantité de matière
+𝑛, la constante des gaz parfaits R et la
+température T, exprimés dans les unités
+appropriées.
+Exprimer la quantité de matière 𝑛 en fonction
+des autres grandeurs.
+
+Questions
+
+Réponses
+
+Parmi les 200 spectateurs d’une salle de
+cinéma, 12 % ont bénéficié d’un tarif réduit,
+parmi lesquels 25 % sont des étudiants.
+Combien d’étudiants ont bénéficié d’une
+réduction ?
+
+On a tracé ci-dessous la courbe représentative 𝐶𝑓 d’une fonction 𝑓 et la tangente à 𝐶𝑓
+au point A d’abscisse 1,7.
+
+Répondre par lecture graphique aux questions 9 et 10 suivantes.
+
+Résoudre graphiquement sur [0; 2,2] l’inéquation
+𝑓(𝑥) < 0
+
+10 Estimer graphiquement la valeur de 𝑓′(1,7)
+
+Partie II
+Cette partie est constituée de 3 exercices indépendants.
+L’utilisation de la calculatrice est autorisée selon la règlementation en vigueur.
+
+Exercice 2 (5 points)
+Une entreprise produit entre 1 et 15 tonnes de produits chimiques par jour.
+Ses dirigeants ont demandé une étude du coût de production.
+Il a été établi que le coût journalier moyen de production, en millier d’euros, pour 𝑥
+tonnes de produits chimiques est donné par :
+
+𝐶 (𝑥) = 1,7𝑥 +
+
+29,988
+𝑥
+
++ 0,5.
+
+Dans la suite, on arrondira les coûts au dixième de millier d’euros.
+1. Quel est le coût journalier moyen de production de l’entreprise pour 5 tonnes
+de produits chimiques ?
+2. Déterminer une expression de 𝐶′(𝑥) en fonction de 𝑥.
+3. Montrer que, pour 𝑥 ∈ [1; 15], on a :
+
+𝐶 ′ (𝑥 ) =
+
+1,7(𝑥−4,2)(𝑥+4,2)
+𝑥2
+
+.
+
+4.
+a) Étudier le signe de 𝐶′ sur l’intervalle [1; 15].
+b) En déduire le tableau de variations de la fonction 𝐶 sur [1; 15].
+5. Quel coût de production journalier moyen minimal l’entreprise peut-elle
+espérer atteindre ? À quelle quantité de produits chimiques fabriquée ce coût
+minimal correspond-il ?
+
+Exercice 3 (5 points)
+Une étude de l’I.N.S.E.E.* conduit à la classification suivante de la population non
+scolarisée de 15 ans ou plus, en France, en 2017, par diplôme le plus élevé obtenu :
+ 95 % de cette population a 25 ans ou plus ;
+ 28,5 % de cette population a 25 ans ou plus et un diplôme de l’enseignement
+supérieur de niveau bac+2 ou plus ;
+ Parmi les personnes qui ont entre 15 et 24 ans, 23% n’ont pas un diplôme de
+l’enseignement supérieur de niveau bac+2 ou plus.
+En 2017, en France, on interroge au hasard un individu non scolarisé qui a 15 ans ou
+plus. Chaque individu a la même probabilité d’être choisi.
+On note 𝐸 et 𝐷 les événements suivants :
+ 𝐸 : « l’individu interrogé a entre 15 et 24 ans »,
+ 𝐷 : « l’individu interrogé a un diplôme de l’enseignement supérieur de niveau
+bac+2 ou plus ».
+̅ les événements contraires respectifs des événements 𝐸 et 𝐷.
+On note 𝐸̅ et 𝐷
+̅ ).
+1. Donner 𝑃(𝐸̅ ∩ 𝐷) ; 𝑃(𝐸̅ ) et 𝑃𝐸 (𝐷
+2. Justifier que 𝑃𝐸̅ (D) = 0,3 .
+3. Recopier et compléter l’arbre de probabilités donné ci-dessous.
+
+4. Montrer que 𝑃(𝐸 ∩ 𝐷) = 0,0385
+5. Montrer que 𝑃(𝐷) = 0,3235.
+6. L’individu interrogé a un diplôme de l’enseignement supérieur de niveau
+bac+2 ou plus. Quelle est la probabilité que cet individu ait 25 ans ou plus ?
+Arrondir le résultat au centième.
+*Source : Insee, RP2017 exploitation principale, géographie au 01/01/2020.
+
+Exercice 4 (5 points)
+Une version simplifiée de la première loi de Moore indique que le nombre de
+transistors dans les microprocesseurs augmente de 41 % tous les ans.
+Le premier microprocesseur, commercialisé en 1971, contenait 2 300 transistors.
+On modélise par une suite (𝑢𝑛 ) le nombre de transistors par microprocesseur prévu
+par la loi de Moore pour l’année (1971 + 𝑛), où 𝑛 désigne l’entier naturel
+correspondant à l’année considérée.
+On a ainsi 𝑢0 = 2 300.
+1. D’après la loi de Moore, combien de transistors contenait un microprocesseur
+en 1972 ?
+2. Justifier que la suite (𝑢𝑛 ) est une suite géométrique de raison 1,41.
+3. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+4. Combien la loi de Moore prévoyait-elle de transistors par microprocesseur en
+2020 ? Arrondir le résultat à la précision permise par la calculatrice.
+5. En 2020, une entreprise américaine a lancé sa nouvelle génération de circuits
+logiques programmables, assimilables à des microprocesseurs. Ils
+contiennent environ 15 217 391 fois plus de transistors que le premier
+microprocesseur commercialisé en 1971.
+a) Montrer que le taux moyen d’évolution annuelle du nombre de transistors
+par microprocesseur, sur les 49 années qui séparent le premier
+microprocesseur en 1971 et le microprocesseur américain de 2020, est
+d’environ 0,4015.
+b) Peut-on dire que l’évolution du nombre de transistors par microprocesseur
+entre 1971 et 2020 est cohérente avec la loi de Moore ? Justifier.

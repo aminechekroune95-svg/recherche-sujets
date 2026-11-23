@@ -1,0 +1,166 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1125338, "at": "2026-11-23T08:55:50+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 - Automatismes (5 points)
+
+Sans Calculatrice
+
+Énoncé
+Le prix d’un jeu vidéo diminue de 40%. Son nouveau
+prix est de 42 €.
+Quel était le prix de ce jeu avant réduction ?
+Dans une classe, les trois quarts des élèves sont des
+filles.
+Sachant qu’il y a 24 filles, combien y a-t-il d’élèves
+dans cette classe ?
+Développer et réduire l’expression :
+(2𝑥 − 3)(𝑥 + 5).
+Déterminer la fraction irréductible égale à :
+
+2+
+
+Durée: 20 min
+
+Réponse
+
+Mettre sous la forme d’une seule puissance de 1,2 :
+
+1,2−3 × 1,29
+1,24
+Déterminer l’expression de la fonction dérivée de la
+fonction 𝑓 définie sur R par
+
+𝑓(𝑥) = 𝑥 3 − 3𝑥 2 + 7𝑥 − 5
+
+On considère la fonction 𝑓 définie sur l’intervalle [-8 ; 7] dont la courbe
+représentative est donnée ci-dessous :
+
+Déterminer par lecture graphique l’image de 1 par la
+fonction 𝑓.
+Déterminer par lecture graphique un antécédent de
+12 par la fonction 𝑓.
+Déterminer graphiquement le nombre de solution de
+l’équation 𝑓(𝑥) = 4 sur l’intervalle [-8 ; 7].
+Résoudre graphiquement l’équation 𝑓(𝑥) = 0 sur
+l’intervalle [-8 ; 7].
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Des relevés sur le trafic de données consommées, exprimé en millions de gigaoctets (millions
+de Go) sur les réseaux mobiles ont été effectuées de 2017 à 2019 :
+Année
+
+2017
+
+2018
+
+2019
+
+Volume de données consommées
+(en millions de Go)
+
+2 203
+
+3 646
+
+5 266
+Source : Arcep
+
+1. Calculer, à l’aide des relevés, le taux global d’évolution du volume de données
+consommées entre 2017 et 2019. Le résultat sera exprimé en pourcentage arrondi à
+l’unité.
+2. On considère qu’à partir de l’année 2019 le volume de données consommées augmente
+chaque année de 55 %.
+a) Pour tout entier naturel 𝑛, on désigne par 𝑈𝑛 le volume de données
+consommées, exprimé en millions de Go, l’année (2019 + 𝑛). Ainsi 𝑈0 =5 266
+Calculer 𝑈1 . Arrondir à l’unité.
+b) Quelle est la nature de la suite (𝑈𝑛 ) ? Préciser sa raison.
+c) Exprimer 𝑈𝑛 en fonction de 𝑛.
+3. Un spécialiste affirme que si le volume de données consommées dépasse 40 000 millions
+de gigaoctets alors l’ensemble des réseaux sera saturé.
+À partir de quelle année ce seuil sera-t-il dépassé ? Détailler la démarche.
+
+Exercice 3 (5 points)
+
+Suite à un héritage, un particulier décide de placer 120 000 € sur un compte bancaire afin de
+pouvoir acheter plus tard un bien immobilier. Connaissant le prix du marché, il estime qu’il
+lui faut augmenter son capital initial de 35% pour pouvoir acquérir le bien souhaité.
+1. De quel capital le particulier a-t-il besoin pour acheter ce bien immobilier ?
+2. Le particulier envisage un placement bancaire de son capital de 120 000€ au taux annuel
+de 2,5%.
+a) Calculer le capital acquis après deux années de placement.
+b) Résoudre dans R l’équation 1,025𝑥 = 1,35.
+c) En déduire le nombre d’années nécessaires pour que le particulier dispose du capital
+suffisant pour acquérir son bien immobilier.
+3. Le particulier souhaite négocier le taux annuel 𝑡 de son placement, exprimé en
+pourcentage, afin de pouvoir acquérir le bien immobilier après 10 années de placement.
+On admet que le taux 𝑡 pour atteindre le souhait du particulier vérifie l’équation
+𝑡
+
+1 + 100
+
+= 1,35.
+
+Déterminer le taux d’intérêt annuel qui satisfera le souhait du particulier. On arrondira
+la valeur de 𝑡 à 0,01 % près.
+
+Exercice 4 (5 points)
+Un recensement de la population française par groupe d’âges a été rendu public au 1er
+janvier 2020 :
+
+Groupe d’âges
+Population
+
+Moins de 15 ans 15 - 19 ans
+11 943 747
+
+4 140 996
+
+20 - 39 ans
+
+Plus de 39 ans
+
+Total
+
+15 759 165
+
+35 219 795
+
+67 063 703
+
+Source : Insee, estimations de population (données provisoires arrêtées à fin 2019)
+1. Justifier, par un calcul, que la proportion des individus de moins de 20 ans dans la
+population française est environ égale à 24 %.
+Dans la suite de l’exercice, on admettra que cette proportion est égale à 24 %.
+Parmi ces individus de moins de 20 ans, 51% sont des hommes.
+Parmi les individus de 20 ans et plus, 53% sont des femmes.
+
+On choisit au hasard un individu de la population Française et on considère les événements
+suivants :
+ 𝐽 : « l’individu a moins de 20 ans »
+ 𝐹 : « l’individu est une femme »
+2. Représenter la situation par un arbre pondéré.
+3. a) Décrire par une phrase l’événement 𝐽 ∩ 𝐹.
+b) Calculer sa probabilité notée 𝑃 𝐽 ∩ 𝐹 .
+4. Justifier par un calcul que la probabilité que l’individu choisi soit un homme est égale
+à 0,4796.
+5. Sachant que l’individu choisi est un homme, quelle est la probabilité qu’il ait moins de 20
+ans ? Donner le résultat à 10-2 près.

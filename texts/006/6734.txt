@@ -1,0 +1,158 @@
+{"pages": 5, "method": "pdftotext", "bytes": 694456, "at": "2026-11-23T08:58:15+00:00"}
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE I
+Séries technologiques - Classe de première
+AUTOMATISMES (5 points)
+Sans calculatrice
+Durée : 20 minutes
+Dans cet exercice, il n’est pas demandé de justification. Répondre à chaque question en
+écrivant la réponse dans la colonne de droite du tableau.
+QUESTION
+
+1.
+
+Calculer 25 % de 200.
+
+2.
+
+Convertir 240 secondes en minutes.
+
+3.
+
+Donner le résultat de la somme
+
++
+
+RÉPONSE
+
+sous forme d’une
+
+fraction irréductible.
+
+4.
+
+Exprimer le produit 10−2 × 106 sous forme d’une puissance
+de 10.
+
+5.
+
+On considère l’expression 𝐴(𝑥) = (2𝑥 + 3)(𝑥 − 1).
+Donner la forme développée de 𝐴(𝑥).
+
+6.
+
+Écrire 3,52 × 104 sous forme décimale.
+
+7.
+
+Résoudre dans R l’équation 2𝑥 − 6 = 3𝑥 + 4 .
+
+8.
+
+Donner le résultat du produit
+
+×
+
+sous forme d’une
+
+fraction irréductible.
+
+Pour les deux questions suivantes, on considère la fonction 𝑓 définie sur l’intervalle [−1 ; 3].
+La courbe représentative de la fonction 𝑓 est donnée ci-dessous.
+
+QUESTION
+
+9.
+
+10.
+
+RÉPONSE
+
+Dresser le tableau de signes de la
+fonction 𝑓 sur l’intervalle [−1 ; 3].
+
+Dresser le tableau de variations de
+la fonction 𝑓 sur l’intervalle [−1 ; 3].
+
+Épreuve de MATHÉMATIQUES - Séries technologiques - Classe de première
+
+PARTIE II
+
+Séries technologiques - Classe de première
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+Un restaurateur a produit 2500 kg de déchets non recyclables en 2017 et 2350 kg en 2018.
+1) Déterminer le pourcentage de réduction de la masse de déchets non recyclables
+entre 2017 et 2018.
+2) À partir de 2018, le restaurateur prévoit, chaque année, de réduire de 5 % la masse
+de déchets non recyclables.
+Pour tout entier naturel 𝑛, on modélise la masse, exprimée en kg, de déchets non
+recyclables pour l’année 2018 + n à l’aide d’une suite notée ( Dn ).
+Ainsi 𝐷0 = 2 350 .
+a) Calculer 𝐷1 puis 𝐷2 .
+b) On admet que la suite ( Dn ) est géométrique. Donner sa raison.
+3) On admet que, pour tout entier naturel 𝑛, 𝐷𝑛 = 2 350 × 0,95𝑛 .
+Déterminer la masse de déchets non recyclables en 2025. On donnera le résultat
+arrondi en kg.
+4) Recopier et compléter l’algorithme suivant pour qu’à la fin de son exécution la
+variable 𝐷 contienne le terme de rang 15 de la suite (𝐷𝑛 ) .
+𝐷 = 2 350
+for 𝑛 in range(15):
+𝐷 = ………
+
+EXERCICE 3 (5 points)
+Une entreprise produit mensuellement entre 200 et 3 000 panneaux solaires.
+On modélise le résultat de l’entreprise réalisé sur la vente de 𝑥 centaines de panneaux
+solaires par la fonction f définie sur l’intervalle [2 ; 30] par :
+𝑓(𝑥) = −2𝑥 2 + 90𝑥 − 400 .
+
+1) On admet que, pour tout 𝑥 de l’intervalle [2 ; 30], on a 𝑓(𝑥) = −2(𝑥 − 40)(𝑥 − 5).
+Donner le tableau de signes de la fonction 𝑓 sur l’intervalle [2 ; 30].
+2) À partir de quel volume de production de panneaux solaires le résultat réalisé par
+l’entreprise est-il positif ?
+3) On note 𝑓 ′ la fonction dérivée de la fonction 𝑓 sur l’intervalle [2 ; 30].
+Donner l’expression de 𝑓 ′(𝑥) en fonction de 𝑥.
+4) Donner le tableau de variations de la fonction 𝑓 sur l’intervalle [2 ; 30].
+5) Déterminer la valeur du bénéfice maximal et le volume de production correspondant.
+
+EXERCICE 4 (5 points)
+Le gérant d’un restaurant développe une nouvelle formule de restauration rapide le midi. Il
+propose un menu comprenant un plat et un dessert. Les clients ont le choix entre deux plats
+(viande ou poisson) et trois desserts (pâtisserie, laitage ou fruit).
+Il teste sa formule pendant un mois et étudie toutes les commandes pour mieux connaître
+les souhaits de sa clientèle.
+
+Parmi les 600 commandes faites au cours de ce mois, 72 % comprenaient un plat de
+viande.
+45 % des clients ont pris une pâtisserie et, parmi eux, 44 avaient choisi le plat de
+poisson.
+Parmi les 138 commandes comprenant un fruit comme dessert, 73 comprenaient le
+plat de poisson.
+
+1) Recopier et compléter le tableau suivant qui récapitule les résultats de l’enquête.
+Pâtisserie
+
+Laitage
+
+Fruit
+
+Total
+
+Viande
+Poisson
+
+Total
+
+On choisit une commande au hasard parmi celles faites pendant le mois de l’enquête.
+On note :
+ 𝐴 : l’événement « La commande comprend du poisson »
+ 𝐵 : l’événement « La commande comprend une pâtisserie »
+2) Calculer la probabilité de l’événement 𝐴.
+3) Calculer la probabilité de l’événement 𝐵.
+4) Calculer la probabilité, arrondie à 10−2 , que la commande comprenne à la fois du
+poisson et une pâtisserie.
+5) Calculer la probabilité, arrondie à 10−2 , que la commande comprenne de la viande
+sachant qu’elle comprend une pâtisserie.

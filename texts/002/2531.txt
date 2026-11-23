@@ -1,0 +1,148 @@
+{"pages": 6, "method": "pdftotext", "bytes": 724800, "at": "2026-11-23T09:00:28+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ : ☐Oui ☒ Non
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il
+ne peut être dupliqué et doit être imprimé pour chaque candidat afin d’assurer
+ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique,
+il est nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra
+télécharger et jouer le jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1
+
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie. Chaque réponse correcte rapporte 1 point. Une réponse
+incorrecte ou une question sans réponse n’apporte ni ne retire de point.
+
+1. L’inéquation 2𝑥 2 − 9𝑥 + 4 ≥ 0 a pour ensemble de solutions :
+
+a. 𝑆 = [2 ; 4]
+
+b. 𝑆 = ]−∞ ; 2] ∪ [4 ; +∞[
+c. 𝑆 = ∅
+
+d. 𝑆 = ]−∞ ; −4] ∪ [− 2 ; +∞[
+2. On considère la fonction 𝑔 définie sur l’ensemble des réels R par
+𝑔(𝑥) = −𝑥 2 + 4𝑥
+alors
+a. le minimum de la fonction 𝑔 sur R est 4
+b. le maximum de la fonction 𝑔 sur R est 4
+c. le maximum de la fonction 𝑔 sur R est 2
+d. 𝑔 est décroissante sur l’intervalle [4 ; +∞[
+
+3. Le plan est rapporté à un repère orthonormé. La droite passant par le point
+𝐴(0 ; −7) et de vecteur normal ⃗𝑛 ( ) a pour équation
+−5
+a. 2𝑥 − 5𝑦 − 35 = 0
+b. 2𝑥 − 5𝑦 + 35 = 0
+c. −5𝑥 − 2𝑦 + 14 = 0
+d. 5𝑥 + 2𝑦 + 14 = 0
+
+4. Le plan est rapporté à un repère orthonormé. L’ensemble des points M de
+coordonnées (𝑥; 𝑦) telles que 𝑥 2 − 4𝑥 + 𝑦 2 + 6𝑦 = 12 est
+a. le point de coordonnées (5; 1)
+b. le cercle de centre A(2; −3) et de rayon √12
+c. le cercle de centre A(2; −3) et de rayon 5
+d. le cercle de centre B(−2; 3) et de rayon 5
+5. Le plan est muni d’un repère orthonormé.
+On considère la droite d d’équation 2𝑥 + 3𝑦 − 1 = 0.
+a) La droite d est perpendiculaire à la droite (𝐴𝐵), où 𝐴(−2; 3) et 𝐵(2; 9).
+−3
+) est un vecteur normal à la droite d.
+c) La droite perpendiculaire à d passant par le point (−1; 2) admet pour équation
+3𝑥 − 2𝑦 + 1 = 0.
+b) Le vecteur ⃗𝑢 (
+
+d) La droite parallèle à d passant par le point (2 ; 3) admet pour équation
+2𝑥 + 3𝑦 + 13 = 0.
+
+Exercice 2
+
+On considère la fonction 𝑓 définie sur R par 𝑓(𝑥) = (2𝑥 − 1)e𝑥 .
+On note 𝑓 ′ la fonction dérivée de la fonction 𝑓.
+1. Montrer que pour tout réel 𝑥, 𝑓 ′ (𝑥) = (2𝑥 + 1)e𝑥 .
+2. Étudier le signe de 𝑓 ′ (𝑥) sur R.
+3. En déduire le tableau de variation de la fonction 𝑓 sur R.
+Dans les questions suivantes, on note 𝒞 la courbe représentative de la fonction 𝑓
+dans un repère.
+4. Déterminer les coordonnées du point d’intersection de 𝒞 avec l’axe des ordonnées.
+5. Déterminer une équation de la tangente 𝑇 à 𝒞 au point d’abscisse 0.
+
+Exercice 3 (5 points)
+On appelle pourcentage de compression d’une image, le pourcentage de réduction
+de sa taille en ko (kilo-octets) après compression.
+Une image a une taille initiale de 800 ko. Après une première compression, sa taille
+est de 664 ko.
+1. Calculer le pourcentage de réduction associé à cette première compression.
+Dans la suite de l’exercice, on fixe le pourcentage de réduction à 17%.
+On effectue 𝑛 compressions successives. Pour tout entier naturel 𝑛, on note 𝑡𝑛 la
+taille de l’image en ko après 𝑛 compressions.
+On a donc 𝑡0 = 800.
+2. Pour tout entier naturel 𝑛, exprimer 𝑡𝑛+1 en fonction de 𝑡𝑛 et en déduire la nature de
+la suite (𝑡𝑛 ).
+3. Pour tout entier naturel 𝑛, exprimer 𝑡𝑛 en fonction de 𝑛.
+
+Afin de déterminer le nombre minimal 𝑛 de compressions successives à effectuer
+pour que cette image ait une taille finale inférieure à 50 ko, on considère la fonction
+Python suivante :
+def nombreCompressions(A):
+t = 800
+n = 0
+While t > A :
+t = t*0,83
+n = n+1
+return n
+
+4. Préciser, en justifiant, le nombre A de sorte que l’appel nombreCompressions(A)
+renvoie le nombre de compressions successives à effectuer que l’on cherche à
+déterminer.
+5. Quel est le nombre minimal de compressions successives à effectuer pour que ce
+fichier ait une taille finale inférieure à 50 ko ?
+
+Exercice 4
+
+Dans un jeu, Jeanne doit trouver la bonne réponse à une question posée.
+Les questions sont classées en trois catégories : sport, cinéma et musique.
+Jeanne, fervente supportrice de ce jeu, est consciente qu’elle a :
+1 chance sur 2 de donner la bonne réponse sachant qu’elle est interrogée en sport ;
+3 chances sur 4 de donner la bonne réponse sachant qu’elle est interrogée en
+cinéma ;
+1 chance sur 4 de donner la bonne réponse sachant qu’elle est interrogée en
+musique.
+On note :
+𝑆 l’événement : « Jeanne est interrogée en sport » ;
+𝐶 l’événement : « Jeanne est interrogée en cinéma » ;
+𝑀 l’événement : « Jeanne est interrogée en musique » ;
+𝐵 l’événement : « Jeanne donne une bonne réponse ».
+Rappel de notation : la probabilité d’un événement 𝐴 est notée 𝑃(𝐴).
+
+Dans chaque catégorie, il y a le même nombre de questions. On admet donc que
+
+𝑃(𝑆) = 𝑃(𝐶) = 𝑃(𝑀) = 3.
+
+1. Construire un arbre pondéré décrivant la situation.
+
+2. Jeanne tire au hasard une question. Montrer que 𝑃(𝐵) = 2.
+Pour participer à ce jeu, Jeanne doit payer 10 € de droit d’inscription. Elle recevra :
+ 10 € si elle est interrogée en sport et que sa réponse est bonne ;
+ 20 € si elle est interrogée en cinéma et que sa réponse est bonne ;
+ 50 € si elle est interrogée en musique et que sa réponse est bonne ;
+ rien si la réponse qu’elle donne est fausse.
+On note 𝑋 la variable aléatoire qui, à chaque partie jouée par Jeanne associe son gain
+algébrique, c’est-à-dire la différence en euros entre ce qu’elle reçoit et les 10 € de
+droit d’inscription.
+
+3. Montrer que 𝑃(𝑋 = 40) = 12.
+
+4. Déterminer la loi de probabilité de 𝑋.
+5. Calculer l’espérance mathématique de 𝑋. Jeanne a-t-elle intérêt à jouer ?

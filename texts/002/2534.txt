@@ -1,0 +1,161 @@
+{"pages": 5, "method": "pdftotext", "bytes": 772958, "at": "2026-11-23T09:00:27+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiple (QCM). Pour chacune des questions, une
+seule des réponses proposées est exacte. Indiquer sur la copie le numéro de la question ainsi
+que la réponse choisie. Aucune justification n’est attendue.
+Une réponse juste rapporte un point, une réponse fausse ou l’absence de réponse n’enlèvent
+pas de point.
+QUESTION 1 :
+Dans un repère du plan, la droite (𝑑) a pour équation : 2𝑥 – 3𝑦 + 1 = 0.
+Un vecteur directeur de la droite (𝑑) est :
+a) ⃗𝑢 (2 ; −3)
+
+b) 𝑣 (3 ; 2)
+
+c) ⃗⃗𝑤 (−3 ; 1)
+
+d) ⃗⃗𝑟 (1; 2)
+
+QUESTION 2 :
+Dans un repère du plan, la droite (𝑑) a pour équation : 2𝑥 – 3𝑦 + 1 = 0.
+Un vecteur normal à la droite (𝑑) est :
+a) ⃗𝑢 (2 ; −3)
+
+b) 𝑣 (3 ; 2)
+
+c) ⃗⃗𝑤 (−3 ; 1)
+
+d) ⃗⃗𝑟 (1; )
+
+QUESTION 3 :
+On donne trois points distincts : 𝐴, 𝐵 et 𝐶.
+Les points 𝐷 et 𝐸 sont tels que ⃗⃗⃗⃗⃗
+𝐸𝐵 = ⃗⃗⃗⃗⃗
+𝐵𝐴 et ⃗⃗⃗⃗⃗
+𝐸𝐷 = 2 × ⃗⃗⃗⃗⃗
+𝐵𝐶 . On a :
+a) A est le milieu de [EB]
+c) C est le milieu de [AD]
+
+b) B est le milieu de [ED]
+d) D et le milieu de [AC]
+
+QUESTION 4 :
+Soit 𝑥 un nombre réel. Dans un repère orthonormé, les vecteurs ⃗𝑢(−𝑥 + 4; 7) et
+𝑣(9; 2𝑥 − 5) sont orthogonaux lorsque 𝑥 est égal à :
+a)
+
+b) 10
+
+c) −
+
+d) 6
+
+QUESTION 5 :
+Dans un repère orthonormé, on considère les points 𝐴(−1; −2), 𝐵(2; 0), 𝐶(3; −1) et
+𝐷(−3; 4). Alors ⃗⃗⃗⃗⃗
+𝐴𝐶 ⋅ ⃗⃗⃗⃗⃗⃗
+𝐵𝐷 est égal à :
+a) −16
+
+b) 11
+
+c) 21
+
+d) −24
+
+Exercice 2 (5 points)
+À partir d’un premier segment de 2 mm, on ajoute successivement un nouveau segment
+mesurant 150 % de la longueur du précédent.
+Pour tout entier naturel 𝑛 ≥ 1, on désigne par 𝑢𝑛 la longueur, en mm, du 𝑛-ième segment.
+Ainsi 𝑢₁ = 2 et 𝑢2 = 3.
+1. Déterminer 𝑢₃ et 𝑢₄.
+2. Pour tout entier naturel 𝑛 supérieur à 1, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+En déduire la nature de la suite (𝑢𝑛 ).
+3. Pour tout entier naturel 𝑛 ≥ 1, exprimer 𝑢𝑛 en fonction de 𝑛.
+4. On cherche à déterminer à partir de combien de segments la longueur totale dépasse 1
+mètre. On réalise pour cela un programme écrit en langage Python.
+Recopier et compléter sur la copie ce programme pour qu’il affiche le nombre attendu de
+segments.
+i = 1
+u = 2
+longueur = 2
+while longueur < 1000 :
+i = …
+u = …
+longueur = …
+print(i)
+5. Ce programme affiche 14.
+Déterminer, par le calcul, la longueur de la spirale formée des 14 premiers segments.
+Arrondir le résultat au mm.
+
+Exercice 3 (5 points)
+Un libraire dispose d’un stock de magazines. On sait que 40 % des magazines provient d’un
+fournisseur 𝐴 et le reste d’un fournisseur 𝐵.
+Il constate que 91 % des magazines reçus sont vendus dans la semaine.
+Il constate également que 85 % des magazines provenant du fournisseur 𝐴 sont vendus dans
+la semaine.
+Le responsable des achats prend au hasard un magazine dans le stock. On considère les
+évènements suivants :
+𝐴 : « le magazine provient du fournisseur 𝐴 »
+𝐵 : « le magazine provient du fournisseur 𝐵 »
+𝑆 : « le magazine est vendu dans la semaine »
+Pour tout événement E, on note 𝐸̅ l’événement contraire de E.
+Pour tout événement E et F où F est un événement de probabilité non nulle, la probabilité de
+E sachant F est notée 𝑃𝐹 (𝐸).
+1. Quelle est la probabilité que le magazine provienne du fournisseur 𝐵 ?
+2. On note 𝑃𝐵 (𝑆) = 𝑥, 𝑥 ∈ [0; 1]. Recopier et
+compléter sur la copie avec les trois valeurs
+demandées l’arbre pondéré ci-dessous
+traduisant la situation :
+
+3. Calculer la probabilité que le magazine choisi au hasard provienne du fournisseur 𝐴 et
+qu’il soit vendu dans la semaine.
+4. Démontrer que 0,34 + 0,6𝑥 = 0,91. En déduire que 𝑃(𝐵 ∩ 𝑆) = 0,57.
+5. Le magazine choisi est vendu dans la semaine. Calculer la probabilité qu’il provienne du
+fournisseur 𝐵. En donner sa valeur arrondie à 10−3.
+
+Exercice 4 (5 points)
+Soit 𝑔 la fonction définie sur l’intervalle [−5; 5] par :
+𝑔(𝑥) = 𝑒 𝑥 − 𝑥 + 1
+1. On admet que 𝑔 est dérivable sur l’intervalle [−5; 5] et on note 𝑔′ sa fonction dérivée.
+Calculer 𝑔′(𝑥).
+2. Étudier les variations de la fonction 𝑔 sur l’intervalle [−5; 5].
+3. Démontrer que 𝑔 est strictement positive sur [−5; 5], c’est-à-dire que :
+pour tout 𝑥 ∈ [−5; 5], 𝑔(𝑥) > 0.
+Soit 𝑓 la fonction définie sur [−5; 5] par :
+
+𝑥
+𝑒𝑥
+On appelle 𝐶𝑓 sa courbe représentative dans un repère du plan.
+On admet que 𝑓 est dérivable sur l’intervalle [−5; 5] et on note 𝑓′ sa fonction dérivée.
+𝑓(𝑥) = 𝑥 + 1 +
+
+4. Démontrer que pour tout réel 𝑥 de [−5; 5],
+𝑓′(𝑥) =
+
+× 𝑔(𝑥)
+𝑒𝑥
+
+En déduire les variations de f sur l’intervalle [−5; 5].
+5. Déterminer l’équation de la tangente à 𝐶𝑓 au point d’abscisse 0.

@@ -1,0 +1,146 @@
+{"pages": 6, "method": "pdftotext", "bytes": 717138, "at": "2026-11-23T08:57:42+00:00"}
+MATHEMATIQUES PARTIE I
+Automatismes (5 points) :
+Exercice 1
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Le prix d'un article est diminué de 15%. Par quel
+coefficient le prix de cet article est-il multiplié pour
+obtenir le prix réduit ?
+
+2)
+
+Quel est le taux d'évolution qui correspond à un
+coefficient multiplicateur de 1,075 ?
+
+3)
+
+Le prix d’un article toutes taxes comprises (TTC) est de
+240€. La taxe sur la valeur ajoutée (TVA) est de 20%.
+Déterminer le prix hors taxe (HT) c'est-à-dire le prix
+avant l’application de la TVA.
+
+4)
+
+Un prix a augmenté de 100%. Quel taux d’évolution
+doit-on utiliser pour retrouver sa valeur initiale ?
+
+5)
+
+Quel est le taux d'évolution global après une hausse de
+20% suivie d'une baisse de 10 % ?
+
+6)
+
+Résoudre dans IR l'équation 7 − 4𝑥 = 2𝑥 − 5.
+
+7)
+
+Résoudre dans IR l'équation 𝑥² = 144.
+
+8)
+
+Résoudre l'inéquation 6𝑥 + 7 ≤ 10 et donner
+l'ensemble des solutions sous forme d'intervalle.
+
+9)
+
+Donner le tableau de signe de l'expression −5𝑥 + 1.
+
+10)
+
+Sur quel intervalle ou réunion d’intervalles
+l’expression 𝑥(𝑥 − 1) est-elle positive ?
+
+MATHEMATIQUES PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+Exercice 2 ( 5 points)
+M. Martin veut souscrire un contrat d’entretien pour sa chaudière à partir de janvier 2020.
+L’entreprise A propose un contrat sur 10 ans avec un versement de 150 € en 2020 puis une
+augmentation du versement de 1,55 € par an jusqu’à la fin du contrat.
+On note 𝑢𝑛 le montant du versement de janvier 2020 + 𝑛 (avec 𝑛 entier naturel).
+1. a. Donner 𝑢0 et calculer 𝑢1 .
+def u(n) :
+b. Calculer le montant du versement de janvier 2024.
+u = …...
+2. a. Écrire une relation entre 𝑢𝑛+1 et 𝑢𝑛 pour tout entier
+for k in range(...) :
+naturel 𝑛.
+u = ……
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Justifier.
+return u
+3. Recopier et compléter la fonction ci-contre, en langage
+Python, qui renvoie la valeur 𝑢𝑛 pour un entier 𝑛 choisi au départ.
+
+Exercice 3 (5 points)
+Lors d’une épidémie de grippe, on a étudié pendant dix semaines l’évolution du nombre
+d’individus malades dans la population d’une ville.
+Des relevés statistiques ont permis de mettre en évidence une courbe de tendance, à l’aide
+d’un tableur.
+On admet que le nombre de malades (exprimé en milliers) au bout de 𝑥 semaines écoulées
+depuis le début de la maladie, est modélisé par une fonction f définie et dérivable sur
+[0 ; 10] dont on donne la courbe représentative 𝐶𝑓 ci-dessous.
+
+1. On considère que la situation est grave lorsque le nombre de malades est d’au moins
+190 000. Avec la précision permise par le graphique, pendant combien de semaines
+cela arrive-t-il ?
+2. A est le point de la courbe 𝐶𝑓 d’abscisse 3,5 et la droite (𝑇) est la tangente à 𝐶𝑓 au
+point A.
+Déterminer graphiquement 𝑓′(3,5)où 𝑓 ′ est la fonction dérivée de 𝑓.
+3. Le nombre 𝑓 ′ (𝑥) représente la vitesse d’évolution de la maladie, 𝑥 semaines après
+l’apparition des premiers cas.
+
+a. Déterminer graphiquement avec la précision que permet le schéma, le nombre
+maximal de malades sur la période des 10 semaines observées et le moment où il est
+atteint.
+Que peut-on dire alors de la vitesse d’évolution de la maladie ?
+b. Déterminer graphiquement à quel moment de l’épidémie la maladie progresse le
+plus vite.
+4. La fonction f est définie et dérivable pour tout 𝑥 dans l’intervalle [0 ; 10] par :
+𝑓(𝑥) = −𝑥 3 + 10,5𝑥 2 + 11,25𝑥
+Calculer 𝑓′(𝑥)pour tout 𝑥 dans l’intervalle [0 ; 10] et préciser la réponse donnée à la
+question 2.
+Exercice 4 (5 points)
+Le bureau des élèves d'une université (BDE) s'occupe d'organiser les activités extra-scolaires
+des étudiants.
+L’an passé, le BDE d’Aix-Marseille proposait aux étudiants des séjours en France (𝐹) ou à
+l'étranger (𝐸), d'une durée d'un week-end (𝑊) ou d'une semaine (𝑆). 540 étudiants ont
+ainsi pu bénéficier d’un séjour. Sur l’ensemble des séjours deux tiers ont lieu à l'étranger.
+De plus, on a observé que :
+ Parmi les séjours à l’étranger, 75% étaient d’une durée d’une semaine.
+ Parmi les séjours en France, 65% étaient d’une durée d’un week-end.
+1. Calculer le nombre de séjours à l’étranger.
+2. Recopier et compléter le tableau ci-dessous par les effectifs.
+Tableau 1
+
+𝑾
+
+𝑺
+
+Total
+
+𝑭
+𝑬
+
+Total
+
+3. Calculer la fréquence des séjours en France parmi les séjours d’un week-end.
+
+4. Cette année, les propositions du BDE s’élargissent aux séjours d’un mois (𝑀).
+Elles sont résumées dans la feuille de calcul ci-dessous.
+Le BDE a complété par le tableau des fréquences conditionnelles en colonnes
+(plage A7:D10).
+
+a. Interpréter la valeur 86,2 % écrit dans la cellule C9.
+b. Quelle formule a-t-on saisi dans la cellule B8 et recopier dans la plage B8:B10
+pour remplir le tableau ?

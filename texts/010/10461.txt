@@ -1,0 +1,148 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1166900, "at": "2026-11-23T08:55:06+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes. Pour chaque question, indiquer
+le numéro de la question et recopier sur la copie la lettre correspondante à la réponse
+choisie. Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+e2𝑥
+
+Question 1. Pour tout réel 𝑥, e𝑥+1 est égale à :
+a) e𝑥−1
+
+b) e3𝑥+1
+
+c)
+
+2𝑥
+𝑥+1
+
+d) e
+
+Question 2. Dans le plan muni d’un repère, les courbes représentatives des fonctions
+𝑥 ⟼ 15𝑥 2 + 10𝑥 − 1 et 𝑥 ⟼ 19𝑥 2 − 22𝑥 + 10 ont :
+a) aucun point
+b) un seul point
+c) deux points
+d) quatre points
+Question 3. Le plan est rapporté à un repère orthonormé. Le cercle de centre A de
+coordonnées ( 3 ;  1) et de rayon 5 a pour équation cartésienne :
+a) ( 𝑥 + 3)2 + ( 𝑦  1)2 = 25
+
+b) ( 𝑥 − 3)2 + ( 𝑦 + 1)2 = 5
+
+c) ( 𝑥 + 3)2 + ( 𝑦  1)2 = 5
+
+d) ( 𝑥 − 3)2 + ( 𝑦 + 1)2 = 25
+
+Question 4. Dans un repère orthonormé, la droite 𝑑 d’équation cartésienne
+3 𝑥 + 2 𝑦 + 4 = 0 admet un vecteur normal de coordonnées :
+)
+−3
+
+a) (
+
+−3
+)
+
+b) (
+
+c) ( )
+
+d) ( )
+
+Question 5. Le plus petit entier naturel 𝑛 tel que la somme 1 + 2 + 3 + 4 + ⋯ + 𝑛 soit
+supérieure à 5000 est égal à :
+a) 1000
+b) 500
+c) 200
+d) 100
+
+Exercice 2 (5 points)
+On considère la fonction dérivable 𝑓 définie sur R par 𝑓(𝑥) = 8𝑥 3 − 6𝑥 2 − 2. On note 𝑓′ la
+fonction dérivée de la fonction 𝑓.
+Soit 𝐶 la courbe représentative de 𝑓 dans un plan muni d’un repère orthogonal.
+1.
+a. Justifier que pour tout réel 𝑥, 𝑓 (𝑥) = ( 𝑥  1 ) ( 8𝑥 2 + 2𝑥 + 2 ).
+b. En déduire que la courbe 𝐶 coupe l’axe des abscisses en un seul point A dont on donnera
+les coordonnées.
+2.
+a. Justifier que pour tout réel 𝑥, 𝑓′(𝑥) = 12𝑥(2𝑥 − 1).
+b. En déduire le tableau de variations de la fonction f.
+
+3. Le point B de coordonnées (0 ;  ) appartient-il à la tangente T à la courbe 𝐶 au point B
+d’abscisse 𝑥 =
+
+? Justifier.
+
+Exercice 3 (5 points)
+Un parfumeur propose l’un de ses parfums, appelé « Fleur Rose », et cela uniquement avec
+deux contenances de flacons : un de 30 ml ou un de 50 ml. Pour l'achat d'un flacon « Fleur
+Rose », il propose une offre promotionnelle sur un autre parfum appelé « Bois d’ébène ». On
+dispose des données suivantes :
+ 58 % des clients achètent un flacon de parfum « Fleur Rose » de 30 ml et, parmi ceuxlà, 24 % achètent également un flacon du parfum « Bois d’ébène » ;
+ 42 % des clients achètent un flacon de parfum « Fleur Rose » de 50 ml et, parmi ceuxlà, 13 % achètent également un flacon du parfum « Bois d’ébène ».
+On admet qu’un client donné n’achète qu’un seul flacon de parfum « Fleur de Rose » (soit en
+30 ml soit en 50 ml), et que s’il achète un flacon du parfum « Bois d’ébène », il n’en achète
+aussi qu’un seul flacon.
+On choisit au hasard un client achetant un flacon du parfum « Fleur Rose ». On considère les
+événements suivants :
+ F : « le client a acheté un flacon « Fleur Rose » de 30 ml » ;
+ B : « le client a acheté un flacon « Bois d’ébène ».
+1. Construire un arbre pondéré traduisant les données de l’exercice.
+2. Calculer la probabilité 𝑃(F ∩ B).
+3. Calculer la probabilité que le client ait acheté un flacon « Bois d’ébène ».
+4. Un flacon « Fleur Rose » de 30 ml est vendu 40 €, un flacon « Fleur Rose » de 50 ml est
+vendu 60 € et un flacon « Bois d’ébène » 25 €. On note 𝑋 la variable aléatoire correspondant
+au montant total des achats par un client du parfum « Fleur Rose ».
+a. Déterminer la loi de probabilité de 𝑋.
+b. Calculer l’espérance de 𝑋 et interpréter le résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+D’après l’ADEME (Agence De l’Environnement et de la Maîtrise de l’Énergie), chaque français
+a produit une masse moyenne de 365 kg de déchets ménagers en 2018.
+Un maire, étant informé que la masse moyenne de déchets ménagers dans sa commune en
+2018 était de 400 kg par habitant, décide d’une campagne annuelle de sensibilisation au
+recyclage qui conduit à une réduction de cette production de 1,5 % par an, et cela dès
+l’année 2019.
+On modélise alors la masse moyenne de déchets ménagers par habitant calculée en fin
+d’année dans cette commune par une suite (𝑑𝑛 ) où pour tout entier naturel 𝑛, 𝑑𝑛
+correspond à la masse moyenne de déchets ménagers par habitant, en kg, pour l’année
+2018+ 𝑛. Ainsi, 𝑑0 = 400.
+1. Prouver que 𝑑1 = 394. Interpréter ce résultat.
+2. a. Déterminer la nature de la suite (𝑑𝑛 ). Préciser sa raison et son premier terme.
+b. Pour tout entier naturel 𝑛, exprimer 𝑑𝑛 en fonction de 𝑛.
+3. a. D’après le tableau de valeurs suivant, en quelle année la masse moyenne de déchets
+ménagers par habitant deviendra-t-elle inférieure à 365 kg ?
+
+𝑛
+
+𝑑𝑛
+
+394 388,09 382,27 376,53 370,89 365,32 359,84
+
+354,45
+
+b. Écrire une fonction Python qui retourne l’année à laquelle la masse moyenne de déchets
+ménagers par habitant de la commune devient inférieure à 365 kg.

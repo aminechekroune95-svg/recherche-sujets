@@ -1,0 +1,169 @@
+{"pages": 5, "method": "pdftotext", "bytes": 989650, "at": "2026-11-23T09:00:24+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+1. Pour tout réel 𝑥, sin⁡(7π − 𝑥⁡) est égal à :
+a) sin 𝑥
+
+b) −⁡sin 𝑥
+
+c) cos 𝑥
+
+d) − cos 𝑥
+
+2. Dans laquelle des quatre situations proposées ci-dessous le produit scalaire ⃗⃗⃗⃗⃗
+𝐴𝐵 ⁡ ∙ ⃗⃗⃗⃗⃗
+𝐴𝐶 estil égal à 6 ?
+a) ABC est un
+triangle tel que :
+𝐴𝐵 = 6, 𝐴𝐶 = 4 et
+𝐵𝐶 = 8.
+
+c) ABC est un
+triangle rectangle en
+B tel que :
+𝐴𝐵 = 3 et = 2 .
+
+b) Dans un repère
+orthonormé du plan :
+𝐴(−3; 5), 𝐵(2; −2)
+et 𝐶(1; 7).
+
+d) ABC est un
+triangle tel que :
+𝐴𝐵 = 6, 𝐴𝐶 = 4
+̂ = 30° .
+et 𝐵𝐴𝐶
+
+3𝑥+4
+
+3. On considère la fonction 𝑓 définie sur R par : 𝑓(𝑥) = 𝑥 2 +1 .
+𝑓 est dérivable sur R et, pour tout réel 𝑥,⁡ 𝑓′(𝑥) est égal à :
+9𝑥 2 +8𝑥+3
+
+a) 2𝑥
+
+b) (𝑥 2 +1)²
+
+c)
+
+−3𝑥 2 −8𝑥+3
+(𝑥 2 +1)²
+
+d) 9𝑥 2 + 8𝑥 + 3
+
+4. Le plan est rapporté à un repère orthonormé.
+L'ensemble des points 𝑀(𝑥⁡; 𝑦) tels que 𝑥² + 𝑦² − 10𝑥 + 6𝑦 + 30 = 0 est :
+a) une droite
+
+b) une parabole
+
+c) un cercle
+
+d) ni une droite, ni une
+parabole, ni un cercle.
+
+5. La somme 1 + 5 + 52 + ⁡ 53 + ⁡ … + 530 est égale à :
+a)
+
+1⁡−⁡530
+
+⁡
+
+b)
+
+530 −⁡1
+
+c)
+
+1⁡−⁡531
+
+d)
+
+531 −⁡1
+
+Exercice 2 (5 points)
+Une enquête a été réalisée auprès des élèves d'un lycée afin de connaître leur point de vue
+sur la durée de la pause méridienne et sur les rythmes scolaires.
+L'enquête révèle que 55 % des élèves sont favorables à une pause méridienne plus longue.
+Parmi ceux qui sont favorables à une pause méridienne plus longue, 95 % souhaitent une
+répartition des cours plus étalée sur l'année scolaire.
+Parmi ceux qui ne sont pas favorables à une pause méridienne plus longue, seulement 10 %
+souhaitent une répartition des cours plus étalée sur l'année scolaire.
+On tire au hasard le nom d’un élève du lycée.
+On considère les événements suivants :
+ 𝐿 : « L'élève concerné est favorable à une pause méridienne plus longue. »
+ 𝐶⁡: « L'élève concerné souhaite une répartition des cours plus étalée sur l'année
+scolaire. ».
+1. Recopier et compléter l'arbre pondéré ci-dessous décrivant la situation.
+
+2. Calculer la probabilité que l'élève concerné soit favorable à une pause méridienne plus
+longue et souhaite une répartition des cours plus étalée sur l'année scolaire.
+3. Montrer que 𝑃(𝐶) = 0,5675.
+4. Calculer la probabilité que l'élève concerné soit favorable à une pause méridienne plus
+longue sachant qu'il souhaite une répartition des cours plus étalée sur l'année scolaire.
+En donner une valeur arrondie à 10−4.
+5. Les événements 𝐿 et 𝐶 sont-ils indépendants ? Justifier la réponse.
+
+Exercice 3 (5 points)
+À l’issue d’une étude conduite pendant plusieurs années, on modélise l'évolution du prix du
+m² d'un appartement neuf dans une ville française de la manière suivante :
+À partir d'un prix de 4 200 € le m² en 2019, on applique chaque année une augmentation
+annuelle de 3 % .
+1. Avec ce modèle, montrer que le prix du m² d'un appartement neuf dans cette ville en
+2021 serait de 4 455,78 €.
+2. On considère la suite de terme général 𝑢𝑛 qui permet d’estimer, avec ce modèle, le prix
+en euro du m² d'un appartement neuf l'année 2019 + 𝑛. On a donc 𝑢0 = 4 200.
+Z
+
+a) Quelle est la nature de la suite (𝑢𝑛 ) ? En préciser la raison.
+b) En déduire l'expression du terme général 𝑢𝑛 en fonction de 𝑛, pour tout entier naturel 𝑛.
+c) Selon ce modèle, pourra-t-on acheter en 2024, un appartement de 40 m² si l'on dispose
+d'une somme de 200 000 € ?
+3. On définit, en langage Python, la fonction seuil ci-dessous.
+
+Recopier et compléter les lignes 5 et 7 de sorte que cette fonction renvoie le nombre
+d'années nécessaires pour que, selon ce modèle, le prix du m² d'un appartement neuf
+dépasse 8 000 €.
+
+Exercice 4 (5 points)
+1. Soit ⁡𝑓 la fonction définie sur R par 𝑓(𝑥) = 4𝑥 3 − 48𝑥 2 + 144𝑥.
+a) Calculer 𝑓′(𝑥) et montrer que 𝑓 ′ (𝑥) = 12(𝑥 2 − 8𝑥 + 12).
+b) En déduire le tableau variations de la fonction 𝑓 sur R.
+2. Dans une plaque de carton carrée de 12 cm de côté, on découpe, aux quatre coins, des
+carrés identiques afin de construire une boîte sans couvercle, comme indiqué sur les figures
+ci-dessous.
+On note 𝑥 la longueur (en cm) du côté de chacun des carrés découpés.
+On admet que 𝑥 ∈⁡]0⁡; 6[.
+12 cm
+
+L'objectif est de déterminer la longueur 𝑥 permettant d'obtenir une boîte de volume
+maximal.
+a) Montrer que le volume de la boîte est égal à 100⁡cm3 pour 𝑥 = 1. Détailler le calcul.
+b) Montrer que, pour 𝑥 ∈⁡]0⁡; 6[, le volume de la boîte est égal à 𝑓(𝑥), 𝑓 étant la fonction
+étudiée à la question 1.
+c) Quelle est la valeur de 𝑥 permettant d'obtenir une boîte de volume maximal ?

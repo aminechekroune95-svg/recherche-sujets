@@ -1,0 +1,126 @@
+{"pages": 5, "method": "pdftotext", "bytes": 805390, "at": "2026-11-23T08:56:34+00:00"}
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Dans cet exercice, il n’est pas demandé de justification. Répondre à chaque énoncé dans la
+colonne de droite du tableau.
+Question
+n°
+
+Énoncé
+
+Un sac contient 11 jetons rouges, 3 jetons bleus et 6 jetons verts.
+Déterminer, en pourcentage, la proportion de jetons verts dans le
+sac.
+
+Donner le résultat sous forme simplifiée de
+
+Réponse
+
+−2 ×
+
+.
+
+Développer et réduire 3𝑥(𝑥 − 1) + (𝑥 + 2)2 .
+
+𝑓 est la fonction définie par 𝑓(𝑥) = 2 𝑥 2 + 3𝑥 − 5.
+Calculer l'image de −1 par 𝑓.
+
+Donner la forme factorisée de (2𝑥 − 3)(𝑥 + 2) − 5(𝑥 + 2).
+
+La surface 𝑆 d'une sphère de rayon 𝑅 est donnée par la formule
+𝑆 = 4𝜋 × 𝑅 2. Exprimer 𝑅 en fonction de 𝑆.
+
+Calculer, en cm3, le volume 𝑉 d'un cylindre de rayon
+𝑅 = 0,4 cm et de hauteur ℎ = 5 cm en prenant pour 𝜋
+la valeur 3. On rappelle que 𝑉 = 𝜋 × 𝑅 2 × h.
+Déterminer l'équation réduite de la droite (𝐷) passant par les
+points 𝐴(2; 4) et 𝐵(6; 6).
+
+Résoudre graphiquement avec la précision
+permise par le graphique :
+
+𝑓(𝑥) = 0
+
+𝑓(𝑥) = 𝑔(𝑥)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Au 1er janvier 2019, un étang contient 3 000 m3 d’eau. La population de poissons ne peut
+survivre que s’il y a au moins 2 500 m3 d’eau dans l’étang. Le maire de la commune sur
+laquelle se trouve cet étang a commandé une étude qui indique qu’en raison de la nature
+des sols, l’étang perd chaque année 5 % du volume d’eau qu’il avait en début d’année et est
+naturellement alimenté, au cours de chaque année, par 76 m3 d’eau.
+On modélise l’évolution du volume d’eau de cet étang par une suite 𝑢 où 𝑢(𝑛) désigne la
+quantité d’eau, en mètre cube, contenue dans l’étang, le 1er janvier de l’année 2019 + 𝑛.
+On a donc 𝑢(0) = 3 000.
+
+1. Montrer que 𝑢(1) = 2 926.
+2. Montrer que, pour tout entier naturel 𝑛, on a : 𝑢(𝑛 + 1) = 0,95 𝑢(𝑛) + 76.
+3. À l’aide d’un tableur, le maire de cette commune a calculé les huit premiers termes
+de la suite.
+Sur la capture d’écran ci-dessous, les valeurs affichées ont été arrondies à l’unité.
+
+a. Quelle formule peut-on entrer dans la cellule C2 afin d’obtenir, par recopie
+vers la droite, les premiers termes de la suite 𝑢 ?
+b. La suite 𝑢 est-elle une suite arithmétique ? géométrique ? Justifier.
+4. À partir de quelle année la quantité d’eau dans l’étang devient insuffisante pour la
+subsistance des poissons de cet étang ? Expliquer la démarche utilisée.
+
+Exercice 3 (5 points)
+Dans le cadre d'un projet expérimental, des lycéens ont fabriqué une fusée de feu d'artifice
+qui est lancée à partir d'une plateforme située à 8 m de hauteur.
+La hauteur de la fusée (en mètre) atteinte en fonction du temps t (en dixième de seconde)
+est modélisée par la fonction 𝑓 définie par :
+𝑓(𝑡) = −0,5 𝑡 2 + 10𝑡 + 8 pour 𝑡 ∈ [0 ; 20].
+
+1. Calculer 𝑓(10). Interpréter le résultat dans le contexte de l’exercice.
+2. L’explosion de la fusée ne peut être déclenchée qu’à une hauteur minimum de 40
+mètres. Les lycéens cherchent le temps de vol à programmer avant l’explosion.
+On note 𝑔 la fonction définie sur [0; 20] par
+𝑔(𝑡) = −0,5 𝑡 2 + 10𝑡 − 32
+a) Vérifier que 𝑔(𝑡) = −0,5(𝑡 − 4)(𝑡 − 16).
+b) Montrer que le problème revient à résoudre l'inéquation 𝑔(𝑡) ≥ 0.
+c) Résoudre l'inéquation et répondre au problème.
+
+Exercice 4 (5 points)
+Un fabricant d'ampoules possède deux machines notées A et B. La machine A fournit 65 %
+de la production et la machine B fournit le reste. Certaines ampoules présentent un défaut
+de fabrication :
+
+
+
+À la sortie de la machine A, 8 % des ampoules présentent un défaut ;
+À la sortie de la machine B, 4 % des ampoules présentent un défaut.
+
+La production quotidienne du fabricant est de 15 000 ampoules par jour.
+1. Combien d'ampoules proviennent de chacune des machines ?
+2. Recopier puis compléter le tableau croisé des effectifs :
+Machine
+A
+
+B
+
+Total
+
+Défaut
+Avec défaut
+
+Sans défaut
+Total
+
+15 000
+
+3. Calculer la fréquence en pourcentage des ampoules ayant un défaut.
+4. On définit les événements suivants :
+A : « l'ampoule provient de la machine A » ;
+D : « l'ampoule présente un défaut ».
+Déterminer 𝑃(𝐴 ∩ 𝐷).

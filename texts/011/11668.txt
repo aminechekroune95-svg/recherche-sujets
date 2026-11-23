@@ -1,0 +1,162 @@
+{"pages": 9, "method": "pdftotext", "bytes": 616114, "at": "2026-11-23T08:54:46+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+1.
+
+Le prix d'un objet est passé de 30 euros à 36 euros.
+Calculer le taux d’évolution en pourcentage ?
+
+2.
+
+Par combien faut-il multiplier une quantité positive pour
+que celle-ci diminue de 15% ?
+
+3.
+
+Après une augmentation du prix de 10%, un article est
+vendu 44 euros.
+Quel était le prix de départ ?
+
+4.
+
+Résoudre dans ℝ l'équation suivante : 2(𝑥 – 3)– 4 = 7𝑥.
+
+5.
+
+Résoudre dans ℝ l'équation suivante : (𝑥 + 1)2 = 7.
+
+6.
+
+Résoudre dans ℝ l'inéquation : 2(𝑥– 1) ≤– 3𝑥 + 8.
+
+Durée : 20 minutes
+
+Réponse
+
+Déterminer l'équation réduite de la
+droite Δ représentée ci-contre.
+
+7.
+
+8.
+
+Étudier le signe de l’expression (10𝑥 − 7)(−𝑥 + 3)
+sur ℝ.
+
+Pour les questions 9 et 10, on considère la situation suivante :
+Entre le 1er et le 8 mars 2020, une agence bancaire a étudié le nombre de paiements effectués
+par 500 de ses clients en utilisant le mode « sans contact » de leur carte bancaire. Elle a obtenu
+le diagramme en barres ci-dessous.
+Nombre de clients
+
+Nombre de paiements "sans contact"
+
+9.
+
+Combien de clients ont effectué 28 paiements en
+utilisant le mode « sans contact » de leur carte bancaire
+entre le 1er et le 8 mars 2020 ?
+
+Combien de clients ont effectué au moins 30 paiements
+10. en utilisant le mode « sans contact » de leur carte
+bancaire entre le 1er et le 8 mars 2020 ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+1. Antonella prend tous les jours sa voiture pour se rendre au travail. Il rencontre sur son trajet
+3 feux tricolores qui fonctionnent tous les trois de la même manière et de façon
+indépendante. Des relevés statistiques ont permis d’établir que pour chaque feu la
+probabilité qu’il soit vert lorsqu’Antonella s’y présente est égale à 0,6.
+V désigne l'événement : « le feu est vert » et 𝑉̅ l’événement contraire.
+a. Illustrer par un arbre de probabilité l'expérience aléatoire consistant à rencontrer
+successivement les trois feux.
+b. Quelle est la probabilité qu'Antonella rencontre 3 feux verts ?
+c. Quelle est la probabilité qu'Antonella rencontre au moins un feu vert ?
+2. Une tombola a été organisée par l’Amicale des personnels de la société dans laquelle
+Antonella travaille. 200 billets ont été mis en vente et ils ont été tous vendus.
+Chaque billet était vendu au tarif unique de 5 euros.
+Parmi ces 200 billets, un billet permet de gagner 100 euros, 5 billets permettent, chacun, de
+gagner 20 euros, 20 billets permettent, chacun, de gagner 5 euros et enfin les autres billets
+sont tous perdants.
+Soit 𝑋 la variable aléatoire associant à chaque billet le gain algébrique du joueur. On rappelle
+que le gain algébrique est la différence entr le montant gagné à l’issue du jeu et la mise.
+a. Donner les différentes valeurs prises par 𝑋.
+b. Déterminer la loi de probabilité de 𝑋.
+
+Exercice 3 (5 points)
+Une entreprise fabrique 𝑥 tonnes d'un certain produit, avec 𝑥 ∈ [0 ; 20]. Le coût total de
+production de 𝑥 tonnes de produit, exprimé en milliers d'euros, est donné par :
+𝐶(𝑥) = 𝑥 3 – 30𝑥 2 + 300𝑥.
+1. On suppose que toute la production est vendue. La recette totale, exprimée en milliers
+d'euros, est donnée par la fonction 𝑟 définie sur [0 ; 20] par : 𝑟(𝑥) = 108𝑥. La fonction
+associée au bénéfice exprimé en milliers d’euros est donnée par la fonction 𝐵 définie pour
+tout 𝑥 de [0 ; 20] par 𝐵(𝑥) = 𝑟(𝑥)– 𝐶(𝑥).
+Vérifier que pour tout réel 𝑥 appartenant à [0 ; 20], on a : 𝐵(𝑥) = −𝑥 3 + 30𝑥 2 − 192𝑥.
+2. Montrer que pour tout 𝑥 de [0 ; 20], la fonction dérivée associée au bénéfice 𝐵 admet
+comme expression 𝐵 ′ (𝑥) = 3(4 − 𝑥)(𝑥 − 16).
+3. Dresser le tableau de variations sur [0 ; 20], de la fonction 𝐵.
+4. En déduire la quantité que l’entreprise doit fabriquer et vendre pour obtenir un bénéfice
+maximal. Donner la valeur en milliers d‘euros de ce bénéfice.
+5. Le directeur commercial de cette entreprise souhaite déterminer les quantités à produire et
+à vendre pour obtenir un bénéfice strictement positif. Il affirme que si l’entreprise fabrique
+et vend entre 8 et 20 tonnes de produit, alors son objectif est atteint, à savoir le bénéfice est
+strictement positif. Le chef de production quant à lui affirme qu’il faudrait fabriquer et
+vendre entre 10 et 20 tonnes pour atteindre l’objectif.
+Pour chacune des deux affirmations, dire si elle est vraie ou fausse en justifiant la réponse.
+
+Exercice 4 (5 points)
+L’objectif de cet exercice est de représenter en perspective
+cavalière la sculpture de Victor Vasarely représentée en photo
+ci-contre avec uniquement les cercles extérieurs sur chaque face
+visible.
+La figure donnée en annexe, qui est à rendre avec la copie,
+représente le cube de Vasarely en perspective cavalière sur lequel
+sont représentées les cercles inscrits des faces ABFE et de BCGF.
+
+Cube C 1970
+Aluminium poli et sérigraphié
+17,1 x 17,1 x 17,1 cm
+Victor Vasarely
+
+1. Sur figure donnée en annexe, on considère le cercle inscrit dans la face ABFE.
+Tracer la tangente (t) en M à ce cercle et montrer que (t) et (BE) sont parallèles.
+√2
+
+2. Justifier que OM = 2 OA.
+3. Sur la face ABCD, construire le centre O' de la face ABCD.
+4. Le cercle inscrit dans la face ABCD coupe respectivement les segments [O'D], [O'C], [O'B] et
+[O'A] en M', N', P' et Q'.
+En utilisant le résultat établi dans la question 2. et en effectuant les mesures nécessaires,
+construire ces points M’, N’, P’ et Q’.
+5. Tracer ensuite les tangentes au cercle inscrit dans la face ABCD en ces mêmes points en
+justifiant la construction, puis terminer le tracé de l’ellipse représentant le cercle inscrit dans
+le carré ABCD.
+
+Annexe à rendre avec la copie
+Exercice 4

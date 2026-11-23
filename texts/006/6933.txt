@@ -1,0 +1,146 @@
+{"pages": 7, "method": "pdftotext", "bytes": 818070, "at": "2026-11-23T08:56:34+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Exercice 1 (5 points)
+Sans calculatrice
+
+Énoncé
+
+1.
+
+Donner le coefficient multiplicateur
+correspondant à une hausse de 25 %.
+
+2.
+
+Donner le coefficient multiplicateur
+correspondant à une baisse de 11 %.
+
+3.
+
+Une calculatrice qui coûte 79 € bénéficie d’une
+remise de 20 % ; quel est son prix final ?
+
+4.
+
+Résoudre dans R l’équation 3𝑥 − 8 = 5𝑥 + 10.
+
+5.
+
+Résoudre dans R l’équation 𝑥 2 = 144.
+
+Durée : 20 minutes
+
+Réponse
+
+Énoncé
+
+6.
+
+7.
+
+8.
+
+Réponse
+
+Un jean coûte 110 euros, il est d’abord soldé à
+30 % puis il est de nouveau soldé à 20 %. Quel
+est le prix final ?
+
+Résoudre dans R l’inéquation 5𝑡 − 6 > 2𝑡 + 6
+
+Après une augmentation de 20 %, un objet coûte
+72 euros. Quel est son prix initial ?
+À l’aide de la capture d’écran ci-dessous,
+déterminer le signe sur R de l’expression
+−2,25 − 45,5𝑥.
+
+9.
+
+10.
+
+Donner le tableau de signe sur R de l’expression
+− 7(𝑥 − 2)(−2𝑥 + 5).
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Les deux figures planes données sont constituées de losanges identiques au losange ABCD.
+La figure 1 est compose d’un hexagone régulier et se compose trois losanges.
+
+1.
+2.
+
+Donner la mesure en degré de chacun des angles du losange ABCD.
+Caractériser une transformation géométrique qui, par répétitions successives, permet
+de construire la figure 2 à partir du losange ABCD.
+
+3.
+
+On pose a = AB. Démontrer que l’aire du triangle ABD est :
+
+4.
+
+𝑎2 √3
+
+et en déduire la surface
+
+de l’hexagone de la figure 1 en fonction de a.
+On crée une nouvelle figure comprenant 5 losanges en appliquant au losange ABCD les
+symétriques d’axes [AB], [BC], [CD] et [DA]. Quelle figure obtient-on? Indiquer sur la
+copie la réponse choisie sans justification.
+
+5. Dans la partie de pavage donné en Annexe 1, caractériser une transformation
+géométrique permettant de passer de la figure 1 à la figure 2, en créant les éléments
+nécessaires sur la figure.
+
+Exercice 3 (5 points)
+On considère la suite (u(n)) définie par u(0)=3 et, pour tout entier n, u(n + 1) = 2 u(n) + 3.
+1. Calculer la valeur des termes u(1), u(2) et u(3).
+La suite (u(n)) est-elle arithmétique ? Justifier la réponse.
+2. On pose, pour tout entier n, v(n) = u(n) + 3 et on admet que, pour tout entier n,
+v(n) > 0.
+a. Démontrer que la suite (v(n)) est une suite géométrique de raison 2.
+b. En déduire le sens de variations de la suite (v(n)).
+3. On admet que, pour tout entier n, v(n) = 6 × 2𝑛 .
+a. Donner l’expression de u(n) en fonction de n.
+b. À l’aide de la calculatrice, déterminer le rang n à partir duquel u(n) ≥ 10000.
+
+Exercice 4 (5 points)
+Dans un lycée, les 350 élèves de première se répartissent suivant leur taille comme indiqué
+dans le tableau ci-dessous :
+Filles
+Moins de 1,8 m
+
+Garçons
+
+Plus de 1,8 m
+
+Les résultats sont donnés sous forme de fraction irréductible.
+1. Compléter le tableau donné en Annexe 2.
+On choisit un élève de première au hasard et on l'interroge sur sa taille.
+On note F l'évènement « l'élève est une fille » ; T l'évènement « l'élève mesure plus de
+1,8 m » et 𝑇̅ son évènement contraire. On note p(A) la probabilité d’un évènement 𝐴.
+2. Donner la probabilité des évènements F et T.
+3. Déterminer la probabilité de l'évènement
+« l'élève est une fille qui mesure plus de 1,8 m »
+4. Que représente dans le contexte la probabilité conditionnelle 𝑝𝐹 (T) ? En donner la
+valeur.
+5. Calculer la probabilité que l’élève interrogé soit une fille sachant qu’il mesure moins de
+1,8 m.
+
+ANNEXES à rendre avec la copie
+ANNEXE 1
+
+(Exercice 1)
+
+ANNEXE 2 (Exercice 4)
+Filles
+Moins de 1,8 m
+
+Garçons
+
+Plus de 1,8 m

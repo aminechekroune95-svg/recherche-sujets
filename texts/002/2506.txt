@@ -1,0 +1,170 @@
+{"pages": 6, "method": "pdftotext", "bytes": 913248, "at": "2026-11-23T09:00:41+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans réponse
+n’apporte ni ne retire de point.
+Question 1
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = sin(𝑥) − 𝑥.
+Parmi les propositions suivantes, laquelle est vraie ?
+a) 𝑓 est paire.
+
+b) 𝑓 est impaire.
+
+c) Pour tout réel 𝑥,
+𝑓(𝑥 + 2π) = 𝑓(𝑥).
+
+d) Pour tout réel 𝑥,
+𝑓(𝑥 + π) = −𝑓(𝑥).
+
+Question 2
+Dans l’intervalle ]−π; π], l’équation 2 cos(𝑥) − √3 = 0 a pour solutions :
+
+a) − 6 et 6
+
+b) − 4 et 4
+
+c) − 3 et 3
+
+2π
+
+Question 3
+Soit 𝐴𝐵𝐶𝐷 un parallélogramme tel que :
+̂ = π.
+𝐴𝐵 = 3, 𝐴𝐷 = 4 et 𝐵𝐴𝐷
+⃗⃗⃗⃗⃗
+⃗⃗⃗⃗⃗
+Alors 𝐷𝐴. 𝐷𝐶 est égal à :
+a) 12
+
+b) −12
+
+c) 6
+
+2π
+
+d) − 3 et 3
+
+d) −6
+
+Question 4
+Le plan est muni d’un repère orthonormé (𝑂, 𝑖, 𝑗).
+On considère la droite (𝑑1 ) d’équation 3𝑥 − 4𝑦 + 1 = 0. La droite (𝑑2 ) perpendiculaire à (𝑑1 ) et
+passant par le point 𝐴(1 ; 1) a pour équation :
+a) 4𝑥 + 3𝑦 = 0
+
+b) 4𝑥 + 3𝑦 − 7 = 0
+
+c) 𝑥 + 𝑦 − 2 = 0
+
+d)−4𝑥 + 3𝑦 + 1 = 0
+
+Question 5
+Le plan est muni d’un repère orthonormé (𝑂, 𝑖, 𝑗). Les droites (𝑑) et (𝑑′) d’équations
+respectives 2𝑥 − 𝑦 + 5 = 0 et −4𝑥 + 2𝑦 + 7 = 0 sont :
+a) confondues
+
+b) sécantes
+
+c) parallèles
+
+d) perpendiculaires
+
+Exercice 2 (5 points)
+Dans tout l'exercice, les résultats seront arrondis, si nécessaire, au dix millième.
+On étudie un test de dépistage pour une certaine maladie dans une population donnée. On
+sait que 1% de la population est atteint de la maladie. Des études ont montré que si une
+personne est malade, alors le test se révèle positif dans 97% des cas et si une personne n’est
+pas malade, le test est négatif dans 98% des cas.
+Pour une personne à qui ont fait passer le test de dépistage on associe les événements :
+ 𝑀 : la personne est malade,
+ 𝑇 : le test est positif.
+
+1. Recopier et compléter sur la copie l’arbre de probabilité suivant en utilisant les données de
+l’exercice.
+
+̅ ∩ 𝑇) = 0,0198.
+2. Justifier que 𝑃(𝑀
+3. Montrer que 𝑃(𝑇) = 0,0295.
+4. Calculer 𝑃𝑇 (𝑀).
+5. Une personne dont le test se révèle positif est-elle nécessairement atteinte par cette
+maladie ?
+
+Exercice 3 (5 points)
+On s’intéresse à la consommation d’essence d’un véhicule en fonction de sa vitesse.
+Lecture graphique.
+Le graphique ci-dessous représente la consommation d’essence en litres pour 100 km en
+fonction de la vitesse en km.h-1 du véhicule.
+
+Avec la précision permise par le graphique, répondre aux questions suivantes :
+1. Quelle est la consommation du véhicule lorsque celui-ci roule à 40 km.h-1 ?
+2. Pour quelle(s) vitesse(s) le véhicule consomme-t-il 8 litres pour 100 km ?
+3. Pour quelle vitesse la consommation du véhicule semble-t-elle minimale ?
+Modélisation.
+Si on note 𝑥 est la vitesse du véhicule en km.h-1, avec 30 ≤ 𝑥 ≤ 130, la consommation
+d’essence en litres pour 100 km est modélisée par la fonction 𝑓 d’expression :
+20𝑥 2 − 1600𝑥 + 40000
+𝑓(𝑥) =
+𝑥2
+On désigne par 𝑓′ la fonction dérivée de la fonction 𝑓 sur l’intervalle [30; 130].
+4. Montrer que pour tout 𝑥 ∈ [30; 130],
+𝑓 ′ (𝑥) =
+
+800(2𝑥 − 100)
+𝑥3
+
+5. Démontrer la conjecture de la question 3.
+
+Exercice 4 (5 points)
+𝑛+2
+
+On considère la suite (𝑢𝑛 ) définie pour tout entier naturel 𝑛, par 𝑢𝑛 = 𝑛+1.
+1. Calculer 𝑢0 , 𝑢1 , 𝑢2 puis 𝑢99 .
+2.
+a. Exprimer, pour tout entier naturel 𝑛, 𝑢𝑛 − 1 en fonction de 𝑛.
+b. Montrer que, pour tout entier naturel 𝑛, on a :
+−1
+𝑢𝑛+1 − 𝑢𝑛 =
+(𝑛 + 1)(𝑛 + 2)
+c. En déduire le sens de variation de la suite (𝑢𝑛 ).
+3. Soit 𝑎 un nombre réel dans l’intervalle ]1 ; 2].
+Recopier et compléter sur la copie le programme Python suivant pour qu’il permette de
+déterminer le plus petit entier naturel 𝑛 tel que 𝑢𝑛 ≤ 𝑎, où 𝑎 est un nombre de l’intervalle
+]1 ; 2].
+Def
+def seuil(a) :
+nn == 00
+while (n+2)
+(n+2) // (n+1)
+(n+1) ...
+... aa ::
+while
+n = ...
+n = ...
+return ...
+return ...

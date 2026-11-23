@@ -1,0 +1,133 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1162149, "at": "2026-11-23T08:58:57+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Pour chacune des cinq affirmations suivantes, dire si elle est vraie ou fausse. Chaque
+réponse devra être justifiée.
+Toute démarche de justification même non aboutie sera prise en compte.
+1. Dans le plan muni d’un repère orthonormé, on donne les points :
+𝐴(2 ; −2) ,
+𝐵(4 ; 0) , 𝐶(0 ; −5) ,
+𝐷(−7 ; 1).
+Affirmation 1 : Les droites (AB) et (CD) sont perpendiculaires.
+
+Affirmation 2 : Une équation de la droite perpendiculaire à (AB) passant par C est :
+𝑦 =𝑥−5
+Affirmation 3 : Une équation du cercle de centre A passant par B est :
+(𝑥 − 2)2 + (𝑦 + 2)2 = 8
+
+2. Soit 𝑓 la fonction définie pour tout 𝑥 ∈ ]0; +∞[ par :
+𝑒𝑥
+𝑓(𝑥) =
+𝑥
+On note 𝑓 ′ sa fonction dérivée.
+𝑓 ′ (1) = 0
+
+Affirmation 4 :
+
+2𝜋
+
+3. On donne : cos ( 5 ) =
+Affirmation 5 :
+
+−1+√5
+2𝜋
+
+sin ( 5 ) < 0
+
+Exercice 2 (5 points)
+Une entreprise produit entre 1 millier et 5 milliers de pièces par jour. Le coût moyen de
+production d’une pièce, en milliers d’euros, pour 𝑥 milliers de pièces produites, est donné
+par la fonction 𝑓 définie pour tout réel 𝑥 ∈ [1 ; 5] par :
+𝑓(𝑥) =
+
+0,5𝑥 3 − 3𝑥 2 + 𝑥 + 16
+𝑥
+
+1. Calculer le coût moyen de production d’une pièce lorsque l’entreprise produit
+2 milliers de pièces.
+2. On admet que de 𝑓 est dérivable sur [1 ; 5] et on note 𝑓′ sa fonction dérivée.
+Montrer que pour tout réel 𝑥 ∈ [1; 5],
+𝑥 3 − 3𝑥 2 − 16
+𝑓′(𝑥) =
+𝑥2
+3. Vérifier que, pour tout réel 𝑥,
+𝑥 3 − 3𝑥 2 − 16 = (𝑥 − 4)(𝑥 2 + 𝑥 + 4)
+4. En déduire le tableau de variation de 𝑓 sur [1 ; 5].
+5. Déterminer le nombre de pièces à fabriquer pour que le coût moyen de production
+d’une pièce soit minimal, ainsi que la valeur de ce coût minimal.
+
+Exercice 3 (5 points)
+Un complexe cinématographique a ouvert ses portes en 2018 en périphérie d’une ville.
+En 2018, le complexe a accueilli 180 mille spectateurs. La gestionnaire du complexe prévoit
+une augmentation de 4 % par an de la fréquentation du complexe.
+Soit 𝑛 un entier naturel. On note 𝑢𝑛 le nombre de spectateurs, en milliers, du complexe
+cinématographique pour l’année (2018 + 𝑛). On a donc 𝑢0 = 180.
+1. Étude de la suite (𝑢𝑛 ).
+a. Calculer le nombre de spectateurs en 2019.
+b. Justifier que la suite (𝑢𝑛 ) est géométrique. Préciser sa raison.
+c. Exprimer 𝑢𝑛 en fonction de 𝑛, pour tout entier naturel 𝑛.
+2. Un cinéma était déjà installé au centre-ville.
+En 2018, il a accueilli 260 000 spectateurs. Avec l’ouverture du complexe, le cinéma du
+centre-ville prévoit de perdre 10 000 spectateurs par an.
+Pour 𝑛, entier naturel, on note 𝑣𝑛 le nombre de spectateurs, en milliers, accueillis dans le
+cinéma du centre-ville l’année (2018 + 𝑛). On a donc 𝑣0 = 260.
+a. Quelle est la nature de la suite (𝑣𝑛 ) ?
+b. On donne le programme ci-dessous, écrit en Python.
+def cinema() :
+n = 0
+u = 180
+v = 260
+while u < v :
+n = n + 1
+u = 1.04*u
+v = v - 10
+return n
+
+Quelle est la valeur renvoyée lors de l’exécution de la fonction cinema() ?
+L’interpréter dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+La gestionnaire d’un cinéma s’intéresse à la catégorie des films vus par ses spectateurs, ainsi
+qu’à leur consommation au rayon « friandises ». Une étude sur plusieurs mois a montré
+que 40 % des spectateurs sont allés voir un film d’action, 35 % un dessin animé et les autres
+une comédie.
+Parmi les spectateurs allant voir un film d’action, la moitié achètent des friandises, alors
+qu’ils sont 80 % pour ceux allant voir un dessin animé et 70 % pour ceux allant voir une
+comédie.
+On interroge au hasard un spectateur sortant du cinéma et on note :
+𝐴 l’événement : « le spectateur a vu un film d’action »,
+𝐷 l’événement : « le spectateur a vu un dessin animé »,
+𝐶 l’événement : « le spectateur a vu une comédie »,
+𝐹 l’événement : « le spectateur a acheté des friandises ».
+1. Reproduire et compléter sur la copie l’arbre de probabilité ci-dessous représentant la
+situation.
+𝐴
+𝐷
+𝐶
+2. Démontrer que 𝑃(𝐹) = 0,655.
+3. On interroge au hasard un spectateur ayant acheté des friandises. Quelle est la probabilité
+qu’il ait vu un dessin animé ? On donnera l’arrondi à 10−3.
+4. Une place de cinéma coûte 10 €. On considérera que si un spectateur achète des
+friandises, il dépense 18 € pour sa place de cinéma et ses friandises.
+On note 𝑋 la variable aléatoire donnant le coût d’une sortie au cinéma pour un spectateur.
+a. Déterminer la loi de probabilité de 𝑋.
+b. En déduire le coût moyen par spectateur d’une sortie dans ce cinéma.

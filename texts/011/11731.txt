@@ -1,0 +1,204 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1359805, "at": "2026-11-23T08:54:14+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 10
+
+PARTIE I
+Calculatrice interdite
+
+Durée : 20 minutes
+Exercice 1 (5 points)
+
+Énoncé
+
+Réponse
+
+1)
+
+Donner sous forme de fraction irréductible ×
+
+2)
+
+L’équation 𝑥 2 = 6 admet pour solution(s) réelle(s) :
+
+3)
+
+L'écriture décimale de 𝐴 = 2 × 103 + 1 + 64 × 10−2est :
+
+.
+
+Ci-contre est
+tracée une droite
+passant par les
+points A et B.
+
+4)
+
+Donner l’équation
+réduite de cette
+droite.
+
+5)
+
+Une commerçante a vendu 80 paires de chaussures durant une
+semaine d'ouverture de son magasin. Ci-dessous figure le
+diagramme en bâtons exprimant le nombre de paires vendues par
+pointure.
+
+Donner la proportion de paires de taille 40 sous la forme d’une
+fraction irréductible.
+Énoncé
+
+Réponse
+
+Une fonction 𝑓 définie
+sur [−2 ; 2,5] est
+représentée ci-contre.
+
+6)
+
+Donner l’ensemble des
+solutions de
+l’inéquation 𝑓(𝑥) ⩽ 2.
+
+7)
+
+Dresser le tableau de variation de la fonction 𝑓 représentée à la
+question précédente.
+
+8)
+
+Le prix d'un pot de glace est passé de 10 € à 12 €.
+Quel est le taux d'évolution associé à cette évolution ?
+
+9)
+
+Lorsqu'on multiplie une grandeur par 1,5 on l'augmente de :
+
+…%
+
+Une denrée alimentaire voit son prix au kilogramme baisser de
+10) 30 % puis augmenter de 10 %.
+Cela revient à une évolution globale de ce prix de :
+
+…%
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Un magasin d'informatique liquide l'ensemble de ses stocks au moyen d’une série de
+promotions. On se propose d'étudier l'évolution de son stock de souris sur une période de
+six semaines après le démarrage de la liquidation.
+Initialement, le magasin a en stock 240 souris. On peut modéliser la valeur du stock de souris
+au bout de 𝑛 semaines de promotions par la suite (𝑢𝑛 ), définie pour tout entier naturel 𝑛
+(avec 0 ⩽ 𝑛 ⩽ 6) par
+𝑢𝑛 = 240 − 40𝑛.
+1. Calculer 𝑢0 , 𝑢1 , 𝑢2 et 𝑢3 . Donner une interprétation de 𝑢2 .
+2. Dans le repère fourni en annexe 1, représenter les termes 𝑢0 , 𝑢1 , 𝑢2 et 𝑢3 . Au vu du
+graphique qui vient d'être complété, quelle conjecture peut-on émettre au sujet de la
+nature de la suite (𝑢𝑛 ) ? Justifier.
+3. Démontrer cette conjecture.
+4. Donner une relation de récurrence vérifiée par la suite (𝑢𝑛 ). Comment pourrait-on
+résumer l'évolution du stock de souris du magasin ?
+5. Recopier et compléter la fonction ci-dessous, écrite en langage Python, qui calcule le
+nombre de semaines de promotions nécessaires pour que le stock de souris soit
+divisé par quatre par rapport à son état initial.
+def promotion(u)
+n = 0
+while …
+n=n+1
+u=…
+return n
+
+Exercice 3 (5 points)
+Un club de théâtre amateur organise sa représentation de fin d'année ; il a pour cela loué le
+grand théâtre de sa commune.
+Afin d'attirer le maximum de spectateurs à cet événement et de s'assurer ainsi quelques
+revenus, les membres du club décident de faire passer durant plusieurs jours une annonce
+publicitaire à la radio.
+Après 𝑥 jours de publicité (0 ⩽ 𝑥 ⩽ 20), la recette prévue, exprimée en euros, est donnée
+par l'expression :
+𝑅(𝑥) = −2𝑥 3 + 60𝑥 2 + 2000.
+De plus, pour 𝑥 jours de publicité effectués, le coût de la représentation (location de la salle
+et publicité), en euros, est donné par l'expression :
+𝐶(𝑥) = 216𝑥 + 4500.
+1. Les courbes des fonctions 𝑅 et 𝐶 sont tracées dans le repère figurant en annexe 2.
+a) D'après le graphique de l'annexe 2, pour combien de jours de publicité la recette
+est-elle égale à 6000 euros ?
+b) Graphiquement, pour quelles valeurs de 𝑥 a-t-on 𝑅(𝑥) > 𝐶(𝑥) ? Interpréter le
+résultat dans le contexte de l'exercice.
+2. On admet que pour une durée de publicité de 𝑥 jours le bénéfice correspondant
+𝐵(𝑥), en euros, est donné par l'expression :
+𝐵(𝑥) = −2𝑥 3 + 60𝑥 2 − 216𝑥 − 2500.
+a) Calculer 𝐵′(𝑥), fonction dérivée de 𝐵(𝑥). Montrer que :
+𝐵′(𝑥) = (𝑥 − 18)(−6𝑥 + 12).
+b) En déduire le signe de 𝐵′(𝑥) et les variations de 𝐵(𝑥) sur [0; 20].
+c) Quel est le nombre de jours de publicité rendant le bénéfice maximal ?
+
+Exercice 4 (5 points)
+Dans tout l'exercice, on arrondira si nécessaire les résultats au millième.
+Dans un lycée, 360 élèves sont en première ; deux options leur sont proposées : cinéma et
+développement durable. Ces options sont facultatives.
+On sait que :
+ 80 élèves de première sont inscrits dans l'option cinéma ;
+ 70 élèves de première sont inscrits dans l'option développement durable ;
+ 10% des élèves de première sont inscrits dans les deux options.
+Parmi les élèves de première, on choisit au hasard un élève et on considère les événements
+suivants :
+ 𝐶 : « l'élève est inscrit dans l'option cinéma » ;
+ 𝐷: « l'élève est inscrit dans l'option développement durable ».
+1. Compléter sans justifier le tableau croisé d'effectifs donné en annexe 3 à l'aide des
+renseignements fournis par l'énoncé.
+2. Quelle est la probabilité de l'événement 𝐶 ? de l'événement 𝐷 ?
+3. Calculer la probabilité que l'élève choisi ne soit inscrit dans aucune des deux options.
+4. On choisit cette fois au hasard un élève de première parmi ceux qui sont inscrits dans
+l'option cinéma. Quelle est la probabilité qu'il soit également inscrit dans l'option
+développement durable ?
+5. A l'issue de leur première, tous les élèves sont passés en terminale. Ils ont pu alors
+choisir de poursuivre ou non leur(s) option(s) de première, mais il ne leur a pas été
+possible d'en débuter une en terminale.
+Plus précisément, on sait que les changements opérés par les élèves en fin de
+première ont été les suivants :
+ un quart des élèves qui suivaient les deux options ont arrêté le cinéma mais
+conservé l'option développement durable ;
+ un onzième des élèves qui étaient inscrits dans l'option cinéma mais pas dans
+l'option développement durable ont arrêté l'option cinéma ;
+ parmi les élèves qui étaient inscrits dans l'option développement durable
+mais pas dans l'option cinéma, dix ont arrêté l'option développement
+durable.
+Laquelle des deux options, cinéma ou développement durable, comptera-t-elle le
+plus d'élèves inscrits en terminale (on suppose qu'il n'y a pas d'élève redoublant sa
+terminale) ?
+
+Annexes à rendre avec la copie
+Annexe 1
+
+Annexe 2
+
+Annexe 3
+Élèves inscrits en
+cinéma
+
+Élèves non inscrits en
+cinéma
+
+Total
+
+Élèves inscrits en
+développement durable
+Élèves non inscrits en
+développement durable
+Total

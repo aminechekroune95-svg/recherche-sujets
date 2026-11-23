@@ -1,0 +1,153 @@
+{"pages": 6, "method": "pdftotext", "bytes": 979838, "at": "2026-11-23T08:58:00+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points) - Exercice 1
+Énoncé
+1.
+
+Réponse
+
+Augmenter de 20 % revient à multiplier par :
+Un micro-ondes qui coûtait 200 € est soldé
+180 €.
+
+2.
+Calculer le taux d'évolution, exprimé en
+pourcentage, du prix de ce micro-ondes.
+3.
+
+Le prix d’un paquet de pâtes augmente de 30 %
+puis diminue de 20 %.
+Calculer le taux d’évolution global.
+
+4.
+
+Le prix d’un kilogramme de farine a subi une
+baisse de 50 %.
+Calculer le taux d’évolution réciproque.
+On passe de l’indice 100 à l’indice 99,5.
+
+5.
+Déterminer le taux d’évolution en pourcentage.
+6.
+
+Résoudre dans R l’équation 5 𝑥 – 3 = 22 .
+
+7.
+
+Résoudre dans R l’équation 𝑥 2 = 36 .
+
+8.
+
+Résoudre dans R l’inéquation 1– 2 𝑥 ≥ 0 .
+
+9.
+
+Dresser le tableau de signes sur R de
+l’expression 3 𝑥 – 5 .
+
+𝑥
+10.
+
+Compléter le tableau de signes sur R de
+l’expression (𝑥 − 2)(−𝑥 + 5).
+
+-
++
+
+𝑥−2
+−𝑥 + 5
+𝑓(𝑥)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants.
+Exercice 2 : (5 points)
+1. On considère la fonction polynôme 𝑔 définie sur R par 𝑔(𝑥) = −2 (𝑥 + 1) (𝑥 − 3) et (P)
+la parabole représentant cette fonction dans un repère orthogonal.
+a) Donner les deux racines de 𝑔.
+b) Déterminer les coordonnées du sommet S de la parabole (P).
+c) Dresser le tableau de variation de la fonction 𝑔 sur R.
+d) En justifiant la réponse, déterminer laquelle des quatre paraboles ci-dessous
+représente la fonction 𝑔.
+
+Courbe 𝐶1
+
+Courbe 𝐶2
+
+Courbe 𝐶3
+
+Courbe 𝐶4
+
+2. On considère la fonction 𝑓 définie sur R dont la courbe représentative est la courbe
+𝐶3 représentée ci-dessus.
+Résoudre graphiquement dans R l’inéquation 𝑓(𝑥) < 6.
+
+Exercice 3 : (5 points)
+Une entreprise produit et commercialise des baies de Goji bio. Cette entreprise produit
+mensuellement entre 0 et 13 tonnes de ces baies et vend l’intégralité de sa production.
+On appelle 𝑥 la masse de baies produites, exprimée en tonne, pour 𝑥 appartenant à
+l’intervalle [0 ; 13].
+Le coût de production mensuelle de l’entreprise, exprimé en millier d’euros pour 𝑥 tonnes
+de baies produites, est donné par la fonction 𝐶 définie sur l’intervalle [0 ; 13] par :
+𝐶(𝑥) = 𝑥 3 − 15 𝑥 2 + 75 𝑥.
+La recette, exprimée en millier d’euros, pour 𝑥 tonnes de baies produites, est donnée par la
+fonction 𝑅 définie sur l’intervalle [0 ; 13] par 𝑅(𝑥) = 36,75 𝑥.
+1. Calculer le coût de production, la recette et le bénéfice, exprimés en millier d'euros,
+lorsque la production mensuelle de l’entreprise est 8,5 tonnes.
+2. On appelle 𝐵 la fonction qui représente le résultat mensuel, exprimé en millier d’euros,
+réalisé par l’entreprise, qui est défini par 𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+Montrer que 𝐵(𝑥) = −𝑥 3 + 15 𝑥 2 − 38,25 𝑥 pour 𝑥 appartenant à l’intervalle [0 ; 13].
+3. On note 𝐵′ la fonction dérivée de la fonction B sur l’intervalle [0 ; 13].
+Calculer 𝐵′(𝑥).
+4. On admet que 𝐵′(𝑥) s’écrit sous forme factorisée de la manière suivant :
+𝐵 ′(𝑥) = (3 𝑥 − 4,5 ) ( 8,5 – 𝑥)
+a) Construire le tableau de signe de 𝐵′(𝑥) pour 𝑥 appartenant à l'intervalle [0 ; 13].
+b) En déduire le tableau de variation de la fonction 𝐵 sur l'intervalle [0 ; 13].
+
+Exercice 4 : (5 points)
+Lors d'une enquête portant sur les 2 000 salariés d'une entreprise, on a obtenu les
+informations suivantes :
+
+30 % des salariés ont 40 ans ou plus ;
+40 % des salariés de 40 ans ou plus sont des cadres ;
+25 % des salariés de moins de 40 ans sont des cadres.
+
+Un tableau d'effectifs qui traduit la situation est donné ci-dessous.
+Moins de 40 ans
+
+40 ans ou plus
+
+Total
+
+Cadres
+
+Non cadres
+
+Total
+
+2 000
+
+1. Recopier et compléter le tableau. Aucune justification n'est demandée.
+Dans les questions suivantes, les résultats seront donnés sous forme décimale, arrondis si
+nécessaire au millième.
+2. On interroge un employé de cette entreprise. On admet que chaque employé a la même
+probabilité d'être interrogé.
+Pour tout événement 𝐸, on note 𝐸 l'événement contraire de 𝐸, 𝑃(𝐸) la probabilité de 𝐸 et
+𝑃𝐹 (𝐸) la probabilité de 𝐸 sachant que F est réalisé, F étant un événement tel que 𝑃(𝐹) ≠ 0.
+On considère les événements suivants :
+
+M : « La personne interrogée a moins de 40 ans ;
+C : « La personne interrogée est un cadre ».
+
+a) On considère l'événement : « La personne interrogée est un cadre de moins de 40 ans ».
+Nommer l’événement à l'aide de M et C puis calculer sa probabilité.
+
+b) Décrire par une phrase l'événement 𝐶 ∩ 𝑀, puis calculer sa probabilité.
+c) Calculer la probabilité conditionnelle 𝑃𝑀 (𝐶) et interpréter le résultat obtenu dans le
+contexte de l’exercice.
+d) Sachant que la personne interrogée est un cadre, calculer la probabilité qu'elle ait moins
+de 40 ans.

@@ -1,0 +1,137 @@
+{"pages": 6, "method": "pdftotext", "bytes": 613140, "at": "2026-11-23T08:57:31+00:00"}
+Mathématiques : PARTIE I
+Exercice 1 : Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+1)
+
+Calculer 40 % de 200
+
+2)
+
+Compléter
+
+3)
+
+Calculer 10−3 × 107
+
+4)
+
+Donner la fraction irréductible égale à
+
+5)
+
+Donner la fraction irréductible égale à
+
+6)
+
+On donne 𝐽 = 5 𝑚𝑅 2 . Calculer 𝐽 pour 𝑚 = 10 et 𝑅 = 3
+
+12,3 kg =
+…………………g
+
++3
+
+× 9
+
+7)
+
+L’image de 0 par 𝑓 est
+……
+
+8)
+
+L’équation 𝑓(𝑥) = 2
+a …… solution(s) sur
+l’intervalle [−2 ; 2]
+
+9)
+
+𝑓 ′ (0) = ……
+
+10)
+
+C est la courbe représentative d’une fonction 𝑓 définie
+et dérivable sur ℝ. On note 𝑓′
+sa fonction dérivée.
+
+L’équation réduite de la
+tangente à la courbe C
+au point d’abscisse
+0 est :
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices
+indépendants.
+
+Exercice 2 (5 points)
+Le chiffre d’affaires d’une entreprise A augmente de 11 000 € par an.
+En 2016, ce chiffre était de 200 000 €.
+Pour tout entier naturel 𝑛, on note 𝑎𝑛 le chiffre d’affaires de l’année 2016 + 𝑛.
+1. Déterminer le chiffre d’affaires de l’année 2017, puis de l’année 2018.
+2. Pour tout entier naturel 𝑛, exprimer 𝑎𝑛+1 en fonction de 𝑎𝑛 .
+3. Quelle est la nature de cette suite ? Donner son premier terme et sa raison.
+4. En quelle année le chiffre d’affaires de l’entreprise A aura-t-il dépassé 300 000
+€?
+5. Le chiffre d’affaires de l’entreprise B augmente de 5% par an.
+En 2016 ce chiffre était de 200 000 €. En quelle année l’augmentation du
+chiffre d’affaires de l’entreprise sera-t-il supérieur à 11 000 € ?
+
+Exercice 3 (5 points)
+Lorsque l’on fait du ball-trap, les « pigeons
+d’argile » (ou plateaux) sont lancés depuis un
+point O avec une certaine vitesse initiale.
+Dans un repère orthogonal d’origine O, la
+hauteur du plateau, en mètres, est modélisée
+par la fonction ℎ définie sur [0 ; +∞[ par
+ℎ(𝑥) = − 0,08 𝑥 ² + 3𝑥, où 𝑥 désigne la
+distance au sol en mètre du plateau.
+1. On souhaite déterminer à quelle
+distance du lanceur le plateau retombe.
+
+𝑥
+
+a. Montrer que ℎ (𝑥) = −0,08 𝑥 ( 𝑥 − 37,5).
+b. En quel point du sol le plateau retombe-t-il ?
+2. On souhaite déterminer la hauteur maximale atteinte par le plateau.
+On considère une partie d'une feuille de calcul d'un tableur qui donne la
+hauteur atteinte ℎ(𝑥) par le plateau en fonction de 𝑥 :
+
+a. Quelle formule doit-on écrire en B2 permettant d’obtenir par recopie vers la
+droite les valeurs de la hauteur ?
+b. Donner un encadrement de la hauteur maximale.
+3. On souhaite préciser l’encadrement obtenu à la question précédente à l’aide
+de l’algorithme suivant :
+
+Après son exécution, que renvoie l’algorithme ?
+
+Exercice 4 (5 points)
+Une entreprise fabrique et vend une quantité 𝑥 d’objets.
+La capacité maximale de production de l’entreprise est de 21 objets.
+Le coût total de fabrication de 𝑥 objets, exprimé en euros, est donné par :
+𝐶(𝑥) = 2𝑥 3 − 54𝑥 2 + 470𝑥 + 80.
+Sa représentation graphique dans un repère orthogonal est donnée dans le repère
+ci-après.
+Chaque objet est vendu 200 €.
+1. Pour 12 objets fabriqués et vendus, calculer le chiffre d’affaires et le coût.
+2. 𝑅(𝑥) et 𝐵(𝑥) désignent le chiffre d’affaires et le résultat, exprimés en euros,
+pour 𝑥 objets vendus. On rappelle que le résultat est la différence entre le
+chiffre d’affaires et le coût. Lorsque le résultat est positif, on l’appelle bénéfice.
+On admet que 𝑅(𝑥) = 200𝑥. Tracer la courbe représentative de la fonction 𝑅
+sur l’intervalle [0; 21] dans le repère donné ci-après.
+3. On admet que le bénéfice pour 𝑥 objets vendus est : 𝐵(𝑥) = −2𝑥 3 + 54𝑥 2 −
+270𝑥 − 80. La fonction 𝐵 est dérivable sur [8; 20] et on note 𝐵′ sa fonction
+dérivée .
+a. Calculer 𝐵′(𝑥) et montrer que 𝐵 ′ (𝑥) = −6(𝑥 − 3)(𝑥 − 15) pour 𝑥 ∈ [8; 20]
+b. À l’aide d’un tableau de signes, étudier le signe de 𝐵′(𝑥) sur l’intervalle
+[8; 20] et en déduire le tableau de variation de la fonction 𝐵 sur [8; 20].
+
+c. Pour quel nombre d’objets fabriqués et vendus le bénéfice est-il maximal ?
+Quel est ce bénéfice maximal ?

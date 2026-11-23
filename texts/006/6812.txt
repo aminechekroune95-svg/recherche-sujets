@@ -1,0 +1,95 @@
+{"pages": 4, "method": "pdftotext", "bytes": 563243, "at": "2026-11-23T08:57:36+00:00"}
+Mathématiques : PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : Automatismes (5 points)
+Énoncé
+
+Réponse
+
+1) Calculer sous forme de fraction irréductible 7 − 7 × 2 .
+2) Donner l’écriture scientifique de 0,0083.
+3) Factoriser 9𝑥 2 − 64 .
+Écrire sous la forme 2𝑛 , avec 𝑛 ∈ 𝐍, le nombre
+
+4) 25 ×24
+
+.
+
+Il y a 3 grammes de graisses saturées dans un
+5) bâtonnet au chocolat de 20 grammes. Quel est le
+pourcentage de graisses saturées dans ce bâtonnet?
+6) Développer et réduire l’expression (𝑥 + 4)(𝑥 − 5).
+
+7)
+
+Exprimer M en fonction de T et C en exploitant la
+M
+relation : T = C × 100.
+
+8) Donner l’aire en m², d’une feuille A4 d’aire 623,7 cm².
+Une courbe a pour équation 𝑦 = 2𝑥 2 − 𝑥 + 3 dans un
+9) repère du plan donné. Quelles est l’ordonnée du point
+de la courbe d’abscisse (−1) ?
+10) Calculer 60 % de 30 .
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+1. D’après une étude de Médiamétrie, en 2010, année de rang 0, en France les 15-24 ans
+passaient en moyenne chaque jour 111 minutes devant la télévision. En 2014, année de rang
+4, cette durée était de 95 minutes
+Le graphique ci-contre donne le relevé de la durée moyenne
+quotidienne, en minute, passée par les 15-24 ans devant la
+télévision de 2010 à 2014.
+On modélise cette durée par une suite arithmétique (𝑢𝑛 ) où 𝑛
+désigne le rang de l’année.
+a) Caractériser la suite (𝑢𝑛 ) en donnant son premier terme
+et sa raison.
+b) Déterminer avec ce modèle la durée moyenne
+quotidienne passée devant la télévision en 2017.
+2. D’après cette étude, sur la même période, la durée quotidienne moyenne passée sur
+Internet a augmenté de 14 % chaque année. Elle était de 38 minutes en 2010. On modélise
+la durée quotidienne moyenne (en minute) passée sur internet par une suite (𝑣𝑛 ) où 𝑛
+désigne le rang de l’année. On a 𝑣0 = 38.
+a) Exprimer 𝑣𝑛+1 en fonction de 𝑣𝑛 .
+b) En déduire la nature de la suite (𝑣𝑛 ) en précisant sa raison.
+3. Voici un extrait d’une feuille de calcul permettant de calculer
+les termes de la suite (𝑢𝑛 ) et de la suite (𝑣𝑛 ), arrondis à l’unité.
+Avec les modèles choisis, en quelle année la durée quotidienne
+moyenne passée sur Internet dépasse-t-elle pour la première fois
+la durée quotidienne moyenne passée devant la télévision ?
+Expliquer la démarche.
+
+Exercice 3 (5 points)
+On considère la fonction 𝑓 définie sur R par :
+𝑓(𝑥) = −2𝑥² + 100𝑥 − 400
+1. Déterminer la fonction dérivée 𝑓′ de la fonction 𝑓.
+2. Étudier selon les valeurs de 𝑥 le signe de 𝑓′(𝑥).
+3. En déduire les variations de la fonction 𝑓 sur R.
+4. a) Pour quelle valeur de 𝑥 la fonction 𝑓 atteint-elle un maximum ?
+b) Quel est alors ce maximum ?
+
+Exercice 4 (5 points)
+Un piéton rencontre successivement sur sa route trois passages protégés avec des feux
+piétons. Il respecte la signalisation et ne traverse que lorsque le feu piéton est vert.
+Les feux piétons ne sont pas synchronisés. On considèrera qu’ils sont indépendants les uns
+des autres. Chaque feu piéton est rouge pendant 45 secondes puis vert pendant 15
+secondes.
+On modélise l’observation successive des couleurs de ces trois feux piétons par la répétition
+de trois épreuves aléatoires identiques et indépendantes de Bernoulli dont le succès, noté 𝑉,
+
+a pour probabilité 4 et traduit le fait qu’un feu soit vert.
+1. Représenter par un arbre de probabilités la répétition des trois épreuves de Bernoulli
+modélisant la situation.
+2. On note X la variable aléatoire donnant le nombre de feux piétons verts rencontrés par le
+piéton. X prend donc les valeurs : 0 ; 1 ; 2 ; 3.
+a) En précisant à quoi correspond l’événement {X = 1} , calculer P(X = 1).
+b) Déterminer la loi de probabilité de la variable aléatoire X.
+3. Le piéton arrivera en retard à destination s’il rencontre au moins deux feux piétons
+rouges.
+a) Écrire l’évènement correspondant à l’aide de la variable aléatoire 𝑋.
+b) Quelle est la probabilité que le piéton arrive en retard ?

@@ -1,0 +1,150 @@
+{"pages": 7, "method": "pdftotext", "bytes": 936214, "at": "2026-11-23T08:56:48+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+Une commande de 5 kg de viande contient 3,5 kg de viande de
+bœuf. Exprimer la proportion de viande de bœuf dans cette
+commande sous forme d'un pourcentage.
+Dans le repère ci-dessous, 𝐶𝑓 est la représentation graphique
+d'une fonction 𝑓définie sur ℝ.
+
+Durée : 20 minutes
+Réponse
+
+Répondre aux 3 questions suivantes par lecture graphique avec
+la précision qu’elle permet.
+
+Déterminer l’image de 1 par la fonction 𝑓.
+Résoudre graphiquement dans ℝ l'équation 𝑓(𝑥) = 0,5
+Résoudre graphiquement dans ℝ l'inéquation 𝑓(𝑥) < −2.
+Dans un restaurant, on a relevé le montant de l’addition de 90
+clients. L’histogramme ci-dessous indique les résultats obtenus.
+
+Répondre aux 2 questions suivantes à partir de cet
+histogramme.
+
+À partir de cet histogramme, compléter le
+tableau des données suivant.
+
+Montant de
+l'addition en €
+
+[16 ; 18[
+
+clients
+
+[18 ; 20[
+
+Calculer la fréquence des additions dont le montant appartient
+à l’intervalle [16 ; 18[.
+L'Ébolavirus est un virus constitué de filaments de 80
+nanomètres de diamètre (nm) : 1 nm = 10−9 m.
+Donner, en écriture scientifique, le diamètre en mm d'un
+filament de l'Ébolavirus.
+Un article coûte 100 €. 20% du prix de l’article est versé à
+l’usine qui l’a fabriqué. Cette usine reverse 5% de la somme
+qu’elle a reçue, à ses ouvriers.
+Calculer la part en pourcentage du prix de l’article finalement
+reversée aux ouvriers.
+
+[20 ; 24[
+
+[24 ; 30]
+
+Le volume 𝑉 d’un cylindre dont la base est un disque de rayon 𝑟
+et dont la hauteur est ℎ est donné par : 𝑉 = 𝜋 × 𝑟 2 × ℎ.
+𝑟
+ℎ
+
+On considère un cylindre dont la base est un disque de rayon 9
+cm et dont le volume est égal à 324𝜋 cm3.
+Calculer la valeur exacte de la hauteur du cylindre
+en centimètres.
+Développer et réduire l’expression : (𝑥– 3)2 – (𝑥 + 2)(– 3𝑥 +
+4).
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+Une entreprise s’est spécialisée dans la production de thé vert biologique. On suppose que la
+totalité de la production est vendue.
+Le coût total de production, exprimé en euros, de 𝑥 kilogrammes de thé vert biologique
+produits, est modélisé par la fonction 𝐶 définie sur l’intervalle [0 ; 25] par :
+𝐶(𝑥) = 2𝑥 2 + 8𝑥 + 130, avec 𝑥 ∈ [0 ; 25]
+1. Calculer la valeur exacte du coût de production en euros de 22 kg de thé vert biologique
+produit.
+2. Le bénéfice de l’entreprise, exprimé en euros, est la différence entre la recette et le coût
+de production en fonction du nombre 𝑥 de kilogrammes de thé vert biologique produits et
+vendus (avec 𝑥 appartenant à l’intervalle [0 ; 25]).
+On admet que ce bénéfice, en euros, réalisé en produisant et vendant 𝑥 kilogrammes de thé
+vert biologique est modélisé par la fonction 𝐵, définie sur l’intervalle [0 ; 25] par :
+𝐵(𝑥) = −2𝑥² + 36𝑥 − 130, avec 𝑥 ∈ [0 ; 25].
+a. Déterminer la fonction dérivée 𝐵′ de 𝐵 sur [0 ; 25].
+b. Étudier le signe de la fonction dérivée 𝐵′ sur [0 ; 25].
+c. Dresser le tableau des variations de la fonction 𝐵 sur l'intervalle [0 ; 25].
+d. En déduire la quantité de thé vert biologique que doit produire et vendre l’entreprise
+pour réaliser un bénéfice maximal. Préciser le montant de ce bénéfice maximal.
+Exercice 3 : (5 points)
+En 2016, un site Internet comptabilisait un nombre moyen de 4 500 « like » par jour.
+On suppose qu’à partir de 2016, le nombre moyen de « like » par jour comptabilisé par ce site
+Internet augmente de 3,8 % par an.
+Pour tout entier naturel 𝑛, 𝑈𝑛 représente le nombre moyen de « like » par jour, comptabilisé
+sur ce site Internet l'année 2016 + 𝑛. Ainsi 𝑈0 = 4500.
+1. Calculer la valeur de 𝑈1 .
+2. Exprimer 𝑈𝑛+1 en fonction de 𝑈𝑛 pour tout entier naturel 𝑛.
+
+3. Quelle est la nature de la suite (𝑈𝑛 ) qui modélise cette situation ? Préciser son premier
+terme et sa raison.
+4. En utilisant ce modèle, déterminer le nombre moyen de « like » par jour qu’on pourra
+comptabiliser sur ce site Internet en 2022.
+5. On considère l'algorithme suivant :
+Quelle est la valeur de la variable N à l’issue
+de l’exécution de cet algorithme ?
+Interpréter cette valeur dans le contexte de l’exercice.
+
+Exercice 4 : (5 points)
+Un loueur de vélo dispose d'un stock de 1 200 vélos à louer, uniquement des vélos tout terrain
+(VTT) et des vélos tout chemin (VTC).
+Dans son stock total, on sait que :
+▪ Les vélos pour femmes représentent 40 % du stock total.
+▪ Parmi les vélos pour femmes, 70 % sont des VTC.
+▪ 55 % du stock total sont des VTT.
+1. Compléter le tableau des effectifs donné en annexe, à rendre avec la copie.
+2. On choisit au hasard un vélo parmi le stock des 1 200 vélos du loueur. On note les
+événements suivants :
+𝐺 : « le vélo est un vélo pour homme » ;
+𝑇 : « le vélo est un VTT ».
+a. Définir par une phrase les événements suivants : 𝑇 et 𝐺̅ ∩ 𝑇.
+b. Calculer la probabilité qu'un vélo soit un vélo pour femme sachant que c'est un VTT.
+On donnera la valeur arrondie à 0,01 près.
+3. Dans cette question, on choisit au hasard 3 vélos parmi les 1200 vélos du stock. On
+suppose que ce choix peut être assimilé à 3 tirages successifs indépendants avec remise.
+On rappelle que la probabilité 𝑝 qu’un vélo choisi au hasard soit un VTT est égale à 0,55.
+On désigne par 𝑋 la variable aléatoire qui prend pour valeur le nombre de VTT parmi les
+3 vélos prélevés.
+a. Compléter l’arbre de probabilités donné en annexe, à rendre avec la copie.
+b. Calculer la probabilité de prélever exactement 2 VTT. On donnera la valeur arrondie à
+0,001 près.
+
+Annexe à rendre avec la copie.
+Exercice 4 – question 1 – Tableau d’effectifs
+Nombre de vélos
+pour hommes
+
+Nombre de vélos
+pour femmes
+
+TOTAL
+
+1200
+
+VTT
+VTC
+TOTAL
+
+Exercice 4 – question 3 a. Arbre de probabilités

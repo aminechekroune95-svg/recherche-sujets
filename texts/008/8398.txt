@@ -1,0 +1,188 @@
+{"pages": 6, "method": "pdftotext", "bytes": 973910, "at": "2026-11-23T08:55:23+00:00"}
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Une entreprise possède 25 véhicules, dont 15
+1)
+
+utilitaires. Exprimer la proportion d’utilitaires par
+rapport à l’ensemble des véhicules de l’entreprise
+sous la forme d’un pourcentage.
+
+2)
+
+Calculer 30% de 120.
+20% des participants à un centre de vacances ont
+
+3)
+
+moins de 10 ans, ce qui correspond à 18 enfants de
+moins de 10 ans. Combien le centre de vacances
+compte-t-il de participants au total ?
+
+4)
+
+Calculer 3 + 4 × 5 et donner le résultat sous la forme
+d’une fraction irréductible.
+
+5)
+
+Dresser le tableau de signes de (2𝑥 − 6)(𝑥 + 8).
+
+6)
+
+Écrire
+
+105 ×10−3
+sous la forme d’une puissance de 10.
+(104 )2
+
+La distance de la Terre à la Lune est d’environ
+7)
+
+384 400 000 mètres. Donner sous forme scientifique
+l’écriture de cette distance en mètre.
+
+Les
+trois
+questions
+suivantes portent sur la
+fonction 𝑓 dont la
+représentation graphique
+est donnée ci-contre.
+
+8)
+
+Déterminer 𝑓(−5).
+
+9)
+
+Combien −5 a-t-il d’antécédents par la fonction 𝑓 ?
+
+10)
+
+Résoudre l’équation 𝑓(𝑥) = 0.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le nombre d’habitants en France était de 66 977 703 au 1er janvier 2019 et de 67 063 703 au
+1er janvier 2020 selon les chiffres de l’Insee.
+
+1. Déterminer le pourcentage d’augmentation du nombre d’habitants en France entre le 1 er
+janvier 2019 et le 1er janvier 2020 (arrondir à 0,01%).
+
+Indépendamment de la réponse précédente, on fait l’hypothèse, pour le reste de l’exercice,
+qu’à partir de 2020, le pourcentage d’augmentation de la population française d’une année
+à la suivante est de 0,2 %. On définit la suite (𝑢𝑛 ) telle que le premier terme 𝑢0 est la
+population française au premier janvier 2020 et 𝑢𝑛 la population au 1er janvier de l’année
+2020 + 𝑛.
+2. Calculer 𝑢1 puis justifier que, pour tout 𝑛 ∈ ℕ, on a 𝑢𝑛+1 = 1,002 𝑢𝑛 .
+3. En déduire la nature de la suite (𝑢𝑛 ). Donner sa raison et son premier terme.
+4. Exprimer 𝑢𝑛 en fonction de 𝑛 puis calculer 𝑢30 (arrondir le résultat à l’unité).
+5. On veut déterminer, à l’aide d’un algorithme, l’année au cours de laquelle la population
+française devrait dépasser les 80 000 000 d’habitants selon les hypothèses ci-dessus.
+
+Recopier et compléter le programme ci-contre
+afin qu’il renvoie l’année cherchée à la fin de
+son exécution.
+
+def population():
+n=0
+u=67063703
+while ……… :
+u=………
+n=n+1
+return(……)
+
+Exercice 3 (5 points)
+Les questions 1 et 2 sont indépendantes et peuvent donc être traitées séparément.
+Aucune connaissance de géométrie n’est nécessaire, les formules étant rappelées.
+
+On veut réaliser un coffre en bois ayant la forme d’un pavé droit d’un volume de 4,5 m3.
+La largeur de ce coffre doit être 𝑙 = 2 𝑚, sa
+hauteur est notée ℎ et sa profondeur 𝑥, ces
+deux dimensions étant également données en
+mètre. Le but est de réaliser ce coffre avec le
+moins de bois possible. Il s’agit donc de
+minimiser l’aire totale des faces de ce coffre,
+c’est-à-dire du pavé droit.
+On rappelle qu’un pavé droit de largeur 𝑙 , de profondeur 𝑥 et de hauteur ℎ admet un volume
+donné par la formule 𝑉 = ℎ × 𝑙 × 𝑥 et que l’aire totale des faces de ce pavé droit est égale à
+2(ℎ𝑙 + ℎ𝑥 + 𝑙𝑥).
+
+1.
+
+On cherche à exprimer l’aire totale des faces du pavé droit en fonction de 𝑥.
+a. Montrer à l’aide de la formule du volume donnée ci-dessus que ℎ =
+
+2,25
+𝑥
+
+.
+
+b. Montrer que l’expression de l’aire totale des faces du pavé droit en fonction de
+
+la profondeur 𝑥 peut s’écrire : 4𝑥 + 4,5 + 𝑥.
+
+On note 𝑓 la fonction définie sur ]0; 2,25[ par 𝑓(𝑥) = 4𝑥 + 4,5 + 𝑥.
+On note 𝑓′ la fonction dérivée de la fonction 𝑓 sur ]0; 2,25[.
+
+2. Montrer que, sur l’intervalle ]0; 2,25[, on a 𝑓 ′ (𝑥) = (2 − 𝑥) (2 + 𝑥).
+3. Dresser le tableau de signes de 𝑓 ′ (𝑥) puis le tableau de variations de la fonction 𝑓 sur
+l’intervalle ]0; 2,25[.
+4.
+
+Déduire des questions précédentes la valeur de 𝑥 pour laquelle l’aire totale des faces du
+pavé droit est minimale. Quelle est alors l’aire totale des faces du coffre ?
+
+Exercice 4 (5 points)
+
+Un artisan a créé un site internet afin d’élargir sa clientèle. Le nombre de visites par mois
+lors des trois premiers trimestres de mise en service du site est donné dans le tableau
+suivant :
+Rang du mois (𝑥)
+
+Nombre de visiteurs
+(𝑦)
+
+1.
+
+Représenter le nuage de points de coordonnées (𝑥; 𝑦) dans le repère orthogonal donné
+en annexe à rendre avec la copie (page 6).
+
+2.
+
+Une droite (𝑑1 ) est représentée en pointillés sur l’annexe (page 6). Tracer sur cette
+annexe à rendre avec la copie la droite (𝑑2 ) d’équation 𝑦 = 12,8𝑥 + 112.
+
+3.
+
+Laquelle des droites (𝑑1 ) ou (𝑑2 ) semble-t-elle être un bon ajustement affine du nuage
+de points ? Justifier la réponse.
+
+Dans la suite de l’exercice, on prendra la droite (𝑑2 ) comme ajustement affine du nuage de
+points.
+4.
+
+Estimer par lecture graphique le nombre de visiteurs auquel l’artisan peut s’attendre un
+an (12 mois) après la mise en service du site.
+
+5.
+
+Avec cet ajustement affine, estimer le nombre de visiteurs attendus au bout de deux
+ans.
+
+Annexe exercice 4
+À rendre avec la copie
+
+(𝑑1 )

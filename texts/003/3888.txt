@@ -1,0 +1,206 @@
+{"pages": 9, "method": "pdftotext", "bytes": 831128, "at": "2026-11-23T08:59:47+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Calculatrice interdite.
+Durée : 20 minutes
+Exercice 1 (5 points)
+N°
+1)
+
+Question
+
+Réponse
+
+2)
+
+Quelle est l'écriture scientifique de 0,035 ?
+
+3)
+
+Simplifier : B = 10
+
+4)
+
+Convertir 100 mètres par minute en kilomètres par heure.
+
+5)
+
+Factoriser l'expression : 5x3 + 4x
+
+6)
+
+Développer : (2x + 3)(4 – x)
+
+Calculer : A =2 + 5 × 3
+
+On considère la fonction f définie sur R par : 𝑓(𝑥) = 𝑥 3 − 2. Ci-dessous, sa représentation
+graphique :
+
+Avec la précision permise par ce graphique, répondre aux questions suivantes :
+7)
+
+Quelle est l'image de 1 par 𝑓 ?
+
+8)
+
+Résoudre graphiquement l'inéquation 𝑓(𝑥) ≥ − 1
+
+9)
+
+Tracer dans le repère précédent la droite d’équation 𝑦 = 𝑥 − 2
+
+10)
+
+Donner le nombre de solutions de l’équation 𝑓(𝑥) = 𝑥 − 2
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Dans cet exercice, on étudie une cabine de bateau représentée approximativement cidessous :
+Vue intérieure apparente en 3D,
+la porte n’étant pas représentée :
+
+Sol et cloisons
+vus de dessus :
+
+plafond
+z
+
+F
+
+G
+E
+
+hublot
+
+O
+
+D
+hublot
+
+x
+
+O
+sol
+C
+
+y
+
+port
+e
+
+C
+
+Dans le repère orthonormal d’origine O, donné ci-dessus en 3D, on donne
+A(2 ; 0 ; 0) et C(0 ; 3 ; 0).
+Les valeurs sont exprimées en mètres.
+Par ailleurs, (BC) // (OA) , BC = 2,80 m , CG = BF = AE = OD = 2,10 m.
+1. Donner les coordonnées des points D et E.
+2. On veut ranger un mat de planche à voile dans la cabine. Sa longueur est de 4 m. Est-ce
+possible ?
+Dans cette question, on veillera à faire figurer toute trace de recherche, même incomplète.
+3. Le hublot de la cabine est assimilé à un cercle de centre Ω, situé à égale distance des
+droites (AE) et (BF), et de rayon 40 cm.
+
+3.1 Sachant que la troisième coordonnée de Ω est 1.40, positionner Ω sur l’annexe à
+rendre avec la copie.
+3.2 Sur l’annexe à rendre avec la copie, tracer en perspective cavalière un
+parallélogramme représentant un carré circonscrit au hublot : on admettra que le
+diamètre du hublot fait environ le quart de la longueur AB. On laissera apparents les
+traits de construction sur le dessin.
+Tracer ensuite le contour du hublot en perspective cavalière.
+
+Exercice 3 (5 points)
+Réalisation d’une plaque de verre teinté
+Un maître verrier veut fabriquer des carreaux oranges pour un vitrail. Pour cela, il dispose
+d’une plaque de verre de couleur jaune et d’épaisseur 3 mm. Il envisage d’accoler à cette
+plaque une couche de verre légèrement teinté en rouge, dont il faudra calculer l’épaisseur,
+selon le schéma suivant :
+plaque jaune vif
+
+lumière blanche
+
+plaque en rouge
+« dilué »
+
+lumière orange
+
+e(n) : (voir question
+
+1)
+1. On modélise la plaque rouge par une succession de n couches élémentaires de 0,5 mm
+d’épaisseur. L’épaisseur totale des deux plaques jointes, jaune et rouge, en mm, sera notée
+e(n).
+On considère alors la suite e définie sur ℕ par : n ↦ e(n).
+Donner la valeur du premier terme e(0) (aucune couche de rouge ajoutée).
+Calculer e(1), e(2), e(3).
+Exprimer e(n+1) en fonction de e(n) et préciser la nature de la suite e.
+
+2. On admet que la plaque jaune agit comme un filtre de lumière blanche ne transmettant
+que les radiations primaires rouge et verte. Chaque couche élémentaire de verre rouge a
+pour effet de réduire de 7 % le flux de la radiation verte qui la traverse, tandis que le flux de
+radiation rouge reste inchangé.
+On considère alors la suite v définie sur ℕ par : n ↦ v(n), où v(n) est le flux de la radiation
+verte, récupéré après la traversée de n couches de verre rouge. Le premier terme de la suite
+est v(0) = 100.
+2.1. Calculer v(1), v(2), v(3). On arrondira les résultats au dixième.
+2.2. On donne v(15) = 33,7.
+Placer dans un repère les points de coordonnées (n ; v(n)), pour n = 0, puis 4, et 15.
+Peut-on conjecturer que v soit une suite arithmétique ? Justifier.
+2.3. Exprimer v(n+1) en fonction de v(n).
+Donner la nature et les éléments caractéristiques de la suite v, ainsi que son sens de
+variation.
+3. On admet que v(n) = 100 × 0,93n .
+Le maître verrier veut récupérer une lumière orange (comportant plus de rouge que de vert).
+Il cherche un nombre n de plaques permettant de réduire le flux initial v(0) de radiation
+verte, de sorte que :
+45 ≤ v(n) ≤ 55 .
+Pourra-t-il atteindre son objectif, sachant que le carreau doit avoir une épaisseur totale e(n)
+comprise entre 6 et 9 mm ?
+Dans cette question, on veillera à faire figurer toute trace de recherche, même incomplète.
+
+Exercice 4 (5 points)
+Soit f une fonction polynôme de degré 3, définie sur ℝ.
+Le plan étant muni d'un repère, on note Cf la courbe représentative de f.
+On admet qu'il existe un unique nombre réel k tel que :
+pour tout réel x,
+
+f(x) = (2x − 1)(x2 − 𝑘) .
+
+On note 𝑓′ la fonction dérivée de f.
+
+1) Expliquer pourquoi Cf passe toujours par le point A (2 ; 0)
+2) On admet que, pour tout réel x, 𝑓(x) = 2x3 − x2 − 2𝑘x + k .
+a) En déduire que 𝑓 ′ (1) = 4 − 2𝑘.
+b) On sait que la tangente à Cf au point d'abscisse 1 est parallèle à l'axe des abscisses.
+Traduire cette information l'aide de 𝑓′ et en déduire que = 2 .
+3) On admet que, pour tout réel x, 𝑓'(x) = 6x2 − 2𝑥 − 4.
+On remarque que 𝑓′ est une fonction polynôme de degré 2.
+a) Montrer que : Pour tout réel x, 𝑓'(x) = (𝑥 − 1)(6𝑥 + 4).
+b) Justifier alors que le tableau de variations de la fonction f est le suivant :
+
+(On ne justifiera pas les valeurs
+
+et −1).
+
+Annexe Exercice 2
+E
+
+F

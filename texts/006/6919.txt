@@ -1,0 +1,178 @@
+{"pages": 8, "method": "pdftotext", "bytes": 644438, "at": "2026-11-23T08:56:41+00:00"}
+PARTIE I-Exercice 1: Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune justification n'est demandée.
+
+ÉNONCÉ
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+6)
+
+RÉPONSE
+Augmenter de 5 % revient à
+multiplier par : …………………………
+
+Compléter :
+
+Un article coûte 120 €. Pendant les
+soldes, son prix baisse de 10 %.
+Combien coûte-t-il pendant les
+soldes ?
+Le prix d’un blouson a été divisé
+Cela revient à une …........... de
+…......%.
+par 2. Compléter la phrase.
+Un prix augmente de 25 %. Quel
+doit être le pourcentage de
+diminution pour que l’on retrouve
+le prix initial ?
+Le prix d’un smartphone augmente
+de 2% puis de 3 %. Quel est le
+taux d’augmentation global ?
+Résoudre dans R l’équation
+
+4𝑥 − 2 = 3 − 𝑥.
+
+7)
+
+Résoudre dans R l’équation 𝑥² = 3.
+
+8)
+
+Résoudre dans R l’inéquation
+−5𝑥 + 2 > 3𝑥.
+
+9)
+
+Déterminer, suivant les valeurs de
+𝑥 , le signe de (𝑥 + 1)(𝑥 − 2).
+
+10)
+
+La quantité de fraises produites
+par un agriculteur biologique
+augmente au cours du temps. On
+définit l’indice base 100 pour la
+première valeur prise par cette
+quantité.
+
+Compléter le tableau ci-dessous :
+quantité
+indice
+
+PARTIE II
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 : (5 points)
+Lors de la culture dans le milieu naturel, une population composée
+initialement de 10 000 bactéries augmente de 5 000 bactéries toutes les
+heures.
+
+𝑢(0) représente le nombre de bactéries au début de l’étude et 𝑢(𝑛) le
+nombre de bactéries au bout de 𝑛 heures.
+1. Donner la nature de la suite 𝑢. Préciser sa raison et son premier
+terme.
+2. Préciser, en le justifiant, le sens de variation de la suite 𝑢.
+3. Déterminer le nombre de bactéries de cette population au bout de 5
+heures.
+On place une autre population de 10 000 bactéries dans un milieu de
+culture dans lequel on ajoute un réactif chimique.
+𝑣(0) représente le nombre de bactéries de cette population au début de
+l’étude et 𝑣(𝑛) le nombre de bactéries de cette population au bout de 𝑛
+heures. Les résultats publiés par le laboratoire sont donnés dans le
+tableau ci-dessous :
+
+4. Quelle semble être la nature de la suite 𝑣 ? Préciser sa raison et son
+premier terme.
+5. Si on considère que la progression du nombre de bactéries cultivées
+avec le réactif chimique reste la même dans le temps, déterminer le
+nombre de bactéries de cette population au bout de 5 heures.
+
+Exercice 3 : (5 points)
+Un laboratoire pharmaceutique fabrique 𝑥 litres d'antiseptique par jour. Le
+coût de fabrication de 𝑥 litres, en euro, est modélisé par la fonction 𝑓 dont
+la courbe représentative 𝐶𝑓 est donnée ci-dessous. La recette réalisée, en
+euro, avec la vente de 𝑥 litres d’antiseptique est modélisée par la fonction
+
+𝑔, représentée graphiquement ci-dessous par la droite (𝑑).
+
+en euro
+
+𝐶𝑓
+
+(𝑑)
+
+Volume d’antiseptique (en L)
+
+A l'aide du graphique, répondre aux questions suivantes avec la précision
+permise par la lecture graphique :
+1. Déterminer le coût de fabrication de 40 litres d'antiseptique.
+2. Combien de litres d'antiseptique sont fabriqués pour un coût de
+350 € ?
+Lorsque, pour 𝑥 litres d’antiseptique vendus, la recette est supérieure
+au coût de fabrication, l’entreprise réalise un bénéfice que l’on notera
+
+𝐵(𝑥). Dans ce cas, 𝐵(𝑥) = 𝑔(𝑥) − 𝑓(𝑥).
+3. Le prix de vente d’un litre d'antiseptique est de 7,50 €.
+a. La vente de 40 litres d'antiseptique permet-elle de réaliser un
+bénéfice ?
+b. Exprimer 𝑔(𝑥), la recette réalisée en euro en fonction de 𝑥 où 𝑥
+est le nombre de litres d’antiseptique.
+4. Le laboratoire affirme que le bénéfice maximum est d'environ 100 €.
+Que pensez-vous de cette affirmation ? Expliquer votre démarche.
+
+Exercice 4 : (5 points)
+Un laboratoire veut tester, sur des souris, l'efficacité d'un vaccin. Toutes
+les souris ont été contaminées par le virus d’une maladie. Certaines souris
+ont été vaccinées, d'autres ne l’ont pas été. Certaines souris ont
+développé la maladie, d'autres non.
+Voici quelques informations sur l'expérimentation :
+
+175 souris ont été testées ;
+
+90 souris ont été vaccinées ;
+
+80 souris ont développé la maladie et, parmi elles, 26 avaient été
+vaccinées.
+
+On donnera les résultats arrondis au millième.
+1. Compléter le tableau croisé d'effectifs ci-dessous :
+Souris ayant
+développé la
+maladie
+Souris vaccinées
+Souris non
+vaccinées
+Total
+
+Souris n'ayant
+pas développé la
+maladie
+
+Total
+
+2. Calculer la fréquence des souris ayant développé la maladie.
+3. Calculer la fréquence des souris vaccinées parmi les souris malades.
+
+4. On sélectionne au hasard une souris. On considère les évènements
+suivants :
+
+V : "La souris sélectionnée a été vaccinée" ;
+M : "La souris sélectionnée est malade".
+a. Calculer la probabilité que la souris sélectionnée soit malade et
+non vaccinée.
+b. Calculer 𝑝V (M) et 𝑝V
+̅ (M). Que peut-on en déduire ?

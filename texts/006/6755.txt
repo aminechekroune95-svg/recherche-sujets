@@ -1,0 +1,154 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1177426, "at": "2026-11-23T08:58:04+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Il a plu pendant les 5 des 30 jours du mois de novembre.
+Combien de jours cela représente-t-il ?
+
+2)
+
+Donner la fraction irréductible égale à 49 × 24.
+
+3)
+
+Donner l’écriture décimale de 5,42367 × 106 .
+
+4)
+
+Je rembourse 406,25€ chaque mois pendant 10 ans.
+Donner un ordre de grandeur de la somme totale remboursée.
+
+5)
+
+Factoriser et réduire (𝑥 − 2)(𝑥 + 3) − 4𝑥(𝑥 − 2).
+
+𝑓(2) = …….
+6)
+Voici la représentation graphique d’une fonction f définie sur
+[−3 ; 5].
+Compléter par lecture graphique.
+
+Le tableau de variation de 𝑓
+est :
+
+7)
+
+Tracer la droite passant par le point 𝐴(1 ; 4) de coefficient
+directeur 𝑚 = −2.
+8)
+
+Le diagramme en bâtons indique le nombre de clients sur une
+journée selon le nombre d’articles qu’ils ont acheté.
+
+Compléter le tableau
+d’effectifs :
+
+Nombre de
+clients
+
+9)
+
+Nombre
+d’articles
+
+Nombre
+de clients
+
+Nombre d'articles achetés
+
+10)
+
+Le pourcentage de clients
+ayant acheté strictement
+moins de 3 articles est : ………
+
+PARTIE II
+Calculatrice autorisée
+
+Cette partie est composée de trois exercices indépendants
+
+Exercice 2 (5 points)
+Une entreprise fabrique des lampes solaires. Elle ne peut pas produire plus de 5000 lampes
+par mois.
+Le résultat qu’elle peut réaliser en un mois, exprimé en centaines d’euros, est modélisé par
+une fonction 𝑏 dont la représentation graphique est donnée ci-dessous. On rappelle que
+lorsque le résultat est positif, on l’appelle bénéfice. L’axe des abscisses indique le nombre de
+lampes produites et vendues exprimé en centaines.
+En utilisant le graphique :
+1. Lire 𝑏(10) et interpréter ce résultat
+dans le contexte de l’exercice.
+2. Déterminer avec la précision que la
+lecture graphique permet, le bénéfice
+maximal que peut réaliser l’entreprise
+et les quantités de lampes à fabriquer
+correspondantes.
+
+3. La fonction 𝑏 définie sur l’intervalle [0, +∞[ est définie par l’expression suivante :
+𝑏(𝑥) = −3𝑥 2 + 160𝑥 − 1600.
+a. Montrer que 𝑏(𝑥) = (𝑥 − 40)(−3𝑥 + 40).
+b. Résoudre 𝑏(𝑥) = 0.
+c. Donner la valeur exacte du maximum de la fonction 𝑏 et en quel nombre il est
+atteint.
+
+Exercice 3 (5 points)
+L’objectif de l’exercice est de trouver le maximum de la fonction 𝑟 définie sur l’intervalle
+[200 ; 400] par 𝑟(𝑥) = −0,01𝑥 3 + 4𝑥 2 .
+1. On admet que la fonction 𝑟 est dérivable sur [200 ; 400] et on note 𝑟′ sa dérivée.
+Calculer 𝑟 ′ (𝑥) et montrer que 𝑟 ′ (𝑥) = 𝑥(−0,03𝑥 + 8).
+2. Donner le tableau de signe de la fonction dérivée 𝑟′ sur l’intervalle [200 ; 400].
+3. En déduire le tableau de variation de la fonction 𝑟 sur l’intervalle [200 ; 400].
+4. Quel est le maximum de cette fonction sur l’intervalle [200 ; 400] ? En quelle valeur
+est-il atteint ?
+5. Pour vérifier la solution de l’équation 𝑟 ′ (𝑥) = 0 sur l’intervalle [200 ; 400], on utilise
+l’algorithme de balayage ci-dessous, écrit en langage Python :
+def balayage(pas) :
+x=200
+while x*(- 0.03*x+8)> 0 :
+
+x=x+ pas
+return (x–pas , x)
+
+Que renvoie l’instruction balayage(1) ?
+
+Exercice 4 (5 points)
+Un restaurant propose dans son menu trois formules :
+
+Formule A : entrée + plat
+Formule B : plat + dessert
+Formule C : entrée + plat + dessert
+
+On note le choix des clients venus pour déjeuner à midi (ensemble noté M) ou pour dîner le
+soir (ensemble noté S). Les effectifs sont répertoriés dans le tableau ci-dessous.
+
+Déjeuner M
+Dîner S
+Total
+
+Formule A
+
+Formule B
+
+Formule C
+
+Total
+
+1. Quel effectif doit-on écrire dans la case vide du tableau ?
+2. a. Calculer la fréquence en pourcentage des clients ayant choisi la formule A parmi
+ceux qui sont venus déjeuner le midi.
+b. Montrer que la fréquence en pourcentage de clients venus dîner le soir parmi
+ceux qui ont choisi la formule 𝐵 est au dixième près égale à 39,2%.
+3. Calculer la fréquence en pourcentage des clients ayant déjeuné le midi dans ce
+restaurant.
+4. Le patron du restaurant déclare : « j’ai une carte des desserts très attractive car plus
+des trois quarts des clients choisissent une formule avec dessert. »
+A-t-il raison ? Justifier.

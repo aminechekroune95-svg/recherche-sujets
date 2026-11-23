@@ -1,0 +1,163 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1490114, "at": "2026-11-23T08:54:54+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes. Pour chaque question, indiquer
+le numéro de la question et recopier sur la copie la lettre correspondante à la réponse
+choisie. Aucune justification n’est demandée, cependant des traces de recherche au
+brouillon peuvent aider à trouver la bonne réponse. Chaque réponse correcte rapporte 1
+point. Une réponse incorrecte ou une question sans réponse n’apporte ni ne retire de point.
+Question 1
+Pour tout réel 𝑥, l’expression 𝑒 𝑥 × 𝑒 𝑥+2 est égale à :
+a)
+
+𝑒 2𝑥+2
+
+b) 𝑒 𝑥²+2
+
+𝑥
+
+c)
+
+d) 𝑒 𝑥²+2𝑥
+
+𝑒 𝑥+2
+
+Question 2
+Soit 𝑔 une fonction définie et dérivable en 1. Dans un repère du plan, une équation de la
+tangente à la courbe de la fonction 𝑔 au point d’abscisse 1 est :
+a) 𝑦 = 𝑔(1) × (𝑥 − 1) − 𝑔′(1)
+
+a) b) 𝑦 = 𝑔′(1) × (𝑥 − 1) + 𝑔(1)
+
+b) c) 𝑦 = 𝑔′(1) × (𝑥 + 1) − 𝑔(1)
+
+c) d) 𝑦 = 𝑔(1) × (𝑥 + 1) + 𝑔′(1)
+
+Question 3
+Le plan est muni d’un repère (𝑂 ; 𝑖⃗ , 𝑗⃗). On considère la droite (𝑑) de vecteur directeur
+⃗𝑢⃗(4 ; 7) et passant par le point 𝐴(-2 ; 3). Une équation cartésienne de la droite (𝑑) est :
+a)
+−7𝑥 + 4𝑦 − 26 = 0
+
+b)
+4𝑥 + 7𝑦 − 13 = 0
+
+c)
+−7𝑥 + 4𝑦 + 26 = 0
+
+d)
+4𝑥 − 7𝑦 + 29 = 0
+
+Question 4
+𝑡 est un réel. On sait que cos(𝑡) = 3 . Alors cos(𝑡 + 4π) + cos(−𝑡) est égal à :
+
+a) − 3
+
+b) 0
+
+c) 3
+
+d) 3
+
+Question 5
+On considère, dans un repère du plan, la parabole (P) d’équation :
+y = −x 2 + 6x − 9. La parabole (P) admet :
+a) aucun point
+
+b) un seul point
+
+c) deux points
+
+d) trois points
+
+Exercice 2 (5 points)
+Dans cet exercice, les distances sont exprimées en mètres.
+On considère un rectangle 𝐴𝐵𝐶𝐷 d’aire 49 m² tel que 𝐷𝐶 = 𝑥 et 𝐵𝐶 = 𝑦.
+On admet que les nombres 𝑥 et 𝑦 sont strictement positifs.
+
+On souhaite déterminer les dimensions 𝑥 et 𝑦 pour que le périmètre de ce rectangle soit
+minimal.
+1.
+a. Montrer que le périmètre, en mètres, du rectangle 𝐴𝐵𝐶𝐷 est égal à 2𝑥 + 𝑥 .
+
+b. Calculer ce périmètre pour 𝑥 = 10.
+Soit 𝑓 la fonction définie sur ]0 ; +∞[ par 𝑓(𝑥) = 2𝑥 + 𝑥 .
+
+On admet que 𝑓 est dérivable sur ]0 ; +∞[ et on note 𝑓′ sa fonction dérivée.
+2. Montrer que, pour tout 𝑥 > 0,
+2𝑥 2 − 98
+′
+𝑓 (𝑥) =
+.
+𝑥2
+3. Déterminer le tableau de variations de la fonction 𝑓 sur ]0 ; +∞[.
+4. En déduire les dimensions du rectangle d’aire 49 m² dont le périmètre est minimal.
+
+Exercice 3 (5 points)
+Un constructeur de véhicules fabrique deux types d’automobiles : « Citadine » ou
+« Routière ».
+Pour ces véhicules, ce constructeur propose deux finitions :
+– « Sport » au tarif de 2500 euros par véhicule,
+– « Luxe » au tarif de 4000 euros par véhicule.
+En consultant le carnet de commandes de ce constructeur, on recueille les indications
+suivantes :
+ 80% des clients ont commandé une automobile « Citadine ». Les autres clients ont
+commandé une automobile « Routière ».
+ Parmi les clients possédant une automobile « Citadine », 70% ont pris la finition
+« Sport ».
+ Parmi les clients possédant une automobile « Routière », 60% ont pris la finition
+« Luxe ».
+On choisit un client au hasard et on considère les évènements suivants :
+ 𝐶 : « Le client a commandé une automobile « Citadine » »,
+ 𝐿 : « Le client a choisi la finition « Luxe » ».
+D’une manière générale, on note 𝐴̅ l’évènement contraire d’un évènement 𝐴.
+On note 𝑋 la variable aléatoire qui donne le montant en euros de la finition choisie par un
+client.
+1. Construire l’arbre pondéré de probabilité traduisant les données de l’exercice.
+2. Calculer la probabilité que le client ait commandé une automobile « Citadine » et ait choisi la
+finition « Luxe », c’est-à-dire calculer 𝑃(𝐶 ∩ 𝐿) .
+3. Justifier que 𝑃(𝐿) = 0,36.
+4. La variable aléatoire X ne prend que deux valeurs 𝑎 et 𝑏.
+a. Déterminer les probabilités 𝑃(𝑋 = 𝑎) et 𝑃(𝑋 = 𝑏).
+b. Déterminer l’espérance de 𝑋.
+
+Exercice 4 (5 points)
+Fanny est inscrite dans un club d’athlétisme. Elle pratique le penta bond (le penta bond est
+un enchaînement de cinq bonds après une course d’élan).
+La première semaine d’entraînement, Fanny réalise un saut de 8 m.
+Chaque semaine, la longueur de son saut augmente de 0,1 m.
+Pour 𝑛 entier naturel non nul, on note 𝑠𝑛 la longueur, en mètres, de son saut la 𝑛-ième
+semaine d’entraînement.
+Puisque lors de la première semaine d’entraînement, Fanny réalise un saut de 8 m, on a
+𝑠1 = 8.
+1. Pour 𝑛 ≥ 2, on considère la fonction Python suivante.
+def saut(n)
+s=8
+for k in range(2,n+1):
+s=s+0.1
+return s
+a. Quelle valeur 𝑠 est-elle renvoyée par la commande saut(4) ?
+b. Interpréter cette valeur dans le contexte de l’exercice.
+2. Exprimer avec justification 𝑠𝑛 en fonction de 𝑛 pour 𝑛 entier naturel non nul.
+3. Pour être qualifiée à une compétition, Fanny doit faire un saut d’au moins 12 mètres.
+a. À partir de quelle semaine, Fanny réalisera-t-elle un tel saut ?
+b. Justifier votre réponse.

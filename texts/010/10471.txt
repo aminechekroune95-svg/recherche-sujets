@@ -1,0 +1,143 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1159961, "at": "2026-11-23T08:55:01+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un point. Une mauvaise réponse, une réponse multiple ou
+l’absence de réponse ne rapporte ni n’enlève aucun point.
+Indiquer sur la copie le numéro de la question et la réponse correspondante.
+
+1. Dans le plan rapporté à un repère orthonormé, on considère la droite D d'équation
+cartésienne 4𝑥 + 5𝑦 – 7 = 0.
+Un vecteur normal à D a pour coordonnées :
+a. (5 ; 4)
+b. (−5 ; 4)
+c. (4 ; 5)
+
+d. (4 ; −5).
+
+2. Dans le plan rapporté à un repère orthonormé, l'ensemble E des points M de coordonnées
+(𝑥 ; 𝑦) vérifiant : 𝑥 2 – 2𝑥 + 𝑦 2 = 3 est un cercle :
+a. de centre A(1 ; 0) et de rayon 2.
+b. de centre A(1 ; 0) et de rayon 4.
+c. de centre A(−1 ; 0) et de rayon 2.
+
+d. de centre A(−1 ; 0) et de rayon 4.
+
+3. La somme 15 + 16 + 17 + … + 243 est égale à :
+a. 29 403
+b. 29 412
+c. 29 541
+
+d. 29 646
+
+4. On considère la fonction 𝑓 dérivable définie sur ℝ par 𝑓 (𝑥) = (𝑥 + 1)e𝑥 .
+La fonction dérivée 𝑓’ de 𝑓 est définie sur ℝ par :
+a. 𝑓 ′(𝑥) = (𝑥 + 2)e𝑥
+c. 𝑓 ′(𝑥) = 𝑥e𝑥
+
+b. 𝑓 ′(𝑥) = (𝑥 + 1)e𝑥
+d. 𝑓 ′(𝑥) = e𝑥
+
+5. En utilisant l’arbre de probabilité pondéré ci-contre, on obtient :
+
+a.
+
+𝑃 (𝐵) = 4
+
+b.
+
+𝑃 (𝐵) = 5
+
+c.
+
+𝑃 (𝐵) =
+
+d.
+
+𝐴
+
+𝑃 (𝐵) = 10
+
+𝐵
+
+𝐵ത
+
+𝐵
+
+𝐵ത
+
+𝐴ҧ
+
+Exercice 2 (5 points)
+Dans un repère orthonormé (O ; 𝑖⃗, 𝑗⃗) du plan, on considère les points A (2 ; −1),
+B (0 ; 3) et C (3 ; 1).
+⃗⃗⃗⃗⃗⃗ = 6.
+1. a. Vérifier que ⃗⃗⃗⃗⃗⃗
+AB.AC
+⃗⃗⃗⃗⃗⃗|| et ||AC
+⃗⃗⃗⃗⃗⃗||, on donnera les valeurs exactes.
+b. Calculer ||AB
+c.
+
+̂ ) = 0,6 et en déduire la mesure de l'angle ̂
+Vérifier que cos(BAC
+BAC au degré près.
+
+2. a. Vérifier qu’une équation cartésienne de la droite (AB) est 2𝑥 + 𝑦 − 3 = 0.
+b. On note H le pied la hauteur du triangle ABC issue du sommet C.
+Déterminer les coordonnées du point H.
+
+Exercice 3 (5 points)
+En 1995, le taux de scolarisation des jeunes de 18 ans atteignait 84,8 %, du fait d’une forte
+progression de la poursuite d’études dans le second cycle général et technologique jusqu’au
+baccalauréat.
+Une étude de l’INSEE montre que ce taux de scolarisation a régulièrement diminué au cours
+des dix années suivantes.
+On considère que la diminution du taux de scolarisation à 18 ans est chaque année de 1 % à
+partir de 1995.
+Pour tout entier naturel 𝑛, on modélise le taux de scolarisation des jeunes de 18 ans en
+1995 + 𝑛, par une suite (𝑢𝑛 ) ; ainsi 𝑢0 = 84,8.
+1. Quel est le taux de scolarisation des jeunes âgés de 18 ans en 1996 ?
+2. Déterminer, en justifiant, la nature de la suite (𝑢𝑛 ).
+3. On donne le programme suivant en langage Python :
+U=84.8
+n=0
+while U > 80:
+U=0.99*U
+n=n+1
+Déterminer la valeur numérique que contient la variable n à l’issue de l’exécution du
+programme. Interpréter cette valeur dans le contexte de l’énoncé.
+4. Exprimer, pour tout entier naturel 𝑛, 𝑢𝑛 en fonction de 𝑛.
+5. Quel est le taux de scolarisation des jeunes de 18 ans en 2005 ?
+
+Exercice 4 (5 points)
+Soit 𝑓 la fonction dérivable définie sur [−3 ; 3] par 𝑓(𝑥) = 2𝑥 3 + 2𝑥² – 2𝑥 + 1. On note
+C sa courbe représentative dans un repère donné.
+1. Déterminer 𝑓 ′ (𝑥), où 𝑓’ est la fonction dérivée de 𝑓 sur [−3 ; 3].
+2. Étudier le signe de 𝑓’(𝑥) sur [−3 ; 3].
+3. Dresser le tableau de variations de 𝑓 sur [−3 ; 3]. Les valeurs aux bornes pourront être
+données en valeur approchée à 10-2 près.
+4.
+a. Vérifier qu’une équation de la tangente T à la courbe C au point A d’abscisse 0, est
+𝑦 = −2𝑥 + 1.
+b. Montrer que cette tangente T passe par un point B de la courbe C, avec B distinct du
+point A.

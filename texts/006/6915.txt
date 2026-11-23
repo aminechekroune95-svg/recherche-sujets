@@ -1,0 +1,124 @@
+{"pages": 7, "method": "pdftotext", "bytes": 784599, "at": "2026-11-23T08:56:44+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+1)
+2)
+3)
+4)
+5)
+
+À quel pourcentage d’évolution correspond un
+coefficient multiplicateur de 3 ?
+Un article soldé à 30% coûte maintenant 28 €. Quel était
+son prix initial ?
+À quel pourcentage d’évolution correspond une
+diminution de 50% suivie d’une hausse de 50% ?
+En prenant l’indice 100 pour une valeur de 340 €, à
+quelle valeur correspond l’indice 95 ?
+Quel coefficient multiplicateur correspond à deux
+hausses successives de 10% ?
+
+6)
+
+Compléter le tableau de signe pour tout nombre réel 𝑥 :
+
+7)
+
+Donner les solutions réelles de l’équation 𝑥 2 = 7.
+
+8)
+9)
+10)
+
+Réponse
+
+𝑥
+5 − 2𝑥
+
+Donner les solutions réelles de l’inéquation
+5𝑥 − 1 > 2𝑥 + 8.
+Quel est le signe de l’expression (𝑥 − 1)(3 − 𝑥) pour
+𝑥 >5?
+Donner la solution de l’équation 7𝑥 + 2 = 4𝑥 + 7.
+
+PARTIE II
+Calculatrice autorisée suivant la réglementation en vigueur
+Exercice 2 : (5 points)
+On réalise un sondage auprès de 950 filles et garçons d’un lycée (dont 450 garçons), afin de
+connaître leurs habitudes de travail, lors de recherches sur internet, sur différents supports :
+smartphone, tablette ou ordinateur. Les informations recueillies lors de ce sondage sont
+consignées sur des fiches anonymes.
+On a obtenu les informations suivantes :
+ 200 filles utilisent l’ordinateur contre seulement 150 garçons ;
+ 270 garçons utilisent leur smartphone ;
+ 60 filles utilisent une tablette.
+1. Compléter le tableau donné en annexe, à rendre avec la copie.
+2. Déterminer la fréquence de garçons utilisant l’ordinateur.
+3. Déterminer la fréquence conditionnelle des filles parmi les élèves utilisant la tablette.
+4. On choisit de façon équiprobable la fiche d’un élève du lycée ayant répondu au sondage
+et on considère les événements suivants :
+ A : « la fiche choisie est celle d’une fille » ;
+ B : « la fiche choisie est celle d’un élève qui utilise un smartphone » ;
+ C : « la fiche choisie est celle d’un élève qui utilise un ordinateur ».
+a. Déterminer la probabilité conditionnelle PA(B).
+b. Déterminer la probabilité que la fiche choisie soit celle d’un élève qui utilise un
+ordinateur sachant que c’est la fiche d’un garçon.
+
+Exercice 3 : (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−3 ; 5] par 𝑓(𝑥) = −𝑥 2 + 3𝑥 + 4.
+Sa courbe représentative 𝐶𝑓 est représentée ci-dessous dans un repère orthogonal :
+
+1. Quelles semblent être les solutions de l’équation 𝑓(𝑥) = 0 ? Justifiez par le calcul.
+2. Le point de coordonnées (2 ; 6) semble être sur la courbe 𝐶𝑓 : est-ce bien le cas ?
+3. Déterminer le maximum de la fonction 𝑓. Pour quelle valeur est-il atteint ?
+4. Donner le tableau des variations de f.
+5. Résoudre graphiquement l’inéquation 𝑓(𝑥) > 4.
+
+Exercice 4 : (5 points)
+On considère la suite géométrique (un) de raison 1,045 et de premier terme u0 = 92 652.
+On modélise le nombre annuel de voitures particulières vendues par un groupe automobile
+par l’arrondi à l’unité du terme un pour l’année 2018+n, où n est un entier naturel.
+En 2018, ce groupe automobile a donc vendu 92 652 voitures particulières.
+Les résultats seront arrondis à l’unité.
+1. Justifier que u1 ≈ 96 821. Calculer u2.
+2. Selon ce modèle, quel est le pourcentage d’évolution du nombre de voitures vendues
+par ce groupe automobile entre deux années consécutives ?
+3. Afin de visualiser les prévisions de vente de ce groupe automobile on utilise une
+feuille automatisée de calcul.
+
+Quelle formule peut-on saisir dans la cellule C2 pour obtenir, par recopie vers la droite, la
+prévision du nombre de voitures particulières vendues chaque année ?
+4. Toujours suivant le modèle retenu, on souhaite déterminer l’année à partir de
+laquelle le nombre annuel de voitures particulières vendues par ce groupe
+automobile dépassera les 150 000.
+a. Recopier et compléter la ligne 5 du script ci-dessous, rédigé en langage Python,
+afin que l’exécution de la commande annee(150000) renvoie l’année cherchée.
+
+b. Que faudrait-il modifier dans ce script si la suite un était supposée arithmétique
+de raison 4 500 ?
+
+Annexe de l’exercice 2 à rendre avec la copie
+Lycéens
+
+Ordinateurs
+
+Smartphones
+
+Garçons
+
+Filles
+
+Tablettes
+
+Total
+
+Total

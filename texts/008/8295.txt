@@ -1,0 +1,151 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1119207, "at": "2026-11-23T08:56:15+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Parmi les 160 spectateurs d’une pièce de théâtre, 64
+1)
+
+ont bénéficié d’un tarif réduit. Quelle est la
+proportion de billets à tarif réduit ?
+Un lycée compte 12% de ses élèves en BTS. Un tiers
+des élèves de BTS est en formation par alternance,
+
+2)
+
+et il n’y a pas d’autre section qui propose ce choix.
+Quelle est la proportion, en fraction, des élèves du
+lycée qui suivent une formation en alternance ?
+
+3)
+
+4)
+
+Un article qui coûtait 55€ est soldé avec une
+réduction de 20%. Quel est son nouveau prix ?
+
+Comparer 15 et 5 .
+𝑚
+
+5)
+
+On considère l’expression 𝑇² = 20.
+Exprimer 𝑚 en fonction de 𝑇.
+
+6)
+
+Factoriser 𝑥(𝑥 + 1) + (−3𝑥 + 5)(𝑥 + 1).
+
+7)
+
+On désigne par 𝐶 la courbe représentative de la
+fonction 𝑓 définie par 𝑓(𝑥) = 𝑥 2 + 2𝑥.
+Quelle est l’ordonnée du point de la courbe
+d’abscisse -1 ?
+
+8)
+
+Résoudre l’équation 7𝑥 − 11 = −3𝑥 + 13.
+
+9)
+
+Résoudre l'inéquation 1 − 4𝑥 < −7
+
+Déterminer l'équation réduite de la droite ( 𝐷)
+
+10)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Dans un quartier d’une petite ville, les services de Pôle Emploi ont relevé le nombre de
+demandeurs d’emploi chaque trimestre. Après étude, ils ont constaté qu’en moyenne,
+chaque trimestre, 37,5% des chômeurs trouvent un emploi et sont retirés des listes, mais
+que 120 nouveaux demandeurs d’emploi s’inscrivent.
+Au début du premier trimestre 2020 (1er janvier 2020), il y avait 490 demandeurs d’emploi
+inscrits.
+Dans tout l’exercice, les valeurs seront arrondies à l’unité.
+1. Calculer le nombre de demandeurs d’emploi après un trimestre, puis après deux trimestres,
+selon le modèle ci-dessus.
+Pour tout entier naturel 𝑛, on note 𝑑𝑛 le nombre de demandeurs d’emploi après 𝑛
+trimestres. Ainsi on a 𝑑0 = 490.
+2. Justifier que pour tout entier naturel 𝑛, 𝑑𝑛+1 = 0,625𝑑𝑛 + 120.
+3. Calculer 𝑑4 et interpréter le résultat.
+4. Recopier et compléter le script ci-dessous de la fonction Python nommée demandeurs, qui
+renvoie le nombre de demandeurs d’emploi après 𝑛 trimestres.
+
+def
+
+demandeurs(n):
+d= …
+for i in range (n):
+d= …
+return d
+
+5. L’un des objectifs de l’agence est de diminuer le nombre de demandeurs d’emploi de 30%
+par rapport à la valeur du 1er janvier 2020. Indiquer si cet objectif pourra être atteint, et si
+oui, à quelle date. Justifier la réponse.
+
+Exercice 3 (5 points)
+Un artisan fabrique des confitures qu’il vend par carton de dix pots. Le coût de production de
+𝑥 cartons, en euros, est donné par la fonction 𝑓 définie sur [0 ; 160] par :
+𝑓(𝑥) = 0,25𝑥 2 + 500.
+Chaque carton est ensuite vendu 30 euros au consommateur.
+1. Calculer 𝑓(10). Interpréter ce résultat dans le contexte de l’exercice.
+2. Le bénéfice 𝐵 réalisé par l’artisan, qui dépend donc du nombre 𝑥 de cartons produits et
+vendus, est donné par : 𝐵(𝑥) = −0,25𝑥 2 + 30𝑥 − 500.
+On admet que la fonction 𝐵 est dérivable sur l’intervalle [0 ; 160] ; on note 𝐵 ′ sa dérivée.
+a. Calculer 𝐵 ′ (𝑥).
+b. Donner le tableau de signe de 𝐵 ′ .
+3. Dresser le tableau de variations de la fonction 𝐵.
+4. En déduire le nombre de cartons de confiture permettant de réaliser un bénéfice maximal.
+
+Exercice 4 (5 points)
+Une association organise un week-end dans un parc à thème. Pour les membres de
+l’association qui s’inscrivent, deux formules ont été proposées :
+ La formule n°1 : voyage en bus, entrée du parc et nuit en hôtel deux étoiles pour 80
+euros.
+ La formule n°2 : voyage en bus, entrée du parc et nuit en hôtel trois étoiles pour 110
+euros.
+40% des inscrits choisissent la formule n°1.
+Un spectacle facultatif est aussi proposé pour un coût supplémentaire de 20€.
+Quelle que soit la formule choisie, 80% des inscrits optent pour ce spectacle facultatif.
+On interroge au hasard une personne inscrite à ce voyage. On note :
+- A l’évènement « La personne a choisi la formule n°1 »
+- B l’évènement « La personne a choisi la formule n°2 »
+- S l’évènement « La personne a choisi d’assister au spectacle »
+Pour chaque évènement 𝐸 on note 𝐸̅ son évènement contraire.
+1. Reproduire et compléter l’arbre de probabilités qui représente cette expérience aléatoire :
+
+2. Montrer que la probabilité que la personne choisisse la formule n°2 et le spectacle facultatif
+est égale à 0,48.
+3. On note 𝑋 la variable aléatoire égale au coût total du voyage (spectacle compris).
+a. Quelles sont les différentes valeurs possibles que peut prendre 𝑋 ?
+b. Déterminer la loi de probabilité de 𝑋.
+c. Calculer l’espérance de 𝑋 et interpréter ce résultat.

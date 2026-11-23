@@ -1,0 +1,139 @@
+{"pages": 7, "method": "pdftotext", "bytes": 788102, "at": "2026-11-23T08:55:38+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Cet exercice comprend 10 questions. Aucune justification n'est demandée.
+
+Énoncé
+
+Réponse
+
+1 2
+
+Écrire (2) + 3 sous la forme d’une fraction irréductible.
+
+Calculer 30 % de 600.
+
+Soit la fonction f définie sur Rpar 𝑓(𝑥) = 2𝑥 3 − 𝑥 2 + 𝑥 + 3
+. Donner 𝑓′(𝑥) pour x  R, où f  est la
+fonction dérivée de f.
+
+Donner les solutions dans Rde l'équation : 𝑥 2 + 2 = 6.
+
+Développer et réduire 3(𝑥 + 5)(𝑥 − 1).
+
+Calculer
+
+de
+
+Le temps mis pour fabriquer un objet est passé de 10 h à 7 h.
+Donner le taux d'évolution, en pourcentage, de la durée de
+fabrication.
+Pour 𝑥 dans [-4 ; 6], dresser le tableau de
+signes de −2(𝑥 + 3)(𝑥 − 5).
+
+Pour les questions 9 et 10, on utilisera le graphique ci-dessous.
+Il représente la courbe représentative d'une fonction g et sa tangente au point de
+coordonnées (2 ; 3).
+
+Enoncé
+
+Réponse
+
+Donner le coefficient directeur de la tangente à la courbe
+représentative de 𝑔 au point d’abscisse 2
+
+10 Donner les solutions de l'équation g ( x)  0 .
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une entreprise se lance dans la fabrication de systèmes d'alarme.
+Elle compte produire 5000 unités en janvier 2022 et envisage ensuite une
+augmentation de 3 % de sa production chaque mois.
+On modélise cette situation par la suite (𝑝𝑛 ) où :
+ pour tout entier naturel non nul 𝑛, 𝑝𝑛 désigne le nombre de milliers d’unités
+produites durant le 𝑛𝑖è𝑚𝑒 mois à compter de janvier 2022 ;
+ 𝑝1 = 5.
+1. Montrer que 𝑝2 = 5,15.
+2. Justifier que la suite (𝑝𝑛 ) est une suite géométrique et préciser sa raison.
+3. Montrer que, selon cette modélisation, cette entreprise produira plus de 6000
+unités durant le mois d’août 2022.
+4. Soit la somme 𝑆 définie par : 𝑆 = 𝑝1 + 𝑝2 + 𝑝3 +. . . + 𝑝11 + 𝑝12 .
+a. Que représente 𝑆 dans le contexte de l'exercice ?
+Calculer la valeur de 𝑆.
+b. Recopier et compléter les pointillés des lignes 6 et 7 de la fonction ProdT
+écrite ci-dessous en langage Python, de telle sorte que ProdT(12) renvoie
+la valeur de 𝑆.
+
+Exercice 3 (5 points)
+
+Une entreprise souhaite recruter de nouveaux commerciaux, avec ou sans
+expérience.
+Suite à une petite annonce, elle reçoit un très grand nombre de curriculum vitae
+(noté cv dans la suite).
+Pour cette entreprise, on estime que les cv correspondant à des personnes avec
+expérience représentent 20% de l'ensemble des cv reçus.
+Le directeur des ressources humaines choisit au hasard 10 cv et les examine.
+On modélise cette expérience aléatoire par une succession de 10 épreuves
+aléatoires indépendantes.
+On appelle X la variable aléatoire égale au nombre de cv correspondant à des
+personnes avec expérience parmi les 10 cv choisis.
+Pour les questions qui suivent, les probabilités demandées seront arrondies au
+centième.
+1. Interpréter l'événement {X=10} puis calculer sa probabilité.
+2. Quelle est la loi suivie par la variable aléatoire X.
+Quels sont ses deux paramètres ?
+3. Déterminer la probabilité qu’exactement 6 cv sur les 10 cv choisis
+correspondent à des personnes avec expérience.
+4. Déterminer la probabilité qu'au moins 1 cv parmi les 10 cv choisis
+corresponde à des personnes avec expérience.
+5. Calculer l’espérance mathématique de X et interpréter ce résultat dans le
+contexte de l’exercice.
+
+Exercice 4 (5 points)
+
+Une entreprise fabrique des cartes postales qu'elle souhaite vendre à un prix compris
+entre 2 et 8 euros.
+L’entreprise a conscience que le nombre de cartes postales vendues dépendra de
+leur prix de vente.
+Une étude de marché conduit à modéliser ce lien de dépendance par la fonction 𝑓
+définie sur [ 2; 8 ] par 𝑓(𝑥) = 3 × 0,9𝑥 , où f (x) représente le nombre de milliers de
+cartes postales vendues au prix de 𝑥 euros.
+1. Calculer le nombre de cartes postales vendues selon cette modélisation au
+prix unitaire de 3 €.
+2. Déterminer le sens de variation de la fonction f sur [ 2; 8 ].
+3. a. Résoudre, dans [ 2; 8 ], l'inéquation : 3 × 0,9𝑥 ≤ 2.
+b. Que peut-on en déduire ?
+4. Montrer que pour tout réel x de [ 2; 8 ], on a :
+
+𝑓(𝑥+1)
+𝑓(𝑥)
+
+= 0,9
+
+Que peut-on en déduire ?

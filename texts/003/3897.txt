@@ -1,0 +1,141 @@
+{"pages": 7, "method": "pdftotext", "bytes": 845747, "at": "2026-11-23T08:59:43+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+1)
+
+Pour 𝑥 < 0, donner le signe de 𝑥 2 .
+
+2)
+
+Calculer :
+
+3)
+
+Exprimer sous la forme d’une puissance de 10 :
+104 × 10−3
+Factoriser l’expression suivante :
+𝑥(𝑥 − 2) − 4(𝑥 − 2)
+
+4)
+
+5)
+
+Réponse
+
+3 5
++
+7 2
+
+Le prix d’un article subit deux hausses successives de
+100 %. Déterminer le taux d’évolution équivalent à ces
+deux hausses.
+
+6)
+
+Le diagramme en bâtons ci-contre indique le nombre
+d’accidents de voiture sur une route entre 2016 et 2019.
+Quel est le nombre d'accidents entre 2016 et 2019 ?
+7)
+
+La question 7 porte sur le diagramme en bâtons de la
+question 6).
+L'affirmation suivante est-elle vraie ou fausse ?
+
+8)
+9)
+
+« Plus de 50 % des accidents entre 2016 et 2019 ont eu
+lieu en 2016 et 2017 ».
+Convertir 15,72 kilogrammes en grammes.
+
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = 5 𝑥 − 2.
+Calculer 𝑓(5).
+
+10) Résoudre sur R l’équation : 2𝑥 + 8 = 0.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+
+Une urne contient 2 jetons jaunes et 5 jetons rouges. Vincent tire au hasard un jeton dans
+l’urne et regarde sa couleur. On note 𝑋 la variable aléatoire qui prend la valeur 1 si Vincent
+tire un jeton jaune, 0 sinon.
+1) Donner le nom de la loi suivie par la variable aléatoire 𝑋.
+Préciser le paramètre de cette loi.
+2) Déterminer l’espérance de la variable aléatoire 𝑋.
+3) Vincent décide dorénavant de tirer au hasard trois jetons à la suite. Entre chaque
+tirage, Vincent remet le jeton tiré dans l’urne de telle sorte que les répétitions soient
+identiques et indépendantes.
+a) Représenter l’arbre de probabilité associé à cette répétition d’épreuves
+aléatoires.
+b) Déterminer la probabilité que Vincent tire 3 fois un jeton jaune.
+c) Déterminer la probabilité que Vincent obtienne lors de ce tirage de trois jetons,
+1 jeton jaune et 2 jetons rouges.
+
+Exercice 3 (5 points)
+Une société propose pour un poste un contrat à durée indéterminée (CDI). Le salaire net
+associé à ce poste à sa création est de 1 500 euros et augmente de 0,5 % chaque mois.
+On note 𝑢𝑛 le montant du salaire net du poste, au 𝑛-ième mois après sa création (𝑛 est un
+entier positif).
+1) Quel sera le salaire associé à ce poste 3 mois après sa création ?
+Donner une valeur approchée du résultat à l’entier près.
+2) Exprimer pour tout entier positif 𝑛, 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3) Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser la valeur de la raison de cette suite.
+4) Déterminer le sens de variation de la suite (𝑢𝑛 ). Justifier la réponse.
+5) Le revenu médian en France en net est environ égal à 1 800 euros.
+On souhaite déterminer au bout de combien de mois le salaire associé à ce poste va
+dépasser 1800 euros pour la première fois.
+Pour cela, on rédige le script écrit en langage « Python » ci-dessous :
+
+def salaire(s) :
+n=0
+u=1500
+while u<s :
+u=u*1.005
+n=n+1
+return(n)
+
+Quelle commande faut-il exécuter pour que le script renvoie la valeur qui réponde au
+problème ?
+
+Exercice 4 (5 points)
+On a représenté ci-dessous la courbe représentative d’une fonction 𝑓, notée 𝑪𝒇 . La tangente
+𝑇0 (resp. 𝑇−1 ) à la courbe 𝑪𝒇 au point d’abscisse 0 (resp. -1) est représentée.
+On admet que 𝑇0 est horizontale et que 𝑇−1 passe par les points A(0 ; 5) et B(−1 ; −2).
+
+1) Donner la valeur de 𝑓′(0).
+2) Déterminer une équation de la tangente 𝑇−1 .
+
+3) On admet que la fonction 𝑓 est définie sur l’intervalle [−2 ; 3] par :
+𝑓(𝑥) = 𝑥 3 − 2 𝑥 2 + 1.
+a) Calculer 𝑓 ′ (𝑥) pour tout 𝑥 de l’intervalle [−2 ; 3].
+b) Dresser le tableau de signe de : 𝑥(3𝑥 − 4) sur l’intervalle [−2 ; 3].
+c) Dresser le tableau de variations de 𝑓 sur l’intervalle [−2 ; 3].

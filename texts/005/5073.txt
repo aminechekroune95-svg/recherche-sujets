@@ -1,0 +1,161 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1203000, "at": "2026-11-23T08:59:06+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte. Les
+questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondant à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches
+au brouillon pour déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+Soient ⃗𝑢 et 𝑣 deux vecteurs de coordonnées respectives (– 1 ; 0) et (– 3 ; 4) dans un repère
+orthonormé du plan. Alors ‖𝑢
+⃗ − 𝑣 ‖ est égale à :
+a. 4√2
+b. √32
+c. 20
+d. 2√5
+Question2
+Le tableau de signes de la fonction polynôme définie sur R par 𝑓(𝑥) = 𝑥 2 + 2𝑥 + 5 est :
+
+b.
+
+c.
+
+d.
+
+–
+
+− 16
+
+−3
+
+−
+
+Question 3
+
+Sur l’intervalle ] – π ; π], l’équation sin(𝑥) = 2 a pour solution(s)
+
+b.
+
+2𝜋
+
+c. −
+
+d.
+
+5𝜋
+
+Question 4
+On considère la suite (𝑢𝑛 ) définie par 𝑢0 = 15 et pour tout entier naturel 𝑛 :
+𝑢𝑛+1 = 0,8 𝑢𝑛 + 1.
+On a écrit la fonction suite() ci-contre en langage Python.
+def suite():
+L’appel de cette fonction renvoie :
+n=0
+u=15
+a. Le plus petit entier n tel que un > 6
+while u>6:
+b. Le plus petit entier 𝑛 tel que 𝑢𝑛 ≤ 6
+n=n+1
+c. Le premier terme de la suite tel que 𝑢𝑛 > 6
+u=0.8*u+1
+d. Le premier terme de la suite tel que 𝑢𝑛 ≤ 6.
+return n
+
+Question 5
+Pour tout réel 𝑥, e3𝑥−5 × e4−3𝑥 est égal à :
+b. e(3𝑥−5)×(4−3𝑥)
+e
+
+c. e
+
+d. e−9𝑥 +27𝑥−20
+
+Exercice 2 (5 points)
+Le président d’un club de handball a constaté une augmentation du nombre d’adhérents dans
+son club depuis 2016 (toutes catégories confondues). En effet en 2016, il y avait 377 adhérents,
+396 en 2017 et 416 en 2018. Ce qui correspond à une hausse chaque année d’environ 5 %.
+Il souhaite faire une estimation pour les années à venir, en supposant que cette hausse de 5 %
+par an se poursuit.
+On modélise le nombre d’adhérents l’année 2018 + 𝑛 par la suite de terme général 𝑢𝑛 .
+On a donc 𝑢0 = 416.
+1.
+
+Calculer 𝑢1 et 𝑢2 . Arrondir les résultats à l’unité.
+
+2.
+
+Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser son premier terme et sa raison.
+
+3.
+
+Exprimer 𝑢𝑛 en fonction de 𝑛, pour tout entier naturel 𝑛.
+
+4.
+
+Calculer 𝑢7 . Interpréter ce résultat par rapport aux données de l’énoncé.
+
+5.
+
+À partir de quelle année le président du club peut-il espérer dépasser les 700 adhérents ?
+
+Exercice 3 (5 points)
+Un artisan fabrique de la confiture qu’il vend à un grossiste. Le coût, en euros, de fabrication
+de 𝑥 kilos de confiture est :
+𝐶(𝑥) = 0,1𝑥 2 + 0,7𝑥 + 100, pour 𝑥 ∈ [0; 160].
+1. Chaque kilo est vendu 14 €. Exprimer la recette 𝑅 en fonction de 𝑥.
+2. Soit 𝐵 la fonction représentant le bénéfice de l’artisan, définie sur [0; 160].
+𝐵 a pour expression 𝐵(𝑥) = −0,1𝑥 2 + 13,3𝑥 − 100.
+Étudier le signe de 𝐵(𝑥). En déduire l’intervalle dans lequel doit se trouver le nombre de
+kilos de confiture à vendre pour que l’artisan réalise un bénéfice positif.
+3. On note B′ la fonction dérivée de la fonction B.
+a. Déterminer 𝐵′(𝑥).
+b. Dresser le tableau de variation de B sur l’intervalle [0; 160].
+c. Donner le nombre de kilos à vendre pour que le bénéfice soit maximal ainsi que son
+montant.
+
+Exercice 4 (5 points)
+On dispose d’un dé équilibré à six faces et de deux urnes U et V contenant des boules
+blanches ou rouges, indiscernables au toucher.
+L’urne U contient 40 boules blanches et 60 boules rouges.
+L’urne V contient 70 boules blanches et 30 boules rouges.
+Un jeu consiste à lancer le dé puis tirer une boule dans l’une des urnes. Si on obtient 1 ou 6
+sur le dé, le tirage s’effectue dans l’urne U. Si on obtient 2, 3, 4 ou 5 sur le dé, le tirage
+s’effectue dans l’urne V.
+On considère les événements :
+𝑈 : « le tirage s’effectue dans l’urne U »
+𝑉 : « le tirage s’effectue dans l’urne V »
+𝐵 : « la boule tirée est blanche »
+𝑅 : « la boule tirée est rouge ».
+Sauf indication contraire, les probabilités seront arrondies au millième.
+1. Représenter la situation à l’aide d’un arbre pondéré.
+2. Déterminer la probabilité de l’évènement « la boule tirée est rouge ».
+3. On tire une boule rouge. Quelle est la probabilité qu’elle ait été tirée dans l’urne U ?
+4. Pour jouer, il faut miser 1 €. Le joueur gagne 3 € s’il tire une boule rouge et il ne gagne rien
+s’il tire une boule blanche. On note 𝐺 la variable aléatoire donnant le gain du joueur.
+a. Déterminer la loi de probabilité de la variable aléatoire 𝐺.
+On donnera le tableau de la loi de probabilité, mais aucune justification n'est demandée.
+b. Calculer l’espérance mathématique de 𝐺. Interpréter ce résultat.

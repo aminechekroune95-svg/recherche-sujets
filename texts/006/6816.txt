@@ -1,0 +1,139 @@
+{"pages": 5, "method": "pdftotext", "bytes": 759111, "at": "2026-11-23T08:57:34+00:00"}
+PARTIE 1
+Automatismes (5 points)
+
+Sans Calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Augmenter une quantité de 15% revient à la multiplier par …
+
+2)
+
+Une montre coûte 70€. Après réduction de 40%, elle coûtera …
+
+3)
+
+Augmenter une quantité de 50% puis de 20% revient à
+l’augmenter de …
+
+4)
+
+Le prix d’un t-shirt est passé de 25€ à 20€. Quel est le
+pourcentage de réduction ?
+
+Après une augmentation de 20%, un jeu vidéo coûte 72€.
+5)
+
+Quel était le prix initial du jeu vidéo ?
+
+Enoncé
+
+Réponse
+
+Évolution des effectifs d'un club sportif entre 2017 et 2018.
+
+6)
+
+2017
+
+2018
+
+Effectifs
+
+Indice (base 100 en 2017)
+
+Quel est le pourcentage d'évolution des effectifs entre 2017 et
+2018 ?
+Résoudre l'équation suivante :
+2𝑥 + 5 = 4𝑥 − 3
+
+7)
+
+8)
+
+9)
+
+Donner l’ensemble des solutions de l'inéquation suivante :
+𝑥 + 6 < 7𝑥 + 1
+
+Donner les solutions de l'équation suivante : 𝑥 2 = 16
+
+Donner le tableau de signe de :
+10)
+
+(𝑥 − 1) ( − 𝑥)
+
+PARTIE 2
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+1. On a représenté sur le schéma 1, le polygone ABCDEFGH. Reproduire cette figure et tracer
+l’image A’B’C’D’E’F’G’H’ de ce polygone par la symétrie centrale de centre I.
+2. Les deux polygones ABCDEFGH et A’B’C’D’E’F’G’H’ forment un motif. Tracer, sur la figure de la
+question 1, l’image, par la translation de vecteur ⃗𝑢, du motif ainsi obtenu.
+3. Sur le schéma 2, on a représenté un pavage du plan réalisé à partir du motif 1.
+a) Tracer, toujours sur la même figure, un représentant du vecteur 𝑣 de la translation par
+laquelle le motif 1 a pour image le motif 2.
+b) Donner un représentant du vecteur 𝑣 dont les extrémités appartiennent aux sommets des
+polygones ABCDEFGH et A’B’C’D’E’F’G’H’.
+4. Donner un enchainement de transformations permettant de réaliser le pavage dessiné sur le
+schéma 2 (délimité par les points A, M, N et P) à partir du polygone ABCDEFGH.
+SCHEMA 1
+
+SCHEMA 2
+
+EXERCICE 3 (5 points)
+Dans une entreprise de 800 employés, 480 viennent au travail en transports en commun et
+parmi eux, seulement 36 ont un trajet d’une durée strictement inférieure à 30 minutes. Parmi
+les employés qui n’utilisent pas les transports en commun, 91 ont un trajet d’une durée
+strictement inférieure à 30 minutes.
+1. Recopier et compléter le tableau d’effectifs ci-dessous :
+Employés utilisant les
+transports en
+commun
+
+Employés n’utilisant pas
+les transports en
+TOTAL
+commun
+
+Employés dont le trajet a une
+durée strictement inférieure à
+30 minutes
+Employés dont le trajet a une
+durée supérieure ou égale à 30
+minutes
+TOTAL
+
+2. Calculer la proportion des employés qui ne viennent pas en transport en commun.
+3. On interroge au hasard un employé de l’entreprise et on considère les évènements
+suivants :
+- 𝐶 : « l’employé utilise les transports en commun »
+- 𝑅 : « le trajet de l’employé a une durée strictement inférieure à 30 minutes »
+a. Calculer la probabilité 𝑃(𝑅).
+b. Calculer la probabilité 𝑃 (𝐶 ∩ 𝑅).
+c. Calculer la probabilité de 𝐶̅ sachant 𝑅̅ , notée P𝑅̅ (𝐶̅ ).
+Les résultats seront donnés sous forme décimale et arrondis à 10−3.
+
+EXERCICE 4 (5 points)
+1. Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = −2𝑥 2 + 43𝑥 − 230 .
+a. Montrer que pour tout 𝑥 ∈ 𝐑 , 𝑓(𝑥) = −2(𝑥 − 10)(𝑥 − 11,5).
+b. Résoudre dans R l’équation 𝑓(𝑥) = 0 .
+2. Une personne décide de faire construire un nouveau local rectangulaire de 43 mètres de
+long. Comme indiqué sur la figure ci-dessous, à chacune des extrémités, des emplacements
+carrés, de côté 𝑥 sont destinés, l’un au stockage des pièces détachées, l’autre à l’accueil. La
+partie centrale accueillant l’atelier de mécanique occupe une aire de 230 m².
+
+Exprimer, en fonction de 𝑥, l’aire totale du local rectangulaire et celles des trois
+emplacements.
+3. En déduire que, pour que ce local ait cette configuration, 𝑥 doit être solution de l’équation
+−2𝑥 2 + 43𝑥 − 230 = 0.
+4. En utilisant la question 1, donner les deux valeurs de 𝑥 possibles.

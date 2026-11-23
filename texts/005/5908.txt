@@ -1,0 +1,184 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1508991, "at": "2026-11-23T08:58:22+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Cet exercice
+comprend 10 questions. Aucune justification n'est demandée.
+
+Questions
+
+Réponses
+
+1) On dispose 1,5 L de pâte à crêpes. Sachant qu’une louche standard de 6 cL
+permet de faire une crêpe, combien peut-on préparer de crêpes ?
+2) On considère les points A(2 ; 5), B(5 ; 0), C(−4 ; −13) et C(−5 ; −5).
+Lequel de ces trois points appartient à la droite (𝑑) d’équation 𝑦 = 2𝑥 + 5 ?
+3) Un restaurateur a servi 120 couverts cette semaine, alors qu’il en avait
+servi 160 la semaine précédente. Quel est le taux d’évolution en
+pourcentage du nombre de couverts servis entre la semaine dernière et
+cette semaine ?
+4) Les résultats obtenus lors d’un test sur 10 points ont été résumés sous
+forme d’un diagramme en boîte donné ci-dessous :
+
+6 est la valeur de :
+a) de la moyenne
+
+b) de la médiane
+
+c) du 3ème quartile
+
+5) En utilisant le diagramme en boite donné ci-dessus à la question 4),
+donner l’écart interquartile de cette série statistique.
+
+6) Une confiture contient 60% de fruits. Parmi ces 60% de fruits se
+trouvaient 40% de fraises. Quelle est la proportion de fraises dans cette
+confiture ?
+7) Un article est soldé à « −10 % ». Il coûtait 60 euros avant remise. Quel est
+son prix après la remise ?
+8) Un article est soldé à « −20 % ». Il coûte 48 euros après remise. Quel
+était son prix avant la remise ?
+9) Un prix augmente de 40 % puis augmente à nouveau de 20 %. Quel est le
+taux d’augmentation global du prix ?
+10) Donner l’ensemble des solutions sur ℝ de l’inéquation : −2𝑥 + 5 > 0
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un cinéma propose deux formules :
+
+Formule A : des places à l’unité au tarif de 7 euros.
+Formule B : une carte d’abonnement d’un an de 10 euros qui permet d’acheter des
+places au tarif préférentiel de 6,30 euros l’unité.
+
+Alex, un habitué du cinéma, hésite entre les deux formules. Pour tout entier naturel 𝑛, on
+note 𝑢𝑛 le prix total de 𝑛 séances sur une année sans carte d’abonnement (Formule A) et 𝑣𝑛
+le coût total de 𝑛 séances sur une année avec la carte d’abonnement (Formule B).
+1. Justifier que 𝑢2 = 14 et que 𝑣2 = 22,60.
+2. Justifier que (𝑣𝑛 ) est une suite arithmétique dont on précisera la raison et le premier terme
+𝑣0 .
+3. Alex souhaite connaitre le nombre minimal de séances à partir duquel la formule avec la
+carte d’abonnement devient plus avantageuse. Compléter l’algorithme fourni en annexe 1
+qui est à rendre avec la copie pour qu’à la fin de son exécution, la variable N contienne la
+valeur recherchée par Alex.
+4. Le cinéma propose une nouvelle offre à 10 euros la première séance, puis applique une
+réduction de 10 % du prix à chaque nouvelle séance. On définit alors la suite (𝑤𝑛 ) pour 𝑛
+entier naturel non nul, où 𝑤𝑛 correspond au prix de la 𝑛 -ième séance.
+Justifier que la suite (𝑤𝑛 ) est une suite géométrique de premier terme 𝑤1 = 10 dont on
+précisera la raison.
+5. Alex prévoit d’assister à 3 séances, donner en justifiant le tarif le plus avantageux parmi les
+trois proposés.
+
+Exercice 3 (5 points)
+Une entreprise produit et vend chaque jour des pièces métalliques pour l’industrie
+automobile. Chaque mois, cette entreprise vend entre 0 et 600 pièces.
+Le bénéfice, en milliers d’euros, réalisé pour 𝑥 centaines de pièces vendues, est donné par la
+fonction 𝐵 définie sur l’intervalle [0 ; 6] dont la courbe représentative 𝐶𝐵 est donnée cidessous.
+
+1. Donner par lecture graphique, avec la précision permise par le graphique, l’intervalle pour
+lequel le bénéfice est positif ou nul.
+On admet que la fonction 𝐵 est définie sur [0 ; 6] par :
+𝐵(𝑥) = −5𝑥 3 + 29𝑥 2 + 8𝑥 − 140
+2. Déterminer l’expression de la fonction dérivée 𝐵′ de 𝐵 sur [0 ; 6].
+3. Montrer que 𝐵′(𝑥) peut s’écrire, pour tout 𝑥 de [0 ; 6], 𝐵 ′ (𝑥) = (−15𝑥 − 2)(𝑥 − 4).
+4. Étudier le signe de 𝐵′(𝑥) et en déduire les variations de 𝐵 sur [0 ; 6].
+5. Quel est le nombre de pièces à produire et à vendre afin que le bénéfice soit maximal.
+Donner la valeur exacte de ce bénéfice maximal en milliers d’euros.
+
+Exercice 4 (5 points)
+
+Un club de vacances propose à ses clients de souscrire à des formules optionnelles
+concernant les activités de loisirs et les visites de sites. On a relevé que sur l’ensemble
+des 2 500 vacanciers :
+
+80 % des clients ont souscrit à l’option « Visites de sites »,
+800 clients ont souscrit à l’option « Activités de loisirs »,
+200 clients n’ont pris aucune des 2 options.
+
+1. À l’aide des informations précédentes, compléter le tableau croisé d’effectifs donné en
+annexe 2 qui est à rendre avec la copie.
+On interroge un vacancier au hasard de ce club de vacances.
+
+On note A l’événement : le vacancier a souscrit l’option « Activités de loisirs ».
+On note V l’événement : le vacancier a souscrit l’option « Visites de sites ».
+
+Pour les questions suivantes, on donnera les résultats sous forme décimale.
+2. Décrire par une phrase l’événement A ∩ V, puis calculer sa probabilité.
+3. On interroge un vacancier ayant choisi l’option « Visite de sites ». Calculer la probabilité qu’il
+ait également choisi l’option « Activités de loisirs ».
+4. Calculer la probabilité que le vacancier ait souscrit à une seule option.
+5. On interroge les 2500 clients sur leur niveau de satisfaction à l’issue de leur séjour dans
+l’établissement. Les clients peuvent attribuer des notes allant de 0 à 3 :
+ 0 pour non satisfait,
+ 1 pour assez satisfait,
+ 2 pour satisfait,
+ 3 pour très satisfait.
+Le club est considéré comme attractif si la médiane et la moyenne sont toutes les deux
+supérieures à 1,9.
+Les résultats de l’enquête sont donnés par le tableau suivant :
+Notes
+
+Fréquences
+
+10 %
+
+23 %
+
+43 %
+
+24 %
+
+Le directeur de l’établissement peut-il affirmer que son club est attractif ?
+
+Annexes à rendre avec la copie
+Annexe 1 - Exercice 2 - Question 3
+N0
+U…
+V…
+tant que U…….V
+U U+…..
+V  V+………
+N  N+1
+fin de tant que
+
+Annexe 2 - Exercice 4
+Vacanciers ayant
+souscrit à l’option
+« Activités de loisirs »
+
+Vacanciers n’ayant pas
+souscrit à l’option
+« Activités de loisirs »
+
+Total
+
+Vacanciers ayant souscrit à
+l’option « Visites de sites »
+Vacanciers n’ayant pas souscrit
+à l’option « Visites de sites »
+Total
+
+𝟐𝟓𝟎𝟎

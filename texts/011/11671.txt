@@ -1,0 +1,137 @@
+{"pages": 9, "method": "pdftotext", "bytes": 901344, "at": "2026-11-23T08:54:44+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Pour un coefficient multiplicateur de 1,33 le taux
+d'évolution en pourcentage est :
+
+2.
+Après une hausse de 120 % un produit coûte 1200 €.
+Quel était son prix initial ?
+
+3.
+Écrire sous la forme décimale le résultat du calcul
+suivant 3 × 103 + 6 × 102 + 4 + 5 × 10−1
+
+4.
+Résoudre l'équation 5 − 2𝑥 = 0
+
+5.
+L'ensemble des solutions de l'inéquation−3𝑥 + 6 > 0est
+
+6.
+Factoriser 3𝑥(𝑥 + 5) − (𝑥 + 5)2
+
+Énoncé
+7.
+
+𝑥 et 𝑦 sont des nombres réels tels que 6 − 2𝑥 ≤ 4𝑦
+Isoler 𝑥 dans cette inégalité.
+
+8.
+
+𝑓(𝑥) = 𝑥 2 − 3
+
+Réponse
+
+Calculer l'image de √2 par cette fonction.
+9.
+
+Les coordonnées du point d'intersection de la droite
+d'équation 𝑦 = 3 𝑥 + 2 avec l'axe des abscisses sont
+
+10. Donner l'équation réduite de la droite (D) représentée cidessous
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+La figure donnée en annexe à rendre avec la copie représente une pièce d'une maison.
+On considère le repère orthonormé ( O , I , J , K ) avec OI = OJ = OK = 1 unité de longueur = 35
+cm.
+1. Déterminer la superficie au sol de cette pièce en cm2.
+2. Le mur (OIK) contient une fenêtre carrée MNPQ avec M( 6 ; 0 ; 3 ).
+Donner les coordonnées des points N, P et Q.
+3. On place dans cette pièce un bureau contre le mur (OJK) dont le plateau est un rectangle
+de sommet A ( 0 ; 6 ; 2 ) , B ( 0 ; 10 ; 2 ) , C ( 2 ; 10 ; 2 ) et D ( 2 ; 6 ; 2 ).
+Dessiner le plateau de ce bureau sur la figure.
+4. Le point E ( 1 ; 8 ; 6 ) matérialise l'emplacement d'un éclairage.
+Cet éclairage est-il situé au-dessus du centre de la table ? Justifier la réponse.
+5. Des rayons lumineux traversent la fenêtre jusqu'au sol.
+Le point q représente le projeté sur le sol du point Q parallèlement au rayon lumineux (Qq).
+Construire les projetés des points M, N et P sur le sol puis tracer l'ombre de la fenêtre au sol.
+
+Exercice 3 (5 points)
+En 2021, une entreprise compte produire au plus 60 000 téléphones portables pour la
+France et les vendre 800 € l’unité. On suppose que tous les téléphones produits sont
+vendus.
+Le coût de production, en euros, est modélisé par la fonction 𝐶 définie sur [0 ; 60 000] par :
+𝐶(𝑥) = 0,01𝑥 2 + 250𝑥 + 2 500 000
+où 𝑥 représente le nombre de téléphones fabriqués et vendus.
+a. Calculer 𝐶(7 500). Interpréter le résultat obtenu.
+b. Calculer le montant de la recette, en euros, que rapporte la vente de 7 500 téléphones.
+En déduire le montant du bénéfice, en euros, pour 7 500 téléphones vendus.
+2.
+
+Montrer que, pour tout 𝑥 ∈ [0 ; 60 000], le bénéfice, en euros, est défini par :
+𝐵(𝑥) = −0,01𝑥 2 + 550𝑥 − 2 500 000
+
+où 𝑥 représente le nombre de téléphone fabriqués et vendus.
+3.
+a. Étudier les variations de la fonction 𝐵 sur [0 ; 60 000].
+b. En déduire le nombre de téléphone que l’entreprise doit produire pour réaliser un
+bénéfice maximal. Donner la valeur ce bénéfice en euros.
+
+Exercice 4 (5 points)
+Lors d’une épidémie observée sur une période de onze jours, un institut de veille sanitaire a
+étudié l’évolution du nombre de personnes malades.
+La durée, écoulée à partir du début de la période, est exprimée en jours. Elle est notée 𝑡.
+On modélise le nombre de cas grâce à la fonction 𝑓, où 𝑓(𝑡) représente le nombre
+personnes malades, en milliers, à l’instant 𝑡.
+Soit 𝑓′ la fonction dérivée de 𝑓. Le nombre 𝑓′(𝑡) représente la vitesse d’évolution de la
+maladie, 𝑡 jours après l’apparition des premiers cas.
+
+On donne ci-dessous la courbe représentative 𝒞𝑓 de la fonction 𝑓, définie sur l’intervalle
+[0 ; 11]. La droite 𝒯 est la tangente à la courbe 𝒞𝑓 au point d’abscisse 0 et passe par le point
+𝐴 de coordonnées (4 ; 45).
+
+a. Déterminer par lecture graphique 𝑓′(0).
+b. En déduire l’équation réduite de la tangente 𝒯.
+
+2. La fonction 𝑓 est définie sur l’intervalle [0 ; 11] par :
+𝑓(𝑡) = −𝑡 3 +
+
+21 2 45
+𝑡 + 𝑡
+
+a. Calculer 𝑓′(𝑡) pour tout 𝑡 dans l’intervalle [0 ; 11].
+b. On admet que , pour tout 𝑡 dans l’intervalle [0 ; 11],
+𝑓 ′ (𝑡) = −3 (𝑡 + ) (𝑡 − )
+Étudier le signe de 𝑓′(𝑡) et en déduire le tableau de variation de la fonction 𝑓 sur [0 ; 11].
+c. Retrouver par le calcul l’équation réduite de la tangente 𝒯.
+
+Annexe à rendre avec la copie

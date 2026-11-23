@@ -1,0 +1,187 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1016450, "at": "2026-11-23T08:57:16+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Dans un lycée, 30% des élèves sont en première
+et parmi eux, 60% sont des filles. Calculer le
+pourcentage des filles parmi les élèves de
+première de ce lycée.
+
+2)
+
+Donner l’écriture scientifique de 0,034 × 107
+
+3)
+
+Déterminer le nombre entier égal à (104 × 10−3 )2
+
+4)
+
+Développer l’expression 3𝑥(1 − 2𝑥) + 4.
+
+5)
+
+Factoriser l’expression (𝑥 − 4)(𝑥 + 3) − 5(𝑥 + 3).
+
+6)
+
+Graphiquement, on
+lit que l’image de 0
+par la fonction 𝑓
+est :
+…………
+
+7)
+
+Graphiquement, on
+lit que, dans
+l’intervalle [−1 ; 5],
+l’ensemble des
+solutions de
+l’inéquation
+𝑓(𝑥) > 6 est :
+………………………………
+
+La courbe ci-dessus est la courbe représentative
+d’une fonction 𝑓 définie sur l’intervalle [−1 ; 5].
+8)
+9)
+
+Dans un repère du plan, la droite d a pour
+équation réduite 𝑦 = −3𝑥 + 4.
+Compléter les coordonnées ci-contre :
+
+A (5 ; ………) ∈ d
+B ( …….. ; 7) ∈ d
+
+Sur cet
+histogramme,
+le pourcentage des
+valeurs comprises
+dans l’intervalle
+[30 ; 50] est :
+……………
+
+10)
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+Un nouveau virus informatique se propage. Le virus récupère le carnet
+d’adresses de l’utilisateur et envoie des messages qui, à leur tour,
+infectent de nouveaux ordinateurs.
+Le premier jour, 45 000 ordinateurs d’un réseau sont infectés.
+La société de sécurité informatique chargée de protéger ce réseau met à
+jour son antivirus. Chaque jour, elle parvient à nettoyer 15 % des
+machines infectées la veille.
+Malheureusement, chaque jour, 10 000 nouveaux ordinateurs sont
+victimes de ce virus.
+1. Justifier par le calcul que le nombre d’ordinateurs nettoyés le
+deuxième jour est de 6 750.
+2. Justifier par le calcul que le nombre d’ordinateurs infectés le
+deuxième jour est de 48 250.
+3. Pour tout entier 𝑛 supérieur ou égal à 1, 𝑢(𝑛) représente le nombre
+d’ordinateurs infectés le 𝑛-ième jour. On a donc 𝑢(1) = 45 000.
+a. La suite 𝑢 est-elle arithmétique ? géométrique ? Justifier.
+b. Expliquer pourquoi, pour tout entier 𝑛 supérieur ou égal à 1,
+on a : 𝑢(𝑛 + 1) = 0,85 𝑢(𝑛) + 10 000
+4. Les responsables de la société
+de sécurité informatique
+préparent une campagne de
+sensibilisation pour inciter les
+utilisateurs à recourir à un
+antivirus et ainsi éviter la
+propagation du virus.
+La société décide de lancer sa
+campagne lorsqu’au moins
+65 000 ordinateurs seront
+infectés.
+
+n=1
+
+U=45000
+
+while
+................................. :
+n=
+............................
+U=
+............................
+
+return(...........)
+Recopier et compléter l’algorithme ci-contre, afin qu’il affiche le jour
+du début de cette campagne de sensibilisation.
+
+Exercice 3 : (5 points)
+Soit 𝑓 une fonction définie et dérivable sur R. On note 𝑓 ′ la fonction
+dérivée de la fonction 𝑓 . On donne ci-dessous la courbe 𝐶𝑓 représentant la
+fonction 𝑓 .
+La courbe 𝐶𝑓 coupe l’axe des abscisses au point A(−2 ; 0). L’axe des
+abscisses est tangent à la courbe 𝐶𝑓 au point B d’abscisse 6. La tangente à
+la courbe au point A passe par le point M(−3 ; 3). La courbe 𝐶𝑓 admet une
+deuxième tangente parallèle à l’axe des abscisses au point C d’abscisse 0.
+De plus, D(2 ; −1,5) ∈ 𝐶𝑓 .
+
+𝐶𝑓
+
+À partir du graphique et des données de l’énoncé, répondre aux questions
+suivantes :
+1. a. Déterminer 𝑓 ′(−2).
+b. Déterminer les solutions de l’équation 𝑓 ′(𝑥) = 0.
+2. Dresser, sans justification, le tableau de variations de la fonction
+𝑓 sur R.
+3. Une seule des trois courbes tracées ci-dessous est la représentation
+graphique de la fonction 𝑓 ′. Déterminer laquelle. Justifier la
+réponse.
+
+Courbe 1
+Courbe 3
+4. On donne 𝑓 ′(2) =
+
+Courbe 2
+
+.
+
+Calculer les coordonnées du point d’intersection de la tangente à la
+courbe 𝐶𝑓 au point D avec l’axe des abscisses.
+
+Exercice 4 : (5 points)
+On considère une urne contenant six boules blanches et quatre boules
+rouges. Un jeu consiste à tirer une boule, noter sa couleur et la remettre
+dans l’urne et ceci trois fois. Pour chaque partie :
+- si les trois boules tirées sont rouges, le joueur gagne 100 €,
+- si exactement deux boules tirées sont rouges, il gagne 15 €,
+- si une seule boule tirée est rouge il gagne 5 €,
+- dans les autres cas, il ne gagne rien.
+Soit 𝑋 la variable aléatoire qui, à chaque partie, associe le gain du joueur
+en
+euro.
+L’arbre pondéré suivant décrit cette situation. R est l’événement « la boule
+tirée est rouge », et B est l’événement « la boule tirée est blanche ».
+
+1. a. Montrer que 𝑃 (𝑋 = 100) = 0,064.
+b. Déterminer la loi de probabilité de la variable aléatoire 𝑋.
+2. a. Montrer que l’espérance mathématique de la variable aléatoire 𝑋
+est 12,88.
+b.Pour jouer une partie, le joueur doit payer 10 €. Ce jeu est-il
+favorable au joueur ? Expliquer.
+3. Le jeu n’étant pas assez rentable pour l’organisateur, celui-ci
+envisage deux solutions :
+ soit augmenter le prix de chaque partie de 3 € et donc passer à
+13 € ;
+ soit rester à 10 € mais diminuer chaque gain de 3 €, c’est-à-dire
+ne gagner que 97 €, 12 € ou 2 €.
+Quelle est la solution la plus rentable pour l’organisateur ? Expliquer la
+démarche.

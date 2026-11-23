@@ -1,0 +1,171 @@
+{"pages": 9, "method": "pdftotext", "bytes": 943647, "at": "2026-11-23T08:57:04+00:00"}
+PARTIE I
+Automatismes
+Exercice 1 : (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+En 2019, le litre de super est passé
+de 1 € à 1,25 €. Quel est le
+pourcentage d’augmentation ?
+Un smartphone coûte 899 €.
+Le magasin fait une réduction de
+10 %.
+Son prix a donc été multiplié par :
+Résoudre dans ℝ l’équation :
+x + 3 = 3x - 2
+Hachurer, sur la droite graduée
+ci-contre l’ensemble des solutions
+de l’inéquation : 2x – 3 > 7
+x
+-∞
+Signe de x + 2
+
+Déterminer le signe
+de (x + 2) (x – 4)
+
++∞
+
+Signe de x + 4
+Signe de
+(x + 2) (x – 4)
+
+f (x) = x² + 3x – 2, alors f’ (x) =
+
+Résoudre dans ℝ l’équation x²=25
+
+Le chiffre d’affaire d’une
+entreprise a augmenté de 100 %. Il
+a été multiplié par :
+
+Année
+Indice
+
+2016
+
+2017
+
+2018
+
+Si on multiplie un prix par 0,7,
+10 alors on lui a appliqué une baisse
+de :
+
+Entre 2016 et 2017, Le taux d’évolution est de
+..… %
+
+…… %
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Exercice 2 : (5 points)
+Une fromagerie artisanale a mis au point un nouveau fromage aux herbes. Avant le
+lancement sur le marché, une enquête est réalisée sur le goût et l’odeur de ce fromage
+auprès de 200 personnes. Au cours de celle-ci, chaque personne doit donner son
+appréciation :
+ Sur l’odeur, qui a deux modalités : odeur forte et odeur non forte
+ Sur le goût, qui a deux modalités : goût épicé et goût non épicé.
+Les résultats obtenus sont les suivants :
+ 60 % des personnes interrogées trouvent que le fromage a une odeur forte
+ Parmi les personnes qui trouvent que le fromage a une odeur forte, 30 % le trouvent
+épicé
+ 20 personnes interrogées ne trouvent ni l’odeur forte ni le goût épicé
+On interroge au hasard une personne ayant donné son appréciation. On note :
+F l’événement « l’odeur est forte », 𝐹̅ l’événement contraire de F.
+E l’événement « le goût est épicé », 𝐸̅ l’événement contraire de E.
+1) Montrer qu’il y a 120 personnes qui trouvent que le fromage a une odeur forte.
+2) Calculer le nombre de personnes qui trouvent l’odeur forte et le goût épicé.
+Compléter alors le tableau fourni en annexe, à rendre avec la copie.
+3) Quelle est la probabilité que la personne interrogée réponde que le fromage a un
+goût épicé ?
+4) Calculer 𝑃(𝐸 ∪ 𝐹)
+5) Calculer 𝑃𝐸 (𝐹)
+
+Exercice 3 : (5 points)
+Lors d’un spectacle, un artificier tire une fusée. Le lieu de départ de la fusée est appelé pas
+de tir.
+La trajectoire de la fusée est fournie en annexe, à rendre la copie.
+La hauteur atteinte en mètres, à un instant donné, par la fusée est représentée en
+ordonnée.
+La distance horizontale parcourue par la fusée à partir du pas de tir, exprimée en mètres, est
+représentée en abscisse.
+En vous aidant du graphique donné en annexe, avec la précision permise par celui-ci, et en
+faisant apparaître les traits utiles à la lecture, répondre aux questions suivantes :
+1) Déterminer la hauteur atteinte par la fusée lorsque la distance horizontale
+parcourue est de 10 m.
+2) Déterminer la hauteur maximale atteinte par la fusée.
+3) À quelle distance du pas de tir, la fusée retombe-t-elle au sol ?
+4) Un arbuste, situé à 2 m du pas de tir, dissimule l’artificier.
+Quelle est la hauteur maximale de cet arbuste pour que la fusée passe au-dessus ?
+5) On décide de modéliser la trajectoire de la fusée par
+la fonction f définie sur l’intervalle [0 ; 30] par 𝑓(𝑥) = −0,1𝑥(𝑥 − 30)
+𝑥 représentant la distance horizontale parcourue par la fusée à partir du pas de tir.
+En utilisant ce modèle, déterminer, en justifiant votre réponse, la valeur exacte de
+la hauteur maximale atteinte par la fusée.
+
+Exercice 4 : (5 points)
+Une entreprise fabrique et commercialise, chaque jour, des photocopieurs.
+La feuille de calcul, donnée en annexe, indique le coût de production, la recette et le gain
+réalisé en fonction du nombre de photocopieurs produits par l’entreprise.
+Chaque photocopieur est vendu 2 000 €.
+La recette correspond à la somme totale obtenue pour la vente des photocopieurs.
+On rappelle que le gain réalisé correspond à la différence entre la recette et le coût de
+production. On remarquera que
+ le gain peut être positif et on le nomme alors bénéfice
+ le gain peut être négatif et on le nomme alors perte.
+On donne le tableau, fourni en annexe, à rendre avec la copie, dans lequel quelques
+données ont été perdues (erreur de manipulation) :
+1) Certaines données de ce tableau peuvent être retrouvées, mais pas toutes. Après
+les avoir déterminées, compléter le tableau donné en annexe, à rendre avec la
+copie.
+2) Quelle formule avait été saisie en D3 et recopiée jusqu’en D14 ?
+On note 𝑥 le nombre de photocopieurs produits et commercialisés.
+Le gain obtenu est une fonction du nombre 𝑥 de photocopieurs.
+Le directeur de l ‘entreprise décide de modéliser le gain journalier, par une
+fonction polynôme de degré 2, notée G et définie sur [0 ; 12].
+3) Dans le cadre de cette modélisation, déterminer, à l’aide du tableau donné en
+annexe, les racines de ce polynôme de degré 2, et justifier que la fonction G est
+définie sur [0 ; 12] par :
+𝐺(𝑥) = −0,1(𝑥 − 3)(𝑥 − 9))
+4) On admet que pour tout 𝑥 appartenant à [0 ; 12] 𝐺(𝑥) = −0,1𝑥 2 + 1,2𝑥 − 2,7
+Déterminer les variations de fonction G et le bénéfice maximal réalisé
+5) Un employé a retrouvé les données suivantes qui avaient été perdues :
+Lorsque l’entreprise produit 7 Photocopieurs le coût de production est de 12,5
+(en milliers d’euros)
+Le directeur avait- il raison de vouloir modéliser le gain obtenu par une fonction
+polynôme de degré 2 ?
+
+Annexe de l’exercice 2 à rendre avec la copie.
+Odeur
+F
+
+Goût
+
+̅
+𝑭
+
+Total
+
+E
+̅
+𝑬
+Total
+
+Annexe de l’exercice 3 à rendre avec la copie.
+Trajectoire de la fusée
+Hauteur atteinte par la fusée en m
+
+Distance horizontale parcourue
+depuis le pas de tir en m
+
+Pas de tir
+
+Annexe de l’exercice 4 à rendre avec la copie.

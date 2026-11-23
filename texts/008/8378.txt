@@ -1,0 +1,187 @@
+{"pages": 4, "method": "pdftotext", "bytes": 1140905, "at": "2026-11-23T08:55:33+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE :☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+MOTS-CLES :
+AUTOMATISMES :
+EXERCICE 1 : Suites Numériques
+EXERCICE 2 : Fonction Inverse
+EXERCICE 3 : Probabilités Conditionnelles
+
+× Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 4
+
+Mathématiques : PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée 20 minutes
+
+Exercice 1 (5 points)
+Enoncé
+1)
+2)
+3)
+
+Réponse
+
+Par combien faut-il multiplier une quantité positive pour que
+celle-ci diminue de 35% ?
+Déterminer le taux d’augmentation réciproque d’une
+diminution de 20 %.
+Le graphique ci-dessous présente l’évolution du chiffre
+d’affaires des agences de publicité entre 2009 et 2019, indice
+100 en 2009. (source INSEE)
+
+Quel est l’indice du
+chiffre d’affaires en
+2018 ?
+
+4)
+
+En quelle année le
+chiffre d’affaires a-t-il
+dépassé l’indice 110 ?
+
+5)
+
+Ecrire le taux
+d’évolution du chiffre
+d’affaires entre 2009 et
+2019.
+
+6)
+
+Dresser le tableau de signe de l’expression définie sur [−5 ; 5]
+par 𝑓(𝑥) = 3(4 − 𝑥)(𝑥 + 2).
+
+7)
+
+Factoriser 16𝑥 2 − 100.
+
+8)
+
+Développer et réduire l’expression 𝑔(𝑥) = (𝑥 + 1)2 − 𝑥(𝑥 +
+5).
+
+Une fonction ℎ est définie sur ℝ par ℎ(𝑥) = −2𝑥 3 + 6𝑥 + 24.
+Calculer ℎ’(𝑥).
+10) La courbe représentative C
+d’une fonction 𝑓 admet une
+tangente T au point
+A(2 ; 1). Celle-ci coupe l’axe
+des ordonnées en 𝑦 = 2.
+9)
+
+Déterminer 𝑓’(2).
+
+Mathématiques : PARTIE II
+Cette partie est composée de trois exercices indépendants.
+Calculatrice autorisée.
+Exercice 2 : (5 points)
+Pour réduire les embouteillages et améliorer la qualité de l’air, le conseil municipal d’une grande
+ville française décide d’installer des vélos en libre-service. En 2015, 1 000 vélos sont installés et la
+municipalité prévoit d’augmenter ce nombre de 5 % chaque année.
+1. a. Vérifier que le nombre de vélos installés en 2016 est de 1 050.
+b. Calculer le nombre de vélos installés en 2017. (Arrondir à l’unité)
+Dans la suite de l’exercice, on modélise le nombre de vélos installés chaque année depuis 2015 par
+𝑣1 = 1 000
+la suite (𝑣𝑛 ) définie par {
+𝑣𝑛+1 = 1,05 × 𝑣𝑛
+2. Expliquer pourquoi la suite (𝑣𝑛 ) est géométrique et préciser sa raison.
+3. On considère un algorithme rédigé en Python.
+Interpréter le résultat obtenu dans la console dans
+le contexte de l’exercice.
+
+Algorithme
+
+Console
+
+def nbvel(𝑛) :
+𝑣 = 1 000
+for i in range(𝑛) :
+𝑣 = 1,05 × 𝑣
+return 𝑣
+
+>>> nbvel(7)
+1407.1004226562504
+
+4. A la fin de l’année 2020, combien de vélos en libre-service seront disponibles dans cette ville ?
+(Arrondir à l’unité)
+
+Exercice 3 : (5 points)
+Le coût de production, en milliers d’euros, pour produire 𝑥 hectolitres d’un produit est donné par
+l’expression 𝐶(𝑥) = 𝑥 2 + 9, pour tout réel 𝑥 de l’intervalle [1 ; 6]. Le coût moyen de production
+d’un hectolitre est défini, pour tout réel 𝑥 de l’intervalle [1 ; 6], par l’expression 𝐶𝑀 (𝑥) =
+
+𝐶(𝑥)
+𝑥
+
+1. Montrer le coût moyen de production pour 4 hectolitres de ce produit est égal à 6 250 €.
+
+.
+
+2. Montrer que, pour tout réel 𝑥 de l’intervalle [1 ; 6], on peut écrire 𝐶𝑀 (𝑥) = 𝑥 + 𝑥.
+
+′
+3. En déduire que, pour tout réel 𝑥 de l’intervalle [1 ; 6], on a l’égalité 𝐶𝑀
+= 1 − 𝑥 2 où 𝐶𝑀
+est la
+
+fonction dérivée de 𝐶𝑀 .
+4. On admet qu’une expression factorisée de 𝐶𝑀
+est : 𝐶𝑀
+=
+
+(𝑥−3)(𝑥+3)
+𝑥2
+
+. En déduire le
+
+tableau de signe de 𝐶𝑀
+sur l’intervalle [1 ; 6].
+
+5. Déterminer le nombre d’hectolitres qu’il faut produire pour que le coût moyen de production
+soit minimal.
+Exercice 4 : (5 points)
+Le gérant d’un restaurant propose une formule pour laquelle le client peut choisir un plat du jour
+qui peut être accompagné, au choix, soit d’une entrée, soit d’un dessert. Pour adapter sa
+production d’entrées et de desserts, il étudie les choix de ses clients en fonction de l’heure du
+repas (midi ou soir).
+
+64% des clients viennent manger uniquement le midi. Les autres viennent manger
+uniquement le soir.
+
+72% des clients qui viennent manger le midi prennent une entrée.
+
+85% des clients qui viennent le soir choisissent un dessert.
+
+On note :
+M : « le client vient manger le midi »
+E : « le client choisit une entrée »
+
+S : « le client vient manger le soir »
+D : « le client choisit un dessert »
+
+1. Construire l’arbre pondéré qui modélise cette situation.
+2. Quelle est la probabilité qu’un client choisisse une entrée en sachant qu’il vient manger le soir ?
+3. Montrer que la probabilité qu’un client vienne manger le midi et choisisse une entrée est égale à
+0,4608.
+4. Déterminer la probabilité qu’un client choisisse une entrée.
+5. Déterminer la probabilité qu’un client vienne manger le midi en sachant qu’il choisit une entrée.
+Arrondir au millième.

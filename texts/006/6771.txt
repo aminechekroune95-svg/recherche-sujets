@@ -1,0 +1,176 @@
+{"pages": 10, "method": "pdftotext", "bytes": 1239629, "at": "2026-11-23T08:57:56+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+1.
+
+Augmenter de 0,1% revient à multiplier par :
+
+2.
+
+Après une baisse de 20 %, par quel nombre faut-il
+multiplier le résultat pour revenir à la valeur initiale ?
+
+3.
+
+Le prix d’un article passe de 5€ à 4,20€.
+Quel est le pourcentage de réduction ?
+
+4.
+
+Voici l’étiquette d’un article en magasin.
+Calculer le taux de réduction global.
+
+5.
+
+L’indice des prix est en octobre 2018 est de 103,7 contre
+98,8 en 2014, base 100 en 2015.
+
+a.
+
+a. Indiquer le taux d’évolution de 2015 à 2018.
+b. Interpréter l’indice 98,8.
+
+b.
+
+6.
+
+Énoncé
+
+Réponse
+
+7.
+
+Résoudre dans R l’inéquation 2𝑥 − 4 ≥ 2 𝑥 + 1
+
+8.
+
+Résoudre dans R l’équation – 5𝑥(−3𝑥 + 2) = 0
+
+9.
+
+Résoudre dans R l’équation 0,07𝑥 = 0,08𝑥 + 2,3
+
+10.
+
+Résoudre dans R l’équation 𝑥² − 1 = − 4
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 ( 5 points)
+ABCDEFGH est un cube d’arête 4 cm. I et K sont les milieux respectifs des arêtes
+[AD] et [DH] et
+J appartient à l’arête [BC] tel que BJ = 1 cm.
+1. On appelle M le point d’intersection de la droite (IJ) et du plan (DCG) et N le
+point d’intersection de la droite (IK) et du plan (EGH). Placer, sur la figure
+donnée en annexe 1 à remettre avec la copie, les points M et N.
+2. Tracer, sur cette même figure en annexe 1, la section du cube par le plan
+(IJK).
+On laissera les traits de construction apparents et on repassera en couleur le
+dessin fini de la section.
+3. Calculer la longueur IK.
+On s’intéresse maintenant au solide composé du cube ABCDEFGH d’arête 4cm et de
+la pyramide CDHGS à base carrée. D est le milieu de [AS] et les triangles DCS et HDS
+sont rectangles en D.
+D’ est le point du plan (AEF) représenté en annexe 2. Si l’on considère la projection
+sur le plan (AEF) parallèlement à la droite (DD’), on dira que le segment [AD’]
+représente alors l’ombre au soleil du segment [AD].
+4. Construire sur l’annexe 2 à remettre avec la copie, les points C’, G’, H’ et S’
+projetés respectifs des points C, G, H et S sur le plan (AEF) parallèlement à
+(DD’) puis dessiner en couleur le « contour » de l’ombre au soleil du solide.
+On laissera les traits de construction apparents.
+5. Soit M le point d’intersection des droites (AB) et (SC). Calculer la longueur AM
+en justifiant votre réponse.
+
+EXERCICE 3
+
+(5 points)
+
+On s’intéresse à un levier mécanique utilisé dans une usine. Celui-ci parcourt une
+distance de 10 mètres en 10 secondes mais pas à vitesse constante. On note d(t) la
+distance en mètre parcourue par le levier, en fonction du temps t exprimé en
+seconde avec t appartenant à l’intervalle [0,10]. On suppose que la fonction d est
+dérivable sur l’intervalle [0,10], on notera d’ sa fonction dérivée. On donne ci-dessous
+la courbe représentative de d dans un repère orthonormé qui passe par les points
+A(5 ; 5), E(8 ; 9,2), et G(10 ; 10).
+.
+
+On a également placé sur le graphique les points B(7 ; 9), C(9 ; 10), D(-1 ; 2), et
+F(0 ; 10).
+La droite (AB) est la tangente à la courbe au point A ; la droite (CD) est la tangente à
+la courbe au point E et la droite (FG) est la tangente à la courbe au point G.
+1. a. Déterminer graphiquement les nombres dérivés 𝑑 ′ (5), 𝑑 ′ (8) et 𝑑 ′ (10).
+b. Quelle est la vitesse instantanée du levier à l’instant 5 s ?
+
+2. a. Calculer le taux de variation de la distance en mètre parcourue par le
+levier entre les instants 5 s et 10 s.
+b. Que représente concrètement le résultat obtenu dans la question 2. a. par
+rapport au levier
+automatique ? Expliquer la réponse.
+3. Pour tout 𝑡 ∈ [0 ; 5], la fonction d est définie par : 𝑑(𝑡) = 0,2𝑡².
+a. Exprimer pour tout 𝑡 ∈ [0 ; 5], 𝑑′(𝑡) en fonction de 𝑡 .
+b. Calculer 𝑑 ′ (2) . Que représente concrètement le nombre dérivé 𝑑 ′ (2) par
+rapport au levier automatique ?
+
+EXERCICE 4
+
+(5 points)
+
+Au centre d’aide au sevrage tabagique, 200 fumeurs ont suivi un traitement 𝑇1 ou un
+traitement 𝑇2 . Au bout de quelques mois ces 200 personnes subissent un test
+permettant d’évaluer leur nouvelle dépendance tabagique. Les résultats sont les
+suivants :
+- 28 % des personnes sont fortement dépendantes.
+- Parmi les 80 personnes ayant suivi le traitement 𝑇1 , 27 sont non dépendantes.
+- Parmi les personnes ayant suivi le traitement 𝑇2 , 33 sont non dépendantes et
+47 sont faiblement dépendantes.
+1. Compléter le tableau croisé d’effectifs fourni en annexe 3 à remettre avec la
+copie :
+2. a. Quelle est la fréquence 𝑓1 des personnes ayant suivi le traitement 𝑇1 ?
+b. Quelle est la fréquence 𝑓2 des personnes faiblement dépendantes ?
+3. On choisit au hasard une personne.
+Quelle est la probabilité que cette personne ait suivi le traitement 𝑇1 ou soit
+faiblement dépendante ?
+4. On considère que le traitement le plus efficace est celui pour lequel le
+pourcentage de personnes non dépendantes, parmi les personnes ayant suivi
+le traitement, est le plus élevé.
+Quel est le traitement le plus efficace ?
+
+Annexe 1 à remettre avec la copie
+
+EXERCICE 2 questions 1 et 2
+
+Annexe 2 à remettre avec la copie
+EXERCICE 2 question 4
+
+Annexe 3 à remettre avec la copie
+
+EXERCICE 4 question 1
+
+Nombre de
+personnes
+
+Non
+
+Faiblement
+
+Fortement
+
+Total
+
+Ayant suivi le
+traitement 𝑇1
+
+Ayant suivi le
+traitement 𝑇2
+
+Total

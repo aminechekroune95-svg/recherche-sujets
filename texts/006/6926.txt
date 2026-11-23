@@ -1,0 +1,165 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1009271, "at": "2026-11-23T08:56:38+00:00"}
+Partie I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+1)
+
+Durée : 20 minutes
+
+Réponse
+
+Sur 200 candidats à un examen, 150 sont admis.
+Quel est le pourcentage de candidats admis ?
+
+2)
+
+Calculer
+
+×
+
+et indiquer le résultat sous forme de
+
+fraction irréductible.
+3)
+
+4)
+
+Donner l’écriture scientifique de 1 234 500.
+Déterminer l’équation réduite de la droite (AB) avec
+A(1 ; 3) et B(0 ; 1).
+En électricité U = RI où U est la tension en volt, R est
+
+5)
+
+la résistance en ohm et I l’intensité en ampère.
+Si R = 2000 ohms et I = 0, 005 ampère, que vaut la
+tension en volt ?
+Développer et réduire
+
+6)
+
+(4𝑥 + 8)(2𝑥 − 7)
+7)
+
+Factoriser 5𝑥2 − 3𝑥.
+
+Énoncé
+𝐶𝑓 est la
+8)
+
+Réponse
+
+courbe représentative d’une fonction Quelle est l’image de 0 par la
+
+𝑓 définie sur [−4 ; 4]. Par lecture graphique et avec la fonction 𝑓 ?
+précision permise par la figure, répondre aux
+
+……………………………………………………..
+
+questions suivantes :
+Indiquer le nombre de solutions de
+l’équation 𝑓(𝑥) = 4
+
+9)
+
+………………………………...…………………..
+Dresser le tableau des variations
+de la fonction 𝑓 sur [−4 ; 4] (on ne
+précisera pas les images).
+
+10)
+
+Partie II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+Exercice 2 (5 points)
+Un responsable commercial du service de Vélos à Assistance Électrique (VAE) dans une
+entreprise de fabrication de deux roues, doit proposer une estimation du nombre de vélos à
+produire pour les années à venir. En 2018 l’entreprise a réalisé 4 500 ventes de VAE. Le
+marché étant porteur et dynamique, ce responsable estime que le nombre de ventes
+progressera chaque année de 22 %.
+On note 𝑣𝑛 le nombre de VAE vendus par l’entreprise en 2018 + 𝑛. On a donc 𝑣0 = 4 500.
+1) Recopier le tableau ci-dessous sur votre copie en complétant les valeurs
+manquantes.
+A
+B
+C
+D
+E
+
+Rang de
+l’année 𝑛
+
+Nombres de
+ventes 𝑣𝑛
+
+2) Exprimer 𝑣𝑛+1 en fonction de 𝑣𝑛 pour tout entier naturel 𝑛.
+3) Quelle est la nature de la suite (𝑣𝑛 ) ? Préciser sa raison.
+
+4) Le responsable souhaite connaître le nombre d’années nécessaire pour que les
+ventes de VAE dépassent 20 000 unités. Pour cela il a préparé un script, en langage
+python. Recopier sur votre copie et compléter ce script afin qu’il permette d’obtenir
+la réponse au problème.
+
+5) Déterminer la valeur renvoyée par ce programme par la méthode de votre choix.
+
+Exercice 3 (5 points)
+Une entreprise commercialise des chocolats. La production hebdomadaire maximale est de
+30 000 chocolats. On suppose que la totalité de la production hebdomadaire est vendue
+chaque semaine. Les charges de production, en euro, pour 𝑥 milliers de chocolats vendus
+sont modélisées par la fonction 𝐶 définie sur l’intervalle [0 ; 30] par 𝐶 (𝑥) = 4𝑥2 + 4𝑥 +
+520. L’entreprise fixe le prix de vente d’un chocolat à 0,128 euros. Pour la vente de 𝑥
+milliers de chocolats le chiffre d’affaires, en euro, est donné par la fonction 𝑅 définie sur
+l’intervalle [0 ; 30] par 𝑅(𝑥) = 128𝑥.
+
+𝒞𝑅 et 𝒞𝐶 désignent les courbes représentatives respectives de 𝑅 et 𝐶 dans le repère cidessous.
+𝒞𝐶
+
+𝒞𝑅
+
+Le résultat réalisé pour 𝑥 milliers de chocolats vendus est donné par la fonction 𝐵, définie
+pour tout nombre 𝑥 appartenant à l’intervalle [0 ; 30] par : 𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+1) Montrer que 𝐵(𝑥) = −4𝑥2 + 124𝑥 − 520.
+2) Montrer que 𝐵(𝑥) = −4(𝑥 − 5)(𝑥 − 26).
+3) En déduire le tableau de signes de 𝐵(𝑥) sur [0 ; 30].
+4) À l’aide des questions précédentes déterminer les quantités de chocolats à produire
+permettant d’obtenir un résultat positif.
+5) Quelle est la quantité de chocolats à produire pour maximiser le résultat
+hebdomadaire ? On précisera la valeur de ce résultat maximal en euro.
+
+Exercice 4 (5 points)
+Un sac contient trois boules rouges et deux boules jaunes. Une partie consiste à prélever
+deux boules successivement en replaçant la première boule tirée dans l’urne avant le
+deuxième tirage.
+On définit les événements suivants :
+-
+
+R : « La boule tirée est rouge » ;
+
+-
+
+J : « La boule tirée est jaune ».
+
+1) Recopier sur votre copie et compléter l'arbre des probabilités suivant :
+
+0,6
+
+Chaque boule rouge tirée rapporte 2 €. Chaque boule jaune fait perdre 1 €.
+Soit 𝑋 la variable aléatoire égale au gain algébrique du joueur à l'issue d’une partie.
+2) Compléter le tableau suivant donnant la loi de probabilité de la variable aléatoire 𝑋.
+𝑘
+
+-2
+
+𝑃(𝑋 = 𝑘)
+
+0,16
+
+0,36
+
+3) Déterminer 𝑃(𝑋 > 0). Interpréter le résultat précédent.
+4) Calculer l'espérance 𝐸(𝑋) et interpréter le résultat.

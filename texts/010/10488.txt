@@ -1,0 +1,168 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1182886, "at": "2026-11-23T08:54:53+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions indépendantes. Pour chacune d’elles, une seule des réponses
+proposées est exacte.
+Indiquer pour chaque question sur la copie la lettre correspondant à la réponse choisie.
+Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+L’équation 2𝑥 2 − 8𝑥 + 6 = 0 admet deux solutions. Leur somme 𝑆 et leur produit 𝑃 sont :
+
+𝑆 = −8
+𝑃=6
+
+𝑆 = −4
+𝑃=3
+
+𝑆=4
+𝑃=3
+
+𝑆=3
+𝑃 = −4
+
+Question 2
+𝛼 est un nombre réel tel que sin(𝛼) = 0,5. On a alors :
+
+sin(𝜋 − 𝛼) = 0,5
+
+sin(𝜋 − 𝛼) = −0,5
+
+sin(𝜋 − 𝛼) = −
+
+√3
+
+sin(𝜋 − 𝛼) =
+
+𝜋
+
+Question 3
+Dans un repère orthonormé du plan, on considère le cercle d’équation :
+(𝑥 − 3)2 + (𝑦 + 0,5)2 =
+
+ce cercle a un rayon
+de 6,25.
+
+ce cercle passe par
+le point R(5 ; −2).
+
+le centre de ce cercle a pour
+coordonnées (−3 ; 0,5)
+
+aucune des réponses
+A), B) ou C) n’est
+correcte.
+
+On peut affirmer que :
+
+Question 4
+Dans un repère orthonormé du plan, une équation cartésienne de la droite passant par le
+point A(2 ; −4) et de vecteur normal ⃗𝑛(5 ; 6) est :
+
+6𝑥 − 5𝑦 − 32 = 0
+
+6𝑥 + 5𝑦 + 8 = 0
+
+5𝑥 + 6𝑦 + 14 = 0
+
+5𝑥 + 6𝑦 − 14 = 0
+
+Question 5
+On considère la fonction 𝑓 définie sur 𝐑 par 𝑓(𝑥) = (2𝑥+3)e𝑥 .
+La fonction dérivée de la fonction 𝑓 est notée 𝑓′. On a alors :
+
+𝑓′(𝑥) = 2e𝑥
+
+𝑓′(𝑥) = (2𝑥 + 3)e𝑥
+
+𝑓′(𝑥) = (2𝑥 + 1)e𝑥
+
+𝑓′(𝑥) = (2𝑥 + 5)e𝑥
+
+Exercice 2 (5 points)
+Une entreprise fabrique des jeux en bois. Avant sa commercialisation, chaque jeu est soumis
+à deux contrôles : un contrôle de peinture et un contrôle de solidité.
+Après un très grand nombre de vérifications, on constate que :
+- 8 % des jeux ont un défaut de peinture,
+- parmi les jeux qui n’ont pas de défaut de peinture, 5 % ont un défaut de solidité,
+- 2 % des jeux présentent les deux défauts.
+On choisit au hasard un jeu parmi ceux fabriqués par l’entreprise. On note :
+- 𝑇 l’événement : « le jeu a un défaut de peinture. »
+- 𝑆 l’événement : « le jeu a un défaut de solidité. »
+1. Démontrer que 𝑃𝑇 (𝑆) = 0,25.
+2. Recopier et compléter l’arbre pondéré de probabilité ci-dessous traduisant les données de
+l’énoncé.
+
+3. Démontrer que la probabilité que le jeu choisi au hasard n’ait pas de défaut de solidité est
+égale 0,934.
+4. Les jeux qui présentent un défaut de solidité sont détruits. Dans cette question, on leur
+attribuera un prix de vente de 0 €.
+Les jeux ne présentant aucun défaut sont vendus 14 € chacun.
+Les autres jeux sont vendus 9 € chacun.
+On note 𝑋 la variable aléatoire qui donne le prix de vente, en euros, d’un jeu.
+a. Recopier et compléter le tableau ci-dessous donnant, pour chaque valeur 𝑥𝑖 de 𝑋,
+la probabilité de l’événement {𝑋 = 𝑥𝑖 }.
+𝑥𝑖
+𝑃(𝑋 = 𝑥𝑖 )
+
+b. Quel est le prix de vente moyen d’un jeu fabriqué par cette entreprise ?
+On arrondira le résultat au centime d’euro.
+
+Exercice 3 (5 points)
+L’évolution d’une population de bactéries dépend de l’environnement dans lequel ces
+bactéries sont placées. Cette population peut être modélisée par la suite (𝑃𝑛 ) définie, pour
+tout entier naturel 𝑛, par : 𝑃𝑛+1 = (1 + 𝛼)𝑃𝑛 + 𝛽, où 𝛼 et 𝛽 sont des paramètres liés à
+l’environnement, notamment à la température et à l’humidité.
+𝑃𝑛 modélise alors le nombre de bactéries, en milliers, qui composent cette population 𝑛
+jours après les avoir introduites dans un certain environnement.
+1. Une population, initialement composée de 500 mille bactéries, est étudiée dans un
+environnement pour lequel 𝛼 = 0,2 et 𝛽 = 70.
+a. Combien y a-t-il de bactéries dans cet environnement au bout de deux jours ?
+b. Recopier et compléter le programme suivant, écrit en langage Python, pour que la
+fonction Nombrebacteries renvoie le nombre de bactéries présentes dans cet
+environnement au bout de N jours.
+
+2. Une autre population, initialement composée de 500 mille bactéries, est étudiée dans un
+nouvel environnement. On constate que le nombre de bactéries de cette population
+augmente de 9 % par jour.
+a. Déterminer les valeurs des paramètres 𝛼 et 𝛽 pour cet environnement.
+b. Quelle est, dans ce cas, la nature de la suite (𝑃𝑛 ) ?
+c. Justifier qu’après 9 jours dans cet environnement, le nombre de bactéries de cette
+a doublé.
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [0 ; +∞[ par 𝑓(𝑥) = 3𝑥e−0,4𝑥 .
+La fonction dérivée de la fonction 𝑓 est notée 𝑓′.
+On admet que la fonction 𝑓′ a pour expression 𝑓 ′ (𝑥) = (−1,2𝑥 + 3)e−0,4𝑥
+1. Déterminer le signe de 𝑓′(𝑥) sur l’intervalle [0 ; +∞[.
+2. En déduire le tableau de variation de la fonction 𝑓 sur l’intervalle [0 ; +∞[.
+3. Un sportif a pris un produit dopant. La fonction 𝑓 modélise la quantité, en mg/L, de
+ce produit dopant présent dans le sang du sportif 𝑥 heures après la prise.
+a. Pourquoi peut-on affirmer que ce produit dopant n’est pas naturellement présent
+dans l’organisme du sportif ?
+b. Combien de temps après son absorption, ce produit dopant sera-t-il présent en
+quantité maximale dans le sang du sportif ?
+c. Le sportif absorbe ce produit dopant au début d’une séance d’entraînement.
+Le même jour, 6 heures après le début de cette séance d’entraînement, il est soumis à
+un contrôle anti-dopage. Celui-ci se révèlera positif si la quantité de produit dopant
+présent dans l’organisme de ce sportif dépasse 1,4 mg/L.
+Ce contrôle anti-dopage sera-t-il positif ? Justifier.

@@ -1,0 +1,193 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1348986, "at": "2026-11-23T08:56:19+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+Partie I
+Automatismes (5 points)
+
+Sans calculatrice
+
+L’écriture décimale de 2,45 × 10−4 est :
+
+Donner le résultat sous forme de fraction
+irréductible.
+
+Calculer 30 % de 80.
+
+Développer et réduire (2𝑥 + 1)(3 − 𝑥).
+
+Durée : 20 minutes
+
+3−
+
+=
+
+Isoler la variable ℎ dans la formule suivante :
+
+𝐴=
+
+𝑏×ℎ
+
+.
+
+Compléter.
+
+Le coefficient directeur de la droite Δ
+passant par les points 𝐴(−2; 2) et 𝐵(1; 8)
+est égal à :
+
+ℎ=
+
+………. × 3𝑥 = −15𝑥²
+
+𝑎=
+L’image de 3 est : 𝑓(3) =
+
+On donne ci-dessous la courbe 𝐶𝑓
+représentative d’une fonction 𝑓 dans un
+repère orthonormé.
+
+Le tableau de signes de 𝑓 est :
+𝑥
+
+−∞
+
+𝑓(𝑥)
+
++∞
+
+Interprétez le nombre 21 du
+graphique :
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+Exercice 1 (5 points)
+Un commercial d’une concession automobile vend entre 0 et 5 voitures par semaine. On
+nomme 𝑋 la variable aléatoire qui, à une semaine choisie au hasard, associe le nombre de
+de voitures vendues cette semaine.
+Une étude a permis d’obtenir la loi de probabilité de X, présentée dans le tableau cidessous :
+Nombre 𝑘 de voitures
+vendues par semaine :
+𝑃(𝑋 = 𝑘)
+
+0,35
+
+0,29
+
+0,13
+
+0,04
+
+0,02
+
+1. Justifier que la probabilité que ce commercial vende exactement deux voitures lors
+d’une semaine choisie au hasard est égale à 0,17.
+2. Calculer la probabilité qu’il vende plus de deux voitures en une semaine.
+3. Calculer la probabilité 𝑃(𝑋 ≤ 2).
+4. Calculer l’espérance de la variable aléatoire 𝑋. Interprétez le résultat dans le
+contexte de l’exercice.
+5. Un collègue du commercial affirme : « Il y a plus d’une chance sur trois qu’aucun de
+tes clients n’achète de voiture cette semaine ». A-t-il raison ? Justifier votre réponse.
+
+Exercice 2 (5 points)
+Le nombre de foyers français ayant choisi un abonnement Internet à très haut débit
+augmente de 6 % par trimestre depuis décembre 2016.
+En décembre 2016, il y avait 5,43 millions de foyers abonnés à l’Internet à très haut débit en
+France.
+On note 𝑢𝑛 le nombre de foyers abonnés à l’Internet à très haut débit au bout de 𝑛
+trimestres écoulés depuis décembre 2016, en millions de foyers.
+Le tableau ci-dessous, extrait d’une feuille de calcul, donne les premières valeurs, arrondies
+au centième, de la suite (𝑢𝑛 ) ainsi définie.
+A
+B
+C
+D
+E
+F
+Rang 𝑛 du trimestre
+Nombre 𝑢𝑛 de foyers
+5,43
+5,76
+6,11
+abonnés (en millions)
+1. Calculer la valeur de 𝑢3 arrondie au centième. Interpréter par une phrase le résultat
+obtenu.
+2. Indiquer la formule à saisir dans la cellule C2 pour obtenir les valeurs suivantes des
+termes de la suite, par recopie vers la droite.
+3. Ecrire une relation de récurrence entre 𝑢𝑛+1 et 𝑢𝑛 . En déduire la nature de la suite.
+4. L’un des trois graphiques proposés ci-dessous est la représentation graphique des
+premiers termes de la suite (𝑢𝑛 ). Déterminer lequel en justifiant votre réponse.
+
+a)
+
+b)
+
+c)
+
+5. Pour avoir une estimation du nombre de trimestres à partir duquel le nombre de
+foyers abonnés aura dépassé les 10 millions, on souhaite utiliser une fonction python
+nommée « seuil_abonnés », renvoyant le rang du terme 𝑢𝑛 pour lequel cet objectif
+sera atteint pour la première fois. Recopier sur la copie et compléter le script
+incomplet de cette fonction donné ci-dessous.
+def seuil_abonnés(n) :
+𝑢 = 5.43
+n=…
+while 𝑢 ≤ ⋯
+𝑢 = ………………
+n = n+1
+return …
+
+Exercice 3 (5 points)
+Un laboratoire pharmaceutique fabrique et commercialise un produit. Il peut produire de 5 à
+30 kg de ce produit par semaine.
+Ce laboratoire s'intéresse au coût total de production nécessaire pour une semaine,
+exprimé en euros, modélisé par la fonction , définie sur l'intervalle [5; 30] par :
+𝐶(𝑥) =
+
+1 3
+𝑥 − 11𝑥 2 + 100𝑥 + 72
+
+où 𝑥 représente le nombre de kg de produit fabriqué dans la semaine.
+On donne la courbe représentative de la fonction 𝐶 sur le graphique fourni en annexe, à
+rendre avec la copie.
+En s’aidant du graphique de l’annexe, et en faisant apparaître les traits utiles à la lecture,
+déterminer avec la précision permise par le graphique :
+1. Une estimation du coût total de production pour 10 kg de produit fabriqué.
+2. Une estimation de la quantité de produit correspondant à un coût total de
+production de 600 euros.
+Après une étude de marché, le prix de vente du produit a été fixé à 60 euros le kg. On peut
+donc modéliser la recette correspondant à 𝑥 kg de produit vendus dans la semaine par la
+fonction 𝑅(𝑥) = 60𝑥. La courbe représentative de cette fonction 𝑅 a aussi été tracée sur le
+graphique fourni en annexe.
+3. Déterminer graphiquement l'intervalle dans lequel doit se trouver la quantité de
+produit fabriqué et vendu dans la semaine pour que le laboratoire réalise un bénéfice
+positif.
+On admet que le bénéfice réalisé par l'entreprise pour 𝑥 kg de produit vendus est modélisé
+par la fonction 𝐵 définie sur l’intervalle [5; 30] par :
+
+𝐵(𝑥) = − 3 𝑥 3 + 11𝑥 2 − 40𝑥 − 72
+4. Montrer que : 𝐵 ′ (𝑥) = −(𝑥 − 2)(𝑥 − 20).
+5. Étudier le signe de 𝐵′(𝑥) et en déduire le tableau de variation de la fonction 𝐵 sur
+l’intervalle [5; 30].
+
+Annexe
+
+à rendre avec la copie
+
+Exercice 3 :

@@ -1,0 +1,97 @@
+{"pages": 2, "method": "ocr", "bytes": 166292, "at": "2026-11-23T09:07:10+00:00"}
+PARTIE Il
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Soit f la fonction définie sur R par : f(x) = —2x? + 6x +8
+1) Montrer que : f(x) = —2(x + 1)(x — 4).
+2) Résoudre l'équation f(x) = 0.
+
+3) Faire un schéma à main levée de l'allure de la courbe représentative de f dans un
+repère orthonormé.
+
+4) Expliquer pourquoi le maximum de la fonction f est atteint lorsque x = 1,5.
+
+5) Dresser le tableau de variation de la fonction f sur l'intervalle [—1; 4].
+
+Exercice 3 (5 points)
+
+Un hôtel propose trois formules d'hébergement :
+e nuit avec petit-déjeuner
+e demi-pension
+e pension complète
+
+La directrice de l'hôtel s'intéresse aux durées des séjours de ses clients pendant
+l'année 2019 et les classe en deux catégories :
+
+e séjour d'une semaine ou moins
+
+e séjour de plus d'une semaine
+
+Voici quelques-unes des informations dont elle dispose :
+
+«+ 5 000 clients ont fréquenté l'hôtel en 2019.
+
+e 3100 clients ont séjourné une semaine ou moins.
+
+e 750 clients ont séjourné en pension complète.
+
+e 3 500 clients ont choisi la demi-pension et, parmi ceux-ci, 1050 sont
+restés plus d'une semaine
+
++ 420 clients ont séjourné en pension complète pendant plus d'une
+semaine.
+
+T1CMATH00741
+
+N oo
+
+1) Combien de clients ont séjourné plus d'une semaine à l'hôtel ?
+
+2) Recopier sur la copie et compléter le tableau ci-dessous. On ne demande pas le
+
+détail des calculs.
+
+Séjours Nuit avec petit- | Demi-pension Pension Total
+déjeuner complète
+Une semaine ou
+moins
+Plus d'une semaine
+Total 5000
+
+3) Quel pourcentage de clients a séjourné plus d’une semaine ?
+
+4) Parmi les clients qui ont séjourné une semaine ou moins, quelle est la proportion
+
+de ceux qui ont choisi la demi-pension ? Arrondir à l'unité de pourcentage.
+
+5) On interroge au hasard un des clients de l'hôtel en 2019.
+Quelle est la probabilité qu'il ait séjourné à l'hôtel en pension complète sachant qu'il
+est resté plus d'une semaine ? Arrondir au centième.
+
+Exercice 4 (5 points)
+Un apiculteur vend des cartons de pots de miel.
+
+Le coût, en euro, de production de n cartons, n < 120, est modélisé par le nombre
+C(n), où C est la fonction définie sur [0 ;120] par C(x) = 0,25 x? + 500.
+
+Calculer le coût de fabrication de 40 cartons.
+
+On considére le bénéfice, en euro, réalisé aprés la production et la vente de n
+
+cartons. On admet qu’il est modélisé par le nombre B(n), où B est la fonction définie
+
+sur [0 ;120] par :
+
+B(x) = —0,25x? + 30x — 500.
+Montrer que pour tout x appartenant à [0 ;120], B(x) = —0,25(x — 20)(x — 100).
+
+. Déterminer le tableau de signes de B(x) sur [0 ;120].
+
+Combien de cartons doit produire et vendre l'apiculteur pour réaliser un bénéfice ?
+
+maximal.
+
+. Déterminer le nombre de cartons à produire et à vendre pour que le bénéfice soit
+
+T1CMATHO0741

@@ -1,0 +1,151 @@
+{"pages": 8, "method": "pdftotext", "bytes": 800454, "at": "2026-11-23T08:56:46+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+1. Un jeu qui coûtait 20 € est soldé 17 €. Quel est le
+pourcentage de réduction appliqué au prix de ce jeu
+pendant les soldes de ce jeu ?
+
+2.
+
+Le prix d'un objet a subi une évolution entre l'année
+2016 et l'année 2020.
+a) L'indice de ce prix pour l'année 2016 est 100 et
+celui de l'année 2019 est 130. Quel est le taux
+d’évolution de ce prix en pourcentage entre
+2016 et 2019 ?
+b) Entre 2019 et 2020 le prix a baissé de 30 %.
+Quel est l'indice de ce prix pour l'année 2020 ?
+
+3. Une entreprise fabrique des boules en acier. Elle
+décide de réduire le diamètre de chaque boule de
+10 %. Après réduction, chaque boule a un diamètre de
+9 dm. Quel était le diamètre avant réduction ?
+4. La population d'une ville augmente chaque année de
+de 10 %. Quelle est l'évolution globale en pourcentage
+de la population sur deux années consécutives ?
+
+5. Résoudre l'inéquation suivante dans ℝ :
+6𝑥 − 3 > −2𝑥 + 4.
+
+6. Résoudre l’équation suivante dans ℝ :
+𝑥 2 + 7 = 13
+
+7. Étudier le signe de la fonction 𝑓 définie sur ℝ par :
+𝑓(𝑥) = (2𝑥 + 3)(𝑥 − 5).
+
+8. Multiplier une valeur positive par 0,68, revient à la
+diminuer de quel pourcentage ?
+
+9. Étudier sur ℝ le signe de l’expression : −0,5𝑥 + 3.
+
+PARTIE II
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+Une entreprise fabrique, en grande quantité, des pièces métalliques rectangulaires dont les
+cotes sont exprimées en millimètres. Un contrôle de qualité consiste à vérifier que la
+longueur et la largeur des pièces sont conformes aux normes en vigueur. Une pièce est
+considérée comme défectueuse si la cote de la longueur ou de la largeur n’est pas située
+dans l’intervalle défini par le cahier des charges. L'entreprise produit 10 000 pièces par jour
+en utilisant deux machines A et B et le contrôle de qualité permet d’affirmer que :
+ 15 % des pièces sont produites sur la machine A.
+ 1,2 % des pièces sont défectueuses.
+ 3 % des pièces produites par la machine A sont défectueuses.
+1. Compléter sur l’annexe qui est à remettre avec la copie, le tableau d’effectifs suivant :
+machine A
+
+machine B
+
+Nombre de pièces non
+
+1500
+
+10 000
+
+On choisit au hasard une pièce dans la production. Chaque pièce a la même probabilité
+d’être choisie.
+On note les événements suivants :
+𝐴 : « La pièce choisie provient de la machine A » ;
+𝐵 : « La pièce choisie provient de la machine B » ;
+𝐷 : « La pièce choisie est défectueuse ».
+On arrondira les probabilités à 10-4 si nécessaire.
+2. Calculer la probabilité que la pièce choisie provienne de la machine A et soit défectueuse.
+3. Donner la probabilité que la pièce choisie soit défectueuse sachant qu’elle provient de la
+machine A.
+
+4. Calculer la probabilité conditionnelle 𝑃𝐷 (𝐴) et interpréter le résultat dans le contexte de
+l’exercice.
+5. Quelle est la machine la plus efficace ? Justifier.
+
+Exercice 3 : (5 points)
+Une entreprise fabrique, en grande quantité, des tiges métalliques cylindriques pour
+l'industrie.
+En 2018, elle produit 1 000 tiges métalliques par jour.
+L'entreprise souhaite augmenter sa production journalière chaque année afin de produire le
+plus rapidement possible 2 000 tiges par jour. Elle
+demande alors la réalisation d’une étude de
+faisabilité.
+L’étude montre qu’on peut modéliser le nombre
+de tiges par jour par une suite 𝑢.
+On a ainsi : pour tout entier naturel 𝑛, 𝑢𝑛
+représente le nombre de tiges produites par jour
+pour l'année 2018 + 𝑛. Et 𝑢0 = 1 000.
+Le nuage de points représentant les premiers
+termes de la suite 𝑢 est donné ci-contre.
+1. À l’aide du graphique, répondre aux questions
+suivantes :
+a) Que vaut 𝑢2 ? Interpréter le résultat.
+b) Pourquoi peut-on conjecturer que la suite
+𝑢
+est arithmétique ? Quelle serait sa
+raison ?
+c) On admet que la suite 𝑢 est arithmétique.
+Écrire une relation entre 𝑢𝑛+1 et 𝑢𝑛
+valable pour tout entier naturel 𝑛.
+2. Quelle serait la production journalière de
+l'entreprise en 2024 selon ce modèle ?
+3. On considère la fonction seuil(s) ci-dessous
+def seuil(s):
+n=0
+u=1000
+while u <=s:
+n=n+1
+u=u+150
+return n
+Quelle est la valeur de seuil(2000) ? Interpréter cette valeur dans le contexte de l’exercice.
+
+Exercice 4 : (5 points)
+1. On considère la fonction 𝑓 définie sur [0 ; 60] par :
+𝑓(𝑥) = −0,005 (𝑥 − 2)(𝑥 − 40)(𝑥 − 50).
+a) Quelle est la nature de la fonction 𝑓 ?
+b) Résoudre dans [0 ; 60] l’équation 𝑓(𝑥) = 0.
+c) Dresser le tableau de signes de la fonction 𝑓 sur [0 ; 60].
+2. Dans l’atmosphère, un ballon-sonde permet de mesurer la température de l’air (exprimée
+en degrés Celsius (°C)) en fonction de l'altitude (exprimée en km). D’après ses relevés, la
+température de l’air peut être modélisée par la fonction 𝑓 précédemment définie, et qui
+à toute altitude x comprise entre 0 et 60 km, associe la température de l’air 𝑓(𝑥),
+exprimée en °C.
+a) Calculer la température en °C pour une altitude de 8 km.
+b) Déterminer toutes les altitudes du ballon-sonde pour lesquelles la température de
+l’atmosphère est positive ou nulle.
+
+Annexe
+Exercice 2 – question 1
+
+machine A
+
+machine B
+
+Nombre de pièces non
+
+1500
+
+10 000

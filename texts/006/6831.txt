@@ -1,0 +1,163 @@
+{"pages": 6, "method": "pdftotext", "bytes": 507583, "at": "2026-11-23T08:57:26+00:00"}
+Mathématiques : PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+
+Enoncé
+(1)
+
+Un objet coûte 36,20€. Il baisse de 25%. Quel est
+son nouveau prix ?
+
+(2)
+
+Compléter : multiplier par 2,5, c’est augmenter de
+…%
+
+(3)
+
+Le nombre d’élèves malades dans une classe
+passe de 3 à 15. Quel est le pourcentage de
+hausse du nombre de malades ?
+
+(4)
+
+Un prix augmente de 20% puis baisse de 30%.
+Quel est le taux d’évolution global de ce prix ?
+
+(5)
+
+Résoudre l’équation suivante dans l’ensemble des
+réels : -2x² + 3 = -5
+
+(6)
+
+Convertir 44 000 cm2 en m2
+
+Réponse
+
+(7)
+
+Voici la courbe représentative d’une fonction 𝑓 sur
+l’intervalle [-3 ;2].
+
+Les solutions de l’équation
+𝑓(𝑥) = 0 sur l’intervalle
+[-3 ;2] sont :
+
+(8)
+
+Le tableau de signe de
+𝑓(𝑥) sur l’intervalle [-3 ;2]
+est :
+
+(9)
+
+Les antécédents de 2 par
+la fonction 𝑓 sont :
+
+(10)
+
+Les solutions de
+l’inéquation
+𝑓(𝑥) ≤ 2 sur l’intervalle
+[-3 ;2] sont :
+
+Mathématiques : PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 : (5 points)
+Une société produit des blouses et tuniques médicales. Depuis longtemps, son
+atelier, très ancien, en produit 7 500 unités tous les ans. Pour améliorer la rentabilité
+et augmenter la production, le directeur décide de créer un nouvel atelier dans une
+ville voisine et de transférer progressivement toute la production sur le nouveau site
+selon le planning suivant :
+A partir de 2020 :
+L’ancien atelier diminuera sa production de 10 %, et poursuivra ainsi chaque
+année.
+- Le nouvel atelier débutera avec une production de 3 000 unités et augmentera
+de 250 unités chaque année.
+un la production de l’ancien atelier en (2020 + n )
+On note :
+-
+
+vn la production du nouvel atelier en (2020 + n )
+
+( )
+
+1. Expliquer pourquoi u0  6750 et donner la nature de la suite un .
+2. On a v0  3000 . Quelle est la nature de la suite  vn  ?
+3. On souhaite déterminer à partir de quelle année la production du nouvel
+atelier dépassera celle de l’ancien. Ci-dessous est extrait d’une feuille de
+calcul.
+
+Compléter et recopier sur votre copie la formule à saisir dans la cellule E2 et à
+recopier vers le bas pour indiquer si la production du nouvel atelier dépasse
+celle de l’ancien.
+= SI (………………… ; « NON » ; « OUI »)
+On admet que pour tout entier naturel n , on a : vn = 3000+ 250n.
+L’ancien atelier fermera ses portes lorsque le nouvel atelier pourra produire 7500
+unités. Calculer en résolvant une équation en quel année le nouvel atelier produira
+7500 unités.
+4. On souhaite trouver le nombre d’unités au total fabriquées par le nouvel
+atelier pendant les 19 années de transition c'est-à-dire de 2020 à 2038. Quelle
+formule doit-on saisir en F3 et recopier vers le bas pour avoir la réponse dans
+la cellule F20 ?
+
+Exercice 3 : (5 points)
+Une entreprise de matériel médical produit entre
+10 et 40 appareils d’IRM innovants par mois.
+Le coût de production de x appareils, en milliers
+d’euros, est donné par :
+C  x   x²  20 x  400 pour 10 £ x £ 40
+
+Le prix de vente unitaire d’un appareil, est de 30 milliers d’euros.
+On suppose que chaque appareil produit est vendu.
+1. L’entreprise fabrique 20 appareils par mois. Déterminer le coût de fabrication
+de 20 appareils par mois et la recette associée. L’entreprise est-elle en perte ?
+2. Soit x le nombre d’appareils fabriqués et vendus par mois.
+(a) Donner la recette R  x  en fonction de x pour 10 £ x £ 40
+(b) Justifier que le bénéfice mensuel réalisé par la fabrication
+et la vente de x appareils est :
+B  x    x²  50 x  400 pour 10 £ x £ 40
+
+(c) Montrer que
+B  x     x  40 x  10 pour 10 £ x £ 40
+3. Pour quels nombres d’appareils fabriqués et vendus le bénéfice est-il positif ?
+Justifier.
+
+Exercice 4 : (5 points)
+Un médicament antalgique est administré par voix orale. La concentration du produit
+actif dans le sang est modélisée par une fonction f qui, au temps écoulé x en heure
+(h), associe la concentration f(x) en milligramme par litre de sang (mg/l).
+La fonction f est représentée par la courbe ci-dessous :
+
+1. Au bout de combien de temps la concentration du produit est-elle maximale ?
+Estimer cette concentration maximale à 1mg/l près.
+2. On admet que le produit actif est efficace si sa concentration dans le sang est
+supérieure à 5mg/l. D’après le graphique, au bout de combien de temps
+faudrait-il administrer à nouveau le médicament pour maintenir son effet ?
+
+3. La fonction f est définie sur l’intervalle [0 ; 6] par : f  x   x3  12 x²  36 x . On
+note f ' la fonction dérivée de la fonction f sur l’intervalle [0 ; 6]. Calculer
+
+()
+
+() (
+
+)(
+
+)
+
+f ' x et vérifier que f ' x = 3x- 6 x- 6 .
+4. Etablir le tableau de variation de la fonction f sur l’intervalle [0 ; 6] en détaillant
+le tableau.
+5. L’affirmation « au bout de 5 heures, la concentration dans le sang du produit
+actif est inférieure à 20% de sa valeur maximale » est-elle vraie ? Justifier la
+réponse par un calcul.

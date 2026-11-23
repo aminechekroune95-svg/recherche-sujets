@@ -1,0 +1,152 @@
+{"pages": 7, "method": "pdftotext", "bytes": 995566, "at": "2026-11-23T08:58:16+00:00"}
+PARTIE I
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Énoncé
+1)
+
+Multiplier une valeur par 1,05 c’est lui appliquer
+
+2)
+
+Par quel coefficient faut-il multiplier une quantité
+pour obtenir une baisse de 65 % ?
+
+3)
+
+Une augmentation de 10 % sur le prix d’un pull
+représente une augmentation du prix de 5 €. Quel
+était le prix du pull avant l’augmentation ?
+
+4)
+
+Dresser le tableau de signes de −3𝑥 + 21.
+
+5)
+
+En janvier, le prix d’un smartphone baisse de 30 %.
+En février, il baisse de 20 %. De quel pourcentage
+global le prix a-t-il baissé pendant ces deux mois ?
+
+6)
+
+Réponse
+une ………………..….
+…….. %
+
+Donner les solutions dans R de l’équation :
+𝑥² = 10 000
+Donner le tableau de signes de :
+
+7)
+
+(𝑥 − 1)(𝑥 + 2).
+
+8)
+
+Donner les solutions dans R de l’inéquation :
+20 + 4𝑥 < −12
+
+9)
+
+En janvier 2000, le prix du baril de pétrole était de
+25 € (indice base 100). En janvier 2011, son indice
+était de 300. Calculer le prix du baril en janvier
+2011.
+
+10)
+
+En un an, le prix de l’essence est passé de
+1,5 €/L à 1,65 €/L. Calculer le taux d’évolution
+correspondant (l’exprimer en pourcentage).
+
+de
+
+PARTIE II
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Une étudiante fabrique des bijoux fantaisie qu’elle vend en fin de mois afin de
+s’assurer quelques revenus.
+Chaque bijou est réalisé soit en métal argenté, soit en métal doré et elle produit 3
+types de bijoux : des colliers, des bracelets et des bagues.
+Au mois de mai, elle a fabriqué 150 bijoux dont 50 bijoux dorés.
+Les bijoux sont répartis de la façon suivante :
+ 34 % des bijoux sont des bracelets ;
+ 15 colliers sont argentés ;
+ Parmi les 55 bagues fabriquées, 20 % sont dorées.
+Dans tout l’exercice les résultats seront donnés, si besoin, sous forme décimale
+arrondie au centième.
+1) À l’aide des données précédentes, compléter le tableau croisé d’effectifs qui
+figure en annexe 1 à rendre avec la copie.
+2) Quelle est la fréquence des colliers dans la production de bijoux ?
+3) Déterminer la fréquence des bracelets dorés parmi les bracelets.
+4) On choisit au hasard un bijou produit par l’étudiante. On suppose que tous les
+choix sont équiprobables et on considère les événements suivants :
+𝐴 : « le bijou choisi est argenté » ;
+𝐵 : « le bijou choisi est une bague ».
+Déterminer la probabilité conditionnelle 𝑃𝐴 (𝐵).
+5) Déterminer la probabilité que le bijou soit un collier sachant qu’il est doré.
+
+Exercice 3 (5 points)
+Un trader a relevé le cours d’un gramme d’or à 9h, 10h, 11h et 12h et place les
+points correspondants A, B, C et D dans la figure en annexe 2 à rendre avec la
+copie. Il souhaite modéliser l’évolution du prix d’un gramme d’or au cours de la
+journée.
+La fonction définie par 𝑓(𝑥) = 0,1𝑥 3 − 3,6𝑥 2 + 42𝑥 − 120 est représentée par la
+courbe 𝐶𝑓 partiellement dessinée dans la figure en annexe 2. La courbe 𝐶𝑓 passe
+par les quatre points A, B, C et D.
+1. Sa première hypothèse est que le prix d’un gramme d’or suivra la tendance
+définie par la tangente à 𝐶𝑓 en D.
+Sans faire de calcul, tracer sur la figure en annexe 2, la tangente à 𝐶𝑓 au
+point D. Estimer graphiquement le prix d’un gramme d’or à 13h.
+
+2. Sa seconde hypothèse est que le cours de l’or suivra la tendance définie par
+la fonction 𝑓.
+a. Calculer 𝑓 ′ (𝑥) pour 𝑥 appartenant à [0 ; 17].
+On admet que 𝑓 ′ (𝑥) = 0,3(𝑥 − 10)(𝑥 − 14) pour 𝑥 appartenant à [0 ; 17]
+b. Donner, en justifiant, le tableau de variations de 𝑓 sur l’intervalle [0 ; 17].
+c. Quel a été le prix maximal d’un gramme d’or ?
+d. Le trader souhaite acheter une quantité d’or au prix le plus bas entre 9h et
+17h. À quelle heure doit-il acheter l’or ?
+
+Exercice 4 (5 points)
+Soit 𝑓 la fonction définie sur [0 ; 60] par 𝑓(𝑥) = −0,1𝑥 2 + 6𝑥 − 50. La fonction
+𝑓 représente le résultat (en million d’euros) que réalise une entreprise pour la
+fabrication de 𝑥 millions de jouets (on suppose que tous les jouets fabriqués sont
+vendus). La représentation graphique 𝐶 de la fonction 𝑓 est tracée ci-dessous.
+
+𝑦
+
+𝑥
+
+1.
+a) Déterminer graphiquement le bénéfice maximal et le nombre de jouets
+fabriqués pour lequel ce maximum est atteint.
+b) Résoudre graphiquement 𝑓(𝑥) > 35. Interpréter votre réponse.
+2. On sait que cette fonction peut s’écrire sous la forme
+𝑓(𝑥) = 𝑎(𝑥 – 𝑥1 ) (𝑥 – 𝑥2 ).Expliquer comment, à partir du graphique, on peut
+conjecturer que 𝑓(𝑥) = 𝑎(𝑥 – 10) (𝑥 – 50).
+3. Démontrer que, pour tout 𝑥 de [0; 60], 𝑓(𝑥) = −0,1(𝑥 − 10)(𝑥 − 50).
+4. Résoudre sur [0 ; 60], l’inéquation 𝑓(𝑥) < 0. Interpréter votre réponse.
+
+Annexe 1 (exercice 2)
+Colliers
+
+Bracelets
+
+Bagues
+
+Total
+
+Argentés
+Dorés
+
+Total
+
+Annexe 2 (exercice 3)

@@ -1,0 +1,179 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1149233, "at": "2026-11-23T08:53:07+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut
+être dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne
+numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer
+le jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les questions de cet exercice sont indépendantes. Aucune justification n’est attendue.
+
+1.
+
+2.
+
+Énoncé
+Le chiffre d’affaires d’une start-up informatique a
+augmenté de 10% entre 2018 et 2019, puis de
+20% entre 2019 et 2020.
+Quel est le taux d’évolution en pourcentage du
+chiffre d’affaires de cette entreprise entre 2018 et
+2020 ?
+Résoudre l’équation : 3(𝑥 − 5) = −𝑥 + 8.
+
+3.
+
+Dresser le tableau de signes de l’expression :
+−5(𝑥 + 1)(𝑥 − 4).
+
+4.
+
+Le paquet de cookies qui coûtait initialement 3 €
+est aujourd’hui au prix de 2,10 €.
+Quel est le pourcentage de la remise effectuée
+aujourd’hui en magasin sur ce paquet cookies ?
+
+Réponse
+
+L’image de −2 par 𝑓 est :
+..............................................................
+
+5.
+𝑓 est la fonction définie sur ℝ par :
+𝑓(𝑥) = 4𝑥 3 + 3𝑥 2 − 𝑥 + 5.
+6.
+𝑓′ est la fonction dérivée de la fonction 𝑓.
+
+7.
+
+Compléter :
+𝑓 ′ (𝑥) = ................................................
+
+Après une baisse de prix de 20%, un article coûte
+104 €.
+Quel était son prix initial avant réduction ?
+
+8.
+
+Factoriser :
+4(3𝑥 + 1) − (𝑥 − 5)(3𝑥 + 1).
+
+9.
+
+On donne ci-dessous la représentation graphique
+de la fonction 𝑔 dans un repère orthonormé.
+La droite (AB) est la tangente à la courbe
+représentative de 𝑔 au point A d’abscisse −3.
+
+Compléter à l’aide d’une lecture
+graphique :
+𝑔′ (−3) = .................
+
+10.
+
+L’équation réduite de la droite (CD)
+tracée dans le repère orthonormé
+ci-contre est :
+................................................
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+La mairie d’un petit village a organisé une fête locale : un certain nombre d’entrées
+gratuites ont été distribuées aux habitants et des stands ont été installés pour la vente
+de produits locaux.
+40 % des visiteurs de la fête ont eu une entrée gratuite, les autres ont payé leur entrée.
+Parmi les visiteurs ayant une entrée gratuite, 45 % ont effectué un achat dans un des
+stands.
+Parmi ceux ayant payé leur entrée, 65 % n’ont rien acheté.
+On interroge au hasard un des visiteurs de la fête à la fin de la journée.
+On note :
+𝐺 l’événement : « le visiteur a eu une entrée gratuite »,
+A l’événement : « le visiteur a effectué un achat ».
+𝐺 est l’événement contraire de 𝐺 et 𝐴 l’événement contraire de 𝐴.
+1. Compléter l’arbre de probabilité situé sur l’annexe qui sera à rendre avec la
+copie.
+2. Calculer la probabilité de l’événement suivant : « le visiteur a eu une entrée
+gratuite et a effectué un achat ».
+3. Montrer que la probabilité que le visiteur ait effectué un achat est égale à 0,39.
+4. Calculer la probabilité que le visiteur ait payé son entrée sachant qu’il a effectué
+un achat. On arrondira à 0,01 près le résultat.
+5. Les événements 𝐺 et 𝐴 sont-ils indépendants ?
+
+Exercice 3 (5 points)
+On estime à 294 milliards le nombre d’e-mails envoyés et reçus chaque jour dans le
+monde en 2019.
+On estime qu’à partir de 2019, le nombre d’e-mails échangés quotidiennement dans le
+monde augmente chaque année de 4,2 %.
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’e-mails échangés quotidiennement,
+exprimé en milliards, au cours de l’année 2019 + 𝑛. On définit ainsi une suite (𝑢𝑛 ) de
+premier terme 𝑢0 = 294
+1. Justifier que la suite (𝑢𝑛 ) est géométrique. Préciser sa raison.
+2. Exprimer 𝑢𝑛 en fonction de l’entier 𝑛.
+3. En déduire une estimation du nombre d’e-mails échangés chaque jour en 2023.
+On arrondira le résultat à 0,1 milliard près.
+4. On souhaite déterminer le rang de l’année à partir de laquelle le nombre
+quotidien d’e-mails échangés dans le monde sera supérieur à 400 milliards.
+Compléter le programme écrit en langage Python, situé sur l’annexe qui est à
+rendre avec la copie, afin qu’il permette d’obtenir le rang cherché.
+
+5. Donner une estimation du nombre total de milliards d’e-mails échangés dans le
+monde entre 2019 et 2026 (on pourra considérer que chacune de ces années
+comprend 365 jours).
+
+Exercice 4 (5 points)
+L’entreprise Bois Énergie fabrique et vend des granulés de bois pour alimenter des
+chaudières et des poêles chez des particuliers ou dans des collectivités.
+Cette entreprise produit entre 30 et 100 tonnes de granulés par jour.
+Le coût moyen, exprimé en euros, de production d’une tonne de granulés de bois pour 𝑥
+tonnes produites est modélisé par 𝑓(𝑥), où 𝑓 est la fonction définie sur [30 ; 100] par :
+𝑓(𝑥) = 20𝑥 – 2 300 +
+
+72 000
+.
+𝑥
+
+1. On désigne par 𝑓′, la fonction dérivée de 𝑓. Calculer 𝑓 ′ (𝑥) puis montrer que pour
+tout réel 𝑥 de [30 ; 100] :
+20(𝑥 − 60)(𝑥 + 60)
+𝑓 ′ (𝑥) =
+𝑥2
+2. Étudier le signe de 𝑓 ′ (𝑥) sur [30 ; 100] puis dresser le tableau de variations de la
+fonction 𝑓 sur [30 ; 100].
+3. Pour quelle quantité de granulés de bois fabriqués par jour, le coût moyen de
+production d’une tonne est-il minimal ? Quel est ce coût moyen minimal ?
+4. On estime que la demande en tonnes de granulés de bois par jour à compter du
+1er janvier 2021 auprès de l’entreprise est modélisée par la fonction 𝑔 définie
+par 𝑔(𝑡) = 50 × 1,025𝑡 où 𝑡 correspond au temps écoulé en mois depuis le 1er
+janvier 2021.
+a) En utilisant ce modèle, estimer la demande en tonnes de granulés de bois au
+1er juillet 2021.
+b) Sachant que la capacité maximale de production de cette entreprise est de
+100 tonnes de granulés de bois par jour, à quelle date l’entreprise Bois
+Énergie ne sera plus en capacité de répondre à la totalité de la demande ?
+
+Annexe à rendre avec la copie
+
+Exercice 2 – Question 1
+
+Exercice 3 – Question 4

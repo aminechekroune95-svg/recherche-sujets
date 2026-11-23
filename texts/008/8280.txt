@@ -1,0 +1,138 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1081559, "at": "2026-11-23T08:56:23+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Question
+
+Réponse
+
+Un short de sport coûte 25€ . Il est soldé et son prix est réduit de
+10%.
+1.
+
+Quel sera son nouveau prix ?
+Le prix d’un tee-shirt est passé de 48€ à 60€.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+Calculer le taux d’évolution en % de cette augmentation. ;
+
+Simplifier
+
+4−2
+4 −5
+
+, pour l’écrire sous la forme d’une puissance de 4.
+
+Recopier et compléter : 22km + 12hm =. . . . . . m
+Développer et réduire : (3𝑥 − 1)(6. −2 + 𝑥) où 𝑥 désigne un
+nombre réel.
+Résoudre dans ℝ l’équation : 𝑥 2 − 4 = 0
+A l’aide du tableau de signes ci-dessous, résoudre dans ℝ
+l’inéquation : (𝑥 − 2)(𝑥 − 5) < 0.
+
+7.
+
+8.
+
+On donne ci-dessus la courbe représentative 𝐶𝑓 de la fonction 𝑓 sur
+[−6; 5].
+Dresser le tableau de variations de la fonction 𝑓.
+
+En reprenant la courbe de la question 8,
+9.
+
+déterminer graphiquement 𝑓(−4).
+En reprenant la courbe de la question 8,
+
+10.
+
+résoudre graphiquement l’équation 𝑓(𝑥) = 0.
+
+PARTIE II
+Exercice 2 (5 points)
+En janvier 2019, une entrée dans un certain parc d’attraction coutait 50€. Le propriétaire du
+parc souhaite augmenter ce tarif progressivement. Son équipe commerciale lui propose
+d’augmenter le tarif de l’entrée de 1% par mois.
+Pour tout nombre entier naturel 𝑛, on note 𝑣𝑛 le prix du billet d’entrée le 𝑛-ième
+mois après janvier 2019. Ainsi 𝑣0 = 50.
+1. Déterminer 𝑣1 .
+2. Exprimer pour, tout nombre entier naturel 𝑛, 𝑣𝑛+1 en fonction de 𝑣𝑛 .
+3. En déduire la nature de la suite (𝑣𝑛 ) et en donner la raison.
+4. Exprimer 𝑣𝑛 en fonction de 𝑛.
+5. Le propriétaire du parc souhaite savoir quand le prix d’entrée dépassera 60€. Il
+utilise pour cela un algorithme écrit en langage Python.
+𝑛=0
+𝑣= …
+while 𝑣 ≤ 60 :
+𝑛 =𝑛+1
+𝑣= …
+
+Recopier et compléter l’algorithme pour qu’il permette au propriétaire de connaître
+la date à laquelle le prix d’entrée dépassera 60€.
+
+Exercice 3 (5 points)
+
+𝑓est la fonction définie sur l’intervalle [1 ; 74] par :
+𝑓(𝑥) = −2𝑥 2 + 140𝑥 − 148 .
+1. On désigne par 𝑓 ′ la fonction dérivée de la fonction 𝑓.
+Montrer que, pour tout 𝑥 ∈ [1 ; 74], 𝑓 ′ (𝑥) = 4(𝑥 − 35).
+2. Etudier le signe de 𝑓 ′ (𝑥) sur l’intervalle [1 ; 74].
+3. En déduire le tableau de variations de 𝑓 sur l’intervalle [1 ; 74].
+4. A l’aide du tableau de variations de la fonction 𝑓, déterminer le signe de 𝑓(𝑥) pour
+tout 𝑥 ∈ [1 ; 74].
+5. Déterminer l’abscisse du point de la courbe représentative de la fonction 𝑓 où la
+tangente a pour coefficient directeur 3.
+
+Exercice 4 (5 points)
+
+Une usine produit un certain type de pièces d’horlogerie. A l’issue du processus de
+fabrication, une pièce peut ne présenter aucun défaut, ou peut présenter un défaut
+de masse, ou un défaut d’aspect, ou les deux défauts (masse et aspect).
+- 97% des pièces ont une masse correcte ;
+- 90% des pièces n’ont pas de défaut d’aspect (indépendamment du fait que sa
+masse soit correcte ou non).
+On considère les événements suivants :
+A : « l’Aspect de la pièce est correct » et M : « la Masse de la pièce est correcte »
+Les résultats de cet exercice seront arrondis au millième près.
+1.
+2.
+3.
+4.
+5.
+
+Déterminer la probabilité qu’une pièce présente un défaut de masse.
+Construire un arbre de probabilité représentant cette situation.
+Décrire par une phrase l’événement 𝑀 ∩ 𝐴̅.
+Déterminer, par le calcul, 𝑃(𝑀 ∩ 𝐴̅).
+Déterminer la probabilité qu’une pièce présente un seul défaut.

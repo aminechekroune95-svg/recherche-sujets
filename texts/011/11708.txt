@@ -1,0 +1,182 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1261911, "at": "2026-11-23T08:54:25+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Durée : 20 minutes – Calculatrice Interdite
+Automatisme (5 points) :
+Énoncé
+
+Réponse
+
+1)
+
+Une augmentation de 25 % sur le prix d’un article
+représente une hausse de 9 €. Quel était le prix de cet
+article avant l’augmentation ?
+
+2)
+
+Factoriser (2𝑥 + 3)(𝑥 − 1) − (𝑥 − 1).
+
+3)
+
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = 2𝑥² − 𝑥.
+Calculer 𝑓(−1).
+
+4)
+
+Déterminer la fraction irréductible égale à 7 + 2 .
+
+5)
+
+Déterminer la fraction irréductible égale à 7 × 2 .
+
+6)
+
+2,1 × 108 est égal à :
+
+7)
+
+Si 𝑈 = 𝐼 alors :
+
+8)
+
+L’équation réduite de la droite ∆ est : 𝑦 = −2𝑥 + 3
+Compléter :
+
+……..…. millions
+
+𝑃
+
+𝐼=
+
+Année
+
+2017
+
+2018
+
+Prix (€)
+
+39,55
+
+Indice
+
+𝐴(… . ; 5) ∈ ∆
+
+2019
+
+Le tableau ci-dessus donne le prix d’un article.
+9)
+
+Quel est, en pourcentage, le taux d’évolution du prix de
+cet article entre l’année 2017 et l’année 2019 ?
+
+10)
+
+Quel est le prix de cet article en 2019 ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 1 : (5 points)
+Une entreprise fabrique mensuellement une quantité de 0 à 85 tonnes de produit chimique.
+Le coût de fabrication de 𝑞 tonnes de ce produit, exprimé en centaines d’euros, est
+modélisé par la fonction 𝐶 définie sur l’intervalle [0 ; 85] par :
+𝐶(𝑞) = 0,01𝑞 3 − 1,04𝑞 2 + 36,43 𝑞 + 40 .
+Chaque tonne de ce produit est vendue 1900 euros.
+On note 𝑅(𝑞) le chiffre d’affaires et 𝐵(𝑞) le résultat, en centaines d’euros, obtenus pour
+la vente mensuelle de 𝑞 tonnes de ce produit.
+On a donc 𝑅(𝑞) = 19 𝑞.
+Sur un tableur, on fait varier 𝑞 de 0 à 85 avec un pas de 1 et on détermine pour chaque
+valeur de 𝑞, le coût de fabrication, le chiffre d’affaires et le résultat associés.
+1. a. Quelles formules doit-on écrire dans les cellules B2, C2 et D2 puis faire glisser vers le
+bas pour obtenir le tableau ci-dessous ?
+
+b. En utilisant le tableau ci-dessus, donner les valeurs de 𝑞 pour lesquelles le résultat est
+
+égal à − 4 000 euros.
+
+On rappelle que le résultat 𝐵(𝑞) est obtenu en soustrayant au chiffre d’affaires le coût de
+production.
+Ainsi, pour 𝑞 compris entre 0 et 85, 𝐵(𝑞) peut s’écrire :
+𝐵(𝑞) = − 0,01𝑞 3 + 1,04𝑞 2 − 17,43 𝑞 − 40.
+2. On veut à présent déterminer les valeurs de 𝑞 pour lesquelles les pertes mensuelles
+dépassent 4 000 euros.
+a. Montrer que cela revient à trouver les valeurs de 𝑞 telles que :
+− 0,01𝑞 3 + 1,04𝑞 2 − 17,43 𝑞 < 0
+b. On admet dans la suite de l’exercice que :
+− 0,01𝑞 3 + 1,04𝑞 2 − 17,43 𝑞 = −0,01𝑥(𝑥 − 21)(𝑥 − 83)
+Étudier alors le signe de − 0,01𝑞 3 + 1,04𝑞 2 − 17,43 𝑞.
+c. En vous appuyant sur les résultats précédents, répondre au problème posé au début
+de la question 2.
+
+Exercice 2 : (5 points)
+Le tableau ci-dessous donne la répartition des salariés d’une grande entreprise selon leur
+âge et le secteur dans lequel ils travaillent.
+
+Moins de 40 ans
+40 ans et plus
+
+Administratif
+
+Commercial
+
+1. Justifier que le pourcentage de commerciaux de moins de 40 ans est environ 69,2 %.
+2. Parmi les commerciaux, est-il vrai que plus de 80 % d’entre eux ont moins de 40 ans ?
+Justifier.
+On choisit au hasard la fiche d’un salarié. Les résultats seront arrondis au millième.
+3. Recopier et compléter le tableau des fréquences ci-dessous.
+Administratif
+
+Commercial
+
+Moins de 40 ans
+40 ans et plus
+
+4. Calculer la probabilité que le salarié choisi ait plus de 40 ans.
+5. Le salarié choisi a plus de 40 ans. Calculer la probabilité que ce soit un commercial.
+
+Exercice 3 : (5 points)
+Le tempérage du chocolat consiste à le faire fondre en 3 étapes pour qu’il atteigne la
+température idéale de 40°C afin de réaliser des enrobages.
+On considère la fonction 𝑓 définie sur l’intervalle [ 0 ; 14 ] telle que, si 𝑡 représente le
+temps (en minutes), 𝑓(𝑡) représente la température (en degrés Celsius) du chocolat à
+l’instant 𝑡 au cours de l’opération de tempérage.
+On donne ci-dessous la courbe représentative de la fonction 𝑓 dans un repère.
+
+1. Par lecture graphique répondre
+aux questions suivantes :
+a. À quel(s) instant(s) la température
+atteint-elle 40°C ?
+b. Quelle est la température maximale
+et à quel instant est-elle atteinte ?
+
+2. On suppose désormais que la fonction 𝑓 est définie sur [ 0 ; 14 ] par :
+𝑓 (𝑡) = 0,14𝑡 3 − 3,15𝑡 2 + 18,48 𝑡 + 18.
+a. Calculer 𝑓′(𝑡), pour tout 𝑡 appartenant à l’intervalle [ 0 ; 14 ],
+puis vérifier que, pour tout réel 𝑡 appartenant à l’intervalle [ 0 ; 14 ],
+𝑓 ′ (𝑡) = 0,42(𝑡 − 4)(𝑡 − 11).
+b. On donne le tableau de signe de 𝑓′(𝑡) sur l’intervalle [ 0 ; 14 ]:
+𝑡
+𝑓’(𝑡)
++
+−
++
+En déduire le tableau de variations de 𝑓 sur l’intervalle [ 0 ; 14 ].
+c. Retrouver alors le résultat de la question 1.b..

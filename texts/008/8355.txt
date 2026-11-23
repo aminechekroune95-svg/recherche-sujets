@@ -1,0 +1,248 @@
+{"pages": 9, "method": "pdftotext", "bytes": 757210, "at": "2026-11-23T08:55:45+00:00"}
+ÉVALUATIONS COMMUNES
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+
+Énoncé
+
+Réponse
+
+Donner la fraction irréductible égale à
+1 2
+
+(2) − 4 × 3.
+
+Donner la forme développée et réduite de
+3𝑥(𝑥 + 1) − (2𝑥 + 3)2 .
+
+Un prix baisse de 10 % puis augmente de
+10 %. Quel est le pourcentage d’évolution
+global ?
+
+À partir de 2020, une population d’oiseaux
+rares diminue de 1,5 % par an. Cette
+situation est modélisée par une suite (𝑢𝑛 )
+où 𝑢𝑛 est le nombre d’oiseaux l’année
+2020 + 𝑛. Quelle est la nature de la suite
+(𝑢𝑛 ) ? Préciser sa raison.
+
+Donner le tableau de signes de
+l’expression 4(𝑥 − 1)(𝑥 + 2).
+
+Résoudre dans 𝐑 l’équation 4𝑥 2 = 25.
+
+Si la fonction 𝑓 est définie sur 𝐑 par
+𝑓(𝑥) = 2𝑥 3 − 3𝑥 + 5, alors 𝑓 ′ (𝑥) = ⋯
+
+Dans le repère ci-dessous, sont
+représentées la courbe représentative
+d’une fonction 𝑓 et sa tangente au point
+d’abscisse 1.
+
+Que vaut la dérivée de 𝑓 en 1 ?
+
+Dans le plan muni d’un repère, le point 𝐴
+de coordonnées (−1; −7) appartient-il à la
+courbe d’équation 𝑦 = 2𝑥 2 + 4𝑥 − 1 ?
+La fonction ℎ est définie sur [1; 5] par
+ℎ(𝑥) = 𝑥. Déterminer le coefficient
+
+directeur de la tangente à la courbe
+représentative de ℎ au point d’abscisse 2.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Grâce aux progrès de la médecine, le taux de mortalité infantile a fortement diminué
+au cours du vingtième siècle. Le taux de mortalité infantile est le rapport entre, d’une
+part, le nombre d’enfants décédés à moins d’un an et, d’autre part, le nombre
+d’enfants vivants à la naissance.
+Le tableau ci-dessous présente l’évolution du taux de mortalité infantile en France
+entre 1905 et 1955, exprimé pour 1000 naissances (‰).
+Année (𝑥𝑖 )
+
+Taux de mortalité infantile en ‰ (𝑦𝑖 )
+
+1905
+
+144,50
+
+1910
+
+118,60
+
+1915
+
+130,40
+
+1920
+
+123,30
+
+1925
+
+94,80
+
+1930
+
+83,80
+
+1935
+
+72,50
+
+1940
+
+91,40
+
+1945
+
+113,70
+
+1950
+
+52,00
+
+1955
+
+38,60
+
+Source : INSEE, Statistiques d’état civil
+
+1. Dans le repère de la feuille annexe, construire le nuage de points 𝑀𝑖 (𝑥𝑖 ; 𝑦𝑖 )
+associé à ce tableau.
+2. On peut observer une surmortalité infantile pendant les deux guerres mondiales,
+mais si on ne tient pas compte de ces périodes, un ajustement affine du nuage de
+points est envisageable.
+
+On ne tient donc plus compte dans la suite de l’exercice des taux de mortalité
+infantile des années 1915, 1940 et 1945.
+À l’aide de la calculatrice, donner l’équation réduite de la droite d’ajustement de 𝑦
+en 𝑥 obtenue par la méthode des moindres carrés. On arrondira les coefficients
+au dix-millième.
+3. Dans la suite de l’exercice, on admet que la droite ∆ d’équation
+𝑦 = −2,018𝑥 + 3983
+réalise un ajustement affine convenable du nuage de points.
+a. Construire la droite ∆ dans le repère de l’annexe en précisant les coordonnées
+des points utilisés pour la construction de cette droite.
+b. En utilisant ce modèle, estimer par un calcul le taux de mortalité infantile en
+France en 1933.
+c. Ce modèle pouvait-il encore être utilisé pour estimer le taux de mortalité
+infantile en France en 2000 ? Justifier la réponse.
+
+Exercice 3 (5 points)
+Au 31 décembre 2020, une plateforme de jeux en ligne sur abonnement compte
+20,16 millions d’abonnés. Cette plateforme souhaite anticiper l’évolution du nombre
+d’abonnés dans les années futures.
+D’après une étude menée au cours des années précédentes, on peut admettre que
+le nombre d’abonnés augmente de 14 % par an.
+On peut alors envisager de modéliser le nombre d’abonnés (en million) par une suite
+de premier terme 20,16.
+1. Quel serait alors, avec ce modèle, le nombre d’abonnés au 31 décembre
+2021 ?
+Pour tout entier naturel 𝑛, on note 𝑢𝑛 le nombre d’abonnés pour l’année (2020 + 𝑛)
+
+et on suppose que ce modèle reste valable pour les vingt prochaines années.
+2. Précisez la nature et la raison de cette suite.
+3. En déduire, pour tout entier naturel 𝑛, l’expression de 𝑢𝑛 en fonction de 𝑛.
+4. Calculer le nombre d’abonnés prévu au 31 décembre de l’année 2030. On
+arrondira la réponse au million.
+5. Recopier et compléter la fonction abonnes() définie ci-dessous en langage
+Python afin qu’elle renvoie la première année où le nombre d’abonnés à la
+plateforme dépassera 100 millions et donner la valeur que renvoie ce
+programme.
+def abonnes():
+u=.....
+n=0
+while u<.....:
+u=.....
+n=n+1
+return .....
+
+Exercice 4 (5 points)
+Dans son atelier, un artisan dispose d’un four pour travailler le verre. À la fin de la
+fusion des pièces de verre, la température du four est de 1000 °C. L’artisan éteint
+alors le four. La température de l’atelier, de 20 °C, est supposée constante.
+On s’intéresse à la phase de refroidissement du four.
+1. Parmi les trois courbes suivantes, quelle est la seule qui peut correspondre à
+l’évolution de la température du four en fonction du temps exprimé en heure, à
+partir du moment où l’on a éteint le four ? Argumenter la réponse.
+
+Courbe 1
+
+Courbe 2
+
+Courbe 3
+
+On note 𝑡 le temps (en heure) écoulé depuis l’instant où le four a été éteint. La
+température du four (en degré Celsius) est modélisée par une fonction 𝑓 définie, pour
+4 𝑡
+
+tout nombre réel 𝑡 positif, par : 𝑓(𝑡) = 980 (5) + 𝑘, où 𝑘 est un nombre réel.
+1. Déterminer la valeur de 𝑘 sachant qu’au bout de 10 heures la température du
+four est de 125 °C.
+4 𝑡
+
+On considère à présent que, pour tout nombre réel 𝑡 positif, 𝑓(𝑡) = 980 (5) + 20.
+2. Justifier le sens de variation de la fonction 𝑓.
+3. Pour ne pas abîmer les pièces de verre à l’intérieur du four il faut que la
+température du four, quand on l’ouvre, soit inférieure à 70 °C.
+Pourra-t-on ouvrir le four au bout de 8h ?
+4. Déterminer au bout de combien d’heures le four pourra être ouvert sans
+risque pour les pièces de verre.
+
+ANNEXE à rendre avec la copie
+Exercice 2
+
+Taux de mortalité
+infantile en ‰
+1905
+
+Année
+1910
+
+1915
+
+1920
+
+1925
+
+1930
+
+1935
+
+1940
+
+1945
+
+1950
+
+1955
+
+1960

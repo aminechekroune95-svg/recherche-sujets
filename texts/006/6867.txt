@@ -1,0 +1,136 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1257222, "at": "2026-11-23T08:57:08+00:00"}
+PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : (5 points)
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncé
+
+Réponse
+
+1) Augmenter une quantité de 15 % revient à
+multiplier cette quantité par ?
+2) Multiplier une quantité par 0,68 revient-il à
+l’augmenter ou à la diminuer ?
+3)
+
+ Augmenter
+
+ Diminuer
+
+Quel est alors le taux d’évolution correspondant ?
+
+4) Un prix augmente de 50% et vaut maintenant 300
+euros. Quel était-il avant cette augmentation ?
+5) Un prix passe de 200 € à 250 €.
+Quel est le taux d’évolution correspondant,
+exprimé en pourcentage ?
+6)
+Quel est le taux d’évolution réciproque ?
+7) Donner la solution réelle de l’équation :
+4𝑥 + 15 = −3𝑥 + 43.
+8) Donner toutes les solutions réelles de
+l’inéquation :
+−3𝑥 + 6 < 𝑥 + 4 .
+9) Donner les solutions réelles de l’équation :
+𝑥² = 900.
+10) Compléter le tableau de signe ci-contre pour tout
+nombre réel 𝑥 :
+
+𝑥
+−2𝑥 + 8
+
+Séries technologiques : classe de première
+
+PARTIE II
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants
+
+Exercice 2 : (5 points)
+On s’intéresse à l’efficacité d’accélération de deux régulateurs de vitesse pour un même
+véhicule.
+1. Premier régulateur
+Pour une vitesse initiale du véhicule de 80 km. h−1, l’activation du régulateur permet
+d’augmenter chaque seconde la vitesse de 5 km. h−1 jusqu’à ce que l’objectif (130 km. h−1 )
+soit atteint.
+Calculer le temps mis par le véhicule pour atteindre 130 km. h−1 avec ce régulateur.
+2. Second régulateur
+Pour une vitesse initiale du véhicule de 80 km. h−1, l’activation du régulateur permet
+d’augmenter chaque seconde la vitesse de 5,3% jusqu’à ce que l’objectif (130 km. h−1 ) soit
+atteint.
+On modélise cette situation par une suite 𝑣 de premier terme 𝑣(0) = 80.
+On note 𝑣(𝑛) la vitesse, exprimée en km. h−1 , du véhicule après 𝑛 secondes d’activation du
+second régulateur jusqu’à ce que les 130 km. h−1 soient atteints.
+a. Vérifier que 𝑣(1) = 84,24.
+b. On admet que la suite 𝑣 est une suite géométrique de raison 𝑞.
+À l’aide des deux premiers termes de cette suite, calculer la valeur de 𝑞.
+c. Quelle est la vitesse atteinte par le véhicule après 10 secondes avec le second
+régulateur ?
+3. On considère la fonction ci-contre programmée en
+langage Python. Donner la signification de la valeur que
+renvoie l’exécution de la commande
+temps(vitesse), dans le contexte de cet exercice,
+lorsque vitesse est un nombre compris entre 80 et
+130.
+
+Exercice 3 : (5 points)
+Une entreprise artisanale produit entre 5 et 40 litres d’huile cosmétique par jour.
+Le coût journalier de production de 𝑥 litres d’huile cosmétique, exprimé en euro, est donné
+par 𝐶(𝑥) = 𝑥 2 − 20𝑥 + 400, pour 5 ⩽ 𝑥 ⩽ 40. Le prix de vente d’un litre est fixé à 30 €.
+On suppose que chaque litre produit est vendu.
+1. Un jour donné, cette entreprise produit 20 litres d’huile cosmétique.
+a. Quel est le coût de fabrication de ces 20 litres ? Quel est le prix de vente de ces 20 litres ?
+b. L'entreprise réalise-t-elle un bénéfice sur la vente de cette huile ce jour-là ? Justifier la
+réponse et donner, selon le cas, le montant du bénéfice ou celui des pertes.
+2. Soit 𝑥 le nombre de litres d’huile cosmétique fabriqués et vendus par jour.
+a. Exprimer le revenu généré par la vente de 𝑥 littres d’huile cosmétique.
+En déduire que le résultat journalier (différence entre ce revenu et le coût de production)
+réalisé lors de la production et de la vente de 𝑥 litres d’huile cosmétique est :
+𝑅(𝑥) = −𝑥 2 + 50𝑥 − 400, pour 𝑥 ∈ [5 , 40].
+À titre indicatif, la courbe représentative de la fonction 𝑅 est donnée dans le repère cidessous.
+
+b. Déterminer, graphiquement ou par le calcul, les valeurs de 𝑅(10) et de 𝑅(40).
+c. Pour quelle production journalière d’huile cosmétique l'entreprise réalise-t-elle un
+bénéfice ? Pour quelle production journalière ce bénéfice est-il maximum ?
+On rappelle qu’il y a bénéfice lorsque le résultat est positif.
+
+Exercice 4 : (5 points)
+Une étude menée en 2013 par l’Institut National de Prévention et d’Éducation à la Santé
+évalue l’inactivité physique et son rôle majeur dans le développement des maladies cardiovasculaires. Cette étude, menée auprès d’un panel de 10 000 personnes âgées de 18 à 65 ans,
+a été réalisée en France. Pour chaque personne de ce panel, une fiche anonyme a été créée
+et stockée dans un fichier informatique. On a obtenu les résultats suivants :
+• 9 % des personnes du panel sont atteintes d’une maladie cardio-vasculaire ;
+• parmi les personnes atteintes d’une maladie cardio-vasculaire, 45 % pratiquent une
+activité physique régulière ;
+• parmi les personnes non atteintes d’une maladie cardio-vasculaire, 60 % pratiquent une
+activité physique régulière.
+On extrait du fichier de façon aléatoire et équiprobable la fiche d’une personne du panel et
+on note :
+ 𝑀 l’événement : « la fiche est celle d’une personne atteinte d’une maladie cardiovasculaire » ;
+ 𝑆 l’événement : « la fiche est celle d’une personne qui pratique une activité physique
+régulière ».
+Les résultats seront arrondis au centième.
+1. Déterminer, à partir de l’énoncé, 𝑃(𝑀) et 𝑃𝑀 (𝑆).
+2. Recopier et compléter le tableau croisé des effectifs suivant :
+𝑀
+
+𝑀
+
+TOTAL
+
+𝑆
+𝑆
+TOTAL
+
+10 000
+
+3. Montrer que, arrondie au centième, 𝑃(𝑆) ≈ 0,59.
+4. Sachant que la fiche est celle d’une personne qui pratique une activité physique régulière,
+quelle est la probabilité que la fiche soit celle d’une personne atteinte d’une maladie
+cardio-vasculaire ?
+5. Montrer que, arrondie au centième, 𝑃𝑆 (𝑀) ≈ 0,12.

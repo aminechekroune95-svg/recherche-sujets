@@ -1,0 +1,126 @@
+{"pages": 6, "method": "pdftotext", "bytes": 601891, "at": "2026-11-23T08:57:54+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points) - Exercice 1
+Énoncé
+
+Réponse
+
+1.
+
+Calculer : 100 + 100 × 100
+
+2.
+
+Calculer 20 % de 350.
+
+3.
+
+Compléter avec " < " ou " > ".
+
+4.
+
+Convertir 1,02 kg en grammes.
+
+5.
+
+Si 1$ vaut 0,9 € alors 10 $ valent :
+
+6.
+
+𝑥 désigne un nombre réel. Développer 3𝑥(𝑥 − 3).
+
+7.
+
+Si 𝑡𝑚 = 𝑝𝑟𝑖𝑥 𝐻𝑇 × 100, si 𝑚𝑎𝑟𝑔𝑒 = 20€ et 𝑝𝑟𝑖𝑥 𝐻𝑇 = 50€ alors :
+
+𝑚𝑎𝑟𝑔𝑒
+
+𝑡𝑚 = ⋯
+
+Dans le repère orthonormé ci-contre
+on considère les points 𝐴(0 ; 5) et
+𝐵(2 ; 1).
+Quel est le coefficient directeur de la
+droite (𝐴𝐵) ?
+8.
+
+9.
+
+Résoudre dans R l’équation : 6 − 𝑥 = 2 + 𝑥.
+
+10. Pour tout nombre réel 𝑥, 𝑓(𝑥) = 10 − 𝑥 2 . Calculer 𝑓(3).
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 : (5 points)
+On considère ci-dessous la courbe représentative d’une fonction 𝑓 définie sur l’intervalle
+[0 ; 100] :
+
+Pour un nombre réel 𝑥 compris entre 0 et 100, on admet que la fonction 𝑓 représente le
+résultat, en milliers d’euros, de l’entreprise AMB lorsqu’elle vend 𝑥 pièces pour l’industrie
+aéronautique. On admet aussi que pour tout 𝑥 de [0 ; 100],
+𝑓(𝑥) = −0,001𝑥 3 + 0,047𝑥 2 + 4,69𝑥 − 50,6
+1. Calculer le résultat réalisé pour 20 pièces vendues.
+2. Sachant que le résultat réalisé pour 50 pièces est de 176 400 €, déterminer, en
+pourcentage, le taux d’évolution du résultat lorsque les ventes passent de 20 à 50 pièces.
+3. Avec la précision permise par le graphique, lire :
+a. Le nombre de pièces que doit vendre l’entreprise pour réaliser un bénéfice
+(c’est-à-dire un résultat strictement positif) ;
+b. Le nombre de pièces que doit vendre l’entreprise pour réaliser un résultat maximal ;
+c. Le nombre de pièces que doit vendre l’entreprise pour réaliser un résultat de plus de
+100 000 €.
+
+EXERCICE 3 : (5 points)
+On considère la fonction f définie sur l’intervalle [0 ; 45] par
+𝑓(𝑡) = 45𝑡 2 − 𝑡 3 .
+On admet que 𝑓 est dérivable sur l’intervalle [0; 45] et on note 𝑓′ sa fonction dérivée.
+La courbe représentative de la fonction 𝑓 est donnée dans le repère orthogonal ci-dessous.
+Le point 𝐴(30 ; 13 500) appartient à la courbe représentative de la fonction 𝑓.
+
+1. Déterminer la fonction dérivée 𝑓 ′ de la fonction 𝑓.
+2. Montrer que, pour tout nombre réel 𝑡 de l’intervalle [0; 45], 𝑓 ′ (𝑡) = 3𝑡(30 − 𝑡).
+3. Déterminer le signe de 𝑓 ′ (𝑡) sur l’intervalle [0 ; 45].
+4. En déduire le tableau de variation de la fonction 𝑓 sur l’intervalle [0; 45].
+5. On admet que, pour tout nombre réel 𝑡 de l’intervalle [0; 45], 𝑓(𝑡)désigne le nombre de
+personnes atteintes d’une maladie 𝑡 jours après l’apparition du premier cas.
+Ainsi, au bout de 45 jours, il n’y a plus de malades.
+Au bout de combien de jours le nombre de malades est-il maximum ?
+
+EXERCICE 4 : (5 points)
+On interroge 1 500 personnes qui sont passées dans une déchetterie sur une période
+donnée :
+Nombre de
+passages
+Nombre de
+personnes
+
+26 ou
+moins
+
+30 ou plus
+
+1. Déterminer le nombre de personnes qui ont réalisé 26 passages ou moins sur la période.
+2. On choisit un usager de la déchetterie au hasard.
+Vérifier que la probabilité qu’il ait réalisé 26 passages ou moins est environ égale à 0,84.
+3. On interroge successivement et de façon indépendante deux personnes qui se sont
+rendues à la déchetterie durant cette période. On admet que le nombre de personnes est
+suffisamment grand pour que ces choix soient assimilés à des tirages indépendants avec
+remise.
+On désigne par 𝑀 l’évènement : « la personne a fait 26 passages ou moins ».
+a. Recopier et compléter l’arbre de probabilités donné ci-dessous :
+0,84
+
+0,84
+
+… 𝑀
+
+… 𝑀
+b. Déterminer la probabilité que les deux personnes interrogées fassent 26 passages ou
+moins durant la période.
+c. Déterminer la probabilité que les deux personnes interrogées fassent plus de 26
+passages.

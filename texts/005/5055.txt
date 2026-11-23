@@ -1,0 +1,153 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1034629, "at": "2026-11-23T08:59:15+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour aider à déterminer la réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans réponse
+n’apporte ni ne retire de point.
+
+1. L’arbre pondéré ci-dessous représente une situation où 𝐴, 𝐵, 𝐶 et 𝐷 sont des
+évènements d’une expérience aléatoire :
+
+La probabilité de l’évènement 𝐷 est égale à :
+a) 0,06
+
+b) 0,8
+
+c) 0,5
+
+d) 0,172
+
+2. L’ensemble des solutions réelles de l’inéquation −2𝑥 2 − 5𝑥 + 3 < 0 est :
+
+a) ] − 3 ; 2 [
+
+b) ] − ∞ ; −3[∪] 2 ; +∞[
+
+c) ] − ∞ ; − 2 [∪]3 ; +∞[
+
+d) ] − 2 ; 3[
+
+3. On considère la droite 𝒟 d’équation 2𝑥 − 8𝑦 + 1 = 0.
+Les coordonnées d’un vecteur normal à 𝒟 sont :
+a) (
+
+−4
+
+−2
+
+b) (
+
+c) (
+
+−4
+
+−8
+
+d) (
+
+4. Dans un repère orthonormé, l’équation du cercle de centre A (-2 ; -4) et de rayon 2
+est :
+a) 𝑥 2 − 4𝑥 + 𝑦 2 − 8𝑦 + 16 = 0
+
+b) 𝑥 2 + 4𝑥 + 𝑦 2 + 8𝑦 + 16 = 0
+
+c) 𝑥 2 − 4𝑥 + 𝑦 2 − 8𝑦 + 18 = 0
+
+d) 𝑥 2 + 4𝑥 + 𝑦 2 + 8𝑦 + 18 = 0
+
+5. On considère la suite (𝑢𝑛 ) définie par :
+𝑢0 = 1 et pour tout entier naturel non nul 𝑛, 𝑢𝑛+1 = 𝑢𝑛 + 2𝑛 − 3
+a) 𝑢1 = 0
+
+b) (𝑢𝑛 ) est arithmétique
+
+c) 𝑢3 = −2
+
+d) (𝑢𝑛 ) est décroissante
+
+Exercice 2 (5 points)
+Dans tout l’exercice, on notera 𝑃(𝐸) la probabilité d’un évènement 𝐸.
+
+La répartition des 150 adhérents d’un club de sport est donnée dans le tableau cidessous :
+Âge
+Nombre de filles
+Nombre de garçons
+Total
+
+15 ans
+
+16 ans
+
+17 ans
+
+On choisit un adhérent au hasard.
+1. Quelle est la probabilité que l’adhérent choisi ait 17 ans ?
+2. L’adhérent choisi a 18 ans. Quelle est la probabilité que ce soit une fille ?
+On note 𝑋 la variable aléatoire donnant l’âge de l’adhérent choisi.
+3. Déterminer la loi de probabilité de 𝑋.
+
+18 ans
+
+4. Calculer 𝑃(𝑋 ≥ 16) et interpréter le résultat.
+5. Calculer l’espérance de 𝑋. Interpréter le résultat.
+
+Exercice 3 (5 points)
+La concentration d’un médicament dans le sang en mg.L−1 au cours du temps 𝑡,
+exprimé en heure, est modélisée par la fonction 𝑓 définie sur [0; +∞[ par : 𝑓(𝑡) =
+𝑡e−0,5𝑡 dont la représentation graphique est donnée ci-dessous.
+
+1. Calculer la valeur exacte de 𝑓(4) et interpréter le résultat dans le contexte de
+l’exercice.
+2. On note 𝑓′ la fonction dérivée de 𝑓.
+Montrer que pour tout 𝑡 ∈ [0; +∞[, 𝑓′(𝑡) = (1 − 0,5𝑡)e−0,5𝑡 .
+3. Étudier le signe de 𝑓′(𝑡) sur [0; +∞[.
+4. Déduire de la question précédente le tableau de variations de la fonction 𝑓
+sur [0; +∞[.
+5. Quelle est la concentration maximale du médicament dans le sang ? On
+donnera la valeur exacte, puis une valeur approchée à 10−2 près.
+
+Exercice 4 (5 points)
+
+Un téléphone coûte 600 euros lors de son lancement. Tous les ans, le fabricant sort une
+nouvelle version de ce téléphone. Le prix de ce téléphone augmente de 3 % chaque année.
+On note 𝑢𝑛 le prix du téléphone en euros 𝑛 années après son lancement. On a donc 𝑢0 =
+600.
+1. Calculer 𝑢1 et 𝑢2 . Interpréter les résultats.
+2. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 , pour tout entier naturel 𝑛 et en déduire la nature de
+la suite (𝑢𝑛 ). Préciser sa raison et son premier terme.
+3. Exprimer, pour tout entier 𝑛, 𝑢𝑛 en fonction de 𝑛.
+4. Recopier et compléter sur la copie la fonction Python ci-dessous pour qu’elle détermine
+le nombre minimum d’années nécessaires afin que le prix du téléphone dépasse 1000
+euros.
+def nombreAnnees():
+n = 0
+u = 600
+while ... :
+n = ...
+u = ...
+return n
+5. Quelle est la valeur de 𝑛 renvoyée par cette fonction Python ?

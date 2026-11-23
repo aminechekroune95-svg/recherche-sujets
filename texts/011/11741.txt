@@ -1,0 +1,165 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1304350, "at": "2026-11-23T08:54:09+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les dix questions suivantes sont indépendantes. Seules les réponses sont attendues.
+
+Questions
+
+Réponses
+
+1. Écrire sous la forme d’une fraction irréductible :
+3 3
+−
+4 5
+
+2. Résoudre dans R l’équation : 3𝑥 + 5 = 𝑥 − 1
+
+3. Calculer 80% de 70.
+4. Diminuer une quantité de 12% revient à multiplier
+cette quantité par un nombre. Quel est ce nombre ?
+5. Si un prix augmente de 20% chaque année, de quel
+pourcentage augmente-t-il en deux ans ?
+
+6. Factoriser : (𝑥 + 4)(𝑥 − 2) − 2(𝑥 − 2)
+
+7. Soit g la fonction définie par : 𝑔(𝑥) = 𝑥 2 − 16.
+Déterminer les antécédents de 0 par 𝑔.
+
+8. Tracer dans le repère ci-contre la droite
+d’équation 𝑦 = −2𝑥 + 3
+
+9. Déterminer avec la précision permise par le
+graphique le coefficient directeur de la droite (𝑑)
+tracée ci-dessous.
+
+10. Écrire sous la forme 10𝑛 , avec 𝑛 entier
+
+naturel, le nombre :
+
+(102 )
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+« En 2016, les commerces ont trié 75% de leurs déchets » (source : INSEE).
+En 2016, le directeur d’un centre commercial constate que son établissement a produit
+5 230 kg de déchets et que 3 107 kg ont été recyclés.
+1. L’affirmation de l’INSEE est-elle vérifiée pour ce centre commercial ?
+2. Le directeur fait une étude basée sur l’hypothèse que, les années suivantes, la quantité de
+déchets sera toujours égale à 5 230 kg mais que, chaque année, on recyclera 5% de plus de
+déchets que l’année précédente.
+Pour tout nombre entier naturel 𝑛, on note 𝑑𝑛 la quantité (en kg) de déchets recyclés par le
+centre commercial durant l’année 2016 + 𝑛 selon le modèle de l’étude.
+Ainsi 𝑑0 = 3107.
+a. Calculer 𝑑1 .
+b. Déterminer la nature et la raison de la suite (𝑑𝑛 ).
+3. a) Le directeur souhaite recycler au moins 75% des déchets produits par son
+établissement. Il veut déterminer l’année où cet objectif sera atteint, selon le modèle
+de son étude.
+Expliquer pourquoi cela revient à déterminer l’entier 𝑛 tel que : 𝑑𝑛 ≥ 3922,5.
+b) La fonction seuil_atteint définie ci-dessous en langage Python a pour objet de
+déterminer la valeur 𝑛 à partir de laquelle 𝑑𝑛 ≥ 3922,5.
+Compléter les instructions 4, 5 et 6.
+1. def seuil_atteint():
+2.
+n=0
+3.
+d=3107
+4.
+while .......:
+5.
+n= .....
+6.
+d= .....
+7.
+return n
+
+Exercice 3 (5 points)
+En 2018, les ateliers A et B d’une entreprise produisent respectivement 1400 et 1100 pièces
+d’un unique modèle chaque jour.
+On estime que 2% de la production de l’atelier A est défectueuse et 3% de la production de
+l’atelier B est défectueuse.
+1. Recopier et compléter le tableau d’effectifs ci-dessous.
+Pièces non
+Pièces défectueuses
+défectueuses
+
+Total
+
+Atelier A
+Atelier B
+2 500
+
+Total
+2. Calculer la fréquence des pièces défectueuses.
+
+3. On prélève, au hasard, une pièce dans la production journalière totale de l’entreprise. On
+définit les événements suivants :
+A : « la pièce prélevée provient de l’atelier A »
+D : « la pièce prélevée est défectueuse »
+Calculer la probabilité que la pièce prélevée provienne de l’atelier A, sachant qu’elle est
+défectueuse. Arrondir le résultat à 10−2.
+4. Les pièces défectueuses présentent l’un des défauts suivants : taille non conforme, poids
+non conforme, défaut de structure.
+Défaut présenté
+Le poids:
+.....
+
+Parmi les pièces ayant une taille non
+conforme
+Taille:
+35%
+
+52%
+48%
+
+defaut de
+structure:
+39%
+
+taille trop peite
+
+taille trop
+grande
+
+a) Quelle est la proportion de pièces produites par l’entreprise qui ont un défaut de poids ?
+Donner la réponse en pourcentage, arrondie à 0,1%.
+b) Quelle est le pourcentage de pièces défectueuses qui ont une taille trop petite?
+
+Exercice 4 (5 points)
+On considère une fonction 𝑓 définie et dérivable sur R et on note 𝑓′ sa fonction dérivée.
+La courbe (𝐶) ci-dessous, qui représente la fonction 𝑓 dans un repère du plan, passe par le
+point A(1; −4). La droite T est tangente à la courbe (𝐶) au point A et passe par le point
+B(0; 2).
+
+1. À l’aide du graphique, donner une équation de la droite T.
+2. Résoudre graphiquement l’inéquation 𝑓 ′ (𝑥) ≤ 0 sur [−2,5 ; 3].
+3. Dans cette question, on admet que la fonction 𝑓 est définie sur R par :
+𝑓(𝑥) = 𝑥 3 − 1,5𝑥 2 − 6𝑥 + 2,5
+a) Montrer que 𝑓 ′ (𝑥) = 3(𝑥 + 1)(𝑥 − 2)
+b) Étudier le signe de 𝑓′(𝑥) sur R.
+c) En déduire le tableau de variation de la fonction 𝑓.

@@ -1,0 +1,141 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1417523, "at": "2026-11-23T08:59:00+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Cet exercice est un QCM en 5 questions. Pour chacune des questions, une seule des quatre
+réponses proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie. Aucune justification n’est demandée, cependant des
+traces de recherche au brouillon peuvent aider à trouver la bonne réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+Dans le repère orthogonal suivant on a tracé quatre courbes, chacune associée à une
+fonction de variable réelle 𝑥 et d'expression 𝑒 𝜆𝑥 où 𝜆 est un paramètre réel.
+
+Quelle courbe possède le plus petit paramètre 𝜆 ?
+b) 𝒞𝑔
+a) 𝒞 𝑓
+
+c) 𝒞ℎ
+
+d) 𝒞𝑖
+
+Question 2
+On choisit au hasard un couple ayant deux enfants et on note 𝑋 la variable aléatoire égale au
+nombre de filles du couple. On admet que la probabilité qu’un enfant soit une fille est égale
+à 0,5 et qu’il y a indépendance du sexe de l’enfant entre deux naissances.
+Déterminer 𝑃(𝑋 ≥ 1.
+a) 0,25
+
+b) 0,5
+
+c)
+
+d) 0,75
+
+Question 3
+On a représenté ci-dessous la courbe 𝒞 de la fonction sinus dans un repère orthogonal.
+
+A0, A1, A2, A3 et A4 sont des points de 𝒞 et ils ont tous la même ordonnée.
+Parmi les segments suivants, lequel a pour longueur la période de la fonction sinus ?
+a) [A0 ; A1]
+b) [A0 ; A2]
+c) [A0 ; A3]
+d) [A0 ; A4]
+Question 4
+Soit la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = 0,5𝑥 2 − 2𝑥 + 1.
+On considère l’équation 𝑓(𝑥) = 0, d’inconnue 𝑥 ∈ ℝ. L’ensemble des solutions de cette
+équation est :
+a)
+
+b)
+{2 − √2 ; 2 + √2}
+
+∅
+
+c)
+{2 − √6 ; 2 + √6}
+
+d)
+{4 − 2√2 ; 4+2√2}
+
+Question 5
+𝐴𝐵𝐶 est un triangle tel que : 𝐴𝐵 = 5, 𝐵𝐶 = 2, ̂
+𝐴𝐵𝐶 = 60𝑜 . La longueur 𝐴𝐶 est égale à
+
+a) √19
+
+b) √21
+
+c) √28
+
+d) √29
+
+Exercice 2 (5 points)
+On modélise la diffusion dans le sang d’un médicament de 1 gramme par intraveineuse
+(fonction 𝑓1 , courbe représentative 𝒞1 ) ou par voie orale (fonction 𝑓2 , courbe représentative
+𝒞2 ) pendant une durée de 10 heures.
+Plus précisément :
+ 𝑓1 (𝑡) modélise la proportion du médicament dans le sang à l’instant 𝑡, où 𝑡 est le
+temps en heure après injection par intraveineuse ;
+ 𝑓2 (𝑡) modélise la proportion du médicament dans le sang à l’instant 𝑡, où 𝑡 est le
+temps en heure après administration par voie orale.
+Pour tout réel 𝑡 de l’intervalle [0 ; 10], on admet que 𝑓1 (𝑡) = e−0,57𝑡 et 𝑓2 (𝑡) = 1,75 𝑡 e−𝑡 .
+Les courbes 𝒞1 et 𝒞2 de 𝑓1 et 𝑓2 sont représentées ci-dessous.
+
+1. Injection par voie intraveineuse
+a. Déterminer le sens de variation de la fonction 𝑓1 .
+b. Résoudre graphiquement 𝑓1 (𝑡) < 0,1. Interpréter la réponse dans le contexte.
+2. Administration par voie orale
+On note 𝑓2′ la fonction dérivée de la fonction 𝑓.
+a. Montrer que, pour tout 𝑡 de [0 ; 1], 𝑓2′ (𝑡) = 1,75(1 − 𝑡)e−𝑡
+b. Construire le tableau de variations de la fonction 𝑓2 .
+c. À quel instant 𝑡 la proportion de médicament dans le sang est-elle la plus élevée ?
+
+Exercice 3 (5 points)
+Dans un pays, le nombre de créations d’entreprise augmente 1,5% par mois.
+En janvier 2018 on compte 50 000 créations d’entreprise.
+On modélise le nombre de créations d’entreprise au 𝑛-ième mois par une suite (𝑢𝑛 ) telle
+que 𝑢𝑛+1 = 𝑢𝑛 × 1,015 et 𝑢0 = 50, 𝑢𝑛 est exprimé en milliers d’euros.
+1.
+a. Calculer 𝑢1 .
+b. Interpréter ce résultat dans le contexte de l’exercice.
+2.
+a. Quelle est la nature de la suite (𝑢𝑛 ) ?
+b. Exprimer 𝑢𝑛 en fonction de 𝑛.
+c. Un journaliste annonce qu’au total dans l’année 2018, près de 652 000 entreprises se sont
+créées. Donner un calcul permettant de justifier les propos du journaliste.
+
+Exercice 4 (5 points)
+(𝑂 ; 𝑖⃗ ; 𝑗⃗) est un repère orthonormé du plan.
+On considère les points 𝐴, 𝐵 et 𝐶 de coordonnées respectives (−2 ; 0), (6 ; 0) et (0 ; 6).
+Les points 𝐴′, 𝐵′ et 𝐶′ milieux respectifs des segments [𝐵𝐶], [𝐴𝐶] et [𝐴𝐵].
+Le cercle Γ passant par les points 𝐴′, 𝐵′ et C’ a pour centre le point 𝐼 de coordonnées (1 ; 2).
+
+1.
+a. Calculer le rayon de ce cercle.
+b. En déduire qu’une équation du cercle Γ est (𝑥 − 1)2 + (𝑦 − 2)2 = 5.
+2. Propriété des hauteurs du triangle 𝐴𝐵𝐶
+a. On admet que 𝑂 est le pied de la hauteur issue de 𝐶. Montrer que le point 𝑂 est sur le
+cercle Γ.
+b. Soit 𝐻𝐴 le pied de la hauteur issue de 𝐴. Montrer que 𝐻𝐴 a pour coordonnées (2 ; 4).
+c. Justifier que la point 𝐻𝐴 est sur le cercle Γ.

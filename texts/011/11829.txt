@@ -1,0 +1,170 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1162449, "at": "2026-11-23T08:53:24+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8.
+
+Partie I (Calculatrice interdite)
+EXERCICE 1 (5 points) : automatismes
+
+Durée : 20 minutes
+
+Les 10 questions suivantes sont indépendantes.
+Énoncé
+1.
+2.
+
+Donner l’expression de 𝑓′(𝑥) définissant la
+dérivée de la fonction 𝑓: 𝑥 ↦ 4𝑥 3 − 5𝑥 2 + 𝑥 + 3.
+« Dans le plan muni d’un repère, le point 𝐴(−1; 0)
+appartient à la courbe représentative de la
+fonction 𝑓 : 𝑥 ↦ 𝑥 2 + 5𝑥 + 4 . »
+Vrai ou faux ? Justifier.
+
+3.
+
+Factoriser l’expression 4𝑥 2 − 9.
+
+4.
+
+Résoudre dans R l’équation :
+2𝑥 − 5 = 5𝑥 + 2
+
+5.
+
+Pour le Black Friday, le prix d’un appareil passe
+de 80€ à 60€.
+Indiquer le taux d’évolution, en pourcentage, du
+prix de cet objet.
+
+6.
+
+Réponse
+
+Dans un lycée, les trois quarts des élèves
+pratiquent un sport.
+40% des élèves pratiquant un sport jouent au
+football.
+Quel pourcentage d’élèves du lycée pratiquent le
+football ?
+𝑃𝑉
+
+7.
+
+Loi des gaz parfaits : 𝑇 = 𝑛𝑅.
+Exprimer 𝑇 en fonction de 𝑃, 𝑉, 𝑛 et 𝑅.
+
+8.
+
+>3
+Vrai ou faux ? Justifier.
+
+9.
+
+Convertir un débit de 2 mL.min-1 en cL.h-1.
+
+10. Dans le repère ci-contre, tracer la droite passant
+par le point 𝐴(−3 ; 1) et ayant pour coefficient
+directeur 2.
+
+Partie II
+Cette partie est constituée de 3 exercices indépendants.
+L’utilisation de la calculatrice est autorisée selon la règlementation en vigueur.
+
+Exercice 2 (5 points)
+Suite à l’explosion des nouveaux cas de Covid-19, le chef de l’État annonçait le 28
+octobre 2020 aux Français un nouveau confinement avec pour objectif de réduire le
+nombre de nouveaux cas à moins de 5000 par jour.
+Le graphique suivant synthétise les données qui étaient disponibles sur Santé
+publique France le 25 novembre 2020 :
+
+−𝟒𝟖%
+
+Le tableau ci-dessous donne, pour chaque jour de la période du 15 au 25 novembre
+2020, le nombre estimé de nouveaux cas positifs :
+
+1. Justifier la mention « −𝟒𝟖% environ en 7 jours » figurant sur le graphique.
+À quelle évolution journalière moyenne cela correspond-il ? Arrondir au
+dixième de pourcentage.
+Par la suite, on étudie un modèle selon lequel le nombre de nouveaux cas positifs
+baisse de 9% par jour à partir du 25 novembre 2020.
+On considère la suite dont le terme général 𝑢𝑛 donne le nombre de nouveaux cas
+positifs prévus en France 𝑛 jour(s) après le 25 novembre 2020 selon ce modèle.
+Ainsi, 𝑢0 = 10 632.
+
+2. a) Justifier que, pour tout entier naturel 𝑛, 𝑢𝑛+1 = 0,91 × 𝑢𝑛
+b) Préciser la nature de la suite (𝑢𝑛 ) et indiquer sa raison 𝑞.
+3. Selon le modèle étudié, à quelle date, l’objectif du chef de l’état aurait-il dû
+être atteint ? Justifier.
+4. Recopier et compléter la fonction
+écrite ci-contre en langage Python pour
+qu’elle renvoie le nombre de jours au
+bout desquels, selon le modèle étudié,
+l’objectif du chef de l’état aurait dû être
+atteint.
+
+def objectif_atteint():
+u= ...
+n= ...
+while u>=5000:
+u= ...
+n= ...
+return n
+
+5. Calculer la somme 𝑢0 + 𝑢1 + 𝑢2 + ⋯ + 𝑢21 . Arrondir le résultat à l’unité.
+Interpréter ce résultat par rapport aux prévisions sur l’épidémie de Covid-19
+en France.
+
+Exercice 3 (5 points)
+Un patient « grand brûlé » doit bénéficier d’une greffe de peau. Pour recouvrir la
+brûlure, le chirurgien estime qu’un greffon de peau d’une surface de 8 cm 2 est
+nécessaire.
+Un échantillon de 20 mm2 de peau saine est prélevé sur le patient et mis en culture.
+Ainsi cet échantillon augmente, par division cellulaire, de 15% par jour.
+La fonction 𝑆 définie sur l’intervalle [0 ; +∞[ par 𝑆(𝑡) = 0,2 × 1,15𝑡 donne la mesure
+en cm2 de la surface de peau qui devrait être obtenue à partir de l’échantillon, au
+bout de 𝑡 jour(s) de culture.
+1. Calculer 𝑆(0).
+Pourquoi ce résultat est-il cohérent avec les données de l’énoncé ?
+2. Déterminer la surface de peau qui devrait être obtenue à partir de l’échantillon
+après 17,5 jours de mise en culture. Donner le résultat au cm2 près.
+3. Justifier que la fonction 𝑆: 𝑡 ↦ 0,2 × 1,15𝑡 est croissante sur l’intervalle
+[0 ; +∞[.
+4. On cherche le temps 𝑡𝐺𝑟𝑒𝑓𝑓𝑒 à partir duquel la surface de peau à greffer
+devrait être suffisante, c’est-à-dire supérieure ou égale à 8 cm2.
+a) À l’aide de la calculatrice, déterminer un encadrement de 𝑡𝐺𝑟𝑒𝑓𝑓𝑒 à un jour
+près.
+b) Le chirurgien souhaite davantage de précision pour programmer
+l’opération. Déterminer un encadrement de 𝑡𝐺𝑟𝑒𝑓𝑓𝑒 à 1 heure près.
+
+Exercice 4 (5 points)
+Afin de mettre en œuvre une campagne de sensibilisation à destination des jeunes
+femmes fumeuses, un maire commande une étude auprès des 15-25 ans de la
+commune sous la forme d’un questionnaire à compléter.
+L’étude révèle que :
+ 28% des 15-25 ans sont fumeurs.
+ Les femmes représentent 30% des 15-25 ans fumeurs.
+ 2 non-fumeurs sur 5, parmi les 15-25 ans, est un homme.
+On choisit au hasard un questionnaire de l’enquête.
+On considère alors les événements 𝐴 et 𝐵 définis par :
+𝐴 : « Le questionnaire choisi est celui d’une personne qui fume » ;
+𝐵 : « Le questionnaire choisi est celui d’une femme ».
+1. Recopier et compléter l’arbre de probabilités ci-dessous :
+
+2. Vérifier que la probabilité 𝑃(𝐴 ∩ 𝐵) est égale à 0,084.
+Interpréter ce résultat dans le contexte de l’énoncé.
+3. En détaillant le(s) calcul(s), déterminer la probabilité 𝑃(𝐵).
+4. Calculer la probabilité que le questionnaire choisi soit celui d’une personne qui
+fume, sachant que c’est le questionnaire d’une femme.
+5. Les évènements 𝐴 et 𝐵 sont-ils indépendants ? Justifier.

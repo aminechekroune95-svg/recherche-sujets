@@ -1,0 +1,190 @@
+{"pages": 9, "method": "pdftotext", "bytes": 929443, "at": "2026-11-23T08:53:19+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice I (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Cet exercice comprend 10 questions. Aucune justification n'est demandée.
+
+Énoncé
+
+Réponse
+
+Soit la fonction 𝑓 définie sur R par :
+𝑓(𝑥) = 4𝑥 3 − 5𝑥 2 + 7.
+Quelle est l’ordonnée du point d’abscisse -1 de
+la courbe représentative de 𝑓 ?
+
+1 2
+
+Écrire ( ) + 1 sous la forme d’une fraction
+
+irréductible.
+Soit la fonction 𝑓 définie sur [0 ; 10] par :
+
+𝑓(𝑥) = 4𝑥 3 − 5𝑥 2 + 𝑥 + 7.
+Déterminer 𝑓’(𝑥) où 𝑓’ est la dérivée de 𝑓.
+Soit la fonction 𝑔 définie sur [0 ; 20] par :
+
+𝑔(𝑥) = 4𝑥 2 + 7𝑥 + 8.
+Quel est le coefficient directeur de la tangente
+à la courbe représentative de 𝑔 au point
+d’abscisse 2 ?
+
+Pour 𝑥 dans [-5 ; 5], construire le tableau de
+signes de :
+(𝑥 − 1)(𝑥 + 3)
+Réponse
+
+Énoncé
+On donne 𝑦 = 3𝑥 + 𝑧.
+
+Exprimer 𝑥 en fonction de 𝑦 et 𝑧.
+
+Lequel de ces pourcentages vaut
+30%, 40% ou 60 % ?
+
+:
+
+Dans un repère, on considère les points
+𝐴(0; 5) et 𝐵(2; −1).
+Donner l’équation réduite de la droite (𝐴𝐵).
+
+Quel est le taux d’évolution équivalent à une
+baisse de 10 % suivie d’une baisse de 20 % ?
+Soit la fonction f définie sur R par :
+𝑓(𝑥) = 𝑥 2 + 3𝑥.
+
+10 Parmi les 3 nombres ci-dessous, lequel est le
+plus proche de 𝑓(1002) ?
+10⁵
+
+10⁶
+
+10⁷
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Le tableau ci-dessous donne la taille moyenne des français entre 1900 et 1980.
+Année
+
+1900
+
+1920
+
+1940
+
+1960
+
+1980
+
+Rang de
+l’année
+𝑥𝑖
+
+Taille en cm
+𝑦𝑖
+
+165,8
+
+167,4
+
+172,6
+
+174,9
+
+Dans cet exercice, les résultats seront arrondis au dixième.
+1. On pose 𝑧𝑖 = 100 log(𝑦𝑖 ).
+Compléter le tableau de l’annexe (page 9).
+2. En utilisant le repère de l’annexe, représenter le nuage de points 𝑀𝑖 (𝑥𝑖 ; 𝑧𝑖 ).
+Qu’observe-t-on ?
+3. Un ajustement de ce nuage de points est donné par la droite 𝐷 d’équation :
+𝑧 = 0,03𝑥 + 222.
+Compléter le graphique précédent en traçant cette droite 𝐷.
+Justifier la construction.
+4.
+a. Sachant que 𝑧𝑖 = 100 log(𝑦𝑖 ), exprimer 𝑦𝑖 en fonction de 𝑧𝑖 .
+b. Estimer quelle serait, selon cet ajustement, la taille moyenne des
+français en 2025.
+
+Exercice 3 (5 points)
+Deux restaurateurs décident d’acheter le même modèle de fourneau.
+Comme ils ne disposent pas immédiatement de la somme nécessaire, le vendeur
+leur propose des facilités de paiement.
+1. Pour le premier restaurateur
+La facilité de paiement prévoit une première mensualité de 168 € tandis que les
+mensualités suivantes sont toutes égales à 200 €.
+On modélise cette situation en utilisant la suite (𝑢𝑛 ) où, pour tout entier non nul 𝑛,
+𝑢𝑛 est la somme totale versée en euros après le paiement de la 𝑛𝑖è𝑚𝑒 mensualité.
+On a donc 𝑢1 = 168.
+a) Montrer que 𝑢3 = 568 puis donner la nature de la suite (𝑢𝑛 ).
+b) En déduire l’expression de 𝑢𝑛 en fonction de l’entier non nul 𝑛.
+2. Pour le deuxième restaurateur
+La facilité de paiement prévoit une première mensualité de 150 € tandis que les
+mensualités suivantes augmentent d’un mois sur l’autre de 4 %.
+On modélise cette situation en utilisant la suite (𝑣𝑛 ) où, pour tout entier non nul 𝑛, 𝑣𝑛
+est le montant en euros de la 𝑛𝑖è𝑚𝑒 mensualité. On a donc 𝑣1 = 150.
+a) Montrer que 𝑣3 = 162,24 puis donner la nature de la suite (𝑣𝑛 ).
+b) En déduire, pour tout entier non nul 𝑛, l’expression de 𝑣𝑛 en fonction de 𝑛.
+3. Comparaison
+Le vendeur propose à chaque restaurateur un paiement en 11 mensualités.
+Quel est celui des deux restaurateurs qui dépensera le plus pour l’achat de son
+fourneau ?
+
+Exercice 4 (5 points)
+Dans un restaurant, le coût de production unitaire d’un repas, en euros, si l’on en
+produit 𝑥, est modélisé par la fonction 𝑃 définie sur [5; 65] par :
+𝑃(𝑥) = 0,1 𝑥 + 3 +
+
+8,1
+𝑥
+
+1. Montrer que si on produit 10 repas, le coût unitaire d’un repas est de 4,81 €.
+2. Justifier que pour tout réel de [5; 65], on a 𝑃’(𝑥) =
+la fonction dérivée de 𝑃.
+
+0,1(𝑥−9)(𝑥+9)
+𝑥2
+
+où 𝑃’ désigne
+
+3. Étudier le signe de 𝑃’(𝑥) sur l’intervalle [5 ; 65].
+4. Dresser le tableau de variation de la fonction 𝑃 sur l’intervalle [5 ; 65].
+5. Déterminer le nombre de repas que doivent produire les cuisiniers pour que le
+coût de production unitaire d’un repas soit minimal. Indiquer ce coût.
+
+Annexe
+à rendre avec la copie
+
+Exercice 2 question 1
+𝑥𝑖
+
+𝑧𝑖
+
+Exercice 2 question 2
+
+𝑧
+
+𝑥

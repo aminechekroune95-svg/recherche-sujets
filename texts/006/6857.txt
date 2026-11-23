@@ -1,0 +1,152 @@
+{"pages": 5, "method": "pdftotext", "bytes": 757430, "at": "2026-11-23T08:57:13+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Augmenter un capital de 5% revient à le multiplier par quel
+nombre ?
+
+2)
+
+Le prix d’un article toutes taxes comprises (TTC) est de 240€. La
+taxe sur la valeur ajoutée (TVA) est de 20%. Déterminer le prix
+hors taxe (HT) c'est-à-dire le prix avant l’application de la TVA.
+
+3)
+
+La population d’une ville est passée de 50 000 habitants à
+75 000 habitants. Quel est le pourcentage d’augmentation de
+cette population sur cette période ?
+
+4)
+
+Un prix a augmenté de 20%, puis baissé de 20%. Déterminer le
+taux global d’évolution.
+On considère le tableau incomplet suivant relatif à une
+entreprise :
+Année
+2018 2019
+
+5)
+
+Chiffre d’affaires réalisé en k€ (millier d’euro)
+
+Indice (base 100 en 2018)
+
+Quelle est l’indice en 2019 ?
+6)
+
+Résoudre dans ℝ (2𝑥 − 1)(5 − 𝑥) = 3 − 2𝑥 2 .
+
+7)
+
+Résoudre dans ℝ l’équation 𝑥 2 = 5.
+
+8)
+
+Résoudre dans ℝ l’équation 𝑥 2 = −2.
+
+9)
+
+Résoudre l’inéquation 5𝑥 + 3 ≥ −2 et donner l’ensemble des
+solutions sous forme d’un intervalle.
+
+10)
+
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = (𝑥 + 3)(𝑥 − 3).
+Donner le tableau de signe de 𝑓(𝑥).
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+En 1798, Malthus publie "An Essay on the Principe of Population". Il y émet l'hypothèse que
+l'accroissement de la population, beaucoup plus rapide que celui des ressources alimentaires,
+conduira le monde à la famine.
+En 1800, en Angleterre, l'agriculture pouvait nourrir 10 millions de personnes et la population
+était estimée à 8 millions de personnes.
+Malthus pensait que :
+ L'amélioration de l'agriculture permettait en Angleterre de nourrir 500 000 personnes
+de plus chaque année.
+ La population augmentait d'environ 2 % chaque année.
+Pour 𝑛 entier naturel, on note 𝑎𝑛 le nombre de personnes en Angleterre, exprimé en millions,
+que l'agriculture permet de nourrir de l'année 1800 + 𝑛, et 𝑏𝑛 la population en millions, cette
+même année.
+On a alors 𝑎0 = 10 et 𝑏0 = 8.
+1. Étude de la suite (𝑎𝑛 ).
+a. Déterminer 𝑎1 .
+b. Justifier que pour tout entier naturel 𝑛 𝑎𝑛+1 = 𝑎𝑛 + 0,5.
+2. Étude de la suite (𝑏𝑛 ).
+a. Vérifier que 𝑏1 = 8,16.
+b. Pour tout entier naturel 𝑛, exprimer 𝑏𝑛+1 en fonction de 𝑏𝑛 .
+3. Recopier et compléter l'algorithme suivant qui permet de déterminer en quelle année
+la situation devait conduire à la famine selon Malthus.
+n=0
+A=10
+B=8
+while A…B :
+A=…
+B=…
+n=…..
+return(n)
+
+Exercice 3 (5 points)
+On souhaite construire une rampe pour faire passer des chariots sur un trottoir plus
+facilement. Le schéma ci-dessous modélise la situation. Une unité graphique représente 10
+cm.
+
+La chaussée est matérialisée par la demi-droite [BC) et le trottoir par la ligne brisée B-A-D. La
+rampe sera homologuée si elle répond à 5 critères :
+C1 : La rampe est portée par la courbe d’une fonction 𝑓 polynôme du 3e degré qui passe par
+A et C.
+C2 : 𝑓(0) = 0.
+C3 : La dérivée de 𝑓 s’annule en −2 et en 2.
+C4 : 𝑓 est décroissante sur [−2 ; 2].
+C5 : Pour tout 𝑥  [−2 ; 2], 𝑓 ’(𝑥)  − 0,75.
+On pose 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = 0,0625 𝑥 3 − 0,75𝑥.
+1. Calculer 𝑓(−2) et 𝑓(2) et en déduire que 𝑓 vérifie la condition C1.
+2. Montrer que pour tout 𝑥 appartenant à ℝ , 𝑓 ’(𝑥) = 0,1875𝑥² − 0,75 et en déduire
+que 𝑓 vérifie la condition C3.
+3. Sachant que 𝑓 ′ (𝑥) = 0,1875(𝑥 − 2)(𝑥 + 2), la condition C4 est-elle vérifiée ?
+4. Justifier que pour tout 𝑥  ℝ, 𝑓 ’(𝑥)  − 0,75.
+5. En utilisant la fonction 𝑓 , la rampe est-elle homologuée ?
+
+Exercice 4 (5 points)
+Emilie a cinq stylos dans sa trousse, quatre bleus et un violet, indiscernables au toucher.
+Aujourd’hui, elle décide de prendre au hasard un des stylos de sa trousse en début de
+chaque cours et d’écrire son cours avec le stylo « gagnant ». Elle remet le stylo choisi dans sa
+trousse à la fin de chaque cours. On note :
+ 𝐵 l’événement « le stylo choisi est de couleur bleu » ;
+ 𝑉 l’événement « le stylo choisi est de couleur violet ».
+1. Le premier cours est un cours de mathématiques. Quelle est la probabilité qu’Émilie
+écrive son cours de mathématiques en bleu ? Justifier.
+2. Dans la matinée, Émilie n’a que deux cours.
+a. Construire un arbre pondéré illustrant les différentes issues possibles.
+b. Déterminer la probabilité qu’Émilie écrive tous ses cours de la matinée en bleu.
+3. Dans la journée, Émilie a quatre cours. On note 𝑋 la variable aléatoire correspondant au
+nombre de cours de la journée écrits en bleu.
+a. Recopier et compléter le tableau ci-dessous qui donne la loi de probabilité de la
+variable 𝑋.
+𝑘
+𝑃(𝑋 = 𝑘)
+
+0,0016
+
+…
+
+0,1536
+
+0,4096
+
+…
+
+b. Déterminer l’espérance de 𝑋 et l’interpréter dans le contexte de l’exercice.

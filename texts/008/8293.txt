@@ -1,0 +1,138 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1233716, "at": "2026-11-23T08:56:16+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Les dix questions suivantes sont indépendantes. Seules les réponses sont attendues.
+Questions
+
+Réponses
+
+1. Dans une classe de 32 élèves, il y a 24 filles.
+Calculer le pourcentage de filles dans cette classe.
+2. Un prix subit une hausse de 10% puis une baisse de 10%.
+Quel est, en pourcentage, le taux d’évolution équivalent à ces
+deux évolutions successives ?
+Préciser si c’est une augmentation ou une diminution.
+3. La population d’un pays est passée de 2 millions à 2,5 millions
+d’habitants en 20 ans.
+Quel a été le pourcentage d’augmentation de cette
+population ?
+4.Après réduction de 40%, un article coûte 36€.
+Quel était le prix de l’article avant la réduction ?
+5. Développer l’expression 3𝑥(−2𝑥 + 4)
+6.Factoriser l’expression : 𝑥 2 − 4
+7. Donner la solution de l’équation :
+2𝑥 + 3 = 5𝑥 − 1
+8. Donner l’équation réduite dans un repère de la droite
+passant par les points A(2;3) et B(6;5).
+
+On donne ci-dessous la représentation graphique d’une fonction 𝑓 définie sur l’intervalle
+[−2; 4].
+Les questions 9 et 10 seront traitées avec la précision permise par le graphique.
+
+9. Quelles sont les solutions de l’équation : 𝑓(𝑥) = 2 ?
+10. Donner le tableau des variations de la fonction 𝑓.
+𝑥
+Variations
+de 𝑓
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On étudie l’évolution de deux populations.
+ Au premier jour de l’étude la population A est composée de 100 individus.
+On modélise le nombre d’individus de cette population par les termes d’une suite
+arithmétique (𝑎𝑛 ) de premier terme 𝑎1 = 100 et de raison 15.
+ Au premier jour de l’étude la population B est composée de 50 individus.
+On modélise le nombre d’individus de cette population par les termes d’une suite
+géométrique (𝑏𝑛 ) de premier terme 𝑏1 = 50 et de raison 1,1.
+1. Quel est l’effectif de la population A au cinquième jour de l’étude ?
+2. a) Déterminer 𝑏5 .
+b) Exprimer 𝑏𝑛+1 en fonction de 𝑏𝑛 .
+c) Quel est le pourcentage d’augmentation de la population B entre deux jours
+consécutifs ?
+3. La fonction Seuil a été définie ci-dessous en langage Python.
+1. def Seuil(a,b):
+2.
+n=1
+3.
+while a>b:
+4.
+a=a+15
+5.
+b=b*1.1
+6.
+n=n+1
+7.
+return n
+
+La saisie de Seuil (100,50) renvoie la valeur 24.
+Interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Un médicament est administré par voie orale. La concentration du produit actif dans le sang
+dépend du temps écoulé depuis la prise du médicament.
+On modélise la concentration du produit actif, en milligramme par litre de sang (mg/L), 𝑡
+heures après la prise du médicament où 𝑡 appartient à l’intervalle [0,6], par 𝑓(𝑡) où 𝑓 est
+une fonction dont la courbe représentative est donnée ci-dessous.
+
+1. Répondre par lecture graphique aux questions a et b suivantes.
+a) Estimer au bout de combien de temps la concentration du produit dans le sang est
+maximale et quelle est cette concentration maximale.
+b) L’affirmation : « Au bout de 5 heures, la concentration dans le sang du produit actif est
+inférieure à 20 % de sa valeur maximale » est-elle vraie ?
+2. On admet que la fonction 𝑓 est définie sur l’intervalle [0,6] par :
+𝑓(𝑥) = 𝑥 3 − 12𝑥 2 + 36𝑥
+On note 𝑓′ la fonction dérivée de 𝑓 sur l’intervalle [0,6].
+
+a) Calculer 𝑓′(𝑥) pour tout réel 𝑥 appartenant à [0,6] .
+b) On admet que 𝑓 ′ (𝑥) a pour forme factorisée : 3(𝑥 − 2)(𝑥 − 6).
+Étudier le signe de 𝑓′(𝑥) pour 𝑥 appartenant à l’intervalle [0,6].
+c) En déduire le tableau de variation de la fonction 𝑓 sur l’intervalle [0,6].
+
+Exercice 4 (5 points)
+Une personne qui travaille de nuit a l’habitude lors de sa pause de prendre une collation et
+un café.
+Trois collations sont proposées : un quart sont à base de fruit (180 kcal), 10 % sont à base de
+laitages (220 kcal) et les autres sont des biscuits (260 kcal). La personne en choisit une au
+hasard.
+Deux cafés sont disponibles : un café noir sans sucre (2 kcal) ou un café crème (17 kcal). La
+personne choisit une fois sur cinq un café crème.
+On considère que le choix de la collation est indépendant de celui du café.
+1. On modélise les deux choix par une expérience aléatoire à deux épreuves indépendantes.
+a) Représenter cette expérience par un arbre de probabilités.
+b) Justifier que la probabilité que la personne choisisse un biscuit et un café crème est égale
+à 0,13.
+2. On note X la variable aléatoire qui associe à chaque choix (collation et café) le nombre de
+kcal correspondant.
+a) Quelles sont les valeurs prises par X ?
+b) Donner la loi de probabilité de la variable aléatoire X en recopiant et complétant le
+tableau ci-dessous.
+Valeurs 𝑥𝑖
+prises par X
+𝑃(𝑋 = 𝑥𝑖 )
+c) Calculer E(X) et interpréter le résultat dans le contexte de l’exercice.

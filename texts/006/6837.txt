@@ -1,0 +1,172 @@
+{"pages": 8, "method": "pdftotext", "bytes": 787599, "at": "2026-11-23T08:57:23+00:00"}
+PARTIE I
+Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+1)
+
+Réponse
+
+Un prix a été multiplié par 1,25.
+De quel pourcentage a-t-il été augmenté ?
+
+2)
+
+Un prix a été diminué de 20%.
+Par quel nombre a-t-il été multiplié ?
+
+3)
+
+Un appareil ménager coutait 250 euros en 2018.
+Son prix a augmenté de 5% en 2019.
+Quel est le prix de l’appareil en 2019 ?
+
+4)
+
+Le salaire d’un apprenti a baissé de 20 %.
+De quel pourcentage son patron doit-il l’augmenter
+pour que l’apprenti retrouve son salaire initial ?
+
+5)
+
+Un prix a été diminué de 20% puis de 30%.
+Quelle évolution globale ce prix a-t-il subie ?
+
+L’évolution des effectifs d’une association durant les trois dernières années est résumée dans
+le tableau suivant :
+2017
+
+2018
+
+Effectifs
+
+Indice
+
+2019
+
+On se réfèrera à ce tableau pour traiter les questions 6 et 7.
+6)
+
+Quelle était la valeur de l’indice en 2018 ?
+
+7)
+
+Quel était l’effectif de l’association en 2019 ?
+
+8)
+
+Résoudre dans R l’équation:
+
+9)
+
+Résoudre dans R l’équation : 𝑥 2 = 36
+
+10)
+
+Dresser le tableau de signe de :
+
+2𝑥 − 1 = − 4𝑥 + 5
+
+(2𝑥 − 3)(𝑥 + 1)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+On relève, toutes les heures, le nombre de bactéries, exprimé en milliers, d’une
+population.
+Nombre
+d’heures
+écoulées 𝑛
+
+Nombre de
+bactéries
+noté 𝑎𝑛
+
+10 000
+
+12 400
+
+15 405
+
+19 082
+
+23 651
+
+29 305
+
+36 360
+
+1. Représenter le nuage de points de coordonnées (𝑛; 𝑎𝑛 ) sur le graphique donné
+en annexe.
+2. Expliquer pourquoi on ne peut pas modéliser l’évolution de la population de
+bactéries par une suite arithmétique.
+3. On souhaite prévoir l’évolution de cette population de bactéries au-delà de la
+sixième heure écoulée. On modélise cette évolution à l’aide d’une suite géométrique
+(𝑏𝑛 ) de premier terme 𝑏0 = 36 360 et de raison 1,24.
+a) Justifier que, selon ce modèle, on aura environ 45 086 milliers de bactéries sept
+heures après le début des relevés.
+b) Combien de bactéries devrait-on avoir au bout de dix heures ?
+
+c) On admet que, pour tout entier naturel 𝑛, 𝑏𝑛 = 36 360 × (1,24𝑛 ).
+Combien de bactéries devrait-on avoir un jour après le début des relevés ?
+EXERCICE 3 (5 points)
+Lors d’une épidémie, un institut de veille sanitaire a observé l’évolution du nombre de
+personnes malades pendant une période de 11 jours.
+Pour t appartenant à l’intervalle [0 ;11], l’institut a considéré que le nombre de malades,
+exprimé en millier, après t jours était donné par 𝑓(𝑡) où 𝑓 est la fonction définie et
+dérivable sur l’intervalle [0 ;11] qui est représentée en annexe.
+1. On considère que la situation est grave lorsque le nombre de malades est supérieur
+ou égal à 150 000. Pendant combien de jours complets peut-on dire que la situation
+est demeurée grave ? Expliquer.
+2. Sur le graphique donné en annexe, on a placé le point A de coordonnées (10 ; 112,5)
+et tracé la droite (OA).
+On admet que la droite (OA) est la tangente à la courbe C𝑓 en son point d’abscisse 0.
+Déterminer 𝑓′(0), où 𝑓′ désigne la fonction dérivée de la fonction 𝑓. Expliquer la
+démarche.
+3. Dans cette question, on donne pour t appartenant à l’intervalle [0 ;11] :
+21 2 45
+𝑓(𝑡) = −𝑡 3 +
+𝑡 + 𝑡
+a) Calculer 𝑓′(t).
+
+b) On admet pour la suite que : 𝑓′(𝑡) = −3 (𝑡 + 2)(𝑡 − 2 )
+Etudier le signe de 𝑓′(𝑡) pour 𝑡 appartenant à l’intervalle [0 ;11].
+c) En déduire le maximum de la fonction 𝑓 sur l’intervalle [0 ;11] et la valeur de t en
+laqeulle il est atteint. Interpréter ces résultats dans le contexte de l’exercice.
+
+EXERCICE 4 (5 points)
+Un forain dispose de deux roues. La première est partagée en quatre quarts portant
+respectivement les lettre A, B, C et D. La seconde roue est partagée en trois tiers qui
+portent respectivement les lettres A, B et C.
+
+Le forain propose aux visiteurs de participer, pour 5 euros, au jeu suivant :
+-
+
+Le joueur fait tourner la première roue et on observe la lettre sur laquelle elle
+s’arrête.
+- Le joueur fait tourner la seconde roue et on observe la lettre sur laquelle elle
+s’arrête.
+Si le joueur obtient deux fois la même lettre, le forain lui donne 10 euros.
+Si le joueur obtient la lettre D, le forain lui donne 5 euros.
+Dans les autres cas, le forain ne donne rien au joueur.
+1. Représenter l’expérience aléatoire correspondant à ce jeu par un arbre de
+probabilités.
+2. Quelle est la probabilité d’obtenir, au cours d’un même jeu, la lettre A avec la
+première roue et la lettre B avec la deuxième roue ?
+3. Quelle est la probabilité d’obtenir deux fois la même lettre ?
+4. On note X le montant en euro donné par le forain au joueur à l’issue d’une partie.
+Donner la loi de probabilités de X.
+5. Quel est le bénéfice moyen du forain pour une partie ?
+
+Annexe à rendre avec la copie
+
+EXERCICE 2, question 1
+
+EXERCICE 3, représentation graphique de la fonction f

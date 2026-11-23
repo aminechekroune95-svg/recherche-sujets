@@ -1,0 +1,160 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1155424, "at": "2026-11-23T08:57:01+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+
+Énoncé
+
+1)
+
+Un article voit son prix diminuer
+successivement de 10 % puis de 20 %.
+Calculer le pourcentage global de
+diminution du prix.
+
+2)
+
+A quelle évolution globale revient une
+augmentation de 30 % suivie d’une
+diminution de 30 % ?
+
+Réponse
+
+Représenter dans le repère ci-contre la
+droite d’équation :
+𝑦 = 2𝑥 − 3
+
+3)
+
+4)
+
+La droite D représentée dans le repère
+de la question 3 a pour équation :
+
+5)
+
+Factoriser l’expression :
+(4x-2)(x+3)+2(4x-2)
+
+6)
+
+L’image de -2 par la fonction f définie
+sur ℝ par : f(x)= - x2 + 2x -3 est :
+
+7)
+
+En quel point la droite (d) d’équation
+y = -3x + 4 coupe-t-elle l’axe des
+abscisses ?
+On donne la représentation graphique de Résoudre l’inéquation x² <4
+la fonction carré :
+
+8)
+
+Résoudre l’équation x² =3
+9)
+
+4 3
+ 
+3 4
+
+10)
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 : (5 points)
+On admet qu’une croissance économique mondiale de 2 % par an nécessite une croissance
+de la consommation d’énergie comparable.
+La consommation énergétique mondiale au cours de l’année 2015 a été estimée à
+160,38 PWh (1 pétawatt-heure vaut 1017 Wh).
+Soit u0 la consommation énergétique mondiale, exprimée en PWh, en 2015, et un la
+consommation énergétique mondiale en 2015+n, sous l’hypothèse d’une croissance
+annuelle de 2 %.
+Tous les résultats seront arrondis à 10-2 près.
+1. Déterminer u1 et u2.
+2. a) Exprimer un+1 en fonction de un .
+b) Quelle est la nature de la suite (un) ?
+3. On cherche à déterminer en quelle année la consommation mondiale d’énergie
+pourrait dépasser 200 PWh. Recopier et compléter l’algorithme suivant :
+
+U ← 160,38
+n←0
+Tant que …………………
+U←…
+n←…
+Afficher …………………..
+
+4. a) Sachant que un peut s’écrire sous la forme explicite un = 160,38 × 1,02n, calculer la
+consommation énergétique annuelle en 2026.
+b) En quelle année la consommation annuelle dépasserait-elle 200 PWh ?
+
+Exercice 3 : (5 points)
+Un concours de lancement de micro-fusées est organisé tous les ans dans un lycée.
+L’équipe gagnante est celle dont la fusée atteint la plus grande altitude. Le record à ce jour
+est 16,6 mètres.
+Lors d’un vol d’essai, avec GPS embarqué mesurant l’altitude de vol, une équipe a lancé
+verticalement une de ces micro- fusées. La hauteur h exprimée en mètres en fonction du
+temps t est modélisée par l’expression h(t) = -5t2 + 20 t + 1,6.
+L’instant t = 0 marque le décollage de la fusée.
+1. En justifiant les réponses, répondre aux questions suivantes :
+a) Quelle est la hauteur de la fusée au bout de 4 s ?
+b) De quelle hauteur la fusée est-elle lancée ?
+2. On souhaite déterminer si la fusée a battu le record d’altitude.
+a) Justifier que le problème revient à résoudre l’équation : – 5t2 + 20 t – 15 > 0
+b) Montrer que – 5t2 + 20 t –15 = –5(t – 1)(t – 3)
+c) Utiliser ce qui précède pour résoudre l’inéquation – 5t2 + 20 t – 15 > 0 et vérifier
+que le record a bien été battu.
+
+Exercice 4 : (5 points)
+Une usine fabrique deux types de pièces, notées A et B, pour du matériel électrique. Les
+pièces sont fabriquées dans deux matériaux différents, métal et céramique.
+Pour la suite de l’exercice, tous les résultats seront arrondis à 10-2 près.
+On admet que, dans un stock de 10 000 pièces :
+
+40 % des pièces fabriquées sont en céramique
+30 % des pièces en céramique sont de type A
+Dans les pièces de type B, il y a autant de pièces métalliques que de pièces en
+céramique.
+
+1. Compléter le tableau en annexe.
+
+2. On prélève au hasard une pièce dans le stock, parmi les 10 000 pièces. On désigne
+par :
+
+A : l’événement « la pièce est de type A »
+
+B : l’événement « la pièce est de type B »
+
+M : l’événement « la pièce est métallique »
+
+C : l’événement « la pièce est en céramique »
+
+a) Définir par une phrase l’événement A  C puis calculer p( A  C )
+b) Calculer la probabilité que la pièce choisie soit de type A ou en céramique.
+c) Calculer la probabilité qu’une pièce soit de type B sachant qu’elle est en métal. On
+utilisera l’écriture mathématique adaptée.
+
+Annexe à rendre avec la copie
+Exercice 4
+
+de type A
+
+de type B
+
+Total
+
+métalliques
+en céramique
+Total

@@ -1,0 +1,165 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1134750, "at": "2026-11-23T08:55:14+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les cinq questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondant à la réponse choisie. Aucune justification n’est demandée.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une absence de
+réponse n’apporte ni ne retire de point.
+Question 1
+Lors d’une même expérience aléatoire, deux événements 𝐴 et 𝐵 vérifient :
+𝑃(𝐴) = 0,4
+
+;
+
+𝑃(𝐵) = 0,6
+
+;
+
+𝑃(𝐴 ∩ 𝐵̅ ) = 0,3
+
+Alors :
+a) 𝑃(𝐴 ∩ 𝐵) = 0,1
+
+b) 𝑃(𝐴 ∩ 𝐵) = 0,24
+
+c) 𝑃(𝐴 ∪ 𝐵) = 1
+
+d) 𝑃(𝐴 ∪ 𝐵) = 0,7
+
+Question 2
+On considère la fonction 𝑓 définie sur ℝ par 𝑓(𝑥) = 𝑥 2 − 3𝑥 + 4 . L’abscisse du minimum
+de 𝑓 est :
+
+a) − 2
+
+b) 3
+
+c)
+
+d) 1
+
+Question 3
+Soit (𝑢𝑛 ) une suite arithmétique telle que 𝑢5 = 26 et 𝑢9 = 8. La raison de (𝑢𝑛 ) vaut :
+a) −18
+
+b) 26
+
+c) 4,5
+
+d) −4,5
+
+Question 4
+On considère l’algorithme suivant, écrit en langage usuel :
+Suite(N)
+A  10
+Pour k de 1 à N
+A  2*A-4
+Fin Pour
+Renvoyer A
+Pour la valeur 𝑁 = 4 le résultat affiché sera :
+a) 4
+
+b) 100
+
+c) 52
+
+d) 196
+
+Question 5
+On considère un rectangle 𝐴𝐵𝐶𝐷 tel que 𝐴𝐵 = 3 et 𝐴𝐷 = 2.
+
+Alors le produit scalaire ⃗⃗⃗⃗⃗
+𝐴𝐶 ⋅ ⃗⃗⃗⃗⃗⃗
+𝐷𝐵 vaut :
+a) 0
+
+b) 5
+
+c) 6
+
+d) −6
+
+Exercice 2 (5 points)
+Un industriel souhaite fabriquer une boîte sans couvercle à partir d’une plaque de métal de
+18 cm de largeur et de 24 cm de longueur. Pour cela, il enlève des carrés dont la longueur
+du côté mesure 𝑥 cm aux quatre coins de la pièce de métal et relève ensuite verticalement
+pour fermer les côtés.
+
+Le volume de la boîte ainsi obtenue est une fonction définie sur l’intervalle [0 ; 9] notée
+𝒱(𝑥).
+1. Justifier que pour tout réel 𝑥 appartenant à [0 ; 9] : 𝒱(𝑥) = 4𝑥 3 − 84𝑥 2 + 432𝑥.
+2. On note 𝒱′ la fonction dérivée de 𝒱 sur [0 ; 9]. Donner l’expression de 𝒱 ′ (𝑥) en
+fonction de 𝑥.
+3. Dresser alors le tableau de variations de 𝒱 en détaillant la démarche.
+4. Pour quelle(s) valeur(s) de 𝑥 la contenance de la boîte est-elle maximale ?
+5. L’industriel peut-il construire ainsi une boîte dont la contenance est supérieure ou
+égale à 650 cm3 ? Justifier.
+
+Exercice 3 (5 points)
+Une angine peut être provoquée soit par une bactérie (angine bactérienne) soit par un virus
+(angine virale). On admet qu’un malade ne peut pas être à la fois porteur du virus et de la
+bactérie. L’angine est bactérienne dans 20% des cas.
+Pour déterminer si une angine est bactérienne, on dispose d’un test. Le résultat du test peut
+être positif ou négatif. Le test est conçu pour être positif lorsque l’angine est bactérienne
+mais il présente des risques d’erreur :
+ si l’angine est bactérienne, le test est négatif dans 30% des cas
+ si l’angine est virale, le test est positif dans 10% des cas
+On choisit au hasard un malade atteint d’angine. On note :
+
+
+
+𝐵 l’événement : « l’angine est bactérienne » ;
+𝑇 l’événement : « le test effectué sur le malade est positif ».
+
+Si besoin, les résultats seront arrondis à 10−3 près.
+1.
+2.
+3.
+4.
+
+Représenter la situation par un arbre pondéré.
+Quelle est la probabilité que l’angine soit bactérienne et que le test soit positif ?
+Montrer que la probabilité que le test soit positif est 0,22.
+Un malade est choisi au hasard parmi ceux dont le test est positif. Quelle est la
+probabilité pour que son angine soit bactérienne ?
+
+Exercice 4 (5 points)
+Un service de vidéos à la demande réfléchit au lancement d’une nouvelle série mise en ligne
+chaque semaine et qui aurait comme sujet le quotidien de jeunes gens favorisés.
+Le nombre de visionnages estimé la première semaine est de 120 000. Ce nombre
+augmenterait ensuite de 2% chaque semaine.
+Les dirigeants souhaiteraient obtenir au moins 400 000 visionnages par semaine.
+On modélise cette situation par une suite (𝑢𝑛 ) où 𝑢𝑛 représente le nombre de visionnages 𝑛
+semaines après le début de la diffusion. On a donc 𝑢0 = 120 000.
+1. Calculer le nombre 𝑢1 de visionnages une semaine après le début de la diffusion.
+2. Justifier que pour tout entier naturel 𝑛 : 𝑢𝑛 = 120 000 × 1,02𝑛 .
+3. À partir de combien de semaines le nombre de visionnages hebdomadaire sera-t-il
+supérieur à 150 000 ?
+4. Voici un algorithme écrit en langage Python :
+
+Déterminer la valeur affichée par cet algorithme et interpréter le résultat précédent
+dans le contexte de l’exercice.
+5. On pose pour tout entier naturel 𝑛 : 𝑆𝑛 = 𝑢0 + ⋯ + 𝑢𝑛 . Montrer que l’on a :
+𝑆𝑛 = 6 000 000 × (1,02𝑛+1 − 1)
+Puis en déduire le nombre total de visionnages au bout de 52 semaines (arrondir à
+l’unité).

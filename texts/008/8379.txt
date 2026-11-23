@@ -1,0 +1,210 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1460020, "at": "2026-11-23T08:55:32+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Terminale
+EC : ☐ EC1 ☐ EC2 ☒ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+MOTS-CLES :
+AUTOMATISMES : Toutes catégories
+EXERCICE 1 : Suites Numériques
+EXERCICE 2 : Fonction Exponentielle
+EXERCICE 3 : Probabilités Conditionnelles
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+Mathématiques : PARTIE I
+Automatismes
+
+Sans calculatrice
+
+Durée 20 minutes
+
+Exercice 1 (5 points)
+Enoncé
+
+Réponse
+
+1)
+Calculer 30 % de 150.
+2)
+
+Dans une classe de Terminale, il y a 40 % de filles et, parmi
+ces filles, 40 % ont 18 ans. Calculer le pourcentage de filles
+qui ont 18 ans dans cette classe.
+
+3)
+
+On s’intéresse à la répartition des élèves d’un lycée
+polyvalent selon la voie choisie :
+Voie
+
+générale
+
+technologique
+
+professionnelle
+
+Effectif
+
+effectif des élèves du lycée selon la voie
+choisie
+effectif
+
+4)
+
+générale
+
+technologique
+
+Ecrire sous la forme
+d’une fraction
+irréductible la
+proportion d’élèves
+qui suivent la voie
+professionnelle.
+
+Compléter le
+graphique ci-contre
+pour représenter
+l’effectif des élèves
+qui suivent la voie
+technologique.
+
+professionnelle
+
+5)
+
+Un prix P a augmenté de 8,6%. Déterminer l’expression du
+prix après augmentation en fonction de P.
+
+6)
+
+Les températures sont passées de 30°C à 18°C en une
+semaine. Déterminer, pour cette semaine, l’évolution de la
+température en pourcentage.
+
+7)
+
+On a représenté ci-dessous une fonction f sur [-2 ;8].
+On répondra avec la précision permise par ce graphique.
+
+8)
+
+Compléter :
+𝑓(1) ≈ ⋯
+Dresser le tableau de
+variations de f sur
+l’intervalle [−2 ; 8].
+
+9)
+Développer et réduire (3𝑎 − 5)2.
+10)
+
+Donner les deux antécédents de zéro par la fonction 𝑓 définie
+sur ℝ par 𝑓(𝑥) = 5(2𝑥 − 4)(𝑥 + 7).
+
+Mathématiques : PARTIE II
+Cette partie est composée de trois exercices indépendants.
+Calculatrice autorisée.
+Exercice 2 : (5 points)
+Lors d’une épidémie, on observe que :
+
+35% des malades ont consulté un médecin le jour de l’apparition des
+symptômes ; parmi ceux-ci, 97% ont été guéris dans la semaine qui a suivi cette
+apparition ;
+30% des malades ont consulté un médecin le lendemain de l’apparition des
+symptômes ; 65% d’entre eux ont été guéris dans la semaine ;
+les 35% restant ont consulté un médecin au bout de deux jours ; seuls 46%
+d’entre eux ont été guéris dans la semaine suivant l’apparition des symptômes.
+
+On considère que le traitement prescrit débute le jour même de la consultation médicale.
+Tous les malades ont la même chance d’être interrogés et on questionne un malade choisi
+au hasard.
+On considère les évènements suivants :
+– A : « Le malade a consulté le jour de l’apparition des symptômes ».
+– B : « Le malade a attendu un jour avant de consulter ».
+– C : « Le malade a attendu deux jours avant de consulter ».
+– G : « Le malade a été guéri dans la semaine qui a suivi l’apparition des symptômes ».
+–̅
+G : l’évènement contraire de G.
+1. Recopier et compléter l’arbre de probabilités
+ci-contre qui décrit la situation.
+2. Calculer la probabilité que le malade ait consulté dès
+l’apparition des symptômes et qu’il soit guéri dans la
+semaine.
+3. Montrer que la probabilité que le malade soit guéri
+dans la semaine qui suit l’apparition des symptômes est
+égale à 0,6955.
+4. Les évènements A et G sont-ils indépendants ?
+
+5. Un malade n’a pas été guéri dans la semaine suivant l’apparition des symptômes. Quelle
+est la probabilité pour qu’il ait attendu exactement un jour avant la consultation médicale ?
+On arrondira le résultat au millième.
+Exercice 3 : (5 points)
+En 2015 est apparue une maladie dans un pays ; 300 malades sont recensés en 2015.
+Pour le moment, seul un médicament permet de traiter une partie des symptômes de cette
+maladie mais sans la guérir.
+
+1. On admet que l’on peut modéliser le nombre de malades par une suite (𝑢𝑛 ) géométrique
+de raison 1,12 .
+On note 𝑢0 le nombre de cas en 2015, 𝑛 le nombre d’années écoulées depuis 2015 et 𝑢𝑛 le
+nombre de nouveaux cas en 2015 + 𝑛.
+a. Calculer 𝑢1 .
+b. Exprimer 𝑢𝑛 en fonction de 𝑛.
+c. Quelle est l’estimation du nombre de nouveaux cas que l’on peut faire pour 2025 si la
+progression reste identique ? On arrondira le résultat à l’entier.
+2. On pose :
+𝑘=5
+
+𝑆5 = ∑ 𝑢𝑘
+𝑘=0
+
+a. Interpréter la valeur de 𝑆5 en fonction du contexte.
+b. On se place à la fin de l’année 2025 : à combien peut-on estimer le nombre total de
+personnes qui auront contracté la maladie depuis son apparition ? On arrondira le
+résultat à l’entier.
+
+Exercice 4 : (5 points)
+On étudie l’évolution durant 4 minutes du nombre de germes lors de la pasteurisation d’un
+échantillon de lait réalisée à une température de 65°C.
+On note 𝑡 est le temps, exprimé en secondes, écoulé depuis le début de la pasteurisation et
+on note 𝑁(𝑡) le nombre de germes exprimé en millions.
+Après une étude expérimentale on décide de modéliser le nombre de germes exprimé en
+millions par 𝑁(𝑡) = 0,98𝑡 .
+1. Calculer 𝑁(0).
+2. Déterminer le sens de variation de la fonction 𝑁 sur l’intervalle [0 ; 240].
+3. Résoudre l’inéquation 𝑁(𝑡)  0,05.
+4. En déduire le temps, arrondi à la seconde, au bout duquel le nombre de germes devient
+inférieur à 50 000.
+5. On considère l’algorithme ci-dessous rédigé en Python et l’affichage obtenu quand on
+saisit l’instruction resol(0.01) dans la console.
+Interpréter ce résultat dans le contexte de l’exercice.
+
+algorithme
+
+console
+
+def resol(p) :
+
+>>>resol(0.01)
+
+n=0
+
+u=1
+while u>p :
+n=n+1
+u=0.98*u
+return n

@@ -1,0 +1,183 @@
+{"pages": 10, "method": "pdftotext", "bytes": 875064, "at": "2026-11-23T08:57:26+00:00"}
+Mathématiques : PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : automatismes (5 points)
+Répondre sur le sujet
+1. Un agriculteur a produit 60 tonnes de blé en 2018 dont 18 tonnes avec la
+certification « Agriculture biologique ».
+Calculer la part en pourcentage pour l’année 2018, de la production certifiée
+« agriculture biologique » parmi la production totale de cet agriculteur.
+Réponse à la question 1 :
+
+2. Soit 𝑓 la fonction définie sur ℝ par :
+
+𝑓(𝑥) = 5 𝑥 − 4.
+
+La courbe 𝐶𝑓 représente la fonction f dans un repère et a pour équation = 5 𝑥 − 4 .
+
+a. Déterminer l’image de 3 par la fonction 𝑓.
+Réponse à la question 2 a. :
+
+b. Calculer l’abscisse du point 𝐴 d’ordonnée 0 de la courbe 𝐶𝑓 .
+Réponse à la question 2 b. :
+
+3. Le volume 𝑉 d’un cône est donné par la formule suivante :
+𝑉=
+
+𝜋𝑅 2 ℎ
+
+avec 𝑅 le rayon de la base, ℎ la hauteur du cône.
+Exprimer le rayon 𝑅 en fonction du volume 𝑉 et de la hauteur ℎ du cône.
+Réponse à la question 3 :
+
+4. On considère la fonction f définie sur [−2,5 ; 2] dont la courbe représentative Cf
+est donnée ci-dessous.
+
+a. Une seule des affirmations suivantes est vraie, laquelle ?
+Affirmation 1 : la fonction f est croissante sur [−1 ; −0,5].
+Affirmation 2 : la fonction f est croissante sur [1 ; 1,5].
+Affirmation 3 : la fonction f est croissante sur [0 ; 1,5].
+Réponse à la question 4 a. :
+
+b. Dresser le tableau de signes de la fonction f définie sur [−2,5 ; 2]
+Réponse à la question 4 b. :
+
+5. On considère, dans un repère orthonormé, les points A (−1 ; 3) et B (4 ; 13)
+Déterminer l’équation réduite de la droite (AB).
+Réponse à la question 5 :
+
+6. Développer et réduire l’expression suivante :
+𝐴 = (𝑥 + 3)2 − 4(2𝑥 − 1)
+Réponse à la question 6 :
+
+7. Dans un repère, on considère la courbe d’équation 𝑦 = 2𝑥 2 − 3𝑥 + 1.
+On note A le point d’abscisse −1 de cette courbe.
+Calculer l’ordonnée du point A.
+Réponse à la question 7 :
+
+8. Une agence bancaire a étudié pendant un mois le nombre de retraits d’argent
+effectués auprès de distributeurs automatiques de ses 7 500 clients. Les résultats
+sont présentés sous la forme d’un diagramme circulaire.
+Répartition des clients selon leur nombre de retraits d’argent effectués auprès de
+distributeurs automatiques, pendant un mois.
+4 retraits ou
+plus
+11%
+
+Aucun
+retrait
+12%
+1 retrait
+19%
+
+3 retraits
+22%
+
+2 retraits
+36%
+
+Calculer le nombre de clients n’ayant effectué aucun retrait d’argent auprès de
+distributeurs automatiques.
+
+Réponse à la question 8 :
+
+Mathématiques : PARTIE II
+Calculatrice autorisée.
+Cette partie comporte trois exercices indépendants.
+Exercice 2 : (5 points)
+En France, certaines personnes âgées dépendantes bénéficient de l’allocation
+personnalisée d’autonomie (APA).
+En décembre 2017, 1 309 916 personnes âgées dépendantes ont bénéficié de l’APA
+alors qu’elles étaient 1 286 472 à en bénéficier un an plus tôt, c’est-à-dire en
+décembre 2016 (Source DREES, Enquêtes Aide sociale).
+1. Calculer le taux d’évolution du nombre de personnes bénéficiaires de l’APA
+entre décembre 2016 et décembre 2017. Le résultat sera exprimé en
+pourcentage et arrondi à 0,01 % près.
+2. Pour tout entier naturel 𝑛, 𝑢𝑛 représente le nombre de personnes, exprimé en
+milliers, bénéficiant de l’APA en décembre 2017 + 𝑛. On considère ainsi que
+𝑢0 = 1310.
+On suppose que le nombre de bénéficiaires de l’APA augmente chaque année
+de 1,8 % à partir de l’année 2017.
+On utilise un tableur pour calculer les termes de la suite (𝑢𝑛 ) ainsi définie :
+
+a. Calculer 𝑢1 . Interpréter le résultat dans le contexte de l’exercice.
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser la raison de cette suite.
+c. Parmi les 4 formules proposées, donner la formule qu’il faut saisir dans la
+cellule C3, puis étirée vers le bas afin d’afficher les valeurs de 𝑢𝑛 .
+= 1310*1,018
+= C$2*1,018
+= $C$2*1,18
+= C2*1,018
+d. Quel nombre de personnes, exprimé en milliers, bénéficiant de l’APA peut-on
+prévoir en 2021 en suivant le modèle retenu ?
+
+Exercice 3 : (5 points)
+Suite à une augmentation du nombre de personnes malades dans un village, une
+organisation de santé a mis en place une campagne de vaccination dès septembre
+2018.
+Les données mensuelles relevées entre le 1er septembre 2018 et le 1er janvier 2020
+ont permis d’obtenir une courbe C représentant la part en pourcentage des
+personnes malades dans le village en fonction du temps 𝑡, écoulé depuis le 1er
+septembre 2018 et exprimé en mois. Cette courbe C est fournie en annexe 1, qui
+est à rendre avec la copie.
+1. Déterminer graphiquement la part en pourcentage des personnes malades
+dans le village le 1er septembre 2018.
+2. Déterminer graphiquement pendant combien de mois la part en pourcentage
+des personnes malades dans le village sera supérieure ou égale à 40 % entre
+le 1er septembre 2018 et le 1er janvier 2020. On laissera les traits de
+construction apparents sur l’annexe 1 qui est à rendre avec la copie.
+Dans la suite de l’exercice, on admet que la fonction 𝑝 définie sur l’intervalle [0 ; 24]
+par :
+𝑝(𝑡) = −0,2𝑡 2 + 3,6𝑡 + 28,8
+modélise cette situation où 𝑡 désigne le temps écoulé depuis le 1er septembre 2018
+et exprimé en mois et 𝑝(𝑡), la part en pourcentage des personnes malades dans ce
+village à cet temps 𝑡.
+La courbe 𝐶𝑝 donnée en annexe 3, qui est à rendre avec la copie, représente la
+fonction 𝑝 sur l’intervalle [0 ; 16].
+3. Compléter le tableau figurant sur l’annexe 2 qui est à rendre avec la copie.
+4. Compléter le graphique de l’annexe 3 qui est à rendre avec la copie, en
+traçant une allure de la courbe représentative de la fonction 𝑝 sur [16 ; 24].
+5. Déterminer l’année et le mois durant lequel il n’y a plus de personnes malades
+dans le village.
+
+Exercice 4 : (5 points)
+On injecte un médicament dans le sang d’un malade et on mesure pendant 12
+heures la concentration en milligrammes par litre de ce médicament dans le sang.
+On estime que le médicament n’est plus considéré comme actif lorsque sa
+concentration est inférieure ou égale à 0,2 mg par litre.
+On admet que la concentration peut être modélisée par la fonction 𝑓 définie sur
+l’intervalle [0 ; 12] par :
+𝑓(𝑥) = 0,01𝑥 2 − 0,32𝑥 + 2,4
+où 𝑥 représente le nombre d’heures écoulées depuis l’instant où le médicament a été
+injecté et 𝑓(𝑥) la concentration, en milligrammes par litre, de ce médicament dans le
+sang.
+On note 𝑓 ′ la fonction dérivée de la fonction 𝑓 définie sur l’intervalle [0 ; 12].
+1. Calculer 𝑓 ′ (𝑥) pour tout réel 𝑥 de l’intervalle [0 ; 12].
+2. Dresser le tableau de signes de 𝑓 ′ sur l’intervalle [0 ; 12] et en déduire le
+tableau de variations de la fonction 𝑓 sur l’intervalle [0 ; 12].
+3. Montrer que l’équation 𝑓(𝑥) = 0,2 équivaut à l’équation 0,01(𝑥 − 10)(𝑥 − 22) =
+0.
+4. Résoudre l’équation 𝑓(𝑥) = 0,2 dans [0 ; 12].
+5. Au bout de combien de temps depuis l’injection du médicament, ce médicament
+n’est plus considéré comme actif ? Justifier.
+
+ANNEXE à remettre avec la copie
+
+Annexe 1 – Exercice 3 – Courbe représentative C
+
+Annexe 2 – Exercice 3 – Tableau de valeurs
+𝑡
+𝑝(𝑡)
+
+32.2
+
+28,8
+
+20,8
+
+16,2
+
+Annexe 3 – Exercice 3 – Courbe de p à compléter sur [𝟏𝟔 ; 𝟐𝟒].

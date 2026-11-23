@@ -1,0 +1,172 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1297889, "at": "2026-11-23T08:58:18+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+
+Réponse
+
+1)
+
+Lors de la préparation de sa tournée, une
+infirmière libérale, constate que sur ses 40
+patients 35 % des patients sont des femmes
+sexagénaires.
+Combien y a-t-il de femmes sexagénaires ?
+
+2)
+
+Donner la fraction irréductible égale à 16 × 9.
+
+3)
+
+Résoudre dans ℝ : −4𝑥 + 3 < 7 − 𝑥.
+
+4)
+
+Développer et réduire (𝑥 + 3)2 − 𝑥 2 .
+
+5)
+
+Un prix est multiplié par 1,01. Donner son
+évolution en pourcentage.
+
+6)
+
+Donner l’équation réduite de la droite passant
+par les points A(0 ; 2) et B(−1 ; 5).
+
+7)
+
+𝐶 est la courbe représentative d’une fonction f
+définie sur[−2 ; 2].
+Compléter par lecture graphique.
+L’image de 0 par f est ……
+
+𝐶
+
+L’ensemble des solutions de
+l’équation 𝑓(𝑥) = 1 est …….
+
+8)
+
+9)
+
+Donner le tableau de signe de l’expression
+suivante :
+𝐴 = 2𝑥 − 9
+
+Donner le tableau de signe de l’expression
+10) suivante :
+𝐵 = (𝑥 − 5)(2𝑥 − 9)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un laboratoire pharmaceutique souhaite tester le temps de réaction d’un nouvel
+antibiotique contre le bacille de Koch responsable de la tuberculose. Pour cela, on dispose
+d’une culture de 1010 bactéries dans laquelle on introduit l’antibiotique. On remarque que le
+nombre de bactéries est divisé par quatre toutes les heures.
+Partie A
+On a créé la feuille de calcul suivante donnant le nombre de bactéries au bout de 𝑛 heures
+après la mise en culture :
+A
+B
+Nombre d’heures 𝑛
+Nombre de bactéries
+1010
+1. Quelle formule doit-on entrer dans la cellule B3, pour calculer le nombre de bactéries
+au bout d’une heure, de sorte qu’en recopiant cette formule vers le bas on puisse
+compléter les lignes suivantes ?
+2. Sans la déterminer, que représente concrètement la valeur qu’il y aura dans la cellule
+B18 ?
+Partie B
+On note 𝑢0 le nombre de bactéries au moment de l’introduction de l’antibiotique. Soit 𝑢𝑛 le
+nombre de bactéries contenues dans la culture, 𝑛 heures après l’introduction de
+l’antibiotique.
+1. Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 pour tout entier
+def suite()
+naturel 𝑛.
+𝑈 = 1010
+2. Quelle est la nature de cette suite ? Déterminer sa
+while 𝑈 … 100:
+raison.
+𝑈 =…
+𝑁 =.…
+3. Recopier et compléter l’algorithme ci-contre en
+return …
+Python, qui donne le nombre d’heures à partir
+duquel le nombre de bactéries deviendra inférieur à
+100.
+
+Exercice 3 (5 points)
+Une épidémie a frappé les habitants d’une ville.
+
+La courbe ci-dessus, notée 𝐶, représente le nombre de personnes malades au cours du
+temps exprimé en jours, sur une période de 30 jours.
+1. On répondra aux questions suivantes avec la précision permise par le graphique.
+a. Déterminer le nombre de malades le cinquième jour.
+b. Sur quel(s) intervalle(s) de temps, le nombre de malades est-il inférieur ou égale
+à 25 % de son maximum ?
+2. On modélise le nombre de personnes malades en fonction du temps 𝑡, exprimé en
+jours, à l’aide de la fonction 𝑓 définie sur [0 ; 30] par :
+𝑓(𝑡) = −𝑡 3 + 30𝑡 2
+a. On admet que la fonction 𝑓 est dérivable sur [0 ; 30] et on désigne par 𝑓 ′ sa
+dérivée. Montrer que 𝑓 ′ (𝑡) = 3𝑡(20 − 𝑡).
+b. En déduire le tableau de variations de 𝑓 sur [0 ; 30].
+c. Calculer 𝑓 ′ (10) et en déduire l’équation réduite de la tangente T à la courbe 𝐶 au
+point d’abscisse 10.
+
+Exercice 4 (5 points)
+On s’intéresse aux individus possédant les deux allèles d’un gène, notés A et a. L’allèle A est
+supposé dominant et l’allèle a récessif. Les deux allèles se répartissent le long du gène selon
+4 configurations possibles : A-A, A-a, a-A et a-a. On admet que ces répartitions sont
+aléatoires et équiprobables.
+Les individus dont le génotype contient au moins un allèle A, présentent l’expression
+dominante ; ceux de génotype aa présentent l’expression récessive.
+On choisit un individu au hasard dans la population.
+On note :
+ 𝐸 l’évènement « l’individu possède au moins un allèle a ».
+ 𝐹 l'évènement « l'individu présente l'expression récessive ».
+1. Calculer les probabilités de 𝐸 et de 𝐹.
+2. Dans la population, on choisit un individu au hasard et on répète trois fois
+l’expérience de façon identique.
+On note 𝑋 la variable aléatoire donnant le nombre d’individus présentant
+l’expression récessive.
+a. Montrer que 𝑃(𝑋 = 3) = 0,015625.
+b. Montrer que 𝑃(𝑋 = 0) = 0,421875.
+c. On donne la loi de probabilité de la variable aléatoire 𝑋 :
+𝑘
+𝑃(𝑋 = 𝑘)
+
+0,421875 0,421875 0,140625
+
+0,015625
+
+Un couple a trois enfants. Est-il vrai qu’il y a plus de 60% de chance qu’au moins
+un des enfants présente l’expression récessive ?
+d. Calculer l'espérance de la variable aléatoire 𝑋 et interpréter le résultat.

@@ -1,0 +1,196 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1049226, "at": "2026-11-23T08:53:26+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+
+Énoncé
+
+Réponse
+
+Le prix d’un forfait téléphonique à 5 € vient de passer à 9 €.
+Calculer le taux d’évolution du prix en pourcentage.
+
+Le débit d’un fleuve est de 200 𝑚3 /𝑠.
+Combien de litres d’eau s’écoulent en 1 heure ?
+
+Écrire l’expression 𝐴 sous la forme 10𝑛 , où 𝑛 est un nombre
+entier relatif :
+𝐴 = 10−4 × (102 )3
+
+Calculer la dérivée de la fonction 𝑓 définie sur R par
+𝑓(𝑥) = 4𝑥 3 − 2𝑥² + 100
+
+Donner la fraction irréductible égale à
+11 5
++
+10 6
+
+Donner les solutions réelles de l'équation
+(2𝑥 + 4)(5𝑥 − 3) = 0
+
+Résoudre l’inéquation 3𝑥 − 4 ≥ 11
+
+La fonction 𝑓 est définie sur l’intervalle [−3,5 ; 4].
+Sa courbe représentative est donnée ci-dessous.
+
+Par lecture graphique, résoudre l’équation 𝑓(𝑥) = 1.
+
+Une population de 10 000 bactéries est mise en culture. Après
+une heure, le nombre de bactéries est passé à 12 000. On
+estime que d’heure en heure le nombre de bactéries est
+toujours multiplié par le même nombre.
+Pour tout entier naturel 𝑛, on nomme 𝑢𝑛 le nombre de bactéries
+en culture après 𝑛 heures écoulées. On a donc en particulier
+𝑢0 = 10 000 et 𝑢1 = 12 000.
+Exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 et donner la raison de la suite.
+
+Pour tout entier
+naturel 𝑛,
+𝑢𝑛+1 = … … × 𝑢𝑛
+La raison de cette
+suite est :
+𝑞= …
+
+Lors d'un sondage réalisé auprès de 200 élèves de séries
+technologiques, on a recueilli la durée des études que chacun
+envisageait après le Baccalauréat. Le diagramme en barres cidessous présente les résultats de cette enquête.
+Indiquer le pourcentage d'élèves interrogés qui envisagent une
+poursuite d'étude d'au moins 3 ans.
+
+Effectifs des réponses au sondage
+2 ans
+
+3 ans
+
+4 ans
+
+5 ans ou plus
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Le bruit est une vibration de l’air qui se
+propage dans toutes les directions à partir
+de la source sonore. Le niveau sonore se
+mesure en décibel (dB), il correspond à
+une grandeur liée à la puissance sonore.
+Voici quelques exemples de niveaux
+sonores ainsi que les différents seuils
+(audibilité, confort, danger et douleur).
+
+Bruit
+Avion au décollage
+Seuil de douleur
+Concert
+Seuil de danger
+Restaurant scolaire
+Seuil de confort
+Aspirateur
+Chuchotements
+Seuil d’audibilité
+
+Niveau sonore en dB
+130 dB
+120 dB
+110 dB
+90 dB
+85 dB
+80 dB
+70 dB
+20 dB
+0 dB
+
+À l'aide d'un sonomètre, on a mesuré le
+niveau sonore d’une certaine fréquence lors d'un concert en plein air. Pour cela, on a
+placé le sonomètre à différentes distances de la scène sur laquelle se trouvent les
+haut-parleurs qui diffusent la musique.
+Ces mesures ont montré que le niveau sonore 𝑓(𝑥), en décibel (dB), obtenu pour
+une distance de 𝑥 mètres, est donné par la relation :
+𝑓(𝑥) = 100 + 10 log ( 2 ) , où 𝑥 ∈ [1; 250].
+𝑥
+
+1. Démontrer que, pour tout 𝑥 dans [1 ; 250], 𝑓(𝑥) = 120 − 20 log(𝑥).
+2. Quelle est le niveau sonore à 1 mètre de la scène ? Ce niveau sonore est-il
+acceptable pour une personne non protégée ?
+3. Pour ne pas endommager son audition, il est souhaitable que le niveau sonore
+reste inférieur à 80 dB. À quelle distance minimale de la scène doit-on se placer pour
+profiter de ce concert en toute sécurité ?
+4. Une famille avec un jeune enfant souhaite profiter du spectacle. Les parents
+savent qu’ils ne doivent pas exposer leur enfant à un niveau sonore supérieur à
+70 dB. Dans ce but, ils disposent de bouchons d’oreilles anti-bruit qui atténuent de
+15 dB le niveau sonore. La famille commence à s’installer à 50 mètres de la scène.
+Justifier que cette distance est insuffisante et calculer de combien de mètres ils
+doivent reculer.
+
+Exercice 3 (5 points)
+Le jour de la naissance de Léo, le 1er janvier 2020, ses grands-parents décident de
+placer une somme de 2 000 € sur un compte à son intention.
+Le 1er janvier de chaque année, le capital de ce compte est augmenté de 3 % du
+capital de l'année précédente.
+On modélise le capital en euro disponible le 1er janvier de l'année 2020 + 𝑛 par le
+terme général d’une suite (𝑢𝑛 ). Ainsi 𝑢0 = 2000.
+1. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser ses éléments caractéristiques.
+2. Calculer 𝑢1 et 𝑢2 .
+3. Exprimer, pour un entier 𝑛 quelconque, 𝑢𝑛 en fonction de 𝑛.
+4. Quel sera le capital de Léo, arrondi à l'euro près, le jour de ses 18 ans ?
+5. On considère la fonction écrite ci-dessous en langage Python :
+def capital() :
+n=0
+u = 2000
+while u<4000 :
+n = n+1
+u = 1.03*u
+return n
+L’appel de cette fonction capital() renvoie la valeur 24. Interpréter cette valeur
+dans le contexte de l’exercice
+
+Exercice 4 (5 points)
+Pour traiter cet exercice, on peut utiliser un arbre probabiliste pondéré.
+Une grande enseigne de distribution vend sous sa propre marque des yaourts. Ces
+yaourts sont produits dans deux usines : l’usine A et l’usine B. Un contrôle de la
+qualité de la production a montré que 1 % des yaourts de l’usine A et 0,4 % des
+yaourts de l’usine B sont impropres à la vente.
+Dans un des magasins de l’enseigne, 40 % des yaourts proviennent de l’usine A et
+60 % des yaourts proviennent de l’usine B.
+On prélève au hasard dans ce magasin un de ces yaourts. On définit les évènements
+suivants :
+
+𝐴 : « le yaourt provient de l’usine A » ;
+𝐵 : « le yaourt provient de l’usine B ;
+𝐼 : « le yaourt est impropre à la vente ».
+
+1. Donner, sans justification, les probabilités 𝑝(𝐴), 𝑝(𝐵), 𝑝𝐵 (𝐼) et 𝑝𝐴 (𝐼̅).
+2. Calculer la probabilité que le yaourt prélevé provienne de l’usine B et soit impropre
+à la vente.
+3. Exprimer à l’aide d’une phrase l’événement 𝐵 ∪ 𝐼 et calculer la probabilité de cet
+événement.
+4. Démontrer que la probabilité que le yaourt prélevé soit impropre à la vente vaut
+0,0064.
+5. La directrice du magasin constate que le yaourt prélevé est impropre à la vente et
+déclare qu’il y a 40 % de chances pour que ce yaourt provienne de l’usine A.
+A-t-elle raison ? Argumenter la réponse.

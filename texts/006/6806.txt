@@ -1,0 +1,210 @@
+{"pages": 6, "method": "pdftotext", "bytes": 788130, "at": "2026-11-23T08:57:39+00:00"}
+Mathématiques : PARTIE I
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 : automatismes (5 points)
+Énoncé
+
+Réponse
+
+1. Soit 𝑥 un réel non nul. Déterminer la valeur de 𝑥 dans l'égalité
+5 4
+=
+7 𝑥
+2. Écrire sous la forme 10𝑛 , où 𝑛 est un entier relatif, le nombre
+𝐴=
+
+0,001 × 0,01
+10000
+
+3. Ranger les fractions suivantes dans l’ordre croissant
+5 5 3 4
+; ; ;
+6 4 4 3
+4. Le diagramme en boite suivant représente le temps d'attente des
+clients à la caisse d'un supermarché le samedi matin.
+
+a. Quel est le temps d'attente maximum ?
+b. Quel est le temps d'attente médian ?
+c. Déterminer le premier quartile.
+5. Déterminer le coefficient directeur de la droite passant par les
+points de coordonnées (1 ; 5) et (3 ; 2).
+
+6.
+
+On considère la représentation graphique d'une fonction 𝑓définie
+sur l'intervalle [−1 ; 5] dans un repère orthogonal.
+Les questions a. et b. sont des questions à choix multiples. Parmi
+les affirmations proposées, une ou plusieurs sont justes.
+Entourer la (les) affirmation(s) juste(s) avec la précision permise
+par le graphique.
+Entourer la (les)
+affirmation(s)
+juste(s) :
+
+a.
+A
+
+B
+
+C
+
+4 est l'image
+de 2 par la
+
+0 est un
+2 est l'image
+antécédent de de 0 par la
+1 par la
+
+D
+3 est un
+antécédent de
+0 par la
+
+b. Sur l’intervalle [−1 ; 5],
+A l’équation
+𝑓(𝑥) = 1
+admet une
+seule solution.
+
+B 2 est une
+solution de
+l’équation
+𝑓(𝑥) = 0.
+
+C 4 est une
+solution de
+l'équation
+𝑓(𝑥) = 2.
+
+Dl’équation
+𝑓(𝑥) = 0
+admet
+exactement
+deux solutions.
+
+A B C D
+
+Entourer la (les)
+affirmation(s)
+juste(s) :
+A B C D
+
+c. Déterminer l'ensemble des solutions de l'inéquation 𝑓(𝑥) ⩽ 2.
+
+Mathématiques : PARTIE II
+
+Calculatrice autorisée
+Cette partie se compose de trois exercices indépendants.
+Exercice 2 (5 points)
+Une entreprise fabrique un engrais liquide biologique.
+Chaque jour, la quantité d'engrais fabriquée est comprise entre 8 m3 et 80 m3.
+Le coût total de production, exprimé en centaine d'euros, de 𝑥 mètres cubes
+d'engrais est modélisé par la fonction
+𝐶(𝑥) = 𝑥 2 – 15𝑥 + 400 où 𝑥 ∈ [8 ; 80]
+1. Un mètre cube d'engrais est vendu 7 000 euros.
+
+La recette totale, exprimée en centaine d'euros, de 𝑥 mètres cubes d'engrais
+est donnée par le nombre 𝑅(𝑥).
+Justifier que, pour tout 𝑥 de [8 ; 80], 𝑅(𝑥) = 70𝑥.
+2. On rappelle que le bénéfice s'obtient en soustrayant les coûts aux recettes.
+
+En déduire que le bénéfice, selon le nombre de mètres cubes d'engrais
+vendus, est défini sur [8 ; 80] par :
+𝐵(𝑥) = −𝑥 2 + 85𝑥– 400
+3. On admet que la fonction 𝐵 est dérivable sur [8 ; 80] et l’on note 𝐵 ′ sa fonction
+
+dérivée.
+Déterminer la fonction 𝐵′.
+4. Donner, en justifiant la démarche, le tableau de variations de la fonction 𝐵 sur
+
+l’intervalle [8 ; 80].
+
+5. Combien l'entreprise doit-elle vendre de mètres cubes d'engrais pour réaliser
+
+un bénéfice maximal ? Calculer ce bénéfice.
+
+Exercice 3 (5 points)
+Une étude montre qu'après la diffusion d'une publicité en magasin, 80 % des clients
+d'une grande surface ne sont pas influencés par cette publicité et n’achètent pas de
+produit qu'ils n'avaient pas prévu d'acheter.
+1. On interroge un client au hasard. Quelle est la probabilité qu’il soit influencé
+
+par la publicité et qu’il achète un produit qu’il n’avait pas prévu d’acheter ?
+On interroge 6 clients au hasard. On se place dans le cas où le comportement d'un
+client en termes d’achat est indépendant de celui des autres clients.
+On appelle 𝑋 la variable aléatoire qui donne le nombre de clients qui ont été
+influencés par la publicité et ont acheté un produit qu'ils n'avaient pas prévu
+d'acheter.
+2. Exprimer à l'aide d'une phrase l'événement {𝑋 ≤ 3}. On ne calculera pas la
+
+probabilité de cet événement.
+On admet que la loi de probabilité de la variable aléatoire 𝑋est donnée par le tableau
+suivant, dans lequel les 6 premières valeurs affichées sont des arrondis à 10−3 :
+𝑥𝑖
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+0,262
+
+0,393
+
+0,246
+
+0,082
+
+0,015
+
+0,002
+
+6,4 × 10−5
+
+3. Donner la probabilité qu'exactement 3 clients aient acheté un produit qu'ils
+
+n'avaient pas l'intention d'acheter.
+4. Déterminer la probabilité 𝑃(𝑋 ≥ 4). Arrondir le résultat à 10−3 .
+
+Donner une interprétation du résultat.
+5. Est-il vrai, qu'en moyenne, moins de 2 clients achètent un produit qu'ils
+
+n'avaient pas prévu d'acheter après la diffusion d'une publicité en magasin ?
+Justifier votre réponse.
+
+Exercice 4 (5 points)
+La responsable du service de reprographie d'une entreprise a constaté une
+augmentation du nombre de photocopies effectuées.
+Elle s'intéresse à cette évolution et décide d'effectuer une étude.
+Pour modéliser la situation et compte tenu du nombre de photocopies effectuées les
+années précédentes, la responsable décide de modéliser la situation de la façon
+suivante :
+• en 2012, 450 000 photocopies ont été effectuées ;
+• chaque année, le nombre de photocopies effectuées augmente de 4,8 %.
+On note 𝑢𝑛 le nombre, exprimé en millier, de photocopies effectuées l'année 2012 +
+𝑛 pour 𝑛 entier positif ou nul.
+Le premier terme de cette suite est donc 𝑢0 = 450.
+1.
+a. Vérifier que 𝑢1 = 471,6 et calculer 𝑢2 .
+b. Justifier que pour tout entier positif ou nul 𝑛, 𝑢𝑛+1 = 1,048 × 𝑢𝑛 .
+c. En déduire la nature de la suite.
+2. On souhaite déterminer à partir de quelle année le nombre de photocopies
+
+effectuées dépasse un million.
+a. Recopier et compléter la fonction écrite en langage Python ci-dessous afin
+
+qu'elle calcule l'année à partir de laquelle le nombre de photocopies
+effectuées est supérieur ou égal à un certain seuil, exprimé en millier de
+photocopies.
+def photocopies(seuil) :
+u=450
+n=0
+while u < seuil :
+u = …………..
+n=n+1
+return n
+b. Si on entre « photocopies(1000) », le résultat renvoyé est 18.
+
+En déduire la réponse à la question posée.

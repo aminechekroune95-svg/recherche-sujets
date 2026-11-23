@@ -1,0 +1,185 @@
+{"pages": 5, "method": "pdftotext", "bytes": 841702, "at": "2026-11-23T08:56:59+00:00"}
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE I : Automatismes (5 points)
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Enoncé
+
+Réponse
+
+1.
+
+Calculer de
+
+2.
+
+Donner la fraction irréductible égale à +
+
+3.
+
+Compléter l’égalité
+
+4.
+
+Calculer 25 % de 80
+
+5.
+
+Développer l’expression 𝐴(𝑥) = 5𝑥(3 − 4𝑥)
+
+6.
+
+Factoriser l’expression 2(𝑥 − 5) + 𝑥 2 − 25
+
+7.
+
+Le volume 𝑉 d’un cylindre de révolution de hauteur ℎ
+et de rayon 𝑟 est donné par la relation :
+
+8.
+
+Donner un ordre de grandeur en m² de
+2,996 × 106 mm²
+
+6 km. h−1 = . … . . m. min−1
+
+𝑉 = 𝜋 × 𝑟 2 × ℎ. Exprimer ℎ en fonction de 𝑉 et 𝑟.
+
+Dans un repère, on considère les droites (D), (𝐷1 ) et
+(𝐷2 ) représentées sur la figure ci-dessous.
+9.
+
+Quelle est la droite d’équation réduite
+𝑦 = 𝑥 − 1?
+………………………………………………………..
+
+Lire graphiquement l’équation réduite de
+la droite (𝐷2 ).
+10.
+…………………………………………………………..
+
+Séries technologiques : classe de première
+Épreuve commune de contrôle continu : Mathématiques
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+On considère la fonction 𝑓 définie sur R par 𝑓(𝑥) = 2𝑥² + 4𝑥 − 6.
+On note (P) la parabole représentant la fonction f dans un repère orthonormé (O ; I ; J) du plan
+donnée ci-dessous.
+
+1. Résoudre graphiquement l'équation 𝑓(𝑥) = 0 et donner, dans un tableau, le signe de la
+fonction 𝑓 sur R.
+
+2. Déterminer graphiquement les coordonnées du sommet S de la parabole (P) et en
+déduire une équation de l'axe de symétrie D de la parabole (P).
+3. Après avoir vérifié que 1 et −3 sont bien racines du polynôme 2𝑥² + 4𝑥 − 6, écrire la
+forme factorisée de 𝑓(𝑥).
+4. Dresser le tableau de variation de la fonction 𝑓 sur R et en déduire que, pour tout
+nombre réel 𝑥, 𝑓(𝑥) ⩾ −8.
+5. En déduire, l'ensemble des solutions dans R de l'inéquation 2𝑥² + 4𝑥 + 2 ⩾ 0.
+
+EXERCICE 3 (5 points)
+À la fin du mois de janvier 2019, il y avait dans une réserve une population de 410 blaireaux.
+Une maladie mortelle affecte progressivement ces blaireaux.
+On estime que, chaque mois, le nombre de blaireaux dans cette réserve baisse de 18% et on
+suppose que cette évolution ne changera pas dans les mois à venir.
+On modélise le nombre de blaireaux dans la réserve par une suite (𝑈𝑛 ) dont le terme général 𝑈𝑛
+est le nombre de blaireaux, 𝑛 désigne le nombre de mois à partir de janvier 2019. Ainsi,
+𝑈1 correspond au nombre de blaireaux fin janvier 2019, c’est-à-dire 410, 𝑈2 correspond au nombre
+de blaireaux fin février 2019, 𝑈3 correspond au nombre de blaireaux fin mars 2019…
+Dans cet exercice, tous les résultats seront arrondis à l'unité.
+1.
+2.
+3.
+
+Calculer 𝑈2 et 𝑈3 .
+Exprimer, pour tout entier naturel 𝑛, 𝑈𝑛+1 en fonction de 𝑈𝑛 .
+En déduire la nature de la suite (𝑈𝑛 ) en précisant sa raison et son premier terme.
+
+On admet que pour tout entier naturel non nul 𝑛, 𝑈𝑛 = 410 × (0,82)𝑛−1 .
+Dans la suite de l’exercice, on cherche à savoir à partir de quelle date le nombre de blaireaux sera
+inférieur à 50 dans la réserve.
+4.
+
+5.
+
+Recopier et compléter le programme ci-contre écrit en
+langage Python.
+
+On admet que ce programme, une fois exécuté, affiche 12.
+En déduire la date (fin de mois et année) à partir de
+laquelle le nombre de blaireaux sera inférieur à 50 dans la
+réserve.
+
+def nombre-blaireaux():
+𝑛 =1
+𝑈 =410
+while.................
+𝑈 = ....................
+𝑛 = 𝑛 +1
+return(𝑛)
+
+EXERCICE 4 (5 points)
+Afin de connaître les besoins en sang des hôpitaux d’une région, un laboratoire a analysé le
+sang de la population de cette région sur un échantillon de 8 000 personnes.
+La répartition suivant le Rhésus +, le Rhésus – et selon les quatre groupes sanguins (A, B, AB et
+O) est la suivante :
+ 70 % des personnes sont Rhésus +.
+ Parmi les personnes de Rhésus +, 33 % sont du groupe A, 48 % du groupe B et 260
+personnes sont du groupe AB.
+
+
+Parmi les personnes de Rhésus –, 17 % sont du groupe B,
+
+du groupe AB et il y a
+
+autant de personnes du groupe A que du groupe O.
+Cette répartition en effectifs aboutit au tableau suivant :
+Groupes
+Rhésus
++
+−
+Total
+
+A
+
+B
+
+AB
+
+O
+
+Total
+
+1 848
+2 744
+
+2 688
+3 096
+
+1 700
+
+5 600
+2 400
+8 000
+
+1. Justifier les effectifs suivants :
+a) des personnes de Rhésus + et de groupe B.
+b) des personnes de Rhésus – et de groupe AB.
+2. On choisit au hasard une personne de l’échantillon.
+On considère les événements suivants :
+E1 : « La personne observée est de Rhésus – ».
+E2 : « La personne observée est du groupe O ».
+a) Définir par une phrase chacun des événements : E1 ∩ E2 et E1 ∪ E2 .
+b) Déterminer la probabilité, à 10−2 près, de chacun des événements :
+E1 ∩ E2 et E1 ∪ E2 .
+3. Donner une valeur approchée à 10−2 de la probabilité que la personne observée soit
+une personne de Rhésus – sachant qu’elle est du groupe O ?

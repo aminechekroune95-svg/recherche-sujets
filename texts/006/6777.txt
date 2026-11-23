@@ -1,0 +1,164 @@
+{"pages": 5, "method": "pdftotext", "bytes": 921390, "at": "2026-11-23T08:57:53+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Calculatrice non autorisée
+
+Durée 20 minutes
+
+Réponse
+
+Énoncé
+1)
+
+Augmenter une quantité de 7 % revient à
+multiplier par :
+
+2)
+
+Sur une chaine de fabrication et après un réglage,
+le nombre de pièces produites possédant un
+défaut est passé de 65 à 39. Quel est le
+pourcentage de pièces défectueuses en moins ?
+
+3)
+
+Le temps d’usinage d’une pièce métallique a été
+réduit de 20% et dure désormais 12 minutes. Quel
+était le temps initial d’usinage de cette pièce ?
+
+4)
+
+5)
+
+6)
+
+Compléter le tableau ci-contre :
+
+Quantité en kg
+
+Indice
+
+…
+
+La production de microprocesseurs dans une
+chaine de production a connu successivement une
+baisse de 20% et une hausse de 10%. Quel est le
+taux d’évolution global équivalent à cette baisse
+suivie de cette hausse ?
+
+Un prix a baissé de 50%. Quel taux d’évolution
+
+doit-on utiliser pour retrouver sa valeur initiale ?
+
+7)
+
+Résoudre l'inéquation 7 − 3𝑥 ≤ 13 et donner
+l'ensemble des solutions sous forme d'intervalle
+
+8)
+
+Quelles sont les solutions de l’équation
+𝑥2 − 3 = 0 ?
+
+9)
+
+Résoudre dans ℝ l’équation 3𝑥 − 3 = 5𝑥 + 8.
+
+10)
+
+Quel est le tableau de signe de l'expression
+𝐴(𝑥) = (𝑥 + 3)(𝑥 − 7) ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+On considère la parabole représentative
+de la fonction 𝑓 définie sur ℝ par
+𝑓(𝑥) = 𝑥 2 − 4𝑥 − 5 dont le graphique
+est donné ci-contre dans un repère
+orthogonal :
+On donne les renseignements suivants :
+𝐴 a pour coordonnées (−1 ; 0) et 𝐵 a
+pour coordonnées (5 ; 0).
+
+1. Déterminer par le calcul la valeur exacte de l’ordonnée du point de la parabole
+d’abscisse 6.
+2. En utilisant la méthode de votre choix, graphique ou algébrique, déterminer la forme
+factorisée de 𝑓(𝑥).
+3. Calculer les coordonnées du sommet S de la parabole.
+4. Résoudre l’équation 𝑓(𝑥) = −5.
+5. Quelle est la valeur de x après exécution de l’algorithme suivant ?
+x=0
+y=-5
+while y<0:
+x=x+0.1
+y=x**2-4*x-5
+
+Exercice 3 (5 points)
+Dans un repère orthogonal, on donne la représentation
+graphique de la fonction 𝑔 définie sur l’intervalle
+[−3 ; 1].
+Le point A est un point de la courbe ayant pour
+coordonnées A (−1; −9) ;
+Le point B a pour coordonnées B(0; 4) ;
+Le point C a pour coordonnées C(−2; −14) ;
+La droite (BC) est parallèle à la tangente à la courbe au
+point A.
+
+Un élève affirme que la fonction 𝑔 a pour expression 𝑔(𝑥) = −2𝑥 3 − 4𝑥 2 + 2,5𝑥. L’objectif
+de l’exercice est de voir si cette affirmation est correcte. Dans le reste de l’exercice on
+note 𝑔 la fonction ainsi définie.
+1. Montrer que pour tout 𝑥 de l'intervalle [−3 ; 1] on a : 𝑔(𝑥) = −2𝑥 (𝑥 + 2,5)(𝑥 − 0,5).
+2. Résoudre l'équation 𝑔(𝑥) = 0.
+3. On admet que la fonction 𝑔 est dérivable sur l’intervalle [−3 ; 1] et on note 𝑔′ sa
+dérivée.
+a. On donne le tableau de signe de 𝑔′ (𝑥) sur l’intervalle [−3 ; 1] :
+𝑥
+𝑔′ (𝑥)
+
+−4 − √31
+
+−3
+−
+
+−4 + √31
++
+
+−
+
+En déduire le tableau de variations de 𝑔 sur l’intervalle [−3 ; 1].
+b. Calculer 𝑔′(𝑥) et 𝑔′ (−1).
+4. En vous aidant ou non des questions précédentes indiquer si l'affirmation de l'élève est
+correcte. Expliquer votre réponse.
+
+Exercice 4 (5 points)
+Une usine dispose de deux ateliers A et B fabriquant tous les deux des processeurs
+informatiques de deux types nommés P1 et P2.
+On étudie la production sur une journée.
+Parmi les 220 processeurs de type P1, on en compte 45 % qui proviennent de l’atelier A.
+Les 720 processeurs de type P2 qui proviennent de l’atelier A représentent 80% du nombre
+total de processeurs de ce type.
+1. Montrer qu’il y a 99 processeurs de type P1 qui proviennent de l’atelier A.
+2. Recopier et compléter le tableau ci-dessous
+Tableau en nombre de processeurs
+
+Issus de Atelier A
+
+Processeurs P1
+
+Processeurs P2
+
+Issus de Atelier B
+Total
+
+Total
+
+3. On effectue un test de qualité en prélevant au hasard un produit fabriqué par les
+ateliers A ou B. On arrondira les résultats si besoin au centième près.
+a. Quelle est la probabilité que le produit choisi soit un processeur de type P 1 ?
+b. Sachant que ce produit est issu de l’atelier A, quelle est la probabilité que ce soit
+un processeur de type P2 ?
+c. Sachant que ce produit est un processeur de type P1, quelle est la probabilité qu’il
+soit issu de l’atelier B ?

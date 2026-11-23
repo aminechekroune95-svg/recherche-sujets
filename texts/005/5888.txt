@@ -1,0 +1,174 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1184127, "at": "2026-11-23T08:58:32+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+1)
+2)
+
+3)
+
+4)
+
+5)
+6)
+
+7)
+
+Sans calculatrice
+
+Énoncé
+Comparer les deux fractions cicontre :
+
+Durée : 20 minutes
+Réponse
+… . ..
+
+Combien de temps un coureur met-il
+pour parcourir 700 m à une vitesse
+moyenne de 14 km. h−1 ?
+Un prix passe de 50 € à 45 €.
+Quel est le taux d’évolution de ce
+prix, exprimé en pourcentage ?
+Un document a été photocopié et
+ses dimensions ont été réduites de
+20 %. De quel pourcentage doit-on
+augmenter les dimensions de ce
+document réduit pour revenir aux
+dimensions du document original ?
+Résoudre dans R l’équation :
+𝑥 2 = 49
+Déterminer le signe de la fonction 𝑓
+définie sur R par :
+𝑓(𝑥) = −2𝑥 + 16.
+
+𝑥
+Signe de la
+fonction 𝑓
+
+Développer l’expression (3 − 𝑥)2
+
+8)
+
+Factoriser l’expression 4𝑥 2 − 9
+
+9)
+
+La courbe ci-dessous représente la
+fonction 𝑓 définie sur R par
+𝑓(𝑥) = −𝑥 2 + 4
+
+10)
+
+Tracer, dans le repère ci-contre, la
+
+Compléter à l’aide d’une lecture graphique :
+Les antécédents de 3 par 𝑓 sont : …………….
+
+droite d’équation 𝑦 = − 𝑥 + 1
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un hôtelier loue un local à partir du 1er janvier 2019. Il a le choix entre deux contrats. Dans
+ces deux contrats, le loyer annuel initial est de 24 000 euros et le locataire s’engage à
+occuper le local pendant au moins sept ans.
+- Contrat 1 : Le locataire accepte une augmentation annuelle de 4 % du loyer de
+l’année précédente. On note 𝑢(0) , le loyer initial au 1er janvier 2019 et 𝑢(𝑛) le loyer
+au 1er janvier de l’année (2019 + 𝑛) avec le contrat 1.
+- Contrat 2 : Le locataire accepte une augmentation annuelle forfaitaire de 1 000 euros
+du loyer de l’année précédente. On note 𝑣(0) , le loyer initial au 1er janvier 2019 et
+𝑣(𝑛) le loyer au 1er janvier de l’année (2019 + 𝑛) avec le contrat 2.
+1.
+a. On considère la feuille de calcul ci-après. Quelle formule peut-on entrer dans la
+cellule C3, puis recopier sur la droite, pour avoir les premiers termes de la suite 𝑢 ?
+b. Compléter le tableau ci-après, donnant les premiers termes des deux suites 𝑢 et 𝑣.
+
+2.
+a. Écrire la relation entre 𝑢(𝑛 + 1) et 𝑢(𝑛). En déduire la nature de la suite 𝑢 et
+préciser sa raison.
+b. Écrire la relation entre 𝑣(𝑛 + 1) et 𝑣(𝑛). En déduire la nature de la suite 𝑣 et
+préciser sa raison.
+3. Le locataire pense quitter le local lorsque le loyer annuel
+dépassera 40 000 €. Il choisit le contrat 2.
+Compléter le script ci-contre, écrit en langage Python, afin que le
+locataire sache au bout de combien d’années il devra partir.
+
+Exercice 3 (5 points)
+Un traiteur propose des repas gastronomiques au prix unitaire de 80 €.
+On admet que l’on peut modéliser le coût total de fabrication des repas, exprimé en euro, en
+fonction du nombre de repas fabriqués, par la fonction 𝐶 représentée graphiquement cidessous :
+Coût total de
+fabrication en euro
+(en euro)
+
+Nombre de
+repas fabriqués
+1. Par lecture et à la précision que vous permet le graphique :
+a. Déterminer le coût total de fabrication de 50 repas.
+b. Déterminer le nombre de repas fabriqués pour un coût total de 4 000 €.
+2. On rappelle qu’une « recette » est simplement le fruit d’une vente, sans tenir
+compte de son coût.
+a. Calculer la recette obtenue pour la vente de 50 repas.
+b. On note 𝑅(𝑥) la recette en euro obtenue pour la vente de 𝑥 repas.
+Tracer la courbe d’équation 𝑦 = 𝑅(𝑥) sur le graphique ci-dessus.
+c. Déterminer, à l’aide du graphique, pour quelles valeurs de 𝑥 la recette est
+supérieure au coût total de fabrication. Expliquer la démarche utilisée.
+
+Exercice 4 (5 points)
+Lors d’un mariage, les 450 invités (dont 150 hommes) ont à choisir parmi 3 plats principaux :
+viande, poisson ou végétarien. Les choix sont répartis de la façon suivante :
+
+45 hommes commandent de la viande ;
+35 % des femmes commandent du poisson ;
+Parmi les 165 invités qui sont végétariens, il y a 20 % d’hommes.
+
+1. Compléter le tableau d’effectifs ci-dessous :
+Viande
+
+Poisson
+
+Végétarien
+
+Hommes
+
+Total
+
+Femmes
+Total
+
+2. Dans cette question, l’expérience aléatoire consiste à choisir au hasard un invité
+présent lors du mariage. On considère les événements suivants :
+
+𝐻 : « La personne choisie est un homme »
+𝑉 : « La personne choisie est végétarienne »
+𝑃 ∶ « La personne choisie commande du poisson »
+
+a. Déterminer la probabilité que la personne choisie commande du poisson.
+b. Calculer 𝑃𝐻 (𝑉). Interpréter le résultat dans le contexte de l’exercice.
+3. Dans cette question, l’expérience aléatoire consiste à choisir successivement et de
+manière indépendante 3 invités présents lors du mariage. Le nombre d’invités étant
+suffisamment grand, on assimile cette expérience aléatoire à un tirage successif avec
+remise.
+Déterminer la probabilité qu’exactement un des trois invités commande du poisson.

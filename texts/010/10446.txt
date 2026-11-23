@@ -1,0 +1,168 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1172345, "at": "2026-11-23T08:55:14+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+Une urne contient 150 jetons rouges et 50 jetons bleus, tous indiscernables au
+toucher. 20 % des jetons rouges sont gagnants et 40 % des jetons bleus sont
+gagnants. Un joueur tire au hasard un jeton de l’urne.
+
+Question 1
+La probabilité que le jeton soit rouge et gagnant est :
+a) 0,2
+
+b) 0,45
+
+c) 0,15
+
+d) 0,95
+
+Question 2
+La probabilité que le jeton soit gagnant est :
+a) 0,2
+
+b) 0,6
+
+c) 0,25
+
+d) 0,4
+
+Question 3
+Un joueur tire successivement et avec remise deux jetons de l’urne. La probabilité
+qu’il tire deux jetons rouges est :
+a) 0,5625
+
+b) 0,75
+
+c) 0,30
+
+d) 0,15
+
+On note X la variable aléatoire qui représente le gain algébrique en euros d’un
+joueur. La loi de probabilité de X est donnée par le tableau suivant :
+Valeurs 𝑎 prises par X
+
+−5
+
+P(X = 𝑎)
+
+0,6
+
+0,15
+
+0,25
+
+c) 10
+
+d) 0,25
+
+Question 4
+La probabilité P(X > 0) est égale à :
+a) 0,15
+
+b) 0,6
+
+Question 5
+Le gain algébrique moyen en euros que peut espérer un joueur est égale à :
+a) 0
+
+b) −0,5
+
+c)
+
+d) 5
+
+Exercice 2 (5 points)
+Le plan est muni d’un repère orthonormé (O ; 𝑖⃗ ; 𝑗⃗).
+On considère les points : A(−1 ; − 3), B(1 ; 2) et C(7 ; 1).
+
+Le triangle ABC est-il isocèle en B ?
+
+̂ .
+Déterminer la valeur arrondie au dixième de degré de l’angle BAC
+
+3)
+
+On considère le point H de coordonnées (2,6 ; − 1,2).
+
+Le point H est-il le projeté orthogonal du point B sur la droite (AC) ?
+
+Exercice 3 (5 points)
+En 2002, Camille a acheté une voiture, son prix était alors de 10 500 €. La valeur de
+cette voiture a baissé de 14 % par an.
+La valeur de cette voiture est modélisée par une suite. On note P𝑛 la valeur de
+
+la voiture en l’année 2002 + 𝑛. On a donc P0 = 10 500.
+a)
+
+Déterminer la nature de la suite (P𝑛 ).
+
+b)
+
+Quelle était la valeur de cette voiture en 2010 ?
+
+Camille aimerait savoir à partir de quelle année la valeur de sa voiture est
+inférieure à 1500 €. Pour l’aider, on réalise le programme Python incomplet cidessous.
+a)
+
+Recopier et compléter sur votre copie les deux parties en pointillé du
+programme ci-dessous :
+def algo( ) :
+P=10500
+n=2002
+while P ……………… :
+P=……………..
+n=n+1
+return(n)
+
+b)
+
+Donner la valeur renvoyée par ce programme.
+
+Exercice 4 (5 points)
+Une entreprise fabrique un engrais biologique. Chaque jour, le volume d’engrais
+fabriqué est compris entre 5 m³ et 60 m³.
+Le coût moyen quotidien de production de cet engrais, exprimé en centaines
+d’euros, est modélisé par la fonction 𝑓 définie sur l’intervalle [5 ; 60] par :
+
+𝑓(𝑥) =
+
+𝑥 2 − 15𝑥 + 400
+𝑥
+
+où 𝑥 est le volume quotidien d’engrais fabriqué, exprimé en m³.
+
+Déterminer le coût moyen quotidien pour la production de 5 𝑚³ d’engrais.
+
+Quels volumes d’engrais faut-il fabriquer pour avoir un coût moyen de
+production égal à 4 300 € (43 centaines d’euros) ?
+
+3)
+
+Pour quel volume d’engrais fabriqué le coût moyen de production est-il
+minimal ? Déterminer ce coût moyen minimal.

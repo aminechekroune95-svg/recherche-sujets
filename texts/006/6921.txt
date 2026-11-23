@@ -1,0 +1,132 @@
+{"pages": 5, "method": "pdftotext", "bytes": 677244, "at": "2026-11-23T08:56:40+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Cette partie comporte 10 questions. Les questions sont indépendantes.
+Aucune justification n’est demandée
+1) Le chiffre d’affaires d’une entreprise était de 400 millions d’euros en 2005.
+Ce chiffre d’affaires a augmenté de 100 % au cours de la décennie suivante.
+Quelle était alors le chiffre d’affaires de l’entreprise en 2015 ?
+2) Donner le tableau de signes de la fonction 𝑓, définie sur ℝ par :
+𝑓(𝑥) = −𝑥 + 2.
+3) Si on souhaite diminuer une valeur de 4 % alors il faut la multiplier par
+4) Le prix de la baguette de pain est passée de 1€ à 1,10€.
+Quel est le pourcentage d’augmentation du prix de la baguette de pain ?
+5) Résoudre dans ℝ,
+
+5𝑥
+
+> 10.
+
+6) Le tableau suivant donne le prix du mètre carré de terrain dans une commune rurale
+en 2017, 2018 et 2019 :
+
+Prix du m en euros
+Indice
+
+2017
+
+2018
+
+2019
+
+Déterminer le prix du mètre carré de terrain en 2018.
+
+7) Le tableau suivant donne le prix du mètre carré de terrain dans une commune rurale
+en 2017, 2018 et 2019 :
+
+Prix du m en euros
+Indice
+
+2017
+
+2018
+
+2019
+
+Quel est le taux d’évolution du mètre carré de terrain entre 2017 et 2019 ?
+
+8) Donner le tableau de signes de la fonction 𝑓, définie pour tout 𝑥 de ℝ par :
+𝑓(𝑥) = (2𝑥 − 10)(3 − 𝑥)
+
+9) Résoudre dans ℝ, l’équation 𝑥 2 = 5.
+
+10) Entre 2017 et 2018, le prix d’un article a augmenté de 20 %.
+Entre 2018 et 2019, le prix de cet article a diminué de 10 %.
+Déterminer le taux d’évolution du prix de cet article entre 2017 et 2019.
+
+PARTIE II
+Calculatrice autorisée
+
+Cette partie comporte trois exercices indépendants.
+
+EXERCICE 2 (5 POINTS)
+Soient (𝑢𝑛 ) 𝑒𝑡 (𝑣𝑛 ) les suites définies sur ℕ par :
+𝑢𝑛 = 0,5𝑛 + 0,2 et 𝑣𝑛 = 0,2 × 1,5𝑛
+1.
+
+Calculer 𝑢0 et 𝑣1 .
+
+2.
+a. Montrer que (𝑢𝑛 ) est une suite arithmétique dont on précisera le premier terme
+et la raison.
+b. Déterminer le sens de variation de (𝑢𝑛 ).
+3.
+a. Montrer que (𝑣𝑛 ) est une suite géométrique dont on précisera le premier terme
+et la raison.
+b. Déterminer le sens de variation de (𝑣𝑛 ).
+
+EXERCICE 3 (5 POINTS)
+Soient 𝑓 et 𝑔 les fonctions définies sur ℝ par :
+𝑓(𝑥) = 2𝑥² + 10𝑥 + 900
+𝑔(𝑥) = 120𝑥 .
+
+1. Calculer 𝑓(10) et 𝑔(10).
+2. On considère la fonction ℎ définie sur ℝ par :
+ℎ(𝑥) = 𝑔(𝑥) − 𝑓(𝑥)
+a. Calculer ℎ(10).
+b. Montrer que ℎ(𝑥) = −2𝑥 2 + 110𝑥 − 900.
+c. Vérifier que ℎ(𝑥) = −2(𝑥 − 45) (𝑥 − 10).
+d. En déduire les solutions sur ℝ de l’inéquation ℎ(𝑥) ≥ 0.
+
+EXERCICE 4 (5 POINTS)
+Une entreprise de pièces automobiles emploie deux catégories de salariés : des cadres et
+des ouvriers.
+Cette entreprise compte 1000 salariés dont 40 % sont des femmes. Les autres salariés sont
+des hommes.
+On sait aussi que :
+
+Parmi les femmes, 15 % sont des cadres
+525 hommes sont des ouvriers.
+
+1. Recopier et compléter le tableau d’effectifs qui traduit la situation donnée :
+Hommes
+
+Femmes
+
+Total
+
+1000
+
+Cadres
+Ouvriers
+
+Total
+
+2. Justine affirme : « La proportion de cadres parmi les hommes est plus élevée que la
+proportion de cadres parmi les femmes. »
+A-t-elle raison ? Justifier la réponse.
+3. On choisit au hasard un salarié de l’entreprise. On admet que chaque salarié a la
+même probabilité d’être choisi.
+On considère les événements suivants :
+
+𝐹 : « Le salarié est une femme » ;
+𝐶 : « Le salarié est un cadre ».
+
+a. Définir par une phrase l’événement 𝐹 ∩ 𝐶.
+b. Calculer la probabilité de cet événement.
+c. Calculer 𝑃𝐹 (𝐶̅ ). Interpréter ce résultat dans le contexte de l’énoncé.

@@ -1,0 +1,149 @@
+{"pages": 4, "method": "pdftotext", "bytes": 1013358, "at": "2026-11-23T08:57:21+00:00"}
+PARTIE I
+
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+
+Réponse
+
+1)
+
+Convertir 108 𝑘𝑚. ℎ−1 en 𝑚. 𝑠 −1 .
+
+2)
+
+Donner l’écriture scientifique de 175 millions.
+
+3)
+
+Factoriser l’expression : 𝐴 = (5𝑥 − 2)(𝑥 − 1) − 4(𝑥 − 1).
+Soit f la fonction définie sur ℝ par 𝑓(𝑥) = 2𝑥 2 + 𝑥 + 1.
+
+4)
+
+5)
+
+6)
+
+Calculer 𝑓 (3) et donner le résultat sous forme de fraction
+irréductible.
+Le volume 𝑉 d’un cylindre de rayon 𝑅 et de hauteur ℎ est :
+𝑉 = 𝜋𝑅 2 ℎ. Exprimer 𝑅 en fonction de 𝑉 et ℎ.
+Calculer le rayon en 𝑐𝑚, d’une boite de soda de 31,4 𝑐𝑙 et de
+10 𝑐𝑚 de hauteur. Arrondir le résultat à l’unité.
+Le diagramme ci-contre donne la répartition des dépenses de
+santé, en France en 2016.
+RÉPARTITION DES DÉPENSES DE SANTÉ
+EN 2016
+autres…
+
+7)
+
+Médicaments
+17%
+
+Soins hospitaliers
+47%
+
+soins de ville
+26%
+
+source: INSEE
+
+Sachant que le total des dépenses en 2016 s’est élevé à environ
+200 milliards d’euros, quel est le montant en milliards d’euros
+correspondant aux soins hospitaliers ?
+
+On considère la fonction 𝑓 définie sur [−7 ; 5] dont la courbe est
+représentée ci-dessous :
+
+8)
+
+Quel est l’ensemble des solutions de l’équation 𝑓(𝑥) = 0.
+
+9)
+
+Quel est l’ensemble des solutions de l’inéquation 𝑓(𝑥) ≤ −5 ?
+
+10) Tracer la droite d’équation 𝑦 = 𝑥 − 3.
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+A la suite d'un repas au cours duquel de l’alcool a été consommé, Martin se demande s'il
+peut reprendre le volant. Une heure après le repas, l’alcoolémie est de 1,3 g/l de sang. Il
+risque alors une peine de deux ans de prison et une amende de 4 500 €. Il décide donc
+d'attendre. En moyenne, un homme en bonne santé élimine 0,15 g/l d'alcool par heure.
+On désigne par 𝑢𝑛 l’alcoolémie, en g/l, dans le sang de Martin 𝑛 heures après le début du
+repas. On a donc : 𝑢1 = 1,3.
+1. Calculer 𝑢2 .
+2. Pour tout entier naturel 𝑛 ≥ 1, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 .
+3. Quelle est la nature de la suite (𝑢𝑛 ) ? Donner ses éléments caractéristiques.
+4. Sur le graphique en annexe, représenter 𝑢𝑛 en fonction de 𝑛 pour 𝑛 allant de 1 à 7.
+5. Sachant que l’alcoolémie maximum autorisée pour circuler est de 0,5 g/l, déterminer
+au bout de combien d'heures Martin pourra reprendre le volant. Justifier votre
+réponse.
+
+Exercice 3 (5 points)
+Soit 𝑓 la fonction définie sur ℝ par 𝑓(𝑥) = −2𝑥² + 12𝑥.
+1. Vérifier que 0 est une solution de l'équation 𝑓(𝑥) = 0.
+2. Montrer que 𝑥(12 − 2𝑥) est une factorisation de 𝑓(𝑥).
+3. Dresser le tableau de signe de 𝑓(𝑥).
+4. La courbe représentative de 𝑓 possède-t-elle un axe de symétrie ? Justifier.
+5. Donner les variations de 𝑓 ainsi que la valeur de son extrémum.
+Exercice 4 (5 points)
+Le restaurant d’un centre de Thalasso propose pour ses clients des menus diététiques.
+Le tableau ci-dessous présente l’ensemble des plats et desserts à la carte, ainsi que la valeur
+énergétique pour chacun d’eux :
+Valeur énergétique (en 𝑘𝑐𝑎𝑙)
+saumon-riz
+Plats
+veau-carottes
+yaourt
+Desserts
+banane
+part de camembert
+
+Les menus se composent d’un plat et d’un dessert. La valeur énergétique d’un menu
+correspond à la somme des valeurs énergétiques du plat et du dessert qui le composent.
+Une étude statistique a montré que :
+
+
+40% des clients optent pour le plat saumon-riz, et les autres pour le plat veaucarottes.
+
+
+
+Quel que soit le plat choisi, 30% des clients prennent en dessert un yaourt écrémé,
+45% une banane, et les autres une part de camembert.
+
+1. Si le client choisi le plat saumon-riz et un yaourt, la valeur énergétique est de 580
+kcal. Quelles sont les six valeurs énergétiques possibles d’un repas avec un plat et un
+dessert ?
+2. On note 𝑋 la variable aléatoire égale à la valeur énergétique du menu choisi par le
+client.
+a. Donner les six valeurs prises par 𝑋.
+b. Montrer que 12% des clients prennent comme menu saumon-riz et yaourt.
+c. Compléter le tableau ci-dessous de la loi de probabilité de la variable
+aléatoire 𝑋:
+𝑥𝑖
+
+580 600
+
+0,1
+
+0,18
+
+0,18
+
+𝑃(𝑋 = 𝑥𝑖 )
+
+0,27
+
+d. Calculer l’espérance 𝐸(𝑋)
+e. Interpréter le résultat.

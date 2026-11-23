@@ -1,0 +1,166 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1037449, "at": "2026-11-23T08:59:22+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la
+lettre correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des
+recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question
+sans réponse n’apporte ni ne retire de point.
+
+Question1
+On considère la loi de probabilité de la variable aléatoire X donnée par le tableau cidessous :
+-5
+𝑘
+0,71
+0,03
+0,01
+0,05
+0,2
+𝑃(X = 𝑘)
+L’espérance de X est :
+a) 15
+
+b) 0,2
+
+c) 7,55
+
+d) 17
+
+Question2
+On se place dans un repère orthonormé.
+Le cercle de centre A( -2 ; 4) et de rayon 9 a pour équation :
+a) (𝑥 + 2)2 + (𝑦 − 4)2 = 81
+
+b) (𝑥 − 2)2 + (𝑦 + 4)2 = 81
+
+c) (𝑥 + 2)2 + (𝑦 − 4)2 = 9
+
+d) (𝑥 − 2)2 + (𝑦 + 4)2 = 9
+
+Question 3
+Soit 𝑓 la fonction définie par
+𝑓(𝑥) = 𝑎𝑥² + 𝑏𝑥 + 𝑐 où 𝑎, 𝑏 et 𝑐 sont des réels.
+On considère dans un repère la courbe représentative de 𝑓
+tracée ci-contre.
+On appelle ∆ son discriminant.
+On peut affirmer que :
+
+a) 𝑎 > 0 ou 𝑐 < 0
+
+b) 𝑐 et ∆ sont du
+même signe
+
+c) 𝑎 < 0 et 𝑐 < 0
+
+d) 𝑎 < 0 et ∆< 0
+
+Question 4
+On considère la suite (𝑈𝑛 ) définie par 𝑈0 = −2 et 𝑈𝑛+1 = 2𝑈𝑛 − 5.
+Un algorithme permettant de calculer la somme 𝑆 = 𝑈0 + 𝑈1 + ⋯ + 𝑈36 est :
+a)
+S=0
+Pour i de 1 à 37
+
+b)
+S=0
+Pour i de 1 à 36
+
+c)
+
+d)
+S=-2
+Pour i de 1 à 36
+
+S=-2
+Pour i de 1 à 37
+
+Question 5
+La suite (𝑈𝑛 ) définie par 𝑈0 = −2 et 𝑈𝑛+1 = 2𝑈𝑛 − 5 est :
+a) arithmétique mais b) géométrique mais c) ni arithmétique, ni
+pas géométrique
+pas arithmétique
+géométrique
+
+d) à la fois
+arithmétique et
+géométrique
+
+Exercice 2 (5 points)
+La fonction f est définie sur] − 1; +∞[ par :
+𝑥2 + 1
+𝑓(𝑥) =
+𝑥+1
+On se place dans un repère orthonormé du plan.
+1) Démontrer que pour tout 𝑥 appartenant à l’intervalle ] − 1; +∞[:
+𝑓′(𝑥) =
+
+𝑥 2 + 2𝑥 − 1
+(𝑥 + 1)²
+
+2) Déterminer le sens de variation de la fonction 𝑓 sur ] − 1; +∞[.
+
+3) Déterminer une équation de la tangente T à la courbe représentative
+de 𝑓 au point d’abscisse 0.
+4) Etudier la position relative de la courbe représentative de 𝑓 et de la
+droite d’équation 𝑦 = 𝑥.
+
+Exercice 3 (5 points)
+Un jeu consiste à combattre en duel soit un monstre A, soit un monstre B.
+On a une probabilité de
+
+d’affronter le monstre A.
+
+Le joueur gagne contre le monstre A dans 30% des cas, et gagne contre le monstre
+B dans 25% des cas.
+Le joueur lance une partie. On considère les événements :
+
+A :« Le joueur affronte le monstre A. »
+
+B :« Le joueur affronte le monstre B. »
+
+V :« Le joueur est victorieux. »
+
+̅) et interpréter le résultat.
+1) Déterminer 𝑃B (V
+
+2) Montrer que 𝑃(B ∩ V) = 20.
+3) Calculer 𝑃(V).
+4) Calculer la probabilité d’avoir combattu le monstre B sachant que le joueur est
+victorieux.
+
+Exercice 4 (5 points)
+
+OABC et ODEF sont des carrés de côtés respectifs 3 et 2. OAMF est un rectangle.
+On note H le projeté orthogonal du point 𝑀 sur la droite (DC).
+Dans cet exercice, on pourra, si on le souhaite, se placer dans le repère
+(O, 3 ⃗⃗⃗⃗⃗
+OA, 3 ⃗⃗⃗⃗⃗
+OC).
+1) La droite (OM) est-elle perpendiculaire à la droite (DC) ?
+2) Calculer ⃗⃗⃗⃗⃗
+CD. ⃗⃗⃗⃗⃗⃗
+CM.
+3) Déterminer la longueur CH.

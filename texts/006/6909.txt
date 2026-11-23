@@ -1,0 +1,215 @@
+{"pages": 8, "method": "pdftotext", "bytes": 902961, "at": "2026-11-23T08:56:47+00:00"}
+PARTIE I – Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Indiquez vos réponses dans le tableau. Aucune justification n’est attendue.
+Question
+
+Énoncé
+
+Réponse
+
+Diminuer de 5,2 % revient à multiplier par ….
+
+Le prix d’un article passe de 12 € à 14,4 €.
+Quel est, en pourcentage, le taux d’évolution de son prix ?
+
+Compléter le tableau suivant :
+
+Résoudre dans R l’équation 3𝑥 + 1 = −5𝑥 + 4 :
+
+Résoudre dans R l’équation 𝑥 2 = 49 :
+
+Quel est, en pourcentage, le taux d’évolution équivalent à
+deux évolutions successives de 10 % ?
+
+Dresser le tableau de signes de 2𝑥 + 4 pour 𝑥 réel.
+
+Si le prix d’un article augmente de 20 % alors il retrouve
+son prix de départ après une réduction de :
+
+L’ensemble des solutions dans R de l’inéquation 2 − 5 >
+1 est l’intervalle :
+
+ strictement plus de 20
+%
+ de 20 %
+ strictement moins de
+20 %
+
+𝑥
+
+Un article coûte 200 euros.
+
+Combien coûte-t-il après une baisse de son prix de 35 % ?
+
+PARTIE II
+Calculatrice autorisée.
+
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points)
+Le tableau ci-dessous présente des renseignements sur les 500 élèves d’un lycée
+selon leur qualité et leur filière.
+
+1) Sachant que 14,4 % des élèves de Première du lycée sont en série STMG et que,
+parmi ceux-ci, les trois-quarts sont demi-pensionnaires, finir de compléter ce tableau
+(utiliser celui proposé en annexe).
+2) Calculer la proportion de demi-pensionnaires parmi les élèves de Première générale.
+On donnera le résultat sous la forme d’un pourcentage, arrondi à 0,1 % près.
+3) Quelle est la filière dans laquelle la proportion d’externes est la plus grande ?
+Justifier.
+4) On souhaite disposer du tableau de fréquences marginales proposé ci-dessous :
+
+À l’aide de pourcentages, compléter le tableau (utiliser celui proposé en annexe) puis
+exprimer à l’aide d’une phrase ce que représente la fréquence indiquée dans la case
+grisée.
+
+5) On choisit au hasard un élève de Première du lycée.
+On considère les événements suivants :
+E : « l’élève est externe » ;
+G : « l’élève est en Première générale ».
+Calculer une valeur arrondie au millième de la probabilité 𝑝𝐺 (𝐸).
+Exercice 3 (5 points)
+
+1) On considère la fonction 𝑓 définie sur l’ensemble des réels R par
+𝑓(𝑥) = – 𝑥 3 – 2,5𝑥² + 41,5𝑥 – 20.
+a) On admet que pour tout réel 𝑥, 𝑓(𝑥) = – (𝑥 – 5)(𝑥 – 0,5)(𝑥 + 8).
+Quelles sont les solutions de l’équation 𝑓(𝑥) = 0 ?
+b) Dresser le tableau de signes de 𝑓(𝑥), sur R.
+2) Un laboratoire pharmaceutique produit chaque mois entre 0 et 6 milliers de boîtes
+d’un certain médicament.
+La fonction 𝑓 de la question 1 modélise sur l’intervalle [0;6] le résultat mensuel, en
+milliers d’euros, réalisé en produisant et vendant 𝑥 milliers de boîtes de ce
+médicament.
+Voici une courbe représentative de 𝑓 sur [0;6] :
+
+a) Déterminer graphiquement le nombre de boîtes de ce médicament que le
+laboratoire doit produire et vendre en un mois pour obtenir le plus grand
+résultat.
+b) Déterminer graphiquement le nombre de boîtes de ce médicament que le
+laboratoire doit produire et vendre en un mois pour obtenir un résultat
+positif.
+Expliquer comment on peut retrouver ce nombre autrement que
+graphiquement.
+c) Les quantités de boîtes de ce médicament, fabriquées et vendues pendant
+la première moitié de l’année 2019, sont données ci-dessous :
+
+Nombre de boîtes
+fabriquées et
+vendues
+
+Janvier
+
+Février
+
+Mars
+
+Avril
+
+Mai
+
+Juin
+
+1 500
+
+2 500
+
+4 000
+
+3 500
+
+2 800
+
+2 900
+
+L’affirmation suivante est-elle vraie ?
+« Pour ce médicament, le résultat mensuel réalisé par le laboratoire a été plus
+important au mois de mars 2019 qu’au mois de février 2019 » ?
+La réponse sera justifiée à l’aide du graphique donné en annexe.
+Exercice 4 (5 points)
+Le tableau suivant, extrait d’une feuille de calcul, donne le « madd » (montant annuel
+des dépenses) en soins hospitaliers en France, exprimé en milliards d’euros, entre
+2010 et 2014.
+A
+B
+Année
+2010
+« madd » : montant annuel
+2 des dépenses
+80,3
+(en milliards d’euros)
+Hausse annuelle (en milliards d’euros)
+
+C
+
+D
+
+E
+
+F
+
+2011
+
+2012
+
+2013
+
+2014
+
+82,5
+
+84,6
+
+86,7
+
+89,1
+
+2,2
+
+Source : DREES
+
+1) Compléter la dernière ligne du tableau (utiliser l’annexe).
+2) Expliquer pourquoi on peut dire que le « madd » a augmenté en moyenne de 2,2
+milliards d’euros par an, entre 2010 et 2014.
+3) On suppose que le « madd » va continuer à augmenter régulièrement de 2,2
+milliards d’euros par an, après l’année 2014.
+Cette modélisation conduit à définir une suite 𝑢 où 𝑢(𝑛) désigne le « madd », en
+milliards d’euros, pour l’année (2014 + n).
+Donner la nature de la suite 𝑢 puis calculer le « madd » attendu en 2016.
+4) On constate que, sur la période 2010-2014, le « madd » a augmenté en moyenne
+de 2,6 % par an.
+On se propose alors de modéliser cette évolution à l’aide d’une deuxième suite notée
+𝑣 en supposant que la consommation continuera à augmenter régulièrement de 2,6
+% par an.
+Pour tout entier naturel 𝑛, 𝑣(𝑛) représente le « madd », en milliards d’euros, de
+l’année (2014 + 𝑛) et on a donc 𝑣(0) = 89,1.
+a) Démontrer que la suite 𝑣 est une suite géométrique puis calculer une
+valeur arrondie au dixième de 𝑣(2).
+b) Selon cette modélisation, on veut déterminer en quelle année le « madd »,
+exprimé en milliards d’euros, dépassera un seuil 𝑠.
+Recopier et compléter le script de la fonction Python proposé ci-dessous
+afin que, connaissant 𝑠, il renvoie l’année correspondante.
+
+def annee_seuil(s) :
+n=0
+v=89.1
+while v < s :
+v=…
+n=n+1
+return 2014+n
+
+ANNEXE
+À remettre avec la copie
+Exercice 2
+Question 1 : le détail des calculs n’est pas demandé.
+
+Question 4 : le détail des calculs n’est pas demandé.
+
+Exercice 3
+
+Exercice 4
+Question 1 : le détail des calculs n’est pas demandé.

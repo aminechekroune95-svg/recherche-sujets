@@ -1,0 +1,207 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1019293, "at": "2026-11-23T08:59:44+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+PARTIE I
+EXERCICE 1 (5 points)
+
+Automatismes
+
+1)
+
+2)
+3)
+
+Sans calculatrice
+
+Durée 20 minutes
+
+Question
+Dans une entreprise de 250 personnes, 20 sont des
+cadres. Donner la proportion de cadres dans cette
+entreprise.
+
+Réponse
+
+Un prix augmente de 25%. Quel est le taux d’évolution
+réciproque associé ?
+Le prix d’un article augmente de 20%, puis diminue de
+20%. Déterminer le taux d’évolution global du prix, en
+pourcentage.
+Année
+
+4)
+
+Un démographe choisit l’indice de base 100 pour
+désigner la population de l’Inde en 1997.
+Compléter le tableau ci-contre :
+
+Population 1000 1184
+(en millions)
+Indice
+
+Calculer les
+
+5)
+
+de 69
+
+1 2 2
+ 
+5 3 5
+
+6)
+
+Calculer et simplifier
+
+7)
+
+Comparer
+
+8)
+
+Résoudre l’équation 5( x  4)  1  2 x
+
+9)
+
+Résoudre dans R, l’inéquation 3𝑥 + 2 ≤ 8
+
+et
+
+Déterminer l’équation réduite
+de chacune des droites  d1  et
+10)
+
+1997 2007 2017
+
+ d 2  par lecture graphique .
+
+……….
+
+ d1  :
+
+ d2  :
+
+...
+
+...
+134,3
+
+PARTIE II
+Cette partie est composée de trois exercices indépendants. Calculatrice autorisée
+
+EXERCICE 2 (5 points)
+On considère la fonction 𝑔 définie sur R par :
+𝑔(𝑥) = −𝑥 3 + 30𝑥 2 .
+On note 𝑔′ la fonction dérivée de la fonction 𝑔 sur R.
+1. Déterminer 𝑔′(𝑥).
+2. La représentation graphique donnée ci-contre est
+celle de la fonction dérivée 𝑔′.
+
+y
+
+À l’aide du graphique, recopier et compléter sur
+votre feuille le tableau de signe ci-dessous de la
+fonction 𝑔′ sur R.
+
+x
+
+
+
+
+
+Signe de 𝑔′(𝑥)
+
+3. Recopier et compléter sur votre feuille le tableau de variation ci-dessous de la
+fonction 𝑔 sur R.
+𝑥
+
+
+
+
+
+Variations de 𝑔
+
+4. Une épidémie de grippe touche les habitants d’une ville.
+La fonction 𝑔 définie sur l’intervalle [0 ; 20] par 𝑔(𝑥) = −𝑥 3 + 30𝑥 2 modélise le
+nombre de personnes malades en fonction du temps 𝑥, exprimé en jour.
+a. D’après le tableau de variation de la fonction 𝑔, quel est le nombre maximal de
+patients atteints par la grippe au cours des 20 premiers jours de l’épidémie ?
+Au bout de combien de jours ce nombre maximal est-il atteint ?
+b. Déterminer le taux d’augmentation, en pourcentage, du nombre de personnes
+grippées entre le 5ème et le 10ème jour.
+
+x
+
+EXERCICE 3 (5 points)
+Pour l’achat de leur appartement, Lise et Thomas ont besoin d’emprunter 160 000 € à la
+banque FranceCrédit. Cette banque propose de rembourser le prêt sur 18 ans. La première
+année, les mensualités sont de 1 250 €. Les mensualités baissent ensuite chaque année de 2%
+par rapport à celles de l’année précédente.
+Dans tout l’exercice, on arrondira les résultats à l’unité.
+On note 𝑢(𝑛) le montant, en euro, d’un remboursement mensuel au cours de la 𝑛-ième
+année de remboursement du prêt de FranceCrédit.
+On a ainsi, 𝑢(1) = 1250.
+1. Montrer que 𝑢(2) = 1225.
+2. On considère la feuille de calcul ci-contre.
+a. Quelle formule faut-il entrer en B3 pour obtenir, par recopie vers le bas, les
+premiers termes de la suite 𝑢 ?
+b. Quelle formule faut-il entrer en C2 pour obtenir, par recopie vers le bas, la somme
+dépensée l’année 𝑛 ?
+3. Montrer que la suite 𝑢 est géométrique. Justifier.
+4. Lise et Thomas souhaitent connaître la somme totale qu’ils auront dépensée lors des
+18 années du prêt. Lequel de ces trois scripts en Python permet de répondre à cette
+question ?
+Script 1
+
+Script 2
+
+Script 3
+
+EXERCICE 4 (5 points)
+Dans un centre de vacances, deux activités sont proposées aux adolescents : VTT et
+spéléologie.
+Les adolescents peuvent s’inscrire à une seule activité, ou aux deux, ou à aucune des deux.
+On sait que 60 adolescents se sont inscrits aux séances de VTT.
+40% des adolescents se sont inscrits en spéléologie et parmi eux, 50% se sont également
+inscrits aux séances de VTT.
+Il y a 80 adolescents dans ce centre de vacances.
+1. Montrer qu’il y a 16 adolescents qui se sont inscrits aux deux activités.
+2. Recopier et compléter sur votre feuille le tableau donné ci-dessous.
+
+Spéléologie
+
+VTT
+
+Pas VTT
+
+Total
+
+Pas spéléologie
+Total
+
+On considère les évènements :
+
+𝑉 : « L’adolescent s’est inscrit aux séances de VTT »
+𝑆 : « L’adolescent s’est inscrit en spéléologie »
+
+On interroge au hasard un adolescent de ce centre.
+3. Calculer la probabilité que l’adolescent interrogé ne se soit inscrit à aucune activité.
+4. L’adolescent interrogé s’est inscrit en VTT. Déterminer la probabilité qu’il se soit
+également inscrit en spéléologie.
+5. Calculer 𝑃𝑆̅ (𝑉).

@@ -1,0 +1,163 @@
+{"pages": 5, "method": "pdftotext", "bytes": 850246, "at": "2026-11-23T08:58:17+00:00"}
+PARTIE I - Exercice 1
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Cet exercice est un questionnaire à choix multiples. Pour chacune des dix questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une mauvaise réponse, plusieurs réponses ou l’absence de réponse ne rapportent ni
+n’enlèvent aucun point. Entourer, sur le sujet, la réponse correspondante choisie.
+1. Un objet coûte 327 €. Son prix diminue de 15 %.
+Pour connaître le nouveau prix de cet objet, on peut effectuer le calcul :
+a) 327 − 0,15
+b) 327 × 0,15
+c) 327 × 0,85
+d) 327 × 1,15
+2. Le prix d’un objet est passé de 200 € à 250 €.
+Le pourcentage d’augmentation du prix de cet objet est :
+a) 50 %
+
+b) 20 %
+
+c) 25 %
+
+d) 100 %
+
+3. Une somme d’argent est placée avec un taux d’intérêt annuel de 5 %. Pour calculer le
+montant des intérêts à l’issue de la première année, il faudra multiplier cette somme par :
+a) 0,5
+
+b) 0,05
+
+c) 0,95
+
+d) 1,05
+
+4. Le prix d’un téléphone portable a augmenté de 10 % puis a diminué de 10 %.
+Quelle proposition concernant le prix du téléphone après ces deux modifications est
+correcte ?
+a) Le prix du téléphone est revenu au prix initial.
+b) Le prix du téléphone a baissé.
+c) Le prix du téléphone a augmenté.
+d) On ne peut pas savoir.
+5. Le nombre de personnes ayant contracté le virus de la grippe a augmenté de 25 % entre
+les mois de janvier et février 2019 puis retombe en mars 2019 au même nombre qu’en
+janvier 2019.
+Le pourcentage de diminution du nombre de personnes ayant eu la grippe entre février et
+mars 2019 est :
+a) 10 %
+
+b) 20 %
+
+c) 25 %
+
+d) 50 %
+
+6. Le tableau de signes de la fonction 𝑓 définie sur 𝐑 par 𝑓(𝑥) = 4𝑥 − 8 est :
+a)
+
+b)
+
+c)
+
+d)
+
+7. L’ensemble des solutions dans R de l’inéquation −2𝑥 ≥ 10 est :
+a) 𝑆 = [−5 ; +∞[
+
+b) 𝑆 = [5 ; +∞[
+
+c) 𝑆 =] − ∞ ; −5]
+
+d) 𝑆 =] − ∞ ; 5]
+
+8. L’ensemble des solutions dans R de l’équation 𝑥 2 = 36 est :
+a) 𝑆 = {6}
+
+b) 𝑆 = {−18 ; 18}
+
+c) 𝑆 = {−√6 ; √6}
+
+d) 𝑆 = {−6 ; 6}
+
+9. L’ensemble des solutions dans R de l’équation 𝑥 2 = −100 est :
+a) 𝑆 = {− 10 ; 10}
+
+b) 𝑆 = {−50 ; 50}
+
+c) 𝑆 = {−10}
+
+d) 𝑆 = ∅
+
+10. L’ensemble des solutions dans R de l’équation (𝑥 + 3)(−3𝑥 + 12) = 0 est :
+a) 𝑆 = {− 3 ; 12}
+
+b) 𝑆 = {3 ; 4}
+
+c) 𝑆 = {−3 ; −4}
+
+d) 𝑆 = {−3 ; 4}
+
+PARTIE II
+Cette partie se compose de trois exercices indépendants.
+Calculatrice autorisée
+Exercice 2 : (5 points)
+On considère la fonction du second degré 𝑓 définie sur R dont la représentation graphique
+est donnée ci-dessous dans un repère.
+
+Par lecture graphique, répondre aux questions suivantes.
+1. Résoudre dans R l’équation (𝑥) = 0 .
+2. Dresser le tableau de signes de 𝑓(𝑥) sur R .
+3. Donner une équation de l’axe de symétrie de la courbe représentative de la
+fonction 𝑓.
+4. Dresser le tableau de variations de la fonction 𝑓.
+5. Résoudre dans R l’inéquation 𝑓(𝑥) ≥ 28.
+
+Exercice 3 : (5 points)
+On considère la fonction 𝑔
+définie sur R par
+𝑔(𝑥) = 𝑥 3 − 6𝑥 2 + 5.
+
+On a tracé ci-contre une partie
+de la représentation graphique
+de la fonction 𝑔 ainsi que la
+tangente à cette courbe au
+point d’abscisse 0.
+
+1. Déterminer graphiquement le nombre dérivé de la fonction g en 0.
+2. Déterminer, pour tout réel 𝑥, 𝑔′(𝑥) où 𝑔′ désigne la fonction dérivée de 𝑔.
+3. On admet que pour tout réel 𝑥, on a 𝑔′ (𝑥) = 3𝑥(𝑥 − 4) .
+Dresser le tableau de signes sur R de la fonction 𝑔′.
+4. En déduire le tableau de variations de la fonction 𝑔.
+5. On considère l’algorithme suivant :
+𝑥 = −1
+while 𝑥 3 − 6𝑥 2 + 5 > −10 :
+𝑥 = 𝑥 + 0,01
+Après exécution de cet algorithme, 𝑥 vaut 1,92.
+Interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 4 : (5 points)
+Dans une maternité, on estime qu’à la naissance, la probabilité qu’un enfant soit une fille est
+égale à 0,51 .
+On choisit de manière indépendante trois enfants nés dans cette maternité.
+On note 𝑋 la variable aléatoire qui prend pour valeur le nombre de filles parmi ces trois
+enfants.
+1.
+2.
+3.
+4.
+
+Représenter l’expérience aléatoire à l’aide d’un arbre de probabilité.
+Calculer la probabilité qu’exactement deux enfants soient des filles.
+Décrire l’événement {𝑋 = 0} puis calculer sa probabilité.
+Recopier sur la copie et compléter le tableau suivant donnant la loi de probabilité
+de 𝑋.
+
+𝑥
+
+𝑃({𝑋 = 𝑥})
+5. Calculer l’espérance de cette variable aléatoire.
+Interpréter ce résultat dans le contexte de l’exercice.

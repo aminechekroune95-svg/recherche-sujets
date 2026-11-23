@@ -1,0 +1,169 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1349586, "at": "2026-11-23T09:00:45+00:00"}
+ÉPREUVES COMMUNES DE CONTRÔLE CONTINU
+CLASSE : Première
+E3C : ☐ E3C1 ☒ E3C2 ☐ E3C3
+
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 6
+
+Exercice 1 (5 points)
+
+Cet exercice est un questionnaire à choix multiples (QCM). Les cinq questions sont
+indépendantes. Pour chacune des questions, une seule des quatre réponses est exacte.
+Le candidat indiquera sur sa copie le numéro de la question et la lettre correspondant à la
+réponse exacte.
+Aucune justification n’est demandée. Une réponse exacte rapporte un point, une réponse
+fausse ou une absence de réponse ne rapporte ni n’enlève aucun point.
+
+Question 1
+
+Pour 𝑥 pièces produites, le coût de fabrication 𝐶(𝑥), en milliers d’euros est donné par
+𝐶(𝑥) = 0,01𝑥 3 − 0,135𝑥 2 + 0,6𝑥 + 15, avec 𝑥 ∊ [0 ; 30].
+Pour 2 pièces produites, le coût de fabrication en euros est :
+
+15,74
+
+157,4
+
+1574
+
+15 740
+
+Question 2
+
+Soit 𝑓 une fonction polynôme du second degré donnée, pour tout nombre réel 𝑥 par
+𝑓(𝑥) = 𝑎𝑥 2 + 𝑏𝑥 + 𝑐, où 𝑎, 𝑏, 𝑐 sont réels. On note Δ son discriminant. On donne ci-dessous
+𝐶𝑓 la courbe représentative de 𝑓 et on suppose qu’elle admet l’axe des abscisses comme
+tangente en un de ses points.
+
+On peut affirmer que :
+a) 𝑎 < 0 et 𝛥 < 0
+
+b) 𝑎 > 0 et 𝛥 = 0
+
+𝑎 < 0 et 𝛥 = 0
+
+d) 𝑎 < 0 et 𝛥 > 0
+
+Question 3
+𝜋
+cos (𝑥 + 2 ) est égal à :
+
+cos(𝑥) − sin(𝑥)
+
+𝜋
+cos (𝑥 − )
+
+Question 4
+
+sin(𝑥)
+
+−sin(𝑥)
+
+Dans le plan rapporté à un repère orthonormé, on donne les points A(−7 ; 4) et B( 1 ; −2).
+Le cercle Γ de diamètre [AB] admet comme équation dans ce repère :
+
+(𝑥 + 7)2 + (𝑦 − 4)2 = 100
+
+(𝑥 + 3)2 + (𝑦 − 1)2 = 25
+
+(𝑥 + 3)2 + (𝑦 − 1)2 = 100
+
+(𝑥 + 7)2 + (𝑦 − 4)2 = 25
+
+Question 5
+
+Dans le plan rapporté à un repère orthonormé, les droites D et D’ d’équations cartésiennes
+respectives 3𝑥 + 2𝑦 − 1 = 0 et 6𝑥 + 4𝑦 + 2 = 0 sont :
+
+a) sécantes et non
+perpendiculaires
+
+b) confondues
+
+c) strictement
+parallèles
+
+d) perpendiculaires
+
+Exercice 2 (5 points)
+
+Une collectivité locale octroie une subvention de 116 610 € pour le forage d’une nappe
+d’eau souterraine. Une entreprise estime que le forage du premier mètre coûte 130 € ; le
+forage du deuxième mètre coûte 52 € de plus que celui du premier mètre ; le forage du
+troisième mètre coûte 52 € de plus que celui du deuxième mètre, etc.
+Plus généralement, le forage de chaque mètre supplémentaire coûte 52 € de plus que celui
+du mètre précédent.
+Pour tout entier 𝑛 supérieur ou égal à 1, on note : 𝑢𝑛 le coût du forage du 𝑛-ième mètre en
+euros et 𝑆𝑛 le coût du forage de 𝑛 mètres en euros ; ainsi 𝑢1 = 130.
+
+1. Calculer 𝑢2 et 𝑢3 .
+2. Préciser la nature de la suite (𝑢𝑛 ). En déduire l’expression de 𝑢𝑛 en fonction de 𝑛, pour tout
+𝑛 entier naturel non nul.
+3. Calculer 𝑆2 puis 𝑆3 .
+4. Afin de déterminer le nombre maximal de mètres que l’entreprise peut forer avec la
+subvention qui est octroyée, on considère la fonction Python suivante :
+def nombre_metre(S):
+C= 130
+n=1
+while C < S:
+C = C+ …
+n = n+1
+return n
+
+Compléter cet algorithme de sorte que l’exécution de la fonction nombre_metre(S)
+renvoie le nombre maximal de mètres que l’entreprise peut forer avec la subvention
+octroyée. Justifier votre réponse.
+5. On admet que, pour tout entier naturel non nul, 𝑆𝑛 = 26𝑛2 + 104𝑛 . En déduire la valeur de
+𝑛 que fournit la fonction Python donnée à la question 4. On expliquera la démarche utilisée.
+
+Exercice 3 (5 points)
+
+1. On lance deux dés cubiques équilibrés « classiques » et on note les numéros apparaissant
+sur la face supérieure de chaque dé.
+Soit 𝑋 la variable aléatoire égale au produit des numéros apparaissant sur les deux faces.
+Le jeu est gagné si le produit des numéros apparaissant sur les faces supérieures des deux
+dés lancés est strictement inférieur à 10.
+a. Donner les valeurs prises par la variable aléatoire 𝑋.
+b. Déterminer la loi de probabilité de 𝑋.
+c. Déterminer la probabilité de gagner.
+2. On lance à présent deux dés spéciaux : ce sont des dés cubiques parfaitement équilibrés
+dont les faces sont numérotées différemment des dés classiques.
+ Les faces du premier dé sont numérotées avec les chiffres : 1, 2, 2, 3, 3, 4.
+ Les faces du deuxième dé sont numérotées avec les chiffres : 1, 3, 4, 5, 6, 8.
+
+On note 𝑌 la variable aléatoire égale au produit des numéros apparaissant sur les deux faces
+après lancer de ces deux dés spéciaux.
+Déterminer 𝑃(𝑌 < 10).
+
+3. Est-il préférable de jouer au jeu de la question 1 avec des dés classiques ou avec des dés
+spéciaux ?
+
+Exercice 4 (5 points)
+
+
+
+Soit 𝑓 la fonction définie sur ℝ par : 𝑓(𝑥) = e2𝑥 + 6e𝑥 − 8𝑥 − 4.
+Dans le plan rapporté à un repère orthogonal, on considère :
+ 𝐶𝑓 la courbe représentative de la fonction 𝑓
+𝒟 la droite d’équation cartésienne 𝑦 = − 8𝑥 − 4.
+
+1. Montrer que, pour tout 𝑥 ∈ ℝ, 𝑓′(𝑥) = 2(e𝑥 − 1)(e𝑥 + 4).
+2. Étudier le signe 𝑓′(𝑥) sur ℝ .
+3. Dresser le tableau de variations de la fonction 𝑓 sur ℝ.
+4. En déduire le signe de 𝑓(𝑥) sur ℝ.
+5. La courbe 𝐶𝑓 et la droite 𝒟 ont-elles un point commun ? Justifier.

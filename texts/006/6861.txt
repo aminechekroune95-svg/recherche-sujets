@@ -1,0 +1,134 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1025487, "at": "2026-11-23T08:57:11+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1.
+
+Réponse
+
+Diminuer une quantité de 3 % revient à la
+multiplier par :
+
+…………..
+Augmenter une quantité de …… %
+revient à la multiplier par 2.
+
+2. Compléter la phrase ci-contre :
+Un litre de Gasoil coûtait il y a peu de temps 1,20
+3. €. Il vient d'augmenter de 30 centimes d'euro. De
+quel pourcentage a-t-il augmenté ?
+4.
+
+Un prix augmente de 10 % puis diminue de
+10 %. Quelle est l’évolution globale de ce prix ?
+
+À partir du tableau suivant, donner le taux
+d'évolution en pourcentage entre l'année 2014 et
+5. 2015.
+Année
+2014
+2015
+2016
+Indice
+
+Un prix augmente de 25 %. Quel est le
+6. pourcentage de baisse à appliquer au nouveau
+prix pour retrouver le prix de départ ?
+
+…………..
+
+7. Résoudre dans R l'équation : 2𝑥 + 1 = 7.
+8. Résoudre dans R l’équation : 𝑥 2 = 36
+9. Résoudre dans R l’inéquation : 3𝑥 − 1 > 𝑥 + 7.
+10.
+
+Compléter le tableau de signes ci-contre :
+
+𝑥
+
+-∞
+
+3(𝑥 − 4)(𝑥 + 2)
+
++∞
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 (5 points) :
+La pêche de certains poissons est limitée par le droit international. Pour ces espèces
+de poisson, chaque pays se voit attribuer une quantité maximale de pêche, appelée
+« quota », à ne pas dépasser. La France dispose d'un quota de 5 458 tonnes de
+thon rouge en 2019, près de 20% de plus qu’en 2018.
+On souhaite étudier les conséquences si une telle augmentation de 20% se poursuit
+chaque année à partir de 2019. On modélise la situation par la suite (𝑢𝑛 ) où pour tout
+entier naturel 𝑛, 𝑢𝑛 représente le quota de thon rouge en tonne pouvant être pêché
+par la France en 2019 + 𝑛 dans l’hypothèse où l’augmentation de 20% se poursuit
+chaque année. Ainsi 𝑢0 = 5 458.
+1. Quel serait le quota de thon rouge, en tonne, pouvant être pêché en 2020 ?
+2. a. Justifier que pour tout entier naturel 𝑛 on a : 𝑢𝑛+1 = 1,2 𝑢𝑛
+b. Quelle est la nature de la suite (𝑢𝑛 ) ? Préciser sa raison.
+3. a. Dans le repère fourni en annexe, représenter les six premiers termes de la
+suite (𝑢𝑛 ).
+b. En quelle année, le quota de thon rouge en tonne pouvant être pêché par la
+France aura-t-il doublé par rapport à celui de 2019 ?
+c. Pour des raisons de préservation, le quota de thon rouge pour la pêche au
+large des côtes du littoral français ne doit pas dépasser 12 000 tonnes. Quel
+commentaire peut-on faire à propos du modèle envisagé ?
+
+EXERCICE 3 ( 5 points)
+La courbe C ci-dessous représente le chiffre d’affaires exprimé en euro, d’une
+entreprise agricole en fonction de la quantité de pommes de terre récoltées, q,
+exprimée en tonne. La courbe C est une parabole.
+La droite D représente le coût de production en euro en fonction de la quantité
+récoltée.
+
+a. Déterminer graphiquement le chiffre d’affaires de l’entreprise agricole
+pour une récolte de 900 tonnes de pommes de terre.
+b. Déterminer graphiquement le coût de production pour une récolte de 900
+tonnes de pommes de terre.
+c. L’entreprise agricole gagne-t-elle ou perd-elle de l’argent en produisant
+900 tonnes de pommes de terre ? Justifier la réponse.
+2. Déterminer graphiquement la quantité de pommes de terre récoltées
+correspondant à un chiffre d’affaires maximal.
+3. La culture est rentable lorsque le chiffre d’affaires est supérieur au coût de
+production.
+Déterminer graphiquement dans quel intervalle doit varier la récolte q pour
+que la culture soit rentable.
+
+1.
+
+EXERCICE 4 ( 5 points)
+Un catalogue par correspondance propose un choix de montres à trois prix différents
+30€, 20€ et 10€.
+20 % des clients commandent une montre à 30 €, 30 % à 20 € et le reste à 10 €.
+Pour tous les modèles, il est possible de faire graver un message personnalisé au
+dos du cadran de la montre pour un montant de 10 €. Dans 60 % des cas et
+indépendamment du prix de la montre, les clients demandent cette personnalisation.
+On note :
+
+𝐴 l’évènement « le client commande une montre à 30 € »
+𝐵 l’évènement « le client commande une montre à 20 € »
+𝐶 l’évènement « le client commande une montre à 10 € »
+𝑀 l’évènement « le client demande un message personnalisé au dos
+du cadran »
+
+Pour tout évènement 𝐴, on note 𝑃(𝐴) la probabilité de l’évènement 𝐴 et 𝐴̅
+l’évènement contraire de l’évènement 𝐴.
+1. Construire un arbre pondéré illustrant la situation.
+2. a. Décrire par une phrase l’évènement 𝐴 ∩ 𝑀 .
+b. Calculer 𝑃(𝐴 ∩ 𝑀).
+On note 𝑋 la variable aléatoire prenant pour valeur le montant de la facture en
+euro d’un client commandant une montre.
+3. a. Quelles sont les valeurs prises par la variable aléatoire 𝑋 ?
+b. Donner la loi de probabilité de 𝑋 sous forme d’un tableau.
+c. Calculer l'espérance de la variable aléatoire 𝑋 . Interpréter ce résultat dans
+le contexte de l'exercice.
+
+Annexe à remettre avec la copie
+EXERCICE 2, question 3.a.

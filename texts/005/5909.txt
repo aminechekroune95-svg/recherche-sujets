@@ -1,0 +1,161 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1693684, "at": "2026-11-23T08:58:21+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante.
+Aucune justification n'est demandée.
+Énoncés
+1.
+
+Donner la fraction irréductible égale à :
++3
+
+2.
+
+Simplifier :
+2 3
+
+Réponses
+
+(3) × 24
+3.
+
+Donner le résultat sous la forme d’une fraction
+irréductible :
+1+2
+
+4.
+
+Résoudre dans 𝐑 l’équation :
+𝑥2 − 4 = 0
+
+5.
+
+Résoudre dans 𝐑 l’inéquation :
+𝑥+3>0
+
+6.
+
+Calculer le taux d’évolution global
+correspondant à une baisse de 20%, suivie
+d’une hausse de 10%
+
+7.
+
+On considère la courbe représentative d’une
+fonction 𝑓 définie sur 𝐑 . Compléter par lecture
+graphique :
+
+L’image de 5 par 𝑓 est :
+
+8.
+
+Les antécédents de 2 sont :
+
+9.
+
+Résoudre dans 𝐑, l’équation 𝑓(𝑥) =
+0:
+
+10.
+
+Résoudre dans , l’inéquation
+𝑓(𝑥) > 2 :
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une société propose des contrats annuels d’entretien de pompes à chaleur.
+Le directeur technique constate que chaque année, 17% de contrats supplémentaires sont
+souscrits et que 13 contrats sont résiliés.
+En 2018, l’entreprise dénombrait 110 contrats souscrits.
+On modélise cette situation par une suite 𝑢(𝑛), où 𝑢(𝑛) est le nombre de contrats souscrits
+l’année 2018 + 𝑛. On a donc 𝑢(0) = 110.
+1. Justifier que, pour tout entier naturel n, on a : 𝑢(𝑛 + 1) = 1,17𝑢(𝑛) – 13
+2. Calculer 𝑢(1) et 𝑢(2). Arrondir les résultats à l’unité.
+3. Cette suite est-elle arithmétique ? Justifier.
+4. Lorsque plus de 150 contrats seront souscrits dans l’année, la société devra
+embaucher des techniciens
+On cherche à savoir en quelle année l’entreprise devra embaucher des techniciens.
+Pour cela on utilise l’algorithme suivant :
+
+a) Recopier et compléter l’algorithme ci-dessus afin qu’à la fin de l’exécution de cet
+algorithme, il affiche l’année à laquelle l’entreprise devra embaucher des
+techniciens.
+b) À l’aide de votre calculatrice, déterminer l’année à laquelle l’entreprise devra
+embaucher des techniciens.
+
+Exercice 3 (5 points)
+Sur la figure ci-dessous, 𝐶𝑓 est la courbe représentative d’une fonction 𝑓 dérivable sur 𝐑.
+
+1. Dresser le tableau de variations de la fonction 𝑓.
+2. Avec la précision permise par le graphique, déterminer 𝑓(−4) et 𝑓(2).
+3. Avec la précision permise par le graphique , résoudre dans 𝐑 , l’ inéquation: 𝑓 (𝑥) 
+4. La tangente à la courbe 𝐶𝑓 au point A(4 ; 1) passe par le point B(3 ; −3).
+a) Calculer le nombre dérivé de f en 4, noté 𝑓’(4).
+b) Donner une équation de la tangente à la courbe 𝐶𝑓 au point d’abscisse 4.
+
+Exercice 4 (5 points)
+L’association sportive du lycée compte 280 adhérents. Ces adhérents se répartissent en
+deux catégories : les pensionnaires et les non pensionnaires (externes et demipensionnaires).
+Ces adhérents doivent obligatoirement choisir un sport et un seul parmi les trois proposés :
+le VTT, le football ou le badminton.
+On sait que :
+ 30 % des adhérents décident de pratiquer le VTT
+ 40 % des pensionnaires décident de pratiquer le football.
+ 70 adhérents choisissent le badminton.
+ 160 adhérents ne sont pas pensionnaires, et 36 d’entre eux choisissent le badminton
+
+1. Compléter le tableau en annexe à rendre avec la copie, qui donne la répartition des
+adhérents.
+2. On rencontre un adhérent au hasard (on admet que tous les adhérents ont la même
+probabilité d’être rencontrés).
+On considère les événements suivants :
+A : « l’adhérent rencontré est pensionnaire ».
+B : « L’adhérent rencontré a choisi le badminton ».
+Calculer la probabilité 𝑃(𝐴 ∩ 𝐵).
+3. a) Traduire par une phrase l’événement 𝐴 ∩ 𝐵̅
+b) Calculer 𝑃(𝐴 ∩ 𝐵̅ ).
+4. Sachant que l’adhérent rencontré pratique le football, calculer la probabilité qu’il soit
+pensionnaire. Écrire le résultat en utilisant la notation de probabilité conditionnelle.
+
+ANNEXE A RENDRE AVEC LA COPIE
+
+Annexe 2
+VTT
+Non
+pensionnaires
+
+Football
+
+Badminton
+
+TOTAL
+
+Pensionnaires
+
+TOTAL

@@ -1,0 +1,211 @@
+{"pages": 7, "method": "pdftotext", "bytes": 769254, "at": "2026-11-23T08:57:53+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+Automatismes (5 points)
+Cet exercice est un questionnaire à choix multiples. Pour chacune des questions suivantes,
+une seule des quatre réponses proposées est exacte. Aucune justification n’est demandée.
+Une bonne réponse rapporte un demi-point. Une mauvaise réponse, plusieurs réponses ou
+l’absence de réponse ne rapportent ni n’enlèvent aucun point.
+Entourer, sur le sujet, la réponse correspondante choisie.
+Question n°1
+
+A)
+
+B)
+
+C)
+
+Question n°2
+
+A)
+
+×
+
+B)
+
+C)
+
+Question n°3
+6×102
+3×104
+
+A) 0,063
+
+B) 2×102
+
+C) 2×106
+
+D) 2×10−2
+
+Question n°4
+
+La formule du volume 𝑉 d’un cône est 𝑉 = 3  𝑅²ℎ. On a donc :
+A) ℎ =
+
+𝑉
+3 𝑅²
+
+B) ℎ =
+
+2 ℎ
+
+C) ℎ =
+
+ 𝑅²
+
+D) ℎ =
+
+ 𝑅²
+
+Pour les questions n°5 et 6
+On considère une fonction 𝑓 définie sur
+l’intervalle [−2 ; 3], dont la courbe représentative
+dans un repère (O, I, J) est donnée ci-dessous.
+Question n°5
+L’équation 𝑓(𝑥) = 1 admet :
+A) aucune solution
+B) une unique solution
+
+C) deux solutions
+
+D) quatre solutions
+
+Question n°6
+On peut affirmer que, sur l’intervalle [0,5 ; 2], la fonction est :
+A) positive
+B) croissante
+C) négative
+
+D) décroissante
+
+Question n°7
+Dans un repère, les points S et T ont pour coordonnées : S(2 ; 1) et T(4 ; 7).
+Le coefficient directeur de la droite (ST) est :
+A) −3
+B) 3
+C) 5
+
+Question n°8
+108 dm3 correspondent à :
+A) 1080 cm3
+B) 108 000 cm3
+
+C) 0,108 cm3
+
+D) 10,8 cm3
+
+Question n°9
+On considère une série statistique dont le diagramme en boîte figure ci-dessous :
+
+On peut affirmer que :
+A) La moyenne est 8
+
+B) L’étendue est 12
+
+C) L’écart
+interquartile est 9
+
+D) La médiane est 8
+
+Question n°10
+Une consommation d’eau est passée de 50 m3 pour l’année 2017 à 40 m3 pour l’année
+2018. On peut affirmer que cette consommation d’eau :
+A) a baissé de 10 %
+
+B) a baissé de 20 %
+
+C) a baissé de 25 %
+
+D) a baissé de 80%
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+Exercice 2 : (5 points)
+On considère la fonction 𝑉 définie sur ℝ par (𝑥) = 5(2𝑥 + 3)(3𝑥 + 2)(2 − 𝑥) .
+On appelle 𝐶 la représentation graphique de la fonction 𝑉 dans un repère orthogonal.
+1. Donner les solutions de l'équation 𝑉(𝑥) = 0 .
+2. Dresser le tableau de signes sur ℝ de la fonction 𝑉.
+3. En déduire les solutions dans ℝ de l’inéquation 𝑉(𝑥) ≥ 0 .
+4. La courbe représentative de la fonction 𝑉 sur l’intervalle [0 ; 2] est donnée en
+annexe 1.
+Résoudre graphiquement l’inéquation 𝑉(𝑥) ≥ 80 sur l'intervalle [0 ; 2] en laissant
+visibles les traits de construction sur la courbe fournie en annexe 1 à rendre avec la
+copie.
+5. On considère l’algorithme ci-dessous :
+def V(x):
+return 5*(2*x + 3)*(2 - x)*(3*x + 2)
+x=0
+while V(x) < 80 :
+x = x + 0.1
+À la fin de l’exécution, la variable x vaut 0,3.
+Donner une interprétation de cette valeur dans le contexte de l’exercice.
+
+Exercice 3 : (5 points)
+Partie A
+Sur le graphique donné ci-dessous, 𝐶𝑓 est la représentation graphique d’une fonction 𝑓
+définie et dérivable sur ℝ. La droite 𝑇 est la tangente à 𝐶𝑓 au point d’abscisse −1.
+
+1. Par lecture graphique, donner 𝑓(1) et 𝑓(−1).
+2. Déterminer graphiquement l’équation réduite de la tangente 𝑇.
+Partie B
+On admet que la fonction 𝑓 est définie, pour tout 𝑥 de ℝ, par 𝑓(𝑥) = 𝑥 3 − 𝑥 2 − 𝑥 + 2 .
+1. Déterminer 𝑓’(𝑥) pour tout 𝑥 appartenant à ℝ.
+2. Dans la suite de l’exercice, on admet que, pour tout 𝑥 appartenant à ℝ, on a
+𝑓 ′ (𝑥) = (𝑥 − 1)(3𝑥 + 1).
+On considère les trois tableaux de signes ci-dessous.
+Tableau 1
+
+Tableau 2
+
+Tableau 3
+
+−3
+
+−3
+
+Déterminer, parmi ces trois tableaux, celui qui correspond à la fonction 𝑓′. Justifier.
+3. Dresser le tableau de variations de la fonction 𝑓 sur ℝ.
+
+Exercice 4 : (5 points)
+Dans un club de judo les adhérents sont classés par catégorie d’âge et suivant le sexe. Une
+partie des effectifs de chaque catégorie est donnée dans le tableau croisé d’effectifs fourni
+en annexe 2, à rendre avec la copie.
+1. Compléter, sans justifier, le tableau fourni en annexe 2.
+Pour les questions suivantes, les réponses seront données sous forme décimale ou sous
+forme d’une fraction irréductible.
+2. Calculer la fréquence d’adultes parmi les adhérents de ce club.
+3. On choisit au hasard un adhérent du club de judo, chaque adhérent ayant la même
+probabilité d’être choisi.
+On considère les événements suivants :
+
+E : « L’adhérent est un enfant »
+F : « L’adhérent est une femme »
+G : « L’adhérent est un homme »
+
+a. Calculer la probabilité de l’événement E.
+b. Calculer la probabilité de E  F et l’interpréter dans le contexte de l’exercice.
+c. Calculer la probabilité que l’adhérent soit une femme sachant que c’est un
+enfant.
+
+ANNEXE 1
+
+ANNEXE 2
+
+Enfants :
+de 11 à 14 ans
+Femmes
+
+Hommes
+Total
+
+Jeunes :
+de 15 à 20 ans
+
+Adultes :
+21 ans et plus
+
+Total

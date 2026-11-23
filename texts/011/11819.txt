@@ -1,0 +1,161 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1221762, "at": "2026-11-23T08:53:28+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Pour chaque question, indiquer la réponse dans la case correspondante. Aucune
+justification n'est demandée.
+Énoncé
+
+Donner la fraction irréductible égale à
+1 2 5
+( ) − ×3
+
+Donner la forme développée et réduite de
+3𝑥 (𝑥 + 1) − (2𝑥 + 3)2
+
+Un prix baisse de 10 % puis augmente de
+10 %. Quel est le pourcentage d’évolution
+global ?
+
+À partir de 2020, une population d’oiseaux
+diminue de 1,5 % par an. Cette situation
+est modélisée par une suite (𝑢𝑛 ) où 𝑢𝑛 est
+le nombre d’oiseaux en 2020 + 𝑛. Donner
+la nature de la suite (𝑢𝑛 ) en précisant sa
+raison.
+
+Donner le tableau de signe de l’expression
+4(𝑥 − 1)(𝑥 + 2).
+
+Résoudre dans 𝐑 l’équation 4𝑥 2 = 25.
+
+Soit 𝑓 la fonction définie sur 𝐑 par
+𝑓(𝑥) = 2𝑥 3 − 3𝑥 + 5
+Donner l’expression de la dérivée de 𝑓.
+
+Réponse
+
+−∞
+
+𝑥
+4(𝑥 − 1)(𝑥 + 2)
+
+𝑓′(𝑥) =
+
++∞
+
+Dans le repère ci-dessous, sont tracées la
+courbe représentative d’une fonction 𝑓 et
+la tangente à cette courbe au point
+d’abscisse 1.
+
+Quel est le nombre dérivé de 𝑓 en 1 ?
+
+Dans le plan muni d’un repère, le point 𝐴
+de coordonnées (−1; −7) appartient-il à la
+courbe d’équation 𝑦 = 2𝑥 2 + 4𝑥 − 1 ?
+Quelle parabole représente la fonction 𝑔
+définie par 𝑔(𝑥) = −(𝑥 − 2)(𝑥 + 1) ?
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un aménagement autoroutier prévoit la construction d'un bassin de rétention d'eau
+enterré, en forme de parallélépipède rectangle. Celui-ci est modélisé ci-dessous par
+le solide ABCDSEFG. La surface au sol est le rectangle ABCD.
+
+Les contraintes techniques imposent un volume de 360 m 3 et une profondeur de 2,5 m.
+De plus, la longueur et la largeur de la surface au sol doivent être comprises entre 4 m et 36
+m.
+1. Démontrer que l'aire de la surface du bassin au niveau du sol est fixe et égale à
+144 m2.
+On nomme 𝑥 la longueur en mètre du bassin avec 𝑥 ∈ [4; 36]. La largeur du bassin, en
+fonction de 𝑥, est donc égale à 𝑥 . On note 𝑝(𝑥) le périmètre du bassin au niveau du sol et
+on admet que
+𝑝(𝑥) = 2𝑥 +
+𝑥
+2. Calculer 𝑝′(𝑥) pour tout nombre réel 𝑥 de l'intervalle [4; 36].
+2(𝑥−12)(𝑥+12)
+3. Démontrer que, pour tout nombre réel 𝑥 de l'intervalle [4; 36], 𝑝′ (𝑥) =
+.
+𝑥2
+4. Dresser le tableau de signe de la dérivée 𝑝′(𝑥), puis le tableau de variations de la
+fonction 𝑝 sur [4; 36].
+5. On souhaite protéger le bassin avec une clôture qui en fait exactement le tour.
+Donner les dimensions du bassin qui permettent d'employer la plus petite
+longueur possible de clôture.
+
+Exercice 3 (5 points)
+Une entreprise engage un nouvel employé au 1er janvier 2021. Le contrat de travail
+prévoit un salaire annuel de 24 000€ en 2021 et une augmentation de 3% le 1 er
+janvier de chaque année.
+1. Écrire un calcul justifiant que le salaire obtenu en 2022 avec ce contrat est 24 720€.
+On modélise le salaire annuel en euro par une suite 𝑢 pour laquelle, pour tout entier
+naturel 𝑛, 𝑢𝑛 représente le salaire perçu l'année (2021 + 𝑛).
+Ainsi 𝑢0 = 24 000.
+2. Quelle est la nature de la suite 𝑢 ?
+3. Calculer le salaire perçu en 2030.
+4. On donne le programme suivant écrit en langage Python.
+def cumul(duree) :
+montant = 0
+u = 24000
+for compteur in range(duree) :
+montant = montant + u
+u = u * 1.03
+return montant
+Que renvoie cumul(5)? Interpréter la réponse obtenue dans le contexte de
+l’exercice.
+5. Dans l’objectif de constituer une épargne de 50 000 €, l’employé envisage
+d’économiser chaque année un dixième de son salaire. Combien d’années
+lui faudra-t-il pour atteindre son objectif en procédant ainsi ?
+
+Exercice 4 (5 points)
+Une usine fabrique des pièces pour des vélos électriques à l'aide de trois machines
+𝑎, 𝑏 et 𝑐. La machine 𝑎 produit 40 % des pièces, la machine 𝑏 en produit 35 % et la
+machine 𝑐 produit le reste.
+Après une étude de qualité, il apparaît que 2 % des pièces issues de la machine 𝑎
+sont défectueuses. L’étude a aussi montré que les machines 𝑏 et 𝑐 produisent aussi
+quelques pièces défectueuses.
+On choisit au hasard une pièce produite dans l'usine. On note 𝐴, 𝐵, 𝐶 et 𝐷 les
+événements respectifs « la pièce provient de la machine 𝑎 », « la pièce provient de la
+̅
+machine 𝑏 », « la pièce provient de la machine 𝑐 » et « la pièce est défectueuse » ; 𝐷
+est l'événement « la pièce est conforme ».
+On a construit ci-dessous un arbre pondéré de probabilités incomplet qui traduit cette
+situation.
+
+1. Que signifie le nombre 0,97 dans l’arbre de probabilités ci-dessus ?
+2. Reproduire et compléter l’arbre en remplaçant uniquement les pointillés par
+des valeurs en écriture décimale.
+3. Grâce à cet arbre, calculer et donner en pourcentage la probabilité que la
+pièce soit issue de la machine 𝑎 et défectueuse.
+4. Le contrôle qualité a aussi montré que la probabilité qu’une pièce soit issue de
+la machine 𝑐 et soit défectueuse est égale à 1 %.
+a. Calculer et donner en pourcentage la probabilité que la pièce choisie
+au hasard soit défectueuse, sachant qu'elle provient de la machine 𝑐.
+b. Finir de compléter l’arbre en indiquant les probabilités sur les branches
+issues de l’évènement 𝐶. En déduire la probabilité que la pièce choisie
+au hasard soit défectueuse.

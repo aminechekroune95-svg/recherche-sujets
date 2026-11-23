@@ -1,0 +1,154 @@
+{"pages": 6, "method": "pdftotext", "bytes": 1222045, "at": "2026-11-23T08:54:07+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 6
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Enoncé
+
+1.
+
+Réponse
+
+Augmenter de 57% une quantité revient à multiplier cette
+quantité par …
+
+2.
+
+Un prix de 30 € est augmenté de 11 %. Quelle est alors sa
+valeur ?
+
+3.
+
+Augmenter un nombre de 10 % puis le diminuer de 10 %
+revient à le multiplier par :
+
+4.
+
+5.
+
+Résoudre l’équation suivante 3𝑥 + 7 = 4𝑥 − 8.
+
+La distance de freinage d’un véhicule est donnée par la
+𝑉2
+formule suivante : 𝐷 =
+. Lorsque 𝑉 = 6, 𝐺 = 10 et
+2×𝐺×𝑎
+𝑎 = 0,6 , quelle est la valeur de 𝐷 ?
+
+6.
+
+Un véhicule roule à 72 km/h, quelle est sa vitesse en m/s.
+
+7.
+
+Résoudre dans ℝ l’inéquation 5(2 − 𝑥) ≤ 10𝑥 + 5.
+
+Pour les questions 8. et 9., on utilisera le tableau donné ci-dessous
+
+Voici les sommes versées au titre des charges sociales par une entreprise.
+Année
+
+2016
+
+2017
+
+2018
+
+2019
+
+Charges sociales
+
+Indices
+
+109,1
+
+157,7
+
+145,1
+
+8.
+
+Quel est le taux d’évolution totale en % des charges sociales
+versées entre les années 2016 et 2018 ?
+
+9.
+
+Quel est le taux d’évolution en % des charges sociales
+versées entre 2018 et 2019 ?
+On considère la fonction 𝑓 définie sur [−4; 2].
+La courbe représentative de la fonction 𝑓 est donnée cicontre dans un repère orthonormé.
+
+10.
+
+Donner le tableau de signe de la fonction f sur [−4; 2].
+
+PARTIE II
+Exercice 2 (5 points)
+Pierre vend des tee-shirts durant toute la durée du Tour de France, il se
+déplace de ville en ville en même temps que la caravane du Tour de France.
+Pierre a un stock de 5 000 tee-shirts au départ du Tour de France. A chaque
+départ d’une étape, il vend 7 % de son stock de la veille.
+On note 𝑢0 = 5 000 et pour tout nombre entier naturel n, 𝑢𝑛 désigne le
+nombre de tee-shirts restant en stock à l’arrivée de l’étape 𝑛 de Tour de
+France.
+1. Calculer 𝑢1 et 𝑢2 .
+2. Exprimer 𝑢𝑛 en fonction de 𝑛.
+3. Sachant que le Tour de France comporte 21 étapes, déterminer le nombre de
+tee-shirts invendus par Pierre à la fin du Tour de France.
+4. Pierre sait qu’il fera des bénéfices lorsqu’il aura vendu 3 500 tee-shirts.
+Pour déterminer à partir de quelle étape il réalisera des bénéfices, il souhaite
+écrire un algorithme. Compléter cet algorithme écrit en langage Python :
+def benefice() :
+n=0
+u=5000
+while u > … :
+u=…
+n=…
+return n
+
+5. Déterminer à partir de quelle étape, Pierre fera des bénéfices.
+
+Exercice 3 (5 points)
+Dans une ville où le maire souhaite mettre en place de façon systématique le tri des
+déchets, 38 % des habitants de la ville trient déjà leurs déchets. On interroge au
+hasard 3 habitants de cette ville, de façon aléatoire et indépendante dans la rue
+pour savoir si ils trient leurs déchets. On désigne par X la variable aléatoire égale
+au nombre de réponses positives.
+On suppose que le nombre d’habitants de cette ville est suffisamment grand
+pour que le sondage soit assimilé à un tirage avec remise.
+1. Quelle est la loi suivie par la variable aléatoire X ? Justifier la réponse.
+2. Calculer P (X = 0).
+3. Calculer la probabilité qu’au moins une personne interrogée trie ses déchets.
+4. Calculer l’espérance de la variable aléatoire 𝑋.
+5. Interpréter ce résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+On considère la fonction 𝑓 définie sur l’intervalle [−1; 3] par
+𝑓(𝑥) = 2𝑥 3 − 6𝑥 2 + 5.
+1. Déterminer l’image de −4 par la fonction 𝑓.
+2. On désigne par 𝑓′ la fonction dérivée de la fonction 𝑓 sur l’intervalle [−1; 3].
+Montrer que pour tout 𝑥 ∈ [−1; 3], 𝑓 ′ (𝑥) = 6𝑥(𝑥 − 2).
+3. Déterminer le signe de 𝑓 ′ (𝑥) sur l’intervalle [−1 ; 3].
+4. En déduire le tableau de variation de la fonction f sur l’intervalle [−1; 3].
+5. Déterminer l’équation de la tangente de la courbe représentative de la fonction
+𝑓 au point d’abscisse 1.

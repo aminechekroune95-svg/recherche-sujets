@@ -1,0 +1,121 @@
+{"pages": 4, "method": "pdftotext", "bytes": 636358, "at": "2026-11-23T08:58:16+00:00"}
+PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+AUTOMATISMES (5 points)
+
+Énoncé
+
+1.
+
+Diminuer une valeur de 35 % revient à la
+multiplier par
+
+2.
+
+Le taux d’évolution en pourcentage pour un
+prix passant de 210 euros à 420 euros est de
+
+3.
+
+Si une quantité est multipliée par 4 alors elle
+subit une augmentation de
+
+4.
+
+Lorsque l’on diminue 1 200 de 5 %, on
+obtient
+
+5.
+
+Après une baisse de 20 %, par quel nombre
+faut-il multiplier le résultat pour revenir à la
+valeur initiale ?
+
+Réponse
+
+Énoncé
+
+6.
+
+Une augmentation de 10 % suivie d’une
+diminution de 30 % revient à une
+
+Réponse
+
+…
+
+de
+
+Résoudre dans R l’équation
+7.
+2𝑡 − 8 = 5𝑡 + 13
+
+8.
+
+Résoudre dans R l’équation
+𝑥2 =
+
+Résoudre dans R l’inéquation
+9.
+
+10.
+
+−2𝑥 + 12 > 0
+
+Établir le tableau de signe sur R de
+l’expression 𝑃(𝑥) = (1 − 𝑥)(𝑥 + 2).
+
+… %
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+
+EXERCICE 2 (5 points)
+
+Une styliste fabrique des casquettes qu’elle met en vente. On suppose que toutes les
+casquettes fabriquées sont vendues. La styliste effectue une étude sur la production
+d’un nombre de casquettes compris entre 0 et 60. Elle estime que le coût de
+production en euros de 𝑥 casquettes est modélisé par la fonction 𝐶 dont l’expression
+est :
+𝐶(𝑥) = 𝑥 2 − 10𝑥 + 500, où 𝑥 appartient à l’intervalle [0 ; 60].
+Chaque casquette est vendue 50 euros pièce.
+On note 𝑅(𝑥) le chiffre d’affaires en euros obtenu pour la vente de 𝑥 casquettes,
+c’est-à-dire le montant de la vente de 𝑥 casquettes.
+1. Exprimer 𝑅(𝑥) en fonction de 𝑥.
+2. Pour tout 𝑥 appartenant à l’intervalle [0 ; 60], on pose 𝐷(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+a. Montrer que 𝐷(𝑥) = −𝑥 2 + 60𝑥 − 500.
+b. Calculer 𝐷(10).
+c. En déduire une factorisation de 𝐷(𝑥).
+3. a. Établir le tableau de variation de 𝐷 sur [0,60].
+b. En déduire le nombre de casquettes à fabriquer et à vendre pour obtenir un
+profit 𝐷(𝑥) maximal. Que vaut alors ce profit ?
+
+EXERCICE 3 (5 points)
+
+Soit 𝑓 la fonction définie sur l’intervalle [- 5 ; 5] par 𝑓(𝑥) = 𝑥 3 − 3𝑥 2 − 24𝑥 + 8.
+1. a. Calculer 𝑓′(𝑥), où 𝑓′ désigne la fonction dérivée de 𝑓 sur l’intervalle
+[- 5 ; 5].
+b. Vérifier que pour tout 𝑥 appartenant à [- 5 ; 5], 𝑓 ′ (𝑥) = 3(𝑥 − 4)(𝑥 + 2).
+2. a. Étudier le signe de 𝑓 ′ (𝑥) sur l’intervalle [- 5 ; 5]
+b. En déduire les variations de 𝑓 sur l’intervalle [- 5 ; 5].
+3. Déterminer la valeur de 𝑥 pour laquelle la fonction 𝑓 admet un maximum sur
+l’intervalle [-5 ; 5] et en préciser la valeur.
+4. Déterminer l’équation réduite de la tangente à la courbe au point d’abscisse 0.
+
+EXERCICE 4 (5 points)
+On s’intéresse aux familles ayant exactement trois enfants.
+On prend au hasard une de ces familles et on note le sexe de chaque enfant dans
+l’ordre des naissances. Ainsi, FFG désigne l’issue : « Les deux premiers enfants sont
+des filles et le troisième un garçon ».
+1. a. Écrire toutes les issues possibles. On pourra s’aider d’un arbre.
+b. On choisit le modèle d’équiprobabilité. Quelle est la probabilité d’obtenir
+l’issue FFG ?
+2. On considère la variable aléatoire 𝑋, qui à chaque issue associe le nombre de
+filles dans la famille.
+a. Quelles sont les valeurs prises par 𝑋 ?
+b. Recopier et compléter : {𝑋 = 1} = {𝐹𝐺𝐺; … }. En déduire 𝑃(𝑋 = 1).
+c. Déterminer la loi de probabilité de 𝑋.

@@ -1,0 +1,126 @@
+{"pages": 6, "method": "pdftotext", "bytes": 542412, "at": "2026-11-23T08:57:30+00:00"}
+Mathématiques : PARTIE I.
+Automatismes (5 points) - Exercice 1
+Sans calculatrice - Durée : 20 minutes
+Cet exercice comporte dix questions. Pour chaque question, inscrire la réponse dans
+la colonne de droite. Aucune justification n’est demandée.
+
+Énoncé
+1.
+
+Calculer 12 − 3 × 5.
+
+2.
+
+Calculer les trois quarts de 12 .
+
+3.
+
+Calculer 𝐹 = 3 + 7
+
+4.
+
+On donne 𝑚 =
+
+Réponse
+
+𝑎+𝑏
+
+.
+
+Exprimer 𝑏 en fonction de 𝑎 et 𝑚.
+103 × 1011
+
+sous la forme 10𝑛 , où 𝑛 est un entier.
+
+5.
+
+Écrire
+
+6.
+
+Convertir 3,2 heures en heures et minutes.
+
+7.
+
+Déterminer l’expression développée de l’expression
+(3 𝑥 − 1)(2 𝑥 − 4).
+
+8.
+
+Résoudre dans R l’équation 6 𝑥 − 3 = −3 𝑥 + 15.
+
+9.
+
+Dans le plan muni d’un repère, on considère les points
+A (2 ; – 5) et B (4 ; 1).
+Calculer le coefficient directeur de la droite (AB).
+
+10.
+
+Déterminer l’ordonnée du point M d’abscisse 3 appartenant
+à la droite d’équation 𝑦 = 2 𝑥 − 5.
+
+Mathématiques : PARTIE II.
+Calculatrice autorisée.
+Cette partie se compose de trois exercices indépendants.
+
+Exercice 2 : (5 points)
+Pour une croisière, un voyagiste loue des cabines individuelles.
+On modélise le nombre de cabines individuelles louées pour la croisière par la
+fonction 𝑓 définie sur l’intervalle [2 000 ; 9 000] par :
+𝑓(𝑥) = −0,02 𝑥 + 200
+où 𝑥 représente le prix, exprimé en euro, de la location d’une cabine individuelle.
+1. Dans cette question, le prix pour une cabine individuelle est de 2 500 euros.
+Calculer le nombre de clients réservant une cabine.
+2. Montrer que la recette du voyagiste pour cette croisière est donnée par la fonction
+𝑅 définie sur l’intervalle [2 000 ; 9 000] par :
+𝑅(𝑥) = −0,02 𝑥 2 + 200 𝑥
+3. On désigne par 𝑅′ la fonction dérivée de 𝑅 sur l’intervalle [2 000 ; 9 000].
+a. Calculer l’expression 𝑅 ′ (𝑥) de la fonction dérivée.
+b. Étudier le signe de 𝑅 ′ (𝑥) sur l’intervalle [2 000 ; 9 000].
+c. En déduire le tableau de variation de la fonction 𝑅 sur l’intervalle
+[2 000 ; 9 000].
+
+Exercice 3 : (5 points)
+Un importateur de maillots de bain souhaite lancer un nouveau produit pour la
+période estivale et s’intéresse donc au marché de l’offre et de la demande.
+Lorsque le maillot a un prix unitaire compris entre 9 € et 20 €, on obtient les courbes
+modélisant les courbes d’offre et de demande suivantes.
+
+Les réponses seront données avec la précision permise par le graphique.
+Aucune justification n’est demandée.
+1. Donner la valeur de l’offre du nombre de maillots de bain liée à un prix unitaire de
+13 €.
+2. Indiquer la différence entre la demande et l’offre du nombre de maillots pour un
+prix unitaire de 11 €.
+3. Donner l’intervalle de prix unitaire sur lequel la demande est supérieure à l’offre.
+4. Le point d’équilibre est obtenu quand l’offre et la demande sont égales.
+a. Indiquer dans ce cas le prix unitaire du maillot.
+b. Indiquer dans le nombre de maillots correspondant.
+
+Exercice 4 : (5 points)
+Un apiculteur a constaté, entre le 1er mars 2018 et le 1er mars 2019, que la
+population d’abeilles adultes de ses ruches a baissé de 8 % par an.
+Il estime que la population va baisser de la même façon les années suivantes.
+On étudie la population d’une ruche qui comptait 60 000 abeilles au 1er mars 2019.
+On désigne par 𝐴𝑛 le nombre d’abeilles de cette ruche le 1er mars de l’année (2019 +
+𝑛).
+Ainsi, 𝐴0 = 60 000.
+1. Calculer le nombre 𝐴1 d’abeilles le 1er mars 2020.
+2. On admet que la suite (𝐴𝑛 ) est géométrique. Déterminer sa raison.
+3. Préciser, en justifiant, le sens de variation de la suite (𝐴𝑛 ).
+4. On admet que, pour tout 𝑛 entier naturel, on a : 𝐴𝑛 = 60 000 × 0,92𝑛 .
+Calculer, en arrondissant à l’unité, le nombre d’abeilles estimé le 1er mars 2026.
+5. Une ruche, pouvant accueillir au plus 60 000 abeilles, produit du miel si au moins
+10 000 abeilles l’habitent
+Voici un programme écrit en langage Python.
+def miel():
+a = 60000
+n=0
+while a > 10000 :
+a = a*0.92
+n = n+1
+return n
+À la fin de l’exécution de ce programme, la variable n vaut 22.
+Interpréter cette valeur dans le contexte de cet exercice.

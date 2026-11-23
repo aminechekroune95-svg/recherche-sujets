@@ -1,0 +1,164 @@
+{"pages": 9, "method": "pdftotext", "bytes": 1483561, "at": "2026-11-23T08:53:34+00:00"}
+ÉVALUATIONS
+CLASSE : Terminale
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2h
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 9
+
+PARTIE I
+AUTOMATISMES
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Exercice 1 (5 points)
+
+1.
+2.
+
+3.
+
+Enoncé
+
+Réponses
+
+Calculer − .
+Mettre sous la forme d’une unique
+puissance 10−2 × 10−8 .
+Déterminer le coefficient multiplicateur associé à
+deux baisses successives de 10%.
+Déterminer l’image de −2 par la fonction 𝑓 définie
+
+4.
+
+pour tout réel 𝑥 non nul par 𝑓(𝑥) = 7𝑥 2 − 𝑥 .
+On donne ci-contre
+la courbe
+représentative d’une
+fonction 𝑓 définie
+sur R.
+
+5.
+
+Lire graphiquement
+un antécédent de 1
+par la fonction f.
+
+6.
+
+7.
+
+Développer et réduire l’expression (5𝑥 + 1)2 .
+
+Déterminer l’équation
+réduite de la droite tracée
+dans le repère ci-contre.
+
+8.
+
+9.
+
+10.
+
+Déterminer la fonction dérivée de la fonction 𝑓
+définie sur R par 𝑓(𝑥) = 2𝑥 3 − 2𝑥 + 12.
+On considère la fonction ℎ définie sur R par
+ℎ(𝑥) = 𝑥 2 − 7𝑥 + 9.
+Déterminer le coefficient directeur de la tangente à
+la courbe représentative de la fonction ℎ au point
+d'abscisse 5.
+𝑉𝐷 et 𝑉𝐴 désignent des nombres strictement positifs.
+Si 𝑡 =
+
+𝑉𝐴 −𝑉𝐷
+𝑉𝐷
+
+, exprimer 𝑉𝐷 en fonction de 𝑉𝐴 et 𝑡.
+
+PARTIE II
+Calculatrice autorisée selon la réglementation en vigueur
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+On injecte une dose de 2 mL d’un médicament anti douleur à un patient.
+La quantité du médicament présente dans l’organisme diminue chaque heure de 4%.
+La quantité de médicament présente dans l’organisme, exprimée en mL, est modélisée par la
+fonction 𝑓 définie sur l’intervalle [0 ; 24] par 𝑓(𝑡) = 2 × 0,96𝑡 où 𝑡 désigne la durée écoulée,
+exprimée en heures, depuis l’injection.
+La courbe représentative de cette fonction est tracée ci-dessous.
+
+Volume du médicament (en mL)
+
+Durée (en heures)
+
+1. Avec la précision permise par le graphique :
+a) Déterminer la quantité de médicament présente dans l’organisme 6 heures après
+l’injection.
+b) Déterminer la durée nécessaire pour que la quantité de médicament présente
+dans l’organisme après l’injection soit inférieure à 50% de la quantité initiale.
+2. Calculer la quantité, arrondie au centième près, de médicament présente dans
+l’organisme au bout de 24 heures.
+3. On souhaite déterminer par le calcul la durée nécessaire pour que la quantité de
+médicament présente dans l’organisme soit inférieure à 1,2 mL.
+a) Traduire ce problème à l’aide d’une inéquation.
+b) En déduire la durée recherchée.
+
+Exercice 3 (5 points)
+Dans cet exercice, la fonction logarithme décimal est notée 𝑥 ⟼ log(𝑥). Sa courbe
+représentative sur l’intervalle ]0 ; 500] est donnée ci-dessous.
+
+Un client place un capital 𝐶, exprimé en milliers d’euros, à intérêts composés.
+Le taux annuel est noté 𝑖 et le capital acquis après 𝑛 annuités est noté 𝐴𝑛 .
+Les variables 𝐴𝑛 , 𝐶, 𝑛 et 𝑖 sont liées par la relation suivante :
+log(𝐴𝑛 ) = log(𝐶) + 𝑛 × log(1 + 𝑖)
+Dans tout l’exercice, on suppose que le taux annuel 𝑖 est de 5%. On pourra alors considérer
+que 0,021 est une valeur approchée de log(1 + 𝑖).
+1. Le client désire placer 100 000 €. Ainsi 𝐶 = 100.
+a. Calculer log(𝐴30 ).
+b. Avec la précision permise par le graphique, donner une valeur approchée de
+𝐴30 . On donnera le résultat arrondi à la centaine près.
+c. Interpréter le résultat obtenu dans le contexte de l’exercice.
+2. Le client a pour objectif maintenant d’obtenir un capital de 300 000 € au bout de 30
+ans. On a ainsi log(300) = log(𝐶) + 30 × log(1 + 𝑖).
+En détaillant votre démarche, donner une estimation de 𝐶. En déduire le capital à
+placer initialement pour atteindre l’objectif du client, arrondi au millier d’euros près.
+3. Le banquier affirme qu’il faut plus de 14 ans pour doubler le capital investi, quel que
+soit le capital initial.
+Que pensez-vous de cette affirmation ? Justifier votre réponse en résolvant une
+équation.
+
+Exercice 4 (5 points)
+Exercice 4 (5 points)
+Un parc zoologique propose une formule « visite des coulisses » payante. Le gérant,
+cherchant à estimer l’effet du prix de cette formule sur le nombre de clients, a
+régulièrement changé son prix. Il a collecté les données dans le tableau suivant.
+Prix de la formule en euros 𝑥𝑖
+
+Nombre de clients 𝑦𝑖
+
+1. Représenter dans le repère donné en annexe à rendre avec la copie, le nuage de points
+de coordonnées (𝑥𝑖 ; 𝑦𝑖 ) et placer le point moyen G de celui-ci.
+2. Déterminer, à l’aide de la calculatrice, une équation de la droite d’ajustement affine de 𝑦
+en fonction de 𝑥 obtenue par la méthode des moindres carrés.
+Dans toute la suite du problème, on prendra comme ajustement affine la droite 𝑑
+d’équation 𝑦 = −8𝑥 + 146.
+3. Construire la droite 𝑑 dans le repère donné en annexe.
+4. On suppose que le nombre de clients évolue en suivant cet ajustement.
+a) Déterminer une estimation du nombre de clients si le gérant fixe le prix de la formule
+à 12 €.
+b) Déterminer par un calcul une estimation du prix maximal de la formule que doit fixer
+le gérant pour espérer attirer au moins 100 clients.
+
+Annexe à rendre avec la copie
+Exercice 4

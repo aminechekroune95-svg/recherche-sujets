@@ -1,0 +1,177 @@
+{"pages": 7, "method": "pdftotext", "bytes": 1279013, "at": "2026-11-23T08:53:58+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 7
+
+PARTIE I
+Exercice 1 (5 points)
+Automatismes (5 points)
+
+Sans calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Une enquête réalisée auprès de 900 personnes
+donne les résultats suivant :
+QUEL TYPE DE FROMAGE AIMEZVOUS ?
+chèvre
+34%
+
+1)
+
+Autres
+3%
+vache
+39%
+brebis
+24%
+
+Combien de personnes aiment les fromages au lait
+de vache ?
+2)
+
+Quel est le taux d’évolution réciproque d’une
+augmentation de 100% ?
+
+3)
+
+Le prix d’un article a été multiplié par 3. Quel est le
+taux d’évolution ?
+Résoudre : −3𝑥 + 7 = 9 − 6𝑥.
+
+4)
+
+Factoriser l’expression 𝐴 = 2𝑥(𝑥 − 6) − 2𝑥.
+5)
+
+6)
+
+Développer l’expression 𝐵 = (𝑥 + 2)2 − 3(𝑥 +
+2).
+
+En électricité, la loi d’Ohm est donnée par 𝑈 = 𝑅 ×
+7) 𝐼.
+Exprimer 𝐼 en fonction de 𝑈 et de 𝑅.
+
+8) Donner la fraction irréductible égale à 1 − 10.
+Le graphique ci-dessous sera utilisé pour les questions 9 et 10.
+
+9) Donner l’équation réduite de la droite (𝐴𝐵).
+
+10)
+
+Tracer dans le repère la droite (𝑑) d’équation
+𝑦 = 2𝑥.
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Un jardinier vient de planter 100 cyprès en ligne droite, à 4 mètres d’intervalle, pour
+protéger son terrain de vents violents. Au pied de chaque cyprès, il souhaite déposer, à
+l’aide d’une brouette, un sac de paillis.
+Les sacs sont entreposés dans une remise située à 15 mètres du premier arbre. Le jardinier
+ne peut transporter qu’un sac à chaque trajet.
+
+Pour 𝑛 entier naturel supérieur ou égal à 1, on note 𝑢𝑛 la distance parcourue par le jardinier
+pour transporter un sac de paillis jusqu’au 𝑛-ième arbre et revenir devant la remise.
+1. Déterminer 𝑢1 et 𝑢2 .
+2. a. Pour tout entier 𝑛 ≥ 1, exprimer 𝑢𝑛+1 en fonction de 𝑢𝑛 et donner la nature de la
+suite (𝑢𝑛 ).
+b. Quelle distance doit parcourir le jardinier pour le 18e arbre ?
+3. Quelle est la distance totale que le jardinier aura parcourue lorsqu’il aura déposé les
+sacs de paillis au pied des trois premiers arbres et sera revenu devant la remise ?
+4. Recopier et compléter l’algorithme ci-contre,
+en Python, qui permet de déterminer la
+distance totale que le jardinier aura
+parcourue pour déposer les sacs au pied de
+chacun des cent arbres et revenir devant la
+remise.
+
+def distance()
+u=30
+S=0
+for k in range( … ):
+S= …
+u= u+8
+return S
+
+Exercice 3 (5 points)
+Dans l’animalerie d’un laboratoire, les poissons de divers aquariums sont atteints de la
+maladie des points blancs.
+On modélise le nombre de poissons malades par la fonction 𝑓 définie sur [0; +∞[ par 𝑓(𝑡) =
+𝑡² + 10𝑡 où 𝑡 correspond au temps écoulé, en jours, depuis l’apparition de la maladie.
+1. Quel est le nombre de poissons malades au bout de 20 jours ?
+2. On admet que la fonction 𝑓 est dérivable sur [0; +∞[ et on désigne par 𝑓 ′ sa dérivée.
+La vitesse de propagation instantanée de la maladie à l’instant 𝑡 correspond au
+nombre dérivé 𝑓 ′ (𝑡).
+Déterminer 𝑓 ′ (𝑡) et en déduire la vitesse instantanée de propagation de la maladie
+pour le 15e jour.
+3. Le 10e jour, un traitement est appliqué à l’ensemble des aquariums.
+Le nombre de poissons atteints par la maladie est alors modélisé par la fonction 𝑔
+définie sur l’intervalle [10 ; + ∞[ par 𝑔(𝑡) = −0,02𝑡 3 + 𝑡 2 + 16𝑡 − 40, où 𝑡 est le
+temps en jours.
+a. On admet que la fonction 𝑔 est dérivable sur [10 ; +∞[ et on désigne par 𝑔′ sa
+dérivée. Calculer 𝑔′ (𝑡) et montrer que 𝑔′ (𝑡) = (40 − 𝑡)(0,06𝑡 + 0,4).
+b. Déterminer le signe de 𝑔′ (𝑡) puis dresser le tableau des variations de 𝑔 sur
+[10; + ∞[.
+c. Que pensez-vous de ce traitement ? Argumenter.
+
+Exercice 4 (5 points)
+Lors de la « foire aux affaires » dans un magasin de bricolage, on s'intéresse à la vente d'une
+meuleuse d'angle et d'une scie sauteuse.
+On sait que :
+
+500 clients participent à cette foire aux affaires.
+230 clients achètent la scie sauteuse.
+300 clients achètent la meuleuse d'angle.
+320 clients achètent au moins un des deux articles.
+
+On désigne par 𝑀 l'événement « le client achète la meuleuse d'angle » et par 𝑆 l'événement
+« le client achète la scie sauteuse ».
+On note 𝑀 l’événement contraire de 𝑀 et 𝑆 celui de 𝑆.
+On choisit un client qui participe à cette foire aux affaires au hasard.
+1. a. Déterminer la probabilité de l'événement « le client n'achète pas la meuleuse
+d'angle ».
+b. Définir par une phrase l'événement 𝑀 ∩ S et montrer que sa probabilité est 0,42.
+2. Recopier et compléter, sans justifier, le tableau de probabilités suivant :
+𝑀
+𝑆
+
+0,42
+
+Total
+0,46
+
+0,60
+
+𝑀
+
+𝑆
+
+Total
+
+Sachant qu'un client achète la scie sauteuse, quelle est la probabilité qu'il achète la
+meuleuse ?
+3. La meuleuse d'angle coûte 12,96 € et la scie sauteuse 15,09 €. On désigne par 𝐷 la
+variable aléatoire égale à la dépense, en euros, du client.
+a. Déterminer l’ensemble des valeurs prises par la variable aléatoire 𝐷 et établir sa loi
+de probabilité.
+b. Calculer l'espérance mathématique de 𝐷. On en donnera l'arrondi au centime
+d'euro.

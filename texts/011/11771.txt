@@ -1,0 +1,196 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1453554, "at": "2026-11-23T08:53:54+00:00"}
+ÉVALUATION
+CLASSE : Première
+VOIE : ☐ Générale ☒ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Mathématiques
+DURÉE DE L’ÉPREUVE : 2 heures
+PREMIÈRE PARTIE : CALCULATRICE INTERDITE
+DEUXIÈME PARTIE : CALCULATRICE AUTORISÉE
+
+☒ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le
+jour de l’épreuve.
+Nombre total de pages : 8
+
+PARTIE I
+Exercice 1 (5 points)
+
+Automatismes (5 points)
+
+Sans calculatrice
+Enoncé
+
+1)
+
+Développer l’expression 3𝑥 2 (𝑥 − 5).
+
+2)
+
+Factoriser l’expression 4𝑥 2 − 1.
+
+3)
+
+Donner l’écriture scientifique du nombre 0,203.
+
+4)
+
+Convertir 1 500 cm3 en litres.
+
+5)
+
+Prouver par un calcul que 6 est un antécédent de 1
+par la fonction 𝑓 définie sur R par
+
+Durée : 20 minutes
+Réponse
+
+𝑓(𝑥) = 2 𝑥 2 − 3𝑥 + 1.
+
+6)
+7)
+
+La courbe tracée dans le repère ci-dessous est celle
+d’une fonction 𝑓 définie sur l’intervalle [−6 ; 6].
+Compléter par lecture graphique.
+
+8)
+
+L’image de 6 par la fonction 𝑓 est …
+Les antécédents de 4 par la fonction
+𝑓 sont …
+L’ensemble des solutions de
+l’inéquation 𝑓 (𝑥) ≥ −1 est
+……………………………………………………
+Le tableau de variation de la
+fonction 𝑓 sur [-6 ; 6] est :
+
+9)
+
+Tracer dans le repère ci-contre la
+
+droite d’équation 𝑦 = 5 𝑥 + 1,5.
+10)
+
+PARTIE II
+Calculatrice autorisée.
+Cette partie est composée de trois exercices indépendants.
+
+Exercice 2 (5 points)
+Une machine remplit des sachets de café en introduisant deux types de café différents,
+notés 𝐶1 et 𝐶2 .
+Dans chaque sachet, la masse de café 𝐶1 introduite par la machine est de :
+• 49 𝑔 pour 10% des sachets ;
+• 50 𝑔 pour 80% des sachets ;
+• 51 𝑔 pour 10% des sachets.
+Indépendamment, la masse de café 𝐶2 introduite par la machine est de :
+• 49 𝑔 pour 20% des sachets ;
+• 50 𝑔 pour 60% des sachets ;
+• 51 𝑔 pour 20% des sachets.
+On s’intéresse à la masse totale de café, en gramme, contenu dans les sachets après
+remplissage par la machine.
+On choisit au hasard un sachet de café dans la production.
+1. Recopier et compléter l’arbre de probabilités ci-dessous modélisant cette situation.
+Café 𝐶1
+
+Café 𝐶2
+
+2. Calculer la probabilité qu’un paquet de café contienne la même proportion de café
+𝐶1 et de café 𝐶2 .
+On note 𝑋 la variable aléatoire correspondant à la masse totale de café présente dans un
+sachet.
+3. Déterminer les valeurs prises par la variable aléatoire 𝑋 puis recopier et compléter le
+tableau ci-dessous donnant la loi de probabilité de la variable aléatoire 𝑋.
+𝑘
+𝑃(𝑋 = 𝑘)
+
+0,52
+
+4. Calculer la probabilité de l’événement « Obtenir un sachet contenant une masse
+totale d’au plus 100 grammes de café ».
+5. Calculer 𝐸(𝑋). Interpréter dans le contexte de l’exercice.
+
+Exercice 3 (5 points)
+Un laboratoire pharmaceutique fabrique et vend un produit. Il peut produire au maximum
+30 kilogrammes de ce produit par semaine.
+Le coût total de production par semaine, exprimé en euro, est modélisé par la fonction 𝐶
+
+définie sur l’intervalle [0 ; 30] par 𝐶(𝑥) = 3 𝑥 3 − 11𝑥² + 100𝑥 + 72 où 𝑥 désigne le
+nombre de kilogrammes de produit fabriqué par semaine. Sa courbe représentative, notée
+𝐶1 , est tracée dans le repère ci-dessous.
+Les recettes issues de la vente de 𝑥 kilogrammes de produit par semaine, exprimées en euro,
+sont modélisées par la fonction 𝑅 définie sur l’intervalle [0 ; 30] par 𝑅(𝑥) = 60𝑥. Sa courbe
+représentative, notée 𝐶2 , est tracée dans le repère ci-dessous.
+Coûts et recettes (en euro)
+
+Masse 𝑥 de produit (en kg)
+
+1. On dit que le laboratoire pharmaceutique réalise des bénéfices lorsque le coût de
+production du produit est inférieur aux recettes issues de la vente de ce produit.
+Déterminer graphiquement la quantité de produit à fabriquer et à vendre pour que le
+laboratoire réalise des bénéfices.
+2. Estimer graphiquement le montant des bénéfices réalisés lorsque l’entreprise
+fabrique et vend 18 kilogrammes de produit.
+Dans la suite, 𝐵 désigne la fonction définie sur l’intervalle [0 ; 30] par 𝐵(𝑥) = 𝑅(𝑥) − 𝐶(𝑥).
+On a donc
+
+𝐵(𝑥) = − 𝑥 3 + 11𝑥 2 − 40𝑥 − 72.
+
+Lorsque 𝐵(𝑥) est positif, on dit que 𝐵(𝑥) correspond aux bénéfices réalisés par le
+laboratoire par semaine, exprimés en euro.
+3. Déterminer 𝐵 ′ (𝑥) et vérifier que 𝐵 ′ (𝑥) = −(𝑥 − 2)(𝑥 − 20).
+4. Étudier le signe de 𝐵 ′ (𝑥) puis dresser le tableau de variations de la fonction 𝐵 sur
+l’intervalle [0 ; 30].
+5. On considère que la production fabriquée est entièrement vendue.
+Déterminer la quantité à produire pour réaliser le bénéfice maximal.
+
+Exercice 4 (5 points)
+Une association de pêcheurs amateurs constate tous les ans une diminution du nombre de
+brochets dans une rivière.
+Elle estime que la population de brochets diminue de 15% chaque année. En 2019, ils ont
+recensé 300 brochets dans leur rivière.
+1. On note 𝑢(𝑛) le nombre de brochets de l’année 2019 + 𝑛. Ainsi 𝑢(0) = 300.
+a) Quelle est la nature de la suite 𝑢 ? Justifier et préciser sa raison.
+b) Calculer 𝑢(2) en détaillant les calculs et interpréter.
+2. La survie des brochets de cette rivière est en danger si la population devient inférieure
+ou égale à 50 individus. On souhaite écrire une fonction Python, nommée brochets, qui
+renvoie le nombre d’années à partir duquel le nombre de brochets sera inférieur ou égal
+à 50.
+Parmi les trois scripts ci-dessous, indiquer sans justifier celui qui permet de répondre à la
+question.
+Script 1
+Script 2
+Script 3
+while u<=50:
+while u>50:
+while u>50:
+u=0.85*u
+u=0.85*u
+u=0.15*u
+return u
+return u
+return n
+3. En 2019, des mesures de protection des brochets permettent de limiter la diminution du
+nombres brochets à 10% par an.
+Par ailleurs, 50 nouveaux brochets sont réintroduits le premier janvier de chaque année,
+à partir de 2020.
+L’association réalise une feuille de calcul pour estimer le nombre de brochets dans les
+années à venir. Les valeurs de la ligne 2 sont arrondies à l’unité.
+A
+B
+C
+D
+E
+F
+1 Année
+2019
+2020
+2021
+2022
+2023
+2 Nombre de brochets
+a) Calculer le nombre de brochets que l’on peut prévoir en 2024. Arrondir à l’unité.
+b) Quelle formule a été saisie dans la cellule C2 puis recopiée vers la droite pour obtenir
+le nombre de brochets en ligne 2 ?

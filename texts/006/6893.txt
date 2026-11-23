@@ -1,0 +1,116 @@
+{"pages": 6, "method": "pdftotext", "bytes": 532864, "at": "2026-11-23T08:56:55+00:00"}
+PARTIE 1
+
+Automatismes (5 points)
+
+Sans Calculatrice
+
+Énoncé
+
+Durée : 20 minutes
+Réponse
+
+Calculer 13 % de 300 € .
+
+Dans une classe de 32 élèves, il y a 20 garçons dont 4
+sont dispensés d’E.P.S.
+Quel est le pourcentage de garçons dispensés d’E.P.S.
+dans la classe ?
+
+Calculer et simplifier l’expression : 3 ×
+
+Déterminer l’entier relatif 𝑛 tel que
+105 × 10−3
+= 10𝑛
+(104 )2
+
+Convertir 5 m.s-1 en km.h-1.
+
+Développer et réduire l’expression
+5 – ( 𝑥 – 5)(6 + 𝑥)
+
++
+
+.
+
+L’image de -1 par la fonction f est :
+
+On considère la fonction f définie sur R dont la courbe Les solutions de 𝑓(𝑥) = 0 sont :
+représentative dans un repère est donnée ci-contre.
+
+Le tableau de variations de la fonction f
+est :
+
+Le tableau de signes de la fonction f est :
+
+PARTIE 2
+
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+EXERCICE 2 (5 points)
+Avant de lancer une nouvelle campagne de sensibilisation, une association humanitaire a étudié
+comment sont répartis, en fonction de leur âge, les 400 donateurs de la campagne précédente.
+- Les donateurs sont soit des donateurs occasionnels, soit des donateurs réguliers.
+- On dénombre 70 % de donateurs occasionnels.
+- Parmi les donateurs occasionnels, 30 % d’entre eux ont de 20 à 34 ans.
+- Un tiers des donateurs réguliers a de 35 à 59 ans.
+- Parmi les 200 donateurs âgés de 60 ans et plus, 26 % sont des donateurs réguliers.
+On désigne par P la population des 400 donateurs de la campagne.
+1) On établit ainsi le tableau d’effectifs ci-dessous.
+Donateurs
+occasionnels
+
+Donateurs
+réguliers
+
+TOTAL
+
+De 20 à 34 ans
+De 35 à 59 ans
+60 ans et plus
+TOTAL
+
+a) Justifier par une des données de l’énoncé la valeur 280, présente dans le tableau.
+b) Recopier et compléter ce tableau.
+2) Dans la population P, quelle est la proportion de donateurs de 35 à 59 ans ?
+3) Dans la population des donateurs étant âgés de 60 ans et plus, quelle est la proportion de
+donateurs occasionnels ?
+4) On choisit au hasard une personne parmi les donateurs réguliers. Quelle est la probabilité
+que cette personne ait de 35 à 59 ans ?
+
+EXERCICE 3 (5 points)
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = 𝑥 3 + 3𝑥 2 − 9𝑥 − 3.
+On note 𝐶𝑓 sa courbe représentative dans le plan muni d’un repère orthogonal et 𝑓′ la fonction
+dérivée de f sur R.
+1. Donner l’expression de 𝑓′(𝑥).
+2. Donner une équation de la droite T, tangente à 𝐶𝑓 au point d’abscisse 2.
+3. a) Démontrer que, pour tout réel 𝑥, 𝑓 ′ (𝑥) = 3(𝑥 − 1)(𝑥 + 3).
+b) Etudier le signe de 𝑓′(𝑥) sur R .
+c) Construire le tableau de variations de f sur l’intervalle [−5 ; 3].
+
+EXERCICE 4 (5 points)
+En 2005 les émissions de gaz à effet de serre (G.E.S.) en France s’élevaient à 550 millions de
+tonnes.
+Dans le cadre des accords de Paris sur le climat, la France s’est engagée à réduire ce nombre
+330 millions de tonnes en 2030.
+1. Un premier type de modèle mathématique
+Les données recueillies de 2005 à 2018 ont permis de construire la suite (𝑢𝑛 ) pour modéliser
+la quantité d’émissions, en millions de tonnes, de G.E.S., que la France prévoit d’émettre
+durant l’année 2005 + n. Le nuage de points ci-dessous représente les premiers termes de la
+suite (𝑢𝑛 ).
+
+a. Pourquoi peut-on conjecturer que la suite (𝑢𝑛 ) retenue pour ce modèle est
+arithmétique ?
+b. Déterminer une estimation de la raison r de la suite (𝑢𝑛 ).
+c. Avec ce modèle, la France répond-elle aux accords de Paris ? Justifier votre réponse.
+
+2. Un second type de modèle mathématique
+Dans ce modèle, on considère que la baisse des émissions de G.E.S. est de 2 % par an à partir
+de l’année 2005. On définit alors la suite (𝑣𝑛 ) qui modélise la quantité d’émissions, en millions
+de tonnes, de G.E.S., que la France prévoit d’émettre durant l’année 2005 + n.
+On a donc 𝑣0 = 550.
+a. Justifier que pour tout entier naturel 𝑛, 𝑣𝑛+1 = 0,98𝑣𝑛.
+b. Un expert affirme que cette diminution de 2 % par an des émissions de G.E.S. n’est pas
+tout à fait suffisante pour atteindre les objectifs que la France s’est fixés.
+Calculer 𝑣25 . Que peut-on en conclure ?

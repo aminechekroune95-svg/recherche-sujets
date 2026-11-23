@@ -1,0 +1,158 @@
+{"pages": 5, "method": "pdftotext", "bytes": 555908, "at": "2026-11-23T08:57:28+00:00"}
+Mathématiques : PARTIE I
+Sans calculatrice
+
+Durée : 20 minutes
+
+EXERCICE 1 : AUTOMATISMES (5 points)
+
+Enoncé
+
+Réponse
+
+2+3×
+
+1.
+
+=
+
+Donner l’écriture scientifique de :
+2.
+2020,2020
+
+𝑈2
+𝑃=
+𝑅
+
+3.
+
+𝑅=⋯
+
+4.
+
+Factoriser 3(𝑥 − 5) − (𝑥 − 5)(2𝑥 + 4)
+
+5.
+
+Dans une compétition d’escalade, il y a 70 % des
+participants qui ont moins de 30 ans, dont 30 %
+sont mineurs. Quelle est la proportion des mineurs
+dans cette compétition ?
+
+6.
+
+Lors d’une enquête, on a mesuré le temps d’attente
+en minutes de plusieurs personnes sur la hotline
+d’un opérateur. L’histogramme ci-dessous
+représente le résultat de cette enquête.
+
+Le nombre de personnes
+concernés par cette
+enquête est :
+………
+Le pourcentage de
+personnes ayant attendu
+plus de cinq minutes est :
+
+7.
+
+……….
+L’image de 0 par f est
+8.
+……
+L’ensemble des solutions
+de l’inéquation 𝑓(𝑥) < 2
+est
+…………………
+
+9.
+
+10.
+
+Voici la courbe représentative d’une fonction f
+définie sur R.
+Compléter par lecture graphique.
+
+Le tableau de variation de
+f est
+
+Mathématiques : PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Les rejets polluants d’un groupe industriel sont évalués à 5 300 tonnes en 2019.
+Dans le cadre d’une stratégie favorable au développement durable, ce groupe
+industriel se fixe comme objectif de réduire ses déchets polluants pour qu’ils ne
+dépassent pas 3 300 tonnes en 2025.
+Le groupe décide de réduire chaque année ses rejets polluants de 8 % jusqu’en
+2025.
+On modélise la situation par la suite (𝑟(𝑛)) où 𝑟(𝑛) représente pour tout entier naturel
+𝑛 la masse en tonne de rejets polluants produits par le groupe industriel durant
+l’année
+2019 + 𝑛.
+1. a. Justifier que 𝑟(0) = 5300 et que pour tout entier naturel 𝑛 on a :
+𝑟(𝑛 + 1) = 0,92 𝑟(𝑛)
+b. Quelle est la nature de la suite (𝑟(𝑛))? Préciser sa raison.
+c. Justifier que la suite (𝑟(𝑛)) est décroissante.
+2.
+
+Evolution de la masse en tonne de
+rejets polluants depuis 2019
+5500
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+
+Le tableur nous donne les premières valeurs de la suite et permet de
+représenter graphiquement les premiers termes de cette suite.
+
+a. Quelle formule destinée à être recopiée vers le bas, peut-on saisir dans la
+cellule B3 pour obtenir les valeurs de la suite (𝑟(𝑛)) ?
+b. Quelle devrait être à ce rythme-là, la masse en tonne de rejets polluants en
+2025 ? L’objectif du groupe industriel est-il atteint ?
+c. S’il poursuit de la même façon sa politique de réduction de ses rejets
+polluants, en quelle année le groupe industriel aura-t-il réduit de moitié ses
+rejets polluants de 2019 ?
+EXERCICE 3 ( 5 points)
+Une machine à usiner produit des pièces aéronautiques, mais elle ne peut pas en
+fournir plus de 70 par semaine pour des raisons de maintenance.
+On suppose que toute pièce fabriquée est vendue.
+ 𝑥 représente le nombre de pièces usinées ;
+ la fonction 𝐶 définie sur [0 ; 70] par 𝐶(𝑥) = 𝑥 2 + 16𝑥 + 240 modélise le coût de
+fabrication de 𝑥 pièces, en euro.
+ Chaque pièce fabriquée est vendue 80 €.
+1. Exprimer en fonction de 𝑥 le chiffre d’affaires en euro, noté 𝑅(𝑥), obtenu pour
+la vente de 𝑥 pièces.
+2. Pour tout 𝑥 appartenant à l’intervalle [0 ; 70], on pose (𝑥) = 𝑅(𝑥) − 𝐶(𝑥) .
+Lorsque 𝐷(𝑥) est positif, 𝐷(𝑥) représente le profit réalisé pour la production et
+la vente de 𝑥 pièces aéronautiques.
+a. Montrer que 𝐷(𝑥) = −𝑥 2 + 64𝑥 − 240
+b. Calculer 𝐷(60).
+c. En déduire une factorisation de 𝐷(𝑥).
+3. En déduire le nombre de pièces aéronautiques à produire et à vendre pour
+obtenir un profit maximal. Que vaut alors ce profit ?
+
+EXERCICE 4 ( 5 points)
+Soit 𝑓 la fonction définie sur R par 𝑓(𝑥) = 𝑎𝑥 3 + 𝑏𝑥 2 + 𝑐𝑥 + 𝑑 où 𝑎,𝑏,𝑐 et 𝑑 sont
+quatre réels avec 𝑎 non nul.
+Une portion de sa courbe représentative 𝐶𝑓 est donnée ci-dessous dans un repère
+orthonormé.
+On sait que la courbe 𝐶𝑓 passe par les points A et B de coordonnées respectives (0 ;
+1) et (4 ; 0) dans ce même repère et que les tangentes en A et B à la courbe 𝐶𝑓 sont
+horizontales.
+
+On se propose de déterminer les valeurs des quatre réels 𝑎,𝑏,𝑐 et 𝑑 .
+1. a. Justifier que 𝑓(0) = 1
+b. En déduire la valeur de 𝑑.
+2. a. Exprimer 𝑓’(𝑥)en fonction de 𝑥 et des réels 𝑎,𝑏 et 𝑐.
+b. Justifier que 𝑓’(0) = 0, en déduire la valeur de 𝑐.
+3. On admet que 𝑓(4) = 0 et 𝑓’(4) = 0.
+a. En déduire que 𝑎 et 𝑏 sont solutions du système (S) suivant :
+64𝑎 + 16𝑏 = −1
+{
+6𝑎 + 𝑏 = 0
+b. Résoudre le système (S) et conclure.

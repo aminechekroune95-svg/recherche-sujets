@@ -1,0 +1,141 @@
+{"pages": 4, "method": "pdftotext", "bytes": 745946, "at": "2026-11-23T08:56:42+00:00"}
+PARTIE I
+Automatismes (5 points)
+
+Sans calculatrice
+
+Durée : 20 minutes
+
+Énoncé
+1)
+
+Réponse
+
+Le prix d'un article est augmenté de 7%, par quel
+coefficient a-t-on multiplié le prix de cet article ?
+
+2)
+
+Quel taux d'évolution correspond à une multiplication par
+0,84 ?
+
+3)
+
+Calculer le taux d'évolution correspondant à deux
+hausses successives de 10%.
+
+Pour les questions 4 et 5 on utilise le tableau suivant
+Année
+Cotisation (en euros)
+Indice
+
+2016
+
+2017
+
+4)
+
+Déterminer le pourcentage d'évolution du montant des
+cotisations entre 2016 et 2018.
+
+5)
+
+Calculer l'indice des cotisations en 2019.
+
+6)
+
+Résoudre dans ℝ l'équation −2𝑥 + 3 = 5𝑥 + 10.
+
+7)
+
+Résoudre dans ℝ l'équation 𝑥² = 144 .
+
+8)
+
+Résoudre dans ℝ l'inéquation
+3𝑥 − 2 < 𝑥 + 5
+
+9)
+
+Établir le tableau de signes de 2𝑥 − 3.
+
+10)
+
+Sur quel
+positive ?
+
+intervalle l’expression
+
+−5𝑥 + 2
+
+2018
+
+est-elle
+
+2019
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants
+
+Exercice 2 (5 points)
+Un candidat à l'embauche reçoit de deux entreprises A et B une proposition de
+rémunération sur dix ans.
+Proposition de l’entreprise A :
+On débute en 2020 avec un salaire annuel a0 égal à 22800 euros.
+Ce salaire annuel est ensuite augmenté de 1200 € par an pendant les neuf années suivantes.
+Pour tout entier 𝑛, on note 𝑎𝑛 le salaire proposé pour l'année 2020 + 𝑛 par l'entreprise A.
+Proposition de l’entreprise B :
+On débute en 2020 avec un salaire annuel 𝑏0 égal à 22800 euros.
+Ce salaire annuel est ensuite augmenté de 4 % par an pendant les neuf années suivantes.
+Pour tout entier 𝑛, on note 𝑏𝑛 le salaire proposé pour l'année 2020 + 𝑛 par l'entreprise B.
+1. a. Calculer 𝑎1 et 𝑎2 puis interpréter ces résultats.
+b. Déterminer la nature de la suite (𝑎𝑛 ) et préciser sa raison.
+2. a. Calculer 𝑏1 et 𝑏2 puis interpréter ces résultats.
+b. Justifier que pour tout entier naturel 𝑛, 𝑏𝑛+1 = 1,04 𝑏𝑛 .
+c. En déduire la nature de la suite (𝑏𝑛 ) et préciser ses éléments caractéristiques.
+3. Dans quelle entreprise le salaire annuel versé en 2023 sera-t-il le plus important ?
+Justifier.
+
+Exercice 3 (5 points)
+Soit la fonction ℎ définie sur [0 ; 4] par :
+ℎ(𝑡) = −2,5𝑡 2 + 8,5𝑡 + 2
+On souhaite résoudre l’inéquation ℎ(𝑡) > 9.
+1. Montrer que le problème revient à résoudre l’inéquation −2,5𝑡 2 + 8,5𝑡 − 7 > 0.
+2. Soit la fonction 𝑔 définie sur [0 ; 4] par 𝑔(𝑡) = −2,5𝑡 2 + 8,5𝑡 − 7.
+a. Vérifier que 2 est une solution de l'équation 𝑔(𝑡) = 0.
+b. Vérifier que 𝑔(𝑡) = (𝑡 − 2)(3,5 − 2,5𝑡).
+c. Construire le tableau de signes de 𝑔(𝑡) sur l’intervalle [0 ; 4].
+3. Déduire des questions précédentes la solution au problème.
+
+Exercice 4 (5 points)
+Lors d’une enquête sur les pannes subies par 300 téléphones mobiles d’une marque X, on a
+constaté, au bout de quatre ans, deux types de panne :
+- 12 des téléphones mobiles ont subi une panne technique.
+- 21 ont subi une panne logicielle.
+Par ailleurs, trois des téléphones mobiles étudiés ont subi à la fois une panne technique et
+une panne logicielle.
+1. Recopier et compléter le tableau croisé d’effectifs ci-dessous.
+Téléphones
+Sans panne
+Panne technique
+mobiles
+technique
+Panne logicielle
+Sans panne
+logicielle
+Total
+
+Total
+
+2. On choisit au hasard un téléphone mobile parmi les 300.
+On note :
+ 𝑇 l’événement « le téléphone mobile subit une panne technique ».
+ 𝐿 l’événement « le téléphone mobile subit une panne logicielle ».
+On désigne par 𝑇 l’événement contraire de l’événement 𝑇.
+a. Déterminer la probabilité 𝑃( 𝑇 ).
+b. Calculer 𝑃𝑇 (𝐿).
+c. Calculer la probabilité que le téléphone mobile subisse une panne technique
+sachant qu’il n’est pas touché par une panne logicielle.
+3. Une publicité pour la marque X indique : « plus de 95% de nos téléphones n’ont pas
+de panne ni technique ni logicielle au bout de quatre ans. » Qu’en pensez-vous ?

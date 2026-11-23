@@ -1,0 +1,163 @@
+{"pages": 8, "method": "pdftotext", "bytes": 1088978, "at": "2026-11-23T08:59:17+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 8
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions. Pour chacune des questions, une seule des quatre réponses
+proposées est correcte. Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie. Aucune justification n’est demandée mais il peut être
+nécessaire d’effectuer des recherches au brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+Question 1
+Soit 𝑔 la fonction définie sur 𝐑 par 𝑔(𝑥) = e100𝑥 . Alors :
+a) 𝑔 est croissante
+sur 𝐑
+
+b) 𝑔 est décroissante
+sur 𝐑
+
+c) 𝑔 change de sens
+de variation sur 𝐑
+
+d) aucune des
+propositions
+a), b) et c) n’est
+correcte.
+
+Question 2
+Soit 𝑓 la fonction définie sur 𝐑 par 𝑓(𝑥) = 100𝑥 2 + 10𝑥 + 1. Dans le plan muni d’un repère
+orthogonal, la courbe représentative de la fonction 𝑓 est une parabole dont l’axe de
+symétrie a pour équation :
+a) 𝑥 = 10
+b) 𝑥 = −10
+c) 𝑥 = 0,05
+d) 𝑥 = −0,05
+
+Question 3
+Soit 𝑎 et 𝑏 les fonctions définies sur 𝐑 par 𝑎(𝑥) = 3𝑥 2 + 15𝑥 + 1 et
+𝑏(𝑥) = 25𝑥 2 + 5𝑥 − 100. Dans le plan muni d’un repère orthonormé les courbes
+représentatives des fonctions 𝑎 et 𝑏 ont :
+a) 0 point
+
+b) 1 point
+
+c) 2 points
+
+d) 4 points
+
+Question 4
+La somme 1 + 5 + 52 + ⋯ + 510 est égale à :
+a) 2 441 406 b) 271
+c) 555
+
+d) 12 207 031
+
+Question 5
+Soit 𝑓 la fonction définie sur 𝐑 dont la représentation graphique 𝐶𝑓 est donnée ci-dessous.
+On sait de plus que la courbe 𝐶𝑓 admet deux tangentes horizontales : une au point d’abscisse
+−1 et l’autre au point d’abscisse 3.
+
+Alors le réel 𝑓′(−1) × 𝑓′(3) est :
+a) strictement
+positif
+
+b) strictement
+négatif
+
+c) égal à 0
+
+d) égal à 𝑓′(−3)
+
+Exercice 2 (5 points)
+Dans le plan muni d’un repère, on a tracé la courbe représentative 𝒞𝑓 d’une fonction 𝑓
+définie et dérivable sur R. On note 𝑓′ la dérivée de 𝑓. On sait que la courbe 𝒞𝑓 admet
+exactement deux tangentes horizontales :
+ l’axe des abscisses comme tangente à la courbe 𝒞𝑓 au point A(1 ; 0) ;
+
+
+la droite TB comme tangente à la courbe 𝒞𝑓 au point B (3 ; − 27).
+
+1. Par lecture graphique, donner les solutions de l’équation 𝑓(𝑥) = 0.
+La fonction 𝑓 est définie sur R par 𝑓(𝑥) = 𝑥 3 + 𝑥 2 − 𝑥 − 1. On note 𝑓′ la dérivée de 𝑓.
+2. Déterminer 𝑓 ′ (𝑥) pour tout réel 𝑥.
+3. En déduire le tableau de variations de 𝑓.
+4. En utilisant ce qui précède, déterminer la position relative de la courbe 𝒞𝑔 de la fonction 𝑔
+définie sur R par 𝑔(𝑥) = 𝑥 3 + 𝑥 2 et de la droite D d’équation 𝑦 = 𝑥 + 1.
+
+Exercice 3 (5 points)
+Dans cet exercice et si cela est nécessaire, les résultats seront arrondis à 0,1.
+Le graphique ci-contre illustre
+l’évolution du nombre (en
+milliers) de voitures électriques
+immatriculées en France entre
+2015 et 2018.
+
+1. On cherche à modéliser l’évolution du nombre (en milliers) de voitures électriques
+immatriculées en France à compter de l’année 2015 à l’aide d’une suite. On hésite entre
+deux modèles :
+ Premier modèle : on fait l’hypothèse que ce nombre augmente de 21
+% par an. On définit alors une suite (𝑢𝑛 ) où, selon ce modèle, 𝑢𝑛 est le
+nombre (en milliers) de voitures électriques immatriculées en France l’année
+2015 + 𝑛 avec 𝑛 ∈ 𝐍. Ainsi, on a 𝑢0 = 17,3.
+ Second modèle : on définit la suite (𝑣𝑛 ) par 𝑣0 = 17,3 et pour tout
+entier naturel 𝑛, 𝑣𝑛+1 = 0,7𝑣𝑛 + 10. D’après ce modèle et pour tout entier
+naturel 𝑛, 𝑣𝑛 est le nombre (en milliers) de voitures électriques immatriculées
+en France l’année 2015 + 𝑛.
+a. Donner les valeurs des réels 𝑢1 , 𝑢2 , 𝑢3 , 𝑣1 , 𝑣2 et 𝑣3 .
+b. Des deux modèles, lequel apparait le mieux adapté pour modéliser à l’aide d’une
+suite l’évolution du nombre de voitures électriques immatriculées en France à compter
+de l’année 2015 donnée dans le graphique ? Argumenter.
+2. Dans ce qui suit, on choisit de modéliser le nombre de voitures immatriculées en France à
+compter de l’année 2015 à l’aide de la suite (𝑢𝑛 ) définie dans la question 1.
+a. Donner la nature de la suite (𝑢𝑛 ) et préciser sa raison.
+b. Pour tout entier naturel 𝑛, exprimer 𝑢𝑛 en fonction de 𝑛.
+
+c. On considère l’algorithme en langage Python ci-contre.
+u=17.3
+n=0
+while u<50:
+u=1.21*u
+n=n+1
+
+Quelle est la valeur de la variable n à la fin de l’exécution de cet algorithme ? Interpréter ce
+résultat dans le contexte de l’exercice.
+
+Exercice 4 (5 points)
+Un jeu est organisé à partir d’un sac contenant 6 jetons rouges et 4 jetons noirs. Les jetons
+sont indiscernables au toucher.
+Un joueur prend deux jetons au hasard dans le sac selon le déroulé suivant :
+ le joueur prend un premier jeton au hasard dans le sac et il met le jeton de côté ;
+ le joueur prend un second jeton au hasard dans le sac et il met le jeton de côté.
+On note :
+ 𝑅1 l’événement « le premier jeton tiré est de couleur rouge » ;
+ 𝑅2 l’événement « le second jeton tiré est de couleur rouge ».
+
+1. Recopier sur la copie et compléter l’arbre ci-dessous :
+
+2. On considère l’événement 𝐴 « le joueur obtient deux jetons de couleur rouge ».
+a. Déterminer la probabilité 𝑝(𝐴).
+b. Décrire l’événement contraire de l’événement 𝐴 par une phrase de la forme
+« le joueur obtient … » .
+3. Montrer que la probabilité que le second jeton tiré soit de couleur rouge est égale à 0,6.
+4. Le second jeton tiré est de couleur noire. Que peut-on alors penser de l’affirmation suivante:
+« il y a plus de 50 % de chance que le premier jeton tiré ait été de couleur rouge » ? Justifier
+la réponse.

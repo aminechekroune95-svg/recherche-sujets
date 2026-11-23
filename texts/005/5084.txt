@@ -1,0 +1,158 @@
+{"pages": 5, "method": "pdftotext", "bytes": 1274837, "at": "2026-11-23T08:59:01+00:00"}
+ÉVALUATION COMMUNE
+CLASSE : Première
+EC : ☐ EC1 ☒ EC2 ☐ EC3
+VOIE : ☒ Générale ☐ Technologique ☐ Toutes voies (LV)
+ENSEIGNEMENT : Spécialité « Mathématiques »
+DURÉE DE L’ÉPREUVE : 2 heures
+
+CALCULATRICE AUTORISÉE : ☒Oui ☐ Non
+DICTIONNAIRE AUTORISÉ :
+
+☐Oui ☒ Non
+
+☐ Ce sujet contient des parties à rendre par le candidat avec sa copie. De ce fait, il ne peut être
+dupliqué et doit être imprimé pour chaque candidat afin d’assurer ensuite sa bonne numérisation.
+☐ Ce sujet intègre des éléments en couleur. S’il est choisi par l’équipe pédagogique, il est
+nécessaire que chaque élève dispose d’une impression en couleur.
+☐ Ce sujet contient des pièces jointes de type audio ou vidéo qu’il faudra télécharger et jouer le jour
+de l’épreuve.
+Nombre total de pages : 5
+
+Exercice 1 (5 points)
+Ce QCM comprend 5 questions.
+Pour chacune des questions, une seule des quatre réponses proposées est correcte.
+Les questions sont indépendantes.
+Pour chaque question, indiquer le numéro de la question et recopier sur la copie la lettre
+correspondante à la réponse choisie.
+Aucune justification n’est demandée mais il peut être nécessaire d’effectuer des recherches au
+brouillon pour aider à déterminer votre réponse.
+Chaque réponse correcte rapporte 1 point. Une réponse incorrecte ou une question sans
+réponse n’apporte ni ne retire de point.
+1)
+
+Pour tout réel 𝑥, e2𝑥 + e4𝑥 est égal à
+a) e6𝑥
+
+2)
+
+b) ⃗𝑢⃗ est un vecteur
+c) ) ⃗𝑢⃗ et 𝑣⃗ sont
+normal à la droite (d) orthogonaux
+
+d) ⃗𝑢⃗ est un vecteur
+directeur de (d)
+
+b) −2𝑥e−𝑥
+
+c) (−2𝑥 + 3)e−𝑥
+
+d) 2e−𝑥 + (2𝑥 − 1) e−𝑥
+
+c) sin(𝑥)
+
+d) −cos(𝑥)
+
+Pour tout réel 𝑥, on a sin(π + 𝑥) =
+a) −sin(𝑥)
+
+5)
+
+d) e8𝑥
+
+La dérivée 𝑓′ de la fonction 𝑓 définie sur R par 𝑓(𝑥) = (2𝑥 − 1)e−𝑥 est :
+a) 2𝑥e−𝑥
+
+4)
+
+c) e3𝑥 (e𝑥 + e−𝑥 )
+
+Dans le plan muni d'un repère orthonormé (𝑂, 𝑖⃗, 𝑗⃗), on considère les vecteurs ⃗𝑢⃗(−5; 2) et
+𝑣⃗(4; 10) et la droite (d) d'équation : 5𝑥 + 2𝑦 + 3 = 0.
+a) ⃗𝑢⃗ et 𝑣⃗ sont
+colinéaires
+
+3)
+
+b) e2𝑥 (1 + e2 )
+
+b) cos(𝑥)
+
+Soit 𝑓 une fonction définie et dérivable sur
+R dont la courbe représentative est donnée
+ci-contre.
+La tangente à la courbe au point 𝐴 est la
+droite 𝑇.
+
+a) 𝑓 ′ (0) = 3
+
+b) 𝑓 ′ (0) = 5
+
+c) 𝑓 ′ (0) = 5
+
+d) 𝑓 ′ (0) = −5
+
+Exercice 2 (5 points)
+La population d’une ville A augmente chaque année de 2%. La ville A avait 4600 habitants en
+2010.
+La population d’une ville B augmente de 110 habitants par année. La ville B avait 5100
+habitants en 2010.
+Pour tout entier 𝑛, on note 𝑢𝑛 le nombre d’habitants de la ville A et 𝑣𝑛 le nombre
+d’habitants de la ville B à la fin de l’année 2010 + 𝑛.
+1. Calculer le nombre d’habitants de la ville A et le nombre d’habitants de la ville B à la fin de
+l’année 2011.
+2. Quelle est la nature des suites (𝑢𝑛 ) et (𝑣𝑛 ) ?
+3. Donner l'expression de 𝑢𝑛 en fonction de 𝑛, pour tout entier naturel 𝑛 et calculer le nombre
+d’habitants de la ville A en 2020.
+4. Donner l'expression de 𝑣𝑛 en fonction de 𝑛, pour tout entier naturel 𝑛 et calculer le nombre
+d’habitants de la ville B en 2020.
+5. Reproduire et compléter sur la copie l'algorithme ci-dessous qui permet de déterminer au
+bout de combien d’années la population de la ville A dépasse celle de la ville B.
+def année ():
+u=4600
+v=5100
+n=0
+while ... :
+u=...
+v=...
+n=...
+return n
+
+Exercice 3 (5 points)
+Soit ℎ la fonction définie sur [0 ; 26] par :
+ℎ(𝑥) = −𝑥 3 + 30𝑥 − 108𝑥 − 490.
+1. Soit ℎ′ la fonction dérivée de ℎ. Exprimer ℎ′(𝑥) en fonction de 𝑥.
+2. On note 𝐶 la courbe représentative de ℎ et 𝐶′ celle de ℎ′.
+a. Identifier 𝐶 et 𝐶′ sur le graphique orthogonal ci-dessous parmi les trois courbes 𝐶1 , 𝐶2 et
+𝐶3 proposées.
+b. Justifier le choix pour 𝐶′.
+
+3. Soit (T) la tangente à 𝐶 au point 𝐴 d'abscisse 0. Déterminer son équation réduite.
+4. Étudier le signe de ℎ′(𝑥) puis dresser le tableau de variation de la fonction ℎ sur [0; 30].
+
+Exercice 4 (5 points)
+Une entreprise qui fabrique des aiguilles dispose de deux sites de production, le site A et le
+site B. Le site A produit les trois-quarts des aiguilles, le site B l’autre quart. Certaines aiguilles
+peuvent présenter un défaut. Une étude de contrôle de qualité a révélé que :
+
+2% des aiguilles du site A sont défectueuses ;
+4% des aiguilles du site B sont défectueuses.
+
+Les aiguilles provenant des deux sites sont mélangées et vendues ensemble par lots.
+On choisit une aiguille au hasard dans un lot et on considère les événements suivants :
+
+𝐴 : l’aiguille provient du site A ;
+𝐵 : l’aiguille provient du site B ;
+𝐷 : l’aiguille présente un défaut.
+
+̅.
+L’événement contraire de 𝐷 est noté 𝐷
+1. D’après les données de l’énoncé, donner la valeur de la
+probabilité de l’événement 𝐴 que l’on notera 𝑃(𝐴).
+2. Recopier et compléter sur la copie l'arbre de probabilités cidessous en indiquant les probabilités sur les branches.
+
+3. Quelle est la probabilité que l’aiguille ait un défaut et
+provienne du site A ?
+4. Montrer que 𝑃(𝐷) = 0,025.
+5. Après inspection, l’aiguille choisie se révèle défectueuse. Quelle est la probabilité qu’elle ait
+été produite sur le site A ?

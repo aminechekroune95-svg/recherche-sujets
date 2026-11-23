@@ -1,0 +1,207 @@
+{"pages": 7, "method": "pdftotext", "bytes": 772704, "at": "2026-11-23T08:57:52+00:00"}
+PARTIE I – Exercice 1
+Durée : 20 minutes - Calculatrice interdite
+Automatismes (5 points)
+Dans cet exercice, il n’est pas demandé de justification. La réponse à chaque
+question est à inscrire dans la colonne de droite du tableau.
+Énoncé
+
+Réponse
+
+1.
+
+Un village comptait 200 habitants en 2012, et en compte
+216 en 2020. Quel est le taux d’évolution, en
+pourcentage, de la population de ce village entre 2012 et
+2020 ?
+
+2.
+
+En 2020, une ville compte 54 000 habitants.
+En supposant qu’entre 2020 et 2050, la population
+augmente de 10%, quel sera le nombre d’habitants en
+2050 ?
+
+3.
+
+Quand on diminue une quantité de 5%, cela revient à dire
+que cette quantité est multipliée par un nombre.
+Quelle est la valeur de ce nombre ?
+
+4.
+
+Le prix d’un article augmente de 10%, puis à nouveau de
+10%.
+Quel est le taux global d’évolution du prix de cet article
+après ces deux augmentations ?
+
+5.
+
+Résoudre dans R l’inéquation 2𝑥 − 1 < 3
+
+6.
+
+Résoudre dans R l’équation 𝑥² = 6
+
+7.
+
+Donner le signe de l’expression 𝐴(𝑥) = (4 − 2𝑥)(𝑥 + 4)
+sur l’intervalle ]2 ; +∞[.
+
+Le tableau ci-dessous donne l’évolution de l’indice annuel d’immatriculations de
+voitures de 2012 à 2018.
+L’indice 100 est associé aux immatriculations de l’année 2012.
+Année 2012 2013 2014 2015 2016 2017 2018
+Indice 100 107,4 110,5 116,9 122,3 121,1 123,9
+Les questions 8., 9. et 10. exploitent les données de ce tableau.
+
+Énoncé
+
+Réponse
+
+8.
+
+Quel calcul permet de déterminer le taux d’évolution du
+nombre d’immatriculations de voitures entre 2014 et
+2016 (on ne donnera pas le résultat du calcul mais
+seulement l’opération) ?
+
+9.
+
+Le nombre d’immatriculations de voitures augmentera de
+9 % entre 2012 et 2025. Quel sera l’indice en 2025 de ce
+nombre d’immatriculations ?
+
+10.
+
+En 2012, 100 000 voitures ont été immatriculées.
+Combien de voitures ont été immatriculées en 2016 ?
+
+PARTIE II
+Calculatrice autorisée
+Cette partie est composée de trois exercices indépendants.
+EXERCICE 2 (5 points)
+Soit un cube 𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻 représenté en perspective cavalière sur l’annexe, à rendre
+avec la copie.
+On suppose que les points 𝑃, 𝑄 et 𝑆 sont définis de la manière suivante :
+⃗⃗⃗⃗⃗
+𝐸𝑃 = 4 ⃗⃗⃗⃗⃗⃗
+𝐸𝐻 ; ⃗⃗⃗⃗⃗
+𝐸𝑄 = 4 ⃗⃗⃗⃗⃗
+𝐸𝐹 et ⃗⃗⃗⃗⃗
+𝐵𝑆 = 4 ⃗⃗⃗⃗⃗
+𝐵𝐶
+On cherche à construire la section du cube par le plan (𝑃𝑄𝑆).
+La section du cube par le plan (𝑃𝑄𝑆) coupe [𝐹𝐵] en son milieu 𝑅.
+On a représenté, en annexe, une partie de la section constituée des segments [𝑃𝑄],
+[𝑄𝑅] et [𝑅𝑆].
+Les constructions des questions 1. et 3. sont à réaliser sur l’annexe.
+1. Placer le point 𝑇 intersection du plan (𝑃𝑄𝑆) et de la droite (𝐶𝐷).
+On justifiera la construction.
+2. On admet que ⃗⃗⃗⃗⃗
+𝐷𝑇 = 4 ⃗⃗⃗⃗⃗
+𝐷𝐶 .
+Montrer que 𝑃𝑄 = 𝑇𝑆 et en déduire que le quadrilatère 𝑃𝑄𝑆𝑇 est un
+parallélogramme.
+
+3. Achever la construction de la section puis hachurer le polygone.
+On suppose que le cube a pour arête 8 cm. On considère le repère orthonormé
+(𝐴 ; 𝑖, ⃗𝑗, ⃗⃗⃗𝑘 ) de l’espace, d’origine 𝐴 et d’unité 1 cm, tel que :
+𝑖 = 8 ⃗⃗⃗⃗⃗
+𝐴𝐵 ; 𝑗 = 8 ⃗⃗⃗⃗⃗
+𝐴𝐷 et ⃗𝑘 = 8 ⃗⃗⃗⃗⃗
+𝐴𝐸 .
+Ainsi, dans ce repère le point 𝑃 a pour coordonnées (0 ; 6 ; 8), le point 𝑄 a pour
+coordonnées (6 ; 0 ; 8) et le point 𝑆 a pour coordonnées (8 ; 2 ; 0).
+4. Vérifier que 𝑃𝑆 = 12 cm.
+5. On admet que le quadrilatère 𝑃𝑄𝑆𝑇 est un carré et que 𝑄𝑅 = 𝑅𝑆 = √20 cm.
+Construire sur la copie, en vraie grandeur, la section du cube par le plan (𝑃𝑄𝑆).
+
+Exercice 3 : (5 points)
+Un mobile se déplace sur une droite graduée en mètre.
+Son abscisse 𝑝(𝑡) sur cette droite graduée (exprimée en mètre) en fonction du temps
+écoulé 𝑡 (exprimé en minute) depuis le départ est donnée par :
+𝑝(𝑡) = 0,25𝑡 2 − 𝑡 − 3.
+1. Quelle est la position du mobile à l’instant 𝑡 = 0 min (c’est-à-dire au début du
+mouvement), puis à l’instant 𝑡 = 2 min ?
+2. La courbe représentative de la fonction 𝑝 est tracée ci-dessous.
+Position du mobile (en m)
+
+Temps (en min)
+
+-
+
+-2
+À l’aide de cette courbe, répondre aux questions suivantes :
+a. Déterminer à quel(s) instant(s) le mobile est à la position −3.
+b. Quelle est la vitesse moyenne du mobile (exprimée en m.min -1) entre les
+instants 𝑡 = 6 min et 𝑡 = 8 min ?
+3. a. Montrer que, pour tout réel 𝑡 ≥ 0, 𝑝(𝑡) = 0,25(𝑡 − 6)(𝑡 + 2).
+b. À l’aide du tableau de signes de 𝑝 sur [0 ; +∞[, déterminer à quels instants le
+mobile a une abscisse positive ou nulle.
+
+Exercice 4 : (5 points)
+Lors d’une opération de promotions exceptionnelles d’un grand magasin de
+bricolage, on s’intéresse aux ventes de deux articles particuliers du rayon « Outillage
+motorisé » : une meuleuse et une scie sauteuse.
+Pendant cette période de promotions, une enquête réalisée sur 300 clients de ce
+magasin montre que :
+ 63 clients ont acheté une meuleuse ;
+ 80 clients ont acheté une scie sauteuse ;
+ 5 % des clients ayant acheté une scie sauteuse ont aussi acheté une meuleuse.
+Chaque client a acheté au plus une scie sauteuse et au plus une meuleuse.
+1. Compléter le tableau croisé d’effectifs fourni en annexe, à rendre avec la copie.
+2. Quel est le pourcentage de clients ayant acheté une meuleuse ?
+3. L’affirmation suivante est-elle vraie : « Au moins 2 % des clients ont acheté les
+deux outils (meuleuse et scie sauteuse) » ? Justifier.
+4. On choisit au hasard un client de l’enquête.
+̅ l’événement
+On note 𝑀 l’événement « Le client a acheté une meuleuse » et 𝑀
+contraire.
+On note 𝑆 l’événement « Le client a acheté une scie sauteuse » et 𝑆̅ l’événement
+contraire.
+a. Calculer 𝑃𝑀 (𝑆). On arrondira à 10−3 près.
+b. Calculer 𝑃(𝑆̅ ∩ 𝑀). On arrondira à 10−3 près.
+
+Annexe
+à rendre avec la copie
+
+Exercice 2
+Questions 1. et 3.
+𝑃
+
+𝐸
+
+𝐻
+
+𝑄
+𝐹
+
+𝐺
+𝐴
+
+𝐷
+
+𝑅
+
+𝐵
+
+𝑆
+
+𝐶
+
+Exercice 4
+Question 1.
+ayant acheté une
+meuleuse
+
+n’ayant pas acheté
+de meuleuse
+
+Total
+
+ayant acheté une
+scie sauteuse
+n’ayant pas acheté
+de scie sauteuse
+Total
