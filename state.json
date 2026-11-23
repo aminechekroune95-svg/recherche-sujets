@@ -1,19 +1,18 @@
 {
- "last_run": "2026-11-23T10:26:51+00:00",
+ "last_run": "2026-11-23T11:39:43+00:00",
  "list_pages": 8000,
  "subjects": 12924,
- "with_text": 6973,
- "remaining": 5948,
+ "with_text": 7004,
+ "remaining": 5917,
  "run": {
-  "fiches": 6041,
-  "textes": 6037,
-  "octets": 6264685428,
-  "ocr": 14,
-  "sans_pdf": 2,
-  "erreur": 2
+  "fiches": 38,
+  "erreur": 9,
+  "ocr": 30,
+  "textes": 31,
+  "octets": 71379797
  },
  "http": {
-  "200": 12080
+  "200": 78
  },
- "minutes": 75.7
+ "minutes": 71.1
 }
