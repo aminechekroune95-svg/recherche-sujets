@@ -103,13 +103,14 @@ jobs:
 
   relaunch:
     needs: [collect, deploy]
-    if: ${{ !cancelled() && needs.collect.result == 'success' && needs.collect.outputs.remaining != '' && needs.collect.outputs.remaining != '0' && fromJSON(inputs.chain || '0') < 10 }}
+    if: ${{ !cancelled() && needs.collect.result == 'success' && needs.collect.outputs.remaining != '' && needs.collect.outputs.remaining != '0' && fromJSON(inputs.chain || '0') < 15 }}
     runs-on: ubuntu-latest
     steps:
+      # Relances courtes (70 min) : le site est republié après chacune, il se remplit au fur et à mesure.
       - name: Continuer la lecture des PDF restants
         env:
           GH_TOKEN: ${{ github.token }}
         run: >
           gh workflow run site.yml -R "${{ github.repository }}" --ref main
-          -f collect=true -f skip_lists=true -f minutes=300
+          -f collect=true -f skip_lists=true -f minutes=70
           -f chain=$(( ${{ inputs.chain || '0' }} + 1 ))
