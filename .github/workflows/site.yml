@@ -32,15 +32,15 @@ permissions:
   id-token: write
   actions: write
 
-concurrency:
-  group: collecte-et-site
-  cancel-in-progress: false
-
 jobs:
   collect:
     if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.collect)
     runs-on: ubuntu-latest
     timeout-minutes: 345
+    # une seule collecte à la fois ; une modification du site se publie sans attendre la collecte
+    concurrency:
+      group: collecte
+      cancel-in-progress: false
     outputs:
       remaining: ${{ steps.crawl.outputs.remaining }}
     steps:
@@ -85,11 +85,16 @@ jobs:
     needs: collect
     if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
+    concurrency:
+      group: publication
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main # toujours la dernière version du site, même pour une collecte lancée plus tôt
       - uses: actions/checkout@v4
         with:
           ref: data

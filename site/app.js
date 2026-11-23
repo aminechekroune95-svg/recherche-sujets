@@ -14,7 +14,7 @@ const ORDER = {
 const DESC = new Set(["annee", "banque"]);
 const BASKET_KEY = "recherche-sujets:selection:v1";
 
-const state = { q: "", filters: {}, sort: "", results: [], shown: 0, token: 0 };
+const state = { q: "", filters: {}, sort: "", results: [], shown: 0, token: 0, exact: new Set() };
 let pf = null;
 let allFilters = {};
 
@@ -138,13 +138,25 @@ async function run() {
     const [k, dir] = state.sort.split(":");
     opts.sort = { [k]: dir };
   } else if (!effective) opts.sort = { annee: "desc" };
-  const search = terms.length && !effective ? { results: [], filters: null, totalFilters: null } : await pf.search(effective || null, opts);
+  // Plusieurs mots : les sujets qui contiennent l'expression exacte (« suite géométrique ») passent devant
+  // ceux qui contiennent seulement les mots séparés (« géométrie plane », « suites numériques »).
+  const kept = terms.filter((_, i) => found[i]);
+  const plain = kept.filter((t) => !t.startsWith('"'));
+  const doPhrase = !state.sort && plain.length >= 2 && plain.length === kept.length;
+  const [search, phrase] = await Promise.all([
+    terms.length && !effective ? { results: [], filters: null, totalFilters: null } : pf.search(effective || null, opts),
+    doPhrase ? pf.search(`"${plain.join(" ")}"`, opts) : null,
+  ]);
   if (token !== state.token) return;
-  state.results = search.results;
+  const exact = phrase?.results || [];
+  state.exact = new Set(exact.map((r) => r.id));
+  state.results = [...exact, ...search.results.filter((r) => !state.exact.has(r.id))];
   state.shown = 0;
   ui.results.replaceChildren();
-  const n = search.results.length;
-  ui.total.textContent = n ? `${nf.format(n)} sujet${n > 1 ? "s" : ""}` : "Aucun sujet";
+  const n = state.results.length;
+  ui.total.textContent = n
+    ? `${nf.format(n)} sujet${n > 1 ? "s" : ""}${exact.length ? `, dont ${nf.format(exact.length)} avec l'expression exacte` : ""}`
+    : "Aucun sujet";
   if (missing.length) {
     const where = Object.keys(filters).length ? " avec ces filtres" : "";
     const list = missing.map((m) => `« ${esc(m)} »`).join(", ");
@@ -194,7 +206,7 @@ async function renderMore() {
   const datas = await Promise.all(slice.map((r) => r.data()));
   if (token !== state.token) return;
   const frag = document.createDocumentFragment();
-  for (const d of datas) frag.append(card(d));
+  datas.forEach((d, i) => frag.append(card(d, state.exact?.has(slice[i].id))));
   ui.results.append(frag);
   state.shown += slice.length;
   const left = state.results.length - state.shown;
@@ -214,7 +226,7 @@ function parseParts(m) {
   try { return JSON.parse(m.parts || "[]"); } catch { return []; }
 }
 
-function card(d) {
+function card(d, exact = false) {
   const m = d.meta;
   const art = document.createElement("article");
   art.className = "res";
@@ -230,6 +242,7 @@ function card(d) {
       }).join("")}</ul>`
     : "";
   const notes = [];
+  if (exact) notes.push(`<li class="ok">Expression exacte</li>`);
   if (m.corrige === "Oui") notes.push(`<li class="ok">Corrigé disponible</li>`);
   else if (m.corrige === "Autre version") notes.push(`<li>Corrigé d'une autre version</li>`);
   if (m.calc) notes.push(`<li>Calculatrice ${esc(m.calc.toLowerCase())}</li>`);
