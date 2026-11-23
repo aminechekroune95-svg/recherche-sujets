@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Recherche de sujets BNS : bac blanc et DST</title>
+<meta name="description" content="Cherche une notion (suite récurrente, titrage, guerre froide…) dans le texte des sujets de la Banque nationale de sujets, toutes matières, pour composer un bac blanc ou un DST.">
+<meta name="theme-color" content="#1d3faf">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23fff'/%3E%3Cpath d='M0 8h32M0 16h32M0 24h32' stroke='%23b9c5ee'/%3E%3Cpath d='M9 0v32' stroke='%23d7263d' stroke-width='2'/%3E%3Ccircle cx='19' cy='15' r='6' fill='none' stroke='%231d3faf' stroke-width='3'/%3E%3Cpath d='M23.5 19.5l5 5' stroke='%231d3faf' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="copie">
+  <div class="copie__inner">
+    <h1>Trouve un sujet pour ton bac blanc ou ton DST</h1>
+    <p class="intro" id="stats">Cherche une notion dans le texte des sujets de la Banque nationale de sujets, toutes matières.</p>
+    <form class="search" role="search" id="search-form" autocomplete="off">
+      <label for="q" class="sr-only">Notion ou mots à chercher</label>
+      <input id="q" name="q" type="search" inputmode="search" enterkeyhint="search" spellcheck="false"
+             placeholder="suite récurrente, titrage, guerre froide…">
+      <button type="submit" class="search__go" aria-label="Lancer la recherche">
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.4"/><path d="M15.5 15.5l5 5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
+    </form>
+    <div class="examples" id="examples" aria-label="Exemples de recherche">
+      <button type="button" data-q="suite récurrente">suite récurrente</button>
+      <button type="button" data-q="graphe">graphe</button>
+      <button type="button" data-q="loi binomiale">loi binomiale</button>
+      <button type="button" data-q="dérivée tangente">dérivée tangente</button>
+      <button type="button" data-q="titrage">titrage</button>
+      <button type="button" data-q="guerre froide">guerre froide</button>
+      <button type="button" data-q="photosynthèse">photosynthèse</button>
+      <button type="button" data-q="chômage">chômage</button>
+    </div>
+  </div>
+</header>
+
+<main class="page">
+  <section class="filters" aria-label="Filtres">
+    <div class="filters__main">
+      <label class="field"><span>Matière</span><select data-filter="matiere"><option value="">Toutes</option></select></label>
+      <label class="field"><span>Niveau</span><select data-filter="niveau"><option value="">Tous</option></select></label>
+      <label class="field"><span>Voie</span><select data-filter="voie"><option value="">Toutes</option></select></label>
+    </div>
+    <details class="filters__more" id="more">
+      <summary>Plus de filtres <span class="count" id="more-count"></span></summary>
+      <div class="filters__grid">
+        <label class="field"><span>Thème, exercice ou axe</span><select data-filter="theme"><option value="">Tous</option></select></label>
+        <label class="field"><span>Année du sujet</span><select data-filter="annee"><option value="">Toutes</option></select></label>
+        <label class="field"><span>Langue</span><select data-filter="langue"><option value="">Toutes</option></select></label>
+        <label class="field"><span>Corrigé</span><select data-filter="corrige"><option value="">Peu importe</option></select></label>
+        <label class="field"><span>Calculatrice</span><select data-filter="calculatrice"><option value="">Peu importe</option></select></label>
+        <label class="field"><span>Présent dans la banque</span><select data-filter="banque"><option value="">Toutes</option></select></label>
+      </div>
+      <button type="button" class="linkish" id="reset">Effacer les filtres</button>
+    </details>
+  </section>
+
+  <div class="toolbar">
+    <p class="total" id="total" aria-live="polite"></p>
+    <label class="sort"><span class="sr-only">Trier</span>
+      <select id="sort">
+        <option value="">Plus pertinents</option>
+        <option value="annee:desc">Plus récents</option>
+        <option value="annee:asc">Plus anciens</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="results" class="results"></div>
+  <div class="more"><button type="button" id="load-more" class="btn" hidden>Afficher 20 sujets de plus</button></div>
+
+  <section class="help" id="help">
+    <h2>Comment chercher</h2>
+    <ul>
+      <li>Tous les mots tapés doivent apparaître dans le sujet : <q>suite graphe</q> donne les sujets qui parlent des deux.</li>
+      <li>Accents, majuscules et pluriels ne comptent pas : <q>recurrence</q> trouve <q>récurrence</q>, <q>suites</q> trouve <q>suite</q>.</li>
+      <li>Le début d'un mot suffit : <q>géom</q> trouve <q>géométrique</q> et <q>géométrie</q>.</li>
+      <li>Des guillemets cherchent l'expression exacte : <q>"graphe probabiliste"</q>.</li>
+      <li>Sans mot, choisis juste une matière et un niveau pour parcourir tous les sujets.</li>
+    </ul>
+    <p>Pour composer un devoir, ajoute des sujets à ta sélection : tu peux ensuite copier la liste avec les liens des PDF.</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>Sujets : ministère de l'Éducation nationale, <a href="https://www.education.gouv.fr/reussir-au-lycee/la-banque-nationale-de-sujets-470525">Banque nationale de sujets</a>, sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/fr/">CC BY-NC-SA 3.0 FR</a>. Fichiers PDF et fiches hébergés par <a href="https://ccbac.fr/">ccbac.fr</a>.</p>
+  <p>Site non officiel et non commercial. Le texte des PDF est extrait automatiquement : les formules mathématiques peuvent y être mal découpées. <a href="https://github.com/aminechekroune95-svg/recherche-sujets">Code source</a>.</p>
+</footer>
+
+<div class="basket" id="basket" hidden>
+  <button type="button" class="basket__open" id="basket-open">Ma sélection <span id="basket-n">0</span></button>
+</div>
+
+<dialog id="basket-dialog" class="sheet" aria-labelledby="basket-title">
+  <form method="dialog" class="sheet__head">
+    <h2 id="basket-title">Ma sélection</h2>
+    <button class="linkish" value="close">Fermer</button>
+  </form>
+  <ol id="basket-list" class="basket__list"></ol>
+  <div class="sheet__actions">
+    <button type="button" class="btn btn--primary" id="basket-copy">Copier la liste</button>
+    <button type="button" class="btn" id="basket-download">Télécharger (.txt)</button>
+    <button type="button" class="linkish danger" id="basket-clear">Vider la sélection</button>
+  </div>
+  <p class="sheet__note" id="basket-note" role="status"></p>
+</dialog>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

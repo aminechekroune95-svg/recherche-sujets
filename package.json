@@ -1,0 +1,14 @@
+{
+  "name": "recherche-sujets",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Moteur de recherche plein texte des sujets de la Banque nationale de sujets (BNS)",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs --data data --out dist"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "pagefind": "^1.6.0"
+  }
+}
