@@ -103,16 +103,18 @@ function columnLabels(headers, ncols) {
 function pageContext(page) {
   const p = page.params || {};
   const crumbs = (page.crumbs || []).map(clean);
-  let code = p.mat && /^\d+$/.test(p.mat) ? Number(p.mat) : null;
+  let code = null;
   let matIdx = -1;
   crumbs.forEach((c, i) => {
-    if (MAT_CODE_BY_LABEL[c] !== undefined) {
+    if (MAT_CODE_BY_LABEL[c] !== undefined && matIdx < 0) {
       matIdx = i;
-      code ??= MAT_CODE_BY_LABEL[c];
+      code = MAT_CODE_BY_LABEL[c];
     }
   });
+  if (code === null && p.mat && /^\d+$/.test(p.mat)) code = Number(p.mat);
   const banque = crumbs.find((c) => /^(É|E)val\s*\d{4}|^EC\s*\d{4}|^E3C\s*\d{4}/i.test(c)) || (p.an ? `Éval ${p.an}` : "");
-  const voie = VOIE[p.voie] || (crumbs.find((c) => /^Voie /i.test(c)) || "").replace(/^Voie\s+/i, "");
+  const vc = crumbs.find((c) => /^Voie /i.test(c)) || "";
+  const voie = /techno/i.test(vc) ? "Technologique" : /g[ée]n[ée]rale/i.test(vc) ? "Générale" : VOIE[p.voie] || "";
   const niveau = NIVEAU[p.session] || crumbs.find((c) => /^(Première|Terminale|Cycle terminal)$/i.test(c)) || "";
   const option = matIdx >= 0 ? crumbs.slice(matIdx + 1).filter((c) => !/^(Sujets?|Autre)$/i.test(c))[0] || "" : "";
   return { code, banque: banque.replace(/^Eval/i, "Éval"), voie, niveau, option };
@@ -129,6 +131,13 @@ function interpretRow(cells, labels) {
     }
     if (!vals.length) return;
     const label = known ? labels[i] : "";
+    if (i > 0) {
+      const badges = vals.filter((v) => /^(Correction|Autre)$/i.test(v));
+      if (badges.length && badges.length < vals.length) {
+        out.corr.push(...badges.map((b) => (/^c/i.test(b) ? "Oui" : "Autre")));
+        for (let k = vals.length - 1; k >= 0; k--) if (/^(Correction|Autre|calculatrice)$/i.test(vals[k])) vals.splice(k, 1);
+      }
+    }
     const txt = vals.join(" ");
     if (i === 0 || /^N°|^N\b|^Num/i.test(label)) {
       if (!out.num) {
@@ -324,9 +333,17 @@ async function main() {
     let parts = dp.parts.map((p) => ({ n: clean(p.n), t: clean(p.t), th: uniq(p.th.map(clean)) }));
     let themes = uniq(parts.flatMap((p) => p.th));
     if (!themes.length) themes = uniq(listInfo.themes);
-    const exoCols = listInfo.cols.filter((c) => /^Exo/i.test(c.label));
-    if (!parts.length && exoCols.length) {
-      parts = exoCols.map((c) => ({ n: c.label.replace(/\s*Th[èe]me\s*/i, "").replace(/^Exo\s*(\d)/i, "Exercice $1").trim(), t: "", th: c.vals }));
+    if (!parts.length) {
+      const byExo = new Map();
+      for (const c of listInfo.cols) {
+        const m = c.label.match(/^Exo\s*(\d+)/i);
+        if (!m) continue;
+        const p = byExo.get(m[1]) || { n: `Exercice ${m[1]}`, t: "", th: [] };
+        if (/Titre/i.test(c.label)) p.t = c.vals.join(" ");
+        else if (!/Corrig/i.test(c.label)) p.th.push(...c.vals);
+        byExo.set(m[1], p);
+      }
+      parts = [...byExo.values()];
     }
     if (LANG_CODES.has(code) || matiere === "Langues vivantes") {
       themes = themes.map((t) => {

@@ -193,13 +193,12 @@ def parse_list(html: bytes, url: str):
 
 
 def mat_code_of(page: dict) -> int | None:
-    m = page["params"].get("mat")
-    if m and m.isdigit():
-        return int(m)
+    # le fil d'Ariane prime : ccbac affiche HG quand la combinaison demandée n'existe pas
     for c in page.get("crumbs", []):
         if c in MAT_LABELS:
             return MAT_LABELS[c]
-    return None
+    m = page["params"].get("mat")
+    return int(m) if m and m.isdigit() else None
 
 
 def crawl_lists(f: Fetcher, data: Path, max_pages: int, workers: int):
